@@ -9,9 +9,9 @@
     * [Markdown基础语法结构](markdown/01.Markdown的11种基本语法)
 * **Bash**
     * [Bash的介绍](bash/001.bash的介绍)
-    * [Bash的介绍](bash/002.gitbash-command)
-    * [Bash的介绍](bash/003.gitbash)
-    * [Bash的介绍](bash/004.ssh-agent)
+    * [gitbash-command](bash/002.gitbash-command)
+    * [gitbash](bash/003.gitbash)
+    * [ssh-agent](bash/004.ssh-agent)
 * **Webpack**
     * [什么是webpack](webpack/01.什么是webpack)
     * [webpack的安装](webpack/02.webpack的安装)
