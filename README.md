@@ -1,1 +1,1 @@
-# mecat.github.io
+# mecat.github.io/blog
