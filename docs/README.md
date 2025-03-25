@@ -1,7 +1,7 @@
 * [**首页**](README)
 * **collection**
     * [我的博客网站](guide)
-    * [readme](collection/001.readme)
+    * [readme](collection/000.readme)
     * [我收集的博客](collection/001.我收集的博客)
     * [创作网站收藏](collection/002.创作网站收藏)
     * [2024](collection/003.2024)
