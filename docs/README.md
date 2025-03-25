@@ -1,11 +1,12 @@
 * [**首页**](README)
-* **website-collect**
+* **collection**
     * [我的博客网站](guide)
-    * [我收集的博客](website-collect/001.我收集的博客)
-    * [创作网站收藏](website-collect/002.创作网站收藏)
-    * [2024](website-collect/003.2024)
-    * [2025.03](website-collect/004.2025_03.md)
-    * [music](website-collect/005.music.md)
+    * [readme](collection/001.readme)
+    * [我收集的博客](collection/001.我收集的博客)
+    * [创作网站收藏](collection/002.创作网站收藏)
+    * [2024](collection/003.2024)
+    * [2025.03](collection/004.2025_03)
+    * [music](collection/005.music)
 * **Markdown**
     * [Markdown基础语法结构](markdown/01.Markdown的11种基本语法)
 * **Bash**

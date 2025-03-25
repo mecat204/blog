@@ -1,19 +1,20 @@
 <!-- docs/_sidebar.md -->
 * [**首页**](README)
-* **website-collect**
-    * [我收集的博客](website-collect/001.我收集的博客)
-    * [创作网站收藏](website-collect/002.创作网站收藏)
-    * [2024](website-collect/003.2024)
-    * [2025.03](website-collect/004.2025_03.md)
-    * [music](website-collect/005.music.md)
+* **collection**
+    * [readme](collection/001.readme)
+    * [我收集的博客](collection/001.我收集的博客)
+    * [创作网站收藏](collection/002.创作网站收藏)
+    * [2024](collection/003.2024)
+    * [2025.03](collection/004.2025_03)
+    * [music](collection/005.music)
 
 * **Markdown**
-    * [Markdown基础语法结构](markdown/01.Markdown的11种基本语法.md)
+    * [Markdown基础语法结构](markdown/01.Markdown的11种基本语法)
 * **Bash**
     * [Bash的介绍](bash/001.bash的介绍)
-    * [gitbash-command](bash/002.gitbash-command.md)
-    * [gitbash](bash/003.gitbash.md)
-    * [ssh-agent](bash/004.ssh-agent.md)
+    * [gitbash-command](bash/002.gitbash-command)
+    * [gitbash](bash/003.gitbash)
+    * [ssh-agent](bash/004.ssh-agent)
 * **Webpack**
     * [什么是webpack](webpack/01.什么是webpack)
     * [webpack的安装](webpack/02.webpack的安装)
