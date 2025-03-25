@@ -2,12 +2,9 @@
 * [**首页**](README)
 * **collection**
     * [readme](collection/000.readme)
-    * [我收集的博客](collection/001.我收集的博客)
-    * [创作网站收藏](collection/002.创作网站收藏)
-    * [2024](collection/003.2024)
-    * [2025.03](collection/004.2025_03)
-    * [music](collection/005.music)
-
+    * [2024](collection/001.2024)
+    * [2025.03](collection/002.2025_03)
+    * [music](collection/003.music)
 * **Markdown**
     * [Markdown基础语法结构](markdown/01.Markdown的11种基本语法)
 * **Bash**
