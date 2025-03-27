@@ -1,7 +1,6 @@
 <!-- docs/guide.md -->
-* [首页](README)
+* [**首页**](README)
 * **collection**
-    * [我的博客网站](guide)
     * [readme](collection/000.readme)
     * [2024](collection/001.2024)
     * [2025.03](collection/002.2025_03)
@@ -13,7 +12,8 @@
     * [gitbash-command](bash/002.gitbash-command)
     * [gitbash](bash/003.gitbash)
     * [ssh-agent](bash/004.ssh-agent)
-* **Webpack**
-    * [什么是webpack](webpack/01.什么是webpack)
-    * [webpack的安装](webpack/02.webpack的安装)
-    * [webpack的配置](webpack/03.webpack的配置)
+* **古诗词**
+    * [唐诗·宋词](古诗词/001.古文)
+* **千集录**
+    * [哲理](千集录/001.哲理)
+    * [千思集](千集录/002.千思集)

@@ -12,15 +12,11 @@
     * [gitbash-command](bash/002.gitbash-command)
     * [gitbash](bash/003.gitbash)
     * [ssh-agent](bash/004.ssh-agent)
-* **Webpack**
-    * [什么是webpack](webpack/01.什么是webpack)
-    * [webpack的安装](webpack/02.webpack的安装)
-    * [webpack的配置](webpack/03.webpack的配置)
 * **古诗词**
     * [唐诗·宋词](古诗词/001.古文)
-
-* **句子控**
-    * [哲理](句子控/001.哲理)
+* **千集录**
+    * [哲理](千集录/001.哲理)
+    * [千思集](千集录/002.千思集)
 
     <!--扩展  -->
 <!-- * **古诗词**
