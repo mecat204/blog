@@ -1,10 +1,11 @@
 <!-- docs/_sidebar.md -->
 * [**首页**](README)
 * **collection**
-    * [readme](collection/000.readme)
-    * [2024](collection/001.2024)
-    * [2025.03](collection/002.2025_03)
-    * [music](collection/003.music)
+    * [readme](collection/readme)
+    * [music](collection/music)
+    * [2024](collection/2024)
+    * [2025.03](collection/2025_03)
+    * [2025.04](collection/2025_04)
 * **Markdown**
     * [Markdown基础语法结构](markdown/01.Markdown的11种基本语法)
 * **Bash**
