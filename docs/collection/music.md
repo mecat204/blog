@@ -87,5 +87,8 @@
   - [Gryffin - New Blood](https://www.youtube.com/watch?v=x0KgyCrkSUM&list=PL7MBpdD11UonZ5k2rYHYah4LsOt-dkfbY&index=5)
   - [Someone To You](https://www.youtube.com/watch?v=rLwWFj9yzsQ&list=PL7MBpdD11UonZ5k2rYHYah4LsOt-dkfbY&index=6)
   - [Let Me Down Slowly - 米小怂kelly ( Cover)](https://www.youtube.com/watch?v=EQYMk8a4Ceo&list=PL7MBpdD11UonZ5k2rYHYah4LsOt-dkfbY&index=8)
+1. [华策音乐HUACE MUSIC·长歌行](https://www.youtube.com/watch?v=4fnEXD-TGyE&list=RDBUCrWnWo4H4&index=3)
+1. [SNH48 China](https://www.youtube.com/watch?v=6gFUB9eDFD0&list=RD6gFUB9eDFD0&start_radio=1&rv=6gFUB9eDFD0)
+1. [Classical Stars](https://www.youtube.com/watch?v=IYd1-cPwQCk)
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
