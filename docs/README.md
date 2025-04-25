@@ -2,7 +2,8 @@
 * **collection**
     * [readme](collection/readme)
     * [music](collection/music)
-    * [chattts](collection/chattts.md)
+    * [chattts](collection/chattts)
+    * [record](collection/record)
     * [2024](collection/2024)
     * [2025.03](collection/2025_03)
     * [2025.04](collection/2025_04)

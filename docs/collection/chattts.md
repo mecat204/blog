@@ -84,5 +84,17 @@
 ### 20. Neuro-sama
 1. [Neuro-sama](https://www.youtube.com/channel/UCLHmLrj4pHHg3-iBJn_CqxA)
 ---
+### 21. markdown
+1. [海报生成器](https://md.hi-dhl.com/)
+1. [excalidraw](https://akams.cn/excalidraw/)
+1. [melo-libs](https://github.com/melo-libs/melo-lite-release)
+---
+### 22. 导航
+1. [简约导航](https://www.jianavi.com/)
+---
+### 23. AI
+1. [海螺ai](https://hailuoai.video/)
+1. [styleai](https://styleai.art/zh)
+---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/124efecdc67bfec6e7041b7ab7f0516a_916342339906101518.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
 
