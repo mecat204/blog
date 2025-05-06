@@ -1,6 +1,7 @@
 ### program
 1. IT咖啡馆
   - [Github一周热点](https://v.douyin.com/Q5XXQWuH7WA/)
+  - [AI智能体](https://v.douyin.com/TmVsqumVXA4/)
 1. codex - OpenAI的轻量级编程智能体
 1. animejs - 前端动画库
 1. [animejs](https://animejs.com/)
