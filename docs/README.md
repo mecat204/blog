@@ -8,6 +8,8 @@
     * [2025.03](collection/2025_03)
     * [2025.04](collection/2025_04)
     * [2025.05](collection/2025_05)
+* **技术指南**
+    * [NPM](技术指南/npm安装)
 * **Markdown**
     * [Markdown基础语法结构](markdown/01.Markdown的11种基本语法)
 * **Bash**
