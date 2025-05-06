@@ -7,14 +7,14 @@ $ npm config get proxy
 null
 
 user@DESKTOP-SFEF080 MINGW64 ~/Desktop
-$ npm config set proxy http://127.0.0.1:10808
+$ npm config set proxy http://127.0.0.1:10506
 
 user@DESKTOP-SFEF080 MINGW64 ~/Desktop
-$ npm config set https-proxy http://127.0.0.1:10808
+$ npm config set https-proxy http://127.0.0.1:10506
 
 user@DESKTOP-SFEF080 MINGW64 ~/Desktop
 $ npm config get proxy
-http://127.0.0.1:10808
+http://127.0.0.1:10506
 
 user@DESKTOP-SFEF080 MINGW64 ~/Desktop
 $
