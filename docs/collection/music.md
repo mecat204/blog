@@ -57,6 +57,7 @@
 ### 4. proxy·music
 1. [星际穿越·Interstellar](https://www.youtube.com/watch?v=8kooIgKESYE)
 1. [星际穿越·对接](https://www.youtube.com/watch?v=QIumIjSpC3Q)
+1. [Hans Zimmer-Interstellar](https://www.youtube.com/watch?v=5gO0xpY_Y3E)
 1. [雁回时-原声带](https://www.youtube.com/watch?v=JGUKxkR5cRQ)
 1. [浮光](https://www.youtube.com/watch?v=cYNXh9AkvMg)
 1. [Kim Zhang -主题](https://www.youtube.com/channel/UCLKWPLjHRL5UD8-Gngm46ew)
