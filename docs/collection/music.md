@@ -93,5 +93,10 @@
 1. [华策音乐HUACE MUSIC·长歌行](https://www.youtube.com/watch?v=4fnEXD-TGyE&list=RDBUCrWnWo4H4&index=3)
 1. [SNH48 China](https://www.youtube.com/watch?v=6gFUB9eDFD0&list=RD6gFUB9eDFD0&start_radio=1&rv=6gFUB9eDFD0)
 1. [Classical Stars](https://www.youtube.com/watch?v=IYd1-cPwQCk)
+1. [仙鹤情缘](https://www.youtube.com/watch?v=2plhbkGv5qw)
+1. [80,90歌曲](https://www.youtube.com/watch?v=he_VdjWUiWQ)
+1. [华语乐坛20年](https://mecat204.github.io/website/music/netease-80.html)
+1. [轻音乐-看书学习](https://mecat204.github.io/website/music/music.html)
+1. [音乐集](https://mecat204.github.io/website/music/index.html)
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)

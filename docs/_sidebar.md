@@ -3,6 +3,8 @@
 * **collection**
     * [readme](collection/readme)
     * [music](collection/music)
+    * [轻音乐](collection/轻音乐)
+    * [华语乐坛](collection/华语乐坛)
     * [chattts](collection/chattts)
     * [record](collection/record)
     * [2024](collection/2024)
