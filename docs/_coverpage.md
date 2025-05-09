@@ -2,7 +2,7 @@
 
 ![logo](https://docsify.js.org/_media/icon.svg)
 
-# docsify-我的知识总结 <small>3.5</small>
+# docsify-极境知源 <small>3.5</small>
 
 > 一个神奇的文档网站生成器。
 
