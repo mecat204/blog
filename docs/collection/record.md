@@ -61,6 +61,9 @@
 1. 代号界
 1. 奥日与黑暗森林
 1. 奥日与萤火意志
+### Humva AI
+1. [Create Realistic AI Avatar Videos with Humva](https://www.youtube.com/watch?v=Yts9ZuwXNMQ)
+1. [Discover Humva AI: Where Cutting-Edge Technology Meets Avatar Creation](https://www.youtube.com/watch?v=sF_E9r0JeMQ)
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
 
