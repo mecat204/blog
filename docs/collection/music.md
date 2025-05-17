@@ -98,5 +98,22 @@
 1. [华语乐坛20年](https://mecat204.github.io/website/music/netease-80.html)
 1. [轻音乐-看书学习](https://mecat204.github.io/website/music/music.html)
 1. [音乐集](https://mecat204.github.io/website/music/index.html)
+### 5. tv.music
+1. 长歌行
+  - [光的方向-张碧晨](https://www.youtube.com/watch?v=cwdmC6mqO1w)
+1. 长月烬明
+  - [OST合集](https://www.youtube.com/watch?v=xcFpsXzV6jo)
+1. 墨雨云间
+  - [芳菲落尽梨花白](https://www.youtube.com/watch?v=QiwvWNMhPb4)
+  - [原声带专辑](https://www.youtube.com/watch?v=m7At3pnTb80&t=247s)
+  - [一世聪明-崔格子](https://www.youtube.com/watch?v=ty4TTcO-lXw)
+  - [当归](https://www.youtube.com/watch?v=Hnyb-PqAiNQ)
+1. 香蜜沉沉烬如霜
+  - [不染-毛不易](https://www.youtube.com/watch?v=dDV36GmFP20)
+  - [左手指月-萨顶顶](https://www.youtube.com/watch?v=AbiMe64zeGM)
+1. 哪吒
+  - [时光的摇晃-窝窝](https://www.youtube.com/watch?v=iSiu23Jyz4o)
+1. 长安十二时辰
+  - [长安十二时辰OST](https://www.youtube.com/watch?v=JH-3KFtOf6s&list=PLGOZmHa7O-aESFChpX-hoPK2KlHhvOKyE)
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
