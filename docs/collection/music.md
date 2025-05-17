@@ -98,6 +98,7 @@
 1. [华语乐坛20年](https://mecat204.github.io/website/music/netease-80.html)
 1. [轻音乐-看书学习](https://mecat204.github.io/website/music/music.html)
 1. [音乐集](https://mecat204.github.io/website/music/index.html)
+1. [落笔成殇-张紫宁](https://www.youtube.com/watch?v=Kfd49eOq8-4)
 ---
 ### 5. tv.music
 1. 长歌行
@@ -115,6 +116,7 @@
 1. 哪吒
   - [时光的摇晃-窝窝](https://www.youtube.com/watch?v=iSiu23Jyz4o)
 1. 长安十二时辰
+  - [清平乐·紫宁](https://www.youtube.com/watch?v=qFbvigJTXLs)
   - [长安十二时辰OST](https://www.youtube.com/watch?v=JH-3KFtOf6s&list=PLGOZmHa7O-aESFChpX-hoPK2KlHhvOKyE)
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
