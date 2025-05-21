@@ -119,4 +119,7 @@
   - [清平乐·紫宁](https://www.youtube.com/watch?v=qFbvigJTXLs)
   - [长安十二时辰OST](https://www.youtube.com/watch?v=JH-3KFtOf6s&list=PLGOZmHa7O-aESFChpX-hoPK2KlHhvOKyE)
 ---
+### 6. music.app
+1. [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer/releases)
+---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
