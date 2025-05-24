@@ -73,10 +73,11 @@
 1. [云旅游](https://funes.world/models/?ref=home_menu#EasternStatePenitentiary)
 ---
 ### 全球地震数据
-1. [全球地震数据](https://seismic-explore.concord.org)
+1. [全球地震数据](https://seismic-explorer.concord.org)
 ---
 ### 全球气象数据
 1. [全球气象数据](https://earth.nullschool.net/)
+1. [ventusky](https://www.ventusky.com/)
 ---
 ### 梵蒂冈教堂
 1. [梵蒂冈教堂](https://virtual.basilicasanpietro.va/en/basilica-viewer/st-peters-square)
