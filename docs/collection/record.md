@@ -61,9 +61,32 @@
 1. 代号界
 1. 奥日与黑暗森林
 1. 奥日与萤火意志
+---
 ### Humva AI
 1. [Create Realistic AI Avatar Videos with Humva](https://www.youtube.com/watch?v=Yts9ZuwXNMQ)
 1. [Discover Humva AI: Where Cutting-Edge Technology Meets Avatar Creation](https://www.youtube.com/watch?v=sF_E9r0JeMQ)
+---
+### 医学
+1. [biodigital](https://human.biodigital.com/login?returnUrl=/explore)
+---
+### 3d体验世界各地神奇建筑
+1. [云旅游](https://funes.world/models/?ref=home_menu#EasternStatePenitentiary)
+---
+### 全球地震数据
+1. [全球地震数据](https://seismic-explore.concord.org)
+---
+### 全球气象数据
+1. [全球气象数据](https://earth.nullschool.net/)
+---
+### 梵蒂冈教堂
+1. [梵蒂冈教堂](https://virtual.basilicasanpietro.va/en/basilica-viewer/st-peters-square)
+---
+### 浏览器插件
+1. [豆瓣电影](https://movie.douban.com/top250)
+1. [36kr.com](https://36kr.com)
+1. Instant Data Scraper | 浏览器插件
+1. [octoparse](https://octoparse.com)
+1. [八爪鱼采集器](https://bazhuayu.com)
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
 
