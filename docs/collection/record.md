@@ -78,6 +78,7 @@
 ### 全球气象数据
 1. [全球气象数据](https://earth.nullschool.net/)
 1. [ventusky](https://www.ventusky.com/)
+1. [windy.com](https://windy.com)
 ---
 ### 梵蒂冈教堂
 1. [梵蒂冈教堂](https://virtual.basilicasanpietro.va/en/basilica-viewer/st-peters-square)
@@ -88,6 +89,12 @@
 1. Instant Data Scraper | 浏览器插件
 1. [octoparse](https://octoparse.com)
 1. [八爪鱼采集器](https://bazhuayu.com)
+---
+### Course
+1. [classcentral](https://www.classcentral.com/)
+---
+### News
+1. [minimalist](https://www.newsminimalist.com/)
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
 
