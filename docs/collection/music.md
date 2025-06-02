@@ -1,4 +1,4 @@
-### 1. music·movie
+### 01. music·movie
 1. [Hans Zimmer - Time](https://www.youtube.com/watch?v=c56t7upa8Bk)
 1. [INTERSTELLAR - Main Theme](https://www.youtube.com/watch?v=LFNjzUCgZPc)
 1. [Lindsey Stirling - Crystallize](https://www.youtube.com/watch?v=C8md6yJkUY4)
@@ -24,10 +24,10 @@
   - 10:16 Tides of a Melody
   - 13:19 Whispers of the Tide
 ---
-### 2. music-site
+### 02. music-site
 1. [unminus](https://www.unminus.com/)
 ---
-### 3. 战曲
+### 03. 战曲
 1. Immortals
 1. Ashina deva
 1. Nijamena 印度
@@ -54,7 +54,7 @@
 1. Gravity 2013地心引力Gravity
   - https://www.youtube.com/watch?v=BzPYvrGWJgA
 ---
-### 4. proxy·music
+### 04. proxy·music
 1. [星际穿越·Interstellar](https://www.youtube.com/watch?v=8kooIgKESYE)
 1. [星际穿越·对接](https://www.youtube.com/watch?v=QIumIjSpC3Q)
 1. [Hans Zimmer-Interstellar](https://www.youtube.com/watch?v=5gO0xpY_Y3E)
@@ -100,7 +100,7 @@
 1. [音乐集](https://mecat204.github.io/website/music/index.html)
 1. [落笔成殇-张紫宁](https://www.youtube.com/watch?v=Kfd49eOq8-4)
 ---
-### 5. tv.music
+### 05. tv.music
 1. 长歌行
   - [光的方向-张碧晨](https://www.youtube.com/watch?v=cwdmC6mqO1w)
 1. 长月烬明
@@ -119,7 +119,11 @@
   - [清平乐·紫宁](https://www.youtube.com/watch?v=qFbvigJTXLs)
   - [长安十二时辰OST](https://www.youtube.com/watch?v=JH-3KFtOf6s&list=PLGOZmHa7O-aESFChpX-hoPK2KlHhvOKyE)
 ---
-### 6. music.app
+### 06. music.app
 1. [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer/releases)
+---
+### 07. genshin impact
+1. 一根葱
+  - [原神交响乐](https://v.douyin.com/bUTuNkg6uI4/)
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
