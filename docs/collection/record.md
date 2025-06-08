@@ -1,4 +1,4 @@
-### program
+### 01. program
 1. IT咖啡馆
   - [Github一周热点](https://v.douyin.com/Q5XXQWuH7WA/)
   - [AI智能体](https://v.douyin.com/TmVsqumVXA4/)
@@ -14,14 +14,14 @@
 1. [easyVoice](https://github.com/cosin2077/easyVoice)
 1. [文本转语音](https://easyvoice.ioplus.tech/generate)
 ---
-### English
+### 02. English
 1. [keke](https://kekenet.com)
 ---
-### book
+### 03. book·备忘
 1. 人工智能指数报告2025 Artificial Intelligence Index Report 2025
 1. 概率机器学习 Probalilistic Machine Learning
 ---
-### 哲学
+### 04. 哲学
 1. [十里梧桐-读书](https://v.douyin.com/ev-Y_QsiMNU/)
 1. 万时
   - 哲学就是一个比较笼统的概念:就是研究万事万物。
@@ -32,12 +32,12 @@
     建立一个解决问题的系统方法论
     3.引导人们思想实践，也就是实践法。
 ---
-### 黑科技
+### 05. 黑科技
 1. [黑人黑科技](https://v.douyin.com/_rWbTftP7G0/)
   - 拓竹3D打印机
   - 拓竹H2D
 ---
-### AI工具箱
+### 06. AI工具箱
 1. [AI工具箱导航](https://promptchoose.com/)
 1. [5个好用的Github开源PDF阅读器推荐](https://promptchoose.com/ai-tools/github-open-source-pdf-reader/)
   - [koodo-reader](https://github.com/koodo-reader/koodo-reader)
@@ -46,54 +46,54 @@
   - [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF)
   - [readthedocs](https://about.readthedocs.com/)
 ---
-### 文章摘录
+### 07. 文章摘录
 1. 36Kr
   - [帮助孩子戒断AI](https://www.36kr.com/p/3259829834923785)
   - [对 ChatGPT 说:谢谢](https://www.36kr.com/p/3259665580814593)
 1. 人人都是产品经理
   - [AI时代，牛马的结局终将是被抛弃](https://www.woshipm.com/ai/6207607.html)
 ---
-### AI TTS
+### 08. AI TTS
 1. [AICodeKing](https://www.youtube.com/watch?v=OyrS-lX_sLk)
 1. [Minimax.io](https://minimax.io/audio)
 ---
-### 4.18.game
+### 09. Game
 1. 代号界
 1. 奥日与黑暗森林
 1. 奥日与萤火意志
 ---
-### Humva AI
+### 10. Humva AI
 1. [Create Realistic AI Avatar Videos with Humva](https://www.youtube.com/watch?v=Yts9ZuwXNMQ)
 1. [Discover Humva AI: Where Cutting-Edge Technology Meets Avatar Creation](https://www.youtube.com/watch?v=sF_E9r0JeMQ)
 ---
-### 医学
+### 11. 医学
 1. [biodigital](https://human.biodigital.com/login?returnUrl=/explore)
 ---
-### 3d体验世界各地神奇建筑
+### 12. 3d体验世界各地神奇建筑
 1. [云旅游](https://funes.world/models/?ref=home_menu#EasternStatePenitentiary)
 ---
-### 全球地震数据
+### 13. 全球地震数据
 1. [全球地震数据](https://seismic-explorer.concord.org)
 ---
-### 全球气象数据
+### 14. 全球气象数据
 1. [全球气象数据](https://earth.nullschool.net/)
 1. [ventusky](https://www.ventusky.com/)
 1. [windy.com](https://windy.com)
 ---
-### 梵蒂冈教堂
+### 15. 梵蒂冈教堂
 1. [梵蒂冈教堂](https://virtual.basilicasanpietro.va/en/basilica-viewer/st-peters-square)
 ---
-### 浏览器插件
+### 16. 浏览器插件
 1. [豆瓣电影](https://movie.douban.com/top250)
 1. [36kr.com](https://36kr.com)
 1. Instant Data Scraper | 浏览器插件
 1. [octoparse](https://octoparse.com)
 1. [八爪鱼采集器](https://bazhuayu.com)
 ---
-### Course
+### 17. Course
 1. [classcentral](https://www.classcentral.com/)
 ---
-### News
+### 18. News
 1. [minimalist](https://www.newsminimalist.com/)
 1. [今日热榜](https://tophub.today/)
 ---
