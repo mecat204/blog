@@ -39,7 +39,7 @@
 ---
 ### 11. AI美图
 * [dlpanda](https://dlpanda.com/zh-CN)
-* [AI造梦师_橙子·原神]
+* [AI造梦师_橙子·原神](https://v.douyin.com/vZXWU2cnB8E/)
   - [神里凌华](https://v.douyin.com/Hx6KMemJYUc/)
   - [芙宁娜](https://v.douyin.com/fqArK1hNP7k/)
   - [七七](https://v.douyin.com/dlMGK8AuN_8/)
