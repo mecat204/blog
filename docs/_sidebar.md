@@ -14,6 +14,7 @@
     * [2025.06](collection/2025_06)
 * **code_snippet**
     * [frontend](code_snippet/frontend)
+    * [python](code_snippet/python)
 * **技术指南**
     * [npm安装](技术指南/npm安装)
     * [技术](技术指南/技术)
