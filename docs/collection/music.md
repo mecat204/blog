@@ -134,6 +134,8 @@
 ### 09. douyin·music
 * [你的歌单](https://v.douyin.com/I3cagT5BM90/)
   - [时间的摇晃·窝窝](https://v.douyin.com/UhUtkRYmSf8/)
+* [𝐆𝐍𝐀𝐑](https://v.douyin.com/r-NztBNUTsI/)
+  - [励志](https://v.douyin.com/-jFJFrPSS3M/)
 ---
 ### 10. 奇幻世界
 * [奇幻世界](https://v.douyin.com/GhGCXGPvl58/)
