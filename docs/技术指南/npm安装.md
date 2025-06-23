@@ -127,7 +127,7 @@ npm 用来安装“别的包”（不是它自己）
   - 可以不全局安装 create-react-app，更轻量。
 ---
 
-### 03. **详解 npx create-react-app myapp**
+### 03. 详解 npx create-react-app myapp
 
 ``` bash
 npx create-react-app myapp
