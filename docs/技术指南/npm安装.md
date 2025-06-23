@@ -28,9 +28,10 @@ npm cache  clean --force
 ``` bash
 rm -rf node_modules package-lock.json
 npm install
-
 ```
+
 4. 切换国内镜像源(如果你在国内)
+
 ``` bash
 npm config set registry https://registry.npmmirror.com
 npm install
@@ -40,13 +41,23 @@ npm install
   ``` bash
   npm install -g npm
   ```
+
 6. 使用pnpm或yarn替代安装
   - 比如用pnpm
   ``` bash
   npm install -g pnpm
   pnpm install
   ```
-  ---
+7. 增加 Git 缓存区大小
+``` bash
+git config --global http.postBuffer 524288000
+```
+- 设置为 500MB，大大提升 Git 传输能力（默认才 1MB）
+8. 使用 --depth=1 做浅克隆（只克隆最近一次提交）
+``` bash
+git clone --depth=1 https://github.com/jaywcjlove/reference.git
+```
+---
   ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
 
 
