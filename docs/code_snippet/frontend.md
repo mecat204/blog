@@ -440,7 +440,208 @@ alert(str.split('').join(',').length); //17
     <ul></ul>
 </body>
 </html>
+```
 
+---
+### 10. div的显示和隐藏与block的关系
+``` html
+<!doctype html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>div的显示和隐藏与block的关系</title>
+    <style type="text/css">
+        #div1 {
+            width: 200px;
+            height: 200px;
+            background: #ccc;
+        }
+    </style>
+    <script>
+        window.onload = function (){
+            var oBtn1 = document.getElementById('show_btn');
+            var oBtn2 = document.getElementById('hide_btn');
+            var oDiv1 = document.getElementById('div1');
+
+            oBtn1.onclick = function (){
+                oDiv1.style.display = 'block';
+                oDiv1.style.background = 'yellow';
+                oDiv1.style.width = '300px';
+            }
+
+            oBtn2.onclick = function () {
+                oDiv1.style.display = 'none';
+            }
+        }
+    </script>
+</head>
+<body>
+    <input id = "show_btn" type="button" value="显示">
+    <input id = "hide_btn" type="button" value="隐藏">
+    <div id = "div1" style = "display:"></div>
+</body>
+</html>
+```
+### 11. div 与 span
+``` html
+<!doctype html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>div 与 span</title>
+    <style type="text/css">
+    div {
+        background-color: black;
+        color: white;
+        height: 2em;
+        margin: 2px; /* margin 表示边距 */
+    }
+    .inline_disp {
+        display: inline; /* 改变div显示方式 */
+    }
+    .block_disp {
+        display: block; /* 改变span显示方式 */
+        height: 2em;
+        background-color: rgb(200, 200, 200);
+        margin: 2px;
+    }
+    </style>
+</head>
+<body>
+    <div id = "d1">这是div1</div>
+    <div id = "d1">这是div2</div>
+    <span di = "s1">这是span1</span>
+    <span di = "s2">这是span2</span>
+    <div id = "d3" class = "inline_disp">这是div3</div>
+    <div id = "d4" class = "inline_disp">这是div4</div>
+    <span id = "s3" class = "block_disp">这是span3,在使用CSS排版的页面中div标记和span标记是两个常用的标记，利用这两个标记，加上CSS对其样式的控制，可以很方便地实现各种效果。</span>
+    <span id = "s4" class = "block_disp">这是span4,在使用CSS排版的页面中div标记和span标记是两个常用的标记，利用这两个标记，加上CSS对其样式的控制，可以很方便地实现各种效果。</span>
+</body>
+</html>
+```
+---
+### 12. 备注点
+* document.getElementById
+``` javascript
+// document.getElementById('ul')中不能使用ul,而应该在<ul id = "lsit"></ul>中使用list等替代值
+```
+
+* join() 单字合并
+``` html
+<!doctype html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>join() 单字合并</title>
+    <style type="text/css">
+    div {
+        width: 200px;
+        height: 200px;
+        border: 1px solid #333;
+        background: #fff;
+        padding: 20px;
+        line-height: 40px;
+        margin-bottom: 10px;
+    }
+    span {
+        padding: 5px 15px;
+        font-family: 微软雅黑;
+    }
+    </style>
+</head>
+<body>
+    <div id = "div1">
+    <!--
+    <span style = "background: #ffc ">
+    文
+    </span>
+    <span style = "background: #cc3 ">
+    字
+    </span>
+    <span style = "background: #6fc">
+    内
+    </span>
+    <span style = "background: #9c9">
+    容
+    </span>
+    -->
+    </div>
+    <input type = "text">
+    <input type = "button" value = "按钮">
+    <script>
+        var oDiv = document.getElementById("div1");
+        var aInp = document.getElementsByTagName("input");
+        var arrColor = ['#fcc', '#cc3', '#6fc', '#9c9'];
+
+        aInp[1].onclick = function() {
+            var str = aInp[0].value;
+            var arr = str.split('');
+
+            for(var i = 0; i < arr.length; i++) {
+                arr[i] = '<span style = "background:'+ arrColor[i %     arrColor.length]+';">'+arr[i]+'</span>';
+            }
+            oDiv.innerHTML += arr.join('');
+        }
+    </script>
+</body>
+</html>
+```
+
+---
+### 13. json
+
+* json1
+
+``` javascript
+/*
+var json = {name: 'leo', age: 32};
+alert(json.name);  //leo
+
+var arrUrl = ['images/01.png', 'images/02.png', 'images/03.png', 'images/04.png'];
+var arrText = ['灵宠', '图片二', '图片三', '面具'];
+var imgData = {
+    url: ['images/01.png', 'images/02.png', 'images/03.png', 'images/04.png'],
+    text: ['灵宠', '图片二', '图片三', '面具']
+};
+alert(imgData.url[2])  //images/03.png
+*/
+
+/*
+var json2 = {name: 'miaov'};
+alert(json2.name)  // miaov
+
+var json2 = {'name': 'miaov'};
+alert(json2['name']);
+// json2.name = '妙味';
+json2['name'] = '妙味';
+alert(json2['name']); //妙味
+*/
+
+/*
+var json3 = {abc: 123, xyz: ''};
+var arr = [
+    {'name': 'TM', 'age': 23},
+    {'name': 'leo', 'age': 32},
+];
+alert(arr[0].name + '今年有' + arr[1]['age'])
+*/
+
+/*
+var json4 = {'name':'miaov', 'age':'3', 'fun':'coding'};
+for(var attr in json4) {
+    alert(attr) // name age fun
+    alert(json4[attr]); //miaov 3 coding
+}
+*/
+
+/*
+var json5 = {
+    url: ['images/01.png', 'images/02.png', 'images/03.png', 'images/04.png'],
+    text: ['灵宠', '图片二', '图片三', '面具']
+}
+for(var attr in json5){
+    for (var i = 0; i < json5[attr].length; i++) {
+        alert(json5[attr][i]);
+    }
+}
+*/
 ```
 
 ---
