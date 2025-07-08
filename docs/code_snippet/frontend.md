@@ -645,4 +645,268 @@ for(var attr in json5){
 ```
 
 ---
+### 14. html中的属性操作
+* 1-js中html中的属性操作1,2
+
+``` javascript
+<!doctype html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>1-js中html中的属性操作1，2</title>
+<!--
+HTML属性操作：读 | 写
+  属性名
+  属性值
+  属性读操作： 获取、找到
+  元素.属性名
+字符串链接
+  属性的写操作： ("添加") 替换、修改
+  元素.属性名 = 新的值
+-->
+<script>
+window.onload = function (){
+    var oBtn = document.getElementById('btn1')
+    var oText = document.getElementById('text1')
+    var oSelect = document.getElementById('select1');
+
+    oBtn.onclick = function (){
+        //alert(oBtn.type);
+        //alert(oText.value);
+        //alert(oSelect.value);
+
+        //'淘宝' + '在' + '杭州' => '淘宝在杭州'
+        alert(oText.value + '在' + oSelect.value)
+    }
+}
+</script>
+</head>
+<body>
+  <input id = "text1" type = "text">
+  <select id ="select1">
+    <option value = "北京">北京</option>
+    <option value = "上海">上海</option>
+    <option value = "杭州">杭州</option>
+  </select>
+  <input id = "btn1" type = "button" value = "按钮">
+</body>
+</html>
+```
+---
+* 1-js中html中的属性操作3
+
+``` html
+<!doctype html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>1-js中html中的属性操作3</title>
+    <script>
+    window.onload = function (){
+        var oBtn = document.getElementById('btn1')
+        var oText = document.getElementById('text1')
+        var oSelect = document.getElementById('select1');
+        var oImg = document.getElementById('img1')
+
+        oBtn.onclick = function (){
+            //alert(oBtn.type);  button
+            //alert(oText.value);  按钮
+            //alert(oSelect.value); oSelect.value
+              oImg.src = oText.value;
+
+        }
+    }
+    </script>
+    </head>
+    <body>
+      <input id = "text1" type = "text">
+      <select id ="select1">
+        <option value = "北京">北京</option>
+        <option value = "上海">上海</option>
+        <option value = "杭州">杭州</option>
+      </select>
+    <input id = "btn1" type = "button" value = "按钮">
+    <img id = "img1" src = "img1.jpg" width = "300">
+    </body>
+    </html>
+```
+
+---
+### 15. some snippets
+* 设置图片的宽度和高度
+
+``` html
+<!doctype html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>设置图片的宽度和高度</title>
+    <style>
+        ul {
+            list-style-type: none;
+        }
+        li {
+            float: left;
+            padding: 0 20px;
+        }
+    </style>
+</head>
+<body>
+<center>
+  <h2 align = "center">设置图片的宽度和高度</h2>
+  <hr color = "#6600cc">
+  <ul>
+    <li><img src = "images/芙芙.png" alt="原图"></li>
+    <li><img src = "images/芙芙.png" width="100px" alt="宽度为100px"></li>
+    <li><img src = "images/芙芙.png" width="100px" height="50px" alt="宽75像素 高50像素"></li>
+  </ul>
+  <h3 align="center">设置图像的边框</h3>
+
+  <hr color = "#6600cc">
+  <ul>
+    <li><img src = "images/芙芙.png" alt="边框宽度为0px"></li>
+    <li><img src = "images/芙芙.png" width="100px" alt="边框宽度为5px" border="5px"></li>
+    <li><img src = "images/芙芙.png" width="100px" height="50px" alt="边框宽度为10px" border="10px"></li>
+  </ul>
+</center>
+</body>
+```
+
+* push unshift
+
+``` javascript
+var arr = [1, 2, 3];
+console.log(arr.push('abc')); // 4
+console.log(arr.length); // 3
+for(let i = 0; i < arr.length; i++){
+    console.log(arr[i]);
+}
+
+console.log(arr.unshift('hero'));  // 5
+console.log(arr);  // hero, 1, 2, 3, abc
+```
+
+---
+
+### 16. 时间
+* 倒计时
+  1. Date对象参数
+      - 数字形式: new Date(2025,7,8,13,05,00);
+      - 字符串形式: new Date('July 8,2025 13:05:00');
+  1. 月份取值
+      - January
+      - February
+      - March
+      - April
+      - May
+      - June
+      - July
+      - August
+      - September
+      - October
+      - November
+      - December
+  1. 时间转换公式
+      - 天: Math.floor(t/86400)
+      - 时: Math.floor(t%86400/3600)
+      - 分: Math.floor(t%86400%3600/60)
+      - 秒: Math.floor(t%60)
+  1. 时间戳: getTime()
+      - 返回从1970年1月1日0点0分0秒0毫秒
+
+* 倒计时实例
+
+``` javascript
+// 现在的时间点 (在变)
+// 未来的时间点 (不变)
+var iNow = new Date();
+var iNew = new Date(2100,7,8,13,20,00);
+
+var t = Math.floor((iNew - iNow)/1000);
+// 毫秒 -> 秒   Math.floor: 向下取整
+alert(t);
+
+var str = Math.floor(t/86400) + '天' + Math.floor(t%84600/3600) + '时' + Math.floor(t%86400%3600/60) + '分' + Math.floor(t%60) + '秒';
+
+alert(str);
+
+```
+---
+
+### 17. Jquery
+* **Jquery 设计思想**
+1. **选择网页元素**
+  - CSS选择器
+    * $(document) //选择整个文档对象
+    * $('#myId') //选择ID为myId的网页元素
+    * $('div.myClass')//选择class为myClass的div元素
+
+  - Jquery特有的表达式
+    * $('a:first') //选择网页中第一个a元素
+    * $('tr:odd') //选择表格的奇数行
+    * $('div:visible') //选择可见的div元素
+
+  - 实例:
+  ``` html
+  <!doctype html>
+  <head>
+    <meta charset="utf-8">
+    <title>jquery</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+  </head>
+  <body>
+    <ul>
+        <li>原神</li>
+        <li>丝科克</li>
+        <li>芙芙</li>
+        <li>美露莘</li>
+    </ul>
+    <script>
+        $('li:first').css('background','red');
+        $('ul li:last-child').css('background','pink');
+    </script>
+  </body>
+  </html>
+  ```
+2. **方法函数化**
+  - 方法函数化
+    * 原生的
+      - window.onload
+      - innerHTML
+      - onclick
+
+    * Jquery
+      - $()
+      - html()
+      - click()
+
+    * 实例
+
+    ``` javascript
+    /*
+    window.onload = function () {
+        var oDiv = document.getElementById("div1");
+        oDiv.onclick = function () {
+          alert(this.innerHTML);
+        }
+    }
+    */
+
+    $(function(){
+        $('#div1').click(function(){
+            alert( $(this).html() );
+        })
+    })
+
+    ```
+
+3. 原生与JQ
+  - 原生、JQ可以共存
+    * $("#div1").html()
+    * oDiv.innerHTML
+
+  - 原生、JQ不能混用
+    * $("div1").innerHTML
+    - oDiv.html()
+---
+
+
+---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
