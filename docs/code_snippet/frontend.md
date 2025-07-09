@@ -1123,16 +1123,14 @@ alert(str);
   - 实例:
 
   ``` javascript
-  /*
   $(function(){
     // $('li').css('background', 'pink');
 
     $('li').each(function(){ //第一个参数:索引； 第二个参数:所有获取的元素
       $(elements).html( index );
     });
-
   })
-  */
+
   window.onload = function(){
     var aLi = document.getElementsByTagName(
         'li');
@@ -1142,7 +1140,6 @@ alert(str);
     })
 
   }
-
   ```
 
 ---
