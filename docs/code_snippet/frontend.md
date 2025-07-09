@@ -1121,6 +1121,7 @@ alert(str);
     * $('div').each(function(){})
 
   - 实例:
+
   ``` javascript
   /*
   $(function(){
