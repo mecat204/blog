@@ -832,6 +832,7 @@ alert(str);
 
 ### 17. Jquery
 * **Jquery 设计思想**
+
 1. **选择网页元素**
   - CSS选择器
     * $(document) //选择整个文档对象
@@ -865,6 +866,7 @@ alert(str);
   </body>
   </html>
   ```
+---
 2. **方法函数化**
   - 方法函数化
     * 原生的
@@ -896,8 +898,8 @@ alert(str);
     })
 
     ```
-
-3. 原生与JQ
+---
+3. **原生与JQ**
   - 原生、JQ可以共存
     * $("#div1").html()
     * oDiv.innerHTML
@@ -905,7 +907,244 @@ alert(str);
   - 原生、JQ不能混用
     * $("div1").innerHTML
     - oDiv.html()
+
+  - 实例
+  ``` javascript
+  $(function(){
+    $('#div1').click(function()P{
+      // alert( $(this).html() ); //jq
+      // alert( this.innerHTML); //js
+      alert( $(this).innerHTML ); // 错误
+      alert( this.html() );  //错误
+
+    })
+  })
+
+  ```
 ---
+4. **改变结果集**
+  - 强大的过滤器
+    * $('div').has('p'); //选择包含p元素的div元素
+    * $('div').not('.myClass'); //选择class不等于myClass的div元素
+    * $('div').filter('.myClass'); //选择class等于myClass的div元素
+
+  - 相邻元素查找
+    * $('div').next('p'); // 选择div元素后面的第一个p元素
+    * $('div').parent(); // 选择div元素的父元素
+    * $('div').children(); // 选择div的所有子元素
+
+  - 实例1
+
+  ``` html
+  <!doctype html>
+  <head>
+    <meta charset="utf-8">
+    <title>改变结果集</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+    <script>
+        $(function(){
+            $('div').has('p').css('background', 'pink');
+        })
+    </script>
+  </head>
+  <body>
+    <div>
+        原神
+        <p>"原始之神"或"神之根源"</p>
+    </div>
+    <div>
+        Genshin Impact
+        <span></span>
+    </div>
+  </body>
+  </html>
+  ```
+
+  - 实例2:
+
+  ``` html
+  <!doctype html>
+  <head>
+    <meta charset="utf-8">
+    <title>改变结果集</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+    <script>
+        $(function(){
+            $('div').next('p').css('background', 'pink');
+
+        })
+    </script>
+  </head>
+  <body>
+    <div>书卷一梦</div>
+    <p>李一桐</p>
+
+    <div>智能Ai时代</div>
+    <span>ChatGPT</span>
+    <p>人工智能的时代的正式到来，以ChatGPT的横空出世为标志。</p>
+  </body>
+  </html>
+  ```
+
+---
+5. **链式操作**
+* 链式操作
+  - $('div').find('h3').eq(2).html('Hello');
+    * $('div') //找到div元素
+    * .find('h3') //选择其中的h3元素
+    * .eq(2) //选择第3个h3元素
+    * .html('Hello'); //将它的内容改为Hello
+
+  - jQuery还提供了.end()方法，使得结果集可以后退一步。
+
+  - 实例
+
+  ``` html
+  <!doctype html>
+  <head>
+    <meta charset="utf-8">
+    <title>改变结果集</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+    <script>
+        $(function(){
+            $('div').find('p').eq(3).css('background', 'pink');
+        })
+
+        /*
+        var oDiv = $('div');
+        var aP = oDiv.find('p');
+        var oP_3 = aH3.eq(2);
+        oP_3.css('background', 'pink');
+
+        $('div').find('p').eq(2).css('background', 'pink').end().eq(1).css('background', 'yellow');
+        */
+
+    </script>
+  </head>
+  <body>
+    <div>
+    <h3>回乡偶书 - 贺知章</h3>
+      <p>少小离家老大回</p>
+      <p>乡音无改鬓毛催</p>
+      <p>儿童相见不相识</p>
+      <p>笑问客从哪里来</p>
+    </div>
+  </body>
+  </html>
+  ```
+---
+6. **取值与赋值合体**
+  - $('h1').html(); //html()没有参数，表示取出h1的值
+  - $('h1').html('Hello'); //html()有参数Hello,表示对h1进行赋值
+
+  - .val()
+  - .attr()
+  -.width()
+
+  - 取值是一组中的第一个元素，赋值是所有的元素
+
+  - 实例
+
+  ``` html
+  <!doctype html>
+  <head>
+    <meta charset="utf-8">
+    <title>取值与赋值合体</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+    <script>
+    $(function(){
+        //alert( $('p').html() ); //取值： 一组中的第一个元素
+        // $('p').html('不知细叶谁裁出'); // 赋值： 一组中的所有元素。
+
+        $('h3').html('咏柳 - 贺知章')
+        $('p').html('碧玉妆成一树高'); // 赋值： 一组中的所有元素。
+        $('p').eq(0).html('碧玉妆成一树高');
+        $('p').eq(1).html('万条垂下绿丝绦');
+        $('p').eq(2).html('不知细叶谁裁出');
+        $('p').eq(3).html('二月春风似剪刀');
+
+    })
+    </script>
+  </head>
+  <body>
+    <div>
+    <h3>回乡偶书 - 贺知章</h3>
+      <p>少小离家老大回</p>
+      <p>乡音无改鬓毛催</p>
+      <p>儿童相见不相识</p>
+      <p>笑问客从哪里来</p>
+    </div>
+  </body>
+  </html>
+  ```
+---
+7. **元素移形换位**
+  - 直接移动该元素
+    * $('div').insertAfter($('p')); //把div元素移到p元素后面
+    * $('div').appendTo($('p'));
+
+  - 移动其他元素
+    * $('p').after($('div')); //把p元素加到div元素前面
+    * $('div').append($('p'));
+
+  - 区别: 操作的元素不同
+
+  ``` javascript
+  $(function(){
+    // $('div').insertAfter( $('p') );
+    // $('p').after( $('div') );
+    // $('div').insertAfter( $('p') ).css('background','red');
+
+    $('p').after($('div')).css('background','red');
+  })
+
+  ```
+---
+8. **强大的创建**
+
+``` javascript
+   $('#ul1').append('<li>aaa</li>');
+
+  // var oLi = $('<li>');
+  // oLi.html('aaaa');
+  // $('#ul1').append(oLi);
+
+  // clone()
+```
+---
+9. **工具方法**
+  - 构造函数上的方法
+    * $.each([],function(){})
+    * $.trim($('div').attr('class'))
+
+  - 原型上的方法
+    * $('div').each(function(){})
+
+  - 实例:
+  ``` javascript
+  /*
+  $(function(){
+    // $('li').css('background', 'pink');
+
+    $('li').each(function(){ //第一个参数:索引； 第二个参数:所有获取的元素
+      $(elements).html( index );
+    });
+
+  })
+  */
+  window.onload = function(){
+    var aLi = document.getElementsByTagName(
+        'li');
+
+    $.each(aLi,function(index, elements){
+      elements.innerHMTL = index;
+    })
+
+  }
+
+  ```
+---
+### 18. return 注意事项
 
 
 ---
