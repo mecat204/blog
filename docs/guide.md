@@ -17,8 +17,9 @@
     * [js_func](code_snippet/js_func)
     * [python](code_snippet/python)
 * **技术指南**
-    * [npm安装](技术指南/npm安装)
-    * [技术](技术指南/技术)
+    * [npm安装](Technical Guide/npm安装)
+    * [技术](Technical Guide/Technology)
+    * [git](Technical Guide/git)
 * **Markdown**
     * [Markdown基础语法结构](markdown/01.Markdown的11种基本语法)
 * **Bash**
