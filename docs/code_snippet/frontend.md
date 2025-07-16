@@ -1143,7 +1143,196 @@ alert(str);
   ```
 
 ---
-### 18. return 注意事项
+### 18. 函数
+* **return**
+  - 实例1: 报错，说明网页环境有特殊限制。尝试在 空标签页 (about:blank) 中新建 Snippet 执行，或在无痕窗口测试。
+
+  ``` javascript
+  function fn1(n){
+      const arr = [];
+      for (let i = 1; i <= n; i++){
+          arr.push(i);
+      }
+      return arr;
+  }
+
+  console.log(fn1(5));  // [1, 2, 3, 4, 5]
+  console.log(fn1(7));  // [1, 2, 3, 4, 5, 6, 7]
+
+  console.log(fn4 ());
+  function fn4 (){
+      return;  //默认返回值为未定义
+  }
+
+  console.log(fn5());
+  function fn5 () {
+      return 123; //弹出123，后面的521不出现.
+    alert(521); //alert(521)在return后面故此无法弹  出。
+  }
+  alert(520); //alert(520)在函数外面，和return无关。
+
+  /*
+  return的注意事项：
+  1. 函数名 + 括号： fn1 () ==> return 后面的值；
+  2. 所有函数默认值返回值： 未定义
+a) 解析：在 JavaScript 中，每个函数在默认情况下都会返回一个特殊值 undefined（未定义），除非你显式地使  用 return 语句指定其他返回值。
+b) 当函数内部没有 return 语句时，JavaScript 引擎会  自动在函数末尾添加 return undefined
+c) undefined 是 JavaScript 原始类型之一，表示"无值"  的状态，与 null（空值）不同。
+  3. return后面任何代码都不执行。
+  */
+
+  ```
+* **箭头函数**
+  - 遍历数组
+
+  ``` javascript
+  [1, 2, 3].forEach(item => {
+      console.log(item)
+  })
+  ```
+
+  - 遍历数组进行幂运算
+
+  ``` javascript
+  [1, 2, 3, 4, 5, 6, 7, 8, 9].forEach(n =>{
+      console.log(n ** 3); //或者
+      console.log(Math.pow(n, 3));
+  })
+
+  // 优先使用下面的方法
+  const logCube = n => console.log(n ** 3);
+  [1, 2, 3].forEach(logCube);
+
+  // 注意运算符优先级
+  console.log(n ** 3); //等价于
+  console.log(n * n * n)
+
+  ```
+---
+* script标签的注意事项
+  - 实例
+
+  ``` html
+  <!doctype html>
+  <head>
+    <meta http-equiv = "Content-Type" content = "text/html"; charset = "utf-8">
+    <title>script标签的注意事项</title>
+    <script>
+    //alert(detectNum('123aaa456')); // 检测 '123aaa456'中是否包含数字
+
+    window.onload = function () {
+        var aInp = document.getElementsByTagName('input');
+
+        aInp[1].onclick = function () {
+            var val = aInp[0].value;
+            if (detectNum(val)){
+                alert('恭喜,' + val + '全是数字')
+            }else{
+                alert('输入有误');
+            }
+        }
+
+        function detectNum(str) {
+            var n = 0;
+            for (var i = 0; i < str.length; i++) {
+                n = str.charCodeAt(i);
+                if(n < 48 || n > 57) return false;
+            }
+                  return true;
+        }
+    }
+
+    // script标签在head标签里面时，要用window.onload函数包裹。在body里面则不需要。
+    </script>
+  </head>
+  <body>
+    <input type="text">
+    <input type="button" value="按钮">
+  </body>
+  <html>
+  ```
+
+* **shake 左摇右摆|过时代码**
+  - shake
+
+  ``` javascript
+  // getStyle
+  function getStyle(obj, attr) {
+      return obj.currentStyle ?  obj.currentStyle[attr] : getComputedStyle(obj, false)[attr];
+  }
+
+  function shake(obj, attr, endFn) {
+    var pos = parseInt(getStyle(obj, attr));
+    var arr = [];
+    var num = 0;
+    var timer = null;
+
+    for (var i = 20; i > 0; i -= 2) {
+        arr.push(i, -i);
+    }
+    arr.push(0);
+    //alert(arr);
+
+    clearInterval(obj.shake);
+    obj.shake = setInterval(function(){
+        obj.style[attr] = pos + arr[num] + 'px';
+        num++;
+        if(num === arr.length) {
+            clearInterval(obj.shake);
+            endFn && endFn();
+        }
+    },50)
+  }
+
+  function fnshake() {
+    var _this = this;
+    shake(_this, 'left', function(){
+        shake(_this,'top');
+    })
+  }
+// 技术的终极目标不是制造焦虑，而是拓展人类可能性边界。
+  ```
+
+* **sort排序问题的应用**
+  - sort
+  - 实例
+
+  ``` javascript
+  var arr = ['c', 'd', 'a', 'e'];
+  arr.sort();
+  console.log(arr);
+
+  var arr2 = [4, 3, 2, 23, 43, 57, 908, 32, 39, 47, 83, 65];
+  arr2.sort(function(a, b){
+    return a - b;
+  })
+  console.log(arr2); //正序
+
+  arr2.sort(function(a, b){
+    return b - a;
+  })
+  console.log(arr2); //倒序
+
+  var arrWidth = ['345px', '23px', '10px', '1000px'];
+  /*
+  arrWidth.sort(function(a, b){
+    return parseInt(a, 10) - pareseInt(b, 10);
+  })
+  */
+  // 排序逻辑优化(箭头函数简化)
+
+  arrWidth.sort((a, b) => parseInt(a, 10) - parseInt(b, 10))
+  console.log(arrWidth);
+  /*
+    方案1：Number() 转换
+arrWidth.sort((a, b) => Number(a.slice(0, -2)) - Number(b.slice(0, -2)));
+
+    方案2：一元运算符（更简洁）
+arrWidth.sort((a, b) => +a.slice(0, -2) - +b.slice(0, -2));
+  */
+
+
+  ```
 
 
 ---
