@@ -13,7 +13,7 @@
     * [2025.06](collection/2025_06)
 * **code_snippet**
     * [frontend](code_snippet/frontend)
-    * [js函数](code_snippet/JS函数)
+    * [JS函数](code_snippet/JS函数)
     * [python](code_snippet/python)
 * **技术指南**
     * [npm安装](技术指南/npm安装)
