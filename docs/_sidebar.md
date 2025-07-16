@@ -16,7 +16,7 @@
     * [frontend](code_snippet/frontend)
     * [js_func](code_snippet/js_func)
     * [python](code_snippet/python)
-* **技术指南**
+* **Technical_Guide**
     * [npm安装](Technical_Guide/npm安装)
     * [技术](Technical_Guide/Technology)
     * [git](Technical_Guide/git)
