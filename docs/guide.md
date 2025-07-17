@@ -12,6 +12,7 @@
     * [2025.04](collection/2025_04)
     * [2025.05](collection/2025_05)
     * [2025.06](collection/2025_06)
+    * [2025.07](collection/2025_07)
 * **code_snippet**
     * [frontend](code_snippet/frontend)
     * [js_func](code_snippet/js_func)
@@ -33,3 +34,4 @@
     * [哲理](千集录/001.哲理)
     * [千思集](千集录/002.千思集)
     * [心法](千集录/003.心法)
+    * [摘录](千集录/004.摘录)
