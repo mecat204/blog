@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>极境知源</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Description" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+
+  <!-- Theme: Simple -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css" />
+  <link rel="stylesheet" href="https://unpkg.com/docsify-copy-code@2/styles.css" />
+
+  <!-- Prism 样式和行号插件 -->
+  <link rel="stylesheet" href="https://unpkg.com/prismjs/themes/prism.css" />
+  <link rel="stylesheet" href="https://unpkg.com/prismjs/plugins/line-numbers/prism-line-numbers.css" />
+</head>
+<body>
+  <div id="app"></div>
+
+  <script>
+    window.$docsify = {
+      name: '',
+      repo: '',
+      loadSidebar: true,
+      subMaxLevel: 3,
+      loadNavbar: true,
+      coverpage: true,
+      onlyCover: false, // 修改为 false，显示文档内容
+      copyCode: {
+        buttonText: 'copy',
+        successText: 'success',
+        errorText: ''
+      },
+      markdown: {
+        renderer: {
+          code: function (code, lang) {
+            const language = lang && Prism.languages[lang] ? lang : 'markup';
+            const hl = Prism.highlight(code, Prism.languages[language], language);
+            return `<pre class="line-numbers language-${language}"><code>${hl}</code></pre>`;
+          }
+        }
+      }
+    };
+  </script>
+
+  <!-- Prism 核心和语言包 -->
+  <script src="https://unpkg.com/prismjs/components/prism-core.min.js"></script>
+  <script src="https://unpkg.com/prismjs/components/prism-markup.min.js"></script>
+  <script src="https://unpkg.com/prismjs/components/prism-javascript.min.js"></script>
+
+  <!-- Prism 行号插件 -->
+  <script src="https://unpkg.com/prismjs/plugins/line-numbers/prism-line-numbers.js"></script>
+
+  <!-- Docsify 插件 -->
+  <script src="https://unpkg.com/docsify-copy-code@2"></script>
+
+  <!-- Docsify 主库 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
+</body>
+</html>

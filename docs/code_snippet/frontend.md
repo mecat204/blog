@@ -24,9 +24,10 @@ for(var i = 1; i <= 9; i++){
 }
 ---
 ### 02. 3D相册
+* 3D相册实例
 
 ``` html
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
@@ -445,7 +446,8 @@ alert(str.split('').join(',').length); //17
 ---
 ### 10. div的显示和隐藏与block的关系
 ``` html
-<!doctype html>
+<!DOCTYPE html>
+<html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>div的显示和隐藏与block的关系</title>
@@ -483,7 +485,8 @@ alert(str.split('').join(',').length); //17
 ```
 ### 11. div 与 span
 ``` html
-<!doctype html>
+<!DOCTYPE html>
+<html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>div 与 span</title>
@@ -526,7 +529,8 @@ alert(str.split('').join(',').length); //17
 
 * join() 单字合并
 ``` html
-<!doctype html>
+<!DOCTYPE html>
+<html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>join() 单字合并</title>
@@ -649,7 +653,8 @@ for(var attr in json5){
 * 1-js中html中的属性操作1,2
 
 ``` javascript
-<!doctype html>
+<!DOCTYPE html>
+<html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>1-js中html中的属性操作1，2</title>
@@ -695,7 +700,8 @@ window.onload = function (){
 * 1-js中html中的属性操作3
 
 ``` html
-<!doctype html>
+<!DOCTYPE html>
+<html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>1-js中html中的属性操作3</title>
@@ -734,7 +740,8 @@ window.onload = function (){
 * 设置图片的宽度和高度
 
 ``` html
-<!doctype html>
+<!DOCTYPE html>
+<html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>设置图片的宽度和高度</title>
@@ -846,7 +853,8 @@ alert(str);
 
   - 实例:
   ``` html
-  <!doctype html>
+  <!DOCTYPE html>
+  <html>
   <head>
     <meta charset="utf-8">
     <title>jquery</title>
@@ -936,7 +944,8 @@ alert(str);
   - 实例1
 
   ``` html
-  <!doctype html>
+  <!DOCTYPE html>
+  <html>
   <head>
     <meta charset="utf-8">
     <title>改变结果集</title>
@@ -963,7 +972,8 @@ alert(str);
   - 实例2:
 
   ``` html
-  <!doctype html>
+  <!DOCTYPE html>
+  <html>
   <head>
     <meta charset="utf-8">
     <title>改变结果集</title>
@@ -1000,7 +1010,8 @@ alert(str);
   - 实例
 
   ``` html
-  <!doctype html>
+  <!DOCTYPE html>
+  <html>
   <head>
     <meta charset="utf-8">
     <title>改变结果集</title>
@@ -1046,7 +1057,8 @@ alert(str);
   - 实例
 
   ``` html
-  <!doctype html>
+  <!DOCTYPE html>
+  <html>
   <head>
     <meta charset="utf-8">
     <title>取值与赋值合体</title>
@@ -1213,7 +1225,8 @@ c) undefined 是 JavaScript 原始类型之一，表示"无值"  的状态，与
   - 实例
 
   ``` html
-  <!doctype html>
+  <!DOCTYPE html>
+  <html>
   <head>
     <meta http-equiv = "Content-Type" content = "text/html"; charset = "utf-8">
     <title>script标签的注意事项</title>
@@ -1616,6 +1629,133 @@ console.log(arr); // ['a', 'X', 'b', 'c']
 | 💡 shift → 把队首挪掉   |
 | ➕ unshift → 从前面塞进去 |
 
+---
+### 19. split join 应用
+* **split join原理在查找替换方面的应用**
+
+``` html
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>split join原理在查找替换方面的应用</title>
+    <style type="text/css">
+      p {
+        border: 10px solid #ccc;
+        background: #FFC;
+        width: 400px;
+        padding: 20px;
+        font-size: 16px;
+        font-family: 微软雅黑
+      }
+      span {
+        background: yellow;
+      }
+    </style>
+</head>
+<body>
+  <input type = "text">
+  <input type = "text">
+  <input type = "button" value = "替换">
+  <p>小时候经常锄地，得空的时候总要去看动画片，全然没有主动学习的意识。当时若把时间合理得分配一下，学习的压力也不会陡然来袭。岁月不能回转，时光只能向前，唯有总结经验教训，才能吃一堑长一智。世界发展出奇的快，紧赶慢赶还是拉了一大截，互联网时代开启了所有人的智慧，所思所想，所感所悟，网上都可以找到借鉴，知识的获取变得异常便捷，但也要看到人类早就把自己局限在了认知范围内，大数据推荐更是创造了信息茧房，人类虽然获取知识的途径变多了，但也被固有得经验所诅咒，无法突破信息封锁。</p>
+  <script>
+    var aInp = document.getElementsByTagName('input');
+    var oP = document.getElementsByTagName('p')[0];
+
+    aInp[2].onclick = function() {
+      var str = aInp[0].value;
+      var newStr = aInp[1].value;
+
+      if(!str) return;
+      oP.innerHTML = oP.innerHTML.split(str).join('<span>' + newStr + '</span>');
+    }
+  </script>
+</body>
+</html>
+```
+
+---
+### 20. movie model
+* movie model
+
+``` html
+  <!DOCTYPE html>
+  <html>
+  <head>
+ 	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,  initial-scale=1">
+ 	<title>movie in quark</title>
+	<script type="text/javascript" src="./js/arrCont.js">
+  </script>
+ 	<script type="text/javascript" src="./js/arrSrc.js"></script>
+ 	<style type="text/css">
+		body, li{
+			margin: 0;
+			padding: 0;
+		}
+		li{
+			list-style: none;
+			margin-left:20px;
+			margin-bottom: 10px;
+		}
+		li a{
+			text-decoration: none;
+		}
+
+	</style>
+	<script type="text/javascript">
+		window.onload = function(){
+			// alert(arrCont.length);
+			// alert(arrSrc.length);
+			var oBody = document.body;
+            var str = '';
+            // function fn(n){
+			// 	return n < 10 ? '0000' + n
+			// 	   : n < 100 ? '000' + n
+			// 	   : n < 1000 ? '00' + n
+			// 	   : n < 10000 ? '0' + n
+			// 	   : String(n);
+			// }
+
+			function fn(n) {
+    			return String(n).padStart(4, '0'); // 统一补零到4位数
+			}
+			for(var i = 0; i < arrCont.length; i++){
+				str += '<li><a href = "' + arrSrc[i].src + '" title = "'+ arrCont[i].cont + '" target = "_blank">' + fn(i) + '&nbsp;&nbsp;' + arrCont[i].cont + '</a></li>';
+			}
+			oBody.innerHTML = str;
+
+		}
+
+	</script>
+</head>
+<body>
+
+</body>
+</html>
+```
+
+  * **arrCont.js**
+
+  ``` javascript
+  // arrCont
+  var arrCont = [
+    {
+      "cont":"风之谷"
+    },
+  ];
+  ```
+
+  * **arrSrc.js**
+
+  ``` javascript
+  // arrCont
+  var arrSrc = [
+    {
+      "src":"https://pan.quark.cn/s/c1c50a9f2f05"
+    },
+  ];
+  ```
 
 
 ---
