@@ -323,8 +323,7 @@
 | **misfortune** | 不幸，厄运 | **malfortune**（无） | —          |
 | **misspell**   | 拼写错误  | —                 | —          |
 | **misfire**    | 失效，打偏 | **malfunction**   | 故障，功能失常    |
-| **misjudge**   | 判断失误  | **maljudge**（罕）   | 不公判断（不常见）
-  |
+| **misjudge**   | 判断失误  | **maljudge**（罕）   | 不公判断（不常见）|
 * **使用建议**
   - ✅ 日常、生活场景：优先使用 mis- 词汇
   - 📚 正式、书面语场景：使用 mal- 更合适
