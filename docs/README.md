@@ -20,6 +20,8 @@
   - [npm](Technical_Guide/npm)
   - [technology](Technical_Guide/Technology)
   - [git](Technical_Guide/git)
+  - [net](Technical_Guide/net)
+  - [cmd&&gitbash](Technical_Guide/cmd&&gitbash)
 * **Markdown**
   - [Markdown基础语法结构](markdown/01.Markdown的11种基本语法)
 * **Bash**
