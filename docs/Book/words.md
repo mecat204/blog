@@ -794,6 +794,105 @@
 
 ---
 ### 018. 编程常用单词英文对照
+* **常用操作与函数**
+| 英文单词     | 中文含义 |
+| -------- | ---- |
+| function | 函数   |
+| method   | 方法   |
+| call     | 调用   |
+| return   | 返回   |
+| define   | 定义   |
+| execute  | 执行   |
+| run      | 运行   |
+| import   | 导入   |
+| export   | 导出   |
+| declare  | 声明   |
+
+* **数据结构与类型**
+| 英文单词           | 中文含义 |
+| -------------- | ---- |
+| variable       | 变量   |
+| constant       | 常量   |
+| array          | 数组   |
+| list           | 列表   |
+| dictionary     | 字典   |
+| object         | 对象   |
+| string         | 字符串  |
+| integer / int  | 整数   |
+| float / double | 浮点数  |
+| boolean        | 布尔值  |
+| null / None    | 空值   |
+
+* **流程控制**
+| 英文单词     | 中文含义         |
+| -------- | ------------ |
+| if       | 如果           |
+| else     | 否则           |
+| elif     | 否则如果（Python） |
+| switch   | 选择           |
+| case     | 情况           |
+| for      | 循环（用于计数）     |
+| while    | 当...时循环      |
+| break    | 跳出循环         |
+| continue | 继续下次循环       |
+| return   | 返回           |
+
+* **算法逻辑**
+| 英文单词    | 中文含义 |
+| ------- | ---- |
+| sort    | 排序   |
+| search  | 查找   |
+| filter  | 过滤   |
+| map     | 映射   |
+| reduce  | 归约   |
+| compare | 比较   |
+| match   | 匹配   |
+| replace | 替换   |
+| convert | 转换   |
+
+* **错误与异常**
+| 英文单词      | 中文含义 |
+| --------- | ---- |
+| error     | 错误   |
+| bug       | 缺陷   |
+| debug     | 调试   |
+| exception | 异常   |
+| try       | 尝试   |
+| catch     | 捕获   |
+| finally   | 最终执行 |
+| throw     | 抛出   |
+| assert    | 断言   |
+
+* **面向对象相关**
+| 英文单词          | 中文含义 |
+| ------------- | ---- |
+| class         | 类    |
+| object        | 对象   |
+| instance      | 实例   |
+| attribute     | 属性   |
+| property      | 属性   |
+| method        | 方法   |
+| inheritance   | 继承   |
+| interface     | 接口   |
+| override      | 重写   |
+| encapsulation | 封装   |
+
+* **其他常用词**
+| 英文单词      | 中文含义 |
+| --------- | ---- |
+| input     | 输入   |
+| output    | 输出   |
+| user      | 用户   |
+| admin     | 管理员  |
+| config    | 配置   |
+| setting   | 设置   |
+| save      | 保存   |
+| load      | 加载   |
+| path      | 路径   |
+| directory | 目录   |
+| file      | 文件   |
+| read      | 读取   |
+| write     | 写入   |
 
 ---
 ### 019. 元素周期表
