@@ -675,6 +675,381 @@
 | 例子     | "My contention is that..."（我的主张是） | "They had an argument last night."（他们昨晚吵架了） |
 | 强调点    | “你认为什么？”——主张和争议点                  | “你和别人吵了什么？”——口头冲突或逻辑辩论                      |
 
+---
+### 016. color与colour的区别
+* **🇺🇸 Color**
+  - 是 美式英语 的拼写。
+  - 在美国、加拿大（部分地区也接受colour）、菲律宾等使用美式拼写的国家中常见。
+  - 示例:
+    > Red is my favorite color.
+
+* **🇬🇧 Colour**
+  - 是 英式英语 的拼写。
+  - 在英国、澳大利亚、新西兰、印度、南非等使用英式拼写的国家中常见。
+  - 示例:
+    > Blue is a calming colour.
+
+* **colouristic与coloristic**
+
+| 拼写              | 语言变体                   | 示例                                                      |
+| --------------- | ---------------------- | ------------------------------------------------------- |
+| **colouristic** | 英式英语（British English）  | The painting displays strong **colouristic** qualities. |
+| **coloristic**  | 美式英语（American English） | The painting displays strong **coloristic** qualities.  |
+
+
+* **衍生词类似差异**
+| 美式拼写      | 英式拼写       | 中文含义      |
+| --------- | ---------- | --------- |
+| color     | colour     | 颜色        |
+| colorful  | colourful  | 色彩丰富的     |
+| colorize  | colourise  | 给……着色（动词） |
+| colorless | colourless | 无色的，暗淡的   |
+
+* **总结**
+| 地区         | 推荐拼写   |
+| ---------- | ------ |
+| 美国、加拿大     | color  |
+| 英国、其他英联邦国家 | colour |
+
+* **其它**
+| 美式拼写     | 英式拼写     | 中文含义 |
+| -------- | -------- | ---- |
+| center   | centre   | 中心   |
+| organize | organise | 组织   |
+| defense  | defence  | 防御   |
+| analyze  | analyse  | 分析   |
+| theater  | theatre  | 剧院   |
+
+* **常见的拼写差异类型**
+| 差异类型                | 美式拼写例子                 | 英式拼写例子                   | 说明                                |
+| ------------------- | ---------------------- | ------------------------ | --------------------------------- |
+| **-or vs -our**     | color, honor, labor    | colour, honour, labour   | 美式去掉 "u"                          |
+| **-ize vs -ise**    | organize, realize      | organise, realise        | 美式用 -ize，英式偏好 -ise（但牛津英语也接受 -ize） |
+| **-er vs -re**      | center, meter, theater | centre, metre, theatre   | 顺序不同                              |
+| **-l vs -ll（动词变形）** | traveled, canceled     | travelled, cancelled     | 美式简写双写字母                          |
+| **-se vs -ce（名词）**  | defense, license       | defence, licence         | 美式用 -se，英式有时用 -ce                 |
+| **ae / oe 缩减**      | encyclopedia, estrogen | encyclopaedia, oestrogen | 英式保留拉丁或希腊拼写形式                     |
+
+* **常见对照词汇举例**
+| 美式            | 英式                        | 中文      |
+| ------------- | ------------------------- | ------- |
+| color         | colour                    | 颜色      |
+| honor         | honour                    | 荣誉      |
+| organize      | organise                  | 组织      |
+| analyze       | analyse                   | 分析      |
+| theater       | theatre                   | 剧院      |
+| meter         | metre                     | 米（单位）   |
+| traveled      | travelled                 | 旅行（过去式） |
+| defense       | defence                   | 防御      |
+| license (n/v) | licence (n) / license (v) | 许可      |
+| aging         | ageing                    | 衰老      |
+
+
+
+---
+### 017. 美式英语 vs 英式英语拼写对照表
+* **🇺🇸 美式 vs 🇬🇧 英式 拼写对照表**
+
+```
+| 🇺🇸 美式拼写     | 🇬🇧 英式拼写     | 中文释义         |
+|------------------|------------------|------------------|
+| color            | colour           | 颜色             |
+| honor            | honour           | 荣誉             |
+| labor            | labour           | 劳动             |
+| neighbor         | neighbour        | 邻居             |
+| behavior         | behaviour        | 行为             |
+| favorite         | favourite        | 最喜欢的         |
+| center           | centre           | 中心             |
+| theater          | theatre          | 剧院             |
+| meter            | metre            | 米（长度单位）   |
+| liter            | litre            | 升（容量单位）   |
+| analyze          | analyse          | 分析             |
+| organize         | organise         | 组织             |
+| recognize        | recognise        | 识别，承认       |
+| realize          | realise          | 意识到，明白     |
+| apologize        | apologise        | 道歉             |
+| traveling        | travelling       | 旅行（进行时）   |
+| canceled         | cancelled        | 取消了           |
+| modeled          | modelled         | 建模了，模仿了   |
+| defense          | defence          | 防御             |
+| offense          | offence          | 冒犯             |
+| license (n.)     | licence (n.)     | 许可证           |
+| license (v.)     | license (v.)     | 授权许可         |
+| aging            | ageing           | 衰老             |
+| plow             | plough           | 犁（农业工具）   |
+| program          | programme        | 程序（如电视节目）|
+| catalog          | catalogue        | 目录             |
+| dialog           | dialogue         | 对话             |
+| check (banking) | cheque           | 支票             |
+| pajama           | pyjama           | 睡衣             |
+| gray             | grey             | 灰色             |
+| curb             | kerb             | 路缘             |
+| tire (car)       | tyre             | 轮胎             |
+```
+
+* **提示与建议**
+  - 英式拼写常用于：🇬🇧 英国、🇦🇺 澳大利亚、🇳🇿 新西兰、🇨🇦（部分）
+  - 美式拼写常用于：🇺🇸 美国、🇵🇭 菲律宾、🇨🇦（部分）
+  - 写作时统一风格（如论文、简历、官网内容），避免混用。
+
+---
+### 018. 编程常用单词英文对照
+
+---
+### 019. 元素周期表
+* **元素周期表**
+| 原子序 | 元素符号 | 中文名称     | 英文名称        |
+|--------|-----------|--------------|------------------|
+| 1      | H         | 氢           | Hydrogen         |
+| 2      | He        | 氦           | Helium           |
+| 3      | Li        | 锂           | Lithium          |
+| 4      | Be        | 铍           | Beryllium        |
+| 5      | B         | 硼           | Boron            |
+| 6      | C         | 碳           | Carbon           |
+| 7      | N         | 氮           | Nitrogen         |
+| 8      | O         | 氧           | Oxygen           |
+| 9      | F         | 氟           | Fluorine         |
+| 10     | Ne        | 氖           | Neon             |
+| 11     | Na        | 钠           | Sodium           |
+| 12     | Mg        | 镁           | Magnesium        |
+| 13     | Al        | 铝           | Aluminium        |
+| 14     | Si        | 硅           | Silicon          |
+| 15     | P         | 磷           | Phosphorus       |
+| 16     | S         | 硫           | Sulfur           |
+| 17     | Cl        | 氯           | Chlorine         |
+| 18     | Ar        | 氩           | Argon            |
+| 19     | K         | 钾           | Potassium        |
+| 20     | Ca        | 钙           | Calcium          |
+| 21     | Sc        | 钪           | Scandium         |
+| 22     | Ti        | 钛           | Titanium         |
+| 23     | V         | 钒           | Vanadium         |
+| 24     | Cr        | 铬           | Chromium         |
+| 25     | Mn        | 锰           | Manganese        |
+| 26     | Fe        | 铁           | Iron             |
+| 27     | Co        | 钴           | Cobalt           |
+| 28     | Ni        | 镍           | Nickel           |
+| 29     | Cu        | 铜           | Copper           |
+| 30     | Zn        | 锌           | Zinc             |
+| 31     | Ga        | 镓           | Gallium          |
+| 32     | Ge        | 锗           | Germanium        |
+| 33     | As        | 砷           | Arsenic          |
+| 34     | Se        | 硒           | Selenium         |
+| 35     | Br        | 溴           | Bromine          |
+| 36     | Kr        | 氪           | Krypton          |
+| 37     | Rb        | 铷           | Rubidium         |
+| 38     | Sr        | 锶           | Strontium        |
+| 39     | Y         | 钇           | Yttrium          |
+| 40     | Zr        | 锆           | Zirconium        |
+| 41     | Nb        | 铌           | Niobium          |
+| 42     | Mo        | 钼           | Molybdenum       |
+| 43     | Tc        | 锝           | Technetium       |
+| 44     | Ru        | 钌           | Ruthenium        |
+| 45     | Rh        | 铑           | Rhodium          |
+| 46     | Pd        | 钯           | Palladium        |
+| 47     | Ag        | 银           | Silver           |
+| 48     | Cd        | 镉           | Cadmium          |
+| 49     | In        | 铟           | Indium           |
+| 50     | Sn        | 锡           | Tin              |
+| 51     | Sb        | 锑           | Antimony         |
+| 52     | Te        | 碲           | Tellurium        |
+| 53     | I         | 碘           | Iodine           |
+| 54     | Xe        | 氙           | Xenon            |
+| 55     | Cs        | 铯           | Cesium           |
+| 56     | Ba        | 钡           | Barium           |
+| 57     | La        | 镧           | Lanthanum        |
+| 58     | Ce        | 铈           | Cerium           |
+| 59     | Pr        | 镨           | Praseodymium     |
+| 60     | Nd        | 钕           | Neodymium        |
+| 61     | Pm        | 钷           | Promethium       |
+| 62     | Sm        | 钐           | Samarium         |
+| 63     | Eu        | 铕           | Europium         |
+| 64     | Gd        | 钆           | Gadolinium       |
+| 65     | Tb        | 铽           | Terbium          |
+| 66     | Dy        | 镝           | Dysprosium       |
+| 67     | Ho        | 钬           | Holmium          |
+| 68     | Er        | 铒           | Erbium           |
+| 69     | Tm        | 铥           | Thulium          |
+| 70     | Yb        | 镱           | Ytterbium        |
+| 71     | Lu        | 镥           | Lutetium         |
+| 72     | Hf        | 铪           | Hafnium          |
+| 73     | Ta        | 钽           | Tantalum         |
+| 74     | W         | 钨           | Tungsten         |
+| 75     | Re        | 铼           | Rhenium          |
+| 76     | Os        | 锇           | Osmium           |
+| 77     | Ir        | 铱           | Iridium          |
+| 78     | Pt        | 铂           | Platinum         |
+| 79     | Au        | 金           | Gold             |
+| 80     | Hg        | 汞           | Mercury          |
+| 81     | Tl        | 铊           | Thallium         |
+| 82     | Pb        | 铅           | Lead             |
+| 83     | Bi        | 铋           | Bismuth          |
+| 84     | Po        | 钋           | Polonium         |
+| 85     | At        | 砹           | Astatine         |
+| 86     | Rn        | 氡           | Radon            |
+| 87     | Fr        | 钫           | Francium         |
+| 88     | Ra        | 镭           | Radium           |
+| 89     | Ac        | 锕           | Actinium         |
+| 90     | Th        | 钍           | Thorium          |
+| 91     | Pa        | 镤           | Protactinium     |
+| 92     | U         | 铀           | Uranium          |
+| 93     | Np        | 镎           | Neptunium        |
+| 94     | Pu        | 钚           | Plutonium        |
+| 95     | Am        | 镅           | Americium        |
+| 96     | Cm        | 锔           | Curium           |
+| 97     | Bk        | 锫           | Berkelium        |
+| 98     | Cf        | 锎           | Californium      |
+| 99     | Es        | 锿           | Einsteinium      |
+| 100    | Fm        | 镄           | Fermium          |
+| 101    | Md        | 钔           | Mendelevium      |
+| 102    | No        | 锘           | Nobelium         |
+| 103    | Lr        | 铹           | Lawrencium       |
+| 104    | Rf        | 錼           | Rutherfordium    |
+| 105    | Db        | 杜布n         | Dubnium          |
+| 106    | Sg        | 𬭊           | Seaborgium       |
+| 107    | Bh        | 𬭳           | Bohrium          |
+| 108    | Hs        | 𬭶           | Hassium          |
+| 109    | Mt        | 鿏           | Meitnerium       |
+| 110    | Ds        | 鿔           | Darmstadtium     |
+| 111    | Rg        | 鿭           | Roentgenium      |
+| 112    | Cn        | 鿬           | Copernicium      |
+| 113    | Nh        | 鉨           | Nihonium         |
+| 114    | Fl        | 鈇           | Flerovium        |
+| 115    | Mc        | 镆           | Moscovium        |
+| 116    | Lv        | 鉝           | Livermorium      |
+| 117    | Ts        | 𬭛           | Tennessine       |
+| 118    | Og        | 氩气         | Oganesson        |
+
+---
+### 020. 词源对照表
+* **词源对照**
+| 元素符号   | 英文名称      | 中文名称 | 来源词                | 词源解释                               |
+| ------ | --------- | ---- | ------------------ | ---------------------------------- |
+| **Cu** | Copper    | 铜    | *cuprum*（拉丁语）      | 来自塞浦路斯岛（Cyprus），古代铜产地              |
+| **Fe** | Iron      | 铁    | *ferrum*（拉丁语）      | Fe = ferrum，意为铁                    |
+| **Ag** | Silver    | 银    | *argentum*（拉丁语）    | Ag = argentum，意为银                  |
+| **Au** | Gold      | 金    | *aurum*（拉丁语）       | Au = aurum，意为黄金                    |
+| **Pb** | Lead      | 铅    | *plumbum*（拉丁语）     | Pb = plumbum，古代用于水管（plumbing）      |
+| **Sn** | Tin       | 锡    | *stannum*（拉丁语）     | Sn = stannum                       |
+| **Na** | Sodium    | 钠    | *natrium*（拉丁语）     | Na = natrium，早期从苏打（soda）中提取        |
+| **K**  | Potassium | 钾    | *kalium*（阿拉伯语）     | K = kalium，来自阿拉伯语 *al-qalyah*（植物灰） |
+| **Sb** | Antimony  | 锑    | *stibium*（拉丁语）     | Sb = stibium                       |
+| **Hg** | Mercury   | 汞    | *hydrargyrum*（希腊语） | Hg = hydrargyrum，意为“液态银”           |
+| **W**  | Tungsten  | 钨    | *wolfram*（德语）      | W = wolfram，是钨矿的一种旧称               |
+| **Ba** | Barium    | 钡    | *barys*（希腊语）       | 意为“重的”                             |
+| **Ni** | Nickel    | 镍    | *kupfernickel*（德语） | 原意“魔鬼的铜”                           |
+| **Sb** | Antimony  | 锑    | *antimoine*（法语）    | 原义“反修道士”（因为冶炼时有毒）                  |
+
+* **记忆总结**
+| 规律             | 举例                         |
+| -------------- | -------------------------- |
+| 来源于拉丁文名称的缩写    | Ag = *argentum*（银）         |
+| 来源于地名或神话       | Cu = *cuprum*，源自塞浦路斯       |
+| 来源于化学特性（颜色/形态） | Hg = *hydrargyrum*，意为“水银”  |
+| 来源于德语等其他语言     | W = *wolfram*，K = *kalium* |
+
+* **元素词源图谱**
+  - **🏛️ 拉丁语 (Latin)**
+    * Gold (Au) → aurum → “闪耀的黎明”
+    * Silver (Ag) → argentum → “白色金属”
+    * Iron (Fe) → ferrum → “坚硬的金属”
+    * Lead (Pb) → plumbum → “铅制水管”
+    * Tin (Sn) → stannum → “锡”
+
+  - **🧠 希腊语 (Greek)**
+    * Hydrogen (H) → hydro + genes → “生水者”
+    * Oxygen (O) → oxys + genes → “生酸者”
+    * Mercury (Hg) → hydrargyrum → “水银”（液态的银）
+    * Barium (Ba) → barys → “沉重的”
+
+  - **🇩🇪 德语 (German)**
+    * Tungsten (W) → wolfram → “狼的泡沫”（源于矿石形态）
+    * Nickel (Ni) → kupfernickel → “魔鬼的铜”
+
+  - **🌍 阿拉伯语 (Arabic)**
+    * Sodium (Na) → natrium（源自阿拉伯 natrun）→ 苏打
+    * Potassium (K) → kalium（源自 al-qalyah）→ 植物灰提取物
+
+  - **🔬 现代命名 / 人名 / 地名 (Modern/Other)**
+    * Curium (Cm) → 居里夫妇
+    * Einsteinium (Es) → 爱因斯坦
+    * Americium (Am) → 美洲
+    * Francium (Fr) → 法国
+    * Livermorium (Lv) → 美国劳伦斯国家实验室
+
+---
+### 021. 四季
+* **四季对应形容词对照表**
+| 中文 | 名词（季节）            | 正式/文学形容词     | 口语/常见形容词                 | 举例                                    |
+| -- | ----------------- | ------------ | ------------------------ | ------------------------------------- |
+| 春天 | **spring**        | **vernal**   | springtime / spring-like | vernal breeze（春风）；a spring-like day   |
+| 夏天 | **summer**        | **estival**  | summer / summery         | estival solstice（夏至）；a summery dress  |
+| 秋天 | **autumn / fall** | **autumnal** | autumn / fall-like       | autumnal leaves（秋叶）；fall-like weather |
+| 冬天 | **winter**        | **hibernal** | winter / wintry          | hibernal night（寒夜）；wintry wind        |
+
+* **说明:**
+  - vernal / estival / autumnal / hibernal 是偏正式、文学或学术语境中常见的形容词。
+  - spring-like / summery / fall-like / wintry 是日常生活中更常见的说法。
+  - springal 不表示“春天的”，如前面所说。
+
+* **小贴士（助记）**
+| 词根                  | 含义 | 出现在      | 记忆辅助               |
+| ------------------- | -- | -------- | ------------------ |
+| **vern-**           | 春天 | vernal   | 如：*vernal equinox* |
+| **aest- / aestiv-** | 夏天 | estival  | 来自拉丁语 *aestas*     |
+| **autumn-**         | 秋天 | autumnal | 来自 *autumnus*      |
+| **hibern-**         | 冬天 | hibernal | 如：*hibernate*（冬眠）  |
+
+---
+### 022. 各国/地区代码简称对照表
+
+| 中文名称  | 英文名称                 | Alpha-2 | Alpha-3 | 常见简称/备注                         |
+| ----- | -------------------- | ------- | ------- | ------------------------------- |
+| 中国    | China                | CN      | CHN     | PRC（People’s Republic of China） |
+| 美国    | United States        | US      | USA     | America                         |
+| 英国    | United Kingdom       | GB      | GBR     | UK                              |
+| 日本    | Japan                | JP      | JPN     | Nippon（日本语称呼）                   |
+| 韩国    | South Korea          | KR      | KOR     |                                 |
+| 朝鲜    | North Korea          | KP      | PRK     |                                 |
+| 德国    | Germany              | DE      | DEU     | GER                             |
+| 法国    | France               | FR      | FRA     |                                 |
+| 俄罗斯   | Russia               | RU      | RUS     |                                 |
+| 加拿大   | Canada               | CA      | CAN     |                                 |
+| 澳大利亚  | Australia            | AU      | AUS     |                                 |
+| 新西兰   | New Zealand          | NZ      | NZL     |                                 |
+| 印度    | India                | IN      | IND     |                                 |
+| 印度尼西亚 | Indonesia            | ID      | IDN     |                                 |
+| 越南    | Vietnam              | VN      | VNM     |                                 |
+| 泰国    | Thailand             | TH      | THA     |                                 |
+| 马来西亚  | Malaysia             | MY      | MYS     |                                 |
+| 新加坡   | Singapore            | SG      | SGP     |                                 |
+| 菲律宾   | Philippines          | PH      | PHL     |                                 |
+| 巴西    | Brazil               | BR      | BRA     |                                 |
+| 阿根廷   | Argentina            | AR      | ARG     |                                 |
+| 南非    | South Africa         | ZA      | ZAF     |                                 |
+| 埃及    | Egypt                | EG      | EGY     |                                 |
+| 土耳其   | Turkey               | TR      | TUR     |                                 |
+| 伊朗    | Iran                 | IR      | IRN     |                                 |
+| 以色列   | Israel               | IL      | ISR     |                                 |
+| 阿联酋   | United Arab Emirates | AE      | ARE     | UAE                             |
+| 沙特阿拉伯 | Saudi Arabia         | SA      | SAU     |                                 |
+| 意大利   | Italy                | IT      | ITA     |                                 |
+| 西班牙   | Spain                | ES      | ESP     |                                 |
+| 瑞士    | Switzerland          | CH      | CHE     |                                 |
+| 瑞典    | Sweden               | SE      | SWE     |                                 |
+| 挪威    | Norway               | NO      | NOR     |                                 |
+| 芬兰    | Finland              | FI      | FIN     |                                 |
+| 丹麦    | Denmark              | DK      | DNK     |                                 |
+| 荷兰    | Netherlands          | NL      | NLD     | Holland（旧称）                     |
+| 比利时   | Belgium              | BE      | BEL     |                                 |
+| 奥地利   | Austria              | AT      | AUT     |                                 |
+| 波兰    | Poland               | PL      | POL     |                                 |
+| 乌克兰   | Ukraine              | UA      | UKR     |                                 |
+| 巴基斯坦  | Pakistan             | PK      | PAK     |                                 |
+| 孟加拉国  | Bangladesh           | BD      | BGD     |                                 |
+| 尼日利亚  | Nigeria              | NG      | NGA     |                                 |
+| 墨西哥   | Mexico               | MX      | MEX     |                                 |
+| 哥伦比亚  | Colombia             | CO      | COL     |                                 |
+| 智利    | Chile                | CL      | CHL     |                                 |
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
