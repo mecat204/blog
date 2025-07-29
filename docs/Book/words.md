@@ -35,6 +35,7 @@
 
   - The juvenile court handled the case.
   > 这起案件由少年法庭审理。
+
 ---
 ### 003. decode衍生
 * **编码（Encoding） vs 加密（Encryption）对比表**
@@ -90,6 +91,7 @@
   - 示例:
     * This email is encrypted for security.（这封邮件已加密以确保安全。）
     * He decrypted the password.（他解密了密码。）
+
 ---
 ### 004. treat 衍生
 * **treat 的常见含义（动词）**
@@ -157,6 +159,7 @@
 | **en-**  | 使进入   | entreat = 恳求    |
 *  ****一句话记忆口诀****
 > treat 是“对待”，加上 mis 就变坏，加上 en 就成“恳求”，加上 re 就“退”。
+
 ---
 ### 005. 词源项目
 * **词源项目，词汇分析**
@@ -227,6 +230,7 @@
   - 🔗 项目地址：https://github.com/Merterm/Etymon
   - 📖 介绍：
     * 结合深度学习和词源数据库的项目，可生成多语言词源树，分析语言演变路径。适合高级语言研究者使用。
+
 ---
 ### 006. formation
 * ****information的构词分析:****
@@ -265,6 +269,7 @@
 | **reformation**    | 改革、改良（re- = again） |
 | **deformation**    | 变形（de- = 向下/失去）    |
 | **conformation**   | 构造、构型（con- = 一起）   |
+
 ---
 ### 007. form 词根家族词汇表
 * ****form 词根词汇树****
@@ -304,6 +309,7 @@
 | **-ulate** | 使成为（动词） | formulate                 |
 * **口诀**
   > form 是形，前缀后缀来变形；formation 是形成，malformation 出畸形；transformation 转型，reformation 是革新。
+
 ---
 ### 008. 常见前缀 mis- 和 mal- 的对比学习表
 * **mis- vs mal- 前缀词根对比表**
@@ -333,8 +339,341 @@
   - malicious（恶意的）← mal + -icious（形容词后缀）
   - malfunction（故障）← mal + function
 
+---
+### 009. "Brazier 铜匠" 解析
+*  "**Brazier**" 这个词被翻译为“铜匠”其实是有历史和词源背景的。可以从词源、含义演变两个角度来看。
+  - **词源（Etymology）**
+    * **Brazier**（铜匠）这个词来自于：
+      - **中世纪法语**：*brasier*，意为“炭火容器”，
+      - 而其进一步源自于拉丁语 *brassarius*，含义是“黄铜工匠”，
+      - *brass* 是“黄铜”的意思，-ier 是表示职业的人（相当于 -er，如 carpenter 木匠）。
 
+  > **brazier 本义就是和黄铜 brass 打交道的人——即铜匠**。
+  ---
+  - **brazier 的双重含义**
+    * 在现代英语中，**brazier** 这个词有两个主要意思：
 
+      | 含义                             | 解释                            |
+      | ------------------------------ | ----------------------------- |
+      | 🔥 **炭火盆 / 火盆**                | 一个用来烧炭取暖或做饭的金属容器。常见于中东或古代场景中。 |
+      | 🔧 **铜匠（brazier as a person）** | 一个加工黄铜或铜的工匠，常在历史文献或姓氏中出现。     |
+
+      例如：
+
+      * **a brazier full of coals**（一盆炭火）
+      * **John the brazier**（铜匠约翰）
+  ---
+  - **为什么 “铜匠” 用 brazier，而不是 smith？**
+
+    * "Smith" 是泛指金属工匠（如 blacksmith 铁匠，goldsmith 金匠），
+    * "brazier" 专指和 **黄铜（brass）** 打交道的金属匠人。
+      - 所以：
+        * **blacksmith** 是打铁的
+        * **silversmith** 是做银器的
+        * **brazier** 是做铜器或黄铜器的（尤其是铜器工艺品）
+
+  ---
+  - **小结**
+    > 🔍 **Brazier 是"铜匠"**，因为它词源于 "brass"（黄铜），原意是"加工黄铜的人"。
+    * 不过现代英语中，"brazier" 更多指的是 "炭火盆"，作为"铜匠"的含义已较少使用，多见于历史、姓氏或某些职业称号中。
+    * 如果你看到某人姓 **Brazier**，那基本可以推断他祖先可能是铜匠出身。
+
+---
+### 010. poet, citizen, actor, lion, host, shepherd
+* **基础词 = 中性 / 默认男性**
+* **加 -ess 后缀 = 女性专属形式**
+* **类比**
+| 基础词（中性或默认男性）      | 女性形式（加 -ess）  | 是否常用 -ess 形式 | 现代趋势                  |
+| ----------------- | ------------- | ------------ | --------------------- |
+| **poet**（诗人）      | poetess       | ❌ 不推荐（显老派）   | 用 poet 泛指所有性别         |
+| **citizen**（公民）   | citizeness ⚠️ | ❌ 几乎不用（不自然）  | citizen 是完全中性的        |
+| **actor**（演员）     | actress       | ✅ 仍常见        | 趋向性别中立，也常用 actor 代表女性 |
+| **lion**（狮子）      | lioness       | ✅ 动物性别区分清晰   | 没有性别中立压力，lioness 常用   |
+| **host**（主持人/主人）  | hostess       | ✅ 仍有使用       | 但在很多正式场合用 host 表男女    |
+| **shepherd**（牧羊人） | shepherdess   | ✅ 历史文学中常见    | 现代也常用 shepherd 表男女皆可  |
+
+* **统一规律**
+| 类型        | 表达逻辑                                     |
+| --------- | ---------------------------------------- |
+| 职业 / 身份类词 | 原词多为中性（但传统默认男性）<br>加 `-ess` 形成女性专属形式     |
+| 现代倾向      | **性别中立**：职业、身份、角色常省略 `-ess`，使用原词代指所有性别   |
+| 动物        | `-ess`（如 lioness）仍广泛使用，因为自然界性别区分是生物学必要信息 |
+
+* **常见的 -ess 结尾女性词（有用/不用）**
+| 常用 / 中立  | 几乎不用或过时     | 说明                     |
+| -------- | ----------- | ---------------------- |
+| actress  | authoress   | actor 替代 actress 越来越普遍 |
+| waitress | poetess     | 用 server 替代 waitress   |
+| hostess  | manageress  | host 现在更常用为中性          |
+| lioness  | empress（皇后） | 动物或王室角色通常保留 -ess 形式    |
+
+> 这些词都遵循“原词中性或默认男性，加 -ess 表示女性”的规律，但现代英语趋向去性别化，职业/身份类词多省略 -ess，只保留中性词。
+
+---
+### 011. 英语的构词系统
+* **英语的构词系统确实遵循一种非常高效的机制：有限的词根 + 丰富的词缀 = 无限的词汇变化。这正是英语词汇爆炸式增长的核心秘密之一。**
+> 英语的词根数量有限，但通过前缀和后缀的组合变化，构建出成千上万的派生词。
+* **相对来说，英语中常用的“词根”大概只有几百个核心单位（尤其是拉丁语和希腊语来源），远远少于我们日常词汇量的规模。**
+  - **常用词根大约：300-500 个核心单位**
+  - 再加上一些变体形式（词根变形、复合），可能接近 1000+
+  - 比如:
+    | 词根                 | 含义 | 示例                                   |
+| ------------------ | -- | ------------------------------------ |
+| **port**           | 搬运 | transport, import, export, portable  |
+| **spect**          | 看  | inspect, respect, suspect, spectator |
+| **scrib / script** | 写  | describe, manuscript, subscribe      |
+| **dict**           | 说  | predict, contradict, dictionary      |
+| **form**           | 形状 | transform, uniform, conform          |
+* **词缀的魔力：增、减、反、方向、性质…**
+| 类别        | 举例前缀 / 后缀            | 功能    | 示例                                       |
+| --------- | -------------------- | ----- | ---------------------------------------- |
+| **反/否定**  | un-, in-, dis-, non- | 否定原意  | unhappy, invisible, disconnect, nonexist |
+| **增强/重复** | re-, over-, super-   | 加强、重复 | rewrite, overdo, superman                |
+| **方向/位置** | sub-, inter-, trans- | 位置、方向 | subway, international, transport         |
+| **人/职业**  | -er, -ist, -ian      | 表人    | writer, artist, musician                 |
+| **状态/性质** | -ness, -ity, -ship   | 名词化   | kindness, ability, friendship            |
+| **动词化**   | -ize, -ify           | 形成动词  | modernize, beautify                      |
+| **形容词化**  | -ous, -ful, -less    | 表性质   | dangerous, hopeful, helpless             |
+* **例子演示：一个词根衍生出一串词**
+| 词汇            | 构词解释             | 含义     |
+| ------------- | ---------------- | ------ |
+| **form**      | 原始词根             | 形状，形式  |
+| **reform**    | re-（重新）+ form    | 改革     |
+| **transform** | trans-（横越）+ form | 改变，转变  |
+| **inform**    | in-（向内）+ form    | 通知，使知情 |
+| **uniform**   | uni-（统一）+ form   | 制服，一致性 |
+| **conform**   | con-（共同）+ form   | 遵守，一致  |
+| **deform**    | de-（偏离）+ form    | 变形，畸形  |
+| **formless**  | form + -less（无）  | 无形的    |
+> 能看到：一个 form + 多个前缀/后缀 = 词汇树🌲
+* 英语就是这样造出来的
+  - **借用词根（主要来自拉丁语/希腊语）**
+  - **组合前缀 + 词根 + 后缀**
+  - **根据语境、专业化、文化演变，赋予新含义**
+> 这也让英语词汇学习变得系统可控——掌握词根+词缀，远胜死记硬背。
+* **总结**
+  - **英语的词根数量有限（几百个核心）**
+  - **但通过系统化的前缀+后缀构词法，形成庞大的词汇体系**
+  - **这种方法本质上就是“可复用结构的词语拼装”，逻辑清晰，极具规律性**
+
+---
+### 012. 整理一套核心词根 + 常见词缀的对照表
+* **核心词根表（精选30个）**
+| 词根                     | 含义      | 示例单词                                 | 词义               |
+| ---------------------- | ------- | ------------------------------------ | ---------------- |
+| **port**               | 搬运      | transport / import / export          | 运输 / 进口 / 出口     |
+| **spect / spic**       | 看       | inspect / respect / suspicious       | 检查 / 尊敬 / 可疑的    |
+| **dict**               | 说       | predict / contradict / dictionary    | 预言 / 反驳 / 字典     |
+| **scrib / script**     | 写       | describe / manuscript / subscription | 描述 / 手稿 / 订阅     |
+| **form**               | 形状、形式   | transform / uniform / reform         | 转变 / 制服 / 改革     |
+| **vid / vis**          | 看       | video / visible / supervise          | 视频 / 可见的 / 监督    |
+| **tele**               | 远       | telephone / television / telegraph   | 电话 / 电视 / 电报     |
+| **aud**                | 听       | audio / audience / auditorium        | 音频 / 听众 / 礼堂     |
+| **cred**               | 相信      | credit / incredible / credential     | 信用 / 难以置信 / 凭证   |
+| **ped / pod**          | 脚       | pedestrian / tripod / pedal          | 行人 / 三脚架 / 踏板    |
+| **mit / miss**         | 送       | transmit / dismiss / mission         | 传送 / 解散 / 使命     |
+| **graph / gram**       | 写，画     | autograph / telegram / diagram       | 签名 / 电报 / 图表     |
+| **man / manu**         | 手       | manual / manufacture / manipulate    | 手工的 / 制造 / 操控    |
+| **bio**                | 生命      | biology / biography / antibiotic     | 生物学 / 传记 / 抗生素   |
+| **geo**                | 地球      | geography / geology / geothermal     | 地理 / 地质 / 地热的    |
+| **chron**              | 时间      | chronology / synchronize / chronic   | 年表 / 同步 / 慢性的    |
+| **therm**              | 热       | thermometer / thermal / hypothermia  | 温度计 / 热的 / 体温过低  |
+| **phon**               | 声音      | telephone / phonetic / symphony      | 电话 / 语音的 / 交响乐   |
+| **auto**               | 自己      | autograph / automatic / autonomy     | 签名 / 自动的 / 自主权   |
+| **rupt**               | 破裂      | disrupt / erupt / bankrupt           | 打断 / 喷发 / 破产     |
+| **struct**             | 建造      | construct / structure / destruct     | 建造 / 结构 / 破坏     |
+| **log / logy**         | 说话 / 学科 | logic / biology / dialogue           | 逻辑 / 生物学 / 对话    |
+| **bene / bon**         | 好       | benefit / bonus / benevolent         | 好处 / 奖金 / 仁慈的    |
+| **mal**                | 坏       | malfunction / malnutrition / malign  | 故障 / 营养不良 / 恶性的  |
+| **tact / tang**        | 触摸      | contact / tangible / intact          | 接触 / 可触的 / 完整无损的 |
+| **ceed / cess**        | 行进      | proceed / succeed / access           | 继续 / 成功 / 进入     |
+| **cap / cept**         | 拿，抓     | capture / accept / intercept         | 抓住 / 接受 / 拦截     |
+| **vers / vert**        | 转       | reverse / convert / versatile        | 反转 / 转变 / 多才多艺的  |
+| **cede / ceed / cess** | 走       | precede / exceed / recession         | 领先 / 超过 / 衰退     |
+| **voc / vok**          | 叫喊      | vocal / invoke / provoke             | 发声的 / 引起 / 挑衅    |
+
+* **常见词缀表（前缀 + 后缀）**
+  - **常见前缀（prefix）**
+  | 前缀                        | 含义    | 示例单词                                      | 含义                       |
+| ------------------------- | ----- | ----------------------------------------- | ------------------------ |
+| **un-**                   | 否定    | unhappy / undo                            | 不快乐 / 撤销                 |
+| **in- / im- / il- / ir-** | 否定    | invisible / immoral / illegal / irregular | 看不见的 / 不道德的 / 非法的 / 不规则的 |
+| **dis-**                  | 否定、反对 | disagree / disappear                      | 不同意 / 消失                 |
+| **re-**                   | 再，反复  | rewrite / return                          | 重写 / 返回                  |
+| **pre-**                  | 之前    | preview / predict                         | 预览 / 预言                  |
+| **post-**                 | 之后    | postpone / postwar                        | 推迟 / 战后的                 |
+| **sub-**                  | 下     | subway / submarine                        | 地铁 / 潜水艇                 |
+| **super-**                | 上、超越  | superstar / superpower                    | 巨星 / 超级大国                |
+| **inter-**                | 之间    | international / interact                  | 国际的 / 互动                 |
+| **trans-**                | 穿越    | transport / translate                     | 运输 / 翻译                  |
+| **anti-**                 | 反对    | antiwar / antisocial                      | 反战的 / 不合群的               |
+| **auto-**                 | 自己    | autobiography / automatic                 | 自传 / 自动的                 |
+
+  - **常见后缀（suffix）**
+  | 后缀                               | 词性  | 含义           | 示例                                    |
+| -------------------------------- | --- | ------------ | ------------------------------------- |
+| **-er / -or / -ist**             | 名词  | 表人           | teacher / actor / artist              |
+| **-ness / -ity / -tion / -sion** | 名词  | 状态 / 行为 / 性质 | kindness / reality / action / tension |
+| **-ment / -ship / -age**         | 名词  | 结果 / 状态 / 集合 | development / friendship / percentage |
+| **-ful / -less**                 | 形容词 | 充满 / 缺乏      | hopeful / powerless                   |
+| **-able / -ible**                | 形容词 | 能…的          | readable / visible                    |
+| **-ous / -ive / -al / -ic**      | 形容词 | 有…性质的        | dangerous / active / natural / poetic |
+| **-ize / -ify / -en**            | 动词  | 使成为          | realize / beautify / strengthen       |
+
+---
+### 013. 做一个"构词法速查表"或"词根词缀词汇图谱"
+
+---
+### 014. ruination 毁灭 destory的区别
+* **核心区别速查表**
+| 项目       | **ruination**                         | **destroy / destruction**                     |
+| -------- | ------------------------------------- | --------------------------------------------- |
+| **词性**   | 名词（抽象、文学化）                            | destroy 是动词，destruction 是名词                   |
+| **含义**   | 完全毁灭导致**衰败或失败**                       | 消灭、摧毁某物，偏重**破坏行为**                            |
+| **语气**   | 正式、文学性强，带悲剧感                          | 常用词，语气中性或强烈                                   |
+| **强调重点** | 后果：毁灭带来的损失、没落、终结                      | 行为本身：摧毁某物或让其无法存在                              |
+| **使用场景** | 抽象概念：名誉的毁灭、国家的灭亡                      | 可具体也可抽象：摧毁建筑、关系、希望等                           |
+| **搭配常见** | ruination of a life / career / nation | destroy a city / destroy hope / destroy trust |
+* **词根与构成**
+  - ruination：
+    * 来自动词 ruin（毁灭、破产）+ 后缀 -ation（名词）
+    * 含义更抽象、文学、带宿命感
+    * 例：The scandal led to the ruination of his political career.
+
+  - destroy / destruction：
+    * destroy = dis-（分离）+ -struct（建造） → 拆掉 → 毁灭
+    * destruction 是其名词形式
+    * 更常见，强调彻底消除的行为
+    * 例：The earthquake destroyed the entire village.
+* **例句对比**
+  - 抽象毁灭
+    * Ruination：
+      > Years of addiction led to his total ruination.
+      > 多年的上瘾最终导致他彻底的毁灭。
+
+    * Destruction：
+
+      > The war brought about the destruction of ancient culture.
+      > 战争导致了古老文化的摧毁。
+
+  - 具体破坏
+    * Destroy（动词）：
+
+      > The bomb destroyed the entire building.
+      > 炸弹摧毁了整栋建筑。
+
+    * Ruination 不适合用于“炸弹毁楼”这种场景。会显得不自然或夸张。
+
+  - 语义细腻度（更文学或悲剧化）
+    * Her pride was the cause of her ruination
+      （她的骄傲导致了她的败亡）
+
+    * 相同意思换成 destruction：
+      Her pride led to her destruction（较直接，但文学色彩弱）
+* 小结
+  - | 你想表达的意思         | 推荐用词                    |
+| --------------- | ----------------------- |
+| **具体破坏**（建筑/物品） | destroy/destruction     |
+| **抽象失败或败亡**     | ruination（更文雅/悲剧）       |
+| **强调行为过程**      | destroy（动词）             |
+| **强调毁灭带来的结果**   | ruination 或 destruction |
+
+* 总体判断
+| 场景          | 推荐用词        | 原因说明                       |
+| ----------- | ----------- | -------------------------- |
+| **战争带来的毁灭** | destruction | 更常用于战争背景，强调大规模破坏（城市、文明）    |
+| **某人精神被摧垮** | ruination   | 更文学化，强调“慢性地走向崩溃”或“个人命运的败亡” |
+
+  - **战争场景用 destruction**
+  - 示例：
+    > The war brought destruction to the entire region.
+      战争给整个地区带来了毁灭。
+
+    > The destruction of the city left thousands homeless.
+      城市的毁灭让数千人流离失所。
+
+    * 不推荐用 destroying 或 ruination 替代上面两句。虽然语法可以，但语气不合场景：
+      - destroying 更强调动作过程，不适合总结性陈述；
+      - ruination 更抽象、更文学，战争语境下太“弱”。
+
+  - **精神或命运的崩溃用 ruination**
+  - 示例：
+    > Years of emotional abuse led to her psychological ruination.
+      多年的情感虐待导致了她心理上的彻底崩溃。
+
+    > His addiction was the beginning of his ultimate ruination.
+      他的上瘾是他最终败亡的开端。
+
+    > 也可以说：the ruination of his soul / life / career
+      非常常见于文学、心理、历史叙述中。
+
+---
+### 015. contention 争论与argument
+* contend 与 argue 的差异
+| 对比点      | **contention**             | **argument**            |
+| -------- | -------------------------- | ----------------------- |
+| **词性**   | 名词（正式/书面）                  | 名词（常用/通俗）；也可作动词（argue）  |
+| **基本含义** | 主张、争议焦点；争论中的**观点立场**       | 争论、辩论本身；也指**吵架或讨论**本身   |
+| **语气风格** | 正式、书面、学术、抽象                | 中性或口语化，可以激烈或理性          |
+| **常见搭配** | a point of contention（争议点） | a heated argument（激烈争吵） |
+| **强调重点** | 谁“持有什么观点”                  | 争论的过程或事件                |
+| **适用场景** | 法律、学术、政策争论、立场分歧            | 日常争吵、辩论、争执、说理           |
+
+  - **contend → contention = 观点 / 主张 / 争议点**
+    * 语义更抽象、更正式
+    * 强调"主张某种立场"或"观点的冲突"
+    * 示例:
+      > It is my contention that the policy is unfair.
+         我的主张是这项政策不公平。
+
+      > The main point of contention was who should be in charge.
+         主要争议点是谁应当负责。
+
+      > There is a long-standing contention over the ownership of the land.
+         对这片土地的归属问题一直存在争议。
+
+  - **argument = 争论 / 争吵 / 说理**
+    * 可以正式也可以日常
+    * 既可以指“吵架”，也可以指"逻辑推理过程"
+    * 示例（不同语气）：
+      > They had a loud argument about money again.
+         他们又为钱大声争吵。
+
+      > In her argument, she presented strong evidence.
+         她在论证中提出了有力证据。
+
+      > Your argument is not convincing.
+         你的论点不够有说服力。
+
+  - **一句话总结**
+    > contention 更像是“你站哪边、你坚持什么”；
+    > argument 更像是“你怎么吵、你如何说理”。
+
+  - **使用建议**
+  | 场景               | 推荐用词           |
+| ---------------- | -------------- |
+| 强调**争论过程/吵架**    | argument       |
+| 强调**观点主张/立场冲突**  | contention     |
+| 需要**书面/正式/学术表达** | contention 更合适 |
+| 需要**日常/轻松表达**    | argument 更合适   |
+
+  - **拓展词汇推荐**
+  | 单词            | 含义             |
+| ------------- | -------------- |
+| dispute       | 正式用词，表示争议或异议   |
+| debate        | 有结构的辩论，一般较理性   |
+| quarrel       | 小题大做的争吵，多指口头冲突 |
+| confrontation | 面对面的冲突或对抗      |
+| disagreement  | 一般的意见不合，语气最温和  |
+
+* **精准对比**
+| 概念     | **contention**                    | **argument**                                |
+| ------ | --------------------------------- | ------------------------------------------- |
+| 中文直观理解 | **主张/立场**，争议的焦点                   | **口头争执**，也可指**说理/辩论过程**                     |
+| 本质     | 一种**观点的表达**（可能引发争议）               | 一种**行为/事件**，通常是口头上的冲突或辩论                    |
+| 语气     | 正式、书面，学术或法律常用                     | 通用性强，日常口语中最常见的“争吵”用词                        |
+| 例子     | "My contention is that..."（我的主张是） | "They had an argument last night."（他们昨晚吵架了） |
+| 强调点    | “你认为什么？”——主张和争议点                  | “你和别人吵了什么？”——口头冲突或逻辑辩论                      |
 
 
 ---
