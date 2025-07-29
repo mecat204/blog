@@ -34,6 +34,8 @@
   - [瞬间记单词](Book/瞬间记单词)
   - [words](Book/words)
   - [构词法速查表](Book/构词法速查表)
+* **Common_sense**
+  - [general_knowlege](Common_sense/general_knowledge)
 * **古诗词**
   - [古文·唐诗·宋词](古诗词/001.古文)
 * **千集录**
