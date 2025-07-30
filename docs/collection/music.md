@@ -1,4 +1,4 @@
-### 01. music·movie
+### 001. music·movie
 * **work**
   - [work && code](https://www.youtube.com/watch?v=mhNg55_IYiw&list=RDmhNg55_IYiw&start_radio=1)
   - [深度工作音乐](https://www.youtube.com/watch?v=TpBnbLT3Ki0)
@@ -25,11 +25,13 @@
   - 07:16 Moonlit Echoes
   - 10:16 Tides of a Melody
   - 13:19 Whispers of the Tide
+
 ---
-### 02. music-site
+### 002. music-site
 * [unminus](https://www.unminus.com/)
+
 ---
-### 03. 战曲
+### 003. 战曲
 * Immortals
 * Ashina deva
 * Nijamena 印度
@@ -55,8 +57,9 @@
 * Never Gonna Give You UP -?
 * Gravity 2013地心引力Gravity
   - https://www.youtube.com/watch?v=BzPYvrGWJgA
+
 ---
-### 04. proxy·music
+### 004. proxy·music
 * [星际穿越·Interstellar](https://www.youtube.com/watch?v=8kooIgKESYE)
 * [星际穿越·对接](https://www.youtube.com/watch?v=QIumIjSpC3Q)
 * [Hans Zimmer-Interstellar](https://www.youtube.com/watch?v=5gO0xpY_Y3E)
@@ -101,8 +104,9 @@
 * [轻音乐-看书学习](https://mecat204.github.io/website/music/music.html)
 * [音乐集](https://mecat204.github.io/website/music/index.html)
 * [落笔成殇-张紫宁](https://www.youtube.com/watch?v=Kfd49eOq8-4)
+
 ---
-### 05. tv.music
+### 005. tv.music
 * 长歌行
   - [光的方向-张碧晨](https://www.youtube.com/watch?v=cwdmC6mqO1w)
 * 长月烬明
@@ -120,30 +124,42 @@
 * 长安十二时辰
   - [清平乐·紫宁](https://www.youtube.com/watch?v=qFbvigJTXLs)
   - [长安十二时辰OST](https://www.youtube.com/watch?v=JH-3KFtOf6s&list=PLGOZmHa7O-aESFChpX-hoPK2KlHhvOKyE)
+
 ---
-### 06. music.app
+### 006. music.app
 * [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer/releases)
+
 ---
-### 07. genshin impact
+### 007. genshin impact
 * 一根葱
   - [原神交响乐](https://v.douyin.com/bUTuNkg6uI4/)
+
 ---
-### 08. 听歌识曲
+### 008. 听歌识曲
 * [Aeden & Um41K - Ain't Nobody Perfect](https://www.youtube.com/watch?v=qcayt_B8868)
+
 ---
-### 09. douyin·music
+### 009. douyin·music
 * [你的歌单](https://v.douyin.com/I3cagT5BM90/)
   - [时间的摇晃·窝窝](https://v.douyin.com/UhUtkRYmSf8/)
 * [𝐆𝐍𝐀𝐑](https://v.douyin.com/r-NztBNUTsI/)
   - [励志](https://v.douyin.com/-jFJFrPSS3M/)
 * [Mr.凌晨](https://v.douyin.com/V8ZLG9XP87A/)
   - [钢琴 - 回忆是一条没有尽头的路](https://v.douyin.com/1V9x-FlyqvY/)
+
 ---
-### 10. 奇幻世界
+### 010. 奇幻世界
 * [奇幻世界](https://v.douyin.com/GhGCXGPvl58/)
+
 ---
-### 11. youtube·music
+### 011. youtube·music
 * [NoCopyrightSounds](https://www.youtube.com/@NoCopyrightSounds)
 * [在加納共和國離婚](https://www.youtube.com/watch?v=eACpNen3ZcI)
+
+### 012. music-bgmusic
+* Star eater
+* 佚洛迁忘之岛-music-原神
+* Yiruma - River Flows in You (1 hour)
+
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)

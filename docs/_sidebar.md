@@ -5,14 +5,13 @@
   - [music](collection/music)
   - [轻音乐](collection/轻音乐)
   - [华语乐坛](collection/华语乐坛)
-  - [chattts](collection/chattts)
-  - [record](collection/record)
-  - [2024](collection/2024)
-  - [2025.03](collection/2025_03)
-  - [2025.04](collection/2025_04)
-  - [2025.05](collection/2025_05)
-  - [2025.06](collection/2025_06)
-  - [2025.07](collection/2025_07)
+  - [备忘录](collection/备忘录)
+  - [开源项目](collection/开源项目)
+  - [国风 | 艺术 | 古风](collection/国风&&艺术&&古风)
+  - [Book_Source](collection/book&&source)
+  - [Coding_Source](collection/Coding_Source)
+  - [Douyin_Game](collection/Douyin-Game)
+  - [Movie](collection/movie)
 * **code_snippet**
   - [frontend](code_snippet/frontend)
   - [js_func](code_snippet/js_func)
@@ -43,7 +42,8 @@
   - [千思集](千集录/002.千思集)
   - [心法](千集录/003.心法)
   - [摘录](千集录/004.摘录)
-
+* **Douyin-Game**
+  - [Douyin-Game](collection/Douyin-Game)
     <!--扩展  -->
 <!-- * **古诗词**
     * [唐诗·宋词]
