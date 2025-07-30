@@ -356,5 +356,32 @@
 ---
 ### 029. 梵蒂冈教堂
 * [梵蒂冈教堂](https://virtual.basilicasanpietro.va/en/basilica-viewer/st-peters-square)
+
+---
+### 030. 宝藏网站
+* [ventusky](https://www.ventusky.com/)
+* [ifixit](https://zh.ifixit.com/)
+* [skyline](https://www.skylinewebcams.com/)
+* [yikm](https://www.yikm.net/)
+
+---
+### 031. 搜索引擎
+* **国内好用的搜索引擎**
+|name|title|
+|:---:|:---:|
+|[iui.su](https://iui.su/3700/) | 资源搜索引擎 - 不死鸟 - 分享为王官网 |
+|[yandex](https://yandex.com/)|Yandex — a fast Internet search(大鹅) |
+|[bing](https://cn.bing.com/) |必应                             |
+|[thinkany](https://thinkany.so/zh) |ThinkAny - AI 搜索引擎     |
+|[metaso](https://metaso.cn/) | 秘塔AI搜索                   |
+|[Retardphobia](https://retardphobia.moebh.org/ui/index.html) | 十号AI搜索 |
+|[tiangong](https://www.tiangong.cn/) | 天工AI—搜索、聊天、写作、速读、画画的全能AI助手 |
+---
+- **搜索多个主流网盘资源**
+|name|title|
+|:---:|:---:|
+|[pikaso](https://www.pikaso.top/) | 皮卡搜索            |
+|[PanSearch](https://www.pansearch.me/) | PanSearch-网盘资源搜索 |
+
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
