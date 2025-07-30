@@ -7,6 +7,8 @@
   - [华语乐坛](collection/华语乐坛)
   - [备忘录](collection/备忘录)
   - [开源项目](collection/开源项目)
+  - [技术栈](collection/技术栈)
+  - [视频·壁纸下载](collection/视频·壁纸下载)
   - [国风 | 艺术 | 古风](collection/国风&&艺术&&古风)
   - [Book_Source](collection/book&&source)
   - [Coding_Source](collection/Coding_Source)
