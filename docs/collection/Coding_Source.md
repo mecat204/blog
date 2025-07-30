@@ -2,6 +2,7 @@
 * [Traversy Media](https://www.youtube.com/@TraversyMedia)
 * [NetNinja](https://www.youtube.com/@NetNinja)
 * [Net Ninja](https://www.youtube.com/watch?v=qoSksQ4s_hg&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
+
 ---
 ### 002. github-program
 * [prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)
@@ -11,3 +12,4 @@
 * [中国区 GitHub 用户排行榜](https://china-ranking.32k.site/)
 
 ---
+![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
