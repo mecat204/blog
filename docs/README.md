@@ -36,6 +36,8 @@
   - [构词法速查表](Book/构词法速查表)
 * **Common_sense**
   - [general_knowlege](common_sense/general_knowledge)
+* **同义词辨析词典**
+    - [a](同义词辨析词典/a)
 * **摘录集**
   - [Douyin](摘录集/douyin)
 * **古诗词**
