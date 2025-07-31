@@ -155,7 +155,8 @@
   - [文字的力量](https://v.douyin.com/TAKVYZ7FX-M/)
 * [小仙](https://v.douyin.com/e4xwLKWJ3Zc/)
   - [见字如面](https://v.douyin.com/ry0EnPdeBoY/)
-
+* [都靓读书](https://v.douyin.com/z4aLtYzUY2E/)
+  - [中文里每一个词都不是滥竽充数的](https://v.douyin.com/8EuHNH5Ihhw/)
 ---
 ### 007. 资源搜索
 * [阿里云资源](https://aliyunpan*com/)

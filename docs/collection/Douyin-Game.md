@@ -187,7 +187,10 @@
   - [人生的旅途](https://v.douyin.com/Vhr9QbkBolI/)
 * [猫的书](https://v.douyin.com/eO01apbeqbM/)
   - [认知觉醒](https://v.douyin.com/v5WgA_CHnrE/)
-
+* [是静静博士](https://v.douyin.com/dj1ZTuhtYEQ/)
+  - [请你毫不犹豫的千次万次救自己于水火中。](https://v.douyin.com/sYoJeZ_0KtA/)
+  - 事实证明：人的潜力是很大的。基础差，天赋不好都没关系，造火箭比考试、学技能难100倍，但马斯克连炸7次还在继续。你要做的不过是——在命运说'不行'的时候，狠狠甩出一张'再试一次'的王牌！
+  - **坚持就是在不能坚持的时候再坚持一下。**
 ---
 ### 017. 美食
 * [陕西大婷婷](https://v.douyin.com/d9ZurjObcLo/)

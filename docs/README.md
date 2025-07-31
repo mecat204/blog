@@ -36,6 +36,8 @@
   - [构词法速查表](Book/构词法速查表)
 * **Common_sense**
   - [general_knowlege](common_sense/general_knowledge)
+* **摘录集**
+  - [Douyin](摘录集/douyin)
 * **古诗词**
   - [古文·唐诗·宋词](古诗词/001.古文)
 * **千集录**
@@ -43,5 +45,3 @@
   - [千思集](千集录/002.千思集)
   - [心法](千集录/003.心法)
   - [摘录](千集录/004.摘录)
-* **Douyin-Game**
-  - [Douyin-Game](collection/Douyin-Game)
