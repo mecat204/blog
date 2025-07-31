@@ -25,7 +25,7 @@
   - I found a couple of boots in the bedroom but they don't make a pair. 我在我是找到了两只靴子, 但它们不是一对。
 
 * **a pair of 一对..., 一双... **
-* **指由同一种材料制成的两个配套的物体,属于一个不可分割的整体, 缺少其中之一则无法使用, 谓语动词用单数还是复数取决于这两者是一个整体还是两个事物**或人的组合。
+* **指由同一种材料制成的两个配套的物体,属于一个不可分割的整体, 缺少其中之一则无法使用, 谓语动词用单数还是复数取决于这两者是一个整体还是两个事物或人的组合。**
   - a pair of scissors/shoes/trousers 一把剪刀/一双鞋子/一条裤子。
   - She is going to buy a pair of jeans.她想去买一条牛仔裤。
   - A good and protective pair of trainers is essential. 一双又好又具有保护性的跑鞋是必不可少的。
