@@ -177,22 +177,98 @@
   - He demonstrated thorough competence in dealing with these issues. 他在处理这些问题时完全显示了他的能力。
 
 ---
-### 【】
-* **** v. **【】**
-* **【】**
-  -
-  -
+### able, capable【有能力的】
+* **able** adj. **【能干的, 有能力的】**
+* **【指体力或智力方面有能力胜任的, 作表语时常后接动词不定式, 表示"能够...的"、"会...的"。】**
+  - She is an able housewife. 她是一个能干的家庭主妇。
+  - She is able to swim. 她会游泳。
+  - The baby girl is able to stand up and walk. 这个女婴能站起来走路了。
 
-* **** v. **【】**
-* **【】**
-  -
-  -
+* **capable** adj. **【能力强的, 有本领的】**
+* **【指具有接受、适应等能力的,强调足以胜任某事;作表语时常后接介词of, 表示"能...的", 其主语可以是人或物。】**
+  - My mother is strong, capable woman. 我妈妈是个健壮、能干的女人。
+  - She has become a capable pilot. 她已成为一名有本领的飞行员。
+  - He'll leave the team in your capable hands.他将把球队交给你这位能手。
+  - He is capable of doing everything. 他什么事都能干。
+  - The hall is capable of holding about three hundred people. 这个大厅能容纳大约三百人。
+
+---
+### abominable,contemptiable, despicable, detestable 【可憎的】
+* **abominable** adj. **【令人厌恶的, 极其讨厌的】**
+* **【强调让人十分厌恶、极不喜欢的。】**
+  - Their cruel treatment of animals was abominable. 他们对待动物的残忍行为实在令人憎恶。
+  - Robbery is one of the most abominable crimes. 抢劫是最令人憎恶的罪行之一。
+
+* **contemptible** adj. **【可鄙的】**
+* **【强调某人或某事物让人瞧不起。】**
+  - He never believed those contemptible rumours. 他从未信过那些可鄙的谣言。
+  - The cop was portrayed as a contemptible coward. 那个警察被刻画成可鄙的胆小鬼。
+
+* **despicable** adj. **【令人厌恶的, 卑鄙的】**
+* **【强调极不道德的, 含令人鄙视之意。】**
+  - It was despicable of him to abandon him wife and children. 他抛弃了妻小, 实在是卑鄙。
+  - The bombing was a despicable crime. 这次爆炸是一起卑鄙的罪行。
+
+* **detestable** adj. **【可憎的, 可恨的】**
+* **【表示愤恨之程度极为强烈】**
+  - Liars are detestable. 说谎话的人令人憎恨。
+  - The detestable murderer was hanged. 那个可恨的凶手被处以绞刑。
+
+---
+### about, concerning, regarding, respecting 【关于】
+* **about** prep. **【关于, 对于】**
+* **【普通用词, 常用于不及物动词之后】**
+  - They sat there and talked about what had happended in the past. 她们坐在那里, 谈论着过去发生的事情。
+  - There is nothing to complain about. 没有什么可抱怨的。
+
+* **concerning** prep. **【关于】**
+* **【多用于正式文体, 含有"涉及"的意思。】**
+  - The chairman’s report is concerning the education of children. 主席的报告是关于儿童教育。
+  - A lew concerning food contamination [con-tami-nation] must be made. 必须制定一项关于食品污染的法律。
+
+* **regarding** prep. **【有关, 关于】**
+* **【尤用于信函或演说中】**
+  - Regarding your recent enquiry, I have enclosed a copy of our user guide. 关于您最近的咨询, 我随信附上一份我们的用户指南。
+  - I'll make no comments regarding this question. 对于这一问题我不作评论。
+
+* **respecting** prep. **【关于, 鉴于】**
+* **【与concerning 基本同义, 常可换用。】**
+  - I have nothing to say respecting/concerning the matter. 关于这件事, 我无话可说。
+  - Respecting/concerning the fact that the accused was a mintor, the charges were dropped. 鉴于被告是未成年人, 起诉被撤销。
+
+---
+### above, over 【在...之上】
+* **above** prep. **【在...上面】**
+* **【通常指水平位置在某物之上】**
+  - The sun rose above the horizon. 太阳升到水平线以上。
+  - The jet flew above the clouds. 喷气式飞机在云层上面飞行。
+
+* **over** prep. **【在...上方】**
+* **【强调位于某物的正上方】**
+  - The light hangs over the desk. 灯在书桌上方。
+  - Jane held the umbrella over her head. 简把伞举在头上。
 
 * **【小贴士】**
-  - **【】**
-  -
+  - **【在一些具体情况下, 这两个词可以换用】**
+  - He lives on the floor above/over us. 他住在我们楼上。
 
+---
+### absolutely, certainly, surely【肯定地】
+* **absolutely** v. **【绝对地, 当然】**
+* **【常用于加强语气, 多用于口语】**
+  - Have you done it? —— 你做完了吗？
+  - —— Absolutely. —— 没错。
+  - He was absolutely wrong. 他绝对错了。
 
+* **certainly** adv. **【无疑, 确定; 当然】**
+* **【强调毫无疑问】**
+  - He certainly did  come to see me yesterday. 他昨天当然来看我了。
+  - Certainly, he is a loser. 当然, 他是个输家。
+
+* **surely** adv. **【务必, 无疑】**
+* **【强调必然性, 表示主观判断】**
+  - He will surely be punished. 他必定会受到惩罚。
+  - They can surely overcome these difficulties as long as they have enough money. 只要有足够的资金他们肯定能克服这些困难。
 
 ---
 ### 999. Model
