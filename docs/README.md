@@ -37,7 +37,10 @@
 * **Common_sense**
   - [general_knowlege](common_sense/general_knowledge)
 * **同义词辨析词典**
+    - [template](同义词辨析词典/template)
     - [a](同义词辨析词典/a)
+* **同义词辨析简化版**
+    - [a](同义词辨析简化版/a)
 * **摘录集**
   - [Douyin](摘录集/douyin)
 * **古诗词**
