@@ -97,7 +97,7 @@
   - <font color="#F8791B"> Let's listen to a bit of music. 我们来听点音乐吧。</font>
 
 ---
-### abandon, abdicate, desert, give up, quit, renounce, waive <font color="#0F3194">【抛弃, 放弃】</font>
+ni### abandon, abdicate, desert, give up, quit, renounce, waive <font color="#0F3194">【抛弃, 放弃】</font>
 * **a bandon** v. **<font color="#0F3194">【放弃, 遗弃】</font>**
 * **<font color="#0F3194">【强调永远并完全放弃, 不论自愿与否, 也可能是为了逃避责任。】</font>**
   - <font color="#F8791B"> He abandoned his wife and took all their money. 他抛弃了妻子, 拿走了他们所有的钱财</font> <font color="#0F3194">【畜生,不是人!】</font>
@@ -110,7 +110,7 @@
 
 * **desert** v. **<font color="#0F3194">【抛弃, 放弃】</font>**
 * **<font color="#0F3194">【多指放弃从前的职业、伙伴、伴侣及监护人资格等, 有时带有内疚感。】</font>**
-  - <font color="#F8791B"> He deserted his wife and married a Japanese girl. 他抛弃妻子后, 和一位日本姑娘结婚了。</font><font color="#0F3194"</font>>【渣男！】</font>
+  - <font color="#F8791B"> He deserted his wife and married a Japanese girl. 他抛弃妻子后, 和一位日本姑娘结婚了。</font> <font color="#0F3194">【渣男！】</font>
   - <font color="#F8791B"> The mother deserted the baby boy soon after giving birth. 那位母亲生下男婴后不久就把他遗弃了。</font> <font color="#0F3194">【这是犯罪行为！】</font>
 
 * **give up** phr. v. **<font color="#0F3194">【取消; 放弃】</font>**
@@ -121,7 +121,7 @@
 * **quit** v. **<font color="#0F3194">【终止; 戒除】</font>**
 * **<font color="#0F3194">【常指停止做于己不利或伤害他人的事】</font>**
   - <font color="#F8791B"> He wants to quit smoking. 他想戒烟。</font>
-  - <font color="#F8791B"> If I don't get a pay rise, I'll quit. 如果不给我加薪, 我就不干了。 <font color="#0F3194">【Boss:你不干, 有的</font>是人干。】</font>
+  - <font color="#F8791B"> If I don't get a pay rise, I'll quit. 如果不给我加薪, 我就不干了。</font> <font color="#0F3194">【Boss:你不干, 有的是人干。】</font>
 
 * **renounce** v. **<font color="#0F3194">【放弃】</font>**
 * **<font color="#0F3194">【表示正式声明放弃职位、官衔、权力等。】</font>**
@@ -174,7 +174,7 @@
 * **competence** n. **<font color="#0F3194">【能力, 胜任】</font>**
 * **<font color="#0F3194">【强调做某事的非凡能力, 常后接介词in】</font>**
   - <font color="#F8791B"> You should try to maintain your profession competence. 你应当尽力保持自己的专业能力。</font>
-  - <font color="#F8791B"> We have doubet about his competence in teaching. 我们怀疑他教书的能力。 <font color="#0F3194">【你们是有</font>病吧！】</font>
+  - <font color="#F8791B"> We have doubet about his competence in teaching. 我们怀疑他教书的能力。</font> <font color="#0F3194">【你们是有病吧！】</font>
   - <font color="#F8791B"> He demonstrated thorough competence in dealing with these issues. 他在处理这些问题时完全显示了他的能力。</font>
 
 ---
