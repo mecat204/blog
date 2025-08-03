@@ -85,7 +85,7 @@
 * **a bit** adv. **<font color="#0F3194">【略微, 一点】</font>**
 * **<font color="#0F3194">【常可与a little换用, 但 a bit 较口语化, 且从表示的程度上讲, a bit 稍弱于a little. 故有时为了加强语气, 在 a bit 中间加上little。】</font>**
   - <font color="#F8791B"> That's a bit/little odd. 那有点儿奇怪。</font>
-  - <font color="#F8791B"> She felt a bit/little ti#0F3194. 她觉得有点儿累。</font>
+  - <font color="#F8791B"> She felt a bit/little tired. 她觉得有点儿累。</font>
   - <font color="#F8791B"> Please wait a little bit. 请稍等片刻。</font>
   - <font color="#F8791B"> Your report is a bit long. 你的报告长了一点。</font>
 
@@ -101,7 +101,7 @@
 * **a bandon** v. **<font color="#0F3194">【放弃, 遗弃】</font>**
 * **<font color="#0F3194">【强调永远并完全放弃, 不论自愿与否, 也可能是为了逃避责任。】</font>**
   - <font color="#F8791B"> He abandoned his wife and took all their money. 他抛弃了妻子, 拿走了他们所有的钱财</font> <font color="#0F3194">【畜生,不是人!】</font>
-  - <font color="#F8791B"> The captain orde#0F3194 everyone to abandon the buring ship. 船长向所有人下令放弃正在燃烧的船只。</font>
+  - <font color="#F8791B"> The captain ordered everyone to abandon the buring ship. 船长向所有人下令放弃正在燃烧的船只。</font>
 
 * **abdicate** v. **<font color="#0F3194">【让位, 退位】</font>**
 * **<font color="#0F3194">【常指国王等放弃王位。】</font>**
@@ -191,7 +191,7 @@
   - <font color="#F8791B"> She has become a capable pilot. 她已成为一名有本领的飞行员。</font>
   - <font color="#F8791B"> He'll leave the team in your capable hands.他将把球队交给你这位能手。</font>
   - <font color="#F8791B"> He is capable of doing everything. 他什么事都能干。</font>
-  - <font color="#F8791B"> The hall is capable of holding about three hund#0F3194 people. 这个大厅能容纳大约三百人。</font>
+  - <font color="#F8791B"> The hall is capable of holding about three hundred people. 这个大厅能容纳大约三百人。</font>
 
 ---
 ### abominable,contemptiable, despicable, detestable <font color="#0F3194">【可憎的】</font>
