@@ -406,7 +406,7 @@
 * **accommodation** n. **<font color="#0F3194">【住所】</font>**
 * **<font color="#0F3194">【泛指旅店等居住场所, 一般指暂时居住之地。】</font>**
   - <font color="#F8791B">We have the best accommodations available in the city. 我们拥有这个城市最好的住房。</font>
-  - <font color="#F8791B">The price for the trip doesn't include accommodation [acc + com+ modation]. 旅行的价格不包括住宿。</font>
+  - <font color="#F8791B">The price for the trip doesn't include accommodation [ac + com+ modation]. 旅行的价格不包括住宿。</font>
 
 * **<font color="#0F3194">【小贴士】</font>**
   - <font color="#F8791B"> **<font color="#0F3194">【在美国英语中, 即使指一个房间, 也习惯用复数形式 accommodations。 】</font>**</font>
@@ -464,29 +464,71 @@
 
 * **hence** adv. **<font color="#0F3194">【因此, 由此, 所以】</font>**
 * **<font color="#0F3194">【指随之来的结果是理所当然的, 同时也强调其重要性。】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+  - <font color="#F8791B">Hence, this session is of great importance. 所以, 这次全会意义重大。</font>
+  - <font color="#F8791B">They grew up in Asia, hence their interest in oriental culture. 他们在亚洲长大, 因此对东方文化产生了兴趣。</font>
+  - <font color="#F8791B">Hence our army must and certainly will triumph. 因此, 我们的军队一定要胜利, 而且一定会胜利。</font>
+
+* **so** adv. **<font color="#0F3194">【因此, 所以】</font>**
+* **<font color="#0F3194">【最普通用词, 一般用于比较随便的场合, 尤用于口语。】</font>**
+  - <font color="#F8791B">She's not feeling well, so she wants to stay in bed. 她感到不适, 所以想卧床休息。</font>
+  - <font color="#F8791B">Billy hit me, so I gave hime back tit for tat. 比利打了我, 所以我也以牙还牙打了他。</font>
+  - <font color="#F8791B">It's all over now, so think no more of it. 现在一切都过去了, 别再去想它了。</font>
+  -
+
+* **therefore** adv. **<font color="#0F3194">【因此, 所以】</font>**
+* **<font color="#0F3194">【通常用于引出某一推断性的结论, 与前述内容有因果关系。】</font>**
+  - <font color="#F8791B">This house is smaller and therefore cheaper. 这所房子要小一些, 所以价格也就便宜一些。</font>
+  - <font color="#F8791B">They hava a growing pipulation and therefore need more food. 他们的人后在增长，因此他们需要更多的的食物。</font>
+  - <font color="#F8791B">My sister likes to listen to music, therefore she often buys CDs.我姐姐喜欢听音乐, 所以她长买唱片。</font>
+
+* **thus** adv. **<font color="#0F3194">【因此, 从而】</font>**
+* **<font color="#0F3194">【与there基本同意, 但多用于书面语】</font>**
+  - <font color="#F8791B">Fay studied hard; thus she received high marks. 费伊用工读书, 因此获得高分。</font>
+  - <font color="#F8791B">She forgot to turn on the radio and thus missed to the programe.</font>
+  - <font color="#F8791B">He is the eldest son and thus hei ro the titile. 他是长子, 因此是头衔的继承人。</font>
 
 ---
-### <font color="#0F3194">【】</font>
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
+### achievement, accomplishment,  <font color="#0F3194">【成就, 成功】</font>
+* **achievement** n. **<font color="#0F3194">【成就, 成绩】</font>**
+* **<font color="#0F3194">【强调经过自己持续努力而取得的成功。】</font>**
+  - <font color="#F8791B">economic/scientific achievements 经济/ 科学上的成就。</font>
+  - <font color="#F8791B">The achievement [achi+ evement] of her goals relied mainly on her perseverance. [per + sever+ ance ]她主要是靠毅力实现了自己的目标。</font>
+  - <font color="#F8791B">The represents [repre + sents] the highest achievement of Chinese ceramics. 这代表了中国陶艺工艺的最高成就。</font>
+  - <font color="#F8791B">He was awarded the Noble Prize for his achievements in physics. 他因在物理学方面的成就而被授予诺贝尔奖。</font>
+
+* **accomplishment** n. **<font color="#0F3194">【成就, 成绩】</font>**
+* **<font color="#0F3194">【强调经过巨大努力而取得的令人瞩目的成功】</font>**
+  - <font color="#F8791B">This is one of his most amazing accomplishments. [ac + comp + lishment] 这是他最令人惊讶的成就之一。</font>
+  - <font color="#F8791B">Increasing employment was an impressive accomplishment. 增加就业是一项了不起的成就。</font>
+
+* **attainment** n. **<font color="#0F3194">【成就, 造诣】</font>**
+* **<font color="#0F3194">【尤指在学识、技能等方面达到的某种程度或水平。】</font>**
+  - <font color="#F8791B">He is graduate of impressive educational attainments. 他是一名学业成就斐然的毕业生。</font>
+  - <font color="#F8791B">The ability to speak fluent English is one of his many attainments. 能流利地讲英语是他的诸多造诣之一。</font>
+
+---
+### acquaintance, confidant, pal<font color="#0F3194">【熟人】</font>
+* **acquaintance** n. **<font color="#0F3194">【相识的人, 熟人】</font>**
+* **<font color="#0F3194">【指见面点头的熟人, 但还不是朋友】</font>**
+  - <font color="#F8791B">She is not my friend, just an acquaintance. 她不是我的朋友, 只是一个熟人。</font>
+  - <font color="#F8791B">His acquaintances [acqu + aint + ance] are many, but his friends are few. 他的熟人不少, 朋友却没几个。</font>
   - <font color="#F8791B"></font>
 
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+* **confidant** n. **<font color="#0F3194">【知己, 密友】</font>**
+* **<font color="#0F3194">【指可倾诉衷肠、忠诚可靠之人】</font>**
+  - <font color="#F8791B">He is my confidant. 他是我的知己。</font>
+  - <font color="#F8791B">The middle-aged woman regarded the boy as her confidant. 这个中年女人把那个男孩当作心腹朋友。</font>
 
 * **<font color="#0F3194">【小贴士】</font>**
-  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
-  - <font color="#F8791B"></font>
+  - <font color="#F8791B"> **<font color="#0F3194">【confidante 指女性知己、密友】</font>**</font>
 
+* **pal** n. **<font color="#0F3194">【朋友,  伙伴】</font>**
+* **<font color="#0F3194">【普通用词, 多用于口语, 尤指特别要好的朋友。】</font>**
+  - <font color="#F8791B">He is my pal at school. 他是我学校里的密友。</font>
+  - <font color="#F8791B">We've been pals since childhood. 我们打小就是好伙伴。</font>
 ---
-### <font color="#0F3194">【】</font>
-* **** v. **<font color="#0F3194">【】</font>**
+### acquirment, acquisition <font color="#0F3194">【获得】</font>
+* **** n. **<font color="#0F3194">【】</font>**
 * **<font color="#0F3194">【】</font>**
   - <font color="#F8791B"></font>
   - <font color="#F8791B"></font>
