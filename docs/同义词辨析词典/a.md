@@ -526,6 +526,7 @@
 * **<font color="#0F3194">【普通用词, 多用于口语, 尤指特别要好的朋友。】</font>**
   - <font color="#F8791B">He is my pal at school. 他是我学校里的密友。</font>
   - <font color="#F8791B">We've been pals since childhood. 我们打小就是好伙伴。</font>
+
 ---
 ### acquirment, acquisition <font color="#0F3194">【获得】</font>
 * **** n. **<font color="#0F3194">【】</font>**
