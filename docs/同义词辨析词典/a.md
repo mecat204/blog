@@ -100,7 +100,7 @@
 ### abandon, abdicate, desert, give up, quit, renounce, waive <font color="#0F3194">【抛弃, 放弃】</font>
 * **a bandon** v. **<font color="#0F3194">【放弃, 遗弃】</font>**
 * **<font color="#0F3194">【强调永远并完全放弃, 不论自愿与否, 也可能是为了逃避责任。】</font>**
-  - <font color="#F8791B"> He abandoned his wife and took all their money. 他抛弃了妻子, 拿走了他们所有的钱财 <font color="#0F3194">【</font>畜生,不是人!】</font>
+  - <font color="#F8791B"> He abandoned his wife and took all their money. 他抛弃了妻子, 拿走了他们所有的钱财</font> <font color="#0F3194">【畜生,不是人!】</font>
   - <font color="#F8791B"> The captain orde#0F3194 everyone to abandon the buring ship. 船长向所有人下令放弃正在燃烧的船只。</font>
 
 * **abdicate** v. **<font color="#0F3194">【让位, 退位】</font>**
@@ -110,8 +110,8 @@
 
 * **desert** v. **<font color="#0F3194">【抛弃, 放弃】</font>**
 * **<font color="#0F3194">【多指放弃从前的职业、伙伴、伴侣及监护人资格等, 有时带有内疚感。】</font>**
-  - <font color="#F8791B"> He deserted his wife and married a Japanese girl. 他抛弃妻子后, 和一位日本姑娘结婚了。<font color="#0F3194"</font>>【渣男！】</font>
-  - <font color="#F8791B"> The mother deserted the baby boy soon after giving birth. 那位母亲生下男婴后不久就把他遗弃了。 <font</font> color="#0F3194">【这是犯罪行为！】</font>
+  - <font color="#F8791B"> He deserted his wife and married a Japanese girl. 他抛弃妻子后, 和一位日本姑娘结婚了。</font><font color="#0F3194"</font>>【渣男！】</font>
+  - <font color="#F8791B"> The mother deserted the baby boy soon after giving birth. 那位母亲生下男婴后不久就把他遗弃了。</font> <font color="#0F3194">【这是犯罪行为！】</font>
 
 * **give up** phr. v. **<font color="#0F3194">【取消; 放弃】</font>**
 * **<font color="#0F3194">【普通用语, 强调终止做某事, 通常用来表示放弃某个计划、设计、工作、职位等。】</font>**
