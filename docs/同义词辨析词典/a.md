@@ -97,7 +97,7 @@
   - <font color="#F8791B"> Let's listen to a bit of music. 我们来听点音乐吧。</font>
 
 ---
-ni### abandon, abdicate, desert, give up, quit, renounce, waive <font color="#0F3194">【抛弃, 放弃】</font>
+### abandon, abdicate, desert, give up, quit, renounce, waive <font color="#0F3194">【抛弃, 放弃】</font>
 * **a bandon** v. **<font color="#0F3194">【放弃, 遗弃】</font>**
 * **<font color="#0F3194">【强调永远并完全放弃, 不论自愿与否, 也可能是为了逃避责任。】</font>**
   - <font color="#F8791B"> He abandoned his wife and took all their money. 他抛弃了妻子, 拿走了他们所有的钱财</font> <font color="#0F3194">【畜生,不是人!】</font>
