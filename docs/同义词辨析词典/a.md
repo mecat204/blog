@@ -529,163 +529,184 @@
 
 ---
 ### acquirment, acquisition <font color="#0F3194">【获得】</font>
-* **** n. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+* **acquirement** n. **<font color="#0F3194">【取得, 获得】</font>**
+* **<font color="#0F3194">【强调经过后天的努力, 而不是靠天赋或聪明】</font>**
+  - <font color="#F8791B">The acquirement of experience is not easy. 经验的获得并非易事。</font>
+  - <font color="#F8791B">He thinks nothing is more important than the acquirement of knowledge. 他认为没有什么比知识的获得更重要。</font>
 
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
-
-* **<font color="#0F3194">【小贴士】</font>**
-  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
-  - <font color="#F8791B"></font>
+* **acquisition** n. **<font color="#0F3194">【取得, 获得】</font>**
+* **<font color="#0F3194">【指知识、技能、土地、权力、金钱等的获得】</font>**
+  - <font color="#F8791B">acquisiton of new sites/wealth 获得新的土地/财富</font>
+  - <font color="#F8791B">He is an expert in studying the acquisition of a second language. 他是研究第二语言习得的专家。</font>
 
 ---
-### <font color="#0F3194">【】</font>
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+### acute, keen, sharp<font color="#0F3194">【敏锐的】</font>
+* **acute** adj. **<font color="#0F3194">【敏锐的, 灵敏的】</font>**
+* **<font color="#0F3194">【用于描述人们的想法、感觉, 通常指能够注意到被观察物体的细微差异的】</font>**
+  - <font color="#F8791B">He gave an acute analysis of regional politics. 他对区域政治作了敏锐的分析。</font>
+  - <font color="#F8791B">Wild animals have an acute sense of smell. 野生动物有灵敏的嗅觉。</font>
 
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+* **keen** adj. **<font color="#0F3194">【敏锐的, 灵敏的】</font>**
+* **<font color="#0F3194">【用于描述思想感情和器官, 强调敏锐的、聪慧的。】</font>**
+  - <font color="#F8791B">She has a keen eye/mind. 她目光/思想敏锐。</font>
+  - <font color="#F8791B">His keen ear caught the trace of an accent. 他敏锐的耳朵听出了些许口音。</font>
 
-* **<font color="#0F3194">【小贴士】</font>**
-  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
-  - <font color="#F8791B"></font>
-
----
-### <font color="#0F3194">【】</font>
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
-
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
-
-* **<font color="#0F3194">【小贴士】</font>**
-  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
-  - <font color="#F8791B"></font>
+* **sharp** adj. **<font color="#0F3194">【敏锐的, 灵敏的】</font>**
+* **<font color="#0F3194">【即可指头脑灵活的, 又可指观察入微的】</font>**
+  - <font color="#F8791B">Birds have sharp eyes and dogs have sharp noses. 鸟有敏锐的眼睛, 而狗有灵敏的鼻子。</font>
+  - <font color="#F8791B">He is seventy years old, but his mind is still sharp. 他虽然70岁了, 但头脑还很灵活。</font>
 
 ---
-### <font color="#0F3194">【】</font>
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+### adaptable, flexible, open-minded<font color="#0F3194">【灵活的】</font>
+* **adaptable** adj. **<font color="#0F3194">【适应性强的, 能适应新环境的】</font>**
+* **<font color="#0F3194">【普通用词, 指适应新环境的能力很强的, 强调内在素质较好。】</font>**
+  - <font color="#F8791B">He will be adaptable to the new job. 他会适应新工作的。</font>
+  - <font color="#F8791B">This policy has proved adaptable in changing economic conditions. 事实证明这一政策能适应经济形势的变化。</font>
 
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+* **flexible** adj. **<font color="#0F3194">【可改变的, 灵活的】</font>**
+* **<font color="#0F3194">【强调灵活性, 指可以改变以适应新的需求或情况的】</font>**
+  - <font color="#F8791B">We will carry out a flexible foreign policy. 我们将实行灵活的外交政策。</font>
+  - <font color="#F8791B">He is flexible and likable. 他很会变通, 讨人喜欢。</font>
 
-* **<font color="#0F3194">【小贴士】</font>**
-  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
-  - <font color="#F8791B"></font>
-
----
-### <font color="#0F3194">【】</font>
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
-
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
-
-* **<font color="#0F3194">【小贴士】</font>**
-  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
-  - <font color="#F8791B"></font>
+* **open-minded** adj. **<font color="#0F3194">【思想开明的】</font>**
+* **<font color="#0F3194">【指不保守、能考虑新情况或不同意见的】</font>**
+  - <font color="#F8791B">An open-minded person is able to adapt to new condition. 一个开明的人能够适应新情况。</font>
+  - <font color="#F8791B">My English teacher is open-minded. 我的英语老师很开明。</font>
 
 ---
-### <font color="#0F3194">【】</font>
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+### addition, attachment, supplement<font color="#0F3194">【添加】</font>
+* **addition** n. **<font color="#0F3194">【增加; 增加的人(或物)】</font>**
+* **<font color="#0F3194">【指数量的增加, 表示从属于整体的增加部分。】</font>**
+  - <font color="#F8791B">The baby is a happy addition to her family. 小宝宝的到来为她的家庭增添了喜悦。</font>
+  - <font color="#F8791B">This is the latest addition to the company's range of automobiles. 这是该公司汽车系列的新增款式。</font>
 
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+* **attachment** n. **<font color="#0F3194">【附件, 附加物】</font>**
+* **<font color="#0F3194">【指附属物, 主要用于增加主体的用途】</font>**
+  - <font color="#F8791B">With a flash-bulb attachment, we could also take pictures at night. 相机要是带有闪光灯的话, 我们晚上也可以拍照了。</font>
+  - <font color="#F8791B">The electric drill has various attachments. 这台电钻有各种附件。</font>
 
-* **<font color="#0F3194">【小贴士】</font>**
-  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
-  - <font color="#F8791B"></font>
-
----
-### <font color="#0F3194">【】</font>
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
-
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
-
-* **<font color="#0F3194">【小贴士】</font>**
-  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
-  - <font color="#F8791B"></font>
+* **supplement** n. **<font color="#0F3194">【增补物; 增刊】</font>**
+* **<font color="#0F3194">【指补充物或使报纸、杂志等完善而增加的部分】</font>**
+  - <font color="#F8791B">What do the other dietary supplements include? 其他膳食补充剂包括什么?</font>
+  - <font color="#F8791B">Are these payments a supplement to her usual salary? 这些款项是她日常工资的补贴吗?</font>
+  - <font color="#F8791B">Here are the Sunday supplements. 这是星期天的增刊。</font>
 
 ---
-### <font color="#0F3194">【】</font>
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+### additional, added, extra<font color="#0F3194">【另外的, 额外的】</font>
+* **additional** adj. **<font color="#0F3194">【额外的, 附加的】</font>**
+* **<font color="#0F3194">【指在原有基础上添加上去的】</font>**
+  - <font color="#F8791B">an additional charge 额外收费</font>
+  - <font color="#F8791B">Our factory will create an additional 120 jobs. 我们工厂将创造120个额外的工作机会。</font>
 
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+* **added** adj. **<font color="#0F3194">【额外的, 附加的】</font>**
+* **<font color="#0F3194">【指具体事物、数量等是额外加上的】</font>**
+  - <font color="#F8791B">Our apartment is small, and has the added disadvantage of facing west. 我们的公寓很小, 还有个缺点是朝西。</font>
+  - <font color="#F8791B">The added wood is to increase the fire. 添加木材会使火烧得更旺。</font>
 
-* **<font color="#0F3194">【小贴士】</font>**
-  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
-  - <font color="#F8791B"></font>
-
----
-### <font color="#0F3194">【】</font>
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
-
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
-
-* **<font color="#0F3194">【小贴士】</font>**
-  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
-  - <font color="#F8791B"></font>
+* **extra** adj. **<font color="#0F3194">【额外的, 另外的】</font>**
+* **<font color="#0F3194">【指不包括本身而额外加上的, 只作定语】</font>**
+  - <font color="#F8791B">Allow extra time for your review. 要留出更多的复习时间。</font>
+  - <font color="#F8791B">He wanted an extra loaf of bread. 他想多要一条面包。</font>
 
 ---
-### <font color="#0F3194">【】</font>
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+### adjustment, modification, regulation <font color="#0F3194">【调节, 调整】</font>
+* **adjustment** n. **<font color="#0F3194">【调节, 调整】</font>**
+* **<font color="#0F3194">【指小幅变化, 通常用于机器、系统、计算、行为或思想的调节。】</font>**
+  - <font color="#F8791B">He just needs a period of adjustment. 他只是需要一段调整期。</font>
+  - <font color="#F8791B">It is not easy to make an adjustment to the machine. 这台机器不容易调试。</font>
 
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+* **modification** n. **<font color="#0F3194">【修改, 更改】</font>**
+* **<font color="#0F3194">【强调适度的调整, 如对某一计划、设计、意见、情况等的修改】</font>**
+  - <font color="#F8791B">The old law needs modifications. 这项旧法律需要修改。</font>
+  - <font color="#F8791B">A slight (轻微的,微小的) modification to the plan is necessary. 有必要对这个计划稍作修改。</font>
+
+* **regulation** n. **<font color="#0F3194">【调整, 调节】</font>**
+* **<font color="#0F3194">【指为了符合规定、要求等而作出的改动。】</font>**
+  - <font color="#F8791B">the regulation of prices 物价调整</font>
+  - <font color="#F8791B">This is used for the regulation of temperature in the laboratory. 这是用来调节实验室温度的。</font>
+  - <font color="#F8791B">We must strengthen the regulation and control of grain markets. 我们必须加强对粮食市场的调控。</font>
+
+---
+### admission, admittance, entry<font color="#0F3194">【准入】</font>
+* **admission** n. **<font color="#0F3194">【准许进入; 进入(权)】</font>**
+* **<font color="#0F3194">【指允许某人进入某一建筑物或场所, 或成为学校、俱乐部等的成员。】</font>**
+  - <font color="#F8791B">He is one of those applying for admission to university. 他是大学入学申请者之一。</font>
+  - <font color="#F8791B">When did she gain admission to the club? 她是何时获准加入这家俱乐部的?</font>
+
+* **admittance** n. **<font color="#0F3194">【进入权】</font>**
+* **<font color="#0F3194">【指进入某建筑物、机构等的权力】</font>**
+  - <font color="#F8791B">No admittance [ad + mitt + ance] except on business. 非公莫入。</font>
+  - <font color="#F8791B">All the tickets were sold out, so I was unable to gain admittance. 票都卖完了, 我无法进场。</font>
+
+* **entry** n. **<font color="#0F3194">【进入; 进入权】</font>**
+* **<font color="#0F3194">【通常指进入具体场所的权力, 常后接介词 to/into】</font>**
+  - <font color="#F8791B">Is entry to the garden included? 包含进入花园的费用吗?</font>
+  - <font color="#F8791B">Why were the refugees repeatedly refused entry into the country? 为什么难民进入该国的请求一再遭到拒绝？</font>
+
+---
+### admit, acknowledge, concede, confess, profess <font color="#0F3194">【承认】</font>
+* **admit** v. **<font color="#0F3194">【承认】</font>**
+* **<font color="#0F3194">【指承认过错, 尤为罪行, 或勉强承认某种情况】</font>**
+  - <font color="#F8791B">The thief admitted having stolen money from the shop. 盗贼承认偷了这家商店的钱。</font>
+  - <font color="#F8791B">He admitted that he might be a little bit nervous. 他承认自己或许有点儿紧张。</font>
+
+* **acknowledge** v. **<font color="#0F3194">【承认】</font>**
+* **<font color="#0F3194">【指承认某一情况属实或接纳某种权威性】</font>**
+  - <font color="#F8791B">Only a few acknowledge the need for reform. 只有少数人承认改革的必要性。</font>
+  - <font color="#F8791B">He was widely acknowledged to the best lawyer in the neighbourhood. 他被公认为当地最好的律师。</font>
+  - <font color="#F8791B">We acknowledged him as our new coach [教练; 辅导老师].我们承认他是我们的新教练。</font>
+
+* **concede** v. **<font color="#0F3194">【承认, 让步】</font>**
+* **<font color="#0F3194">【指不情愿地承认某种事实, 或不得不承认失败】</font>**
+  - <font color="#F8791B">He conceded that he had made some errors. 他承认自己犯了一些错误。</font>
+  - <font color="#F8791B">They were finally forced to concede. 他们最终被迫认输。</font>
+  - <font color="#F8791B">We conceded defeat in the election. 我们承认选举失败。</font>
+
+* **confess** v. **<font color="#0F3194">【承认; 坦白】</font>**
+* **<font color="#0F3194">【尤其承认使自己略显尴尬的事情, 也指向警方坦白、供认罪行】</font>**
+  - <font color="#F8791B">She confessed that she didn't really know how to cook. 她承认自己不太会做饭。</font>
+  - <font color="#F8791B">He confessed to being guilty. 他承认自己有罪。</font>
+
+* **profess** v. **<font color="#0F3194">【声称; 坦言】</font>**
+* **<font color="#0F3194">【通常指公开声明自己的感情、看法等】</font>**
+  - <font color="#F8791B">The suspect still professed him innocence. 该嫌疑人仍然声称自己无辜。</font>
+  - <font color="#F8791B">She professed her love for him. 她表明了自己对他的爱。</font>
+
+---
+### adopted, adoptive, foster<font color="#0F3194">【收养的】</font>
+* **adopted** adj. **<font color="#0F3194">【领养的, 被收养的】</font>**
+* **<font color="#0F3194">【指被人收养的】</font>**
+  - <font color="#F8791B">She is Mr. Green's adopted daughter. 她是格林先生的养女。</font>
+
+* **adoptive** adj. **<font color="#0F3194">【收养(孩子)的】</font>**
+* **<font color="#0F3194">【指收养他人孩子的, 只作定语】</font>**
+  - <font color="#F8791B">Mr. Green is Jane's adoptive father. 格林先生是简的养父。</font>
+  - <font color="#F8791B">She has to take care of her adoptive mother. 她必须照顾养母。</font>
+
+* **foster** adj. **<font color="#0F3194">【收养的】</font>**
+* **<font color="#0F3194">【一般作定语, 即可指 "被收养的(adopted)", 也可指"收养孩子的 (adoptive)"】</font>**
+  - <font color="#F8791B">the foster father/mother/parents 养父/养母/养父母, the foster children/daughter/son 养子女/养女/养子, a foster home 寄养家庭</font>
+  - <font color="#F8791B">My foster father treated me as his own son. 我养父待我如同亲生。</font>
 
 * **<font color="#0F3194">【小贴士】</font>**
-  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
-  - <font color="#F8791B"></font>
+  - <font color="#F8791B"> **<font color="#0F3194">【foster brother/sister: 义兄弟 / 义姐妹】</font>**</font>
+
+---
+### advantage, benefit, profit<font color="#0F3194">【好处】</font>
+* **advantage** n. **<font color="#0F3194">【优势, 有利条件; 好处】</font>**
+* **<font color="#0F3194">【指有助于获得成功的因素或某事有利的方面】</font>**
+  - <font color="#F8791B">They gained an advantage [ad + vant + age] over their enemy. 他们比敌人具有优势。</font>
+  - <font color="#F8791B">The hotel is small, but it does have the advantage of being close to the bus station. 这家酒店很小, 但有个优点就是离汽车站近。</font>
+
+* **benefit** n. **<font color="#0F3194">【好处, 利益】</font>**
+* **<font color="#0F3194">【最常用词, 指任何利益或好处】</font>**
+  - <font color="#F8791B">He stoped smoking for his own benifit. 他戒烟是为了自己好。</font>
+  - <font color="#F8791B">Getting up early in the morning is of great benefit to his patient's health. 清晨早期对这位病人的健康非常有益。</font>
+
+* **profit** n. **<font color="#0F3194">【益处, 好处】</font>**
+* **<font color="#0F3194">【指做某事得到的好处】</font>**
+  - <font color="#F8791B">There's no profit in watching TV all day long. 整天看电视没什么好处。</font>
+  - <font color="#F8791B">Students could do these exercises with profit. 学生做这些练习也会有裨益。</font>
 
 ---
 ### <font color="#0F3194">【】</font>
