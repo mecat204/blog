@@ -344,6 +344,131 @@
   - <font color="#F8791B"> The manager was hailed for supporting the staff. 该经理由于支持员工而受到热情赞扬。</font>
 
 ---
+### acclimatize, accustom, get used to<font color="#0F3194">【习惯于】</font>
+* **acclimatize** (亦作 acclimatise) v. **<font color="#0F3194">【(使)习惯, (使适应)】</font>**
+* **<font color="#0F3194">【指习惯新地方、新情况、新气候等】</font>**
+  - <font color="#F8791B">Arrive three days early so as to acclimatize. 提前3天到达以适应新环境。</font>
+  - <font color="#F8791B">He was fine once he had acclimatized himself to the cold. 他习惯了寒冷之后, 身体马上就好了。</font>
+  - <font color="#F8791B">We're now acclimatized to the hot summers of Shanghai. 我们现已习惯上海炎热的夏天。</font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【美国英语中常用acclimate一词表示此义。】</font>**</font>
+
+* **accustom** v. **<font color="#0F3194">【使习惯于】</font>**
+* **<font color="#0F3194">【常与反身代词连用。】</font>**
+  - <font color="#F8791B">It is hard for a rural person to accustom himself to city life. 一个乡下人难以适应城市生活。</font>
+  - <font color="#F8791B">He can't accustom himself to to the cold weather. 他难以习惯寒冷的天气。</font>
+
+* **get used to** phr. **<font color="#0F3194">【习惯(于)】</font>**
+* **<font color="#0F3194">【也可说be used to。用get时侧重于动作, 用be时侧重于状态。】</font>**
+  - <font color="#F8791B">I soon got used to the tiresome job. 我很快习惯了这份烦人的工作。</font>
+  - <font color="#F8791B">She has got used to country life. 她已习惯了乡村生活。</font>
+  - <font color="#F8791B">I used to the weather in Scotland. 我习惯了苏格兰的天气。</font>
+
+---
+### accommodate, adapt, adjust<font color="#0F3194">【适应】</font>
+* **accommodate** v. **<font color="#0F3194">【适应, 顺应】</font>**
+* **<font color="#0F3194">【强调适应新的环境。】</font>**
+  - <font color="#F8791B">Your eyes will accommodate [ac + com + modate] to the darkness after a while. 过一会儿你的眼睛就能适应黑暗。</font>
+  - <font color="#F8791B">She had to accommodate to a new job. 她不得不使自己适应新的工作。</font>
+
+* **adapt** v. **<font color="#0F3194">【(使) 适合,(使) 适应】</font>**
+* **<font color="#0F3194">【强调改变现有条件以适应新的情况。】</font>**
+  - <font color="#F8791B">He adapted to the new school. 他使自己适应新学校。</font>
+  - <font color="#F8791B">Bob adapted his old car so his son could use it. 鲍勃改装了旧汽车, 这样他的儿子便能使用。</font>
+
+* **adjust** v. **<font color="#0F3194">【适应, 习惯】</font>**
+* **<font color="#0F3194">【指稍微调整以适应特定工作或新的情况, 调整幅度没有adapt大, 常后接介词to。】</font>**
+  - <font color="#F8791B">His eyes have't adjusted to the darkness yet. 他的眼睛还没有适应黑暗。</font>
+  - <font color="#F8791B">Kids are quite good at adjusting. 小孩子适应能力很强。</font>
+
+---
+### accommodate, lodge, put up<font color="#0F3194">【提供住宿】</font>
+* **accommodate** v. **<font color="#0F3194">【为...提供住所。】</font>**
+* **<font color="#0F3194">【用于正式场合, 表示提供房间供客人暂住。】</font>**
+  - <font color="#F8791B">This hotel can accommodate [ac + com + modate] 300 visitors. 这家饭店能接纳300个观光客。</font>
+  - <font color="#F8791B">The delegates were accommodated at the guest house. 代表们被安排在宾馆住宿。</font>
+  - <font color="#F8791B">Some students were accommodated in homes nearby. 一些学生被安置在附近的住家中。</font>
+
+* **lodge** v. **<font color="#0F3194">【寄住, 租住】</font>**
+* **<font color="#0F3194">【指临时居住或为某人提供短时客居之所, 一般要付房租。】</font>**
+  - <font color="#F8791B">I lodged with Mrs. White while I stayed in New York. 在纽约逗留期间, 我寄主在怀特太太家里。</font>
+  - <font color="#F8791B">This hotel can lodge 100 students. 这家旅店可以接待100个学生。</font>
+  - <font color="#F8791B">The building he was lodged in later became a church. 他以前租住的那栋楼后来变成一座教堂。</font>
+
+* **put up** phr. **<font color="#0F3194">【留...住宿; 投宿】</font>**
+* **<font color="#0F3194">【强调提供饭食和房间。】</font>**
+  - <font color="#F8791B">I'm sorry I can't put you up, you'll have to stay in a hotel. 很抱歉, 我不能留你住下, 因此你得住旅店了。</font>
+  - <font color="#F8791B">He was put up at a holiday inn when he went to see John. 他去探望约翰时投宿在一家假日酒店里。</font>
+
+---
+### accommodation, lodging, quarters, rooms<font color="#0F3194">【住所】</font>
+* **accommodation** n. **<font color="#0F3194">【住所】</font>**
+* **<font color="#0F3194">【泛指旅店等居住场所, 一般指暂时居住之地。】</font>**
+  - <font color="#F8791B">We have the best accommodations available in the city. 我们拥有这个城市最好的住房。</font>
+  - <font color="#F8791B">The price for the trip doesn't include accommodation [acc + com+ modation]. 旅行的价格不包括住宿。</font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【在美国英语中, 即使指一个房间, 也习惯用复数形式 accommodations。 】</font>**</font>
+  - <font color="#F8791B">Can I find accommodations at your hotel for the night? 你们旅馆有房间让过夜吗？</font>
+
+* **lodging** n. **<font color="#0F3194">【租住的房间】</font>**
+* **<font color="#0F3194">【通常指私人出租房, 一般用复数。】</font>**
+  - <font color="#F8791B">My lodgings only include three rooms. 我租住的房间只有3间。</font>
+  - <font color="#F8791B">The rent for the lodgings is 3000 yuan a month. 出租房的租金每月3000元。</font>
+
+* **quarters** n. **<font color="#0F3194">【营房; (军人的)宿舍】</font>**
+* **<font color="#0F3194">【常指供军人和其家属暂居的地方。】</font>**
+  - <font color="#F8791B">enemy's/married quarters. 敌营/已婚军官宿舍</font>
+  - <font color="#F8791B">He moved into the quarters with his bride. 他和新娘子搬进营房里居住。</font>
+
+* **rooms** n. **<font color="#0F3194">【(租住的或大学里的)居室; 寓所】</font>**
+* **<font color="#0F3194">【指一栋大楼里的宿舍或出租房间, 作此义解时只用复数形式。】</font>**
+  - <font color="#F8791B">They were divorced and he moved into the rooms. 他们离婚后, 他搬进了租来的公寓。</font>
+
+---
+### accompany, attend, convoy, escort <font color="#0F3194">【伴随】</font>
+* **accompany** n. **<font color="#0F3194">【陪伴; 伴随】</font>**
+* **<font color="#0F3194">【普通用词, 多强调陪伴者与被陪伴者之间关系密切,也指某事物与另一事物同时发生或存在。】</font>**
+  - <font color="#F8791B">He accompanied her to the door. 他陪着她走向门口。</font>
+  - <font color="#F8791B">The rain was accompanied by wind. 风雨交加。</font>
+
+* **attend** v. **<font color="#0F3194">【陪同; 伴随。】</font>**
+* **<font color="#0F3194">【多指下级、仆人陪伴上级、主人, 也可以表示某事伴随另一事而发生。】</font>**
+  - <font color="#F8791B">The king was attended by his courtiers. 国王有几名侍臣随从。</font>
+  - <font color="#F8791B">Do you have a sense of the peculiar atmosphere [at + mo +sphere] which attends such an event. 你有没有感觉到伴随这类事件的怪异气氛?</font>
+
+* **convoy** v. **<font color="#0F3194">【护送】</font>**
+* **<font color="#0F3194">【指在保护下经由水路护送, 其对象通常为物。】</font>**
+  - <font color="#F8791B">The carrier was convoyed by four warships. 航母由4艘战舰护航。</font>
+  - <font color="#F8791B">The warship convoyed the oil tanker through the Indian Ocean. 战舰护卫着邮轮驶过印度洋。</font>
+
+* **escort** v. **<font color="#0F3194">【护送】</font>**
+* **<font color="#0F3194">【指在保护下经由陆路护送, 其对象通常为人。】</font>**
+  - <font color="#F8791B">Who would like to escort her home? 谁愿意护送她回家？</font>
+  - <font color="#F8791B">The bodyguard escorted the boss home. 保镖护送老板回家。</font>
+
+---
+### accordingly, consequently, hence, so, therefore, thus<font color="#0F3194">【因此, 所以】</font>
+* **accordingly** adv. **<font color="#0F3194">【因此, 所以】</font>**
+* **<font color="#0F3194">【指由某种原因而得出某一结果, 多用于句首, 常可与therefore换用。】</font>**
+  - <font color="#F8791B">Accordingly/Therefore, this problem should be solved by the following methods. 因此,这个问题应该用以下这种方法解决。</font>
+  - <font color="#F8791B">Accordingly/Therefore, we hereby offer the following three suggestions. 为此, 特提出一下3点建议。</font>
+  - <font color="#F8791B">Some of the laws were contradictory. [con + trad + ictory]. Accordingly/Therefore, measures were taken to clarify them. 有些法律互相矛盾。因此,采取了措施予以阐明。</font>
+
+* **consequently** adv. **<font color="#0F3194">【因此, 所以, 结果】</font>**
+* **<font color="#0F3194">【强调有前后因果, 符合逻辑关系。】</font>**
+  - <font color="#F8791B">She missed the train and consequently was late for work. 她没有赶上火车, 结果上班迟早了。</font>
+  - <font color="#F8791B">The company went breakrupt, Consequently, he lost his job. 公司破产, 他因此失业了。</font>
+  - <font color="#F8791B">Consequently, we should have no problem reaching our goals this year. 因此，我们达成今年的目标应该没有问题。</font>
+
+* **hence** adv. **<font color="#0F3194">【因此, 由此, 所以】</font>**
+* **<font color="#0F3194">【指随之来的结果是理所当然的, 同时也强调其重要性。】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+---
 ### <font color="#0F3194">【】</font>
 * **** v. **<font color="#0F3194">【】</font>**
 * **<font color="#0F3194">【】</font>**
@@ -360,6 +485,917 @@
   - <font color="#F8791B"></font>
 
 ---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
+---
+### <font color="#0F3194">【】</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **<font color="#0F3194">【小贴士】</font>**
+  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+  - <font color="#F8791B"></font>
+
 ### 999. Model
 
 ``` markdown
