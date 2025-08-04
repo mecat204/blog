@@ -709,84 +709,93 @@
   - <font color="#F8791B">Students could do these exercises with profit. 学生做这些练习也会有裨益。</font>
 
 ---
-### <font color="#0F3194">【】</font>
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
+### adventure, enterprise, venture<font color="#0F3194">【冒险】</font>
+* 2025.08.04.me.cat
+* **adventure** n. **<font color="#0F3194">【冒险(经历), 奇遇】</font>**
+* **<font color="#0F3194">【指激动人心的、奇怪的、危险的经历】</font>**
+  - <font color="#F8791B">I told them of my adventure at the North Pole. 我对他们讲述了我在北极的冒险经历。</font>
+  - <font color="#F8791B">His life was full of adventures. 他的生活中充满了冒险。</font>
+
+* **enterprise** n. **<font color="#0F3194">【冒险精神, 开拓精神】</font>**
+* **<font color="#0F3194">【指思考新活动、新想法等并使之可行的探索能力。】</font>**
+  - <font color="#F8791B">Jack is a man of great enterprise. 杰克很有进取精神。</font>
   - <font color="#F8791B"></font>
 
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
-
-* **<font color="#0F3194">【小贴士】</font>**
-  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
-  - <font color="#F8791B"></font>
-
----
-### <font color="#0F3194">【】</font>
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
-
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
-
-* **<font color="#0F3194">【小贴士】</font>**
-  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
-  - <font color="#F8791B"></font>
+* **venture** n. **<font color="#0F3194">【冒险事业】</font>**
+* **<font color="#0F3194">【指有风险的投资或活动。】</font>**
+  - <font color="#F8791B">business ventures 商业风头</font>
+  - <font color="#F8791B">What is your opinion about her latest writing venture? 你对她最新的写作尝试有何看法?</font>
 
 ---
-### <font color="#0F3194">【】</font>
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+### advertise, announce, propagate<font color="#0F3194">【宣传】</font>
+* **advertise** v. **<font color="#0F3194">【为...做广告】</font>**
+* **<font color="#0F3194">【指用报刊、电视、电台等形式反复宣传以引起注意】</font>**
+  - <font color="#F8791B">They advertised the house for sale. 他们登出售房广告。</font>
+  - <font color="#F8791B">A new medicine was advertised in the newspaper. 报刊上刊登了一则新药物的广告。</font>
 
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+* **announce** v. **<font color="#0F3194">【广播通知】</font>**
+* **<font color="#0F3194">【尤指在机场或火车站用广播通知】</font>**
+  - <font color="#F8791B">They announced that the flight was cancelled. 他们通知该航班取消了。</font>
+  - <font color="#F8791B">Station staff haven't announced [an + noun + ce] the arrival of the train yet. 车站工作人员还未广播告知火车到站。 </font>
 
-* **<font color="#0F3194">【小贴士】</font>**
-  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
-  - <font color="#F8791B"></font>
-
----
-### <font color="#0F3194">【】</font>
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
-
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
-
-* **<font color="#0F3194">【小贴士】</font>**
-  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
-  - <font color="#F8791B"></font>
+* **propagate** v. **<font color="#0F3194">【传播, 宣传】</font>**
+* **<font color="#0F3194">【指宣传或传播观点、信仰等, 尤指官方、政党等为达到某种政治目的而进行宣传。】</font>**
+  - <font color="#F8791B">We should propagate scientific ideas. 我们应该传播科学观念。</font>
+  - <font color="#F8791B">The party started a newspaper to propagate their beliefs. 该政党创办了一份报纸来宣传他们的信仰。</font>
 
 ---
-### <font color="#0F3194">【】</font>
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+### advertisement, advert, commercial <font color="#0F3194">【广告】</font>
+* **advertisement** n. **<font color="#0F3194">广告; 启事。</font>**
+* **<font color="#0F3194">【非正式文体中可写作ad, 通常内容广泛、形式多样。】</font>**
+  - <font color="#F8791B">There is an advertisement on the wall which says: 'Help Wanted.' 墙上贴了一则招聘广告。</font>
+  - <font color="#F8791B">There are so many advertisements in the newspaper. 报纸上广告实在太多了。</font>
 
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+* **advert** n. **<font color="#0F3194">【广告】</font>**
+* **<font color="#0F3194">【词义同 advertisement, 可换用】</font>**
+  - <font color="#F8791B">Have you read the advert/advertisement in the newspaper? 你读过报纸上的那条广告吗?</font>
+  - <font color="#F8791B">The advert/advertisement is to sell medicine. 这则广告是卖药的。</font>
 
-* **<font color="#0F3194">【小贴士】</font>**
-  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
-  - <font color="#F8791B"></font>
+* **commercial** n. **<font color="#0F3194">【商业广告】</font>**
+* **<font color="#0F3194">【专指电视台或电台播放的产品宣传广告】</font>**
+  - <font color="#F8791B">a toothpaste commerical牙膏广告</font>
+  - <font color="#F8791B">The TV play was interrupted [inter + rupt] by too many commercials. 那个电视剧中插入的广告太多了, 频频被打断。</font>
+  - <font color="#F8791B">A good commercial convinces people of the attractive features of a product. 好广告能让人们相信产品的亮点。</font>
+
+---
+### advice, counsel <font color="#0F3194">【劝告】</font>
+* **advice** n. **<font color="#0F3194">【劝告, 忠告, 建议】</font>**
+* **<font color="#0F3194">【普通用词, 多指依据个人经验等提供的意见】</font>**
+  - <font color="#F8791B">He went to the coach for advice. 他去向教练求教。</font>
+  - <font color="#F8791B">He took the doctor's advice to give up smoking. 他听从医生的劝告戒烟了。</font>
+
+* **counsel** n. **<font color="#0F3194">【劝告, 忠告】</font>**
+* **<font color="#0F3194">【尤指长辈或专家提供的意见】</font>**
+  - <font color="#F8791B">The boy refused to listen to his father's counsel. 这个男孩不听父亲的忠告。</font>
+  - <font color="#F8791B">You can always count on her wise counsel [劝告, 忠告]. 你总能从她那里得到明智的建议。</font>
+
+---
+### advise, convince, dissuade, persuade<font color="#0F3194">【劝告】</font>
+* **advise** v. **<font color="#0F3194">【劝告, 建议】</font>**
+* **<font color="#0F3194">【表示给某人出主意】</font>**
+  - <font color="#F8791B">I will do as you have advised. 我会照你说的去做。</font>
+  - <font color="#F8791B">I advised him to leave at once. 我劝他马上离开。</font>
+
+* **convince** v. **<font color="#0F3194">【使信服, 劝服】</font>**
+* **<font color="#0F3194">【指让某人相信某事是正确的。】</font>**
+  - <font color="#F8791B">His speech convinced everyone present at the meeting. 他的演说说服了出席会议的每一个人。</font>
+  - <font color="#F8791B">He convinced a few members, but was unable to convince the group as a whole. 他劝服了几个人, 但无法让整个团队信服。</font>
+
+* **dissuade** v. **<font color="#0F3194">【劝阻】</font>**
+* **<font color="#0F3194">【指说服某人不要做某事, 常可与介词from连用。】</font>**
+  - <font color="#F8791B">The man was dissuaded from taking drugs. 有人劝阻那个人不要吸毒。</font>
+  - <font color="#F8791B">She dissuaded him from rashly submitting a resignation. 她劝他不要着急提交辞职书。</font>
+  - <font color="#F8791B">Nancy was dissuaded from leaving home. 南希经过劝阻没有离家出走。</font>
+
+
+* **persuade** v. **<font color="#0F3194">【说服, 劝导】</font>**
+* **<font color="#0F3194">【强调以理服人, 通过说理让他人明白做某事的道理。】</font>**
+  - <font color="#F8791B">I've persuaded him to do it. 我已经说服他去做这件事。</font>
+  - <font color="#F8791B">They've persuaded me to drink. 他们劝说我喝了酒。</font>
 
 ---
 ### <font color="#0F3194">【】</font>
