@@ -51,7 +51,7 @@
   - [Suno AI 作曲](https://www.youtube.com/watch?v=TlRUg9lCKYY)
 
 ---
-### 004. English-learn
+### 004. English Learn
 * [精选优质英语学习资源合集](https://github.com/knowledgefxg/learning-english)
 * [LexiBridge - 网页阅读辅助英语学习工具](https://github.com/ChanMo/LexiBridge)
 * [BlueSea - 浏览器扩展式英语学习工具](https://github.com/jiangqizheng/BlueSea)
@@ -90,6 +90,13 @@
 * [超能英语听力](https://v.douyin.com/lX4sHA_1d7Q/)
   - [生活英语](https://v.douyin.com/Z_iHRNFp-XI/)
 * [keke](https://kekenet.com)
+* [轻松场景英语](https://v.douyin.com/6h1G6rk_EUQ/)
+  - [关于家庭|每日英语](https://v.douyin.com/MpGNreYwAQg/)
+* [英文分享](https://v.douyin.com/7-G0O3pffJE/)
+  - [生活会眷孤勇者，也会压倒犹豫不决的人。](https://v.douyin.com/kwfk-79Ern4/)
+* [英文学习](https://v.douyin.com/vBJ3ikPtYcw/)
+  - [每天进步一点](https://v.douyin.com/spLFlpZjC2o/)
+
 ---
 ### 005. 收藏&&Blog
 * **收藏**
@@ -157,6 +164,7 @@
   - [见字如面](https://v.douyin.com/ry0EnPdeBoY/)
 * [都靓读书](https://v.douyin.com/z4aLtYzUY2E/)
   - [中文里每一个词都不是滥竽充数的](https://v.douyin.com/8EuHNH5Ihhw/)
+
 ---
 ### 007. 资源搜索
 * [阿里云资源](https://aliyunpan*com/)

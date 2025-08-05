@@ -70,6 +70,8 @@
   - [LUCY 2 (2026)](https://www.youtube.com/watch?v=deMHi69NA1Q)
 * 动漫
   - 九幽玄天 3.27
+* [Believer.67](https://v.douyin.com/sdprE26WI48/)
+  - [共鸣叙事家·去找到你生命中的快乐！](https://v.douyin.com/kQjzqhUHk2k/)
 
 ---
 ### 004. TVBOX
@@ -184,11 +186,13 @@
 ---
 ### 010. 范苏木·圆明园
 * [范苏木·圆明园](https://v.douyin.com/M_GFBUY0N44/)
+
 ---
 ### 011. 纪录片 Chinese Documentary Film
 * [中国纪录片 Chinese Documentary Film](https://www.youtube.com/playlist?list=PLAiqj3QY5CU3LiqVDiUYR8Lfhff6mn8UQ)
 * [圆明园](https://www.youtube.com/watch?v=87vdfRJleMo)
 * [Palace_Museum](https://commons.wikimedia.org/wiki/Category:Album_of_engravings_depicting_Yuanmingyuan_(Palace_Museum))
+
 ---
 ### 012. 博物院
 * [故宫博物馆](https://www.dpm.org.cn/)

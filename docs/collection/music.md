@@ -146,6 +146,11 @@
   - [励志](https://v.douyin.com/-jFJFrPSS3M/)
 * [Mr.凌晨](https://v.douyin.com/V8ZLG9XP87A/)
   - [钢琴 - 回忆是一条没有尽头的路](https://v.douyin.com/1V9x-FlyqvY/)
+* [养有术](https://v.douyin.com/Lw6iMZsbUjM/)
+  - [五音疗愈](https://v.douyin.com/tEfGHPZsoy8/)
+* [羊阿宝的空灵鼓](https://v.douyin.com/FCan7tFzndI/)
+  - [风居住的街道](https://v.douyin.com/FbLFxxBv3tY/)
+  - 昨天的太阳，晒不干今天的衣裳，昨天的雨，淋不湿今天的自己。让心归零，微笑前行。
 
 ---
 ### 010. 奇幻世界
@@ -156,10 +161,16 @@
 * [NoCopyrightSounds](https://www.youtube.com/@NoCopyrightSounds)
 * [在加納共和國離婚](https://www.youtube.com/watch?v=eACpNen3ZcI)
 
+---
 ### 012. music-bgmusic
 * Star eater
 * 佚洛迁忘之岛-music-原神
 * Yiruma - River Flows in You (1 hour)
+
+---
+### 013. 日语·声优
+* [芯如 shirol](https://v.douyin.com/YGEQzStkUcM/)
+  - [我做了一个很长的梦日语·爱情·离别](https://v.douyin.com/_N_kxqj8_UY/)
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
