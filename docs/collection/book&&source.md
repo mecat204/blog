@@ -96,7 +96,18 @@
   - [生活会眷孤勇者，也会压倒犹豫不决的人。](https://v.douyin.com/kwfk-79Ern4/)
 * [英文学习](https://v.douyin.com/vBJ3ikPtYcw/)
   - [每天进步一点](https://v.douyin.com/spLFlpZjC2o/)
-
+* [周六English](https://v.douyin.com/-t1NofrWDHU/)
+  - [美国母亲节的历史](https://v.douyin.com/8oQWIVf230o/)
+* [TED 视频精选](https://v.douyin.com/ww6tnRMHqKM/)
+  - [6个科学学习法](https://v.douyin.com/fVrslOuU-lQ/)
+  - 情绪记忆法（越骂记得越牢）
+  - 睡眠θ波学习（睡觉也能背单词）
+  - 黄金1小时法则（早起学习效率炸裂）
+  - 洗澡学习法（灵感爆发期）
+  - 虚假deadline技巧（逼出极限专注力）
+  - 3遍循环记忆（永久刻进大脑）
+* [快听听力](https://v.douyin.com/06UXFkAWso0/)
+  - [考试神器](https://v.douyin.com/wHfY52mXcJU/)
 ---
 ### 005. 收藏&&Blog
 * **收藏**
@@ -392,5 +403,6 @@
 |[pikaso](https://www.pikaso.top/) | 皮卡搜索            |
 |[PanSearch](https://www.pansearch.me/) | PanSearch-网盘资源搜索 |
 
+### 032.
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)

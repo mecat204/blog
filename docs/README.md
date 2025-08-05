@@ -37,6 +37,7 @@
 * **Common_sense**
   - [general_knowlege](common_sense/general_knowledge)
 * **同义词辨析词典**
+    - [words](同义词辨析词典/words)
     - [template](同义词辨析词典/template)
     - [a](同义词辨析词典/a)
 * **同义词辨析简化版**

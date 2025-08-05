@@ -798,135 +798,190 @@
   - <font color="#F8791B">They've persuaded me to drink. 他们劝说我喝了酒。</font>
 
 ---
-### <font color="#0F3194">【】</font>
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+### aeroplane, Airbus, aircraft, Boeing, jet, plane<font color="#0F3194">【飞机】</font>
+* 2025.08.05.me.cat
+* **aeroplane** n. **<font color="#0F3194">【飞机】</font>**
+* **<font color="#0F3194">【通常只出现在较正式的文体中, 专指普通飞机, 不包括直升机、 飞艇等】</font>**
+  - <font color="#F8791B">That flight was delayed due to trouble with the airplane. 那趟航班因飞机故障而延误。</font>
 
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+* **Airbus** n. **<font color="#0F3194">【空中客车, 空中巴士】</font>**
+* **<font color="#0F3194">【一种大型民用客机, 由欧洲研发制造。】</font>**
+  - <font color="#F8791B">They took an Airbus to America this time. 这次他们是坐空中客车去的美国。</font>
+  - <font color="#F8791B">Preliminary investigations show the braking system on the Airbus had failed. 初步调查显示是空中客车上的制动系统失灵。</font>
 
-* **<font color="#0F3194">【小贴士】</font>**
-  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
-  - <font color="#F8791B"></font>
+* **aircraft** n. **<font color="#0F3194">【飞机; 飞艇; 飞行器】</font>**
+* **<font color="#0F3194">【常作集合名词, 也指一架飞机或飞行器, 单复数同形, 含义广泛, 可指直升机、飞艇等。】</font>**
+  - <font color="#F8791B">Since the advent of jet aircraft, travel has been accelerated. 自喷气式飞机出现以来, 旅行的速度得到提高。</font>
+  - <font color="#F8791B">The company has projected [project: 项目, 计划, 投射, 预测, 放映] the sale of 800 aircraft. 该公司已预售800架飞机。/font>
 
----
-### <font color="#0F3194">【】</font>
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+* **Boeing** n. **<font color="#0F3194">【波音飞机】</font>**
+* **<font color="#0F3194">【指波音系列飞机, 主要为大型民用客机, 由美国研发制造。】</font>**
+  - <font color="#F8791B">We'll fly first class on a Boeing 757 from New York to Paris. 我们将乘坐波音757的头等舱从纽约飞往巴黎。</font>
+  - <font color="#F8791B">At present, the airplane operates two flights a day to London using Boeing 747 planes. 目前, 该公司每天有两架波音747飞往伦敦。</font>
 
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+* **jet** n. **<font color="#0F3194">【喷气式飞机】</font>**
+* **<font color="#0F3194">【也可说jet plane】</font>**
+  - <font color="#F8791B">The jet is about to take off. 那家喷气式飞机即将起飞。</font>
+  - <font color="#F8791B">The jet plane zoomed up into the sky, and was soon out of sight. 那架喷气式飞机迅速爬高升空, 很快就飞得看不见了。</font>
 
-* **<font color="#0F3194">【小贴士】</font>**
-  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
-  - <font color="#F8791B"></font>
+* **plane** n. **<font color="#0F3194">【飞机】</font>**
+* **<font color="#0F3194">【aeroplane的日常普通用词】</font>**
+  - <font color="#F8791B">Is she going by plane? 她是乘飞机去吗?</font>
+  - <font color="#F8791B">He was the first pilot to fly a plane around the world. 他是第一个驾驶飞机作环球飞行的飞行员。</font>
 
----
-### <font color="#0F3194">【】</font>
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
-
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
-
-* **<font color="#0F3194">【小贴士】</font>**
-  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
-  - <font color="#F8791B"></font>
 
 ---
-### <font color="#0F3194">【】</font>
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+### afar, apart, aside <font color="#0F3194">【有距离地】</font>
+* **afar** adv. **<font color="#0F3194">【在远处, 从远处, 遥远的】</font>**
+* **<font color="#0F3194">【常前接介词from】</font>**
+  - <font color="#F8791B">He come from afar. 他从远方来。</font>
+  - <font color="#F8791B">The white pagoda can be seen from afar. 从远处可以看到这座白塔。</font>
 
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+* **apart** v. **<font color="#0F3194">【相隔, 相距】</font>**
+* **<font color="#0F3194">【指人或物在空间上有一定的距离】</font>**
+  - <font color="#F8791B">The boy stood a bit apart from the rest of us. 那个男孩站在离我们其余人不远的地方。</font>
+  - <font color="#F8791B">Why did the manager stand apart from us? 经理为什么和我们分开站着?</font>
 
-* **<font color="#0F3194">【小贴士】</font>**
-  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
-  - <font color="#F8791B"></font>
-
----
-### <font color="#0F3194">【】</font>
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
-
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
-
-* **<font color="#0F3194">【小贴士】</font>**
-  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
-  - <font color="#F8791B"></font>
+* **aside** adv. **<font color="#0F3194">【在旁边, 向一边】</font>**
+* **<font color="#0F3194">【指将某物搁到一边, 或指人走到一边。】</font>**
+  - <font color="#F8791B">She put her novel aside. 她把小说放在一边。</font>
+  - <font color="#F8791B">He stepped aside to let me go first. 他闪到一边让我先走。</font>
 
 ---
-### <font color="#0F3194">【】</font>
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+### affect, impress, influence <font color="#0F3194">【影响】</font>
+* **affect** v. **<font color="#0F3194">【影响】</font>**
+* **<font color="#0F3194">【通常由物作主语, 多产生消极作用】</font>**
+  - <font color="#F8791B">The food is for the areas affected by the flood. 食物是为受洪水影响的地区准备的。</font>
+  - <font color="#F8791B">Drugs affect health. 毒品影响健康。</font>
 
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+* **impress** v. **<font color="#0F3194">【给...留下深刻印象】</font>**
+* **<font color="#0F3194">【指给人留下很深的印象, 从而受到影响和感动, 比 affect 影响更深, 时间更长。】</font>**
+  - <font color="#F8791B">His lecture that day impressed the audience. 他那天的讲座让听众印象尤深。</font>
+  - <font color="#F8791B">The Great Wall impressed me the most. 长城给我留下了深刻印象。</font>
 
-* **<font color="#0F3194">【小贴士】</font>**
-  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
-  - <font color="#F8791B"></font>
-
----
-### <font color="#0F3194">【】</font>
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
-
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
-
-* **<font color="#0F3194">【小贴士】</font>**
-  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
-  - <font color="#F8791B"></font>
+* **influence** v. **<font color="#0F3194">【影响】</font>**
+* **<font color="#0F3194">【通常指潜移默化地起作用】</font>**
+  - <font color="#F8791B">What influenced him to take up teaching? 是什么影响他去从事教学工作?</font>
+  - <font color="#F8791B">She can influence his desision. 她能影响他的决定。</font>
 
 ---
-### <font color="#0F3194">【】</font>
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+### affirm, allege, assert <font color="#0F3194">【断言】</font>
+* **affirm** v. **<font color="#0F3194">【断言...属实, 确认】</font>**
+* **<font color="#0F3194">【指公开宣称某事属实, 强调坚信不疑的态度】</font>**
+  - <font color="#F8791B">He affirmed the rumors of a pay increase. 他证实了涨薪的传闻。</font>
+  - <font color="#F8791B">She affirmed that he told the truth. 她确认他讲的是事实。</font>
 
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+* **allege** v. **<font color="#0F3194">【断言, 宣称】</font>**
+* **<font color="#0F3194">【尤指在未证实的情况下宣称某事属实, 或声称某人行事错误或违法, 常用被动语态。】</font>**
+  - <font color="#F8791B">It was alleged that Jack had struck Mr. Wilson on the head. 据称杰克打了威尔逊先生的头。</font>
+  - <font color="#F8791B">The thief alleged that the police forced him to make a false confession. 小偷声称警方逼迫他作假口供。</font>
 
-* **<font color="#0F3194">【小贴士】</font>**
-  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
-  - <font color="#F8791B"></font>
+* **assert** v. **<font color="#0F3194">【宣称; 断定】</font>**
+* **<font color="#0F3194">【指断然声称某种结论, 多为主管判断, 往往并无证据, 或有证据但不一定确实。】</font>**
+  - <font color="#F8791B">French movies, he asserted, are the best in the world. 他坚称法国电影是世界上最好的。</font>
+  - <font color="#F8791B">He asserted that he was in honest man. 他宣称自己是诚实的。</font>
 
 ---
-### <font color="#0F3194">【】</font>
+### after, behind <font color="#0F3194">【(在)后面】</font>
+* **after** prep., adv. **<font color="#0F3194">【在...后面; 以后】</font>**
+* **<font color="#0F3194">【强调位置、时间等顺序的先后】</font>**
+  - <font color="#F8791B">The dog ran after the thief. 那只狗在追赶小偷。</font>
+  - <font color="#F8791B">Tom entered the room after his girlfriend. 汤姆跟着女友进入了房间。</font>
+  - <font color="#F8791B">When will you come? Next week or the week after? 你什么时候会来? 下周还是下下周?</font>
+  - <font color="#F8791B">After you. 你先请。</font>
+
+* **behind** prep., adv. **<font color="#0F3194">【在...后面; 在后面】</font>**
+* **<font color="#0F3194">【多表示位置和方向的前后关系, 或指必须做的事情在时间上落后。】</font>**
+  - <font color="#F8791B">At that time she was sitting behind me. 那时她坐在我的身后。</font>
+  - <font color="#F8791B">A huge lake formed hehind the dam. 大坝后面形成了一个大的湖泊。(dam: 水坝,拦河坝; 母兽; 口语: 妈妈, damn 的委婉说法，较少用 )</font>
+  - <font color="#F8791B">I had to work on the weekend because I fell terribly behind. 我工作落后太多了, 不得不在周末加了班。</font>
+
+---
+### after, since <font color="#0F3194">【在...之后】</font>
+* **after** prep., conj. **<font color="#0F3194">【(时间) 在...以后】</font>**
+* **<font color="#0F3194">【一般不与现在时间发生关系, 故常和动词的过去时或过去完成时连用。】</font>**
+  - <font color="#F8791B">After school he went home. 放学以后, 他回家去了。</font>
+  - <font color="#F8791B">She began her study after moving to London. 搬到伦敦后她开始了自己的学业。</font>
+  - <font color="#F8791B">He came to see me after he had arrived. 他到达后就来看我了。</font>
+
+* **since** prep., conj. **<font color="#0F3194">【自...以来】</font>**
+* **<font color="#0F3194">【一般包含现在时间, 故常和动词的一般时或完成时连用。】</font>**
+* **<font color="#0F3194">【1. 主句中动词用现在完成时, since引导的从句中动词用一般过去时】</font>**
+  - <font color="#F8791B">You've changed a lot since we last met. 自从上次我们见面以来, 你变化好大啊。</font>
+  - <font color="#F8791B">Great changes have taken place in Beijing since 1985. 自1985年以来北京发生了很大的变化。</font>
+* **<font color="#0F3194">【2. 主句中主语为it, 动词用 一般现在时 或 一般过去时, since引导的从句中动词须用 一般过去时 或 过去完成时。】</font>**
+  - <font color="#F8791B">It is two years since we last parted. 我们上次分手以来已有两年了。</font>
+  - <font color="#F8791B">It was two years since we had last parted. 那时我们已经分手两年了。</font>
+
+---
+### aftermath, consequence, outcome, result <font color="#0F3194">【后果】</font>
+* **aftermath** n. **<font color="#0F3194">【后果, 余殃】</font>**
+* **<font color="#0F3194">【强调灾难(风暴、地震、战争等) 留下的后果】</font>**
+  - <font color="#F8791B">Life became even harder in the aftermath of the war. 战争过后生活变得更加艰难。</font>
+  - <font color="#F8791B">Measures were taken to prevent the disease in the aftermath of the earthquake. 已采取措施预防地震后引发疫病。</font>
+  - <font color="#F8791B">Measures were taken to prevent the disease outbreak in the aftermath of the earthquake. 地震后，采取了措施以防止疾病爆发。</font>
+
+* **consequence** n. **<font color="#0F3194">【后果, 结果】</font>**
+* **<font color="#0F3194">【强调逻辑关系, 多指不良结果】</font>**
+  - <font color="#F8791B">Have you considered the consequences [conse + quence] of your failure? 你考虑过失败的后果吗?</font>
+  - <font color="#F8791B">Who will shoulder the consequences of the war? 谁来承担战争的后果?</font>
+
+* **outcome** n. **<font color="#0F3194">【后果, 结果】</font>**
+* **<font color="#0F3194">【侧重指预先不知道的结果】</font>**
+  - <font color="#F8791B">The outcome of the war is the unconditional surrender of the enemy. 这场战争的结局就是敌人无条件投降</font>
+  - <font color="#F8791B">It's impossible to predict the outcome of the general election. 大选的结果无法预测。</font>
+
+* **result** n. **<font color="#0F3194">【后果, 结果】</font>**
+* **<font color="#0F3194">【普通用词, 强调因为某事而引起的结果】</font>**
+  - <font color="#F8791B">His illness is the result of drinking polluted water. 他的病是由饮用受污染的水引起的。</font>
+  - <font color="#F8791B">The development of different species is the result of nature selection. 不同物种的进化是自然选择的结果。</font>
+  - <font color="#F8791B">As a result of the heavy fog, all flights have been delayed. 由于雾太大, 所有航班都延误了。</font>
+
+
+---
+### ago, before, formerly, previously <font color="#0F3194">【以前】</font>
+* **ago** adv. **<font color="#0F3194">【以前】</font>**
+* **<font color="#0F3194">【指从现在起往前算一段时间, 通常和一般过去时的动词连用】</font>**
+  - <font color="#F8791B">He left a moment ago. 他刚走。</font>
+  - <font color="#F8791B">There was a pond here there years ago. 3年前,这里有一个池塘。</font>
+
+* **before** adv. **<font color="#0F3194">【先前, 以前】</font>**
+* **<font color="#0F3194">【指过去某时间之前的时间或泛指以前, 通常与动词的**现在完成时**连用, 有时也可与动词的**过去完成时**或**一般过去时**连用, 也可用于具体的一段时间; 在间接引语中用 before 而不用 ago.】</font>**
+  - <font color="#F8791B">Have you heard about it before? 你过去听说过这件事吗?</font>
+  - <font color="#F8791B">I have never met him before. 我以前从未见过他。</font>
+  - <font color="#F8791B">He said that he had met the man somewhere before. 他说他以前在什么地方见过这个人。</font>
+  - <font color="#F8791B">He was in Italy the week before. 他前一个星期在意大利。</font>
+
+* **formerly** adv. **<font color="#0F3194">【以前, 从前】</font>**
+* **<font color="#0F3194">【泛指以前, 有时常用于对比】</font>**
+  - <font color="#F8791B">Formerly, Ted often lingered around a park. with noting to do. 从前, 特德时常在公园里闲逛, 无所事事。</font>
+  - <font color="#F8791B">He was formerly a worker, but now he is a manager of a shop. 他曾经是个工人, 可现在他是一家商店的经理。</font>
+
+* **previously** adv. **<font color="#0F3194">【以前, 先前】</font>**
+* **<font color="#0F3194">【与before用法相同, 但更加正式】</font>**
+  - <font color="#F8791B">I haven't met him previously. 我以前没有见过他。</font>
+  - <font color="#F8791B">She previously worked as a teacher. 她过去当过教师。</font>
+  - <font color="#F8791B">Six months perviously [per + vious + ly] he had quitted his job. 6个月前他辞职了。</font>
+
+---
+### agree, accede, approve, assent, consent<font color="#0F3194">【同意】</font>
+* **agree** v. **<font color="#0F3194">【同意, 赞成】</font>**
+* **<font color="#0F3194">【最普通用词, 指就某一计划、安排、建议等与他人持相同看法, 常后接介词to/with、动词不定式或that从句】</font>**
+  - <font color="#F8791B">They agreed to the plan. 他们都同意这项计划。</font>
+  - <font color="#F8791B">The firm agreed to the terms. 公司同意这些条件。</font>
+  - <font color="#F8791B">That director agreed to do the film. 那名导演同意拍那部电影。</font>
+  - <font color="#F8791B">Most people nowadays would agree that ability is more important than a diploma. 如今大多数人这么认为, 能力比学历更重要。</font>
+
+* **accede** v. **<font color="#0F3194">【同意, 答应】</font>**
+* **<font color="#0F3194">【尤指最初不同意后又应允要求、请求、计划等, 常后接介词to】</font>**
+  - <font color="#F8791B">He didn't accede to my request. 他没有同意我的请求。</font>
+  - <font color="#F8791B">We all acceded to the demands for his resignation. 我们大家都同意要他辞职的请求。</font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
 * **** v. **<font color="#0F3194">【】</font>**
 * **<font color="#0F3194">【】</font>**
   - <font color="#F8791B"></font>
@@ -937,8 +992,14 @@
   - <font color="#F8791B"></font>
   - <font color="#F8791B"></font>
 
-* **<font color="#0F3194">【小贴士】</font>**
-  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
+  - <font color="#F8791B"></font>
+
+* **** v. **<font color="#0F3194">【】</font>**
+* **<font color="#0F3194">【】</font>**
+  - <font color="#F8791B"></font>
   - <font color="#F8791B"></font>
 
 ---
