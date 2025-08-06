@@ -104,4 +104,63 @@
   - Many fish died in the polluted lake.  **受污染的湖中**许多鱼类死亡。
 
 ---
+### Persuasion
+* **说服**（动词: persuade; 名词: persuasion）
+  - 例：She used gentle persuasion to change his mind. 她通过温和的说服让他改变了主意。
+
+* **劝服/劝导**（更强调过程或技巧）
+  - 例：The art of persuasion is key in negotiations. 劝导的艺术是谈判的关键。
+
+* **信念/信仰**（在特定语境下，尤指宗教或哲学观点）
+  - 例：people of different persuasions 不同信仰的人
+
+* 根据上下文选择最合适的译法。如果是简·奥斯汀的小说《*Persuasion*》，则固定译名为**《劝导》**。
+
+---
+### spotted
+* 作形容词（表示"有斑点的"）
+* **spotted** = 有斑点的、有污点的、斑驳的
+* 常用于描述动物、皮肤、布料等。
+* 例句:
+  - a spotted dog  一只带斑点的狗
+  - spotted fabric  有斑点图案的布料
+
+---
+* 作动词 spot 的过去式/过去分词（表示"发现; 看见"）
+* **spot (v.)** = 发现，认出，看出
+* **spotted** = 已经发现了，被看到的
+* 例句:
+  - I spotted him in the crowd. 我在人群中认出了他。
+  - She was spotted entering the building. 她被人看见进入了那栋楼。
+
+---
+* 比如在军事、游戏或侦查语境中：
+  - The sniper has spotted the target. 狙击手已发现目标。
+
+---
+### presence
+* presence n.
+
+* 存在；出席；在场
+- 这是最常见的意思，表示某人或某物“在某处”的状态。
+- 例句:
+  * His presence was noticed immediately. 他一出现就被注意到了。
+  * She spoke in the presence of her parents. 她在父母面前讲话。
+  * The presence of police deterred the crime. 警察的存在起到了威慑作用。
+
+* 气场; 仪态; 影响力
+- 用于描述某人带有强烈的个人魅力或影响力，尤其是公众人物或权威人物。
+
+- 例句:
+  * She has a powerful presence on stage. 她在舞台上有强大的气场。
+  * The general had an intimidating presence. 那位将军有一种令人畏惧的威严气质。
+
+* （科技、商业等）线上存在; 部署
+* 在数字/商业语境中，指"存在感"或"存在状态"，比如网络、市场上的存在。
+
+* 例句：
+  - The brand has a strong online presence. 这个品牌在网上有强大的存在感。
+  - Military presence in the region has increased. 该地区的军事部署增强了。
+
+---
 ![alt text](https://upload- <font color="#F8791B">bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50</font>f9c9f299c_1259576169906078498.PNG?x- <font color="#F8791B">oss- <font color="#F8791B">process=image//resize,s_600/quality,q_80/auto- <font color="#F8791B">orient,0</font>/interlace,1/format,png</font>)

@@ -72,7 +72,7 @@
   - 九幽玄天 3.27
 * [Believer.67](https://v.douyin.com/sdprE26WI48/)
   - [共鸣叙事家·去找到你生命中的快乐！](https://v.douyin.com/kQjzqhUHk2k/)
-
+  - [荒野生存](https://v.douyin.com/J_jP3V0t678/)
 ---
 ### 004. TVBOX
 * [配置地址](http://xhztv.top/xhz)

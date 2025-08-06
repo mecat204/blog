@@ -977,142 +977,145 @@
   - <font color="#F8791B">He didn't accede to my request. 他没有同意我的请求。</font>
   - <font color="#F8791B">We all acceded to the demands for his resignation. 我们大家都同意要他辞职的请求。</font>
 
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+* **approve** v. **<font color="#0F3194">【同意, 赞同】</font>**
+* **<font color="#0F3194">【指认为某人或某事是好的、对的、合适的, 常后接介词of】</font>**
+  - <font color="#F8791B">Did your father approve? 你父亲同意了吗?</font>
+  - <font color="#F8791B">I strongly approve of your proposal. 我十分赞同你的提议。</font>
+  - <font color="#F8791B">Mary took it for granted that they would approve of the idea. 玛丽想当然地认为他们一定会同意这个想法。</font>
 
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+* **assent** v. **<font color="#0F3194">【同意, 赞成】</font>**
+* **<font color="#0F3194">【指审慎考虑后同意某项建议、要求、意见、计划等, 常后接介词to。】</font>**
+  - <font color="#F8791B">He assented to the committee's proposal. 他同意委员会的建议。</font>
+  - <font color="#F8791B">Have they assented to the term of the contract? 他们同意合同的条款了吗?</font>
 
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
-
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
-
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+* **consent** v. **<font color="#0F3194">【同意, 允许】</font>**
+* **<font color="#0F3194">【较正式用词, 指同意别人的请求、建议或满足他人的愿望, 常后接介词to 或带 to的动词不定式】</font>**
+  - <font color="#F8791B">I'm sure your teacher won't consent. 我确信你的老师不会同意的。</font>
+  - <font color="#F8791B">After hours of persuasion they consented to abandon the strike. 经过几个小时的劝说, 他们同意放弃罢工。 </font>
+  - <font color="#F8791B">Her father reluctantly consented to the marriage. 她父亲勉强答应了这桩婚姻。</font>
 
 ---
-### <font color="#0F3194">【】</font>
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+### agreement, accord <font color="#0F3194">【一致】</font>
+* **agreement** n. **<font color="#0F3194">【一致, 相合】</font>**
+* **<font color="#0F3194">【指双方或有关各方意见的相同】</font>**
+  - <font color="#F8791B">The board finally reached agreement on two important issues. 董事会最终就两个重要问题达成了一致。</font>
+  - <font color="#F8791B">However, not all scholar were in agreement with him. 然而, 并非所有学者都与他意见一致。</font>
 
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
-
-* **<font color="#0F3194">【小贴士】</font>**
-  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
-  - <font color="#F8791B"></font>
+* **accord** n. **<font color="#0F3194">【一致, 符合】</font>**
+* **<font color="#0F3194">【通常用于be in accord with sth 结构中, 指观点、行为、结果等与某事物一致或相符合。】</font>**
+  - <font color="#F8791B">These results seem to be in accord with earlier research. 这些结果似乎与先前的研究一致。</font>
+  - <font color="#F8791B">This peoject is completely in accord with government policy. 该项目完全符合政府政策。</font>
 
 ---
-### <font color="#0F3194">【】</font>
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+### agriculture, farming, husbandry<font color="#0F3194">【农业】</font>
+* **agriculture** n. **<font color="#0F3194">【农业】</font>**
+* **<font color="#0F3194">【普通用词, 包括农业生产的方方面面, 如耕作、种植、收获等，同时也包括家畜、家禽等的养殖。】</font>**
+  - <font color="#F8791B">Agriculture is essential to a nation. 农业对一个国家非常重要。</font>
+  - <font color="#F8791B">The development of agriculture [agri + culture] is faster than erver before. 农业发展比以往任何时候都快。</font>
 
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+* **farming** n. **<font color="#0F3194">【耕种; 农场业】</font>**
+* **<font color="#0F3194">【着重指为市场生产粮食和经济作物而进行的耕作, 也表示对农场的经营管理等。】</font>**
+  - <font color="#F8791B">Farming is not easy to learn. 农耕不容易学。</font>
+  - <font color="#F8791B">Farmers understands farming. 农民懂得如何耕作。</font>
 
-* **<font color="#0F3194">【小贴士】</font>**
-  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
-  - <font color="#F8791B"></font>
-
----
-### <font color="#0F3194">【】</font>
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
-
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
-
-* **<font color="#0F3194">【小贴士】</font>**
-  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
-  - <font color="#F8791B"></font>
+* **husbandry** n. **<font color="#0F3194">【农业; 农牧业; 饲养业】</font>**
+* **<font color="#0F3194">【强调自给自足, 或向小范围提供农产品, 而不是供应较大的市场, 也指对多种经营(如养蜂、养鸡等)的管理。】</font>**
+  - <font color="#F8791B">animal husbandry 畜牧业, Handbook of Primate Husbandry and Welfare. 《灵长类动物的饲养与福利手册》</font>
 
 ---
-### <font color="#0F3194">【】</font>
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+### air, atmosphere, breeze, draught <font color="#0F3194">【空气】</font>
+* **air** n. **<font color="#0F3194">【空气】</font>**
+* **<font color="#0F3194">【指人类所呼吸的地球上的气体】</font>**
+  - <font color="#F8791B">There would be no life without air. 没有空气就没有生命。</font>
+  - <font color="#F8791B">Fresh air is beneficial to heath. 新鲜空气有益于健康。</font>
 
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+* **atmosphere** n. **<font color="#0F3194">【大气(层); 空气】</font>**
+* **<font color="#0F3194">【指围绕地球的大气层, 或室内的空气】</font>**
+  - <font color="#F8791B">What are the functions of the upper atmosphere? 高层大气的作用有哪些?</font>
+  - <font color="#F8791B">She felt dizzy in the smoky atmosphere. 烟雾弥漫的空气使她感到头晕。</font>
 
-* **<font color="#0F3194">【小贴士】</font>**
-  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
-  - <font color="#F8791B"></font>
+* **breeze** n. **<font color="#0F3194">【微风】</font>**
+* **<font color="#0F3194">【指因空气流动而生成的和风。】</font>**
+  - <font color="#F8791B">She likes walking in a spring breeze. 她喜欢在春风里散步。</font>
+  - <font color="#F8791B">There is a lovely cool breeze under the trees. 树下凉风宜人。</font>
 
----
-### <font color="#0F3194">【】</font>
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
-
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
-
-* **<font color="#0F3194">【小贴士】</font>**
-  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
-  - <font color="#F8791B"></font>
+* **draught** n. **<font color="#0F3194">【穿堂风, 冷风】</font>**
+* **<font color="#0F3194">【尤指室内等处寒冷的过堂风】</font>**
+  - <font color="#F8791B">The room has a draught in the winter. 这房间冬天有穿堂风。</font>
+  - <font color="#F8791B">She sat in a draught and caught a cold. 她坐在风口上, 着凉了。</font>
 
 ---
-### <font color="#0F3194">【】</font>
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+### airport, aerodrome, airfield<font color="#0F3194">【机场】</font>
+* **airport** n. **<font color="#0F3194">【机场, 航空港】</font>**
+* **<font color="#0F3194">【通常指较大的航空站, 有跑道、候机大厅、机库、塔台等建筑物】</font>**
+  - <font color="#F8791B">We waited at the airport for about 2 hours before taking off. 我们在机场等了差不多两个小时才起飞。</font>
+  - <font color="#F8791B">There was a newly-built runway at the airport. 机场又新建了一个跑道。</font>
 
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+* **aerodrome** n. **<font color="#0F3194">【小型飞机场】</font>**
+* **<font color="#0F3194">【通常占地面积较小、设施较少且乘客人数也不多】</font>**
+  - <font color="#F8791B">The government planned to build an aerodrome within 6 months. 该政府曾计划在半年内建一座小型飞机场。</font>
+  - <font color="#F8791B">The aerodrome [aero + drome] can only meet the needs of a small number of passengers. 该小型飞机场的旅客吞吐量很小。</font>
 
-* **<font color="#0F3194">【小贴士】</font>**
-  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
-  - <font color="#F8791B"></font>
+* **airfield** n. **<font color="#0F3194">【机场】</font>**
+* **<font color="#0F3194">【强调可供飞机起飞与降落之处, 也可指军用机场, 与 airport 不同的是, airfield 不一定具备大的机库或修配厂之类的附属设施】</font>**
+  - <font color="#F8791B">The pilot could not land because the airfiled was too foggy. 机场雾太大, 这名飞行员无法降落。</font>
+  - <font color="#F8791B">Any minute they'd be sportted by enemy planes flying in and out of the airfield. 他们随时都会被进出机场的敌机发现。</font>
 
 ---
-### <font color="#0F3194">【】</font>
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+### align, exotic, foreign, overseas <font color="#0F3194">【外国的】</font>
+* **alien** adj. **<font color="#0F3194">【外国的, 异域的】</font>**
+* **<font color="#0F3194">【指属于另一个国家的, 比foreign 更正式, 但没有foreign使用普遍, 且常含贬义。】</font>**
+  - <font color="#F8791B">They were opposed to the presence of alien forces in the region. 他们反对外国军队驻扎在该地区。</font>
+  - <font color="#F8791B">He was interested in alien cultures. 他曾对异域文化感兴趣。</font>
 
-* **** v. **<font color="#0F3194">【】</font>**
-* **<font color="#0F3194">【】</font>**
-  - <font color="#F8791B"></font>
-  - <font color="#F8791B"></font>
+* **exotic** adj. **<font color="#0F3194">【来自异国的, 外国情调的】</font>**
+* **<font color="#0F3194">【尤指来自热带国家的】</font>**
+  - <font color="#F8791B">I like brightly-coloured exotic flowers. 我喜欢色彩鲜艳的异国花卉。</font>
+  - <font color="#F8791B">She prefers to travel to exotic places. 她更愿去有异国风情的地方旅行。</font>
 
-* **<font color="#0F3194">【小贴士】</font>**
-  - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
-  - <font color="#F8791B"></font>
+* **foreign** adj. **<font color="#0F3194">【外国的, 国外的】</font>**
+* **<font color="#0F3194">【普通用词, 泛指来自他国的或与他国有关的】</font>**
+  - <font color="#F8791B">After living in foreign countries for many years, he returned home. 在国外居住多年之后, 他回到了家。</font>
+  - <font color="#F8791B">All foreign troops must be withdrawn immediately and unconditionally. 所有外国军队必须立即无条件地撤出。</font>
+
+* **overseas** adj. **<font color="#0F3194">【海外的, 外国来的】</font>**
+* **<font color="#0F3194">【指来自、存在于或发生在海外国家的, 只作定语】</font>**
+  - <font color="#F8791B">There are many overseas students now coming to China to study Chinese. 现在有很多外国留学生来中国学习汉语。</font>
+  - <font color="#F8791B">The company has invested more money into its overseas market. 该公司已经将更多的资金投入了海外市场。</font>
+
+---
+### alike, like <font color="#0F3194">【相同, 和...类似】</font>
+* **alike** adj., adv. **<font color="#0F3194">【相像的(地), 同样的(地)】</font>**
+* **<font color="#0F3194">【作形容词时只作表语, 且前面只能用 much 或very much修饰, 不可单用very 一词。】</font>**
+  - <font color="#F8791B">The father and the son are alike in many ways. 父亲和儿子有许多相似之处。</font>
+  - <font color="#F8791B">The two sister are very much alike. 这姊妹两个非常相像。</font>
+  - <font color="#F8791B">You should treat all men alike. 你待人应该一视同仁。</font>
+
+* **like** adj., prep. **<font color="#0F3194">【相似的, 和...类似】</font>**
+* **<font color="#0F3194">【多用作介词, 作形容词时只作定语】</font>**
+  - <font color="#F8791B">a like instance/ manner 类似的例子/ 方式</font>
+  - <font color="#F8791B">Like his father, Tom is school teacher. 汤姆和父亲一样, 也是个老师。</font>
+  - <font color="#F8791B">She looks like a doctor. 她看上去像个大夫。</font>
+
+---
+### alive, animate, living<font color="#0F3194">【活着的】</font>
+* **alive** adj. **<font color="#0F3194">【活着的】</font>**
+* **<font color="#0F3194">【指相对于死亡而言, 通常作表语, 且不可用 very 修饰, 应用 much 或 very much, 作定语时须置于被修饰名词后面。 】</font>**
+  - <font color="#F8791B">He is still alive. 他还活着。(意为他本来有死的可能, 但没有死)</font>
+  - <font color="#F8791B">She is one of the greatest women still alive. 她是现今依然活着的最伟大的女人之一。</font>
+
+* **animate** adj. **<font color="#0F3194">【有生命的, 有生气的】</font>**
+* **<font color="#0F3194">【指相对石头、机器等无生命体而言的。】</font>**
+  - <font color="#F8791B">animate beings 生物</font>
+  - <font color="#F8791B">The tiger lay to still that is scarcely seemed animate. 那只老虎躺着一动不动, 简直不像活的。</font>
+
+* **living** adj. **<font color="#0F3194">【活着的, 健在的】</font>**
+* **<font color="#0F3194">【指"在某某时候是活着的", 用于修饰有生命的人或物, 既可作表语, 也可作定语】</font>**
+  - <font color="#F8791B">Other living beings might exist in outer space. 外层空间也许有其他生物存在。</font>
+  - <font color="#F8791B">He is one among the living men. 他是那些活着的人之一。</font>
+  - 比较:
+    * <font color="#F8791B">Old Tom is still living. 老汤姆依然活着。(强调继续生存下去)</font>
+    * <font color="#F8791B">Old Tom is lucky to be alive. 老汤姆能活着属实幸运。(强调没有死去)</font>
 
 ---
 ### <font color="#0F3194">【】</font>

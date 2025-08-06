@@ -108,6 +108,8 @@
   - 3遍循环记忆（永久刻进大脑）
 * [快听听力](https://v.douyin.com/06UXFkAWso0/)
   - [考试神器](https://v.douyin.com/wHfY52mXcJU/)
+* [乃炎英语](https://v.douyin.com/pPqC74m3eTU/)
+  - [日常口语](https://v.douyin.com/D8Wk9TkC14Y/)
 ---
 ### 005. 收藏&&Blog
 * **收藏**
