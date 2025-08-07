@@ -110,6 +110,13 @@
   - [考试神器](https://v.douyin.com/wHfY52mXcJU/)
 * [乃炎英语](https://v.douyin.com/pPqC74m3eTU/)
   - [日常口语](https://v.douyin.com/D8Wk9TkC14Y/)
+* **[开源雅思](https://www.ieltsday.com/)**
+  - [雅思词汇真经.pdf](https://drive.google.com/drive/folders/1TzLOdRB6AnEylq8nTxUp1r6lNTeQ3fhb)
+* [FreeMdict Foru- 自由 无门槛 免费](https://forum.freemdict.com/t/topic/9657)
+* **[FreeMdict Forum](https://forum.freemdict.com/)**
+* [牛津高阶、韦氏高阶和剑桥在线完美版](https://forum.freemdict.com/t/topic/25795/1)
+* [downloads.freemdict](https://downloads.freemdict.com/Recommend/)
+
 ---
 ### 005. 收藏&&Blog
 * **收藏**
@@ -146,6 +153,7 @@
 ### 006. Book·文学·书法
 * [金屋电子书](https://pdfs.top/)
 * [经典书库](https://www.jingdianbook.com/)
+* [MDdic](https://www.mdict.cn/wp/?page_id=5227&lang=zh)
 * 智慧猫
   - [智慧猫-Wisdom Cat](https://www.youtube.com/@wisdomcat369/videos)
   - [《超級思維》心智模型全解析](https://www.youtube.com/watch?v=kX8_uexJGE8)
