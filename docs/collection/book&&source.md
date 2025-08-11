@@ -393,7 +393,7 @@
 * [ifixit](https://zh.ifixit.com/)
 * [skyline](https://www.skylinewebcams.com/)
 * [yikm](https://www.yikm.net/)
-
+* [LINUX DO - 新的理想型社区](https://linux.do/)
 ---
 ### 031. 搜索引擎
 * **国内好用的搜索引擎**
@@ -413,6 +413,17 @@
 |[pikaso](https://www.pikaso.top/) | 皮卡搜索            |
 |[PanSearch](https://www.pansearch.me/) | PanSearch-网盘资源搜索 |
 
-### 032.
+### 032. BooK·Search
+* [安娜的档案](https://zh.annas-archive.gs/)
+* [Z-Library](https://zlib.wwwnav.com/)
+* [无名图书](https://www.book123.info/)
+* [熊猫搜书](https://xmsoushu.com/)
+* [书格](https://new.shuge.org/)
+* [鸠摩搜索](https://www.jiumodiary.com/)
+* [sobooks](https://sobooks.net/)
+* [8个在运营的电子书免费下载网站](https://zhuanlan.zhihu.com/p/677405936)
+* [电子书下载网站](https://linux.do/t/topic/62194)
+* [查找电子书](https://www.yuque.com/quruanpu/dimqr1/ioce0h7u9nf4uns4)
+* **[精选目录](https://www.yuque.com/quruanpu/dimqr1)**
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
