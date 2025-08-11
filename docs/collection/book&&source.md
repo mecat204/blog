@@ -414,7 +414,7 @@
 |[PanSearch](https://www.pansearch.me/) | PanSearch-网盘资源搜索 |
 
 ### 032. BooK·Search
-* [安娜的档案](https://zh.annas-archive.gs/)
+* [安娜的档案](https://zh.annas-archive.org/)
 * [Z-Library](https://zlib.wwwnav.com/)
 * [无名图书](https://www.book123.info/)
 * [熊猫搜书](https://xmsoushu.com/)
