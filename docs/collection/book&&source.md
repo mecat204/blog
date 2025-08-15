@@ -117,6 +117,7 @@
 * [牛津高阶、韦氏高阶和剑桥在线完美版](https://forum.freemdict.com/t/topic/25795/1)
 * [downloads.freemdict](https://downloads.freemdict.com/Recommend/)
 * [英语学习资源导航](https://en.knowledgefxg.com/)
+* [BigShot英语](https://v.douyin.com/6Oo1jTjwdM0/)
 ---
 ### 005. 收藏&&Blog
 * **收藏**
