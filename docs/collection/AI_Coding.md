@@ -170,6 +170,8 @@
 * [花儿不哭-B站](https://space.bilibili.com/5760446?spm_id_from=333.999.0.0)
 * [AI VTuber-制作](https://www.youtube.com/watch?v=QQI2UyFlk8c&list=PLji6-Hn_9g_WbjWjeR6rGKk_HeGd3xz1c)
 * [紅頭男RHM](https://www.youtube.com/watch?v=w8pr-nXkU-g)
+* [广叔AI](https://v.douyin.com/3RfhfAY8kuE/)
+
 
 ---
 ### 022. Neuro-sama
