@@ -118,6 +118,8 @@
 * [downloads.freemdict](https://downloads.freemdict.com/Recommend/)
 * [英语学习资源导航](https://en.knowledgefxg.com/)
 * [BigShot英语](https://v.douyin.com/6Oo1jTjwdM0/)
+* [ElenaLin_青青](https://www.youtube.com/@ElenaLin)
+* [英语能力突破_100个句子记完7000个雅思单词](https://www.youtube.com/watch?v=lob44iOFNYE&list=PLH8j2mKj10K1G7XjDvaG2hMXwNv36CioN)
 ---
 ### 005. 收藏&&Blog
 * **收藏**
