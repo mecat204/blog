@@ -120,6 +120,8 @@
 * [BigShot英语](https://v.douyin.com/6Oo1jTjwdM0/)
 * [ElenaLin_青青](https://www.youtube.com/@ElenaLin)
 * [英语能力突破_100个句子记完7000个雅思单词](https://www.youtube.com/watch?v=lob44iOFNYE&list=PLH8j2mKj10K1G7XjDvaG2hMXwNv36CioN)
+* [熊熊英语](https://www.youtube.com/@OneHourListen/videos)
+
 ---
 ### 005. 收藏&&Blog
 * **收藏**
@@ -191,8 +193,8 @@
 
 ---
 ### 007. 资源搜索
-* [阿里云资源](https://aliyunpan*com/)
-* [资源搜索](https://aliyunpan*com/search.php)
+* [阿里云资源](https://aliyunpan.com/)
+* [资源搜索](https://aliyunpan.com/search.php)
 
 ---
 ### 008. PDF
@@ -286,8 +288,10 @@
 * [dockur-windows](https://github.com/dockur/windows)
 * [WolfgangsChannel](https://www.youtube.com/@WolfgangsChannel)
 * [GeekHour-30分钟Docker入门教程](https://www.youtube.com/watch?v=Ozb9mZg7MVM)
-* *71 C@H.Ii 09/10 qEU:/ 真实工作中用的比较多的Python技术# # python # python编程  https://v.douyin.com/CeicVdB3/ 复制此链接，打开Dou音搜索，直接观看视频！
-* *25 01/07 h@b.AG zTl:/ 开源代码编辑器，快、高效 Lapce是一个用纯Rust编写的代码编辑器 目前在github上 34.6k star 它有着原生的GPU加速，让你的编程体验更加舒适# github # 编程 # 程序员 # IDE # 软件推荐  https://v.douyin.com/Ceicp2tQ/ 复制此链接，打开Dou音搜索，直接观看视频！
+* [Python导师-蚂蚁](https://v.douyin.com/ERpyeiwm7xA/)
+  - [真实工作中用的比较多的Python技术](https://v.douyin.com/CeicVdB3/)
+* [大侠之运维](https://v.douyin.com/amEqAzzQWqM/)
+  - [开源代码编辑器: Lapce是一个用纯Rust编写的代码编辑器](https://v.douyin.com/Ceicp2tQ/)
 * [Limin Studio](https://www.limin.studio/)
 * [CM喂饭 干货满满](https://www.youtube.com/@CMLiussss)
 * [CMLiussss](https://github.com/cmliu)
