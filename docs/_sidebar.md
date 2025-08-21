@@ -37,7 +37,7 @@
   - [words](Book/words)
   - [构词法速查表](Book/构词法速查表)
 * **CommonSense**
-  - [GeneralKnowlege](CommonSense/GeneralKnowlege)
+  - [GeneralKnowlege](CommonSense/GeneralKnowledge)
 * **同义词辨析词典**
   - [words](同义词辨析词典/words)
   - [template](同义词辨析词典/template)
