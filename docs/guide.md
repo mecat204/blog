@@ -1,29 +1,30 @@
 <!-- docs/guide.md -->
 * [**首页**](README)
-* **collection**
-  - [readme](collection/readme)
-  - [music](collection/music)
-  - [轻音乐](collection/轻音乐)
-  - [华语乐坛](collection/华语乐坛)
-  - [备忘录](collection/备忘录)
-  - [开源项目](collection/开源项目)
-  - [技术栈](collection/技术栈)
-  - [视频·壁纸下载](collection/视频·壁纸下载)
-  - [国风 | 艺术 | 古风](collection/国风&&艺术&&古风)
-  - [Book_Source](collection/book&&source)
-  - [Coding_Source](collection/Coding_Source)
-  - [Douyin_Game](collection/Douyin-Game)
-  - [Movie](collection/movie)
-* **code_snippet**
-  - [frontend](code_snippet/frontend)
-  - [js_func](code_snippet/js_func)
-  - [python](code_snippet/python)
-* **Technical_Guide**
-  - [npm](Technical_Guide/npm)
-  - [technology](Technical_Guide/Technology)
-  - [git](Technical_Guide/git)
-  - [net](Technical_Guide/net)
-  - [cmd&&gitbash](Technical_Guide/cmd&&gitbash)
+* **Collection**
+  - [readme](Collection/readme)
+  - [music](Collection/music)
+  - [轻音乐](Collection/轻音乐)
+  - [华语乐坛](Collection/华语乐坛)
+  - [备忘录](Collection/备忘录)
+  - [开源项目](Collection/开源项目)
+  - [技术栈](Collection/技术栈)
+  - [视频·壁纸下载](Collection/视频·壁纸下载)
+  - [国风 | 艺术 | 古风](Collection/国风&&艺术&&古风)
+  - [BookSource](Collection/BookSource)
+  - [CodingSource](Collection/CodingSource)
+  - [DouyinGame](Collection/DouyinGame)
+  - [Movie](Collection/movie)
+  - [AiCoding](Collection/AiCoding.md)
+* **CodeSnippet**
+  - [Frontend](CodeSnippet/Frontend)
+  - [JSfunc](CodeSnippet/JS_func)
+  - [Python](CodeSnippet/Python)
+* **TechnicalGuide**
+  - [npm](TechnicalGuide/npm)
+  - [technology](TechnicalGuide/Technology)
+  - [git](TechnicalGuide/git)
+  - [net](TechnicalGuide/net)
+  - [cmd&&gitbash](TechnicalGuide/cmd&&gitbash)
 * **Markdown**
   - [Markdown基础语法结构](markdown/01.Markdown的11种基本语法)
 * **Bash**
@@ -35,14 +36,14 @@
   - [瞬间记单词](Book/瞬间记单词)
   - [words](Book/words)
   - [构词法速查表](Book/构词法速查表)
-* **Common_sense**
-  - [general_knowlege](common_sense/general_knowledge)
+* **CommonSense**
+  - [GeneralKnowlege](CommonSense/GeneralKnowlege)
 * **同义词辨析词典**
-    - [words](同义词辨析词典/words)
-    - [template](同义词辨析词典/template)
-    - [a](同义词辨析词典/a)
+  - [words](同义词辨析词典/words)
+  - [template](同义词辨析词典/template)
+  - [a](同义词辨析词典/a)
 * **同义词辨析简化版**
-    - [a](同义词辨析简化版/a)
+  - [a](同义词辨析简化版/a)
 * **摘录集**
   - [Douyin](摘录集/douyin)
   - [认知](摘录集/认知)

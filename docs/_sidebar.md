@@ -10,14 +10,14 @@
   - [技术栈](Collection/技术栈)
   - [视频·壁纸下载](Collection/视频·壁纸下载)
   - [国风 | 艺术 | 古风](Collection/国风&&艺术&&古风)
-  - [Book_Source](Collection/BookSource)
-  - [Coding_Source](Collection/CodingSource)
-  - [Douyin_Game](Collection/DouyinGame)
+  - [BookSource](Collection/BookSource)
+  - [CodingSource](Collection/CodingSource)
+  - [DouyinGame](Collection/DouyinGame)
   - [Movie](Collection/movie)
   - [AiCoding](Collection/AiCoding.md)
 * **CodeSnippet**
   - [Frontend](CodeSnippet/Frontend)
-  - [JS_func](CodeSnippet/JS_func)
+  - [JSfunc](CodeSnippet/JS_func)
   - [Python](CodeSnippet/Python)
 * **TechnicalGuide**
   - [npm](TechnicalGuide/npm)
