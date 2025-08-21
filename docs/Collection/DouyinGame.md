@@ -43,6 +43,7 @@
   - [即梦·派蒙](https://v.douyin.com/oO0c-WPa1dI/)
 * [伊零Onezero](https://v.douyin.com/v5HAE4n2xGc/)
   - [生命绚烂，别被黑暗压垮](https://v.douyin.com/Elmy8sKu6mc/)
+* [别解爱](https://v.douyin.com/pDS_qqPXUnc/)
 
 ---
 ### 003. 国漫

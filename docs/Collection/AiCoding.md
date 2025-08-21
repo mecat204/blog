@@ -163,6 +163,7 @@
 ### 020. AI
 * [海螺ai](https://hailuoai.video/)
 * [styleai](https://styleai.art/zh)
+* [AI小宝](https://v.douyin.com/wx_nR-9NhnQ/)
 
 ---
 ### 021. AI·Vtuber
