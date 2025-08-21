@@ -121,6 +121,9 @@
 * [ElenaLin_青青](https://www.youtube.com/@ElenaLin)
 * [英语能力突破_100个句子记完7000个雅思单词](https://www.youtube.com/watch?v=lob44iOFNYE&list=PLH8j2mKj10K1G7XjDvaG2hMXwNv36CioN)
 * [熊熊英语](https://www.youtube.com/@OneHourListen/videos)
+* [Felix英语](https://v.douyin.com/LuaEhzr_HZc/)
+* [甜甜教英语](https://v.douyin.com/mpd3SzfNxI4/)
+* [薛麦Max](https://v.douyin.com/B17fqLy_u_0/)
 
 ---
 ### 005. 收藏&&Blog
@@ -369,27 +372,30 @@
   - [对 ChatGPT 说:谢谢](https://www.36kr.com/p/3259665580814593)
 * 人人都是产品经理
   - [AI时代，牛马的结局终将是被抛弃](https://www.woshipm.com/ai/6207607.html)
----
 
+---
 ### 024. 医学
 * [biodigital](https://human.biodigital.com/login?returnUrl=/explore)
 
 ---
 ### 025. Course
 * [classcentral](https://www.classcentral.com/)
+
 ---
 ### 026. News
 * [minimalist](https://www.newsminimalist.com/)
 * [今日热榜](https://tophub.today/)
----
 
+---
 ### 027. 全球地震数据
 * [全球地震数据](https://seismic-explorer.concord.org)
+
 ---
 ### 028. 全球气象数据
 * [全球气象数据](https://earth.nullschool.net/)
 * [ventusky](https://www.ventusky.com/)
 * [windy.com](https://windy.com)
+
 ---
 ### 029. 梵蒂冈教堂
 * [梵蒂冈教堂](https://virtual.basilicasanpietro.va/en/basilica-viewer/st-peters-square)
@@ -401,6 +407,7 @@
 * [skyline](https://www.skylinewebcams.com/)
 * [yikm](https://www.yikm.net/)
 * [LINUX DO - 新的理想型社区](https://linux.do/)
+
 ---
 ### 031. 搜索引擎
 * **国内好用的搜索引擎**
@@ -420,6 +427,7 @@
 |[pikaso](https://www.pikaso.top/) | 皮卡搜索            |
 |[PanSearch](https://www.pansearch.me/) | PanSearch-网盘资源搜索 |
 
+---
 ### 032. BooK·Search
 * [安娜的档案](https://zh.annas-archive.org/)
 * [Z-Library](https://zlib.wwwnav.com/)
@@ -432,5 +440,9 @@
 * [电子书下载网站](https://linux.do/t/topic/62194)
 * [查找电子书](https://www.yuque.com/quruanpu/dimqr1/ioce0h7u9nf4uns4)
 * **[精选目录](https://www.yuque.com/quruanpu/dimqr1)**
+
+---
+### 033. Translate
+* [UPDF](https://www.updf.cn/)
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
