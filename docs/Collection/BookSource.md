@@ -195,9 +195,8 @@
   - [中文里每一个词都不是滥竽充数的](https://v.douyin.com/8EuHNH5Ihhw/)
 
 ---
-### 007. 资源搜索
-* [阿里云资源](https://aliyunpan.com/)
-* [资源搜索](https://aliyunpan.com/search.php)
+### 007. Translate
+* [UPDF](https://www.updf.cn/)
 
 ---
 ### 008. PDF
@@ -206,12 +205,13 @@
 ---
 ### 009. Source Search
 * [小云搜索](https://www.yunso.net/)
+* [阿里云盘资源论坛](https://aliyunpan1.com/)
 
 ---
 ### 010. Course
 * [林粒粒呀](https://v.douyin.com/4RGrEHqrQ5g/)
   - [3小时学Python](https://v.douyin.com/qPcLNQj2v9U/)
-* [python+AI探路者](https://v.douyin.com/Rmr9WZOLKSw/)
+* [Python + AI探路者](https://v.douyin.com/Rmr9WZOLKSw/)
   - [九九乘法表](https://v.douyin.com/WxaV9DmPJaQ/)
 
 ---
@@ -441,8 +441,5 @@
 * [查找电子书](https://www.yuque.com/quruanpu/dimqr1/ioce0h7u9nf4uns4)
 * **[精选目录](https://www.yuque.com/quruanpu/dimqr1)**
 
----
-### 033. Translate
-* [UPDF](https://www.updf.cn/)
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)

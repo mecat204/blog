@@ -9,7 +9,7 @@
 * [传统美学](https://v.douyin.com/emIQtOIkz3I/)
 
 ---
-### 002. 原神·抖音
+### 002. 原神·米哈游
 * [鹤木岩雄](https://v.douyin.com/IeD_MpduOA8/)
   - [胡桃](https://v.douyin.com/7JANUV-BQUo/)
   - [雷神](https://v.douyin.com/L-wHOO3jDmA/)
@@ -44,12 +44,17 @@
 * [伊零Onezero](https://v.douyin.com/v5HAE4n2xGc/)
   - [生命绚烂，别被黑暗压垮](https://v.douyin.com/Elmy8sKu6mc/)
 * [别解爱](https://v.douyin.com/pDS_qqPXUnc/)
+* [散华灬星魂](https://v.douyin.com/C2mM-W0qvd0/)
+  - [米哈游·混剪](https://v.douyin.com/2bNAZi0gJzY/)
+  - 米哈游·混剪-在黎明升起时坠落
 
 ---
 ### 003. 国漫
 * 仙逆
   * [忘川ForgetRiver]
     - [云雀子](https://v.douyin.com/jye8NYzS7WI/)
+* **[在下蕾姆有何贵干](https://v.douyin.com/omAIorIaZOI/)**
+  - [100部动漫联手拯救世界](https://v.douyin.com/smE7rGkCs4g/)
 
 ---
 ### 004. 抖音
