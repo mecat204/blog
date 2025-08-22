@@ -206,5 +206,374 @@ git push origin main
   - 合并后记得推送（push）到远程，保持远程仓库同步
 
 ---
+### 06. 多账号 SSH 配置示例
+* 我给你整理一个 **多账号 SSH 配置示例**，方便你在 **GitHub / Gitee / GitLab** 或多个 GitHub 账号之间切换。
+
+---
+
+* **多账号 SSH 配置示例**
+
+* 编辑文件：
+
+``` bash
+nano ~/.ssh/config
+```
+
+* 写入以下内容（根据你自己的私钥路径改）：
+
+``` ssh
+# ===============================
+# 默认 GitHub 账号（使用 id_rsa）
+# ===============================
+Host github.com
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/id_rsa
+    IdentitiesOnly yes
+
+# ===============================
+# 第二个 GitHub 账号（使用 id_rsa_gmail）
+# 用别名 github-gmail 来区分
+# ===============================
+Host github-gmail
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/id_rsa_gmail
+    IdentitiesOnly yes
+
+# ===============================
+# Gitee 账号（示例）
+# ===============================
+Host gitee.com
+    HostName gitee.com
+    User git
+    IdentityFile ~/.ssh/id_rsa_gitee
+    IdentitiesOnly yes
+
+# ===============================
+# GitLab 账号（示例）
+# ===============================
+Host gitlab.com
+    HostName gitlab.com
+    User git
+    IdentityFile ~/.ssh/id_rsa_gitlab
+    IdentitiesOnly yes
+```
+
+* **使用方法:**
+
+1. 默认 GitHub 账号:
+
+```bash
+git clone git@github.com:user/repo.git
+```
+
+> 使用 `~/.ssh/id_rsa`。
+
+2. 第二个 GitHub 账号（gmail）
+
+```bash
+git clone git@github-gmail:user/repo.git
+```
+
+> 注意这里 **`github-gmail`** 是上面 `Host` 定义的别名。
+
+3. Gitee
+
+```bash
+git clone git@gitee.com:user/repo.git
+```
+
+4. GitLab
+
+```bash
+git clone git@gitlab.com:user/repo.git
+```
+
+---
+
+* 检查是否配置成功
+
+* 测试连接:
+
+```bash
+ssh -T git@github.com
+ssh -T git@github-gmail
+ssh -T git@gitee.com
+ssh -T git@gitlab.com
+```
+
+* 如果返回类似:
+
+```
+Hi your-username! You've successfully authenticated, but GitHub does not provide shell access.
+```
+
+* 说明 OK ✅
+
+---
+
+> 小技巧：
+- 如果你经常切换账号，可以用 **`ssh-add`** 提前加载密钥，避免频繁输入密码：
+
+``` bash
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+ssh-add ~/.ssh/id_rsa_gmail
+```
+
+---
+### 07. Git 多账号邮箱配置指南
+*  **Git 多账号邮箱配置指南**，能在不同仓库用不同邮箱，不会把工作账号和个人账号的 commit 搞混。
+
+---
+
+* **Git 多账号邮箱配置方法**
+
+1. 设置全局默认账号（常用邮箱）
+
+* 先设置一个 **全局账号**（比如个人 GitHub）：
+
+```bash
+git config --global user.name "你的名字"
+git config --global user.email "yourname@gmail.com"
+```
+
+* 这样在没有特别指定时，默认都会用这个邮箱。
+
+---
+
+2. 为单个仓库指定账号（覆盖全局）
+
+* 进入某个仓库目录，然后设置：
+
+```bash
+git config user.name "工作账号名字"
+git config user.email "workmail@company.com"
+```
+
+* 这样，这个仓库的提交就会用工作邮箱，不会影响其他仓库。
+
+---
+
+3. 使用 `.gitconfig` 分组配置（推荐）
+
+* 可以在 `~/.gitconfig` 里写规则，让 Git 自动根据目录使用不同邮箱。
+
+* 编辑 `~/.gitconfig`:
+
+```ini
+[user]
+    name = Your Default Name
+    email = yourname@gmail.com
+
+# 在工作目录下自动切换邮箱
+[includeIf "gitdir:~/work/"]
+    path = ~/.gitconfig-work
+
+[includeIf "gitdir:~/personal/"]
+    path = ~/.gitconfig-personal
+```
+
+* 再分别创建：
+
+* `~/.gitconfig-work`
+
+```ini
+[user]
+    name = WorkAccount
+    email = workmail@company.com
+```
+
+* `~/.gitconfig-personal`
+
+```ini
+[user]
+    name = PersonalAccount
+    email = yourname@gmail.com
+```
+
+> 这样，只要在 `~/work/` 下的仓库提交，就会自动用工作邮箱；在 `~/personal/` 下则用个人邮箱。
+
+---
+
+4. 检查当前仓库的账号配置
+
+* 在仓库里运行：
+
+```bash
+git config user.name
+git config user.email
+```
+
+> 就能确认这个仓库用的是什么账号。
+
+---
+
+5. 验证提交记录
+
+* 提交后可以查看：
+
+```bash
+git log --pretty=format:'%h %an <%ae> %s'
+```
+
+> 确认提交作者（`%an` 名字，`%ae` 邮箱）。
+
+---
+**总结:**
+
+* **简单场景**：全局设置 + 仓库内覆盖。
+* **复杂场景**：用 `includeIf` 自动按目录切换，最省心。
+
+---
+### 08. SSH 多账号 + Git 多邮箱」组合配置示例
+* **「SSH 多账号 + Git 多邮箱」组合配置示例**
+  - **GitHub 个人账号**
+  - **GitHub 工作账号**
+  - **Gitee 账号**
+
+> 不会出现 commit 记录乱掉、SSH 公钥冲突的问题。
+
+---
+
+* **组合配置方案**
+
+1. 生成不同 SSH key
+
+```bash
+# GitHub 个人账号
+ssh-keygen -t ed25519 -C "yourname@gmail.com" -f ~/.ssh/id_github_personal
+
+# GitHub 工作账号
+ssh-keygen -t ed25519 -C "workmail@company.com" -f ~/.ssh/id_github_work
+
+# Gitee
+ssh-keygen -t ed25519 -C "yourname@gitee.com" -f ~/.ssh/id_gitee
+```
+
+---
+
+2. 配置 SSH Config
+
+* 编辑 `~/.ssh/config`：
+
+```ssh
+# ========== GitHub 个人账号 ==========
+Host github-personal
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/id_github_personal
+    IdentitiesOnly yes
+
+# ========== GitHub 工作账号 ==========
+Host github-work
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/id_github_work
+    IdentitiesOnly yes
+
+# ========== Gitee ==========
+Host gitee
+    HostName gitee.com
+    User git
+    IdentityFile ~/.ssh/id_gitee
+    IdentitiesOnly yes
+```
+
+---
+
+3. 配置 Git 多邮箱
+
+* 编辑 `~/.gitconfig`：
+
+```ini
+[user]
+    name = Default Name
+    email = yourname@gmail.com
+
+[includeIf "gitdir:~/projects/personal/"]
+    path = ~/.gitconfig-personal
+
+[includeIf "gitdir:~/projects/work/"]
+    path = ~/.gitconfig-work
+
+[includeIf "gitdir:~/projects/gitee/"]
+    path = ~/.gitconfig-gitee
+```
+
+* **`~/.gitconfig-personal`**
+
+```ini
+[user]
+    name = PersonalAccount
+    email = yourname@gmail.com
+```
+
+* **`~/.gitconfig-work`**
+
+```ini
+[user]
+    name = WorkAccount
+    email = workmail@company.com
+```
+
+* **`~/.gitconfig-gitee`**
+
+```ini
+[user]
+    name = GiteeAccount
+    email = yourname@gitee.com
+```
+
+---
+4. 克隆仓库的方式
+
+* **GitHub 个人项目**
+
+  ```bash
+  git clone git@github-personal:yourname/repo.git ~/projects/personal/repo
+  ```
+
+* **GitHub 工作项目**
+
+  ```bash
+  git clone git@github-work:company/repo.git ~/projects/work/repo
+  ```
+
+* **Gitee 项目**
+
+  ```bash
+  git clone git@gitee:yourname/repo.git ~/projects/gitee/repo
+  ```
+
+---
+
+5. 验证效果
+
+* 进入不同目录后，检查：
+
+```bash
+git config user.name
+git config user.email
+```
+
+* 然后测试 SSH 是否正确：
+
+```bash
+ssh -T git@github-personal
+ssh -T git@github-work
+ssh -T git@gitee
+```
+
+---
+
+* 这样配置后：
+
+* 不同仓库用不同 **邮箱**，commit 记录不会串。
+* 不同平台 / 账号用不同 **SSH key**，不会冲突。
+* 只需记住 `Host` 别名（`github-personal` / `github-work` / `gitee`），克隆时写对就行。
+
+---
 ![Alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
 

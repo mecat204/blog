@@ -125,8 +125,8 @@ npm 用来安装“别的包”（不是它自己）
   ```
 
   - 可以不全局安装 create-react-app，更轻量。
----
 
+---
 ### 03. 详解 npx create-react-app myapp
 
 ``` bash
@@ -215,6 +215,22 @@ npx create-react-app myapp --use-npm      # 强制用 npm（默认可能是 yarn
 npx create-react-app myapp --use-pnpm     # 用 pnpm
 npx create-react-app myapp --template typescript   # 创建 TypeScript 模板
 ```
+
+---
+### 04. Git Clone 常见用法对照表
+| 用法                  | 命令示例                                                                    | 说明                            |
+| ------------------- | ----------------------------------------------------------------------- | ----------------------------- |
+| **克隆完整仓库**          | `git clone https://github.com/user/repo.git`                            | 默认拉取整个历史记录（体积可能很大）            |
+| **浅克隆（只取最新一次提交）**   | `git clone --depth=1 https://github.com/user/repo.git`                  | 只下载最新提交，节省空间和时间               |
+| **浅克隆 N 次提交**       | `git clone --depth=5 https://github.com/user/repo.git`                  | 下载最近 5 次提交，历史有限               |
+| **克隆特定分支**          | `git clone -b develop https://github.com/user/repo.git`                 | 拉取指定分支（默认是 `main` 或 `master`） |
+| **浅克隆指定分支**         | `git clone -b develop --depth=1 https://github.com/user/repo.git`       | 拉取某个分支的最新版本                   |
+| **只克隆单个分支（不带其他分支）** | `git clone --single-branch -b develop https://github.com/user/repo.git` | 节省空间，只保留一个分支                  |
+| **克隆到指定目录**         | `git clone https://github.com/user/repo.git myproject`                  | 把仓库克隆到 `myproject/` 文件夹       |
+| **克隆子模块一起拉取**       | `git clone --recursive https://github.com/user/repo.git`                | 如果仓库有子模块，会一起下载                |
+| **后续初始化子模块**        | `git submodule update --init --recursive`                               | 克隆后再下载子模块                     |
+| **镜像克隆**            | `git clone --mirror https://github.com/user/repo.git`                   | 用于做完整的镜像（包含所有 refs 和分支）       |
+| **裸仓库克隆**           | `git clone --bare https://github.com/user/repo.git`                     | 仅含 Git 数据，不含工作区，适合做远程备份       |
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
