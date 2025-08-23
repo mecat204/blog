@@ -124,6 +124,7 @@
 * [Felix英语](https://v.douyin.com/LuaEhzr_HZc/)
 * [甜甜教英语](https://v.douyin.com/mpd3SzfNxI4/)
 * [薛麦Max](https://v.douyin.com/B17fqLy_u_0/)
+* [钱继東](https://v.douyin.com/l2iXNfLhvdg/)
 
 ---
 ### 005. 收藏&&Blog
@@ -230,6 +231,9 @@
 * [设计师英俊](https://v.douyin.com/rWi6_zMAUO8/)
   - [穿越千年 老祖宗审美下的中国色彩](https://v.douyin.com/Mzvcq2M0Nn4/)
   - 穿越千年 老祖宗审美下的中国色彩。双色交织， 一色在历史长河中悠然流淌； 一色在现代画布上焕发新生。 那跨越千年的碰撞，缔造不朽之美。 因为一抹色，爱上中国色彩。
+* [Xuan酱](https://v.douyin.com/_VwL39BcAzw/)
+  - [和总统合影！最强AI生图Banana玩法大全](https://v.douyin.com/_VwL39BcAzw/)
+  - 神秘的Nano Banana AI 生图模型玩法大全
 
 ---
 ### 013. 抖音鸡汤
