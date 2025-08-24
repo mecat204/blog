@@ -125,8 +125,15 @@
 * [甜甜教英语](https://v.douyin.com/mpd3SzfNxI4/)
 * [薛麦Max](https://v.douyin.com/B17fqLy_u_0/)
 * [钱继東](https://v.douyin.com/l2iXNfLhvdg/)
+* [Steve Kaufmann](https://v.douyin.com/TxLEBUqeOUw/)
+  - [跨过心理障碍](https://v.douyin.com/MBMVC1WAaBI/)
+  - 学语言害怕开口？这招帮你轻松跨过心理障碍 很多人把说错一句话看得太严重，结果越想避免错误，心理负担就越重。反而，那些敢于多听、多读、多试的学习者，更快突破了心理障碍。 这也印证了心理语言学里的一个理论： 📖 Affective Filter Hypothesis（情感过滤假说） —— 当我们焦虑、紧张时，大脑对语言的吸收效率会下降；而在放松、愉快的状态下，我们更容易习得语言。
+* [TED精彩演讲](https://v.douyin.com/bm0RK6Y7d4o/)
+* [夏冰雹频道](https://v.douyin.com/suT9hTmBYss/)
+  - [15年的好习惯](https://v.douyin.com/6Y8P2kxOQEU/)
+  - 30岁活成18岁的状态？我坚持了15年的好习惯，让我精力充沛 从青春期熬夜发胖的 “死肥宅” 到彻底改变：15 岁那年我靠调整生活习惯瘦了 35 斤，之后 15 年始终坚持不熬夜、每天运动、拒绝超加工食品，现在 30 岁仍保持着 15 岁般的高能量状态。这些习惯不仅让我精力充沛，更让学业事业一路稳步提升。 视频里会拆解我的规律睡眠技巧、随时随地能做的运动方案、简单易执行的饮食原则，以及如何利用每天黄金 4 小时放大成长效率。只要你跟着做就能养出持久高能量，越活越顺
 
----
+
 ### 005. 收藏&&Blog
 * **收藏**
   - [github登录不上去](https://iui.su/3415/)

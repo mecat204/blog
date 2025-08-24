@@ -7,7 +7,7 @@
 * 呆猫
   - [procreate绘画](https://v.douyin.com/Mb7-ktHi9aM/)
 * [传统美学](https://v.douyin.com/emIQtOIkz3I/)
-
+* [卿期期](https://v.douyin.com/OdlMyRMc2sE/)
 ---
 ### 002. 原神·米哈游
 * [鹤木岩雄](https://v.douyin.com/IeD_MpduOA8/)
