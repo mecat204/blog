@@ -265,6 +265,9 @@
 * [我的母亲](https://v.douyin.com/l4jbjDwwamI/)
 * [习惯研究社](https://v.douyin.com/dd50atX1JaM/)
   - [阻碍一个人变强的根源是心力的匮乏](https://v.douyin.com/jwWCDHr5brQ/)
+* [LingoAce](https://www.lingoace.com/zh/blog/chinese-stories/)
+* [中国古代神话故事全集](https://online.fliphtml5.com/orkpr/gndk/#p=1)
+* [顶尖翻页书制作工具与数字出版平台 - FlipHTML5](https://fliphtml5.com/zh_cn/)
 
 ### 015. 资源
 * [ITM资源](https://pic.itmresources.com/)
