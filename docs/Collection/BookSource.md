@@ -132,7 +132,9 @@
 * [夏冰雹频道](https://v.douyin.com/suT9hTmBYss/)
   - [15年的好习惯](https://v.douyin.com/6Y8P2kxOQEU/)
   - 30岁活成18岁的状态？我坚持了15年的好习惯，让我精力充沛 从青春期熬夜发胖的 “死肥宅” 到彻底改变：15 岁那年我靠调整生活习惯瘦了 35 斤，之后 15 年始终坚持不熬夜、每天运动、拒绝超加工食品，现在 30 岁仍保持着 15 岁般的高能量状态。这些习惯不仅让我精力充沛，更让学业事业一路稳步提升。 视频里会拆解我的规律睡眠技巧、随时随地能做的运动方案、简单易执行的饮食原则，以及如何利用每天黄金 4 小时放大成长效率。只要你跟着做就能养出持久高能量，越活越顺
-
+* [TypeWords](https://github.com/zyronon/TypeWords)
+  - [2study](https://2study.top/)
+* [wordforest](https://www.wordforest.cn/books)
 
 ### 005. 收藏&&Blog
 * **收藏**
