@@ -55,6 +55,7 @@
     - [云雀子](https://v.douyin.com/jye8NYzS7WI/)
 * **[在下蕾姆有何贵干](https://v.douyin.com/omAIorIaZOI/)**
   - [100部动漫联手拯救世界](https://v.douyin.com/smE7rGkCs4g/)
+* [夏雨不下鱼](https://v.douyin.com/OYwwG8VEn-w/)
 
 ---
 ### 004. 抖音

@@ -19,7 +19,7 @@
 ---
 ### 005. FreeAI
 * [desktophut](https://www.desktophut.com/ai/generator)
-
+* [阿甘探AI](https://v.douyin.com/4SaZcq_bXns/)
 ---
 ### 006. AI·video
 * [剑来](https://v.douyin.com/-odlboAmAGA/)
