@@ -179,6 +179,7 @@
 * [高清老电影](https://www.youtube.com/@%E4%B8%AD%E5%9B%BD%E9%AB%98%E6%B8%85%E8%80%81%E7%94%B5%E5%BD%B1)
 * [Chineseoldmovie](https://www.youtube.com/@Chineseoldmovie)
 * [动画资源](https://pan.quark.cn/s/b75771b29a38)
+* [腾讯视频 - 动漫](https://www.youtube.com/@TencentVideoAnimation)
 
 ---
 ### 009. APTV
