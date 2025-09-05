@@ -203,6 +203,7 @@
   - [见字如面](https://v.douyin.com/ry0EnPdeBoY/)
 * [都靓读书](https://v.douyin.com/z4aLtYzUY2E/)
   - [中文里每一个词都不是滥竽充数的](https://v.douyin.com/8EuHNH5Ihhw/)
+* [一粒溪石](https://v.douyin.com/R_vZ66i1dJ0/)
 
 ---
 ### 007. Translate
@@ -277,6 +278,8 @@
 * [LingoAce](https://www.lingoace.com/zh/blog/chinese-stories/)
 * [中国古代神话故事全集](https://online.fliphtml5.com/orkpr/gndk/#p=1)
 * [顶尖翻页书制作工具与数字出版平台 - FlipHTML5](https://fliphtml5.com/zh_cn/)
+* [爱读书的木子](https://v.douyin.com/jMsgVNkGTKk/)
+  - [历史](https://v.douyin.com/a9MVYrMu-q0/)
 
 ### 015. 资源
 * [ITM资源](https://pic.itmresources.com/)
@@ -423,6 +426,9 @@
 * [skyline](https://www.skylinewebcams.com/)
 * [yikm](https://www.yikm.net/)
 * [LINUX DO - 新的理想型社区](https://linux.do/)
+* [Animagraffs——有关一切事物的动画信息图表。](https://animagraffs.com/)
+* **[AI教练·振轩|网站资源分享](https://v.douyin.com/Z85GoFIdT5k/)**
+
 
 ---
 ### 031. 搜索引擎

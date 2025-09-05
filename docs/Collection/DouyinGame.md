@@ -47,6 +47,8 @@
 * [散华灬星魂](https://v.douyin.com/C2mM-W0qvd0/)
   - [米哈游·混剪](https://v.douyin.com/2bNAZi0gJzY/)
   - 米哈游·混剪-在黎明升起时坠落
+* [Ty丶童心未泯·原神二创](https://v.douyin.com/rNdGFmfkEyk/)
+  - [三角洲行动](https://v.douyin.com/zcn8TX6I8Vo/)
 
 ---
 ### 003. 国漫

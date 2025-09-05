@@ -7,6 +7,8 @@
 * [**StackBlitz**:实时开发和预览的在线 IDE](https://stackblitz.com/)
 * [**ESLint**:JavaScript 代码检查工具](https://eslint.org/)
 * [**Prettier**:代码格式化工具](https://prettier.io/)
+
+---
 ### 003. 虚拟人AI助手(智能助手)-超写实数字人AI助手
 * [shakker.ai](https://www.shakker.ai/)
 * [synthesia](https://synthesia.io)
@@ -20,6 +22,7 @@
 ### 005. FreeAI
 * [desktophut](https://www.desktophut.com/ai/generator)
 * [阿甘探AI](https://v.douyin.com/4SaZcq_bXns/)
+
 ---
 ### 006. AI·video
 * [剑来](https://v.douyin.com/-odlboAmAGA/)
@@ -74,8 +77,9 @@
   - [温馨的小窝](https://v.douyin.com/lHPgBIAUlfY/)
 * [媛姐美景](https://v.douyin.com/q1xSNYyXIsM/)
   - [林中小屋](https://v.douyin.com/I4yKGk3KlR8/)
----
+* **[AI教练·振轩|网站资源分享](https://v.douyin.com/Z85GoFIdT5k/)**
 
+---
 ### 007. 数字人实时语音交互
 * [VideoChat](https://github.com/Henry-23/VideoChat)
 
