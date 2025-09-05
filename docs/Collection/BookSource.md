@@ -427,6 +427,7 @@
 * [yikm](https://www.yikm.net/)
 * [LINUX DO - 新的理想型社区](https://linux.do/)
 * [Animagraffs——有关一切事物的动画信息图表。](https://animagraffs.com/)
+* [animagraffs](https://www.youtube.com/@animagraffs)
 * **[AI教练·振轩|网站资源分享](https://v.douyin.com/Z85GoFIdT5k/)**
 
 
