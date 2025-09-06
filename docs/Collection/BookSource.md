@@ -135,6 +135,9 @@
 * [TypeWords](https://github.com/zyronon/TypeWords)
   - [2study](https://2study.top/)
 * [wordforest](https://www.wordforest.cn/books)
+* [北美外教一对一口语](https://v.douyin.com/5gy921EoPv0/)
+
+
 
 ### 005. 收藏&&Blog
 * **收藏**

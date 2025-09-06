@@ -245,7 +245,7 @@
 ---
 ### 025. 动漫
 * [罗罔极](https://v.douyin.com/rJOUQnD1j3M/)
-
+* [落残霞鹜](https://v.douyin.com/56_d2G_p5ZQ/)
 ---
 ### 026. 社区
 * [modelscope·魔搭社区](https://modelscope.cn/home)
