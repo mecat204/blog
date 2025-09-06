@@ -202,7 +202,7 @@
 * [故宫博物馆](https://www.dpm.org.cn/)
 
 ---
-### 013. youtube·sub
+### 013. youtube·subscription
 * [WasabiDrama](https://www.youtube.com/@WasabiDrama)
   - [WasabiDrama·bilibili](space.bilibili.com/68412710)
 
