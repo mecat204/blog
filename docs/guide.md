@@ -18,6 +18,8 @@
   - [Movie](Collection/movie)
   - [AiCoding](Collection/AiCoding)
   - [AiWebsite](Collection/AiWebsite)
+  - [Work](Collection/work)
+
 * **CodeSnippet**
   - [Frontend](CodeSnippet/Frontend)
   - [JSfunc](CodeSnippet/JS_func)
