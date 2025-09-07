@@ -17,6 +17,7 @@
   - [DouyinGame](Collection/DouyinGame)
   - [Movie](Collection/movie)
   - [AiCoding](Collection/AiCoding)
+  - [AiWebsite](Collection/AiWebsite)
 * **CodeSnippet**
   - [Frontend](CodeSnippet/Frontend)
   - [JSfunc](CodeSnippet/JS_func)

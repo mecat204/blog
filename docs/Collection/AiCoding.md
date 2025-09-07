@@ -79,6 +79,8 @@
 * [媛姐美景](https://v.douyin.com/q1xSNYyXIsM/)
   - [林中小屋](https://v.douyin.com/I4yKGk3KlR8/)
 * **[AI教练·振轩|网站资源分享](https://v.douyin.com/Z85GoFIdT5k/)**
+* [老麦不废话](https://v.douyin.com/_nWNnafRehU/)
+  - [9月份记住这4个网站，不工作也会有收入](https://v.douyin.com/wGYjoTbd9VI/)
 
 ---
 ### 007. 数字人实时语音交互
