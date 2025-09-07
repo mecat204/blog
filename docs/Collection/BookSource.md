@@ -6,6 +6,7 @@
 * [commons.wikimedia](https://commons.wikimedia.org/wiki/%E9%A6%96%E9%A1%B5?uselang=zh-cn)以繁体字搜索。县志等资料
 * [安娜的档案](https://zh.annas-archive.org/)
 * [金屋电子书](https://pdfs.top/)
+* [大学生资源网](https://www.dxzy163.com/)
 
 ---
 ### 002. PE
