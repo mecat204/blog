@@ -6,7 +6,7 @@
 * [爱纯净](https://aichunjing.com)
 * [阿酷杂货铺](https://coolexe.com)
 * [MacWk - 精品mac软件下载](https://macwk.cn/)
-* [国产操作系统、麒麟操作系统——麒麟软件官方网站www](https://www.kylinos.cn/)
+* [国产操作系统、麒麟操作系统——麒麟软件官方网站](https://www.kylinos.cn/)
 * [果壳剥壳](https://www.ghxi.com)
 * [夏普官网](http://www.sharp.cn/node/1306)
 * [简单搜索](https://xgoogle.com)
