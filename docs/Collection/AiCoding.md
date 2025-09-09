@@ -89,6 +89,8 @@
 ---
 ### 008. Ai·canvas
 * [Animated Drawings](https://sketch.metademolab.com/canvas)
+* [index-tts2](https://index-tts.github.io/index-tts2.github.io/)
+  - [index-tts](https://github.com/index-tts/index-tts)
 
 ---
 ### 009. 在线编码
