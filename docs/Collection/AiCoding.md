@@ -181,7 +181,8 @@
 * [AI VTuber-制作](https://www.youtube.com/watch?v=QQI2UyFlk8c&list=PLji6-Hn_9g_WbjWjeR6rGKk_HeGd3xz1c)
 * [紅頭男RHM](https://www.youtube.com/watch?v=w8pr-nXkU-g)
 * [广叔AI](https://v.douyin.com/3RfhfAY8kuE/)
-
+* [林亦LYi](https://www.youtube.com/@lyi)
+* [bilibili·林亦LYi](space.bilibili.com/4401694)
 
 ---
 ### 022. Neuro-sama
