@@ -206,6 +206,8 @@
   - [烩麻食](https://v.douyin.com/pcXxW_Iogg8/)
 * [逛逛GitHub](https://v.douyin.com/G_IW3BxNag4/)
   - [实用菜谱](https://v.douyin.com/-fuythbxbq4/)
+* [鱿子](https://v.douyin.com/NGV0ljZC2Mw/)
+  - [没有什么能够阻挡我吃的步伐](https://v.douyin.com/D4D-isXU6wo/)
 
 ---
 ### 018. 悟道
