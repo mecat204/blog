@@ -49,3 +49,10 @@
 * [BAT批处理](https://blog.csdn.net/albertsh/article/details/102985590)
 * [帽帽电脑](https://www.szyixin.net/)
 * [7z_download](https://www.7-zip.org/download.html)
+
+---
+### 003. work·source
+* [ubuntu](https://releases.ubuntu.com/)
+* [chinauos](https://www.chinauos.com/)
+* [桌面专业版](https://www.chinauos.com/resource/download-professional)
+* [创想致学小美老师讲嵌入式AI](https://v.douyin.com/IQEgWsEL72M/)

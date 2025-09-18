@@ -137,7 +137,7 @@
   - [2study](https://2study.top/)
 * [wordforest](https://www.wordforest.cn/books)
 * [北美外教一对一口语](https://v.douyin.com/5gy921EoPv0/)
-* [来电思考](长按复制此条消息，打开抖音搜索，查看TA的更多作品。 https://v.douyin.com/OkNpJEuLTEg/)
+* **[来电思考](https://v.douyin.com/OkNpJEuLTEg/)**
   - [AI加速学习](https://v.douyin.com/dJUjAceOkEg/)
   - 你还在慢慢学吗？用AI加速学习，10倍提高效率！ # dankoe# 来点思考# AI # 学习效率 #
 
