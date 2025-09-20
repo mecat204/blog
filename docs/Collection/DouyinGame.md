@@ -49,6 +49,8 @@
   - 米哈游·混剪-在黎明升起时坠落
 * [Ty丶童心未泯·原神二创](https://v.douyin.com/rNdGFmfkEyk/)
   - [三角洲行动](https://v.douyin.com/zcn8TX6I8Vo/)
+* [一根葱(原神)](https://v.douyin.com/g775dwkxbsA/)
+  - [原神UP最多人抽的角色](https://v.douyin.com/amSgDlev_5Y/)
 
 ---
 ### 003. 国漫
