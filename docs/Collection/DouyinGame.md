@@ -247,11 +247,14 @@
 * [云旅游](https://funes.world/models/?ref=home_menu#EasternStatePenitentiary)
 
 ---
-### 025. 动漫
+### 025. 动漫·二次元
 * [罗罔极](https://v.douyin.com/rJOUQnD1j3M/)
 * [落残霞鹜](https://v.douyin.com/56_d2G_p5ZQ/)
 * [亚食人](https://v.douyin.com/iQJ0Rn55A-s/)
   - [游戏鉴赏家](https://v.douyin.com/Srj5UfIqS-k/)
+* [不会飞的阿米驴](https://v.douyin.com/_XZdZKJqqFs/)
+  - [听着雨声，仿佛世界都安静了许多·二次元](https://v.douyin.com/5SsI5RxsEy8/)
+
 ---
 ### 026. 社区
 * [modelscope·魔搭社区](https://modelscope.cn/home)
