@@ -82,6 +82,9 @@
 * **[老麦不废话](https://v.douyin.com/_nWNnafRehU/)**
   - [9月份记住这4个网站，不工作也会有收入](https://v.douyin.com/wGYjoTbd9VI/)
   - [MiniMax语音](https://v.douyin.com/7C2x-Jxi61o/)
+* **[Xuan酱](https://v.douyin.com/-jcTJnQZK44/)**
+  - [runway](https://v.douyin.com/L6KbONxKXQU/)
+
 ---
 ### 007. 数字人实时语音交互
 * [VideoChat](https://github.com/Henry-23/VideoChat)
