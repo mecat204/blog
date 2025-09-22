@@ -84,6 +84,8 @@
   - [MiniMax语音](https://v.douyin.com/7C2x-Jxi61o/)
 * **[Xuan酱](https://v.douyin.com/-jcTJnQZK44/)**
   - [runway](https://v.douyin.com/L6KbONxKXQU/)
+* [AI奇幻同行](https://v.douyin.com/LiJdJAU16ME/)
+  - [异世界冒险者所见的风景。异世界不仅有骑士与城堡的故事，龙与地下城的冒险，也有像我一样喜欢静静欣赏风景的吟游诗人，拯救世界、打败魔王什么的就算了吧](https://v.douyin.com/brGH37esuTw/)
 
 ---
 ### 007. 数字人实时语音交互
