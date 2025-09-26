@@ -64,6 +64,7 @@
 * [linguamarina](https://www.youtube.com/@linguamarina)
 * [Learning English with EnglishClass101.com](https://youtube.com/@EnglishClass101)
   - [How to Score 9.0 on IELTS EXAM: best tips and strategies](https://www.youtube.com/watch?v=s2M1t-pHJcc&list=PLoDjs_CkjI64nuMBkse4y2zJitzeGlZxi)
+  - [Fix Your English Speaking in 150 Minutes](https://www.youtube.com/watch?v=Xg0dZdphmUU)
 * [EnglishClass101](https://www.youtube.com/@EnglishClass101)
   - [120 Minutes of Real-World English Listening & Speaking Training](https://youtube.com/watch?v=1-kJsy_B4T4)
 * [grammarly](https://www.grammarly.com/)
