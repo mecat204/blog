@@ -155,6 +155,12 @@
   - [故事的结局重要吗](https://v.douyin.com/MvNujxQ_Pqs/)
   - [病变·鞠文娴](https://v.douyin.com/m0nTg47vKxs/)
   - [阿拉斯加海湾·蓝心羽](https://v.douyin.com/teAPl4ZtAXo/)
+* [李佳古琴](https://v.douyin.com/dDpm7lvE3GM/)
+  - [国风古韵](https://v.douyin.com/QDCnNuEQZig/)
+* [浅影阿](https://v.douyin.com/j9R790aOI3M/)
+  - [谪居](https://v.douyin.com/BTeGOKmQ89M/)
+* [今也_古琴](https://v.douyin.com/ciILFWons1E/)
+  - [愁生天际，雨落时又想起撑伞过桥底·古琴](https://v.douyin.com/NH3waO-hmQ4/)
 
 ---
 ### 010. 奇幻世界

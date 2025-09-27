@@ -8,6 +8,9 @@
   - [procreate绘画](https://v.douyin.com/Mb7-ktHi9aM/)
 * [传统美学](https://v.douyin.com/emIQtOIkz3I/)
 * [卿期期](https://v.douyin.com/OdlMyRMc2sE/)
+* [Wink](https://v.douyin.com/TAr4beog-3k/)
+  - [满天星辰·古老的北欧传说: "看见银河的人，愿望都能实现"](https://v.douyin.com/BH-I7HenX2E/)
+
 ---
 ### 002. 原神·米哈游
 * [鹤木岩雄](https://v.douyin.com/IeD_MpduOA8/)
@@ -258,6 +261,16 @@
 ---
 ### 026. 社区
 * [modelscope·魔搭社区](https://modelscope.cn/home)
+
+---
+### 027. 悟道
+* **[洛盈小师妹](https://v.douyin.com/-ixotBRYFDo/)**
+  - [励志](https://v.douyin.com/31zsh1ztiPk/)
+* **[神秘洛盈](https://v.douyin.com/01VLQtRhVMQ/)**
+
+### 028. 幽默·娱乐
+* **[幽默油条果汁](https://v.douyin.com/bZ6eq6n2QM0/)**
+  - [脱口秀](https://v.douyin.com/N-U2U_ayS08/)
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
