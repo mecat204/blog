@@ -75,3 +75,6 @@
 * osk           虚拟键盘
 * gpedit (group-edit) 本地组策略编辑器 --> 计算机配置 --> 管理模板 --> windows组件 --> windows更新 --> 配置自动更新 --> 已禁用
 * arp -a     列出所有的本地网络ip
+
+---
+![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
