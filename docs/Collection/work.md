@@ -21,7 +21,7 @@
 * [苹果官网](https://www.apple.com.cn/)
 * [惠普官网](https://www.hp.com/cn-zh/home.html)
 * [夏普官网](https://www.sharp.cn/)
-* [夏普驱动](http://www.sharp.cn/node/1306)
+  - [夏普驱动](http://www.sharp.cn/node/1306)
 * [2345dn](https://2345dn.com/)
 * [图吧工具箱](https://www.tbtool.cn)
 * [简书](https://www.jianshu.com)
@@ -36,6 +36,8 @@
 * [论坛- 远景论坛 - 前沿科技与智慧生态的极客社区](https://bbs.pcbeta.com/)
 * [U启大师](https://www.uqidashi.com/)
 * [傲梅分区助手](https://www.disktool.cn/)
+* [向日葵远程控制软件](https://sunlogin.oray.com/download)
+* [麒麟生态网站](https://eco.kylinos.cn)
 
 ---
 ### 002. website-computer
@@ -56,3 +58,20 @@
 * [chinauos](https://www.chinauos.com/)
 * [桌面专业版](https://www.chinauos.com/resource/download-professional)
 * [创想致学小美老师讲嵌入式AI](https://v.douyin.com/IQEgWsEL72M/)
+* [U盘魔术师v5](https://pan.quark.cn/s/e143eb9eabaa#/list/share)
+  - pwd:QmK1
+* [可道云 KodExplorer 开源的Web文件管理系统]- https://kodcloud.com)
+  - [企业网盘](https://kodcloud.com/product/kodbox/)
+
+### 004. 常用查询命令
+* services.msc  打开服务
+* msconfig      系统配置
+* mspaint       绘图
+* calc          计算器
+* dxdiag        DirectX诊断工具
+* control       控制面板
+* appwiz.cpl    卸载程序
+* notepad       记事本
+* osk           虚拟键盘
+* gpedit (group-edit) 本地组策略编辑器 --> 计算机配置 --> 管理模板 --> windows组件 --> windows更新 --> 配置自动更新 --> 已禁用
+* arp -a     列出所有的本地网络ip
