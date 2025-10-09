@@ -60,7 +60,7 @@
 * [创想致学小美老师讲嵌入式AI](https://v.douyin.com/IQEgWsEL72M/)
 * [U盘魔术师v5](https://pan.quark.cn/s/e143eb9eabaa#/list/share)
   - pwd:QmK1
-* [可道云 KodExplorer 开源的Web文件管理系统]- https://kodcloud.com)
+* [可道云 KodExplorer 开源的Web文件管理系统](https://kodcloud.com)
   - [企业网盘](https://kodcloud.com/product/kodbox/)
 
 ### 004. 常用查询命令
