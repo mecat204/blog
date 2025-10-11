@@ -17,6 +17,7 @@
   - [Movie](Collection/movie)
   - [AiCoding](Collection/AiCoding)
   - [AiWebsite](Collection/AiWebsite)
+  - [ChatGPT.q&w](Collection/ChatGPT.q&w)
   - [Work](Collection/work)
 * **CodeSnippet**
   - [Frontend](CodeSnippet/Frontend)
