@@ -1,14 +1,16 @@
-<!-- docs/README.md -->
+<!-- docs/guide.md -->
 * [**首页**](README)
 * **Collection**
   - [readme](Collection/readme)
+  - [zpandame](https://zpandame.github.io/website/hidden.html)
   - [music](Collection/music)
+  - [网络新闻](Collection/网络新闻)
   - [轻音乐](Collection/轻音乐)
   - [华语乐坛](Collection/华语乐坛)
+  - [问小白](Collection/问小白)
   - [备忘录](Collection/备忘录)
   - [开源项目](Collection/开源项目)
   - [技术栈](Collection/技术栈)
-  - [网络新闻](Collection/网络新闻)
   - [视频·壁纸下载](Collection/视频·壁纸下载)
   - [国风 | 艺术 | 古风](Collection/国风&&艺术&&古风)
   - [BookSource](Collection/BookSource)
@@ -17,11 +19,13 @@
   - [Movie](Collection/movie)
   - [AiCoding](Collection/AiCoding)
   - [AiWebsite](Collection/AiWebsite)
+  - [ChatGPT.q&w](Collection/ChatGPT.q&w)
   - [Work](Collection/work)
+
 
 * **CodeSnippet**
   - [Frontend](CodeSnippet/Frontend)
-  - [JS_func](CodeSnippet/JS_func)
+  - [JSfunc](CodeSnippet/JS_func)
   - [Python](CodeSnippet/Python)
 * **TechnicalGuide**
   - [npm](TechnicalGuide/npm)
