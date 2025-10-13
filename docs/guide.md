@@ -9,6 +9,7 @@
   - [华语乐坛](Collection/华语乐坛)
   - [问小白](Collection/问小白)
   - [备忘录](Collection/备忘录)
+  - [名人录](Collection/名人录)
   - [开源项目](Collection/开源项目)
   - [技术栈](Collection/技术栈)
   - [视频·壁纸下载](Collection/视频·壁纸下载)
