@@ -145,7 +145,7 @@
   - 你还在慢慢学吗？用AI加速学习，10倍提高效率！ # dankoe# 来点思考# AI # 学习效率 #
 * [跟着雅思考官即刻说](https://v.douyin.com/gdn4JbcfBfU/)
   - [雅思学习顺序](https://v.douyin.com/HXvsXOVgrN4/)
-  - 雅思学习顺序很重要‼️千万别搞反顺序了。实际上，雅思备考只要摸准学习节奏，过程就会思路清晰、难度降低。靠谱的备考方法从无捷径可言，都是往届考生总结的实用经验，但大家也能依据自身基础灵活调整。
+  - 雅思学习顺序很重要！ 千万别搞反顺序了。实际上，雅思备考只要摸准学习节奏，过程就会思路清晰、难度降低。靠谱的备考方法从无捷径可言，都是往届考生总结的实用经验，但大家也能依据自身基础灵活调整。
   - 系统备考的流程：
     - 词汇积累阶段：
       - 《100 个句子记 7000 单词》：收录真题中的单词例句，便于结合真题巩固记忆。
@@ -160,6 +160,8 @@
       - 《十天突破雅思口语》：全书地道母语撰写，共13章，内容贴近生活，还教我们如何应对考试，自我介绍，阐述话题时怎么表达最自然
       - 《雅思口语题库》：重要性无需多言，题库中的所有题目及对应答案，至少需完整练习两遍。 . 此外，所有推荐书籍均已整理完毕，可导入手机或 iPad 中随时学习。实际上，雅思备考只要摸准学习节奏，过程就会思路清晰、难度降低。靠谱的备考方法从无捷径可言，都是往届考生总结的实用经验，但大家也能依据自身基础灵活调整。
 * [每天一起练英语](https://v.douyin.com/J5uD5aVF3n4/)
+* [Leah的小日记](https://v.douyin.com/zLRSwv2ARHc/)
+  - [全英vlog｜跟着我的vlog学点英语吧](https://v.douyin.com/TPiSv2S-qXQ/)
 
 ---
 ### 005. 收藏&&Blog
@@ -502,6 +504,14 @@
 * [电子书下载网站](https://linux.do/t/topic/62194)
 * [查找电子书](https://www.yuque.com/quruanpu/dimqr1/ioce0h7u9nf4uns4)
 * **[精选目录](https://www.yuque.com/quruanpu/dimqr1)**
+
+---
+### 033. 演讲
+* **Jimrohn 指挥语录**
+  - [01. 如果你既想富有又想快乐](https://v.douyin.com/-FOXaVqJRJI/)
+  - [02. 如果你既想富有又想快乐](https://v.douyin.com/qhnO8AnwL_k/)
+  - [03. 如果你既想富有又想快乐](https://v.douyin.com/gLkOOp31NTM/)
+  - [04. 如何得到你想要的任何东西 | 思维认知 ](https://v.douyin.com/RhY2xYcxc38/)
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
