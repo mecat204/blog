@@ -162,6 +162,7 @@
 * [每天一起练英语](https://v.douyin.com/J5uD5aVF3n4/)
 * [Leah的小日记](https://v.douyin.com/zLRSwv2ARHc/)
   - [全英vlog｜跟着我的vlog学点英语吧](https://v.douyin.com/TPiSv2S-qXQ/)
+* [LingQInChina](https://v.douyin.com/jWFu-jYRcm0/)
 
 ---
 ### 005. 收藏&&Blog
