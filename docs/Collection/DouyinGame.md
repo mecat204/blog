@@ -182,6 +182,7 @@
   - **[洛盈盈师妹](https://v.douyin.com/4Xd1CFIt5NY/)**
   - **[威廉君](https://v.douyin.com/_rkMKSjEYts/)**
   - **[AIGC生成虚拟形象｜绫波丽2K壁纸](https://v.douyin.com/nTTps7_jq8E/)**
+
 * **2021**
   * **[一哒](https://v.douyin.com/3RuCJw8yjvc/)**
     - [梁山伯与祝英台](https://v.douyin.com/yYPrSFceuGY/)
@@ -198,6 +199,8 @@
     - [东方美学](https://v.douyin.com/xrqbbPmJNRI/)
   * **[南垞chá](https://v.douyin.com/J_XjewjaN7U/)**
     - [长安的荔枝](https://v.douyin.com/kXs3qG3iaGs/)
+  * **[佳忆](https://v.douyin.com/TBJeVEpVfrs/)**
+    - [李慕婉·氛围感](https://v.douyin.com/c1c-t_bQ4I4/)
 
 ---
 * **2025**
