@@ -62,11 +62,12 @@
 * [句乐部](https://julebu.co)
 * [阿崔cxr](https://v.douyin.com/db2HKpQSCl4/)
 * [linguamarina](https://www.youtube.com/@linguamarina)
-* [Learning English with EnglishClass101.com](https://youtube.com/@EnglishClass101)
+* **[EnglishClass101.com](https://youtube.com/@EnglishClass101)**
   - [How to Score 9.0 on IELTS EXAM: best tips and strategies](https://www.youtube.com/watch?v=s2M1t-pHJcc&list=PLoDjs_CkjI64nuMBkse4y2zJitzeGlZxi)
   - [Fix Your English Speaking in 150 Minutes](https://www.youtube.com/watch?v=Xg0dZdphmUU)
-* [EnglishClass101](https://www.youtube.com/@EnglishClass101)
   - [120 Minutes of Real-World English Listening & Speaking Training](https://youtube.com/watch?v=1-kJsy_B4T4)
+* **[KT英语](https://v.douyin.com/u6Yboc0hzMY/)**
+  - Knowledge Transfer 开启记录，见证成长 拿捏心态不悔未来 告别emo 奋斗最青春
 * [grammarly](https://www.grammarly.com/)
 * [ETJ English](https://www.youtube.com/@etjenglish)
 * [EnglishwithLucy](https://www.youtube.com/@EnglishwithLucy)
@@ -102,6 +103,7 @@
   - [每天进步一点](https://v.douyin.com/spLFlpZjC2o/)
 * [周六English](https://v.douyin.com/-t1NofrWDHU/)
   - [美国母亲节的历史](https://v.douyin.com/8oQWIVf230o/)
+* **[TED](https://www.youtube.com/@TED)**
 * [TED 视频精选](https://v.douyin.com/ww6tnRMHqKM/)
   - [6个科学学习法](https://v.douyin.com/fVrslOuU-lQ/)
   - 情绪记忆法（越骂记得越牢）

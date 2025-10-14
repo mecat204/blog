@@ -161,6 +161,8 @@
   - [谪居](https://v.douyin.com/BTeGOKmQ89M/)
 * [今也_古琴](https://v.douyin.com/ciILFWons1E/)
   - [愁生天际，雨落时又想起撑伞过桥底·古琴](https://v.douyin.com/NH3waO-hmQ4/)
+* [舒窈](https://v.douyin.com/dQenqUTMUU0/)
+  - [天地缓缓 | 青丝绾 情思晚](https://v.douyin.com/JckyKyfaVwA/)
 
 ---
 ### 010. 奇幻世界
@@ -181,6 +183,13 @@
 ### 013. 日语·声优
 * [芯如 shirol](https://v.douyin.com/YGEQzStkUcM/)
   - [我做了一个很长的梦日语·爱情·离别](https://v.douyin.com/_N_kxqj8_UY/)
+
+---
+### 014. 古琴
+* **[舒窈](https://v.douyin.com/dQenqUTMUU0/)**
+  - [天地缓缓 | 青丝绾 情思晚](https://v.douyin.com/JckyKyfaVwA/)
+  - [此生何用声声叹 | 秦时明月](https://v.douyin.com/B-23jqZBReg/)
+  - [剑舞轻 潇洒过白袍影 | 谪仙](https://v.douyin.com/7rHlrFAqE0o/)
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
