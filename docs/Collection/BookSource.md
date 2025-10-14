@@ -163,6 +163,8 @@
 * [Leah的小日记](https://v.douyin.com/zLRSwv2ARHc/)
   - [全英vlog｜跟着我的vlog学点英语吧](https://v.douyin.com/TPiSv2S-qXQ/)
 * [LingQInChina](https://v.douyin.com/jWFu-jYRcm0/)
+* **[高高Lindsey](https://v.douyin.com/Km65NtSiWqA/)**
+  - [没有语言环境如何学好英语？这3个习惯一定要养成 避免踩坑](https://v.douyin.com/kVvrsm8ERo0/)
 
 ---
 ### 005. 收藏&&Blog
@@ -244,7 +246,10 @@
   - [我总是相信缓慢细 平和 细水长流的力量](https://v.douyin.com/by1zmnQk2dg/)
 * **[是涂苏苏呀](https://v.douyin.com/ojastCRsT-E/)**
   - [为天地立心，为生民立命，为往圣继绝学，为万世开太平](https://v.douyin.com/mDEGi8tW_ks/)
-
+* **[诗词](https://v.douyin.com/PjuhkSK840A/)**
+  - [西江月 | 世事大梦一场，人生几度秋凉。 中秋谁与共孤光，把盏凄然北望。](https://v.douyin.com/3xHWFuTqdkU)
+* **[吉祥止止～](https://v.douyin.com/uu6q_yxNW_g/)**
+  - [见闻笔记](https://v.douyin.com/6X_ZvJCemiQ/)
 
 ---
 ### 007. Translate

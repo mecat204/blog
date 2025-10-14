@@ -172,17 +172,39 @@
   - [沉玉谷](https://v.douyin.com/ATgF9VDHyB4/)
 
 ---
-### 014. 抖音收录
+### 014. 精选抖音
+* **Memory**
+  - **[小可爱](https://v.douyin.com/OL-zRVsPF-c/)**
+    - [在家憋疯系列](https://v.douyin.com/7jaRgjvHhQE/)
+  - **[西月](https://v.douyin.com/WRWjt-x4IU0/)**
+    - [后来-总算学会了和解](https://v.douyin.com/0uqrb-6NBhw/)
+  - **[杏之干](https://v.douyin.com/old4fKr0Ogo/)**
+  - **[洛盈盈师妹](https://v.douyin.com/4Xd1CFIt5NY/)**
+  - **[威廉君](https://v.douyin.com/_rkMKSjEYts/)**
+  - **[AIGC生成虚拟形象｜绫波丽2K壁纸](https://v.douyin.com/nTTps7_jq8E/)**
 * **2021**
-  * [一哒](https://v.douyin.com/3RuCJw8yjvc/)
+  * **[一哒](https://v.douyin.com/3RuCJw8yjvc/)**
     - [梁山伯与祝英台](https://v.douyin.com/yYPrSFceuGY/)
 
 ---
+* **2022**
+  * **[羊贵妃 t宝](https://v.douyin.com/Q4mef7fztWY/)**
+    - [这里不噶腰子 哈哈哈](https://v.douyin.com/0-BywvuZmHI/)
+    - [日常吐槽](https://v.douyin.com/VHkyVNrc6Ew/)
+
+---
 * **2024**
-  * [子路Lucia](https://v.douyin.com/_56cUmlih_o/)
+  * **[子路Lucia](https://v.douyin.com/_56cUmlih_o/)**
     - [东方美学](https://v.douyin.com/xrqbbPmJNRI/)
-  * [南垞chá](https://v.douyin.com/J_XjewjaN7U/)
+  * **[南垞chá](https://v.douyin.com/J_XjewjaN7U/)**
     - [长安的荔枝](https://v.douyin.com/kXs3qG3iaGs/)
+
+---
+* **2025**
+  * **[Shay](https://v.douyin.com/XKxkaG_j-Jc/)**
+    - [拿到结果的大部分人都是不合群的](https://v.douyin.com/Bk5iA6wgj9Q/)
+  * **[向野哲哲](https://v.douyin.com/EmjaJyqs2IE/)**
+    - [给AI为道德经，以后AI就不会为难人类了吗？](https://v.douyin.com/giXh2pmLV9I/)
 
 ---
 ### 015. 乡野·治愈系风景
