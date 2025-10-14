@@ -70,7 +70,7 @@
   - [LUCY 2 (2026)](https://www.youtube.com/watch?v=deMHi69NA1Q)
 * 动漫
   - 九幽玄天 3.27
-* [Believer.67](https://v.douyin.com/sdprE26WI48/)
+* **[Believer.67](https://v.douyin.com/sdprE26WI48/)**
   - [共鸣叙事家·去找到你生命中的快乐！](https://v.douyin.com/kQjzqhUHk2k/)
   - [荒野生存](https://v.douyin.com/J_jP3V0t678/)
 ---

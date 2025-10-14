@@ -112,7 +112,7 @@
   - 3遍循环记忆（永久刻进大脑）
 * [快听听力](https://v.douyin.com/06UXFkAWso0/)
   - [考试神器](https://v.douyin.com/wHfY52mXcJU/)
-* [乃炎英语](https://v.douyin.com/pPqC74m3eTU/)
+* **[乃炎英语](https://v.douyin.com/pPqC74m3eTU/)**
   - [日常口语](https://v.douyin.com/D8Wk9TkC14Y/)
 * **[开源雅思](https://www.ieltsday.com/)**
   - [雅思词汇真经.pdf](https://drive.google.com/drive/folders/1TzLOdRB6AnEylq8nTxUp1r6lNTeQ3fhb)
@@ -205,7 +205,7 @@
   - [智慧猫-Wisdom Cat](https://www.youtube.com/@wisdomcat369/videos)
   - [《超級思維》心智模型全解析](https://www.youtube.com/watch?v=kX8_uexJGE8)
   - [Ego Is the Enemy](https://www.youtube.com/watch?v=JnNUjFm4new)
-* 彭春花本人
+* **[彭春花本人](https://v.douyin.com/pacd8NSjJrE/)**
   - [罪与罚](https://v.douyin.com/qIFpNcEPdKs/)
   - [从暗黑情绪中获取力量](https://v.douyin.com/Pe9fdOqWUHA/)
 * [有声书频道](https://www.youtube.com/@ysschannel)
