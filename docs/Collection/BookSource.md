@@ -167,6 +167,10 @@
 * [LingQInChina](https://v.douyin.com/jWFu-jYRcm0/)
 * **[高高Lindsey](https://v.douyin.com/Km65NtSiWqA/)**
   - [没有语言环境如何学好英语？这3个习惯一定要养成 避免踩坑](https://v.douyin.com/kVvrsm8ERo0/)
+* **[Linda老师英文故事](https://v.douyin.com/1kltKx3OtS8/)**
+  - [英语启蒙](https://v.douyin.com/Dc6oAsuCwEg/)
+  - 每天5分钟！用故事打造娃的"英语耳朵"，听说读能力全提升
+
 
 ---
 ### 005. 收藏&&Blog

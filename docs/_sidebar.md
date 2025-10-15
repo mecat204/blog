@@ -16,7 +16,7 @@
   - [国风 | 艺术 | 古风](Collection/国风·艺术·古风)
   - [BookSource](Collection/BookSource)
   - [CodingSource](Collection/CodingSource)
-  - [DouyinGame](Collection/DouyinGame)
+  - [Douyin](Collection/Douyin)
   - [Movie](Collection/movie)
   - [AiCoding](Collection/AiCoding)
   - [AiWebsite](Collection/AiWebsite)
