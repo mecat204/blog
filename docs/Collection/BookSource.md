@@ -104,6 +104,7 @@
 * [周六English](https://v.douyin.com/-t1NofrWDHU/)
   - [美国母亲节的历史](https://v.douyin.com/8oQWIVf230o/)
 * **[TED](https://www.youtube.com/@TED)**
+* **[TED精选演讲](https://v.douyin.com/QNPfTBHhKhU/)**
 * [TED 视频精选](https://v.douyin.com/ww6tnRMHqKM/)
   - [6个科学学习法](https://v.douyin.com/fVrslOuU-lQ/)
   - 情绪记忆法（越骂记得越牢）
