@@ -164,6 +164,8 @@
 * [tools.miku.ac](https://tools.miku.ac/anime_tts/)
 * [TTS-Online](https://acgn.ttson.cn/)
 * [hoyoTTS](https://modelscope.cn/studios/Genius-Society/hoyoTTS)
+* **[魔女不熬夜](https://v.douyin.com/_ntRKLC_pnY/)**
+  - [往生堂堂主 | 胡桃](https://v.douyin.com/BmxP3f1D61w/)
 
 ---
 ### 018. 原神·ChatTTS

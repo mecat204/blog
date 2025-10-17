@@ -210,6 +210,13 @@
     - [给AI为道德经，以后AI就不会为难人类了吗？](https://v.douyin.com/giXh2pmLV9I/)
   * **[梦灵逸](https://v.douyin.com/Qc77CKKA1SI/)**
   - [创造的能量，生生不息 手工玫瑰香皂，花草药摆件独一无二](https://v.douyin.com/fxknUQWDFxY/)
+  * **[奶思兔咪鱿 | Nice to meet you](https://v.douyin.com/yF1WG9-otuc/)**
+    - [儿时不解 大人为何拼尽全力依然清贫 长大才知 光是活着养家便已是多数人的极限](https://v.douyin.com/shTHN-zbKIY/)
+  * **[鱿子](https://v.douyin.com/v4cURCRwMU4/)**
+    - [拥有什么就享受什么](https://v.douyin.com/WUkqEGeVf2s/)
+  * **[水墨轩](https://v.douyin.com/ZVfzWPQETig/)**
+    - [无人扶我青云志、我自踏雪至山巅、极致的独立与倔强、没他人帮扶、也能靠自己的力量实现高远志向 | 写字是一种生活](https://v.douyin.com/Wlwqh9oYauU/)
+
 ---
 ### 015. 乡野·治愈系风景
 * [Plant](https://v.douyin.com/UpzNpH0zQSs/)

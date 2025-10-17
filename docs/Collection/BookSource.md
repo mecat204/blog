@@ -231,7 +231,7 @@
   - [人际关系](https://v.douyin.com/LZk-wf3ybn4/)
 * [榆晖书院](https://v.douyin.com/0ROr1PNKqaA/)
   - [硬笔书法](https://v.douyin.com/2ZEBSOBvur8/)
-* [团子](https://v.douyin.com/Aw3GWIANijc/)
+* **[团子](https://v.douyin.com/Aw3GWIANijc/)**
   - [礼记](https://v.douyin.com/HFk6LZ8d9-I/)
 * [逸辰](https://v.douyin.com/PuGuC-20Rk4/)
   - [诗词 - 半山深处有人家，依山傍水远繁华。 无为不做俗尘事，轻煮岁月慢煮茶。](https://v.douyin.com/neRRsw8w4LU/)
@@ -239,7 +239,7 @@
   - [文字的力量](https://v.douyin.com/TAKVYZ7FX-M/)
 * [小仙](https://v.douyin.com/e4xwLKWJ3Zc/)
   - [见字如面](https://v.douyin.com/ry0EnPdeBoY/)
-* [都靓读书](https://v.douyin.com/z4aLtYzUY2E/)
+* **[都靓读书](https://v.douyin.com/z4aLtYzUY2E/)**
   - [中文里每一个词都不是滥竽充数的](https://v.douyin.com/8EuHNH5Ihhw/)
 * [一粒溪石](https://v.douyin.com/R_vZ66i1dJ0/)
 * [向日葵气息的逗笔](https://v.douyin.com/XirvCfA1Jq8/)
@@ -257,6 +257,8 @@
   - [西江月 | 世事大梦一场，人生几度秋凉。 中秋谁与共孤光，把盏凄然北望。](https://v.douyin.com/3xHWFuTqdkU)
 * **[吉祥止止～](https://v.douyin.com/uu6q_yxNW_g/)**
   - [见闻笔记](https://v.douyin.com/6X_ZvJCemiQ/)
+* **[水墨轩](https://v.douyin.com/ZVfzWPQETig/)**
+    - [无人扶我青云志、我自踏雪至山巅、极致的独立与倔强、没他人帮扶、也能靠自己的力量实现高远志向 | 写字是一种生活](https://v.douyin.com/Wlwqh9oYauU/)
 
 ---
 ### 007. Translate
@@ -321,6 +323,7 @@
       6. 如何活出你的道路？ 信任直觉——你的内在导航比任何外界建议都准确。 允许不同步——不必追赶别人的节奏，你有自己的时区。 保护能量——远离消耗你的人和事，守护你的灵性火焰。 享受孤独——与自己成为知己。 最后： 你的与众不同，是宇宙的精心设计。你不是来适应这个世界的，而是来唤醒它的。 你的敏感、你的孤独、你的“不合群”——都是灵魂的印记，提醒你别忘记找回自己。 你不必成为谁，只需回归自己！
 * [南伊](https://v.douyin.com/-bdPDT9zfrE/)
   - [永远不要和别人比生活，追求不同，各有活法，开心了就笑，累了就休息，日子图的是安稳和踏实](https://v.douyin.com/Xu3HFAINaXE/)
+
 ---
 ### 014. 读书
 * [安声漫读](https://v.douyin.com/8DbjipboglA/)
@@ -334,6 +337,7 @@
 * [爱读书的木子](https://v.douyin.com/jMsgVNkGTKk/)
   - [历史](https://v.douyin.com/a9MVYrMu-q0/)
 
+---
 ### 015. 资源
 * [ITM资源](https://pic.itmresources.com/)
 * [香菇影视](https://www.xiangguys.com/)
