@@ -88,6 +88,10 @@
   - [异世界冒险者所见的风景。异世界不仅有骑士与城堡的故事，龙与地下城的冒险，也有像我一样喜欢静静欣赏风景的吟游诗人，拯救世界、打败魔王什么的就算了吧](https://v.douyin.com/brGH37esuTw/)
 * **[AI宁君](https://v.douyin.com/SVsgGnSF0cE/)**
   - [AI古装美女](https://v.douyin.com/tZQrFdT2b0I/)
+* **[我为黑夜狂](https://v.douyin.com/8AZm4AVUsJM/)**
+  - [赛博国风写真](https://v.douyin.com/blplhlvRwfw/)
+* **[小猫说🐱](https://v.douyin.com/0DS8Sk1HMNY/)**
+  - [内部资料  | 一条视频教会你让AI替你打工https://v.douyin.com/g9n9oKCbfnU/](https://v.douyin.com/g9n9oKCbfnU/)
 
 ---
 ### 007. 数字人实时语音交互
@@ -166,6 +170,7 @@
 * [hoyoTTS](https://modelscope.cn/studios/Genius-Society/hoyoTTS)
 * **[魔女不熬夜](https://v.douyin.com/_ntRKLC_pnY/)**
   - [往生堂堂主 | 胡桃](https://v.douyin.com/BmxP3f1D61w/)
+  - [雷电将军：你？要与我为敌吗？](https://v.douyin.com/PWi9EHiHDgw/)
 
 ---
 ### 018. 原神·ChatTTS
