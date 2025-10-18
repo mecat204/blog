@@ -192,7 +192,8 @@
   * **[羊贵妃 t宝](https://v.douyin.com/Q4mef7fztWY/)**
     - [这里不噶腰子 哈哈哈](https://v.douyin.com/0-BywvuZmHI/)
     - [日常吐槽](https://v.douyin.com/VHkyVNrc6Ew/)
-
+  * **[小美是个野孩纸](https://v.douyin.com/2Yecf8ejux8/)**
+    - [这是不是你想象中，自由的样子？](https://v.douyin.com/Acukcyz3F2s/)
 ---
 * **2024**
   * **[子路Lucia](https://v.douyin.com/_56cUmlih_o/)**
