@@ -143,7 +143,7 @@
   - [2study](https://2study.top/)
 * [wordforest](https://www.wordforest.cn/books)
 * [北美外教一对一口语](https://v.douyin.com/5gy921EoPv0/)
-* **[来电思考](https://v.douyin.com/OkNpJEuLTEg/)**
+* **[来点思考](https://v.douyin.com/OkNpJEuLTEg/)**
   - [AI加速学习](https://v.douyin.com/dJUjAceOkEg/)
   - 你还在慢慢学吗？用AI加速学习，10倍提高效率！ # dankoe# 来点思考# AI # 学习效率 #
 * [跟着雅思考官即刻说](https://v.douyin.com/gdn4JbcfBfU/)
@@ -171,7 +171,7 @@
 * **[Linda老师英文故事](https://v.douyin.com/1kltKx3OtS8/)**
   - [英语启蒙](https://v.douyin.com/Dc6oAsuCwEg/)
   - 每天5分钟！用故事打造娃的"英语耳朵"，听说读能力全提升
-
+* **[英语磨耳朵：如何寻找人生方向并明确自己的追求](https://v.douyin.com/PkE0mrjAIhc/)**
 
 ---
 ### 005. 收藏&&Blog

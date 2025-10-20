@@ -36,10 +36,14 @@
 * [跟着磊哥玩Ai](https://v.douyin.com/HrE3JoatGbk/)
   - [宇宙料理](https://v.douyin.com/BdHSZvHqQ_o/)
 * [Spaces - Hugging Face](https://huggingface.co/spaces)
-* [大圆镜科普](https://v.douyin.com/Rj2OPR_kCj0/)
+* **[大圆镜科普](https://v.douyin.com/Rj2OPR_kCj0/)**
   - [科普·痛风](https://v.douyin.com/XfqEpxB4qzs/)
-* [幽居](https://v.douyin.com/OMZB4wI2uZs/)
+  - [能让生物至死方休的快乐按钮，究竟是什么？](https://v.douyin.com/9ErfXea01Qg/)
+  - [第一个选项为100%%稳拿100万； 第二个选项为10%%得500万，89%%得100万，1%%一无所获；](https://v.douyin.com/EZ5-xSDbr7k/)
+* **[幽居](https://v.douyin.com/OMZB4wI2uZs/)**
   - [温馨的小窝](https://v.douyin.com/HnsNYmUx9XU/)
+  - [檐下煮茶带雪至，花前挚盏迎风来。品茶，赏景，茶话客谈，岂不悠哉](https://v.douyin.com/eXzkfTZ9XvA/)
+    - 云雾缭绕人间仙境 | 住进风景里
 * [黛西的花园](https://v.douyin.com/CYZ48MhYZy8/)
   - [家的样子](https://v.douyin.com/k_z239qvLnc/)
 * [设计师楠楠](https://v.douyin.com/IDXWUIDU0q4/)
