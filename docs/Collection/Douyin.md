@@ -149,7 +149,7 @@
   - [tetris](https://github.com/chvin/react-tetris)
   - [2048](https://play2048.co/)
   - [101围棋网](https://www.101weiqi.com/)
-*
+
 * 林间小世界
 * [Donna_L多娜娜](https://v.douyin.com/ZYITjO12_fk/)
 * [顽皮游戏库](https://v.douyin.com/UpsHANc74_M/)
@@ -224,6 +224,8 @@
     - [无人扶我青云志、我自踏雪至山巅、极致的独立与倔强、没他人帮扶、也能靠自己的力量实现高远志向 | 写字是一种生活](https://v.douyin.com/Wlwqh9oYauU/)
   * **[气质木心](https://v.douyin.com/DX-VUDfgW7E/)**
     - [质量就是流量的敌人](https://v.douyin.com/zjypJmZNxco/)
+  * **[小星期大王🛰️](https://v.douyin.com/byXuqvUejsw/)**
+    - [我不问弱水三千几人能为我怨 | 国风·写真·女主](https://v.douyin.com/G-KpgU4Reow/)
 
 ---
 ### 015. 乡野·治愈系风景

@@ -96,6 +96,9 @@
   - [赛博国风写真](https://v.douyin.com/blplhlvRwfw/)
 * **[小猫说🐱](https://v.douyin.com/0DS8Sk1HMNY/)**
   - [内部资料  | 一条视频教会你让AI替你打工https://v.douyin.com/g9n9oKCbfnU/](https://v.douyin.com/g9n9oKCbfnU/)
+* **[𝘼𝙞𝙨𝙢𝙧](https://v.douyin.com/V1qQyuJdlN8/)**
+  - [ASMR LOOP:面粉狂想](https://v.douyin.com/k3OkZ4Tgb6U/)
+
 
 ---
 ### 007. 数字人实时语音交互

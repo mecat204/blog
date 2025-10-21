@@ -115,6 +115,8 @@
   - [创造的能量，生生不息 手工玫瑰香皂，花草药摆件独一无二](https://v.douyin.com/fxknUQWDFxY/)
 * **[威廉君](https://v.douyin.com/_rkMKSjEYts/)**
   - **[AIGC生成虚拟形象｜绫波丽2K壁纸](https://v.douyin.com/nTTps7_jq8E/)**
+* **[南弦月 | 这些是我在迷茫中得出的答案，希望对你也有用。](https://v.douyin.com/zhu2NBuhqRY/)**
+  - [过去总觉得是鸡汤，然后不断经历才会证悟：结束真的是为了更好的开始。就像今年夏天的花全部落尽，才意味着明年生机盎然的春又将到来。 既然知道规则，就不要总想着逆转规则。而是利用它。](https://v.douyin.com/J86-PSxnK_I/)
 
 ---
 ### 007. 插画师 | 国风创作者
