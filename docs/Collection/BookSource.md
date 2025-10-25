@@ -68,6 +68,7 @@
   - [120 Minutes of Real-World English Listening & Speaking Training](https://youtube.com/watch?v=1-kJsy_B4T4)
 * **[KT英语](https://v.douyin.com/u6Yboc0hzMY/)**
   - Knowledge Transfer 开启记录，见证成长 拿捏心态不悔未来 告别emo 奋斗最青春
+  - [Beginner-120、学习停止翻译](https://v.douyin.com/FC480Y4AbGY/)
 * [grammarly](https://www.grammarly.com/)
 * [ETJ English](https://www.youtube.com/@etjenglish)
 * [EnglishwithLucy](https://www.youtube.com/@EnglishwithLucy)
@@ -136,9 +137,16 @@
   - [跨过心理障碍](https://v.douyin.com/MBMVC1WAaBI/)
   - 学语言害怕开口？这招帮你轻松跨过心理障碍 很多人把说错一句话看得太严重，结果越想避免错误，心理负担就越重。反而，那些敢于多听、多读、多试的学习者，更快突破了心理障碍。 这也印证了心理语言学里的一个理论： 📖 Affective Filter Hypothesis（情感过滤假说） —— 当我们焦虑、紧张时，大脑对语言的吸收效率会下降；而在放松、愉快的状态下，我们更容易习得语言。
 * [TED精彩演讲](https://v.douyin.com/bm0RK6Y7d4o/)
-* [夏冰雹频道](https://v.douyin.com/suT9hTmBYss/)
+* **[夏冰雹频道](https://v.douyin.com/suT9hTmBYss/)**
   - [15年的好习惯](https://v.douyin.com/6Y8P2kxOQEU/)
   - 30岁活成18岁的状态？我坚持了15年的好习惯，让我精力充沛 从青春期熬夜发胖的 "死肥宅" 到彻底改变：15 岁那年我靠调整生活习惯瘦了 35 斤，之后 15 年始终坚持不熬夜、每天运动、拒绝超加工食品，现在 30 岁仍保持着 15 岁般的高能量状态。这些习惯不仅让我精力充沛，更让学业事业一路稳步提升。 视频里会拆解我的规律睡眠技巧、随时随地能做的运动方案、简单易执行的饮食原则，以及如何利用每天黄金 4 小时放大成长效率。只要你跟着做就能养出持久高能量，越活越顺
+  - [DOSE效应](https://v.douyin.com/2UCYS6KdXow/)
+  - 拖延症晚期、焦虑爆棚？这本书帮 5 万人找回精力｜冰雹讲书 拖延症晚期？焦虑内耗没动力？你不是懒，而是大脑的D.O.S.E系统失调了！多巴胺、催产素、血清素、内啡肽——这四种关键神经递质，正是掌控你动力、情绪和专注力的核心开关。 本期视频为你深度拆解TJ Power英文原版《DOSE效应》，这套已帮助5万人提升50%%专注力和精神能量的科学方法。无需痛苦自律，通过调节4个大脑开关：
+    - 🔹 多巴胺：戒断"快多巴胺"，重建持久内在驱动力
+    - 🔹 催产素：改善社恐、孤独感，提升安全感与自信
+    - 🔹 血清素：肠道健康直接影响情绪，简单饮食调理告别焦虑
+    - 🔹 内啡肽：用"适度挑战"激活天然止痛剂，获得平静愉悦 我将此书与我十余年的生活习惯集合，分享具体可操作的"高能量体质"养成方案。从今天开始，让专注力和好状态成为自然而然的事！
+
 * [TypeWords](https://github.com/zyronon/TypeWords)
   - [2study](https://2study.top/)
 * [wordforest](https://www.wordforest.cn/books)

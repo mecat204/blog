@@ -100,6 +100,7 @@
   - [ASMR LOOP:面粉狂想](https://v.douyin.com/k3OkZ4Tgb6U/)
 * **[古调今吟](https://v.douyin.com/0oB3JKSEMXY/)**
   - [莫泊桑《我的叔叔于勒》](https://v.douyin.com/65ASoOB7lrs/)
+  - [列夫·托尔斯泰《穷人》](https://v.douyin.com/ydQn3NUhtYI/)
 * **[宋可为](https://v.douyin.com/JbkKjcLyeBI/)**
   - [我的叔叔于勒](https://v.douyin.com/JE-RwyEzZPQ/)
 
