@@ -8,7 +8,7 @@
 * [Lindsey Stirling - Crystallize](https://www.youtube.com/watch?v=C8md6yJkUY4)
 * [深度专注和鼓舞人心的混音](https://www.youtube.com/watch?v=-sZqtdT-GVw)
 * [Chill Music Lab](https://www.youtube.com/@MusicLabChill)
-* [银翼杀手2049](https://www.youtube.com/watch?v=d2JZ4AG-u3w)
+* **[银翼杀手2049](https://www.youtube.com/watch?v=d2JZ4AG-u3w)**
 * [RelaxingRainSleepMusic](https://www.youtube.com/@RelaxingRainSleepMusic)
 * [Celtic Music](https://www.youtube.com/watch?v=F6sIGqNR_hk)
 * [Mono-Music1](https://www.youtube.com/@Mono-Music1)
@@ -175,9 +175,16 @@
 
 ---
 ### 012. music-bgmusic
-* Star eater
-* 佚洛迁忘之岛-music-原神
-* Yiruma - River Flows in You (1 hour)
+* [Daniel Deluxe - Star Eater](https://www.youtube.com/watch?v=QHNakk1oM7g&list=RDQHNakk1oM7g&start_radio=1)
+* [佚洛迁忘之岛·music-原神](https://www.youtube.com/watch?v=IZ_7KSDKLIo&list=RDIZ_7KSDKLIo&start_radio=1)
+* **[Yiruma - River Flows in You](https://www.youtube.com/watch?v=NPBCbTZWnq0&list=RDNPBCbTZWnq0&start_radio=1)**
+* **[KomiTheFish](https://www.youtube.com/@KomiTheFish)**
+  - [1 Hour Somnias a Luna - Lullaby of the New Moon | Columbina Lullaby](https://www.youtube.com/watch?v=4-ziMM0ojYY&list=RD4-ziMM0ojYY&start_radio=1)
+* [tintilinic1912](https://www.youtube.com/@tintilinic1912)
+  - [1+ Hour of Relaxing Genshin Impact Music | OST All Regions Mix](https://www.youtube.com/watch?v=MLesvVMUEbs&list=RDMLesvVMUEbs&start_radio=1)
+* **[justmontages](https://www.youtube.com/@justmontages)**
+  - **[Hans Zimmer - Time (Inception Main Theme)](https://www.youtube.com/watch?v=_8dRNULr6rE)**
+  - **[合辑 - Interstellar theme song - video](https://www.youtube.com/watch?v=8kooIgKESYE&list=RD8kooIgKESYE&start_radio=1)**
 
 ---
 ### 013. 日语·声优
@@ -192,6 +199,10 @@
   - [剑舞轻 潇洒过白袍影 | 谪仙](https://v.douyin.com/7rHlrFAqE0o/)
 * **[一禅小者](https://v.douyin.com/bhXPdBPdNWQ/)**
   - [鸳鸯戏｜谁识曲中意 断弦等你系](https://v.douyin.com/cTyZJ1u5agw/)
+
+### 015. music·author
+* **[银屏系漫游指南](https://www.youtube.com/@%E9%93%B6%E5%B1%8F%E7%B3%BB%E6%BC%AB%E6%B8%B8%E6%8C%87%E5%8D%97)**
+  - **[为什么《星际穿越》的配乐，你一听就想哭？](https://www.youtube.com/watch?v=aN53Va60sY8)**
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
