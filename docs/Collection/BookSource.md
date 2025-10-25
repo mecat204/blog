@@ -289,7 +289,7 @@
   - **乡村故里，居前树下，惜此际好时光，邀知己良朋，畅尽樽前酒一觞。**
   - **观潇潇落叶随金风，青山伴夕阳。**
 * **[worldknowledgepodcast101](https://www.youtube.com/@worldknowledgepodcast101)**
-  - [《DOSE效應》The DOSE effect (1) | Introduction: Welcome to The DOSE Effect](https://www.youtube.com/watch?v=UoNFFeSnapY&list=PLjlYBhI5V3-MF2UeC9jX_VY8H03oZ6gpd&index=22)**
+  - [《DOSE效應》The DOSE effect (1) | Introduction: Welcome to The DOSE Effect](https://www.youtube.com/watch?v=UoNFFeSnapY&list=PLjlYBhI5V3-MF2UeC9jX_VY8H03oZ6gpd&index=22)
 
 ---
 ### 007. Translate
