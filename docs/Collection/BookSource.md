@@ -186,6 +186,7 @@
 * **[阿金的外贸英语频道](https://v.douyin.com/zisVXdlDmYY/)**
   - [外贸人不可错过的收款工具！安全又高效 | 万里汇](https://v.douyin.com/SVIxD9O87bI/)
 
+---
 ### 005. 收藏&&Blog
 * **收藏**
   - [github登录不上去](https://iui.su/3415/)
@@ -287,6 +288,8 @@
   - **闲时泊处，诗书消忧，诵几句《归去来辞》，歌半曲《一生何求》。**
   - **乡村故里，居前树下，惜此际好时光，邀知己良朋，畅尽樽前酒一觞。**
   - **观潇潇落叶随金风，青山伴夕阳。**
+* **[worldknowledgepodcast101](https://www.youtube.com/@worldknowledgepodcast101)**
+  - [《DOSE效應》The DOSE effect (1) | Introduction: Welcome to The DOSE Effect](https://www.youtube.com/watch?v=UoNFFeSnapY&list=PLjlYBhI5V3-MF2UeC9jX_VY8H03oZ6gpd&index=22)**
 
 ---
 ### 007. Translate

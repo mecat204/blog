@@ -238,6 +238,8 @@
       - 🔹 血清素：肠道健康直接影响情绪，简单饮食调理告别焦虑
       - 🔹 内啡肽：用"适度挑战"激活天然止痛剂，获得平静愉悦 我将此书与我十余年的生活习惯集合，分享具体可操作的"高能量体质"养成方案。从今天开始，让专注力和好状态成为自然而然的事！
     - [为什么我从小在中国生活，却把英语练到了母语水平？](https://v.douyin.com/CWwCplRLEK0/)
+  * **[worldknowledgepodcast101](https://www.youtube.com/@worldknowledgepodcast101)**
+    - [《DOSE效應》The DOSE effect (1) | Introduction: Welcome to The DOSE Effect](https://www.youtube.com/watch?v=UoNFFeSnapY&list=PLjlYBhI5V3-MF2UeC9jX_VY8H03oZ6gpd&index=22)
 
 ---
 ### 015. 乡野·治愈系风景
