@@ -146,7 +146,6 @@
     - 🔹 催产素：改善社恐、孤独感，提升安全感与自信
     - 🔹 血清素：肠道健康直接影响情绪，简单饮食调理告别焦虑
     - 🔹 内啡肽：用"适度挑战"激活天然止痛剂，获得平静愉悦 我将此书与我十余年的生活习惯集合，分享具体可操作的"高能量体质"养成方案。从今天开始，让专注力和好状态成为自然而然的事！
-
 * [TypeWords](https://github.com/zyronon/TypeWords)
   - [2study](https://2study.top/)
 * [wordforest](https://www.wordforest.cn/books)
