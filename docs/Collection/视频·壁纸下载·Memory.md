@@ -56,6 +56,15 @@
 * [天一（野生款）](https://v.douyin.com/mSv_7yiG6y0/)
   - [爱尔兰哨笛·凉凉](https://v.douyin.com/YqDB4TvjWYQ/)
 * [Enzo](https://v.douyin.com/k5uJHqMcVbs/)
+* **[人生逆旅 | 凡人修仙传 && 原神 ](https://v.douyin.com/SCAD7FesQxg/)**
+  * **凡人修仙传**
+    - [悲身不由己 慕沛灵 慕师叔和陈师姐从始至终追求的都是自由吧](https://v.douyin.com/9y9Z0uk88cU/)
+    - [梅凝 落雪惨殿寒纱客 很喜欢梅凝建模，单独做了套剑客风，离开韩大哥，梅姑凉开始独自闯档江湖](https://v.douyin.com/_gFoyPhCq9k/)
+    - [韩立的修炼时刻 平平无奇](https://v.douyin.com/1_PpRy2a8fQ/)
+    - [韩立大弟子柳玉 | 虚假的落云宗结丹长老 真正的元婴之下第一人 极阴岛四代目](https://v.douyin.com/xqnV8NZGgCo/)
+  * **原神**
+    - [为了追求永恒闭关锁国愿化作修罗的的将军](https://v.douyin.com/S-DbMb-krO4/)
+
 
 ---
 ### 002. Tools:OURTV&MedLexo

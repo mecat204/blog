@@ -112,7 +112,7 @@
 
 ---
 ### 008. 原神语录鉴赏
-* [盛夏聆听深秋]
+* **[盛夏聆听深秋](https://v.douyin.com/SYuVNWFyNaM/)**
   - [原神CV01](https://v.douyin.com/CcjeZenhW-w/)
   - [原神CV37](https://v.douyin.com/QKOqXmhYYZY/)
 * 原神语录
@@ -158,7 +158,7 @@
   - [主机玩家·地平线](https://v.douyin.com/LVQsEZaeFN4/)
 * 小软iris
   - [刺客信条](https://v.douyin.com/FFLufX40Fzw/)
-* [芊芊老猫的日常](https://v.douyin.com/JmtnP46wKIc/)
+* **[芊芊老猫的日常](https://v.douyin.com/JmtnP46wKIc/)**
   - [领克90](https://v.douyin.com/RvRbq7pvCE4/)
   - [日常](https://v.douyin.com/i5ryaPoV/)
 

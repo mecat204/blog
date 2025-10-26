@@ -236,4 +236,9 @@
 * [ChatTTS](https://chattts.in/playground)
 
 ---
+### 027. AI·动漫二创
+* **[幻窥心渊](https://v.douyin.com/74rcO1tOG3Q/)**
+  - **[宗祠剑影里的凡人风骨 韩瑞：记吾家叔祖韩立公](https://v.douyin.com/AROBdwgpepM/)**
+
+---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
