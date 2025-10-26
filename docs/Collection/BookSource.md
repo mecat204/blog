@@ -186,6 +186,18 @@
 * **[阿金的外贸英语频道](https://v.douyin.com/zisVXdlDmYY/)**
   - [外贸人不可错过的收款工具！安全又高效 | 万里汇](https://v.douyin.com/SVIxD9O87bI/)
 
+* **English source**
+
+| 类型               | 名称                            | 简介                                        | 网址/频道链接                                                                                                                                                                                                      |
+| ---------------- | ----------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **分级阅读书籍**       | Oxford Bookworms Library      | 牛津大学出版社分级读物，从 A1 到 C1，共 270+ 部作品，适合不同英语水平 | [点击访问](https://elt.oup.com/catalogue/items/global/graded_readers/oxford_bookworms_library/?cc=global&selLanguage=en&srsltid=AfmBOopYutFr6NmJQC012PJDDm8Wnm76p9s7Mtm7klGxPsyvryTKzdtc&utm_source=chatgpt.com) |
+| **分级阅读书籍**       | Penguin Readers               | 企鹅出版社分级读物，涵盖小说、经典文学及非小说作品                 | [点击访问](https://www.penguinreaders.co.uk/?utm_source=chatgpt.com)                                                                                                                                             |
+| **分级阅读书籍**       | Cambridge English Readers     | 剑桥大学出版社出版的分级读物，多题材故事，适合兴趣和水平不同的学习者        | [点击访问](https://www.cambridge.org/elt/readers/default.asp?utm_source=chatgpt.com)                                                                                                                             |
+| **YouTube阅读/听力** | Brightly Storytime            | 儿童图画书朗读，每周更新，适合初学者听力和词汇积累                 | [点击访问](https://www.youtube.com/channel/UCvQagFNHMrGgQpYunk4rHXg?utm_source=chatgpt.com)                                                                                                                      |
+| **YouTube阅读/听力** | Storyline Online              | SAG-AFTRA基金会制作，知名演员朗读儿童图画书，提高听力理解         | [点击访问](https://www.youtube.com/storylineonline?utm_source=chatgpt.com)                                                                                                                                       |
+| **YouTube英语学习**  | English Addict with Mr Duncan | 覆盖语法、发音、拼写等内容，适合中级学习者                     | [点击访问](https://www.youtube.com/channel/UC8pPDhxSn1nee70LRKJ0p3g?utm_source=chatgpt.com)                                                                                                                      |
+| **YouTube英语学习**  | BBC Learning English          | BBC官方英语学习频道，包含新闻、电影、词汇等，适合提升听力和口语         | [点击访问](https://www.youtube.com/user/bbclearningenglish?utm_source=chatgpt.com)                                                                                                                               |
+
 ---
 ### 005. 收藏&&Blog
 * **收藏**
