@@ -6,6 +6,7 @@
   - [轻音乐](Collection/轻音乐)
   - [华语乐坛](Collection/华语乐坛)
   - [问小白](Collection/问小白)
+  - [古今文学](Collection/古今文学)
   - [备忘录](Collection/备忘录)
   - [名人录](Collection/名人录)
   - [原神·人物志](Collection/原神·人物志)
