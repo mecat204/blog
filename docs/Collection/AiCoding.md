@@ -103,6 +103,11 @@
   - [列夫·托尔斯泰《穷人》](https://v.douyin.com/ydQn3NUhtYI/)
 * **[宋可为](https://v.douyin.com/JbkKjcLyeBI/)**
   - [我的叔叔于勒](https://v.douyin.com/JE-RwyEzZPQ/)
+* **[还看今朝AI](https://v.douyin.com/Et7TNCBzPKY/)**
+  - **天穹**
+  - [第一集 乱世之中，又会有怎样的英雄故事？](https://v.douyin.com/I8hZki_1TOk/)
+  - [第二集天宫之斗 太衡、南天两位星君为争下凡机会产生矛盾](https://v.douyin.com/pGmo_PxjfTo/ )
+  - [第三集 穹，每相隔百年波动一次的天生之灵，当它现世的时候，天界也会随之震荡](https://v.douyin.com/ThNfnMuVK_4/)
 
 ---
 ### 007. 数字人实时语音交互

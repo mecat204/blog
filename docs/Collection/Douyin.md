@@ -40,7 +40,7 @@
   - [可灵AI](https://app.klingai.com/cn/)
 * [赤瞳](https://v.douyin.com/lBAJDYH_FNM/)
   - [稻妻主线](https://v.douyin.com/K4LRRxm-kqM/)
-* [杏之干](https://v.douyin.com/nUTU1NeHLnM/)
+* **[杏之干](https://v.douyin.com/nUTU1NeHLnM/)**
   - [丝柯克](https://v.douyin.com/j87lTVewqiM/)
 * [清晨樂阳](https://v.douyin.com/SsMXiIh5KFw/)
   - [即梦·派蒙](https://v.douyin.com/oO0c-WPa1dI/)
@@ -49,11 +49,12 @@
 * [别解爱](https://v.douyin.com/pDS_qqPXUnc/)
 * [散华灬星魂](https://v.douyin.com/C2mM-W0qvd0/)
   - [米哈游·混剪](https://v.douyin.com/2bNAZi0gJzY/)
-  - 米哈游·混剪-在黎明升起时坠落
+  - 米哈游·混剪 - 在黎明升起时坠落
 * [Ty丶童心未泯·原神二创](https://v.douyin.com/rNdGFmfkEyk/)
   - [三角洲行动](https://v.douyin.com/zcn8TX6I8Vo/)
 * [一根葱(原神)](https://v.douyin.com/g775dwkxbsA/)
   - [原神UP最多人抽的角色](https://v.douyin.com/amSgDlev_5Y/)
+* **[十笎yuan](https://v.douyin.com/u3uviIVjD8Y/)**
 
 ---
 ### 003. 国漫
@@ -276,7 +277,7 @@
 
 ---
 ### 018. 悟道
-* [三青阁主](https://v.douyin.com/_apvzx2yVhY/)
+* **[三青阁主](https://v.douyin.com/_apvzx2yVhY/)**
   - [感悟 - 天道忌满，人道忌全，别贪心，你不可能什么都有，别灰心，你不可能什么都没有](https://v.douyin.com/WXLQ6qpzZ7w/)
 
 ---
@@ -284,9 +285,11 @@
 * [福宝](https://v.douyin.com/BhRHVAGSmA4/)
 
 ---
-### 020. PS5·主机玩家
-* [主机玩家](https://v.douyin.com/BDFmSE8bPlI/)
+### 020. 玩家 | PS5主机 && 机车
+* **[主机玩家](https://v.douyin.com/BDFmSE8bPlI/)**
   - [ps5游戏](https://v.douyin.com/ftFTUnF0-tA/)
+* **[北北机车头](https://v.douyin.com/EmanL-IPUv0/)**
+  - [吃奶的劲的都试出来了！服了666？](https://v.douyin.com/ieUp8uzPEPc/**)
 
 ---
 ### 021. 中外史学
@@ -331,6 +334,12 @@
 ### 028. 幽默·娱乐
 * **[幽默油条果汁](https://v.douyin.com/bZ6eq6n2QM0/)**
   - [脱口秀](https://v.douyin.com/N-U2U_ayS08/)
+
+### 029. 红尘劫
+* **[策备](https://v.douyin.com/DklvhVP-fqs/)**
+  - [老家铁饭碗没了，60%%岗位已裁减](https://v.douyin.com/5UW2OdDj_AI/)
+* **[83萌叔](https://v.douyin.com/z-KuttZfv30/)**
+  - [中年危机 | 人性](https://v.douyin.com/_QYnh6bgAaU/)
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)

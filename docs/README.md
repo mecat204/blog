@@ -18,6 +18,7 @@
   - [技术栈](Collection/技术栈)
   - [视频·壁纸下载·Memory](Collection/视频·壁纸下载·Memory)
   - [地理志·旅行者探险](Collection/地理志·旅行者探险)
+  - [创业思维](Collection/创业思维)
   - [国风 | 艺术 | 古风](Collection/国风&&艺术&&古风)
   - [BookSource](Collection/BookSource)
   - [CodingSource](Collection/CodingSource)

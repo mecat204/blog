@@ -209,6 +209,13 @@
   - [mybook](https://github.com/elain/mybooks/blob/main/5%25%E7%9A%84%E6%94%B9%E5%8F%98.mobi)
 * **[wqc-book](https://github.com/wqc-book)**
   - [repositories | book](https://github.com/orgs/wqc-book/repositories)
+* **[老虎不在家](https://v.douyin.com/HE5lo22uA6k/)**
+  - [我每天睡醒了就去打工](https://v.douyin.com/Ybku8FdfqrE/)
+* **[𝐕𝐢𝐞𝐰𝐬视界](https://v.douyin.com/4CVsPz66WF4/)**
+  - [我们都不懂时间的重量…|情绪短片每一帧都是热爱](https://v.douyin.com/wYUFjWDoINg/)
+* **[菲儿说财经](https://v.douyin.com/ZVysXpbfuMk/)**
+  - [靠刷抖音评论区，从8万到4000万。](https://v.douyin.com/AMTgPnW-zxw/)
+* **[香港中文大学翻译硕士](https://v.douyin.com/KBw5U92lhwc/)**
 
 ---
 ### 005. 收藏&&Blog
