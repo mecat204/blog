@@ -206,6 +206,9 @@
   - [杨绛传](https://v.douyin.com/ERfoaHfisgk/)
   - 今天分享的是杨绛传，不要活得太明白看淡一切， 做一个快乐的中年少女，中年是年龄，少女是心态。当我们看淡了所有的人和事，你就会明白这样一个道理。惜我者我惜之，嫌我者我弃之，懂我者，我惜之，爱我者我必爱之，生活是自己的，千万别为难自己，有什么样的能力，就过什么样的生活，尽力而为量力而行。做个温暖的人，有自己的喜好，有自己的原则，有自己的信仰。用顺其自然的态度过随遇而安的生活。余生站在属于自己的高度，看该看的风景。记住一个女人最好的状态，莫过于眼里写满了故事，脸上却不见风霜，不羡慕谁不嘲笑谁，也不依赖谁，只是悄悄的努力吞下委屈，喂大格局，活成自己喜欢的样子，成为自己的光
 * **[elain/mybooks](https://github.com/elain/mybooks)**
+  - [mybook](https://github.com/elain/mybooks/blob/main/5%25%E7%9A%84%E6%94%B9%E5%8F%98.mobi)
+* **[wqc-book](https://github.com/wqc-book)**
+  - [repositories | book](https://github.com/orgs/wqc-book/repositories)
 
 ---
 ### 005. 收藏&&Blog
