@@ -214,7 +214,8 @@
 * **[白马侯子](https://v.douyin.com/6lG6Cw5k4os/)**
   - [玄骨极阴都没修完的魔功 由韩立发扬光大 ！玄阴经 凡人修仙传](https://v.douyin.com/GBT3kD9PPkw/)
 * **[大岳的碎碎念](https://v.douyin.com/5w5vtb-aOfs/)**
-
+* **[路人甲国漫日记](https://v.douyin.com/sFPj7sMCTiY/)**
+    - [剑来](https://v.douyin.com/ra5xsTDVdaQ/)
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)

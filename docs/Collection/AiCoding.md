@@ -108,6 +108,18 @@
   - [第一集 乱世之中，又会有怎样的英雄故事？](https://v.douyin.com/I8hZki_1TOk/)
   - [第二集天宫之斗 太衡、南天两位星君为争下凡机会产生矛盾](https://v.douyin.com/pGmo_PxjfTo/ )
   - [第三集 穹，每相隔百年波动一次的天生之灵，当它现世的时候，天界也会随之震荡](https://v.douyin.com/ThNfnMuVK_4/)
+* **[燃·剪 | 西游](https://v.douyin.com/ppgeQm10xes/)**
+  - [12点之前我还是灵山经长 | 不一样的西游记](https://v.douyin.com/mVXvDWvZ8lo/)
+* **[一只小岚猫](https://v.douyin.com/MkNGEuCBzjs/)**
+  - [戏文说 |红颜](https://v.douyin.com/NNZzRdTY5nE/)
+* **[认知便利店M!](https://v.douyin.com/LGT1DSofAw0/)**
+  - [为什么认知越高的人越喜欢独处？ 爱因斯坦、牛顿、贝多芬的共同秘密，独处如何造就天才大脑 | 认知觉醒](https://v.douyin.com/fKk92HZ3aJA/)
+* **[小星不斩妖](https://v.douyin.com/EfMbcjIYodc/)**
+  - **氪命除妖师**
+  - [第一集 我曾与妖魔为伍，祸害百姓。今日斩妖，利用妖兽助我长生不死！](https://v.douyin.com/wj5AjN_DcYk/)
+  - [第二集 沈切初境期圆满！要与衙门做出切割！](https://v.douyin.com/YKv2b3EHI6g/)
+  - [第三集 叶姚登场！到底是福还是祸？](https://v.douyin.com/FXxDXtvyeWA/)
+  - [第四集 鹿族萨满幻境大战！竟出现了另一个自己。](https://v.douyin.com/Q3p8p0gdyxo/)
 
 ---
 ### 007. 数字人实时语音交互

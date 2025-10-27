@@ -159,10 +159,12 @@
   - [国风古韵](https://v.douyin.com/QDCnNuEQZig/)
 * [浅影阿](https://v.douyin.com/j9R790aOI3M/)
   - [谪居](https://v.douyin.com/BTeGOKmQ89M/)
-* [今也_古琴](https://v.douyin.com/ciILFWons1E/)
+* **[今也_古琴](https://v.douyin.com/ciILFWons1E/)**
   - [愁生天际，雨落时又想起撑伞过桥底·古琴](https://v.douyin.com/NH3waO-hmQ4/)
-* [舒窈](https://v.douyin.com/dQenqUTMUU0/)
+* **[舒窈](https://v.douyin.com/dQenqUTMUU0/)**
   - [天地缓缓 | 青丝绾 情思晚](https://v.douyin.com/JckyKyfaVwA/)
+* **[笛子～小柔 | 笛子](https://v.douyin.com/7ZMhqrKiU5Q/)**
+  - ["笛声一响，雪落满肩头…吹一曲《落了白》，愿人间清净，山河无恙。🌨️"# 笛子 # 乐器演奏 # 落了白](https://v.douyin.com/-su-aaPrnvs/)
 
 ---
 ### 010. 奇幻世界
@@ -330,6 +332,21 @@
 
 > **音乐在我们最脆弱的时候，帮我们重新找到自己。**
 
+---
+### 017. 收音机
+* **[收音HiFi](https://v.douyin.com/n3lGlAiON2g/)**
+  - [熟悉的声音传来，瞬间清醒睡不着觉，有朋友知道这是哪期的节目吗？ | 收音机](https://v.douyin.com/TonN4WDJ1q8/)
+* **[千里共良宵-怀旧电台](https://v.douyin.com/uTlp7BfWRRo/)**
+  - [一句顶一万句](https://v.douyin.com/_svj5j1RdOM/)
+  - 今天分享的是 《一句顶一万句》 我们终其一生，不是为了满足所有人，而是为了找到与自己同频共振的那个人，这看似简单的想法，实则要多幸运才能遇到啊，肉体相伴比比皆是，但灵魂共鸣寥寥无几。今天想和你们聊聊刘震云的这本《一句顶一万句》，有的朋友说，读它像在看一场漫长的烟火：热闹是别人的，心里的寂寞才是自己的。书里的人都在找那个能"说得上话"的人，可越找越发现，真正的理解比登天还难。一句话能让人温暖，一句话也能让人凉透。合上书，你会更愿意在生活里多听一句、多说一句。
+* **[北纬21度收音机](https://v.douyin.com/sbdAyx0gvWg/)**
+  - [千里共良宵2020.01.30，迎波：儿时的年味，你还记得吗](https://v.douyin.com/rlcW0oQ010I/)
+  - [千里共良宵2020.01.29，姚科：曾经的年](https://v.douyin.com/fkLpE1M0YKo/)
+
+---
+### 018. 自创乐器
+* **[厨乐小屋](https://v.douyin.com/xEGf_Kx2XGs/)**
+  - [大家都听听看行不行| 笛子 | 新手笛子 | 何以歌 | 自制乐器](https://v.douyin.com/SiI27ugDMAM/)
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)

@@ -208,7 +208,8 @@
     - [长安的荔枝](https://v.douyin.com/kXs3qG3iaGs/)
   * **[佳忆](https://v.douyin.com/TBJeVEpVfrs/)**
     - [李慕婉·氛围感](https://v.douyin.com/c1c-t_bQ4I4/)
-
+  * **[胡胡吖 | 胡胡吖在无锡呢](https://v.douyin.com/BAhd49iQIkM/)**
+    - [我真是操心的太多了| vlog日常](https://v.douyin.com/INONxjh9Iuo/)
 ---
 * **2025**
   * **[Shay](https://v.douyin.com/XKxkaG_j-Jc/)**
@@ -243,6 +244,12 @@
     - [拖延、焦虑、没动力？《DOSE 效应》神经科学方法，帮你养成高能量体质｜冰雹讲书｜英文原版](https://www.youtube.com/watch?v=X4hwczXIhbQ)
   * **[worldknowledgepodcast101](https://www.youtube.com/@worldknowledgepodcast101)**
     - [《DOSE效應》The DOSE effect (1) | Introduction: Welcome to The DOSE Effect](https://www.youtube.com/watch?v=UoNFFeSnapY&list=PLjlYBhI5V3-MF2UeC9jX_VY8H03oZ6gpd&index=22)
+  * **[路人甲国漫日记](https://v.douyin.com/sFPj7sMCTiY/)**
+    - [剑来](https://v.douyin.com/ra5xsTDVdaQ/)
+  * **[羊吃狼](https://v.douyin.com/iT6rcdF5cwA/)**
+  * **[傻白呀](https://v.douyin.com/-pcXaJmmjN0/)**
+    - [时间会把所有苦难变成笑谈，所以请一定保住狗命，去见证更精彩的世界 | 反焦虑 | 人生感悟 | 岩中花述](https://v.douyin.com/K0wrmNGOGRM/)
+
 
 ---
 ### 015. 乡野·治愈系风景
@@ -330,11 +337,15 @@
 * **[洛盈小师妹](https://v.douyin.com/-ixotBRYFDo/)**
   - [励志](https://v.douyin.com/31zsh1ztiPk/)
 * **[神秘洛盈](https://v.douyin.com/01VLQtRhVMQ/)**
+* **[洛盈道语](https://v.douyin.com/QsaViEcVIVk/)**
+  - [穷且益坚，不坠青云之志| 国学文化 | 古人的智慧](https://v.douyin.com/ZXcwYY3TYHo/)
 
+---
 ### 028. 幽默·娱乐
 * **[幽默油条果汁](https://v.douyin.com/bZ6eq6n2QM0/)**
   - [脱口秀](https://v.douyin.com/N-U2U_ayS08/)
 
+---
 ### 029. 红尘劫
 * **[策备](https://v.douyin.com/DklvhVP-fqs/)**
   - [老家铁饭碗没了，60%%岗位已裁减](https://v.douyin.com/5UW2OdDj_AI/)

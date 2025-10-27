@@ -216,6 +216,10 @@
 * **[菲儿说财经](https://v.douyin.com/ZVysXpbfuMk/)**
   - [靠刷抖音评论区，从8万到4000万。](https://v.douyin.com/AMTgPnW-zxw/)
 * **[香港中文大学翻译硕士](https://v.douyin.com/KBw5U92lhwc/)**
+* **[晨菲chenfei](https://v.douyin.com/8Dhbmktl-7g/)**
+  - [moishine老师说真的很好吃 | 留学 | 悉尼大学](https://v.douyin.com/U2INdfwojUo/)
+* **[int7- | 用自己喜欢的方式记录生活 ](https://v.douyin.com/j-cxvnKJBDs/)**
+  - [不需要证明什么 你能做的就是不断尝试收获 | 纽约 |inmyfeelings |拍出电影感 |情绪短片 ](https://v.douyin.com/0url0E5etIw/)
 
 ---
 ### 005. 收藏&&Blog
@@ -591,6 +595,11 @@
   - [02. 如果你既想富有又想快乐](https://v.douyin.com/qhnO8AnwL_k/)
   - [03. 如果你既想富有又想快乐](https://v.douyin.com/gLkOOp31NTM/)
   - [04. 如何得到你想要的任何东西 | 思维认知 ](https://v.douyin.com/RhY2xYcxc38/)
+
+---
+### 034. 历史
+* **[不屯田的邓艾](https://v.douyin.com/QfvE9t2rSGE/)**
+  - [帝制两千年](https://v.douyin.com/f3grKPZXUyI/)
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
