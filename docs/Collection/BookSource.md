@@ -220,6 +220,7 @@
   - [moishine老师说真的很好吃 | 留学 | 悉尼大学](https://v.douyin.com/U2INdfwojUo/)
 * **[int7- | 用自己喜欢的方式记录生活 ](https://v.douyin.com/j-cxvnKJBDs/)**
   - [不需要证明什么 你能做的就是不断尝试收获 | 纽约 |inmyfeelings |拍出电影感 |情绪短片 ](https://v.douyin.com/0url0E5etIw/)
+* **[零基础学习英语 牛津书虫第一期](https://www.youtube.com/watch?v=LttbCdk_A1M&list=PLYHYHpYmp4ZHrhXn21ry3sb5qci13DtSa&index=1)**
 
 ---
 ### 005. 收藏&&Blog
