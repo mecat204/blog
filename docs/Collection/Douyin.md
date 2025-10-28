@@ -55,6 +55,9 @@
 * [一根葱(原神)](https://v.douyin.com/g775dwkxbsA/)
   - [原神UP最多人抽的角色](https://v.douyin.com/amSgDlev_5Y/)
 * **[十笎yuan](https://v.douyin.com/u3uviIVjD8Y/)**
+* **[虚构史学家丶艾希](https://v.douyin.com/H8ANNbOPUbM/)**
+  - **原神野史**
+  - [第215集 追回月髓](https://v.douyin.com/-t3jtSpSsJU/)
 
 ---
 ### 003. 国漫

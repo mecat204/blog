@@ -194,13 +194,17 @@
   - [我做了一个很长的梦日语·爱情·离别](https://v.douyin.com/_N_kxqj8_UY/)
 
 ---
-### 014. 古琴
+### 014. 古琴 | 笛子
 * **[舒窈](https://v.douyin.com/dQenqUTMUU0/)**
   - [天地缓缓 | 青丝绾 情思晚](https://v.douyin.com/JckyKyfaVwA/)
   - [此生何用声声叹 | 秦时明月](https://v.douyin.com/B-23jqZBReg/)
   - [剑舞轻 潇洒过白袍影 | 谪仙](https://v.douyin.com/7rHlrFAqE0o/)
 * **[一禅小者](https://v.douyin.com/bhXPdBPdNWQ/)**
   - [鸳鸯戏｜谁识曲中意 断弦等你系](https://v.douyin.com/cTyZJ1u5agw/)
+* **[沧月神明](https://v.douyin.com/MUQQ3_2ktJw/)**
+  - [不愿染是与非，怎料事与愿违 | 不染 | 香蜜沉沉烬如霜](https://v.douyin.com/KLUopNP12KM/)
+  - [能不能为你再跳一支舞，我是你千百年前放生的白狐 | 白狐](https://v.douyin.com/ldwf0A2QGrU/)
+  - [进击的巨人](https://v.douyin.com/NPm3v5eK5iw/)
 
 ---
 ### 015. music·author
@@ -344,9 +348,10 @@
   - [千里共良宵2020.01.29，姚科：曾经的年](https://v.douyin.com/fkLpE1M0YKo/)
 
 ---
-### 018. 自创乐器
+### 018. 自创乐器 | 鼓点
 * **[厨乐小屋](https://v.douyin.com/xEGf_Kx2XGs/)**
   - [大家都听听看行不行| 笛子 | 新手笛子 | 何以歌 | 自制乐器](https://v.douyin.com/SiI27ugDMAM/)
-
+* **[极美大师姐 | 一个来自外星的外星人](https://v.douyin.com/zyIp7ZOwjmA/)**
+  - [青春若有BGM，我的部分必须用大鼓开场](https://v.douyin.com/JTLo_qmrhDU/)
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)

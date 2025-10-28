@@ -120,6 +120,12 @@
   - [第二集 沈切初境期圆满！要与衙门做出切割！](https://v.douyin.com/YKv2b3EHI6g/)
   - [第三集 叶姚登场！到底是福还是祸？](https://v.douyin.com/FXxDXtvyeWA/)
   - [第四集 鹿族萨满幻境大战！竟出现了另一个自己。](https://v.douyin.com/Q3p8p0gdyxo/)
+* **[WoodMake·木造](https://v.douyin.com/9vu7U1KHwng/)**
+  - [国风](https://v.douyin.com/oZQYYRL6fZM/)
+  - **当 AI 角色有了一些"小心思" 一部影片中要出现大量人物，基于训练模型和多工具配合，例如 Nano Banana、Midjourney、 Seedream4.0 等，我们的角色，无论主角还是配角都可以在更多场景，更加自然的做肢体动作、微表情展现，这有利于商片制作；背景音乐依然来自我们自制的国风配乐**
+* **[极限觉醒的黛西](https://v.douyin.com/1M2cPSvWNks/)**
+  - [一个能让你做成任何事的顶级心法:日拱一卒，持续交卷](https://v.douyin.com/0rFGyr_m74g/)
+
 
 ---
 ### 007. 数字人实时语音交互
@@ -256,6 +262,11 @@
 ### 027. AI·动漫二创
 * **[幻窥心渊](https://v.douyin.com/74rcO1tOG3Q/)**
   - **[宗祠剑影里的凡人风骨 韩瑞：记吾家叔祖韩立公](https://v.douyin.com/AROBdwgpepM/)**
+
+---
+### 028. AI启示录
+* **[杨竹筠](https://v.douyin.com/ZGMIbRrkJHQ/)**
+  - [AI会失控吗 200顶尖科学家的最后通牒 AI潘多拉魔盒，超过200名世界顶尖的科学家大声疾呼，2026年之前必须设立全球AI红线](https://v.douyin.com/Ma06-cxzu8A/)
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)

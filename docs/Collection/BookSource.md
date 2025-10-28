@@ -221,6 +221,10 @@
 * **[int7- | 用自己喜欢的方式记录生活 ](https://v.douyin.com/j-cxvnKJBDs/)**
   - [不需要证明什么 你能做的就是不断尝试收获 | 纽约 |inmyfeelings |拍出电影感 |情绪短片 ](https://v.douyin.com/0url0E5etIw/)
 * **[零基础学习英语 牛津书虫第一期](https://www.youtube.com/watch?v=LttbCdk_A1M&list=PLYHYHpYmp4ZHrhXn21ry3sb5qci13DtSa&index=1)**
+* **[列国漫游](https://v.douyin.com/qauh3aXv8CY/)**
+  - [川普调侃富豪朋友 失去财富老婆分分钟会跑](https://v.douyin.com/Pd9wVcfB2cc/)
+
+
 
 ---
 ### 005. 收藏&&Blog
@@ -326,6 +330,9 @@
   - **观潇潇落叶随金风，青山伴夕阳。**
 * **[worldknowledgepodcast101](https://www.youtube.com/@worldknowledgepodcast101)**
   - [《DOSE效應》The DOSE effect (1) | Introduction: Welcome to The DOSE Effect](https://www.youtube.com/watch?v=UoNFFeSnapY&list=PLjlYBhI5V3-MF2UeC9jX_VY8H03oZ6gpd&index=22)
+* **[悦读者](https://v.douyin.com/bGYmd7sZzic/)**
+  - [简单致富](https://v.douyin.com/AZdCbCvLXOg/)
+  - 深度解读《简单致富》：普通人逆袭的最简单路径 为什么我们努力赚钱，仍然感觉离财务自由越来越远？而有些人却靠着极简的生活方式和看似"无为"的投资，悄悄积累下丰厚的资产？《简单致富》这本书用最通俗的语言，揭示了普通人也能掌握的财富增长法则。本期视频，我们将带你深度解析这本被誉为"给女儿的财富信"之作，从债务陷阱到定投策略，拆解每一步真正有效的财富路径。这不是投机取巧的理财课程，而是一份人人都能执行的"长期富足指南"。
 
 ---
 ### 007. Translate
@@ -403,6 +410,14 @@
 * [顶尖翻页书制作工具与数字出版平台 - FlipHTML5](https://fliphtml5.com/zh_cn/)
 * [爱读书的木子](https://v.douyin.com/jMsgVNkGTKk/)
   - [历史](https://v.douyin.com/a9MVYrMu-q0/)
+* **[郑在觉醒](https://v.douyin.com/HTf-5JvTnY8/)**
+  - [深耕自己，尽量不要去赚辛苦钱]https://v.douyin.com/ii67xQ7JwZY/)
+* **[极限觉醒的黛西](https://v.douyin.com/1M2cPSvWNks/)**
+  - [一个能让你做成任何事的顶级心法:日拱一卒，持续交卷](https://v.douyin.com/0rFGyr_m74g/)
+* **[青竹书库](https://v.douyin.com/AW0owiWS4Yg/)**
+  - [像间谍一样思考](https://v.douyin.com/desQsxUfXg8/)
+  - 深度解读：《像间谍一样思考》 这本书要教给你的，不是电影里飞檐走壁的特工技能，而是一套风靡全球的顶级思维框架——一套能让前情报人员华丽转身为跨国企业高管的核心能力。
+
 
 ---
 ### 015. 资源
@@ -601,6 +616,9 @@
 ### 034. 历史
 * **[不屯田的邓艾](https://v.douyin.com/QfvE9t2rSGE/)**
   - [帝制两千年](https://v.douyin.com/f3grKPZXUyI/)
+* **[大咖说·博物馆讲解](https://v.douyin.com/Yk2uVPAvxrc/)**
+  - [古装剧骗人❗除了红和黄，宫殿还有其他配色 中国古建筑讲究色彩之美，各朝各代的建筑都有偏好的色彩。听大咖说南京讲师巫鹏飞老师为我们讲述宫殿配色的演变历史…… ](https://v.douyin.com/s49OgFm0HHo/)
+
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
