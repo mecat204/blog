@@ -58,6 +58,8 @@
 * **[虚构史学家丶艾希](https://v.douyin.com/H8ANNbOPUbM/)**
   - **原神野史**
   - [第215集 追回月髓](https://v.douyin.com/-t3jtSpSsJU/)
+* **[嗒当 | 游戏摄影](https://v.douyin.com/nEyfVAO2SiQ/)**
+  - [原神摄影](https://v.douyin.com/VpDk7mwlj-4/)
 
 ---
 ### 003. 国漫
@@ -215,6 +217,10 @@
     - [我真是操心的太多了| vlog日常](https://v.douyin.com/INONxjh9Iuo/)
 ---
 * **2025**
+  * **[小锤 | 苦尽甘来终有时，一路向阳待花期](https://v.douyin.com/XLwqm_foXg8/)**
+    - [香迷糊了 还是最爱的茄子辣子馅 | 陕西美食# 乡村美食](https://v.douyin.com/_5pVQD9Ffu8/)
+  * **[陕西大婷婷](https://v.douyin.com/d9ZurjObcLo/)**
+  - [烩麻食](https://v.douyin.com/pcXxW_Iogg8/)
   * **[Shay](https://v.douyin.com/XKxkaG_j-Jc/)**
     - [拿到结果的大部分人都是不合群的](https://v.douyin.com/Bk5iA6wgj9Q/)
   * **[向野哲哲](https://v.douyin.com/EmjaJyqs2IE/)**
@@ -252,7 +258,8 @@
   * **[羊吃狼](https://v.douyin.com/iT6rcdF5cwA/)**
   * **[傻白呀](https://v.douyin.com/-pcXaJmmjN0/)**
     - [时间会把所有苦难变成笑谈，所以请一定保住狗命，去见证更精彩的世界 | 反焦虑 | 人生感悟 | 岩中花述](https://v.douyin.com/K0wrmNGOGRM/)
-
+  * **[折玉风](https://v.douyin.com/g2vkpwEo6-E/)**
+    - [美女](https://v.douyin.com/iIdzYXXLFQk/)
 
 ---
 ### 015. 乡野·治愈系风景
@@ -278,11 +285,11 @@
 
 ---
 ### 017. 美食
-* [陕西大婷婷](https://v.douyin.com/d9ZurjObcLo/)
+* **[陕西大婷婷](https://v.douyin.com/d9ZurjObcLo/)**
   - [烩麻食](https://v.douyin.com/pcXxW_Iogg8/)
 * [逛逛GitHub](https://v.douyin.com/G_IW3BxNag4/)
   - [实用菜谱](https://v.douyin.com/-fuythbxbq4/)
-* [鱿子](https://v.douyin.com/NGV0ljZC2Mw/)
+* **[鱿子](https://v.douyin.com/NGV0ljZC2Mw/)**
   - [没有什么能够阻挡我吃的步伐](https://v.douyin.com/D4D-isXU6wo/)
 
 ---
@@ -342,6 +349,9 @@
 * **[神秘洛盈](https://v.douyin.com/01VLQtRhVMQ/)**
 * **[洛盈道语](https://v.douyin.com/QsaViEcVIVk/)**
   - [穷且益坚，不坠青云之志| 国学文化 | 古人的智慧](https://v.douyin.com/ZXcwYY3TYHo/)
+* **[逍遥小青](https://v.douyin.com/PNgMEajA8NA/)**
+  - **[大辩不言 | 庄子](https://v.douyin.com/xvuFTtKzgXQ/)**
+  - 庄子叹"大辩不言"。许多婚姻矛盾因言语而起，在情绪激动时，沉默比任何话语都更有力量。这并非冷暴力，而是给彼此留出内省的空间。当内心波澜平息，真诚的表达自然会找到合适的词语。有时，一个理解的拥抱，胜过千言万语的解释与争辩。
 
 ---
 ### 028. 幽默·娱乐

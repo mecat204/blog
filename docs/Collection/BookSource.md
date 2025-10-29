@@ -225,7 +225,12 @@
   - [川普调侃富豪朋友 失去财富老婆分分钟会跑](https://v.douyin.com/Pd9wVcfB2cc/)
 * **[michelelepe | ](https://www.youtube.com/@michelelepe)**
 * **[Little Reading Bug's Bilingual Channel | 小书虫的双语频道](https://www.youtube.com/@littlereadingbugsbilingual539/videos)**
-
+* **[playphrase | 台词搜索](https://www.playphrase.me/#/search?q=&language=en)**
+* **[杰瑞姐姐](https://v.douyin.com/O36gRkr4zi4/)**
+  - [各种量词英语表达](https://v.douyin.com/sXwQMmvcr_c/)
+* **[一叶手记 | 手写生活缝隙里的光 - 记录温暖，也治愈慌张。日子有烟火，笔下有远方。问绕前行，步履不停。](https://v.douyin.com/NjsN49u1frA/)**
+  - [一切都是最好的安排，加油！| 人生感悟](https://v.douyin.com/3WwtO15sgTM/)
+* **[电子米 | 把这当云存储，无人认识我的地方，是我自己的防空洞，想到啥说啥, 等老了再来看。](https://v.douyin.com/ZsKyLBVhTBY/)**
 
 ---
 ### 005. 收藏&&Blog
@@ -264,7 +269,7 @@
 * [金屋电子书](https://pdfs.top/)
 * [经典书库](https://www.jingdianbook.com/)
 * [MDdic](https://www.mdict.cn/wp/?page_id=5227&lang=zh)
-* 智慧猫
+* **智慧猫**
   - [智慧猫-Wisdom Cat](https://www.youtube.com/@wisdomcat369/videos)
   - [《超級思維》心智模型全解析](https://www.youtube.com/watch?v=kX8_uexJGE8)
   - [Ego Is the Enemy](https://www.youtube.com/watch?v=JnNUjFm4new)
@@ -281,22 +286,23 @@
 * [DK-English](https://www.dkefe.com/cn)
 * **[愚生](https://v.douyin.com/qWkTmDdp0_I/)**
   - [大脑保养 刻不容缓](https://v.douyin.com/pGC5D152tM8/)
-* [毒舌心理](https://v.douyin.com/76HhCJcyqrA/)
+* **[毒舌心理](https://v.douyin.com/76HhCJcyqrA/)**
   - [人际关系](https://v.douyin.com/LZk-wf3ybn4/)
-* [榆晖书院](https://v.douyin.com/0ROr1PNKqaA/)
+* **[榆晖书院](https://v.douyin.com/0ROr1PNKqaA/)**
   - [硬笔书法](https://v.douyin.com/2ZEBSOBvur8/)
 * **[团子](https://v.douyin.com/Aw3GWIANijc/)**
   - [礼记](https://v.douyin.com/HFk6LZ8d9-I/)
-* [逸辰](https://v.douyin.com/PuGuC-20Rk4/)
+  - [望江东 黄庭坚。江水西头隔烟树，望不见、江东路。 思量只有梦来去，更不怕、江阑住。 灯前写了书无数，算没个、人传与。 直饶寻得雁分付，又还是、秋将暮。| 写字是一种生活 # 练字静心](https://v.douyin.com/hUdWEwqp7XA/)
+* **[逸辰](https://v.douyin.com/PuGuC-20Rk4/)**
   - [诗词 - 半山深处有人家，依山傍水远繁华。 无为不做俗尘事，轻煮岁月慢煮茶。](https://v.douyin.com/neRRsw8w4LU/)
-* [青釉](https://v.douyin.com/LrBoxu9d3mU/)
+* **[青釉](https://v.douyin.com/LrBoxu9d3mU/)**
   - [文字的力量](https://v.douyin.com/TAKVYZ7FX-M/)
-* [小仙](https://v.douyin.com/e4xwLKWJ3Zc/)
+* **[小仙](https://v.douyin.com/e4xwLKWJ3Zc/)**
   - [见字如面](https://v.douyin.com/ry0EnPdeBoY/)
 * **[都靓读书](https://v.douyin.com/z4aLtYzUY2E/)**
   - [中文里每一个词都不是滥竽充数的](https://v.douyin.com/8EuHNH5Ihhw/)
-* [一粒溪石](https://v.douyin.com/R_vZ66i1dJ0/)
-* [向日葵气息的逗笔](https://v.douyin.com/XirvCfA1Jq8/)
+* **[一粒溪石](https://v.douyin.com/R_vZ66i1dJ0/)**
+* **[向日葵气息的逗笔](https://v.douyin.com/XirvCfA1Jq8/)**
 * **[顺二二](https://v.douyin.com/OaealKocFss/)**
   - [人生哪能多如意，万事只求半称心·书法](https://v.douyin.com/wtQQk-pVDzY/)
 * **[望舒🍃](https://v.douyin.com/xksinz58vOY/)**

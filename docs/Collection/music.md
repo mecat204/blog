@@ -164,7 +164,8 @@
 * **[舒窈](https://v.douyin.com/dQenqUTMUU0/)**
   - [天地缓缓 | 青丝绾 情思晚](https://v.douyin.com/JckyKyfaVwA/)
 * **[笛子～小柔 | 笛子](https://v.douyin.com/7ZMhqrKiU5Q/)**
-  - ["笛声一响，雪落满肩头…吹一曲《落了白》，愿人间清净，山河无恙。🌨️"# 笛子 # 乐器演奏 # 落了白](https://v.douyin.com/-su-aaPrnvs/)
+  - ["笛声一响，雪落满肩头…吹一曲《落了白》，愿人间清净，山河无恙。🌨️"|笛子 |乐器演奏 |落了白](https://v.douyin.com/-su-aaPrnvs/)
+* **[相思无解，悲秋望雨！ 相遇相知，已是上签。 心怀山河，缓步前行， 见山见水，独不见你。 似见非见，了无遗憾！ 接下来的日子渐寒，添衣，无病，安好!](https://v.douyin.com/BlXHteKlCpE/)**
 
 ---
 ### 010. 奇幻世界
@@ -194,7 +195,7 @@
   - [我做了一个很长的梦日语·爱情·离别](https://v.douyin.com/_N_kxqj8_UY/)
 
 ---
-### 014. 古琴 | 笛子
+### 014. 古琴 | 笛子 | 钢琴
 * **[舒窈](https://v.douyin.com/dQenqUTMUU0/)**
   - [天地缓缓 | 青丝绾 情思晚](https://v.douyin.com/JckyKyfaVwA/)
   - [此生何用声声叹 | 秦时明月](https://v.douyin.com/B-23jqZBReg/)
@@ -205,6 +206,10 @@
   - [不愿染是与非，怎料事与愿违 | 不染 | 香蜜沉沉烬如霜](https://v.douyin.com/KLUopNP12KM/)
   - [能不能为你再跳一支舞，我是你千百年前放生的白狐 | 白狐](https://v.douyin.com/ldwf0A2QGrU/)
   - [进击的巨人](https://v.douyin.com/NPm3v5eK5iw/)
+* **[笛子～小柔 | 笛子](https://v.douyin.com/7ZMhqrKiU5Q/)**
+  - ["笛声一响，雪落满肩头…吹一曲《落了白》，愿人间清净，山河无恙。🌨️"|笛子 |乐器演奏 |落了白](https://v.douyin.com/-su-aaPrnvs/)
+* **[晓乐](https://v.douyin.com/22gFoRVOSts/)**
+  - [每一首歌都是一个记忆U盘 | 钢琴](https://v.douyin.com/_ety9MDtOdk/)
 
 ---
 ### 015. music·author
@@ -353,5 +358,6 @@
   - [大家都听听看行不行| 笛子 | 新手笛子 | 何以歌 | 自制乐器](https://v.douyin.com/SiI27ugDMAM/)
 * **[极美大师姐 | 一个来自外星的外星人](https://v.douyin.com/zyIp7ZOwjmA/)**
   - [青春若有BGM，我的部分必须用大鼓开场](https://v.douyin.com/JTLo_qmrhDU/)
+
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
