@@ -218,4 +218,10 @@
     - [剑来](https://v.douyin.com/ra5xsTDVdaQ/)
 
 ---
+### 015. 美剧
+* **[The Thrifty Typewriter](https://www.youtube.com/@thethriftytypewriter)**
+  - **[Westworld: HBO's Biggest Failure (Part 1)](https://www.youtube.com/watch?v=myTXD8EGg7Y)**
+* **[tubitv](https://tubitv.com/)**
+
+---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
