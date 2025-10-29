@@ -125,7 +125,8 @@
   - **当 AI 角色有了一些"小心思" 一部影片中要出现大量人物，基于训练模型和多工具配合，例如 Nano Banana、Midjourney、 Seedream4.0 等，我们的角色，无论主角还是配角都可以在更多场景，更加自然的做肢体动作、微表情展现，这有利于商片制作；背景音乐依然来自我们自制的国风配乐**
 * **[极限觉醒的黛西](https://v.douyin.com/1M2cPSvWNks/)**
   - [一个能让你做成任何事的顶级心法:日拱一卒，持续交卷](https://v.douyin.com/0rFGyr_m74g/)
-
+* **[Studio Digital AI](https://www.youtube.com/@StudioDigitalAI)**
+  - [火影忍者 - 电影 (2026) | 忍者的命运 | 4K预告片](https://www.youtube.com/watch?v=kkR-M1b6zQ8)
 
 ---
 ### 007. 数字人实时语音交互

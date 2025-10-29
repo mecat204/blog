@@ -223,7 +223,8 @@
 * **[零基础学习英语 牛津书虫第一期](https://www.youtube.com/watch?v=LttbCdk_A1M&list=PLYHYHpYmp4ZHrhXn21ry3sb5qci13DtSa&index=1)**
 * **[列国漫游](https://v.douyin.com/qauh3aXv8CY/)**
   - [川普调侃富豪朋友 失去财富老婆分分钟会跑](https://v.douyin.com/Pd9wVcfB2cc/)
-
+* **[michelelepe | ](https://www.youtube.com/@michelelepe)**
+* **[Little Reading Bug's Bilingual Channel | 小书虫的双语频道](https://www.youtube.com/@littlereadingbugsbilingual539/videos)**
 
 
 ---

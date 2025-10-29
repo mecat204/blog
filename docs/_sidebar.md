@@ -3,6 +3,7 @@
 * **Collection**
   - [readme](Collection/readme)
   - [Todaytask](Collection/Todaytask)
+  - [动漫](Collection/动漫)
   - [music](Collection/music)
   - [轻音乐](Collection/轻音乐)
   - [华语乐坛](Collection/华语乐坛)
