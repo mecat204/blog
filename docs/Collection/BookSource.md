@@ -59,7 +59,7 @@
 * [myWords - 自动提取网页生词并记录的学习工具](https://github.com/vito-go/mywords)
 * [Typing Word - 在线背单词软件](https://github.com/zyronon/typing-word)
   - [typing-word](https://typing-word.ttentau.top)
-* [句乐部](https://julebu.co)
+* **[句乐部](https://julebu.co)**
 * [阿崔cxr](https://v.douyin.com/db2HKpQSCl4/)
 * [linguamarina](https://www.youtube.com/@linguamarina)
 * **[EnglishClass101.com](https://youtube.com/@EnglishClass101)**
@@ -237,7 +237,6 @@
 * **收藏**
   - [github登录不上去](https://iui.su/3415/)
   - [github.hscsec.cn](https://github.hscsec.cn/chlinlearn/chlinlearn.github.io.git)
-  - [轻抖-文案工具]()
   - [秘塔写作猫-文案工具](https://xiezuocat.com/)
   - [轻抖短视频创作工具](https://www.qingdou.vip/pctool/work-benches)
   - [敏感词查询](http://www.ju*cn/)
@@ -340,7 +339,34 @@
 * **[悦读者](https://v.douyin.com/bGYmd7sZzic/)**
   - [简单致富](https://v.douyin.com/AZdCbCvLXOg/)
   - 深度解读《简单致富》：普通人逆袭的最简单路径 为什么我们努力赚钱，仍然感觉离财务自由越来越远？而有些人却靠着极简的生活方式和看似"无为"的投资，悄悄积累下丰厚的资产？《简单致富》这本书用最通俗的语言，揭示了普通人也能掌握的财富增长法则。本期视频，我们将带你深度解析这本被誉为"给女儿的财富信"之作，从债务陷阱到定投策略，拆解每一步真正有效的财富路径。这不是投机取巧的理财课程，而是一份人人都能执行的"长期富足指南"。
-
+* **[写诗给风](https://v.douyin.com/hnUdJB6sy4c/)**
+  - [秋季宅家写字喝茶～  | 喝茶  | 书房 | 独处是一个人的清欢](https://v.douyin.com/Ba7HSEYzrdk/)
+* **[百家讲坛](https://v.douyin.com/3XRDucpBstE/)**
+  - [不计较，保存自己的能量 | 国学智慧 百家讲坛](https://v.douyin.com/8SRCNUzPMfQ/)
+  - [感悟人生](https://v.douyin.com/f1XoZms1i2M/)
+    - 少时总觉为人易
+    - 华年方知立业难
+    - 用心计较般般错
+    - 退步思量事事难
+    - 逆境不吐心中苦
+    - 顺时目望来时路
+    - 知不足而奋进
+    - 望远山而前行
+* **[珍美读书](https://v.douyin.com/l8sTLo3t7oU/)**
+  - [今日摘抄。| 每天学习一点点 | 读书 | 每日分享 | 提升自己 | 手写](https://v.douyin.com/wlSH9VlhBXM/)
+  - [真正觉醒的家庭 | 每天学习一点点](https://v.douyin.com/HOW0JWyvrfw/)
+  - [人最好的状态 # 每天学习一点点](https://v.douyin.com/R5uX5NXPBnQ/)
+  - [什么是三观](https://v.douyin.com/TyzoIfI3ZwY/)
+    - 世界观: 认清别人
+    - 人生观: 认清自己
+    - 价值观: 认清现实
+  - [成年人的烦恼](https://v.douyin.com/SsbD2fULs8U/)
+    - 人在低谷, 不要逢人就诉苦,也不要轻易做任何决定。
+    - 成年人的烦恼, 和谁说好像都不合适。
+    - 要学会自我消化, 想开, 看开, 放开。
+    - 睡前原谅一切, 醒来便是重生。
+  - [津巴多《普通心理学》](https://v.douyin.com/lBnVMmJ01Qc/)
+    - [读书笔记| 津巴多普通心理学](https://1keven1.github.io/2021/03/05/%E3%80%90%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E3%80%91%E6%B4%A5%E5%B7%B4%E5%A4%9A%E6%99%AE%E9%80%9A%E5%BF%83%E7%90%86%E5%AD%A6/)
 ---
 ### 007. Translate
 * [UPDF](https://www.updf.cn/)
