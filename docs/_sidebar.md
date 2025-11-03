@@ -3,6 +3,7 @@
 * **Collection**
   - [readme](Collection/readme)
   - [Todaytask](Collection/Todaytask)
+  - [突围者·乱星海](Collection/突围者·乱星海)
   - [动漫](Collection/动漫)
   - [music](Collection/music)
   - [轻音乐](Collection/轻音乐)
@@ -21,7 +22,7 @@
   - [国风 | 艺术 | 古风](Collection/国风·艺术·古风)
   - [江湖侠客](Collection/江湖侠客)
   - [地理志·旅行者探险](Collection/地理志·旅行者探险)
-  - [创业思维](Collection/创业思维)
+  - [创业&&财经](Collection/创业&&财经)
   - [BookSource](Collection/BookSource)
   - [CodingSource](Collection/CodingSource)
   - [Douyin](Collection/Douyin)

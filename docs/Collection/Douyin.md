@@ -24,7 +24,7 @@
 * 夜的第七章
   - [极限国度](https://v.douyin.com/pEL6ok7G2bw/)
 * [语堂天天啃土](https://v.douyin.com/MeU6RdavMxU/)
-* [Ferrari](https://v.douyin.com/Xd6kRRlTfjA/)
+* **[Ferrari](https://v.douyin.com/Xd6kRRlTfjA/)**
 * [流星的旅人](https://v.douyin.com/1bHkm2PXzhs/)
 * [小星不摄摄](https://v.douyin.com/VD8bVNNwccU/)
 * 陈皮C
@@ -184,6 +184,9 @@
     - [在家憋疯系列](https://v.douyin.com/7jaRgjvHhQE/)
   - **[西月](https://v.douyin.com/WRWjt-x4IU0/)**
     - [后来-总算学会了和解](https://v.douyin.com/0uqrb-6NBhw/)
+
+  - **[蕾](https://v.douyin.com/wwLIKwx33OU/)**
+    - [转眼春秋半百，我心仍少年。| 天青色等烟雨](https://v.douyin.com/3qQT-YnLDvY/)
   - **[杏之干](https://v.douyin.com/old4fKr0Ogo/)**
   - **[洛盈盈师妹](https://v.douyin.com/4Xd1CFIt5NY/)**
   - **[威廉君](https://v.douyin.com/_rkMKSjEYts/)**
@@ -200,6 +203,7 @@
     - [日常吐槽](https://v.douyin.com/VHkyVNrc6Ew/)
   * **[小美是个野孩纸](https://v.douyin.com/2Yecf8ejux8/)**
     - [这是不是你想象中，自由的样子？](https://v.douyin.com/Acukcyz3F2s/)
+
 
 * **2023**
   * **[清植酱](https://v.douyin.com/0sW4WCGSeQY/)**
@@ -260,6 +264,12 @@
     - [时间会把所有苦难变成笑谈，所以请一定保住狗命，去见证更精彩的世界 | 反焦虑 | 人生感悟 | 岩中花述](https://v.douyin.com/K0wrmNGOGRM/)
   * **[折玉风](https://v.douyin.com/g2vkpwEo6-E/)**
     - [美女](https://v.douyin.com/iIdzYXXLFQk/)
+  * **[阿渣猫](https://v.douyin.com/Ui0AXBByP4Q/)**
+    - [我提笔不为离愁 只为你转身回眸 | 张云雷版西楼别序](https://v.douyin.com/334T_xcsVd0/)
+  * **[龙瓷](https://v.douyin.com/eGh0-SW01Ck/)**
+    - [你说这是棋局，我却当它是命局。](https://v.douyin.com/01HVRRtta0A/)
+  * **[土豆豆豆豆子 | 想去的地方 终将会抵达](https://v.douyin.com/dvbpwlRS06A/)**
+    - [你有没有可乐喝](https://v.douyin.com/L7MCuQnI8hI/)
 
 ---
 ### 015. 乡野·治愈系风景
@@ -271,6 +281,8 @@
 * [绘梦](https://v.douyin.com/ImjTwLpQbNE/)
 * [如梦江南](https://v.douyin.com/8PDFGfx4hR0/)
   - [烟雨江南](https://v.douyin.com/vko0496buMA/)
+* **[乡村邮递员 | 我来自农村, 用抖音记录农村真实生活, 田间地头走一走, 那里的田园风光和淳朴民风是我最珍视的财富。](https://v.douyin.com/tqB0m_rDGFE/)**
+  - [什么样的人才会喜欢这样的氛围呢？| 乡愁记忆](https://v.douyin.com/PF0_X6srztc/)
 
 ---
 ### 016. 励志
@@ -296,6 +308,12 @@
 ### 018. 悟道
 * **[三青阁主](https://v.douyin.com/_apvzx2yVhY/)**
   - [感悟 - 天道忌满，人道忌全，别贪心，你不可能什么都有，别灰心，你不可能什么都没有](https://v.douyin.com/WXLQ6qpzZ7w/)
+  - [《道德经》启示："反者道之动，弱者道之用。"](https://v.douyin.com/6oHlgu_AE6A/)
+  - **《道德经》启示："反者道之动，弱者道之用。"低谷时，强行对抗如同硬闯逆流，而彻底躺平则会错失转机。道家智慧在于：以柔承压，顺势而为。 如溪水绕石，既接纳困境的存在，又在静默中积蓄力量。此刻的"无为"绝非放弃，而是在尊重规律下的积极准备——当你停止与浪潮搏斗，转而学习驾驭它时，转机自会浮现。**
+* **[鸿紫本草日记](https://v.douyin.com/iwvej1R6gYw/)**
+  - [什么年纪发财最好 最好的命其实是从35岁之后才开始有钱的，因为太早了，你担不住](https://v.douyin.com/ctVGLUACn2Q/)
+
+
 
 ---
 ### 019. 灵兽
@@ -364,6 +382,10 @@
   - [老家铁饭碗没了，60%%岗位已裁减](https://v.douyin.com/5UW2OdDj_AI/)
 * **[83萌叔](https://v.douyin.com/z-KuttZfv30/)**
   - [中年危机 | 人性](https://v.douyin.com/_QYnh6bgAaU/)
+* **[子君 | 金融与商业一线11年 挖掘并赋能有价值的项目或企业 ](https://v.douyin.com/z1blfuxgr9A/)**
+  - [掘金计划2025](https://v.douyin.com/7da7DRKWAVc/)
+
+
 
 ---
 ### 030. 网红·搞笑

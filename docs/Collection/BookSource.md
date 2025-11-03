@@ -231,6 +231,20 @@
 * **[一叶手记 | 手写生活缝隙里的光 - 记录温暖，也治愈慌张。日子有烟火，笔下有远方。问绕前行，步履不停。](https://v.douyin.com/NjsN49u1frA/)**
   - [一切都是最好的安排，加油！| 人生感悟](https://v.douyin.com/3WwtO15sgTM/)
 * **[电子米 | 把这当云存储，无人认识我的地方，是我自己的防空洞，想到啥说啥, 等老了再来看。](https://v.douyin.com/ZsKyLBVhTBY/)**
+* **[BBC英语纪录频道](https://v.douyin.com/mot89bKXk8A/)**
+  - [神奇的动物 第二篇 RAISING A FAMILY 4](https://v.douyin.com/04FGqYPj8is/)
+* **[爱折腾的姜姜](https://v.douyin.com/ZyctINMF2NQ/)**
+  - [揭秘发电站](https://v.douyin.com/vLXDtN5i648/)
+  - 揭秘发电站：从煤到电的魔法 小朋友们，你知道我们每天用的电是从哪里来的吗？答案就在一个神奇的地方——发电站！发电站是制造电的工厂，它帮助我们打开灯💡、玩电脑🖥️、看电视📺，甚至给你的平板充电！现在，让我们一起了解电站是怎么工作的吧！ 首先，发电站会使用一种黑色的岩石叫煤。煤里面藏有很多能量，发电站用大机器把煤打碎，再放进一个超大的炉子🔥。炉子把煤烧得很热很热，这时候它会加热周围的水，把水变成蒸汽。已经变成超级热的蒸汽会推动一种叫涡轮机的的机器，让涡轮机旋转起来。涡轮机每旋转一次，就创造了电能⚡！最后，电能通过电线被送到我们的家，让我们可以安心使用电力。 不过，有些发电方式会产生烟雾和废气。发电站会用特殊的机器把这些废气清理干净，甚至把一些剩下的灰烬变成建筑用的材料，比如水泥。是不是很厉害呢？其实，我们也可以期待未来更多利用🌞太阳和🌬️风发电！你觉得保护环境重要吗？可以和爸爸妈妈一起讨论哦！ 快告诉大家这个有趣的知识吧！😊 🌟重点单词🌟 versatile /ˈvɜːsətaɪl/ adj. 多功能的；用途广泛的 turbine /ˈtɜːrbaɪn/ n. 涡轮机 furnace /ˈfɜːrnɪs/ n. 炉子；火炉 emission /ɪˈmɪʃən/ n. 排放；散发 fossil fuel /ˈfɒsl fjuːəl/ n. 化石燃料
+* **[Mark学英语](https://v.douyin.com/Fw8_g1qpMFk/)**
+  - [高频英语缩略词，像母语者一样聊天 Most Common Acronyms In English](https://v.douyin.com/OylLt8yPs-w/)
+* **[是萬萬啊](https://v.douyin.com/DisZuVgx3vY/)**
+  - [重塑人生：真正厉害的人，都在重复做这两件事 | 人生建议](https://v.douyin.com/5izqKD9ci-Q/)
+* **[拽猴大人 | 一个积极的废柴会点治愈系魔法](https://v.douyin.com/kVj_M-B0EJo/)**
+  - [个人成长 生死看淡，不服就干](https://v.douyin.com/pRzgq3bduk4/)
+* **[Nemophilist](https://v.douyin.com/7VRAtkLrJnM/)**
+  - ["失败不可怕 可怕的是你害怕失败"](https://v.douyin.com/KsxhY7BAaRY/)
+
 
 ---
 ### 005. 收藏&&Blog
@@ -304,6 +318,7 @@
 * **[向日葵气息的逗笔](https://v.douyin.com/XirvCfA1Jq8/)**
 * **[顺二二](https://v.douyin.com/OaealKocFss/)**
   - [人生哪能多如意，万事只求半称心·书法](https://v.douyin.com/wtQQk-pVDzY/)
+  - [弱时慕强，强时慕真，觉时悟空。](https://v.douyin.com/6pFFOvSildw/)
 * **[望舒🍃](https://v.douyin.com/xksinz58vOY/)**
   - [古文十二篇-《岳阳楼记》 先天下之忧而忧，后天下之乐而乐](https://v.douyin.com/KTakytSJOrM/)
 * **[果汁书单](https://v.douyin.com/Wn8hJNByR70/)**
@@ -367,6 +382,27 @@
     - 睡前原谅一切, 醒来便是重生。
   - [津巴多《普通心理学》](https://v.douyin.com/lBnVMmJ01Qc/)
     - [读书笔记| 津巴多普通心理学](https://1keven1.github.io/2021/03/05/%E3%80%90%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E3%80%91%E6%B4%A5%E5%B7%B4%E5%A4%9A%E6%99%AE%E9%80%9A%E5%BF%83%E7%90%86%E5%AD%A6/)
+* **[小王子书屋 | 读书让你哪怕深陷泥泞， 也能抬头仰望星空。](https://v.douyin.com/FxqsIY3SnLE/)**
+  - [布鲁克林有棵树](https://v.douyin.com/gdqYuK-SGVo/)
+  - 布鲁克林有棵树 | "坚持与希望"它向着天空，挣扎着生长。无论种子落在废墟、垃圾场，甚至水泥地，都会长成一棵树。这种树被称为"天堂树"。 这本书讲述了坚强，讲述阅读如何让生命变得鲜活，知识如何改变人的命运，家庭的力量如何支撑孩子去实现梦想。 希望这本讲述小女孩弗兰茜蓬勃成长的故事书，能给你注入昂扬向上的动力。
+* **[糖加三勺](https://v.douyin.com/vBcispq4AAU/)**
+  - [约翰 斯皮登 刘易斯](https://v.douyin.com/Djbh51fxLEU/)
+* **[小生有礼](https://v.douyin.com/Gb64J2Kt61M/)**
+  - [时也运也命也。](https://v.douyin.com/OBMFrdIAbCw/)
+  - 天地万物不为我所有, 却为我所用
+  - 万人万事万物, 皆为我师
+  - 活在当下, 修身立德
+  - 广学致知, 知行合一
+  - 勤能补拙, 取长补短
+  - 虚怀若谷, 海纳百川
+* **[甜甜老师讲文学](https://v.douyin.com/PdRYsQbm0T4/)**
+  - [文学 人生感悟 婚姻 读书 聊斋  ](https://v.douyin.com/aE_qzTFyCdk/)
+* **[书旅人间](https://v.douyin.com/1ckm1UTB12s/)**
+  - [别再被"天赋"的谎言束缚你的人生了。从今天起，拥抱"刻意练习"这门科学。](https://v.douyin.com/8M6M4sbK6s4/)
+* **[哲思读书](https://v.douyin.com/vYi-DGESEJQ/)**
+  - [与神对话](https://v.douyin.com/TnJadaO3PjA/)
+  - 《与神对话》被广大读者誉为"一生等待的书"，读过的人无不震撼，并推荐给身边的人。这本书分成了三卷，分别探讨了人生观，世界观，宇宙观。以对话的形式每一句都可能让你对生活有新的认识。
+
 ---
 ### 007. Translate
 * [UPDF](https://www.updf.cn/)

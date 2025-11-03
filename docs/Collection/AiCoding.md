@@ -98,7 +98,7 @@
   - [内部资料  | 一条视频教会你让AI替你打工](https://v.douyin.com/g9n9oKCbfnU/)
 * **[𝘼𝙞𝙨𝙢𝙧](https://v.douyin.com/V1qQyuJdlN8/)**
   - [ASMR LOOP:面粉狂想](https://v.douyin.com/k3OkZ4Tgb6U/)
-* **[古调今吟](https://v.douyin.com/0oB3JKSEMXY/)**
+* **[古调今吟 |  用AI把语文课本内容变成影像，让记忆再次鲜活](https://v.douyin.com/0oB3JKSEMXY/)**
   - [莫泊桑《我的叔叔于勒》](https://v.douyin.com/65ASoOB7lrs/)
   - [列夫·托尔斯泰《穷人》](https://v.douyin.com/ydQn3NUhtYI/)
 * **[宋可为](https://v.douyin.com/JbkKjcLyeBI/)**
@@ -268,6 +268,10 @@
 ### 028. AI启示录
 * **[杨竹筠](https://v.douyin.com/ZGMIbRrkJHQ/)**
   - [AI会失控吗 200顶尖科学家的最后通牒 AI潘多拉魔盒，超过200名世界顶尖的科学家大声疾呼，2026年之前必须设立全球AI红线](https://v.douyin.com/Ma06-cxzu8A/)
+* **[AI樟榆树](https://v.douyin.com/3eZz8TMyMKY/)**
+  - [AI刚发的AI智能体浏览器Atlas再次解雇双手 Open AI近期发布的Atlas智能体浏览器，是解放双手还是解雇双手？视频一键总结，就连订火车票都一键直达](https://v.douyin.com/i9busAqA3V8/)
+  - Atlas智能体浏览器
+
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
