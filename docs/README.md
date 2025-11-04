@@ -25,6 +25,7 @@
   - [国风 | 艺术 | 古风](Collection/国风&&艺术&&古风)
   - [江湖侠客](Collection/江湖侠客)
   - [BookSource](Collection/BookSource)
+  - [vlog-record](Collection/vlog-record)
   - [CodingSource](Collection/CodingSource)
   - [Douyin](Collection/Douyin)
   - [Movie](Collection/movie)

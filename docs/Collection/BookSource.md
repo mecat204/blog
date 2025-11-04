@@ -248,7 +248,9 @@
   - [个人成长 生死看淡，不服就干](https://v.douyin.com/pRzgq3bduk4/)
 * **[Nemophilist](https://v.douyin.com/7VRAtkLrJnM/)**
   - ["失败不可怕 可怕的是你害怕失败"](https://v.douyin.com/KsxhY7BAaRY/)
-
+* **[isabel_paige](https://www.youtube.com/@isabel_paige)**
+* **[VENQUEN的英语日记](https://v.douyin.com/lGerZrVjzQs/)**
+  - [学习是方向，世界是目的地！Follow along！ 飞向未知，直面恐惧 旧金山的酸面包，藏着冒险的滋味 独处的时光，发现真实的自己 大桥下的夕阳，点燃成长的勇气 | Isabel Paige](https://v.douyin.com/ACS0U3zIC54/)
 
 ---
 ### 005. 收藏&&Blog

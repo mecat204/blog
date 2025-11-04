@@ -24,6 +24,7 @@
   - [地理志·旅行者探险](Collection/地理志·旅行者探险)
   - [创业&&财经](Collection/创业&&财经)
   - [BookSource](Collection/BookSource)
+  - [vlog-record](Collection/vlog-record)
   - [CodingSource](Collection/CodingSource)
   - [Douyin](Collection/Douyin)
   - [Movie](Collection/movie)
