@@ -1,12 +1,16 @@
 ### 001. proxy·book·website
-* [archive·互联网档案馆](https://archive.org/)
-* [DK-English](https://www.dkefe.com/cn)
+* **[archive·互联网档案馆](https://archive.org/)**
+* **[DK-English](https://www.dkefe.com/cn)**
 * [javascript-en](https://javascript.sumankunwar.com.np/en/)
 * [Python从入门到精通·背记手册](https://www.scribd.com/document/824085167/Python%E8%83%8C%E8%AE%B0%E6%89%8B%E5%86%8C)
 * [commons.wikimedia](https://commons.wikimedia.org/wiki/%E9%A6%96%E9%A1%B5?uselang=zh-cn)以繁体字搜索。县志等资料
-* [安娜的档案](https://zh.annas-archive.org/)
+* **[安娜的档案](https://zh.annas-archive.org/)**
 * [金屋电子书](https://pdfs.top/)
 * [大学生资源网](https://www.dxzy163.com/)
+* **[书虫 | 书是人类进步的阶梯 | 书犹药也, 善读之可以医愚](https://iread-book.github.io/home/#gsc.tab=0)**
+* **[书虫 牛津英汉双语读物 | 夸克](https://pan.quark.cn/s/4a7613abc657#/list/share/f2728585a1804bada421efcd061fbbba)**
+* **[tgoo分享-网盘资源下载·GitHub优质项目·趣味网站导航](https://www.tgoos.com/)**
+* **[ikandou_books](https://gist.github.com/luw2007/5044268)**
 
 ---
 ### 002. PE
