@@ -156,6 +156,7 @@
 
 ---
 ### 008. movie_site
+* **[N奈飞工厂](https://www.netflixgc.com/)**
 * [4kfilm](http://4kfilm.cn/)
 * [grab4k.com](https://grab4k.com/)
 * [CN影院](https://cnys.tv/)
