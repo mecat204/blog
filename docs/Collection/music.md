@@ -198,7 +198,7 @@
   - [我做了一个很长的梦日语·爱情·离别](https://v.douyin.com/_N_kxqj8_UY/)
 
 ---
-### 014. 古琴 | 笛子 | 钢琴
+### 014. 古琴 | 古筝 |  笛子 | 钢琴
 * **[舒窈](https://v.douyin.com/dQenqUTMUU0/)**
   - [天地缓缓 | 青丝绾 情思晚](https://v.douyin.com/JckyKyfaVwA/)
   - [此生何用声声叹 | 秦时明月](https://v.douyin.com/B-23jqZBReg/)
@@ -213,6 +213,10 @@
   - ["笛声一响，雪落满肩头…吹一曲《落了白》，愿人间清净，山河无恙。🌨️"|笛子 |乐器演奏 |落了白](https://v.douyin.com/-su-aaPrnvs/)
 * **[晓乐](https://v.douyin.com/22gFoRVOSts/)**
   - [每一首歌都是一个记忆U盘 | 钢琴](https://v.douyin.com/_ety9MDtOdk/)
+* **[银幕诗人 | 苏州园林 ｜江南水乡｜中式美学](https://v.douyin.com/b2blAPgkIlE/)**
+  - [真的有人喜欢这种安静的感觉吗](https://v.douyin.com/Zqt54YHlzjA/)
+* **[崔江卉古筝 |  曲谱集 | 2019年出版 朝云间 | 2024年出版 流行古筝独奏教程](https://v.douyin.com/l-_NyS7JlX4/)**
+  - [](长按复制此条消息，打开抖音搜索，查看TA的更多作品。 https://v.douyin.com/l-_NyS7JlX4/)
 
 ---
 ### 015. music·author
