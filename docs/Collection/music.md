@@ -362,5 +362,10 @@
 * **[极美大师姐 | 一个来自外星的外星人](https://v.douyin.com/zyIp7ZOwjmA/)**
   - [青春若有BGM，我的部分必须用大鼓开场](https://v.douyin.com/JTLo_qmrhDU/)
 
+### 019. 雨声催眠
+* **[rain sounds for sleeping](https://www.youtube.com/watch?v=-ERFwSSqg1Y)**
+* **[HealingCompass](https://www.youtube.com/@HealingCompass)**
+  - [令人入睡的雨声是由大雨发出的。 帮助您放松、减轻压力。](https://www.youtube.com/watch?v=nzn3X9iEdTs)
+
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
