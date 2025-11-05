@@ -20,7 +20,9 @@
 * **[THE MAGIC LIBRARY](https://www.youtube.com/@the-magic-library)**
   - [ATOMIC HABITS | JAMES CLEAR | FULL-AUDIOBOOK | WHAT'S THE SECRET TO BRAEKING BAD HABITS |](https://www.youtube.com/watch?v=mdM_9X_i7pM)
 ---
-
+* **[BBC Earth](https://www.youtube.com/@bbcearth)**
+* **[BBC英语纪录频道](https://v.douyin.com/Kg7WEHuZnzo/)**
+  - [神奇的植物 GREEN PLANET 1](https://v.douyin.com/AyWrh_p2L2U/)
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)

@@ -201,6 +201,10 @@
 | **YouTube阅读/听力** | Storyline Online              | SAG-AFTRA基金会制作，知名演员朗读儿童图画书，提高听力理解         | [点击访问](https://www.youtube.com/storylineonline?utm_source=chatgpt.com)                                                                                                                                       |
 | **YouTube英语学习**  | English Addict with Mr Duncan | 覆盖语法、发音、拼写等内容，适合中级学习者                     | [点击访问](https://www.youtube.com/channel/UC8pPDhxSn1nee70LRKJ0p3g?utm_source=chatgpt.com)                                                                                                                      |
 | **YouTube英语学习**  | BBC Learning English          | BBC官方英语学习频道，包含新闻、电影、词汇等，适合提升听力和口语         | [点击访问](https://www.youtube.com/user/bbclearningenglish?utm_source=chatgpt.com)                                                                                                                               |
+* **[BBC Earth](https://www.youtube.com/@bbcearth)**
+* **[BBC英语纪录频道](https://v.douyin.com/Kg7WEHuZnzo/)**
+  - [神奇的植物 GREEN PLANET 1](https://v.douyin.com/AyWrh_p2L2U/)
+
 * **[久别辞](https://v.douyin.com/-M5R0fs46Mo/)**
   - [5%改变 | 好书推荐| 成长必读| 书籍推荐|好书分享](https://v.douyin.com/UgBhNa-5yCk/)
   - [百年孤独](https://v.douyin.com/j6aAftBgV0Q/)
