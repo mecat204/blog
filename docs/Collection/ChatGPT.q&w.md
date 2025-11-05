@@ -251,6 +251,80 @@
   - 当智能服务于善意，
   - 那时地球，才真正成为一个村庄。
 
+### 0007. AI 二创 + 世界名著 + 双语讲故事（中英文对照）+ 有配画面
+
+- **这个方向现在（尤其是2024下半年之后）在大陆短视频圈 / TikTok / Douyin / B站 / YouTube 都开始大量出现。**
+- **AI 二创 + 世界名著 + 双语讲故事（中英文对照）+ 有配画面**
+- 这是目前一个巨大的流量赛道（尤其英文学习方向）
+
+**你先明确一下 2 种形态:**
+
+| 类型           | 特点                         | 平台                           |
+| ------------ | -------------------------- | ---------------------------- |
+| AI 二创讲故事短视频  | 3-7 分钟，剧情梳理，带画面，带字幕，中英双语都有 | 抖音 / TikTok / YouTube Shorts |
+| 世界名著深度讲解（长版） | 15-40 分钟，剧情拆解，价值分析，沉浸朗读    | YouTube 正片类频道                |
+
+**YouTube 上确实有类似频道（大量）**
+- 你可以直接搜这些关键词
+
+* "bilingual short stories english chinese"
+* "AI story telling classic literature"
+* "AI retelling literature chinese english"
+* "Maupassant short stories English narration"
+* "My Uncle Jules English audiobook"
+
+**推荐频道方向（真实存在类型 you can search）：**
+
+| 方向                                          | 内容风格                                       |
+| ------------------------------------------- | ------------------------------------------ |
+| English Fairy Tales + Chinese subtitle 改编频道 | 很多世界短篇 / 经典文学都做成动画讲述                       |
+| AI Audiobook retell                         | GPT + TTS 配音，经典文学短篇改写                      |
+| 学习英语用文学                                     | 名著 plot breakdown + English natural speech |
+
+> 注意：YouTube 有大量英文原声 audiobooks（全作品），你可以配 browser extension 自动外挂中文字幕。
+
+例如
+**"My Uncle Jules Maupassant audiobook"**
+YouTube 有官方朗读很多版本（英文）
+你搜就会看到。
+
+- **什么题材最容易做、最多资源？**
+  * 世界短篇小说（最适合 AI 二创）
+    - 莫泊桑（很多都有双语视频）
+    - 契诃夫
+    - 欧亨利
+    - 爱伦坡
+    - 卡夫卡（AI风格尤其适合）
+    - 安徒生（成人向解读）
+
+  * 长篇小说缩编
+    - 傲慢与偏见
+    - 福尔摩斯探案集（特别好做短篇拆分）
+    - 海明威
+    - 老人与海（这个超级经典，双语讲解视频非常多）
+
+**如果你想要的是 "双语学习用 + AI 二创 + 文学"**
+  - 你可以从 **短篇**先入手。
+    - 短篇是最适合这个赛道的
+    - 因为短篇结构收束强、冲突集中、3-8 分钟最容易爆。
+
+**如果你需要，我可以做下一步:**
+  - 我帮你筛一批最适合做"短视频 AI 二创双语文学内容"的 短篇小说 list（非版权问题 / 可改写）。
+  - 你选其中（10篇 / 20篇 / 50篇）
+  - 我给你每一篇做
+---
+  - 中文浓缩剧情
+  - 自然英文母语级表达版本
+  - 可用于 TikTok、YouTube Shorts 直接配音脚本
+  - 可以 AI 生成画面（我会给 prompt 模板、风格统一，不会乱）
+
+**先问你一件事：**
+- 你想做的重点是哪一种定位？
+  - 英文学习向：英语自然表达，主要服务语言学习
+  - 文学审美向：更偏作品解读、审美体验
+  - 爽叙事改写向：剧情爽感、重写、重构
+  - 严肃忠于原著向：尽量保持原风味，只做精炼
+
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
 
