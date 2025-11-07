@@ -155,17 +155,6 @@
   - [故事的结局重要吗](https://v.douyin.com/MvNujxQ_Pqs/)
   - [病变·鞠文娴](https://v.douyin.com/m0nTg47vKxs/)
   - [阿拉斯加海湾·蓝心羽](https://v.douyin.com/teAPl4ZtAXo/)
-* [李佳古琴](https://v.douyin.com/dDpm7lvE3GM/)
-  - [国风古韵](https://v.douyin.com/QDCnNuEQZig/)
-* **[浅影阿](https://v.douyin.com/j9R790aOI3M/)**
-  - [谪居](https://v.douyin.com/BTeGOKmQ89M/)
-  - [我走在长街中！](https://v.douyin.com/2vkb2aZVXfo/)
-* **[今也_古琴](https://v.douyin.com/ciILFWons1E/)**
-  - [愁生天际，雨落时又想起撑伞过桥底·古琴](https://v.douyin.com/NH3waO-hmQ4/)
-* **[舒窈](https://v.douyin.com/dQenqUTMUU0/)**
-  - [天地缓缓 | 青丝绾 情思晚](https://v.douyin.com/JckyKyfaVwA/)
-* **[笛子～小柔 | 笛子](https://v.douyin.com/7ZMhqrKiU5Q/)**
-  - ["笛声一响，雪落满肩头…吹一曲《落了白》，愿人间清净，山河无恙。🌨️"|笛子 |乐器演奏 |落了白](https://v.douyin.com/-su-aaPrnvs/)
 * **[相思无解，悲秋望雨！ 相遇相知，已是上签。 心怀山河，缓步前行， 见山见水，独不见你。 似见非见，了无遗憾！ 接下来的日子渐寒，添衣，无病，安好!](https://v.douyin.com/BlXHteKlCpE/)**
 * **[马悠悠🇨🇳（回族）](https://v.douyin.com/gaN093nLMIk/)**
   - [东方青苍和小兰花 | 苍兰诀 王鹤棣 虞书欣](https://v.douyin.com/Tn7pYlG9_zM/)
@@ -216,7 +205,15 @@
 * **[银幕诗人 | 苏州园林 ｜江南水乡｜中式美学](https://v.douyin.com/b2blAPgkIlE/)**
   - [真的有人喜欢这种安静的感觉吗](https://v.douyin.com/Zqt54YHlzjA/)
 * **[崔江卉古筝 |  曲谱集 | 2019年出版 朝云间 | 2024年出版 流行古筝独奏教程](https://v.douyin.com/l-_NyS7JlX4/)**
-  - [](长按复制此条消息，打开抖音搜索，查看TA的更多作品。 https://v.douyin.com/l-_NyS7JlX4/)
+* **[惊枝 | 海压竹枝低复举，风吹山角晦还明](https://v.douyin.com/AEIx2NG45Pc/)**
+  - [情思晚，暂留天地缓缓" 原唱：伦桑 移植：东韵Dongyun 演奏：我 小小的变了一下调 这个旋律还是太权威了，东韵老师移植也是太权威了 古琴 天地缓缓](https://v.douyin.com/znD-CUN6yGQ/)
+* **[李佳古琴](https://v.douyin.com/dDpm7lvE3GM/)**
+  - [国风古韵](https://v.douyin.com/QDCnNuEQZig/)
+* **[浅影阿](https://v.douyin.com/j9R790aOI3M/)**
+  - [谪居](https://v.douyin.com/BTeGOKmQ89M/)
+  - [我走在长街中！](https://v.douyin.com/2vkb2aZVXfo/)
+* **[今也_古琴](https://v.douyin.com/ciILFWons1E/)**
+  - [愁生天际，雨落时又想起撑伞过桥底·古琴](https://v.douyin.com/NH3waO-hmQ4/)
 
 ---
 ### 015. music·author
@@ -370,6 +367,10 @@
 * **[rain sounds for sleeping](https://www.youtube.com/watch?v=-ERFwSSqg1Y)**
 * **[HealingCompass](https://www.youtube.com/@HealingCompass)**
   - [令人入睡的雨声是由大雨发出的。 帮助您放松、减轻压力。](https://www.youtube.com/watch?v=nzn3X9iEdTs)
+* **[Soothing Relaxation](https://www.youtube.com/@SoothingRelaxation)**
+  - [令人放松的音乐和雨声 - 动听的钢琴乐、背景音乐、催眠音乐](https://www.youtube.com/watch?v=o8GrqUSdzi0)
+* **[Rainy_Bedroom](https://www.youtube.com/@Rainy_Bedroom)**
+  - [【4M】Best Rain in the Forest at Night 🌲 | Sleep Deeply with Heavy Rain Sounds](https://www.youtube.com/watch?v=4yjfQ90CFk0)
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
