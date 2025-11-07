@@ -11,19 +11,22 @@
 ### 002. Movie
 * **movie·优质**
   - **[OWOTUBE影院](https://owotube.com/)**
-  - [4kvm·A](https://4kvm.site/)
-  - [4kvm·B](https://www.4kvm.net/)
-  - [4kvm·C](https://www.4kvm.pro)
-  - [4kvm·D](https://www.4kvm.org)
-  - [AnFuns·动漫](https://www.anfuns.cc/)
-  - [AnFuns·动漫](https://www.anfuns.in)
+  - **[libvio](https://libvio.mov/)**
+  - **[libvio](https://libvio.vip/)**
+  - **[netflixgc](https://www.netflixgc.com/)**
+  - **[4kvm·A](https://4kvm.site/)**
+  - **[4kvm·B](https://www.4kvm.net/)**
+  - **[4kvm·C](https://www.4kvm.pro)**
+  - **[4kvm·D](https://www.4kvm.org)**
+  - **[dailymotion](https://www.dailymotion.com/us)**
+  - **[AnFuns·动漫](https://www.anfuns.cc/)**
+  - **[AnFuns·动漫](https://www.anfuns.in)**
+  - **[novipnoad](https://www.novipnoad.net/)**
   - [金牌影院](https://www.hskjjglo.com/)
   - [金牌影院](https://www.vv3nwjk.com/)
-  - [权力的游戏](https://www.novipnoad.net/tv/western/8202*html)
-  - [独播库](https://www.duboku.tv/)
   - [**爱壹帆**](https://www.iyf.tv/)
   - [多瑙影院](https://dnvod.org/)
-  - [4K指南](https://xuexizhinan.com/)
+  - **[4K指南](https://xuexizhinan.com/)**
 * **Movie**
   - [沙暖](https://www.shanuan.com/)
   - [zyplayer](https://zyplayer.fun/)
@@ -33,13 +36,11 @@
   - [麻瓜影院](https://www.yangzhujixie.com/)
   - [CN影院](https://www.cnysvod.com/)
   - [天天美剧](https://www.meijuq.com/)
-  - [**dailymotion**](https://www.dailymotion.com/us)
   - [**i.iao.su**](https://i.iao.su/?2025/%E9%9F%B3%E4%B9%90)
   - [Kin热点](https://kin.itmresources.com/)
   - [LOL电影天堂](http://www.loldytt.me/)
   - [美剧迷](https://www.meijumi.net/)
   - [琉璃影院](https://ll.yinyue.tw/)
-  - [libvio](https://libvio.mov/)
   - [枫林网](https://imaple8.co/)
   - [剧谜](https://gimy.cc/)
   - [VidHub](https://vidhub.me/)
@@ -74,6 +75,7 @@
 * **[Believer.67](https://v.douyin.com/sdprE26WI48/)**
   - [共鸣叙事家·去找到你生命中的快乐！](https://v.douyin.com/kQjzqhUHk2k/)
   - [荒野生存](https://v.douyin.com/J_jP3V0t678/)
+
 ---
 ### 004. TVBOX
 * [配置地址](http://xhztv.top/xhz)

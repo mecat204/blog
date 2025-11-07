@@ -26,4 +26,9 @@
 * **[影视](https://www.youtube.com/feed/storefront?bp=EgCSAQMI9gOiBQIoBQ%3D%3D)**
 
 ---
+### 003. 娱乐节目
+* **[CCTV春晚](https://www.youtube.com/@CCTVGala)**
+  - [2025年中央广播电视总台中秋晚会 2025 Mid-Autumn Festival Gala | CCTV春晚](https://www.youtube.com/watch?v=WF8LhUhyJDw)
+
+---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
