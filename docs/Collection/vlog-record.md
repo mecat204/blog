@@ -23,6 +23,13 @@
 * **[BBC Earth](https://www.youtube.com/@bbcearth)**
 * **[BBC英语纪录频道](https://v.douyin.com/Kg7WEHuZnzo/)**
   - [神奇的植物 GREEN PLANET 1](https://v.douyin.com/AyWrh_p2L2U/)
+* **[Dan Koe](https://www.youtube.com/@DanKoeTalks)**
+* **[来点思考 | Dan Koe](https://v.douyin.com/OkNpJEuLTEg/)**
+  - [AI加速学习](https://v.douyin.com/dJUjAceOkEg/)
+  - 你还在慢慢学吗？用AI加速学习，10倍提高效率！  dankoe来点思考 AI  学习效率
+  - [两周就能学会任何技能，为什么你这么慢？](https://v.douyin.com/uYLph2ZzDRA/)
+* **[dankoe](https://v.douyin.com/tN4bvreV5vE/)**
+  - [如何让人生进步十倍（完整指南） How To Make Progress 10X Faster In Life (Full Guide)](https://v.douyin.com/XyQq7MkQ4hI/)
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)

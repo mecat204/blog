@@ -127,6 +127,11 @@
   - [一个能让你做成任何事的顶级心法:日拱一卒，持续交卷](https://v.douyin.com/0rFGyr_m74g/)
 * **[Studio Digital AI](https://www.youtube.com/@StudioDigitalAI)**
   - [火影忍者 - 电影 (2026) | 忍者的命运 | 4K预告片](https://www.youtube.com/watch?v=kkR-M1b6zQ8)
+**[威廉君](https://v.douyin.com/_rkMKSjEYts/)**
+  - [绫波丽 天鹰战士EVA 新世纪福音战士](ttps://v.douyin.com/7wfkdtIn9mw/)
+* **[田甜](https://v.douyin.com/U9zu7_drvWw/)**
+  - [AI古风绝美写真](https://v.douyin.com/5g3Nyg2p9Os/)
+* **[Kath](https://v.douyin.com/EkjrMHDldUc/)**
 
 ---
 ### 007. 数字人实时语音交互

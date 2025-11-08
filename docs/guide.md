@@ -29,6 +29,7 @@
   - [牛马三部曲](Collection/牛马三部曲)
   - [心理学](Collection/心理学)
   - [vlog-record](Collection/vlog-record)
+  - [CollegeCourse](Collection/CollegeCourse)
   - [CodingSource](Collection/CodingSource)
   - [Douyin](Collection/Douyin)
   - [Movie](Collection/movie)

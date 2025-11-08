@@ -156,10 +156,14 @@
   - [2study](https://2study.top/)
 * [wordforest](https://www.wordforest.cn/books)
 * [北美外教一对一口语](https://v.douyin.com/5gy921EoPv0/)
-* **[来点思考](https://v.douyin.com/OkNpJEuLTEg/)**
+* **[来点思考 | Dan Koe](https://v.douyin.com/OkNpJEuLTEg/)**
   - [AI加速学习](https://v.douyin.com/dJUjAceOkEg/)
-  - 你还在慢慢学吗？用AI加速学习，10倍提高效率！ # dankoe# 来点思考# AI # 学习效率 #
-* [跟着雅思考官即刻说](https://v.douyin.com/gdn4JbcfBfU/)
+  - 你还在慢慢学吗？用AI加速学习，10倍提高效率！  dankoe来点思考 AI  学习效率
+  - [两周就能学会任何技能，为什么你这么慢？](https://v.douyin.com/uYLph2ZzDRA/)
+* **[dankoe](https://v.douyin.com/tN4bvreV5vE/)**
+  - [如何让人生进步十倍（完整指南） How To Make Progress 10X Faster In Life (Full Guide)](https://v.douyin.com/XyQq7MkQ4hI/)
+
+* **[跟着雅思考官即刻说](https://v.douyin.com/gdn4JbcfBfU/)**
   - [雅思学习顺序](https://v.douyin.com/HXvsXOVgrN4/)
   - 雅思学习顺序很重要！ 千万别搞反顺序了。实际上，雅思备考只要摸准学习节奏，过程就会思路清晰、难度降低。靠谱的备考方法从无捷径可言，都是往届考生总结的实用经验，但大家也能依据自身基础灵活调整。
   - 系统备考的流程：

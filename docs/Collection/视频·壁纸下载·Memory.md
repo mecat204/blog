@@ -41,7 +41,6 @@
 * [宇宙文旅](https://v.douyin.com/uFOD7nGu8ak/)
 * [𝘿𝘼𝙄𝙇𝙔](https://v.douyin.com/jFAxsfV0oJQ/)
 * [吴小小Sharon](https://v.douyin.com/5m6FCIoIAlQ/)
-* [南鴛](https://v.douyin.com/uZ00kzlMWc8/)
 * [不想刷抖音](https://v.douyin.com/tPxmLYzS-M4/)
 * [不想刷抖音](https://v.douyin.com/tPxmLYzS-M4/)
   - [第一视角FPV飞跃幺妹峰](https://v.douyin.com/DaEoYd6y8iM/)
@@ -64,7 +63,8 @@
     - [韩立大弟子柳玉 | 虚假的落云宗结丹长老 真正的元婴之下第一人 极阴岛四代目](https://v.douyin.com/xqnV8NZGgCo/)
   * **原神**
     - [为了追求永恒闭关锁国愿化作修罗的的将军](https://v.douyin.com/S-DbMb-krO4/)
-
+* **[田甜](https://v.douyin.com/U9zu7_drvWw/)**
+  - [AI古风绝美写真](https://v.douyin.com/5g3Nyg2p9Os/)
 
 ---
 ### 002. Tools:OURTV&MedLexo
