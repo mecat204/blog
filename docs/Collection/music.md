@@ -216,6 +216,8 @@
   - [愁生天际，雨落时又想起撑伞过桥底·古琴](https://v.douyin.com/NH3waO-hmQ4/)
 * **[东韵Dongyun](https://v.douyin.com/qjkJKUwKgFs/)**
   - [天地缓缓｜纯阳 天地缓缓 剑网3](https://v.douyin.com/cP65gAUmB3c/)
+* **[澜杉古琴](https://v.douyin.com/W8Gb5zdmCmo/)**
+  - [若如初见 为谁而归](https://v.douyin.com/rPDcjmLhOa0/)
 
 ---
 ### 015. music·author
