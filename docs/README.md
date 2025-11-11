@@ -28,6 +28,7 @@
   - [理想的生活](Collection/理想的生活)
   - [牛马三部曲](Collection/牛马三部曲)
   - [心理学·思想史](Collection/心理学·思想史)
+  - [世界树](Collection/世界树)
   - [vlog-record](Collection/vlog-record)
   - [CollegeCourse](Collection/CollegeCourse)
   - [CodingSource](Collection/CodingSource)
