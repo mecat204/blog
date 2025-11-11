@@ -13,6 +13,12 @@
 * **[书虫 牛津英汉双语读物 | 夸克](https://pan.quark.cn/s/4a7613abc657#/list/share/f2728585a1804bada421efcd061fbbba)**
 * **[tgoo分享-网盘资源下载·GitHub优质项目·趣味网站导航](https://www.tgoos.com/)**
 * **[ikandou_books](https://gist.github.com/luw2007/5044268)**
+* **词典 | Dictionary | Dict**
+  - **[MDict](https://www.mdict.cn/wp/?page_id=5227&lang=zh)**
+  - **[freemdict](https://forum.freemdict.com/)**
+  - **[cloud.freemdict](https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs)**
+  - **[GoldenDict](https://www.mediafire.com/file/pue9ypsztminv7e/GoldenDict.rar)**
+
 
 ---
 ### 002. PE
