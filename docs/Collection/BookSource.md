@@ -628,8 +628,10 @@
 * [专知](https://zhuanzhi.ai/)
 
 ---
-### 019. 教材 | 教科书 | 人教版
+### 019. 教材 | 教科书
 * **[教材 | 教科书 | 人教版](https://jc.pep.com.cn/)**
+* **[教科书 | 课本](https://textbook.synaiv.com/)**
+
 
 ---
 ### 020. Procreate Tutorials
