@@ -747,6 +747,8 @@
 ### 034. 历史
 * **[不屯田的邓艾](https://v.douyin.com/QfvE9t2rSGE/)**
   - [帝制两千年](https://v.douyin.com/f3grKPZXUyI/)
+  - [农民起义给中国带来了什么？](https://v.douyin.com/GqQa6CWTPcE/)
+  - [中国以及世界历史的变革之路。](https://v.douyin.com/2oyKXP6FjFU/)
 * **[大咖说·博物馆讲解](https://v.douyin.com/Yk2uVPAvxrc/)**
   - [古装剧骗人❗除了红和黄，宫殿还有其他配色 中国古建筑讲究色彩之美，各朝各代的建筑都有偏好的色彩。听大咖说南京讲师巫鹏飞老师为我们讲述宫殿配色的演变历史…… ](https://v.douyin.com/s49OgFm0HHo/)
 

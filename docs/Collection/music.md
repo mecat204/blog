@@ -7,7 +7,7 @@
 * [INTERSTELLAR - Main Theme](https://www.youtube.com/watch?v=LFNjzUCgZPc)
 * [Lindsey Stirling - Crystallize](https://www.youtube.com/watch?v=C8md6yJkUY4)
 * [深度专注和鼓舞人心的混音](https://www.youtube.com/watch?v=-sZqtdT-GVw)
-* [Chill Music Lab](https://www.youtube.com/@MusicLabChill)
+* **[Chill Music Lab](https://www.youtube.com/@MusicLabChill)**
 * **[银翼杀手2049](https://www.youtube.com/watch?v=d2JZ4AG-u3w)**
 * [RelaxingRainSleepMusic](https://www.youtube.com/@RelaxingRainSleepMusic)
 * [Celtic Music](https://www.youtube.com/watch?v=F6sIGqNR_hk)
@@ -144,8 +144,9 @@
   - [时间的摇晃·窝窝](https://v.douyin.com/UhUtkRYmSf8/)
 * [𝐆𝐍𝐀𝐑](https://v.douyin.com/r-NztBNUTsI/)
   - [励志](https://v.douyin.com/-jFJFrPSS3M/)
-* [Mr.凌晨](https://v.douyin.com/V8ZLG9XP87A/)
+* **[Mr.凌晨](https://v.douyin.com/V8ZLG9XP87A/)**
   - [钢琴 - 回忆是一条没有尽头的路](https://v.douyin.com/1V9x-FlyqvY/)
+  - [这个世界是残酷的，但同时也很美。](钢琴  https://v.douyin.com/UglODQ1fxaQ/)
 * [养有术](https://v.douyin.com/Lw6iMZsbUjM/)
   - [五音疗愈](https://v.douyin.com/tEfGHPZsoy8/)
 * [羊阿宝的空灵鼓](https://v.douyin.com/FCan7tFzndI/)
@@ -218,6 +219,8 @@
   - [天地缓缓｜纯阳 天地缓缓 剑网3](https://v.douyin.com/cP65gAUmB3c/)
 * **[澜杉古琴](https://v.douyin.com/W8Gb5zdmCmo/)**
   - [若如初见 为谁而归](https://v.douyin.com/rPDcjmLhOa0/)
+* **[爱纹身的古琴师](https://v.douyin.com/viDf_wTQT9U/)**
+  - [古琴的泛音不愧是"天音" 听了真上头](https://v.douyin.com/u-2PlCGc8H0/ )
 
 ---
 ### 015. music·author
@@ -375,6 +378,14 @@
   - [令人放松的音乐和雨声 - 动听的钢琴乐、背景音乐、催眠音乐](https://www.youtube.com/watch?v=o8GrqUSdzi0)
 * **[Rainy_Bedroom](https://www.youtube.com/@Rainy_Bedroom)**
   - [【4M】Best Rain in the Forest at Night 🌲 | Sleep Deeply with Heavy Rain Sounds](https://www.youtube.com/watch?v=4yjfQ90CFk0)
+* **[Relaxing Ambience ASMR](https://www.youtube.com/@RelaxingAmbienceASMR)**
+  - [Rain Sound On Window with Thunder SoundsㅣHeavy Rain for Sleep, Study and Relaxation, Meditation](https://www.youtube.com/watch?v=mPZkdNFkNps)
+* **[Nature SFX](https://www.youtube.com/@NatureSFX)**
+  - [雨声和雷暴声，自然声和雨声，可以放松、冥想、学习和入睡](https://www.youtube.com/watch?v=R0NME9W3cR4)
+* **[Stardust Vibes - Relaxing Sounds](https://www.youtube.com/@StardustVibes)**
+  - [重雷声！放松的雨，雷电和闪电的睡眠环境|自然视频](https://www.youtube.com/watch?v=gVKEM4K8J8A)
+* **[下雨的傢伙](https://www.youtube.com/@RainyGuy)**
+  - [在舒适的冬季小屋中深度睡眠| 令人放松的壁炉噼啪声、暴风雪声、风声和降雪声](https://www.youtube.com/watch?v=Rm-4JUivLcE)
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
