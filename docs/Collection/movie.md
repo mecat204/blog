@@ -371,6 +371,9 @@
 * **爱有来世**
 * **末日重启**
 * **星际之门**
+* **阿丽塔：战斗天使**
+* **创：战纪 Tron: Legacy**
+* **创：战神 Tron: Ares**
 
 ### 019. 美剧
 * **[影视](https://www.youtube.com/channel/UCuVPpxrm2VAgpH3Ktln4HXg)**
