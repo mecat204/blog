@@ -768,28 +768,29 @@ AIGC 产品 = 给普通人使用的界面**
 ---
 
 **🛠 六、普通人如何开始用 AIGC？（适合你）**
-* 你可以按"需求"选择工具：
-**1. 文字**
+* **你可以按"需求"选择工具：**
+1. **文字**
   * ChatGPT（你正在用）
   * Claude
   * Gemini / 通义千问
-**2. 画图**
+2. **画图**
   * Midjourney
   * DALL·E
   * Stable Diffusion (本地部署)
-**3. 视频**
+3. **视频**
   * Sora（等待开放）
   * 讯飞智影
   * Runway ML
 * 快影（Kuaishou）
-**4. 自动办公**
+4. **自动办公**
   * Notion AI
   * 飞书文档 + AI
   * Office Copilot
-**5. 编程**
+5. **编程**
   * Cursor
   * Github Copilot
   * Windsurf
+
 ---
 
 **🎯 七、总结（一句话）**
