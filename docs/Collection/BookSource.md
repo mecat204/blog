@@ -270,6 +270,9 @@
 * **[immersive 英语 | 英语没有捷径，无他，唯手熟尔～～](https://v.douyin.com/BJbdmHJyVBE/)**
   - [今日单词：# persist；风雨无阻persist学英语](https://v.douyin.com/dT4VjUdgYn4/)
 * **[学习啦在线学习网_免费的技能、特长、知识学习网站_学习.励志.成长!](https://www.xuexila.com/)**
+* **[小乐 | 谁是谁的谁](https://v.douyin.com/uZL6LRyNIA4/)**
+  - [英语每天一分钟](https://v.douyin.com/rrLGNXEO7fo/)
+
 
 ---
 ### 005. 收藏&&Blog
@@ -328,6 +331,7 @@
   - [人际关系](https://v.douyin.com/LZk-wf3ybn4/)
 * **[榆晖书院](https://v.douyin.com/0ROr1PNKqaA/)**
   - [硬笔书法](https://v.douyin.com/2ZEBSOBvur8/)
+  - [孩子，你所谓的普通可能并不是那么普通](https://v.douyin.com/v7ZfJCcWr28/)
 * **[团子](https://v.douyin.com/Aw3GWIANijc/)**
   - [礼记](https://v.douyin.com/HFk6LZ8d9-I/)
   - [望江东 黄庭坚。江水西头隔烟树，望不见、江东路。 思量只有梦来去，更不怕、江阑住。 灯前写了书无数，算没个、人传与。 直饶寻得雁分付，又还是、秋将暮。| 写字是一种生活 # 练字静心](https://v.douyin.com/hUdWEwqp7XA/)

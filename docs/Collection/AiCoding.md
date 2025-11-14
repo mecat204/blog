@@ -132,6 +132,10 @@
 * **[田甜](https://v.douyin.com/U9zu7_drvWw/)**
   - [AI古风绝美写真](https://v.douyin.com/5g3Nyg2p9Os/)
 * **[Kath](https://v.douyin.com/EkjrMHDldUc/)**
+* **[暴躁虾剪 | 一个要把西游记剪成臊子的男人](https://v.douyin.com/snIZmkR1pQc/)**
+  - [用《西游记》复刻《雍正王朝》卸甲！！！](ttps://v.douyin.com/jZ6KL8hjRCg/)
+* **[歪剪经典](https://v.douyin.com/lcf9-BZOdDU/)**
+  - [甄嬛传《熹游记1》救徒五指山，斗法狮驼岭 | 甄嬛传 | 西游记 | 搞笑 | 魔改剪辑](https://v.douyin.com/DL9bbka-PVU/)
 
 ---
 ### 007. 数字人实时语音交互

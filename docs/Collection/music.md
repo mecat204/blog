@@ -199,6 +199,7 @@
   - [不愿染是与非，怎料事与愿违 | 不染 | 香蜜沉沉烬如霜](https://v.douyin.com/KLUopNP12KM/)
   - [能不能为你再跳一支舞，我是你千百年前放生的白狐 | 白狐](https://v.douyin.com/ldwf0A2QGrU/)
   - [进击的巨人](https://v.douyin.com/NPm3v5eK5iw/)
+  - [笛子 | 弱水三千 | 战国袍 | 宿命感](https://v.douyin.com/6bc1xv68Qn8/)
 * **[笛子～小柔 | 笛子](https://v.douyin.com/7ZMhqrKiU5Q/)**
   - ["笛声一响，雪落满肩头…吹一曲《落了白》，愿人间清净，山河无恙。🌨️"|笛子 |乐器演奏 |落了白](https://v.douyin.com/-su-aaPrnvs/)
 * **[晓乐](https://v.douyin.com/22gFoRVOSts/)**
@@ -221,6 +222,13 @@
   - [若如初见 为谁而归](https://v.douyin.com/rPDcjmLhOa0/)
 * **[爱纹身的古琴师](https://v.douyin.com/viDf_wTQT9U/)**
   - [古琴的泛音不愧是"天音" 听了真上头](https://v.douyin.com/u-2PlCGc8H0/ )
+* **[之云 | 名雪茹 字之雲 ](https://v.douyin.com/rpVkYBh6MEg/)**
+  - [《琵琶语》古琴版，林海作曲。"月光飞入林前屋。风策策，度庭竹。夜半江城击柝声，动寒梢栖宿。"](https://v.douyin.com/QT8XFBPdiDQ/)
+  - ["你是前世为止的心跳，你是来世胸前的记号" | 古琴  | 古风 | 国风古韵](https://v.douyin.com/yJmVZZ80QbE/)
+* **[古琴拓荒人卢玉平](https://v.douyin.com/StWkZmqXOT8/)**
+  - [悬溺一响，古琴登场。](https://v.douyin.com/kdnpGdGSSIQ/)
+* **[北山书斋](https://v.douyin.com/ydKbGLznnUs/)**
+  - [东韵老师这谱子，真的太懂古琴了！ | 天地缓缓 | 古琴  | 北山书斋](https://v.douyin.com/3SV1jzvFfjg/)
 
 ---
 ### 015. music·author

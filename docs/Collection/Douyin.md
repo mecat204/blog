@@ -226,13 +226,13 @@
   * **[小锤 | 苦尽甘来终有时，一路向阳待花期](https://v.douyin.com/XLwqm_foXg8/)**
     - [香迷糊了 还是最爱的茄子辣子馅 | 陕西美食# 乡村美食](https://v.douyin.com/_5pVQD9Ffu8/)
   * **[陕西大婷婷](https://v.douyin.com/d9ZurjObcLo/)**
-  - [烩麻食](https://v.douyin.com/pcXxW_Iogg8/)
+    - [烩麻食](https://v.douyin.com/pcXxW_Iogg8/)
   * **[Shay](https://v.douyin.com/XKxkaG_j-Jc/)**
     - [拿到结果的大部分人都是不合群的](https://v.douyin.com/Bk5iA6wgj9Q/)
   * **[向野哲哲](https://v.douyin.com/EmjaJyqs2IE/)**
     - [给AI为道德经，以后AI就不会为难人类了吗？](https://v.douyin.com/giXh2pmLV9I/)
   * **[梦灵逸](https://v.douyin.com/Qc77CKKA1SI/)**
-  - [创造的能量，生生不息 手工玫瑰香皂，花草药摆件独一无二](https://v.douyin.com/fxknUQWDFxY/)
+    - [创造的能量，生生不息 手工玫瑰香皂，花草药摆件独一无二](https://v.douyin.com/fxknUQWDFxY/)
   * **[奶思兔咪鱿 | Nice to meet you](https://v.douyin.com/yF1WG9-otuc/)**
     - [儿时不解 大人为何拼尽全力依然清贫 长大才知 光是活着养家便已是多数人的极限](https://v.douyin.com/shTHN-zbKIY/)
   * **[鱿子](https://v.douyin.com/v4cURCRwMU4/)**
@@ -278,6 +278,8 @@
     - [实验了无数次：你圆满，世界就圆满。](https://v.douyin.com/wdCBCeWZPVg/)
   * **[不知名鸽子 | 兼职艺术家](https://v.douyin.com/aswEUDarZMY/)**
     - ["渡人，渡己" | 摄影 | 胶片 | 拍出电影感]https://v.douyin.com/c62IgYUdKRk/)
+  * **[和平猫猫¹²¹⁴](https://v.douyin.com/BcAaclPxPA4/)**
+    - [原来只有男生才能get到这种...你有没有可乐喝](https://v.douyin.com/BozWiRGiQqE/)
 
 ---
 ### 015. 乡野·治愈系风景
@@ -397,6 +399,8 @@
 ### 030. 网红·搞笑
 * **[热泵千金](https://v.douyin.com/SA0yiuuBVP0/)**
   - [本来自己可以游刃有余，非要插手到让我连滚带爬 | 没出息](https://v.douyin.com/BUiS9ikW-X4/)
+* **[悠悠不是球](https://v.douyin.com/hmxbwG-O0sU/)**
+  - [猫:还养吗？](https://v.douyin.com/NgEzWSCgZbc/)
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
