@@ -335,10 +335,12 @@
   - [ps5游戏](https://v.douyin.com/ftFTUnF0-tA/)
 * **[北北机车头](https://v.douyin.com/EmanL-IPUv0/)**
   - [吃奶的劲的都试出来了！服了666？](https://v.douyin.com/ieUp8uzPEPc/**)
+* **[大狸子切切里 | 我是切里🍒~是个对游戏，数码产品和摄影，都感兴趣的宅女](https://v.douyin.com/K1fm_BNsCcI/)**
+  - [数码潮电大玩家](https://v.douyin.com/s2Xfm825LQ0/)
 
 ---
 ### 021. 中外史学
-* [史图记忆簿](https://v.douyin.com/jsDmbpVDQRA/)
+* **[史图记忆簿](https://v.douyin.com/jsDmbpVDQRA/)**
   - [南越](https://v.douyin.com/RKQOQM5DCDg/)
 
 ---
@@ -349,9 +351,9 @@
 
 ---
 ### 023. Game
-* 代号界
-* 奥日与黑暗森林
-* 奥日与萤火意志
+* **代号界**
+* **奥日与黑暗森林**
+* **奥日与萤火意志**
 
 ---
 ### 024. 3d体验世界各地神奇建筑

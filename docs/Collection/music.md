@@ -188,7 +188,7 @@
   - [我做了一个很长的梦日语·爱情·离别](https://v.douyin.com/_N_kxqj8_UY/)
 
 ---
-### 014. 古琴 | 古筝 |  笛子 | 钢琴
+### 014. 古琴 | 古筝 |  笛子 | 钢琴 | 小提琴
 * **[舒窈](https://v.douyin.com/dQenqUTMUU0/)**
   - [天地缓缓 | 青丝绾 情思晚](https://v.douyin.com/JckyKyfaVwA/)
   - [此生何用声声叹 | 秦时明月](https://v.douyin.com/B-23jqZBReg/)
@@ -229,6 +229,10 @@
   - [悬溺一响，古琴登场。](https://v.douyin.com/kdnpGdGSSIQ/)
 * **[北山书斋](https://v.douyin.com/ydKbGLznnUs/)**
   - [东韵老师这谱子，真的太懂古琴了！ | 天地缓缓 | 古琴  | 北山书斋](https://v.douyin.com/3SV1jzvFfjg/)
+* **[肚鸭梨](https://v.douyin.com/sKKHvRlNODQ/)**
+  - [青城山下白素贞](https://v.douyin.com/9OQBPo4tQlM/)
+* **[dada弹琴 | 希望温柔的音乐可以治愈你。 我会一直陪着你，直到很久很久以后.](https://v.douyin.com/nKE8TEty6RU/)**
+  - [钢琴 | 贝琪电钢琴](https://v.douyin.com/vbYLsDNoafo/)
 
 ---
 ### 015. music·author
