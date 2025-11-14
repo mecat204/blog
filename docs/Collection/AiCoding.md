@@ -136,6 +136,8 @@
   - [用《西游记》复刻《雍正王朝》卸甲！！！](ttps://v.douyin.com/jZ6KL8hjRCg/)
 * **[歪剪经典](https://v.douyin.com/lcf9-BZOdDU/)**
   - [甄嬛传《熹游记1》救徒五指山，斗法狮驼岭 | 甄嬛传 | 西游记 | 搞笑 | 魔改剪辑](https://v.douyin.com/DL9bbka-PVU/)
+* **[上帝之手-原创者](https://v.douyin.com/pftw_l2Zs5A/)**
+  - [上帝之手之水与火之战之宇宙起源 | 创意制作 | 解压 | 视觉冲击 | 视觉魔术 | 上帝视角](https://v.douyin.com/mq3hcsvD5TQ/)
 
 ---
 ### 007. 数字人实时语音交互
