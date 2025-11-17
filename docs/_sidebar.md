@@ -3,7 +3,8 @@
 * **Collection**
   - [readme](Collection/readme)
   - [Todaytask](Collection/Todaytask)
-  - [突围者·乱星海](Collection/突围者·乱星海)
+  - [凡人修仙](Collection/凡人修仙)
+  - [时政](Collection/时政)
   - [动漫](Collection/动漫)
   - [music](Collection/music)
   - [轻音乐](Collection/轻音乐)
@@ -21,7 +22,7 @@
   - [环球户外风光](Collection/环球户外风光)
   - [国风 | 艺术 | 古风](Collection/国风·艺术·古风)
   - [江湖侠客](Collection/江湖侠客)
-  - [地理志·旅行者探险](Collection/地理志·旅行者探险)
+  - [地理志](Collection/地理志)
   - [创业&&财经](Collection/创业&&财经)
   - [BookSource](Collection/BookSource)
   - [理想的生活](Collection/理想的生活)

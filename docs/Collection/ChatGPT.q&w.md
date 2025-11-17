@@ -1283,5 +1283,11 @@ ChatGPT 你说的未来不是乌托邦，而是真可能实现的未来路径：
 * **反过来，如果一天跟一天一样，脑子几乎在省电模式，就像复制粘贴人生，自然感觉时间飞快。**
 
 ---
+### 0022. 翻译诗词
+* me: When life is sweet, say thank you and cebebrate.When life is bitter, say thank you and grow.
+* ChatGPT: "生活甘甜时，心怀感恩去庆祝；生活苦涩时，心怀感恩去成长。"
+
+
+---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
 
