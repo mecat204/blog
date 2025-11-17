@@ -233,6 +233,11 @@
   - [青城山下白素贞](https://v.douyin.com/9OQBPo4tQlM/)
 * **[dada弹琴 | 希望温柔的音乐可以治愈你。 我会一直陪着你，直到很久很久以后.](https://v.douyin.com/nKE8TEty6RU/)**
   - [钢琴 | 贝琪电钢琴](https://v.douyin.com/vbYLsDNoafo/)
+* **[Free Life | 自然会治愈一切 摄影 徒步 发呆](https://v.douyin.com/1Z-2gaTju9w/)**
+  - [人生海海，山山而川，不过尔尔](https://v.douyin.com/ES6pjU5Z6j8/)
+  - 雨后的广西是最美的，树木被洗涤后焕然一新，翠绿翠绿的，这个时候我很喜欢深深呼吸，肺腑充满清新的空气
+  - 待父母老去，待儿女成人，我便卸去这一身枷锁，寻得一处山水秘境，养花种菜，耕地砍柴，食粗茶淡饭，饮山间清泉，不问世事，不念过往，只为逃离这世间苦海…
+  - [天地缓缓，浮生漫漫 | 桂林临桂状元桥](https://v.douyin.com/TTCGQEFVJj4/)
 
 ---
 ### 015. music·author

@@ -7,6 +7,7 @@
   - [时政](Collection/时政)
   - [动漫](Collection/动漫)
   - [music](Collection/music)
+  - [game](Collection/game)
   - [轻音乐](Collection/轻音乐)
   - [华语乐坛](Collection/华语乐坛)
   - [问小白](Collection/问小白)

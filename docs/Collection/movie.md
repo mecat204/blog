@@ -106,7 +106,7 @@
 |------|----------|--------|
 | **《圣山》** (1973) | 术士带领门徒寻找永生，荒诞仪式解构宗教与权力。 | 梦境般的视觉冲击，堪比《盗梦空间》的折叠城市。 |
 | **《一条安达鲁狗》** (1929) | 超现实主义短片，无逻辑拼接割眼球、蚂蚁爬手等意象。 | 潜意识表达如《可爱的骨头》的诗意死亡。 |
-| **《无姓之人》** (2009) | 2092年最后一位凡人回忆自己所有可能的平行人生。 | 多线叙事如《盗梦空间》的“可能性分支”。 |
+| **《无姓之人》** (2009) | 2092年最后一位凡人回忆自己所有可能的平行人生。 | 多线叙事如《盗梦空间》的"可能性分支"。 |
 ---
 4. **中俄科幻的冷冽美学**
 | 电影 | 剧情简述 | 关联点 |
@@ -375,10 +375,17 @@
 * **创：战纪 Tron: Legacy**
 * **创：战神 Tron: Ares**
 
+---
 ### 019. 美剧
 * **[影视](https://www.youtube.com/channel/UCuVPpxrm2VAgpH3Ktln4HXg)**
 * **[央视1979-2001引进的外国电影和电视剧](https://mecat204.github.io/website/source/cctv.film/index.html)**
+* **[挑灯夜剪](https://v.douyin.com/oMY4gmPw3gs/)**
+  - [身形虽小气场万丈，以勇毅为刃凭底气护北境的精神领袖-小熊女 | 了不起的精讲团](https://v.douyin.com/EnKz7KZd-n4/)
 
-### 020. 动漫 | 凡人修仙传
+---
+### 020. 电影美学
+* **[星光殷殷 其灿如言](https://v.douyin.com/5TRXgPiNxz0/)**
+  - [似乎一切事物的结局 都得由它收尾" | 眼泪](https://v.douyin.com/QxG7VMezsms/)
+
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)

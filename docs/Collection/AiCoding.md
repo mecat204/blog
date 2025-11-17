@@ -140,6 +140,15 @@
   - [上帝之手之水与火之战之宇宙起源 | 创意制作 | 解压 | 视觉冲击 | 视觉魔术 | 上帝视角](https://v.douyin.com/mq3hcsvD5TQ/)
 * **[Kaylan Ai英语 | hello guys Kaylan是一款mean风格的英语教学AI](https://v.douyin.com/TIwVQVNAR9g/)**
   - [跟kaylan学英语的第55天](https://v.douyin.com/jcg5SIFBQCg/)
+* **[中央美院刘沐心 | 命理可参, 生活务实; 紫薇非救，自强为真。](https://v.douyin.com/C83DZ5_hkuw/)**
+  - [懒帝紫微星的看透万物一体 | 紫微星](https://v.douyin.com/OJCxvlOjnpo/)
+  - [心脉受损怎么办？· 自愈](https://v.douyin.com/DRAt53Y1GL4/)
+* **[杜老师AI分享](https://v.douyin.com/AwXREQLvi9k/)**
+  - [北美教育圈被疯传的演讲，所有家长和学生都该看看](https://v.douyin.com/AMD1p4nrPfg/)
+* **[卡咔英语（带学版）| 爱丁堡大学 硕士在读｜英专八级](https://v.douyin.com/0OBnQ2XTa1I/)**
+  - [在国外用告示牌学英语](https://v.douyin.com/RdPzdM9WAr0/)
+* **[英语是我看世界的通行证🌍 我要努力送自己出国 看更大的世界](https://v.douyin.com/43pGLMgTHyY/)**
+  - [努力送自己出国0基础自学英语day41📖发现了一个英语听说读写练习最快的捷径](https://v.douyin.com/QXa_hcVewao/)
 
 
 ---
