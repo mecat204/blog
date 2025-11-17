@@ -324,6 +324,14 @@
   - **《道德经》启示："反者道之动，弱者道之用。"低谷时，强行对抗如同硬闯逆流，而彻底躺平则会错失转机。道家智慧在于：以柔承压，顺势而为。 如溪水绕石，既接纳困境的存在，又在静默中积蓄力量。此刻的"无为"绝非放弃，而是在尊重规律下的积极准备——当你停止与浪潮搏斗，转而学习驾驭它时，转机自会浮现。**
 * **[鸿紫本草日记](https://v.douyin.com/iwvej1R6gYw/)**
   - [什么年纪发财最好 最好的命其实是从35岁之后才开始有钱的，因为太早了，你担不住](https://v.douyin.com/ctVGLUACn2Q/)
+* **[洛盈小师妹](https://v.douyin.com/-ixotBRYFDo/)**
+  - [励志](https://v.douyin.com/31zsh1ztiPk/)
+* **[神秘洛盈](https://v.douyin.com/01VLQtRhVMQ/)**
+* **[洛盈道语](https://v.douyin.com/QsaViEcVIVk/)**
+  - [穷且益坚，不坠青云之志| 国学文化 | 古人的智慧](https://v.douyin.com/ZXcwYY3TYHo/)
+* **[逍遥小青](https://v.douyin.com/PNgMEajA8NA/)**
+  - **[大辩不言 | 庄子](https://v.douyin.com/xvuFTtKzgXQ/)**
+  - 庄子叹"大辩不言"。许多婚姻矛盾因言语而起，在情绪激动时，沉默比任何话语都更有力量。这并非冷暴力，而是给彼此留出内省的空间。当内心波澜平息，真诚的表达自然会找到合适的词语。有时，一个理解的拥抱，胜过千言万语的解释与争辩。
 
 ---
 ### 019. 灵兽
@@ -373,23 +381,12 @@
 * [modelscope·魔搭社区](https://modelscope.cn/home)
 
 ---
-### 027. 悟道
-* **[洛盈小师妹](https://v.douyin.com/-ixotBRYFDo/)**
-  - [励志](https://v.douyin.com/31zsh1ztiPk/)
-* **[神秘洛盈](https://v.douyin.com/01VLQtRhVMQ/)**
-* **[洛盈道语](https://v.douyin.com/QsaViEcVIVk/)**
-  - [穷且益坚，不坠青云之志| 国学文化 | 古人的智慧](https://v.douyin.com/ZXcwYY3TYHo/)
-* **[逍遥小青](https://v.douyin.com/PNgMEajA8NA/)**
-  - **[大辩不言 | 庄子](https://v.douyin.com/xvuFTtKzgXQ/)**
-  - 庄子叹"大辩不言"。许多婚姻矛盾因言语而起，在情绪激动时，沉默比任何话语都更有力量。这并非冷暴力，而是给彼此留出内省的空间。当内心波澜平息，真诚的表达自然会找到合适的词语。有时，一个理解的拥抱，胜过千言万语的解释与争辩。
-
----
-### 028. 幽默·娱乐
+### 027. 幽默·娱乐
 * **[幽默油条果汁](https://v.douyin.com/bZ6eq6n2QM0/)**
   - [脱口秀](https://v.douyin.com/N-U2U_ayS08/)
 
 ---
-### 029. 红尘劫
+### 028. 红尘劫
 * **[策备](https://v.douyin.com/DklvhVP-fqs/)**
   - [老家铁饭碗没了，60%%岗位已裁减](https://v.douyin.com/5UW2OdDj_AI/)
 * **[83萌叔](https://v.douyin.com/z-KuttZfv30/)**
@@ -398,7 +395,7 @@
   - [掘金计划2025](https://v.douyin.com/7da7DRKWAVc/)
 
 ---
-### 030. 网红·搞笑
+### 029. 网红·搞笑
 * **[热泵千金](https://v.douyin.com/SA0yiuuBVP0/)**
   - [本来自己可以游刃有余，非要插手到让我连滚带爬 | 没出息](https://v.douyin.com/BUiS9ikW-X4/)
 * **[悠悠不是球](https://v.douyin.com/hmxbwG-O0sU/)**
