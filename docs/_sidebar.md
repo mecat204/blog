@@ -1,5 +1,27 @@
 <!-- docs/_sidebar.md -->
 * [**首页**](README)
+  - [readme](Collection/readme)
+* **摘录集**
+  - [Douyin](摘录集/douyin)
+  - [认知](摘录集/认知)
+* **古诗词**
+  - [古文·唐诗·宋词](古诗词/001.古文)
+* **千集录**
+  - [哲理](千集录/001.哲理)
+  - [千思集](千集录/002.千思集)
+  - [心法](千集录/003.心法)
+  - [摘录](千集录/004.摘录)
+  - [经文](千集录/005.经文)
+* **同义词辨析词典**
+  - [words](同义词辨析词典/words)
+  - [template](同义词辨析词典/template)
+  - [a](同义词辨析词典/a)
+* **同义词辨析简化版**
+  - [a](同义词辨析简化版/a)
+* **Book**
+  - [瞬间记单词](Book/瞬间记单词)
+  - [words](Book/words)
+  - [构词法速查表](Book/构词法速查表)
 * **Collection**
   - [readme](Collection/readme)
   - [Todaytask](Collection/Todaytask)
@@ -59,27 +81,8 @@
   - [gitbash-command](bash/002.gitbash-command)
   - [gitbash](bash/003.gitbash)
   - [ssh-agent](bash/004.ssh-agent)
-* **Book**
-  - [瞬间记单词](Book/瞬间记单词)
-  - [words](Book/words)
-  - [构词法速查表](Book/构词法速查表)
 * **CommonSense**
   - [GeneralKnowledge](CommonSense/GeneralKnowledge)
-* **同义词辨析词典**
-  - [words](同义词辨析词典/words)
-  - [template](同义词辨析词典/template)
-  - [a](同义词辨析词典/a)
-* **同义词辨析简化版**
-  - [a](同义词辨析简化版/a)
-* **摘录集**
-  - [Douyin](摘录集/douyin)
-  - [认知](摘录集/认知)
-* **古诗词**
-  - [古文·唐诗·宋词](古诗词/001.古文)
-* **千集录**
-  - [哲理](千集录/001.哲理)
-  - [千思集](千集录/002.千思集)
-  - [心法](千集录/003.心法)
-  - [摘录](千集录/004.摘录)
-  - [经文](千集录/005.经文)
+
+
 

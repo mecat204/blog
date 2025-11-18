@@ -1,15 +1,35 @@
 <!-- docs/guide.md -->
 * [**首页**](README)
+  - [readme](Collection/readme)
+* **摘录集**
+  - [Douyin](摘录集/douyin)
+  - [认知](摘录集/认知)
+* **古诗词**
+  - [古文·唐诗·宋词](古诗词/001.古文)
+* **千集录**
+  - [哲理](千集录/001.哲理)
+  - [千思集](千集录/002.千思集)
+  - [心法](千集录/003.心法)
+  - [摘录](千集录/004.摘录)
+  - [经文](千集录/005.经文)
+* **同义词辨析词典**
+  - [words](同义词辨析词典/words)
+  - [template](同义词辨析词典/template)
+  - [a](同义词辨析词典/a)
+* **同义词辨析简化版**
+  - [a](同义词辨析简化版/a)
+* **Book**
+  - [瞬间记单词](Book/瞬间记单词)
+  - [words](Book/words)
+  - [构词法速查表](Book/构词法速查表)
 * **Collection**
   - [readme](Collection/readme)
-  - [zpandame](https://zpandame.github.io/website/hidden.html)
   - [Todaytask](Collection/Todaytask)
   - [凡人修仙](Collection/凡人修仙)
   - [时政](Collection/时政)
   - [动漫](Collection/动漫)
   - [music](Collection/music)
   - [game](Collection/game)
-  - [网络新闻](Collection/网络新闻)
   - [轻音乐](Collection/轻音乐)
   - [华语乐坛](Collection/华语乐坛)
   - [问小白](Collection/问小白)
@@ -20,12 +40,13 @@
   - [码农](Collection/码农)
   - [开源项目](Collection/开源项目)
   - [技术栈](Collection/技术栈)
+  - [网络新闻](Collection/网络新闻)
   - [视频·壁纸下载·Memory](Collection/视频·壁纸下载·Memory)
-  - [地理志](Collection/地理志)
   - [环球户外风光](Collection/环球户外风光)
-  - [创业&&财经](Collection/创业&&财经)
-  - [国风 | 艺术 | 古风](Collection/国风&&艺术&&古风)
+  - [国风 | 艺术 | 古风](Collection/国风·艺术·古风)
   - [江湖侠客](Collection/江湖侠客)
+  - [地理志](Collection/地理志)
+  - [创业&&财经](Collection/创业&&财经)
   - [BookSource](Collection/BookSource)
   - [理想的生活](Collection/理想的生活)
   - [牛马三部曲](Collection/牛马三部曲)
@@ -43,7 +64,6 @@
   - [ChatGPT.q&w](Collection/ChatGPT.q&w)
   - [tv-online](Collection/tv-online)
   - [Work](Collection/work)
-
 * **CodeSnippet**
   - [Frontend](CodeSnippet/Frontend)
   - [JSfunc](CodeSnippet/JS_func)
@@ -61,27 +81,6 @@
   - [gitbash-command](bash/002.gitbash-command)
   - [gitbash](bash/003.gitbash)
   - [ssh-agent](bash/004.ssh-agent)
-* **Book**
-  - [瞬间记单词](Book/瞬间记单词)
-  - [words](Book/words)
-  - [构词法速查表](Book/构词法速查表)
 * **CommonSense**
   - [GeneralKnowledge](CommonSense/GeneralKnowledge)
-* **同义词辨析词典**
-  - [words](同义词辨析词典/words)
-  - [template](同义词辨析词典/template)
-  - [a](同义词辨析词典/a)
-* **同义词辨析简化版**
-  - [a](同义词辨析简化版/a)
-* **摘录集**
-  - [Douyin](摘录集/douyin)
-  - [认知](摘录集/认知)
-* **古诗词**
-  - [古文·唐诗·宋词](古诗词/001.古文)
-* **千集录**
-  - [哲理](千集录/001.哲理)
-  - [千思集](千集录/002.千思集)
-  - [心法](千集录/003.心法)
-  - [摘录](千集录/004.摘录)
-  - [经文](千集录/005.经文)
 
