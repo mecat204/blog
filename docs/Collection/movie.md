@@ -388,4 +388,9 @@
   - [似乎一切事物的结局 都得由它收尾" | 眼泪](https://v.douyin.com/QxG7VMezsms/)
 
 ---
+### 021. 电影对白
+* **[发财小y | 分享一点喜欢的](https://v.douyin.com/-ZkMY7SucPs/)**
+  - [简爱 | 电影对白](https://v.douyin.com/1cFoxN6_IAs/)
+
+---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)

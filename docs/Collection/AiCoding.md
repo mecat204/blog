@@ -149,7 +149,12 @@
   - [在国外用告示牌学英语](https://v.douyin.com/RdPzdM9WAr0/)
 * **[英语是我看世界的通行证🌍 我要努力送自己出国 看更大的世界](https://v.douyin.com/43pGLMgTHyY/)**
   - [努力送自己出国0基础自学英语day41📖发现了一个英语听说读写练习最快的捷径](https://v.douyin.com/QXa_hcVewao/)
-
+* **[ai老韩 | aigc创作者，有凡人官方授权 ](https://v.douyin.com/2Y3LdWQthZM/)**
+  - [仓坤上人副本 | 凡人修仙传 | AI创作浪潮计划 | 海艺AI | 韩立 | 南陇侯](https://v.douyin.com/zhIuD4WxtiY/)
+* **[韩胶带](https://v.douyin.com/aJkvygp4xpo/)**
+  - [花24小时AI自制凡人修仙传边界大战]https://v.douyin.com/XMxnPhfWx5s/)
+  - [发一发坠魔谷概念视频 | 凡人修仙传 | 坠魔谷 | 韩胶带 | 海艺AI](https://v.douyin.com/niVlJbi1kSI/)
+  - [慕沛灵](https://v.douyin.com/yxICALHu2x8/)
 
 ---
 ### 007. 数字人实时语音交互
