@@ -54,7 +54,7 @@
   - [世界树](Collection/世界树)
   - [健康养生](Collection/健康养生)
   - [道法自然](Collection/道法自然)
-  - [vlog-record](Collection/vlog-record)
+  - [Vlog](Collection/Vlog)
   - [CollegeCourse](Collection/CollegeCourse)
   - [CodingSource](Collection/CodingSource)
   - [Douyin](Collection/Douyin)
