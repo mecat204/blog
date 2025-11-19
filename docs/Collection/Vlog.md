@@ -1,4 +1,4 @@
-### 001. English Vlog-record
+### 001. English Vlog
 * **[李子柒 Liziqi | youtube](https://www.youtube.com/@cnliziqi)**
 * **[李子柒 | 李家有女，人称子柒。| douyin](https://v.douyin.com/UzDy7CInEV4/)**
 
@@ -25,10 +25,13 @@
 ---
 * **[THE MAGIC LIBRARY](https://www.youtube.com/@the-magic-library)**
   - [ATOMIC HABITS | JAMES CLEAR | FULL-AUDIOBOOK | WHAT'S THE SECRET TO BRAEKING BAD HABITS |](https://www.youtube.com/watch?v=mdM_9X_i7pM)
+
 ---
 * **[BBC Earth](https://www.youtube.com/@bbcearth)**
 * **[BBC英语纪录频道](https://v.douyin.com/Kg7WEHuZnzo/)**
   - [神奇的植物 GREEN PLANET 1](https://v.douyin.com/AyWrh_p2L2U/)
+
+---
 * **[Dan Koe](https://www.youtube.com/@DanKoeTalks)**
 * **[来点思考 | Dan Koe](https://v.douyin.com/OkNpJEuLTEg/)**
   - [AI加速学习](https://v.douyin.com/dJUjAceOkEg/)
