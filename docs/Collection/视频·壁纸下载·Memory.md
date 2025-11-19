@@ -86,6 +86,8 @@
 * **[魔女不熬夜](https://v.douyin.com/_ntRKLC_pnY/)**
   - [往生堂堂主 | 胡桃](https://v.douyin.com/BmxP3f1D61w/)
 
+* **[去码头整点薯片](https://v.douyin.com/Xuvtlv8NeLM/**
+  - [韩小子好久不见，迟早打死你 | 南宫婉](https://v.douyin.com/_l3vo58KJIA/)
 ---
 * **在线平台**
   - 如果你想在线制作动态壁纸，有一些网站提供了简便的工具，可以将视频、动画或图片转换为动态壁纸。以下是一些比较受欢迎的在线平台：

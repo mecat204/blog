@@ -41,4 +41,22 @@
   - [如何让人生进步十倍（完整指南） How To Make Progress 10X Faster In Life (Full Guide)](https://v.douyin.com/XyQq7MkQ4hI/)
 
 ---
+* **[4kUrbanLife | youtube](https://www.youtube.com/@4kUrbanLife)**
+  - [4K Cities of The World: Krakow, Poland](https://www.youtube.com/watch?v=3CfLia_6TU0&list=PLQggNzW0_YA9OlYAoIS5Vp-gRp8kF3EcS)
+  - [ProArtInc](https://proartinc.net/)
+* **[4K休闲频道 | douyin | ProArtInc](https://v.douyin.com/uuEFJKfRBsc/)**
+  - [助眠 | 冥想](https://v.douyin.com/gF8j1U_F5qU/)
+
+---
+* **[TheEnglishClass2917 | youtube](https://www.youtube.com/@TheEnglishClass2917)**
+  - [How to Speak English Fluently](https://www.youtube.com/watch?v=dWmUsWorYh0)
+* **[Biubiu仔仔 | douyin | 沉浸式练习英语口语](https://v.douyin.com/MUMd0LtI8WE/)**
+  - [How to Speak English Fluently？](https://v.douyin.com/2bueQ6v6XVo/)
+  - How to Speak English Fluently？ Do you want to speak English fluently? Do you feel nervous when you try to speak? In this video, we will help you! We will teach you step by step, in very easy English. You will learn how to speak clearly, how to practice every day, and how to stop being afraid.
+
+### 002. Chinese Vlog
+* **[山肆十四 | 会一直折腾  谢谢观看 ](https://v.douyin.com/xu9aAeeaEoY/)**
+  - [大部分时候我们的不快乐，不是因为得不到，而是拥有的太多。| **旅行vlog** | **交换世界计划** | **做拓路者越万重山**](https://v.douyin.com/kSotN4KDXNM/)
+
+---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
