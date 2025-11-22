@@ -227,6 +227,7 @@
 * **2025**
   * **[小锤 | 苦尽甘来终有时，一路向阳待花期](https://v.douyin.com/XLwqm_foXg8/)**
     - [香迷糊了 还是最爱的茄子辣子馅 | 陕西美食# 乡村美食](https://v.douyin.com/_5pVQD9Ffu8/)
+    - [陕西娃的浪漫 绿辣子卷卷 吃着真过瘾😋# 好吃到停不下来 | 陕西美食# 乡村生活# 乡村美食# 辣子花卷](https://v.douyin.com/MJosaJdMFyw/)
   * **[陕西大婷婷](https://v.douyin.com/d9ZurjObcLo/)**
     - [烩麻食](https://v.douyin.com/pcXxW_Iogg8/)
   * **[Shay](https://v.douyin.com/XKxkaG_j-Jc/)**

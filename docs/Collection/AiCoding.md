@@ -159,6 +159,8 @@
   - [东方志怪步生莲|亿点怪诞美学丝滑一镜到底](https://v.douyin.com/bdZjzxLUj-U/)
 * **[十二钗数智女团](https://v.douyin.com/P7uUVYOUvxo/)**
   - [千万级数字虚拟偶像 | 经典 | 红楼梦  | 金陵十二钗  | 大观园  | 林黛玉](https://v.douyin.com/utlCiegyYeA/)
+* **[苏淮远 | 昨夜西风凋碧树， 独上高楼，望尽天涯路。](https://v.douyin.com/1fV-l4n0aG4/)**
+  - [天气变冷了，要盖好被子！](https://v.douyin.com/CRKGo7XKHH0/)
 
 ---
 ### 007. 数字人实时语音交互

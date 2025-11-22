@@ -65,6 +65,9 @@
     - [为了追求永恒闭关锁国愿化作修罗的的将军](https://v.douyin.com/S-DbMb-krO4/)
 * **[田甜](https://v.douyin.com/U9zu7_drvWw/)**
   - [AI古风绝美写真](https://v.douyin.com/5g3Nyg2p9Os/)
+* **[Spica | 4k 壁纸分享](https://v.douyin.com/ZES3Qt5RYlg/)**
+  - [凡人女团黑色系壁纸来啦](https://v.douyin.com/n30NkNO3wcQ/)
+  - [凡人女团](https://v.douyin.com/BmmTss0o24M/)
 
 ---
 ### 002. Tools:OURTV&MedLexo
