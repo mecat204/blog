@@ -36,10 +36,14 @@
 * [跟着磊哥玩Ai](https://v.douyin.com/HrE3JoatGbk/)
   - [宇宙料理](https://v.douyin.com/BdHSZvHqQ_o/)
 * [Spaces - Hugging Face](https://huggingface.co/spaces)
+
+---
 * **[大圆镜科普](https://v.douyin.com/Rj2OPR_kCj0/)**
   - [科普·痛风](https://v.douyin.com/XfqEpxB4qzs/)
   - [能让生物至死方休的快乐按钮，究竟是什么？](https://v.douyin.com/9ErfXea01Qg/)
   - [第一个选项为100%%稳拿100万； 第二个选项为10%%得500万，89%%得100万，1%%一无所获；](https://v.douyin.com/EZ5-xSDbr7k/)
+
+---
 * **[幽居](https://v.douyin.com/OMZB4wI2uZs/)**
   - [温馨的小窝](https://v.douyin.com/HnsNYmUx9XU/)
   - [檐下煮茶带雪至，花前挚盏迎风来。品茶，赏景，茶话客谈，岂不悠哉](https://v.douyin.com/eXzkfTZ9XvA/)
@@ -82,88 +86,163 @@
   - [温馨的小窝](https://v.douyin.com/lHPgBIAUlfY/)
 * [媛姐美景](https://v.douyin.com/q1xSNYyXIsM/)
   - [林中小屋](https://v.douyin.com/I4yKGk3KlR8/)
+
+---
 * **[AI教练·振轩|网站资源分享](https://v.douyin.com/Z85GoFIdT5k/)**
+
+---
 * **[老麦不废话](https://v.douyin.com/_nWNnafRehU/)**
   - [9月份记住这4个网站，不工作也会有收入](https://v.douyin.com/wGYjoTbd9VI/)
   - [MiniMax语音](https://v.douyin.com/7C2x-Jxi61o/)
+
+---
 * **[Xuan酱](https://v.douyin.com/-jcTJnQZK44/)**
   - [runway](https://v.douyin.com/L6KbONxKXQU/)
-* [AI奇幻同行](https://v.douyin.com/LiJdJAU16ME/)
+* **[AI奇幻同行](https://v.douyin.com/LiJdJAU16ME/)**
   - [异世界冒险者所见的风景。异世界不仅有骑士与城堡的故事，龙与地下城的冒险，也有像我一样喜欢静静欣赏风景的吟游诗人，拯救世界、打败魔王什么的就算了吧](https://v.douyin.com/brGH37esuTw/)
+
+---
 * **[AI宁君](https://v.douyin.com/SVsgGnSF0cE/)**
   - [AI古装美女](https://v.douyin.com/tZQrFdT2b0I/)
+
+---
 * **[我为黑夜狂](https://v.douyin.com/8AZm4AVUsJM/)**
   - [赛博国风写真](https://v.douyin.com/blplhlvRwfw/)
+
+---
 * **[小猫说🐱](https://v.douyin.com/0DS8Sk1HMNY/)**
   - [内部资料  | 一条视频教会你让AI替你打工](https://v.douyin.com/g9n9oKCbfnU/)
+
+---
 * **[𝘼𝙞𝙨𝙢𝙧](https://v.douyin.com/V1qQyuJdlN8/)**
   - [ASMR LOOP:面粉狂想](https://v.douyin.com/k3OkZ4Tgb6U/)
+
+---
 * **[古调今吟 |  用AI把语文课本内容变成影像，让记忆再次鲜活](https://v.douyin.com/0oB3JKSEMXY/)**
   - [莫泊桑《我的叔叔于勒》](https://v.douyin.com/65ASoOB7lrs/)
   - [列夫·托尔斯泰《穷人》](https://v.douyin.com/ydQn3NUhtYI/)
+
+---
 * **[宋可为](https://v.douyin.com/JbkKjcLyeBI/)**
   - [我的叔叔于勒](https://v.douyin.com/JE-RwyEzZPQ/)
+
+---
 * **[还看今朝AI](https://v.douyin.com/Et7TNCBzPKY/)**
   - **天穹**
   - [第一集 乱世之中，又会有怎样的英雄故事？](https://v.douyin.com/I8hZki_1TOk/)
   - [第二集天宫之斗 太衡、南天两位星君为争下凡机会产生矛盾](https://v.douyin.com/pGmo_PxjfTo/ )
   - [第三集 穹，每相隔百年波动一次的天生之灵，当它现世的时候，天界也会随之震荡](https://v.douyin.com/ThNfnMuVK_4/)
+
+---
 * **[燃·剪 | 西游](https://v.douyin.com/ppgeQm10xes/)**
   - [12点之前我还是灵山经长 | 不一样的西游记](https://v.douyin.com/mVXvDWvZ8lo/)
+
+---
 * **[一只小岚猫](https://v.douyin.com/MkNGEuCBzjs/)**
   - [戏文说 |红颜](https://v.douyin.com/NNZzRdTY5nE/)
+
+---
 * **[认知便利店M!](https://v.douyin.com/LGT1DSofAw0/)**
   - [为什么认知越高的人越喜欢独处？ 爱因斯坦、牛顿、贝多芬的共同秘密，独处如何造就天才大脑 | 认知觉醒](https://v.douyin.com/fKk92HZ3aJA/)
+
+---
 * **[小星不斩妖](https://v.douyin.com/EfMbcjIYodc/)**
   - **氪命除妖师**
   - [第一集 我曾与妖魔为伍，祸害百姓。今日斩妖，利用妖兽助我长生不死！](https://v.douyin.com/wj5AjN_DcYk/)
   - [第二集 沈切初境期圆满！要与衙门做出切割！](https://v.douyin.com/YKv2b3EHI6g/)
   - [第三集 叶姚登场！到底是福还是祸？](https://v.douyin.com/FXxDXtvyeWA/)
   - [第四集 鹿族萨满幻境大战！竟出现了另一个自己。](https://v.douyin.com/Q3p8p0gdyxo/)
+
+---
 * **[WoodMake·木造](https://v.douyin.com/9vu7U1KHwng/)**
   - [国风](https://v.douyin.com/oZQYYRL6fZM/)
   - **当 AI 角色有了一些"小心思" 一部影片中要出现大量人物，基于训练模型和多工具配合，例如 Nano Banana、Midjourney、 Seedream4.0 等，我们的角色，无论主角还是配角都可以在更多场景，更加自然的做肢体动作、微表情展现，这有利于商片制作；背景音乐依然来自我们自制的国风配乐**
+
+---
 * **[极限觉醒的黛西](https://v.douyin.com/1M2cPSvWNks/)**
   - [一个能让你做成任何事的顶级心法:日拱一卒，持续交卷](https://v.douyin.com/0rFGyr_m74g/)
+
+---
 * **[Studio Digital AI](https://www.youtube.com/@StudioDigitalAI)**
   - [火影忍者 - 电影 (2026) | 忍者的命运 | 4K预告片](https://www.youtube.com/watch?v=kkR-M1b6zQ8)
-**[威廉君](https://v.douyin.com/_rkMKSjEYts/)**
+* **[威廉君](https://v.douyin.com/_rkMKSjEYts/)**
   - [绫波丽 天鹰战士EVA 新世纪福音战士](ttps://v.douyin.com/7wfkdtIn9mw/)
+
+---
 * **[田甜](https://v.douyin.com/U9zu7_drvWw/)**
   - [AI古风绝美写真](https://v.douyin.com/5g3Nyg2p9Os/)
+
+---
 * **[Kath](https://v.douyin.com/EkjrMHDldUc/)**
+
+---
 * **[暴躁虾剪 | 一个要把西游记剪成臊子的男人](https://v.douyin.com/snIZmkR1pQc/)**
   - [用《西游记》复刻《雍正王朝》卸甲！！！](ttps://v.douyin.com/jZ6KL8hjRCg/)
+
+---
 * **[歪剪经典](https://v.douyin.com/lcf9-BZOdDU/)**
   - [甄嬛传《熹游记1》救徒五指山，斗法狮驼岭 | 甄嬛传 | 西游记 | 搞笑 | 魔改剪辑](https://v.douyin.com/DL9bbka-PVU/)
+
+---
 * **[上帝之手-原创者](https://v.douyin.com/pftw_l2Zs5A/)**
   - [上帝之手之水与火之战之宇宙起源 | 创意制作 | 解压 | 视觉冲击 | 视觉魔术 | 上帝视角](https://v.douyin.com/mq3hcsvD5TQ/)
+
+---
 * **[Kaylan Ai英语 | hello guys Kaylan是一款mean风格的英语教学AI](https://v.douyin.com/TIwVQVNAR9g/)**
   - [跟kaylan学英语的第55天](https://v.douyin.com/jcg5SIFBQCg/)
+
+---
 * **[中央美院刘沐心 | 命理可参, 生活务实; 紫薇非救，自强为真。](https://v.douyin.com/C83DZ5_hkuw/)**
   - [懒帝紫微星的看透万物一体 | 紫微星](https://v.douyin.com/OJCxvlOjnpo/)
   - [心脉受损怎么办？· 自愈](https://v.douyin.com/DRAt53Y1GL4/)
+
+---
 * **[杜老师AI分享](https://v.douyin.com/AwXREQLvi9k/)**
   - [北美教育圈被疯传的演讲，所有家长和学生都该看看](https://v.douyin.com/AMD1p4nrPfg/)
+
+---
 * **[卡咔英语（带学版）| 爱丁堡大学 硕士在读｜英专八级](https://v.douyin.com/0OBnQ2XTa1I/)**
   - [在国外用告示牌学英语](https://v.douyin.com/RdPzdM9WAr0/)
+
+---
 * **[英语是我看世界的通行证🌍 我要努力送自己出国 看更大的世界](https://v.douyin.com/43pGLMgTHyY/)**
   - [努力送自己出国0基础自学英语day41📖发现了一个英语听说读写练习最快的捷径](https://v.douyin.com/QXa_hcVewao/)
+
+---
 * **[ai老韩 | aigc创作者，有凡人官方授权 ](https://v.douyin.com/2Y3LdWQthZM/)**
   - [仓坤上人副本 | 凡人修仙传 | AI创作浪潮计划 | 海艺AI | 韩立 | 南陇侯](https://v.douyin.com/zhIuD4WxtiY/)
+
+---
 * **[韩胶带](https://v.douyin.com/aJkvygp4xpo/)**
   - [花24小时AI自制凡人修仙传边界大战]https://v.douyin.com/XMxnPhfWx5s/)
   - [发一发坠魔谷概念视频 | 凡人修仙传 | 坠魔谷 | 韩胶带 | 海艺AI](https://v.douyin.com/niVlJbi1kSI/)
   - [慕沛灵](https://v.douyin.com/yxICALHu2x8/)
+
+---
+* **[凡人凡画 | 专注凡人二创](https://v.douyin.com/_bzXVDm4fTk/)**
+  - [凡人凌凌漆](https://v.douyin.com/XR9P1b1u5T8/)
+
+---
 * **[风卷云舒 | 凡人 | 其他](https://v.douyin.com/D5hyeuHHy5g/)**
   - [慕沛灵| 韩立| 凡人修仙传 | 烟花易冷，韶华易逝，红颜易改，物是而人非。那一刻 | 沉溺在这异世的梦里| 是最终归宿](https://v.douyin.com/cr5x0xewEKg/)
+
+---
 * **[懂AI的初久](https://v.douyin.com/q_gWKVT3aFc/)**
   - [东方志怪步生莲|亿点怪诞美学丝滑一镜到底](https://v.douyin.com/bdZjzxLUj-U/)
+
+---
 * **[十二钗数智女团](https://v.douyin.com/P7uUVYOUvxo/)**
   - [千万级数字虚拟偶像 | 经典 | 红楼梦  | 金陵十二钗  | 大观园  | 林黛玉](https://v.douyin.com/utlCiegyYeA/)
+
+---
 * **[苏淮远 | 昨夜西风凋碧树， 独上高楼，望尽天涯路。](https://v.douyin.com/1fV-l4n0aG4/)**
   - [天气变冷了，要盖好被子！](https://v.douyin.com/CRKGo7XKHH0/)
   - [这…咋啦？ | 凡人修仙传| 元婴大佬 | AI二创视频](https://v.douyin.com/ig8p_50bPFM/)
+
+---
+* **[林扶摇 | 雪中行 仗剑天涯客，独行雪满襟。 江湖千里外，肝胆照冰心。](https://v.douyin.com/YH_Poqzpcrg/)**
+  - [刺秦 | 天地苍茫侠客行, 风雪寒松驻佳人。待到来年刺客归, 燕赵百姓得太平。](https://v.douyin.com/NVscQpRPJbc/)
+  - [群山叠嶂，雾海茫茫。人马不歇，直奔咸阳。剑气化丝，暴君当亡。剑客归隐，天下太平。](https://v.douyin.com/q9FBtOtsIOk/)
 
 ---
 ### 007. 数字人实时语音交互
@@ -240,6 +319,8 @@
 * [tools.miku.ac](https://tools.miku.ac/anime_tts/)
 * [TTS-Online](https://acgn.ttson.cn/)
 * [hoyoTTS](https://modelscope.cn/studios/Genius-Society/hoyoTTS)
+
+---
 * **[魔女不熬夜](https://v.douyin.com/_ntRKLC_pnY/)**
   - [往生堂堂主 | 胡桃](https://v.douyin.com/BmxP3f1D61w/)
   - [雷电将军：你？要与我为敌吗？](https://v.douyin.com/PWi9EHiHDgw/)
@@ -298,13 +379,19 @@
 
 ---
 ### 027. AI·动漫二创
+
+---
 * **[幻窥心渊](https://v.douyin.com/74rcO1tOG3Q/)**
   - **[宗祠剑影里的凡人风骨 韩瑞：记吾家叔祖韩立公](https://v.douyin.com/AROBdwgpepM/)**
 
 ---
 ### 028. AI启示录
+
+---
 * **[杨竹筠](https://v.douyin.com/ZGMIbRrkJHQ/)**
   - [AI会失控吗 200顶尖科学家的最后通牒 AI潘多拉魔盒，超过200名世界顶尖的科学家大声疾呼，2026年之前必须设立全球AI红线](https://v.douyin.com/Ma06-cxzu8A/)
+
+---
 * **[AI樟榆树](https://v.douyin.com/3eZz8TMyMKY/)**
   - [AI刚发的AI智能体浏览器Atlas再次解雇双手 Open AI近期发布的Atlas智能体浏览器，是解放双手还是解雇双手？视频一键总结，就连订火车票都一键直达](https://v.douyin.com/i9busAqA3V8/)
   - Atlas智能体浏览器
