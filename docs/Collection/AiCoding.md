@@ -155,19 +155,22 @@
   - [花24小时AI自制凡人修仙传边界大战]https://v.douyin.com/XMxnPhfWx5s/)
   - [发一发坠魔谷概念视频 | 凡人修仙传 | 坠魔谷 | 韩胶带 | 海艺AI](https://v.douyin.com/niVlJbi1kSI/)
   - [慕沛灵](https://v.douyin.com/yxICALHu2x8/)
+* **[风卷云舒 | 凡人 | 其他](https://v.douyin.com/D5hyeuHHy5g/)**
+  - [慕沛灵| 韩立| 凡人修仙传 | 烟花易冷，韶华易逝，红颜易改，物是而人非。那一刻 | 沉溺在这异世的梦里| 是最终归宿](https://v.douyin.com/cr5x0xewEKg/)
 * **[懂AI的初久](https://v.douyin.com/q_gWKVT3aFc/)**
   - [东方志怪步生莲|亿点怪诞美学丝滑一镜到底](https://v.douyin.com/bdZjzxLUj-U/)
 * **[十二钗数智女团](https://v.douyin.com/P7uUVYOUvxo/)**
   - [千万级数字虚拟偶像 | 经典 | 红楼梦  | 金陵十二钗  | 大观园  | 林黛玉](https://v.douyin.com/utlCiegyYeA/)
 * **[苏淮远 | 昨夜西风凋碧树， 独上高楼，望尽天涯路。](https://v.douyin.com/1fV-l4n0aG4/)**
   - [天气变冷了，要盖好被子！](https://v.douyin.com/CRKGo7XKHH0/)
+  - [这…咋啦？ | 凡人修仙传| 元婴大佬 | AI二创视频](https://v.douyin.com/ig8p_50bPFM/)
 
 ---
 ### 007. 数字人实时语音交互
 * [VideoChat](https://github.com/Henry-23/VideoChat)
 
 ---
-### 008. Ai·canvas
+### 008. AI·Canvas
 * [Animated Drawings](https://sketch.metademolab.com/canvas)
 * [index-tts2](https://index-tts.github.io/index-tts2.github.io/)
   - [index-tts](https://github.com/index-tts/index-tts)
@@ -184,7 +187,7 @@
 ### 011. 同义千问
 * [同义官网](https://tongyi.aliyun.com)
 * [Qwen2.5-Coder](https://v.douyin.com/CeiJS3qnN/）
-  - 性能达到GPT-4o的编程模型 Qwen2.5-Coder：阿里通义千问开源性能达到GPT-4o的编程专用模型，具备artifact能力、以及结合cursor使用qwen2.5-coder# ai编程模型
+  - 性能达到GPT-4o的编程模型 Qwen2.5-Coder：阿里通义千问开源性能达到GPT-4o的编程专用模型，具备artifact能力、以及结合cursor使用qwen2.5-coderai编程模型
 * [qwenlm](https://qwenlm.github.io/zh/blog/qwen2.5-coder-family/?continueFlog)
 * [openrouter](https://openrouter.ai)
 * [openrouter](https://openrouter.ai/settings/keys)
@@ -196,7 +199,7 @@
 * [AIGCLINK](https://www.youtube.com/@AIGCLINK)
 
 ---
-### 012. comfyui
+### 012. Comfyui
 * [Comfy-Org](https://github.com/Comfy-Org/desktop)
 * [优设-comfyui](https://www.uisdc.com/comfyui-v1)
 
