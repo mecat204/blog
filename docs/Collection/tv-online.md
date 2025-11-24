@@ -24,6 +24,7 @@
 * **[經典華語老電影](https://www.youtube.com/@chnclassic)**
   - [新天龙八部之天山童姥 (1994)](https://www.youtube.com/watch?v=hWjcf8ln_Rs)
 * **[影视](https://www.youtube.com/feed/storefront?bp=EgCSAQMI9gOiBQIoBQ%3D%3D)**
+* **[邵氏放映厅 | youtube](https://www.youtube.com/@%E9%82%B5%E6%B0%8F%E6%94%BE%E6%98%A0%E5%8E%85)**
 
 ---
 ### 003. 娱乐节目

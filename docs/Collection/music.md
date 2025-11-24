@@ -181,6 +181,8 @@
 * **[justmontages](https://www.youtube.com/@justmontages)**
   - **[Hans Zimmer - Time (Inception Main Theme)](https://www.youtube.com/watch?v=_8dRNULr6rE)**
   - **[合辑 - Interstellar theme song - video](https://www.youtube.com/watch?v=8kooIgKESYE&list=RD8kooIgKESYE&start_radio=1)**
+* **红昭愿·合集**
+  - [国风MV](https://www.youtube.com/watch?v=Rflz7mdY2_Y&list=RDRflz7mdY2_Y&start_radio=1)
 
 ---
 ### 013. 日语·声优
