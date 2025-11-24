@@ -121,6 +121,9 @@
 * **[古调今吟 |  用AI把语文课本内容变成影像，让记忆再次鲜活](https://v.douyin.com/0oB3JKSEMXY/)**
   - [莫泊桑《我的叔叔于勒》](https://v.douyin.com/65ASoOB7lrs/)
   - [列夫·托尔斯泰《穷人》](https://v.douyin.com/ydQn3NUhtYI/)
+  - [鲁迅《从百草园到三味书屋》](https://v.douyin.com/XufHxxaJ4GM/)
+  - [鲁迅《祝福》上篇](https://v.douyin.com/mhJ0G6x61So/)
+  - [鲁迅《祝福》下篇](https://v.douyin.com/ngcbXniN_TM/)
 
 ---
 * **[宋可为](https://v.douyin.com/JbkKjcLyeBI/)**
