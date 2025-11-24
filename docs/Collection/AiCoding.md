@@ -245,6 +245,15 @@
   - [群山叠嶂，雾海茫茫。人马不歇，直奔咸阳。剑气化丝，暴君当亡。剑客归隐，天下太平。](https://v.douyin.com/q9FBtOtsIOk/)
 
 ---
+* **[宁豪 | AI创作短视频 | 视觉冲击 | 原创动画 | 艺术 | 潮流艺术](https://v.douyin.com/7irl7C1c9N8/)**
+  - [云海之上，古风翩跹， 是否你也向往这仙侠世界？国风古装美女AI | 生成动漫AIGC | 古风 | 修仙 | 二次元动漫 | 仙境云海 | ai动画](https://v.douyin.com/0DrJ3z32_Yo/)
+
+---
+* **[灵境墨语 | 4k视频](https://v.douyin.com/SloA0Wrqmf8/)**
+  - [今日我仙殿下雪了！ 今日仙殿下雪了，不知人间是否有雪!](https://v.douyin.com/3Zz_ZJNYNkg/)
+  - 今日我仙殿下雪了！ 今日仙殿下雪了，不知人间是否有雪！快加入我仙殿，一起修仙吧！ | 修仙  | 星云高清图片
+
+---
 ### 007. 数字人实时语音交互
 * [VideoChat](https://github.com/Henry-23/VideoChat)
 
