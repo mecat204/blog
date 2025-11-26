@@ -54,6 +54,7 @@
   - [牛马三部曲](Collection/牛马三部曲)
   - [心理学·思想史](Collection/心理学·思想史)
   - [世界树](Collection/世界树)
+  - [科普](Collection/科普)
   - [健康养生](Collection/健康养生)
   - [道法自然](Collection/道法自然)
   - [Vlog](Collection/Vlog)

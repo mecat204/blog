@@ -226,6 +226,10 @@
   - [凡人凌凌漆](https://v.douyin.com/XR9P1b1u5T8/)
 
 ---
+* **[AI散修小师妹 | AIGC散修，凡人修仙 原创AI视频](https://v.douyin.com/Se773qx2EWU/)**
+  - [小梅凝~变身！ | 二次元 | 梅凝 | 暗夜变装挑战# AI创作浪潮计划 | 海艺AI  ](https://v.douyin.com/v3V_iC6bQeI/)
+
+---
 * **[风卷云舒 | 凡人 | 其他](https://v.douyin.com/D5hyeuHHy5g/)**
   - [慕沛灵| 韩立| 凡人修仙传 | 烟花易冷，韶华易逝，红颜易改，物是而人非。那一刻 | 沉溺在这异世的梦里| 是最终归宿](https://v.douyin.com/cr5x0xewEKg/)
 
