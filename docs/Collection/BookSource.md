@@ -124,17 +124,9 @@
 
 ---
 * **[TED](https://www.youtube.com/@TED)**
-
----
 * **[TED精选演讲](https://v.douyin.com/QNPfTBHhKhU/)**
-
----
-* **[TED精彩演讲](https://v.douyin.com/bm0RK6Y7d4o/)**
-
----
 * **[TED今日演讲 | 每日更新全球演讲，学习英语，聆听思想](https://v.douyin.com/TTu5BG_zzbE/)**
   - [泰勒纽约大学演讲：现在开始你要靠自己了](https://v.douyin.com/o0jHjUE0uLc/)
-
 ---
 * **[TED 视频精选](https://v.douyin.com/ww6tnRMHqKM/)**
   - [6个科学学习法](https://v.douyin.com/fVrslOuU-lQ/)
