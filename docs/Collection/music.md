@@ -493,5 +493,9 @@
 * **[下雨的傢伙](https://www.youtube.com/@RainyGuy)**
   - [在舒适的冬季小屋中深度睡眠| 令人放松的壁炉噼啪声、暴风雪声、风声和降雪声](https://www.youtube.com/watch?v=Rm-4JUivLcE)
 
+### 020. 合唱
+* **[李拜天来唱歌](https://v.douyin.com/WRiV7QNqVvk/)**
+  - [童声版的《晴天》来啦！👧👦清澈的嗓音像雨后的彩虹，治愈所有不开心 | 周杰伦 晴天 童声合唱 童声](https://v.douyin.com/vYCBl4c7Qu8/)
+
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
