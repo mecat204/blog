@@ -64,7 +64,7 @@
 
 ---
 ### 004. English Learn
-* [精选优质英语学习资源合集](https://github.com/knowledgefxg/learning-english)
+* **[精选优质英语学习资源合集](https://github.com/knowledgefxg/learning-english)**
 * [LexiBridge - 网页阅读辅助英语学习工具](https://github.com/ChanMo/LexiBridge)
 * [BlueSea - 浏览器扩展式英语学习工具](https://github.com/jiangqizheng/BlueSea)
 * [myWords - 自动提取网页生词并记录的学习工具](https://github.com/vito-go/mywords)
