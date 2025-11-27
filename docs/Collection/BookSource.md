@@ -5,6 +5,7 @@
 * [Python从入门到精通·背记手册](https://www.scribd.com/document/824085167/Python%E8%83%8C%E8%AE%B0%E6%89%8B%E5%86%8C)
 * [commons.wikimedia](https://commons.wikimedia.org/wiki/%E9%A6%96%E9%A1%B5?uselang=zh-cn)以繁体字搜索。县志等资料
 * **[zz-library | proxy](https://zh.z-library.sk/)**
+* **[qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases)**
 * **[安娜的档案](https://zh.annas-archive.org/)**
 * **[金屋电子书](https://pdfs.top/)**
 * **[zhihu | booksdownload](https://zhuanlan.zhihu.com/p/721363422)**
