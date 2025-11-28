@@ -265,6 +265,13 @@
   - [君戏臣妻 第一集 持续更新中～ 在古代当一个皇帝有多爽你知道吗？历史 | 穿越 | 睡前小故事](https://v.douyin.com/UWEWtxjgvvI/)
   - [太监恋后 第一集～持续更新 历史 穿越 睡前小故事](https://v.douyin.com/4Lfqt8u6KSI/)
 
+
+---
+* **[Ai灵感主义 | AIGC设计师🧑‍🎨 数字艺术家🎨 灵感做图 全凭想象](https://v.douyin.com/PgENfCxFzBk/)**
+  - [或许在梦境是平时宇宙中的另一个你… 梦境很奇怪，冥冥之中似乎与其他的东西有联系，或许未来的科技可以解决很多难题…..| 航拍 | 宇宙 | 探索宇宙 | 艺术在抖音 | 视觉震撼](https://v.douyin.com/Ab-lZBDwt70/)
+  - [古代遗迹里的宫殿是什么样的呢？ 曾经的宫殿什么人居住过？| 艺术在抖音 | AI创作浪潮计划 | 古风 | 视觉震撼 | 海艺AI](https://v.douyin.com/DdnwurCADao/)
+
+
 ---
 ### 007. 数字人实时语音交互
 * [VideoChat](https://github.com/Henry-23/VideoChat)

@@ -70,6 +70,10 @@
 * 脑开发 100% 国外电影 超体 Lucy
   - [Lucy: Lucy meets Lucy](https://www.youtube.com/watch?v=UcDjWCEvZLM)
   - [LUCY 2 (2026)](https://www.youtube.com/watch?v=deMHi69NA1Q)
+  - [美少女特攻队](https://pan.quark.cn/s/edd7d256bc3b#/list/share)
+  - [异界](https://www.4kvm.net/movies/yj)
+  - [逆世界](https://pan.quark.cn/s/fdf3e32f44ac#/list/share)
+  - [可爱的骨头](https://pan.quark.cn/s/627222c2d675#/list/share)
 * 动漫
   - 九幽玄天 3.27
 * **[Believer.67](https://v.douyin.com/sdprE26WI48/)**

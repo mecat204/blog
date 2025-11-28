@@ -1,19 +1,43 @@
 ### 001. proxy·book·website
 * **[archive·互联网档案馆](https://archive.org/)**
+
+---
 * **[DK-English](https://www.dkefe.com/cn)**
 * [javascript-en](https://javascript.sumankunwar.com.np/en/)
 * [Python从入门到精通·背记手册](https://www.scribd.com/document/824085167/Python%E8%83%8C%E8%AE%B0%E6%89%8B%E5%86%8C)
 * [commons.wikimedia](https://commons.wikimedia.org/wiki/%E9%A6%96%E9%A1%B5?uselang=zh-cn)以繁体字搜索。县志等资料
+
+---
 * **[zz-library | proxy](https://zh.z-library.sk/)**
+
+---
 * **[qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases)**
+
+---
 * **[安娜的档案](https://zh.annas-archive.org/)**
+
+---
 * **[金屋电子书](https://pdfs.top/)**
+
+---
 * **[zhihu | booksdownload](https://zhuanlan.zhihu.com/p/721363422)**
+
+---
 * **[大学生资源网](https://www.dxzy163.com/)**
+
+---
 * **[书虫 | 书是人类进步的阶梯 | 书犹药也, 善读之可以医愚](https://iread-book.github.io/home/#gsc.tab=0)**
+
+---
 * **[书虫 牛津英汉双语读物 | 夸克](https://pan.quark.cn/s/4a7613abc657#/list/share/f2728585a1804bada421efcd061fbbba)**
+
+---
 * **[tgoo分享-网盘资源下载·GitHub优质项目·趣味网站导航](https://www.tgoos.com/)**
+
+---
 * **[ikandou_books](https://gist.github.com/luw2007/5044268)**
+
+---
 * **词典 | Dictionary | Dict**
   - **[MDict](https://www.mdict.cn/wp/?page_id=5227&lang=zh)**
   - **[freemdict](https://forum.freemdict.com/)**
@@ -232,6 +256,8 @@
 * **[阿金的外贸英语频道](https://v.douyin.com/zisVXdlDmYY/)**
   - [外贸人不可错过的收款工具！安全又高效 | 万里汇](https://v.douyin.com/SVIxD9O87bI/)
 
+* **[剧能学英语 | 剧能 背单词](https://v.douyin.com/L4Ll0xB9rcU/)**
+  - [两个打开的区别](https://v.douyin.com/lLEcpgsXh-g/)
 
 ---
 * **English source**
@@ -428,6 +454,10 @@
 
 ---
 * **[别再内耗, 只管去做 | 奇异博士](https://v.douyin.com/ykr2o0dfF0E/)**
+
+---
+* **[IAmKevinFeng | KevinFeng 冯凯文](https://www.youtube.com/@IAmKevinFeng/videos)**
+  - [用油管足不出户从0自学流利英文！20+个难度分级自学频道推荐！｜GDS 007](https://www.youtube.com/watch?v=0UY0bbE5I1w)
 
 ---
 ### 005. 收藏&&Blog
@@ -693,23 +723,45 @@
 
 ---
 ### 014. 读书
-* [安声漫读](https://v.douyin.com/8DbjipboglA/)
+* **[安声漫读](https://v.douyin.com/8DbjipboglA/)**
   - [情感共鸣](https://v.douyin.com/0eMqUBqvCfc/)
-* [我的母亲](https://v.douyin.com/l4jbjDwwamI/)
-* [习惯研究社](https://v.douyin.com/dd50atX1JaM/)
+
+---
+* **[我的母亲](https://v.douyin.com/l4jbjDwwamI/)**
+
+---
+* **[习惯研究社](https://v.douyin.com/dd50atX1JaM/)**
   - [阻碍一个人变强的根源是心力的匮乏](https://v.douyin.com/jwWCDHr5brQ/)
-* [LingoAce](https://www.lingoace.com/zh/blog/chinese-stories/)
-* [中国古代神话故事全集](https://online.fliphtml5.com/orkpr/gndk/#p=1)
-* [顶尖翻页书制作工具与数字出版平台 - FlipHTML5](https://fliphtml5.com/zh_cn/)
-* [爱读书的木子](https://v.douyin.com/jMsgVNkGTKk/)
+
+---
+* **[LingoAce](https://www.lingoace.com/zh/blog/chinese-stories/)**
+
+---
+* **[中国古代神话故事全集](https://online.fliphtml5.com/orkpr/gndk/#p=1)**
+
+---
+* **[顶尖翻页书制作工具与数字出版平台 - FlipHTML5]**(https://fliphtml5.com/zh_cn/)
+
+---
+* **[爱读书的木子](https://v.douyin.com/jMsgVNkGTKk/)**
   - [历史](https://v.douyin.com/a9MVYrMu-q0/)
+
+---
 * **[郑在觉醒](https://v.douyin.com/HTf-5JvTnY8/)**
   - [深耕自己，尽量不要去赚辛苦钱]https://v.douyin.com/ii67xQ7JwZY/)
+
+---
 * **[极限觉醒的黛西](https://v.douyin.com/1M2cPSvWNks/)**
   - [一个能让你做成任何事的顶级心法:日拱一卒，持续交卷](https://v.douyin.com/0rFGyr_m74g/)
+
+---
 * **[青竹书库](https://v.douyin.com/AW0owiWS4Yg/)**
   - [像间谍一样思考](https://v.douyin.com/desQsxUfXg8/)
   - 深度解读：《像间谍一样思考》 这本书要教给你的，不是电影里飞檐走壁的特工技能，而是一套风靡全球的顶级思维框架——一套能让前情报人员华丽转身为跨国企业高管的核心能力。
+
+---
+* **[新曲线出版 | 用心雕刻每一本, 在经典的字里行间, 与您相遇, 共鸣, 启发](https://v.douyin.com/s6M41R0F1Wg/)**
+  - [1 分钟看懂态度操控行为？行为反手就改你的三观！ 《社会心理学 第11版》：态度影响行为，行为也重塑态度，基因 文化与性别都在塑造我们理解世界的方式。](https://v.douyin.com/cp65D5ouPHQ/)
 
 ---
 ### 015. 资源
