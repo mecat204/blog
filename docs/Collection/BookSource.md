@@ -459,6 +459,9 @@
 * **[IAmKevinFeng | KevinFeng 冯凯文](https://www.youtube.com/@IAmKevinFeng/videos)**
   - [用油管足不出户从0自学流利英文！20+个难度分级自学频道推荐！｜GDS 007](https://www.youtube.com/watch?v=0UY0bbE5I1w)
 
+* **[TED | 英语阅读 | Ideas Worth Spreading](https://v.douyin.com/XyQGuL81LLg/)**
+  - [英语阅读](https://v.douyin.com/fRQBkoVfhkE/)
+
 ---
 ### 005. 收藏&&Blog
 * **收藏**
@@ -495,10 +498,14 @@
 * [金屋电子书](https://pdfs.top/)
 * [经典书库](https://www.jingdianbook.com/)
 * [MDdic](https://www.mdict.cn/wp/?page_id=5227&lang=zh)
+
+---
 * **智慧猫**
   - [智慧猫-Wisdom Cat](https://www.youtube.com/@wisdomcat369/videos)
   - [《超級思維》心智模型全解析](https://www.youtube.com/watch?v=kX8_uexJGE8)
   - [Ego Is the Enemy](https://www.youtube.com/watch?v=JnNUjFm4new)
+
+---
 * **[彭春花本人](https://v.douyin.com/pacd8NSjJrE/)**
   - [罪与罚](https://v.douyin.com/qIFpNcEPdKs/)
   - [从暗黑情绪中获取力量](https://v.douyin.com/Pe9fdOqWUHA/)
@@ -512,45 +519,79 @@
 * [DK-English](https://www.dkefe.com/cn)
 * **[愚生](https://v.douyin.com/qWkTmDdp0_I/)**
   - [大脑保养 刻不容缓](https://v.douyin.com/pGC5D152tM8/)
+
+---
 * **[毒舌心理](https://v.douyin.com/76HhCJcyqrA/)**
   - [人际关系](https://v.douyin.com/LZk-wf3ybn4/)
+
+---
 * **[榆晖书院](https://v.douyin.com/0ROr1PNKqaA/)**
   - [精神世界也需要门当户对](https://v.douyin.com/zx7AcBZDjG0/)
   - [硬笔书法](https://v.douyin.com/2ZEBSOBvur8/)
   - [孩子，你所谓的普通可能并不是那么普通](https://v.douyin.com/v7ZfJCcWr28/)
+
+---
 * **[团子](https://v.douyin.com/Aw3GWIANijc/)**
   - [礼记](https://v.douyin.com/HFk6LZ8d9-I/)
   - [望江东 黄庭坚。江水西头隔烟树，望不见、江东路。 思量只有梦来去，更不怕、江阑住。 灯前写了书无数，算没个、人传与。 直饶寻得雁分付，又还是、秋将暮。| 写字是一种生活 # 练字静心](https://v.douyin.com/hUdWEwqp7XA/)
+
+---
 * **[逸辰](https://v.douyin.com/PuGuC-20Rk4/)**
   - [诗词 - 半山深处有人家，依山傍水远繁华。 无为不做俗尘事，轻煮岁月慢煮茶。](https://v.douyin.com/neRRsw8w4LU/)
+
+---
 * **[青釉](https://v.douyin.com/LrBoxu9d3mU/)**
   - [文字的力量](https://v.douyin.com/TAKVYZ7FX-M/)
+
+---
 * **[小仙](https://v.douyin.com/e4xwLKWJ3Zc/)**
   - [见字如面](https://v.douyin.com/ry0EnPdeBoY/)
+
+---
 * **[都靓读书](https://v.douyin.com/z4aLtYzUY2E/)**
   - [中文里每一个词都不是滥竽充数的](https://v.douyin.com/8EuHNH5Ihhw/)
+
+---
 * **[一粒溪石](https://v.douyin.com/R_vZ66i1dJ0/)**
 * **[向日葵气息的逗笔](https://v.douyin.com/XirvCfA1Jq8/)**
 * **[顺二二](https://v.douyin.com/OaealKocFss/)**
   - [人生哪能多如意，万事只求半称心·书法](https://v.douyin.com/wtQQk-pVDzY/)
   - [弱时慕强，强时慕真，觉时悟空。](https://v.douyin.com/6pFFOvSildw/)
+
+---
 * **[望舒🍃](https://v.douyin.com/xksinz58vOY/)**
   - [古文十二篇-《岳阳楼记》 先天下之忧而忧，后天下之乐而乐](https://v.douyin.com/KTakytSJOrM/)
+
+---
 * **[果汁书单](https://v.douyin.com/Wn8hJNByR70/)**
   - [永远让三分风头占十分主导](https://v.douyin.com/HodMQT2sYWk/)
-* [一叶小方周](https://v.douyin.com/hdiQl9uN4lQ/)
+
+---
+* **[一叶小方周](https://v.douyin.com/hdiQl9uN4lQ/)**
   - [我总是相信缓慢细 平和 细水长流的力量](https://v.douyin.com/by1zmnQk2dg/)
+
+---
 * **[是涂苏苏呀](https://v.douyin.com/ojastCRsT-E/)**
   - [为天地立心，为生民立命，为往圣继绝学，为万世开太平](https://v.douyin.com/mDEGi8tW_ks/)
+
+---
 * **[诗词](https://v.douyin.com/PjuhkSK840A/)**
   - [西江月 | 世事大梦一场，人生几度秋凉。 中秋谁与共孤光，把盏凄然北望。](https://v.douyin.com/3xHWFuTqdkU)
+
+---
 * **[吉祥止止～](https://v.douyin.com/uu6q_yxNW_g/)**
   - [见闻笔记](https://v.douyin.com/6X_ZvJCemiQ/)
+
+---
 * **[水墨轩](https://v.douyin.com/ZVfzWPQETig/)**
     - [无人扶我青云志、我自踏雪至山巅、极致的独立与倔强、没他人帮扶、也能靠自己的力量实现高远志向 | 写字是一种生活](https://v.douyin.com/Wlwqh9oYauU/)
+
+---
 * **[田田半亩书田](https://v.douyin.com/SiAkwuV4ROg/)**
   - [自渡 | 情绪](https://v.douyin.com/UIvHO4Crupc/)
   - **后来我才发现，你的情绪并不适合说给所有人听。 不是所有朋友或者家人就能接住你的情绪。成年人的世界各有各的烦恼，你唯一能做的就是自我消化。而我选择的方式是通过书中，与先贤对话、与智者对话，去调整自己。**
+
+---
 * **[明欣读经典](https://v.douyin.com/K5HNF8BnmzE/)**
   - **[知命赋](https://v.douyin.com/QvoK2Gj-oPk/)**
   - **天地茫茫，世事沧桑，生命无常，何须奔忙。**
@@ -564,13 +605,21 @@
   - **闲时泊处，诗书消忧，诵几句《归去来辞》，歌半曲《一生何求》。**
   - **乡村故里，居前树下，惜此际好时光，邀知己良朋，畅尽樽前酒一觞。**
   - **观潇潇落叶随金风，青山伴夕阳。**
+
+---
 * **[worldknowledgepodcast101](https://www.youtube.com/@worldknowledgepodcast101)**
   - [《DOSE效應》The DOSE effect (1) | Introduction: Welcome to The DOSE Effect](https://www.youtube.com/watch?v=UoNFFeSnapY&list=PLjlYBhI5V3-MF2UeC9jX_VY8H03oZ6gpd&index=22)
+
+---
 * **[悦读者](https://v.douyin.com/bGYmd7sZzic/)**
   - [简单致富](https://v.douyin.com/AZdCbCvLXOg/)
   - 深度解读《简单致富》：普通人逆袭的最简单路径 为什么我们努力赚钱，仍然感觉离财务自由越来越远？而有些人却靠着极简的生活方式和看似"无为"的投资，悄悄积累下丰厚的资产？《简单致富》这本书用最通俗的语言，揭示了普通人也能掌握的财富增长法则。本期视频，我们将带你深度解析这本被誉为"给女儿的财富信"之作，从债务陷阱到定投策略，拆解每一步真正有效的财富路径。这不是投机取巧的理财课程，而是一份人人都能执行的"长期富足指南"。
+
+---
 * **[写诗给风](https://v.douyin.com/hnUdJB6sy4c/)**
   - [秋季宅家写字喝茶～  | 喝茶  | 书房 | 独处是一个人的清欢](https://v.douyin.com/Ba7HSEYzrdk/)
+
+---
 * **[百家讲坛](https://v.douyin.com/3XRDucpBstE/)**
   - [不计较，保存自己的能量 | 国学智慧 百家讲坛](https://v.douyin.com/8SRCNUzPMfQ/)
   - [感悟人生](https://v.douyin.com/f1XoZms1i2M/)
@@ -582,6 +631,8 @@
     - 顺时目望来时路
     - 知不足而奋进
     - 望远山而前行
+
+---
 * **[珍美读书](https://v.douyin.com/l8sTLo3t7oU/)**
   - [今日摘抄。| 每天学习一点点 | 读书 | 每日分享 | 提升自己 | 手写](https://v.douyin.com/wlSH9VlhBXM/)
   - [真正觉醒的家庭 | 每天学习一点点](https://v.douyin.com/HOW0JWyvrfw/)
@@ -597,11 +648,17 @@
     - 睡前原谅一切, 醒来便是重生。
   - [津巴多《普通心理学》](https://v.douyin.com/lBnVMmJ01Qc/)
     - [读书笔记| 津巴多普通心理学](https://1keven1.github.io/2021/03/05/%E3%80%90%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E3%80%91%E6%B4%A5%E5%B7%B4%E5%A4%9A%E6%99%AE%E9%80%9A%E5%BF%83%E7%90%86%E5%AD%A6/)
+
+---
 * **[小王子书屋 | 读书让你哪怕深陷泥泞， 也能抬头仰望星空。](https://v.douyin.com/FxqsIY3SnLE/)**
   - [布鲁克林有棵树](https://v.douyin.com/gdqYuK-SGVo/)
   - 布鲁克林有棵树 | "坚持与希望"它向着天空，挣扎着生长。无论种子落在废墟、垃圾场，甚至水泥地，都会长成一棵树。这种树被称为"天堂树"。 这本书讲述了坚强，讲述阅读如何让生命变得鲜活，知识如何改变人的命运，家庭的力量如何支撑孩子去实现梦想。 希望这本讲述小女孩弗兰茜蓬勃成长的故事书，能给你注入昂扬向上的动力。
+
+---
 * **[糖加三勺](https://v.douyin.com/vBcispq4AAU/)**
   - [约翰 斯皮登 刘易斯](https://v.douyin.com/Djbh51fxLEU/)
+
+---
 * **[小生有礼](https://v.douyin.com/Gb64J2Kt61M/)**
   - [时也运也命也。](https://v.douyin.com/OBMFrdIAbCw/)
   - 天地万物不为我所有, 却为我所用
@@ -610,13 +667,21 @@
   - 广学致知, 知行合一
   - 勤能补拙, 取长补短
   - 虚怀若谷, 海纳百川
+
+---
 * **[甜甜老师讲文学](https://v.douyin.com/PdRYsQbm0T4/)**
   - [文学 人生感悟 婚姻 读书 聊斋  ](https://v.douyin.com/aE_qzTFyCdk/)
+
+---
 * **[书旅人间](https://v.douyin.com/1ckm1UTB12s/)**
   - [别再被"天赋"的谎言束缚你的人生了。从今天起，拥抱"刻意练习"这门科学。](https://v.douyin.com/8M6M4sbK6s4/)
+
+---
 * **[哲思读书](https://v.douyin.com/vYi-DGESEJQ/)**
   - [与神对话](https://v.douyin.com/TnJadaO3PjA/)
   - 《与神对话》被广大读者誉为"一生等待的书"，读过的人无不震撼，并推荐给身边的人。这本书分成了三卷，分别探讨了人生观，世界观，宇宙观。以对话的形式每一句都可能让你对生活有新的认识。
+
+---
 * **[雅静 | 你只管努力，其他的交给时间！](https://v.douyin.com/0nKBn7PYlrg/)**
   - [当代网友最具风采的诗篇](https://v.douyin.com/SduPTcBRhuQ/)
   ---
@@ -651,9 +716,13 @@
   - 衣帛难遮 寒风冷 时但难解腹中寒
   - 望眼欲穿前路远 回首往事泪满衫
   - 但愿他日能富贵 不负此生苦于甘
+
+---
 * **[水若尘 | 读万卷书，行万里路 有共鸣的话，就一起聊聊呀](https://v.douyin.com/ePTgD1qAPGk/)**
   - [杀死一只知更鸟](https://v.douyin.com/UHqZl6AQFP4/)
   - 《杀死一只知更鸟》这本书不仅是一部文学作品，更是一部关于成长、正义和人性的教科书。书中最令人动容的是阿提克斯的坚持和智慧。他用行动告诉孩子们，真正的勇气不是用枪支去对抗，而是面对不公时依然选择正义。他教会了孩子们如何在黑暗中寻找光明，如何用爱去对抗仇恨。
+
+---
 * **[乘风书苑 | 总有一句诗文能触动你的心灵。用生活所学去读书, 用读书所学去生活](https://v.douyin.com/RePnqp2bAi8/)**
   - [好喜欢这句 | 孤勇者 | 金句素材 | 每天学习一点点 | 提升自己](https://v.douyin.com/PPTlgyxofvU/)
 
@@ -758,6 +827,11 @@
 * **[青竹书库](https://v.douyin.com/AW0owiWS4Yg/)**
   - [像间谍一样思考](https://v.douyin.com/desQsxUfXg8/)
   - 深度解读：《像间谍一样思考》 这本书要教给你的，不是电影里飞檐走壁的特工技能，而是一套风靡全球的顶级思维框架——一套能让前情报人员华丽转身为跨国企业高管的核心能力。
+
+---
+* **[哲学于人生的意义 | 世界上任何书籍都不能带给你好运 但它们能让你悄悄成为你自己](https://v.douyin.com/PyaDmCu-Jho/)**
+  - [诺贝尔经济学奖得主哈耶克说，如果允许人类自由迁徙，那人流向的地方就是文明的方向。](https://v.douyin.com/-aI_unSetEA/)
+  - [他提倡白话文打破了知识的垄断，书本的内容再也不是老百姓看不懂的文言文，读书也不再是一种特权。](https://v.douyin.com/pEpIVpada-I/)
 
 ---
 * **[新曲线出版 | 用心雕刻每一本, 在经典的字里行间, 与您相遇, 共鸣, 启发](https://v.douyin.com/s6M41R0F1Wg/)**
@@ -962,6 +1036,8 @@
   - [帝制两千年](https://v.douyin.com/f3grKPZXUyI/)
   - [农民起义给中国带来了什么？](https://v.douyin.com/GqQa6CWTPcE/)
   - [中国以及世界历史的变革之路。](https://v.douyin.com/2oyKXP6FjFU/)
+
+---
 * **[大咖说·博物馆讲解](https://v.douyin.com/Yk2uVPAvxrc/)**
   - [古装剧骗人❗除了红和黄，宫殿还有其他配色 中国古建筑讲究色彩之美，各朝各代的建筑都有偏好的色彩。听大咖说南京讲师巫鹏飞老师为我们讲述宫殿配色的演变历史…… ](https://v.douyin.com/s49OgFm0HHo/)
 

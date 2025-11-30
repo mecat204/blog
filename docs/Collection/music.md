@@ -101,14 +101,32 @@
   - [Gryffin - New Blood](https://www.youtube.com/watch?v=x0KgyCrkSUM&list=PL7MBpdD11UonZ5k2rYHYah4LsOt-dkfbY&index=5)
   - [Someone To You](https://www.youtube.com/watch?v=rLwWFj9yzsQ&list=PL7MBpdD11UonZ5k2rYHYah4LsOt-dkfbY&index=6)
   - [Let Me Down Slowly - 米小怂kelly ( Cover)](https://www.youtube.com/watch?v=EQYMk8a4Ceo&list=PL7MBpdD11UonZ5k2rYHYah4LsOt-dkfbY&index=8)
+
+---
 * **[华策音乐HUACE MUSIC·长歌行](https://www.youtube.com/watch?v=4fnEXD-TGyE&list=RDBUCrWnWo4H4&index=3)**
+
+---
 * **[SNH48 China](https://www.youtube.com/watch?v=6gFUB9eDFD0&list=RD6gFUB9eDFD0&start_radio=1&rv=6gFUB9eDFD0)**
+
+---
 * **[Classical Stars](https://www.youtube.com/watch?v=IYd1-cPwQCk)**
+
+---
 * **[仙鹤情缘](https://www.youtube.com/watch?v=2plhbkGv5qw**
+
+---
 * **[80,90歌曲](https://www.youtube.com/watch?v=he_VdjWUiWQ)**
+
+---
 * **[华语乐坛20年](https://mecat204.github.io/website/music/netease-80.html)**
+
+---
 * **[轻音乐-看书学习](https://mecat204.github.io/website/music/music.html)**
+
+---
 * **[音乐集](https://mecat204.github.io/website/music/index.html)**
+
+---
 * **[落笔成殇-张紫宁](https://www.youtube.com/watch?v=Kfd49eOq8-4)**
 
 ---
@@ -148,6 +166,11 @@
 ### 009. douyin·music
 * **[你的歌单](https://v.douyin.com/I3cagT5BM90/)**
   - [时间的摇晃·窝窝](https://v.douyin.com/UhUtkRYmSf8/)
+
+---
+* **[窝窝_WOWO](https://v.douyin.com/xkw5q4AAbyU/)**
+  - [熬过岁月的冷眼 前路终璀璨" 希望所有喜欢月亮照山川的朋友们熬过艰难岁月后，前路一帆风顺 璀璨无比 | 月亮照山川 | 原唱 | 窝窝 | 王赫野月亮照山川 | 人间烟火](https://v.douyin.com/aKHAMJmisrk/)
+  - ["再也找不到当年的月亮" | 终不似少年游 | 时光的摇晃 | 岁月不声不响却让人慌慌张张 | 窝窝](https://v.douyin.com/vY29_x-6cE4/)
 
 ---
 * **[𝐆𝐍𝐀𝐑](https://v.douyin.com/r-NztBNUTsI/)**
@@ -314,8 +337,22 @@
   - [天地缓缓，浮生漫漫 | 桂林临桂状元桥](https://v.douyin.com/TTCGQEFVJj4/)
 
 ---
+* **[枝叶扶苏 | 集贤宾古琴主理人 福建省非遗协会古琴文化推广大使 ](https://v.douyin.com/wQnEvfe__SE/)**
+  - [天地缓缓 停云霭霭 时雨濛濛# 古琴](https://v.douyin.com/niWsacG2xnQ/)
+  - ["当恩怨各一半，我怎么圈揽" | 古琴 | 天龙八部之宿敌  | 许嵩  | 古风](https://v.douyin.com/0I-rqbw4Lp0/)
+  - ["无关风月 我题序等你回" | 古琴  | 兰亭序](https://v.douyin.com/jA4QFU7WGR4/)
+  - [古琴|飞雪玉花 是猫猫陪着听了一晚上的曲～| 古琴 | 飞雪玉花 | 秦时明月](https://v.douyin.com/bSo8M1rxRgw/)
+
+---
 * **[与千与琴 | 以琴韵化导人心 ](https://v.douyin.com/VR9s1SImBVc/)**
   - [古琴｜「念念不敢念，偏落指弦间」](https://v.douyin.com/YMQv2RKgn8Y/)
+
+* **[一颗枣的独白 | 自幼学笛十七载， 师从著名笛箫演奏家 国家一级演奏员吴樟华教授](https://v.douyin.com/GLWBWZYCrjM/)**
+  - [就这个大A太爽了！| 笛子 | 看我跃马扬鞭 | 民乐 | 新手笛子](https://v.douyin.com/HTXoV33AHKY/)
+
+---
+* **[海洋洋古琴](https://v.douyin.com/rOZ_RKF4hYY/)**
+  - [听说安和桥一响，路边的狗都有遗憾 | 音乐就要这么玩 | 抖音音乐新风向 | 古琴 | 安和桥](https://v.douyin.com/KTxKjjkJkqg/)
 
 ---
 ### 015. music·author
@@ -504,6 +541,16 @@
   - 烟波里成灰 也去得完美 风雪依稀 秋白发尾 灯火葳蕤 揉皱你眼眉 《牵丝戏》凭借婉转戏腔和动人词作成为古风圈经典曲目  | 歌曲欣赏  | 牵丝戏  | 古风歌曲  | 音乐视频  | 夕阳美景
   - [追梦人](https://v.douyin.com/u_WOWCJdRG8/)
   - 你发现了没，属于你的这道霞光，总是在跟着你走的……那闪烁的不是唏嘘不已，而是发现的眼睛和珍爱的心。 数一数，镜头中一共走过了多少根柱子，那就是你最好的年纪。无论是现在还是曾经，都是最美的……一弦一柱思华年…… 落日远去人祈望，留住青春的一剎。| 天若有情 | 追梦人 | 风雨思念 | 歌曲分享 随手拍| 霞光秋水
+
+---
+* **[年少老李 | 我未消失，只是途径了一段漫长的暗房时期。](https://v.douyin.com/x2VkXWs09vc/)**
+  - [真正的智慧，不是填满所有答案，而是守护那些"不必懂"的留白。](https://v.douyin.com/a17KtNaLQzA/)
+
+---
+### 022. 怀旧经典
+* **[8090怀旧经典头像](https://v.douyin.com/7vNEGqiEH5U/)**
+  - [前奏一响勾起多少人的青春回忆！| 爱似流星 | 音乐 | 音乐分享 | 经典歌曲 | 百听不厌](https://v.douyin.com/8CSzxNB3xKY/)
+  - [世界第一等 | 音乐 | 音乐分享 | 经典歌曲](https://v.douyin.com/KKsyv3ahvbw/)
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
