@@ -281,6 +281,10 @@
   - [在所有知识分子里面，胡适是最像朋友的那一个。](https://v.douyin.com/8WGm_oBzEfQ/)
 
 ---
+* **[梦境旅行社](https://v.douyin.com/NNGhmYhrKs4/)**
+  - [道友请留步！ | 修仙 | 凡人修仙传 | 一镜到底 | AI动画 | 动漫剧场](https://v.douyin.com/eUSf5vqdX9Y/)
+
+---
 ### 007. 数字人实时语音交互
 * [VideoChat](https://github.com/Henry-23/VideoChat)
 

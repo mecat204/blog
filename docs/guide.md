@@ -53,6 +53,7 @@
   - [理想的生活](Collection/理想的生活)
   - [牛马三部曲](Collection/牛马三部曲)
   - [心理学·思想史](Collection/心理学·思想史)
+  - [哲学史](Collection/哲学史)
   - [世界树](Collection/世界树)
   - [科普](Collection/科普)
   - [健康养生](Collection/健康养生)
