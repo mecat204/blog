@@ -133,6 +133,12 @@
 ---
 * **[𝘾𝙮𝙗𝙤𝙧𝙜𝟯 | 神仙？ 妖怪？ 谢谢](https://v.douyin.com/VKYveIUAulY/)**
   - ["飞起来曾经很快乐，直到我开始把它当作谋生手段。" | 自由飞翔 | ai动画 | 即梦AI创作者成长计划 # AI创作浪潮计划](https://v.douyin.com/gsXBFYhSDmw/)
+  - [这一世太漫长却止步咫尺天涯间 | 武侠 | 修仙 | 国风古韵 | 国漫](https://v.douyin.com/uV-cUdsGOfM/)
+
+* **[栖光 | 视频均为AI生成，Midjourney出图](https://v.douyin.com/Fw6DOdVGfN8/)**
+  - [仙之巅傲世间 | 国风古韵  | 修仙者  | 古风摄影  | 太空步教学  | 仙侠](https://v.douyin.com/OgM-q7dlIKA/)
+  - [所有遇见，皆是注定 | 古装电视剧 | 古风清冷佳人 | 东方美 | 古风摄影 | 国风古韵](https://v.douyin.com/ZKSL8jnY21M/)
+  - [他日故里定逢春，你我山巅自相逢 | 仙境  | 古风  | 震撼开场  | AI创作浪潮计划  | 修仙](https://v.douyin.com/JQ_iL7nDax0/)
 
 ---
 * **[小七悦漫 | 国漫打戏·招式解析](https://v.douyin.com/-JlRZ8krTHE/)**
