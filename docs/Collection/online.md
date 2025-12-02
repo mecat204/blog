@@ -55,5 +55,15 @@
 * **[CCTV春晚](https://www.youtube.com/@CCTVGala)**
   - [2025年中央广播电视总台中秋晚会 2025 Mid-Autumn Festival Gala | CCTV春晚](https://www.youtube.com/watch?v=WF8LhUhyJDw)
 
+### 004. 纪录片
+* **[芒果TV纪录片 MangoTV EDU](https://www.youtube.com/@MangoTVEDU)**
+  - [《中国》第一季合集：从春秋到盛唐 再现中国历史上"群星"闪耀时刻 展现悠悠千年古国的精神图腾](https://www.youtube.com/watch?v=K4YI0TwiSxM)
+  - [中国》第二季合集：从盛唐到近代 讲述中国自盛唐拐点至辛亥革命的思想源变 呈现有血有肉的中华文明演进史](https://www.youtube.com/watch?v=CG22y9KTCsI)
+  - [中国》第三季合集：从神话到历史 上溯尧舜禹 时跨夏商周 以当代视角与中西视野剖析"何以中国"](https://www.youtube.com/watch?v=kqWWKurJVXY)
+
+---
+* **[湖南卫视芒果TV官方频道  China HunanTV Official Channel](https://www.youtube.com/@MangoTV-Official)**
+  - [《中国第二季 China S2》 第1集：惊变——跟随诗仙李白与诗圣杜甫 感受巍巍大唐的飞扬与沉潜](https://www.youtube.com/watch?v=-ybZh9RMUEw&list=PLUM8x224JrX-EF3FLZ8_7YsKO2mviA_1P)
+
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
