@@ -358,6 +358,10 @@
   - [听说安和桥一响，路边的狗都有遗憾 | 音乐就要这么玩 | 抖音音乐新风向 | 古琴 | 安和桥](https://v.douyin.com/KTxKjjkJkqg/)
 
 ---
+* **[弹钢琴的余鱼 | 喜欢弹琴的超级i人，祝你天天开心](https://v.douyin.com/i7xemqTer2I/)**
+  - [如何一眼识别弹钢琴的人？ | 孤身dj版 | 特伦斯智慧钢琴 | 特伦斯电钢琴 | 自学钢琴](https://v.douyin.com/4U1aQCJKe3o/)
+
+---
 ### 015. music·author
 * **[银屏系漫游指南](https://www.youtube.com/@%E9%93%B6%E5%B1%8F%E7%B3%BB%E6%BC%AB%E6%B8%B8%E6%8C%87%E5%8D%97)**
   - **[为什么《星际穿越》的配乐，你一听就想哭？](https://www.youtube.com/watch?v=aN53Va60sY8)**

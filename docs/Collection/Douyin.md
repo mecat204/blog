@@ -403,6 +403,9 @@
   * **[破破 | 帅哥](https://v.douyin.com/JG2aXqDZ_ss/)**
     - [应聘骑手 感觉怪怪的](https://v.douyin.com/yXd2zo3M4Rc/)
 
+  * **[嘉鹅 | 橱窗可以自助下单哦](https://v.douyin.com/KVYyrvI0fUQ/)**
+    - [你们喝完爱说啥故事 说给我听听😂 | 酒后故事 | 鹅嘉 | 嘉鹅的朋友圈](https://v.douyin.com/5-3iv4rCASY/)
+
 ---
 ### 015. 乡野·治愈系风景
 * **[Plant](https://v.douyin.com/UpzNpH0zQSs/)**
