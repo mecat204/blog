@@ -22,6 +22,10 @@
 ---
 * **[天下雜誌 video](https://www.youtube.com/@cwvideo)**
   - [飛機、海上、深山都能用手機！6G為何厲害？實現網路「無所不在」【8分鐘看懂天下】](https://www.youtube.com/watch?v=wQsdz8UkQ-I)
+  - [三兆美元AI狂潮下的隱憂，多數投資人恐怕血本無歸，甚至衝擊美國經濟](https://www.youtube.com/watch?v=h-gyWgxJ-7w)
+
+---
+* **[TVB (official) | youtube](https://www.youtube.com/@TVB)**
 
 ---
 ### 002. movie

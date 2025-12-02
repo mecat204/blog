@@ -392,10 +392,24 @@
   - [似乎一切事物的结局 都得由它收尾" | 眼泪](https://v.douyin.com/QxG7VMezsms/)
 
 ---
+* **[ilysol](https://v.douyin.com/LFSJ0pMRDiA/)**
+  - ["行了 大家聪明人 了解" | 鹿鼎记](https://v.douyin.com/nxLF-YVOZPQ/)
+
+---
+* **[阿智解说 | 电影是生活的切片，透过镜头与表演 可以窥探到人性的幽徽和世界的广袤](https://v.douyin.com/Lb23hExLPcM/)**
+  - [《画魂》：从底层女性到一代画师，从青楼到画坛的传奇逆袭 | 画魂 | 巩俐](https://v.douyin.com/Pa0KTQRm6nU/)
+
+---
+* **[況明潔 | 中国台湾演员况明洁，城市少女组合成员。](https://v.douyin.com/XEfM5nxs0PU/)**
+  - [相爱要全身全意，不能…半点心… | 况明洁 | 杨庆煌 | 再世情缘 | 因为一个片段看了整部剧](https://v.douyin.com/5IrNI-NU1CU/)
+  - [人与人之间最美好的回忆是初相遇，俩俩目相望，俩俩不相忘。人生若只如初见，他她称心如意。 | 况明洁 | 再世情缘](https://v.douyin.com/R_mbwN77pyk/)
+
+---
 ### 021. 电影对白
 * **[发财小y | 分享一点喜欢的](https://v.douyin.com/-ZkMY7SucPs/)**
   - [简爱 | 电影对白](https://v.douyin.com/1cFoxN6_IAs/)
 
+---
 ### 022. 奥斯卡电影
 * **翼**
 * **西线无战事**

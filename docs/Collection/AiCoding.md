@@ -126,6 +126,24 @@
   - [鲁迅《祝福》下篇](https://v.douyin.com/ngcbXniN_TM/)
 
 ---
+* **[墨林深读 | 用深度阅读开启思维新篇。](https://v.douyin.com/FSDxaiDz0EI/)**
+  - [十分钟读一本好书今天分享的是《嫁妆》| 读书 | 阅读 | 短篇小说 | 契诃夫 | 阅读是一种习惯](https://v.douyin.com/MPymR8RvXHg/)
+  - [十分钟读一本好书今天分享的是史铁生《我与地坛》| 读书 | 中学生 | 必读书籍 | 史铁生 | 阅读  ](https://v.douyin.com/bOAGUCptSYA/)
+
+---
+* **[𝘾𝙮𝙗𝙤𝙧𝙜𝟯 | 神仙？ 妖怪？ 谢谢](https://v.douyin.com/VKYveIUAulY/)**
+  - ["飞起来曾经很快乐，直到我开始把它当作谋生手段。" | 自由飞翔 | ai动画 | 即梦AI创作者成长计划 # AI创作浪潮计划](https://v.douyin.com/gsXBFYhSDmw/)
+
+---
+* **[小七悦漫 | 国漫打戏·招式解析](https://v.douyin.com/-JlRZ8krTHE/)**
+  - [「国漫打戏」— 招式解析 「麦朵VS噬极兽」 二次元 动漫解说 国漫 灵笼 青年创作者成长计划](https://v.douyin.com/mLpeOJHZvv0/)
+  - [「凡人修仙传」— 温天仁战力 「温天仁作战体系，军事简介。」 | 二次元 | 动漫解说 | 国漫 | 凡人修仙传](https://v.douyin.com/QqO-G60aZgY/)
+
+---
+* **[田甜 | 很高兴与大家相遇，感谢官方平台 作品全部是AI，不是真人](https://v.douyin.com/yJ4LXmtxrzE/)**
+  - [圣诞的红是草莓味的甜，雪落进软绒绒的暖里，连空气都裹着铃铛轻响的温柔。 | 红色 | 冬日甜系穿搭 | 甜美女孩 | AI圣诞氛围感写真 | 抖音AI创作](https://v.douyin.com/cNUB-3nKNOQ/)
+
+---
 * **[宋可为](https://v.douyin.com/JbkKjcLyeBI/)**
   - [我的叔叔于勒](https://v.douyin.com/JE-RwyEzZPQ/)
 
@@ -284,6 +302,11 @@
 ---
 * **[梦境旅行社](https://v.douyin.com/NNGhmYhrKs4/)**
   - [道友请留步！ | 修仙 | 凡人修仙传 | 一镜到底 | AI动画 | 动漫剧场](https://v.douyin.com/eUSf5vqdX9Y/)
+
+---
+* **[基地 | 相信技术,相信正道,相信华夏 真实的表达观点和态度比对错重要](https://v.douyin.com/0j80Gp44wJ4/)**
+  - [详解英伟达与OpenAI的秘密协议的苦衷与必然！ 一年750亿美金！AI算力到底有多烧钱？Sam Altman的豪赌你看懂了吗？](https://v.douyin.com/PUiayvww_b4/)
+  - [拒绝300亿美金收购！Ilya选择闭关造"神"，在线进化智能 复制100万个爱因斯坦也没用？伊利亚论通用智能的真正瓶颈。深度解析Dwarkesh访谈Ilya Sutskever | AI新星计划 | 科技 | 涨知识 | 知识前沿派对](https://v.douyin.com/BsZIkFCdWAg/)
 
 ---
 ### 007. 数字人实时语音交互

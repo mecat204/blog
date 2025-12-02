@@ -8,7 +8,11 @@
 * [commons.wikimedia](https://commons.wikimedia.org/wiki/%E9%A6%96%E9%A1%B5?uselang=zh-cn)以繁体字搜索。县志等资料
 
 ---
+* **[zh.z-library | proxy | 官网](https://zh.z-library.sk/)**
+
+---
 * **[zz-library | proxy](https://zh.z-library.sk/)**
+  - [官网中文网址及镜像入口](https://zhuanlan.zhihu.com/p/1943415323639395355)
 
 ---
 * **[qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases)**
@@ -565,6 +569,7 @@
 ---
 * **[果汁书单](https://v.douyin.com/Wn8hJNByR70/)**
   - [永远让三分风头占十分主导](https://v.douyin.com/HodMQT2sYWk/)
+  - [当别人拿捏不了你，他们就会讨厌你| 强烈推荐 | 人品和人缘](https://v.douyin.com/tpdSwL2jxfU/)
 
 ---
 * **[一叶小方周](https://v.douyin.com/hdiQl9uN4lQ/)**
@@ -725,6 +730,10 @@
 ---
 * **[乘风书苑 | 总有一句诗文能触动你的心灵。用生活所学去读书, 用读书所学去生活](https://v.douyin.com/RePnqp2bAi8/)**
   - [好喜欢这句 | 孤勇者 | 金句素材 | 每天学习一点点 | 提升自己](https://v.douyin.com/PPTlgyxofvU/)
+
+---
+* **[柒仙女书房 | 读万卷书 行万里路 📚橱窗里的每一本书都是我用心为大家挑选的, 可以放心入。](https://v.douyin.com/hUAZhUbdE2w/)**
+  - [冬天会周而复始，该相逢的人会再相逢。| 读完这本书你会被狠狠治愈，相当于是黑塞把他自己的自救之路融入到了这本书里。 如果你此刻心情是暗淡的，相信读完这本书，你可能也会被黑塞打捞起来| 黑塞 | 诺贝尔文学奖 | 克林索尔的最后夏天](https://v.douyin.com/2E_NTzNU9qA/)
 
 ---
 ### 007. Translate
