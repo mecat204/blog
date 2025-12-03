@@ -150,6 +150,10 @@
 ---
 * **[海棠网  | 海棠网 - 海棠应用网专注黑科技软件,绿色无毒互联网资源分享](https://www.haitangw.cc/)**
   - [海棠网| 导航 | 其它综合 | 壁纸](https://www.haitangw.cc/daohang)
+  - [netbian](http://www.netbian.com/desk/35400.htm)
+  - [haowallpaper](https://www.haowallpaper.com/wallpaperForum)
+  - [彼岸图网](https://pic.netbian.com/)
+  - [暖糖](https://www.nuantang.net/)
 
 ---
 * **[哲风壁纸](https://www.haowallpaper.com/wallpaperForum)**
