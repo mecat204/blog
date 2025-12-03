@@ -148,7 +148,16 @@
 ---
 ### 007. 电影资源
 * [小云搜索](https://www.yunso.net/)
-* [蓝点网](https://www.landiannews.com/)
+* **[蓝点网 | ](https://www.landiannews.com/)**
+  - [海棠网  | 海棠网 - 海棠应用网专注黑科技软件,绿色无毒互联网资源分享](https://www.haitangw.cc/)
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
 * [AMIN](https://aaamiiin.com/)
 * [新版6v](https://www.xb6v.com/)
 * [影视TV](https://yingshi.tv/)

@@ -49,8 +49,13 @@
   - **[GoldenDict](https://www.mediafire.com/file/pue9ypsztminv7e/GoldenDict.rar)**
 
 ---
+* **[Linux就该这么学](https://www.linuxprobe.com/)**
+  - [Linux命令大全](https://www.linuxcool.com/)
+  - [LinuxProbe.com](https://www.linuxprobe.com/tools/)
+
+---
 ### 002. PE
-* [Ventoy](https://github.com/ventoy/Ventoy/releases)
+* **[Ventoy](https://github.com/ventoy/Ventoy/releases)**
   - https://github.com/ventoy/Ventoy/releases
   - https://gitee.com/longpanda/Ventoy/releases/
   - https://mirrors.nju.edu.cn/github-release/ventoy/Ventoy（南京大学镜像站）

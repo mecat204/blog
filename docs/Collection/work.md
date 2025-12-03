@@ -1,16 +1,27 @@
 ### 001. 收藏网址
 * [zpandame](https://zpandame.github.io/website/hidden.html)
-* [书栈网](https://www.bookstack.cn/)
+
+---
+* **[书栈网](https://www.bookstack.cn/)**
 * [问小白](https://www.wenxiaobai.com/)
 * [百度](https://www.baidu.com)
-* [爱纯净](https://aichunjing.com)
+
+---
+* **[爱纯净](https://aichunjing.com)**
 * [阿酷杂货铺](https://coolexe.com)
 * [MacWk - 精品mac软件下载](https://macwk.cn/)
 * [国产操作系统、麒麟操作系统——麒麟软件官方网站](https://www.kylinos.cn/)
-* [果壳剥壳](https://www.ghxi.com)
+
+---
+* **[果壳剥壳](https://www.ghxi.com)**
 * [夏普官网](http://www.sharp.cn/node/1306)
 * [简单搜索](https://xgoogle.com)
-* [CMDPE](https://cmdpe.com/)
+
+---
+* **[CMDPE](https://cmdpe.com/)**
+
+---
+* **[PCSofter](https://www.pcsofter.com/)**
 * [MEFCL | 分享纯净好资源](https://www.mefcl.com)
 * [在线网络计算器](https://sojson.com/convert/subnetmask.html)
 * [HP打印机](https://www.support.hp.com/cn-zh/printer)
@@ -25,12 +36,25 @@
 * [2345dn](https://2345dn.com/)
 * [图吧工具箱](https://www.tbtool.cn)
 * [简书](https://www.jianshu.com)
-* [Ventoy](https://www.ventoy.net/cn/download.html)
-* [系统总裁](https://www.sysceo.com/)
+
+---
+* **[Ventoy](https://www.ventoy.net/cn/download.html)**
+
+---
+* **[系统极客](https://www.sysgeek.cn/)**
+
+---
+* **[系统总裁](https://www.sysceo.com/)**
+
+---
 * [系统总裁·U盘魔术师](http://www.usbrun.com/)
-* [IT天空](https://www.itsk.com/)
+
+---
+* **[IT天空](https://www.itsk.com/)**
 * [驱动人生](https://www.160.com/)
-* [DiskGenius](https://www.diskgenius.cn/)
+
+---
+* **[DiskGenius](https://www.diskgenius.cn/)**
 * [佳佳数据恢复](http://www.jjhuifu.com/)
 * [亦是美网络 - 致力于操作系统应用与计算机网络技术的IT网站](http://www.yishimei.cn/)
 * [论坛- 远景论坛 - 前沿科技与智慧生态的极客社区](https://bbs.pcbeta.com/)
@@ -40,10 +64,21 @@
 * [麒麟生态网站](https://eco.kylinos.cn)
 
 ---
-### 002. website-computer
-* [cmdpe](https://www.cmdpe.com/post/542.html)
-* [羽兔-software](https://www.yutu.cn/popsoft.html)
-* [傲梅科技](https://www.aomeikeji.com/)
+* **[蓝点网 | ](https://www.landiannews.com/)**
+  - [海棠网  | 海棠网 - 海棠应用网专注黑科技软件,绿色无毒互联网资源分享](https://www.haitangw.cc/)
+
+---
+* **[CPU Rank List | CPU天梯图](https://cpuranklist.com/)**
+
+---
+### 002. website·computer
+* **[CMDPE](https://www.cmdpe.com/post/542.html)**
+
+---
+* **[羽兔-software](https://www.yutu.cn/popsoft.html)**
+
+---
+* **[傲梅科技](https://www.aomeikeji.com/)**
 * [PE8](https://www.pe8.com/)
 * [MSDN_PE8](https://msdn.pe8.com/)
 * [ExcelHome](https://www.excelhome.net/419.html)
@@ -138,7 +173,6 @@ OOBE\BYPASSNRO
 
 **给您的建议：**
 **优先使用 `OOBE\BYPASSNRO` 命令**，这是最正统的绕过方法。如果因为快捷键失灵或其他原因无法打开CMD，那么就采用**拔掉网线**或**关闭Wi-Fi**的物理方法，这是最有效的保障。
-
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
