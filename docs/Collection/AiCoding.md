@@ -323,6 +323,15 @@
   - [拒绝300亿美金收购！Ilya选择闭关造"神"，在线进化智能 复制100万个爱因斯坦也没用？伊利亚论通用智能的真正瓶颈。深度解析Dwarkesh访谈Ilya Sutskever | AI新星计划 | 科技 | 涨知识 | 知识前沿派对](https://v.douyin.com/BsZIkFCdWAg/)
 
 ---
+* **[寒暑春秋 | 专注于历史科普，使用AI辅助拍摄，但表达的是本人思想观点](https://v.douyin.com/fNJRuUp1O_Y/)**
+  - [李鸿章访问美国到底有多震撼？| 历史| 晚清| 人物| 美国](https://v.douyin.com/dDNWaWMpJvY/)
+  - [张作霖为什么要杀害李大钊？| 近代史| 民国| 革命者](https://v.douyin.com/UZXA07JzJTw/)
+  - [民国军阀养活一个师要花多少钱？| 近代史| 民国| 军阀| 军队](https://v.douyin.com/aEOwOxHTEGc/)
+  - [今天普通人比古代皇帝吃得更好| 历史| 古代| 现代| 饮食](https://v.douyin.com/YXMC5ywr4AE/)
+  - [钱玄同：民国愤青 新文化运动的最猛斗士| 近代史| 民国| 文化| 人物](https://v.douyin.com/cIzW8z0svaU/)
+  - [胡适信奉的自由主义到底是什么？| 近代史| 民国| 自由主义| 胡适](https://v.douyin.com/021SGTaansw/)
+
+---
 ### 007. 数字人实时语音交互
 * [VideoChat](https://github.com/Henry-23/VideoChat)
 
