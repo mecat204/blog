@@ -22,17 +22,20 @@
   - **[AnFuns·动漫](https://www.anfuns.cc/)**
   - **[AnFuns·动漫](https://www.anfuns.in)**
   - **[novipnoad](https://www.novipnoad.net/)**
-  - [金牌影院](https://www.hskjjglo.com/)
-  - [金牌影院](https://www.vv3nwjk.com/)
-  - [**爱壹帆**](https://www.iyf.tv/)
-  - [多瑙影院](https://dnvod.org/)
   - **[4K指南](https://xuexizhinan.com/)**
+  - **[小宝影院](https://xiaoxintv.cc/)**
+  - **[多瑙影院](https://dnvod.org/)**
+  - **[金牌影院](https://www.hskjjglo.com/)**
+  - **[金牌影院](https://www.vv3nwjk.com/)**
+  - **[爱壹帆](https://www.iyf.tv/)**
+  - **[多瑙影院](https://dnvod.org/)**
+  - **[香菇影视](https://www.xiangguys.com/)**
+
 * **Movie**
   - [沙暖](https://www.shanuan.com/)
   - [zyplayer](https://zyplayer.fun/)
   - [海归TV](https://www.haigui.tv/)
-  - [TVB云播](http://www.hktvyun.com/)
-  - [子子影视](https://www.ziziys.net/)
+  - **[子子影视](https://www.ziziys.net/)**
   - [麻瓜影院](https://www.yangzhujixie.com/)
   - [CN影院](https://www.cnysvod.com/)
   - [天天美剧](https://www.meijuq.com/)
@@ -45,29 +48,32 @@
   - [剧谜](https://gimy.cc/)
   - [VidHub](https://vidhub.me/)
   - [DIANLE](https://www.duanju55.com/)
-  - [小宝影院](https://xiaoxintv.cc/)
   - [iKanBot](https://v.ikanbot.com/)
   - [简单TV](https://jiandantv.com/)
-  - [金牌影院](https://www.vv3nwjk.com/)
   - [独播库](https://www.duboku.tv/)
   - [香菇影视](https://www.xiangguys.com/)
-  - [4K世界](https://www.4ksj.com/portal.php)
-  - [4kv.tv](https://www.4kvm.tv/)
+  - [FoFo影院](https://www.fofoyy.com/dianshiju/68008)
   - [BT影视](https://www.btbtl.com/)
+
+---
 * **电影**
   - [新龙门客栈](https://www.youtube.com/watch?v=eCy1YvYGsi0)
   - [大辽太后](https://www.youtube.com/watch?v=9RJUwH4C1qQ)
   - [新天龙八部之天山童姥](https://www.youtube.com/watch?v=v3LmGve2HRQ)
   - [国产凌凌漆](https://www.youtube.com/watch?v=kdilUANii6s)
-  - [香菇影视](https://www.xiangguys.com/)
+
+---
 * **proxy·movie**
   - [Binge Society-电影片段](https://www.youtube.com/@bingesociety/playlists)
+
 ---
 ### 003. Note
-* 黑白-国外电影-精神-战斗 美少女特工队 大鹅 梦境制作models
+* **黑白-国外电影-精神-战斗 美少女特工队 大鹅 梦境制作models**
   - [Sucker Punch | 4K Trailer | Warner Bros. Entertainment](https://www.youtube.com/watch?v=vJ0xYZ5mVMc)
   - [异界-大鹅科幻作品](https://www.youtube.com/watch?v=AN1ffslY1cw)
-* 脑开发 100% 国外电影 超体 Lucy
+
+---
+* **脑开发 100% 国外电影 超体 Lucy**
   - [Lucy: Lucy meets Lucy](https://www.youtube.com/watch?v=UcDjWCEvZLM)
   - [LUCY 2 (2026)](https://www.youtube.com/watch?v=deMHi69NA1Q)
   - [美少女特攻队](https://pan.quark.cn/s/edd7d256bc3b#/list/share)
@@ -76,6 +82,8 @@
   - [可爱的骨头](https://pan.quark.cn/s/627222c2d675#/list/share)
 * 动漫
   - 九幽玄天 3.27
+
+---
 * **[Believer.67](https://v.douyin.com/sdprE26WI48/)**
   - [共鸣叙事家·去找到你生命中的快乐！](https://v.douyin.com/kQjzqhUHk2k/)
   - [荒野生存](https://v.douyin.com/J_jP3V0t678/)
@@ -97,6 +105,7 @@
 | **《致命ID》** (2003) | 暴风雨夜汽车旅馆的连环凶杀，真相是多重人格的内心厮杀。 | 封闭空间中的身份迷失，类似《异界》的意识废墟。 |
 | **《恐怖游轮》** (2009) | 单亲母亲登上幽灵船，陷入无限杀戮轮回。 | 时间循环与《盗梦空间》的嵌套梦境。 |
 | **《呼吸》** (2025) | 巴黎被毒雾笼罩，夫妻在氧气舱中挣扎救女。 | 末日废墟美学如《异界》的破碎城市。 |
+
 ---
 2. **记忆重构与存在困境**
 | 电影 | 剧情简述 | 关联点 |
@@ -104,6 +113,7 @@
 | **《蝴蝶效应》** (2004) | 男主穿越回童年修改错误，却引发更悲惨的连锁反应。 | 记忆篡改的灾难性后果，类似《盗梦空间》的潜意识干预。 |
 | **《源代码》** (2011) | 士兵在列车爆炸前8分钟反复重生，寻找真凶。 | 意识投射与平行时空，如《异界》的虚拟世界。 |
 | **《遗忘》** (2012) | 失忆女人重新审视婚姻，发现丈夫隐藏的黑暗秘密。 | 记忆欺骗性如《可爱的骨头》的生死视角错位。 |
+
 ---
 3. **超现实与哲学隐喻**
 | 电影 | 剧情简述 | 关联点 |
@@ -111,12 +121,14 @@
 | **《圣山》** (1973) | 术士带领门徒寻找永生，荒诞仪式解构宗教与权力。 | 梦境般的视觉冲击，堪比《盗梦空间》的折叠城市。 |
 | **《一条安达鲁狗》** (1929) | 超现实主义短片，无逻辑拼接割眼球、蚂蚁爬手等意象。 | 潜意识表达如《可爱的骨头》的诗意死亡。 |
 | **《无姓之人》** (2009) | 2092年最后一位凡人回忆自己所有可能的平行人生。 | 多线叙事如《盗梦空间》的"可能性分支"。 |
+
 ---
 4. **中俄科幻的冷冽美学**
 | 电影 | 剧情简述 | 关联点 |
 |------|----------|--------|
 | **《挑战》** (2024) | 人类首部太空实拍电影，宇航员在太空站濒死救援。 | 科技异化主题类似《异界》。 |
 | **《上帝难为》** (2013) | 外星殖民地倒退到中世纪，地球使者陷入野蛮文明。 | 冷峻画面探讨暴力循环，如《盗梦空间》的混沌域。 |
+
 ---
 5. **延伸推荐（心理悬疑/平行宇宙）**
 | 电影 | 剧情简述 | 关联点 |
@@ -125,6 +137,7 @@
 | **《禁闭岛》** (2010) | 联邦探员调查精神病院，发现自己可能是病人。 | 记忆与现实的混淆，类似《异界》。 |
 | **《彗星来的那一夜》** (2013) | 朋友聚会夜遇彗星，平行时空相互渗透引发混乱。 | 量子理论下的存在危机，如《源代码》。 |
 | **《星际穿越》** (2014) | 宇航员穿越虫洞寻找新家园，时间相对论撕裂亲情。 | 高维空间与《盗梦空间》的时空扭曲。 |
+
 ---
 6. **总结推荐顺序**
   - **首选**：若喜欢《盗梦空间》→ 看《记忆碎片》《源代码》《无姓之人》。
