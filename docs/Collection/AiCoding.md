@@ -330,6 +330,7 @@
   - [今天普通人比古代皇帝吃得更好| 历史| 古代| 现代| 饮食](https://v.douyin.com/YXMC5ywr4AE/)
   - [钱玄同：民国愤青 新文化运动的最猛斗士| 近代史| 民国| 文化| 人物](https://v.douyin.com/cIzW8z0svaU/)
   - [胡适信奉的自由主义到底是什么？| 近代史| 民国| 自由主义| 胡适](https://v.douyin.com/021SGTaansw/)
+  - [日本人是如何策划皇姑屯事件的？| 近代史| 民国| 张作霖](https://v.douyin.com/rROELS0f07Q/)
 
 ---
 ### 007. 数字人实时语音交互
