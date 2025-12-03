@@ -55,6 +55,10 @@
   - [一代枭雄](https://www.youtube.com/watch?v=piPubw47K_8&list=PLRWT6lKXUm2mzZoHbQUBwlsNDsvCICQrF)
 
 ---
+* **[优优经典剧场——YoYo Television Series Classic](https://www.youtube.com/@YoYoTVClassic)**
+  - [一代枭雄](https://www.youtube.com/watch?v=piPubw47K_8&list=PLRWT6lKXUm2mzZoHbQUBwlsNDsvCICQrF)
+
+---
 ### 003. 娱乐节目
 * **[CCTV春晚](https://www.youtube.com/@CCTVGala)**
   - [2025年中央广播电视总台中秋晚会 2025 Mid-Autumn Festival Gala | CCTV春晚](https://www.youtube.com/watch?v=WF8LhUhyJDw)
