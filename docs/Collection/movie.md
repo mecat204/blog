@@ -36,7 +36,7 @@
   - [麻瓜影院](https://www.yangzhujixie.com/)
   - [CN影院](https://www.cnysvod.com/)
   - [天天美剧](https://www.meijuq.com/)
-  - [**i.iao.su**](https://i.iao.su/?2025/%E9%9F%B3%E4%B9%90)
+  - **[i.iao.su](https://i.iao.su/?2025/%E9%9F%B3%E4%B9%90)**
   - [Kin热点](https://kin.itmresources.com/)
   - [LOL电影天堂](http://www.loldytt.me/)
   - [美剧迷](https://www.meijumi.net/)

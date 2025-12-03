@@ -161,6 +161,10 @@
   - [第三集 穹，每相隔百年波动一次的天生之灵，当它现世的时候，天界也会随之震荡](https://v.douyin.com/ThNfnMuVK_4/)
 
 ---
+* **[可乐从不加冰 | 沉迷AI写真无法自拔，喜欢的宝关注一下呦 不拿ai照片当自己](https://v.douyin.com/ZM5lvc462ZI/)**
+  - [AI复古胶片写真](https://v.douyin.com/6aWSzFnAkB8/)
+
+---
 * **[燃·剪 | 西游](https://v.douyin.com/ppgeQm10xes/)**
   - [12点之前我还是灵山经长 | 不一样的西游记](https://v.douyin.com/mVXvDWvZ8lo/)
 
@@ -295,6 +299,11 @@
   - [或许在梦境是平时宇宙中的另一个你… 梦境很奇怪，冥冥之中似乎与其他的东西有联系，或许未来的科技可以解决很多难题…..| 航拍 | 宇宙 | 探索宇宙 | 艺术在抖音 | 视觉震撼](https://v.douyin.com/Ab-lZBDwt70/)
   - [古代遗迹里的宫殿是什么样的呢？ 曾经的宫殿什么人居住过？| 艺术在抖音 | AI创作浪潮计划 | 古风 | 视觉震撼 | 海艺AI](https://v.douyin.com/DdnwurCADao/)
   - [当你在未来星际旅行中遇到一颗矬恒星…. 这颗非常小的恒星照亮了它所在的星系，所有的行星🪐都像家人一样被它照耀](https://v.douyin.com/SEPb02ktX5g/)
+  - [这才是我真正想要的世界](https://v.douyin.com/Dtwgq-XNjA0/)
+
+---
+* **[瓜瓜瓜瓜瓜 | 所有作品的人物形象模型来自主播](https://v.douyin.com/c1x2hmxQ-_U/)**
+  - [](长按复制此条消息，打开抖音搜索，查看TA的更多作品。 https://v.douyin.com/c1x2hmxQ-_U/)
 
 ---
 * **[阿墩的AI小剧场 | 女主叫瑶瑶｜多元宇宙穿越者](https://v.douyin.com/IAE81nTcgRQ/)**
