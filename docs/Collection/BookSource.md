@@ -930,6 +930,8 @@
 * **[教材 | 教科书 | 人教版](https://jc.pep.com.cn/)**
 * **[教科书 | 课本](https://textbook.synaiv.com/)**
 
+* **[国家中小学智慧教育平台电子教材全套](https://pan.quark.cn/s/9bdccc0db3a8#/list/share)**
+
 ---
 ### 020. Procreate Tutorials
 * [Genevieve's Design Studio](https://www.youtube.com/@GenevievesDesignStudio)
