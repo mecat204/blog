@@ -303,7 +303,6 @@
 
 ---
 * **[瓜瓜瓜瓜瓜 | 所有作品的人物形象模型来自主播](https://v.douyin.com/c1x2hmxQ-_U/)**
-  - [](长按复制此条消息，打开抖音搜索，查看TA的更多作品。 https://v.douyin.com/c1x2hmxQ-_U/)
 
 ---
 * **[阿墩的AI小剧场 | 女主叫瑶瑶｜多元宇宙穿越者](https://v.douyin.com/IAE81nTcgRQ/)**
