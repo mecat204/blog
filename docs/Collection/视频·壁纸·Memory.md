@@ -148,6 +148,13 @@
 * **[wallspic](https://wallspic.com/)**
 
 ---
+* **[海棠网  | 海棠网 - 海棠应用网专注黑科技软件,绿色无毒互联网资源分享](https://www.haitangw.cc/)**
+  - [海棠网| 导航 | 其它综合 | 壁纸](https://www.haitangw.cc/daohang)
+
+---
+* **[哲风壁纸](https://www.haowallpaper.com/wallpaperForum)**
+
+---
 * **[九棠 | INFJ独角兽｜追求意义的理想主义者 走进山野，拿起相机，捕捉散落人间的光](https://v.douyin.com/4bXCipixMpo/)**
   - [你现在想要的东西，其实是你未来已经拥有的。](https://v.douyin.com/FuF9_VnUF6k/)
 

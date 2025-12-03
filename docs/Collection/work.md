@@ -65,7 +65,10 @@
 
 ---
 * **[蓝点网 | ](https://www.landiannews.com/)**
-  - [海棠网  | 海棠网 - 海棠应用网专注黑科技软件,绿色无毒互联网资源分享](https://www.haitangw.cc/)
+
+---
+* **[海棠网  | 海棠网 - 海棠应用网专注黑科技软件,绿色无毒互联网资源分享](https://www.haitangw.cc/)**
+  - [海棠网| 导航 | 其它综合 | 壁纸](https://www.haitangw.cc/daohang)
 
 ---
 * **[CPU Rank List | CPU天梯图](https://cpuranklist.com/)**
@@ -173,6 +176,10 @@ OOBE\BYPASSNRO
 
 **给您的建议：**
 **优先使用 `OOBE\BYPASSNRO` 命令**，这是最正统的绕过方法。如果因为快捷键失灵或其他原因无法打开CMD，那么就采用**拔掉网线**或**关闭Wi-Fi**的物理方法，这是最有效的保障。
+
+---
+### 006. CN.AI
+* **[椒图AI](https://www.jiaotuai.cn/?ref=htw)**
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
