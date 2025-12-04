@@ -350,6 +350,18 @@
 * **[与千与琴 | 以琴韵化导人心 ](https://v.douyin.com/VR9s1SImBVc/)**
   - [古琴｜「念念不敢念，偏落指弦间」](https://v.douyin.com/YMQv2RKgn8Y/)
 
+---
+* **[小澄拾光](https://v.douyin.com/_vwkYSiSmig/)**
+  - [有些人天生就喜欢这种氛围](https://v.douyin.com/c_ypjMctcDk/)
+  - [风是透明的河流](https://v.douyin.com/iTnWz8PmQng/)
+
+---
+* **[莱瓦特 | 一个infj索尼佬，无固定风格](https://v.douyin.com/Of-5n5C8Nbs/)**
+  - [缘生。一期一会，会者定离，难得一面，世当珍惜。摄影 | 慢节奏 | infj | 江南 | 调色](https://v.douyin.com/CZByzk0PAoA/)
+  - [杨柳堤。| 真实生活分享计划 | 调色 | 抖音推广 | 古风 | inmyfeeling](https://v.douyin.com/lVi07kYEfT4/)
+  - [一帘风月闲。| inmyfeeling | 古风 | 摄影 | 江南 | 真实生活分享计划](https://v.douyin.com/ZtBGouDYiRg/)
+
+---
 * **[一颗枣的独白 | 自幼学笛十七载， 师从著名笛箫演奏家 国家一级演奏员吴樟华教授](https://v.douyin.com/GLWBWZYCrjM/)**
   - [就这个大A太爽了！| 笛子 | 看我跃马扬鞭 | 民乐 | 新手笛子](https://v.douyin.com/HTXoV33AHKY/)
 
@@ -360,6 +372,14 @@
 ---
 * **[弹钢琴的余鱼 | 喜欢弹琴的超级i人，祝你天天开心](https://v.douyin.com/i7xemqTer2I/)**
   - [如何一眼识别弹钢琴的人？ | 孤身dj版 | 特伦斯智慧钢琴 | 特伦斯电钢琴 | 自学钢琴](https://v.douyin.com/4U1aQCJKe3o/)
+
+---
+* **[温温Piano | 随便弹些自己喜欢的](https://v.douyin.com/1mno8-2oQdI/)**
+  - [传说这里是仙家之地，是理水叠山真君和留云借风真君的住处。 | 钢琴 | 原神 | 云海之上 | 庆云顶 | 游戏音乐](https://v.douyin.com/zs4rm8yqHwY/)
+
+---
+* **[孙一天本人]长按复制此条消息，打开抖音搜索，查看TA的更多作品。https://v.douyin.com/XjssI0c1DX0/)**
+  - [有些音乐，正常人听到的是抑郁，而抑郁的人听到的是温暖。| 钢琴 | 施坦威 | 西村由纪江 孙一天本人的施坦威共享琴房](https://v.douyin.com/O4pftyl1oog/)
 
 ---
 ### 015. music·author

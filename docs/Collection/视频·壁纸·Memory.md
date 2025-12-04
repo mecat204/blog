@@ -163,6 +163,12 @@
   - [你现在想要的东西，其实是你未来已经拥有的。](https://v.douyin.com/FuF9_VnUF6k/)
 
 ---
+* **[莱瓦特 | 一个infj索尼佬，无固定风格](https://v.douyin.com/Of-5n5C8Nbs/)**
+  - [缘生。一期一会，会者定离，难得一面，世当珍惜。摄影 | 慢节奏 | infj | 江南 | 调色](https://v.douyin.com/CZByzk0PAoA/)
+  - [杨柳堤。| 真实生活分享计划 | 调色 | 抖音推广 | 古风 | inmyfeeling](https://v.douyin.com/lVi07kYEfT4/)
+  - [一帘风月闲。| inmyfeeling | 古风 | 摄影 | 江南 | 真实生活分享计划](https://v.douyin.com/ZtBGouDYiRg/)
+
+---
 ### 002. Tools:OURTV&MedLexo
 * [ourtv](https://github.com/andandroidor/ourtv/releases)
 * [MedLexo](https://medlexo.is-an.app/cn.php)
