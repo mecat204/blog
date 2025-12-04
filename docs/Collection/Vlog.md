@@ -28,6 +28,7 @@
 
 ---
 * **[BBC Earth | youtube](https://www.youtube.com/@bbcearth)**
+  - [1 Hour of Magnificent Moments Narrated by Sir David Attenborough | BBC Earth](https://www.youtube.com/watch?v=Vd7iuPV_AF0)
 * **[BBC英语纪录频道 | douyin](https://v.douyin.com/Kg7WEHuZnzo/)**
   - [神奇的植物 GREEN PLANET 1](https://v.douyin.com/AyWrh_p2L2U/)
 
