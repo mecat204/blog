@@ -7,7 +7,7 @@
   - [LEP](https://www.youtube.com/@LEP-LearnEnglishPodcast) - 整体英文内容专为 A2+ 和 B1 水平的学习者设计，每期一个10来分钟的小话题
   - [Cloud English](https://www.youtube.com/@CloudEnglish/featured) - 语速适中，很适合初学者
   - [Easy English Podcast](https://open.spotify.com/show/0zdSWbiJYKbWfhHrizj5wA?si=XXY_K48AR2WzkA33XTE93Q) - 一个循序渐进、内容轻松、资源丰富的英语学习播客
-  - [Coffee Break English](https://coffeebreaklanguages.com/english/) - 每集大约15分钟，为初学者和中级英语学习者设计
+  - **[Coffee Break English | 每集大约15分钟，为初学者和中级英语学习者设计](https://coffeebreaklanguages.com/english/)**
   - [Simple English](https://www.youtube.com/@simpleenglishforbeginners) - 聚焦于分享轻松又高效的英语学习技巧与方法，通过B1级别左右的听力内容帮助磨耳朵
   - [Luke's English Podcast](https://teacherluke.co.uk/) - 由专业英语教师主讲
   - [VOA Learning English](https://learningenglish.voanews.com/podcasts) - 美国之音（VOA）为有兴趣学习美式英语的人提供了大量播客选择
