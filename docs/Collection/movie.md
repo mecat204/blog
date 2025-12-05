@@ -491,4 +491,11 @@
 * **拆弹部队**
 
 ---
+### 023. 电影解说
+* **[乌合之囚](https://www.youtube.com/@whzq404)**
+  - [芳华解读 | 50年没人敢碰,却让冯小刚拍爽了!独家解读《芳华》上 | 防国内下架 b站大热芳华解读](https://www.youtube.com/watch?v=LkD32ThtmlI)
+  - [芳华解读 | 全网独家!没人比我更懂《芳华》!中 | 防国内下架 b站大热芳华解读](https://www.youtube.com/watch?v=fWTY9bgOyxQ)
+  - [芳华解读 | 全网独家!依旧强度拉满!没人比我更懂《芳华》中下 | 防国内下架 b站大热芳华解读](https://www.youtube.com/watch?v=4TV4Cr6oqJc)
+
+---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
