@@ -306,6 +306,7 @@
 ---
 * **[澜杉古琴](https://v.douyin.com/W8Gb5zdmCmo/)**
   - [若如初见 为谁而归](https://v.douyin.com/rPDcjmLhOa0/)
+  - [雨下一整晚神仙间奏 | 古琴 | 神仙bgm | 国风 | 东方美学 | 雨下一整晚](https://v.douyin.com/Tsk5Iwn81XQ/)
 
 ---
 * **[爱纹身的古琴师](https://v.douyin.com/viDf_wTQT9U/)**
