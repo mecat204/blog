@@ -333,6 +333,20 @@
   - [日本人是如何策划皇姑屯事件的？| 近代史| 民国| 张作霖](https://v.douyin.com/rROELS0f07Q/)
 
 ---
+* **[阿畅聊AI | 某AI出海产品负责人，分享日常感悟，随想](https://v.douyin.com/oibLMqjBdsw/)**
+  - [李飞飞：别卷大模型了，AI下个风口是它！](https://v.douyin.com/jAZ4QpuIhOc/)
+  - [哈萨比斯：毁掉你的不是无知，而是经验！](https://v.douyin.com/TF0VsgDSo14/)
+
+---
+* **[出发吧阿吉](https://v.douyin.com/jmXYdstmrfI/)**
+  - [川派盆景系列上——AI觉醒 一花一世界，一盆一乾坤，在时间的褶皱中，意识之芽悄然生长……AI会觉醒吗？AI要怎样觉醒？答案，也许就藏在这方寸之间…… AI人工智能 温江 科幻 脑洞大开](https://v.douyin.com/LqohUz_h06w/)
+  - [川派盆景系列下——时间折叠 怎么才能让AI拥有意识？发源于温江的川派盆景给了我灵感，把盆景缩龙成寸的方法运用到了算法中，我的AI……好像真的可以拥有意识！但……我的选择是对的吗？把人类的原本有限的孤独安置在一个无限的载体之上，我……好像有点后悔了…… | AI | 人工智能 | 科幻 | 脑洞大开 | 盆景 | 温江](https://v.douyin.com/o9we-fg-1VE/)
+
+---
+* **[虚妄 | AIGC 探索。风格不定。](https://v.douyin.com/Bk_h29FDK8M/)**
+  - [师兄们，这次喝奶茶不！| ai | 小师妹 | 古装 | 氛围感](https://v.douyin.com/yRv2L4vDZEA/)
+
+---
 ### 007. 数字人实时语音交互
 * [VideoChat](https://github.com/Henry-23/VideoChat)
 
