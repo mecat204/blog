@@ -216,4 +216,23 @@
   - [How to use 'get' in English](https://www.youtube.com/watch?v=1zw2pTZ9U_I&t=41s)
 
 ---
+###  006. 雅思 IELTS
+* **[Learn English with EnglishClass101.com](https://www.youtube.com/@EnglishClass101/videos)**
+
+---
+* **[Arnel's Everyday English | 语法](https://www.youtube.com/@ArnelsEverydayEnglish)**
+
+---
+* **[BBC Learning English | 听力](https://www.youtube.com/@bbclearningenglish)**
+
+---
+* **[English Speaking Success | 口语](https://www.youtube.com/@EnglishSpeakingSuccess)**
+
+---
+* **[https://www.youtube.com/@IELTSSIMON1/videos  | 西蒙的雅思课程 | 写作](https://www.youtube.com/@IELTSSIMON1/videos)**
+
+---
+* **[E2 IELTS | 阅读](https://www.youtube.com/@E2IELTS)**
+
+---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
