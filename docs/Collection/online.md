@@ -29,6 +29,9 @@
 * **[TVB (official) | youtube](https://www.youtube.com/@TVB)**
 
 ---
+* **[新聞最嘲點 Mr.姜光宇](https://www.youtube.com/@MrFunnyNewsJGY)**
+
+---
 ### 002. movie
 * **[OWOTUBE影院](https://owotube.com/)**
 * [靑檸](https://www.youtube.com/@heyao1997)
