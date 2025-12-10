@@ -1,31 +1,31 @@
-### 001. AI·website
+##|001. AI·website
 * [videotube.ai](https://videotube.ai/)
 * [Nano Banana - AI 图像编辑器 | 编辑照片并添加文字](https://nanobanana.ai/)
 
 ---
-### 002. Coding online
+##|002. Coding online
 * [**CodeSandbox**:在线代码编辑和演示平台](https://codesandbox.io/)
 * [**StackBlitz**:实时开发和预览的在线 IDE](https://stackblitz.com/)
 * [**ESLint**:JavaScript 代码检查工具](https://eslint.org/)
 * [**Prettier**:代码格式化工具](https://prettier.io/)
 
 ---
-### 003. 虚拟人AI助手(智能助手)-超写实数字人AI助手
+##|003. 虚拟人AI助手(智能助手)-超写实数字人AI助手
 * [shakker.ai](https://www.shakker.ai/)
 * [synthesia](https://synthesia.io)
 * [Synthesia-io](https://www.youtube.com/@synthesia-io)
 
 ---
-### 004. AI·website
+##|004. AI·website
 * [AI风向标](https://www.talktop.cn/)
 
 ---
-### 005. FreeAI
+##|005. FreeAI
 * [desktophut](https://www.desktophut.com/ai/generator)
 * [阿甘探AI](https://v.douyin.com/4SaZcq_bXns/)
 
 ---
-### 006. AI·video
+##|006. AI·video
 * [剑来](https://v.douyin.com/-odlboAmAGA/)
   - [宁姚](https://v.douyin.com/Ru1_J7d7r7o/)
 * [skyreels](https://github.com/SkyworkAI/SkyReels-V2)
@@ -132,7 +132,7 @@
 
 ---
 * **[𝘾𝙮𝙗𝙤𝙧𝙜𝟯 | 神仙？ 妖怪？ 谢谢](https://v.douyin.com/VKYveIUAulY/)**
-  - ["飞起来曾经很快乐，直到我开始把它当作谋生手段。" | 自由飞翔 | ai动画 | 即梦AI创作者成长计划 # AI创作浪潮计划](https://v.douyin.com/gsXBFYhSDmw/)
+  - ["飞起来曾经很快乐，直到我开始把它当作谋生手段。" | 自由飞翔 | ai动画 | 即梦AI创作者成长计划 |AI创作浪潮计划](https://v.douyin.com/gsXBFYhSDmw/)
   - [这一世太漫长却止步咫尺天涯间 | 武侠 | 修仙 | 国风古韵 | 国漫](https://v.douyin.com/uV-cUdsGOfM/)
 
 * **[栖光 | 视频均为AI生成，Midjourney出图](https://v.douyin.com/Fw6DOdVGfN8/)**
@@ -148,6 +148,11 @@
 ---
 * **[田甜 | 很高兴与大家相遇，感谢官方平台 作品全部是AI，不是真人](https://v.douyin.com/yJ4LXmtxrzE/)**
   - [圣诞的红是草莓味的甜，雪落进软绒绒的暖里，连空气都裹着铃铛轻响的温柔。 | 红色 | 冬日甜系穿搭 | 甜美女孩 | AI圣诞氛围感写真 | 抖音AI创作](https://v.douyin.com/cNUB-3nKNOQ/)
+
+* **[F君•中意 | 为爱发电， 做有温度的作品](https://v.douyin.com/lHiBWT5z8Qg/)**
+  - [《黑神话·西梁》](https://v.douyin.com/KXR2OZfb6cs/)
+  - 女儿国被删真结局：《黑神话·西梁》 "此去灵山十万里，悟得真经方才知：只要信念赤诚，念念回首处，便是灵山" 这次的创作动机原本只是想给小伙伴演示最近比较火的西游人物唱歌视频怎么做，没想到做着做着又做岔了。。。 第二天的时候我看了看自己做的部分就知道，这个片子应该是火不了了。因为缺少那种接地气的粗粝感，歌词和旋律也并不魔性朗朗上口。现如今有时候精美的包装并不讨喜。大家的生活节奏都很快也很累，需要一些更放松更松弛的内容和视觉。 但也因为这次创作，让我查阅和熟读了女儿国相关的各种资料，也和一些大语言模型进行了"探讨"。 相较于原著，我更喜欢86版唐僧那瞬间动了凡心的描绘。也以此为基础反复琢磨了内容和对话。越思考，自己越被这种情感触动。于是创作了心目中的女儿国真结局。 我相信，在无数条平行时空里，总有一条线上的唐僧是走了这条路。这个选择也没有违背唐僧原本的人设和信念，毕竟是如来的授意，相当于"公费谈恋爱"。 对于女儿国国王，我愿意相信她在唐僧离开取经之后并没有一蹶不振。而是勤与政务，救济灾民，打破女儿国各种陈旧枷锁。同时也坚持每日为唐僧祈福。她学着爱唐僧所爱的众生，这何尝不是一种修行。因此当唐僧回到女儿国后，无论是心意还是信仰，他们都是相通的。两人并不止于爱人，也是志同道合的伙伴。 在我的设想的最后：当女儿国王与唐僧寿终正寝之时，天际霞光万道，观音现身微笑："善哉，尔等已著就一部无字真经，功德圆满。" 此时，他们并不前往西天，而是化作两道柔和的彩虹，永远守护着这片他们亲手创建的"红尘净土" 至于世人所认知的那一份经，就让其他线上的唐僧去取吧。。。 | AI创作浪潮计划 | 女儿国 | 女儿国国王 | 即梦AI | 西游记
+  - [真实事件改编——《我的神奇女徒弟》 一件真实发生的小插曲  | AI创作浪潮计划  | 即梦AI  | 女徒弟  | 打工人  | 打工人的精神状态]()
 
 ---
 * **[宋可为](https://v.douyin.com/JbkKjcLyeBI/)**
@@ -255,7 +260,7 @@
 
 ---
 * **[AI散修小师妹 | AIGC散修，凡人修仙 原创AI视频](https://v.douyin.com/Se773qx2EWU/)**
-  - [小梅凝~变身！ | 二次元 | 梅凝 | 暗夜变装挑战# AI创作浪潮计划 | 海艺AI  ](https://v.douyin.com/v3V_iC6bQeI/)
+  - [小梅凝~变身！ | 二次元 | 梅凝 | 暗夜变装挑战|AI创作浪潮计划 | 海艺AI  ](https://v.douyin.com/v3V_iC6bQeI/)
 
 ---
 * **[风卷云舒 | 凡人 | 其他](https://v.douyin.com/D5hyeuHHy5g/)**
@@ -347,25 +352,25 @@
   - [师兄们，这次喝奶茶不！| ai | 小师妹 | 古装 | 氛围感](https://v.douyin.com/yRv2L4vDZEA/)
 
 ---
-### 007. 数字人实时语音交互
+##|007. 数字人实时语音交互
 * [VideoChat](https://github.com/Henry-23/VideoChat)
 
 ---
-### 008. AI·Canvas
+##|008. AI·Canvas
 * [Animated Drawings](https://sketch.metademolab.com/canvas)
 * [index-tts2](https://index-tts.github.io/index-tts2.github.io/)
   - [index-tts](https://github.com/index-tts/index-tts)
 
 ---
-### 009. 在线编码
+##|009. 在线编码
 * [Qwen2.5-Coder-Artifacts](https://huggingface.co/spaces/Qwen/Qwen2.5-Coder-Artifacts)
 
 ---
-### 010. AI开源方案库
+##|010. AI开源方案库
 * [aigclink- AI开源方案库-传递最新AI应用落地解决方案](https://d.aigclink.ai)
 
 ---
-### 011. 同义千问
+##|011. 同义千问
 * [同义官网](https://tongyi.aliyun.com)
 * [Qwen2.5-Coder](https://v.douyin.com/CeiJS3qnN/）
   - 性能达到GPT-4o的编程模型 Qwen2.5-Coder：阿里通义千问开源性能达到GPT-4o的编程专用模型，具备artifact能力、以及结合cursor使用qwen2.5-coderai编程模型
@@ -380,12 +385,12 @@
 * [AIGCLINK](https://www.youtube.com/@AIGCLINK)
 
 ---
-### 012. Comfyui
+##|012. Comfyui
 * [Comfy-Org](https://github.com/Comfy-Org/desktop)
 * [优设-comfyui](https://www.uisdc.com/comfyui-v1)
 
 ---
-### 013. Hunyuan video
+##|013. Hunyuan video
 * [Hunyuan video]6.64 Qxf:/ 10/14 H@v.fB 最强国产AI视频模型！完全免费开源，电影级画质，本地部署使用 视频模型下载：bittly.cc/yuan  https://v.douyin.com/CeiJFoUCT/ 复制此链接，打开Dou音搜索，直接观看视频！
 * [tencent-HunyuanVideo](https://github.com/tencent/HunyuanVideo)
 * [Windsurf-IDE]
@@ -397,7 +402,7 @@
 * [网飞十大烧钱剧集排行榜](https://v.douyin.com/CeiJ25eJd/)
 
 ---
-### 014. AI工具箱
+##|014. AI工具箱
 * [AI工具箱导航](https://promptchoose.com/)
 * [5个好用的Github开源PDF阅读器推荐](https://promptchoose.com/ai-tools/github-open-source-pdf-reader/)
   - [koodo-reader](https://github.com/koodo-reader/koodo-reader)
@@ -407,17 +412,17 @@
   - [readthedocs](https://about.readthedocs.com/)
 
 ---
-### 015. AI TTS
+##|015. AI TTS
 * [AICodeKing](https://www.youtube.com/watch?v=OyrS-lX_sLk)
 * [Minimax.io](https://minimax.io/audio)
 
 ---
-### 016. Humva AI
+##|016. Humva AI
 * [Create Realistic AI Avatar Videos with Humva](https://www.youtube.com/watch?v=Yts9ZuwXNMQ)
 * [Discover Humva AI: Where Cutting-Edge Technology Meets Avatar Creation](https://www.youtube.com/watch?v=sF_E9r0JeMQ)
 
 ---
-### 017. 原神·AI
+##|017. 原神·AI
 * [tools.miku.ac](https://tools.miku.ac/anime_tts/)
 * [TTS-Online](https://acgn.ttson.cn/)
 * [hoyoTTS](https://modelscope.cn/studios/Genius-Society/hoyoTTS)
@@ -428,23 +433,23 @@
   - [雷电将军：你？要与我为敌吗？](https://v.douyin.com/PWi9EHiHDgw/)
 
 ---
-### 018. 原神·ChatTTS
+##|018. 原神·ChatTTS
 * [派蒙语音合成工具](https://colab.research.google.com/drive/1nYUnKTj1pwYhQQASsVWoqJtVIaAyb0RD?usp=sharing)
 * [VITS-fast-fine-tuning](https://github.com/Plachtaa/VITS-fast-fine-tuning)
 * [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)
 
 ---
-### 019. 导航
+##|019. 导航
 * [简约导航](https://www.jianavi.com/)
 
 ---
-### 020. AI
+##|020. AI
 * [海螺ai](https://hailuoai.video/)
 * [styleai](https://styleai.art/zh)
 * [AI小宝](https://v.douyin.com/wx_nR-9NhnQ/)
 
 ---
-### 021. AI·Vtuber
+##|021. AI·Vtuber
 * [黑焱](https://www.youtube.com/watch?v=QQieOmN4IHY)
 * [花儿不哭-B站](https://space.bilibili.com/5760446?spm_id_from=333.999.0.0)
 * [AI VTuber-制作](https://www.youtube.com/watch?v=QQI2UyFlk8c&list=PLji6-Hn_9g_WbjWjeR6rGKk_HeGd3xz1c)
@@ -454,40 +459,40 @@
 * [bilibili·林亦LYi](space.bilibili.com/4401694)
 
 ---
-### 022. Neuro-sama
+##|022. Neuro-sama
 * [Neuro-sama](https://www.youtube.com/channel/UCLHmLrj4pHHg3-iBJn_CqxA)
 
 ---
-### 023. AI素材网
+##|023. AI素材网
 * [克隆工具](https://www.youtube.com/watch?v=5PRX3HM47Ew)
 * [小林素材网](https://xhlmr.cn/index?promo=KJLHM2)
 * [声音克隆工具](https://feng800.blogspot.com/2024/10/1fireredttsaitts.html)
 * [峰哥探世界](https://feng800.blogspot.com/)
 
 ---
-### 024. miHoYo·AI·Game
+##|024. miHoYo·AI·Game
 * [anuttacon](https://wfts.anuttacon.com/)
 
 ---
-### 025. AIGC 应用平台
+##|025. AIGC 应用平台
 * [Cephalon Cloud端脑云](https://cephalon.cloud/aigc#/share/register-landing?id=xDnmPN)
 
 ---
-### 026. ChatTTS
+##|026. ChatTTS
 * [YubAI-鱼摆摆](https://www.youtube.com/watch?v=D1HJ7KJrO7M)
   - [Chat-TTS-Quark](https://pan.quark.cn/s/f8d42e136e1b#/list/share)
 * [YubAI-鱼摆摆](https://www.youtube.com/@yubaibai2023/videos)
 * [ChatTTS](https://chattts.in/playground)
 
 ---
-### 027. AI·动漫二创
+##|027. AI·动漫二创
 
 ---
 * **[幻窥心渊](https://v.douyin.com/74rcO1tOG3Q/)**
   - **[宗祠剑影里的凡人风骨 韩瑞：记吾家叔祖韩立公](https://v.douyin.com/AROBdwgpepM/)**
 
 ---
-### 028. AI启示录
+##|028. AI启示录
 
 ---
 * **[杨竹筠](https://v.douyin.com/ZGMIbRrkJHQ/)**
