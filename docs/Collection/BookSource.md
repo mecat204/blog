@@ -2,6 +2,10 @@
 * **[archive·互联网档案馆](https://archive.org/)**
 
 ---
+* **[openlibrary](https://openlibrary.org/)**
+  - pwd user
+
+---
 * **[DK-English](https://www.dkefe.com/cn)**
 * [javascript-en](https://javascript.sumankunwar.com.np/en/)
 * [Python从入门到精通·背记手册](https://www.scribd.com/document/824085167/Python%E8%83%8C%E8%AE%B0%E6%89%8B%E5%86%8C)
