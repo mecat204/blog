@@ -585,6 +585,13 @@
   - [世界第一等 | 音乐 | 音乐分享 | 经典歌曲](https://v.douyin.com/KKsyv3ahvbw/)
 
 ---
+* **[第六天堂](https://v.douyin.com/jM6wBBuBTlk/)**
+  - [弱水三千 | 凡人修仙传 | 宋玉](https://v.douyin.com/khnXwUn64dI/)
+  - [珍惜眼前人| 凡人修仙传| 宋玉 | 热门](https://v.douyin.com/rVRt0KkR7Hs/)
+  - [凡人修仙传 | 温天仁  | 抖音玩法达人中心  | 二次元  | 星语星愿](https://v.douyin.com/72uKzIvxT9s/)
+  - [凡人修仙传 | 慕沛灵](https://v.douyin.com/C9J31unAp5w/)
+
+---
 ### 023. English song
 * **[Us The Duo | 中阶 | 小孩家庭  | music](https://www.youtube.com/@ustheduo/featured)**
   - [Top Hits of 2023 - Us The Duo](https://www.youtube.com/watch?v=sMChO6ex5lw)

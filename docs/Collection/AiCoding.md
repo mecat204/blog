@@ -1,31 +1,31 @@
-##|001. AI·website
+### 001. AI·website
 * [videotube.ai](https://videotube.ai/)
 * [Nano Banana - AI 图像编辑器 | 编辑照片并添加文字](https://nanobanana.ai/)
 
 ---
-##|002. Coding online
+### 002. Coding online
 * [**CodeSandbox**:在线代码编辑和演示平台](https://codesandbox.io/)
 * [**StackBlitz**:实时开发和预览的在线 IDE](https://stackblitz.com/)
 * [**ESLint**:JavaScript 代码检查工具](https://eslint.org/)
 * [**Prettier**:代码格式化工具](https://prettier.io/)
 
 ---
-##|003. 虚拟人AI助手(智能助手)-超写实数字人AI助手
+### 003. 虚拟人AI助手(智能助手)-超写实数字人AI助手
 * [shakker.ai](https://www.shakker.ai/)
 * [synthesia](https://synthesia.io)
 * [Synthesia-io](https://www.youtube.com/@synthesia-io)
 
 ---
-##|004. AI·website
+### 004. AI·website
 * [AI风向标](https://www.talktop.cn/)
 
 ---
-##|005. FreeAI
+### 005. FreeAI
 * [desktophut](https://www.desktophut.com/ai/generator)
 * [阿甘探AI](https://v.douyin.com/4SaZcq_bXns/)
 
 ---
-##|006. AI·video
+### 006. AI·video
 * [剑来](https://v.douyin.com/-odlboAmAGA/)
   - [宁姚](https://v.douyin.com/Ru1_J7d7r7o/)
 * [skyreels](https://github.com/SkyworkAI/SkyReels-V2)
@@ -48,43 +48,82 @@
   - [温馨的小窝](https://v.douyin.com/HnsNYmUx9XU/)
   - [檐下煮茶带雪至，花前挚盏迎风来。品茶，赏景，茶话客谈，岂不悠哉](https://v.douyin.com/eXzkfTZ9XvA/)
     - 云雾缭绕人间仙境 | 住进风景里
-* [黛西的花园](https://v.douyin.com/CYZ48MhYZy8/)
+
+---
+* **[黛西的花园](https://v.douyin.com/CYZ48MhYZy8/)**
   - [家的样子](https://v.douyin.com/k_z239qvLnc/)
-* [设计师楠楠](https://v.douyin.com/IDXWUIDU0q4/)
+
+---
+* **[设计师楠楠](https://v.douyin.com/IDXWUIDU0q4/)**
   - [新中式](https://v.douyin.com/sM6jg-nNt94/ )
-* [忘忧境](https://v.douyin.com/7CUtYZxL9no/)
+
+---
+* **[忘忧境](https://v.douyin.com/7CUtYZxL9no/)**
   - [温馨小窝](https://v.douyin.com/AqwC1rG7mXk/)
-* [邀你赏景](https://v.douyin.com/1DiZbuQEpBY/)
+
+---
+* **[邀你赏景](https://v.douyin.com/1DiZbuQEpBY/)**
   - [下雨天](https://v.douyin.com/KqNwEAIv8Ho/)
-* [慢·时光](https://v.douyin.com/s7YEC757HN0/)
+
+---
+* **[慢·时光](https://v.douyin.com/s7YEC757HN0/)**
   - [家的样子](https://v.douyin.com/b5ZHgPBCxEo/)
-* [ෆ Athorn](https://v.douyin.com/0mHywY-j7S8/)
+
+---
+* **[ෆ Athorn](https://v.douyin.com/0mHywY-j7S8/)**
   - [享受独处](https://v.douyin.com/gBfr0TDtarM/)
-* [馨居](https://v.douyin.com/PBwuaNv5PW8/)
+
+---
+* **[馨居](https://v.douyin.com/PBwuaNv5PW8/)**
   - [loft复式](https://v.douyin.com/u4qcWW4PXY0/)
-* [一时一景](https://v.douyin.com/B1oVsJ7UITM/)
+
+---
+* **[一时一景](https://v.douyin.com/B1oVsJ7UITM/)**
   - [治愈系](https://v.douyin.com/H1TakSnKVhQ/)
-* [𝙎𝙩𝙖𝙧𝙧𝙮](https://v.douyin.com/7WvsoSLThrQ/)
+
+---
+* **[𝙎𝙩𝙖𝙧𝙧𝙮](https://v.douyin.com/7WvsoSLThrQ/)**
   - [星空](https://v.douyin.com/SdrwbbP8Xf8/)
-* [10频道](https://v.douyin.com/8rBzSVnHS6k/)
+
+---
+* **[10频道](https://v.douyin.com/8rBzSVnHS6k/)**
   - [句子摘抄](https://v.douyin.com/dGQWiJZ73Ac/)
-* [幽念](https://v.douyin.com/_XGo8WCSJHg/)
+
+---
+* **[幽念](https://v.douyin.com/_XGo8WCSJHg/)**
   - [治愈小窝](https://v.douyin.com/Qb9MUAb4sck/)
-* [絵梦居](https://v.douyin.com/Q2hvvsWqQqc/)
+
+---
+* **[絵梦居](https://v.douyin.com/Q2hvvsWqQqc/)**
   - [治愈系](https://v.douyin.com/qAAPxn-rWtQ/)
-* [邀你赏景](https://v.douyin.com/1DiZbuQEpBY/)
+
+---
+* **[邀你赏景](https://v.douyin.com/1DiZbuQEpBY/)**
   - [孤独和自由](https://v.douyin.com/l_x-PRSUxek/)
-* [Liberty✨](https://v.douyin.com/gyCz2gm1dXI/)
+
+---
+* **[Liberty✨](https://v.douyin.com/gyCz2gm1dXI/)**
   - [风格的小屋](https://v.douyin.com/oA_FuHyS95g/)
-* [春夏秋冬都很想你](https://v.douyin.com/aG2XqDV_QTc/)
+
+---
+* **[春夏秋冬都很想你](https://v.douyin.com/aG2XqDV_QTc/)**
   - [奇幻美学](https://v.douyin.com/eUQYwDh2FBc/)
-* [宫老丝](https://v.douyin.com/9v_3RwtV4W4/)
+  - [视觉震撼 | 梦中的世界 | 心灵奇旅 | 异世界探秘 | ios26壁纸](https://v.douyin.com/mTeNNY2E8RY/)
+
+---
+* **[宫老丝](https://v.douyin.com/9v_3RwtV4W4/)**
   - [东方美学](https://v.douyin.com/YfvcnaQdd9M/)
-* [设计师-扶苏](https://v.douyin.com/EjG7zggsskI/)
+
+---
+* **[设计师-扶苏](https://v.douyin.com/EjG7zggsskI/)**
   - [宋氏美学](https://v.douyin.com/mJGhiI1UC9w/)
-* [缘壹](https://v.douyin.com/x5HnPrAp40k/)
+
+---
+* **[缘壹](https://v.douyin.com/x5HnPrAp40k/)**
   - [温馨的小窝](https://v.douyin.com/lHPgBIAUlfY/)
-* [媛姐美景](https://v.douyin.com/q1xSNYyXIsM/)
+
+---
+* **[媛姐美景](https://v.douyin.com/q1xSNYyXIsM/)**
   - [林中小屋](https://v.douyin.com/I4yKGk3KlR8/)
 
 ---
@@ -106,6 +145,13 @@
   - [AI古装美女](https://v.douyin.com/tZQrFdT2b0I/)
 
 ---
+* **[老羊科学探索](https://v.douyin.com/UVOAaQXZ4hs/)**
+  - [在梦里，你永远无法看清时钟上的数字，你也永远读不了一段完整的文字。做梦时低头看看手机，你会发现屏幕上的字在不断扭曲。这是大脑故意设下的屏障。它似乎在阻止你意识到，你正身处一个虚假的世界。它到底在隐瞒什么？| 梦境 | 宇宙 | 知识前沿派对 | 配上这个bgm | 日出云海](https://v.douyin.com/7clynt_unPc/)
+  - [如果你的人生会无限重复，你最想改变什么？| 庞加莱回归 | 天文 | 宇宙 | 知识前沿派对](https://v.douyin.com/xip0FJm6VAg/)
+  - [时间存在吗？ 过去、现在、未来，可能正在同时发生。| 时间 | 宇宙 | 天文 | 太空](https://v.douyin.com/zFFRCwRWNCg/)
+  - [你不仅仅是地球的孩子，你是整个宇宙的奇迹。而这颗蓝色星球，用46亿年的时间告诉我们一个道理：生命，从来不是脆弱的存在，它是宇宙中最倔强的力量。地球是如何诞生的？地球的秘密 | 宇宙 | 天文 | 太空](https://v.douyin.com/AQ2Zjuv2JQ8/)
+
+---
 * **[我为黑夜狂](https://v.douyin.com/8AZm4AVUsJM/)**
   - [赛博国风写真](https://v.douyin.com/blplhlvRwfw/)
 
@@ -116,6 +162,11 @@
 ---
 * **[𝘼𝙞𝙨𝙢𝙧](https://v.douyin.com/V1qQyuJdlN8/)**
   - [ASMR LOOP:面粉狂想](https://v.douyin.com/k3OkZ4Tgb6U/)
+
+---
+* **[Mr.李 | 向往🆕星辰❤️大海🌊 希望遇见的皆是美好](https://v.douyin.com/-28sNjfWBOQ/)**
+  - [绝美到窒息的落日超治愈的！！！ 浮云游子意，落日故人情。落日余晖映晚霞一抹夕阳美如画 | 落日 | 夕阳西下落日余晖| 超能下蛋鸭 | 我的旅行日记](https://v.douyin.com/8OJzmcfnjUA/)
+  - [海边的日出 | 创作者中心 | 创作灵感 | 大海日出 | 日出](https://v.douyin.com/hKcqAPkVDV0/)
 
 ---
 * **[古调今吟 |  用AI把语文课本内容变成影像，让记忆再次鲜活](https://v.douyin.com/0oB3JKSEMXY/)**
@@ -129,6 +180,10 @@
 * **[墨林深读 | 用深度阅读开启思维新篇。](https://v.douyin.com/FSDxaiDz0EI/)**
   - [十分钟读一本好书今天分享的是《嫁妆》| 读书 | 阅读 | 短篇小说 | 契诃夫 | 阅读是一种习惯](https://v.douyin.com/MPymR8RvXHg/)
   - [十分钟读一本好书今天分享的是史铁生《我与地坛》| 读书 | 中学生 | 必读书籍 | 史铁生 | 阅读  ](https://v.douyin.com/bOAGUCptSYA/)
+
+---
+* **[哈基乱剪 | 整一些好玩的新三国二创~ 望能带给你更多的快乐](https://v.douyin.com/pDw538G72TY/)**
+  - [乱剪三国-刘备化身一拳超人，突袭许昌，曹操被偷家！ 新三国 | 刘备 | 诸葛亮 | 曹操 | 魔改剪辑 ](https://v.douyin.com/ywBSD45PAxU/)
 
 ---
 * **[𝘾𝙮𝙗𝙤𝙧𝙜𝟯 | 神仙？ 妖怪？ 谢谢](https://v.douyin.com/VKYveIUAulY/)**
@@ -146,6 +201,10 @@
   - [「凡人修仙传」— 温天仁战力 「温天仁作战体系，军事简介。」 | 二次元 | 动漫解说 | 国漫 | 凡人修仙传](https://v.douyin.com/QqO-G60aZgY/)
 
 ---
+* **[落雨无声 | 日常分享自己的AI绘画壁纸和动画](https://v.douyin.com/UWzyZE-QP8U/)**
+  - [水墨思君-慕沛灵 凡人修仙传动态壁纸 | 凡人修仙传 | 慕沛灵 | 水墨 | 4k60帧 | 动态壁纸](https://v.douyin.com/Y-rmbEfBChs/)
+
+---
 * **[田甜 | 很高兴与大家相遇，感谢官方平台 作品全部是AI，不是真人](https://v.douyin.com/yJ4LXmtxrzE/)**
   - [圣诞的红是草莓味的甜，雪落进软绒绒的暖里，连空气都裹着铃铛轻响的温柔。 | 红色 | 冬日甜系穿搭 | 甜美女孩 | AI圣诞氛围感写真 | 抖音AI创作](https://v.douyin.com/cNUB-3nKNOQ/)
 
@@ -157,6 +216,11 @@
 ---
 * **[宋可为](https://v.douyin.com/JbkKjcLyeBI/)**
   - [我的叔叔于勒](https://v.douyin.com/JE-RwyEzZPQ/)
+
+---
+* **[𝒥𝓊𝒹𝑒 | Midjourney创作](https://v.douyin.com/crxb-owdcws/)**
+  - [我重临世界之日，诸逆臣皆当死去. | midjourney | 龙族 | ai | 异世界 | mj](https://v.douyin.com/Vji-OFnBRjM/)
+  - [哥特窗棂漫着雨，裙裾浸着雾的余韵.  | midjourney  | 唯美  | ai  | 哥特风  | mj](https://v.douyin.com/0_OqCrzsSaM/)
 
 ---
 * **[还看今朝AI](https://v.douyin.com/Et7TNCBzPKY/)**
@@ -350,27 +414,28 @@
 ---
 * **[虚妄 | AIGC 探索。风格不定。](https://v.douyin.com/Bk_h29FDK8M/)**
   - [师兄们，这次喝奶茶不！| ai | 小师妹 | 古装 | 氛围感](https://v.douyin.com/yRv2L4vDZEA/)
+  - [我路过这琼楼玉宇，如惊鸿一瞥，不问归期。| 中式意境 | 建筑美学 | 氛围感](https://v.douyin.com/Ak2MOtLeuTA/)
 
 ---
-##|007. 数字人实时语音交互
+### 007. 数字人实时语音交互
 * [VideoChat](https://github.com/Henry-23/VideoChat)
 
 ---
-##|008. AI·Canvas
+### 008. AI·Canvas
 * [Animated Drawings](https://sketch.metademolab.com/canvas)
 * [index-tts2](https://index-tts.github.io/index-tts2.github.io/)
   - [index-tts](https://github.com/index-tts/index-tts)
 
 ---
-##|009. 在线编码
+### 009. 在线编码
 * [Qwen2.5-Coder-Artifacts](https://huggingface.co/spaces/Qwen/Qwen2.5-Coder-Artifacts)
 
 ---
-##|010. AI开源方案库
+### 010. AI开源方案库
 * [aigclink- AI开源方案库-传递最新AI应用落地解决方案](https://d.aigclink.ai)
 
 ---
-##|011. 同义千问
+### 011. 同义千问
 * [同义官网](https://tongyi.aliyun.com)
 * [Qwen2.5-Coder](https://v.douyin.com/CeiJS3qnN/）
   - 性能达到GPT-4o的编程模型 Qwen2.5-Coder：阿里通义千问开源性能达到GPT-4o的编程专用模型，具备artifact能力、以及结合cursor使用qwen2.5-coderai编程模型
@@ -385,12 +450,12 @@
 * [AIGCLINK](https://www.youtube.com/@AIGCLINK)
 
 ---
-##|012. Comfyui
+### 012. Comfyui
 * [Comfy-Org](https://github.com/Comfy-Org/desktop)
 * [优设-comfyui](https://www.uisdc.com/comfyui-v1)
 
 ---
-##|013. Hunyuan video
+### 013. Hunyuan video
 * [Hunyuan video]6.64 Qxf:/ 10/14 H@v.fB 最强国产AI视频模型！完全免费开源，电影级画质，本地部署使用 视频模型下载：bittly.cc/yuan  https://v.douyin.com/CeiJFoUCT/ 复制此链接，打开Dou音搜索，直接观看视频！
 * [tencent-HunyuanVideo](https://github.com/tencent/HunyuanVideo)
 * [Windsurf-IDE]
@@ -402,7 +467,7 @@
 * [网飞十大烧钱剧集排行榜](https://v.douyin.com/CeiJ25eJd/)
 
 ---
-##|014. AI工具箱
+### 014. AI工具箱
 * [AI工具箱导航](https://promptchoose.com/)
 * [5个好用的Github开源PDF阅读器推荐](https://promptchoose.com/ai-tools/github-open-source-pdf-reader/)
   - [koodo-reader](https://github.com/koodo-reader/koodo-reader)
@@ -412,17 +477,17 @@
   - [readthedocs](https://about.readthedocs.com/)
 
 ---
-##|015. AI TTS
+### 015. AI TTS
 * [AICodeKing](https://www.youtube.com/watch?v=OyrS-lX_sLk)
 * [Minimax.io](https://minimax.io/audio)
 
 ---
-##|016. Humva AI
+### 016. Humva AI
 * [Create Realistic AI Avatar Videos with Humva](https://www.youtube.com/watch?v=Yts9ZuwXNMQ)
 * [Discover Humva AI: Where Cutting-Edge Technology Meets Avatar Creation](https://www.youtube.com/watch?v=sF_E9r0JeMQ)
 
 ---
-##|017. 原神·AI
+### 017. 原神·AI
 * [tools.miku.ac](https://tools.miku.ac/anime_tts/)
 * [TTS-Online](https://acgn.ttson.cn/)
 * [hoyoTTS](https://modelscope.cn/studios/Genius-Society/hoyoTTS)
@@ -433,23 +498,23 @@
   - [雷电将军：你？要与我为敌吗？](https://v.douyin.com/PWi9EHiHDgw/)
 
 ---
-##|018. 原神·ChatTTS
+### 018. 原神·ChatTTS
 * [派蒙语音合成工具](https://colab.research.google.com/drive/1nYUnKTj1pwYhQQASsVWoqJtVIaAyb0RD?usp=sharing)
 * [VITS-fast-fine-tuning](https://github.com/Plachtaa/VITS-fast-fine-tuning)
 * [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)
 
 ---
-##|019. 导航
+### 019. 导航
 * [简约导航](https://www.jianavi.com/)
 
 ---
-##|020. AI
+### 020. AI
 * [海螺ai](https://hailuoai.video/)
 * [styleai](https://styleai.art/zh)
 * [AI小宝](https://v.douyin.com/wx_nR-9NhnQ/)
 
 ---
-##|021. AI·Vtuber
+### 021. AI·Vtuber
 * [黑焱](https://www.youtube.com/watch?v=QQieOmN4IHY)
 * [花儿不哭-B站](https://space.bilibili.com/5760446?spm_id_from=333.999.0.0)
 * [AI VTuber-制作](https://www.youtube.com/watch?v=QQI2UyFlk8c&list=PLji6-Hn_9g_WbjWjeR6rGKk_HeGd3xz1c)
@@ -459,40 +524,40 @@
 * [bilibili·林亦LYi](space.bilibili.com/4401694)
 
 ---
-##|022. Neuro-sama
+### 022. Neuro-sama
 * [Neuro-sama](https://www.youtube.com/channel/UCLHmLrj4pHHg3-iBJn_CqxA)
 
 ---
-##|023. AI素材网
+### 023. AI素材网
 * [克隆工具](https://www.youtube.com/watch?v=5PRX3HM47Ew)
 * [小林素材网](https://xhlmr.cn/index?promo=KJLHM2)
 * [声音克隆工具](https://feng800.blogspot.com/2024/10/1fireredttsaitts.html)
 * [峰哥探世界](https://feng800.blogspot.com/)
 
 ---
-##|024. miHoYo·AI·Game
+### 024. miHoYo·AI·Game
 * [anuttacon](https://wfts.anuttacon.com/)
 
 ---
-##|025. AIGC 应用平台
+### 025. AIGC 应用平台
 * [Cephalon Cloud端脑云](https://cephalon.cloud/aigc#/share/register-landing?id=xDnmPN)
 
 ---
-##|026. ChatTTS
+### 026. ChatTTS
 * [YubAI-鱼摆摆](https://www.youtube.com/watch?v=D1HJ7KJrO7M)
   - [Chat-TTS-Quark](https://pan.quark.cn/s/f8d42e136e1b#/list/share)
 * [YubAI-鱼摆摆](https://www.youtube.com/@yubaibai2023/videos)
 * [ChatTTS](https://chattts.in/playground)
 
 ---
-##|027. AI·动漫二创
+### 027. AI·动漫二创
 
 ---
 * **[幻窥心渊](https://v.douyin.com/74rcO1tOG3Q/)**
   - **[宗祠剑影里的凡人风骨 韩瑞：记吾家叔祖韩立公](https://v.douyin.com/AROBdwgpepM/)**
 
 ---
-##|028. AI启示录
+### 028. AI启示录
 
 ---
 * **[杨竹筠](https://v.douyin.com/ZGMIbRrkJHQ/)**

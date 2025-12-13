@@ -26,6 +26,10 @@
   - [三兆美元AI狂潮下的隱憂，多數投資人恐怕血本無歸，甚至衝擊美國經濟](https://www.youtube.com/watch?v=h-gyWgxJ-7w)
 
 ---
+* **[华语纪实大咖说](https://www.youtube.com/@Hot-ChinaDocumentary)**
+  - [《芳華》解說爆紅後瞬間下架！文革都只是冰山一角？](https://www.youtube.com/watch?v=MfEe_koaUyM)
+
+---
 * **[TVB (official) | youtube](https://www.youtube.com/@TVB)**
 
 ---
@@ -67,10 +71,15 @@
   - [射雕英雄传 | 神雕侠侣| 天龙八部 老版](https://www.youtube.com/watch?v=aOXXW1KCnOU&list=PL9K8ksI6u303WctTcb19ja24jPQD2nWWB)
 
 ---
+* **[酷看青春剧场](https://www.youtube.com/@kukandramaromance)**
+  - [大生意人](https://www.youtube.com/watch?v=AoZg9sdMTX8&list=PLkMtr4Yvj1xKKAVaLbCr3m6o8R098z7dD&index=1)
+
+---
 ### 003. 娱乐节目
 * **[CCTV春晚](https://www.youtube.com/@CCTVGala)**
   - [2025年中央广播电视总台中秋晚会 2025 Mid-Autumn Festival Gala | CCTV春晚](https://www.youtube.com/watch?v=WF8LhUhyJDw)
 
+---
 ### 004. 纪录片
 * **[芒果TV纪录片 MangoTV EDU](https://www.youtube.com/@MangoTVEDU)**
   - [《中国》第一季合集：从春秋到盛唐 再现中国历史上"群星"闪耀时刻 展现悠悠千年古国的精神图腾](https://www.youtube.com/watch?v=K4YI0TwiSxM)

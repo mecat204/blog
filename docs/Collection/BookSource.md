@@ -632,6 +632,7 @@
 ---
 * **[写诗给风](https://v.douyin.com/hnUdJB6sy4c/)**
   - [秋季宅家写字喝茶～  | 喝茶  | 书房 | 独处是一个人的清欢](https://v.douyin.com/Ba7HSEYzrdk/)
+  - [冬日茶书房。| 生活美学 | 菊花 | 书房](https://v.douyin.com/A2tu-jzsxko/)
 
 ---
 * **[百家讲坛](https://v.douyin.com/3XRDucpBstE/)**

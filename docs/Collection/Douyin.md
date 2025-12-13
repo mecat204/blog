@@ -181,6 +181,8 @@
   - [主机玩家·地平线](https://v.douyin.com/LVQsEZaeFN4/)
 * 小软iris
   - [刺客信条](https://v.douyin.com/FFLufX40Fzw/)
+
+---
 * **[芊芊老猫的日常](https://v.douyin.com/JmtnP46wKIc/)**
   - [领克90](https://v.douyin.com/RvRbq7pvCE4/)
   - [日常](https://v.douyin.com/i5ryaPoV/)
@@ -265,6 +267,10 @@
   ---
   * **[陕西大婷婷](https://v.douyin.com/d9ZurjObcLo/)**
     - [烩麻食](https://v.douyin.com/pcXxW_Iogg8/)
+
+  ---
+  * **[大昭 | 1985年的牛： 大昭：爱吃然面：在闲余时间：给大家分享特色面](https://v.douyin.com/zmVkw3Sb8zs/)**
+    - [纯手工洋柿柿鸡蛋面，香的很，陕西关中人爱碟面，撩咋咧](https://v.douyin.com/03BjqScrFMk/)
 
   ---
   * **[Shay](https://v.douyin.com/XKxkaG_j-Jc/)**
