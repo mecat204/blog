@@ -8,8 +8,9 @@
 * **[李子柒 | 李家有女，人称子柒。| douyin](https://v.douyin.com/UzDy7CInEV4/)**
 
 ---
-* **[江寻千JiangXunqian (九月)| youtube](https://www.youtube.com/@JiangXunqian9/featured)**
-* **[江寻千 (九月)| 莫听穿林打叶声 何妨吟啸且徐行 | douyin](https://v.douyin.com/S2ENUvEPBJQ/)**
+* **[江寻千_九月) | youtube](https://www.youtube.com/@JYjiuyue)**
+  - [曾经最极致的浪漫，千年绝技——打铁花。](https://www.youtube.com/watch?v=HiJiAcwe9pk)
+* **[江寻千 (九月) | 莫听穿林打叶声 何妨吟啸且徐行 | douyin](https://v.douyin.com/S2ENUvEPBJQ/)**
   - [三书六聘十里红妆，带你去看一场真正的中式婚礼. 传世婚服 | 拼酷十里红妆| 拼酷大花轿 濮院时尚古镇 中式婚礼主持人张博](https://v.douyin.com/9NqrnTRJdpk/)
   - [耗时1年零4个月，我用云锦做了一件传世婚服。 | 滴露衣物消毒液 | 传世婚服 | 云锦](https://v.douyin.com/ZZx-30rhdw8/)
 
