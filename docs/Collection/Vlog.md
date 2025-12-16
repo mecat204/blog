@@ -61,6 +61,11 @@
   - How to Speak English Fluently？ Do you want to speak English fluently? Do you feel nervous when you try to speak? In this video, we will help you! We will teach you step by step, in very easy English. You will learn how to speak clearly, how to practice every day, and how to stop being afraid.
 
 ---
+* **[Links TV | youtube](https://www.youtube.com/@linksphotograph)**
+  - [大西洋上只有300人的孤岛，却藏着地球最震撼的火山奇观松下！亚速尔群岛｜松下S1R2 ｜Linksphotograph](https://www.youtube.com/watch?v=1kCOblyiuxY)
+* **[Linksphotograph](https://space.bilibili.com/3816626)**
+
+---
 ### 002. Chinese Vlog
 * **[山肆十四 | 会一直折腾  谢谢观看 ](https://v.douyin.com/xu9aAeeaEoY/)**
   - [大部分时候我们的不快乐，不是因为得不到，而是拥有的太多。| **旅行vlog** | **交换世界计划** | **做拓路者越万重山**](https://v.douyin.com/kSotN4KDXNM/)
