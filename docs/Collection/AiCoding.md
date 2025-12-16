@@ -205,6 +205,10 @@
   - [水墨思君-慕沛灵 凡人修仙传动态壁纸 | 凡人修仙传 | 慕沛灵 | 水墨 | 4k60帧 | 动态壁纸](https://v.douyin.com/Y-rmbEfBChs/)
 
 ---
+* **[尘风AI | 《智行无界》 尘寰万象掌中轻, 万佛千门屏上鸣。A爱智纳无涯海，I智穿云悦众生。AI很单纯，复杂的是人。](https://v.douyin.com/ZE-LqaiwJrw/)**
+  - [奇幻东方美学，小白也能学会，用AI四步三分钟教会你； 东方奇幻怪诞美学，用AI如此简单；喂饭级教程；| AI新星计划 | AI教学 | 东方奇幻美学| 海螺AI | AI创作浪潮计划](https://v.douyin.com/bPb86GPHdZs/)
+
+---
 * **[田甜 | 很高兴与大家相遇，感谢官方平台 作品全部是AI，不是真人](https://v.douyin.com/yJ4LXmtxrzE/)**
   - [圣诞的红是草莓味的甜，雪落进软绒绒的暖里，连空气都裹着铃铛轻响的温柔。 | 红色 | 冬日甜系穿搭 | 甜美女孩 | AI圣诞氛围感写真 | 抖音AI创作](https://v.douyin.com/cNUB-3nKNOQ/)
 
@@ -333,6 +337,7 @@
 ---
 * **[懂AI的初久](https://v.douyin.com/q_gWKVT3aFc/)**
   - [东方志怪步生莲|亿点怪诞美学丝滑一镜到底](https://v.douyin.com/bdZjzxLUj-U/)
+  - [万相莲华|来亿点丝滑一镜到底的非遗美学 | AI动画 | 东方美学 | 非遗 | 唐卡 | AI创作浪潮计划](https://v.douyin.com/vCzL4wcjPwI/)
 
 ---
 * **[十二钗数智女团](https://v.douyin.com/P7uUVYOUvxo/)**

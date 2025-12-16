@@ -3,4 +3,9 @@
   - [小宅夜晚 | 一人一猫一世界](https://v.douyin.com/Y86iVrs7ccw/)
 
 ---
+### Game translate
+* **[7788](https://v.douyin.com/7eLEjLQxLPc/)**
+  - [这英语得学呀 | 实用英语 | 学英语 | 日常英语 | 生活英语 | 趣味英语](https://v.douyin.com/jVZrkl3FobI/)
+
+---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)

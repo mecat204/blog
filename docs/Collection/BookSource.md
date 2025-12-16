@@ -401,10 +401,18 @@
 
 ---
 * **[学习啦在线学习网_免费的技能、特长、知识学习网站_学习.励志.成长!](https://www.xuexila.com/)**
+
+---
 * **[小乐 | 谁是谁的谁](https://v.douyin.com/uZL6LRyNIA4/)**
   - [英语每天一分钟](https://v.douyin.com/rrLGNXEO7fo/)
+
+---
 * **[蜜糖CoCo](https://v.douyin.com/i0UspbotyBs/)**
   - [每日高频英语单词，轻松搞定小学英语 轻松搞定小学英语，每日学习背诵英语单词。](https://v.douyin.com/2Fq1bWOWSwY/)
+
+---
+* **[7788](https://v.douyin.com/7eLEjLQxLPc/)**
+  - [这英语得学呀 | 实用英语 | 学英语 | 日常英语 | 生活英语 | 趣味英语](https://v.douyin.com/jVZrkl3FobI/)
 
 ---
 * **[ABC在路上- 突破英语](https://v.douyin.com/lBdotnqjVYw/)**
