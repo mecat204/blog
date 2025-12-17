@@ -32,6 +32,17 @@
   - [1个习惯带你直接听懂英文，让你英文听力像母语一样强](https://www.youtube.com/watch?v=t-kOwCmtcmA)
   - [用油管足不出户从0自学流利英文！20+个难度分级自学频道推荐！｜GDS 007](https://www.youtube.com/watch?v=0UY0bbE5I1w)
 
+---
+* **[Ariannita la Gringa | youtube](https://www.youtube.com/@ariannitalagringa)**
+  - [Religious Vocabulary in English](https://www.youtube.com/watch?v=Ae8odmRJNu0)
+  - [購物中心英語詞彙](https://www.youtube.com/watch?v=VFe7Ap1kfk0)
+  - [Visiting an International Market](https://www.youtube.com/watch?v=3VP8OZyr87A)
+
+* **[Mark学英语](https://v.douyin.com/Fw8_g1qpMFk/)**
+  - [高频英语缩略词，像母语者一样聊天 Most Common Acronyms In English](https://v.douyin.com/OylLt8yPs-w/)
+  - [【英语易混词】Do vs Make：核心区别一次讲清 | 英语 | 英语口语 | 英语启蒙 | 英语学习 | 英语听力](https://v.douyin.com/THCKuOPQ_NQ/)
+
+---
 * **[Learn English with Jessica | youtube](https://www.youtube.com/channel/UCXtMjo8xJqjEhS4A9KUY8GA)**
 
 ---
