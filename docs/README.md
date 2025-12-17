@@ -71,6 +71,7 @@
   - [AiWebsite](Collection/AiWebsite)
   - [ChatGPT.q&w](Collection/ChatGPT.q&w)
   - [online](Collection/online)
+  - [TranslationVault](Collection/TranslationVault)
   - [Work](Collection/work)
 * **CodeSnippet**
   - [Frontend](CodeSnippet/Frontend)
