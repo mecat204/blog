@@ -1,6 +1,12 @@
 ### 0000 Translation Vault | 翻译库 / 翻译金库
 * **[helloChenLei/clip | 中英文对照](https://github.com/helloChenLei/clip)**
-  - [DemoChen's Clip](https://clip.demochen.com/index.html)
+  - [DemoChen's Clip | DemoChen's 中英文双语文章合集](https://clip.demochen.com/index.html)
+
+---
+* **[bilingual_book_maker | 翻译电子书](https://github.com/yihong0618/bilingual_book_maker)**
+
+---
+* **[PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate)**
 
 ---
 ### 0001. Useful Not True
