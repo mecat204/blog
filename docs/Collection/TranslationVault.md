@@ -1,4 +1,8 @@
 ### 0000 Translation Vault | 翻译库 / 翻译金库
+* **[theowenyoung](https://github.com/theowenyoung/clip)**
+  - [Owen's Clip | 中英文双语文章合集](https://clip.owenyoung.com/)
+
+---
 * **[helloChenLei/clip | 中英文对照](https://github.com/helloChenLei/clip)**
   - [DemoChen's Clip | DemoChen's 中英文双语文章合集](https://clip.demochen.com/index.html)
 
