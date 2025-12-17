@@ -56,6 +56,7 @@
   - [心理学·思想史](Collection/心理学·思想史)
   - [哲学史](Collection/哲学史)
   - [世界树](Collection/世界树)
+  - [催眠](Collection/催眠)
   - [科普](Collection/科普)
   - [健康养生](Collection/健康养生)
   - [道法自然](Collection/道法自然)
