@@ -164,6 +164,8 @@
 ---
 * **[暖风藏腐朽](https://v.douyin.com/FSO6Au4FFok/)**
   - [年狐狸 万年"尸魈"合集 那些凡人修仙传散落人界的绝色仙子 29 | 二次元动漫  | 古风  | 高清壁纸  | 国漫推荐  | 凡人修仙传](https://v.douyin.com/uXbKPgyNqHU/)
+  - [墨彩环。一遇韩立误终身"墨彩环"合集 那些凡人修仙传散落人界的绝色仙子 48 | 二次元  | 高清壁纸  | 古风  | 动漫推荐  | 凡人修仙传](https://v.douyin.com/7NL36oUjh5U/)
+  - [细腻版 "陈巧倩"合集 （不定时更新）那些凡人修仙传散落人界的绝色仙子 | 二次元  | 古风  | 高清壁纸  | 国漫推荐  | 凡人修仙传](https://v.douyin.com/8K7B92rDQLQ/)
 
 ---
 * **[wallspic](https://wallspic.com/)**

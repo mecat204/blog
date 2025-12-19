@@ -347,6 +347,11 @@
 * **[苏淮远 | 昨夜西风凋碧树， 独上高楼，望尽天涯路。](https://v.douyin.com/1fV-l4n0aG4/)**
   - [天气变冷了，要盖好被子！](https://v.douyin.com/CRKGo7XKHH0/)
   - [这…咋啦？ | 凡人修仙传| 元婴大佬 | AI二创视频](https://v.douyin.com/ig8p_50bPFM/)
+  - [今天避雨的时候， 刚好遇到小师傅和小猪也在避雨… | 西游记| 孙悟空| 野猪| AI原创视频](https://v.douyin.com/DLcW8tuYkAk/)
+
+---
+* **[刘羽中Lucien | Hi 羽次元 创意脚本出镜拍摄演绎剪辑特效一体型博主](https://v.douyin.com/c7ql0QiRZa8/)**
+  - ["致我们鱼死网破的胜利！" | 十日终焉 | 二创 # 千问全新wan模型能拍电影大片 | 千问上线AI小剧场玩法](https://v.douyin.com/uIzgHFQuW1E/)
 
 ---
 * **[林扶摇 | 雪中行 仗剑天涯客，独行雪满襟。 江湖千里外，肝胆照冰心。](https://v.douyin.com/YH_Poqzpcrg/)**

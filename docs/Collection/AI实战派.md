@@ -4,6 +4,15 @@
   - [李飞飞公司发布空间智能模型 Marble](https://www.zhihu.com/question/1951602984136963892/answer/1951621902922671825)
 
 ---
+* **[AI达尔文- 吴菲 | From nothing to Something](https://v.douyin.com/N4bagzb1KNo/)**
+  - [在Midjourney中创建一致角色太容易了！ 只需要三步：拖入图片，点击人物图标，输入想要的画面(尺寸，服装，风格等) | 人工智能 | **Midjourney** | ai | 动漫 | 科技](https://v.douyin.com/MgwislIoITI/)
+  - [难度在最后一张，如果连续6个也猜不对，明天告诉你如何分辨出Sora🤭  | 人工智能  | 黑科技  | Sora  | 电影  | 知识](https://v.douyin.com/YNk97ZPOvM4/)
+
+---
+* **[百万钱叔](https://v.douyin.com/lu8-BACTvHY/)**
+  - [普通人用 AI 的五个境界，快来看看你处于哪个段位| ai使用技巧 | AI | 赚钱 | 赚钱思维](https://v.douyin.com/g3VuvUh2p-A/)
+
+---
 ### 002. Youtube
 * **[World Labs](https://www.youtube.com/@WorldLabsAI)**
   - [Introducing Marble by World Labs](https://www.youtube.com/watch?v=UslQB4LUueI)

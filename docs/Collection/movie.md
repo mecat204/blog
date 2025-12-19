@@ -503,4 +503,12 @@
   - [风是自由的，希望你也是.](https://v.douyin.com/-gQod8JFNrQ/)
 
 ---
+* **[君子探案 | 梦开始的地方 接合作/宣发](https://v.douyin.com/Wd5kh0-mCPo/)**
+  - [辐射能穿透他们的身体，却无法穿透他们的意志 | 切尔诺贝利 | 核泄露 | 影视解说 | 抖音精选](https://v.douyin.com/KdomwV-IMJ8/)
+
+---
+* **[Leon | 把生命浪费在美好的事情上](https://v.douyin.com/No_YXRGCBtg/)**
+  - [最后的布尔什维克，每个看不清的脸，背后却都发着光。](https://v.douyin.com/XELmMdbqZMs/)
+
+---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
