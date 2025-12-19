@@ -11,6 +11,7 @@
 ### 002. Movie
 * **movie·优质**
   - **[OWOTUBE影院](https://owotube.com/)**
+  - **[老地方影院](https://www.laodifang.cc/)**
   - **[libvio](https://libvio.mov/)**
   - **[libvio](https://libvio.vip/)**
   - **[netflixgc](https://www.netflixgc.com/)**

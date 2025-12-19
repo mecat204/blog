@@ -34,6 +34,11 @@
   - [2本能让你逆袭人生的英文书，只要高中水平就能读懂！](https://www.youtube.com/watch?v=L2B1NhxfvIw)
 
 ---
+* **[4k Films by Adnan](https://www.youtube.com/@4kfilmsbyadnan)**
+  - [China in 4K - Incredible Scenes & Uncovering Hidden Gems](https://www.youtube.com/watch?v=6yQH9jUqttE)
+  - [Patagonia in 4K - Incredible Scenes & Uncovering Hidden Gems](https://www.youtube.com/watch?v=z8Gw2p2vRr0)
+
+---
 * **[Ariannita la Gringa | youtube](https://www.youtube.com/@ariannitalagringa)**
   - [Religious Vocabulary in English](https://www.youtube.com/watch?v=Ae8odmRJNu0)
   - [購物中心英語詞彙](https://www.youtube.com/watch?v=VFe7Ap1kfk0)

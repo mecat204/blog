@@ -592,6 +592,10 @@
   - [凡人修仙传 | 慕沛灵](https://v.douyin.com/C9J31unAp5w/)
 
 ---
+* **[就叫洋 | 明出地上。君子以自昭明德。](https://v.douyin.com/mIVmPaWmLy4/)**
+  - [发呆 | 落日余晖映晚霞一抹夕阳美如画](https://v.douyin.com/OvLznbaR-bU/)
+
+---
 ### 023. English song
 * **[Us The Duo | 中阶 | 小孩家庭  | music](https://www.youtube.com/@ustheduo/featured)**
   - [Top Hits of 2023 - Us The Duo](https://www.youtube.com/watch?v=sMChO6ex5lw)
