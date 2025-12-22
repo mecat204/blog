@@ -592,8 +592,27 @@
   - [凡人修仙传 | 慕沛灵](https://v.douyin.com/C9J31unAp5w/)
 
 ---
+* **[如果你也喜欢抬头看树。](https://v.douyin.com/WyFeiMcadSw/)**
+
+---
 * **[就叫洋 | 明出地上。君子以自昭明德。](https://v.douyin.com/mIVmPaWmLy4/)**
   - [发呆 | 落日余晖映晚霞一抹夕阳美如画](https://v.douyin.com/OvLznbaR-bU/)
+
+---
+* **[辰辰💕](https://v.douyin.com/nJMsPfOCEUU/)**
+  - [下次录视频前 先梳头…. 莫问归期 | 古风 | 戏腔歌曲 | 戏腔 | 戏曲](https://v.douyin.com/OKb9mLdrBCA/)
+  - [沧海一声哈哈哈哈哈哈 | 翻唱| 戏腔 | 沧海一声笑 | 戏曲 | 歌曲](https://v.douyin.com/6qRsKnBsOFA/)
+
+* **[天空日记 | 呼伦贝尔 |  在这片天空下 ✨ 春夏秋冬，每一天都值得记录](https://v.douyin.com/1R6WatkdbEk/)**
+  - [秋天适合思念，更适合见面，所以我们什么时候见一面 | 我在出片前线 | 这里秋天的树张力拉满了 | 治愈系风景](https://v.douyin.com/7KiHhKVGdO4/)
+  - [夏天会周而复始 相逢的人会再相逢 | 治愈系风景](https://v.douyin.com/yt0Sp5h5Fl8/)
+  - ["我永远爱傍晚轻抚的微风 落日黄昏的晚霞 和此刻的你" | 治愈系风景  | 晚霞](https://v.douyin.com/hULLKXoeCjI/)
+  - [为了这个声音翻遍了相册](https://v.douyin.com/CJfs0QS-jSs/)
+  - [天在将黑未黑时最美 | 治愈系风景 | 蓝调时刻 | 我们的可颂时刻](https://v.douyin.com/3IHqheInIk0/)
+  - [好想和你在这样的氛围里 一起散散步吹吹风 | 治愈系风景 | 我们的可颂时刻](https://v.douyin.com/78ymNxW-qmE/)
+  - [已经开始期待2026年的夏天了 | 治愈系风景 | 夏天 | 我们的可颂时刻](https://v.douyin.com/a_ccL5rXDdQ/)
+  - [我们应该在大自然里一起发呆 | 治愈系风景 | 我们的可颂时刻](https://v.douyin.com/P4L-Gdqp1zM/)
+
 
 ---
 ### 023. English song
@@ -603,6 +622,11 @@
 ---
 * **[The Crosbys| 初中阶段衔接 | 有一个很有意思的小孩口播列表 | music](https://www.youtube.com/@TheCrosbys/videos)**
   - [Ocean Eyes - Billie Eilish (12-year-old Claire Crosby Live Cover)](https://www.youtube.com/watch?v=4cUuxGNY9D4)
+
+---
+### 024. mihayou
+* **[yfan](https://v.douyin.com/MYFMMUh5VFM/)**
+  - [我们会想你的，哥伦比娅…… 原琴玩家 | 哥伦比娅 | 原神月之三 | 青年创作者成长计划](https://v.douyin.com/PohUscXwn9c/)
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
