@@ -268,6 +268,13 @@
 * **[2819 Church](https://www.youtube.com/@2819Church)**
   - [NYE 2022 | All Things New | Matthew 28:18-20 | Philip Anthony Mitchell](https://www.youtube.com/watch?v=7R2fER5N7LI)
 
+---
+### 008. music
+* **[Taylor Swift](https://www.youtube.com/@TaylorSwift/videos)**
+  - [Just 11 days until the final show of The Eras Tour is all yours ](https://www.youtube.com/watch?v=fHjxp-rpUGw)
+  - [Taylor Swift - Father Figure](https://www.youtube.com/watch?v=98SmlWOKuME)
+  - [Taylor Swift - Mine](https://www.youtube.com/watch?v=oxNLRqMJMZk&list=OLAK5uy_n8xJHj0rL3zyol9oYHsVTBHm-L_eY-3gY)
+
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)

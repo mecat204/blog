@@ -311,6 +311,10 @@
   - [repositories | book](https://github.com/orgs/wqc-book/repositories)
 
 ---
+* **[英语大剧场 | 掌握一种语言，就是掌握一种看世界的方式](https://v.douyin.com/Sto8yPpvKCM/)**
+  - [8岁的孩子一夜之间成为亿万富翁 | 短剧 | 原声 | 英语 | 英语没那么难 | 每天学习一点点]()
+
+---
 * **[老虎不在家](https://v.douyin.com/HE5lo22uA6k/)**
   - [我每天睡醒了就去打工](https://v.douyin.com/Ybku8FdfqrE/)
 

@@ -603,6 +603,22 @@
   - [下次录视频前 先梳头…. 莫问归期 | 古风 | 戏腔歌曲 | 戏腔 | 戏曲](https://v.douyin.com/OKb9mLdrBCA/)
   - [沧海一声哈哈哈哈哈哈 | 翻唱| 戏腔 | 沧海一声笑 | 戏曲 | 歌曲](https://v.douyin.com/6qRsKnBsOFA/)
 
+---
+* **[江晚 | 风月不言说，已动人心魄。 ](https://v.douyin.com/amJuryGD-1o/)**
+  - [把你随手拍的照片配上这个音乐 | inmyfeelings  | 树  | 感觉至上  | 氛围感](https://v.douyin.com/7D8qoQX8ph0/)
+  - [枯木逢春的生命力 寻找同样喜欢拍树的人 | 树  | 枯木逢春  | 如果你也喜欢拍树不妨交换一张  | 抬头看树](https://v.douyin.com/BnwEiVkfM80/)
+  - [把你随手拍的照片配上这个音乐 | 树  | inmyfeeling  | 自然  | 感觉至上](https://v.douyin.com/CkFSvGMQX54/)
+  - [春风沉醉吹不展愁眉 | 翻遍相册也要用这个bgm | 抖音玩法合伙人计划 | 不悔 - 小曲儿,HITA](https://v.douyin.com/QmtyAlB1BlY/)
+
+---
+* **[烟晚 | 风景、汉服、绘画的不定期更新](https://v.douyin.com/mUBewNnb4yA/)**
+  - [好久没画了。水彩画 | 水彩秋景| 松坪沟绘画| 川西秋景绘画 画着画着就开始乱搞了，刮刀刮坏了真是不可逆呢，悲伤](https://v.douyin.com/Q4tfueK2DdY/)
+  - [成都雪景氛围。冬日 | 圣诞](https://v.douyin.com/kaUUX6k2htg/)
+  - [相机里的秋天。川西秋景| 秋天落叶🍂 | 风景在路上 | 甲根坝| 新都桥](https://v.douyin.com/_Q_gvOut3SE/)
+  - [松坪沟回忆。松坪沟| 红叶彩林| 川西秋景](https://v.douyin.com/LSqwsxjGt8E/)
+  - [四姑娘山日照金山。| 川西美景 | 日落金山 | 雪山美景 | 幺妹峰](https://v.douyin.com/aS9eTMU0cLM/)
+
+---
 * **[天空日记 | 呼伦贝尔 |  在这片天空下 ✨ 春夏秋冬，每一天都值得记录](https://v.douyin.com/1R6WatkdbEk/)**
   - [秋天适合思念，更适合见面，所以我们什么时候见一面 | 我在出片前线 | 这里秋天的树张力拉满了 | 治愈系风景](https://v.douyin.com/7KiHhKVGdO4/)
   - [夏天会周而复始 相逢的人会再相逢 | 治愈系风景](https://v.douyin.com/yt0Sp5h5Fl8/)
@@ -624,9 +640,14 @@
   - [Ocean Eyes - Billie Eilish (12-year-old Claire Crosby Live Cover)](https://www.youtube.com/watch?v=4cUuxGNY9D4)
 
 ---
-### 024. mihayou
+### 024. miHoYo
 * **[yfan](https://v.douyin.com/MYFMMUh5VFM/)**
   - [我们会想你的，哥伦比娅…… 原琴玩家 | 哥伦比娅 | 原神月之三 | 青年创作者成长计划](https://v.douyin.com/PohUscXwn9c/)
 
+### 025. music
+* **[Taylor Swift](https://www.youtube.com/@TaylorSwift/videos)**
+  - [Just 11 days until the final show of The Eras Tour is all yours ](https://www.youtube.com/watch?v=fHjxp-rpUGw)
+  - [Taylor Swift - Father Figure](https://www.youtube.com/watch?v=98SmlWOKuME)
+  - [Taylor Swift - Mine](https://www.youtube.com/watch?v=oxNLRqMJMZk&list=OLAK5uy_n8xJHj0rL3zyol9oYHsVTBHm-L_eY-3gY)
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
