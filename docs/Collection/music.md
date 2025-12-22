@@ -17,6 +17,7 @@
 
 ---
 * **[银翼杀手2049](https://www.youtube.com/watch?v=d2JZ4AG-u3w)**
+  - [银翼杀手2049](https://pan.quark.cn/s/b1b77b80e3bf#/list/share/20f7eadc1a8d458a9a73f5927853b8c6)
 * **[RelaxingRainSleepMusic](https://www.youtube.com/@RelaxingRainSleepMusic)**
 * **[Celtic Music](https://www.youtube.com/watch?v=F6sIGqNR_hk)**
 * **[Mono-Music1](https://www.youtube.com/@Mono-Music1)**
@@ -137,18 +138,28 @@
 ### 005. tv.music
 * **长歌行**
   - [光的方向-张碧晨](https://www.youtube.com/watch?v=cwdmC6mqO1w)
+
+---
 * **长月烬明**
   - [OST合集](https://www.youtube.com/watch?v=xcFpsXzV6jo)
+
+---
 * **墨雨云间**
   - [芳菲落尽梨花白](https://www.youtube.com/watch?v=QiwvWNMhPb4)
   - [原声带专辑](https://www.youtube.com/watch?v=m7At3pnTb80&t=247s)
   - [一世聪明-崔格子](https://www.youtube.com/watch?v=ty4TTcO-lXw)
   - [当归](https://www.youtube.com/watch?v=Hnyb-PqAiNQ)
+
+---
 * **香蜜沉沉烬如霜**
   - [不染-毛不易](https://www.youtube.com/watch?v=dDV36GmFP20)
   - [左手指月-萨顶顶](https://www.youtube.com/watch?v=AbiMe64zeGM)
+
+---
 * **哪吒**
   - [时光的摇晃-窝窝](https://www.youtube.com/watch?v=iSiu23Jyz4o)
+
+---
 * **长安十二时辰**
   - [清平乐·紫宁](https://www.youtube.com/watch?v=qFbvigJTXLs)
   - [长安十二时辰OST](https://www.youtube.com/watch?v=JH-3KFtOf6s&list=PLGOZmHa7O-aESFChpX-hoPK2KlHhvOKyE)
@@ -159,7 +170,7 @@
 
 ---
 ### 007. genshin impact
-* 一根葱
+* **[一根葱（原神）](https://v.douyin.com/d0bIkN3b7lY/)**
   - [原神交响乐](https://v.douyin.com/bUTuNkg6uI4/)
 
 ---
@@ -644,10 +655,21 @@
 * **[yfan](https://v.douyin.com/MYFMMUh5VFM/)**
   - [我们会想你的，哥伦比娅…… 原琴玩家 | 哥伦比娅 | 原神月之三 | 青年创作者成长计划](https://v.douyin.com/PohUscXwn9c/)
 
+---
 ### 025. music
 * **[Taylor Swift](https://www.youtube.com/@TaylorSwift/videos)**
   - [Just 11 days until the final show of The Eras Tour is all yours ](https://www.youtube.com/watch?v=fHjxp-rpUGw)
   - [Taylor Swift - Father Figure](https://www.youtube.com/watch?v=98SmlWOKuME)
   - [Taylor Swift - Mine](https://www.youtube.com/watch?v=oxNLRqMJMZk&list=OLAK5uy_n8xJHj0rL3zyol9oYHsVTBHm-L_eY-3gY)
+
+---
+* **[Exclusive Sound](https://www.youtube.com/@exclusive-sound)**
+  - [Avril Lavigne x Alan Walker - Learn To Love Again](https://www.youtube.com/watch?v=cv_eyeJn9tc)
+  - [Avril Lavigne x Alan Walker - You Still Live Inside My Heart](https://www.youtube.com/watch?v=YGURpDn6-nc&list=RDYGURpDn6-nc&start_radio=1)
+  - [Avril Lavigne x Alan Walker - I'm Scared To Be Lonely](https://www.youtube.com/watch?v=ihFrxhkOUWM&list=RDihFrxhkOUWM&start_radio=1)
+  - [Avril Lavigne x Alan Walker - You Still Live Inside My Heart](https://www.youtube.com/watch?v=YGURpDn6-nc&list=RDYGURpDn6-nc&start_radio=1)
+
+
+
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
