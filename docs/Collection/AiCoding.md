@@ -404,6 +404,9 @@
   - [君戏臣妻 第一集 持续更新中～ 在古代当一个皇帝有多爽你知道吗？历史 | 穿越 | 睡前小故事](https://v.douyin.com/UWEWtxjgvvI/)
   - [太监恋后 第一集～持续更新 历史 穿越 睡前小故事](https://v.douyin.com/4Lfqt8u6KSI/)
 
+---
+* **[宫廷短剧 | 用AI短剧讲述宫廷密史](https://v.douyin.com/BfCGsPpDmhw/)**
+  - [母亲和儿子，谁先背叛了法兰西？这一集没有好人，只有活到最后的幸存者。 世界历史 | 欧洲历史 | 历史剧 | 宫廷剧 | 中世纪欧洲](https://v.douyin.com/HoGOoo6J3us/)
 
 ---
 * **[Ai灵感主义 | AIGC设计师🧑‍🎨 数字艺术家🎨 灵感做图 全凭想象](https://v.douyin.com/PgENfCxFzBk/)**
