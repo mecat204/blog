@@ -668,8 +668,32 @@
   - [Avril Lavigne x Alan Walker - You Still Live Inside My Heart](https://www.youtube.com/watch?v=YGURpDn6-nc&list=RDYGURpDn6-nc&start_radio=1)
   - [Avril Lavigne x Alan Walker - I'm Scared To Be Lonely](https://www.youtube.com/watch?v=ihFrxhkOUWM&list=RDihFrxhkOUWM&start_radio=1)
   - [Avril Lavigne x Alan Walker - You Still Live Inside My Heart](https://www.youtube.com/watch?v=YGURpDn6-nc&list=RDYGURpDn6-nc&start_radio=1)
+  - [Alan Walker - Where The Love Goes](https://www.youtube.com/watch?v=K8PJucqUJTY)
 
+---
+* **[愛的低語](https://www.youtube.com/@%E6%84%9B%E7%9A%84%E4%BD%8E%E8%AA%9E)**
+  - [R&B抒情歌單｜英文經典對唱歌單｜2小時深夜放鬆音樂｜療癒英文歌｜R&B Classic Love Songs Playlist](https://www.youtube.com/watch?v=pT9McoRtyjc&list=RDpT9McoRtyjc&start_radio=1)
+  - With You Always
+  - Never Let Go
+  - Always You and I
+  - Only Us Tonight
+  - Right Here With You
+  - Closer Than Before
+  - Right Here With You
+  - Sweetest Melody
+  - Forever In Your Eyes
+  - Stay Close to Me
+  - Echoes of Our Love
+  - Stay With Me Tonight
+  - Forever in Your Eyes
+  - Hold Me Closer
+  - Two Hearts, One Beat
+  - Stay Close to Me
+  - Hold Me Through The Night
 
+---
+* **[沉沉沉吟](https://v.douyin.com/CtR8XRHLk0c/)**
+  - [《不凡》变奏无人声版 | 古筝  | 不凡 | 凡人修仙传  | 韩立结婴  | 王铮亮](https://v.douyin.com/c4FuIVMFH6I/)
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
