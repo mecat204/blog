@@ -72,47 +72,67 @@
 
 ---
 ### 003. Youtube&&Book
-* 智慧猫
-  - [智慧猫-Wisdom Cat](https://www.youtube.com/@wisdomcat369/videos)
+* **[智慧猫-Wisdom Cat](https://www.youtube.com/@wisdomcat369/videos)**
   - [《超級思維》心智模型全解析](https://www.youtube.com/watch?v=kX8_uexJGE8)
   - [Ego Is the Enemy](https://www.youtube.com/watch?v=JnNUjFm4new)
-* 猿猿松
-  - [猿猿松](https://www.youtube.com/@%E7%8C%BF%E7%8C%BF%E6%9D%BE)
+
+---
+* **[猿猿松](https://www.youtube.com/@%E7%8C%BF%E7%8C%BF%E6%9D%BE)**
   - [US KG](https://www.youtube.com/watch?v=n3DqoNPKKD4)
-* [明朝那些事](https://www.youtube.com/watch?v=uuMgENVoTcY)
-* 观剧
-  - [剧天下](https://www.youtube.com/@TVWorld001)
+
+---
+* **[明朝那些事](https://www.youtube.com/watch?v=uuMgENVoTcY)**
+
+---
+* **[剧天下](https://www.youtube.com/@TVWorld001)**
   - [叶卡捷琳娜](https://www.youtube.com/watch?v=9nBNax55628)
-  - [爱之蔓延](https://www.youtube.com/watch?v=Vhf5RddV_Go)
-* [迪仔Dizzz](https://www.youtube.com/@dizzz395)
-* [零度解说](https://www.youtube.com/@lingdujieshuo)
-* [威廉说](https://www.youtube.com/@%E5%A8%81%E5%BB%89%E8%AF%B4/videos)
-* [sev7en](https://www.youtube.com/@imrockwall/videos)
-* [技术爬爬虾](https://v.douyin.com/GGudiW2Vtgw/)
+
+---
+* **[光影二三事](https://www.youtube.com/@guangying23shi)**
+ - [爱之蔓延](https://www.youtube.com/watch?v=Vhf5RddV_Go)
+
+---
+* **[迪仔Dizzz](https://www.youtube.com/@dizzz395)**
+
+---
+* **[零度解说](https://www.youtube.com/@lingdujieshuo)**
+
+---
+* **[威廉说](https://www.youtube.com/@%E5%A8%81%E5%BB%89%E8%AF%B4/videos)**
+
+---
+* **[sev7en](https://www.youtube.com/@imrockwall/videos)**
+
+---
+* **[技术爬爬虾](https://v.douyin.com/GGudiW2Vtgw/)**
   - [Follow-抖音介绍](https://www.douyin.com/video/7439690126139198759)
-* [IDM-開封明](https://www.youtube.com/@%E9%96%8B%E5%B0%81%E6%98%8E)
-* [Find Interesting AI](https://www.youtube.com/@architect-felix/videos)
+
+---
+* **[IDM-開封明](https://www.youtube.com/@%E9%96%8B%E5%B0%81%E6%98%8E)**
+
+---
+* **[Find Interesting AI](https://www.youtube.com/@architect-felix/videos)**
   - [OCR技术总结](https://www.youtube.com/watch?v=jeXKlagSazI)
   - [3款最新的免费数字人项目](https://www.youtube.com/watch?v=t25ZM6bo5s4)
-* [大數軟體有限公司](https://www.youtube.com/@Largitdata)
-* [Anil Agrawal](https://www.youtube.com/@AnilAgrawal)
+
+---
+* **[大數軟體有限公司](https://www.youtube.com/@Largitdata)**
+
+---
+* **[Anil Agrawal](https://www.youtube.com/@AnilAgrawal)**
   - [Jogg AI Review](https://www.youtube.com/watch?v=B9rjVXGJfpk)
-* [PAPAYA 電腦教室](https://www.youtube.com/@papayaclass)
+
+---
+* **[PAPAYA 電腦教室](https://www.youtube.com/@papayaclass)**
   - [Suno AI 作曲](https://www.youtube.com/watch?v=TlRUg9lCKYY)
 
 ---
 ### 004. English Learn
-* **[精选优质英语学习资源合集](https://github.com/knowledgefxg/learning-english)**
-* [LexiBridge - 网页阅读辅助英语学习工具](https://github.com/ChanMo/LexiBridge)
-* [BlueSea - 浏览器扩展式英语学习工具](https://github.com/jiangqizheng/BlueSea)
-* [myWords - 自动提取网页生词并记录的学习工具](https://github.com/vito-go/mywords)
-* [Typing Word - 在线背单词软件](https://github.com/zyronon/typing-word)
-  - [typing-word](https://typing-word.ttentau.top)
-
----
 * **[句乐部](https://julebu.co)**
 * [阿崔cxr](https://v.douyin.com/db2HKpQSCl4/)
-* [linguamarina](https://www.youtube.com/@linguamarina)
+
+---
+* **[linguamarina](https://www.youtube.com/@linguamarina)**
 
 ---
 * **[EnglishClass101.com](https://youtube.com/@EnglishClass101)**
@@ -124,40 +144,74 @@
 * **[KT英语](https://v.douyin.com/u6Yboc0hzMY/)**
   - Knowledge Transfer 开启记录，见证成长 拿捏心态不悔未来 告别emo 奋斗最青春
   - [Beginner-120、学习停止翻译](https://v.douyin.com/FC480Y4AbGY/)
-* [grammarly](https://www.grammarly.com/)
-* [ETJ English](https://www.youtube.com/@etjenglish)
-* [EnglishwithLucy](https://www.youtube.com/@EnglishwithLucy)
-* [EnglishwithEmma](https://www.youtube.com/@EnglishwithEmma)
-* [etymonline](https://www.etymonline.com/)
-* [WordPowerMadeEasy](https://github.com/hanxiaomax/WordPowerMadeEasy)
-  - [WordPowerMadeEasy](https://hanxiaomax.github.io/WordPowerMadeEasy/)
-* [Qwerty Learnner](https://qwerty.liumingye.cn)
-* [typing-word](https://github.com/zyronon/typing-word)
-* [早晨英语](https://v.douyin.com/IjE1oR_vlqY/)
+
+---
+* **[grammarly](https://www.grammarly.com/)**
+
+---
+* **[ETJ English](https://www.youtube.com/@etjenglish)**
+
+---
+* **[EnglishwithLucy](https://www.youtube.com/@EnglishwithLucy)**
+
+---
+* **[EnglishwithEmma](https://www.youtube.com/@EnglishwithEmma)**
+
+---
+* **[etymonline](https://www.etymonline.com/)**
+
+---
+* **[早晨英语](https://v.douyin.com/IjE1oR_vlqY/)**
   - [慢速英语](https://v.douyin.com/xidQU-uA1fw/)
-* [茵茵老师](https://v.douyin.com/APnunC4tVXM/)
+
+---
+* **[茵茵老师](https://v.douyin.com/APnunC4tVXM/)**
   - [励志英语](https://v.douyin.com/FS3sz0uAsbs/)
-* [wordsfunny](https://wordsfunny.com/PEPXiaoXue5_2/words)
+
+---
+* **[wordsfunny](https://wordsfunny.com/PEPXiaoXue5_2/words)**
   - [remix-words-funny](https://github.com/SteveSuv/remix-words-funny)
-* [口语侠–Morgan教雅思](https://v.douyin.com/8yNeQLjVlPs/)
+
+---
+* **[口语侠–Morgan教雅思](https://v.douyin.com/8yNeQLjVlPs/)**
   - [口语练习](https://v.douyin.com/8NHv93dqy7w/)
-* [Mia英语精读自动化工具屋](https://v.douyin.com/IsPU3JHbfgE/)
+
+---
+* **[Mia英语精读自动化工具屋](https://v.douyin.com/IsPU3JHbfgE/)**
   - [世界新闻](https://v.douyin.com/fXTP_0hFVW8/)
-* [Cleo的小世界](https://v.douyin.com/62TEDPrsx9k/)
+
+---
+* **[Cleo的小世界](https://v.douyin.com/62TEDPrsx9k/)**
   - [Cleo讲科普-拿破仑真的很矮吗](https://v.douyin.com/OG1c7jv26RQ/)
-* [LearnAndRecord](https://v.douyin.com/cytyFEYt_E0/)
+
+---
+* **[LearnAndRecord](https://v.douyin.com/cytyFEYt_E0/)**
   - [第三十二集|A1 英语听力练习 用英语思考](https://v.douyin.com/4lsQ08Voybw/)
-* [英语小说](https://yingyuxiaoshuo.com/)
-* [超能英语听力](https://v.douyin.com/lX4sHA_1d7Q/)
+
+---
+* **[英语小说](https://yingyuxiaoshuo.com/)**
+
+---
+* **[超能英语听力](https://v.douyin.com/lX4sHA_1d7Q/)**
   - [生活英语](https://v.douyin.com/Z_iHRNFp-XI/)
-* [keke](https://kekenet.com)
-* [轻松场景英语](https://v.douyin.com/6h1G6rk_EUQ/)
+
+---
+* **[keke](https://kekenet.com)**
+
+---
+* **[轻松场景英语](https://v.douyin.com/6h1G6rk_EUQ/)**
   - [关于家庭|每日英语](https://v.douyin.com/MpGNreYwAQg/)
-* [英文分享](https://v.douyin.com/7-G0O3pffJE/)
+
+---
+* **[英文分享](https://v.douyin.com/7-G0O3pffJE/)**
   - [生活会眷孤勇者，也会压倒犹豫不决的人。](https://v.douyin.com/kwfk-79Ern4/)
-* [英文学习](https://v.douyin.com/vBJ3ikPtYcw/)
+
+---
+* **[英文学习](https://v.douyin.com/vBJ3ikPtYcw/)**
   - [每天进步一点](https://v.douyin.com/spLFlpZjC2o/)
-* [周六English](https://v.douyin.com/-t1NofrWDHU/)
+
+---
+* **[周六English](https://v.douyin.com/-t1NofrWDHU/)**
   - [美国母亲节的历史](https://v.douyin.com/8oQWIVf230o/)
 
 ---
@@ -165,6 +219,7 @@
 * **[TED精选演讲](https://v.douyin.com/QNPfTBHhKhU/)**
 * **[TED今日演讲 | 每日更新全球演讲，学习英语，聆听思想](https://v.douyin.com/TTu5BG_zzbE/)**
   - [泰勒纽约大学演讲：现在开始你要靠自己了](https://v.douyin.com/o0jHjUE0uLc/)
+
 ---
 * **[TED 视频精选](https://v.douyin.com/ww6tnRMHqKM/)**
   - [6个科学学习法](https://v.douyin.com/fVrslOuU-lQ/)
@@ -174,7 +229,9 @@
   - 洗澡学习法（灵感爆发期）
   - 虚假deadline技巧（逼出极限专注力）
   - 3遍循环记忆（永久刻进大脑）
-* [快听听力](https://v.douyin.com/06UXFkAWso0/)
+
+---
+* **[快听听力](https://v.douyin.com/06UXFkAWso0/)**
   - [考试神器](https://v.douyin.com/wHfY52mXcJU/)
 
 ---
@@ -184,22 +241,42 @@
 ---
 * **[开源雅思](https://www.ieltsday.com/)**
   - [雅思词汇真经.pdf](https://drive.google.com/drive/folders/1TzLOdRB6AnEylq8nTxUp1r6lNTeQ3fhb)
+
+---
 * [FreeMdict Foru- 自由 无门槛 免费](https://forum.freemdict.com/t/topic/9657)
 
 ---
 * **[FreeMdict Forum](https://forum.freemdict.com/)**
-* [牛津高阶、韦氏高阶和剑桥在线完美版](https://forum.freemdict.com/t/topic/25795/1)
-* [downloads.freemdict](https://downloads.freemdict.com/Recommend/)
-* [英语学习资源导航](https://en.knowledgefxg.com/)
-* [BigShot英语](https://v.douyin.com/6Oo1jTjwdM0/)
-* [ElenaLin_青青](https://www.youtube.com/@ElenaLin)
-* [英语能力突破_100个句子记完7000个雅思单词](https://www.youtube.com/watch?v=lob44iOFNYE&list=PLH8j2mKj10K1G7XjDvaG2hMXwNv36CioN)
-* [熊熊英语](https://www.youtube.com/@OneHourListen/videos)
-* [Felix英语](https://v.douyin.com/LuaEhzr_HZc/)
-* [甜甜教英语](https://v.douyin.com/mpd3SzfNxI4/)
-* [薛麦Max](https://v.douyin.com/B17fqLy_u_0/)
-* [钱继東](https://v.douyin.com/l2iXNfLhvdg/)
-* [Steve Kaufmann](https://v.douyin.com/TxLEBUqeOUw/)
+  - [牛津高阶、韦氏高阶和剑桥在线完美版](https://forum.freemdict.com/t/topic/25795/1)
+  - [downloads.freemdict](https://downloads.freemdict.com/Recommend/)
+  - [英语学习资源导航](https://en.knowledgefxg.com/)
+
+---
+* **[ElenaLin_青青](https://www.youtube.com/@ElenaLin)**
+
+---
+* **[英语能力突破_100个句子记完7000个雅思单词](https://www.youtube.com/watch?v=lob44iOFNYE&list=PLH8j2mKj10K1G7XjDvaG2hMXwNv36CioN)**
+
+---
+* **[BigShot英语](https://v.douyin.com/6Oo1jTjwdM0/)**
+
+---
+* **[熊熊英语](https://www.youtube.com/@OneHourListen/videos)**
+
+---
+* **[Felix英语](https://v.douyin.com/LuaEhzr_HZc/)**
+
+---
+* **[甜甜教英语](https://v.douyin.com/mpd3SzfNxI4/)**
+
+---
+* **[薛麦Max](https://v.douyin.com/B17fqLy_u_0/)**
+
+---
+* **[钱继東](https://v.douyin.com/l2iXNfLhvdg/)**
+
+---
+* **[Steve Kaufmann](https://v.douyin.com/TxLEBUqeOUw/)**
   - [跨过心理障碍](https://v.douyin.com/MBMVC1WAaBI/)
   - 学语言害怕开口？这招帮你轻松跨过心理障碍 很多人把说错一句话看得太严重，结果越想避免错误，心理负担就越重。反而，那些敢于多听、多读、多试的学习者，更快突破了心理障碍。 这也印证了心理语言学里的一个理论： 📖 Affective Filter Hypothesis（情感过滤假说） —— 当我们焦虑、紧张时，大脑对语言的吸收效率会下降；而在放松、愉快的状态下，我们更容易习得语言。
 
@@ -213,17 +290,28 @@
     - 🔹 催产素：改善社恐、孤独感，提升安全感与自信
     - 🔹 血清素：肠道健康直接影响情绪，简单饮食调理告别焦虑
     - 🔹 内啡肽：用"适度挑战"激活天然止痛剂，获得平静愉悦 我将此书与我十余年的生活习惯集合，分享具体可操作的"高能量体质"养成方案。从今天开始，让专注力和好状态成为自然而然的事！
-* [TypeWords](https://github.com/zyronon/TypeWords)
+
+---
+* **[TypeWords](https://github.com/zyronon/TypeWords)**
   - [2study](https://2study.top/)
-* [wordforest](https://www.wordforest.cn/books)
-* [北美外教一对一口语](https://v.douyin.com/5gy921EoPv0/)
+
+---
+* **[wordforest](https://www.wordforest.cn/books)**
+
+---
+* **[北美外教一对一口语](https://v.douyin.com/5gy921EoPv0/)**
+
+---
 * **[来点思考 | Dan Koe](https://v.douyin.com/OkNpJEuLTEg/)**
   - [AI加速学习](https://v.douyin.com/dJUjAceOkEg/)
   - 你还在慢慢学吗？用AI加速学习，10倍提高效率！  dankoe来点思考 AI  学习效率
   - [两周就能学会任何技能，为什么你这么慢？](https://v.douyin.com/uYLph2ZzDRA/)
+
+---
 * **[dankoe](https://v.douyin.com/tN4bvreV5vE/)**
   - [如何让人生进步十倍（完整指南） How To Make Progress 10X Faster In Life (Full Guide)](https://v.douyin.com/XyQq7MkQ4hI/)
 
+---
 * **[跟着雅思考官即刻说](https://v.douyin.com/gdn4JbcfBfU/)**
   - [雅思学习顺序](https://v.douyin.com/HXvsXOVgrN4/)
   - 雅思学习顺序很重要！ 千万别搞反顺序了。实际上，雅思备考只要摸准学习节奏，过程就会思路清晰、难度降低。靠谱的备考方法从无捷径可言，都是往届考生总结的实用经验，但大家也能依据自身基础灵活调整。
@@ -240,10 +328,16 @@
       - 《会让你在 IELTS 作业与口语考试中更像一个 native speaker》：考前可借助该书积累地道的英式短语、句型及表达方式。
       - 《十天突破雅思口语》：全书地道母语撰写，共13章，内容贴近生活，还教我们如何应对考试，自我介绍，阐述话题时怎么表达最自然
       - 《雅思口语题库》：重要性无需多言，题库中的所有题目及对应答案，至少需完整练习两遍。 . 此外，所有推荐书籍均已整理完毕，可导入手机或 iPad 中随时学习。实际上，雅思备考只要摸准学习节奏，过程就会思路清晰、难度降低。靠谱的备考方法从无捷径可言，都是往届考生总结的实用经验，但大家也能依据自身基础灵活调整。
-* [每天一起练英语](https://v.douyin.com/J5uD5aVF3n4/)
-* [Leah的小日记](https://v.douyin.com/zLRSwv2ARHc/)
+
+---
+* **[每天一起练英语](https://v.douyin.com/J5uD5aVF3n4/)**
+
+---
+* **[Leah的小日记](https://v.douyin.com/zLRSwv2ARHc/)**
   - [全英vlog｜跟着我的vlog学点英语吧](https://v.douyin.com/TPiSv2S-qXQ/)
-* [LingQInChina](https://v.douyin.com/jWFu-jYRcm0/)
+
+---
+* **[LingQInChina](https://v.douyin.com/jWFu-jYRcm0/)**
 
 ---
 * **[高高Lindsey](https://v.douyin.com/Km65NtSiWqA/)**
