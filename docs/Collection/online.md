@@ -94,4 +94,8 @@
   - [《中国第二季 China S2》 第1集：惊变——跟随诗仙李白与诗圣杜甫 感受巍巍大唐的飞扬与沉潜](https://www.youtube.com/watch?v=-ybZh9RMUEw&list=PLUM8x224JrX-EF3FLZ8_7YsKO2mviA_1P)
 
 ---
+### 005. voachinese
+* **[原声带·严歌苓：出走半生，我的觉醒与幻灭](https://www.youtube.com/watch?v=QqrjsAbFekk)**
+
+---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
