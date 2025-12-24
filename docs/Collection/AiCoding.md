@@ -194,6 +194,21 @@
   - [仙之巅傲世间 | 国风古韵  | 修仙者  | 古风摄影  | 太空步教学  | 仙侠](https://v.douyin.com/OgM-q7dlIKA/)
   - [所有遇见，皆是注定 | 古装电视剧 | 古风清冷佳人 | 东方美 | 古风摄影 | 国风古韵](https://v.douyin.com/ZKSL8jnY21M/)
   - [他日故里定逢春，你我山巅自相逢 | 仙境  | 古风  | 震撼开场  | AI创作浪潮计划  | 修仙](https://v.douyin.com/JQ_iL7nDax0/)
+  - [天上白玉京 十二楼五城 | 摄影  | 古风  | 仙侠剧  | 旅行  | 风景摄影](https://v.douyin.com/alUcbFbLL-A/)
+  - [诸位还不回来吗 | 海艺ai  | 修仙  | 古风  | AI创作浪潮计划  | 明天努力找工作](https://v.douyin.com/EjVvmbZOYCc/)
+  - [做失败了也要发，不然就浪费积分了| 视觉震撼 | 动画 | AI创作浪潮计划 | 原创动画 | 视觉冲击](https://v.douyin.com/lSBANbk8JIY/)
+
+---
+* **[山灵制造局 | 即梦全流程爆款AI短剧](https://v.douyin.com/E75-CzN5M2s/)**
+  - [山崩了，提示词我又行了！ | 有山灵 | ai | 国风 | 动画](https://v.douyin.com/i1uzb_b35xc/)
+
+---
+* **[huang](https://v.douyin.com/lklWx3j8gRo/)**
+  - [刀光剑影映情愫，爱恨分明闯江湖。胡金铨 | 胶片感 | 审美积累 | 原创作品 | 武侠](https://v.douyin.com/nehZ19vnKuw/)
+  - [江湖岂有通天谱，踏尽风波意自如。胡金铨 | 胶片电影 | 审美积累 | 武侠 | 原创作品](https://v.douyin.com/LJbQ1ZX8EKM/)
+  - [一剑凌云天地悠，醉逐长风江湖游。胡金铨 胶片电影 审美积累 江湖故事 武侠](https://v.douyin.com/Q-6Dg87-Y6E/)
+  - [爱恨交织销魂掌，江湖悠悠路漫长。神雕侠侣 | 胡金铨 | 审美积累 | 武侠| 原创作品](https://v.douyin.com/X4kAwXatycw/)
+  - [一剑生死谈笑中，神仙侠侣情意浓。 | 胡金铨 | 胶片感 | 原创作品 | 审美积累 | 武侠](https://v.douyin.com/DbSRlIIssnk/)
 
 ---
 * **[小七悦漫 | 国漫打戏·招式解析](https://v.douyin.com/-JlRZ8krTHE/)**

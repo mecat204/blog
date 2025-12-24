@@ -667,8 +667,12 @@
   - [Avril Lavigne x Alan Walker - Learn To Love Again](https://www.youtube.com/watch?v=cv_eyeJn9tc)
   - [Avril Lavigne x Alan Walker - You Still Live Inside My Heart](https://www.youtube.com/watch?v=YGURpDn6-nc&list=RDYGURpDn6-nc&start_radio=1)
   - [Avril Lavigne x Alan Walker - I'm Scared To Be Lonely](https://www.youtube.com/watch?v=ihFrxhkOUWM&list=RDihFrxhkOUWM&start_radio=1)
-  - [Avril Lavigne x Alan Walker - You Still Live Inside My Heart](https://www.youtube.com/watch?v=YGURpDn6-nc&list=RDYGURpDn6-nc&start_radio=1)
   - [Alan Walker - Where The Love Goes](https://www.youtube.com/watch?v=K8PJucqUJTY)
+  - [Avril Lavigne - Dry My Tears](https://www.youtube.com/watch?v=g8WU8lUQHB8)
+
+---
+* **[Echofy Max](https://www.youtube.com/@EchofyMax)**
+  - [I Lose Myself Tonight - (Echofy Max Music Video)](https://www.youtube.com/watch?v=qpFSXFbrN9w&list=RDYGURpDn6-nc&index=2)
 
 ---
 * **[愛的低語](https://www.youtube.com/@%E6%84%9B%E7%9A%84%E4%BD%8E%E8%AA%9E)**
