@@ -671,6 +671,10 @@
   - [Avril Lavigne - Dry My Tears](https://www.youtube.com/watch?v=g8WU8lUQHB8)
 
 ---
+* **[Deep Fade Music](https://www.youtube.com/@DeepFadeMusic-1)**
+  - [Deep House Mix 2025 — Smooth Night Groove | Melodic Chill Vocals & Relax Vibes #3](https://www.youtube.com/watch?v=l2Kokqr_fZw)
+
+---
 * **[Echofy Max](https://www.youtube.com/@EchofyMax)**
   - [I Lose Myself Tonight - (Echofy Max Music Video)](https://www.youtube.com/watch?v=qpFSXFbrN9w&list=RDYGURpDn6-nc&index=2)
 
