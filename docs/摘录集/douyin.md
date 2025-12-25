@@ -1,4 +1,4 @@
-### 都靓读书
+### 0001. 都靓读书
 * [都靓读书](https://v.douyin.com/z4aLtYzUY2E/)
 
 - 都靓（Amber）是中国最具影响力的读书博主之一，其创办的“都靓读书”通过短视频、直播等形式推广阅读文化，全网粉丝超4000万，视频播放量突破50亿次，已成为全民阅读推广的代表性IP。以下从多个维度综合梳理其核心信息：
@@ -52,5 +52,5 @@
 * 总结：从"流量推手"到"文化桥梁"
   - 都靓团队以 "深耕内容+反流量化" 为核心竞争力，将经典文学转化为当代人可感知的情绪价值。其成功印证了知识传播的底层逻辑：真诚的解读比形式更重要，持久的创作比追逐热点更可贵。正如她所言："阅读培养的不是瞬时答案，而是抵抗浮躁的定力"。
 
-  ---
-  ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
+---
+![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)

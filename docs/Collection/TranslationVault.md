@@ -134,5 +134,25 @@
   - It’s about getting the most out of what you already have—and learning to want what’s worth wanting.
   - 这是关于充分利用你已经拥有的东西，并学会想要那些值得想要的东西。
 
+### 0003. The Money Trap: Lost Illusions Inside The Tech Bubble
+  - A gripping and entertaining memoir that shines a rare light on an industry that is disrupting our lives.
+  - 这是一部引人入胜且富有娱乐性的回忆录，罕见地聚焦于一个正在扰乱我们生活的行业。
+
+  ---
+  - Veteran Morgan Stanley banker Alok Sama thought he'd seen it all.
+  - 摩根士丹利资深银行家阿洛克·萨马以为自己见过一切。
+
+  ---
+  - Then he found himself chief dealmaker at the most influential technology investor in the world—SoftBank, the backer of Arm Holdings, Yahoo, Nvidia, TikTok, Uber, T-Mobile, Alibaba and WeWork.
+  - 随后，他成为全球最具影响力的科技投资者——软银（Arm Holdings、雅虎、英伟达、抖音、优步、T-Mobile、阿里巴巴和微工的投资支持者）的首席交易者。
+
+  ---
+  - The Money Trap is Sama's thrilling, stranger-than-fiction personal odyssey featuring his experiences alongside SoftBank's iconic founder, Masayoshi Son, a visionary maverick who wants to be remembered as "the crazy guy who bet on the future" and whose mission is "happiness for everyone."
+  - 《金钱陷阱》是Sama激动人心、比虚构更离奇的个人旅程，讲述了他与软银标志性创始人孙正义的经历。孙正义是一位有远见的特立独行者，希望被记住为“那个押注未来的疯子”，他的使命是“让所有人幸福”。
+
+  ---
+  - Sama takes the reader on a wild journey as he consorts with A-list CEOs and heads of state, and negotiates mega-deals on a Gulfstream jet, Son's sanctuary with its exquisite Japanese garden, and a waterside restaurant in the Turkish Riviera—all while contending with a mysterious dark-arts smear campaign
+  - 萨玛带领读者踏上一段疯狂的旅程，他与一线CEO和国家元首交往，谈判一架湾流飞机、孙的避风港及其精致的日式花园，以及土耳其里维埃拉一家滨水餐厅——同时还要应对一场神秘的黑魔法抹黑运动
+
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)

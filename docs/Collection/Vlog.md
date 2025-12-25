@@ -4,42 +4,42 @@
 
 ---
 ### 001. Life Vlog
-* **[李子柒 Liziqi | youtube](https://www.youtube.com/@cnliziqi)**
-* **[李子柒 | 李家有女，人称子柒。| douyin](https://v.douyin.com/UzDy7CInEV4/)**
+* **[李子柒 Liziqi | Youtube](https://www.youtube.com/@cnliziqi)**
+* **[李子柒 | 李家有女，人称子柒。| Douyin](https://v.douyin.com/UzDy7CInEV4/)**
 
 ---
-* **[江寻千_九月) | youtube](https://www.youtube.com/@JYjiuyue)**
+* **[江寻千_九月) | Youtube](https://www.youtube.com/@JYjiuyue)**
   - [曾经最极致的浪漫，千年绝技——打铁花。](https://www.youtube.com/watch?v=HiJiAcwe9pk)
-* **[江寻千 (九月) | 莫听穿林打叶声 何妨吟啸且徐行 | douyin](https://v.douyin.com/S2ENUvEPBJQ/)**
+* **[江寻千 (九月) | 莫听穿林打叶声 何妨吟啸且徐行 | Douyin](https://v.douyin.com/S2ENUvEPBJQ/)**
   - [三书六聘十里红妆，带你去看一场真正的中式婚礼. 传世婚服 | 拼酷十里红妆| 拼酷大花轿 濮院时尚古镇 中式婚礼主持人张博](https://v.douyin.com/9NqrnTRJdpk/)
   - [耗时1年零4个月，我用云锦做了一件传世婚服。 | 滴露衣物消毒液 | 传世婚服 | 云锦](https://v.douyin.com/ZZx-30rhdw8/)
 
 ---
-* **[isabel_paige | youtube ](https://www.youtube.com/@isabel_paige)**
+* **[isabel_paige | Youtube ](https://www.youtube.com/@isabel_paige)**
   - [The Hardest Days of Winter](https://www.youtube.com/watch?v=jNqhUIYZM8Q)
-* **[VENQUEN的英语日记 | douyin](https://v.douyin.com/lGerZrVjzQs/)**
+* **[VENQUEN的英语日记 | Douyin](https://v.douyin.com/lGerZrVjzQs/)**
   - [学习是方向，世界是目的地！Follow along！ 飞向未知，直面恐惧 旧金山的酸面包，藏着冒险的滋味 独处的时光，发现真实的自己 大桥下的夕阳，点燃成长的勇气 | Isabel Paige](https://v.douyin.com/ACS0U3zIC54/)
   - [雪花轻吻山巅，咖啡暖手 炉火旁，冬日的仙境悄然绽放 踏雪觅果，阳光洒落心间 这十一月的清晨，藏着治愈的温柔](https://v.douyin.com/PokajBVenxU/)
 
 ---
-* **[Miss Jean Teaches | youtube](https://www.youtube.com/@missjeanteaches)**
+* **[Miss Jean Teaches | Youtube](https://www.youtube.com/@missjeanteaches)**
 * **[英语学习Pie](https://v.douyin.com/nBEOloJekdk/)**
   - **[全英VLOG｜学语言必须"从第一天就开口"？](https://v.douyin.com/o1MYbBcmiok/)**
   - **全英VLOG｜学语言必须"从第一天就开口"？ 视频来源｜油管 Miss Jean Teaches 剪辑+字幕+资料整理｜本人原创 学语言时总被"从第一天就开口"的建议绑架？想开口却怕焦虑，不开口又怕落后？博主结合自身教学与学习经验，从正反两方拆解这一热门建议，帮你打破认知误区，找到更适配自己的语言学习节奏！无论你偏爱"沉默积累"还是"即时输出"，都能从中找到共鸣**
 
 ---
-* **[IAmKevinFeng | KevinFeng 冯凯文 | youtube](https://www.youtube.com/@IAmKevinFeng)**
+* **[IAmKevinFeng | KevinFeng 冯凯文 | Youtube](https://www.youtube.com/@IAmKevinFeng)**
   - [1个习惯带你直接听懂英文，让你英文听力像母语一样强](https://www.youtube.com/watch?v=t-kOwCmtcmA)
   - [用油管足不出户从0自学流利英文！20+个难度分级自学频道推荐！｜GDS 007](https://www.youtube.com/watch?v=0UY0bbE5I1w)
   - [2本能让你逆袭人生的英文书，只要高中水平就能读懂！](https://www.youtube.com/watch?v=L2B1NhxfvIw)
 
 ---
-* **[4k Films by Adnan](https://www.youtube.com/@4kfilmsbyadnan)**
+* **[4k Films by Adnan | Youtube](https://www.youtube.com/@4kfilmsbyadnan)**
   - [China in 4K - Incredible Scenes & Uncovering Hidden Gems](https://www.youtube.com/watch?v=6yQH9jUqttE)
   - [Patagonia in 4K - Incredible Scenes & Uncovering Hidden Gems](https://www.youtube.com/watch?v=z8Gw2p2vRr0)
 
 ---
-* **[Ariannita la Gringa | youtube](https://www.youtube.com/@ariannitalagringa)**
+* **[Ariannita la Gringa | Youtube](https://www.youtube.com/@ariannitalagringa)**
   - [Religious Vocabulary in English](https://www.youtube.com/watch?v=Ae8odmRJNu0)
   - [購物中心英語詞彙](https://www.youtube.com/watch?v=VFe7Ap1kfk0)
   - [Visiting an International Market](https://www.youtube.com/watch?v=3VP8OZyr87A)
@@ -49,20 +49,20 @@
   - [【英语易混词】Do vs Make：核心区别一次讲清 | 英语 | 英语口语 | 英语启蒙 | 英语学习 | 英语听力](https://v.douyin.com/THCKuOPQ_NQ/)
 
 ---
-* **[Learn English with Jessica | youtube](https://www.youtube.com/channel/UCXtMjo8xJqjEhS4A9KUY8GA)**
+* **[Learn English with Jessica | Youtube](https://www.youtube.com/channel/UCXtMjo8xJqjEhS4A9KUY8GA)**
 
 ---
-* **[THE MAGIC LIBRARY | youtube](https://www.youtube.com/@the-magic-library)**
+* **[THE MAGIC LIBRARY | Youtube](https://www.youtube.com/@the-magic-library)**
   - [ATOMIC HABITS | JAMES CLEAR | FULL-AUDIOBOOK | WHAT'S THE SECRET TO BRAEKING BAD HABITS |](https://www.youtube.com/watch?v=mdM_9X_i7pM)
 
 ---
-* **[BBC Earth | youtube](https://www.youtube.com/@bbcearth)**
+* **[BBC Earth | Youtube](https://www.youtube.com/@bbcearth)**
   - [1 Hour of Magnificent Moments Narrated by Sir David Attenborough | BBC Earth](https://www.youtube.com/watch?v=Vd7iuPV_AF0)
-* **[BBC英语纪录频道 | douyin](https://v.douyin.com/Kg7WEHuZnzo/)**
+* **[BBC英语纪录频道 | Douyin](https://v.douyin.com/Kg7WEHuZnzo/)**
   - [神奇的植物 GREEN PLANET 1](https://v.douyin.com/AyWrh_p2L2U/)
 
 ---
-* **[Dan Koe](https://www.youtube.com/@DanKoeTalks)**
+* **[Dan Koe | Youtube](https://www.youtube.com/@DanKoeTalks)**
 * **[来点思考 | Dan Koe](https://v.douyin.com/OkNpJEuLTEg/)**
   - [AI加速学习](https://v.douyin.com/dJUjAceOkEg/)
   - 你还在慢慢学吗？用AI加速学习，10倍提高效率！  dankoe来点思考 AI  学习效率
@@ -71,23 +71,32 @@
   - [如何让人生进步十倍（完整指南） How To Make Progress 10X Faster In Life (Full Guide)](https://v.douyin.com/XyQq7MkQ4hI/)
 
 ---
-* **[4kUrbanLife | youtube](https://www.youtube.com/@4kUrbanLife)**
+* **[4kUrbanLife | Youtube](https://www.youtube.com/@4kUrbanLife)**
   - [4K Cities of The World: Krakow, Poland](https://www.youtube.com/watch?v=3CfLia_6TU0&list=PLQggNzW0_YA9OlYAoIS5Vp-gRp8kF3EcS)
   - [ProArtInc](https://proartinc.net/)
-* **[4K休闲频道 | douyin | ProArtInc](https://v.douyin.com/uuEFJKfRBsc/)**
+* **[4K休闲频道 | Douyin | ProArtInc](https://v.douyin.com/uuEFJKfRBsc/)**
   - [助眠 | 冥想](https://v.douyin.com/gF8j1U_F5qU/)
 
 ---
-* **[TheEnglishClass2917 | youtube](https://www.youtube.com/@TheEnglishClass2917)**
+* **[TheEnglishClass2917 | Youtube](https://www.youtube.com/@TheEnglishClass2917)**
   - [How to Speak English Fluently](https://www.youtube.com/watch?v=dWmUsWorYh0)
-* **[Biubiu仔仔 | douyin | 沉浸式练习英语口语](https://v.douyin.com/MUMd0LtI8WE/)**
+* **[Biubiu仔仔 | Douyin | 沉浸式练习英语口语](https://v.douyin.com/MUMd0LtI8WE/)**
   - [How to Speak English Fluently？](https://v.douyin.com/2bueQ6v6XVo/)
   - How to Speak English Fluently？ Do you want to speak English fluently? Do you feel nervous when you try to speak? In this video, we will help you! We will teach you step by step, in very easy English. You will learn how to speak clearly, how to practice every day, and how to stop being afraid.
 
 ---
-* **[Links TV | youtube](https://www.youtube.com/@linksphotograph)**
+* **[Links TV | Youtube](https://www.youtube.com/@linksphotograph)**
   - [大西洋上只有300人的孤岛，却藏着地球最震撼的火山奇观松下！亚速尔群岛｜松下S1R2 ｜Linksphotograph](https://www.youtube.com/watch?v=1kCOblyiuxY)
-* **[Linksphotograph](https://space.bilibili.com/3816626)**
+* **[Linksphotograph | Bilibili](https://space.bilibili.com/3816626)**
+
+---
+* **[Tourist Walk Tours](https://www.youtube.com/@TouristWalkTours)**
+  - [**瑞士**最美的山村——你会想搬到这里来。](https://www.youtube.com/watch?v=o9esB3n-GAw)
+
+---
+* **[🇨🇭 SWISS - Most Beautiful Places & Walking Tours](https://www.youtube.com/@SWISS_WalkingTours)**
+  - [**瑞士**的天堂：瑞士乡村美丽村庄的雨天](https://www.youtube.com/watch?v=-kenx1rQyZo)
+
 
 ---
 ### 002. Chinese Vlog
@@ -240,7 +249,7 @@
 
 ---
 ### 005. 播客资源
-* **[Coffee Break English | youtube](https://www.youtube.com/@coffeebreakenglish)**
+* **[Coffee Break English | Youtube](https://www.youtube.com/@coffeebreakenglish)**
 * **[Coffee Break English | 每集大约15分钟，为初学者和中级英语学习者设计](https://coffeebreaklanguages.com/english/)**
   - [How to use 'get' in English](https://www.youtube.com/watch?v=1zw2pTZ9U_I&t=41s)
 
