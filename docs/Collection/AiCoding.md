@@ -224,6 +224,11 @@
   - [奇幻东方美学，小白也能学会，用AI四步三分钟教会你； 东方奇幻怪诞美学，用AI如此简单；喂饭级教程；| AI新星计划 | AI教学 | 东方奇幻美学| 海螺AI | AI创作浪潮计划](https://v.douyin.com/bPb86GPHdZs/)
 
 ---
+* **[阿军Ai影匠](https://v.douyin.com/a-KHa9Rz-9M/)**
+  - [11个人狂干168个小时，用AI制作出来的9分钟《聊斋》作品 | AI短剧| AI创作浪潮计划| 2025AI年终大赏| AI电影 | 聊斋](https://v.douyin.com/vqjtdUQQ_6Q/)
+  - [未来.异能者 付费 | 短剧推荐 | ai短剧 | ai创作浪潮计划| 热血 | 未来异能者](https://v.douyin.com/BNjfaXAZ-VU/)
+
+---
 * **[田甜 | 很高兴与大家相遇，感谢官方平台 作品全部是AI，不是真人](https://v.douyin.com/yJ4LXmtxrzE/)**
   - [圣诞的红是草莓味的甜，雪落进软绒绒的暖里，连空气都裹着铃铛轻响的温柔。 | 红色 | 冬日甜系穿搭 | 甜美女孩 | AI圣诞氛围感写真 | 抖音AI创作](https://v.douyin.com/cNUB-3nKNOQ/)
 
