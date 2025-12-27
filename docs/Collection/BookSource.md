@@ -181,6 +181,18 @@
   - [世界新闻](https://v.douyin.com/fXTP_0hFVW8/)
 
 ---
+* **[每日英语 | 五百章](https://v.douyin.com/GD4AG2UBaQU/)**
+  - [英语 | 英语口语 | 英语跟读 | 英语合拍配音朗读](https://v.douyin.com/gIOKICHzYGo/)
+  - [英语 | 英语口语 | 英语跟读 | 英语合拍](https://v.douyin.com/4VW0GkiC3dY/)
+  - [英语 | 英语口语 | 英语跟读 | 英语合拍配音朗读](https://v.douyin.com/t-P1OJOU168/)
+
+---
+* **[每日英语天天练 | 百章](https://v.douyin.com/BWtb9hqpzkY/)**
+  - [每日英语|海洋生物类单词 | 英语  | 英语没那么难  | 实用英语  | 小学英语  | 单词速记](https://v.douyin.com/MpWFz83OIDI/)
+  - [每日英语|一图学完调味品类单词| 英语 | 英语没那么难 | 日常英语 | 实用英语 | 亲子英语](https://v.douyin.com/yqX9yXneiRw/)
+  - [分类记单词|自然景观类 | 英语  | 英语没那么难  | 实用英语  | 日常英语  | 亲子英语](https://v.douyin.com/paBZ7B2LMWg/)
+
+---
 * **[Cleo的小世界](https://v.douyin.com/62TEDPrsx9k/)**
   - [Cleo讲科普-拿破仑真的很矮吗](https://v.douyin.com/OG1c7jv26RQ/)
 
@@ -197,6 +209,12 @@
 
 ---
 * **[keke](https://kekenet.com)**
+
+---
+* **[英语学习Pie | Douyin](https://v.douyin.com/lZB9XB_5XR0/)**
+  - [全英VLOG｜宝藏博主解锁英语的时间表达 全英VLOG｜宝藏博主解锁英语的时间表达 视频来源｜油管 Miss Jean Teaches 剪辑+字幕+资料整理｜本人原创 告别教科书式机械报时！宝藏博主带你拆解英语时间表达的母语者逻辑，从整点、分钟的基础表述，到 `quarter after/till` `half past` 的英美用法差异，再到 `this/next` 描述星期时的歧义陷阱，结合语境适配、口语简化技巧和实用澄清表达，帮你摆脱刻板话术，让时间表达更自然精准，不管是日常闲聊还是雅思/托福口语备考，都能快速提升地道感。 ✅ 重点单词 tricky /ˈtrɪki/ adj. 棘手的；难处理的 shortcut /ˈʃɔːtkʌt/ n. 捷径；简化表达 consensus /kənˈsensəs/ n. 共识；一致意见 nuanced /ˈnjuːɑːnst/ adj. 微妙的；有细微差别的 ambiguity /ˌæmbɪˈɡjuːəti/ n. 歧义；模棱两可 clarifying /ˈklærəfaɪɪŋ/ adj. 澄清的；说明的 intimidating /ɪnˈtɪmɪdeɪtɪŋ/ adj. 令人望而生畏的 ✅ **地道口语 & 实用搭配** drop the o'clock 省略 o'clock（整点后缀） quarter after （……点）过一刻 quarter till 差一刻到……点 half past ……点半 this upcoming Wednesday 即将到来的周三 the following Wednesday 接下来的周三 a week from Wednesday 一周后的周三 a week ago Wednesday 一周前的周三 this past Friday 刚过去的周五 💡 小互动！ 你还知道哪些英语中描述时间的地道表达？如果用今天学到的短语，你能试着描述一次和外国朋友约定见面时间的场景吗？ | 英语 | 英语学习 | 英语启蒙 | 抖音热点记忆2025 | 英语口语](https://v.douyin.com/g_lCWolBqas/)
+  - 重点单词 tricky /ˈtrɪki/ adj. 棘手的；难处理的 shortcut /ˈʃɔːtkʌt/ n. 捷径；简化表达 consensus /kənˈsensəs/ n. 共识；一致意见 nuanced /ˈnjuːɑːnst/ adj. 微妙的；有细微差别的 ambiguity /ˌæmbɪˈɡjuːəti/ n. 歧义；模棱两可 clarifying /ˈklærəfaɪɪŋ/ adj. 澄清的；说明的 intimidating /ɪnˈtɪmɪdeɪtɪŋ/ adj. 令人望而生畏的
+  - **地道口语 & 实用搭配** drop the o'clock 省略 o'clock（整点后缀） quarter after （……点）过一刻 quarter till 差一刻到……点 half past ……点半 this upcoming Wednesday 即将到来的周三 the following Wednesday 接下来的周三 a week from Wednesday 一周后的周三 a week ago Wednesday 一周前的周三 this past Friday 刚过去的周五
 
 ---
 * **[轻松场景英语](https://v.douyin.com/6h1G6rk_EUQ/)**
@@ -231,6 +249,25 @@
   - 3遍循环记忆（永久刻进大脑）
 
 ---
+* **[松鼠联盟 | 英文绘本原创作者 | 愿每个故事都是跨越时空的握手](https://v.douyin.com/DJJPyBRIkvs/)**
+  - [书和玫瑰 每天五分钟英语绘本 原创英语绘本动画 英语磨耳朵 | 看动画学英语  | 英语绘本  | 英语没那么难](https://v.douyin.com/HXRwmvhjQ4E/)
+  - [卖火柴的小女孩 每天五分钟英语绘本 原创英语绘本动画 英语磨耳朵 | 看动画学英语  | 英语绘本](https://v.douyin.com/1ucbgFGNCfE/)
+
+---
+* **[Daily Read | 日读 | 百章 | 付费](https://v.douyin.com/eRqySSmpQ-U/)**
+  - [精品英语磨耳朵：想英语流利？每天和它对话5分钟 高清音质 & 精品内容 & 双语字幕，高效激活英语潜能，沉浸式强化英语听力 | 英语 | 英语学习 | 英语听力 | 英语口语 | 英语磨耳朵](https://v.douyin.com/2cJcqd95DjU/)
+  - [精品英语磨耳朵：5个简单测试，精准定位你的英语水平 高清音质 & 精品内容 & 双语字幕，高效激活英语潜能，沉浸式强化英语听力 | 英语 | 英语听力 | 英语口语 | 英语学习 | 英语磨耳朵](https://v.douyin.com/c_EtIkbNixE/)
+
+---
+* **[DL 英语听力 | Daily English Listening 坚持100天 | Douyin](https://v.douyin.com/3Msadks-DXo/)**
+  - [第7集 Englishpod 电脑中病毒了 坚持100天，英语听力，突飞猛进 适合初学者英语实用听力素材 | 每日学习打卡 | 英语听力 | 日常英语 | 每日英语 | 英语没那么难](https://v.douyin.com/8yOp7ChuHyc/)
+
+---
+* **[Simon英语原著阅读 | 每本书都有整理全书单词及短语，橱窗购书附赠 ](https://v.douyin.com/tn3aP_8WEWs/)**
+  - [你所需要学习的点都在书里。评论区告诉我你最喜欢的书，我们一起来读 | 学英语 | 英语学习方法 | 英语阅读 | 让阅读成为一种习惯 | 英语](https://v.douyin.com/k7sJvR2oj4U/)
+  - [怎样练好英语口语 英语口语到底该怎么去练？小子不才，学习十余载，愿与君共享，与君共勉！英语口语练习 | 英语口语 | 流利英语 | 纯正英语 | 让阅读成为一种习惯](https://v.douyin.com/P_mjGHn_U2U/)
+
+---
 * **[快听听力](https://v.douyin.com/06UXFkAWso0/)**
   - [考试神器](https://v.douyin.com/wHfY52mXcJU/)
 
@@ -243,7 +280,7 @@
   - [雅思词汇真经.pdf](https://drive.google.com/drive/folders/1TzLOdRB6AnEylq8nTxUp1r6lNTeQ3fhb)
 
 ---
-* [FreeMdict Foru- 自由 无门槛 免费](https://forum.freemdict.com/t/topic/9657)
+* **[FreeMdict Foru - 自由 无门槛 免费](https://forum.freemdict.com/t/topic/9657)**
 
 ---
 * **[FreeMdict Forum](https://forum.freemdict.com/)**

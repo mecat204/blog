@@ -263,6 +263,14 @@
   - [12点之前我还是灵山经长 | 不一样的西游记](https://v.douyin.com/mVXvDWvZ8lo/)
 
 ---
+* **[摇滚唐小曾 | 制作有趣的视频，有趣视频剪辑技巧。](https://v.douyin.com/feB8p6Zn75A/)**
+  - [烟雨唱扬州 | 西门庆 | 对口型飙演技 | 情歌对唱 | AI创作浪潮计划](https://v.douyin.com/4ktBbUWPPd8/)
+  - [西门庆 | 情歌对唱 | 搞笑配音 | 对口型飙演技 | ai创作浪潮计划](https://v.douyin.com/PlcssK1HPq0/)
+  - [音乐种草计划 | 西游记女儿国 | 对口型唱歌 | 搞笑配音 | 唐僧也疯狂](https://v.douyin.com/jlyxBC1-tBA/)
+  - [烟雨唱扬州 | 西门庆 | 对口型飙演技 | 情歌对唱 # AI创作浪潮计划](https://v.douyin.com/kWeaOavrQwA/)
+  - [红颜知己 | 西门庆 | 对口型飙演技 | 情歌对唱 | AI创作浪潮计划](https://v.douyin.com/GPs7xWtKGFQ/)
+
+---
 * **[一只小岚猫](https://v.douyin.com/MkNGEuCBzjs/)**
   - [戏文说 |红颜](https://v.douyin.com/NNZzRdTY5nE/)
 
@@ -481,6 +489,20 @@
 * **[虚妄 | AIGC 探索。风格不定。](https://v.douyin.com/Bk_h29FDK8M/)**
   - [师兄们，这次喝奶茶不！| ai | 小师妹 | 古装 | 氛围感](https://v.douyin.com/yRv2L4vDZEA/)
   - [我路过这琼楼玉宇，如惊鸿一瞥，不问归期。| 中式意境 | 建筑美学 | 氛围感](https://v.douyin.com/Ak2MOtLeuTA/)
+
+---
+* **[胡闹一转](https://v.douyin.com/3zurDd4cdV0/)**
+  - [大家都是元婴修士，没那么容易陨落吧](https://v.douyin.com/B35Wv2ySeJk/)
+  - [喝多了就滚呐，还等着双休呢 | 凡人修仙传 | 南宫婉 | 银月 | 慕沛灵 | 国漫](https://v.douyin.com/GarKRmy6WNY/)
+  - [凡人书》--韩立给南宫婉的一封信](https://v.douyin.com/J4ntMyjbCW8/)
+  - [情圣×凡人：南宫婉抓奸韩立 之前被限制了，重新发一遍| 凡人修仙传 | 韩立 | 南宫婉 | 国漫](https://v.douyin.com/iPR-GoUzjCY/)
+  - [爱情公寓×凡人:慕沛灵的正宫梦碎，韩立的后宫团藏不住了 | 凡人修仙传 | 韩立 | 慕沛灵 | 南宫婉](https://v.douyin.com/QigiziMTZAA/)
+  - [韩立:我摊牌了，我要分手！](https://v.douyin.com/jRvrV7v4wew/)
+  - [那个紫灵到底哪里好，让你迷恋了这么多年？| 凡人修仙传 | 韩立 | 南宫婉 | 国产动漫](https://v.douyin.com/bLXJ1SpLrEA/)
+  - [怎么乍一看这么帅啊？| 凡人修仙传 | 韩立| 宋玉| 慕沛灵| 国漫](https://v.douyin.com/wDMah4HpB4g/)
+  - [大家都是元婴修士，没那么容易陨落吧 | 凡人修仙传 | 韩立 | 银月 | 国漫 | 银月](https://v.douyin.com/kdoass3SnQ4/)
+  - [落云宗日常:韩长老的逍遥人生 | 凡人修仙传 | 韩立 | 宋玉 | 国漫推荐  | 凡人修仙传](https://v.douyin.com/A0JD82os0Ds/)
+  - [我的六翼霜蚣，你是不是看上他了？ | 凡人修仙传 | 韩立 | 柳玉 | 国漫 | 名场面](https://v.douyin.com/5rKaEPIxDV0/)
 
 ---
 ### 007. 数字人实时语音交互

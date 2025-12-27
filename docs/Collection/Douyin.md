@@ -94,7 +94,7 @@
 * [远寄银河](https://v.douyin.com/lKUpS3sghvM/)
 * [xiaolin](https://v.douyin.com/ol7scw0PqBA/)
 * [Zlively](https://v.douyin.com/2N5Y5Hn692o/)
-* [伊卡洛斯](https://v.douyin.com/a7L4RyW8H7g/)
+* **[伊卡洛斯](https://v.douyin.com/a7L4RyW8H7g/)**
   - [3D打印](https://v.douyin.com/Xl-J4CT3uXE/)
 
 ---
@@ -103,7 +103,7 @@
 
 ---
 ### 006. DIY 飞机
-* [玩模型](https://v.douyin.com/UbQIF8QO87I/)
+* **[玩模型](https://v.douyin.com/UbQIF8QO87I/)**
 
 ---
 ### 007. 抖音精品

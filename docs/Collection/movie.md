@@ -531,6 +531,25 @@
   - [大明朝于谦，挽狂澜于既倒，扶大厦于将倾。青年创作者成长计划 | 明朝 | 于谦](https://v.douyin.com/ylMZQEIGnsI/)
 
 ---
+* **[越哥说电影 | Youtube](https://www.youtube.com/@yuegemovie)**
+  - [【越哥】导演修行20年才拍出来，日本上映时一票难求，看懂即开悟！](https://www.youtube.com/watch?v=A0GVBOB5aBo)
+  - [【越哥】这才是真正的佛教电影，禅宗一代宗师的传奇经历，开悟必备！](https://www.youtube.com/watch?v=F0xaNIqcN2s)
+  - [越哥说电影《了凡四训》](https://www.youtube.com/watch?v=DnbM7lxt9Ak)
+
+---
+* **[AC_Blue  | 五百章](https://v.douyin.com/gE3tJyH4LoI/)**
+  - ["两边都是我的亲人 也就觉着不害怕了" | 我们天上见 | 共鸣叙事家 | 了不起的混剪团 | 混剪暑期企划 | 蒋雯丽](https://v.douyin.com/ujsTiQrSr1g/)
+  - [万般皆下品 唯有读书高 | 侠女 | 胡金铨 | 了不起的混剪团 | 共鸣叙事家 | 抖音精选](https://v.douyin.com/OEO-F8uS8Oc/)
+
+---
+* **[佛缘影视 | Douyin](https://v.douyin.com/aqY4c6UnnL4/)**
+  - [01. 一步能看懂就会开悟的电影 | 佛教文化](https://v.douyin.com/0r3LwDZOKIw/)
+  - [02. 一部看懂就能开悟的电影 | 佛教文化](https://v.douyin.com/R7_rPXyWCsg/)
+  - [03. 一部看懂就会开悟的电影 | 佛教文化](https://v.douyin.com/115Sg1RDpe8/)
+  - [04. 一部看懂就能开悟的电影 | 佛教文化](https://v.douyin.com/vjEvH_0l21c/)
+  - [05. 一部看懂就能开悟的电影"禅" | 佛教文化 | 佛教故事](https://v.douyin.com/7OAqTeFu_G0/)
+
+---
 ### 024. 电视剧
 * **[Croton MEGA HIT 克頓傳媒 史詩傑作 | Youtube](https://www.youtube.com/@CrotonMEGAHIT)**
   - [境· 双城](https://www.youtube.com/playlist?list=PLpOa-OrneXm2yBlLKNWL9qLCDfLxuSWal)
