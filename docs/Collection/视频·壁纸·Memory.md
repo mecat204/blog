@@ -16,7 +16,7 @@
   - [绘画师](https://v.douyin.com/N9WFnsPFbhI/)
 
 ---
-* **[佳艺](https://v.douyin.com/KwRgQYKQ-hI/)**
+* **[佳艺 | 五百章](https://v.douyin.com/KwRgQYKQ-hI/)**
   - [李慕婉](https://v.douyin.com/DrfIe-G4T8Y/)
 
 ---

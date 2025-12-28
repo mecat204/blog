@@ -68,14 +68,26 @@
   - https://www.youtube.com/watch?v=BzPYvrGWJgA
 
 ---
-### 004. proxy·music
+### 004. Youtube·music
 * **[星际穿越·Interstellar](https://www.youtube.com/watch?v=8kooIgKESYE)**
+
+---
 * **[星际穿越·对接](https://www.youtube.com/watch?v=QIumIjSpC3Q)**
+
+---
 * **[Hans Zimmer-Interstellar](https://www.youtube.com/watch?v=5gO0xpY_Y3E)**
+
+---
 * **[雁回时-原声带](https://www.youtube.com/watch?v=JGUKxkR5cRQ)**
+
+---
 * **[浮光](https://www.youtube.com/watch?v=cYNXh9AkvMg)**
+
+---
 * **[Kim Zhang -主题](https://www.youtube.com/channel/UCLKWPLjHRL5UD8-Gngm46ew)**
   - [心之火(宿命版) 张鑫](https://www.youtube.com/watch?v=98upJDuxNZI)
+
+---
 * **古典音乐**
   - [Classical Stars](https://www.youtube.com/@classicalstars88)
   - [贝多芬、莫扎特、肖邦、巴赫、维瓦尔第](https://www.youtube.com/watch?v=IYd1-cPwQCk)
@@ -108,7 +120,11 @@
   - [Let Me Down Slowly - 米小怂kelly ( Cover)](https://www.youtube.com/watch?v=EQYMk8a4Ceo&list=PL7MBpdD11UonZ5k2rYHYah4LsOt-dkfbY&index=8)
 
 ---
-* **[华策音乐HUACE MUSIC·长歌行](https://www.youtube.com/watch?v=4fnEXD-TGyE&list=RDBUCrWnWo4H4&index=3)**
+* **[华策音乐 HUACE MUSIC | Youtube](https://www.youtube.com/@huacemusic1283)**
+  - [长歌行](https://www.youtube.com/watch?v=4fnEXD-TGyE&list=RDBUCrWnWo4H4&index=3)
+
+---
+* **[长歌行](https://www.youtube.com/watch?v=4fnEXD-TGyE&list=RDBUCrWnWo4H4&index=3)**
 
 ---
 * **[SNH48 China](https://www.youtube.com/watch?v=6gFUB9eDFD0&list=RD6gFUB9eDFD0&start_radio=1&rv=6gFUB9eDFD0)**
@@ -117,7 +133,7 @@
 * **[Classical Stars](https://www.youtube.com/watch?v=IYd1-cPwQCk)**
 
 ---
-* **[仙鹤情缘](https://www.youtube.com/watch?v=2plhbkGv5qw**
+* **[仙鹤情缘](https://www.youtube.com/watch?v=2plhbkGv5qw)**
 
 ---
 * **[80,90歌曲](https://www.youtube.com/watch?v=he_VdjWUiWQ)**
@@ -135,41 +151,53 @@
 * **[落笔成殇-张紫宁](https://www.youtube.com/watch?v=Kfd49eOq8-4)**
 
 ---
-### 005. tv.music
+### 005. TV·music
 * **长歌行**
-  - [光的方向-张碧晨](https://www.youtube.com/watch?v=cwdmC6mqO1w)
+  - **[光的方向-张碧晨](https://www.youtube.com/watch?v=cwdmC6mqO1w)**
 
 ---
 * **长月烬明**
-  - [OST合集](https://www.youtube.com/watch?v=xcFpsXzV6jo)
+  - **[OST合集](https://www.youtube.com/watch?v=xcFpsXzV6jo)**
 
 ---
 * **墨雨云间**
-  - [芳菲落尽梨花白](https://www.youtube.com/watch?v=QiwvWNMhPb4)
-  - [原声带专辑](https://www.youtube.com/watch?v=m7At3pnTb80&t=247s)
-  - [一世聪明-崔格子](https://www.youtube.com/watch?v=ty4TTcO-lXw)
-  - [当归](https://www.youtube.com/watch?v=Hnyb-PqAiNQ)
+  - **[芳菲落尽梨花白](https://www.youtube.com/watch?v=QiwvWNMhPb4)**
+  - **[原声带专辑](https://www.youtube.com/watch?v=m7At3pnTb80&t=247s)**
+  - **[一世聪明-崔格子](https://www.youtube.com/watch?v=ty4TTcO-lXw)**
+  - **[当归](https://www.youtube.com/watch?v=Hnyb-PqAiNQ)**
 
 ---
 * **香蜜沉沉烬如霜**
-  - [不染-毛不易](https://www.youtube.com/watch?v=dDV36GmFP20)
-  - [左手指月-萨顶顶](https://www.youtube.com/watch?v=AbiMe64zeGM)
+  - **[不染-毛不易](https://www.youtube.com/watch?v=dDV36GmFP20)**
+  - **[左手指月-萨顶顶](https://www.youtube.com/watch?v=AbiMe64zeGM)**
 
 ---
 * **哪吒**
-  - [时光的摇晃-窝窝](https://www.youtube.com/watch?v=iSiu23Jyz4o)
+  - **[时光的摇晃-窝窝](https://www.youtube.com/watch?v=iSiu23Jyz4o)**
+
+---
+* **[窩窩 - 月亮照山川『月光它落屋檐，落在遠方的山川。』【高音質|動態歌詞Lyrics】](https://www.youtube.com/watch?v=a92AXDEwibg&list=RDa92AXDEwibg&start_radio=1)**
+
+---
+* **[4K Music Make | Youtube](https://www.youtube.com/4KMusicMake)**
+  - [窩窩 - 月亮照山川『月光它落屋檐，落在遠方的山川。』【高音質|動態歌詞Lyrics】](https://www.youtube.com/watch?v=a92AXDEwibg&list=RDa92AXDEwibg&start_radio=1)
 
 ---
 * **长安十二时辰**
-  - [清平乐·紫宁](https://www.youtube.com/watch?v=qFbvigJTXLs)
-  - [长安十二时辰OST](https://www.youtube.com/watch?v=JH-3KFtOf6s&list=PLGOZmHa7O-aESFChpX-hoPK2KlHhvOKyE)
+  - **[清平乐·紫宁](https://www.youtube.com/watch?v=qFbvigJTXLs)**
+  - **[长安十二时辰OST](https://www.youtube.com/watch?v=JH-3KFtOf6s&list=PLGOZmHa7O-aESFChpX-hoPK2KlHhvOKyE)**
 
 ---
-### 006. music.app
-* [AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer/releases)
+### 006. Music App
+* **[AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer/releases)**
 
 ---
-### 007. genshin impact
+### 007. Genshin Impact
+* **[Genshin Impact | Youtube](https://www.youtube.com/@GenshinImpact)**
+  - [《原神》沉玉沐芳 - Disc 1：春风几度醉翘英 ](https://www.youtube.com/watch?v=UM7F_WM1Vhk&list=PLqWr7dyJNgLJCVtbW0yz_CpwpwyVwPJNX&index=1)
+  - [《原神》沉玉沐芳 - Disc 2：翠羽云深隐灵濛](https://www.youtube.com/watch?v=roHkAJvAt9s&list=PLqWr7dyJNgLJCVtbW0yz_CpwpwyVwPJNX&index=2)
+
+---
 * **[一根葱（原神）](https://v.douyin.com/d0bIkN3b7lY/)**
   - [原神交响乐](https://v.douyin.com/bUTuNkg6uI4/)
 
