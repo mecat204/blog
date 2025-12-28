@@ -1063,6 +1063,10 @@
 * Spacetop G1
 * screenpipe-AI录屏软件
 * **[一糖导航](https://iitang.com/)**
+* **[32个网盘搜索](https://zhuanlan.zhihu.com/p/32753352416)**
+* **[夸克网盘资源](https://kuakes.com/)**
+* **[夸克4K资源](https://quark4k.com/)**
+
 
 ---
 ### 016. 经济书籍推荐

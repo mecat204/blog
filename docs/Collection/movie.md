@@ -20,7 +20,8 @@
 
   ---
   - **[OWOTUBE影院](https://owotube.com/)**
-  - **[老地方影院](https://www.laodifang.cc/)**
+  - **[laodifang.cc](https://www.laodifang.cc/)**
+  * **[laodifang.tv](https://www.laodifang.tv/)**
 
   ---
   * **libvio**
@@ -39,7 +40,7 @@
   - **[4kvm·D](https://www.4kvm.org)**
 
   ---
-  - **[dailymotion](https://www.dailymotion.com/us)**
+  - **[Dailymotion](https://www.dailymotion.com/us)**
 
   ---
   * **AnFuns·动漫**
@@ -47,7 +48,7 @@
   - **[AnFuns·in](https://www.anfuns.in)**
 
   ---
-  - **[novipnoad](https://www.novipnoad.net/)**
+  - **[Novipnoad | NO视频为用户提供及时的海外热门剧集在线观看，友好无广告，致力于最轻松的追剧体验。](https://www.novipnoad.net/)**
 
   ---
   - **[4K指南](https://xuexizhinan.com/)**
@@ -68,14 +69,23 @@
 
 ---
 * **Movie**
+  - **[一糖导航](https://iitang.com/)**
+  - **[网盘资源](https://t.me/s/Aliyun_4K_Movies?before=51753)**
+  - **[32个网盘搜索](https://zhuanlan.zhihu.com/p/32753352416)**
+  - **[夸克网盘资源](https://kuakes.com/)**
+  - **[夸克4K资源](https://quark4k.com/)**
+  - **[子子影视](https://www.ziziys.net/)**
+  - **[i.iao.su](https://i.iao.su/?2025/%E9%9F%B3%E4%B9%90)**
+  - **[BT影视](https://www.btbtl.com/)**
+
+---
+* **other**
   - [沙暖](https://www.shanuan.com/)
   - [zyplayer](https://zyplayer.fun/)
   - [海归TV](https://www.haigui.tv/)
-  - **[子子影视](https://www.ziziys.net/)**
   - [麻瓜影院](https://www.yangzhujixie.com/)
   - [CN影院](https://www.cnysvod.com/)
   - [天天美剧](https://www.meijuq.com/)
-  - **[i.iao.su](https://i.iao.su/?2025/%E9%9F%B3%E4%B9%90)**
   - [Kin热点](https://kin.itmresources.com/)
   - [LOL电影天堂](http://www.loldytt.me/)
   - [美剧迷](https://www.meijumi.net/)
@@ -89,7 +99,6 @@
   - [独播库](https://www.duboku.tv/)
   - [香菇影视](https://www.xiangguys.com/)
   - [FoFo影院](https://www.fofoyy.com/dianshiju/68008)
-  - [BT影视](https://www.btbtl.com/)
 
 ---
 * **电影**
@@ -183,9 +192,9 @@
 
 ---
 ### 007. 电影资源
-* [小云搜索](https://www.yunso.net/)
 * **[蓝点网 | ](https://www.landiannews.com/)**
   - [海棠网  | 海棠网 - 海棠应用网专注黑科技软件,绿色无毒互联网资源分享](https://www.haitangw.cc/)
+* [小云搜索](https://www.yunso.net/)
 * [AMIN](https://aaamiiin.com/)
 * [新版6v](https://www.xb6v.com/)
 * [影视TV](https://yingshi.tv/)
@@ -224,16 +233,6 @@
 * [飞兔影视](https://www.feitu.tv/)
 * [酷亚影院](https://kuyatv.net/)
 * [HONGHULI](https://honghuli.com/)
-* **七味**
-  - (https://www.qmp4.com(proxy))
-  - (https://www.gmp4.com(proxy))
-  - (https://www.qwnull.com)
-  - (https://www.qwmkv.com)
-  - (https://www.qwfilm.com)
-  - (https://www.qnmp4.com)
-  - (https://www.qnnull.com)
-  - (https://www.qnhot.com)
-* [laodifang](https://www.laodifang.tv/)
 * [高清老电影](https://www.youtube.com/@%E4%B8%AD%E5%9B%BD%E9%AB%98%E6%B8%85%E8%80%81%E7%94%B5%E5%BD%B1)
 * [Chineseoldmovie](https://www.youtube.com/@Chineseoldmovie)
 * [动画资源](https://pan.quark.cn/s/b75771b29a38)
