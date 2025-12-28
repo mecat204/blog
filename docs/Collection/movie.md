@@ -10,28 +10,63 @@
 ---
 ### 002. Movie
 * **movie·优质**
+  * **七味**
+  - [qmp4 | proxy](https://www.qmp4.com)
+  - [gmp4 | proxy](https://www.gmp4.com)
+  - [qwnull](https://www.qwnull.com)
+  - [qwmkv](https://www.qwmkv.com)
+  - [qwfilm](https://www.qwfilm.com)
+  - [qnmp4](https://www.qnmp4.com)
+
+  ---
   - **[OWOTUBE影院](https://owotube.com/)**
   - **[老地方影院](https://www.laodifang.cc/)**
+
+  ---
+  * **libvio**
   - **[libvio](https://libvio.mov/)**
   - **[libvio](https://libvio.vip/)**
+
+  ---
+  * **netflixgc**
   - **[netflixgc](https://www.netflixgc.com/)**
+
+  ---
+  * **4kvm**
   - **[4kvm·A](https://4kvm.site/)**
   - **[4kvm·B](https://www.4kvm.net/)**
   - **[4kvm·C](https://www.4kvm.pro)**
   - **[4kvm·D](https://www.4kvm.org)**
+
+  ---
   - **[dailymotion](https://www.dailymotion.com/us)**
+
+  ---
+  * **AnFuns·动漫**
   - **[AnFuns·动漫](https://www.anfuns.cc/)**
   - **[AnFuns·动漫](https://www.anfuns.in)**
+
+  ---
   - **[novipnoad](https://www.novipnoad.net/)**
+
+  ---
   - **[4K指南](https://xuexizhinan.com/)**
   - **[小宝影院](https://xiaoxintv.cc/)**
   - **[多瑙影院](https://dnvod.org/)**
-  - **[金牌影院](https://www.hskjjglo.com/)**
-  - **[金牌影院](https://www.vv3nwjk.com/)**
+
+  ---
+  * **金牌影院**
+  - **[hskjjglo](https://www.hskjjglo.com/)**
+  - **[vv3nwjk](https://www.vv3nwjk.com/)**
+
+  ---
   - **[爱壹帆](https://www.iyf.tv/)**
+
+  ---
   - **[多瑙影院](https://dnvod.org/)**
   - **[香菇影视](https://www.xiangguys.com/)**
 
+---
 * **Movie**
   - [沙暖](https://www.shanuan.com/)
   - [zyplayer](https://zyplayer.fun/)
