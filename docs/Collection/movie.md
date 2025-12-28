@@ -24,12 +24,12 @@
 
   ---
   * **libvio**
-  - **[libvio](https://libvio.mov/)**
-  - **[libvio](https://libvio.vip/)**
+  - **[libvio.mov](https://libvio.mov/)**
+  - **[libvio.vip](https://libvio.vip/)**
 
   ---
-  * **netflixgc**
-  - **[netflixgc](https://www.netflixgc.com/)**
+  * **NetflixGC**
+  - **[NetflixGC | 奈飞工厂-一个致力于免费提供Netflix影剧动漫的流媒体播放平台](https://www.netflixgc.com/)**
 
   ---
   * **4kvm**
@@ -43,8 +43,8 @@
 
   ---
   * **AnFuns·动漫**
-  - **[AnFuns·动漫](https://www.anfuns.cc/)**
-  - **[AnFuns·动漫](https://www.anfuns.in)**
+  - **[AnFuns.cc](https://www.anfuns.cc/)**
+  - **[AnFuns·in](https://www.anfuns.in)**
 
   ---
   - **[novipnoad](https://www.novipnoad.net/)**
