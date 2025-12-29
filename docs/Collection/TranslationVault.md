@@ -177,4 +177,107 @@
   - 深淡音乐
 
 ---
+### 0005. The Holiday Escape: Escape on the Best Holiday Ever With Sunday Times Bestseller Heidi Swain
+  - The Holiday Escape: Escape on the Best Holiday Ever With Sunday Times Bestseller Heidi Swain
+  - 假期逃离：与《星期日泰晤士报》畅销书作家海蒂·斯温一起，带你逃离史上最棒的假期
+
+  ---
+  - Her dream holiday is his everyday life.
+  - 她梦想中的假期就是他的日常生活。
+
+  ---
+  - His dream holiday is her normal life.
+  - 他梦想的假期是她的正常生活。
+
+  ---
+  - What happens when they collide? Ally and her dad, Geoff, run the family business, a creative retreat, from their home Hollyhock Cottage in picturesque Kittiwake Cove.
+  - 它们碰撞时会发生什么？ 艾莉和她的父亲杰夫在风景如画的基蒂维克湾的家——霍利霍克小屋经营家族企业——一个创意度假地。
+
+  ---
+  - They give their guests their dream break, but Ally hankers after glamourous city living, fancy restaurants and art galleries.
+  - 他们为客人提供梦想假期，但艾莉渴望华丽的城市生活、高档餐厅和艺术画廊。
+
+  ---
+  - Ally’s survival strategy is to escape out of season, take a break abroad and pretend to be the person she always imagined she would be.
+  - 艾莉的生存策略是逃离季节，去国外休息，假装成为她一直想象中的那个人。
+
+  ---
+  - She meets Logan while she’s away and he turns out to be exactly the kind of distraction she’s looking for.
+  - 她在外出时遇见了洛根，结果他正是她一直在寻找的那种分心的对象。
+
+  ---
+  - With her spirits restored, Ally returns home, picks up the reins again and sets her sights on another successful season, but when Logan unexpectedly arrives on the scene, she soon realises she’s in for a summer that’s going to be far from straightforward…
+  - 精神恢复后，艾莉回家，重新掌控局势，目标是又一个成功的季节，但当洛根意外出现时，她很快意识到，这将是一个远非一帆风顺的夏天......
+
+  ---
+  - **A story about bringing a holiday home – and what happens when what goes on on holiday comes back to bite you… Your favourite authors love Heidi Swain's books:** 'A summer delight!'
+  - **一个关于带节日回家的故事——以及当假期发生的事情反噬你时会发生什么...... 你喜欢的作家都喜欢海蒂·斯温的书：** '夏日的喜悦！'
+
+  ---
+  - SARAH MORGAN 'A delightfully sunny read with added intrigue and secrets' BELLA OSBORNE 'A ray of reading sunshine!'
+  - 莎拉·摩根 ：'一本阳光明媚的读物，增添了更多悬念和秘密' 贝拉·奥斯本 ：'一缕阅读阳光！'
+
+  ---
+  - LAURA KEMP 'A lovely, sweet, summery read' MILLY JOHNSON 'An absolutely gorgeous summer tale of love and secrets' RACHAEL LUCAS
+  - 劳拉·肯普 “一本可爱、温馨、充满夏日气息的读物” 米莉·约翰逊 “一个关于爱情与秘密的绝对华丽夏日故事” 瑞秋·卢卡斯
+
+---
+### 0006. A Season of Hope | 希望的季节
+  - Five years ago when her love, Marcus Wheatley, failed to return from fighting Napoleon’s forces, Lady Olivia Foster buried her heart.
+  - 五年前，当她的爱人马库斯·惠特利未能从拿破仑军队中归来时，奥利维亚·福斯特夫人埋葬了她的心。
+
+  ---
+  - Unable to betray Marcus’s memory, Olivia has gone out of her way to run off prospective suitors.
+  - 奥利维亚无法背叛马库斯的记忆，特意赶走了潜在追求者。
+
+  ---
+  - At three and twenty she considers herself firmly on the shelf.
+  - 二十三岁的她认为自己已经被搁置在架子上。
+
+  ---
+  - Her father, however, disagrees and accepts an offer for Olivia’s hand in marriage.
+  - 然而，她的父亲不同意，接受了奥利维亚的求婚。
+
+  ---
+  - Yet it’s Christmas, when anything can happen.
+  - 然而现在是圣诞节，任何事情都有可能发生。
+
+  ---
+  - Olivia receives a well-timed summons from her grandfather, the Duke of Danby, and eagerly embraces the reprieve from her betrothal.
+  - 奥利维亚及时接到祖父丹比公爵的召唤，欣然接受了婚约的暂缓。
+
+  ---
+  - Only, when Olivia arrives at Danby Castle, she realizes the Christmas season is a time of hope, second chances, and even miracles.
+  - 只是，当奥利维亚抵达丹比城堡时，她意识到圣诞季是充满希望、第二次机会，甚至奇迹的时刻。
+
+---
+### 0007. Extraordinary People
+  - Half-Scottish, half-Italian Enzo MacLeod used to be one of the top forensics experts in Scotland, and now he lives in Toulouse, working as a university professor.
+  - 恩佐·麦克劳德是苏格兰和意大利混血的，曾是苏格兰顶尖的法医专家之一，现在居住在图卢兹，担任大学教授。
+
+  ---
+  - Divorced in Scotland and widowed in France, he has an estranged Scottish daughter and a French daughter he has raised by himself.
+  - 他在苏格兰离婚，在法国丧偶，有一个疏远的苏格兰女儿和一个他独自抚养的法国女儿。
+
+  ---
+  - As if his life isn't complicated enough, he soon finds himself unexpectedly in the hunt for solutions to some vexing cold cases thanks to an ill-advised wager about the power of forensic science.
+  - 仿佛他的生活还不够复杂，他很快又意外地陷入了寻找解决一些棘手悬案的困境，这全靠一场关于法医科学力量的不明智赌注。
+
+  ---
+  - Meanwhile, in Paris, a man desperately seeking sanctuary flees into a church.
+  - 与此同时，在巴黎，一名绝望寻求庇护的男子逃进了一座教堂。
+
+  ---
+  - The next day, his sudden disappearance will make him famous throughout France.
+  - 第二天，他的突然失踪将使他在整个法国闻名。
+
+  ---
+  - Deep in the catacombs below the City of Light, MacLeod unearths disturbing clues deliberately left behind by a killer.
+  - 在光之城地下墓穴深处，麦克劳德发现了凶手故意留下的令人不安的线索。
+
+  ---
+  - But as the retired forensics expert draws closer to the truth, he discovers he may just wind up the next victim for his troubles.
+  - 但随着这位退休法医专家逐渐接近真相，他发现自己可能成为下一个受害者。
+
+---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
