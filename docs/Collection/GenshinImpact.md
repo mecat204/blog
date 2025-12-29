@@ -1,5 +1,11 @@
 ### 0001. Genshin Impact
 * **[Genshin Impact | Youtube](https://www.youtube.com/@GenshinImpact)**
+  - Genshin Impact is an open-world adventure game proudly presented by HoYoverse.
+  - 原神是一款由HoYoverse自豪呈现的开放世界冒险游戏。
+  - In the world of Teyvat — where all kinds of elemental powers constantly surge — epic adventures await, fearless travelers!
+  - 在提瓦特的世界——各种元素力量不断涌现——史诗般的冒险正等待着你，勇敢的旅者们！
+
+  ---
   - [《原神》「月之三」版本PV：「终北的夜行诗」](https://www.youtube.com/watch?v=fU6nElrxNRs)
   - [《原神》「月之三」版本特别节目 ](https://www.youtube.com/watch?v=LxT7S7TDd-s)
   - [《原神》沉玉沐芳 - Disc 1：春风几度醉翘英 ](https://www.youtube.com/watch?v=UM7F_WM1Vhk&list=PLqWr7dyJNgLJCVtbW0yz_CpwpwyVwPJNX&index=1)
