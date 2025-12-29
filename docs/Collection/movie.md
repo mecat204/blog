@@ -66,6 +66,7 @@
   ---
   - **[多瑙影院](https://dnvod.org/)**
   - **[香菇影视](https://www.xiangguys.com/)**
+  * **[时空影院](https://www.skwzt.com/)**
 
 ---
 * **Movie**
@@ -122,7 +123,10 @@
   - [Lucy: Lucy meets Lucy](https://www.youtube.com/watch?v=UcDjWCEvZLM)
   - [LUCY 2 (2026)](https://www.youtube.com/watch?v=deMHi69NA1Q)
   - [美少女特攻队](https://pan.quark.cn/s/edd7d256bc3b#/list/share)
+
+  ---
   - **[异界](https://www.4kvm.net/movies/yj)**
+
   - [逆世界](https://pan.quark.cn/s/fdf3e32f44ac#/list/share)
   - [可爱的骨头](https://pan.quark.cn/s/627222c2d675#/list/share)
 * 动漫
@@ -615,6 +619,10 @@
 
 ---
 * **[新白娘子传奇](https://www.youtube.com/playlist?list=PLlCrV9TCfzMZv3PVDZ37D8sNnccM6LoGa)**
+* **[新白娘子传奇 | Quark](https://pan.quark.cn/s/0491cb23e09f#/list/share)**
+
+---
+* **[仙剑四 | 4kvm.net](https://www.4kvm.net/seasons/xjs)**
 
 ---
 * **[汉武大帝](https://pan.quark.cn/s/2c92f5604b29#/list/share)**
