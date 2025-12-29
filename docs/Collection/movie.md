@@ -591,4 +591,33 @@
   - [【七夜雪】主题曲MV：周深《一生一瞬》| 李沁、曾舜晞主演 | Snowy Night Timeless Love - OST](https://www.youtube.com/watch?v=RD1mFNAvWs0&list=PLpOa-OrneXm0x5o2A-Bi7AVyrG8y1i_39&index=3)
 
 ---
+### 025. Movie Source
+* **七味**
+  - [qmp4 | proxy](https://www.qmp4.com)
+  - [gmp4 | proxy](https://www.gmp4.com)
+  - [qwnull](https://www.qwnull.com)
+  - [qwmkv](https://www.qwmkv.com)
+  - [qwfilm](https://www.qwfilm.com)
+  - [qnmp4](https://www.qnmp4.com)
+
+----
+* **[夸克网盘资源](https://kuakes.com/)**
+* **[夸克4K资源](https://quark4k.com/)**
+
+---
+* **[疯狂动物城2](https://pan.quark.cn/s/017f19dcc305#/list/share/a747b46a7ee14515be0843008c7d941e)**
+
+---
+* **[双轨](https://pan.quark.cn/s/70469f387585#/list/share)**
+
+---
+* **[芸汐传.2018.4K](https://pan.quark.cn/s/777d2b9683c5#/list/share)**
+
+---
+* **[新白娘子传奇](https://www.youtube.com/playlist?list=PLlCrV9TCfzMZv3PVDZ37D8sNnccM6LoGa)**
+
+---
+* **[汉武大帝](https://pan.quark.cn/s/2c92f5604b29#/list/share)**
+
+---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
