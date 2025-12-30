@@ -10,6 +10,13 @@
   - [《原神》「月之三」版本特别节目 ](https://www.youtube.com/watch?v=LxT7S7TDd-s)
   - [《原神》沉玉沐芳 - Disc 1：春风几度醉翘英 ](https://www.youtube.com/watch?v=UM7F_WM1Vhk&list=PLqWr7dyJNgLJCVtbW0yz_CpwpwyVwPJNX&index=1)
   - [《原神》沉玉沐芳 - Disc 2：翠羽云深隐灵濛](https://www.youtube.com/watch?v=roHkAJvAt9s&list=PLqWr7dyJNgLJCVtbW0yz_CpwpwyVwPJNX&index=2)
+  ---
+
+  - [《原神》剧情PV-「沙中遗事」](https://www.youtube.com/watch?v=EEGh9J0TH2E)
+  - [《原神·提瓦特篇》幕间PV-「神的局限性」](https://www.youtube.com/watch?v=jvXVmvW8ZQw)
+
+---
+* **[原神珍珠之歌](https://www.youtube.com/playlist?list=PLqWr7dyJNgLKjMUfZ7mnuPFLxX813sm8K)**
 
 ---
 * **[Sabi´s Nook | Youtube](https://www.youtube.com/@SabisNookFantasyAmbience)**
