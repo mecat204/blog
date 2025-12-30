@@ -5,17 +5,39 @@
 ---
 ### 001. Life Vlog
 * **[李子柒 Liziqi | Youtube](https://www.youtube.com/@cnliziqi)**
-* **[李子柒 | 李家有女，人称子柒。| Douyin](https://v.douyin.com/UzDy7CInEV4/)**
+  - 这里是李子柒YouTube官方频道哦～欢迎订阅：https://goo.gl/nkjpSx
+  - Please  subscribe to 【李子柒 Liziqi 】Liziqi Channel on YouTube if you like my videos
 
+  ---
+  - 本人未在中国大陆以外开设任何销售渠道
+  - So far Liziqi has not set up any distribution channels outside China mainland.
+
+  ---
+  - 目前没有任何官方粉丝后援会哦~
+  - So far I don't have any official fan clubs~
+
+* **[李子柒 | 李家有女，人称子柒。| Douyin](https://v.douyin.com/UzDy7CInEV4/)**
 ---
 * **[江寻千_九月) | Youtube](https://www.youtube.com/@JYjiuyue)**
+  - The smell of fireworks in the world is the most soothing to the hearts of ordinary people!
+  - 世界上烟花的气味是最能抚慰普通人心灵的！
+
+  ---
+  - Welcome to the official YouTube channel of "Jiang Xunqian (September)", mainly to share Chinese intangible cultural heritage with you, so that more people can understand Chinese culture.
+  - 欢迎来到"江巡谦"官方YouTube频道，主要是为了与大家分享中国非物质文化遗产，让更多人了解中国文化。
+
+  ---
+  - Thank you for your support and subscription
+  - 感谢您的支持和订阅
+  ---
   - [曾经最极致的浪漫，千年绝技——打铁花。](https://www.youtube.com/watch?v=HiJiAcwe9pk)
+
 * **[江寻千 (九月) | 莫听穿林打叶声 何妨吟啸且徐行 | Douyin](https://v.douyin.com/S2ENUvEPBJQ/)**
   - [三书六聘十里红妆，带你去看一场真正的中式婚礼. 传世婚服 | 拼酷十里红妆| 拼酷大花轿 濮院时尚古镇 中式婚礼主持人张博](https://v.douyin.com/9NqrnTRJdpk/)
   - [耗时1年零4个月，我用云锦做了一件传世婚服。 | 滴露衣物消毒液 | 传世婚服 | 云锦](https://v.douyin.com/ZZx-30rhdw8/)
 
 ---
-* **[isabel_paige | Youtube ](https://www.youtube.com/@isabel_paige)**
+* **[Isabel Paige | Youtube ](https://www.youtube.com/@isabel_paige)**
   - [The Hardest Days of Winter](https://www.youtube.com/watch?v=jNqhUIYZM8Q)
 * **[VENQUEN的英语日记 | Douyin](https://v.douyin.com/lGerZrVjzQs/)**
   - [学习是方向，世界是目的地！Follow along！ 飞向未知，直面恐惧 旧金山的酸面包，藏着冒险的滋味 独处的时光，发现真实的自己 大桥下的夕阳，点燃成长的勇气 | Isabel Paige](https://v.douyin.com/ACS0U3zIC54/)
@@ -34,9 +56,105 @@
   - [2本能让你逆袭人生的英文书，只要高中水平就能读懂！](https://www.youtube.com/watch?v=L2B1NhxfvIw)
 
 ---
+* **[PRIMAL EARTH | Youtube | 4K](https://www.youtube.com/@primalearth8951)**
+  - Our mother planet "Earth" and the vibrancy of life on it.
+  - 我们的母星"地球"以及它上生命的生机勃勃。
+
+  ---
+  - Feel the breath of "Earth" as you tour the great nature around the world.
+  - 在环游世界这片大自然时，感受"大地"的气息。
+
+  ---
+  - Beautiful and spectacular scenery and animals are still waiting for you!
+  - 美丽壮观的风景和动物们依然在等待你！
+
+  - **[National Parks of the World Amazing Views 4K](https://www.youtube.com/watch?v=cfbrsPKm_5k)**
+
+---
 * **[4k Films by Adnan | Youtube](https://www.youtube.com/@4kfilmsbyadnan)**
+  - Hi, I’m Adnan of the 4k Films by Adnan channel.
+  - 你好，我是Adnan频道4k Films的Adnan。
+
+  ---
+   At heart, I fall for nature callings from early morning bird chirpings, gentle breeze, and waterfalls… to tiny creek of insects natural landscapes and wonders worldwide.
+  - 内心深处，我喜欢大自然的呼唤，清晨的鸟鸣、轻柔的微风和瀑布......到昆虫的小溪，自然景观和世界各地的奇观。
+
+  ---
+  - We cannot find them easily in busy urban life.
+  - 在繁忙的城市生活中，我们很难找到它们。
+
+  ---
+  - My vision is to capture them into everyday accessible videos.
+  - 我的愿景是把他们拍成日常可访问的视频。
+
+  ---
+  - Relax and enjoy the scenery of our beautiful world :)
+  - 放松身心，欣赏我们美丽世界的风景:)
+
+  ---
+  - Thank you so much.
+  - 非常感谢。
+
+  ---
+  - Adnan Email: 4kfilmsbyadnan@gmail.com
+  - Adnan 电子邮件：4kfilmsbyadnan@gmail.com
+
+  ---
+  - **[Russia in 4K - Incredible Scenes & Hidden Gems](https://www.youtube.com/watch?v=HWuDdsmZmv8)**
   - [China in 4K - Incredible Scenes & Uncovering Hidden Gems](https://www.youtube.com/watch?v=6yQH9jUqttE)
   - [Patagonia in 4K - Incredible Scenes & Uncovering Hidden Gems](https://www.youtube.com/watch?v=z8Gw2p2vRr0)
+
+---
+* **[4K Relaxation Channel  | Youtube](https://www.youtube.com/@RelaxationChannel)**
+  - 4K Relaxation Channel in sensational 4K and 8K resolution features spectacular nature videos perfect for deep relaxation, meditation, study, sleep, healing, stress relief and more in the industry-leading, detail-oriented 4K quality that brings nature into your home.
+  - 4K放松频道以惊艳的4K和8K分辨率呈现壮观的自然视频，适合深度放松、冥想、学习、睡眠、疗愈、减压等，采用行业领先的细节导向4K画质，将大自然带入你的家中。
+
+  ---
+  - ProArtInc Company is the producer of all the content posted on this channel.
+  - ProArtInc公司是本频道所有内容的制作方。
+
+  ---
+  - All the copyrights for all the videos belong to ProArtInc Company.
+  - 所有视频的版权均归ProArtInc公司所有。
+
+  ---
+  - Every video you see here is filmed by real people in real places.
+  - 你在这里看到的每一段视频都是由真实的人在真实地点拍摄的。
+
+  ---
+  - No AI, no fake scenes—just genuine nature, shared with you.
+  - 没有AI，没有假场景——只有真实的自然，与你共享。
+
+  ---
+  - All financing of video projects (travel, shooting, editing costs) is done by ProArtInc.
+  - 所有视频项目的融资（差旅、拍摄、剪辑费用）均由ProArtInc.承担。
+
+  ---
+  - ALL THE VIDEOS HERE ARE FOR PRIVATE USE ONLY!
+  - 这里的所有视频仅供私人使用！
+
+  ---
+  - IF YOU WANT TO USE OUR VIDEOS IN ANY PROJECT, PLEASE, OBTAIN A LICENSE BY CONTACTING US AT proartinc1@gmail.com If you want to support our creative work, visit our online stores www.proartinc.net and www.beautifulwashington.com/shop/nature-relaxation-videos.html where you can shop to support us.
+  - 如果您想在任何项目中使用我们的视频，请通过联系我们获取许可 proartinc1@gmail.com 如果您想支持我们的创意工作，请访问我们的在线商店 www.proartinc.net 和 www.beautifulwashington.com/shop/nature-relaxation-videos.html ，您可以在那里购买支持我们的产品。
+
+  ---
+  - **[无人机镜头 - 克罗地亚、欧洲的鸟瞰图 - 3 小时无人机环境电影 | 4K](https://www.youtube.com/watch?v=HSsqzzuGTPo&list=PL-_vMUSUXkyep9L7dxNjDKVZ2wJqtuzW3)**
+
+---
+* **[Scenic Relaxation | Youtube | 4K](https://www.youtube.com/@ScenicRelaxationFilms)**
+  - The goal at Scenic Relaxation is to provide relaxing 4K films of the world's most incredible destinations.
+  - Scenic Relaxation的目标是提供世界上最不可思议目的地的放松4K影片。
+
+  ---
+  - From the Alps of Switzerland, to the exotic landscapes of Africa, Scenic Relaxation will show you our incredible planet.
+  - 从瑞士阿尔卑斯山到非洲的异域风光，Scenic Relaxation 将带你了解我们令人难以置信的星球。
+
+  ---
+  - Relax and enjoy the scenery of our beautiful world :)
+  - 放松，欣赏我们美丽世界的风景:)
+
+  - **[Kamchatka 4K - Scenic Relaxation Film With Calming Music](https://www.youtube.com/watch?v=aaflSqm2LLY)**
+  - **[Japan 4K - Scenic Relaxation Film With Calming Music](https://www.youtube.com/watch?v=D48T0wNm96w)**
 
 ---
 * **[Ariannita la Gringa | Youtube](https://www.youtube.com/@ariannitalagringa)**
@@ -57,7 +175,36 @@
 
 ---
 * **[BBC Earth | Youtube](https://www.youtube.com/@bbcearth)**
+  - Bringing you face-to-face with heart-pounding action, mind-blowing ideas and the sheer wonder of being part of this amazing planet we call home.
+  - 带你面对令人心跳加速的动作、令人震撼的创意，以及成为这个我们称之为家的奇妙星球一部分的纯粹惊奇。
+
+  ---
+  - BBC Earth is the official channel of well-known Sir David Attenborough series such as Planet Earth, Frozen Planet and Blue Planet II.
+  - BBC地球频道是著名大卫·阿滕伯勒系列节目的官方频道，如《地球脉动》、《冰冻星球》和《蓝色星球II》。
+
+  ---
+  - It's also where you can find fantastic nature and wildlife documentaries such as Life of Mammals and classics like Planet Dinosaur.
+  - 这里还能找到精彩的自然和野生动物纪录片，如《哺乳动物的生活》，以及经典作品如《恐龙星球》。
+
+  ---
+  - You can become part of the BBC community by checking out our BBC Earth Facebook, Instagram, TikTok, Snapchat and Twitter.
+  - 您可以通过查看我们的BBC Earth Facebook、Instagram、TikTok、Snapchat和Twitter，成为BBC社区的一员。
+
+  ---
+  - Here you'll find the best natural history content from the web, exclusive videos and images and a thriving, vibrant community.
+  - 在这里，您可以找到来自网络的最佳自然历史内容、独家视频和图片，以及一个充满活力的社区。
+
+  ----
+  - This is a commercial channel from BBC Studios.
+  - 这是BBC工作室的商业频道。
+
+  ---
+  - Service information and feedback: https://www.bbcstudios.com/contact/contact-us/
+  - 服务信息与反馈：https://www.bbcstudios.com/contact/contact-us/
+
+  ---
   - [1 Hour of Magnificent Moments Narrated by Sir David Attenborough | BBC Earth](https://www.youtube.com/watch?v=Vd7iuPV_AF0)
+
 * **[BBC英语纪录频道 | Douyin](https://v.douyin.com/Kg7WEHuZnzo/)**
   - [神奇的植物 GREEN PLANET 1](https://v.douyin.com/AyWrh_p2L2U/)
 
@@ -91,12 +238,75 @@
 
 ---
 * **[Tourist Walk Tours](https://www.youtube.com/@TouristWalkTours)**
+  - Welcome to Tourist Walk Tours — your passport to adventure!
+  - 欢迎来到旅游徒步游——你的冒险通行证！
+
+  ---
+  - 👋 Hi, I’m Dan, a passionate travel videographer who loves capturing the world’s most amazing places — from bustling cities to beautiful villages that take your breath away.
+  - 👋 你好，我是丹，一名充满热情的旅行摄像师，热爱捕捉世界上最令人惊叹的地方——从繁忙的城市到令人屏息的美丽村庄。
+
+  ---
+  - Join me on exciting journeys that inspire and connect us.
+  - 加入我，一起踏上激动人心、连接我们的旅程。
+
+  ---
+  - 🚶‍♂️ Let’s explore vibrant cultures, rich histories, and breathtaking scenery together.
+  - 🚶 ♂️ 让我们一起探索充满活力的文化、丰富的历史和令人惊叹的风景。
+
+  ---
+  - Every destination has a unique story, and I’m here to share it with you.📹
+  - 每个目的地都有独特的故事，我在这里与你分享。 📹
+
+  ---
+  - My immersive videos make you feel like you’re right there, walking beside me.
+  - 我的沉浸式视频让你仿佛就在我身边，走在我身边。
+
+  ---
+  - Whether you’re planning your next trip or simply dreaming, this channel is your perfect travel companion.🌆
+  - 无论你是在计划下一次旅行，还是只是做梦，这个频道都是你完美的旅行伙伴。 🌆
+
+  ---
+  - Discover iconic landmarks, delicious local cuisine, and insider tips for your adventures.
+  - 发现标志性地标、美味的本地美食以及冒险的内部小贴士。
+
+  ---
+  - The world is huge — let’s explore it together!
+  - 世界很大——让我们一起探索吧！
+
+  ---
   - [**瑞士**最美的山村——你会想搬到这里来。](https://www.youtube.com/watch?v=o9esB3n-GAw)
 
 ---
 * **[🇨🇭 SWISS - Most Beautiful Places & Walking Tours](https://www.youtube.com/@SWISS_WalkingTours)**
-  - [**瑞士**的天堂：瑞士乡村美丽村庄的雨天](https://www.youtube.com/watch?v=-kenx1rQyZo)
+  - Welcome to our YouTube channel dedicated to the breathtaking beauty of Switzerland!
+  - 欢迎来到我们的YouTube频道，专注于瑞士令人叹为观止的美景！
 
+  ---
+  - Join us on enchanting journeys through the most picturesque destinations in this Alpine wonderland.
+  - 加入我们，踏上穿越这片阿尔卑斯奇境中最美丽目的地的迷人旅程。
+
+  ---
+  - Explore the charm of Mürren, the awe-inspiring Jungfrau: Top of Europe, the mesmerizing Lauterbrunnen Valley with its cascading waterfalls, the scenic Allmendhubel, the idyllic town of Spiez, the crystal-clear waters of Blausee, the serene Brienz, the alpine wonders of Kandersteg, the captivating Grindelwald, and the majestic Swiss Alps.
+  - 探索穆伦的魅力、令人敬畏的少女峰：欧洲之巅、迷人的劳特布伦嫩谷及其瀑布、风景如画的奥尔门杜贝尔、田园诗般的斯皮茨镇、清澈见底的布劳西湖水、宁静的布里恩茨、坎德施泰格的高山奇观、迷人的格林德沃，以及雄伟的瑞士阿尔卑斯山。
+
+  ---
+  - To our valued viewers, we extend our heartfelt gratitude for joining us on these adventures.
+  - 我们衷心感谢亲爱的观众们加入我们的这些冒险。
+
+  ---
+  - Your support means the world to us!
+  - 你们的支持对我们意义重大！
+
+  ---
+  - If you haven't already, please subscribe to our channel and hit the like button.
+  - 如果你还没订阅，请订阅我们的频道并点赞。
+
+  ---
+  - By doing so, you not only express your appreciation but also assist others in discovering the unparalleled beauty of Switzerland and relishing the wonders of its nature.
+  - 这样做不仅表达了你的欣赏，也帮助他人发现瑞士无与伦比的美丽，享受其自然的奇观。
+
+  ---
+  - [**瑞士**的天堂：瑞士乡村美丽村庄的雨天](https://www.youtube.com/watch?v=-kenx1rQyZo)
 
 ---
 ### 002. Chinese Vlog
