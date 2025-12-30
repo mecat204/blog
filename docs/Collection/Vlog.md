@@ -157,6 +157,10 @@
   - **[Japan 4K - Scenic Relaxation Film With Calming Music](https://www.youtube.com/watch?v=D48T0wNm96w)**
 
 ---
+* **[Relaxation Film | Douyin](https://v.douyin.com/17pgl3YprfA/)**
+  - [【4K 奥地利-哈尔施塔特】俯瞰恬静奥地利小镇，湖景峡湾宁静怡然   ](https://v.douyin.com/fUD3TSTWrkQ/)
+
+---
 * **[Ariannita la Gringa | Youtube](https://www.youtube.com/@ariannitalagringa)**
   - [Religious Vocabulary in English](https://www.youtube.com/watch?v=Ae8odmRJNu0)
   - [購物中心英語詞彙](https://www.youtube.com/watch?v=VFe7Ap1kfk0)
