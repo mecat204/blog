@@ -277,7 +277,7 @@
   - [**瑞士**最美的山村——你会想搬到这里来。](https://www.youtube.com/watch?v=o9esB3n-GAw)
 
 ---
-* **[🇨🇭 SWISS - Most Beautiful Places & Walking Tours](https://www.youtube.com/@SWISS_WalkingTours)**
+* **[🇨🇭 SWISS - Most Beautiful Places & Walking Tours | 瑞士](https://www.youtube.com/@SWISS_WalkingTours)**
   - Welcome to our YouTube channel dedicated to the breathtaking beauty of Switzerland!
   - 欢迎来到我们的YouTube频道，专注于瑞士令人叹为观止的美景！
 
