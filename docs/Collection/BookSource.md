@@ -141,9 +141,15 @@
   - [120 Minutes of Real-World English Listening & Speaking Training](https://youtube.com/watch?v=1-kJsy_B4T4)
 
 ---
-* **[KT英语](https://v.douyin.com/u6Yboc0hzMY/)**
-  - Knowledge Transfer 开启记录，见证成长 拿捏心态不悔未来 告别emo 奋斗最青春
+* **[KT英语 | Knowledge Transfer 开启记录，见证成长 拿捏心态不悔未来 告别emo 奋斗最青春 | 千章](https://v.douyin.com/u6Yboc0hzMY/)**
   - [Beginner-120、学习停止翻译](https://v.douyin.com/FC480Y4AbGY/)
+  - [Q&A-077、help的短语动词！ | 英语口语 | 英语没那么难 | 英语学习 | 老外教英语](https://v.douyin.com/XajhfXtaGaU/)
+
+---
+* **[CC英语听读 | 每日英语文章分享,一起来打卡学习 |  百章 ](https://v.douyin.com/VQVWqMakCdo/)**
+  - [And i have learned that one important trait that distinguishes those who truly excel in life is hard work.](https://v.douyin.com/HL_dxJG0lUA/)
+  - [放松美好的生活。](https://v.douyin.com/7h-65W0Gj8I/)
+  - [付出才会有收获！](https://v.douyin.com/gkfcsJ1BGCA/)
 
 ---
 * **[grammarly](https://www.grammarly.com/)**

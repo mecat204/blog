@@ -482,6 +482,20 @@
   * **[嘉鹅 | 橱窗可以自助下单哦](https://v.douyin.com/KVYyrvI0fUQ/)**
     - [你们喝完爱说啥故事 说给我听听😂 | 酒后故事 | 鹅嘉 | 嘉鹅的朋友圈](https://v.douyin.com/5-3iv4rCASY/)
 
+  ---
+  * **[暴躁虾剪 | 一个要把西游记剪成臊子的男人 五百章](https://v.douyin.com/xma4-2Rjo5s/)**
+    - [2026来了 祝君：岁岁常欢愉、年年皆胜意 | 新年快乐 | 2026跨年 | 青年创作者成长计划 | 青年创作年终讲](https://v.douyin.com/7z9Il6Puznw/)
+    - [托塔天王的意思 朕自己也姓孙？青年创作者成长计划 | 青年创作年终讲 | 不一样的西游记](https://v.douyin.com/qTPyNX6RnnQ/)
+    - [世界不应该是这样的 做人不应该是这样的](https://v.douyin.com/_iPApB2Pdm8/)
+    - [他们加上我们 能不能站着把真经取了？青年创作者成长计划 | 不一样的西游记](https://v.douyin.com/PdkMNZ669CY/)
+    - [三藏：我不能让有些人借着改道为僧，乱了车迟国，乱了凡人的天下 |青年创作者成长计划 |不一样的西游记 |大明王朝1566](https://v.douyin.com/NmGgzNNA-CI/)
+    - [用《西游记》复刻《雍正王朝》卸甲！！！](ttps://v.douyin.com/jZ6KL8hjRCg/)
+
+  ---
+  * **[星班长和洛同学 | 千章](https://v.douyin.com/WRtft6eVLnA/)**
+    - [说着说着又打起来了！那这个貂不得可长女先穿嘛！哈哈哈一听这话！妹妹就生气！双胞胎 | 长幼有序 | 抽象](https://v.douyin.com/a619Pb9tH_8/)
+    - [今天下雪啦！本来和和美美的 但是双胞胎真是说不好因为什么打起来！双胞胎| 打架 | 下雪啦](https://v.douyin.com/sebpU_dvIRw/)
+
 ---
 ### 015. 乡野·治愈系风景
 * **[Plant](https://v.douyin.com/UpzNpH0zQSs/)**
