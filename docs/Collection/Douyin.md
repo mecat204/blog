@@ -324,6 +324,10 @@
   * **[梦灵逸](https://v.douyin.com/Qc77CKKA1SI/)**
     - [创造的能量，生生不息 手工玫瑰香皂，花草药摆件独一无二](https://v.douyin.com/fxknUQWDFxY/)
     - [联想到小时候的悟空 | 画画手绘 | procreate绘画 | 绘画作品 | 画画 | 手绘](https://v.douyin.com/jPSqq3cuB0A/)
+    - [分享对道，这个字的理解感悟 | 感悟| 修行| 道德经| 灵性| 能量](https://v.douyin.com/8P_tNig-Lvo/)
+    - [围巾的一些能量感悟 | 日常分享 | 灵性| 疗愈| 能量| 修行](https://v.douyin.com/6aLQ0RZA8lc/)
+    - [㊗2026越来越好💓 | 疗愈| 新年| 灵性| 祝福# 艺术](https://v.douyin.com/DCYD5g6k4TM/)
+    - [想要诗歌文字版与mp3歌曲，移步公众号 | 自拍 | 诗歌原创 | 疗愈| 修行| 能量](https://v.douyin.com/XdhXnI-BKIE/)
 
   ---
   * **[别吵吵. | 要永远乐观且自由 谢谢大家的喜欢](https://v.douyin.com/HqeCG75YIpU/)**
@@ -397,6 +401,7 @@
     - [心疼一秒 倒霉一年 | 成功人士| 商务 | 气质哥 | 古风 | 模仿](https://v.douyin.com/6M2STmFu0bk/)
     - [明制汉服和故宫最搭了 | 故宫 | 大明少女 | 周深怜悯| 音乐缘计划| 恨海晴天专属bgm](https://v.douyin.com/5MlsalQekaI/)
     - [天冷了 大家多吃点衣服 # 旅行 # 户外# 拓路者飞天冲锋衣](https://v.douyin.com/6WqFVlWjzRw/)
+
 
   ---
   * **[羊吃狼](https://v.douyin.com/iT6rcdF5cwA/)**
