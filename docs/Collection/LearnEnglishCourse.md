@@ -1,3 +1,12 @@
+### 0000. 开源项目
+* **[WEIFENG2333 | VideoCaptioner | 翻译软件 ](https://github.com/WEIFENG2333/VideoCaptioner)**
+  - [videocaptioner](https://www.videocaptioner.cn/)
+
+---
+* **[chidiwilliams | buzz | 翻译软件 ](https://github.com/chidiwilliams/buzz)**
+  - [buzz | zh](https://chidiwilliams.github.io/buzz/zh/docs)
+
+---
 ### 0001. English Learn
 * **[句乐部](https://julebu.co)**
 * [阿崔cxr](https://v.douyin.com/db2HKpQSCl4/)
@@ -209,6 +218,27 @@
   - 如需了解更多关于将TED用于商业目的的信息（例如员工学习、电影或在线课程），请在此提交媒体请求：https://media-requests.ted.com。
 
 ---
+* **[Dr. Olivia Remes | Youtube](https://www.youtube.com/@dr.oliviaremes5962)**
+  - Hi!  I'm Dr. Olivia Remes and I'm a mental health researcher at the University of Cambridge.
+  - 你好！ 我是奥利维亚·雷梅斯博士，剑桥大学的心理健康研究员。
+
+  ---
+  - I have been researching anxiety, depression, and coping strategies for wellbeing and resilience for a long time, and I'm excited to share my content with you!
+  - 我一直在研究焦虑、抑郁以及关于健康和韧性的应对策略，现在很高兴能和大家分享我的内容！
+
+  ---
+  - I am also a life coach working with people to help them achieve their goals in life.
+  - 我也是一名生活教练，帮助人们实现人生目标。
+
+  ---
+  - Stay tuned for videos on coping strategies, how to take back control of your life, how to become confident, and much more!
+  - 敬请关注关于应对策略、如何重新掌控生活、如何变得自信等更多内容的视频!
+
+  ---
+  - [Feeling overwhelmed? Tips from Dr Olivia Remes ](https://www.youtube.com/watch?v=8-eUxk69r-I)
+  - [How to manage exam stress by Dr Olivia Remes](https://www.youtube.com/watch?v=Ni3VEgbvuhU)
+
+---
 * **[TED | Youtube](https://www.youtube.com/@TED)**
   - The TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less).
   - TED演讲频道汇集了TED大会上最精彩的演讲和表演，世界顶尖的思想家和实践者将在18分钟（或更短时间）内发表他们人生中最精彩的演讲。
@@ -229,12 +259,11 @@
   - For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com
   - 如需了解更多关于将TED用于商业目的（如员工学习、电影或在线课程）的信息，请提交媒体请求 https://media-requests.ted.com
 
-* **[TED精选演讲](https://v.douyin.com/QNPfTBHhKhU/)**
-* **[TED今日演讲 | 每日更新全球演讲，学习英语，聆听思想](https://v.douyin.com/TTu5BG_zzbE/)**
-  - [泰勒纽约大学演讲：现在开始你要靠自己了](https://v.douyin.com/o0jHjUE0uLc/)
+---
+* **[How the Fridge Changed Food | Nicola Twilley | TED](https://www.youtube.com/watch?v=Mz1ItbiNqxw)**
 
 ---
-* **[TED 视频精选](https://v.douyin.com/ww6tnRMHqKM/)**
+* **[TED 视频精选 | 千章 | Douyin](https://v.douyin.com/ww6tnRMHqKM/)**
   - [6个科学学习法](https://v.douyin.com/fVrslOuU-lQ/)
   - 情绪记忆法（越骂记得越牢）
   - 睡眠θ波学习（睡觉也能背单词）
@@ -244,7 +273,14 @@
   - 3遍循环记忆（永久刻进大脑）
 
 ---
-* **[夏冰雹频道](https://v.douyin.com/suT9hTmBYss/)**
+* **[TED精选演讲 | 五百章 | Douyin](https://v.douyin.com/QNPfTBHhKhU/)**
+
+---
+* **[TED今日演讲 | 每日更新全球演讲，学习英语，聆听思想 | 百章 | Douyin](https://v.douyin.com/TTu5BG_zzbE/)**
+  - [泰勒纽约大学演讲：现在开始你要靠自己了](https://v.douyin.com/o0jHjUE0uLc/)
+
+---
+* **[夏冰雹频道 | 五百章](https://v.douyin.com/suT9hTmBYss/)**
   - [15年的好习惯](https://v.douyin.com/6Y8P2kxOQEU/)
   - 30岁活成18岁的状态？我坚持了15年的好习惯，让我精力充沛 从青春期熬夜发胖的 "死肥宅" 到彻底改变：15 岁那年我靠调整生活习惯瘦了 35 斤，之后 15 年始终坚持不熬夜、每天运动、拒绝超加工食品，现在 30 岁仍保持着 15 岁般的高能量状态。这些习惯不仅让我精力充沛，更让学业事业一路稳步提升。 视频里会拆解我的规律睡眠技巧、随时随地能做的运动方案、简单易执行的饮食原则，以及如何利用每天黄金 4 小时放大成长效率。只要你跟着做就能养出持久高能量，越活越顺
   - [DOSE效应](https://v.douyin.com/2UCYS6KdXow/)
@@ -601,6 +637,20 @@
 ---
 * **[PAPAYA 電腦教室](https://www.youtube.com/@papayaclass)**
   - [Suno AI 作曲](https://www.youtube.com/watch?v=TlRUg9lCKYY)
+
+---
+### 0004. College and University
+* **[Cambridge University | Youtube](https://www.youtube.com/@cambridgeuniversity)**
+  - Welcome to Cambridge University's YouTube Channel, where you can find out about some of the research, discoveries and innovations that take place here.
+  - 欢迎来到剑桥大学的YouTube频道，在这里你可以了解这里发生的一些研究、发现和创新。
+
+  ---
+  - In particular, check out the Cambridge Ideas series, a collection of short films in which top researchers reveal some of their latest findings and discuss subjects ranging from energy to disappearing languages, and policing the streets to the future of robotics.
+  - 特别是，可以看看剑桥创意系列，这是一系列短片，顶尖研究人员在其中揭示了他们的最新发现，并讨论从能源到消失的语言、街头治安以及机器人未来的主题。
+
+  ---
+  - Whether you are at Cambridge, thinking about applying, or just curious about what happens at this famous University, this channel gives you a chance to find out something you didn't already know about the world around you!
+  - 无论你是在剑桥大学，正在考虑申请，还是只是对这所著名大学的活动感到好奇，这个频道都让你有机会发现你之前不知道的关于周围世界的真相！
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
