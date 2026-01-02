@@ -110,22 +110,6 @@
   - [美国母亲节的历史](https://v.douyin.com/8oQWIVf230o/)
 
 ---
-* **[TED](https://www.youtube.com/@TED)**
-* **[TED精选演讲](https://v.douyin.com/QNPfTBHhKhU/)**
-* **[TED今日演讲 | 每日更新全球演讲，学习英语，聆听思想](https://v.douyin.com/TTu5BG_zzbE/)**
-  - [泰勒纽约大学演讲：现在开始你要靠自己了](https://v.douyin.com/o0jHjUE0uLc/)
-
----
-* **[TED 视频精选](https://v.douyin.com/ww6tnRMHqKM/)**
-  - [6个科学学习法](https://v.douyin.com/fVrslOuU-lQ/)
-  - 情绪记忆法（越骂记得越牢）
-  - 睡眠θ波学习（睡觉也能背单词）
-  - 黄金1小时法则（早起学习效率炸裂）
-  - 洗澡学习法（灵感爆发期）
-  - 虚假deadline技巧（逼出极限专注力）
-  - 3遍循环记忆（永久刻进大脑）
-
----
 * **[松鼠联盟 | 英文绘本原创作者 | 愿每个故事都是跨越时空的握手](https://v.douyin.com/DJJPyBRIkvs/)**
   - [书和玫瑰 每天五分钟英语绘本 原创英语绘本动画 英语磨耳朵 | 看动画学英语  | 英语绘本  | 英语没那么难](https://v.douyin.com/HXRwmvhjQ4E/)
   - [卖火柴的小女孩 每天五分钟英语绘本 原创英语绘本动画 英语磨耳朵 | 看动画学英语  | 英语绘本](https://v.douyin.com/1ucbgFGNCfE/)
@@ -195,7 +179,7 @@
   - 学语言害怕开口？这招帮你轻松跨过心理障碍 很多人把说错一句话看得太严重，结果越想避免错误，心理负担就越重。反而，那些敢于多听、多读、多试的学习者，更快突破了心理障碍。 这也印证了心理语言学里的一个理论： 📖 Affective Filter Hypothesis（情感过滤假说） —— 当我们焦虑、紧张时，大脑对语言的吸收效率会下降；而在放松、愉快的状态下，我们更容易习得语言。
 
 ---
-* **[TED Archive](https://www.youtube.com/@TEDTalks)**
+* **[TED Archive | Youtube ](https://www.youtube.com/@TEDTalks)**
   - Welcome to the TED Archive, a collection of all the talks from TED conferences from 1984 on*.
   - 欢迎来到TED档案馆，这里收录了自1984年以来所有TED会议的演讲*。
 
@@ -210,6 +194,54 @@
   ---
   - But welcome to our as-comprehensive-as-possible work-in-progress; we’ll be working backward in time and adding talks from earlier conferences regularly, so check back often.
   - 但欢迎来到我们尽可能全面的进行中;我们将倒推时间，定期添加早期会议的演讲，敬请经常回来查看。
+
+---
+* **[TEDx Talks | Youtube](https://www.youtube.com/@TEDx)**
+  - TEDx is an international community that organizes TED-style events anywhere and everywhere -- celebrating locally-driven ideas and elevating them to a global stage.
+  - TEDx是一个国际社区，组织类似TED的活动，地点和地点——庆祝本地驱动的理念，并将其提升到全球舞台。
+
+  ---
+  - TEDx events are produced independently of TED conferences, each event curates speakers on their own, but based on TED's format and rules.
+  - TEDx活动独立于TED会议制作，每个活动都会根据TED的形式和规则单独策划演讲嘉宾。
+
+  ---
+  - For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request here: https://media-requests.ted.com.
+  - 如需了解更多关于将TED用于商业目的的信息（例如员工学习、电影或在线课程），请在此提交媒体请求：https://media-requests.ted.com。
+
+---
+* **[TED | Youtube](https://www.youtube.com/@TED)**
+  - The TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less).
+  - TED演讲频道汇集了TED大会上最精彩的演讲和表演，世界顶尖的思想家和实践者将在18分钟（或更短时间）内发表他们人生中最精彩的演讲。
+
+  ---
+  - Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more.
+  - 请关注关于科技、娱乐和设计的讲座——以及科学、商业、全球议题、艺术等。
+
+  ---
+  - You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know.
+  - 你可以链接或嵌入这些视频，转发给其他人，并与你认识的人分享这些想法。
+
+  ---
+  - TED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy.
+  - TED的视频可根据知识共享许可协议、署名-非商业-禁止衍生（或CC by – NC – ND 4.0 International）及我们的TED演讲使用政策：https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy 用于非商业目的。
+
+  ---
+  - For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com
+  - 如需了解更多关于将TED用于商业目的（如员工学习、电影或在线课程）的信息，请提交媒体请求 https://media-requests.ted.com
+
+* **[TED精选演讲](https://v.douyin.com/QNPfTBHhKhU/)**
+* **[TED今日演讲 | 每日更新全球演讲，学习英语，聆听思想](https://v.douyin.com/TTu5BG_zzbE/)**
+  - [泰勒纽约大学演讲：现在开始你要靠自己了](https://v.douyin.com/o0jHjUE0uLc/)
+
+---
+* **[TED 视频精选](https://v.douyin.com/ww6tnRMHqKM/)**
+  - [6个科学学习法](https://v.douyin.com/fVrslOuU-lQ/)
+  - 情绪记忆法（越骂记得越牢）
+  - 睡眠θ波学习（睡觉也能背单词）
+  - 黄金1小时法则（早起学习效率炸裂）
+  - 洗澡学习法（灵感爆发期）
+  - 虚假deadline技巧（逼出极限专注力）
+  - 3遍循环记忆（永久刻进大脑）
 
 ---
 * **[夏冰雹频道](https://v.douyin.com/suT9hTmBYss/)**
@@ -296,8 +328,6 @@
 
 * **[剧能学英语 | 剧能 背单词](https://v.douyin.com/L4Ll0xB9rcU/)**
   - [两个打开的区别](https://v.douyin.com/lLEcpgsXh-g/)
-
-                                                                                                                              |
 
 ---
 * **[BBC Earth](https://www.youtube.com/@bbcearth)**
