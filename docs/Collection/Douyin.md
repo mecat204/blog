@@ -501,6 +501,10 @@
     - [说着说着又打起来了！那这个貂不得可长女先穿嘛！哈哈哈一听这话！妹妹就生气！双胞胎 | 长幼有序 | 抽象](https://v.douyin.com/a619Pb9tH_8/)
     - [今天下雪啦！本来和和美美的 但是双胞胎真是说不好因为什么打起来！双胞胎| 打架 | 下雪啦](https://v.douyin.com/sebpU_dvIRw/)
 
+  ---
+  * **[乃炎英语 | Douyin | 五百章](https://v.douyin.com/pPqC74m3eTU/)**
+  - **[日常口语](https://v.douyin.com/D8Wk9TkC14Y/)**
+
 ---
 ### 015. 乡野·治愈系风景
 * **[Plant](https://v.douyin.com/UpzNpH0zQSs/)**
