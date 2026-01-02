@@ -67,6 +67,7 @@
   - [CollegeCourse](Collection/CollegeCourse)
   - [CodingSource](Collection/CodingSource)
   - [Douyin](Collection/Douyin)
+  - [LearnEnglishCourse](Collection/LearnEnglishCourse)
   - [EnglishLearn](Collection/EnglishLearn)
   - [Movie](Collection/movie)
   - [AiCoding](Collection/AiCoding)
