@@ -12,21 +12,21 @@
 * [阿崔cxr](https://v.douyin.com/db2HKpQSCl4/)
 
 ---
-* **[linguamarina](https://www.youtube.com/@linguamarina)**
+* **[linguamarina | Youtube](https://www.youtube.com/@linguamarina)**
 
 ---
-* **[EnglishClass101.com](https://youtube.com/@EnglishClass101)**
+* **[EnglishClass101.com | Youtube](https://youtube.com/@EnglishClass101)**
   - [How to Score 9.0 on IELTS EXAM: best tips and strategies](https://www.youtube.com/watch?v=s2M1t-pHJcc&list=PLoDjs_CkjI64nuMBkse4y2zJitzeGlZxi)
   - [Fix Your English Speaking in 150 Minutes](https://www.youtube.com/watch?v=Xg0dZdphmUU)
   - [120 Minutes of Real-World English Listening & Speaking Training](https://youtube.com/watch?v=1-kJsy_B4T4)
 
 ---
-* **[KT英语 | Knowledge Transfer 开启记录，见证成长 拿捏心态不悔未来 告别emo 奋斗最青春 | 千章](https://v.douyin.com/u6Yboc0hzMY/)**
+* **[KT英语 | Knowledge Transfer 开启记录，见证成长 拿捏心态不悔未来 告别emo 奋斗最青春 | 千章 | Douyin](https://v.douyin.com/u6Yboc0hzMY/)**
   - [Beginner-120、学习停止翻译](https://v.douyin.com/FC480Y4AbGY/)
   - [Q&A-077、help的短语动词！ | 英语口语 | 英语没那么难 | 英语学习 | 老外教英语](https://v.douyin.com/XajhfXtaGaU/)
 
 ---
-* **[CC英语听读 | 每日英语文章分享,一起来打卡学习 |  百章 ](https://v.douyin.com/VQVWqMakCdo/)**
+* **[CC英语听读 | 每日英语文章分享,一起来打卡学习 |  百章 | Douyin](https://v.douyin.com/VQVWqMakCdo/)**
   - [And i have learned that one important trait that distinguishes those who truly excel in life is hard work.](https://v.douyin.com/HL_dxJG0lUA/)
   - [放松美好的生活。](https://v.douyin.com/7h-65W0Gj8I/)
   - [付出才会有收获！](https://v.douyin.com/gkfcsJ1BGCA/)
@@ -35,23 +35,55 @@
 * **[grammarly](https://www.grammarly.com/)**
 
 ---
-* **[ETJ English](https://www.youtube.com/@etjenglish)**
+* **[ETJ English | Youtube](https://www.youtube.com/@etjenglish)**
+  - I’m Elliott, founder of ETJ English - a British pronunciation coach and communication mentor helping learners and professionals speak English clearly, naturally, and confidently.
+  - 我是Elliott，ETJ English的创始人——一位英国发音教练和沟通导师，帮助学习者和专业人士清晰、自然且自信地说英语。
+
+  ---
+  - Whether your goal is reducing your accent, sounding more British, or simply feeling more confident in your everyday or professional communication, I’m here to help.
+  - 无论你的目标是减少口音、让自己听起来更有英国口音，还是单纯在日常或职业交流中感到更自信，我都在这里为你提供帮助。
+
+  ---
+  - On this channel, you’ll find lessons on:
+	  *	Modern RP British pronunciation
+	  *	Connected speech, stress, and intonation
+	  *	Sounding natural in conversations and meetings (communication skills)
+
+  - 在本频道，你会找到以下课程:
+    * 现代RP英式发音
+    * 连贯的言语、重音和语调
+    * 在对话和会议中听起来自然（沟通技巧）
+
+  ---
+  - Common British expressions and real speech habits Ready to take it further?
+  - 常见的英国表达和真实的说话习惯 准备好更进一步了吗？
+
+  ---
+  - You can get personal feedback and daily support with my WhatsApp coaching and full pronunciation course at: https://www.etjenglish.com  For business enquiries or corporate coaching, feel free to contact me through email: elliott@etjenglish.com
+  - 您可以通过我的WhatsApp辅导和完整发音课程获得个人反馈和每日支持： https://www.etjenglish.com 如有商业咨询或企业辅导，欢迎通过电子邮件联系我：elliott@etjenglish.com
 
 ---
-* **[EnglishwithLucy](https://www.youtube.com/@EnglishwithLucy)**
+* **[EnglishwithLucy | Youtube](https://www.youtube.com/@EnglishwithLucy)**
+  - Click to download my FREE B1-C1
+  - 点击下载我的免费B1-C1
 
----
-* **[EnglishwithEmma](https://www.youtube.com/@EnglishwithEmma)**
+  ---
+  - Ebook!👇
+  - 电子书！ 👇
+
+  ---
+  - It contains ALL the vocab and grammar you need to learn to pass the B1, B2 & C1 levels of English!👇
+  - 它包含了你通过英语B1、B2和C1水平所需的所有词汇和语法！ 👇
 
 ---
 * **[etymonline](https://www.etymonline.com/)**
 
 ---
-* **[早晨英语](https://v.douyin.com/IjE1oR_vlqY/)**
+* **[早晨英语 | 百章 | Douyin](https://v.douyin.com/IjE1oR_vlqY/)**
   - [慢速英语](https://v.douyin.com/xidQU-uA1fw/)
 
 ---
-* **[茵茵老师](https://v.douyin.com/APnunC4tVXM/)**
+* **[茵茵老师 | 五百章 | Douyin](https://v.douyin.com/APnunC4tVXM/)**
   - [励志英语](https://v.douyin.com/FS3sz0uAsbs/)
 
 ---
@@ -59,87 +91,87 @@
   - [remix-words-funny](https://github.com/SteveSuv/remix-words-funny)
 
 ---
-* **[口语侠–Morgan教雅思](https://v.douyin.com/8yNeQLjVlPs/)**
+* **[口语侠–Morgan教雅思 | 二百章 | Douyin](https://v.douyin.com/8yNeQLjVlPs/)**
   - [口语练习](https://v.douyin.com/8NHv93dqy7w/)
 
 ---
-* **[Mia英语精读自动化工具屋](https://v.douyin.com/IsPU3JHbfgE/)**
+* **[Mia英语精读自动化工具屋 | 五百章 | Douyin](https://v.douyin.com/IsPU3JHbfgE/)**
   - [世界新闻](https://v.douyin.com/fXTP_0hFVW8/)
 
 ---
-* **[每日英语 | 五百章](https://v.douyin.com/GD4AG2UBaQU/)**
+* **[每日英语 | 五百章 | Douyin](https://v.douyin.com/GD4AG2UBaQU/)**
   - [英语 | 英语口语 | 英语跟读 | 英语合拍配音朗读](https://v.douyin.com/gIOKICHzYGo/)
   - [英语 | 英语口语 | 英语跟读 | 英语合拍](https://v.douyin.com/4VW0GkiC3dY/)
   - [英语 | 英语口语 | 英语跟读 | 英语合拍配音朗读](https://v.douyin.com/t-P1OJOU168/)
 
 ---
-* **[每日英语天天练 | 百章](https://v.douyin.com/BWtb9hqpzkY/)**
+* **[每日英语天天练 | 百章 | Douyin](https://v.douyin.com/BWtb9hqpzkY/)**
   - [每日英语|海洋生物类单词 | 英语  | 英语没那么难  | 实用英语  | 小学英语  | 单词速记](https://v.douyin.com/MpWFz83OIDI/)
   - [每日英语|一图学完调味品类单词| 英语 | 英语没那么难 | 日常英语 | 实用英语 | 亲子英语](https://v.douyin.com/yqX9yXneiRw/)
   - [分类记单词|自然景观类 | 英语  | 英语没那么难  | 实用英语  | 日常英语  | 亲子英语](https://v.douyin.com/paBZ7B2LMWg/)
 
 ---
-* **[Cleo的小世界](https://v.douyin.com/62TEDPrsx9k/)**
+* **[Cleo的小世界 |  二百章 | Douyin](https://v.douyin.com/62TEDPrsx9k/)**
   - [Cleo讲科普-拿破仑真的很矮吗](https://v.douyin.com/OG1c7jv26RQ/)
 
 ---
-* **[LearnAndRecord](https://v.douyin.com/cytyFEYt_E0/)**
+* **[LearnAndRecord | 二百章 | Douyin](https://v.douyin.com/cytyFEYt_E0/)**
   - [第三十二集|A1 英语听力练习 用英语思考](https://v.douyin.com/4lsQ08Voybw/)
 
 ---
-* **[超能英语听力 | 三百章](https://v.douyin.com/lX4sHA_1d7Q/)**
+* **[超能英语听力 | 三百章 | Douyin](https://v.douyin.com/lX4sHA_1d7Q/)**
   - [生活英语](https://v.douyin.com/Z_iHRNFp-XI/)
 
 ---
 * **[keke](https://kekenet.com)**
 
 ---
-* **[英语学习Pie | Douyin | 百章](https://v.douyin.com/lZB9XB_5XR0/)**
+* **[英语学习Pie | 百章 | Douyin](https://v.douyin.com/lZB9XB_5XR0/)**
   - [全英VLOG｜宝藏博主解锁英语的时间表达 全英VLOG｜宝藏博主解锁英语的时间表达 视频来源｜油管 Miss Jean Teaches 剪辑+字幕+资料整理｜本人原创 告别教科书式机械报时！宝藏博主带你拆解英语时间表达的母语者逻辑，从整点、分钟的基础表述，到 `quarter after/till` `half past` 的英美用法差异，再到 `this/next` 描述星期时的歧义陷阱，结合语境适配、口语简化技巧和实用澄清表达，帮你摆脱刻板话术，让时间表达更自然精准，不管是日常闲聊还是雅思/托福口语备考，都能快速提升地道感。 ✅ 重点单词 tricky /ˈtrɪki/ adj. 棘手的；难处理的 shortcut /ˈʃɔːtkʌt/ n. 捷径；简化表达 consensus /kənˈsensəs/ n. 共识；一致意见 nuanced /ˈnjuːɑːnst/ adj. 微妙的；有细微差别的 ambiguity /ˌæmbɪˈɡjuːəti/ n. 歧义；模棱两可 clarifying /ˈklærəfaɪɪŋ/ adj. 澄清的；说明的 intimidating /ɪnˈtɪmɪdeɪtɪŋ/ adj. 令人望而生畏的 ✅ **地道口语 & 实用搭配** drop the o'clock 省略 o'clock（整点后缀） quarter after （……点）过一刻 quarter till 差一刻到……点 half past ……点半 this upcoming Wednesday 即将到来的周三 the following Wednesday 接下来的周三 a week from Wednesday 一周后的周三 a week ago Wednesday 一周前的周三 this past Friday 刚过去的周五 💡 小互动！ 你还知道哪些英语中描述时间的地道表达？如果用今天学到的短语，你能试着描述一次和外国朋友约定见面时间的场景吗？ | 英语 | 英语学习 | 英语启蒙 | 抖音热点记忆2025 | 英语口语](https://v.douyin.com/g_lCWolBqas/)
   - 重点单词 tricky /ˈtrɪki/ adj. 棘手的；难处理的 shortcut /ˈʃɔːtkʌt/ n. 捷径；简化表达 consensus /kənˈsensəs/ n. 共识；一致意见 nuanced /ˈnjuːɑːnst/ adj. 微妙的；有细微差别的 ambiguity /ˌæmbɪˈɡjuːəti/ n. 歧义；模棱两可 clarifying /ˈklærəfaɪɪŋ/ adj. 澄清的；说明的 intimidating /ɪnˈtɪmɪdeɪtɪŋ/ adj. 令人望而生畏的
   - **地道口语 & 实用搭配** drop the o'clock 省略 o'clock（整点后缀） quarter after （……点）过一刻 quarter till 差一刻到……点 half past ……点半 this upcoming Wednesday 即将到来的周三 the following Wednesday 接下来的周三 a week from Wednesday 一周后的周三 a week ago Wednesday 一周前的周三 this past Friday 刚过去的周五
 
 ---
-* **[轻松场景英语 | 百章](https://v.douyin.com/6h1G6rk_EUQ/)**
+* **[轻松场景英语 | 百章 | Douyin](https://v.douyin.com/6h1G6rk_EUQ/)**
   - [关于家庭|每日英语](https://v.douyin.com/MpGNreYwAQg/)
 
 ---
-* **[英文分享 | 一百五十章](https://v.douyin.com/7-G0O3pffJE/)**
+* **[英文分享 | 一百五十章 | Douyin](https://v.douyin.com/7-G0O3pffJE/)**
   - [生活会眷孤勇者，也会压倒犹豫不决的人。](https://v.douyin.com/kwfk-79Ern4/)
 
 ---
-* **[英文学习 | 二百章](https://v.douyin.com/vBJ3ikPtYcw/)**
+* **[英文学习 | 二百章 | Douyin](https://v.douyin.com/vBJ3ikPtYcw/)**
   - [每天进步一点](https://v.douyin.com/spLFlpZjC2o/)
 
 ---
-* **[周六English | 一百五十章](https://v.douyin.com/-t1NofrWDHU/)**
+* **[周六English | 一百五十章 | Douyin](https://v.douyin.com/-t1NofrWDHU/)**
   - [美国母亲节的历史](https://v.douyin.com/8oQWIVf230o/)
 
 ---
-* **[松鼠联盟 | 英文绘本原创作者 | 愿每个故事都是跨越时空的握手 | 百章](https://v.douyin.com/DJJPyBRIkvs/)**
+* **[松鼠联盟 | 英文绘本原创作者 | 愿每个故事都是跨越时空的握手 | 百章 | Douyin](https://v.douyin.com/DJJPyBRIkvs/)**
   - [书和玫瑰 每天五分钟英语绘本 原创英语绘本动画 英语磨耳朵 | 看动画学英语  | 英语绘本  | 英语没那么难](https://v.douyin.com/HXRwmvhjQ4E/)
   - [卖火柴的小女孩 每天五分钟英语绘本 原创英语绘本动画 英语磨耳朵 | 看动画学英语  | 英语绘本](https://v.douyin.com/1ucbgFGNCfE/)
 
 ---
-* **[Daily Read | 日读 | 百章 | 付费](https://v.douyin.com/eRqySSmpQ-U/)**
+* **[Daily Read | 日读 | 百章 | 付费 | Douyin](https://v.douyin.com/eRqySSmpQ-U/)**
   - [精品英语磨耳朵：想英语流利？每天和它对话5分钟 高清音质 & 精品内容 & 双语字幕，高效激活英语潜能，沉浸式强化英语听力 | 英语 | 英语学习 | 英语听力 | 英语口语 | 英语磨耳朵](https://v.douyin.com/2cJcqd95DjU/)
   - [精品英语磨耳朵：5个简单测试，精准定位你的英语水平 高清音质 & 精品内容 & 双语字幕，高效激活英语潜能，沉浸式强化英语听力 | 英语 | 英语听力 | 英语口语 | 英语学习 | 英语磨耳朵](https://v.douyin.com/c_EtIkbNixE/)
 
 ---
-* **[DL 英语听力 | Daily English Listening 坚持100天 | Douyin | 十余章](https://v.douyin.com/3Msadks-DXo/)**
+* **[DL 英语听力 | Daily English Listening 坚持100天 | Douyin | 十余章 | Douyin](https://v.douyin.com/3Msadks-DXo/)**
   - [第7集 Englishpod 电脑中病毒了 坚持100天，英语听力，突飞猛进 适合初学者英语实用听力素材 | 每日学习打卡 | 英语听力 | 日常英语 | 每日英语 | 英语没那么难](https://v.douyin.com/8yOp7ChuHyc/)
 
 ---
-* **[Simon英语原著阅读 | 每本书都有整理全书单词及短语，橱窗购书附赠 | Douyin | 半百](https://v.douyin.com/tn3aP_8WEWs/)**
+* **[Simon英语原著阅读 | 每本书都有整理全书单词及短语，橱窗购书附赠 | Douyin | 半百 | Douyin](https://v.douyin.com/tn3aP_8WEWs/)**
   - [你所需要学习的点都在书里。评论区告诉我你最喜欢的书，我们一起来读 | 学英语 | 英语学习方法 | 英语阅读 | 让阅读成为一种习惯 | 英语](https://v.douyin.com/k7sJvR2oj4U/)
   - [怎样练好英语口语 英语口语到底该怎么去练？小子不才，学习十余载，愿与君共享，与君共勉！英语口语练习 | 英语口语 | 流利英语 | 纯正英语 | 让阅读成为一种习惯](https://v.douyin.com/P_mjGHn_U2U/)
 
 ---
-* **[快听听力 | 二百章](https://v.douyin.com/06UXFkAWso0/)**
+* **[快听听力 | 二百章 | Douyin](https://v.douyin.com/06UXFkAWso0/)**
   - [考试神器](https://v.douyin.com/wHfY52mXcJU/)
 
 ---
-* **[乃炎英语 | Douyin | 五百章](https://v.douyin.com/pPqC74m3eTU/)**
+* **[乃炎英语 | Douyin | 五百章 | Douyin](https://v.douyin.com/pPqC74m3eTU/)**
   - **[日常口语](https://v.douyin.com/D8Wk9TkC14Y/)**
 
 ---
@@ -163,25 +195,25 @@
   - **[英语能力突破_100个句子记完7000个雅思单词](https://www.youtube.com/watch?v=lob44iOFNYE&list=PLH8j2mKj10K1G7XjDvaG2hMXwNv36CioN)**
 
 ---
-* **[BigShot英语 | 五百章](https://v.douyin.com/6Oo1jTjwdM0/)**
+* **[BigShot英语 | 五百章 | Douyin](https://v.douyin.com/6Oo1jTjwdM0/)**
 
 ---
 * **[熊熊英语 | Youtube](https://www.youtube.com/@OneHourListen/videos)**
 
 ---
-* **[Felix英语 | 千章](https://v.douyin.com/LuaEhzr_HZc/)**
+* **[Felix英语 | 千章 | Douyin](https://v.douyin.com/LuaEhzr_HZc/)**
 
 ---
-* **[甜甜教英语 | 五百章](https://v.douyin.com/mpd3SzfNxI4/)**
+* **[甜甜教英语 | 五百章 | Douyin](https://v.douyin.com/mpd3SzfNxI4/)**
 
 ---
-* **[薛麦Max | 百章](https://v.douyin.com/B17fqLy_u_0/)**
+* **[薛麦Max | 百章 | Douyin](https://v.douyin.com/B17fqLy_u_0/)**
 
 ---
-* **[钱继東 | 百章](https://v.douyin.com/l2iXNfLhvdg/)**
+* **[钱继東 | 百章 | Douyin](https://v.douyin.com/l2iXNfLhvdg/)**
 
 ---
-* **[Steve Kaufmann | 五十章](https://v.douyin.com/TxLEBUqeOUw/)**
+* **[Steve Kaufmann | 五十章 | Douyin](https://v.douyin.com/TxLEBUqeOUw/)**
   - [跨过心理障碍](https://v.douyin.com/MBMVC1WAaBI/)
   - 学语言害怕开口？这招帮你轻松跨过心理障碍 很多人把说错一句话看得太严重，结果越想避免错误，心理负担就越重。反而，那些敢于多听、多读、多试的学习者，更快突破了心理障碍。 这也印证了心理语言学里的一个理论： 📖 Affective Filter Hypothesis（情感过滤假说） —— 当我们焦虑、紧张时，大脑对语言的吸收效率会下降；而在放松、愉快的状态下，我们更容易习得语言。
 
@@ -469,11 +501,15 @@
   - ["失败不可怕 可怕的是你害怕失败"](https://v.douyin.com/KsxhY7BAaRY/)
 
 ---
-* **[isabel_paige](https://www.youtube.com/@isabel_paige)**
+* **[Isabel Paige | Youtube ](https://www.youtube.com/@isabel_paige)**
+  - [The Hardest Days of Winter](https://www.youtube.com/watch?v=jNqhUIYZM8Q)
+* **[VENQUEN的英语日记 | Douyin](https://v.douyin.com/lGerZrVjzQs/)**
+  - [学习是方向，世界是目的地！Follow along！ 飞向未知，直面恐惧 旧金山的酸面包，藏着冒险的滋味 独处的时光，发现真实的自己 大桥下的夕阳，点燃成长的勇气 | Isabel Paige](https://v.douyin.com/ACS0U3zIC54/)
+  - [雪花轻吻山巅，咖啡暖手 炉火旁，冬日的仙境悄然绽放 踏雪觅果，阳光洒落心间 这十一月的清晨，藏着治愈的温柔](https://v.douyin.com/PokajBVenxU/)
 
 ---
-* **[VENQUEN的英语日记](https://v.douyin.com/lGerZrVjzQs/)**
-  - [学习是方向，世界是目的地！Follow along！ 飞向未知，直面恐惧 旧金山的酸面包，藏着冒险的滋味 独处的时光，发现真实的自己 大桥下的夕阳，点燃成长的勇气 | Isabel Paige](https://v.douyin.com/ACS0U3zIC54/)
+* **[大脚柚子英语学习日记 | 一起学习 | 一起进步 | 一起成长 | 百章 | Douyin](https://v.douyin.com/DPQLH9FbHKI/)**
+  - [我真的很想学会 如何把那件事从脑子里释放出来，并且只在坐下来准备高效工作的时候才去想它。](https://v.douyin.com/6O4KGSmRwVg/)
 
 ---
 * **[EnglishBooksSummaries](https://www.youtube.com/@EnglishBooksSummaries/videos)**

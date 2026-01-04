@@ -1248,5 +1248,47 @@
   - [WTF Is Wealth? 财富到底是什么鬼？Ray Dalio Breaks It Down w/ Nikhil Kamath | WTF is Finance Ep 2雷·达里奥与尼基尔·卡马斯一起分析 |《金融》第二集到底是怎么回事](https://www.youtube.com/watch?v=0YKTsHr5bDE)
   - [Elon Musk: A Different Conversation w/ Nikhil Kamath | Full Episode | People by WTF Ep.  埃隆·马斯克：与尼基尔·卡马斯的不同对话 | 完整剧集 |WTF Ep. 的《People by People》](https://www.youtube.com/watch?v=Rni7Fz7208c)
 
+### 010. 英语学习日记
+* **[大脚柚子英语学习日记 | 百章 | Douyin](https://v.douyin.com/QMSHneHcLIo/)**
+  - [Sydney Serena | 每日英语](https://v.douyin.com/7G6vvrFaWPI/)
+
+---
+* **[Ellison Scar | Youtube](https://www.youtube.com/@ElliScar/videos)**
+  - Live Better, For Longer
+  - 活得更好，活得更久
+
+  ---
+  - [I Ate a Scientifically 'Perfect' Diet for 365 Days — Here’s What Happened | 我连续365天都遵循科学上"完美"的饮食——事情是这样的](https://www.youtube.com/watch?v=D-vspBISbXQ)
+  - [How I Eat for Longevity on a Budget (Biohacker Style, Whole Food Edition) | 我如何在预算内长寿饮食（生物黑客风格，全食物版）](https://www.youtube.com/watch?v=SpPDF7ZZj3U)
+  - [2026 Habits That Will Change Your Health & Longevity | 2026年改变健康与长寿的习惯](https://www.youtube.com/watch?v=ym-BNxngFck)
+  - [10 Longevity Habits That Actually Work (Backed by Science) - 10个真正有效的长寿习惯（有科学依据）](https://www.youtube.com/watch?v=MIU8dvLZqIM)
+
+---
+* **[Sydney Serena | Youtube](https://www.youtube.com/@SydneySerena)**
+  - just a 20-something figuring it out (and filming it).
+  - 只是一个二十多岁的人摸索（并拍摄）。
+
+  ---
+  - follow me:
+    * insta- @sydneyserena
+    * tiktok- @sydneyserena
+    * pinterest- @sydneyserenaa
+  - 关注我:
+    * Instagram——@sydneyserena
+    * TikTok——@sydneyserena
+    * Pinterest——@sydneyserenaa
+
+  ---
+  - [becoming the best version of me in 2026 // my new year reset | 成为2026年最好的自己 // 我的新年重置](https://www.youtube.com/watch?v=um5AviupsaI)
+  - [a cozy day back home // VLOG | 回家的温馨一天 // VLOG](https://www.youtube.com/watch?v=8e4aHI9Puro)
+  - [christmas in new york 🌟 纽约🌟的圣诞节 VLOG视频日志](https://www.youtube.com/watch?v=9Pt-SmtmS4w)
+  - [i haven't felt like myself lately...|  0：02 / 13：31 最近我感觉不像自己......](https://www.youtube.com/watch?v=TCa-Apn6y6g)
+
+---
+* **[TheCottageFairy | Youtube](https://www.youtube.com/@TheCottageFairy)**
+  - [A blessing and heartfelt message for the new year | 这是一份祝福和真挚的新年信息](https://www.youtube.com/watch?v=vAwRS1wx46Q)
+  - [I have no ambition in life - but I feel fine | 我没有人生上的野心——但我感觉很好](https://www.youtube.com/watch?v=eAdhk8GkKhU)
+  - [I Bought a Bookstore](https://www.youtube.com/watch?v=-IO3rAurptA)
+
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)

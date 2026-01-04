@@ -279,5 +279,39 @@
   - But as the retired forensics expert draws closer to the truth, he discovers he may just wind up the next victim for his troubles.
   - 但随着这位退休法医专家逐渐接近真相，他发现自己可能成为下一个受害者。
 
+### 0008. Inner Elements
+* **[Ellison Scar | Youtube](https://www.youtube.com/@ElliScar/videos)**
+  - Live Better, For Longer
+  - 活得更好，活得更久
+
+---
+* **[Inner Elements](https://ellison-scar.kit.com/inner-elements)**
+  - Inner Elements by Ellison Scar I created Inner Elements as a place to share the rituals, routines, and science-backed habits that have helped me feel clearer, stronger, and more grounded in my body — especially as I’ve rebuilt my health from burnout into long-term vitality.
+  - Ellison Scar的《内在元素》 我创建了内在元素，是为了分享那些帮助我感觉更清晰、更强壮、更扎根于身体的仪式、日常和科学支持的习惯——尤其是在我从倦怠状态重建健康到长期活力的过程中。
+​
+  ---
+  - Inside, you’ll find the meals, nervous system tools, movement practices, and longevity insights I’m leaning on week by week.
+  - 里面有我每周依赖的餐食、神经系统工具、运动习惯和长寿见解。
+
+  ---
+  - I share the things I test, the data I track, and the reflections that shape how I’m trying to live a healthier and more intentional life.
+  - 我分享我测试过的测试、追踪的数据，以及塑造我如何过更健康、更有目的生活的反思。
+​
+  ---
+  - Longevity isn’t about perfection.
+  - 长寿不是完美。
+
+  ---
+  - It’s about small shifts, daily rituals, and coming back home to yourself — one week at a time.
+  - 它讲的是小班次、日常仪式，以及一周一周地回家。
+​
+  ---
+  - Subscribe below to get Inner Elements every Sunday.
+  - 在 下方订阅即可每周日获得内在元素。
+​
+  ---
+  - A longevity lifestyle, one ritual at a time.
+  - 长寿生活方式，一次一个仪式。
+
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
