@@ -166,7 +166,7 @@
   - [購物中心英語詞彙](https://www.youtube.com/watch?v=VFe7Ap1kfk0)
   - [Visiting an International Market](https://www.youtube.com/watch?v=3VP8OZyr87A)
 
-* **[Mark学英语](https://v.douyin.com/Fw8_g1qpMFk/)**
+* **[Mark学英语 | Douyin](https://v.douyin.com/Fw8_g1qpMFk/)**
   - [高频英语缩略词，像母语者一样聊天 Most Common Acronyms In English](https://v.douyin.com/OylLt8yPs-w/)
   - [【英语易混词】Do vs Make：核心区别一次讲清 | 英语 | 英语口语 | 英语启蒙 | 英语学习 | 英语听力](https://v.douyin.com/THCKuOPQ_NQ/)
 
@@ -311,6 +311,25 @@
 
   ---
   - [**瑞士**的天堂：瑞士乡村美丽村庄的雨天](https://www.youtube.com/watch?v=-kenx1rQyZo)
+
+---
+* **[SoulEase Space | Youtube](https://www.youtube.com/@SoulEase_Space)**
+  - Welcome to SoulEase Space—a serene place to unwind, soothe your soul, and find harmony. 🎹🌿
+  - 欢迎来到SoulEase空间——一个宁静的地方，让你放松身心，抚慰心灵，找到和谐。🎹🌿
+  ---
+  - Here, every piano note flows softly, like a whisper of serenity, guiding you to inner peace and clarity.
+  - 这里，每一个钢琴音符都轻柔流淌，如同宁静的低语，引导你走向内心的平静与清晰。
+
+  ---
+  - Let the soothing melodies help you drift off to deep sleep, focus easily, or simply unwind after a long day.
+  - 让舒缓的旋律帮助你进入深度睡眠，轻松集中注意力，或在漫长一天后放松身心。
+
+  ---
+  - Close your eyes, take a deep breath, and allow your soul to find peace in this tranquil space.
+  - 闭上眼睛，深呼吸，让你的灵魂在这宁静的空间中找到平静。
+
+  ---
+  - [音乐疗法🌿 修复神经系统，停止过度思考 | 舒缓压力的放松音乐](https://www.youtube.com/watch?v=ecrL5FHBmFA)
 
 ---
 ### 002. Chinese Vlog
@@ -526,7 +545,7 @@
   - 由UNINTERRUPTED和Wondery呈现。
 
 ---
-* **[The Diary Of A CEO | 高阶 | 嘉宾行业大牛，内容知识含金量超高。主持人英国人](https://www.youtube.com/@TheDiaryOfACEO)**
+* **[The Diary Of A CEO | 高阶 | 嘉宾行业大牛，内容知识含金量超高。主持人英国人 | Youtube](https://www.youtube.com/@TheDiaryOfACEO)**
   - 64% of our viewers don't realise they don't subscribe, please double check, thank you!!
   - 64%的观众不知道自己没订阅，请再确认一下，谢谢！！
 
@@ -1110,6 +1129,124 @@
   - [Just 11 days until the final show of The Eras Tour is all yours ](https://www.youtube.com/watch?v=fHjxp-rpUGw)
   - [Taylor Swift - Father Figure](https://www.youtube.com/watch?v=98SmlWOKuME)
   - [Taylor Swift - Mine](https://www.youtube.com/watch?v=oxNLRqMJMZk&list=OLAK5uy_n8xJHj0rL3zyol9oYHsVTBHm-L_eY-3gY)
+
+---
+### 009. 小元智谈 | Gather Youtube
+* **[小元智谈 | 每天听一听，提升自己 | 好书、TED、政策、前沿、生活 | 五百章 |  Douyin](https://v.douyin.com/LOyLVRhN5u0/)**
+  - [神经科学家：你的一生可能都是一个预测 本期聊聊神经科学家丽莎·费尔德曼·巴雷特 (Lisa Feldman Barrett) 博士的一次访谈。她在访谈中探讨了大脑如何构建我们的现实。她指出，大脑并非被动地对世界做出反应，而是一个预测器官，它结合过去的经验和当前的感官信号来预判行动并制造情绪。通过理解这一预测机制，人们可以意识到自己并非受过去或环境摆布的傀儡，从而在处理心理健康、创伤和日常感受时掌握更多的自主权。作者还通过分享治愈女儿抑郁症的经历，强调了代谢管理、社交支持和刻意练习新经验对重塑大脑预测的重要性。总之，这些内容揭示了人类拥有比想象中更强大的能力去架构自己的生命体验。大脑 | 人的一生 | 大脑重塑 | 预测人生](https://v.douyin.com/uMxs84mrK8c/)
+  - [谈前沿：英伟达首席执行官黄仁勋对未来的愿景 本期聊聊英伟达首席执行官黄仁勋2025年1月的一次访谈：NVIDIA CEO Jensen Huang's Vision for the Future（英伟达首席执行官黄仁勋对未来的愿景）。访谈中讨论了NVIDIA在计算领域的开创性工作，特别关注了图形处理器（GPU）的发展及其对游戏、人工智能和机器人技术等不同行业的影响。黄仁勋阐述了NVIDIA通过CUDA平台实现的并行处理的演变，以及AI如何从根本上重塑计算和日常生活。他还分享了公司未来在物理AI、数字生物学和气候科学方面的愿景，强调了能源效率和AI可及性的重要性，并鼓励观众学习如何利用AI来提升个人和职业能力。 | 英伟达  | 黄仁勋](https://v.douyin.com/qYr1qU4mMog/)
+
+---
+* **[The Diary Of A CEO | 高阶 | 嘉宾行业大牛，内容知识含金量超高。主持人英国人 | Youtube](https://www.youtube.com/@TheDiaryOfACEO)**
+  - 64% of our viewers don't realise they don't subscribe, please double check, thank you!!
+  - 64%的观众不知道自己没订阅，请再确认一下，谢谢！！
+
+  ---
+  - [人工智能专家：（警告）2030年可能是无法回头的关键点！我们被告知的有关人工智能的信息是假的！](https://www.youtube.com/watch?v=P7Y-fynYsgE)
+
+---
+* **[Cleo Abram | Youtube](https://www.youtube.com/@CleoAbram)**
+  - Video journalist making optimistic tech explainers.
+  - 视频记者制作乐观的科技解说。
+
+  ---
+  - Huge If True.
+  - Instagram: https://www.instagram.com/cleoabram
+  - TikTok: https://www.tiktok.com/@cleoabram
+  - Twitter: https://twitter.com/cleoabram
+  - If you'd like to sponsor a Huge If True episode, reach out at the email below.
+  - 如果是真的，那就太棒了。
+  - Instagram：https://www.instagram.com/cleoabram
+  - TikTok：https://www.tiktok.com/@cleoabram
+  - Twitter：https://twitter.com/cleoabram
+  - 如果你想赞助《Huge If True》节目，请通过下方邮件联系我们。
+
+  ---
+  - If you're looking for my bio, here it is: Cleo Abram is a video journalist who produces Huge If True, an optimistic show about science and technology.
+  - 如果你想找我的简介，这里有： 克利奥·亚伯拉罕是一名视频记者，制作《巨大如果真实》——一档关于科学与技术的乐观节目。
+
+  ---
+  - Huge If True is an antidote to the doom and gloom, helping a wide audience see better futures they can help build.
+  - 《Huge If True》是对阴霾的解药，帮助广大观众看到他们能够共同建设的更好未来。
+
+  ---
+  - In each episode, Cleo dives deep into one innovation that could shape the future.
+  - 在每一集中，克莱奥都会深入探讨一项可能塑造未来的创新。
+
+  ---
+  - She has explored humanoid robots at Boston Dynamics, supersonic planes at NASA, quantum computers at IBM, the Large Hadron Collider at CERN, and more.
+  - 她曾在波士顿动力公司探索类人机器人、NASA的超音速飞机、IBM的量子计算机、CERN的大型强子对撞机等。
+
+  ---
+  - Previously, Cleo was a video producer at Vox and directed for Explained on Netflix.
+  - 此前，克莱奥曾是Vox的视频制片人，并执导了Netflix的《Explained》。
+
+  ---
+  - She was the host of Vox’s first ever daily show, Answered, as well as co-host of Vox’s YouTube Originals show, Glad You Asked.
+  - 她主持了Vox首个每日节目《Answered》，并共同主持了Vox的YouTube Originals节目《Glad You Asked》。
+
+  ---
+  * **[Humanity’s Real Plan to Stop This Asteroid (Feat. Mark Rober)](https://www.youtube.com/watch?v=LOn-mmezykQ)**
+
+---
+* **[Dr. Arthur Brooks | Youtube](https://www.youtube.com/@drarthurbrooks)**
+  - Arthur Brooks is a Harvard professor, PhD social scientist, bestselling author, and columnist who specializes in using the highest levels of science and philosophy to provide people with actionable strategies to live their best lives.
+  - 亚瑟·布鲁克斯是哈佛大学教授、社会科学家博士、畅销书作家和专栏作家，专注于运用最高层次的科学和哲学，为人们提供可行的策略，帮助他们过上最好的生活。
+
+  ---
+  - He travels around the world engaging audiences using a blend of cutting-edge science, ancient wisdom, philosophy, music, and art.
+  - 他走遍世界各地，利用前沿科学、古代智慧、哲学、音乐和艺术的融合与观众互动。
+
+  ---
+  - Check out his videos to see how he helps to bring people together and improve happiness for all.
+  - 看看他的视频，了解他如何帮助人们团结起来，提升所有人的幸福感。
+
+  ---
+  - [The 3 Macronutrients of Happiness, and How to Measure Yours| 幸福的三大宏量营养素，以及如何衡量你的幸福](https://www.youtube.com/watch?v=6UAq3KAR2bc)
+
+---
+* **[Veritasium | 科普 |  Youtube](https://www.youtube.com/@veritasium)**
+  - An element of truth - videos about science, education, and anything else we find interesting.
+  - 真理元素——关于科学、教育以及我们感兴趣的任何内容的视频。
+
+  ---
+  - **[The Ridiculous Engineering Of The World's Most Important Machine | 世界上最重要机器的荒谬工程 | 光刻机](https://www.youtube.com/watch?v=MiUHjLxm3V0)**
+  - [The Future of Veritasium](https://www.youtube.com/watch?v=MiUHjLxm3V0)
+  - [There Is Something Faster Than Light | 有东西比光速还快](https://www.youtube.com/watch?v=NIk_0AW5hFU)
+  - [The Man Who Accidentally Discovered Antimatter | 意外发现反物质的人](https://www.youtube.com/watch?v=Y-W-w8yNiKU)
+
+---
+* **[Big Think | Youtube](https://www.youtube.com/@bigthink/videos)**
+  - Big Think exists to make you smarter, faster.
+  - Big Think的存在是为了让你变得更聪明、更快。
+
+  ---
+  - Through conversations with the world’s brightest thinkers, we bring you the ideas shaping the future of science, philosophy, culture, and the human mind.
+  - 通过与世界上最聪明的思想家的对话，我们为您带来塑造科学、哲学、文化和人类心智未来的理念。
+
+  ---
+  - Our library of thousands of videos distills complex insight into clear, actionable wisdom for how to think, work, and live in a changing world.
+  - 我们数千个视频库将复杂的见解提炼成清晰且可作的智慧，帮助人们在不断变化的世界中思考、工作和生活。
+
+  ---
+  - Meet legendary teachers like philosopher Daniel Dennett, physicist Brian Cox, classicist Mary Beard, psychiatrist Bessel van der Kolk, political scientist Ian Bremmer, anthropologist Helen Fisher, and hundreds more — all sharing the ideas that define our time and the questions that will shape our future.
+  - 认识哲学家丹尼尔·丹尼特、物理学家布莱恩·考克斯、古典学家玛丽·比尔德、精神病学家贝塞尔·范德科尔克、政治学家伊恩·布雷默、人类学家海伦·费舍尔等数百位传奇教师——他们共同分享定义我们时代的思想和将塑造未来的问题。
+
+  ---
+  - [The terrifying ways that social media is altering teenage brains | Clare Morell: Full Interview社交媒体如何以令人恐惧的方式改变青少年的大脑 |克莱尔·莫雷尔：完整采访](https://www.youtube.com/watch?v=tk_Q4DyWY48)
+
+---
+* **[Nikhil Kamath | Youtube](http://youtube.com/@nikhil.kamath/videos)**
+  - "WTF is" is a podcast series where entrepreneur and Investor Nikhil Kamath hosts friends and industry experts and holds casual yet intellectually stimulating conversations.
+  - "WTF is"是一个播客系列，企业家兼投资人Nikhil Kamath邀请朋友和行业专家，进行轻松但富有启发性的对话。
+
+  ---
+  - The podcast covers a broad range of topics of particular current relevance, including technology, social media, renewable energy, electric vehicles, philosophy, gaming, psychology and more.
+  - 该播客涵盖了许多特别相关的话题，包括科技、社交媒体、可再生能源、电动汽车、哲学、游戏、心理学等。
+
+  ---
+  - [WTF Is Wealth? 财富到底是什么鬼？Ray Dalio Breaks It Down w/ Nikhil Kamath | WTF is Finance Ep 2雷·达里奥与尼基尔·卡马斯一起分析 |《金融》第二集到底是怎么回事](https://www.youtube.com/watch?v=0YKTsHr5bDE)
+  - [Elon Musk: A Different Conversation w/ Nikhil Kamath | Full Episode | People by WTF Ep.  埃隆·马斯克：与尼基尔·卡马斯的不同对话 | 完整剧集 |WTF Ep. 的《People by People》](https://www.youtube.com/watch?v=Rni7Fz7208c)
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)

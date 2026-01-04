@@ -736,4 +736,23 @@
   - [周深 - 一生一瞬 (《七夜雪》電視劇雪落無憾主題曲)『聚散悲歡 人世萬般，回首望來去風雪匆然 也無憾。』【動態歌詞MV】](https://www.youtube.com/watch?v=4x66asVdR3Q&list=RD4x66asVdR3Q&start_radio=1)
 
 ---
+* **[SoulEase Space | Youtube](https://www.youtube.com/@SoulEase_Space)**
+  - Welcome to SoulEase Space—a serene place to unwind, soothe your soul, and find harmony. 🎹🌿
+  - 欢迎来到SoulEase空间——一个宁静的地方，让你放松身心，抚慰心灵，找到和谐。🎹🌿
+  ---
+  - Here, every piano note flows softly, like a whisper of serenity, guiding you to inner peace and clarity.
+  - 这里，每一个钢琴音符都轻柔流淌，如同宁静的低语，引导你走向内心的平静与清晰。
+
+  ---
+  - Let the soothing melodies help you drift off to deep sleep, focus easily, or simply unwind after a long day.
+  - 让舒缓的旋律帮助你进入深度睡眠，轻松集中注意力，或在漫长一天后放松身心。
+
+  ---
+  - Close your eyes, take a deep breath, and allow your soul to find peace in this tranquil space.
+  - 闭上眼睛，深呼吸，让你的灵魂在这宁静的空间中找到平静。
+
+  ---
+  - [音乐疗法🌿 修复神经系统，停止过度思考 | 舒缓压力的放松音乐](https://www.youtube.com/watch?v=ecrL5FHBmFA)
+
+---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
