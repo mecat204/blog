@@ -761,6 +761,119 @@
   - [How to use 'get' in English](https://www.youtube.com/watch?v=1zw2pTZ9U_I&t=41s)
 
 ---
+* **[TheCottageFairy | Youtube](https://www.youtube.com/@TheCottageFairy)**
+  - Salutations!
+  - 问候！
+
+  ---
+  - Welcome to my little country cottage.
+  - 欢迎来到我的小乡村小屋。
+
+  ---
+  - Here I share little artistic vignettes from my world living as an artist in rural Washington State.
+  - 在这里，我分享了一些来自华盛顿州乡村艺术生活的小插曲。
+
+  ---
+  - Etsy shop (linked below): TheCottageFairyArt  Patreon: The Cottage Fairy  Instagram: The_Cottage_Fairy  Business email: endymionmerrill@gmail.com
+  - Etsy商店（链接见下）：TheCottageFairyArt Patreon：The Cottage Fairy Instagram：The_Cottage_Fairy 商务邮箱：endymionmerrill@gmail.com
+
+  ---
+  - [I Bought a Bookstore](https://www.youtube.com/watch?v=-IO3rAurptA)
+
+---
+* **[Nischa | Youtube](https://www.youtube.com/@nischa)**
+  - I’m a former Investment Banker (with an accountancy qualification) and on this channel we explore all things personal finance, self development and business.
+  - 我曾是一名投资银行家（拥有会计学资格），在这个频道中我们探讨所有关于个人理财、自我发展和商业的话题。
+  - Get my free spending tracker: https://nischa.me/ist/
+  - 获取我的免费支出追踪器：https://nischa.me/ist/
+
+  ---
+  - [8 TINY Habits to Become Financially Literate In 2026](https://www.youtube.com/watch?v=uXTREehuNFU)
+
+* **[Bg2 Pod | Youtube](https://www.youtube.com/@Bg2Pod)**
+  - Open Source bi-weekly convo w @altcap & @bgurley on all things tech, markets, investing & capitalism
+  - 开源双周一次的对话，内容涵盖科技、市场、投资与资本主义@altcap与@bgurley
+
+  ---
+  - [All things AI w @altcap @sama & @satyanadella. A Halloween Special.](https://www.youtube.com/watch?v=Gnl833wXRz0)
+    - Brad Gerstner sits down with Satya Nadella (Microsoft) and Sam Altman (OpenAI) to unpack the $3 trillion AI buildout transforming technology, business, and the global economy.
+    - Brad Gerstner 与 Satya Nadella（Microsoft）和 Sam Altman（OpenAI）坐下来，剖析这场价值 3 万亿美元的人工智能建设，正在改变科技、商业和全球经济。
+
+    ---
+    - They dive deep into the OpenAI–Microsoft partnership, how it unlocked massive scale in the cloud, and what it reveals about the future of intelligence and capital.
+    - 他们深入探讨了OpenAI与Microsoft的合作，如何实现云端的大规模发展，以及它揭示了智能和资本的未来。
+
+    ---
+    - Nadella breaks down how Microsoft is expanding Azure and Copilot to meet explosive demand.
+    - Nadella 解析了 Microsoft 如何扩展 Azure 和 Copilot 以满足爆炸式增长的需求。
+
+    ---
+    - Altman shares his view on progress, power, and the human drive to push boundaries.
+    - 奥特曼分享了他对进步、权力以及人类突破界限驱动力的看法。
+
+    ---
+    - A candid, energizing conversation about building the future at scale.
+    - 一场坦率、充满活力的对话，讨论如何大规模建设未来。
+
+    ---
+    - Enjoy another episode of BG2!
+    - 祝大家继续享受《博德之门2》的精彩内容！
+
+---
+* **[All-In Podcast | Youtube](https://www.youtube.com/@allin)**
+  - Chamath Palihapitiya, Jason Calacanis, David Sacks & David Friedberg cover all things economic, tech, political, social & poker.
+  - Chamath Palihapitiya、Jason Calacanis、David Sacks 和 David Friedberg 涵盖经济、科技、政治、社会和扑克等所有相关内容。
+
+  ---
+  - Follow the besties:
+    * https://x.com/chamath
+    * https://x.com/Jason
+    * https://x.com/DavidSacks
+    * https://x.com/friedberg
+  - Follow the pod:
+    * https://x.com/theallinpod
+    * https://www.instagram.com/theallinpod
+    * https://www.tiktok.com/@theallinpod
+    * https://www.linkedin.com/company/allinpod
+  - 关注闺蜜们:
+    * https://x.com/chamath
+    * https://x.com/Jason
+    * https://x.com/DavidSacks
+    * https://x.com/friedberg
+  - 关注 播客:
+    * https://x.com/theallinpod
+    * https://www.instagram.com/theallinpod
+    * https://www.tiktok.com/@theallinpod
+    * https://www.linkedin.com/company/allinpod
+
+  ---
+  - [Massive Somali Fraud in Minnesota with Nick Shirley, California Asset Seizure, $20B Groq-Nvidia Deal | 明尼苏达州与尼克·雪莉的大规模索马里诈骗案，加州资产没收，200亿美元Groq-Nvidia交易](https://www.youtube.com/watch?v=bhpd4NeTbCI)
+
+---
+* **[Lex-Friedman | Math | Youtube](https://www.youtube.com/@lexfridman/videos)**
+  - Lex Fridman Podcast and other videos.
+  - 莱克斯·弗里德曼播客及其他视频。
+
+  ---
+  - [Infinity, Paradoxes, Gödel Incompleteness & the Mathematical Multiverse | Lex Fridman Podcast #488 | 无限、悖论、哥德尔不完备性与数学多元宇宙 |莱克斯·弗里德曼播客 #488](https://www.youtube.com/watch?v=14OPT6CcsH4)
+
+---
+* **[Latent Space | AI | Youtube](https://www.youtube.com/@LatentSpacePod/videos)**
+  - The first place where 90,000+ AI Engineers gather to talk models, tools and ideas.
+  - 这是9万名AI工程师聚集讨论模型、工具和想法的第一个场所。
+
+  ---
+  - Breaking news today you will use at work tomorrow!
+  - 今天的突发新闻，明天你将在工作中使用！
+
+  ---
+  - Full show notes and newsletter at https://latent.space
+  - 完整节目笔记和通讯请见 https://latent.space
+
+  ---
+  - [[State of Research Funding] Beyond NSF, Slingshots, Open Frontiers — Andy Konwinski, Laude Institute](https://www.youtube.com/watch?v=ZagdY6UJYL4)
+
+---
 ###  006. 雅思 IELTS
 * **[Learn English with EnglishClass101.com](https://www.youtube.com/@EnglishClass101/videos)**
   - Learn English with EnglishClass101.com - The Fastest, Easiest and Most Fun Way to Learn English. Start speaking English in minutes with Audio and Video lessons.
