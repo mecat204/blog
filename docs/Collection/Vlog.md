@@ -550,7 +550,25 @@
   - 64%的观众不知道自己没订阅，请再确认一下，谢谢！！
 
   ---
-  - [人工智能专家：（警告）2030年可能是无法回头的关键点！我们被告知的有关人工智能的信息是假的！](https://www.youtube.com/watch?v=P7Y-fynYsgE)
+  - [An AI Expert Warning_ 6 People Are (Quietly) Deciding Humanity’s Future! We Must Act Now! | 人工智能专家：（警告）2030年可能是无法回头的关键点！我们被告知的有关人工智能的信息是假的！](https://www.youtube.com/watch?v=P7Y-fynYsgE)
+  - [Dopamine Expert_ Short Form Videos Are Frying Your Brain! This Is A Dopamine Disaster! | 多巴胺专家：酒精会重塑你的大脑！这是一次多巴胺灾难](https://www.youtube.com/watch?v=2ZKLaUbB33o)
+  - [WW3 Threat Assessment_ World War III Has Quietly Started! | 第三次世界大战威胁评估：第三次世界大战已悄然开始！](https://www.youtube.com/watch?v=8qObdS-bhRM)
+
+---
+* **[The Diary Of A CEO Clips | 精品节选 |  Youtube](https://www.youtube.com/@TheDiaryOfACEOClips/videos)**
+  - This Channel is where we showcase the best clips from The Diary Of A CEO, hosted by Steven Bartlett, this show is an invitation to rethink what’s possible.
+  - 这个频道是我们展示《CEO日记》中最精彩片段的地方，由史蒂文·巴特利特主持，这个节目邀请大家重新思考可能性。
+
+  ---
+  - Through honest conversations with global experts, visionaries, and game-changers, we explore refreshing ideas and mindsets that shape our lives.
+  - 通过与全球专家、远见者和改变游戏规则者的坦诚对话，我们探索塑造我们生活的新鲜思想和思维方式。
+
+  ---
+  - Whether you’re chasing a dream, navigating change, or simply looking for a new perspective, this is the space for curious, open minds and big ambitions.
+  - 无论你是在追逐梦想、应对变化，还是仅仅在寻找新的视角，这里都是好奇、开放心态和宏大抱负的空间。
+
+  ---
+  - [Nuclear Expert WARNS: "You Have No Idea What's Coming" | 核专家警告："你根本不知道接下来发生的事"](https://www.youtube.com/watch?v=fnGw_mT1278)
 
 ---
 * **[SMii7Y | 高阶 | 多人聊天、高效、调侃](https://www.youtube.com/@SMii7Y/videos)**
@@ -1256,6 +1274,10 @@
 * **[小维每日英语 | 百章 | Douyin](https://v.douyin.com/P2ZIoD1t_CA/)**
 
 ---
+* **[英语学习播客 | | 百章 | Douyin](https://v.douyin.com/suAtihn1uE0/)**
+  - [podcast - Taylor Hill - How Many Taylors Does It Take - part14](https://v.douyin.com/ikbggWsPcos/)
+
+---
 * **[Ellison Scar | Youtube](https://www.youtube.com/@ElliScar/videos)**
   - Live Better, For Longer
   - 活得更好，活得更久
@@ -1383,6 +1405,82 @@
   - [Vlogmas 2/5🎄✨| Días cozy antes de Navidad
 ](https://www.youtube.com/watch?v=INQi_gMAG70)
   - [Vlogmas 1/5 🎄✨| Christmas mood ON](https://www.youtube.com/watch?v=N4RbPWQ8kW8)
+
+---
+* **[The Squeeze | Youtube](https://www.youtube.com/@thesqueeze/videos)**
+  - When life gives you lemons, what do you do with them?
+  - 当生活给你柠檬时，你会怎么处理它们？
+
+  ---
+  - Over here at The Squeeze—we talk about it—"it" being our mental health and well being.
+  - 在The Squeeze——我们谈论它——"它"指的是我们的心理健康和幸福感。
+
+  ---
+  - Host Taylor Lautner's (no, not that guy, but she is married to that guy) introduction to mental health was at a young age, witnessing friends and family suffer in ways she couldn't fully understand.
+  - 主持人泰勒·劳特纳（不是那个人，但她嫁给了那个人）在年幼时就开始接触心理健康，目睹朋友和家人以她无法完全理解的方式受苦。
+
+  ---
+  - She started a nursing career in the peak of the pandemic and has been struggling with her own mental health ever since.
+  - 她在疫情高峰期开始了护理职业，从那以后一直在与自己的心理健康问题作斗争。
+
+  ---
+  - Tay is joined by co-host, husband Taylor Lautner, in addition to celebrity and expert guests to further the conversation surrounding mental wellness.
+  - 泰与联合主持人、丈夫泰勒·洛特纳，以及名人和专家嘉宾共同推进关于心理健康的讨论。
+
+  ---
+  - At the end of the day, we're all pretty similar; even those living in the lime-est of lights can be weighed down by sour lemons.
+  - 归根结底，我们都差不多;即使是生活在最光线强烈的环境中，也会被酸柠檬拖累。
+
+  ---
+  - In addition to sharing coping strategies and stories, we hope that above all, this podcast offers the comfort of knowing you are not alone.
+  - 除了分享应对策略和故事外，我们希望最重要的是，这个播客能带来一种安慰，让你知道自己并不孤单。
+
+  ---
+  - [Tay & Tay Lautner: Taylor’s Version | 泰与泰·洛特纳：泰勒版本](https://www.youtube.com/watch?v=62sEbPpX7bM)
+  - [Chad Franke: Freed | 查德·弗兰克：获释](https://www.youtube.com/watch?v=KUOlYFjbYvk)
+
+---
+* **[Jay Shetty Podcast | Youtube](https://www.youtube.com/@JayShettyPodcast./videos)**
+  - I’m Jay Shetty host of On Purpose the worlds #1 Mental Health podcast
+  - 我是Jay Shetty，主持《On Purpose the worlds #1》心理健康播客
+
+  ---
+  - and I’m so grateful you found us.
+  - 我非常感激你找到了我们。
+
+  ---
+  - I started this podcast 5 years ago to invite you into conversations and workshops that are designed to help make you happier, healthier and more healed.
+  - 我五年前开始这个播客，邀请你参与那些旨在帮助你更快乐、更健康、更治愈的对话和工作坊。
+
+  ---
+  - I interview experts, celebrities, thought leaders and athletes so that we can grow our mindset, build better habits and uncover a side of them we’ve never seen before.
+  - 我采访专家、名人、思想领袖和运动员，帮助我们培养思维方式，养成更好的习惯，并发掘他们从未见过的一面。
+
+  ---
+  - Click the Subscribe button to help us spread the love with On Purpose.
+  - 点击订阅按钮，帮助我们通过《On Purpose》传播爱意。
+
+  ---
+  - Sign Up For My Free Workshop re(NEW) You: https://www.renewyouworkshop.com/
+  - Order My Books:
+    * Think Like a Monk: https://thinklikeamonkbook.com/
+    * 8 Rules of Love https://8rulesoflove.com/
+  - Follow me on Social Media:
+     * Instagram: https://www.instagram.com/jayshetty/
+     * Tiktok: https://www.tiktok.com/@jayshetty
+     * Facebook: https://www.facebook.com/JayShettyIW/
+  - 报名参加我的免费工作坊 关于（新）你：https://www.renewyouworkshop.com/
+  - 订购我的书籍:
+    * 像修士一样思考: https://thinklikeamonkbook.com/
+    * 8 爱情法则 https://8rulesoflove.com/
+  - 关注我的社交媒体：
+    * Instagram: https://www.instagram.com/jayshetty/
+    * Tiktok: https://www.tiktok.com/@jayshetty
+    * Facebook:  https://www.facebook.com/JayShettyIW/
+
+    ---
+    - **[Victoria's Secret Model Taylor Hill Reveals The True Behind-the-Scenes Life Of A VS Angel  | 维多利亚的秘密模特泰勒·希尔揭露VS天使 的幕后生活](https://www.youtube.com/watch?v=A1y4U83EEDk)**
+    - **[Joe Dispenza: You've Been Programmed To Stay BROKE, STUCK & EXHAUSTED - Here's How To Break It! | 乔·迪斯彭扎：你被编程成永远破产、困顿且疲惫不堪—— 以下是如何打破它的方法！](https://www.youtube.com/watch?v=d7sUWwHugg8)**
 
 ---
 ### 011. Travel on the World
