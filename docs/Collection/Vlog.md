@@ -1253,6 +1253,9 @@
   - [Sydney Serena | 每日英语](https://v.douyin.com/7G6vvrFaWPI/)
 
 ---
+* **[小维每日英语 | 百章 | Douyin](https://v.douyin.com/P2ZIoD1t_CA/)**
+
+---
 * **[Ellison Scar | Youtube](https://www.youtube.com/@ElliScar/videos)**
   - Live Better, For Longer
   - 活得更好，活得更久
@@ -1289,6 +1292,97 @@
   - [A blessing and heartfelt message for the new year | 这是一份祝福和真挚的新年信息](https://www.youtube.com/watch?v=vAwRS1wx46Q)
   - [I have no ambition in life - but I feel fine | 我没有人生上的野心——但我感觉很好](https://www.youtube.com/watch?v=eAdhk8GkKhU)
   - [I Bought a Bookstore](https://www.youtube.com/watch?v=-IO3rAurptA)
+
+---
+* **[Birta Hlin | Youtube](https://www.youtube.com/@birtahlin/videos)**
+  - [weekend in oslo | food spots, thrifting & exploring the city | 奥斯陆周末 |美食店、二手店和城市探索](https://www.youtube.com/watch?v=re7W5w81Rq8)
+  - [first december days | 十二月初日](https://www.youtube.com/watch?v=veY2jXSxpoo)
+  - [winter routine to feel my best | 冬季例行公事，让我感觉最佳](https://www.youtube.com/watch?v=_75CQJAKgBo)
+  - [day in my life in copenhagen | 我在哥本哈根 的一天](https://www.youtube.com/watch?v=yPIpyfUtkEI)
+  - [my favorite things this autumn | 我今年秋天 最喜欢的事情](https://www.youtube.com/watch?v=3nraETuINRQ)
+  - [autumn days in copenhagen | 哥本哈根 的秋日](https://www.youtube.com/watch?v=FrL8XN4SLLI)
+  - [copenhagen diaries | autumn breakfast, outfits & cozy days | 哥本哈根日记 |秋季早餐、服装与舒适日](https://www.youtube.com/watch?v=1QJ02Az_Dws)
+  - [september days in copenhagen | 哥本哈根 的九月日](https://www.youtube.com/watch?v=KE1q8Lh5cSY)
+  - [day in my life in copenhagen | new books, my workout & delicious dinner recipe | 我在哥本哈根的一天 |新书、我的锻炼和美味晚餐食谱](https://www.youtube.com/watch?v=9qR0vkgd9Rg)
+
+---
+* **[Phoebe Taylor | enjoys dressing & nesting | 喜欢穿衣和筑巢 | Youtube](https://www.youtube.com/@__phoebe.taylor/videos)**
+  - [new year's (fashion & home decor) resolutions | 新年（时尚与家居装饰）决心](https://www.youtube.com/watch?v=RR6MshB1Ads)
+
+---
+* **[Joel and Emilia | 8年环游世界旅行 | Youtube](https://www.youtube.com/@Joel_Emilia/videos)**
+  - Hi, we are Joel Friend and Emilia Beattie and we have been travelling the world together over the last 3 years!
+  - 你好，我们是Joel Friend和Emilia Beattie，过去三年我们一起环游世界！
+
+  ---
+  - We love crazy adventures and traveling to more remote places.
+  - 我们喜欢疯狂的冒险和去更偏远的地方旅行。
+
+  ---
+  - Join us as we travel this beautiful world! :)
+  - 加入我们，一起踏上这美丽的世界之旅！:)
+
+  ---
+  - [The TRUTH of how we afford to TRAVEL full-time... | 我们如何负担得起全职旅行的真相......](https://www.youtube.com/watch?v=P5Ww4H6VyDA)
+  - [The REALITY of Europe’s Winter fairytale | 欧洲冬季童话 的现实](https://www.youtube.com/watch?v=DWvZgeFgvXo)
+  - [Sleeper Train to the ARCTIC CIRCLE - Is it worth it? | 通往北极圈的卧铺列车——值得吗？](https://www.youtube.com/watch?v=oVzjA53yi4s)
+  - [I REGRET bringing my girlfriend here - 48 hours on an isolated Pacific Island | 我很后悔带女朋友来这里——在一个偏远的太平洋岛 屿上待了48小时](https://www.youtube.com/watch?v=kpYqJNgh_0o)
+  - [The harsh REALITY of travelling the Pacific islands | 穿越太平洋群岛 的残酷现实](https://www.youtube.com/watch?v=2hTo9469jOw)
+  - [EVERYONE dreams of this… the Ultimate paradise | 每个人都梦想着这个......终极乐园](https://www.youtube.com/watch?v=DnCXGHv98zA)
+  - [The SIDE of SEOUL no one shows YOU 🇰🇷 | 首尔的一面，没人向你🇰🇷 展示](https://www.youtube.com/watch?v=TOJODcwyHpE)
+  - [The Middle East’s Best-Kept Secret | 中东最隐秘的秘密](https://www.youtube.com/watch?v=BzxI1pFzSxM)
+
+---
+* **[Sanne Vloet | Youtube](https://www.youtube.com/@SanneVloet/videos)**
+  - I’m Sanne Vloet—a wellness creator, entrepreneur, and  model.
+  - 我是Sanne Vloet——一名健康创始人、企业家和模特。
+
+  ---
+  - You might know me from the runways of Paris or the Victoria’s Secret Fashion Show, but these days, my passion is helping you live a healthier, more balanced life.
+  - 你可能在巴黎的T台或维多利亚的秘密时装秀上认识我，但如今，我的热情是帮助你过上更健康、更平衡的生活。
+
+  ---
+  - On this channel, I share my journey as the founder of Nekohama and Soul Sync Body, a wellness platform offering workouts, healthy recipes, and mindful routines.
+  - 在这个频道上，我分享了作为猫滨和Soul Sync Body创始人的经历，这是一个提供锻炼、健康食谱和正念锻炼的健康平台。
+
+  ---
+  - Expect videos that inspire and empower—from fitness routines and wellness challenges to my daily  life in LA and my personal take on self-care!
+  - 期待那些激励和赋能的视频——从健身计划、健康挑战，到我在洛杉矶的日常生活和我个人的自我关怀看法！
+
+  ---
+  - Whether you're looking for a fresh recipe, a quick workout, or a peek into how I balance life as a creator and entrepreneur, this is a space for community, connection, and growth.
+  - 无论你是在寻找新鲜食谱、快速锻炼，还是想了解我如何平衡创作与创业，这里都是社区、连接与成长的空间。
+
+  ---
+  - I am obsessed with matcha & love spending time with my dog Katsu!
+  - 我迷恋抹茶，喜欢和我的狗Katsu共度时光！
+
+  ---
+  - I post new videos every Saturday.
+  - 我每个星期六都会发布新视频。
+
+  ---
+  - Don’t forget to hit subscribe and turn on notifications so you never miss a moment.
+  - 别忘了点击订阅并开启通知，这样你就不会错过任何瞬间。
+
+  ---
+  - Email: management@sannevloet.co
+  - 电子邮件：management@sannevloet.co
+
+  ---
+  - [My January Reset | How to Rebuild Your Body & Mind | A Morning in Miami | 我的一月重置 |如何重建你的身心 | 迈阿密 的早晨](https://www.youtube.com/watch?v=gxl0L_rhwPg)
+  - [Week in My Life | Modeling Shoot, Dallas & NYC | 我的生活一周 |模特拍摄，达拉斯和纽约](https://www.youtube.com/watch?v=dE-bsVShMZ0)
+  - [34 Min Toning Model Upper Body Pilates | 34分钟塑形模型上半身普拉提](https://www.youtube.com/watch?v=foMAHr7tebg)
+  - [Matcha Talks | Face Yoga Secrets for a Lifted & Sculpted Look | w/ Anastasia | 抹茶谈话 |面部瑜伽秘诀：提升与雕塑造型 | 与阿纳斯塔西娅 合作](https://www.youtube.com/watch?v=JRTih7Nr1zs)
+
+---
+* **[Janice | Youtube](https://www.youtube.com/@janicenicholee/videos)**
+  - [Vlogmas 5/5 | Llegó Santa!🎅🎄 | Vlogmas 5/5 |圣诞莱戈！ 🎅🎄](https://www.youtube.com/watch?v=IkkMEUZtRYM)
+  - [Vlogmas 4/5 🎄✨ | 视频视频 4/5 🎄✨](https://www.youtube.com/watch?v=M7zZaIAkxPY)
+  - [Vlogmas 3/5🎄✨| Comprándole regalos a mis perritos🐶](https://www.youtube.com/watch?v=CfXNJ3oyMXU)
+  - [Vlogmas 2/5🎄✨| Días cozy antes de Navidad
+](https://www.youtube.com/watch?v=INQi_gMAG70)
+  - [Vlogmas 1/5 🎄✨| Christmas mood ON](https://www.youtube.com/watch?v=N4RbPWQ8kW8)
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
