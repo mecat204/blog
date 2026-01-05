@@ -1385,4 +1385,153 @@
   - [Vlogmas 1/5 🎄✨| Christmas mood ON](https://www.youtube.com/watch?v=N4RbPWQ8kW8)
 
 ---
+### 011. Travel on the World
+* **[traveler_HIRO | Youtube](https://www.youtube.com/@traveler_HIRO/featured)**
+  - Hey there, I’m Hiro, and welcome to traveler_HIRO!
+  - 你好，我是广，欢迎来到traveler_HIRO！
+
+  ---
+  - Here, you’ll join me on 4K walking tours of cities all around the globe.
+  - 在这里，你将和我一起参加全球城市的4K徒步游览。
+
+  ---
+  - I personally shoot and edit every video, most of which are filmed in HDR—so if you have a compatible big-screen TV, get ready for an even more immersive experience.
+  - 我个人拍摄和剪辑每一个视频，大多数都是用HDR拍摄的——所以如果你有兼容的大屏电视，准备好迎接更沉浸的体验吧。
+
+  ---
+  - Thanks so much for watching, and if you enjoy what you see, I’d love it if you subscribed and hit that like button!
+  - 非常感谢观看，如果你喜欢所见内容，我很希望你订阅并点赞！
+
+  ---
+  - If you have questions, please use the members-only community.
+  - 如果你有问题，请使用会员专属社区。
+
+  ---
+  - [火奴鲁鲁，夏威夷 - 4K 散步 | 畅享威基基海滩的日落漫步 | 美国 🇺🇸 2024年12月 [4K HDR]](https://www.youtube.com/watch?v=91RzZmn6jeI)
+
+---
+* **[The Hawaii Vacation Guide | Youtube](https://www.youtube.com/@TheHawaiiVacationGuide/videoss)**
+  - Welcome to our Hawaii adventures!
+  - 欢迎来到我们的夏威夷冒险之旅！
+
+  ---
+  - We're Erica and Jordan and we've lived on Maui and Oahu.
+  - 我们是Erica和Jordan，我们曾在茂宜岛和欧胡岛生活过。
+
+  ---
+  - Now, with our son and daughter in tow, we continue learning as much as possible about traveling in Hawaii.
+  - 现在，带着我们的儿子和女儿，我们继续尽可能多地学习夏威夷旅行的知识。
+
+  ---
+  - We share everything we learn to help you plan your best trip to Hawaii.
+  - 我们分享所学，帮助你规划最佳的夏威夷之旅。
+
+  ---
+  - We share tips, activities, and reviews.
+  - 我们分享技巧、活动和评测。
+
+  ---
+  - Sustainable travel starts with building love and respect for the islands.
+  - 可持续旅行始于建立对岛屿的热爱与尊重。
+
+  ---
+  - We hope these videos spread that message.
+  - 我们希望这些视频能传达这个信息。
+
+  ---
+  - Mahalo for watching.
+  - 谢谢你的观看。
+
+  ---
+  - Website: https://thehawaiivacationguide.com/
+  - Instagram: https://www.instagram.com/thehawaiivacationguide/
+  - 网站: https://thehawaiivacationguide.com/
+  - Instagram: https://www.instagram.com/thehawaiivacationguide/
+
+  - [First Time in Oahu? Watch This BEFORE You Go! (12 Essential Tips) | 第一次来欧胡岛？出发前一定要看这个！](https://www.youtube.com/watch?v=rxdmQh8r0ug)
+  - [We Visited Every Hawaiian Island – Here’s Which One You Should Choose | 我们访问了夏威夷的每一个岛屿——以下是你应该选择 的哪个岛屿](https://www.youtube.com/watch?v=vgZVwOIEKKs)
+  - [Which Hawaiian Island Should You Visit | Start Here for Your Hawaii Vacation Planning | 你应该去哪个夏威夷岛屿 |从这里开始你的夏威夷度假规划](https://www.youtube.com/watch?v=2mIYF41vnhw)
+
+---
+* **[Iceland with a View | Youtube](https://www.youtube.com/@IcelandwithaView)**
+  - Hi, I’m Jeannie — I sold everything I owned in the U.S. and moved to Iceland!
+  - 你好，我是Jeannie——我卖掉了美国所有的东西，搬到了冰岛！
+
+  ---
+  - Now I help travelers plan their dream trip to this incredible country with confidence and ease.
+  - 现在，我帮助旅行者自信且轻松地规划他们对这个令人难以置信的国家的梦想之旅。
+
+  ---
+  - On this channel, you’ll find everything you need to plan your Iceland adventure — from practical travel tips and itinerary ideas to hidden gems, weather advice, and cultural insights.
+  - 在这个频道上，你将找到规划冰岛冒险所需的一切——从实用的旅行建议、行程点子，到隐藏的宝藏、天气建议和文化见解。
+
+  ---
+  - Whether you’re renting a car, chasing waterfalls, or exploring Reykjavík, I’ll help you make the most of your time here.
+  - 无论你是租车、追逐瀑布，还是探索雷克雅未克，我都会帮助你充分利用这里的时光。
+
+  ---
+  - 🎥 New videos every week with Iceland travel guides, trip-planning advice, and insider local tips.
+  - 🎥 每周都有新视频，包含冰岛旅游指南、行程规划建议和本地内部小贴士。
+
+  ---
+  - 🗺️ Ready to start planning?
+  - 🗺️ 准备好开始规划了吗？
+
+  ---
+  - Get my digital Iceland Map + Guidebooks → icelandwithaview.com/shop 🎒
+  - 获取我的数字冰岛地图+指南→ icelandwithaview.com/shop 🎒
+
+  ---
+  - Grab your free Iceland Packing Guide → https://bit.ly/icelandpackinglist Let’s plan the best trip ever!
+  - 获取你的免费冰岛打包指南→ https://bit.ly/icelandpackinglist 让我们一起策划最棒的旅行！
+
+  ---
+  - [STOP Driving Like a Tourist! 5 Must-Know Road Rules in Iceland | 别像游客一样开车！冰岛 必知的5条交通规则](https://www.youtube.com/watch?v=sF7Y6FDMLdk)
+  - [How to Plan the Perfect Iceland Trip Without the Stress | 如何在无压力 的情况下规划完美的冰岛之旅](https://www.youtube.com/watch?v=yEbSCeNEN8A)
+  - [Why the Ring Road is the Best Way to See Iceland | 为什么环城公路是游览冰岛 的最佳方式](https://www.youtube.com/watch?v=hgxETQBANb8s)
+  - [Iceland Highlands: Top 5 Places to Visit | 冰岛高地：必访 五大景点](https://www.youtube.com/watch?v=y7S-aruFYis)
+
+---
+* **[Emma Marie | Youtube](https://www.youtube.com/@EmmaMariesWorld/videos)**
+  - Hi!
+  - 你好！
+
+  ---
+  - Welcome to my life 💌
+  - 欢迎来到我的生活 💌
+
+  ---
+  - I'm 21 years old and from Florida!
+  - 我21岁，来自佛罗里达！
+
+  ---
+  - Just doing what I love most!
+  - 只是做我最热爱的事！
+
+  ---
+  - I post every Saturday and Sunday!
+  - 我每个周六和周日都会发帖！
+
+  ---
+  - Hope you love my channel!
+  - 希望你喜欢我的频道！
+
+  ---
+  - XoXo.
+  - XoXo。
+
+  ---
+  - BUSINESS INQUIRIES:
+  - emmamarie@a3artistsagency.com
+  - If you want to see my daily life go to my families channel at:
+    * http://bit.ly/1Pp29MP
+  - 商业咨询：
+  - emmamarie@a3artistsagency.com
+  - 如果你想看我的日常生活，请访问我的家庭频道:
+    * http://bit.ly/1Pp29MP
+
+  ---
+  - [a GIRL WEEKEND in my life vlog: coffee, Anna Maria day trip, markets + sunsets | 我生命中的女孩周末视频日志：咖啡、安娜玛丽亚一日游、市场+日落](https://www.youtube.com/watch?v=p6ODDTaM990)
+
+---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
