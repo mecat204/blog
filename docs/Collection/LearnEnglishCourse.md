@@ -7,6 +7,9 @@
   - [buzz | zh](https://chidiwilliams.github.io/buzz/zh/docs)
 
 ---
+* **[dlpanda](https://dlpanda.com/zh-CN)**
+
+---
 ### 0001. English Learn
 * **[句乐部](https://julebu.co)**
 * [阿崔cxr](https://v.douyin.com/db2HKpQSCl4/)

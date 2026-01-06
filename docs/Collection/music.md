@@ -7,6 +7,9 @@
 * **[ Musicca | 在线免费学习乐理（音乐理论）和基础乐器/音乐知识 的平台。](https://musicca.com)**
 
 ---
+* **[dlpanda](https://dlpanda.com/zh-CN)**
+
+---
 ### 001. music·movie
 * **work**
   - **[work && code](https://www.youtube.com/watch?v=mhNg55_IYiw&list=RDmhNg55_IYiw&start_radio=1)**

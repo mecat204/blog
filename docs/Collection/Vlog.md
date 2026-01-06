@@ -17,8 +17,9 @@
   - So far I don't have any official fan clubs~
 
 * **[李子柒 | 李家有女，人称子柒。| Douyin](https://v.douyin.com/UzDy7CInEV4/)**
+
 ---
-* **[江寻千_九月) | Youtube](https://www.youtube.com/@JYjiuyue)**
+* **[江寻千_九月 | Youtube](https://www.youtube.com/@JYjiuyue)**
   - The smell of fireworks in the world is the most soothing to the hearts of ordinary people!
   - 世界上烟花的气味是最能抚慰普通人心灵的！
 
@@ -29,6 +30,7 @@
   ---
   - Thank you for your support and subscription
   - 感谢您的支持和订阅
+
   ---
   - [曾经最极致的浪漫，千年绝技——打铁花。](https://www.youtube.com/watch?v=HiJiAcwe9pk)
 
