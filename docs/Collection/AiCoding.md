@@ -54,6 +54,52 @@
     - 云雾缭绕人间仙境 | 住进风景里
 
 ---
+* **[基地 | 相信技术,相信正道,相信华夏 真实的表达观点和态度比对错重要 | 千章 | Douyin](https://v.douyin.com/0j80Gp44wJ4/)**
+  - [详解英伟达与OpenAI的秘密协议的苦衷与必然！ 一年750亿美金！AI算力到底有多烧钱？Sam Altman的豪赌你看懂了吗？](https://v.douyin.com/PUiayvww_b4/)
+  - [拒绝300亿美金收购！Ilya选择闭关造"神"，在线进化智能 复制100万个爱因斯坦也没用？伊利亚论通用智能的真正瓶颈。深度解析Dwarkesh访谈Ilya Sutskever | AI新星计划 | 科技 | 涨知识 | 知识前沿派对](https://v.douyin.com/BsZIkFCdWAg/)
+
+---
+* **[寒暑春秋 | 专注于历史科普，使用AI辅助拍摄，但表达的是本人思想观点 | 千章 | Douyin](https://v.douyin.com/fNJRuUp1O_Y/)**
+  - [李鸿章访问美国到底有多震撼？| 历史| 晚清| 人物| 美国](https://v.douyin.com/dDNWaWMpJvY/)
+  - [张作霖为什么要杀害李大钊？| 近代史| 民国| 革命者](https://v.douyin.com/UZXA07JzJTw/)
+  - [民国军阀养活一个师要花多少钱？| 近代史| 民国| 军阀| 军队](https://v.douyin.com/aEOwOxHTEGc/)
+  - [今天普通人比古代皇帝吃得更好| 历史| 古代| 现代| 饮食](https://v.douyin.com/YXMC5ywr4AE/)
+  - [钱玄同：民国愤青 新文化运动的最猛斗士| 近代史| 民国| 文化| 人物](https://v.douyin.com/cIzW8z0svaU/)
+  - [胡适信奉的自由主义到底是什么？| 近代史| 民国| 自由主义| 胡适](https://v.douyin.com/021SGTaansw/)
+  - [日本人是如何策划皇姑屯事件的？| 近代史| 民国| 张作霖](https://v.douyin.com/rROELS0f07Q/)
+
+---
+* **[峰峰范 | 修仙路上，慢慢兮 | 五百章 | Douyin](https://v.douyin.com/5aAWZ9X3sQw/)**
+  - **[追剧 | 热剧推荐 | 凡人修仙传](https://v.douyin.com/MEqKN1sLAwA/)**
+  - [白月光的杀伤力有多强 | 凡人修仙传](https://v.douyin.com/oVALKZ48aBI/)
+  - [凡人修仙传 韩立大婚，后院起火](https://v.douyin.com/atZ2IygphoM/)
+  - [国产动漫 | 凡人修仙传](https://v.douyin.com/r8eqdKNWPCQ/)
+  - [凡人修仙传](https://v.douyin.com/htsqY0M_4Ag/)
+  - [凡人修仙传 | 国产动漫 | 热剧推荐 | 狂飙之天南散修传奇](https://v.douyin.com/L4-T7Y-34os/)
+  - [彩虹小马 | 凡人修仙传](https://v.douyin.com/_RCFFdslXss/)
+  - [追剧 | 热剧推荐 | 凡人修仙传 | 凡人公寓](https://v.douyin.com/MEqKN1sLAwA/)
+
+---
+* **[一时一景 | Home  | 五百章 | Douyin](https://v.douyin.com/B1oVsJ7UITM/)**
+  - [治愈系](https://v.douyin.com/H1TakSnKVhQ/)
+
+---
+* **[10频道  | 硬笔书法 | 五百章 | Douyin](https://v.douyin.com/8rBzSVnHS6k/)**
+  - [句子摘抄](https://v.douyin.com/dGQWiJZ73Ac/)
+
+---
+* **[幽念 | Home | 五百章 | Douyin](https://v.douyin.com/_XGo8WCSJHg/)**
+  - [治愈小窝](https://v.douyin.com/Qb9MUAb4sck/)
+
+---
+* **[絵梦居 | Home | 五百章 | Douyin](https://v.douyin.com/Q2hvvsWqQqc/)**
+  - [治愈系](https://v.douyin.com/qAAPxn-rWtQ/)
+
+---
+* **[邀你赏景 | Home | 二百章 | Douyin ](https://v.douyin.com/1DiZbuQEpBY/)**
+  - [孤独和自由](https://v.douyin.com/l_x-PRSUxek/)
+
+---
 * **[黛西的花园 | 五百章 | Douyin](https://v.douyin.com/CYZ48MhYZy8/)**
   - [家的样子](https://v.douyin.com/k_z239qvLnc/)
 
@@ -80,30 +126,6 @@
 ---
 * **[馨居 | Home  | 百章 | Douyin](https://v.douyin.com/PBwuaNv5PW8/)**
   - [loft复式](https://v.douyin.com/u4qcWW4PXY0/)
-
----
-* **[一时一景 | Home  | 五百章 | Douyin](https://v.douyin.com/B1oVsJ7UITM/)**
-  - [治愈系](https://v.douyin.com/H1TakSnKVhQ/)
-
----
-* **[𝙎𝙩𝙖𝙧𝙧𝙮 | 星空 | 二十章 | Douyin](https://v.douyin.com/7WvsoSLThrQ/)**
-  - [星空](https://v.douyin.com/SdrwbbP8Xf8/)
-
----
-* **[10频道  | 硬笔书法 | 五百章 | Douyin](https://v.douyin.com/8rBzSVnHS6k/)**
-  - [句子摘抄](https://v.douyin.com/dGQWiJZ73Ac/)
-
----
-* **[幽念 | Home | 五百章 | Douyin](https://v.douyin.com/_XGo8WCSJHg/)**
-  - [治愈小窝](https://v.douyin.com/Qb9MUAb4sck/)
-
----
-* **[絵梦居 | Home | 五百章 | Douyin](https://v.douyin.com/Q2hvvsWqQqc/)**
-  - [治愈系](https://v.douyin.com/qAAPxn-rWtQ/)
-
----
-* **[邀你赏景 | Home | 二百章 | Douyin ](https://v.douyin.com/1DiZbuQEpBY/)**
-  - [孤独和自由](https://v.douyin.com/l_x-PRSUxek/)
 
 ---
 * **[春夏秋冬都很想你 | AI创作｜4k超清壁纸 百章 | Douyin](https://v.douyin.com/aG2XqDV_QTc/)**
@@ -238,10 +260,16 @@
 
 
 ---
-* **[F君·中意 | 为爱发电， 做有温度的作品 | 百章 | Douyin](https://v.douyin.com/lHiBWT5z8Qg/)**
+* **[F君 | 为爱发电， 做有温度的作品 | 百章 | Douyin](https://v.douyin.com/lHiBWT5z8Qg/)**
   - [《黑神话·西梁》](https://v.douyin.com/KXR2OZfb6cs/)
-  - 女儿国被删真结局：《黑神话·西梁》 "此去灵山十万里，悟得真经方才知：只要信念赤诚，念念回首处，便是灵山" 这次的创作动机原本只是想给小伙伴演示最近比较火的西游人物唱歌视频怎么做，没想到做着做着又做岔了。。。 第二天的时候我看了看自己做的部分就知道，这个片子应该是火不了了。因为缺少那种接地气的粗粝感，歌词和旋律也并不魔性朗朗上口。现如今有时候精美的包装并不讨喜。大家的生活节奏都很快也很累，需要一些更放松更松弛的内容和视觉。 但也因为这次创作，让我查阅和熟读了女儿国相关的各种资料，也和一些大语言模型进行了"探讨"。 相较于原著，我更喜欢86版唐僧那瞬间动了凡心的描绘。也以此为基础反复琢磨了内容和对话。越思考，自己越被这种情感触动。于是创作了心目中的女儿国真结局。 我相信，在无数条平行时空里，总有一条线上的唐僧是走了这条路。这个选择也没有违背唐僧原本的人设和信念，毕竟是如来的授意，相当于"公费谈恋爱"。 对于女儿国国王，我愿意相信她在唐僧离开取经之后并没有一蹶不振。而是勤与政务，救济灾民，打破女儿国各种陈旧枷锁。同时也坚持每日为唐僧祈福。她学着爱唐僧所爱的众生，这何尝不是一种修行。因此当唐僧回到女儿国后，无论是心意还是信仰，他们都是相通的。两人并不止于爱人，也是志同道合的伙伴。 在我的设想的最后：当女儿国王与唐僧寿终正寝之时，天际霞光万道，观音现身微笑："善哉，尔等已著就一部无字真经，功德圆满。" 此时，他们并不前往西天，而是化作两道柔和的彩虹，永远守护着这片他们亲手创建的"红尘净土" 至于世人所认知的那一份经，就让其他线上的唐僧去取吧。。。 | AI创作浪潮计划 | 女儿国 | 女儿国国王 | 即梦AI | 西游记
-  - [真实事件改编——《我的神奇女徒弟》 一件真实发生的小插曲  | AI创作浪潮计划  | 即梦AI  | 女徒弟  | 打工人  | 打工人的精神状态]()
+  - 女儿国被删真结局:《黑神话·西梁》"**此去灵山十万里，悟得真经方才知**: 只要信念赤诚，念念回首处，便是灵山" 这次的创作动机原本只是想给小伙伴演示最近比较火的西游人物唱歌视频怎么做，没想到做着做着又做岔了。第二天的时候我看了看自己做的部分就知道，这个片子应该是火不了了。因为缺少那种接地气的粗粝感，歌词和旋律也并不魔性朗朗上口。现如今有时候精美的包装并不讨喜。大家的生活节奏都很快也很累，需要一些更放松更松弛的内容和视觉。 但也因为这次创作，让我查阅和熟读了女儿国相关的各种资料，也和一些大语言模型进行了"探讨"。 相较于原著，我更喜欢86版唐僧那瞬间动了凡心的描绘。也以此为基础反复琢磨了内容和对话。越思考，自己越被这种情感触动。于是创作了心目中的女儿国真结局。 我相信，在无数条平行时空里，总有一条线上的唐僧是走了这条路。这个选择也没有违背唐僧原本的人设和信念，毕竟是如来的授意，相当于"公费谈恋爱"。 对于女儿国国王，我愿意相信她在唐僧离开取经之后并没有一蹶不振。而是勤与政务，救济灾民，打破女儿国各种陈旧枷锁。同时也坚持每日为唐僧祈福。她学着爱唐僧所爱的众生，这何尝不是一种修行。因此当唐僧回到女儿国后，无论是心意还是信仰，他们都是相通的。两人并不止于爱人，也是志同道合的伙伴。 在我的设想的最后：当女儿国王与唐僧寿终正寝之时，天际霞光万道，观音现身微笑："善哉，尔等已著就一部无字真经，功德圆满。" 此时，他们并不前往西天，而是化作两道柔和的彩虹，永远守护着这片他们亲手创建的"红尘净土" 至于世人所认知的那一份经，就让其他线上的唐僧去取吧。
+  - [真实事件改编——《我的神奇女徒弟》 一件真实发生的小插曲 | AI创作浪潮计划  | 即梦AI  | 女徒弟  | 打工人  | 打工人的精神状态]()
+  - [自费3万做个片](https://v.douyin.com/yKh1142Kcm8/)
+  - 自费3万做个片，希望大家最直接的批评我 (AI+人工) 3W多的各类AI工具花费，5000多张静态图，整个片子前后1个月共做了完整的3段单独剧情。以为自己可以交叉剪辑的很好，但我错了。这一次没有做出一个好作品。 不过也收获了其他东西。在一个情绪化的片段中开始，又在一个自己很想做的剧情里纠结，两者冲突后将自己视听语言方面的薄弱暴露无遗。 在创作的后半段，我开始去学习导演相关的知识，从视角视点分镜等等最基础的视听语言开始学，同时有目的性的去看电影。在学习的过程中，自我分析出了自己的问题，之所以最后还是把片子做完，是因为我希望不要半途而废，哪怕他是一个不好的作品。但我希望做完并总结他。 我找到了没有做好的原因，也知道了问题和自己擅长的一些点。其实还是有点高兴。因为如果能看出自己的问题，那就意味着我还有进步和提升的空间，看不出问题才是影响一个人进步的最大阻碍。 感谢吴老师和一些小伙伴一个月来耐着性子反复帮我看片看到快要吐，也感谢大家的反馈建议。其实很开心能和吴老师完全没有顾忌的去讨论创作，不必花时间揣摩对方的自尊心，有任何问题就犀利指出。在这个时代显的尤为珍贵。 最后其实我很直接也很间接的通过作品致敬了一下自己儿时的偶像桂正和先生，老次元应该知道是哪里。 希望大家真的可以非常直接的来批评我，其实愿意打字提建议真的是很难做到，因为任何人都没有义务去为别人写反馈，觉得好就点赞觉得不好就划走是常态，能留下文字的反馈都很难得。
+
+  ---
+  - [8万积分，让我的草稿箱女孩分享我们的AI 2025 抖音AI班元旦汇演我来啦！我的演出节目是：《草稿箱女孩的AI 2025》](https://v.douyin.com/8LEpUcXL7MY/)
+  - [信号灯变了 一千遍，我还在等你出现 | AI创作浪潮计划 | 即梦AI | 情绪 | 破碎感 | 深夜](https://v.douyin.com/3MSkzIS_KfE/)
 
 ---
 * **[宋可为 | 百章 | Douyin](https://v.douyin.com/JbkKjcLyeBI/)**
@@ -268,28 +296,12 @@
   - [12点之前我还是灵山经长 | 不一样的西游记](https://v.douyin.com/mVXvDWvZ8lo/)
 
 ---
-* **[摇滚唐小曾 | 制作有趣的视频，有趣视频剪辑技巧。| 二十章 | Douyin](https://v.douyin.com/feB8p6Zn75A/)**
-  - [烟雨唱扬州 | 西门庆 | 对口型飙演技 | 情歌对唱 | AI创作浪潮计划](https://v.douyin.com/4ktBbUWPPd8/)
-  - [西门庆 | 情歌对唱 | 搞笑配音 | 对口型飙演技 | ai创作浪潮计划](https://v.douyin.com/PlcssK1HPq0/)
-  - [音乐种草计划 | 西游记女儿国 | 对口型唱歌 | 搞笑配音 | 唐僧也疯狂](https://v.douyin.com/jlyxBC1-tBA/)
-  - [烟雨唱扬州 | 西门庆 | 对口型飙演技 | 情歌对唱 # AI创作浪潮计划](https://v.douyin.com/kWeaOavrQwA/)
-  - [红颜知己 | 西门庆 | 对口型飙演技 | 情歌对唱 | AI创作浪潮计划](https://v.douyin.com/GPs7xWtKGFQ/)
-
----
 * **[一只小岚猫 | 百章 | Douyin](https://v.douyin.com/MkNGEuCBzjs/)**
   - [戏文说 |红颜](https://v.douyin.com/NNZzRdTY5nE/)
 
 ---
 * **[认知便利店M! | 百章 | Douyin](https://v.douyin.com/LGT1DSofAw0/)**
   - [为什么认知越高的人越喜欢独处？ 爱因斯坦、牛顿、贝多芬的共同秘密，独处如何造就天才大脑 | 认知觉醒](https://v.douyin.com/fKk92HZ3aJA/)
-
----
-* **[小星不斩妖 | 二十章 | Douyin](https://v.douyin.com/EfMbcjIYodc/)**
-  - **氪命除妖师**
-  - [第一集 我曾与妖魔为伍，祸害百姓。今日斩妖，利用妖兽助我长生不死！](https://v.douyin.com/wj5AjN_DcYk/)
-  - [第二集 沈切初境期圆满！要与衙门做出切割！](https://v.douyin.com/YKv2b3EHI6g/)
-  - [第三集 叶姚登场！到底是福还是祸？](https://v.douyin.com/FXxDXtvyeWA/)
-  - [第四集 鹿族萨满幻境大战！竟出现了另一个自己。](https://v.douyin.com/Q3p8p0gdyxo/)
 
 ---
 * **[WoodMake·木造 | 百章 | Douyin](https://v.douyin.com/9vu7U1KHwng/)**
@@ -363,6 +375,20 @@
   - [花24小时AI自制凡人修仙传边界大战]https://v.douyin.com/XMxnPhfWx5s/)
   - [发一发坠魔谷概念视频 | 凡人修仙传 | 坠魔谷 | 韩胶带 | 海艺AI](https://v.douyin.com/niVlJbi1kSI/)
   - [慕沛灵](https://v.douyin.com/yxICALHu2x8/)
+
+---
+* **[Ai灵感主义 | AIGC设计师🧑‍🎨 数字艺术家🎨 灵感做图 全凭想象 | 五百章 | Douyin](https://v.douyin.com/PgENfCxFzBk/)**
+  - [或许在梦境是平时宇宙中的另一个你… 梦境很奇怪，冥冥之中似乎与其他的东西有联系，或许未来的科技可以解决很多难题…..| 航拍 | 宇宙 | 探索宇宙 | 艺术在抖音 | 视觉震撼](https://v.douyin.com/Ab-lZBDwt70/)
+  - [古代遗迹里的宫殿是什么样的呢？ 曾经的宫殿什么人居住过？| 艺术在抖音 | AI创作浪潮计划 | 古风 | 视觉震撼 | 海艺AI](https://v.douyin.com/DdnwurCADao/)
+  - [当你在未来星际旅行中遇到一颗矬恒星…. 这颗非常小的恒星照亮了它所在的星系，所有的行星🪐都像家人一样被它照耀](https://v.douyin.com/SEPb02ktX5g/)
+  - [这才是我真正想要的世界](https://v.douyin.com/Dtwgq-XNjA0/)
+
+---
+* **[瓜瓜瓜瓜瓜 | 所有作品的人物形象模型来自主播 | 二百章 | Douyin](https://v.douyin.com/c1x2hmxQ-_U/)**
+
+---
+* **[梦境旅行社 | 二百章 | Douyin](https://v.douyin.com/NNGhmYhrKs4/)**
+  - [道友请留步！ | 修仙 | 凡人修仙传 | 一镜到底 | AI动画 | 动漫剧场](https://v.douyin.com/eUSf5vqdX9Y/)
 
 ---
 * **[凡人凡画 | 专注凡人二创 | 三十章 | Douyin](https://v.douyin.com/_bzXVDm4fTk/)**
@@ -451,16 +477,6 @@
   - [母亲和儿子，谁先背叛了法兰西？这一集没有好人，只有活到最后的幸存者。 世界历史 | 欧洲历史 | 历史剧 | 宫廷剧 | 中世纪欧洲](https://v.douyin.com/HoGOoo6J3us/)
 
 ---
-* **[Ai灵感主义 | AIGC设计师🧑‍🎨 数字艺术家🎨 灵感做图 全凭想象 | 五百章 | Douyin](https://v.douyin.com/PgENfCxFzBk/)**
-  - [或许在梦境是平时宇宙中的另一个你… 梦境很奇怪，冥冥之中似乎与其他的东西有联系，或许未来的科技可以解决很多难题…..| 航拍 | 宇宙 | 探索宇宙 | 艺术在抖音 | 视觉震撼](https://v.douyin.com/Ab-lZBDwt70/)
-  - [古代遗迹里的宫殿是什么样的呢？ 曾经的宫殿什么人居住过？| 艺术在抖音 | AI创作浪潮计划 | 古风 | 视觉震撼 | 海艺AI](https://v.douyin.com/DdnwurCADao/)
-  - [当你在未来星际旅行中遇到一颗矬恒星…. 这颗非常小的恒星照亮了它所在的星系，所有的行星🪐都像家人一样被它照耀](https://v.douyin.com/SEPb02ktX5g/)
-  - [这才是我真正想要的世界](https://v.douyin.com/Dtwgq-XNjA0/)
-
----
-* **[瓜瓜瓜瓜瓜 | 所有作品的人物形象模型来自主播 | 二百章 | Douyin](https://v.douyin.com/c1x2hmxQ-_U/)**
-
----
 * **[阿墩的AI小剧场 | 女主叫瑶瑶｜多元宇宙穿越者 | 百章 | Douyin](https://v.douyin.com/IAE81nTcgRQ/)**
   - [嘴炮女修乱星海直播，竟遭遇深海克苏鲁，最后开起了海鲜烧烤. 天南散修实录乱星海篇02｜嘴炮女修继续水下宫殿探险，竟遭遇克苏鲁海怪，这送上门的大餐，很补呐..](https://v.douyin.com/u2HeTexC1fg/)
 
@@ -468,35 +484,6 @@
 * **[哲学于人生的意义 | 世界上任何书籍都不能带给你好运 但它们能让你悄悄成为你自己 | 百章 | Douyin](https://v.douyin.com/PyaDmCu-Jho/)**
   - [诺贝尔经济学奖得主哈耶克说，如果允许人类自由迁徙，那人流向的地方就是文明的方向。](https://v.douyin.com/-aI_unSetEA/)
   - [在所有知识分子里面，胡适是最像朋友的那一个。](https://v.douyin.com/8WGm_oBzEfQ/)
-
----
-* **[梦境旅行社 | 二百章 | Douyin](https://v.douyin.com/NNGhmYhrKs4/)**
-  - [道友请留步！ | 修仙 | 凡人修仙传 | 一镜到底 | AI动画 | 动漫剧场](https://v.douyin.com/eUSf5vqdX9Y/)
-
----
-* **[基地 | 相信技术,相信正道,相信华夏 真实的表达观点和态度比对错重要 | 千章 | Douyin](https://v.douyin.com/0j80Gp44wJ4/)**
-  - [详解英伟达与OpenAI的秘密协议的苦衷与必然！ 一年750亿美金！AI算力到底有多烧钱？Sam Altman的豪赌你看懂了吗？](https://v.douyin.com/PUiayvww_b4/)
-  - [拒绝300亿美金收购！Ilya选择闭关造"神"，在线进化智能 复制100万个爱因斯坦也没用？伊利亚论通用智能的真正瓶颈。深度解析Dwarkesh访谈Ilya Sutskever | AI新星计划 | 科技 | 涨知识 | 知识前沿派对](https://v.douyin.com/BsZIkFCdWAg/)
-
----
-* **[寒暑春秋 | 专注于历史科普，使用AI辅助拍摄，但表达的是本人思想观点 | 千章 | Douyin](https://v.douyin.com/fNJRuUp1O_Y/)**
-  - [李鸿章访问美国到底有多震撼？| 历史| 晚清| 人物| 美国](https://v.douyin.com/dDNWaWMpJvY/)
-  - [张作霖为什么要杀害李大钊？| 近代史| 民国| 革命者](https://v.douyin.com/UZXA07JzJTw/)
-  - [民国军阀养活一个师要花多少钱？| 近代史| 民国| 军阀| 军队](https://v.douyin.com/aEOwOxHTEGc/)
-  - [今天普通人比古代皇帝吃得更好| 历史| 古代| 现代| 饮食](https://v.douyin.com/YXMC5ywr4AE/)
-  - [钱玄同：民国愤青 新文化运动的最猛斗士| 近代史| 民国| 文化| 人物](https://v.douyin.com/cIzW8z0svaU/)
-  - [胡适信奉的自由主义到底是什么？| 近代史| 民国| 自由主义| 胡适](https://v.douyin.com/021SGTaansw/)
-  - [日本人是如何策划皇姑屯事件的？| 近代史| 民国| 张作霖](https://v.douyin.com/rROELS0f07Q/)
-
----
-* **[阿畅聊AI | 某AI出海产品负责人，分享日常感悟，随想 | 二十章 | Douyin](https://v.douyin.com/oibLMqjBdsw/)**
-  - [李飞飞：别卷大模型了，AI下个风口是它！](https://v.douyin.com/jAZ4QpuIhOc/)
-  - [哈萨比斯：毁掉你的不是无知，而是经验！](https://v.douyin.com/TF0VsgDSo14/)
-
----
-* **[出发吧阿吉 | 三十章 | Douyin](https://v.douyin.com/jmXYdstmrfI/)**
-  - [川派盆景系列上——AI觉醒 一花一世界，一盆一乾坤，在时间的褶皱中，意识之芽悄然生长……AI会觉醒吗？AI要怎样觉醒？答案，也许就藏在这方寸之间…… AI人工智能 温江 科幻 脑洞大开](https://v.douyin.com/LqohUz_h06w/)
-  - [川派盆景系列下——时间折叠 怎么才能让AI拥有意识？发源于温江的川派盆景给了我灵感，把盆景缩龙成寸的方法运用到了算法中，我的AI……好像真的可以拥有意识！但……我的选择是对的吗？把人类的原本有限的孤独安置在一个无限的载体之上，我……好像有点后悔了…… | AI | 人工智能 | 科幻 | 脑洞大开 | 盆景 | 温江](https://v.douyin.com/o9we-fg-1VE/)
 
 ---
 * **[虚妄 | AIGC 探索。风格不定。| 百章4K | Douyin](https://v.douyin.com/Bk_h29FDK8M/)**
@@ -536,15 +523,42 @@
   - [我的六翼霜蚣，你是不是看上他了？ | 凡人修仙传 | 韩立 | 柳玉 | 国漫 | 名场面](https://v.douyin.com/5rKaEPIxDV0/)
 
 ---
-* **[峰峰范 | 修仙路上，慢慢兮 | 五百章 | Douyin](https://v.douyin.com/5aAWZ9X3sQw/)**
-  - **[追剧 | 热剧推荐 | 凡人修仙传](https://v.douyin.com/MEqKN1sLAwA/)**
-  - [白月光的杀伤力有多强 | 凡人修仙传](https://v.douyin.com/oVALKZ48aBI/)
-  - [凡人修仙传 韩立大婚，后院起火](https://v.douyin.com/atZ2IygphoM/)
-  - [国产动漫 | 凡人修仙传](https://v.douyin.com/r8eqdKNWPCQ/)
-  - [凡人修仙传](https://v.douyin.com/htsqY0M_4Ag/)
-  - [凡人修仙传 | 国产动漫 | 热剧推荐 | 狂飙之天南散修传奇](https://v.douyin.com/L4-T7Y-34os/)
-  - [彩虹小马 | 凡人修仙传](https://v.douyin.com/_RCFFdslXss/)
-  - [追剧 | 热剧推荐 | 凡人修仙传 | 凡人公寓](https://v.douyin.com/MEqKN1sLAwA/)
+* **[AI梦想家 | 满怀梦想，负力前行 新人求关注 | 百章 | Douyin](https://v.douyin.com/owbT-SqTlmI/)**
+  - [不攀高枝当飞升，不惹是非是避劫 | AI创作浪潮计划  | 每一帧都是壁纸  | 古风](https://v.douyin.com/ekegjKFcTgs/)
+  - [哪吒闹海先导片手搓一晚上，后续剧情制作中 | AI创作浪潮计划  | 原创](https://v.douyin.com/lXOWzXZ65Gc/)
+  - [相见时难别亦难东风无力百花残](https://v.douyin.com/136JnkWAcZk/)
+  - [青绿千载，山河无垠](https://v.douyin.com/gGNP7ORHW5U/)
+
+---
+* **[出发吧阿吉 | 三十章 | Douyin](https://v.douyin.com/jmXYdstmrfI/)**
+  - [川派盆景系列上——AI觉醒 一花一世界，一盆一乾坤，在时间的褶皱中，意识之芽悄然生长……AI会觉醒吗？AI要怎样觉醒？答案，也许就藏在这方寸之间…… AI人工智能 温江 科幻 脑洞大开](https://v.douyin.com/LqohUz_h06w/)
+  - [川派盆景系列下——时间折叠 怎么才能让AI拥有意识？发源于温江的川派盆景给了我灵感，把盆景缩龙成寸的方法运用到了算法中，我的AI……好像真的可以拥有意识！但……我的选择是对的吗？把人类的原本有限的孤独安置在一个无限的载体之上，我……好像有点后悔了…… | AI | 人工智能 | 科幻 | 脑洞大开 | 盆景 | 温江](https://v.douyin.com/o9we-fg-1VE/)
+
+---
+* **[𝙎𝙩𝙖𝙧𝙧𝙮 | 星空 | 二十章 | Douyin](https://v.douyin.com/7WvsoSLThrQ/)**
+  - [星空](https://v.douyin.com/SdrwbbP8Xf8/)
+
+---
+* **[阿畅聊AI | 某AI出海产品负责人，分享日常感悟，随想 | 二十章 | Douyin](https://v.douyin.com/oibLMqjBdsw/)**
+  - [李飞飞：别卷大模型了，AI下个风口是它！](https://v.douyin.com/jAZ4QpuIhOc/)
+  - [哈萨比斯：毁掉你的不是无知，而是经验！](https://v.douyin.com/TF0VsgDSo14/)
+
+---
+* **[小星不斩妖 | 二十章 | Douyin](https://v.douyin.com/EfMbcjIYodc/)**
+  - **氪命除妖师**
+  - [第一集 我曾与妖魔为伍，祸害百姓。今日斩妖，利用妖兽助我长生不死！](https://v.douyin.com/wj5AjN_DcYk/)
+  - [第二集 沈切初境期圆满！要与衙门做出切割！](https://v.douyin.com/YKv2b3EHI6g/)
+  - [第三集 叶姚登场！到底是福还是祸？](https://v.douyin.com/FXxDXtvyeWA/)
+  - [第四集 鹿族萨满幻境大战！竟出现了另一个自己。](https://v.douyin.com/Q3p8p0gdyxo/)
+
+---
+* **[摇滚唐小曾 | 制作有趣的视频，有趣视频剪辑技巧。| 二十章 | Douyin](https://v.douyin.com/feB8p6Zn75A/)**
+  - [烟雨唱扬州 | 西门庆 | 对口型飙演技 | 情歌对唱 | AI创作浪潮计划](https://v.douyin.com/4ktBbUWPPd8/)
+  - [西门庆 | 情歌对唱 | 搞笑配音 | 对口型飙演技 | ai创作浪潮计划](https://v.douyin.com/PlcssK1HPq0/)
+  - [音乐种草计划 | 西游记女儿国 | 对口型唱歌 | 搞笑配音 | 唐僧也疯狂](https://v.douyin.com/jlyxBC1-tBA/)
+  - [烟雨唱扬州 | 西门庆 | 对口型飙演技 | 情歌对唱 # AI创作浪潮计划](https://v.douyin.com/kWeaOavrQwA/)
+  - [红颜知己 | 西门庆 | 对口型飙演技 | 情歌对唱 | AI创作浪潮计划](https://v.douyin.com/GPs7xWtKGFQ/)
+
 
 ---
 ### 007. 数字人实时语音交互

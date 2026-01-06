@@ -1,4 +1,9 @@
 ### 000. music·course
+* **[AlgerMusicPlayer | music | software](https://github.com/algerkong/AlgerMusicPlayer)**
+  - [music.alger.fun](http://music.alger.fun/#/)
+  - [donate.alger.fun](https://donate.alger.fun/)
+
+---
 * **[ Musicca | 在线免费学习乐理（音乐理论）和基础乐器/音乐知识 的平台。](https://musicca.com)**
 
 ---
