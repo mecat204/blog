@@ -19,6 +19,10 @@
 * **[李子柒 | 李家有女，人称子柒。| Douyin](https://v.douyin.com/UzDy7CInEV4/)**
 
 ---
+  * **[Summer Hailstones 夏冰雹 | Youtube](https://www.youtube.com/@SummerHailstones)**
+    - [拖延、焦虑、没动力？《DOSE 效应》神经科学方法，帮你养成高能量体质｜冰雹讲书｜英文原版](https://www.youtube.com/watch?v=X4hwczXIhbQ)
+
+---
 * **[江寻千_九月 | Youtube](https://www.youtube.com/@JYjiuyue)**
   - The smell of fireworks in the world is the most soothing to the hearts of ordinary people!
   - 世界上烟花的气味是最能抚慰普通人心灵的！
@@ -1486,6 +1490,30 @@
 
 ---
 ### 011. Travel on the World
+* **[DJI | Youtube](https://www.youtube.com/@DJI/videos)**
+  - DJI's official YouTube channel is home to everything DJI, showcasing the full and incredible capability of our latest aerial and handheld products including the Phantom, Mavic, Inspire, Ronin, and Osmo series.
+  - 大疆官方YouTube频道汇聚了所有大疆相关内容，展示了我们最新空中和掌机产品的完整且令人难以置信的能力，包括Phantom、Mavic、Inspire、Ronin和Osmo系列。
+
+  ---
+  - See how both independent filmmakers and Hollywood cinematographers have adopted DJI systems in their productions, enabling them to fully realize their vision.
+  - 看看独立电影制作人和好莱坞摄影师如何将DJI系统应用于他们的作品，使他们能够充分实现他们的愿景。
+
+  ---
+  - Learn how groundbreaking DJI technology has been put to use to change the world for the better, and to document unique destinations and impactful events.
+  - 了解大疆开创性技术如何被运用来改善世界，并记录独特的目的地和深远的事件。
+
+  ---
+  - Welcome to the Future of Possible.
+  - 欢迎来到可能的未来。
+
+  ---
+  - Official Website: www.dji.com
+  - 官方网站：www.dji.com
+
+  ---
+  - [SkyPixel 11th Annual Photo & Video Contest Starts Today | SkyPixel 第十一届年度摄影与视频比赛今天 开始](https://www.youtube.com/watch?v=XGsr7fsN5jIs)
+
+---
 * **[traveler_HIRO | Youtube](https://www.youtube.com/@traveler_HIRO/featured)**
   - Hey there, I’m Hiro, and welcome to traveler_HIRO!
   - 你好，我是广，欢迎来到traveler_HIRO！
@@ -1632,6 +1660,60 @@
 
   ---
   - [a GIRL WEEKEND in my life vlog: coffee, Anna Maria day trip, markets + sunsets | 我生命中的女孩周末视频日志：咖啡、安娜玛丽亚一日游、市场+日落](https://www.youtube.com/watch?v=p6ODDTaM990)
+
+---
+* **[Tokyo Cheapos | Youtube](https://www.youtube.com/@tokyocheapo)**
+  - Our website has almost a million readers every month, making it one of the most popular English language websites about Tokyo.
+  - 我们的网站每月有近一百万读者，是东京最受欢迎的英文网站之一。
+
+  ---
+  - And now we're now on YouTube!
+  - 现在我们已经在YouTube上了！
+
+  ---
+  - Subscribe to our channel for all our tips, hacks and regular insights on how to get more out of Tokyo on a pittance.
+  - 订阅我们的频道，获取所有技巧、窍门和定期见解，帮助你用微薄的费用获得更多东京的乐趣。
+
+  ---
+  - Everything from the basics - transport, accommodation, food and drink, stuff to do;And more niche topics - culture, art, sub culture; off the beaten path; plus a healthy dose of the wonderful and bizarre that one only finds in this sprawling far Eastern metropolis.
+  - 从基本的交通、住宿、食物饮料、各种活动开始; 还有更多小众话题——文化、艺术、亚文化;偏僻的道路;以及只有在这座广阔远东大都市才能找到的奇妙与奇异元素。
+
+  ---
+  - For business inquires please see our corporate website: https://fasttrainltd.com/ or if you're a talented creator see our careers page: https://fasttrainltd.com/careers/
+  - 如需商业咨询，请访问我们的企业网站：https://fasttrainltd.com/;如果您是有才华的创作者，请访问我们的招聘页面：https://fasttrainltd.com/careers/
+
+  ---
+  - [Discover Kawagoe: Day Trip to ‘Old Tokyo’ | 探索川越：“老东京”一日游](https://www.youtube.com/watch?v=uuWL-mXLF7k)
+
+---
+### 012. Universe
+* **宇宙**
+| 中文        | 英语                      | 使用场景  |
+| --------- | ----------------------- | ----- |
+| 宇宙（整体）    | **universe**            | 科学、正式 |
+| 宇宙（宏大、诗意） | **cosmos**              | 文学、科普 |
+| 太空        | **space / outer space** | 日常、航天 |
+| 苍天        | **the heavens**         | 古典、宗教 |
+
+---
+* **[NASA | Youtube](https://www.youtube.com/@NASA/featured)**
+  - NASA's mission is to pioneer the future in space exploration, scientific discovery, and aeronautics research.
+  - NASA的使命是开创太空探索、科学发现和航空研究的未来。
+
+  ---
+  - To do that, we have worked around the world—and off it—for more than 60 years, searching for answers to fundamental questions about our place in the universe.
+  - 为此，我们在全球及海外工作了60多年，寻找关于我们在宇宙中地位的根本问题的答案。
+
+  ---
+  - We're exploring space and discovering Earth.
+  - 我们在探索太空，发现地球。
+
+  ---
+  - Join us on this exciting and important journey.
+  - 加入我们，踏上这段激动人心且重要的旅程。
+
+  ---
+  - [Step Inside the International Space Station (POV Tour) | 走进国际空间站（视角导览）](https://www.youtube.com/watch?v=nmBbcNTUkOg)
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)

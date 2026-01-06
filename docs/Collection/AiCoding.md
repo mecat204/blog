@@ -80,6 +80,14 @@
   - [追剧 | 热剧推荐 | 凡人修仙传 | 凡人公寓](https://v.douyin.com/MEqKN1sLAwA/)
 
 ---
+* **[阿硕讲ai | 让普通人轻松玩上ai ComfyUI原创工作流 | 五百章 | Douyin](https://v.douyin.com/IrueSuUss0o/)**
+  - [灵石帝国-韩立崛起](https://v.douyin.com/v-o8uA9-jCw/)
+  - [制霸韩阴高校 韩立穿越 玄骨重生 柳玉被揍 凡人修仙传热血版 感谢 **wan2.6技术支持** | **通义万相**](https://v.douyin.com/saOR8uaDAm4/)
+  - [凡人第二季花絮比正剧还好看。带你直达演员幕后 全片均由可灵2.6音画同出制作。 新模型非常强大，画面+音效+对白+对口型，一次全给制作出来。 这种拍摄现场花絮，真的有种直达现场的身临其境感！ 把需要的角色人物图片，上传到可灵的图片参考并生成相应的角色，提示词：生成图中角色的拍摄现场、拍摄花絮、拍摄幕后的照片。 然后用生成好的照片，上传到可灵的视频生成板块上，进行首帧参考，填入提示词：这是拍摄现场XXX。描述画面内容和对白就行。 生成好之后，就有声音和生效的了。](https://v.douyin.com/VxBr6kN5r5U/)
+  - [要我搞一下 AI影视人物替换 爱他就去剪他 爆火的凡人修仙传恶搞二创教程 源头就在这里了 赶紧学! 人物替换 王者荣耀恶搞二创 英雄联盟二创](https://v.douyin.com/o7GV8Hl2Xm4/)
+  - [一张图就能搞定角色全角度 完美一致性 支持真人 3D 卡通 V1 V2·RH可用 已经更新到V3版本，支持7~8头身比例，5头身比例，完美兼容真人和动漫，后续有更多需求评论区告诉我 | ai | comfyui | ai角色](https://v.douyin.com/zfs8msCb2_w/)
+
+---
 * **[一时一景 | Home  | 五百章 | Douyin](https://v.douyin.com/B1oVsJ7UITM/)**
   - [治愈系](https://v.douyin.com/H1TakSnKVhQ/)
 
@@ -96,10 +104,6 @@
   - [治愈系](https://v.douyin.com/qAAPxn-rWtQ/)
 
 ---
-* **[邀你赏景 | Home | 二百章 | Douyin ](https://v.douyin.com/1DiZbuQEpBY/)**
-  - [孤独和自由](https://v.douyin.com/l_x-PRSUxek/)
-
----
 * **[黛西的花园 | 五百章 | Douyin](https://v.douyin.com/CYZ48MhYZy8/)**
   - [家的样子](https://v.douyin.com/k_z239qvLnc/)
 
@@ -112,25 +116,27 @@
   - [温馨小窝](https://v.douyin.com/AqwC1rG7mXk/)
 
 ---
+* **[AI教练·振轩 | 网站资源分享 | 五百章 | Douyin](https://v.douyin.com/Z85GoFIdT5k/)**
+
+---
+* **[邀你赏景 | Home | 二百章 | Douyin ](https://v.douyin.com/1DiZbuQEpBY/)**
+  - [孤独和自由](https://v.douyin.com/l_x-PRSUxek/)
+
+---
+* **[像素诗人·公子慕辰 | AI数字艺术 "像素诗人联盟" | 二百章 | Douyin](https://v.douyin.com/5kXd-wc3tCA/)**
+  - [化外之境](https://v.douyin.com/EIfvqNUdNgY/)
+  - [这是我梦中的东方幻境](https://v.douyin.com/7aeVzub8OHk/)
+  - [维度时空之门](https://v.douyin.com/wQ5T0XTDzjQ/)
+  - [海底两万里](https://v.douyin.com/bxfaw6LA5Qg/)
+  - [2100之后](https://v.douyin.com/2l7tfn2FzZg/)
+  - [我站在长安街头，看见了天外之门](https://v.douyin.com/mm2M-lPqrv4/)
+  - [如何把名画变成电影？ 这次使用了jimeng画布，Agent模式+图片4.5+视频3.5pro一站式工作流，发现jimeng对国风的理解真是够绝啊，光影和色调完全符合我的想象！| 一站式AI创作工作台 | AI六边形战士 | 汉宫春晓图 | AI短片 | ai电影](https://v.douyin.com/8jOcXpzX_Ms/)
+  - [天上星河落人间，一城灯火照千年。 | 2025AI年终大赏 | AI创作浪潮计划 | 即梦AI创作者成长计划 | 唯美意境 | 风景](https://v.douyin.com/jV9hEMEJB9Q/)
+  - [一镜到底，走进画里](https://v.douyin.com/Ahi2hnaDeJI/)
+
+---
 * **[邀你赏景 | 二百章 | Douyin](https://v.douyin.com/1DiZbuQEpBY/)**
   - [下雨天](https://v.douyin.com/KqNwEAIv8Ho/)
-
----
-* **[慢·时光 | Home  | 百章 | Douyin](https://v.douyin.com/s7YEC757HN0/)**
-  - [家的样子](https://v.douyin.com/b5ZHgPBCxEo/)
-
----
-* **[ෆ Athorn | Home  | 百章 | Douyin](https://v.douyin.com/0mHywY-j7S8/)**
-  - [享受独处](https://v.douyin.com/gBfr0TDtarM/)
-
----
-* **[馨居 | Home  | 百章 | Douyin](https://v.douyin.com/PBwuaNv5PW8/)**
-  - [loft复式](https://v.douyin.com/u4qcWW4PXY0/)
-
----
-* **[春夏秋冬都很想你 | AI创作｜4k超清壁纸 百章 | Douyin](https://v.douyin.com/aG2XqDV_QTc/)**
-  - [奇幻美学](https://v.douyin.com/eUQYwDh2FBc/)
-  - [视觉震撼 | 梦中的世界 | 心灵奇旅 | 异世界探秘 | ios26壁纸](https://v.douyin.com/mTeNNY2E8RY/)
 
 ---
 * **[宫老丝 | 二百章 | Douyin](https://v.douyin.com/9v_3RwtV4W4/)**
@@ -149,7 +155,37 @@
   - [林中小屋](https://v.douyin.com/I4yKGk3KlR8/)
 
 ---
-* **[AI教练·振轩 | 网站资源分享 | 五百章 | Douyin](https://v.douyin.com/Z85GoFIdT5k/)**
+* **[慢·时光 | Home  | 百章 | Douyin](https://v.douyin.com/s7YEC757HN0/)**
+  - [家的样子](https://v.douyin.com/b5ZHgPBCxEo/)
+
+---
+* **[ෆ Athorn | Home  | 百章 | Douyin](https://v.douyin.com/0mHywY-j7S8/)**
+  - [享受独处](https://v.douyin.com/gBfr0TDtarM/)
+
+---
+* **[馨居 | Home  | 百章 | Douyin](https://v.douyin.com/PBwuaNv5PW8/)**
+  - [loft复式](https://v.douyin.com/u4qcWW4PXY0/)
+
+---
+* **[春夏秋冬都很想你 | AI创作｜4k超清壁纸 | 百章 | Douyin](https://v.douyin.com/aG2XqDV_QTc/)**
+  - [奇幻美学](https://v.douyin.com/eUQYwDh2FBc/)
+  - [视觉震撼 | 梦中的世界 | 心灵奇旅 | 异世界探秘 | ios26壁纸](https://v.douyin.com/mTeNNY2E8RY/)
+
+---
+* **[凡人小星 | 不如道友的关注，就交予在下如何？| 百章 | Douyin](https://v.douyin.com/KMp2p97zJD4/)**
+  - [黄龙山首战完整版，韩立秒了两位元婴 | 韩立 | 凡人修仙传](https://v.douyin.com/4vT_-1J6sf0/)
+  - [凡人修仙传 韩立对战乐上师](https://v.douyin.com/rcPsynHI0L8/)
+  - [韩立黄龙山大战谷双蒲](https://v.douyin.com/kAIfAwDmCoI/)
+  - [韩立又秒了一名元婴 黄龙山无间道](https://v.douyin.com/HI0TuvShIko/)
+
+---
+* **[北辰漫剪 | 百章 | Douyin](https://v.douyin.com/5eEgMYS5uH8/)**
+  - [天南音乐会](https://v.douyin.com/JTvBjm5TvKc/)
+  - [给我们吕师兄惊呆了01](https://v.douyin.com/VdgUi7zfmiU/)
+  - [给我们吕师兄惊呆了02](https://v.douyin.com/4bkIB0MH9bg/)
+  - [落云韩粉01](https://v.douyin.com/CJEGX5lwjbc/)
+  - [落云韩粉02](https://v.douyin.com/kgX296pMyAQ/)
+  - [落云韩粉03](https://v.douyin.com/bUhyHcH3SMs/)
 
 ---
 * **[老麦不废话 | 百章 | Douyin](https://v.douyin.com/_nWNnafRehU/)**
@@ -180,6 +216,24 @@
   - [赛博国风写真](https://v.douyin.com/blplhlvRwfw/)
 
 ---
+* **[田甜 | 很高兴与大家相遇，感谢官方平台 作品全部是AI，不是真人 | 五百章 | Douyin](https://v.douyin.com/yJ4LXmtxrzE/)**
+  - [圣诞的红是草莓味的甜，雪落进软绒绒的暖里，连空气都裹着铃铛轻响的温柔。 | 红色 | 冬日甜系穿搭 | 甜美女孩 | AI圣诞氛围感写真 | 抖音AI创作](https://v.douyin.com/cNUB-3nKNOQ/)
+  - [AI古风绝美写真](https://v.douyin.com/5g3Nyg2p9Os/)
+
+---
+* **[韩胶带 | 五百章 | Douyin](https://v.douyin.com/aJkvygp4xpo/)**
+  - [花24小时AI自制凡人修仙传边界大战]https://v.douyin.com/XMxnPhfWx5s/)
+  - [发一发坠魔谷概念视频 | 凡人修仙传 | 坠魔谷 | 韩胶带 | 海艺AI](https://v.douyin.com/niVlJbi1kSI/)
+  - [慕沛灵](https://v.douyin.com/yxICALHu2x8/)
+
+---
+* **[Ai灵感主义 | AIGC设计师🧑‍🎨 数字艺术家🎨 灵感做图 全凭想象 | 五百章 | Douyin](https://v.douyin.com/PgENfCxFzBk/)**
+  - [或许在梦境是平时宇宙中的另一个你… 梦境很奇怪，冥冥之中似乎与其他的东西有联系，或许未来的科技可以解决很多难题…..| 航拍 | 宇宙 | 探索宇宙 | 艺术在抖音 | 视觉震撼](https://v.douyin.com/Ab-lZBDwt70/)
+  - [古代遗迹里的宫殿是什么样的呢？ 曾经的宫殿什么人居住过？| 艺术在抖音 | AI创作浪潮计划 | 古风 | 视觉震撼 | 海艺AI](https://v.douyin.com/DdnwurCADao/)
+  - [当你在未来星际旅行中遇到一颗矬恒星…. 这颗非常小的恒星照亮了它所在的星系，所有的行星🪐都像家人一样被它照耀](https://v.douyin.com/SEPb02ktX5g/)
+  - [这才是我真正想要的世界](https://v.douyin.com/Dtwgq-XNjA0/)
+
+---
 * **[小猫说🐱 | 百章 | Douyin](https://v.douyin.com/0DS8Sk1HMNY/)**
   - [内部资料  | 一条视频教会你让AI替你打工](https://v.douyin.com/g9n9oKCbfnU/)
 
@@ -204,10 +258,6 @@
 * **[墨林深读 | 用深度阅读开启思维新篇。| 二百章 | Douyin](https://v.douyin.com/FSDxaiDz0EI/)**
   - [十分钟读一本好书今天分享的是《嫁妆》| 读书 | 阅读 | 短篇小说 | 契诃夫 | 阅读是一种习惯](https://v.douyin.com/MPymR8RvXHg/)
   - [十分钟读一本好书今天分享的是史铁生《我与地坛》| 读书 | 中学生 | 必读书籍 | 史铁生 | 阅读  ](https://v.douyin.com/bOAGUCptSYA/)
-
----
-* **[哈基乱剪 | 整一些好玩的新三国二创~ 望能带给你更多的快乐 | 二十多章 | Douyin](https://v.douyin.com/pDw538G72TY/)**
-  - [乱剪三国-刘备化身一拳超人，突袭许昌，曹操被偷家！ 新三国 | 刘备 | 诸葛亮 | 曹操 | 魔改剪辑 ](https://v.douyin.com/ywBSD45PAxU/)
 
 ---
 * **[𝘾𝙮𝙗𝙤𝙧𝙜𝟯 | 神仙？ 妖怪？ 谢谢 | 二百章 | Douyin](https://v.douyin.com/VKYveIUAulY/)**
@@ -245,19 +295,16 @@
   - [水墨思君-慕沛灵 凡人修仙传动态壁纸 | 凡人修仙传 | 慕沛灵 | 水墨 | 4k60帧 | 动态壁纸](https://v.douyin.com/Y-rmbEfBChs/)
 
 ---
-* **[尘风AI | 《智行无界》 尘寰万象掌中轻, 万佛千门屏上鸣。A爱智纳无涯海，I智穿云悦众生。AI很单纯，复杂的是人。| 二十九章 | Douyin](https://v.douyin.com/ZE-LqaiwJrw/)**
-  - [奇幻东方美学，小白也能学会，用AI四步三分钟教会你； 东方奇幻怪诞美学，用AI如此简单；喂饭级教程；| AI新星计划 | AI教学 | 东方奇幻美学| 海螺AI | AI创作浪潮计划](https://v.douyin.com/bPb86GPHdZs/)
-
----
 * **[阿军Ai影匠 | 二百章 | Douyin](https://v.douyin.com/a-KHa9Rz-9M/)**
   - [11个人狂干168个小时，用AI制作出来的9分钟《聊斋》作品 | AI短剧| AI创作浪潮计划| 2025AI年终大赏| AI电影 | 聊斋](https://v.douyin.com/vqjtdUQQ_6Q/)
   - [未来.异能者 付费 | 短剧推荐 | ai短剧 | ai创作浪潮计划| 热血 | 未来异能者](https://v.douyin.com/BNjfaXAZ-VU/)
 
 ---
-* **[田甜 | 很高兴与大家相遇，感谢官方平台 作品全部是AI，不是真人 | 五百章 | Douyin](https://v.douyin.com/yJ4LXmtxrzE/)**
-  - [圣诞的红是草莓味的甜，雪落进软绒绒的暖里，连空气都裹着铃铛轻响的温柔。 | 红色 | 冬日甜系穿搭 | 甜美女孩 | AI圣诞氛围感写真 | 抖音AI创作](https://v.douyin.com/cNUB-3nKNOQ/)
-  - [AI古风绝美写真](https://v.douyin.com/5g3Nyg2p9Os/)
+* **[瓜瓜瓜瓜瓜 | 所有作品的人物形象模型来自主播 | 二百章 | Douyin](https://v.douyin.com/c1x2hmxQ-_U/)**
 
+---
+* **[梦境旅行社 | 二百章 | Douyin](https://v.douyin.com/NNGhmYhrKs4/)**
+  - [道友请留步！ | 修仙 | 凡人修仙传 | 一镜到底 | AI动画 | 动漫剧场](https://v.douyin.com/eUSf5vqdX9Y/)
 
 ---
 * **[F君 | 为爱发电， 做有温度的作品 | 百章 | Douyin](https://v.douyin.com/lHiBWT5z8Qg/)**
@@ -276,18 +323,6 @@
   - [我的叔叔于勒](https://v.douyin.com/JE-RwyEzZPQ/)
 
 ---
-* **[𝒥𝓊𝒹𝑒 | Midjourney创作 | 十章 | Douyin](https://v.douyin.com/crxb-owdcws/)**
-  - [我重临世界之日，诸逆臣皆当死去. | midjourney | 龙族 | ai | 异世界 | mj](https://v.douyin.com/Vji-OFnBRjM/)
-  - [哥特窗棂漫着雨，裙裾浸着雾的余韵.  | midjourney  | 唯美  | ai  | 哥特风  | mj](https://v.douyin.com/0_OqCrzsSaM/)
-
----
-* **[还看今朝AI | 二十章 | Douyin](https://v.douyin.com/Et7TNCBzPKY/)**
-  - **天穹**
-  - [第一集 乱世之中，又会有怎样的英雄故事？](https://v.douyin.com/I8hZki_1TOk/)
-  - [第二集天宫之斗 太衡、南天两位星君为争下凡机会产生矛盾](https://v.douyin.com/pGmo_PxjfTo/ )
-  - [第三集 穹，每相隔百年波动一次的天生之灵，当它现世的时候，天界也会随之震荡](https://v.douyin.com/ThNfnMuVK_4/)
-
----
 * **[可乐从不加冰 | 沉迷AI写真无法自拔，喜欢的宝关注一下呦 不拿ai照片当自己 | 五百章 | Douyin](https://v.douyin.com/ZM5lvc462ZI/)**
   - [AI复古胶片写真](https://v.douyin.com/6aWSzFnAkB8/)
 
@@ -295,31 +330,7 @@
 * **[燃·剪 | 西游 | 五百章 | Douyin](https://v.douyin.com/ppgeQm10xes/)**
   - [12点之前我还是灵山经长 | 不一样的西游记](https://v.douyin.com/mVXvDWvZ8lo/)
 
----
-* **[一只小岚猫 | 百章 | Douyin](https://v.douyin.com/MkNGEuCBzjs/)**
-  - [戏文说 |红颜](https://v.douyin.com/NNZzRdTY5nE/)
 
----
-* **[认知便利店M! | 百章 | Douyin](https://v.douyin.com/LGT1DSofAw0/)**
-  - [为什么认知越高的人越喜欢独处？ 爱因斯坦、牛顿、贝多芬的共同秘密，独处如何造就天才大脑 | 认知觉醒](https://v.douyin.com/fKk92HZ3aJA/)
-
----
-* **[WoodMake·木造 | 百章 | Douyin](https://v.douyin.com/9vu7U1KHwng/)**
-  - [国风](https://v.douyin.com/oZQYYRL6fZM/)
-  - **当 AI 角色有了一些"小心思" 一部影片中要出现大量人物，基于训练模型和多工具配合，例如 Nano Banana、Midjourney、 Seedream4.0 等，我们的角色，无论主角还是配角都可以在更多场景，更加自然的做肢体动作、微表情展现，这有利于商片制作；背景音乐依然来自我们自制的国风配乐**
-
----
-* **[极限觉醒的黛西 | 百章 | Douyin](https://v.douyin.com/1M2cPSvWNks/)**
-  - [一个能让你做成任何事的顶级心法:日拱一卒，持续交卷](https://v.douyin.com/0rFGyr_m74g/)
-
----
-* **[Studio Digital AI](https://www.youtube.com/@StudioDigitalAI)**
-  - [火影忍者 - 电影 (2026) | 忍者的命运 | 4K预告片](https://www.youtube.com/watch?v=kkR-M1b6zQ8)
-* **[威廉君](https://v.douyin.com/_rkMKSjEYts/)**
-  - [绫波丽 天鹰战士EVA 新世纪福音战士](ttps://v.douyin.com/7wfkdtIn9mw/)
-
----
-* **[Kath | 百章 | Douyin](https://v.douyin.com/EkjrMHDldUc/)**
 
 ---
   * **[暴躁虾剪 | 一个要把西游记剪成臊子的男人 | 五百章| Douyin](https://v.douyin.com/xma4-2Rjo5s/)**
@@ -363,40 +374,34 @@
   - [在国外用告示牌学英语](https://v.douyin.com/RdPzdM9WAr0/)
 
 ---
-* **[我使劲学 | 英语是我看世界的通行证🌍 我要努力送自己出国 看更大的世界 | 三十章 | Douyin](https://v.douyin.com/43pGLMgTHyY/)**
-  - [努力送自己出国0基础自学英语day41📖发现了一个英语听说读写练习最快的捷径](https://v.douyin.com/QXa_hcVewao/)
-
----
-* **[ai老韩 | aigc创作者，有凡人官方授权 | 三十章 | Douyin](https://v.douyin.com/2Y3LdWQthZM/)**
-  - [仓坤上人副本 | 凡人修仙传 | AI创作浪潮计划 | 海艺AI | 韩立 | 南陇侯](https://v.douyin.com/zhIuD4WxtiY/)
-
----
-* **[韩胶带 | 五百章 | Douyin](https://v.douyin.com/aJkvygp4xpo/)**
-  - [花24小时AI自制凡人修仙传边界大战]https://v.douyin.com/XMxnPhfWx5s/)
-  - [发一发坠魔谷概念视频 | 凡人修仙传 | 坠魔谷 | 韩胶带 | 海艺AI](https://v.douyin.com/niVlJbi1kSI/)
-  - [慕沛灵](https://v.douyin.com/yxICALHu2x8/)
-
----
-* **[Ai灵感主义 | AIGC设计师🧑‍🎨 数字艺术家🎨 灵感做图 全凭想象 | 五百章 | Douyin](https://v.douyin.com/PgENfCxFzBk/)**
-  - [或许在梦境是平时宇宙中的另一个你… 梦境很奇怪，冥冥之中似乎与其他的东西有联系，或许未来的科技可以解决很多难题…..| 航拍 | 宇宙 | 探索宇宙 | 艺术在抖音 | 视觉震撼](https://v.douyin.com/Ab-lZBDwt70/)
-  - [古代遗迹里的宫殿是什么样的呢？ 曾经的宫殿什么人居住过？| 艺术在抖音 | AI创作浪潮计划 | 古风 | 视觉震撼 | 海艺AI](https://v.douyin.com/DdnwurCADao/)
-  - [当你在未来星际旅行中遇到一颗矬恒星…. 这颗非常小的恒星照亮了它所在的星系，所有的行星🪐都像家人一样被它照耀](https://v.douyin.com/SEPb02ktX5g/)
-  - [这才是我真正想要的世界](https://v.douyin.com/Dtwgq-XNjA0/)
-
----
-* **[瓜瓜瓜瓜瓜 | 所有作品的人物形象模型来自主播 | 二百章 | Douyin](https://v.douyin.com/c1x2hmxQ-_U/)**
-
----
-* **[梦境旅行社 | 二百章 | Douyin](https://v.douyin.com/NNGhmYhrKs4/)**
-  - [道友请留步！ | 修仙 | 凡人修仙传 | 一镜到底 | AI动画 | 动漫剧场](https://v.douyin.com/eUSf5vqdX9Y/)
-
----
-* **[凡人凡画 | 专注凡人二创 | 三十章 | Douyin](https://v.douyin.com/_bzXVDm4fTk/)**
-  - [凡人凌凌漆](https://v.douyin.com/XR9P1b1u5T8/)
-
----
 * **[AI散修小师妹 | AIGC散修，凡人修仙 原创AI视频 | 百章 | Douyin](https://v.douyin.com/Se773qx2EWU/)**
   - [小梅凝~变身！ | 二次元 | 梅凝 | 暗夜变装挑战|AI创作浪潮计划 | 海艺AI  ](https://v.douyin.com/v3V_iC6bQeI/)
+
+---
+* **[一只小岚猫 | 百章 | Douyin](https://v.douyin.com/MkNGEuCBzjs/)**
+  - [戏文说 |红颜](https://v.douyin.com/NNZzRdTY5nE/)
+
+---
+* **[认知便利店M! | 百章 | Douyin](https://v.douyin.com/LGT1DSofAw0/)**
+  - [为什么认知越高的人越喜欢独处？ 爱因斯坦、牛顿、贝多芬的共同秘密，独处如何造就天才大脑 | 认知觉醒](https://v.douyin.com/fKk92HZ3aJA/)
+
+---
+* **[WoodMake·木造 | 百章 | Douyin](https://v.douyin.com/9vu7U1KHwng/)**
+  - [国风](https://v.douyin.com/oZQYYRL6fZM/)
+  - **当 AI 角色有了一些"小心思" 一部影片中要出现大量人物，基于训练模型和多工具配合，例如 Nano Banana、Midjourney、 Seedream4.0 等，我们的角色，无论主角还是配角都可以在更多场景，更加自然的做肢体动作、微表情展现，这有利于商片制作；背景音乐依然来自我们自制的国风配乐**
+
+---
+* **[极限觉醒的黛西 | 百章 | Douyin](https://v.douyin.com/1M2cPSvWNks/)**
+  - [一个能让你做成任何事的顶级心法:日拱一卒，持续交卷](https://v.douyin.com/0rFGyr_m74g/)
+
+---
+* **[Studio Digital AI](https://www.youtube.com/@StudioDigitalAI)**
+  - [火影忍者 - 电影 (2026) | 忍者的命运 | 4K预告片](https://www.youtube.com/watch?v=kkR-M1b6zQ8)
+* **[威廉君](https://v.douyin.com/_rkMKSjEYts/)**
+  - [绫波丽 天鹰战士EVA 新世纪福音战士](ttps://v.douyin.com/7wfkdtIn9mw/)
+
+---
+* **[Kath | 百章 | Douyin](https://v.douyin.com/EkjrMHDldUc/)**
 
 ---
 * **[风卷云舒 | 凡人 | 其他 | 百章 | Douyin](https://v.douyin.com/D5hyeuHHy5g/)**
@@ -406,16 +411,6 @@
 * **[懂AI的初久 | 五百章 | Douyin](https://v.douyin.com/q_gWKVT3aFc/)**
   - [东方志怪步生莲|亿点怪诞美学丝滑一镜到底](https://v.douyin.com/bdZjzxLUj-U/)
   - [万相莲华|来亿点丝滑一镜到底的非遗美学 | AI动画 | 东方美学 | 非遗 | 唐卡 | AI创作浪潮计划](https://v.douyin.com/vCzL4wcjPwI/)
-
----
-* **[十二钗数智女团  | 百章 | Douyin](https://v.douyin.com/P7uUVYOUvxo/)**
-  - [千万级数字虚拟偶像 | 经典 | 红楼梦  | 金陵十二钗  | 大观园  | 林黛玉](https://v.douyin.com/utlCiegyYeA/)
-
----
-* **[苏淮远 | 昨夜西风凋碧树， 独上高楼，望尽天涯路。| 百章 | Douyin](https://v.douyin.com/1fV-l4n0aG4/)**
-  - [天气变冷了，要盖好被子！](https://v.douyin.com/CRKGo7XKHH0/)
-  - [这…咋啦？ | 凡人修仙传| 元婴大佬 | AI二创视频](https://v.douyin.com/ig8p_50bPFM/)
-  - [今天避雨的时候， 刚好遇到小师傅和小猪也在避雨… | 西游记| 孙悟空| 野猪| AI原创视频](https://v.douyin.com/DLcW8tuYkAk/)
 
 ---
 * **[刘羽中Lucien | Hi 羽次元 创意脚本出镜拍摄演绎剪辑特效一体型博主 | 五百章 | Douyin](https://v.douyin.com/c7ql0QiRZa8/)**
@@ -448,24 +443,6 @@
   - [偏中式赛博风，ai动画生成国风美女](https://v.douyin.com/cr2we2GLFmg/)
   - [风拂罗裙染墨香，AI生成视频勾勒出古装女侠的身影，国风缱绻，武侠情长，二次元动漫质感定格古风江湖的温柔](https://v.douyin.com/-W5DU9_ixg0/)
   - [天宫藏于云海深处，古装仙女衣袂翻飞如蝶，仙气飘飘的瞬间被AI动画定格成诗～ 古风韵味交织二次元浪漫，AIGC打造的治愈仙境，每帧都藏着国风的温柔与奇幻](https://v.douyin.com/F878UlU5D0E/)
-
----
-* **[灵境墨语 | 4k视频 | 三十章 | Douyin](https://v.douyin.com/SloA0Wrqmf8/)**
-  - [今日我仙殿下雪了！ 今日仙殿下雪了，不知人间是否有雪!](https://v.douyin.com/3Zz_ZJNYNkg/)
-  - 今日我仙殿下雪了！ 今日仙殿下雪了，不知人间是否有雪！快加入我仙殿，一起修仙吧！ | 修仙  | 星云高清图片
-
----
-* **[啊非 | 身体是载具，货物是承诺。 穿越生与死的海滩，传递微弱的希望。| 二十章 | Douyin](https://v.douyin.com/H886Njo76LM/)**
-  - [云龈咽。孤松悬丝三百尺，弹到崩云裂帛时。 忽有白虹垂首饮，咽尽残声化烟丝。国画山水 | 水墨写意 | 国画 | 东方美学 | 国风古韵](https://v.douyin.com/TxTd_1u7Tt8/)
-  - [《晨窗》帘卷朝雾薄 疑是夜未撤 忽有鸟影破 衔来半山青。国画山水 | 水墨写意 | 国画 | 东方美学 | 国风古韵](https://v.douyin.com/UdSRZK8Q81Q/)
-  - [有没有感觉，像不像以前读书课本中的山水画。好想进入画中世界去看看。国画山水 | 水墨写意 | 国画 | 东方美学 | 国风古韵](https://v.douyin.com/6b8DkobNK2s/)
-  - [夜读。灯下沉墨痕 字字落霜尘 举头书页白 低头见夜深国画山水 | 水墨写意 | 国画 | 国风古韵 | 东方美学](https://v.douyin.com/hOGf-pdq1Gs/)
-  - [岩脉。山腹金脉忽然醒，游走石隙如蛇行。 樵夫斧钺触之遁，遁入古钟作铜鸣。国画山水 | 水墨写意 | 国画 | 东方美学 | 国风古韵](https://v.douyin.com/IeSdZ3fzbDM/)
-  - [月斧。千年古木中虚处，有银匠彻夜琢素娥。 每片碎屑落溪涧，化作白鲤溯天河。国画山水 | 水墨写意 | 国画 | 东方美学 | 国风古韵](https://v.douyin.com/qgvUuHjzezs/)
-  - [弦外涧。独坐空谷调冰弦，七徽之外响自悬。 忽有山泉偷半韵，穿林打叶自成篇。国画山水 | 水墨写意 | 国画 | 东方美学 | 国风古韵](https://v.douyin.com/qhEtQuJIXGU/)
-  - [弹剑歌。此身合在青云巅，偶向红尘作散仙。 三尺秋霜未曾试，恐惊人间已千年。国风古韵 | 东方美学 | 国画 | 国画山水 | 带你走进画里](https://v.douyin.com/2THuGPA4bv0/)
-  - [问月行。踏歌直上白玉京，霜刃劈开冰玉轮。 借得清辉三万顷，半照山河半照君。国画山水 | 水墨写意 | 国画 | 东方美学 | 国风古韵](https://v.douyin.com/MruxvJhAQ4s/)
-  - [如诗如画的风景。国画山水 | 国风古韵 | 国风 | 意境 | 东方美学](https://v.douyin.com/2jQ6qEfRTB8/)
 
 ---
 * **[小小的一片云呀 | 一个想要带你体验古代奇闻异事的博主 | 百章 | Douyin](https://v.douyin.com/hYCnukVHrt8/)**
@@ -501,6 +478,16 @@
   - [手挽星河千尺浪，脚踏云海万重金。](https://v.douyin.com/_9DKZr3eY3E/)
 
 ---
+* **[十二钗数智女团  | 百章 | Douyin](https://v.douyin.com/P7uUVYOUvxo/)**
+  - [千万级数字虚拟偶像 | 经典 | 红楼梦  | 金陵十二钗  | 大观园  | 林黛玉](https://v.douyin.com/utlCiegyYeA/)
+
+---
+* **[苏淮远 | 昨夜西风凋碧树， 独上高楼，望尽天涯路。| 百章 | Douyin](https://v.douyin.com/1fV-l4n0aG4/)**
+  - [天气变冷了，要盖好被子！](https://v.douyin.com/CRKGo7XKHH0/)
+  - [这…咋啦？ | 凡人修仙传| 元婴大佬 | AI二创视频](https://v.douyin.com/ig8p_50bPFM/)
+  - [今天避雨的时候， 刚好遇到小师傅和小猪也在避雨… | 西游记| 孙悟空| 野猪| AI原创视频](https://v.douyin.com/DLcW8tuYkAk/)
+
+---
 * **[泫九 | 用AI还原想象，用镜头讲述故事 | 百章 | Douyin](https://v.douyin.com/eQx2ihIyD6w/)**
   - [《时间序列》｜当"时间"成为枷锁，爱就成了违规 在这个世界里，时间不是能量，而是一种用来驯化意识的惩罚算法。 机器人为了不被格式化，只能服从、工作、上战场。 他只是一次送件，听到了一句"谢谢你"，却因此被判定为"情感异常"。 爱，开始计费。家庭，开始扣时。 《时间序列》一个关于 时间、情感与牺牲 的短片。 他没有被纪念，却在被遗忘中，做出了最像人的一次选择。 # 未来导演扶持计划 | 即梦AI创作者成长计划 | 科幻 | AI创作浪潮计划 | 2025ai年终大赏](https://v.douyin.com/kpySt5n-7hQ/)
   - [耗时2325689秒自制十日终焉-我叫舒画-17 声明：本视频画面由使用AI技术制作而成。 该作品为小说爱好者个人创作的同人作品，无任何商业用途，仅作兴趣分享。 原作：小说《十日终焉》作者：杀虫队队员 | 十日终焉 | 即梦AI创作者成长计划 | 小说推荐 | 艺术在抖音 | AI创作浪潮计划](https://v.douyin.com/Q3A7l8NqyeA/)
@@ -528,6 +515,10 @@
   - [哪吒闹海先导片手搓一晚上，后续剧情制作中 | AI创作浪潮计划  | 原创](https://v.douyin.com/lXOWzXZ65Gc/)
   - [相见时难别亦难东风无力百花残](https://v.douyin.com/136JnkWAcZk/)
   - [青绿千载，山河无垠](https://v.douyin.com/gGNP7ORHW5U/)
+
+---
+* **[尘风AI | 《智行无界》 尘寰万象掌中轻, 万佛千门屏上鸣。A爱智纳无涯海，I智穿云悦众生。AI很单纯，复杂的是人。| 二十九章 | Douyin](https://v.douyin.com/ZE-LqaiwJrw/)**
+  - [奇幻东方美学，小白也能学会，用AI四步三分钟教会你； 东方奇幻怪诞美学，用AI如此简单；喂饭级教程；| AI新星计划 | AI教学 | 东方奇幻美学| 海螺AI | AI创作浪潮计划](https://v.douyin.com/bPb86GPHdZs/)
 
 ---
 * **[出发吧阿吉 | 三十章 | Douyin](https://v.douyin.com/jmXYdstmrfI/)**
@@ -559,6 +550,53 @@
   - [烟雨唱扬州 | 西门庆 | 对口型飙演技 | 情歌对唱 # AI创作浪潮计划](https://v.douyin.com/kWeaOavrQwA/)
   - [红颜知己 | 西门庆 | 对口型飙演技 | 情歌对唱 | AI创作浪潮计划](https://v.douyin.com/GPs7xWtKGFQ/)
 
+---
+* **[灵境墨语 | 4k视频 | 三十章 | Douyin](https://v.douyin.com/SloA0Wrqmf8/)**
+  - [今日我仙殿下雪了！ 今日仙殿下雪了，不知人间是否有雪!](https://v.douyin.com/3Zz_ZJNYNkg/)
+  - 今日我仙殿下雪了！ 今日仙殿下雪了，不知人间是否有雪！快加入我仙殿，一起修仙吧！ | 修仙  | 星云高清图片
+
+---
+* **[我使劲学 | 英语是我看世界的通行证🌍 我要努力送自己出国 看更大的世界 | 三十章 | Douyin](https://v.douyin.com/43pGLMgTHyY/)**
+  - [努力送自己出国0基础自学英语day41📖发现了一个英语听说读写练习最快的捷径](https://v.douyin.com/QXa_hcVewao/)
+
+---
+* **[ai老韩 | aigc创作者，有凡人官方授权 | 三十章 | Douyin](https://v.douyin.com/2Y3LdWQthZM/)**
+  - [仓坤上人副本 | 凡人修仙传 | AI创作浪潮计划 | 海艺AI | 韩立 | 南陇侯](https://v.douyin.com/zhIuD4WxtiY/)
+
+
+
+---
+* **[哈基乱剪 | 整一些好玩的新三国二创~ 望能带给你更多的快乐 | 二十多章 | Douyin](https://v.douyin.com/pDw538G72TY/)**
+  - [乱剪三国-刘备化身一拳超人，突袭许昌，曹操被偷家！ 新三国 | 刘备 | 诸葛亮 | 曹操 | 魔改剪辑 ](https://v.douyin.com/ywBSD45PAxU/)
+
+---
+* **[凡人凡画 | 专注凡人二创 | 三十章 | Douyin](https://v.douyin.com/_bzXVDm4fTk/)**
+  - [凡人凌凌漆](https://v.douyin.com/XR9P1b1u5T8/)
+
+---
+* **[啊非 | 身体是载具，货物是承诺。 穿越生与死的海滩，传递微弱的希望。| 二十章 | Douyin](https://v.douyin.com/H886Njo76LM/)**
+  - [云龈咽。孤松悬丝三百尺，弹到崩云裂帛时。 忽有白虹垂首饮，咽尽残声化烟丝。国画山水 | 水墨写意 | 国画 | 东方美学 | 国风古韵](https://v.douyin.com/TxTd_1u7Tt8/)
+  - [《晨窗》帘卷朝雾薄 疑是夜未撤 忽有鸟影破 衔来半山青。国画山水 | 水墨写意 | 国画 | 东方美学 | 国风古韵](https://v.douyin.com/UdSRZK8Q81Q/)
+  - [有没有感觉，像不像以前读书课本中的山水画。好想进入画中世界去看看。国画山水 | 水墨写意 | 国画 | 东方美学 | 国风古韵](https://v.douyin.com/6b8DkobNK2s/)
+  - [夜读。灯下沉墨痕 字字落霜尘 举头书页白 低头见夜深国画山水 | 水墨写意 | 国画 | 国风古韵 | 东方美学](https://v.douyin.com/hOGf-pdq1Gs/)
+  - [岩脉。山腹金脉忽然醒，游走石隙如蛇行。 樵夫斧钺触之遁，遁入古钟作铜鸣。国画山水 | 水墨写意 | 国画 | 东方美学 | 国风古韵](https://v.douyin.com/IeSdZ3fzbDM/)
+  - [月斧。千年古木中虚处，有银匠彻夜琢素娥。 每片碎屑落溪涧，化作白鲤溯天河。国画山水 | 水墨写意 | 国画 | 东方美学 | 国风古韵](https://v.douyin.com/qgvUuHjzezs/)
+  - [弦外涧。独坐空谷调冰弦，七徽之外响自悬。 忽有山泉偷半韵，穿林打叶自成篇。国画山水 | 水墨写意 | 国画 | 东方美学 | 国风古韵](https://v.douyin.com/qhEtQuJIXGU/)
+  - [弹剑歌。此身合在青云巅，偶向红尘作散仙。 三尺秋霜未曾试，恐惊人间已千年。国风古韵 | 东方美学 | 国画 | 国画山水 | 带你走进画里](https://v.douyin.com/2THuGPA4bv0/)
+  - [问月行。踏歌直上白玉京，霜刃劈开冰玉轮。 借得清辉三万顷，半照山河半照君。国画山水 | 水墨写意 | 国画 | 东方美学 | 国风古韵](https://v.douyin.com/MruxvJhAQ4s/)
+  - [如诗如画的风景。国画山水 | 国风古韵 | 国风 | 意境 | 东方美学](https://v.douyin.com/2jQ6qEfRTB8/)
+
+---
+* **[𝒥𝓊𝒹𝑒 | Midjourney创作 | 十章 | Douyin](https://v.douyin.com/crxb-owdcws/)**
+  - [我重临世界之日，诸逆臣皆当死去. | midjourney | 龙族 | ai | 异世界 | mj](https://v.douyin.com/Vji-OFnBRjM/)
+  - [哥特窗棂漫着雨，裙裾浸着雾的余韵.  | midjourney  | 唯美  | ai  | 哥特风  | mj](https://v.douyin.com/0_OqCrzsSaM/)
+
+---
+* **[还看今朝AI | 二十章 | Douyin](https://v.douyin.com/Et7TNCBzPKY/)**
+  - **天穹**
+  - [第一集 乱世之中，又会有怎样的英雄故事？](https://v.douyin.com/I8hZki_1TOk/)
+  - [第二集天宫之斗 太衡、南天两位星君为争下凡机会产生矛盾](https://v.douyin.com/pGmo_PxjfTo/ )
+  - [第三集 穹，每相隔百年波动一次的天生之灵，当它现世的时候，天界也会随之震荡](https://v.douyin.com/ThNfnMuVK_4/)
 
 ---
 ### 007. 数字人实时语音交互

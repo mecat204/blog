@@ -736,8 +736,12 @@
   - Hold Me Through The Night
 
 ---
-* **[沉沉沉吟](https://v.douyin.com/CtR8XRHLk0c/)**
+* **[沉沉沉吟 | 百章 | Douyin](https://v.douyin.com/CtR8XRHLk0c/)**
   - [《不凡》变奏无人声版 | 古筝  | 不凡 | 凡人修仙传  | 韩立结婴  | 王铮亮](https://v.douyin.com/c4FuIVMFH6I/)
+
+---
+* **[三点烛火 | 要天天开心 | 二十章 | Douyin](https://v.douyin.com/1Q5Dv3SGoT0/)**
+  - [inmyfeeling](https://v.douyin.com/7Qjt17ApFFo/)
 
 ---
 * **[Rosebush music | Youtube](https://www.youtube.com/@RosebushMusic-0223)**
