@@ -145,3 +145,6 @@
   - AI 正在把人类从工具使用者
   - 推向认知共生者
   - 通往 AGI 的道路已从直线变成陡峭指数斜坡
+
+---
+![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
