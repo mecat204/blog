@@ -57,7 +57,6 @@
   ---
   - **[4K指南](https://xuexizhinan.com/)**
   - **[小宝影院](https://xiaoxintv.cc/)**
-  - **[多瑙影院](https://dnvod.org/)**
 
   ---
   * **金牌影院**
@@ -82,6 +81,8 @@
   - **[子子影视](https://www.ziziys.net/)**
   - **[i.iao.su](https://i.iao.su/?2025/%E9%9F%B3%E4%B9%90)**
   - **[BT影视](https://www.btbtl.com/)**
+    * [后宫](https://pan.quark.cn/s/16aca5d345d3#/list/share)
+  - **[香菇影视](https://www.xiangguys.com/)**
 
 ---
 * **other**
@@ -102,7 +103,6 @@
   - [iKanBot](https://v.ikanbot.com/)
   - [简单TV](https://jiandantv.com/)
   - [独播库](https://www.duboku.tv/)
-  - [香菇影视](https://www.xiangguys.com/)
   - [FoFo影院](https://www.fofoyy.com/dianshiju/68008)
 
 ---
