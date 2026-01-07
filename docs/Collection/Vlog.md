@@ -43,15 +43,15 @@
   - [耗时1年零4个月，我用云锦做了一件传世婚服。 | 滴露衣物消毒液 | 传世婚服 | 云锦](https://v.douyin.com/ZZx-30rhdw8/)
 
 ---
-* **[Isabel Paige | Youtube ](https://www.youtube.com/@isabel_paige)**
+* **[Isabel Paige | Youtube](https://www.youtube.com/@isabel_paige)**
   - [The Hardest Days of Winter](https://www.youtube.com/watch?v=jNqhUIYZM8Q)
-* **[VENQUEN的英语日记 | Douyin](https://v.douyin.com/lGerZrVjzQs/)**
+* **[VENQUEN的英语日记 | 二百章 | Douyin](https://v.douyin.com/lGerZrVjzQs/)**
   - [学习是方向，世界是目的地！Follow along！ 飞向未知，直面恐惧 旧金山的酸面包，藏着冒险的滋味 独处的时光，发现真实的自己 大桥下的夕阳，点燃成长的勇气 | Isabel Paige](https://v.douyin.com/ACS0U3zIC54/)
   - [雪花轻吻山巅，咖啡暖手 炉火旁，冬日的仙境悄然绽放 踏雪觅果，阳光洒落心间 这十一月的清晨，藏着治愈的温柔](https://v.douyin.com/PokajBVenxU/)
 
 ---
 * **[Miss Jean Teaches | Youtube](https://www.youtube.com/@missjeanteaches)**
-* **[英语学习Pie](https://v.douyin.com/nBEOloJekdk/)**
+* **[英语学习Pie | 百章 | Douyin](https://v.douyin.com/nBEOloJekdk/)**
   - **[全英VLOG｜学语言必须"从第一天就开口"？](https://v.douyin.com/o1MYbBcmiok/)**
   - **全英VLOG｜学语言必须"从第一天就开口"？ 视频来源｜油管 Miss Jean Teaches 剪辑+字幕+资料整理｜本人原创 学语言时总被"从第一天就开口"的建议绑架？想开口却怕焦虑，不开口又怕落后？博主结合自身教学与学习经验，从正反两方拆解这一热门建议，帮你打破认知误区，找到更适配自己的语言学习节奏！无论你偏爱"沉默积累"还是"即时输出"，都能从中找到共鸣**
 
@@ -804,7 +804,7 @@
   - [How to use 'get' in English](https://www.youtube.com/watch?v=1zw2pTZ9U_I&t=41s)
 
 ---
-* **[TheCottageFairy | Youtube](https://www.youtube.com/@TheCottageFairy)**
+* **[TheCottageFairy | 乡村小屋 | 分享书籍 | Youtube](https://www.youtube.com/@TheCottageFairy)**
   - Salutations!
   - 问候！
 
@@ -822,6 +822,8 @@
 
   ---
   - [I Bought a Bookstore](https://www.youtube.com/watch?v=-IO3rAurptA)
+  - [the books that changed my life (so far) - an eclectic list | 迄今为止改变我人生的书籍——一份多元的书单](https://www.youtube.com/watch?v=nxXj3O5ZxVQ)
+  - [Let's answer your questions (because I'm snowed in) - money, bullying, moving on from youtube | 让我们来回答你的问题（因为我被大雪困住了）——钱、欺凌、离开YouTube](https://www.youtube.com/watch?v=zJ2uPZfkYMk)
 
 ---
 * **[Nischa | Youtube](https://www.youtube.com/@nischa)**
@@ -918,7 +920,7 @@
 
 ---
 ###  006. 雅思 IELTS
-* **[Learn English with EnglishClass101.com](https://www.youtube.com/@EnglishClass101/videos)**
+* **[Learn English with EnglishClass101.com | Youtube](https://www.youtube.com/@EnglishClass101/videos)**
   - Learn English with EnglishClass101.com - The Fastest, Easiest and Most Fun Way to Learn English. Start speaking English in minutes with Audio and Video lessons.
   - 与英语 EnglishClass101.com 学习——最快、最简单、最有趣的学习英语方式. 通过音频和视频课程几分钟内开始说英语。
 
@@ -947,7 +949,7 @@
   - 点击上方红色框中的"订阅"，当新增视频时会收到通知。
 
 ---
-* **[Arnel's Everyday English | 语法](https://www.youtube.com/@ArnelsEverydayEnglish)**
+* **[Arnel's Everyday English | 语法 | Youtube](https://www.youtube.com/@ArnelsEverydayEnglish)**
   - Welcome to my channel!
   - 欢迎来到我的频道！
 
@@ -1008,7 +1010,7 @@
   - 阿内尔·:)
 
 ---
-* **[BBC Learning English | 听力](https://www.youtube.com/@bbclearningenglish)**
+* **[BBC Learning English | 听力 | Youtube](https://www.youtube.com/@bbclearningenglish)**
   - Learn English with the BBC.
   - 跟BBC学英语。
 
@@ -1045,7 +1047,7 @@
   - 祝你学习愉快！
 
 ---
-* **[English Speaking Success | 口语](https://www.youtube.com/@EnglishSpeakingSuccess)**
+* **[English Speaking Success | 口语 | Youtube](https://www.youtube.com/@EnglishSpeakingSuccess)**
   - English Speaking Success will help you develop your English speaking skills so you can face the examiner with confidence and ace the IELTS Speaking test.
   - 《英语口语成功》将帮助你提升英语口语能力，让你能够自信地面对考官，并在雅思口语测试中取得优异成绩。
 
@@ -1062,7 +1064,7 @@
   - 我没有任何隶属关系、关系、认可或认可，也没有获得英国文化协会或任何官方雅思合作伙伴的认可。
 
 ---
-* **[https://www.youtube.com/@IELTSSIMON1/videos  | 西蒙的雅思课程 | 写作](https://www.youtube.com/@IELTSSIMON1/videos)**
+* **[https://www.youtube.com/@IELTSSIMON1/videos  | 西蒙的雅思课程 | 写作 | Youtube](https://www.youtube.com/@IELTSSIMON1/videos)**
   - My name is Simon  Corcoran, and this is my mission as an IELTS teacher: I aim to provide the best information about the IELTS test, from an ex examiner's perspective.
   - 我叫西蒙·科科伦，作为一名雅思教师，我的使命是：我 致力于从一名前考官的角度，提供关于雅思考试的最佳信息。
 
@@ -1095,7 +1097,7 @@
   - 爱你们所有人！
 
 ---
-* **[E2 IELTS | 阅读](https://www.youtube.com/@E2IELTS)**
+* **[E2 IELTS | 阅读 | Youtube](https://www.youtube.com/@E2IELTS)**
   - Welcome to E2 IELTS, a place for mastering the IELTS General and Academic exams.
   - 欢迎来到E2雅思，这是一个帮助精通雅思普通和学术考试的地方。
 
@@ -1128,8 +1130,8 @@
   - 订阅专家雅思辅导、顶级考试准备、经过验证的技巧和模拟考试！ https://www.youtube.com/@E2IELTS/?sub_confirmation=1
 
 ---
-### 007. Other
-* **[2819 Church](https://www.youtube.com/@2819Church)**
+### 007. Church
+* **[2819 Church | Youtube](https://www.youtube.com/@2819Church)**
   - Welcome to the official Youtube channel for 2819 Church.
   - 欢迎来到2819教会的官方YouTube频道。
 
@@ -1148,8 +1150,16 @@
   - [NYE 2022 | All Things New | Matthew 28:18-20 | Philip Anthony Mitchell](https://www.youtube.com/watch?v=7R2fER5N7LI)
 
 ---
-### 008. music
-* **[Taylor Swift](https://www.youtube.com/@TaylorSwift/videos)**
+### 008. Music | Youtube
+* **[Taylor Swift | Youtube](https://www.youtube.com/@TaylorSwift/videos)**
+  - And, baby, that’s show business for you.
+  - 宝贝，这就是演艺圈的全部。
+  - New album The Life of a Showgirl.
+  - 新专辑《The Life of a Showgirl》。
+  - Available now
+  - 现已上线
+
+  ---
   - [Just 11 days until the final show of The Eras Tour is all yours ](https://www.youtube.com/watch?v=fHjxp-rpUGw)
   - [Taylor Swift - Father Figure](https://www.youtube.com/watch?v=98SmlWOKuME)
   - [Taylor Swift - Mine](https://www.youtube.com/watch?v=oxNLRqMJMZk&list=OLAK5uy_n8xJHj0rL3zyol9oYHsVTBHm-L_eY-3gY)

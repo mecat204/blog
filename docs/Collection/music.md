@@ -688,14 +688,20 @@
 
 ---
 ### 024. miHoYo
-* **[yfan](https://v.douyin.com/MYFMMUh5VFM/)**
+* **[yfan | 让我们点推荐！~ 喜欢风物之诗琴的原神玩家，音乐原创改编 | 二百章 | Douyin](https://v.douyin.com/MYFMMUh5VFM/)**
   - [我们会想你的，哥伦比娅…… 原琴玩家 | 哥伦比娅 | 原神月之三 | 青年创作者成长计划](https://v.douyin.com/PohUscXwn9c/)
 
 ---
 ### 025. music
-* **[]()**
-
 * **[Taylor Swift](https://www.youtube.com/@TaylorSwift/videos)**
+  - And, baby, that’s show business for you.
+  - 宝贝，这就是演艺圈的全部。
+  - New album The Life of a Showgirl.
+  - 新专辑《The Life of a Showgirl》。
+  - Available now
+  - 现已上线
+
+  ---
   - [Just 11 days until the final show of The Eras Tour is all yours ](https://www.youtube.com/watch?v=fHjxp-rpUGw)
   - [Taylor Swift - Father Figure](https://www.youtube.com/watch?v=98SmlWOKuME)
   - [Taylor Swift - Mine](https://www.youtube.com/watch?v=oxNLRqMJMZk&list=OLAK5uy_n8xJHj0rL3zyol9oYHsVTBHm-L_eY-3gY)
