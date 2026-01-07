@@ -106,6 +106,12 @@
   - [FoFo影院](https://www.fofoyy.com/dianshiju/68008)
 
 ---
+**[mvcat](https://www.mvcat.com/)**
+  - [厂长资源](https://www.czzy.site/)
+    * [czzymovie](https://www.czzymovie.com/)
+    * [cz4k](https://www.cz4k.com/)
+
+---
 * **电影**
   - **[新龙门客栈](https://www.youtube.com/watch?v=eCy1YvYGsi0)**
   - **[大遼太后 The Empress Dowager of Great Liao (1995)](https://www.youtube.com/watch?v=0Laq0cqKN20)**
