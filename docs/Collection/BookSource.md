@@ -6,6 +6,19 @@
 * **[archive·互联网档案馆](https://archive.org/)**
 
 ---
+* **[识典古籍](https://www.shidianguji.com)**
+* **[识典古籍 | 关注古籍保护，让古籍下来，传下去](https://v.douyin.com/-ICApT_jRR8/)**
+  - [字节跳动公益，用科技传承文化。| 识典古籍](https://v.douyin.com/cPS6ccLAkno/)
+  - [让千年文明身临其境，让中华古籍触手可及 | 识典古籍 | 识典古籍APP](https://v.douyin.com/1TfN0OB8WOE/)
+  - [沙龙现场｜识典古籍"我的精神客厅" 2025 年 12 月 20 日，字节跳动公益——识典古籍"我的精神客厅"年度公益文化沙龙于北京·Temple 东景缘圆满举行。本次活动邀请了段志强、罗新、施展、郑小悠四位学者，用古籍中更有"人味"的多元视角，将古人的"精神客厅"带入当下现场，与大家共同开启了一场跨越千年的精神共鸣与能量流动。识典古籍我的精神客厅 | 识典古籍 | 字节跳动公益](https://v.douyin.com/sxgB7lx5y7| )
+
+---
+* **[字节跳动公益 | 连接善意，共创美好 | Douyin](https://v.douyin.com/joCRgVdhekg/)**
+  - [一图读懂《2024字节跳动企业社会责任报告（中国）》-1](https://v.douyin.com/vI0AP0jAv_E/)
+  - [一图读懂《2024字节跳动企业社会责任报告（中国）》-2](https://v.douyin.com/yv00bELoNcE/)
+  - [今天，《2024字节跳动企业社会责任报告（中国）》正式发布。过去一年，字节跳动基于"激发创造，丰富生活"的使命，用科技让生活更美好](https://v.douyin.com/ghV0IOStVRQ/)
+
+---
 * **[openlibrary](https://openlibrary.org/)**
   - pwd user
 

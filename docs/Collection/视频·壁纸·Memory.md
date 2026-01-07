@@ -228,9 +228,12 @@
   - [一帘风月闲。| inmyfeeling | 古风 | 摄影 | 江南 | 真实生活分享计划](https://v.douyin.com/ZtBGouDYiRg/)
 
 ---
-### 002. Tools:OURTV&MedLexo
-* [ourtv](https://github.com/andandroidor/ourtv/releases)
-* [MedLexo](https://medlexo.is-an.app/cn.php)
+### 002. TV-App | MedLexo
+* **[TV-App](https://github.com/youhunwl/TVAPP)**
+  - **[优质电视盒应用](https://app.iyouhun.com/)**
+
+---
+* **[MedLexo](https://medlexo.is-an.app/cn.php)**
 
 ---
 ### 003. 动态壁纸
@@ -313,57 +316,76 @@
 ---
 ### 004. 艺术·油画
 * **[糕糕工艺品店 | 画作品丙烯颜料纯手绘 | 百章 | Douyin](https://v.douyin.com/qWc8Wb_0ofY/)**
+  - [人像写实油画 | 定制画像](https://v.douyin.com/5L4_nzfEupA/)
+  - [有意义的绘画，人像写实定制 | 绘画  | 治愈系笑容](https://v.douyin.com/AuJ3ZE09lfk/)
+  - [展示我的画 | 拉布布](https://v.douyin.com/NzUd7HsAupg/)
 
----
+
 ### 005. 短剧
-* [追剧酱来啦](https://www.youtube.com/@HereComesDrama-chan)
+* **[追剧酱来啦💖Here Comes Drama-chan | Youtube](https://www.youtube.com/@HereComesDrama-chan)**
   - [漫长觊觎](https://www.youtube.com/watch?v=eSA4cOws7tE)
 
 ---
 ### 006. Memory
-* **[小可爱](https://v.douyin.com/OL-zRVsPF-c/)**
-  - [在家憋疯系列](https://v.douyin.com/7jaRgjvHhQE/)
+  - **[小可爱 | 百章 | Douyin](https://v.douyin.com/OL-zRVsPF-c/)**
+    - [在家憋疯系列](https://v.douyin.com/7jaRgjvHhQE/)
+
+  ---
+  - **[西月 | 百章 | Douyin](https://v.douyin.com/WRWjt-x4IU0/)**
+    - [后来-总算学会了和解](https://v.douyin.com/0uqrb-6NBhw/)
 
 ---
-* **[西月](https://v.douyin.com/WRWjt-x4IU0/)**
-  - [后来-总算学会了和解](https://v.douyin.com/0uqrb-6NBhw/)
+* **[杏之干 | 二百章 | Douyin](https://v.douyin.com/nUTU1NeHLnM/)**
+  - [丝柯克](https://v.douyin.com/j87lTVewqiM/)
 
 ---
-* **[杏之干](https://v.douyin.com/old4fKr0Ogo/)**
+* **[裳裳酱 | 百章 | Douyin ](https://v.douyin.com/Ubmzis0KX04/)**
 
 ---
-* **[裳裳酱](https://v.douyin.com/Ubmzis0KX04/)**
+* **[洛盈盈师妹 | 百章 | Douyin ](https://v.douyin.com/4Xd1CFIt5NY/)**
 
 ---
-* **[洛盈盈师妹](https://v.douyin.com/4Xd1CFIt5NY/)**
-
----
-* **[梦灵逸](https://v.douyin.com/Qc77CKKA1SI/)**
+* **[梦灵逸 | 五百章 | Douyin ](https://v.douyin.com/Qc77CKKA1SI/)**
   - [创造的能量，生生不息 手工玫瑰香皂，花草药摆件独一无二](https://v.douyin.com/fxknUQWDFxY/)
 
 ---
-* **[威廉君](https://v.douyin.com/_rkMKSjEYts/)**
+* **[威廉君 | 百章 | Douyin ](https://v.douyin.com/_rkMKSjEYts/)**
   - **[AIGC生成虚拟形象｜绫波丽2K壁纸](https://v.douyin.com/nTTps7_jq8E/)**
 
 ---
-* **[南弦月 | 这些是我在迷茫中得出的答案，希望对你也有用。](https://v.douyin.com/zhu2NBuhqRY/)**
+* **[南弦月 | 这些是我在迷茫中得出的答案，希望对你也有用。| 百章 | Douyin](https://v.douyin.com/zhu2NBuhqRY/)**
   - [过去总觉得是鸡汤，然后不断经历才会证悟：结束真的是为了更好的开始。就像今年夏天的花全部落尽，才意味着明年生机盎然的春又将到来。 既然知道规则，就不要总想着逆转规则。而是利用它。](https://v.douyin.com/J86-PSxnK_I/)
   - [实验了无数次：你圆满，世界就圆满。](https://v.douyin.com/wdCBCeWZPVg/)
 
 ---
-* **[夏花 | 记录解压的小瞬间 觉醒中式美学审美版 记录随拍日常](https://v.douyin.com/mvXFF37Z49E/)**
+* **[夏花 | 记录解压的小瞬间 觉醒中式美学审美版 记录随拍日常 | 五十章 | Douyin ](https://v.douyin.com/mvXFF37Z49E/)**
   - [独处画画是浪费生命or生活修行](https://v.douyin.com/5YS30Zhswko/)
   - 你觉得独处画画是浪费生命还是生活修行呢？身边人总说我"拎不清"："下班就该瘫着休息，或者学个理财、剪视频的技能搞副业，画这个能当饭吃？2小时用来睡觉不香吗？" 可是他们不知道不用来变现的时间不是浪费，是给被KPI压垮的自己，留的一口‘喘气的余地’。 而画画的独处是"沉浸式解压"，只需一方书桌、一套笔墨就能脱离现实，逃避问题，在笔墨流转中释放焦虑，这份"精神疗愈"的性价比，远高于其他方式。我觉得这生活可太棒了🌟| 生活美学 | 国风书桌 | 创作者扶持计划 | 没骨 | 打开美好生活
 
 ---
 ### 007. 插画师 | 国风创作者
-* **[鹿菏](https://v.douyin.com/3I98Flp_8Fk/)**
+* **[鹿菏 | 插画以技术 | 影视《你想活出怎样的人生》《水形物语》| 游戏《原神》《王者荣耀》《英雄联盟》 | 画集《游仙》《隐士之国》《浮生物语》| 三百章 | Douyin](https://v.douyin.com/3I98Flp_8Fk/)**
+  - [你我本一体。哪吒敖丙 | 哪吒2 | 哪吒之魔童闹海 | **是魔是仙我自己说了才算**](https://v.douyin.com/r996Cr7IwYU/)
+  - [**真正的热爱，是一场孤独的修行, 创作本就是一条孤独的路。没有掌声，没有观众，只有笔尖划过的沙沙声。一遍，两遍，千万遍…… 用重复对抗枯燥，用专注战胜孤独。**手绘 | 画画 | 国风 | 孤独感 | 记录真实生活](https://v.douyin.com/TavHTl3XgbI/)
+  - [十几年了，我还在画画 忘我一瞬，胜过完美成品；心底热爱，抵过世间回响 | 画画  | 热爱画画  | 插画 | 手绘 | 热爱可低岁月漫长 | **热爱抵万难**](https://v.douyin.com/hR_BVkzsMSc/)
+  - [我们都戴着面具，只是我的比较毛茸茸 用兔子的眼睛，审视这个荒诞的人间。你是否也曾感到，身体里住着一个与外表截然不同的灵魂，正以一种旁人无法理解的姿态肆意生长 | 手绘插画 | 创意无限 | 黑童话 | 兔子先生| 原创作品 | 兔子](https://v.douyin.com/CLyjSSDU-oI/)
 
 ---
-* **[舍溪](https://v.douyin.com/U2UByb8q8WY/)**
+* **[舍溪 | 深圳 | 插画师 | 河南 | zcool 站酷](https://www.zcool.com.cn/u/18059216)**
+* **[舍溪 | 个人画集《境》已出版， 感谢大家一直以来的支持和鼓励，才有了现在的舍溪，爱你们 | 三百章 | Douyin](https://v.douyin.com/U2UByb8q8WY/)**
+  - [筹备良久，我的首本画集《境》终于和大家见面啦](https://v.douyin.com/-11-GSU8KJ4/)
+  - [我又来放图啦，之前画的部分稿子合集～能猜出来都是谁么？| 国风插画 | 舍溪 | 壁纸](https://v.douyin.com/l9fYtOs29WU/)
+  - [龙年到啦 送大家一张神龙明信片，祝大家龙年财源广进，万事如意~ 请查收你的龙年第一张明信片 | 欢笑中国年 | 绘画开年 | 国风插画](https://v.douyin.com/49y58FxCF10/)
 
 ---
-* **[杉泽](https://v.douyin.com/45WnlB3iDVE/)**
+* **[杉泽 | 神魅画师一枚，画画罢了⛰️代表作《观山海》《洛煌笈》等 | 三百章 | Douyin](https://v.douyin.com/45WnlB3iDVE/)**
+  - [如果把《山海经》画成传统纹样。……一直没找成套的山海神兽纹样图，心血来潮干脆自己尝试画一套当练习；参考了战国到汉时期的古代纹样进行设计，努力学习中…希望喜欢](https://v.douyin.com/_53A0CoPG40/)
+  - [来自画师的一点震撼…居然能看到这么多版本的《山海经》……古籍中的山海之约](https://v.douyin.com/EcXhxwYAwHM/)
+  - [画妖怪吗？压箱底的技法全公开 ……用新《观山海》的风格画了枚"相柳"，做了个比较全面的技法分享，从工具、用笔、上色步骤等都记录了一下，希望对喜欢画画的朋友有所帮助。](https://v.douyin.com/jUpcayNNEr4/)
+
+---
+* **[站酷](https://www.zcool.com.cn/)**
+  - **[站酷插画师](https://www.zcool.com.cn/search/image?album=ZMjM4MDU1OTA4_2)**
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)

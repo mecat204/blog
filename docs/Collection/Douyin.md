@@ -60,7 +60,7 @@
   - [稻妻主线](https://v.douyin.com/K4LRRxm-kqM/)
 
 ---
-* **[杏之干](https://v.douyin.com/nUTU1NeHLnM/)**
+* **[杏之干 | 二百章 | Douyin](https://v.douyin.com/nUTU1NeHLnM/)**
   - [丝柯克](https://v.douyin.com/j87lTVewqiM/)
 
 ---
@@ -291,6 +291,8 @@
 
   ---
   - **[杏之干 | 二百章 | Douyin](https://v.douyin.com/old4fKr0Ogo/)**
+    - [丝柯克](https://v.douyin.com/j87lTVewqiM/)
+
 
   ---
   - **[洛盈盈师妹 | 百章 | Douyin](https://v.douyin.com/4Xd1CFIt5NY/)**

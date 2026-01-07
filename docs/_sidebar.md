@@ -65,6 +65,7 @@
   - [健康养生](Collection/健康养生)
   - [道法自然](Collection/道法自然)
   - [综艺](Collection/综艺)
+  - [战情简报](Collection/战情简报)
   - [AI实战派](Collection/AI实战派)
   - [AI+VR+XR+AR眼镜发展](Collection/AI+VR+XR+AR眼镜发展)
   - [Vlog](Collection/Vlog)
