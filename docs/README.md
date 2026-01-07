@@ -22,6 +22,9 @@
   - [瞬间记单词](Book/瞬间记单词)
   - [words](Book/words)
   - [构词法速查表](Book/构词法速查表)
+* **VS Code**
+  - [Win快捷键](VSCode/Win快捷键)
+  - [macOS快捷键](VSCode/macOS快捷键)
 * **Collection**
   - [readme](Collection/readme)
   - [Todaytask](Collection/Todaytask)
@@ -63,6 +66,8 @@
   - [道法自然](Collection/道法自然)
   - [综艺](Collection/综艺)
   - [AI实战派](Collection/AI实战派)
+  - [AI+VR+XR+AR眼镜发展](Collection/AI+VR+XR+AR眼镜发展)
+
   - [Vlog](Collection/Vlog)
   - [CollegeCourse](Collection/CollegeCourse)
   - [CodingSource](Collection/CodingSource)
