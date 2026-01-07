@@ -422,5 +422,42 @@
   - Thank you!
   - 谢谢！
 
+### 0010. 博主（英语表达）
+* **blogger**
+  - 传统说法，偏文字博客 / 个人博客
+
+---
+* **content creator**
+  - 最通用、最现代的说法，适用于 YouTube / TikTok / Instagram / Blog
+
+---
+* **YouTuber**
+  - 专指 YouTube 平台的视频博主
+
+---
+* **vlogger**
+  - 视频日志类博主（vlog = video + blog）
+
+---
+* **influencer**
+  - 强调影响力与商业合作的博主，多见于社交媒体
+
+---
+### 0011. 常见组合用法
+* **lifestyle blogger / content creator**
+  - 生活方式博主
+
+---
+* **beauty blogger / beauty content creator**
+  - 美妆博主
+
+---
+* **travel blogger / travel vlogger**
+  - 旅行博主
+
+---
+* **fashion influencer**
+  - 时尚博主（偏商业影响力）
+
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)

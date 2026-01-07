@@ -826,7 +826,7 @@
   - [Let's answer your questions (because I'm snowed in) - money, bullying, moving on from youtube | 让我们来回答你的问题（因为我被大雪困住了）——钱、欺凌、离开YouTube](https://www.youtube.com/watch?v=zJ2uPZfkYMk)
 
 ---
-* **[Nischa | Youtube](https://www.youtube.com/@nischa)**
+* **[Nischa | 投资 |  Youtube](https://www.youtube.com/@nischa)**
   - I’m a former Investment Banker (with an accountancy qualification) and on this channel we explore all things personal finance, self development and business.
   - 我曾是一名投资银行家（拥有会计学资格），在这个频道中我们探讨所有关于个人理财、自我发展和商业的话题。
   - Get my free spending tracker: https://nischa.me/ist/
@@ -1282,6 +1282,7 @@
   - [WTF Is Wealth? 财富到底是什么鬼？Ray Dalio Breaks It Down w/ Nikhil Kamath | WTF is Finance Ep 2雷·达里奥与尼基尔·卡马斯一起分析 |《金融》第二集到底是怎么回事](https://www.youtube.com/watch?v=0YKTsHr5bDE)
   - [Elon Musk: A Different Conversation w/ Nikhil Kamath | Full Episode | People by WTF Ep.  埃隆·马斯克：与尼基尔·卡马斯的不同对话 | 完整剧集 |WTF Ep. 的《People by People》](https://www.youtube.com/watch?v=Rni7Fz7208c)
 
+---
 ### 010. 英语学习日记
 * **[大脚柚子英语学习日记 | 百章 | Douyin](https://v.douyin.com/QMSHneHcLIo/)**
   - [Sydney Serena | 每日英语](https://v.douyin.com/7G6vvrFaWPI/)
@@ -1290,11 +1291,39 @@
 * **[小维每日英语 | 百章 | Douyin](https://v.douyin.com/P2ZIoD1t_CA/)**
 
 ---
-* **[英语学习播客 | | 百章 | Douyin](https://v.douyin.com/suAtihn1uE0/)**
+* **[英语学习播客 | 百章 | Douyin](https://v.douyin.com/suAtihn1uE0/)**
   - [podcast - Taylor Hill - How Many Taylors Does It Take - part14](https://v.douyin.com/ikbggWsPcos/)
 
 ---
-* **[Ellison Scar | Youtube](https://www.youtube.com/@ElliScar/videos)**
+* **[哆啦N梦爱英语 | 百章 | Douyin](https://v.douyin.com/imI-y_Hedjg/)**
+  - [分享一个我认为迄今为止在油管看到的最漂亮博主没有之一 | Nil Sani:个人生活、时尚、美妆和生活方式](https://v.douyin.com/t4auaF8-RF4/)
+  - [我们感觉一段关系，让我们不再快乐的时候，就是一段关系结束的时候 | Lana Blakely:生活方式、人生体验、哲学思考、自我成长和社交话题讨论](https://v.douyin.com/yKQ1V1AlV2E/)
+
+---
+* **[2255（日更版）| YouTube Vlog推荐 | 二百章 | Douyin](https://v.douyin.com/F2-yC0zVmzE/)**
+  - [全英Vlog | **Birta Hlin** | what l eat in a week | simple & balanced recipes](https://v.douyin.com/XtI76K5zjRg/)
+  - [全英Vlog | **Birta Hlin** | days in sydney | dog sitting, moving apartments & new friends](https://v.douyin.com/P_gq_wnliic/)
+  - [全英Vlog｜**clarisseintheclouds**｜5AM 日常英语 每天学习英语一点点](https://v.douyin.com/5vk_n5jG_V8/)
+
+---
+* **[clarisseintheclouds | 生活方式 | 自我关怀 内容创作者 | Youtube](https://www.youtube.com/@clarisseintheclouds/videos)**
+  - Lifestyle & Self-Care YouTuber — 日常生活与个人成长内容创作者
+  - Vlogger — 以 vlog 形式记录日常与旅行体验
+  - Content Creator — 多平台内容分享者（YouTube 为主）
+
+  ---
+  - [reading holiday books to get me out of a reading slump | vlogmas day 9 | 阅读节日书籍帮我摆脱阅读低谷 | Vlogmas第9 天](https://www.youtube.com/watch?v=M9GXs0Q_05k)
+
+---
+* **[Lana Blakely | 生活方式、人生体验、哲学思考、自我成长和社交话题讨论 | Youtube](https://www.youtube.com/@LanaBlakely/videos)**
+  - books, solo trips, vintage finds and thinking aloud | Email hello@lanablakely.com
+  - 书籍、独自旅行、复古发现和随意思考 邮件 hello@lanablakely.com
+
+  ---
+  - [it's NOT about romanticizing your life... it’s much simpler than that | 这不是美化你的生活...... 事情远比这 简单](https://www.youtube.com/watch?v=K_d6B58lCHM)
+
+---
+* **[Ellison Scar | 自由职业、品牌内容创作和社媒营销 | Youtube](https://www.youtube.com/@ElliScar/videos)**
   - Live Better, For Longer
   - 活得更好，活得更久
 
@@ -1305,7 +1334,7 @@
   - [10 Longevity Habits That Actually Work (Backed by Science) - 10个真正有效的长寿习惯（有科学依据）](https://www.youtube.com/watch?v=MIU8dvLZqIM)
 
 ---
-* **[Sydney Serena | Youtube](https://www.youtube.com/@SydneySerena)**
+* **[Sydney Serena | 20岁博主 | 博主 & 生活方式 / 美妆 时尚内容创作者 | Youtube](https://www.youtube.com/@SydneySerena)**
   - just a 20-something figuring it out (and filming it).
   - 只是一个二十多岁的人摸索（并拍摄）。
 
@@ -1326,14 +1355,14 @@
   - [i haven't felt like myself lately...|  0：02 / 13：31 最近我感觉不像自己......](https://www.youtube.com/watch?v=TCa-Apn6y6g)
 
 ---
-* **[TheCottageFairy | Youtube](https://www.youtube.com/@TheCottageFairy)**
+* **[TheCottageFairy | 乡村 | 书籍分享 | Youtube](https://www.youtube.com/@TheCottageFairy)**
   - [A blessing and heartfelt message for the new year | 这是一份祝福和真挚的新年信息](https://www.youtube.com/watch?v=vAwRS1wx46Q)
   - [I have no ambition in life - but I feel fine | 我没有人生上的野心——但我感觉很好](https://www.youtube.com/watch?v=eAdhk8GkKhU)
   - [I Bought a Bookstore](https://www.youtube.com/watch?v=-IO3rAurptA)
 
 ---
-* **[Birta Hlin | Youtube](https://www.youtube.com/@birtahlin/videos)**
-  - [weekend in oslo | food spots, thrifting & exploring the city | 奥斯陆周末 |美食店、二手店和城市探索](https://www.youtube.com/watch?v=re7W5w81Rq8)
+* **[Birta Hlin | 时尚穿搭  | Youtube](https://www.youtube.com/@birtahlin/videos)**
+  - [weekend in oslo | food spots, thrifting & exploring the city | 奥斯陆周末 | 美食店、二手店和城市探索](https://www.youtube.com/watch?v=re7W5w81Rq8)
   - [first december days | 十二月初日](https://www.youtube.com/watch?v=veY2jXSxpoo)
   - [winter routine to feel my best | 冬季例行公事，让我感觉最佳](https://www.youtube.com/watch?v=_75CQJAKgBo)
   - [day in my life in copenhagen | 我在哥本哈根 的一天](https://www.youtube.com/watch?v=yPIpyfUtkEI)
@@ -1342,6 +1371,10 @@
   - [copenhagen diaries | autumn breakfast, outfits & cozy days | 哥本哈根日记 |秋季早餐、服装与舒适日](https://www.youtube.com/watch?v=1QJ02Az_Dws)
   - [september days in copenhagen | 哥本哈根 的九月日](https://www.youtube.com/watch?v=KE1q8Lh5cSY)
   - [day in my life in copenhagen | new books, my workout & delicious dinner recipe | 我在哥本哈根的一天 |新书、我的锻炼和美味晚餐食谱](https://www.youtube.com/watch?v=9qR0vkgd9Rg)
+
+---
+* **[Nil Sani | 个人生活、时尚、美妆和生活方式  | Youtube](https://www.youtube.com/@NilSani/videos)**
+  - [a week in miami: r&r, pilates, pottery, brand trip with alo | 迈阿密一周：休息、普拉提、陶艺、和Alo 的品牌之旅](https://www.youtube.com/watch?v=2M0WJkM-Rkk)
 
 ---
 * **[Phoebe Taylor | enjoys dressing & nesting | 喜欢穿衣和筑巢 | Youtube](https://www.youtube.com/@__phoebe.taylor/videos)**
@@ -1371,7 +1404,12 @@
   - [The Middle East’s Best-Kept Secret | 中东最隐秘的秘密](https://www.youtube.com/watch?v=BzxI1pFzSxM)
 
 ---
-* **[Sanne Vloet | Youtube](https://www.youtube.com/@SanneVloet/videos)**
+* **[Sanne Vloet | 国际模特身份起家，同时在社交媒体分享生活方式内容（生活、健身、旅行） | Youtube](https://www.youtube.com/@SanneVloet/videos)**
+  - Fashion Model & Lifestyle Influencer — 以国际模特身份起家，同时在社交媒体分享生活方式内容（生活、健身、旅行）
+  - YouTuber & Wellness Content Creator — 在 YouTube 上发布关于健身、健康日常、旅途 vlog 等视频内容
+  - Entrepreneur & Brand Founder — 参与创立食品/健康类品牌和在线健身平台
+
+  ---
   - I’m Sanne Vloet—a wellness creator, entrepreneur, and  model.
   - 我是Sanne Vloet——一名健康创始人、企业家和模特。
 
