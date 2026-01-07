@@ -108,6 +108,11 @@
   - [英语 | 英语口语 | 英语跟读 | 英语合拍配音朗读](https://v.douyin.com/t-P1OJOU168/)
 
 ---
+* **[Aileen琳琳 | 英语翻译研究生毕业/本硕211 上海高级口译/前省重点高中英语老师 | 五百章 | Douyin](https://v.douyin.com/NUoIHP865BE/)**
+  - [学生的川渝妈妈好温柔哈哈哈 | 英语口语](https://v.douyin.com/76J8NKpbjTg/)
+  - [谢谢，有被油到，哈哈哈哈 | 英语口语](https://v.douyin.com/-8r4FrtMjrc/)
+
+---
 * **[每日英语天天练 | 百章 | Douyin](https://v.douyin.com/BWtb9hqpzkY/)**
   - [每日英语|海洋生物类单词 | 英语  | 英语没那么难  | 实用英语  | 小学英语  | 单词速记](https://v.douyin.com/MpWFz83OIDI/)
   - [每日英语|一图学完调味品类单词| 英语 | 英语没那么难 | 日常英语 | 实用英语 | 亲子英语](https://v.douyin.com/yqX9yXneiRw/)
