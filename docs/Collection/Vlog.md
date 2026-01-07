@@ -1721,4 +1721,49 @@
   - [Step Inside the International Space Station (POV Tour) | 走进国际空间站（视角导览）](https://www.youtube.com/watch?v=nmBbcNTUkOg)
 
 ---
+### 013. Books | Youtube
+* **[bestbookbits | Youtube](https://www.youtube.com/@BestBookBits/videos)**
+  - WORLD'S LARGEST FREE BOOK SUMMARY WEBSITE bestbookbits.com with over 1,000 free video, written and audio book summaries.
+  - 全球最大的免费书籍摘要网站 bestbookbits.com 拥有超过1000个免费视频、书面和有声书摘要。
+  - You can also browse and listen to our library of book summaries on Spotify, Google Podcast and Apple Podcast.
+  - 你还可以浏览并收听我们在Spotify、Google Podcast和Apple Podcast上的书籍摘要库。
+  - Follow Bestbookbits on Instagram, Facebook and LinkedIn.
+  - 关注Bestbookbits的Instagram、Facebook和LinkedIn。
+
+  ---
+  - [Secrets of the Wealthy Seminar | Robert Kiyosaki | 富裕研讨会的秘密 |罗伯特·清崎]()
+
+---
+* **[Motivation Alchemists | Youtube](https://www.youtube.com/@Motivation-Alchemists/videos)**
+  - Welcome to Motivation Alchemists, where we are dedicated to your personal development and success!
+  - 欢迎来到Motivation Alchemists，我们致力于您的个人发展与成功！
+
+  ---
+  - You've just stumbled upon a rich source of life-changing content.
+  - 你刚刚发现了一个丰富且改变人生的内容来源。
+
+  ---
+  - We are your go-to destination for motivational and inspirational videos featuring the profound teachings of Jim Rohn, Brian Tracy, and Earl Nightingale.
+  - 我们是获取吉姆·罗恩、布莱恩·特雷西和厄尔·南丁格尔深刻教导的励志和励志视频的首选。
+
+  ---
+  - Our goal is to inspire you, motivate you, and empower you to become the best version of yourself.
+  - 我们的目标是激励你、激励你，并赋能你成为最好的自己。
+
+  ---
+  - Whether you're striving for personal growth, career success, effective time management, or mastery in goal-setting, Motivation Alchemists is your key tool.
+  - 无论你是在追求个人成长、职业成功、有效的时间管理，还是精通目标设定，Motivation Alchemists 都是你的关键工具。
+
+  ---
+  - Join us on this transformative journey as we share the wisdom that has personally touched our hearts and changed our lives.
+  - 加入我们，踏上这段变革之旅，分享那些触动我们心灵、改变我们生活的智慧。
+
+  ---
+  - arsus9
+  - 阿尔苏斯9
+
+  ---
+  - [Jim Rohn Life Lesson: The 7 Fundamentals Of Success | Jim Rohn Motivational Video 2024 | 吉姆·罗恩人生课题：成功的七大基本原理 |吉姆·罗恩2024年励志视频](https://www.youtube.com/watch?v=YXN72-14dJQ)
+
+---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
