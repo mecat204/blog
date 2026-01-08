@@ -581,6 +581,14 @@
     - [突袭委内瑞拉！特朗普的公私账与全球影响](https://v.douyin.com/IXBmyx5Osbk/)
     - [数字人民币 2.0: 预付不亏，跨境无阻](https://v.douyin.com/G4rGfq7Pn7c/)
 
+  ---
+  * **[思辩论 | 只记录，只分享，无建议，无答案。| 五十章 | Douyin](https://v.douyin.com/o2AV2Mhf22I/)**
+    - [慢慢变好 | 慢慢变好才是给自己最好的礼物](https://v.douyin.com/QY-GEP_e14w/)
+    - [独处是一个人最好的修行](https://v.douyin.com/gVXQXrLrR54/)
+    - [生活哲学 | 年轻人 | 上热门话题](https://v.douyin.com/zPdO5npzGK8/)
+    - [生活哲学 | 攀比](https://v.douyin.com/JAOEgn7jiIs/)
+
+
 ---
 ### 015. 乡野·治愈系风景
 * **[Plant | 行至朝雾里，坠入暮云间 | 千章 | Douyin](https://v.douyin.com/UpzNpH0zQSs/)**

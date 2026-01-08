@@ -555,27 +555,30 @@
 > **音乐在我们最脆弱的时候，帮我们重新找到自己。**
 
 ---
-### 017. 收音机
-* **[收音HiFi](https://v.douyin.com/n3lGlAiON2g/)**
+### 017. 收音机 | Douyin
+* **[收音HiFi | 本人喜欢音响最爱收音机，听听广播电台的声音，听听新闻除却一天的疲劳，何尝不是一种惬意。| 千章 | Douyin](https://v.douyin.com/n3lGlAiON2g/)**
   - [熟悉的声音传来，瞬间清醒睡不着觉，有朋友知道这是哪期的节目吗？ | 收音机](https://v.douyin.com/TonN4WDJ1q8/)
+  - [在深圳拼搏过的朋友还记得这个节目吗？当时来到深圳摸不清方向很迷茫晚上下了班回到宿舍打开收音机听听可以让人放松的广播，特别是胡晓梅的《夜空不寂寞》令人难以忘怀基本都是听她的节目入睡，讲的也是很多身同感受的故事，很是励志共鸣，第二天又打满鸡血似的去富士康工厂工作，这就是广播的能量，我还记得这个节目播出的频率是97.1MHz，现在这个频率电台还在，但是这个节目却没有了。特意把之前的一段录音分享出来。朋友你还记得这个节目吗？收音机| 怀旧经典 | 胡晓梅的夜空不寂寞 | 8090后](https://v.douyin.com/1HgeXikIopI/)
+  - [聆听你的欢乐和忧伤，也怀着感激被你聆听。1999年入学，在衡阳经常藏被窝听经南岳塔转播的节目《心灵之约》，罗刚主持，熟悉的开场曲，熟悉的开场白。我相信在长沙的，也听过。一段尘封的记忆就此打开，那个夜晚一个冒充小日子的人你还好吗？从那时起就没有这个节目了，但一直有个恋想就是哪一天这个节目又回来了，可是20251010后再也不会有这个节目了，最后的念想彻底结束。| 怀旧经典 | 一代人的回忆 | 80年代 | 收音机](https://v.douyin.com/JHNJNvTb9Aw/)
 
 ---
-* **[千里共良宵-怀旧电台](https://v.douyin.com/uTlp7BfWRRo/)**
+* **[千里共良宵-怀旧电台 | 千里共良宵怀旧电台-青音、姚科 不定期更新 平台限制暂停直播 | 二十章 | Douyin ](https://v.douyin.com/uTlp7BfWRRo/)**
   - [一句顶一万句](https://v.douyin.com/_svj5j1RdOM/)
   - 今天分享的是 《一句顶一万句》 我们终其一生，不是为了满足所有人，而是为了找到与自己同频共振的那个人，这看似简单的想法，实则要多幸运才能遇到啊，肉体相伴比比皆是，但灵魂共鸣寥寥无几。今天想和你们聊聊刘震云的这本《一句顶一万句》，有的朋友说，读它像在看一场漫长的烟火：热闹是别人的，心里的寂寞才是自己的。书里的人都在找那个能"说得上话"的人，可越找越发现，真正的理解比登天还难。一句话能让人温暖，一句话也能让人凉透。合上书，你会更愿意在生活里多听一句、多说一句。
+  - [女性成长 | 结婚十年| 婚姻观| 情感共鸣 | 正能量](https://v.douyin.com/dvpIzKxSvHY/)
 
 ---
-* **[北纬21度收音机](https://v.douyin.com/sbdAyx0gvWg/)**
+* **[北纬21度收音机 | 让互联网延续收音机情怀 | 五十章 | Douyin](https://v.douyin.com/sbdAyx0gvWg/)**
   - [千里共良宵2020.01.30，迎波：儿时的年味，你还记得吗](https://v.douyin.com/rlcW0oQ010I/)
   - [千里共良宵2020.01.29，姚科：曾经的年](https://v.douyin.com/fkLpE1M0YKo/)
 
 ---
 ### 018. 自创乐器 | 鼓点
-* **[厨乐小屋](https://v.douyin.com/xEGf_Kx2XGs/)**
+* **[厨乐小屋 | 百章 | Douyin](https://v.douyin.com/xEGf_Kx2XGs/)**
   - [大家都听听看行不行| 笛子 | 新手笛子 | 何以歌 | 自制乐器](https://v.douyin.com/SiI27ugDMAM/)
 
 ---
-* **[极美大师姐 | 一个来自外星的外星人](https://v.douyin.com/zyIp7ZOwjmA/)**
+* **[极美大师姐 | 一个来自外星的外星人 | 百章 | Douyin](https://v.douyin.com/zyIp7ZOwjmA/)**
   - [青春若有BGM，我的部分必须用大鼓开场](https://v.douyin.com/JTLo_qmrhDU/)
 
 ### 019. 雨声催眠
@@ -773,6 +776,11 @@
 
   ---
   - [音乐疗法🌿 修复神经系统，停止过度思考 | 舒缓压力的放松音乐](https://www.youtube.com/watch?v=ecrL5FHBmFA)
+
+---
+* **[Secret Garden - Official | Youtube](https://www.youtube.com/@SecretGardenOfficial/videos)**
+  - [Secret Garden - Chaconne (Remastered 2025/ Visualizer) | 秘密花园 - 恰空舞曲（2025年重制版/可视化版）](https://www.youtube.com/watch?v=TlzCdLR-Trw)
+  - [Secret Garden - Nocturne (Remastered 2025/Visualizer) | 秘密花园 - 夜曲（2025年重制/可视化版）](https://www.youtube.com/watch?v=yxuM2Leigyw)
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)

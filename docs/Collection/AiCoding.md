@@ -517,6 +517,13 @@
   - [青绿千载，山河无垠](https://v.douyin.com/gGNP7ORHW5U/)
 
 ---
+  * **[思辩论 | 只记录，只分享，无建议，无答案。| 五十章 | Douyin](https://v.douyin.com/o2AV2Mhf22I/)**
+    - [慢慢变好 | 慢慢变好才是给自己最好的礼物](https://v.douyin.com/QY-GEP_e14w/)
+    - [独处是一个人最好的修行](https://v.douyin.com/gVXQXrLrR54/)
+    - [生活哲学 | 年轻人 | 上热门话题](https://v.douyin.com/zPdO5npzGK8/)
+    - [生活哲学 | 攀比](https://v.douyin.com/JAOEgn7jiIs/)
+
+---
 * **[尘风AI | 《智行无界》 尘寰万象掌中轻, 万佛千门屏上鸣。A爱智纳无涯海，I智穿云悦众生。AI很单纯，复杂的是人。| 二十九章 | Douyin](https://v.douyin.com/ZE-LqaiwJrw/)**
   - [奇幻东方美学，小白也能学会，用AI四步三分钟教会你； 东方奇幻怪诞美学，用AI如此简单；喂饭级教程；| AI新星计划 | AI教学 | 东方奇幻美学| 海螺AI | AI创作浪潮计划](https://v.douyin.com/bPb86GPHdZs/)
 
@@ -562,8 +569,6 @@
 ---
 * **[ai老韩 | aigc创作者，有凡人官方授权 | 三十章 | Douyin](https://v.douyin.com/2Y3LdWQthZM/)**
   - [仓坤上人副本 | 凡人修仙传 | AI创作浪潮计划 | 海艺AI | 韩立 | 南陇侯](https://v.douyin.com/zhIuD4WxtiY/)
-
-
 
 ---
 * **[哈基乱剪 | 整一些好玩的新三国二创~ 望能带给你更多的快乐 | 二十多章 | Douyin](https://v.douyin.com/pDw538G72TY/)**
