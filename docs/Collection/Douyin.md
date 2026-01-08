@@ -21,19 +21,36 @@
 
 ---
 ### 002. 原神·米哈游
-* **[鹤木岩雄](https://v.douyin.com/IeD_MpduOA8/)**
+* **[浮光易逝 | 纯为爱发电，日常分享一些原神故事。| 提瓦特编年史持续更新中 | 千章 | Douyin](https://v.douyin.com/narXfxe_xcM/)**
+  - [渊上：我见证了许多古国的覆灭，却唯独记不起我的故乡 | 原神纳塔 | 原神夏日度假村](https://v.douyin.com/xgKAqNicCrw/)
+  - [愚人众执行官排名 | 原神枫丹](https://v.douyin.com/OFFi7UrnAgU/)
+  - [尘世七执政 | 原神枫丹](https://v.douyin.com/WG6kfnBpBWU/)
+  - [须弥魔神战争](https://v.douyin.com/OUIAsDNWTJ0/)
+
+---
+* **[夜的第七章。| Everlasting love for yoimiya . | 千章 | Douyin](https://v.douyin.com/9XwUbRgQf5A/)**
+  - [极限国度](https://v.douyin.com/pEL6ok7G2bw/)
+  - [这是缘 亦是命中最美的相见 | 宵宫 | 原神| 我推的宵宫 | 游戏角色同好会](https://v.douyin.com/fj1gq4UhAmY/)
+  - [原神36顶配角色秒杀4.4深渊风蚀沙虫 | 原神枫丹 | 原神 | 宵宫 | 雷电将军 | 闲云](https://v.douyin.com/DzyCdkYSh8I/)
+  - [谁才是你心中的年度最佳 - 2025抖音游戏年度推荐](https://v.douyin.com/YEM9VBL58UI/)
+
+---
+* **[语堂天天啃土 | 游戏摄影博主，长期更新中... 带大家发现美是一件令人愉悦的事情 | 百章 | Douyin](https://v.douyin.com/1-kbDx8jAaQ/)**
+  - [当我在游戏里为"狙击手"拍照...【绝区零sp委托】 | 绝区零 | 绝区零创作激励计划| 扳机](https://v.douyin.com/Fw2sUno1LwA/)
+  - [我们要拍希诺宁，不能只拍希诺宁... | 原神纳塔](https://v.douyin.com/n3GoGv5e2rs/)
+  - [绝区零在骗色鬼参军... 【绝区零SP委托】 | 绝区零sp委托 | 绝区零春日摄影展 | 绝区零雨果 | 绝区零摄影](https://v.douyin.com/CLrEx7kFScg/)
+  - [我集齐了14朵花，可以召唤少女吗？ | 原神空月之歌 | 原神剧情混剪| 哥伦比娅 | 魔女会 | 月之少女](https://v.douyin.com/b6tt06xMHgE/)
+  - [哥伦比娅...| 月之少女 | 原神摄 | 原神空月之歌](https://v.douyin.com/VrMxOpGYkQs/)
+
+---
+* **[鹤木岩雄 | 一个正经的说书人，没有冗余，只讲重点，感谢各位捧场关注 | 百章 | Douyin](https://v.douyin.com/IeD_MpduOA8/)**
   - [胡桃](https://v.douyin.com/7JANUV-BQUo/)
   - [雷神](https://v.douyin.com/L-wHOO3jDmA/)
   - [神子](https://v.douyin.com/QDfR-UDBEzo/)
   - [大慈树王](https://v.douyin.com/GddLMUDhdAs/)
   - [璃月](https://v.douyin.com/b20-X9kTXAU/)
 
----
-* **[浮光易逝](https://v.douyin.com/narXfxe_xcM/)**
-  - [须弥魔神战争](https://v.douyin.com/OUIAsDNWTJ0/)
-* 夜的第七章
-  - [极限国度](https://v.douyin.com/pEL6ok7G2bw/)
-* [语堂天天啃土](https://v.douyin.com/MeU6RdavMxU/)
+
 
 ---
 * **[Ferrari](https://v.douyin.com/Xd6kRRlTfjA/)**
@@ -80,7 +97,11 @@
   - [原神UP最多人抽的角色](https://v.douyin.com/amSgDlev_5Y/)
 
 ---
-* **[十笎yuan](https://v.douyin.com/u3uviIVjD8Y/)**
+* **[十笎 | 其他平台同名｜借鉴请标来源 | 百章 | Douyin](https://v.douyin.com/0hVY1U0oq3k/)**
+  - [疑似沉玉谷新地图？？原神纳塔 和我一起玩原神吧 | 尘歌壶 | 蓝砚](https://v.douyin.com/aDlFo9tM0os/)
+  - [你可能不认识我，也没用过我的尘歌壶 | 原神纳塔 | 尘歌壶 | 原神剪辑 | 尘歌壶摹本 | 提瓦特剧场](https://v.douyin.com/SetbcEcGjyM/)
+  - [妙香林深度下沉教程，摹本可关注后私信找我要 | 尘歌壶 | 原神 | 原神创作者激励计划](https://v.douyin.com/VW6A-BdyNbs/)
+  - [新手原壶玩家必看，尘歌壶如何做到浮空和下沉 | 原神 | 尘歌壶 | 原神尘歌壶 | 原神攻略](https://v.douyin.com/gqgYa8PbkG8/)
 
 ---
 * **[虚构史学家丶艾希](https://v.douyin.com/H8ANNbOPUbM/)**

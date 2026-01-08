@@ -7,8 +7,16 @@
 * **[壁纸下载](https://www.bizhi99.com/s/8748/)**
 
 ---
+* **[方块十AI | 系列图集获取/定制图片 | 千章 | Douyin](https://v.douyin.com/l-KxnOqop5Q/)**
+  - [夜兰师姐说的对~ | 原神  | 八重神子  | 刻晴  | 申鹤  | 芙宁娜 ](https://v.douyin.com/Q-8mtt-0nTU/)
+  - [黄泉师姐说要提防女人~ 崩坏星穹铁道 | 于长夜重返大地 | 黄泉 | 遐蝶 | 符玄](https://v.douyin.com/NpIVnL9dp0Y/)
+  - [星铁运动少女第二期。崩坏星穹铁道 | 走过安眠地的花丛 | 飞霄 | 花火 | 黄泉](https://v.douyin.com/r1QKkZrRFJI/)
+  - [运动时间到~！| 原神 | 茜特菈莉 | 玛薇卡 | 优菈 | 阿蕾奇诺](https://v.douyin.com/HeRuNWk35Cw/)
+
+---
 * **[画一画(群内取图) | ai绘画爱好者，带原神全角色玩。](https://v.douyin.com/bcwLNKgt2Ow/)**
   - [原神壁纸](https://v.douyin.com/kk81ZuBfK24/)
+
 
 ---
 * **[凌齐](https://v.douyin.com/cBPYuzTzfPs/)**
@@ -62,6 +70,14 @@
 * **[春夏秋冬都很想你 | AI创作｜4k超清壁纸 百章 | Douyin](https://v.douyin.com/aG2XqDV_QTc/)**
   - [奇幻美学](https://v.douyin.com/eUQYwDh2FBc/)
   - [视觉震撼 | 梦中的世界 | 心灵奇旅 | 异世界探秘 | ios26壁纸](https://v.douyin.com/mTeNNY2E8RY/)
+
+---
+* **[语堂天天啃土 | 游戏摄影博主，长期更新中... 带大家发现美是一件令人愉悦的事情 | 百章 | Douyin](https://v.douyin.com/1-kbDx8jAaQ/)**
+  - [当我在游戏里为"狙击手"拍照...【绝区零sp委托】 | 绝区零 | 绝区零创作激励计划| 扳机](https://v.douyin.com/Fw2sUno1LwA/)
+  - [我们要拍希诺宁，不能只拍希诺宁... | 原神纳塔](https://v.douyin.com/n3GoGv5e2rs/)
+  - [绝区零在骗色鬼参军... 【绝区零SP委托】 | 绝区零sp委托 | 绝区零春日摄影展 | 绝区零雨果 | 绝区零摄影](https://v.douyin.com/CLrEx7kFScg/)
+  - [我集齐了14朵花，可以召唤少女吗？ | 原神空月之歌 | 原神剧情混剪| 哥伦比娅 | 魔女会 | 月之少女](https://v.douyin.com/b6tt06xMHgE/)
+  - [哥伦比娅...| 月之少女 | 原神摄 | 原神空月之歌](https://v.douyin.com/VrMxOpGYkQs/)
 
 ---
 * **[金刚离去 | 脑洞大开](https://v.douyin.com/R1Yy_Cq7Txw/)**
