@@ -181,9 +181,17 @@
 
 ---
 ### 006. Book·文学·书法
-* [金屋电子书](https://pdfs.top/)
-* [经典书库](https://www.jingdianbook.com/)
-* [MDdic](https://www.mdict.cn/wp/?page_id=5227&lang=zh)
+* **[都靓读书 | 阅读是一件最重要的小事 | 千章 | Douyin](https://v.douyin.com/z4aLtYzUY2E/)**
+  - [中文里每一个词都不是滥竽充数的](https://v.douyin.com/8EuHNH5Ihhw/)
+  - [卧龙凤雏什么时候成了贬义词？其实网络热梗扭曲挤压了成语的使用空间。我们的成语有多博大精深？| 网络热梗 | 成语 | 历史 | 阅读](https://v.douyin.com/E9SCy1lVwoY/)
+  - [每一次碰杯的声音，都是献给自己的祝酒词。七夕 | 敬自己](https://v.douyin.com/o_JI7HSjPds/)
+  - [给我10个数的时间！带你领略那些你应该知道一点儿 的中国文化常识。传统文化 | 知识分享](https://v.douyin.com/5n_h8vS1mHU/)
+  - [2026年怎么更好地爱自己？这个视频请耐心看完。# 爱自己 - 《好的自己》- 陈果](https://v.douyin.com/LgD8k4JSklw/)
+
+---
+* **[金屋电子书](https://pdfs.top/)**
+* **[经典书库](https://www.jingdianbook.com/)**
+* **[MDdic](https://www.mdict.cn/wp/?page_id=5227&lang=zh)**
 
 ---
 * **智慧猫**
@@ -211,31 +219,33 @@
   - [人际关系](https://v.douyin.com/LZk-wf3ybn4/)
 
 ---
-* **[榆晖书院](https://v.douyin.com/0ROr1PNKqaA/)**
+* **[榆晖书院 | 成都东边有间小屋，我在那里写字和读书 | 千章 | Douyin](https://v.douyin.com/0ROr1PNKqaA/)**
   - [精神世界也需要门当户对](https://v.douyin.com/zx7AcBZDjG0/)
   - [硬笔书法](https://v.douyin.com/2ZEBSOBvur8/)
   - [孩子，你所谓的普通可能并不是那么普通](https://v.douyin.com/v7ZfJCcWr28/)
 
 ---
-* **[团子](https://v.douyin.com/Aw3GWIANijc/)**
+* **[团子 | 话不多说，好好写字。| 千章 | Douyin](https://v.douyin.com/Aw3GWIANijc/)**
   - [礼记](https://v.douyin.com/HFk6LZ8d9-I/)
-  - [望江东 黄庭坚。江水西头隔烟树，望不见、江东路。 思量只有梦来去，更不怕、江阑住。 灯前写了书无数，算没个、人传与。 直饶寻得雁分付，又还是、秋将暮。| 写字是一种生活 # 练字静心](https://v.douyin.com/hUdWEwqp7XA/)
+  - [望江东 黄庭坚。江水西头隔烟树，望不见、江东路。 思量只有梦来去，更不怕、江阑住。 灯前写了书无数，算没个、人传与。 直饶寻得雁分付，又还是、秋将暮。| 写字是一种生活 | 练字静心](https://v.douyin.com/hUdWEwqp7XA/)
+  - [山居闲趣 。想在山间有亩田，种花种草种清闲。 小酌秋月观云舞，醉卧春风听雨眠。 | 写字是一种生活 | 写字是一种心情 | 小楷](https://v.douyin.com/mkYFTcCUYdg/)
 
 ---
-* **[逸辰](https://v.douyin.com/PuGuC-20Rk4/)**
+* **[逸辰 | 在无能为力的时候，那就顺其自然吧 | 千章 | Douyin](https://v.douyin.com/PuGuC-20Rk4/)**
   - [诗词 - 半山深处有人家，依山傍水远繁华。 无为不做俗尘事，轻煮岁月慢煮茶。](https://v.douyin.com/neRRsw8w4LU/)
+  - [人生如逆旅，你我皆行人，唯有不断悦己，阅己，越己| 书法| 手写| 小楷](https://v.douyin.com/O9Qzm1BVjuE/)
 
 ---
-* **[青釉](https://v.douyin.com/LrBoxu9d3mU/)**
+* **[青釉 | 阅己 🏃‍♀️越己 🧘‍♀️悦己 | 百章 | Douyin](https://v.douyin.com/LrBoxu9d3mU/)**
   - [文字的力量](https://v.douyin.com/TAKVYZ7FX-M/)
 
 ---
-* **[小仙](https://v.douyin.com/e4xwLKWJ3Zc/)**
+* **[小仙 | 美，一身反骨，随心记录，爱写小楷 | 二百章 | Douyin](https://v.douyin.com/e4xwLKWJ3Zc/)**
   - [见字如面](https://v.douyin.com/ry0EnPdeBoY/)
 
 ---
-* **[都靓读书](https://v.douyin.com/z4aLtYzUY2E/)**
-  - [中文里每一个词都不是滥竽充数的](https://v.douyin.com/8EuHNH5Ihhw/)
+
+
 
 ---
 * **[一粒溪石](https://v.douyin.com/R_vZ66i1dJ0/)**

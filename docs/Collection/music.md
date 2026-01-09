@@ -302,49 +302,49 @@
 
 ---
 ### 014. 古琴 | 古筝 |  笛子 | 钢琴 | 小提琴
-* **[舒窈](https://v.douyin.com/dQenqUTMUU0/)**
+* **[浅影阿 | 千章 | Douyin](https://v.douyin.com/j9R790aOI3M/)**
+  - [谪居](https://v.douyin.com/BTeGOKmQ89M/)
+  - [我走在长街中！](https://v.douyin.com/2vkb2aZVXfo/)
+
+---
+* **[李佳古琴 | 五百章 | Douyin](https://v.douyin.com/dDpm7lvE3GM/)**
+  - [国风古韵](https://v.douyin.com/QDCnNuEQZig/)
+
+---
+* **[佟谣 | 百章 | Douyin](https://v.douyin.com/dQenqUTMUU0/)**
   - [天地缓缓 | 青丝绾 情思晚](https://v.douyin.com/JckyKyfaVwA/)
   - [此生何用声声叹 | 秦时明月](https://v.douyin.com/B-23jqZBReg/)
   - [剑舞轻 潇洒过白袍影 | 谪仙](https://v.douyin.com/7rHlrFAqE0o/)
 
 ---
-* **[一禅小者](https://v.douyin.com/bhXPdBPdNWQ/)**
+* **[一禅小者 | 百章 | Douyin](https://v.douyin.com/bhXPdBPdNWQ/)**
   - [鸳鸯戏｜谁识曲中意 断弦等你系](https://v.douyin.com/cTyZJ1u5agw/)
 
 ---
-* **[沧月神明](https://v.douyin.com/MUQQ3_2ktJw/)**
+* **[沧月神明 | 百章 | Douyin](https://v.douyin.com/MUQQ3_2ktJw/)**
   - [不愿染是与非，怎料事与愿违 | 不染 | 香蜜沉沉烬如霜](https://v.douyin.com/KLUopNP12KM/)
   - [能不能为你再跳一支舞，我是你千百年前放生的白狐 | 白狐](https://v.douyin.com/ldwf0A2QGrU/)
   - [进击的巨人](https://v.douyin.com/NPm3v5eK5iw/)
   - [笛子 | 弱水三千 | 战国袍 | 宿命感](https://v.douyin.com/6bc1xv68Qn8/)
 
 ---
-* **[笛子～小柔 | 笛子](https://v.douyin.com/7ZMhqrKiU5Q/)**
+* **[笛子～小柔 | 笛子 | 百章 | Douyin](https://v.douyin.com/7ZMhqrKiU5Q/)**
   - ["笛声一响，雪落满肩头…吹一曲《落了白》，愿人间清净，山河无恙。🌨️"|笛子 |乐器演奏 |落了白](https://v.douyin.com/-su-aaPrnvs/)
 
 ---
-* **[晓乐](https://v.douyin.com/22gFoRVOSts/)**
+* **[晓乐的钢琴札记 | 百章 | Douyin](https://v.douyin.com/22gFoRVOSts/)**
   - [每一首歌都是一个记忆U盘 | 钢琴](https://v.douyin.com/_ety9MDtOdk/)
 
 ---
-* **[银幕诗人 | 苏州园林 ｜江南水乡｜中式美学](https://v.douyin.com/b2blAPgkIlE/)**
+* **[银幕诗人 | 苏州园林 ｜江南水乡｜中式美学 | 百章 | Douyin | 百章 | Douyin](https://v.douyin.com/b2blAPgkIlE/)**
   - [真的有人喜欢这种安静的感觉吗](https://v.douyin.com/Zqt54YHlzjA/)
 
 ---
 * **[崔江卉古筝 |  曲谱集 | 2019年出版 朝云间 | 2024年出版 流行古筝独奏教程](https://v.douyin.com/l-_NyS7JlX4/)**
 
 ---
-* **[惊枝 | 海压竹枝低复举，风吹山角晦还明](https://v.douyin.com/AEIx2NG45Pc/)**
+* **[惊枝 | 海压竹枝低复举，风吹山角晦还明 | 百章 | Douyin](https://v.douyin.com/AEIx2NG45Pc/)**
   - [情思晚，暂留天地缓缓" 原唱：伦桑 移植：东韵Dongyun 演奏：我 小小的变了一下调 这个旋律还是太权威了，东韵老师移植也是太权威了 古琴 天地缓缓](https://v.douyin.com/znD-CUN6yGQ/)
-
----
-* **[李佳古琴](https://v.douyin.com/dDpm7lvE3GM/)**
-  - [国风古韵](https://v.douyin.com/QDCnNuEQZig/)
-
----
-* **[浅影阿](https://v.douyin.com/j9R790aOI3M/)**
-  - [谪居](https://v.douyin.com/BTeGOKmQ89M/)
-  - [我走在长街中！](https://v.douyin.com/2vkb2aZVXfo/)
 
 ---
 * **[今也_古琴](https://v.douyin.com/ciILFWons1E/)**
