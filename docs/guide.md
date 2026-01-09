@@ -62,6 +62,7 @@
   - [世界树](Collection/世界树)
   - [催眠](Collection/催眠)
   - [科普](Collection/科普)
+  - [思绪](Collection/思绪)
   - [健康养生](Collection/健康养生)
   - [道法自然](Collection/道法自然)
   - [综艺](Collection/综艺)

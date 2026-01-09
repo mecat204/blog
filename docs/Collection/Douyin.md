@@ -404,6 +404,12 @@
     - [烩麻食](https://v.douyin.com/pcXxW_Iogg8/)
 
   ---
+  * **[马先生 | 用微镜头记录农村美食生活 每一口熟悉的味道 都藏在记忆里儿时的回忆 | 五百章 | Douyin](https://v.douyin.com/Ai7qaP9s5l4/)**
+  - [辣子豆腐，过去坐席必须有的一道菜，现在菜多了，肉多了，这道辣子豆腐却不上席了。很怀念小时候坐席吃的那个味。](https://v.douyin.com/XLkRl3WvvzY/)
+  - [辣子酱，以前上技校那会，一个月回来一次，每次上学去，我妈都用罐头瓶子给我装一瓶，自己做的辣子酱，我就不愿意拿，感觉拿去丢人，就是拿去了，我偷偷藏在宿舍，害怕别人看见了笑话我，总觉得别人娃拿的啥都比我的好，现在想一下，那时候我的虚荣心怎么那么大的，我妈给我拿的不是辣子酱，我妈给我拿的是对娃的牵挂，对娃的爱，你们出门，家里都给带什么东西。原创作品 | 农村美食记录生活 | 地方特色美食 | 我的农村生活 | 新农人计划2025 | 开学的精选](https://v.douyin.com/2nmUNjXMQCg/)
+  - [蒸馍，都说陕西人爱吃面，其实陕西人也离不开馍，以前中午吃面，早上晚上基本都是馍，我就爱吃那刚出锅的馍，加点停好的猪油，在摸点辣面子，吃起来真的香，现在都基本不整蒸馍了，都是买了，现在的娃吃个早饭不吃这个，不吃那个，咱那会上学，早上只要能在锅里拿个冰蒸馍，都好的很了。原创作品 | 农村美食记录生活 | 地方特色美食 | 我的乡村生活 | 新农人计划2025 | 美好丰收看陕西 | 开学的精选](https://v.douyin.com/e0ngLk_3xzo/)
+
+  ---
   * **[大昭 | 1985年的牛： 大昭：爱吃然面：在闲余时间：给大家分享特色面 | 百章 | Douyin](https://v.douyin.com/zmVkw3Sb8zs/)**
     - [纯手工洋柿柿鸡蛋面，香的很，陕西关中人爱碟面，撩咋咧](https://v.douyin.com/03BjqScrFMk/)
 
@@ -756,6 +762,13 @@
 ---
 * **[悠悠不是球 | 已婚带仨猫 🐈名字叫悠悠 捡回来的小女猫 | 三百章 | Douyin](https://v.douyin.com/hmxbwG-O0sU/)**
   - [猫:还养吗？](https://v.douyin.com/NgEzWSCgZbc/)
+
+---
+### 025. 搜集 | INFO
+* **[芝士情报局 | 知不足而奋进，望远山而力行 | 五百章 | Douyins](https://v.douyin.com/NNx1aZXY_WE/)**
+   - [马斯克摊牌：脑机接口将终结肉身残缺！并且今年将量产！马斯克 | neuralink | 脑机接口](https://v.douyin.com/ulNDO6nK-Y8/)
+   - [消失的1390亿回来了！马斯克身价飙升至7500亿](https://v.douyin.com/2W7QUPV_qFA/)
+   - [男子阑尾炎被医生误诊！马斯克的AI居然救了他一命！马斯克 | Grok](https://v.douyin.com/rj-sSSbwhnQ/)
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)

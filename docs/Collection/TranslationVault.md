@@ -459,5 +459,724 @@
 * **fashion influencer**
   - 时尚博主（偏商业影响力）
 
+### 0012. 中美日基本交流
+* **🇯🇵🇺🇸🇨🇳 日本「超友好」生存级 · 日常交流模型**
+
+---
+* **礼貌开场 / Polite Openers**
+  - すみません（su-mi-ma-sen）｜不好意思 / 打扰一下
+  - 不好意思，打扰一下
+  - Excuse me.
+  - Sorry to bother you.
+  - 英語は少しだけです（eigo wa sukoshi dake desu）｜英语只会一点点
+  - My English is not very good.
+
+---
+- **建立沟通 / Start Communication**
+  - Can you help me?
+  - 可以帮我一下吗？
+  - 大丈夫ですか？（daijoubu desu ka）｜可以吗 / 没问题吗
+  - Is it OK?
+  - One question, please.
+
+---
+- **问路 / Directions**
+  - 请问厕所在哪？
+  - Where is the toilet?
+  - トイレはどこですか？（toire wa doko desu ka）
+  - 我想去这里（指手机）
+  - I want to go here.
+  - How can I go there?
+  - 这里 / 那里
+  - ここです（koko desu）｜在这里
+  - あそこです（asoko desu）｜在那里
+
+---
+- **吃饭点餐 / Ordering Food**
+  - 这个，谢谢
+  - This one, please.
+  - これください（kore kudasai）
+  - 有英文菜单吗？
+  - Do you have an English menu?
+  - 看不懂也没关系
+  - It's OK.
+  - 不要肉 / 猪肉 / 酒
+  - No meat.
+  - No pork.
+  - No alcohol.
+  - 肉（niku）｜肉
+  - 豚肉（butaniku）｜猪肉
+  - お酒（osake）｜酒
+
+---
+* **购物 / Shopping**
+  - 这个多少钱？
+  - How much is this?
+  - How much?
+  - 可以刷卡吗？
+  - Can I pay by card?
+  - カード OK？
+  - 只看看，谢谢
+  - I just look.
+  - 見るだけです（miru dake desu）
+
+---
+* **交通出行 / Transportation**
+  - 这是去××的车吗？
+  - This train?
+  - Which line?
+  - Which platform?
+  - 在几号站台？
+  - 何番？（nan-ban）
+  - 下一站是哪里？
+  - Next station?
+
+---
+* **交流卡壳 / When You Don’t Understand**
+  - 不好意思，我没听懂
+  - Sorry, I don’t understand.
+  - わかりません（wakarimasen）
+  - 可以慢一点吗？
+  - Please speak slowly.
+  - ゆっくりお願いします（yukkuri onegaishimasu）
+  - 可以写下来吗？
+  - Can you write it?
+
+---
+* **翻译软件 / Translator Mode**
+  - 我可以用翻译软件吗？
+  - Can I use translator?
+  - 翻訳アプリ使っていいですか？
+  - 我们用手机吧（笑）
+  - Let’s use phone.
+
+---
+* **日常寒暄 / Casual Small Talk**
+  - 今天人很多
+  - Very busy today.
+  - 天气不错
+  - Nice weather.
+  - 我是第一次来日本
+  - First time in Japan.
+  - 日本很好
+  - Japan is very nice.
+
+---
+* **[感谢 & 离场 / Polite Ending**
+  - 谢谢你，真的很感谢
+  - Thank you very much.
+  - ありがとうございます（arigatou gozaimasu）
+  - 不好意思，打扰了
+  - すみません、ありがとうございました
+
+---
+* **[终极生存公式 / Ultimate Survival Formula**
+  - すみません
+  - 简单英文（关键词）
+  - 指路 / 手机 / 比划
+  - Thank you + ありがとうございます
+
+---
+### 0013. 机场 / 酒店 / 便利店专用对话
+* **🇯🇵🇺🇸🇨🇳 日本「超友好」生存级 · 场景化交流模型**
+
+---
+* **机场 · 入境 / Airport Arrival**
+  - 请问入境检查在哪里？
+  - Immigration, where?
+  - 入国審査はどこですか？（nyūkoku shinsa wa doko desu ka）
+  - 行李提取在哪里？
+  - Baggage claim?
+  - 荷物はどこですか？（nimotsu wa doko desu ka）
+  - 我是来旅游的
+  - Travel.
+  - 観光です（kankō desu）
+  - 几天？
+  - How many days?
+  - 〇 days.
+
+---
+* **机场 · 出发 / Airport Departure**
+  - 请问值机柜台在哪里？
+  - Check-in counter?
+  - チェックインはどこですか？
+  - 我已经网上值机了
+  - Online check-in.
+  - 保安检查在哪里？
+  - Security check?
+  - 安检はどこですか？（anken wa doko desu ka）
+  - 登机口在哪里？
+  - Gate?
+  - 搭乗口はどこですか？（tōjōguchi wa doko desu ka）
+
+---
+* **酒店 · 办理入住 / Hotel Check-in**
+  - 我有预订
+  - I have a reservation.
+  - 予約があります（yoyaku ga arimasu）
+  - 我的名字是 ××
+  - My name is ××.
+  - チェックインお願いします
+  - Check-in, please.
+  - 几点可以入住？
+  - What time check-in?
+  - チェックイン何時ですか？
+
+---
+* **酒店 · 房间相关 / Hotel Room**
+  - 我的房间有点问题
+  - There is a problem with my room.
+  - 部屋に問題があります（heya ni mondai ga arimasu）
+  - 没有热水 / 空调
+  - No hot water / No air conditioning
+  - お湯が出ません / エアコンがありません
+  - 可以换房间吗？
+  - Can I change room?
+  - 部屋を変えられますか？
+
+---
+* **酒店 · 退房 / Hotel Check-out**
+  - 我要退房
+  - Check-out, please.
+  - チェックアウトお願いします
+  - 可以寄存行李吗？
+  - Can you keep my luggage?
+  - 荷物を預かってもらえますか？
+  - 账单在哪里？
+  - Bill, please.
+  - お会計お願いします
+
+---
+* **便利店 · 购物 / Convenience Store**
+  - 我要这个
+  - This one.
+  - これください（kore kudasai）
+  - 要袋子吗？
+  - Bag?
+  - 袋いりますか？（fukuro irimasu ka）
+  - 要 / 不要
+  - Yes / No
+  - はい / いいえ
+  - 可以加热吗？
+  - Please heat.
+  - 温めてください（atatamete kudasai）
+
+---
+* **便利店 · 结账 / Payment**
+  - 可以刷卡吗？
+  - Card OK?
+  - カード使えますか？
+  - 现金
+  - Cash.
+  - 現金（genkin）
+  - 收据
+  - Receipt.
+  - レシートください
+
+---
+* **便利店 · 常见问答 / Common Phrases**
+  - 谢谢
+  - Thank you.
+  - ありがとうございます
+  - 不需要
+  - No, thank you.
+  - 大丈夫です
+  - 再见
+  - Bye.
+  - 失礼します（shitsurei shimasu）
+
+---
+* **生存级使用技巧 / Survival Tips**
+  - 日语礼貌词 + 英文关键词 = 最高成功率
+  - 不确定就指物 / 指手机
+  - 翻译软件随时用，日本人完全理解
+
+---
+### 0014. 餐厅 / 咖啡店专用对话
+* **🇯🇵🇺🇸🇨🇳 日本「超友好」生存级 · 用餐场景交流模型**
+
+---
+* **进店 / Entering the Restaurant**
+  - 你好 / 打扰一下
+  - Hello / Excuse me.
+  - いらっしゃいませ（irasshaimase）｜店员常用欢迎语
+  - 几位？
+  - How many people?
+  - 何名様ですか？（nan-mei sama desu ka）
+  - 一位 / 两位
+  - One / Two people.
+  - 一人です / 二人です（hitori desu / futari desu）
+
+---
+* **等位 / Seating**
+  - 需要等吗？
+  - Do we need to wait?
+  - 待ちますか？（machimasu ka）
+  - 大概多久？
+  - How long?
+  - どのくらい？（dono kurai）
+
+---
+* **点餐 / Ordering**
+  - 可以点餐了吗？
+  - Can I order?
+  - 注文いいですか？（chūmon ii desu ka）
+  - 我要这个
+  - This one, please.
+  - これください（kore kudasai）
+  - 推荐什么？
+  - What do you recommend?
+  - おすすめは何ですか？
+
+---
+* **饮品 / Drinks**
+  - 水 / 热水
+  - Water / Hot water.
+  - 水ください / お湯ください
+  - 咖啡 / 茶
+  - Coffee / Tea.
+  - コーヒー / お茶
+  - 不要冰 / 少冰
+  - No ice / Less ice.
+  - 氷なし / 氷少なめ
+
+---
+* **口味 & 需求 / Preferences**
+  - 不要辣
+  - Not spicy.
+  - 辛くないでください（karakunai de kudasai）
+  - 少一点 / 多一点
+  - Less / More.
+  - 少なめ / 多め
+  - 过敏
+  - Allergy.
+  - アレルギーがあります
+
+---
+* **用餐中 / During the Meal**
+  - 不好意思
+  - Excuse me.
+  - すみません
+  - 可以再给一份吗？
+  - One more, please.
+  - もう一つください
+  - 勺子 / 叉子 / 纸巾
+  - Spoon / Fork / Napkin.
+  - スプーン / フォーク / ナプキン
+
+---
+* **结账 / Payment**
+  - 买单
+  - Check, please.
+  - お会計お願いします
+  - 可以分开付吗？
+  - Separate bill?
+  - 別々でいいですか？
+  - 可以刷卡吗？
+  - Card OK?
+  - カード使えますか？
+
+---
+* **离店 / Leaving**
+  - 很好吃
+  - Very good.
+  - おいしいです
+  - 谢谢款待
+  - Thank you for the meal.
+  - ごちそうさまでした
+  - 再见
+  - Bye.
+  - ありがとうございました
+
+---
+* **咖啡店补充 / Café Extras**
+  - 外带
+  - Take away.
+  - テイクアウト
+  - 堂食
+  - Eat here.
+  - 店内で
+  - 可以用 Wi-Fi 吗？
+  - Wi-Fi OK?
+  - Wi-Fi 使えますか？
+
+---
+* **生存级小技巧 / Survival Tips**
+  - 看不懂就指菜单 + 说「This one」
+  - 日语礼貌词先行，交流成功率更高
+  - 日本餐厅服务员很少催客，慢慢吃没问题
+
+---
+### 0015. 医院 / 药店应急对话
+* **🇯🇵🇺🇸🇨🇳 日本「超友好」生存级 · 医疗应急交流模型**
+
+---
+* **紧急情况 / Emergency**
+  - 不好意思，我需要帮助
+  - Excuse me, I need help.
+  - すみません、助けてください
+  - 我不太舒服
+  - I feel sick.
+  - 気分が悪いです（kibun ga warui desu）
+  - 很痛
+  - It hurts.
+  - 痛いです（itai desu）
+  - 需要医生
+  - I need a doctor.
+  - 医者が必要です（isha ga hitsuyō desu）
+
+---
+* **医院 · 挂号 / Hospital Reception**
+  - 我要看医生
+  - I want to see a doctor.
+  - 診てもらいたいです（mite moraitai desu）
+  - 第一次来
+  - First time.
+  - 初めてです（hajimete desu）
+  - 有保险 / 没有保险
+  - Insurance / No insurance.
+  - 保険あります / 保険ありません
+
+---
+* **症状说明 / Describe Symptoms**
+  - 头疼 / 肚子疼 / 发烧
+  - Headache / Stomachache / Fever
+  - 頭が痛い / お腹が痛い / 熱があります
+  - 咳嗽 / 喉咙痛
+  - Cough / Sore throat.
+  - 咳があります / 喉が痛いです
+  - 过敏
+  - Allergy.
+  - アレルギーがあります
+  - 这里痛（指）
+  - Here hurts.
+  - ここが痛いです
+
+---
+* **用药 / Medicine**
+  - 需要药
+  - I need medicine.
+  - 薬が欲しいです（kusuri ga hoshii desu）
+  - 一天几次？
+  - How many times a day?
+  - 一日何回ですか？
+  - 饭前 / 饭后
+  - Before meal / After meal.
+  - 食前 / 食後
+
+---
+* **药店 / Pharmacy**
+  - 有止痛药吗？
+  - Painkiller?
+  - 痛み止めありますか？
+  - 有感冒药吗？
+  - Cold medicine?
+  - 風邪薬ありますか？
+  - 不含酒精
+  - No alcohol.
+  - アルコールなし
+
+---
+* **确认 & 理解 / Confirm Understanding**
+  - 我明白了
+  - I understand.
+  - わかりました
+  - 再说一遍可以吗？
+  - One more time, please.
+  - もう一度お願いします
+  - 可以写下来吗？
+  - Can you write it?
+  - 書いてもらえますか？
+
+---
+* **感谢 / Thanks**
+  - 谢谢你的帮助
+  - Thank you for your help.
+  - ありがとうございます
+  - 麻烦你了
+  - Sorry for trouble.
+  - お世話になりました
+
+---
+* **生存级提示 / Survival Tips**
+  - 医疗场景优先用「简单英文 + 指身体」
+  - 日本医生语速较快，不懂就立刻说「ゆっくりお願いします」
+  - 药店工作人员非常习惯应对外国人
+
+---
+### 0016. 商场 / 服装店专用对话
+* **🇯🇵🇺🇸🇨🇳 日本「超友好」生存级 · 购物试穿交流模型**
+
+---
+* **进店 / Entering the Store**
+  - 不好意思
+  - Excuse me.
+  - すみません
+  - 随便看看
+  - Just looking.
+  - 見ているだけです（mite iru dake desu）
+  - 可以帮我吗？
+  - Can you help me?
+  - 手伝ってもらえますか？
+
+---
+* **找商品 / Looking for Items**
+  - 我在找这个
+  - I’m looking for this.
+  - これを探しています
+  - 有这个尺寸吗？
+  - Do you have this size?
+  - このサイズありますか？
+  - 大一点 / 小一点
+  - Bigger / Smaller.
+  - もっと大きい / もっと小さい
+
+---
+* **试穿 / Fitting Room**
+  - 可以试穿吗？
+  - Can I try this on?
+  - 試着してもいいですか？
+  - 试衣间在哪里？
+  - Fitting room?
+  - 試着室はどこですか？
+  - 这个很合适
+  - It fits well.
+  - ちょうどいいです
+
+---
+* **价格 / Price**
+  - 有折扣吗？
+  - Any discount?
+  - セールありますか？
+  - 有别的颜色吗？
+  - Other color?
+  - 他の色ありますか？
+
+---
+* **结账 / Payment**
+  - 我要这个
+  - I’ll take this.
+  - これにします
+  - 可以刷卡吗？
+  - Card OK?
+  - カード使えますか？
+  - 要收据
+  - Receipt, please.
+  - レシートください
+
+---
+* **退换 / Return & Exchange**
+  - 可以退换吗？
+  - Can I return or exchange?
+  - 返品できますか？
+  - 尺寸不合适
+  - Size doesn’t fit.
+  - サイズが合いません
+
+---
+* **感谢 / Thanks**
+  - 谢谢你的帮助
+  - Thank you for your help.
+  - ありがとうございました
+
+---
+### 0017. 警察 / 丢失物品应急对话
+* **🇯🇵🇺🇸🇨🇳 日本「超友好」生存级 · 安全应急交流模型**
+
+---
+* **寻求警察帮助 / Asking Police for Help**
+  - 不好意思，我需要帮助
+  - Excuse me, I need help.
+  - すみません、助けてください
+  - 我丢了东西
+  - I lost something.
+  - 物をなくしました（mono o nakushimashita）
+  - 护照丢了
+  - I lost my passport.
+  - パスポートをなくしました
+
+---
+* **描述物品 / Describe the Item**
+  - 钱包 / 手机
+  - Wallet / Phone.
+  - 財布 / 携帯電話
+  - 黑色 / 白色
+  - Black / White.
+  - 黒 / 白
+  - 在这里丢的（指地点）
+  - Lost here.
+  - ここでなくしました
+
+---
+* **时间 & 地点 / Time & Place**
+  - 今天 / 昨天
+  - Today / Yesterday.
+  - 今日 / 昨日
+  - 大概几点
+  - Around what time?
+  - 何時ごろですか？
+  - 在这个地方
+  - At this place.
+
+---
+* **紧急情况 / Emergency**
+  - 有危险
+  - It’s dangerous.
+  - 危ないです
+  - 有人受伤
+  - Someone is hurt.
+  - 人が怪我しています
+  - 请帮忙
+  - Please help.
+  - 助けてください
+
+---
+* **确认 & 离开 / Confirm & Leave**
+  - 明白了
+  - I understand.
+  - わかりました
+  - 谢谢你的帮助
+  - Thank you for your help.
+  - ありがとうございました
+
+---
+* **生存级提示 / Survival Tips**
+  - 日本警察态度非常耐心，不要紧张
+  - 丢失物品找回率很高，尽量第一时间报案
+  - 护照丢失需同时联系大使馆
+
+---
+### 0018. 公共交通 / 出租车专用对话
+* **🇯🇵🇺🇸🇨🇳 日本「超友好」生存级 · 出行交流模型**
+
+---
+* **地铁 / 电车 / Bus**
+  - 请问这是去 ×× 吗？
+  - This goes to ××?
+  - これは ×× 行きですか？
+  - 我坐对了吗？
+  - Is this correct?
+  - 合っていますか？
+  - 下一站是哪里？
+  - Next station?
+  - 次はどこですか？
+  - 需要换乘吗？
+  - Transfer?
+  - 乗り換えありますか？
+
+---
+* **购票 / IC 卡**
+  - 一张票
+  - One ticket.
+  - 切符一枚
+  - 可以用 IC 卡吗？
+  - IC card OK?
+  - ICカード使えますか？
+  - 多少钱？
+  - How much?
+  - いくらですか？
+
+---
+* **出租车 / Taxi**
+  - 去这里（指手机）
+  - Go here, please.
+  - ここまでお願いします
+  - 可以刷卡吗？
+  - Card OK?
+  - カード使えますか？
+  - 在这里停
+  - Stop here.
+  - ここで止めてください
+  - 谢谢
+  - Thank you.
+  - ありがとうございました
+
+---
+* **生存级提示 / Survival Tips**
+  - 不确定就把地址给司机看
+  - 日本司机很少英语流利，但看地图完全 OK
+  - 记住「ここまでお願いします」万能好用
+
+---
+### 0019. 社交 / 朋友聊天 / 日常寒暄
+* **🇯🇵🇺🇸🇨🇳 日本「超友好」生存级 · 轻社交交流模型**
+
+---
+* **认识新朋友 / Meeting New People**
+  - 你好，很高兴认识你
+  - Nice to meet you.
+  - はじめまして
+  - 我来自中国 / 美国
+  - I’m from China / the US.
+  - 中国から来ました / アメリカから来ました
+  - 我在日本旅行 / 工作
+  - I’m traveling / working in Japan.
+  - 日本で旅行しています / 仕事しています
+
+---
+* **轻松聊天 / Small Talk**
+  - 日本很漂亮
+  - Japan is beautiful.
+  - 日本はきれいですね
+  - 你来过中国 / 美国吗？
+  - Have you been to China / the US?
+  - 中国に行ったことありますか？
+  - 今天有点冷 / 热
+  - A bit cold / hot today.
+  - 今日は寒い / 暑いですね
+
+---
+* **兴趣爱好 / Interests**
+  - 我喜欢音乐 / 电影
+  - I like music / movies.
+  - 音楽 / 映画が好きです
+  - 有什么推荐吗？
+  - Any recommendation?
+  - おすすめありますか？
+
+---
+* **结束对话 / Ending the Chat**
+  - 很高兴聊天
+  - Nice talking to you.
+  - 話せてよかったです
+  - 我要走了
+  - I have to go.
+  - そろそろ行きます
+  - 下次见
+  - See you next time.
+  - またね
+
+---
+* **生存级提示 / Survival Tips**
+  - 日本人聊天偏含蓄，避免过度私人问题
+  - 微笑 + 简短回应最安全
+  - 听不懂就直接说「Sorry, my Japanese is not good」
+
+---
+### 0020. 万能兜底 / 全场景救命句
+* **🇯🇵🇺🇸🇨🇳 日本「超友好」生存级 · 最小可用语言包**
+
+---
+* **万能短句 / Universal Phrases**
+  - 不好意思
+  - Excuse me.
+  - すみません
+  - 可以吗？
+  - Is it OK?
+  - 大丈夫ですか？
+  - 我不太明白
+  - I don’t understand well.
+  - よくわかりません
+  - 谢谢你
+  - Thank you.
+  - ありがとうございます
+
+---
+* **终极公式 / Ultimate Formula**
+  - すみません
+  - 英文关键词（名词 + 动词）
+  - 指物 / 指地图 / 手机
+  - Thank you + ありがとうございます
+
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)

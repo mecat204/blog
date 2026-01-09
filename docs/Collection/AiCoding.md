@@ -524,6 +524,16 @@
   - [青绿千载，山河无垠](https://v.douyin.com/gGNP7ORHW5U/)
 
 ---
+* **[Also | 绘梦 | 百章 | Douyin](https://v.douyin.com/ImjTwLpQbNE/)**
+  - [云山之间，仿佛有人在悄悄绘梦 | midjourney | ai视频 | 审美积累 | mj | 治愈系风景](https://v.douyin.com/F7LCYbgH5Po/)
+    * **剑与魔法的世界**
+    * **铃芽之旅**
+    * **你的名字**
+    * **天气之子**
+  - [云山之间，仿佛有人在悄悄绘梦  | midjourney | ai视频 | 审美积累 | mj | 治愈系风景](https://v.douyin.com/dtOVCaucTzk/)
+  - [当引力成为原罪，漂浮者与沉沦者共同书写忏悔录 | midjourney | 科幻 | 在天眼开开眼 | 和宇宙聊聊天](https://v.douyin.com/Rj0db3o5Mzs/)
+
+---
   * **[思辩论 | 只记录，只分享，无建议，无答案。| 五十章 | Douyin](https://v.douyin.com/o2AV2Mhf22I/)**
     - [慢慢变好 | 慢慢变好才是给自己最好的礼物](https://v.douyin.com/QY-GEP_e14w/)
     - [独处是一个人最好的修行](https://v.douyin.com/gVXQXrLrR54/)

@@ -783,4 +783,11 @@
   - [Secret Garden - Nocturne (Remastered 2025/Visualizer) | 秘密花园 - 夜曲（2025年重制/可视化版）](https://www.youtube.com/watch?v=yxuM2Leigyw)
 
 ---
+* **[青柠 | 懂你的人永远懂你，不用太多的言语. 拍摄是为了治愈. 视频可一键剪同款 | 千章 | Douyin](https://v.douyin.com/mrwjlHKe0Ws/)**
+  - [于是我驻足，享受这无法复刻的瞬间... 波光粼粼| 大概只有同频的人才喜欢这种感觉吧](https://v.douyin.com/qNMi03cuURk/)
+  - [世界偷偷爱着你，以你尚未察觉的方式... 波光粼粼 | 大概只有同频的人才喜欢这种感觉吧 | 被大自然治愈的瞬间](https://v.douyin.com/sxPeX23E_38/)
+  - [时光会筛选关系，留下的，都是带着温柔的同路人。| 大概只有同频的人才喜欢这种感觉吧 | 大自然治愈坏心情 | **music: 相思无解-熊天平**](https://v.douyin.com/rvLfLWMuG-s/)
+  - **时光会筛选关系，岁月会见证真心。愿我们和身边温柔的同路人，继续并肩，走过更多的春夏秋冬。**
+
+---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)

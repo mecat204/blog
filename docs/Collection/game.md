@@ -21,4 +21,15 @@
   - [终末地国风，简直美爆了 | 终末地三测实况  | 终末地三测  | 国风  | 终末地  | 明日方舟终末地](https://v.douyin.com/T_nssxI7nDg/)
 
 ---
+### 0004. 水子哥的综合游戏室| 对马岛之魂
+* **[水子哥的综合游戏室 | B站游戏攻略UP主 | Steam和主机游戏的游戏攻略 游戏试玩推荐 游戏评测](https://v.douyin.com/ZbfyxjbxtuM/)**
+  - [对马岛之魂PC](https://v.douyin.com/uVMkB_JYvi8/)
+  - [黑神话：悟空](https://v.douyin.com/jky6KjJ5nz4/)
+
+* **[水子哥的综合游戏室 | Youtube](https://www.youtube.com/@Chalmers_szg/videos)**
+  - **[合集列表](https://www.youtube.com/@Chalmers_szg/playlists)**
+
+* **[水子哥的综合游戏室 | Bilibili](bilibili：https://space.bilibili.com/30998094)**
+
+---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
