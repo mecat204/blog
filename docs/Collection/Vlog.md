@@ -19,6 +19,21 @@
 * **[李子柒 | 李家有女，人称子柒。| Douyin](https://v.douyin.com/UzDy7CInEV4/)**
 
 ---
+* **[都靓 | Youtube](https://www.youtube.com/@duliangdushu/videos)**
+  - 阅读是一件最重要的小事。听都靓，讲述中华之美。
+  - Beauty of China, Presented by DuLiang
+
+* **[都靓读书 | 阅读是一件最重要的小事 | 千章 | Douyin](https://v.douyin.com/z4aLtYzUY2E/)**
+  - [中文里每一个词都不是滥竽充数的](https://v.douyin.com/8EuHNH5Ihhw/)
+  - [卧龙凤雏什么时候成了贬义词？其实网络热梗扭曲挤压了成语的使用空间。我们的成语有多博大精深？| 网络热梗 | 成语 | 历史 | 阅读](https://v.douyin.com/E9SCy1lVwoY/)
+  - [每一次碰杯的声音，都是献给自己的祝酒词。七夕 | 敬自己](https://v.douyin.com/o_JI7HSjPds/)
+  - [给我10个数的时间！带你领略那些你应该知道一点儿 的中国文化常识。传统文化 | 知识分享](https://v.douyin.com/5n_h8vS1mHU/)
+  - [2026年怎么更好地爱自己？这个视频请耐心看完。# 爱自己 - 《好的自己》- 陈果](https://v.douyin.com/LgD8k4JSklw/)
+  - [喜迎新年，一口气读懂中国的马。**骑骥驰骋**](https://v.douyin.com/M4e3VxqM7tE/)
+  - [你心中哪个省份，最能概括中国？安徽或许就是答案。这里，也是最"皖"美的中国。安徽 | 文脉里的中国 | 安徽人](https://v.douyin.com/RtHkogFsY98/)
+  - [国外很多影视ip原型都源自山海经，靠山海经赚得盆满钵满，如果我们自己都不加以挖掘山海经，岂不是愧对这部上古奇书！| 观山海](https://v.douyin.com/NWkl7exrLBQ/)
+
+---
   * **[Summer Hailstones 夏冰雹 | Youtube](https://www.youtube.com/@SummerHailstones)**
     - [拖延、焦虑、没动力？《DOSE 效应》神经科学方法，帮你养成高能量体质｜冰雹讲书｜英文原版](https://www.youtube.com/watch?v=X4hwczXIhbQ)
 
