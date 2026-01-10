@@ -841,9 +841,6 @@
   - [Let's answer your questions (because I'm snowed in) - money, bullying, moving on from youtube | 让我们来回答你的问题（因为我被大雪困住了）——钱、欺凌、离开YouTube](https://www.youtube.com/watch?v=zJ2uPZfkYMk)
 
 ---
-* **[桃子來了 | Adult | Youtube](https://www.youtube.com/watch?v=ruhbpkNFZKY)**
-
----
 * **[Nischa | 投资 |  Youtube](https://www.youtube.com/@nischa)**
   - I’m a former Investment Banker (with an accountancy qualification) and on this channel we explore all things personal finance, self development and business.
   - 我曾是一名投资银行家（拥有会计学资格），在这个频道中我们探讨所有关于个人理财、自我发展和商业的话题。
