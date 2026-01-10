@@ -73,6 +73,7 @@
   - [Vlog](Collection/Vlog)
   - [CollegeCourse](Collection/CollegeCourse)
   - [CodingSource](Collection/CodingSource)
+  - [Download](Collection/Download)
   - [Douyin](Collection/Douyin)
   - [LearnEnglishCourse](Collection/LearnEnglishCourse)
   - [EnglishLearn](Collection/EnglishLearn)
