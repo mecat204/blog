@@ -944,6 +944,46 @@
   - [Deep House Mix 2025 — Smooth Night Groove | Melodic Chill Vocals & Relax Vibes #3](https://www.youtube.com/watch?v=l2Kokqr_fZw)
 
 ---
+* **[chika clarissa  | Youtube](https://www.youtube.com/@chikaclarissa)**
+  - [a thousand years-christina perri (cover) | 《千年》——克里斯蒂娜·佩里（封面）](https://www.youtube.com/watch?v=7mvVxZkZQH8)
+
+* **[Jasmine Nadya  | Youtube ](https://www.youtube.com/@JasmineNadya/videos)**
+  - The Official YouTube Channel of Jasmine Nadya.
+  - Jasmine Nadya的官方YouTube频道。
+
+  ---
+  - Hi guys!
+  - 大家好！
+
+  ---
+  - I'm Jasmine Nadya, aku suka sekali dengan dunia entertainment yaitu musik dan film.
+  - 我是贾思敏·纳迪娅，我会在娱乐中获得音乐和电影。
+
+  ---
+  - Nggak bisa pilih salah satu, aku pribadi ngerasa kalau main film udah jadi pekerjaan yang ngasih aku banyak pengalaman unik dan aku jadi belajar buat ngenal diri aku lebih jauh.
+  - 我们要有更多人，我们要有主片，但主片是我们，我会看到一个故事，但他们能看到一个故事，但他们能在一个地方看到他们。
+
+  ---
+  - Tapi untuk saat ini, aku lagi suka main musik karena ngerasa aku sangat dibebaskan berkarya dalam musik.
+  - Tapi untuk saat ini， aku lagi suka main musik karena ngerasa aku sangat dibebaskan berkarya dalam musik.
+
+  ---
+  - Subscribe for more exclusive, original, and official content of music from Jasmine Nadya For more info, Follow me on:
+  - All DSP's: https://jasminenadya.lnk.to/Butterflies
+  - Instagram: https://www.instagram.com/jasminendya/
+  - TikTok: https://www.tiktok.com/@sitrusapel
+  - Contact: https://jasminenadya.lnk.to/ContactPerson
+
+  - 订阅以获取更多Jasmine Nadya的独家、原创和官方音乐内容。 欲了解更多信息，请关注我：
+  - 所有DSP：https://jasminenadya.lnk.to/Butterflies
+  - Instagram：https://www.instagram.com/jasminendya/
+  - TikTok：https://www.tiktok.com/@sitrusapel
+  - 联系方式： https://jasminenadya.lnk.to/ContactPerson
+
+  ---
+  - [dont look back in anger - oasis (cover) | 别回头看怒——Oasis（封面）](https://www.youtube.com/watch?v=QmjrLljcYSw)
+
+---
 * **[Echofy Max | Youtube](https://www.youtube.com/@EchofyMax)**
   - This is the official channel of Echofy Max .
   - 这是Echofy Max的官方频道。

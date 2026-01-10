@@ -1298,9 +1298,32 @@
   - [Elon Musk: A Different Conversation w/ Nikhil Kamath | Full Episode | People by WTF Ep.  埃隆·马斯克：与尼基尔·卡马斯的不同对话 | 完整剧集 |WTF Ep. 的《People by People》](https://www.youtube.com/watch?v=Rni7Fz7208c)
 
 ---
-### 010. 英语学习日记
+### 010. 英语学习日记 | Search Youtuber
+* **[LEIA英语 | 北师大硕士，多年教育经验 | 每日分享日常英语对话 | 五百章 | Douyin](https://v.douyin.com/J-8oISXP2eI/)**
+  - [博主分享了做美甲的经历和即将参加的野餐活动的期待. | **Youtuber: Birta Hlin**](https://v.douyin.com/IIpbomrgTVo/)
+  - [博主分享了自己生活中即将迎来宝宝的喜讯，以及随之而来的生活调整和未来规划。| **Youtuber: TheCottageFairy**](https://v.douyin.com/5rHbyt-RZLI/)
+
+---
+* **[Lucky英语宝藏屋 | 国际化学校 | 学英语是一生课题 | 英语只是工具，更重要是带你看世界 | 学习是转运的开始，欢迎跟我一起变幸运 | 三百章 | Douyin]( https://v.douyin.com/AC4snIs2G90/)**
+  - [坚持每天跟着外国博主学英语，口语听力突飞猛进 英语是钥匙，但世界才是你要开的门， 学习是转运的开始！欢迎和我一起变幸运！| Youtuber: Elena Taber](https://v.douyin.com/g4wpYhTXXOI/)
+
+---
+* **[2255（日更版）| YouTube Vlog推荐 | 二百章 | Douyin](https://v.douyin.com/F2-yC0zVmzE/)**
+  - [全英Vlog | **Birta Hlin** | what l eat in a week | simple & balanced recipes](https://v.douyin.com/XtI76K5zjRg/)
+  - [全英Vlog | **Birta Hlin** | days in sydney | dog sitting, moving apartments & new friends](https://v.douyin.com/P_gq_wnliic/)
+  - [全英Vlog｜**clarisseintheclouds**｜5AM 日常英语 每天学习英语一点点](https://v.douyin.com/5vk_n5jG_V8/)
+
+---
+* **[NeverStop英语栈 | 外刊跟读系列周更 | 英语博主vlog系列一周多更 | 百章 | Douyin](https://v.douyin.com/neCHbXtGwUo/)**
+  - [《Don't Look Back In Anger》 丨my love mine all mine by mitskidont look back in anger - oasis (cover)丨 **Youtuber: Jasmine Nadya** | 吉他弹唱 | 英语 | oasis | 音乐](https://v.douyin.com/L7RKhq7wCDI/)
+  - [机场英语课 丨**Youtuber: Ariannita la Gringa**](https://v.douyin.com/WIbb5JAgsCc/)
+  - [How to Order Fast Food in English丨**Youtuber: Ariannita la Gringa**](https://v.douyin.com/KO726RslzIA/)
+  - [a thousand years -christina perri (cover)丨**Youtuber: chika clarissa**](https://v.douyin.com/cKS4ZpqLtP8/)
+  - [你为何失去了对学习的热爱，以及如何重新找回这份热爱 丨why you lost your love for learning & how to get it back丨**Youtuber: Olga loiek**](https://v.douyin.com/MEslJ5tjAkI/)
+
+---
 * **[大脚柚子英语学习日记 | 百章 | Douyin](https://v.douyin.com/QMSHneHcLIo/)**
-  - [Sydney Serena | 每日英语](https://v.douyin.com/7G6vvrFaWPI/)
+  - [**Youtuber: Sydney Serena** | 每日英语](https://v.douyin.com/7G6vvrFaWPI/)
 
 ---
 * **[小维每日英语 | 百章 | Douyin](https://v.douyin.com/P2ZIoD1t_CA/)**
@@ -1315,10 +1338,57 @@
   - [我们感觉一段关系，让我们不再快乐的时候，就是一段关系结束的时候 | Lana Blakely:生活方式、人生体验、哲学思考、自我成长和社交话题讨论](https://v.douyin.com/yKQ1V1AlV2E/)
 
 ---
-* **[2255（日更版）| YouTube Vlog推荐 | 二百章 | Douyin](https://v.douyin.com/F2-yC0zVmzE/)**
-  - [全英Vlog | **Birta Hlin** | what l eat in a week | simple & balanced recipes](https://v.douyin.com/XtI76K5zjRg/)
-  - [全英Vlog | **Birta Hlin** | days in sydney | dog sitting, moving apartments & new friends](https://v.douyin.com/P_gq_wnliic/)
-  - [全英Vlog｜**clarisseintheclouds**｜5AM 日常英语 每天学习英语一点点](https://v.douyin.com/5vk_n5jG_V8/)
+* **[Olga Loiek | Youtube](https://www.youtube.com/@olgaloiek/videos)**
+  - 🇺🇦 Cognitive Science & Computation student at UPenn 📧Business email: loiekolga@gmail.com 💖 Join our community in supporting the channel:  https://www.paypal.com/paypalme/olgaloiek
+  - 🇺🇦 宾夕法尼亚大学认知科学与计算专业学生 商业邮箱：loiekolga@gmail.com 加入我们的社区，支持频道：https://www.paypal.com/paypalme/olgaloiek📧 💖
+
+  ---
+  * **[why you lost your love for learning & how to get it back | 你为什么失去对学习的热爱以及如何找回它](https://www.youtube.com/watch?v=0rk9O8NUrCg)**
+
+---
+* **[Jasmine Nadya  | Youtube ](https://www.youtube.com/@JasmineNadya/videos)**
+  - The Official YouTube Channel of Jasmine Nadya.
+  - Jasmine Nadya的官方YouTube频道。
+
+  ---
+  - Hi guys!
+  - 大家好！
+
+  ---
+  - I'm Jasmine Nadya, aku suka sekali dengan dunia entertainment yaitu musik dan film.
+  - 我是贾思敏·纳迪娅，我会在娱乐中获得音乐和电影。
+
+  ---
+  - Nggak bisa pilih salah satu, aku pribadi ngerasa kalau main film udah jadi pekerjaan yang ngasih aku banyak pengalaman unik dan aku jadi belajar buat ngenal diri aku lebih jauh.
+  - 我们要有更多人，我们要有主片，但主片是我们，我会看到一个故事，但他们能看到一个故事，但他们能在一个地方看到他们。
+
+  ---
+  - Tapi untuk saat ini, aku lagi suka main musik karena ngerasa aku sangat dibebaskan berkarya dalam musik.
+  - Tapi untuk saat ini， aku lagi suka main musik karena ngerasa aku sangat dibebaskan berkarya dalam musik.
+
+  ---
+  - Subscribe for more exclusive, original, and official content of music from Jasmine Nadya For more info, Follow me on:
+  - All DSP's: https://jasminenadya.lnk.to/Butterflies
+  - Instagram: https://www.instagram.com/jasminendya/
+  - TikTok: https://www.tiktok.com/@sitrusapel
+  - Contact: https://jasminenadya.lnk.to/ContactPerson
+
+  - 订阅以获取更多Jasmine Nadya的独家、原创和官方音乐内容。 欲了解更多信息，请关注我：
+  - 所有DSP：https://jasminenadya.lnk.to/Butterflies
+  - Instagram：https://www.instagram.com/jasminendya/
+  - TikTok：https://www.tiktok.com/@sitrusapel
+  - 联系方式： https://jasminenadya.lnk.to/ContactPerson
+
+  ---
+  - [dont look back in anger - oasis (cover) | 别回头看怒——Oasis（封面）](https://www.youtube.com/watch?v=QmjrLljcYSw)
+
+---
+* **[Elena Taber | Youtube](https://www.youtube.com/@ElenaTaber/videos)**
+  - travel, outdoor adventures, city living, fashion, wellness, and my other 20 something misadventures in nyc, paris, and beyond 💌
+  - 旅行、户外探险、城市生活、时尚、健康，以及我在纽约、巴黎和其他地方💌的其他二十多岁冒险
+
+  ---
+  * [I travelled across the world to find WILD gorillas | this is Uganda 🇺🇬 | 我走遍了世界各地，去寻找野生大猩猩 | 这里是乌干达 🇺🇬](https://www.youtube.com/watch?v=7YjhswLfsAQ)
 
 ---
 * **[clarisseintheclouds | 生活方式 | 自我关怀 内容创作者 | Youtube](https://www.youtube.com/@clarisseintheclouds/videos)**
