@@ -1305,13 +1305,13 @@
 
 ---
 * **[Lucky英语宝藏屋 | 国际化学校 | 学英语是一生课题 | 英语只是工具，更重要是带你看世界 | 学习是转运的开始，欢迎跟我一起变幸运 | 三百章 | Douyin]( https://v.douyin.com/AC4snIs2G90/)**
-  - [坚持每天跟着外国博主学英语，口语听力突飞猛进 英语是钥匙，但世界才是你要开的门， 学习是转运的开始！欢迎和我一起变幸运！| Youtuber: Elena Taber](https://v.douyin.com/g4wpYhTXXOI/)
+  - [坚持每天跟着外国博主学英语，口语听力突飞猛进 英语是钥匙，但世界才是你要开的门， 学习是转运的开始！欢迎和我一起变幸运！| **Youtuber: Elena Taber**](https://v.douyin.com/g4wpYhTXXOI/)
 
 ---
 * **[2255（日更版）| YouTube Vlog推荐 | 二百章 | Douyin](https://v.douyin.com/F2-yC0zVmzE/)**
-  - [全英Vlog | **Birta Hlin** | what l eat in a week | simple & balanced recipes](https://v.douyin.com/XtI76K5zjRg/)
-  - [全英Vlog | **Birta Hlin** | days in sydney | dog sitting, moving apartments & new friends](https://v.douyin.com/P_gq_wnliic/)
-  - [全英Vlog｜**clarisseintheclouds**｜5AM 日常英语 每天学习英语一点点](https://v.douyin.com/5vk_n5jG_V8/)
+  - [**Birta Hlin** | what l eat in a week | simple & balanced recipes](https://v.douyin.com/XtI76K5zjRg/)
+  - [**Birta Hlin** | days in sydney | dog sitting, moving apartments & new friends](https://v.douyin.com/P_gq_wnliic/)
+  - [**clarisseintheclouds**｜5AM 日常英语 每天学习英语一点点](https://v.douyin.com/5vk_n5jG_V8/)
 
 ---
 * **[NeverStop英语栈 | 外刊跟读系列周更 | 英语博主vlog系列一周多更 | 百章 | Douyin](https://v.douyin.com/neCHbXtGwUo/)**
@@ -1330,12 +1330,12 @@
 
 ---
 * **[英语学习播客 | 百章 | Douyin](https://v.douyin.com/suAtihn1uE0/)**
-  - [podcast - Taylor Hill - How Many Taylors Does It Take - part14](https://v.douyin.com/ikbggWsPcos/)
+  - [**Youtuber: Taylor Hill** - How Many Taylors Does It Take - part14](https://v.douyin.com/ikbggWsPcos/)
 
 ---
 * **[哆啦N梦爱英语 | 百章 | Douyin](https://v.douyin.com/imI-y_Hedjg/)**
-  - [分享一个我认为迄今为止在油管看到的最漂亮博主没有之一 | Nil Sani:个人生活、时尚、美妆和生活方式](https://v.douyin.com/t4auaF8-RF4/)
-  - [我们感觉一段关系，让我们不再快乐的时候，就是一段关系结束的时候 | Lana Blakely:生活方式、人生体验、哲学思考、自我成长和社交话题讨论](https://v.douyin.com/yKQ1V1AlV2E/)
+  - [分享一个我认为迄今为止在油管看到的最漂亮博主没有之一 | **Youtuber: Nil Sani**: 个人生活、时尚、美妆和生活方式](https://v.douyin.com/t4auaF8-RF4/)
+  - [我们感觉一段关系，让我们不再快乐的时候，就是一段关系结束的时候 | **Youtuber: Lana Blakely**: 生活方式、人生体验、哲学思考、自我成长和社交话题讨论](https://v.douyin.com/yKQ1V1AlV2E/)
 
 ---
 * **[Olga Loiek | Youtube](https://www.youtube.com/@olgaloiek/videos)**
@@ -1343,7 +1343,7 @@
   - 🇺🇦 宾夕法尼亚大学认知科学与计算专业学生 商业邮箱：loiekolga@gmail.com 加入我们的社区，支持频道：https://www.paypal.com/paypalme/olgaloiek📧 💖
 
   ---
-  * **[why you lost your love for learning & how to get it back | 你为什么失去对学习的热爱以及如何找回它](https://www.youtube.com/watch?v=0rk9O8NUrCg)**
+  - **[why you lost your love for learning & how to get it back | 你为什么失去对学习的热爱以及如何找回它](https://www.youtube.com/watch?v=0rk9O8NUrCg)**
 
 ---
 * **[Jasmine Nadya  | Youtube ](https://www.youtube.com/@JasmineNadya/videos)**
@@ -1380,7 +1380,7 @@
   - 联系方式： https://jasminenadya.lnk.to/ContactPerson
 
   ---
-  - [dont look back in anger - oasis (cover) | 别回头看怒——Oasis（封面）](https://www.youtube.com/watch?v=QmjrLljcYSw)
+  - **[dont look back in anger - oasis (cover) | 别回头看怒——Oasis（封面）](https://www.youtube.com/watch?v=QmjrLljcYSw)**
 
 ---
 * **[Elena Taber | Youtube](https://www.youtube.com/@ElenaTaber/videos)**
@@ -1388,7 +1388,7 @@
   - 旅行、户外探险、城市生活、时尚、健康，以及我在纽约、巴黎和其他地方💌的其他二十多岁冒险
 
   ---
-  * [I travelled across the world to find WILD gorillas | this is Uganda 🇺🇬 | 我走遍了世界各地，去寻找野生大猩猩 | 这里是乌干达 🇺🇬](https://www.youtube.com/watch?v=7YjhswLfsAQ)
+  - **[I travelled across the world to find WILD gorillas | this is Uganda 🇺🇬 | 我走遍了世界各地，去寻找野生大猩猩 | 这里是乌干达 🇺🇬](https://www.youtube.com/watch?v=7YjhswLfsAQ)**
 
 ---
 * **[clarisseintheclouds | 生活方式 | 自我关怀 内容创作者 | Youtube](https://www.youtube.com/@clarisseintheclouds/videos)**
@@ -1397,7 +1397,7 @@
   - Content Creator — 多平台内容分享者（YouTube 为主）
 
   ---
-  - [reading holiday books to get me out of a reading slump | vlogmas day 9 | 阅读节日书籍帮我摆脱阅读低谷 | Vlogmas第9 天](https://www.youtube.com/watch?v=M9GXs0Q_05k)
+  - **[reading holiday books to get me out of a reading slump | vlogmas day 9 | 阅读节日书籍帮我摆脱阅读低谷 | Vlogmas第9 天](https://www.youtube.com/watch?v=M9GXs0Q_05k)**
 
 ---
 * **[Lana Blakely | 生活方式、人生体验、哲学思考、自我成长和社交话题讨论 | Youtube](https://www.youtube.com/@LanaBlakely/videos)**
@@ -1405,7 +1405,7 @@
   - 书籍、独自旅行、复古发现和随意思考 邮件 hello@lanablakely.com
 
   ---
-  - [it's NOT about romanticizing your life... it’s much simpler than that | 这不是美化你的生活...... 事情远比这 简单](https://www.youtube.com/watch?v=K_d6B58lCHM)
+  - **[it's NOT about romanticizing your life... it’s much simpler than that | 这不是美化你的生活...... 事情远比这 简单](https://www.youtube.com/watch?v=K_d6B58lCHM)**
 
 ---
 * **[Ellison Scar | 自由职业、品牌内容创作和社媒营销 | Youtube](https://www.youtube.com/@ElliScar/videos)**
@@ -1413,10 +1413,10 @@
   - 活得更好，活得更久
 
   ---
-  - [I Ate a Scientifically 'Perfect' Diet for 365 Days — Here’s What Happened | 我连续365天都遵循科学上"完美"的饮食——事情是这样的](https://www.youtube.com/watch?v=D-vspBISbXQ)
-  - [How I Eat for Longevity on a Budget (Biohacker Style, Whole Food Edition) | 我如何在预算内长寿饮食（生物黑客风格，全食物版）](https://www.youtube.com/watch?v=SpPDF7ZZj3U)
-  - [2026 Habits That Will Change Your Health & Longevity | 2026年改变健康与长寿的习惯](https://www.youtube.com/watch?v=ym-BNxngFck)
-  - [10 Longevity Habits That Actually Work (Backed by Science) - 10个真正有效的长寿习惯（有科学依据）](https://www.youtube.com/watch?v=MIU8dvLZqIM)
+  - **[I Ate a Scientifically 'Perfect' Diet for 365 Days — Here’s What Happened | 我连续365天都遵循科学上"完美"的饮食——事情是这样的](https://www.youtube.com/watch?v=D-vspBISbXQ)**
+  - **[How I Eat for Longevity on a Budget (Biohacker Style, Whole Food Edition) | 我如何在预算内长寿饮食（生物黑客风格，全食物版）](https://www.youtube.com/watch?v=SpPDF7ZZj3U)**
+  - **[2026 Habits That Will Change Your Health & Longevity | 2026年改变健康与长寿的习惯](https://www.youtube.com/watch?v=ym-BNxngFck)**
+  - **[10 Longevity Habits That Actually Work (Backed by Science) - 10个真正有效的长寿习惯（有科学依据）](https://www.youtube.com/watch?v=MIU8dvLZqIM)**
 
 ---
 * **[Sydney Serena | 20岁博主 | 博主 & 生活方式 / 美妆 时尚内容创作者 | Youtube](https://www.youtube.com/@SydneySerena)**
@@ -1434,36 +1434,36 @@
     * Pinterest——@sydneyserenaa
 
   ---
-  - [becoming the best version of me in 2026 // my new year reset | 成为2026年最好的自己 // 我的新年重置](https://www.youtube.com/watch?v=um5AviupsaI)
-  - [a cozy day back home // VLOG | 回家的温馨一天 // VLOG](https://www.youtube.com/watch?v=8e4aHI9Puro)
-  - [christmas in new york 🌟 纽约🌟的圣诞节 VLOG视频日志](https://www.youtube.com/watch?v=9Pt-SmtmS4w)
-  - [i haven't felt like myself lately...|  0：02 / 13：31 最近我感觉不像自己......](https://www.youtube.com/watch?v=TCa-Apn6y6g)
+  - **[becoming the best version of me in 2026 // my new year reset | 成为2026年最好的自己 // 我的新年重置](https://www.youtube.com/watch?v=um5AviupsaI)**
+  - **[a cozy day back home // VLOG | 回家的温馨一天 // VLOG](https://www.youtube.com/watch?v=8e4aHI9Puro)**
+  - **[christmas in new york 🌟 纽约🌟的圣诞节 VLOG视频日志](https://www.youtube.com/watch?v=9Pt-SmtmS4w)**
+  - **[i haven't felt like myself lately...|  0：02 / 13：31 最近我感觉不像自己......](https://www.youtube.com/watch?v=TCa-Apn6y6g)**
 
 ---
 * **[TheCottageFairy | 乡村 | 书籍分享 | Youtube](https://www.youtube.com/@TheCottageFairy)**
-  - [A blessing and heartfelt message for the new year | 这是一份祝福和真挚的新年信息](https://www.youtube.com/watch?v=vAwRS1wx46Q)
-  - [I have no ambition in life - but I feel fine | 我没有人生上的野心——但我感觉很好](https://www.youtube.com/watch?v=eAdhk8GkKhU)
-  - [I Bought a Bookstore](https://www.youtube.com/watch?v=-IO3rAurptA)
+  - **[A blessing and heartfelt message for the new year | 这是一份祝福和真挚的新年信息](https://www.youtube.com/watch?v=vAwRS1wx46Q)**
+  - **[I have no ambition in life - but I feel fine | 我没有人生上的野心——但我感觉很好](https://www.youtube.com/watch?v=eAdhk8GkKhU)**
+  - **[I Bought a Bookstore](https://www.youtube.com/watch?v=-IO3rAurptA)**
 
 ---
 * **[Birta Hlin | 时尚穿搭  | Youtube](https://www.youtube.com/@birtahlin/videos)**
-  - [weekend in oslo | food spots, thrifting & exploring the city | 奥斯陆周末 | 美食店、二手店和城市探索](https://www.youtube.com/watch?v=re7W5w81Rq8)
-  - [first december days | 十二月初日](https://www.youtube.com/watch?v=veY2jXSxpoo)
-  - [winter routine to feel my best | 冬季例行公事，让我感觉最佳](https://www.youtube.com/watch?v=_75CQJAKgBo)
-  - [day in my life in copenhagen | 我在哥本哈根 的一天](https://www.youtube.com/watch?v=yPIpyfUtkEI)
-  - [my favorite things this autumn | 我今年秋天 最喜欢的事情](https://www.youtube.com/watch?v=3nraETuINRQ)
-  - [autumn days in copenhagen | 哥本哈根 的秋日](https://www.youtube.com/watch?v=FrL8XN4SLLI)
-  - [copenhagen diaries | autumn breakfast, outfits & cozy days | 哥本哈根日记 |秋季早餐、服装与舒适日](https://www.youtube.com/watch?v=1QJ02Az_Dws)
-  - [september days in copenhagen | 哥本哈根 的九月日](https://www.youtube.com/watch?v=KE1q8Lh5cSY)
-  - [day in my life in copenhagen | new books, my workout & delicious dinner recipe | 我在哥本哈根的一天 |新书、我的锻炼和美味晚餐食谱](https://www.youtube.com/watch?v=9qR0vkgd9Rg)
+  - **[weekend in oslo | food spots, thrifting & exploring the city | 奥斯陆周末 | 美食店、二手店和城市探索](https://www.youtube.com/watch?v=re7W5w81Rq8)**
+  - **[first december days | 十二月初日](https://www.youtube.com/watch?v=veY2jXSxpoo)**
+  - **[winter routine to feel my best | 冬季例行公事，让我感觉最佳](https://www.youtube.com/watch?v=_75CQJAKgBo)**
+  - **[day in my life in copenhagen | 我在哥本哈根 的一天](https://www.youtube.com/watch?v=yPIpyfUtkEI)**
+  - **[my favorite things this autumn | 我今年秋天 最喜欢的事情](https://www.youtube.com/watch?v=3nraETuINRQ)**
+  - **[autumn days in copenhagen | 哥本哈根 的秋日](https://www.youtube.com/watch?v=FrL8XN4SLLI)**
+  - **[copenhagen diaries | autumn breakfast, outfits & cozy days | 哥本哈根日记 |秋季早餐、服装与舒适日](https://www.youtube.com/watch?v=1QJ02Az_Dws)**
+  - **[september days in copenhagen | 哥本哈根 的九月日](https://www.youtube.com/watch?v=KE1q8Lh5cSY)**
+  - **[day in my life in copenhagen | new books, my workout & delicious dinner recipe | 我在哥本哈根的一天 |新书、我的锻炼和美味晚餐食谱](https://www.youtube.com/watch?v=9qR0vkgd9Rg)**
 
 ---
 * **[Nil Sani | 个人生活、时尚、美妆和生活方式  | Youtube](https://www.youtube.com/@NilSani/videos)**
-  - [a week in miami: r&r, pilates, pottery, brand trip with alo | 迈阿密一周：休息、普拉提、陶艺、和Alo 的品牌之旅](https://www.youtube.com/watch?v=2M0WJkM-Rkk)
+  - **[a week in miami: r&r, pilates, pottery, brand trip with alo | 迈阿密一周：休息、普拉提、陶艺、和Alo 的品牌之旅](https://www.youtube.com/watch?v=2M0WJkM-Rkk)**
 
 ---
 * **[Phoebe Taylor | enjoys dressing & nesting | 喜欢穿衣和筑巢 | Youtube](https://www.youtube.com/@__phoebe.taylor/videos)**
-  - [new year's (fashion & home decor) resolutions | 新年（时尚与家居装饰）决心](https://www.youtube.com/watch?v=RR6MshB1Ads)
+  - **[new year's (fashion & home decor) resolutions | 新年（时尚与家居装饰）决心](https://www.youtube.com/watch?v=RR6MshB1Ads)**
 
 ---
 * **[Joel and Emilia | 8年环游世界旅行 | Youtube](https://www.youtube.com/@Joel_Emilia/videos)**
@@ -1479,14 +1479,14 @@
   - 加入我们，一起踏上这美丽的世界之旅！:)
 
   ---
-  - [The TRUTH of how we afford to TRAVEL full-time... | 我们如何负担得起全职旅行的真相......](https://www.youtube.com/watch?v=P5Ww4H6VyDA)
-  - [The REALITY of Europe’s Winter fairytale | 欧洲冬季童话 的现实](https://www.youtube.com/watch?v=DWvZgeFgvXo)
-  - [Sleeper Train to the ARCTIC CIRCLE - Is it worth it? | 通往北极圈的卧铺列车——值得吗？](https://www.youtube.com/watch?v=oVzjA53yi4s)
-  - [I REGRET bringing my girlfriend here - 48 hours on an isolated Pacific Island | 我很后悔带女朋友来这里——在一个偏远的太平洋岛 屿上待了48小时](https://www.youtube.com/watch?v=kpYqJNgh_0o)
-  - [The harsh REALITY of travelling the Pacific islands | 穿越太平洋群岛 的残酷现实](https://www.youtube.com/watch?v=2hTo9469jOw)
-  - [EVERYONE dreams of this… the Ultimate paradise | 每个人都梦想着这个......终极乐园](https://www.youtube.com/watch?v=DnCXGHv98zA)
-  - [The SIDE of SEOUL no one shows YOU 🇰🇷 | 首尔的一面，没人向你🇰🇷 展示](https://www.youtube.com/watch?v=TOJODcwyHpE)
-  - [The Middle East’s Best-Kept Secret | 中东最隐秘的秘密](https://www.youtube.com/watch?v=BzxI1pFzSxM)
+  - **[The TRUTH of how we afford to TRAVEL full-time... | 我们如何负担得起全职旅行的真相......](https://www.youtube.com/watch?v=P5Ww4H6VyDA)**
+  - **[The REALITY of Europe’s Winter fairytale | 欧洲冬季童话 的现实](https://www.youtube.com/watch?v=DWvZgeFgvXo)**
+  - **[Sleeper Train to the ARCTIC CIRCLE - Is it worth it? | 通往北极圈的卧铺列车——值得吗？](https://www.youtube.com/watch?v=oVzjA53yi4s)**
+  - **[I REGRET bringing my girlfriend here - 48 hours on an isolated Pacific Island | 我很后悔带女朋友来这里——在一个偏远的太平洋岛 屿上待了48小时](https://www.youtube.com/watch?v=kpYqJNgh_0o)**
+  - **[The harsh REALITY of travelling the Pacific islands | 穿越太平洋群岛 的残酷现实](https://www.youtube.com/watch?v=2hTo9469jOw)**
+  - **[EVERYONE dreams of this… the Ultimate paradise | 每个人都梦想着这个......终极乐园](https://www.youtube.com/watch?v=DnCXGHv98zA)**
+  - **[The SIDE of SEOUL no one shows YOU 🇰🇷 | 首尔的一面，没人向你🇰🇷 展示](https://www.youtube.com/watch?v=TOJODcwyHpE)**
+  - **[The Middle East’s Best-Kept Secret | 中东最隐秘的秘密](https://www.youtube.com/watch?v=BzxI1pFzSxM)**
 
 ---
 * **[Sanne Vloet | 国际模特身份起家，同时在社交媒体分享生活方式内容（生活、健身、旅行） | Youtube](https://www.youtube.com/@SanneVloet/videos)**
@@ -1531,18 +1531,17 @@
   - 电子邮件：management@sannevloet.co
 
   ---
-  - [My January Reset | How to Rebuild Your Body & Mind | A Morning in Miami | 我的一月重置 |如何重建你的身心 | 迈阿密 的早晨](https://www.youtube.com/watch?v=gxl0L_rhwPg)
-  - [Week in My Life | Modeling Shoot, Dallas & NYC | 我的生活一周 |模特拍摄，达拉斯和纽约](https://www.youtube.com/watch?v=dE-bsVShMZ0)
-  - [34 Min Toning Model Upper Body Pilates | 34分钟塑形模型上半身普拉提](https://www.youtube.com/watch?v=foMAHr7tebg)
-  - [Matcha Talks | Face Yoga Secrets for a Lifted & Sculpted Look | w/ Anastasia | 抹茶谈话 |面部瑜伽秘诀：提升与雕塑造型 | 与阿纳斯塔西娅 合作](https://www.youtube.com/watch?v=JRTih7Nr1zs)
+  - **[My January Reset | How to Rebuild Your Body & Mind | A Morning in Miami | 我的一月重置 |如何重建你的身心 | 迈阿密 的早晨](https://www.youtube.com/watch?v=gxl0L_rhwPg)**
+  - **[Week in My Life | Modeling Shoot, Dallas & NYC | 我的生活一周 |模特拍摄，达拉斯和纽约](https://www.youtube.com/watch?v=dE-bsVShMZ0)**
+  - **[34 Min Toning Model Upper Body Pilates | 34分钟塑形模型上半身普拉提](https://www.youtube.com/watch?v=foMAHr7tebg)**
+  - **[Matcha Talks | Face Yoga Secrets for a Lifted & Sculpted Look | w/ Anastasia | 抹茶谈话 |面部瑜伽秘诀：提升与雕塑造型 | 与阿纳斯塔西娅 合作](https://www.youtube.com/watch?v=JRTih7Nr1zs)**
 
 ---
 * **[Janice | Youtube](https://www.youtube.com/@janicenicholee/videos)**
   - [Vlogmas 5/5 | Llegó Santa!🎅🎄 | Vlogmas 5/5 |圣诞莱戈！ 🎅🎄](https://www.youtube.com/watch?v=IkkMEUZtRYM)
   - [Vlogmas 4/5 🎄✨ | 视频视频 4/5 🎄✨](https://www.youtube.com/watch?v=M7zZaIAkxPY)
   - [Vlogmas 3/5🎄✨| Comprándole regalos a mis perritos🐶](https://www.youtube.com/watch?v=CfXNJ3oyMXU)
-  - [Vlogmas 2/5🎄✨| Días cozy antes de Navidad
-](https://www.youtube.com/watch?v=INQi_gMAG70)
+  - [Vlogmas 2/5🎄✨| Días cozy antes de Navidad](https://www.youtube.com/watch?v=INQi_gMAG70)
   - [Vlogmas 1/5 🎄✨| Christmas mood ON](https://www.youtube.com/watch?v=N4RbPWQ8kW8)
 
 ---
@@ -1575,8 +1574,8 @@
   - 除了分享应对策略和故事外，我们希望最重要的是，这个播客能带来一种安慰，让你知道自己并不孤单。
 
   ---
-  - [Tay & Tay Lautner: Taylor’s Version | 泰与泰·洛特纳：泰勒版本](https://www.youtube.com/watch?v=62sEbPpX7bM)
-  - [Chad Franke: Freed | 查德·弗兰克：获释](https://www.youtube.com/watch?v=KUOlYFjbYvk)
+  - **[Tay & Tay Lautner: Taylor’s Version | 泰与泰·洛特纳：泰勒版本](https://www.youtube.com/watch?v=62sEbPpX7bM)**
+  - **[Chad Franke: Freed | 查德·弗兰克：获释](https://www.youtube.com/watch?v=KUOlYFjbYvk)**
 
 ---
 * **[Jay Shetty Podcast | Youtube](https://www.youtube.com/@JayShettyPodcast./videos)**
@@ -1644,7 +1643,7 @@
   - 官方网站：www.dji.com
 
   ---
-  - [SkyPixel 11th Annual Photo & Video Contest Starts Today | SkyPixel 第十一届年度摄影与视频比赛今天 开始](https://www.youtube.com/watch?v=XGsr7fsN5jIs)
+  - **[SkyPixel 11th Annual Photo & Video Contest Starts Today | SkyPixel 第十一届年度摄影与视频比赛今天 开始](https://www.youtube.com/watch?v=XGsr7fsN5jIs)**
 
 ---
 * **[Dustin Dunnill | Youtube](https://www.youtube.com/@DustinDunnill/videos)**
@@ -1673,7 +1672,7 @@
   - 如果你有问题，请使用会员专属社区。
 
   ---
-  - [火奴鲁鲁，夏威夷 - 4K 散步 | 畅享威基基海滩的日落漫步 | 美国 🇺🇸 2024年12月 [4K HDR]](https://www.youtube.com/watch?v=91RzZmn6jeI)
+  - **[火奴鲁鲁，夏威夷 - 4K 散步 | 畅享威基基海滩的日落漫步 | 美国 🇺🇸 2024年12月 [4K HDR]](https://www.youtube.com/watch?v=91RzZmn6jeI)**
 
 ---
 * **[The Hawaii Vacation Guide | Youtube](https://www.youtube.com/@TheHawaiiVacationGuide/videoss)**
@@ -1714,9 +1713,9 @@
   - 网站: https://thehawaiivacationguide.com/
   - Instagram: https://www.instagram.com/thehawaiivacationguide/
 
-  - [First Time in Oahu? Watch This BEFORE You Go! (12 Essential Tips) | 第一次来欧胡岛？出发前一定要看这个！](https://www.youtube.com/watch?v=rxdmQh8r0ug)
-  - [We Visited Every Hawaiian Island – Here’s Which One You Should Choose | 我们访问了夏威夷的每一个岛屿——以下是你应该选择 的哪个岛屿](https://www.youtube.com/watch?v=vgZVwOIEKKs)
-  - [Which Hawaiian Island Should You Visit | Start Here for Your Hawaii Vacation Planning | 你应该去哪个夏威夷岛屿 |从这里开始你的夏威夷度假规划](https://www.youtube.com/watch?v=2mIYF41vnhw)
+  - ****[First Time in Oahu? Watch This BEFORE You Go! (12 Essential Tips) | 第一次来欧胡岛？出发前一定要看这个！](https://www.youtube.com/watch?v=rxdmQh8r0ug)****
+  - ****[We Visited Every Hawaiian Island – Here’s Which One You Should Choose | 我们访问了夏威夷的每一个岛屿——以下是你应该选择 的哪个岛屿](https://www.youtube.com/watch?v=vgZVwOIEKKs)****
+  - ****[Which Hawaiian Island Should You Visit | Start Here for Your Hawaii Vacation Planning | 你应该去哪个夏威夷岛屿 |从这里开始你的夏威夷度假规划](https://www.youtube.com/watch?v=2mIYF41vnhw)****
 
 ---
 * **[Iceland with a View | Youtube](https://www.youtube.com/@IcelandwithaView)**
@@ -1752,11 +1751,10 @@
   - 获取你的免费冰岛打包指南→ https://bit.ly/icelandpackinglist 让我们一起策划最棒的旅行！
 
   ---
-  - [STOP Driving Like a Tourist! 5 Must-Know Road Rules in Iceland | 别像游客一样开车！冰岛 必知的5条交通规则](https://www.youtube.com/watch?v=sF7Y6FDMLdk)
-  - [How to Plan the Perfect Iceland Trip Without the Stress | 如何在无压力 的情况下规划完美的冰岛之旅](https://www.youtube.com/watch?v=yEbSCeNEN8A)
-  - [Why the Ring Road is the Best Way to See Iceland | 为什么环城公路是游览冰岛 的最佳方式](https://www.youtube.com/watch?v=hgxETQBANb8s)
-  - [Iceland Highlands: Top 5 Places to Visit | 冰岛高地：必访 五大景点](https://www.youtube.com/watch?v=y7S-aruFYis)
-
+  - **[STOP Driving Like a Tourist! 5 Must-Know Road Rules in Iceland | 别像游客一样开车！冰岛 必知的5条交通规则](https://www.youtube.com/watch?v=sF7Y6FDMLdk)**
+  - **[How to Plan the Perfect Iceland Trip Without the Stress | 如何在无压力 的情况下规划完美的冰岛之旅](https://www.youtube.com/watch?v=yEbSCeNEN8A)**
+  - **[Why the Ring Road is the Best Way to See Iceland | 为什么环城公路是游览冰岛 的最佳方式](https://www.youtube.com/watch?v=hgxETQBANb8s)**
+  - **[Iceland Highlands: Top 5 Places to Visit | 冰岛高地：必访 五大景点](https://www.youtube.com/watch?v=y7S-aruFYis)**
 ---
 * **[Emma Marie | Youtube](https://www.youtube.com/@EmmaMariesWorld/videos)**
   - Hi!
@@ -1797,7 +1795,7 @@
     * http://bit.ly/1Pp29MP
 
   ---
-  - [a GIRL WEEKEND in my life vlog: coffee, Anna Maria day trip, markets + sunsets | 我生命中的女孩周末视频日志：咖啡、安娜玛丽亚一日游、市场+日落](https://www.youtube.com/watch?v=p6ODDTaM990)
+  - **[a GIRL WEEKEND in my life vlog: coffee, Anna Maria day trip, markets + sunsets | 我生命中的女孩周末视频日志：咖啡、安娜玛丽亚一日游、市场+日落](https://www.youtube.com/watch?v=p6ODDTaM990)**
 
 ---
 * **[Tokyo Cheapos | Youtube](https://www.youtube.com/@tokyocheapo)**
@@ -1821,7 +1819,7 @@
   - 如需商业咨询，请访问我们的企业网站：https://fasttrainltd.com/;如果您是有才华的创作者，请访问我们的招聘页面：https://fasttrainltd.com/careers/
 
   ---
-  - [Discover Kawagoe: Day Trip to ‘Old Tokyo’ | 探索川越：“老东京”一日游](https://www.youtube.com/watch?v=uuWL-mXLF7k)
+  - **[Discover Kawagoe: Day Trip to ‘Old Tokyo’ | 探索川越：“老东京”一日游](https://www.youtube.com/watch?v=uuWL-mXLF7k)**
 
 ---
 ### 012. Universe
@@ -1851,7 +1849,7 @@
   - 加入我们，踏上这段激动人心且重要的旅程。
 
   ---
-  - [Step Inside the International Space Station (POV Tour) | 走进国际空间站（视角导览）](https://www.youtube.com/watch?v=nmBbcNTUkOg)
+  - **[Step Inside the International Space Station (POV Tour) | 走进国际空间站（视角导览）](https://www.youtube.com/watch?v=nmBbcNTUkOg)**
 
 ---
 ### 013. Books | Youtube
@@ -1864,7 +1862,7 @@
   - 关注Bestbookbits的Instagram、Facebook和LinkedIn。
 
   ---
-  - [Secrets of the Wealthy Seminar | Robert Kiyosaki | 富裕研讨会的秘密 |罗伯特·清崎]()
+  - **[Secrets of the Wealthy Seminar | Robert Kiyosaki | 富裕研讨会的秘密 |罗伯特·清崎](https://www.youtube.com/watch?v=s0IV9EGtpx8)**
 
 ---
 * **[Motivation Alchemists | Youtube](https://www.youtube.com/@Motivation-Alchemists/videos)**
@@ -1896,7 +1894,7 @@
   - 阿尔苏斯9
 
   ---
-  - [Jim Rohn Life Lesson: The 7 Fundamentals Of Success | Jim Rohn Motivational Video 2024 | 吉姆·罗恩人生课题：成功的七大基本原理 |吉姆·罗恩2024年励志视频](https://www.youtube.com/watch?v=YXN72-14dJQ)
+  - **[Jim Rohn Life Lesson: The 7 Fundamentals Of Success | Jim Rohn Motivational Video 2024 | 吉姆·罗恩人生课题：成功的七大基本原理 |吉姆·罗恩2024年励志视频](https://www.youtube.com/watch?v=YXN72-14dJQ)**
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
