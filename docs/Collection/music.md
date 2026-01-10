@@ -582,36 +582,167 @@
   - [青春若有BGM，我的部分必须用大鼓开场](https://v.douyin.com/JTLo_qmrhDU/)
 
 ### 019. 雨声催眠
-* **[rain sounds for sleeping](https://www.youtube.com/watch?v=-ERFwSSqg1Y)**
-
----
-* **[HealingCompass](https://www.youtube.com/@HealingCompass)**
-  - [令人入睡的雨声是由大雨发出的。 帮助您放松、减轻压力。](https://www.youtube.com/watch?v=nzn3X9iEdTs)
-
----
-* **[Soothing Relaxation](https://www.youtube.com/@SoothingRelaxation)**
-  - [令人放松的音乐和雨声 - 动听的钢琴乐、背景音乐、催眠音乐](https://www.youtube.com/watch?v=o8GrqUSdzi0)
-
----
-* **[Rainy_Bedroom](https://www.youtube.com/@Rainy_Bedroom)**
-  - [【4M】Best Rain in the Forest at Night 🌲 | Sleep Deeply with Heavy Rain Sounds](https://www.youtube.com/watch?v=4yjfQ90CFk0)
-
----
-* **[Relaxing Ambience ASMR](https://www.youtube.com/@RelaxingAmbienceASMR)**
+* **[合集]**
+  - [asmr，rain sounds for sleeping，2022](https://www.youtube.com/watch?v=-ERFwSSqg1Y)
+  - [Top 5 Most Beautiful Tracks by Peder B. Helland in 2025](https://www.youtube.com/watch?v=tHsmufMcCqY)
   - [Rain Sound On Window with Thunder SoundsㅣHeavy Rain for Sleep, Study and Relaxation, Meditation](https://www.youtube.com/watch?v=mPZkdNFkNps)
 
 ---
-* **[Nature SFX](https://www.youtube.com/@NatureSFX)**
+* **[Relaxing Ambience ASMR | Youtube](https://www.youtube.com/@RelaxingAmbienceASMR)**
+  - Relaxing Ambience is a team of creative videographers around the world.
+  - Relaxing Ambience 是一支遍布全球的创意摄像团队。
+
+  ---
+  - We do not add commentary throughout our calming nature videos as it can detract from the relaxation experience.
+  - 我们在平静自然视频中不添加评论，因为这可能会影响放松体验。
+
+  ---
+  - We create all our own content.
+  - 我们自己创作所有内容。
+
+  ---
+  - All audio/video is produced by us.
+  - 所有音频/视频均由我们制作。
+
+  ---
+  - Video footage is either filmed by ourselves or we have collaborated with other nature videographers, but we always own exclusive rights.
+  - 视频素材要么由我们自己拍摄，要么与其他自然摄像师合作拍摄，但我们始终拥有独家权利。
+
+  ---
+  - We edit & master audio in Adobe Audition, and edit final videos in After Effects and Premier Pro
+  - Video Equipment:
+  iPhone 15 PRO, GoPro Hero7 Black, Sony A6000, Sony A6500, FujiFilm X-T3
+  - Audio Recording Equipment:
+  - Zoom h2n, BOYA BY-PVM1000
+
+  - 我们在Adobe Audition中编辑和母带音频，在After Effects和Premier Pro
+  - 视频设备中编辑最终视频： iPhone 15 PRO、GoPro Hero7 Black、Sony A6000、Sony A6500、FujiFilm X-T3
+  - 音频录制设备：
+  - Zoom H2n，BOYA BY-PVM1000
+
+  ---
+  - [Rain Sound On Window with Thunder SoundsㅣHeavy Rain for Sleep, Study and Relaxation, Meditation | 窗外雨声伴雷声——大雨助眠、学习、放松、冥想](https://www.youtube.com/watch?v=mPZkdNFkNps)
+
+---
+* **[贵州唐生Mr | 本频道专注收录雨声、溪流、鸟鸣等等... 一切大自然的白噪音 | 愿用纯净的自然之声，抚平你每一寸焦躁与不安  | 4K | 五百章 | Douyin](https://v.douyin.com/7qEUyn4Gygw/)**
+  - [户外白噪音的设备和拍摄制作过程，助眠类大自然声音幕后拍摄花絮 | 白噪音 | 大自然声音 | 雨声 | 流水声 | 拍摄花絮](https://v.douyin.com/-Bzu5Zk3u9k/)
+  - [下雨天拍摄花絮，日常拍摄VLOG，幕后雨声录制 拍摄录音：Canon R10 Gopor11 DJI mini3pro zoomH5 拍摄时间：2025.06.21 拍摄地点：贵州省黔东南州天柱县邦洞镇 视频编辑：DaVinci Resolve 大家好，本频道专门为大家收集各类自然声音，以帮助大家助眠，解压，学习和冥想等场所用，本频道所有的视频和声音，都是本人在贵州实地取景录制， 如果您喜欢这类视频，欢迎点赞订阅分享 | 下雨天 | 雨声助眠 | 日常vlog | 拍摄花絮 | 放松解压](https://v.douyin.com/Hngt5oxI0Cc/)
+
+* **[貴州唐生 Mr. Tang of Guizhou | China | Youtube](https://www.youtube.com/@Guizhou-countryside/videos)**
+  - [深山溪流声，潺潺流水声，治愈系水声，在炎炎夏日感受一丝清凉](https://www.youtube.com/watch?v=GsmmbM_B0GA)
+
+---
+* **[自然音樂 | China | Youtube](https://www.youtube.com/@whitenoiseforsleeping/videos)**
+  - [rain sounds for sleeping](https://www.youtube.com/watch?v=-ERFwSSqg1Y)
+
+* **[自然音樂 | 实拍实录原创频道！创造一个平静的放松的环境氛围，放松你的大脑，让您助眠，治愈，舒缓，减压，工作，冥想或学习。| Bilibli](https://space.bilibili.com/431457159)**
+
+---
+* **[Healing Compass | Youtube](https://www.youtube.com/@HealingCompass)**
+  - [令人入睡的雨声是由大雨发出的。 帮助您放松、减轻压力。](https://www.youtube.com/watch?v=nzn3X9iEdTs)
+
+---
+* **[Soothing Relaxation | Youtube](https://www.youtube.com/@SoothingRelaxation)**
+  - [令人放松的音乐和雨声 - 动听的钢琴乐、背景音乐、催眠音乐](https://www.youtube.com/watch?v=o8GrqUSdzi0)
+  - [Top 5 Most Beautiful Tracks by Peder B. Helland in 2025](https://www.youtube.com/watch?v=tHsmufMcCqY)
+
+---
+* **[Rainy_Bedroom | 下雨的卧室 | Youtube](https://www.youtube.com/@Rainy_Bedroom)**
+  - [【4M】Best Rain in the Forest at Night 🌲 | Sleep Deeply with Heavy Rain Sounds](https://www.youtube.com/watch?v=4yjfQ90CFk0)
+
+---
+* **[Nature SFX | Youtube](https://www.youtube.com/@NatureSFX)**
+  - Welcome to NatureSFX 🌿
+  - 欢迎来到NatureSFX 🌿
+
+  ---
+  - On this channel, you’ll find a wide variety of relaxing sounds and ambiences to help you sleep, study, meditate, or simply unwind.
+  - 在这个频道上，你会发现各种放松的声音和氛围，帮助你入睡、学习、冥想或放松身心。
+
+  ---
+  - From natural and atmospheric sounds to soothing audio experiences, every video is designed to create a calm and peaceful environment.
+  - 从自然氛围的声音到舒缓的音频体验，每一段视频都旨在营造平静祥和的环境。
+
+  ---
+  - All videos are carefully recorded and edited by me.
+  - 所有视频均由我精心录制和剪辑。
+
+  ---
+  - If I can’t capture a particular video myself, I may source it from the internet, but I always adapt and customize it to maintain the soothing, immersive experience.
+  - 如果我自己无法拍摄某个视频，我可能会从网上获取，但我总是会调整和定制，以保持那种舒缓、沉浸式的体验。
+
+  ---
+  - No AI-generated content is used.
+  - 不使用AI生成内容。
+
+  ---
+  - 🌿 Friendly Reminder:
+  - These sounds are created to support relaxation, focus, and better sleep.
+  - 🌿 友好提醒：
+  - 这些声音旨在帮助放松、专注和改善睡眠。
+
+  ---
+  - They are not a replacement for professional medical advice or treatment.
+  - 它们不能替代专业的医疗建议或治疗。
+
+  ---
+  - If you have ongoing sleep problems, anxiety, or other health concerns, please consult a qualified healthcare professional.
+  - 如果您有持续的睡眠问题、焦虑或其他健康问题，请咨询合格的医疗专业人员。
+
+  ---
+  - ubscribe to NatureSFX and enjoy a world of peace, focus, and relaxation.
+  - 订阅NatureSFX，享受一个宁静、专注与放松的世界。
+
   - [雨声和雷暴声，自然声和雨声，可以放松、冥想、学习和入睡](https://www.youtube.com/watch?v=R0NME9W3cR4)
 
 ---
 * **[Stardust Vibes - Relaxing Sounds](https://www.youtube.com/@StardustVibes)**
+  - Our channel helps provide relief from stress & anxiety.
+  - 我们的频道帮助缓解压力和焦虑。
+
+  ---
+  - We have a large variety of relaxing videos to choose from ranging from nature sounds, relaxing music, and guided meditations.
+  - 我们有丰富的放松视频可供选择，包括自然声音、放松音乐和引导冥想。
+
+  ---
+  - Sean has an Adv Dip in Music, a Bachelor's Degree in Psychology, & a Masters in Social Work.
+  - 肖恩拥有音乐高级文凭、心理学学士学位和社会工作硕士学位。
+
+  ---
+  - He is also a certified Yoga Instructor & Reiki Practitioner.
+  - 他还是一名认证的瑜伽教练和灵气练习者。
+
+  ---
+  - Elita is a Certified Hypnotherapist, Life Coach, Mindfulness Practitioner, Law of Attraction Counsellor, Yoga Instructor, Sound Healer, & a Masters Degree student in Transpersonal Psychology & Consciousness Studies.
+  - Elita是一名认证催眠治疗师、生活教练、正念实践者、吸引力法则咨询师、瑜伽教练、声音疗愈师，同时也是超个人心理学与意识研究硕士学位学生。
+
+  ---
+  - The music/audio is produced by us.
+  - 音乐和音频由我们制作。
+
+  ---
+  - Images/video are either filmed by us or we've collaborated with another creator, which is always transformed into something new & unique.
+  - 图片/视频要么由我们拍摄，要么与其他创作者合作，这些作品总会被转化为全新且独特的作品。
+
+  ---
+  - For more information about how we create our videos please check out our behind the scenes playlist below.
+  - 想了解更多关于我们如何制作视频的信息，请查看下面的幕后播放列表。
+
+  ---
+  - 🎥 Our videos are currently filmed with a GoPro, DJI, Lumix & iPhone 15 Pro Max.
+  - 🎥 我们的视频目前使用GoPro、DJI、Lumix和iPhone 15 Pro Max拍摄。
+
+  ---
+  - We edit, mix, & master the audio in Protools & create the video in Premiere Pro.
+  - 我们在Protools中编辑、混音和母带处理音频，在Premiere Pro中制作视频。
+
   - [重雷声！放松的雨，雷电和闪电的睡眠环境|自然视频](https://www.youtube.com/watch?v=gVKEM4K8J8A)
 
 ---
-* **[下雨的傢伙](https://www.youtube.com/@RainyGuy)**
+* **[下雨的傢伙 | Youtube](https://www.youtube.com/@RainyGuy)**
   - [在舒适的冬季小屋中深度睡眠| 令人放松的壁炉噼啪声、暴风雪声、风声和降雪声](https://www.youtube.com/watch?v=Rm-4JUivLcE)
 
+---
 ### 020. 合唱
 * **[李拜天来唱歌](https://v.douyin.com/WRiV7QNqVvk/)**
   - [童声版的《晴天》来啦！👧👦清澈的嗓音像雨后的彩虹，治愈所有不开心 | 周杰伦 晴天 童声合唱 童声](https://v.douyin.com/vYCBl4c7Qu8/)

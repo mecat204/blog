@@ -568,6 +568,41 @@
     - [张雅倩 失眠熊 暖似阳 哪个是傻子 共赴拈花湾十周年庆典](https://v.douyin.com/-nEfIxPpphc/)
 
   ---
+  * **[星班长和洛同学 | 千章 | Douyin](https://v.douyin.com/WRtft6eVLnA/)**
+    - [说着说着又打起来了！那这个貂不得可长女先穿嘛！哈哈哈一听这话！妹妹就生气！双胞胎 | 长幼有序 | 抽象](https://v.douyin.com/a619Pb9tH_8/)
+    - [今天下雪啦！本来和和美美的 但是双胞胎真是说不好因为什么打起来！双胞胎| 打架 | 下雪啦](https://v.douyin.com/sebpU_dvIRw/)
+
+  ---
+  * **[嘉鹅 | 橱窗可以自助下单哦 | 五百章 | Douyin](https://v.douyin.com/KVYyrvI0fUQ/)**
+    - [你们喝完爱说啥故事 说给我听听😂 | 酒后故事 | 鹅嘉 | 嘉鹅的朋友圈](https://v.douyin.com/5-3iv4rCASY/)
+
+  ---
+  * **[钵钵江 | 承蒙厚爱，感谢关注˵¯̴͒ꇴ¯̴͒˵ 每天笑一笑，烦恼少又少 | 千章 | Douyin](https://v.douyin.com/yIn7I4bwUMc/)**
+    - [填补了我国无法在短时间内把正常人变成脑血栓的空白～哈哈哈哈哈](https://v.douyin.com/ZNe9vKuO1_U/)
+    - [让你压声，没让你叛国～哈哈哈哈哈](https://v.douyin.com/Dj9j0xWWTLw/)
+    - [我感受了一股杀气～哈哈哈哈](https://v.douyin.com/P3fitQxPFHY/)
+    - [好久没听过这么干净的骂人话语了～](https://v.douyin.com/SlNQt6JYVZk/)
+
+  ---
+  * **[暴躁虾剪 | 一个要把西游记剪成臊子的男人 | 五百章 | Douyin](https://v.douyin.com/xma4-2Rjo5s/)**
+    - [2026来了 祝君：岁岁常欢愉、年年皆胜意 | 新年快乐 | 2026跨年 | 青年创作者成长计划 | 青年创作年终讲](https://v.douyin.com/7z9Il6Puznw/)
+    - [托塔天王的意思 朕自己也姓孙？青年创作者成长计划 | 青年创作年终讲 | 不一样的西游记](https://v.douyin.com/qTPyNX6RnnQ/)
+    - [世界不应该是这样的 做人不应该是这样的](https://v.douyin.com/_iPApB2Pdm8/)
+    - [他们加上我们 能不能站着把真经取了？青年创作者成长计划 | 不一样的西游记](https://v.douyin.com/PdkMNZ669CY/)
+    - [三藏：我不能让有些人借着改道为僧，乱了车迟国，乱了凡人的天下 |青年创作者成长计划 |不一样的西游记 |大明王朝1566](https://v.douyin.com/NmGgzNNA-CI/)
+    - [用《西游记》复刻《雍正王朝》卸甲！！！](ttps://v.douyin.com/jZ6KL8hjRCg/)
+
+  ---
+  * **[乃炎英语 | Douyin | 五百章 | Douyin](https://v.douyin.com/pPqC74m3eTU/)**
+    - **[日常口语](https://v.douyin.com/D8Wk9TkC14Y/)**
+
+  ---
+  * **[古宇家办 | 国内首家一站式财富管理和家族综合服务家族办公室 | 五百章 | Douyin ](https://v.douyin.com/Bq2kUH60nkY/)**
+    - [AI救不了人形机器人泡沫？产能又过剩了？](https://v.douyin.com/41oJYK4IKq4/)
+    - [突袭委内瑞拉！特朗普的公私账与全球影响](https://v.douyin.com/IXBmyx5Osbk/)
+    - [数字人民币 2.0: 预付不亏，跨境无阻](https://v.douyin.com/G4rGfq7Pn7c/)
+
+  ---
   * **[慕慕 | 百章 | Douyin](https://v.douyin.com/UFwTbh-2QK0/)**
     - [穿越到女频我手握80万军权，皇上何故谋反呢哈哈哈](https://v.douyin.com/YpQnwkoIsRU/)
     - [意想不到的结局哈哈哈](https://v.douyin.com/n1Sk1Wp461I/)
@@ -581,59 +616,63 @@
     - [应聘骑手 感觉怪怪的](https://v.douyin.com/yXd2zo3M4Rc/)
 
   ---
-  * **[嘉鹅 | 橱窗可以自助下单哦 | 五百章 | Douyin](https://v.douyin.com/KVYyrvI0fUQ/)**
-    - [你们喝完爱说啥故事 说给我听听😂 | 酒后故事 | 鹅嘉 | 嘉鹅的朋友圈](https://v.douyin.com/5-3iv4rCASY/)
-
-  ---
-  * **[暴躁虾剪 | 一个要把西游记剪成臊子的男人 五百章 | Douyin](https://v.douyin.com/xma4-2Rjo5s/)**
-    - [2026来了 祝君：岁岁常欢愉、年年皆胜意 | 新年快乐 | 2026跨年 | 青年创作者成长计划 | 青年创作年终讲](https://v.douyin.com/7z9Il6Puznw/)
-    - [托塔天王的意思 朕自己也姓孙？青年创作者成长计划 | 青年创作年终讲 | 不一样的西游记](https://v.douyin.com/qTPyNX6RnnQ/)
-    - [世界不应该是这样的 做人不应该是这样的](https://v.douyin.com/_iPApB2Pdm8/)
-    - [他们加上我们 能不能站着把真经取了？青年创作者成长计划 | 不一样的西游记](https://v.douyin.com/PdkMNZ669CY/)
-    - [三藏：我不能让有些人借着改道为僧，乱了车迟国，乱了凡人的天下 |青年创作者成长计划 |不一样的西游记 |大明王朝1566](https://v.douyin.com/NmGgzNNA-CI/)
-    - [用《西游记》复刻《雍正王朝》卸甲！！！](ttps://v.douyin.com/jZ6KL8hjRCg/)
-
-  ---
-  * **[星班长和洛同学 | 千章 | Douyin](https://v.douyin.com/WRtft6eVLnA/)**
-    - [说着说着又打起来了！那这个貂不得可长女先穿嘛！哈哈哈一听这话！妹妹就生气！双胞胎 | 长幼有序 | 抽象](https://v.douyin.com/a619Pb9tH_8/)
-    - [今天下雪啦！本来和和美美的 但是双胞胎真是说不好因为什么打起来！双胞胎| 打架 | 下雪啦](https://v.douyin.com/sebpU_dvIRw/)
-
-  ---
-  * **[乃炎英语 | Douyin | 五百章 | Douyin](https://v.douyin.com/pPqC74m3eTU/)**
-    - **[日常口语](https://v.douyin.com/D8Wk9TkC14Y/)**
-
-  ---
-  * **[古宇家办 | 国内首家一站式财富管理和家族综合服务家族办公室 | 五百章 | Douyin ](https://v.douyin.com/Bq2kUH60nkY/)**
-    - [AI救不了人形机器人泡沫？产能又过剩了？](https://v.douyin.com/41oJYK4IKq4/)
-    - [突袭委内瑞拉！特朗普的公私账与全球影响](https://v.douyin.com/IXBmyx5Osbk/)
-    - [数字人民币 2.0: 预付不亏，跨境无阻](https://v.douyin.com/G4rGfq7Pn7c/)
-
-  ---
   * **[思辩论 | 只记录，只分享，无建议，无答案。| 五十章 | Douyin](https://v.douyin.com/o2AV2Mhf22I/)**
     - [慢慢变好 | 慢慢变好才是给自己最好的礼物](https://v.douyin.com/QY-GEP_e14w/)
     - [独处是一个人最好的修行](https://v.douyin.com/gVXQXrLrR54/)
     - [生活哲学 | 年轻人 | 上热门话题](https://v.douyin.com/zPdO5npzGK8/)
     - [生活哲学 | 攀比](https://v.douyin.com/JAOEgn7jiIs/)
 
+---
+* **2026**
+  * **[蒹葭的碎碎念 | 日常 | 文学 | 五十章 | Douyin](https://v.douyin.com/FArXTFpNTWc/)**
+    - [《庄子》，有一句话彻底刷新了我对"孤独"的认知： "天地与我并生万物与我为一。 从前总觉孤独是"少了什么"，少人陪，少人懂，少一个能说话的人。可庄子说，孤独不是一种"空"，而是一种"容器"。空，才有容量；感到孤独，恰意味着你拥有更多自由。 他说："大鹏之动，非轻举也。"大鹏飞往九万里之外，不是因为它离群，而是它要去一个别人无法同行的远方。 这一路，必然穿越无人应答的天空。这段孤独不是缺失，而是生命在默默拓展自己的疆域。 成长的孤独，常常是这样开始的：你开始看见事物更深的层次，听懂沉默背后的声音，体会到无法轻易言说的感受。 别人说你想太多，你却知道，那不是想太多，是你终于能清晰地听见自己。 庄子认为，心若总依赖外界的回应，就像风中乱舞的叶子。 唯有当内心生长出自己的重量，人才能站稳。](https://v.douyin.com/9TDjK-Yl62U/)
+    - ["正财"的本质并非辛苦劳作，而是心念的纯粹变现，其核心路径在于发大愿、深度投入以达忘我之境，并在事上反复磨练以破除我执与恐惧，最终让财富如流水般自然汇聚于你。| 努力只能及格拼命才能优秀](https://v.douyin.com/mFSP46kBnaA/)
+    - [帅-跳舞](https://v.douyin.com/Gc_PwPsjde4/)
+    - [大自然，永远是我的来处与归途](https://v.douyin.com/3U1lNDN14ig/)
+    - [创业，不论什么时候，创始人永远冲在第一线，你千万别想着干事业可以风光，可以让别人去干，管理是用好人的同时，让他们看到作为老大，是怎么带着他们往前走的！ 我想，这不仅仅是对于团队的力量，更是我对若嘉潜移默化的教育，她之所以懂事，就是因为她从小就知道妈妈是怎么辛苦干事的！ 乐观，积极，自律，能吃苦，有韧劲，做事有担当，这是我不脸红的对自己评价，我做不了美美的博主，我是一个做滋补农产品品牌的创始人！ "人生是一条路，每个人走的路很长，有的人在路上会颠簸四起，但她心里有开荒修路的坚强决心！人生的路很长，但要紧的路只有几步！"所以我要在我还年轻还能奔波下绝不躺平，而是坚强的去做一个开路者！ 其实，新会一行对我心里有很大的触动，这种触动是发自内心又一觉醒的力量！ 真好，值得！](https://v.douyin.com/g6er-ekH5xE/)
 
 ---
 ### 015. 乡野·治愈系风景
-* **[Plant | 行至朝雾里，坠入暮云间 | 千章 | Douyin](https://v.douyin.com/UpzNpH0zQSs/)**
-  - [暴风雨来临的前奏](https://v.douyin.com/lTscDQMfrhQ/)
+* **[Planet· | 行至朝雾里，坠入暮云间 | 千章 | Douyin](https://v.douyin.com/UpzNpH0zQSs/)**
+  - [也许，有些人天生就喜欢这种感觉... 暴风雨来临的前奏](https://v.douyin.com/LtRRIJBwJ7s/)
+  - [只有梦里飞过的人，才会明白这种感觉 | 梦里会飞](https://v.douyin.com/XGevZzKZ8Vw/)
+  - [起风了，也许你也一直喜欢着这种感觉... | 暴风雨来临的前奏](https://v.douyin.com/lvauRABtRJk/)
+  - [在路上 | 回忆](https://v.douyin.com/gV0rbn5esuY/)
+  - [每一次乌云压境，都像一次无声的归途，仿佛回到记忆里某个模糊却深刻的角落. **对马岛之魂**](https://v.douyin.com/aXjhgy88W3w/)
 
 ---
 * **[Mx南慕 | 旅游，摄影，音乐，热于热爱，精于经典。| 千章 | Douyin](https://v.douyin.com/AZBr05xSvZM/)**
   - [大海](https://v.douyin.com/0Q86J2aTg8Q/)
-* [阳光](https://v.douyin.com/b7rKmOhgl9A/)
-* [绘梦](https://v.douyin.com/ImjTwLpQbNE/)
+  - [无论这个世界对你怎样，都请你一如既往的努力、勇敢、充满希望。](https://v.douyin.com/fgUZgfGXhfE/)
+  - [去见山，去看海，去会众生，去寻自己](https://v.douyin.com/OArCulUa7EE/)
+  - [累的时候，就停下来歇歇吧，风是自由的，希望妳也是. 草原 | 治愈系风景](https://v.douyin.com/hiffAaHVvg4/)
+  - [愿这份纯净和蔚蓝，能疗愈你此刻所有的疲惫和烦恼.| 蓝色治愈系 | 玻璃海](https://v.douyin.com/li6sJTRASJU/)
+  - [这一刻的寂静，胜过千言万语. | 治愈系风景  | 峡湾地貌](https://v.douyin.com/WM6E2LOXP0A/)
+
+---
+* **[乡村邮递员 | 我来自农村, 用抖音记录农村真实生活, 田间地头走一走, 那里的田园风光和淳朴民风是我最珍视的财富。 | 五百章 | Douyin](https://v.douyin.com/tqB0m_rDGFE/)**
+  - [什么样的人才会喜欢这样的氛围呢？| 乡愁记忆](https://v.douyin.com/PF0_X6srztc/)
+
+---
+* **[非著名学姐 | 大阪在住 | 日本留学生 | 三百章 | Douyin](https://v.douyin.com/b7rKmOhgl9A/)**
+  - [日本语言学校上学的半天 | 日本生活 | 留学生 | 日本 | 海外 | 大阪](https://v.douyin.com/qai2cwmAHQw/)
+  - [没想到在日本的家可以上好多次热搜 | 好有日漫感的房间 | 日本生活 | 日漫 | 动漫 | 日本](https://v.douyin.com/CkM-OYNXVAg/)
+  - [住大阪市中心华人区幸福感拉满 | 日本 | 日本生活](https://v.douyin.com/AWVlrQ2lTtE/)
+  - [我在日本的生活日记 | vlog日常 | 海外生活 | 日本| vintage | 大阪](https://v.douyin.com/_GHWodM9K5Q/)
 
 ---
 * **[如梦江南 | 二百章 | Douyin](https://v.douyin.com/8PDFGfx4hR0/)**
   - [烟雨江南](https://v.douyin.com/vko0496buMA/)
 
 ---
-* **[乡村邮递员 | 我来自农村, 用抖音记录农村真实生活, 田间地头走一走, 那里的田园风光和淳朴民风是我最珍视的财富。 | 五百章 | Douyin](https://v.douyin.com/tqB0m_rDGFE/)**
-  - [什么样的人才会喜欢这样的氛围呢？| 乡愁记忆](https://v.douyin.com/PF0_X6srztc/)
+* **[Also | 绘梦 | 百章 | Douyin](https://v.douyin.com/ImjTwLpQbNE/)**
+  - [云山之间，仿佛有人在悄悄绘梦 | midjourney | ai视频 | 审美积累 | mj | 治愈系风景](https://v.douyin.com/F7LCYbgH5Po/)
+    * **剑与魔法的世界**
+    * **铃芽之旅**
+    * **你的名字**
+    * **天气之子**
+  - [云山之间，仿佛有人在悄悄绘梦  | midjourney | ai视频 | 审美积累 | mj | 治愈系风景](https://v.douyin.com/dtOVCaucTzk/)
+  - [当引力成为原罪，漂浮者与沉沦者共同书写忏悔录 | midjourney | 科幻 | 在天眼开开眼 | 和宇宙聊聊天](https://v.douyin.com/Rj0db3o5Mzs/)
 
 ---
 ### 016. 励志
