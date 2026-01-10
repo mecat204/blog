@@ -696,7 +696,7 @@
   - [雨声和雷暴声，自然声和雨声，可以放松、冥想、学习和入睡](https://www.youtube.com/watch?v=R0NME9W3cR4)
 
 ---
-* **[Stardust Vibes - Relaxing Sounds](https://www.youtube.com/@StardustVibes)**
+* **[Stardust Vibes - Relaxing Sounds | Youtube](https://www.youtube.com/@StardustVibes)**
   - Our channel helps provide relief from stress & anxiety.
   - 我们的频道帮助缓解压力和焦虑。
 
@@ -744,63 +744,24 @@
 
 ---
 ### 020. 合唱
-* **[李拜天来唱歌](https://v.douyin.com/WRiV7QNqVvk/)**
+* **[李拜天来唱歌 | 指挥里最会唱歌的，会唱更会教的声乐老师 | 音乐哲学博士 | 四川音乐学院在编 | 三百章  | Douyin](https://v.douyin.com/WRiV7QNqVvk/)**
   - [童声版的《晴天》来啦！👧👦清澈的嗓音像雨后的彩虹，治愈所有不开心 | 周杰伦 晴天 童声合唱 童声](https://v.douyin.com/vYCBl4c7Qu8/)
 
 ---
 ### 021. 抖音配乐 | 古风歌曲
-* **[哈游记 | 读风看景，走心驻足。](https://v.douyin.com/3FMFvNakcX8/)**
+* **[哈游记 | 读风看景，走心驻足。| 千章 | Douyin](https://v.douyin.com/3FMFvNakcX8/)**
   - [牵丝戏 | 古风歌曲](https://v.douyin.com/AeQW8sS8u1I/)
   - 烟波里成灰 也去得完美 风雪依稀 秋白发尾 灯火葳蕤 揉皱你眼眉 《牵丝戏》凭借婉转戏腔和动人词作成为古风圈经典曲目  | 歌曲欣赏  | 牵丝戏  | 古风歌曲  | 音乐视频  | 夕阳美景
   - [追梦人](https://v.douyin.com/u_WOWCJdRG8/)
   - 你发现了没，属于你的这道霞光，总是在跟着你走的……那闪烁的不是唏嘘不已，而是发现的眼睛和珍爱的心。 数一数，镜头中一共走过了多少根柱子，那就是你最好的年纪。无论是现在还是曾经，都是最美的……一弦一柱思华年…… 落日远去人祈望，留住青春的一剎。| 天若有情 | 追梦人 | 风雨思念 | 歌曲分享 随手拍| 霞光秋水
 
 ---
-* **[年少老李 | 我未消失，只是途径了一段漫长的暗房时期。](https://v.douyin.com/x2VkXWs09vc/)**
+* **[年少老李 | 我未消失，只是途径了一段漫长的暗房时期。| 五十章 | Douyin](https://v.douyin.com/x2VkXWs09vc/)**
   - [真正的智慧，不是填满所有答案，而是守护那些"不必懂"的留白。](https://v.douyin.com/a17KtNaLQzA/)
 
 ---
 ### 022. 怀旧经典
-* **[8090怀旧经典头像](https://v.douyin.com/7vNEGqiEH5U/)**
-  - [前奏一响勾起多少人的青春回忆！| 爱似流星 | 音乐 | 音乐分享 | 经典歌曲 | 百听不厌](https://v.douyin.com/8CSzxNB3xKY/)
-  - [世界第一等 | 音乐 | 音乐分享 | 经典歌曲](https://v.douyin.com/KKsyv3ahvbw/)
-
----
-* **[第六天堂](https://v.douyin.com/jM6wBBuBTlk/)**
-  - [弱水三千 | 凡人修仙传 | 宋玉](https://v.douyin.com/khnXwUn64dI/)
-  - [珍惜眼前人| 凡人修仙传| 宋玉 | 热门](https://v.douyin.com/rVRt0KkR7Hs/)
-  - [凡人修仙传 | 温天仁  | 抖音玩法达人中心  | 二次元  | 星语星愿](https://v.douyin.com/72uKzIvxT9s/)
-  - [凡人修仙传 | 慕沛灵](https://v.douyin.com/C9J31unAp5w/)
-
----
-* **[如果你也喜欢抬头看树。](https://v.douyin.com/WyFeiMcadSw/)**
-
----
-* **[就叫洋 | 明出地上。君子以自昭明德。](https://v.douyin.com/mIVmPaWmLy4/)**
-  - [发呆 | 落日余晖映晚霞一抹夕阳美如画](https://v.douyin.com/OvLznbaR-bU/)
-
----
-* **[辰辰💕](https://v.douyin.com/nJMsPfOCEUU/)**
-  - [下次录视频前 先梳头…. 莫问归期 | 古风 | 戏腔歌曲 | 戏腔 | 戏曲](https://v.douyin.com/OKb9mLdrBCA/)
-  - [沧海一声哈哈哈哈哈哈 | 翻唱| 戏腔 | 沧海一声笑 | 戏曲 | 歌曲](https://v.douyin.com/6qRsKnBsOFA/)
-
----
-* **[江晚 | 风月不言说，已动人心魄。 ](https://v.douyin.com/amJuryGD-1o/)**
-  - [把你随手拍的照片配上这个音乐 | inmyfeelings  | 树  | 感觉至上  | 氛围感](https://v.douyin.com/7D8qoQX8ph0/)
-  - [枯木逢春的生命力 寻找同样喜欢拍树的人 | 树  | 枯木逢春  | 如果你也喜欢拍树不妨交换一张  | 抬头看树](https://v.douyin.com/BnwEiVkfM80/)
-  - [把你随手拍的照片配上这个音乐 | 树  | inmyfeeling  | 自然  | 感觉至上](https://v.douyin.com/CkFSvGMQX54/)
-  - [春风沉醉吹不展愁眉 | 翻遍相册也要用这个bgm | 抖音玩法合伙人计划 | 不悔 - 小曲儿,HITA](https://v.douyin.com/QmtyAlB1BlY/)
-
----
-* **[烟晚 | 风景、汉服、绘画的不定期更新](https://v.douyin.com/mUBewNnb4yA/)**
-  - [好久没画了。水彩画 | 水彩秋景| 松坪沟绘画| 川西秋景绘画 画着画着就开始乱搞了，刮刀刮坏了真是不可逆呢，悲伤](https://v.douyin.com/Q4tfueK2DdY/)
-  - [成都雪景氛围。冬日 | 圣诞](https://v.douyin.com/kaUUX6k2htg/)
-  - [相机里的秋天。川西秋景| 秋天落叶🍂 | 风景在路上 | 甲根坝| 新都桥](https://v.douyin.com/_Q_gvOut3SE/)
-  - [松坪沟回忆。松坪沟| 红叶彩林| 川西秋景](https://v.douyin.com/LSqwsxjGt8E/)
-  - [四姑娘山日照金山。| 川西美景 | 日落金山 | 雪山美景 | 幺妹峰](https://v.douyin.com/aS9eTMU0cLM/)
-
----
-* **[天空日记 | 呼伦贝尔 |  在这片天空下 ✨ 春夏秋冬，每一天都值得记录](https://v.douyin.com/1R6WatkdbEk/)**
+* **[天空日记 | 呼伦贝尔 |  在这片天空下 ✨ 春夏秋冬，每一天都值得记录 | 千章 | Douyin](https://v.douyin.com/1R6WatkdbEk/)**
   - [秋天适合思念，更适合见面，所以我们什么时候见一面 | 我在出片前线 | 这里秋天的树张力拉满了 | 治愈系风景](https://v.douyin.com/7KiHhKVGdO4/)
   - [夏天会周而复始 相逢的人会再相逢 | 治愈系风景](https://v.douyin.com/yt0Sp5h5Fl8/)
   - ["我永远爱傍晚轻抚的微风 落日黄昏的晚霞 和此刻的你" | 治愈系风景  | 晚霞](https://v.douyin.com/hULLKXoeCjI/)
@@ -810,14 +771,96 @@
   - [已经开始期待2026年的夏天了 | 治愈系风景 | 夏天 | 我们的可颂时刻](https://v.douyin.com/a_ccL5rXDdQ/)
   - [我们应该在大自然里一起发呆 | 治愈系风景 | 我们的可颂时刻](https://v.douyin.com/P4L-Gdqp1zM/)
 
+---
+* **[8090怀旧经典头像 | 经典老歌 | 千章 | Douyin](https://v.douyin.com/7vNEGqiEH5U/)**
+  - [前奏一响勾起多少人的青春回忆！| 爱似流星 | 音乐 | 音乐分享 | 经典歌曲 | 百听不厌](https://v.douyin.com/8CSzxNB3xKY/)
+  - [世界第一等 | 音乐 | 音乐分享 | 经典歌曲](https://v.douyin.com/KKsyv3ahvbw/)
+
+---
+* **[滾石唱片 ROCK RECORDS | Youtube](https://www.youtube.com/@RockRecordsTaipei/videos)**
+  - [妮妮NINI【冬季戀歌 A Song Of Winter Love】歌詞版MV Lyrics Video](https://www.youtube.com/watch?v=rlqnudVK2CA)
+
+---
+* **[Home Music | Youtube](https://www.youtube.com/@ChineseOldiesChaCha)**
+  - [70、80、90年代 懷舊經典老歌【 经典老歌500首大全 】:单身情歌 , 最真的梦, 黄昏 , 选择 , 一千个伤心的理由 , 忘了你忘了我 , 容易受伤的女人](https://www.youtube.com/watch?v=SoMqEIvp2VU)
+
+---
+* **[第六天堂 | 谢谢你这么好看还关注我 | 所有作品均属AI创作 | 百章 | Douyin](https://v.douyin.com/jM6wBBuBTlk/)**
+  - [弱水三千 | 凡人修仙传 | 宋玉](https://v.douyin.com/khnXwUn64dI/)
+  - [珍惜眼前人| 凡人修仙传| 宋玉 | 热门](https://v.douyin.com/rVRt0KkR7Hs/)
+  - [凡人修仙传 | 温天仁  | 抖音玩法达人中心  | 二次元  | 星语星愿](https://v.douyin.com/72uKzIvxT9s/)
+  - [凡人修仙传 | 慕沛灵](https://v.douyin.com/C9J31unAp5w/)
+
+---
+* **[赵赵航 | 咖啡｜音乐｜摄影｜记录日常 📷理光｜富士｜大疆 | 二百章 | Douyin](https://v.douyin.com/S4hDJkAzOFM/)**
+  - [如果你也喜欢抬头看树。](https://v.douyin.com/WyFeiMcadSw/)
+  - [树会拥抱每一个抬头的人。inmyfeelings | infp | 摄影 | 生活美学 | 审美积累](https://v.douyin.com/t86yd9ASmNA/)
+  - [同频的人也会喜欢这种感觉吧。inmyfeelings | infp | 摄影 | 生活美学 | 审美积累](https://v.douyin.com/Ou88tlqDAac/)
+
+---
+* **[一朵奇葩向阳开 | 观天地不言而四时行焉 察江海不争故百川归之 心若能如明镜台 何处尘埃惹襟怀 | 五十章 | Douyin ](https://v.douyin.com/mIVmPaWmLy4/)**
+  - [发呆 | 落日余晖映晚霞一抹夕阳美如画](https://v.douyin.com/OvLznbaR-bU/)
+  - [你那里下雪了吗？日出 | 海岛生活](https://v.douyin.com/MTr0bBD8wDY/)
+  - [很好 | 日出  | 海岛](https://v.douyin.com/BD2rWlBew6U/)
+  - [感谢那些在我人生中相遇的人 | 日出  | 海岛](https://v.douyin.com/eIlU_iKL_kk/)
+  - [又是充满希望的一天 | 日出 | 生活](https://v.douyin.com/TJBBsMJMPuQ/)
+
+---
+* **[辰辰💕 | 不会踢球的吉他手不是好京剧演员 | 百章 | Douyin](https://v.douyin.com/nJMsPfOCEUU/)**
+  - [下次录视频前 先梳头…. 莫问归期 | 古风 | 戏腔歌曲 | 戏腔 | 戏曲](https://v.douyin.com/OKb9mLdrBCA/)
+  - **[沧海一声哈哈哈哈哈哈 | 翻唱 | 戏腔 | 沧海一声笑 | 戏曲 | 歌曲](https://v.douyin.com/6qRsKnBsOFA/)**
+
+---
+* **[江晚 | 梦想是朝碧海而暮苍梧 | 风月不言说，已动人心魄。| 五百章 | Douyin](https://v.douyin.com/amJuryGD-1o/)**
+  - [把你随手拍的照片配上这个音乐 | inmyfeelings  | 树  | 感觉至上  | 氛围感](https://v.douyin.com/7D8qoQX8ph0/)
+  - [枯木逢春的生命力 寻找同样喜欢拍树的人 | 树  | 枯木逢春  | 如果你也喜欢拍树不妨交换一张  | 抬头看树](https://v.douyin.com/BnwEiVkfM80/)
+  - [把你随手拍的照片配上这个音乐 | 树  | inmyfeeling  | 自然  | 感觉至上](https://v.douyin.com/CkFSvGMQX54/)
+  - [春风沉醉吹不展愁眉 | 翻遍相册也要用这个bgm | 抖音玩法合伙人计划 | 不悔 - 小曲儿,HITA](https://v.douyin.com/QmtyAlB1BlY/)
+
+---
+* **[烟晚 | 风景、汉服、绘画的不定期更新 | 五百章 | Douyin](https://v.douyin.com/mUBewNnb4yA/)**
+  - [好久没画了。水彩画 | 水彩秋景| 松坪沟绘画| 川西秋景绘画 画着画着就开始乱搞了，刮刀刮坏了真是不可逆呢，悲伤](https://v.douyin.com/Q4tfueK2DdY/)
+  - [成都雪景氛围。冬日 | 圣诞](https://v.douyin.com/kaUUX6k2htg/)
+  - [相机里的秋天。川西秋景| 秋天落叶🍂 | 风景在路上 | 甲根坝| 新都桥](https://v.douyin.com/_Q_gvOut3SE/)
+  - [松坪沟回忆。松坪沟| 红叶彩林| 川西秋景](https://v.douyin.com/LSqwsxjGt8E/)
+  - [四姑娘山日照金山。| 川西美景 | 日落金山 | 雪山美景 | 幺妹峰](https://v.douyin.com/aS9eTMU0cLM/)
 
 ---
 ### 023. English song
-* **[Us The Duo | 中阶 | 小孩家庭  | music](https://www.youtube.com/@ustheduo/featured)**
+* **[Us The Duo | 中阶 | 小孩家庭  | music | Youtube](https://www.youtube.com/@ustheduo/featured)**
+  - Our brand new album "Covers from Home" is out now!
+  - 我们的全新专辑《Covers from Home》现已发行！
+
+  ---
+  - Click here to stream it on your favorite platform: https://ampl.ink/GkEqL*
+  - 点击这里在你喜欢的平台上观看： https://ampl.ink/GkEqL*
+
+  ---
+  - For all business Inquiries, please contact our management team: hello@rastonea.com
+  - 如有商业咨询，请联系我们的管理团队：hello@rastonea.com
+
+  ---
+  - For all fan inquiries, please contact us on our social media channels:
+  - @ustheduo (instagram, twitter, & facebook)
+  - @ustheduo (tiktok)
+  - twitch: https://twitch.tv/MichaelAlvaradoMusic
+  - To hear our music, type "Us The Duo" into your favorite streaming platform!
+
+  - 所有粉丝咨询请通过我们的社交媒体渠道联系我们：
+  - @ustheduo（Instagram、Twitter和Facebook）
+  - @ustheduo（tiktok）
+  - twitch：https://twitch.tv/MichaelAlvaradoMusic
+  - 想听我们的音乐，请在你最喜欢的流媒体平台输入"Us The Duo"！
+
+  ---
+  - (iTunes, Spotify, Google Play, Deezer, etc.)Thank you for watching and we hope to hear from you!
+  - (iTunes、Spotify、Google Play、Deezer 等) 感谢您的收看，我们期待您的来信！
+
+  ---
   - [Top Hits of 2023 - Us The Duo](https://www.youtube.com/watch?v=sMChO6ex5lw)
 
 ---
-* **[The Crosbys| 初中阶段衔接 | 有一个很有意思的小孩口播列表 | music](https://www.youtube.com/@TheCrosbys/videos)**
+* **[The Crosbys | 初中阶段衔接 | 有一个很有意思的小孩口播列表 | music | Youtube](https://www.youtube.com/@TheCrosbys/videos)**
   - [Ocean Eyes - Billie Eilish (12-year-old Claire Crosby Live Cover)](https://www.youtube.com/watch?v=4cUuxGNY9D4)
 
 ---
@@ -827,7 +870,14 @@
 
 ---
 ### 025. music
-* **[Taylor Swift](https://www.youtube.com/@TaylorSwift/videos)**
+* **[青柠 | 懂你的人永远懂你，不用太多的言语. 拍摄是为了治愈. 视频可一键剪同款 | 千章 | Douyin](https://v.douyin.com/mrwjlHKe0Ws/)**
+  - [于是我驻足，享受这无法复刻的瞬间... 波光粼粼| 大概只有同频的人才喜欢这种感觉吧](https://v.douyin.com/qNMi03cuURk/)
+  - [世界偷偷爱着你，以你尚未察觉的方式... 波光粼粼 | 大概只有同频的人才喜欢这种感觉吧 | 被大自然治愈的瞬间](https://v.douyin.com/sxPeX23E_38/)
+  - [时光会筛选关系，留下的，都是带着温柔的同路人。| 大概只有同频的人才喜欢这种感觉吧 | 大自然治愈坏心情 | **music: 相思无解-熊天平**](https://v.douyin.com/rvLfLWMuG-s/)
+  - **时光会筛选关系，岁月会见证真心。愿我们和身边温柔的同路人，继续并肩，走过更多的春夏秋冬。**
+
+---
+* **[Taylor Swift | Youtube](https://www.youtube.com/@TaylorSwift/videos)**
   - And, baby, that’s show business for you.
   - 宝贝，这就是演艺圈的全部。
   - New album The Life of a Showgirl.
@@ -841,7 +891,19 @@
   - [Taylor Swift - Mine](https://www.youtube.com/watch?v=oxNLRqMJMZk&list=OLAK5uy_n8xJHj0rL3zyol9oYHsVTBHm-L_eY-3gY)
 
 ---
-* **[Exclusive Sound](https://www.youtube.com/@exclusive-sound)**
+* **[Exclusive Sound | Youtube](https://www.youtube.com/@exclusive-sound)**
+  - Welcome to "Exclusive Music".
+  - 欢迎来到"独家音乐"。
+
+  ---
+  - On this channel, I post songs in the style of Justin Bieber and other artists created using AI.
+  - 在这个频道上，我发布的歌曲风格类似贾斯汀·比伯和其他用AI创作的艺术家。
+
+  ---
+  - If you like what I do, don't forget to subscribe to my channel.
+  - 如果你喜欢我做的，别忘了订阅我的频道
+
+  ---
   - [Avril Lavigne x Alan Walker - Learn To Love Again](https://www.youtube.com/watch?v=cv_eyeJn9tc)
   - [Avril Lavigne x Alan Walker - You Still Live Inside My Heart](https://www.youtube.com/watch?v=YGURpDn6-nc&list=RDYGURpDn6-nc&start_radio=1)
   - [Avril Lavigne x Alan Walker - I'm Scared To Be Lonely](https://www.youtube.com/watch?v=ihFrxhkOUWM&list=RDihFrxhkOUWM&start_radio=1)
@@ -849,15 +911,68 @@
   - [Avril Lavigne - Dry My Tears](https://www.youtube.com/watch?v=g8WU8lUQHB8)
 
 ---
-* **[Deep Fade Music](https://www.youtube.com/@DeepFadeMusic-1)**
+* **[Deep Fade Music | Youtube](https://www.youtube.com/@DeepFadeMusic-1)**
+  - Welcome to Deep Fade Music — Music for calm minds and atmospheric nights.
+  - 欢迎来到Deep Fade Music—— 为平静心灵和氛围夜晚带来音乐。
+
+  ---
+  - Deep House • Chill Mix  Designed for focus, relaxation, and late-night moments in the city.
+  - Deep House • Chill Mix 专为专注、放松和深夜城市时光设计。
+
+  ---
+  - Sink into the vibe.
+  - 沉浸在氛围中。
+
+  ---
+  - Stay smooth.
+  - 保持流畅。
+
+  ---
+  - Deep Fade Music
+  - 📩 contact: deepfademusic77@gmail.com
+  - © Copyright:
+
+  - Deep Fade Music
+  - 📩 联系方式：deepfademusic77@gmail.com
+  - © 版权：
+
+  ---
+  - Deep Fade Music
+  - 深淡音乐
+
+  ---
   - [Deep House Mix 2025 — Smooth Night Groove | Melodic Chill Vocals & Relax Vibes #3](https://www.youtube.com/watch?v=l2Kokqr_fZw)
 
 ---
-* **[Echofy Max](https://www.youtube.com/@EchofyMax)**
+* **[Echofy Max | Youtube](https://www.youtube.com/@EchofyMax)**
+  - This is the official channel of Echofy Max .
+  - 这是Echofy Max的官方频道。
+
+  ---
+  - Welcome to the world of future music ,Edm , House, Progressive house,Future bassNew Releases everyday
+  - my story:
+  - Am 19 years just Quited college due to love of music Hope will enjoy.
+
+  - 欢迎来到未来音乐的世界，EDM、浩室、前卫浩室、未来贝斯， 每天都有新作品发布。
+  - 我的故事：
+  - 我19岁了，刚因为热爱音乐辍学，希望会喜欢。
+
+  ---
+  - I make the music  with my brother so as to release as many as possible music to you
+  - SUBSCRIBE and SHARE.
+
+  - 我和我哥哥一起制作音乐，目的是尽可能多地发布给你.
+  - 订阅并分享。
+
+  ---
+  - if you love music
+  - 如果你热爱音乐
+
+  ---
   - [I Lose Myself Tonight - (Echofy Max Music Video)](https://www.youtube.com/watch?v=qpFSXFbrN9w&list=RDYGURpDn6-nc&index=2)
 
 ---
-* **[愛的低語](https://www.youtube.com/@%E6%84%9B%E7%9A%84%E4%BD%8E%E8%AA%9E)**
+* **[愛的低語 | Youtube](https://www.youtube.com/@%E6%84%9B%E7%9A%84%E4%BD%8E%E8%AA%9E)**
   - [R&B抒情歌單｜英文經典對唱歌單｜2小時深夜放鬆音樂｜療癒英文歌｜R&B Classic Love Songs Playlist](https://www.youtube.com/watch?v=pT9McoRtyjc&list=RDpT9McoRtyjc&start_radio=1)
   - With You Always
   - Never Let Go
@@ -912,13 +1027,6 @@
 * **[Secret Garden - Official | Youtube](https://www.youtube.com/@SecretGardenOfficial/videos)**
   - [Secret Garden - Chaconne (Remastered 2025/ Visualizer) | 秘密花园 - 恰空舞曲（2025年重制版/可视化版）](https://www.youtube.com/watch?v=TlzCdLR-Trw)
   - [Secret Garden - Nocturne (Remastered 2025/Visualizer) | 秘密花园 - 夜曲（2025年重制/可视化版）](https://www.youtube.com/watch?v=yxuM2Leigyw)
-
----
-* **[青柠 | 懂你的人永远懂你，不用太多的言语. 拍摄是为了治愈. 视频可一键剪同款 | 千章 | Douyin](https://v.douyin.com/mrwjlHKe0Ws/)**
-  - [于是我驻足，享受这无法复刻的瞬间... 波光粼粼| 大概只有同频的人才喜欢这种感觉吧](https://v.douyin.com/qNMi03cuURk/)
-  - [世界偷偷爱着你，以你尚未察觉的方式... 波光粼粼 | 大概只有同频的人才喜欢这种感觉吧 | 被大自然治愈的瞬间](https://v.douyin.com/sxPeX23E_38/)
-  - [时光会筛选关系，留下的，都是带着温柔的同路人。| 大概只有同频的人才喜欢这种感觉吧 | 大自然治愈坏心情 | **music: 相思无解-熊天平**](https://v.douyin.com/rvLfLWMuG-s/)
-  - **时光会筛选关系，岁月会见证真心。愿我们和身边温柔的同路人，继续并肩，走过更多的春夏秋冬。**
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)

@@ -696,7 +696,7 @@
 
 ---
 ### 017. 美食
-* **[陕西大婷婷 | 80后大婷婷，爱吃也会做的渭南人 🍉各种家常美食跟大家分享](https://v.douyin.com/d9ZurjObcLo/)**
+* **[陕西大婷婷 | 80后大婷婷，爱吃也会做的渭南人 🍉各种家常美食跟大家分享 | 二千章 | Douyin](https://v.douyin.com/d9ZurjObcLo/)**
   - **[烩麻食](https://v.douyin.com/pcXxW_Iogg8/)**
   - **[陕西女巫汤 | 烩麻食 又吃了两碗有力量的饭]**(https://v.douyin.com/a1k-r7o-C9A/)
   - [凤翔豆花泡馍 真的可以无限回购的宝藏小吃，麻花入味、馍片劲道，味道很正宗。](https://v.douyin.com/VLOb0C-QOSc/)
@@ -723,10 +723,6 @@
   - [嗯](https://v.douyin.com/OXLp1Eppq0w/)
   - [让我们都变成幸福大王](https://v.douyin.com/I0QN-IOXmmA/)
   - [马上又要跨年喽 去年陪你跨年的人今年还在身边吗](https://v.douyin.com/7vQhEVVBOt0/)
-
----
-* **[马先生 | 用微镜头记录农村美食生活 每一口熟悉的味道 都藏在记忆里儿时的回忆](https://v.douyin.com/Ai7qaP9s5l4/)**
-  - [辣子豆腐，过去坐席必须有的一道菜，现在菜多了，肉多了，这道辣子豆腐却不上席了。很怀念小时候坐席吃的那个味。](https://v.douyin.com/XLkRl3WvvzY/)
 
 ---
 ### 018. 悟道
