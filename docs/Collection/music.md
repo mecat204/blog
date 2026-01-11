@@ -1041,13 +1041,14 @@
   - [inmyfeeling](https://v.douyin.com/7Qjt17ApFFo/)
 
 ---
-* **[Rosebush music | Youtube](https://www.youtube.com/@RosebushMusic-0223)**
+* **[Rosebush music | 1730位 | Youtube](https://www.youtube.com/@RosebushMusic-0223)**
   - [周深 - 一生一瞬 (《七夜雪》電視劇雪落無憾主題曲)『聚散悲歡 人世萬般，回首望來去風雪匆然 也無憾。』【動態歌詞MV】](https://www.youtube.com/watch?v=4x66asVdR3Q&list=RD4x66asVdR3Q&start_radio=1)
 
 ---
-* **[SoulEase Space | Youtube](https://www.youtube.com/@SoulEase_Space)**
+* **[SoulEase Space | 5900位 | Youtube](https://www.youtube.com/@SoulEase_Space)**
   - Welcome to SoulEase Space—a serene place to unwind, soothe your soul, and find harmony. 🎹🌿
   - 欢迎来到SoulEase空间——一个宁静的地方，让你放松身心，抚慰心灵，找到和谐。🎹🌿
+
   ---
   - Here, every piano note flows softly, like a whisper of serenity, guiding you to inner peace and clarity.
   - 这里，每一个钢琴音符都轻柔流淌，如同宁静的低语，引导你走向内心的平静与清晰。
@@ -1061,10 +1062,10 @@
   - 闭上眼睛，深呼吸，让你的灵魂在这宁静的空间中找到平静。
 
   ---
-  - [音乐疗法🌿 修复神经系统，停止过度思考 | 舒缓压力的放松音乐](https://www.youtube.com/watch?v=ecrL5FHBmFA)
+  - **[音乐疗法🌿 修复神经系统，停止过度思考 | 舒缓压力的放松音乐](https://www.youtube.com/watch?v=ecrL5FHBmFA)**
 
 ---
-* **[Secret Garden - Official | Youtube](https://www.youtube.com/@SecretGardenOfficial/videos)**
+* **[Secret Garden - Official | 21.6万  | Youtube](https://www.youtube.com/@SecretGardenOfficial/videos)**
   - [Secret Garden - Chaconne (Remastered 2025/ Visualizer) | 秘密花园 - 恰空舞曲（2025年重制版/可视化版）](https://www.youtube.com/watch?v=TlzCdLR-Trw)
   - [Secret Garden - Nocturne (Remastered 2025/Visualizer) | 秘密花园 - 夜曲（2025年重制/可视化版）](https://www.youtube.com/watch?v=yxuM2Leigyw)
 

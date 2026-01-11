@@ -1,6 +1,6 @@
 ### 000. Google
-* **[Google](https://www.youtube.com/@Google)**
-  - [Operation Aurora | HACKING GOOGLE | Documentary EP000](https://www.youtube.com/watch?v=przDcQe6n5o)
+* **[Google |  1390万 | Youtube](https://www.youtube.com/@Google)**
+  - **[Operation Aurora | HACKING GOOGLE | Documentary EP000](https://www.youtube.com/watch?v=przDcQe6n5o)**
 
 ---
 ### 001. Life Vlog
@@ -34,11 +34,11 @@
   - [国外很多影视ip原型都源自山海经，靠山海经赚得盆满钵满，如果我们自己都不加以挖掘山海经，岂不是愧对这部上古奇书！| 观山海](https://v.douyin.com/NWkl7exrLBQ/)
 
 ---
-  * **[Summer Hailstones 夏冰雹 | Youtube](https://www.youtube.com/@SummerHailstones)**
+  * **[Summer Hailstones 夏冰雹 | 12.4万 | Youtube](https://www.youtube.com/@SummerHailstones)**
     - [拖延、焦虑、没动力？《DOSE 效应》神经科学方法，帮你养成高能量体质｜冰雹讲书｜英文原版](https://www.youtube.com/watch?v=X4hwczXIhbQ)
 
 ---
-* **[江寻千_九月 | Youtube](https://www.youtube.com/@JYjiuyue)**
+* **[江寻千_九月 | 3310 | Youtube](https://www.youtube.com/@JYjiuyue)**
   - The smell of fireworks in the world is the most soothing to the hearts of ordinary people!
   - 世界上烟花的气味是最能抚慰普通人心灵的！
 
@@ -53,31 +53,50 @@
   ---
   - [曾经最极致的浪漫，千年绝技——打铁花。](https://www.youtube.com/watch?v=HiJiAcwe9pk)
 
-* **[江寻千 (九月) | 莫听穿林打叶声 何妨吟啸且徐行 | Douyin](https://v.douyin.com/S2ENUvEPBJQ/)**
+* **[江寻千 (九月) | 莫听穿林打叶声 何妨吟啸且徐行 | 三百章 | Douyin](https://v.douyin.com/S2ENUvEPBJQ/)**
   - [三书六聘十里红妆，带你去看一场真正的中式婚礼. 传世婚服 | 拼酷十里红妆| 拼酷大花轿 濮院时尚古镇 中式婚礼主持人张博](https://v.douyin.com/9NqrnTRJdpk/)
   - [耗时1年零4个月，我用云锦做了一件传世婚服。 | 滴露衣物消毒液 | 传世婚服 | 云锦](https://v.douyin.com/ZZx-30rhdw8/)
 
 ---
-* **[Isabel Paige | Youtube](https://www.youtube.com/@isabel_paige)**
-  - [The Hardest Days of Winter](https://www.youtube.com/watch?v=jNqhUIYZM8Q)
+* **[Isabel Paige | 95万 |  Youtube](https://www.youtube.com/@isabel_paige)**
+  - **[The Hardest Days of Winter](https://www.youtube.com/watch?v=jNqhUIYZM8Q)**
+  - **[Buried in Snow…Winter In The Mountains](https://www.youtube.com/watch?v=E_TEf57zBWQ)**
+
 * **[VENQUEN的英语日记 | 二百章 | Douyin](https://v.douyin.com/lGerZrVjzQs/)**
   - [学习是方向，世界是目的地！Follow along！ 飞向未知，直面恐惧 旧金山的酸面包，藏着冒险的滋味 独处的时光，发现真实的自己 大桥下的夕阳，点燃成长的勇气 | Isabel Paige](https://v.douyin.com/ACS0U3zIC54/)
   - [雪花轻吻山巅，咖啡暖手 炉火旁，冬日的仙境悄然绽放 踏雪觅果，阳光洒落心间 这十一月的清晨，藏着治愈的温柔](https://v.douyin.com/PokajBVenxU/)
 
 ---
-* **[Miss Jean Teaches | Youtube](https://www.youtube.com/@missjeanteaches)**
+* **[Jonna Jinton | 526万 | Youtube](https://www.youtube.com/@jonnajinton)**
+  - My name is Jonna Jinton, I'm a Swedish artist, musician and filmmaker and I live in the beautiful woods in the North of Sweden.
+  - 我叫Jonna Jinton，是一名瑞典艺术家、音乐家和电影制作人，住在瑞典北部美丽的森林里。
+  - Here on my YouTube channel I share a mix of everything that I feel passionate about.
+  - 在我的YouTube频道上，我分享了我所有热爱的事情。
+  - From stories and glimpses of my everyday life to music, kulning (nordic herding calls), painting, ice baths, nature and inspirational films and much more.
+  - 从日常生活的故事和片段，到音乐、kulning（北欧牧歌）、绘画、冰浴、自然和励志电影等等。
+  - You are very welcome to my channel!
+  - 欢迎你来到我的频道！
+  - I hope you will enjoy my videos! ♥
+  - 希望你会喜欢我的视频！♥
+
+  ---
+  - **[Living with the Dark Winters in Sweden |Midnight sun & Polar night | 与瑞典的黑暗冬天共存 |午夜太阳与极夜](https://www.youtube.com/watch?v=3zTR4ayDG38)**
+  - **[Winter Days in the North | Working Through the Darkest Time of the Year | 北方冬日 | 度过一年中 最黑暗的时刻](https://www.youtube.com/watch?v=j3iFHM3dcBI)**
+
+---
+* **[Miss Jean Teaches | 11万 | Youtube](https://www.youtube.com/@missjeanteaches)**
 * **[英语学习Pie | 百章 | Douyin](https://v.douyin.com/nBEOloJekdk/)**
   - **[全英VLOG｜学语言必须"从第一天就开口"？](https://v.douyin.com/o1MYbBcmiok/)**
   - **全英VLOG｜学语言必须"从第一天就开口"？ 视频来源｜油管 Miss Jean Teaches 剪辑+字幕+资料整理｜本人原创 学语言时总被"从第一天就开口"的建议绑架？想开口却怕焦虑，不开口又怕落后？博主结合自身教学与学习经验，从正反两方拆解这一热门建议，帮你打破认知误区，找到更适配自己的语言学习节奏！无论你偏爱"沉默积累"还是"即时输出"，都能从中找到共鸣**
 
 ---
-* **[IAmKevinFeng | KevinFeng 冯凯文 | Youtube](https://www.youtube.com/@IAmKevinFeng)**
+* **[KevinFeng 冯凯文 | 10.3万 | Youtube](https://www.youtube.com/@IAmKevinFeng)**
   - [1个习惯带你直接听懂英文，让你英文听力像母语一样强](https://www.youtube.com/watch?v=t-kOwCmtcmA)
   - [用油管足不出户从0自学流利英文！20+个难度分级自学频道推荐！｜GDS 007](https://www.youtube.com/watch?v=0UY0bbE5I1w)
   - [2本能让你逆袭人生的英文书，只要高中水平就能读懂！](https://www.youtube.com/watch?v=L2B1NhxfvIw)
 
 ---
-* **[PRIMAL EARTH | Youtube | 4K](https://www.youtube.com/@primalearth8951)**
+* **[PRIMAL EARTH | 14.5万 |Youtube | 4K](https://www.youtube.com/@primalearth8951)**
   - Our mother planet "Earth" and the vibrancy of life on it.
   - 我们的母星"地球"以及它上生命的生机勃勃。
 
@@ -89,10 +108,11 @@
   - Beautiful and spectacular scenery and animals are still waiting for you!
   - 美丽壮观的风景和动物们依然在等待你！
 
+  ---
   - **[National Parks of the World Amazing Views 4K](https://www.youtube.com/watch?v=cfbrsPKm_5k)**
 
 ---
-* **[4k Films by Adnan | Youtube](https://www.youtube.com/@4kfilmsbyadnan)**
+* **[4k Films by Adnan | 15.6万 | Youtube](https://www.youtube.com/@4kfilmsbyadnan)**
   - Hi, I’m Adnan of the 4k Films by Adnan channel.
   - 你好，我是Adnan频道4k Films的Adnan。
 
@@ -122,11 +142,11 @@
 
   ---
   - **[Russia in 4K - Incredible Scenes & Hidden Gems](https://www.youtube.com/watch?v=HWuDdsmZmv8)**
-  - [China in 4K - Incredible Scenes & Uncovering Hidden Gems](https://www.youtube.com/watch?v=6yQH9jUqttE)
-  - [Patagonia in 4K - Incredible Scenes & Uncovering Hidden Gems](https://www.youtube.com/watch?v=z8Gw2p2vRr0)
+  - **[China in 4K - Incredible Scenes & Uncovering Hidden Gems](https://www.youtube.com/watch?v=6yQH9jUqttE)**
+  - **[Patagonia in 4K - Incredible Scenes & Uncovering Hidden Gems](https://www.youtube.com/watch?v=z8Gw2p2vRr0)**
 
 ---
-* **[4K Relaxation Channel  | Youtube](https://www.youtube.com/@RelaxationChannel)**
+* **[4K Relaxation Channel | 105万 | Youtube | 4K](https://www.youtube.com/@RelaxationChannel)**
   - 4K Relaxation Channel in sensational 4K and 8K resolution features spectacular nature videos perfect for deep relaxation, meditation, study, sleep, healing, stress relief and more in the industry-leading, detail-oriented 4K quality that brings nature into your home.
   - 4K放松频道以惊艳的4K和8K分辨率呈现壮观的自然视频，适合深度放松、冥想、学习、睡眠、疗愈、减压等，采用行业领先的细节导向4K画质，将大自然带入你的家中。
 
@@ -162,7 +182,12 @@
   - **[无人机镜头 - 克罗地亚、欧洲的鸟瞰图 - 3 小时无人机环境电影 | 4K](https://www.youtube.com/watch?v=HSsqzzuGTPo&list=PL-_vMUSUXkyep9L7dxNjDKVZ2wJqtuzW3)**
 
 ---
-* **[Scenic Relaxation | Youtube | 4K](https://www.youtube.com/@ScenicRelaxationFilms)**
+* **[4K休闲频道 | ProArtInc | Douyin | 二百章](https://v.douyin.com/uuEFJKfRBsc/)**
+  - [助眠 | 冥想](https://v.douyin.com/gF8j1U_F5qU/)
+  - **[ProArtInc](https://proartinc.net/)**
+
+---
+* **[Scenic Relaxation | 166万 |  Youtube | 4K](https://www.youtube.com/@ScenicRelaxationFilms)**
   - The goal at Scenic Relaxation is to provide relaxing 4K films of the world's most incredible destinations.
   - Scenic Relaxation的目标是提供世界上最不可思议目的地的放松4K影片。
 
@@ -178,28 +203,57 @@
   - **[Japan 4K - Scenic Relaxation Film With Calming Music](https://www.youtube.com/watch?v=D48T0wNm96w)**
 
 ---
-* **[Relaxation Film | Douyin](https://v.douyin.com/17pgl3YprfA/)**
+* **[Relaxation Film | 五十章  |  Douyin](https://v.douyin.com/17pgl3YprfA/)**
   - [【4K 奥地利-哈尔施塔特】俯瞰恬静奥地利小镇，湖景峡湾宁静怡然   ](https://v.douyin.com/fUD3TSTWrkQ/)
 
 ---
-* **[Ariannita la Gringa | Youtube](https://www.youtube.com/@ariannitalagringa)**
+* **[Ariannita la Gringa | 202万  | Youtube](https://www.youtube.com/@ariannitalagringa)**
   - [Religious Vocabulary in English](https://www.youtube.com/watch?v=Ae8odmRJNu0)
   - [購物中心英語詞彙](https://www.youtube.com/watch?v=VFe7Ap1kfk0)
   - [Visiting an International Market](https://www.youtube.com/watch?v=3VP8OZyr87A)
 
-* **[Mark学英语 | Douyin](https://v.douyin.com/Fw8_g1qpMFk/)**
+---
+* **[Mark学英语 | 为了给俩娃启蒙英语，37岁重学英语 | 百章 | Douyin](https://v.douyin.com/Fw8_g1qpMFk/)**
   - [高频英语缩略词，像母语者一样聊天 Most Common Acronyms In English](https://v.douyin.com/OylLt8yPs-w/)
   - [【英语易混词】Do vs Make：核心区别一次讲清 | 英语 | 英语口语 | 英语启蒙 | 英语学习 | 英语听力](https://v.douyin.com/THCKuOPQ_NQ/)
 
 ---
-* **[Learn English with Jessica | Youtube](https://www.youtube.com/channel/UCXtMjo8xJqjEhS4A9KUY8GA)**
+* **[Learn English with Jessica | 274万 | 动画 | Youtube](https://www.youtube.com/channel/UCXtMjo8xJqjEhS4A9KUY8GA)**
+  - Learn English with Jessica is a FREE Channel for English learners.
+  - "与杰西卡一起学习英语"是一个免费的英语学习频道。
+
+  ---
+  - Our Channel will create a variety of videos about EVERYDAY conversations which are aimed at improving your general English knowledge and skills.
+  - 我们的频道将制作各种关于日常对话的视频，旨在提升你的英语基础知识和技能。
+
+  ---
+  - In particular, you will learn:
+    * Listening and Speaking Skills
+    * Vocabulary
+    * Tips
+    * Grammar
+  - We will upload new videos at 4:30 AM every Monday, Tuesday, Wednesday and Friday.
+
+  - 特别是，您将学习：
+    * 听力与口语技能
+    * 词 汇
+    * 技巧
+    * 语法
+  - 我们将在每周一、二、三、五凌晨4：30上传新视频。
+
+  ---
+  - Thousands of English Videos are waiting for you.
+  - 成千上万的英文视频正等着你。
+
+  ---
+  - ☞ Please subscribe to our channel and turn on notifications to stay updated with our latest videos.❤️❤️❤️
+  - ☞ 请订阅我们的频道并开启通知，随时获取最新视频信息。 ❤️❤️❤️
+
+  ---
+  * **[30 Minutes of Daily English Conversations for Beginners (A2 Level) | Practice Listening and Speaking | 初学者每日英语会话30分钟（A2水平） | 练习听和说](https://www.youtube.com/watch?v=1lGynioT8B8)**
 
 ---
-* **[THE MAGIC LIBRARY | Youtube](https://www.youtube.com/@the-magic-library)**
-  - [ATOMIC HABITS | JAMES CLEAR | FULL-AUDIOBOOK | WHAT'S THE SECRET TO BRAEKING BAD HABITS |](https://www.youtube.com/watch?v=mdM_9X_i7pM)
-
----
-* **[BBC Earth | Youtube](https://www.youtube.com/@bbcearth)**
+* **[BBC Earth | 1420万 | Youtube](https://www.youtube.com/@bbcearth)**
   - Bringing you face-to-face with heart-pounding action, mind-blowing ideas and the sheer wonder of being part of this amazing planet we call home.
   - 带你面对令人心跳加速的动作、令人震撼的创意，以及成为这个我们称之为家的奇妙星球一部分的纯粹惊奇。
 
@@ -228,41 +282,42 @@
   - 服务信息与反馈：https://www.bbcstudios.com/contact/contact-us/
 
   ---
-  - [1 Hour of Magnificent Moments Narrated by Sir David Attenborough | BBC Earth](https://www.youtube.com/watch?v=Vd7iuPV_AF0)
+  - **[1 Hour of Magnificent Moments Narrated by Sir David Attenborough | BBC Earth | 1小时的壮丽时刻 由大卫·阿滕伯勒爵士旁白 |BBC地球](https://www.youtube.com/watch?v=Vd7iuPV_AF0)**
 
-* **[BBC英语纪录频道 | Douyin](https://v.douyin.com/Kg7WEHuZnzo/)**
+* **[BBC英语纪录频道 | BBC英语官方记录片 | 百章 | Douyin](https://v.douyin.com/Kg7WEHuZnzo/)**
   - [神奇的植物 GREEN PLANET 1](https://v.douyin.com/AyWrh_p2L2U/)
 
 ---
-* **[Dan Koe | Youtube](https://www.youtube.com/@DanKoeTalks)**
-* **[来点思考 | Dan Koe](https://v.douyin.com/OkNpJEuLTEg/)**
+* **[Dan Koe | 124万 | Youtube](https://www.youtube.com/@DanKoeTalks)**
+
+* **[来点思考 | 一人公司→超级个体→自我实现 帮你把想不清楚的问题判断清楚 | 二百章 | Douyin](https://v.douyin.com/OkNpJEuLTEg/)**
   - [AI加速学习](https://v.douyin.com/dJUjAceOkEg/)
   - 你还在慢慢学吗？用AI加速学习，10倍提高效率！  dankoe来点思考 AI  学习效率
   - [两周就能学会任何技能，为什么你这么慢？](https://v.douyin.com/uYLph2ZzDRA/)
-* **[dankoe](https://v.douyin.com/tN4bvreV5vE/)**
+
+* **[dankoe | 大家好，让我们一起6个月改变人生 | 百章 | Douyin](https://v.douyin.com/tN4bvreV5vE/)**
   - [如何让人生进步十倍（完整指南） How To Make Progress 10X Faster In Life (Full Guide)](https://v.douyin.com/XyQq7MkQ4hI/)
 
 ---
-* **[4kUrbanLife | Youtube](https://www.youtube.com/@4kUrbanLife)**
-  - [4K Cities of The World: Krakow, Poland](https://www.youtube.com/watch?v=3CfLia_6TU0&list=PLQggNzW0_YA9OlYAoIS5Vp-gRp8kF3EcS)
-  - [ProArtInc](https://proartinc.net/)
-* **[4K休闲频道 | Douyin | ProArtInc](https://v.douyin.com/uuEFJKfRBsc/)**
-  - [助眠 | 冥想](https://v.douyin.com/gF8j1U_F5qU/)
+* **[4kUrbanLife | 36.1万 | Youtube](https://www.youtube.com/@4kUrbanLife)**
+  - **[4K Cities of The World: Krakow, Poland](https://www.youtube.com/watch?v=3CfLia_6TU0&list=PLQggNzW0_YA9OlYAoIS5Vp-gRp8kF3EcS)**
 
 ---
-* **[TheEnglishClass2917 | Youtube](https://www.youtube.com/@TheEnglishClass2917)**
-  - [How to Speak English Fluently](https://www.youtube.com/watch?v=dWmUsWorYh0)
-* **[Biubiu仔仔 | Douyin | 沉浸式练习英语口语](https://v.douyin.com/MUMd0LtI8WE/)**
+* **[The English Class | 33.7万 | Youtube](https://www.youtube.com/@TheEnglishClass2917)**
+  - **[How to Speak English Fluently | 如何流利 地说英语](https://www.youtube.com/watch?v=dWmUsWorYh0)**
+
+* **[Biubiu仔仔 | 沉浸式练习英语口语 | 百章 | Douyin](https://v.douyin.com/MUMd0LtI8WE/)**
   - [How to Speak English Fluently？](https://v.douyin.com/2bueQ6v6XVo/)
   - How to Speak English Fluently？ Do you want to speak English fluently? Do you feel nervous when you try to speak? In this video, we will help you! We will teach you step by step, in very easy English. You will learn how to speak clearly, how to practice every day, and how to stop being afraid.
 
 ---
-* **[Links TV | Youtube](https://www.youtube.com/@linksphotograph)**
-  - [大西洋上只有300人的孤岛，却藏着地球最震撼的火山奇观松下！亚速尔群岛｜松下S1R2 ｜Linksphotograph](https://www.youtube.com/watch?v=1kCOblyiuxY)
+* **[Links TV  | 76.8万 | Youtube](https://www.youtube.com/@linksphotograph)**
+  - **[大西洋上只有300人的孤岛，却藏着地球最震撼的火山奇观松下！亚速尔群岛｜松下S1R2 ｜Linksphotograph](https://www.youtube.com/watch?v=1kCOblyiuxY)**
+
 * **[Linksphotograph | Bilibili](https://space.bilibili.com/3816626)**
 
 ---
-* **[Tourist Walk Tours](https://www.youtube.com/@TouristWalkTours)**
+* **[Tourist Walk Tours | 44.2万 | Youtube](https://www.youtube.com/@TouristWalkTours)**
   - Welcome to Tourist Walk Tours — your passport to adventure!
   - 欢迎来到旅游徒步游——你的冒险通行证！
 
@@ -299,10 +354,10 @@
   - 世界很大——让我们一起探索吧！
 
   ---
-  - [**瑞士**最美的山村——你会想搬到这里来。](https://www.youtube.com/watch?v=o9esB3n-GAw)
+  - **[**瑞士**最美的山村——你会想搬到这里来。](https://www.youtube.com/watch?v=o9esB3n-GAw)**
 
 ---
-* **[🇨🇭 SWISS - Most Beautiful Places & Walking Tours | 瑞士](https://www.youtube.com/@SWISS_WalkingTours)**
+* **[🇨🇭 SWISS - Most Beautiful Places & Walking Tours | 瑞士 | 8.69万 | Youtube](https://www.youtube.com/@SWISS_WalkingTours)**
   - Welcome to our YouTube channel dedicated to the breathtaking beauty of Switzerland!
   - 欢迎来到我们的YouTube频道，专注于瑞士令人叹为观止的美景！
 
@@ -331,12 +386,13 @@
   - 这样做不仅表达了你的欣赏，也帮助他人发现瑞士无与伦比的美丽，享受其自然的奇观。
 
   ---
-  - [**瑞士**的天堂：瑞士乡村美丽村庄的雨天](https://www.youtube.com/watch?v=-kenx1rQyZo)
+  - **[**瑞士**的天堂：瑞士乡村美丽村庄的雨天](https://www.youtube.com/watch?v=-kenx1rQyZo)**
 
 ---
-* **[SoulEase Space | Youtube](https://www.youtube.com/@SoulEase_Space)**
+* **[SoulEase Space | 音乐 | Youtube](https://www.youtube.com/@SoulEase_Space)**
   - Welcome to SoulEase Space—a serene place to unwind, soothe your soul, and find harmony. 🎹🌿
   - 欢迎来到SoulEase空间——一个宁静的地方，让你放松身心，抚慰心灵，找到和谐。🎹🌿
+
   ---
   - Here, every piano note flows softly, like a whisper of serenity, guiding you to inner peace and clarity.
   - 这里，每一个钢琴音符都轻柔流淌，如同宁静的低语，引导你走向内心的平静与清晰。
@@ -350,11 +406,11 @@
   - 闭上眼睛，深呼吸，让你的灵魂在这宁静的空间中找到平静。
 
   ---
-  - [音乐疗法🌿 修复神经系统，停止过度思考 | 舒缓压力的放松音乐](https://www.youtube.com/watch?v=ecrL5FHBmFA)
+  - **[音乐疗法🌿 修复神经系统，停止过度思考 | 舒缓压力的放松音乐](https://www.youtube.com/watch?v=ecrL5FHBmFA)**
 
 ---
 ### 002. Chinese Vlog
-* **[山肆十四 | 会一直折腾  谢谢观看 ](https://v.douyin.com/xu9aAeeaEoY/)**
+* **[山肆十四 | 会一直折腾  谢谢观看 | 百章 | Douyin](https://v.douyin.com/xu9aAeeaEoY/)**
   - [大部分时候我们的不快乐，不是因为得不到，而是拥有的太多。| **旅行vlog** | **交换世界计划** | **做拓路者越万重山**](https://v.douyin.com/kSotN4KDXNM/)
 
 ---
