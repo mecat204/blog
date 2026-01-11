@@ -1347,6 +1347,7 @@
   - [How to Order Fast Food in English丨**Youtuber: Ariannita la Gringa**](https://v.douyin.com/KO726RslzIA/)
   - [a thousand years -christina perri (cover)丨**Youtuber: chika clarissa**](https://v.douyin.com/cKS4ZpqLtP8/)
   - [你为何失去了对学习的热爱，以及如何重新找回这份热爱 丨why you lost your love for learning & how to get it back丨**Youtuber: Olga loiek**](https://v.douyin.com/MEslJ5tjAkI/)
+  - [无聊吗？这里有更充实的生活指南！| **Youtuber: Olga loiek**](https://v.douyin.com/Gxp9F5-weRg/)
 
 ---
 * **[大脚柚子英语学习日记 | 百章 | Douyin](https://v.douyin.com/QMSHneHcLIo/)**
