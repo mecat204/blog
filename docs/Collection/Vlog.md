@@ -70,12 +70,20 @@
 * **[Jonna Jinton | 526万 | Youtube](https://www.youtube.com/@jonnajinton)**
   - My name is Jonna Jinton, I'm a Swedish artist, musician and filmmaker and I live in the beautiful woods in the North of Sweden.
   - 我叫Jonna Jinton，是一名瑞典艺术家、音乐家和电影制作人，住在瑞典北部美丽的森林里。
+
+  ---
   - Here on my YouTube channel I share a mix of everything that I feel passionate about.
   - 在我的YouTube频道上，我分享了我所有热爱的事情。
+
+  ---
   - From stories and glimpses of my everyday life to music, kulning (nordic herding calls), painting, ice baths, nature and inspirational films and much more.
   - 从日常生活的故事和片段，到音乐、kulning（北欧牧歌）、绘画、冰浴、自然和励志电影等等。
+
+  ---
   - You are very welcome to my channel!
   - 欢迎你来到我的频道！
+
+  ---
   - I hope you will enjoy my videos! ♥
   - 希望你会喜欢我的视频！♥
 
