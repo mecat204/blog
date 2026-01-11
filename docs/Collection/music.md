@@ -581,14 +581,14 @@
 * **[极美大师姐 | 一个来自外星的外星人 | 百章 | Douyin](https://v.douyin.com/zyIp7ZOwjmA/)**
   - [青春若有BGM，我的部分必须用大鼓开场](https://v.douyin.com/JTLo_qmrhDU/)
 
-### 019. 雨声催眠
+### 019. 雨声 | 音乐 | 催眠
 * **[合集]**
   - [asmr，rain sounds for sleeping，2022](https://www.youtube.com/watch?v=-ERFwSSqg1Y)
   - [Top 5 Most Beautiful Tracks by Peder B. Helland in 2025](https://www.youtube.com/watch?v=tHsmufMcCqY)
   - [Rain Sound On Window with Thunder SoundsㅣHeavy Rain for Sleep, Study and Relaxation, Meditation](https://www.youtube.com/watch?v=mPZkdNFkNps)
 
 ---
-* **[Relaxing Ambience ASMR | Youtube](https://www.youtube.com/@RelaxingAmbienceASMR)**
+* **[Relaxing Ambience ASMR | 45.8万** | Youtube](https://www.youtube.com/@RelaxingAmbienceASMR)**
   - Relaxing Ambience is a team of creative videographers around the world.
   - Relaxing Ambience 是一支遍布全球的创意摄像团队。
 
@@ -621,7 +621,7 @@
   - Zoom H2n，BOYA BY-PVM1000
 
   ---
-  - [Rain Sound On Window with Thunder SoundsㅣHeavy Rain for Sleep, Study and Relaxation, Meditation | 窗外雨声伴雷声——大雨助眠、学习、放松、冥想](https://www.youtube.com/watch?v=mPZkdNFkNps)
+  - **[Rain Sound On Window with Thunder SoundsㅣHeavy Rain for Sleep, Study and Relaxation, Meditation | 窗外雨声伴雷声——大雨助眠、学习、放松、冥想](https://www.youtube.com/watch?v=mPZkdNFkNps)**
 
 ---
 * **[贵州唐生Mr | 本频道专注收录雨声、溪流、鸟鸣等等... 一切大自然的白噪音 | 愿用纯净的自然之声，抚平你每一寸焦躁与不安  | 4K | 五百章 | Douyin](https://v.douyin.com/7qEUyn4Gygw/)**
@@ -739,8 +739,32 @@
   - [重雷声！放松的雨，雷电和闪电的睡眠环境|自然视频](https://www.youtube.com/watch?v=gVKEM4K8J8A)
 
 ---
-* **[下雨的傢伙 | Youtube](https://www.youtube.com/@RainyGuy)**
+* **[下雨的傢伙 | 27.5万 | Youtube](https://www.youtube.com/@RainyGuy)**
   - [在舒适的冬季小屋中深度睡眠| 令人放松的壁炉噼啪声、暴风雪声、风声和降雪声](https://www.youtube.com/watch?v=Rm-4JUivLcE)
+
+---
+* **[Praise Oasis | 1.06万 | Youtube](https://www.youtube.com/@praiseoasis)**
+  - At Praise Oasis, we offer a calming space for anyone feeling anxious, facing challenges, or seeking music to connect with God through prayer.
+  - 在Praise Oasis，我们为任何感到焦虑、面临挑战或通过祈祷寻求音乐与上帝连接的人提供一个平静的空间。
+
+  ---
+  - Our content is designed to uplift your spirit, quiet your mind, and help you draw closer to God.
+  - 我们的内容旨在提升你的心灵，平静你的心灵，帮助你更亲近上帝。
+
+  ---
+  - Whether you’re looking for rest for your soul or a moment of worship, we’re here to guide you toward God’s peace.
+  - 无论你是在寻求灵魂的安息，还是寻求敬拜片刻，我们都在这里引导你走向上帝的平安。
+
+  ---
+  - Subscribe and let’s walk this journey of faith and serenity together.
+  - 订阅，让我们一起踏上这段信仰与宁静的旅程。
+
+  ---
+  - "Come to me, all you who are weary and burdened, and I will give you rest." – Matthew 11:28
+  - "凡疲惫负重担的人，到我这里来，我必赐你们安息。"——马太福音11：28
+
+  ---
+  * **[GOD IS WITH ME - Soaking worship instrumental | Prayer and Devotional 神与我同在 - 浸湿敬拜器乐 | 祈祷与灵修](https://www.youtube.com/watch?v=uaaIM0YJATo)**
 
 ---
 ### 020. 合唱
