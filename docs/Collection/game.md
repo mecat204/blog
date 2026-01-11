@@ -32,4 +32,14 @@
 * **[水子哥的综合游戏室 | Bilibili](bilibili：https://space.bilibili.com/30998094)**
 
 ---
+### 0005. Tiny Glade | 林间小世界
+* **[Z汐汐 | 你的治愈系伙伴～ 希望你能在这里感到轻松和快乐🎊 祝你们天天开心 | 感谢抖音平台 | 百章 | Douyin](https://v.douyin.com/lAzrBz9r3js/)**
+  - [**Game: TinyGlade** | 房体搭建 | steam游戏 | 单机游戏 | 教学 | 林间小世界 | 治愈系风景](https://v.douyin.com/ypaonJYDN2s/)
+  - [永恒的守护 | TinyGlade | 搭建游戏](https://v.douyin.com/-Fm7r7YmNyQ/)
+  - [TinyGlade 魔法图书馆 | TinyGlade | 搭建](https://v.douyin.com/cOOlzk5XHXw/)
+  - [TinyGlade 被遗忘的钢琴](https://v.douyin.com/-FxBICAHOaI/)
+  - [冬日的惬意来自围炉煮茶 | 林间小世界 | steam游戏 | 治愈系 | 搭建](https://v.douyin.com/9-_OFC2wEhg/)
+  - [ 夜晚的小世界如此宁静 | steam游戏 | 单机游戏 | 搭建 | 治愈 | TinyGlade](https://v.douyin.com/n38Kk4nzX3w/)
+
+---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)

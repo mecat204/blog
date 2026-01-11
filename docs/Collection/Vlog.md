@@ -1302,10 +1302,37 @@
 * **[LEIA英语 | 北师大硕士，多年教育经验 | 每日分享日常英语对话 | 五百章 | Douyin](https://v.douyin.com/J-8oISXP2eI/)**
   - [博主分享了做美甲的经历和即将参加的野餐活动的期待. | **Youtuber: Birta Hlin**](https://v.douyin.com/IIpbomrgTVo/)
   - [博主分享了自己生活中即将迎来宝宝的喜讯，以及随之而来的生活调整和未来规划。| **Youtuber: TheCottageFairy**](https://v.douyin.com/5rHbyt-RZLI/)
+  - [讲述了一次咖啡洒在包包上后送去清洗，最终包包颜色变深但污渍消失的经历。| **Youtuber: Michelle Choi**](https://v.douyin.com/i91TfsNO-6I/)
+  - [博主讨论了独处时感到舒适的重要性，并建议面对内心恐惧作为自我提升的动力。| **Youtuber: Tyson Liberto**](https://v.douyin.com/N7QpqDjU9Sc/)
+  - [博主讲解了英语中常见的发音错误，特别是静音字母和单词comfortable、vegetable的正确发音。| **Youtuber: English At The Ready**](https://v.douyin.com/S9eXlyJHJG8/)
+  - [博主讲解英语短语'better late than never'的发音技巧及美式英语中T变D的现象。**Youtuber: Speak English With Vanessa**](https://v.douyin.com/aUAvpM0V87Q/)
 
 ---
 * **[Lucky英语宝藏屋 | 国际化学校 | 学英语是一生课题 | 英语只是工具，更重要是带你看世界 | 学习是转运的开始，欢迎跟我一起变幸运 | 三百章 | Douyin]( https://v.douyin.com/AC4snIs2G90/)**
   - [坚持每天跟着外国博主学英语，口语听力突飞猛进 英语是钥匙，但世界才是你要开的门， 学习是转运的开始！欢迎和我一起变幸运！| **Youtuber: Elena Taber**](https://v.douyin.com/g4wpYhTXXOI/)
+
+---
+* **[NaNa的英语宝藏 | 你的英语定制食谱 📚知识如旷野 | Douyin](https://v.douyin.com/mbGUxTMzXDQ/)**
+  - [今天分享给大家这套超实用的方法](https://v.douyin.com/zeyEt3eI1Ns/)
+  - **今天分享给大家这套超实用的方法:**
+    * **看英文短视频（油管或破站） 对一段影片多次反复听+场景化影子跟读，用耳朵和嘴巴记住情境里的语句，而非枯燥地学习语法。**选择自己感兴趣的内容很重要，不然很容易觉得乏味。
+    * **盲听演讲、纪录片、新闻等 演讲类TED、新闻类BBC、VOA有时间都可以听起来，都是优质听力材料，可以从听慢速逐渐过渡到正常语速。**
+    * **看英（美）剧、英文电影和动画 英（美）剧**:《德雷尔一家》《唐顿庄园》《摩登家庭》《吉尔莫女孩》 电影：《美食、祈祷和爱》《实习生》《时空恋旅人》《穿普拉达的女王》 动画：《小猪佩奇》《辛普森一家》《怪诞小镇》《希尔达Hilda》
+    * **思考，查漏补缺**
+      - **词汇量不足**: 赶紧记单词，尽量每个单词发音准确。
+      - **发音规则不熟悉**: 网上搜索发音教程，分清连读、弱读、同化等等，勤加练习。
+      - **语速太快**: 先调慢语速听，然后再恢复正常速度。
+      - **心理因素（紧张或不专注）**: 多与母语者实际交流，克服心理障碍，同时有意识地训练专注力。 👉本听力口语素材库，就是结合上面方法而衍生的，每天吃透一期native speaker地道表达，听力口语同步提高💯 📚
+      - **素材库学习攻略**:
+        * 音频盲听，先常速再0.9倍速，尝试捕捉对话内容
+        * 看重点词汇视频，尝试用英语思维理解对话
+        * 看中英双语视频，逐句理解含义
+        * 看无字幕视频，自检对话掌握程度
+        * 学习重点词汇/句式，充实词汇量和表达方式
+        * 看中英对照文本，巩固复习，融会贯通
+        * 朗读纯英文本，培养语感增强自信
+      **英语学习是一件长期复利的事情，胜利是给坚持不懈者最好的奖赏，赶快加入我们吧！**
+  - [30岁油管千万富婆给20多岁年轻人的建议 | **Youtuber: Vanessa Lau**](https://v.douyin.com/77dXgDkenvs/)
 
 ---
 * **[2255（日更版）| YouTube Vlog推荐 | 二百章 | Douyin](https://v.douyin.com/F2-yC0zVmzE/)**
@@ -1338,7 +1365,112 @@
   - [我们感觉一段关系，让我们不再快乐的时候，就是一段关系结束的时候 | **Youtuber: Lana Blakely**: 生活方式、人生体验、哲学思考、自我成长和社交话题讨论](https://v.douyin.com/yKQ1V1AlV2E/)
 
 ---
-* **[Olga Loiek | Youtube](https://www.youtube.com/@olgaloiek/videos)**
+* **[Speak English With Vanessa | Youtube](https://www.youtube.com/@SpeakEnglishWithVanessa/videos)**
+  - Speak English naturally, confidently, and fluently with Vanessa.
+  - 与Vanessa自然、自信且流利地交流英语。
+
+  ---
+  - Subscribe for free YouTube lessons every Friday.
+  - 订阅每周五免费YouTube课程。
+
+  ---
+  - Speak English by joining a fluency course: http://www.speakenglishwithvanessa.com
+  - 通过参加流利课程来说英语： http://www.speakenglishwithvanessa.com
+
+  ---
+  * **[Daily Life Vocabulary You Need to Know | 你需要掌握 的日常生活词汇](https://www.youtube.com/watch?v=jwJqvuoY26o)**
+
+---
+* **[Vanessa Lau | Youtube](https://www.youtube.com/@VanessaLau/videos)**
+  - I make videos that help creators feel good, have fun, do less, and earn  ̶m̶o̶r̶e̶ enough.
+  - 我制作的视频帮助创作者感觉良好、玩得开心、少做事，并赚取足够的"m̶o̶r̶e̶"。
+
+  ---
+  - For business inquiries only: partnerships@vanessalau.co
+  - FOLLOW ME:
+  - www.instagram.com/vanessalau.co
+  - www.vanessalau.co
+
+  ---
+  - 仅限商务咨询：partnerships@vanessalau.co
+  - 关注我：
+  - www.instagram.com/vanessalau.co
+  - www.vanessalau.co
+
+  ---
+  * **[The EASIEST Video Editing Guide for Beginners in 2026 (STEP-BY-STEP MASTERCLASS) | 2026年初学者最简单的视频剪辑指南（逐步大师班）](https://www.youtube.com/watch?v=GRO5GRx1y0A)**
+
+---
+* **[Michelle Choi | Youtube](https://www.youtube.com/@michellechoii/videos)**
+  - Hi!
+  - 你好！
+
+  ---
+  - My name is Michelle.
+  - 我叫米歇尔。
+
+  ---
+  - I share my experiences on how I'm navigating my 20s through conversations about mental health, wellness, beauty, and life in New York.
+  - 我通过关于心理健康、养生、美容和纽约生活的对话，分享我如何走过二十多岁的经历。
+
+  ---
+  - I also have a brand called Little Puffy.
+  - 我还有一个叫Little Puffy的品牌。
+
+  ---
+  - You can check it out here: www.littlepuffy.com
+  - Email: michellechoi@select.co
+  - 你可以在这里查看：www.littlepuffy.com
+  - 电子邮件：michellechoi@select.co
+
+  ---
+  - **[Living Alone Diaries | What I Eat in a Day (simple and easy meals) | 独居日记 |我一天吃什么（简单易吃的餐）](https://www.youtube.com/watch?v=ZACSFysf1nE)**
+
+---
+* **[English At The Ready | Youtube](https://www.youtube.com/@englishattheready/videos)**
+  - Apply to study English with us 👇 I’m Michael Anton — born in Canada, Cambrige CELTA-certified, and founder of English At The Ready.
+  - 申请加入我们👇学习英语 ，我是Michael Anton——出生于加拿大，拥有Cambrige CELTA认证，也是English At The Ready的创始人。
+
+  ---
+  - We’ve helped 4,000,000+ English learners worldwide.
+  - 我们已帮助全球400万+名英语学习者。
+
+  ---
+  - Over 1,000 trained inside our programs.
+  - 超过1000人在我们的项目中接受培训。
+
+  ---
+  - If you understand English but can’t speak it fluently — this channel is for you.
+  - 如果你懂英语但说不流利——这个频道就是为你准备的。
+
+  ---
+  - No boring textbooks.
+  - 没有无聊的教科书。
+
+  ---
+  - No useless theory.
+  - 没有无用的理论。
+
+  ---
+  - Just real results, fast.
+  - 只有真正的效果，而且很快。
+
+  ---
+  - Welcome to the channel.
+  - 欢迎收看频道。
+
+  ---
+  - Let’s make you fluent.
+  - 让我们让你流利。
+
+  - **[How to REALLY become fluent in English in 2026 | 如何在2026 年真正流利地掌握英语](https://www.youtube.com/watch?v=zxWEPWWmVio)**
+
+---
+* **[Tyson Liberto | 自我提升 心理健康 个人成长 | Youtube](https://www.youtube.com/@tysonliberto/videos)**
+  - **[This isn't a rut, it's a spiritual attack. | 这不是发情期，而是精神上的攻击。](https://www.youtube.com/watch?v=7XKd8T0UzBU)**
+
+---
+* **[Olga Loiek | 宾夕法尼亚大学认知科学与计算专业学生 | Youtube](https://www.youtube.com/@olgaloiek/videos)**
   - 🇺🇦 Cognitive Science & Computation student at UPenn 📧Business email: loiekolga@gmail.com 💖 Join our community in supporting the channel:  https://www.paypal.com/paypalme/olgaloiek
   - 🇺🇦 宾夕法尼亚大学认知科学与计算专业学生 商业邮箱：loiekolga@gmail.com 加入我们的社区，支持频道：https://www.paypal.com/paypalme/olgaloiek📧 💖
 
@@ -1819,7 +1951,7 @@
   - 如需商业咨询，请访问我们的企业网站：https://fasttrainltd.com/;如果您是有才华的创作者，请访问我们的招聘页面：https://fasttrainltd.com/careers/
 
   ---
-  - **[Discover Kawagoe: Day Trip to ‘Old Tokyo’ | 探索川越：“老东京”一日游](https://www.youtube.com/watch?v=uuWL-mXLF7k)**
+  - **[Discover Kawagoe: Day Trip to ‘Old Tokyo’ | 探索川越："老东京"一日游](https://www.youtube.com/watch?v=uuWL-mXLF7k)**
 
 ---
 ### 012. Universe
@@ -1895,6 +2027,14 @@
 
   ---
   - **[Jim Rohn Life Lesson: The 7 Fundamentals Of Success | Jim Rohn Motivational Video 2024 | 吉姆·罗恩人生课题：成功的七大基本原理 |吉姆·罗恩2024年励志视频](https://www.youtube.com/watch?v=YXN72-14dJQ)**
+
+---
+### 014. House
+* **[Forlorn | 影子是我唯一敢麻烦的同行者 | 二百章 | Douyin](https://v.douyin.com/3rpSVn56nQY/)**
+  - [当美剧里的幸福小镇照进现实 | inmyfeelings](https://v.douyin.com/dtZdvS65Bro/)
+  - [当美剧里的幸福小镇照进现实 | 美国 | 纽约 | inmyfeelings](https://v.douyin.com/wXLRO76doKo/)
+  - [当你来到加州，和朋友开着车一起吹晚风看日落 | 加州 | inmyfeelings](https://v.douyin.com/0RTlA6kc7SY/)
+  - [这种氛围太适合散步了 | 美国 | 纽约 | inmyfeelings](https://v.douyin.com/O8sOTywwXrg/)
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)

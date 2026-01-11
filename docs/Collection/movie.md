@@ -541,32 +541,45 @@
 
 ---
 ### 023. 电影解说
-* **[乌合之囚](https://www.youtube.com/@whzq404)**
-  - [芳华解读 | 50年没人敢碰,却让冯小刚拍爽了!独家解读《芳华》上 | 防国内下架 b站大热芳华解读](https://www.youtube.com/watch?v=LkD32ThtmlI)
-  - [芳华解读 | 全网独家!没人比我更懂《芳华》!中 | 防国内下架 b站大热芳华解读](https://www.youtube.com/watch?v=fWTY9bgOyxQ)
-  - [芳华解读 | 全网独家!依旧强度拉满!没人比我更懂《芳华》中下 | 防国内下架 b站大热芳华解读](https://www.youtube.com/watch?v=4TV4Cr6oqJc)
+* **[风行浮生影院 | 正版授权，感谢关注 | 千章 | Douyin](https://v.douyin.com/EdOquCmLiyQ/)**
+  - [04.算计半生掌乾坤，一代妖后慈禧，一手遮天覆大清 | 一代妖后 | 巩俐 | 刘晓庆 | 剧情片 | 慈溪](https://v.douyin.com/Y3A_IWfH-ew/)
 
 ---
-* **[随便剪剪 | 经典永不过时](https://v.douyin.com/ksPshxMpkFs/)**
-  - [风是自由的，希望你也是.](https://v.douyin.com/-gQod8JFNrQ/)
+* **[逐梦电影 | 只关注最新上映的悬疑惊悚佳作！| 千章 | Douyin](https://v.douyin.com/00PzmJn7gOg/)**
+  - [**末日逃生:** 投资仅3500万，评分确高达8.7，这才叫灾难片的天花板！](https://v.douyin.com/sc5lr7zaHhI/)
+  - [2026开年灾难巨制，外星文明入侵地球，巨型植物笼罩苍穹！| 我们为和平而来](https://v.douyin.com/GFEcGrkVl4M/)
+  - [《辐射2》第4集，中国竟向美国开战，还打到了拉斯维加斯](https://v.douyin.com/oNCipZMdhl0/)
 
 ---
-* **[君子探案 | 梦开始的地方 接合作/宣发](https://v.douyin.com/Wd5kh0-mCPo/)**
+* **[君子探案 | 梦开始的地方 接合作/宣发 | 千章 | Douyin](https://v.douyin.com/Wd5kh0-mCPo/)**
   - [辐射能穿透他们的身体，却无法穿透他们的意志 | 切尔诺贝利 | 核泄露 | 影视解说 | 抖音精选](https://v.douyin.com/KdomwV-IMJ8/)
+  - [狙击战术暨剧情深度解析 | 狙击手 | 狙击战术](https://v.douyin.com/VGvsOUHo_Uw/)
+  - [勇敢的心从来不是无畏，而是看清黑暗后仍选择燃烧 |勇敢的心](https://v.douyin.com/eZxp8-ciKcA/)
+  - [战术解析军事动漫天花板《VIP》](https://v.douyin.com/W4bXH1hMwRE/)
+  - [**前哨:** 汀前哨基地攻防战讲解，54名美军VS400名武装分子](https://v.douyin.com/aGslDG880Bk/)
 
 ---
-* **[Leon | 把生命浪费在美好的事情上](https://v.douyin.com/No_YXRGCBtg/)**
+* **[AC_Blue | 星光殷殷 其灿如言 | 五百章 | Douyin](https://v.douyin.com/gE3tJyH4LoI/)**
+  - ["两边都是我的亲人 也就觉着不害怕了" | 我们天上见 | 共鸣叙事家 | 了不起的混剪团 | 混剪暑期企划 | 蒋雯丽](https://v.douyin.com/ujsTiQrSr1g/)
+  - [万般皆下品 唯有读书高 | 侠女 | 胡金铨 | 了不起的混剪团 | 共鸣叙事家 | 抖音精选](https://v.douyin.com/OEO-F8uS8Oc/)
+
+---
+* **[随便剪剪 | 经典永不过时 | 三百章 | Douyin](https://v.douyin.com/ksPshxMpkFs/)**
+  - [风是自由的，希望你也是.](https://v.douyin.com/-gQod8JFNrQ/)
+  - [你虽是怪物，但我仍然爱你.](https://v.douyin.com/92knUW_hems/)
+  - [迪士尼所有的王子都比不过一只狐狸。](https://v.douyin.com/Fvn3O5n2bC0/)
+
+---
+* **[Leon | 把生命浪费在美好的事情上 | 百章 | Douyin](https://v.douyin.com/No_YXRGCBtg/)**
   - [最后的布尔什维克，每个看不清的脸，背后却都发着光。](https://v.douyin.com/XELmMdbqZMs/)
+  - [艺术成分有三四楼那么高啦！](https://v.douyin.com/D3RnKHUTv9Y/)
 
 ---
-* **[逐梦电影 | 只关注最新上映的悬疑惊悚佳作！](https://v.douyin.com/00PzmJn7gOg/)**
-
----
-* **[方恨少不知难 | 历史不是非黑即白 按时间顺序看的在合集里](https://v.douyin.com/R52EO6iepBs/)**
+* **[方恨少不知难 | 历史不是非黑即白 按时间顺序看的在合集里 | 百章 | Douyin](https://v.douyin.com/R52EO6iepBs/)**
   - [闯王李自成请大明赴死 李自成的一生，从陕北寒土的饿殍，到威震天下的闯王，再到魂断九宫山的败将，充满了传奇与悲壮。他用十几年的时间推翻了一个腐朽的王朝，却在短短几十天内就失去了到手的天下，只是为他人嫁衣。抖音知识年终大赏 | 明朝 | 历史解说 | 李自成](https://v.douyin.com/ISGr6cLOjos/)
 
 ---
-* **[古今多少 | 学于古则多看书籍，学于今则多觅榜样；问于当局则知其甘苦，问于旁馆则知其校验。勤学不已，才自广而不觉矣。](https://v.douyin.com/ZJCe9_M8a_8/)**
+* **[古今多少 | 学于古则多看书籍，学于今则多觅榜样；问于当局则知其甘苦，问于旁馆则知其校验。勤学不已，才自广而不觉矣。| 五十章 | Douyin](https://v.douyin.com/ZJCe9_M8a_8/)**
   - [张居正死后，他生前重用的戚继光也被万历革职。 不同的是，同样被张居正重用的李成梁却安然无事。 张居正 | 戚继光将军 | 青年创作者成长计划 | 明朝 | 历史](https://v.douyin.com/bbQjtusOou0/)
   - [海瑞对张居正的评价，"工于谋国，拙于谋身"，这又何尝不是海瑞的人生呢。 历史 | 纪录片中国 | 青年创作者成长计划](https://v.douyin.com/8Ja5I9SL3gU/)
   - [《明史》载，传庭死而明亡矣。青年创作者成长计划 | 孙传庭 | 明朝 | 明末 | 历史](https://v.douyin.com/UnOqqZRzYwE/)
@@ -585,12 +598,7 @@
   - [越哥说电影《了凡四训》](https://www.youtube.com/watch?v=DnbM7lxt9Ak)
 
 ---
-* **[AC_Blue  | 五百章](https://v.douyin.com/gE3tJyH4LoI/)**
-  - ["两边都是我的亲人 也就觉着不害怕了" | 我们天上见 | 共鸣叙事家 | 了不起的混剪团 | 混剪暑期企划 | 蒋雯丽](https://v.douyin.com/ujsTiQrSr1g/)
-  - [万般皆下品 唯有读书高 | 侠女 | 胡金铨 | 了不起的混剪团 | 共鸣叙事家 | 抖音精选](https://v.douyin.com/OEO-F8uS8Oc/)
-
----
-* **[佛缘影视 | Douyin](https://v.douyin.com/aqY4c6UnnL4/)**
+* **[佛缘影视 | 因果循环真实不虚！佛教故事，教你我做人 行善积德，从我做起！| 百章 | Douyin](https://v.douyin.com/aqY4c6UnnL4/)**
   - [01. 一步能看懂就会开悟的电影 | 佛教文化](https://v.douyin.com/0r3LwDZOKIw/)
   - [02. 一部看懂就能开悟的电影 | 佛教文化](https://v.douyin.com/R7_rPXyWCsg/)
   - [03. 一部看懂就会开悟的电影 | 佛教文化](https://v.douyin.com/115Sg1RDpe8/)
