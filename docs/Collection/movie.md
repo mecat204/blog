@@ -206,7 +206,7 @@
 
 ---
 ### 007. 电影资源
-* **[蓝点网 | ](https://www.landiannews.com/)**
+* **[蓝点网](https://www.landiannews.com/)**
   - [海棠网  | 海棠网 - 海棠应用网专注黑科技软件,绿色无毒互联网资源分享](https://www.haitangw.cc/)
 * [小云搜索](https://www.yunso.net/)
 * [AMIN](https://aaamiiin.com/)
