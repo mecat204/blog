@@ -32,7 +32,7 @@
   - I like reading science fiction novels. | 我喜欢读科幻小说
 
 ---
-### 0001. **The Hanging Stranger | 绞刑陌生人**
+### 0001. The Hanging Stranger | 绞刑陌生人
   - The Hanging Stranger
   - 绞刑陌生人
 
