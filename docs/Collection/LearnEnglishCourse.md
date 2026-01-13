@@ -15,10 +15,40 @@
 * [阿崔cxr](https://v.douyin.com/db2HKpQSCl4/)
 
 ---
-* **[linguamarina | Youtube](https://www.youtube.com/@linguamarina)**
+* **[linguamarina | 833万 | Youtube](https://www.youtube.com/@linguamarina)**
+  - Co-founder of a language-learning platform Linguatrip, passionate about learning languages.
+  - 语言学习平台Linguatrip的联合创始人，热衷于学习语言。
+
+  ---
+  - I speak Russian, English, German, and a bit of Italian.
+  - 我会说俄语、英语、德语，还有一点意大利语。
+
+  ---
+  - If you represent a brand and want to collab, please reach out to partnerships@marinamogilko.co
+  - 如果你代表某个品牌并希望合作，请联系 partnerships@marinamogilko.co
+
+  ---
+  - Otherwise here is my assistant's email - marina@marinamogilko.co Download my English Workbook - https://bit.ly/3NTkLdC
+  - 否则这是我助理的邮箱 - marina@marinamogilko.co 下载我的英语练习册- https://bit.ly/3NTkLdC
+
+  ---
+  - My name is Marina Mogilko (or Марина Могилко in Russian, I am originally from Saint-Petersburg) I am an entrepreneur and YouTuber.
+  - 我叫玛丽娜·莫吉尔科（俄语称为Марина Могилко，我来自圣彼得堡）， 我是一名企业家和YouTuber。
+
+  ---
+  - One day, I realized I wanted to move to California.
+  - 有一天，我意识到我想搬到加州。
+
+  ---
+  - My company, LinguaTrip, got into a top 500 Silicon Valley startup incubator and I got an O1 visa sticker in my passport.
+  - 我的公司LinguaTrip进入了硅谷前500名的初创孵化器，我的护照上还贴了O1签证贴纸。
+
+  ---
+  - **[How I started speaking English without fear (as a non-native speaker) | 我如何无畏地开始说英语（作为非母语者）](https://www.youtube.com/watch?v=p9KWSh06Wuo)**
+
 
 ---
-* **[EnglishClass101.com | Youtube](https://youtube.com/@EnglishClass101)**
+* **[EnglishClass101.com  | 863万 | Youtube](https://youtube.com/@EnglishClass101)**
   - [How to Score 9.0 on IELTS EXAM: best tips and strategies](https://www.youtube.com/watch?v=s2M1t-pHJcc&list=PLoDjs_CkjI64nuMBkse4y2zJitzeGlZxi)
   - [Fix Your English Speaking in 150 Minutes](https://www.youtube.com/watch?v=Xg0dZdphmUU)
   - [120 Minutes of Real-World English Listening & Speaking Training](https://youtube.com/watch?v=1-kJsy_B4T4)
@@ -38,7 +68,7 @@
 * **[grammarly](https://www.grammarly.com/)**
 
 ---
-* **[ETJ English | Youtube](https://www.youtube.com/@etjenglish)**
+* **[ETJ English | 113万 | Youtube](https://www.youtube.com/@etjenglish)**
   - I’m Elliott, founder of ETJ English - a British pronunciation coach and communication mentor helping learners and professionals speak English clearly, naturally, and confidently.
   - 我是Elliott，ETJ English的创始人——一位英国发音教练和沟通导师，帮助学习者和专业人士清晰、自然且自信地说英语。
 
@@ -65,8 +95,11 @@
   - You can get personal feedback and daily support with my WhatsApp coaching and full pronunciation course at: https://www.etjenglish.com  For business enquiries or corporate coaching, feel free to contact me through email: elliott@etjenglish.com
   - 您可以通过我的WhatsApp辅导和完整发音课程获得个人反馈和每日支持： https://www.etjenglish.com 如有商业咨询或企业辅导，欢迎通过电子邮件联系我：elliott@etjenglish.com
 
+  ---
+  * **[How to Pronounce ALL British RP Diphthongs - Speak English Clearly | 如何发音所有英国RP双元音——清晰地说英语](https://www.youtube.com/watch?v=olq66C8pLw8)**
+
 ---
-* **[EnglishwithLucy | Youtube](https://www.youtube.com/@EnglishwithLucy)**
+* **[English with Lucy | 1310万 | Youtube](https://www.youtube.com/@EnglishwithLucy)**
   - Click to download my FREE B1-C1
   - 点击下载我的免费B1-C1
 
@@ -78,8 +111,31 @@
   - It contains ALL the vocab and grammar you need to learn to pass the B1, B2 & C1 levels of English!👇
   - 它包含了你通过英语B1、B2和C1水平所需的所有词汇和语法！ 👇
 
+  ---
+  * **[If you know these, you're C2. | 如果你知道这些，你就是C2。](https://www.youtube.com/watch?v=NSycEAiPU3U)**
+
 ---
-* **[etymonline](https://www.etymonline.com/)**
+* **[Learn English with Grace | 7560位 | Youtube](https://www.youtube.com/@LearnEnglishwithGrace24)**
+  - Hi there, I'm Grace.
+  - 你好，我是格蕾丝。
+
+  ---
+  - Welcome to my classroom!
+  - 欢迎来到我的教室！
+
+  ---
+  - My goal is to help you have some fun while improving your English.
+  - 我的目标是帮助你在提升英语的同时享受乐趣。
+
+  ---
+  - If you would like to book an online class with me, you can do this through Preply: https://preply.in/GRACE6EN19856962
+  - 如果你想预约我的在线课程，可以通过Preply： https://preply.in/GRACE6EN19856962
+
+  ---
+  * **[How to Stay Motivated to Learn English in 2026! | 如何在2026年保持学习英语的动力！](https://www.youtube.com/watch?v=1knajL-wIjA)**
+
+---
+* **[etym online | 在线词源词典 | 查询英语单词的词源、起源与历史演变](https://www.etymonline.com/)**
 
 ---
 * **[早晨英语 | 百章 | Douyin](https://v.douyin.com/IjE1oR_vlqY/)**

@@ -422,6 +422,7 @@
   - Thank you!
   - 谢谢！
 
+---
 ### 0010. 博主（英语表达）
 * **blogger**
   - 传统说法，偏文字博客 / 个人博客
@@ -443,7 +444,7 @@
   - 强调影响力与商业合作的博主，多见于社交媒体
 
 ---
-### 0011. 常见组合用法
+* **常见组合用法**
 * **lifestyle blogger / content creator**
   - 生活方式博主
 
@@ -459,7 +460,8 @@
 * **fashion influencer**
   - 时尚博主（偏商业影响力）
 
-### 0012. 中美日基本交流
+---
+### 0011. 中美日基本交流
 * **🇯🇵🇺🇸🇨🇳 日本「超友好」生存级 · 日常交流模型**
 
 ---
@@ -577,7 +579,7 @@
   - Thank you + ありがとうございます
 
 ---
-### 0013. 机场 / 酒店 / 便利店专用对话
+* **机场 / 酒店 / 便利店专用对话**
 * **🇯🇵🇺🇸🇨🇳 日本「超友好」生存级 · 场景化交流模型**
 
 ---
@@ -692,7 +694,7 @@
   - 翻译软件随时用，日本人完全理解
 
 ---
-### 0014. 餐厅 / 咖啡店专用对话
+* **餐厅 / 咖啡店专用对话**
 * **🇯🇵🇺🇸🇨🇳 日本「超友好」生存级 · 用餐场景交流模型**
 
 ---
@@ -807,7 +809,7 @@
   - 日本餐厅服务员很少催客，慢慢吃没问题
 
 ---
-### 0015. 医院 / 药店应急对话
+* **医院 / 药店应急对话**
 * **🇯🇵🇺🇸🇨🇳 日本「超友好」生存级 · 医疗应急交流模型**
 
 ---
@@ -904,7 +906,7 @@
   - 药店工作人员非常习惯应对外国人
 
 ---
-### 0016. 商场 / 服装店专用对话
+* **商场 / 服装店专用对话**
 * **🇯🇵🇺🇸🇨🇳 日本「超友好」生存级 · 购物试穿交流模型**
 
 ---
@@ -980,7 +982,7 @@
   - ありがとうございました
 
 ---
-### 0017. 警察 / 丢失物品应急对话
+* **警察 / 丢失物品应急对话**
 * **🇯🇵🇺🇸🇨🇳 日本「超友好」生存级 · 安全应急交流模型**
 
 ---
@@ -1046,7 +1048,7 @@
   - 护照丢失需同时联系大使馆
 
 ---
-### 0018. 公共交通 / 出租车专用对话
+* **公共交通 / 出租车专用对话**
 * **🇯🇵🇺🇸🇨🇳 日本「超友好」生存级 · 出行交流模型**
 
 ---
@@ -1098,7 +1100,7 @@
   - 记住「ここまでお願いします」万能好用
 
 ---
-### 0019. 社交 / 朋友聊天 / 日常寒暄
+* **社交 / 朋友聊天 / 日常寒暄**
 * **🇯🇵🇺🇸🇨🇳 日本「超友好」生存级 · 轻社交交流模型**
 
 ---
@@ -1153,7 +1155,7 @@
   - 听不懂就直接说「Sorry, my Japanese is not good」
 
 ---
-### 0020. 万能兜底 / 全场景救命句
+* **万能兜底 / 全场景救命句**
 * **🇯🇵🇺🇸🇨🇳 日本「超友好」生存级 · 最小可用语言包**
 
 ---
@@ -1177,6 +1179,334 @@
   - 英文关键词（名词 + 动词）
   - 指物 / 指地图 / 手机
   - Thank you + ありがとうございます
+
+---
+### 0012. 复合词 | 词源在线
+* **[etym online | 词源在线](https://www.etymonline.com/)**
+* **词源 / 语言学（Linguistics）**
+* **[etymonline | Online Etymology Dictionary](https://www.etymonline.com/)**
+  - etym + online（词源学 + 在线）
+  - 英语单词起源与历史演变查询
+
+---
+* **生物科技（Biotechnology）**
+* **[biotech | Biotechnology](https://en.wikipedia.org/wiki/Biotechnology)**
+  - bio + tech（生物 + 技术）
+  - 生物学与工程技术结合领域
+
+---
+* **金融科技（Financial Technology）**
+* **[fintech | Financial Technology](https://en.wikipedia.org/wiki/Financial_technology)**
+  - finance + tech（金融 + 技术）
+  - 数字支付、区块链、智能金融
+
+---
+* **教育科技（Education Technology）**
+* **[edtech | Education Technology](https://en.wikipedia.org/wiki/Educational_technology)**
+  - education + tech（教育 + 技术）
+  - 在线教育与学习平台
+
+---
+* **医疗科技（Medical Technology）**
+* **[medtech | Medical Technology](https://en.wikipedia.org/wiki/Medical_device)**
+  - medical + tech（医疗 + 技术）
+  - 医疗设备、诊断与健康系统
+
+---
+* **信息安全（Information Security）**
+* **[infosec | Information Security](https://en.wikipedia.org/wiki/Information_security)**
+  - info + sec（信息 + 安全）
+  - 网络安全与数据防护
+
+---
+* **开发运维（DevOps）**
+* **[devops | Development & Operations](https://en.wikipedia.org/wiki/DevOps)**
+  - dev + ops（开发 + 运维）
+  - 软件工程协作与自动化
+
+---
+* **人工智能（Artificial Intelligence）**
+* **[aihub | AI Hub](https://en.wikipedia.org/wiki/Artificial_intelligence)**
+  - AI + hub（人工智能 + 中心）
+  - AI 资源与工具聚合平台
+
+---
+* **数据科学（Data Science）**
+* **[datasci | Data Science](https://en.wikipedia.org/wiki/Data_science)**
+  - data + sci（数据 + 科学）
+  - 数据分析与建模领域
+
+---
+* **网络日志（Blog）**
+* **[blog | Weblog](https://en.wikipedia.org/wiki/Blog)**
+  - web + log（网络 + 日志）
+  - 个人或机构内容发布形式
+
+---
+* **播客（Podcast）**
+* **[podcast | Podcasting](https://en.wikipedia.org/wiki/Podcast)**
+  - iPod + broadcast（设备名 + 广播）
+  - 音频内容订阅与分发
+
+---
+* **云计算（Cloud Computing）**
+* **[cloudbase | Cloud Platform](https://en.wikipedia.org/wiki/Cloud_computing)**
+  - cloud + base（云 + 平台）
+  - 云服务基础设施
+
+---
+* **网络公民（Internet Culture）**
+* **[netizen | Internet Citizen](https://en.wikipedia.org/wiki/Netizen)**
+  - net + citizen（网络 + 公民）
+  - 活跃于互联网空间的人
+
+---
+* **应用生态（Application）**
+* **[appstore | App Store](https://en.wikipedia.org/wiki/App_store)**
+  - app + store（应用 + 商店）
+  - 应用分发平台
+
+---
+* **开源社区（Open Source）**
+* **[osslab | Open Source Lab](https://en.wikipedia.org/wiki/Open-source_software)**
+  - OSS + lab（开源软件 + 实验室）
+  - 开源项目孵化与研究
+
+---
+### 0013. 开源词源数据库
+* **etymology-db（开源词源数据库）**
+  - GitHub: https://github.com/droher/etymology-db
+  - 一个从 Wiktionary 抓取并结构化整理的**多语言词源数据集**
+  - 包含数百万个词条和语言关系，可用于构建自己的词源/语言历史分析系统
+
+---
+* **etymonline（46,000 英语词源数据）**
+  - GitHub: https://github.com/yosevu/etymonline
+  - 收录约 46,000 个英语单词的词源信息，从 etymonline.com 整理而来
+  - 可作为构建本地词源数据库或词源应用的原始素材
+
+---
+* **Project-Etymology-graph（英语词源图示工程）**
+  - GitHub Pages: https://nevaada.github.io/Project-Etymology-graph/
+  - 通过可视化图谱展示英文词之间的词源关系
+  - 用图节点和连线表示单词及其历史来源
+
+---
+* **PILA（Proto-Italic & Latin 历史语言数据集）**
+  - GitHub: https://github.com/Mythologos/PILA
+  - 虽不是英语词源，但提供 Proto-Italic / Latin 历史语言数据
+  - 可用于构建印欧语系词根历史分析体系，与词源学研究相关
+
+---
+### 0014. JavaScript / Vue 常用关键字词源解析表
+* **[Vue | View Layer Framework](https://vuejs.org/)**
+  - 来自法语 *vue*（view / 视图）
+  - 表示专注于 UI 视图层的渐进式框架
+
+---
+* **[component | UI Component](https://vuejs.org/guide/essentials/component-basics.html)**
+  - com-（一起）+ ponere（放置）
+  - 可复用的界面组成单元
+
+---
+* **[reactive | Reactivity System](https://vuejs.org/guide/essentials/reactivity-fundamentals.html)**
+  - re-（再次）+ act（行动）
+  - 数据变化能自动触发视图更新
+
+---
+* **[ref | Reference](https://vuejs.org/api/reactivity-core.html#ref)**
+  - reference 的截断形式
+  - 创建可被引用和追踪变化的响应式值
+
+---
+* **[computed | Computed Property](https://vuejs.org/guide/essentials/computed.html)**
+  - com-（一起）+ putare（计算）
+  - 基于依赖自动计算得出的状态
+
+---
+* **[watch | Watcher](https://vuejs.org/guide/essentials/watchers.html)**
+  - watch（观察、监视）
+  - 监听数据变化并执行副作用
+
+---
+* **[directive | Template Directive](https://vuejs.org/guide/essentials/template-syntax.html#directives)**
+  - direct（引导）+ -ive
+  - 对 DOM 行为的直接指示（v-if / v-for 等）
+
+---
+* **[slot | Slot Content](https://vuejs.org/guide/components/slots.html)**
+  - slot（插槽）
+  - 组件中预留的内容插入位置
+
+---
+* **[emit | Emit Event](https://vuejs.org/guide/components/events.html)**
+  - e-（向外）+ mittere（发送）
+  - 子组件向外触发事件
+
+---
+* **[template | HTML Template](https://vuejs.org/guide/essentials/template-syntax.html)**
+  - templum（框架、结构）
+  - 描述组件 HTML 结构的区域
+
+---
+* **[script | Script Logic](https://vuejs.org/api/sfc-spec.html)**
+  - script（书写、脚本）
+  - 定义组件逻辑与状态
+
+---
+* **[style | Component Style](https://vuejs.org/api/sfc-spec.html#style)**
+  - style（风格、样式）
+  - 定义组件的视觉外观
+
+---
+* **[scoped | Scoped Style](https://vuejs.org/api/sfc-spec.html#scoped)**
+  - scope（范围）
+  - 样式作用范围限定在当前组件
+
+---
+* **[composable | Composable Function](https://vuejs.org/guide/reusability/composables.html)**
+  - compose（组合）+ -able
+  - 可被组合复用的逻辑函数（Composition API）
+
+---
+* **[lifecycle | Lifecycle Hooks](https://vuejs.org/guide/essentials/lifecycle.html)**
+  - life（生命）+ cycle（周期）
+  - 组件从创建到销毁的完整过程
+
+---
+* **[mount | Mount Component](https://vuejs.org/api/application.html#app-mount)**
+  - mount（挂载、安装）
+  - 将组件渲染并挂载到 DOM 上
+
+---
+* **[const | Constant](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)**
+  - constant（恒定、不变）
+  - 定义不可变变量，值不能被重新赋值
+
+---
+* **[let | Let Variable](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)**
+  - let = 允许（古英语）
+  - 定义块作用域变量，可修改
+
+---
+* **[var | Variable](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var)**
+  - variable（变量、可变的）
+  - 定义函数作用域变量，可修改
+
+---
+* **[function | Function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function)**
+  - function = 拉丁语 *functio*（执行、履行）
+  - 封装可重复调用的代码块
+
+---
+* **[class | Class](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)**
+  - class = 拉丁语 *classis*（等级、类别）
+  - ES6 定义对象模板 / 类
+
+---
+* **[constructor | Constructor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/constructor)**
+  - construct + -or（构建 + 执行者）
+  - 初始化类实例的函数
+
+---
+* **[super | Superclass Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/super)**
+  - super = 超级 / 高级
+  - 调用父类构造函数或方法
+
+---
+* **[import | Import Module](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)**
+  - import = 拉丁语 *importare*（带入、引入）
+  - 引入模块 / 依赖
+
+---
+* **[export | Export Module](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)**
+  - export = 拉丁语 *exportare*（带出、输出）
+  - 导出模块 / 变量 / 函数
+
+---
+* **[async | Asynchronous](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)**
+  - a-（不） + sync（同步）
+  - 异步执行函数，等待 Promise
+
+---
+* **[await | Await Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await)**
+  - await = 等待
+  - 暂停 async 函数，等待 Promise 结果
+
+---
+* **[ref | Reference](https://vuejs.org/api/reactivity-core.html#ref)**
+  - reference 的截断形式
+  - 创建可被引用、响应式的值
+
+---
+* **[reactive | Reactivity](https://vuejs.org/guide/essentials/reactivity-fundamentals.html)**
+  - re-（再次）+ act（行动）
+  - 数据变化自动触发视图更新
+
+---
+* **[computed | Computed Property](https://vuejs.org/guide/essentials/computed.html)**
+  - com-（一起）+ putare（计算）
+  - 基于依赖自动计算得出的状态
+
+---
+* **[watch | Watcher](https://vuejs.org/guide/essentials/watchers.html)**
+  - watch（观察、监视）
+  - 监听数据变化并执行副作用
+
+---
+* **[component | Component](https://vuejs.org/guide/essentials/component-basics.html)**
+  - com-（一起）+ ponere（放置）
+  - 可复用的 UI 组成单元
+
+---
+* **[directive | Directive](https://vuejs.org/guide/essentials/template-syntax.html#directives)**
+  - direct（引导）+ -ive
+  - 对 DOM 行为的直接指示（v-if / v-for / v-bind）
+
+---
+* **[props | Properties](https://vuejs.org/guide/components/props.html)**
+  - properties 的缩写
+  - **父组件向子组件传递数据的入口**
+
+---
+* **[template | Template](https://vuejs.org/guide/essentials/template-syntax.html)**
+  - templum（框架 / 模板）
+  - 描述组件 HTML 结构的区域
+
+---
+* **[script | Script](https://vuejs.org/api/sfc-spec.html)**
+  - script（书写 / 脚本）
+  - 定义组件逻辑与状态
+
+---
+* **[style | Style](https://vuejs.org/api/sfc-spec.html#style)**
+  - style（风格 / 样式）
+  - 定义组件的视觉外观
+
+---
+* **[scoped | Scoped Style](https://vuejs.org/api/sfc-spec.html#scoped)**
+  - scope（范围）
+  - 样式作用范围限定在当前组件
+
+---
+* **[composable | Composable Function](https://vuejs.org/guide/reusability/composables.html)**
+  - compose（组合）+ -able
+  - 可被组合复用的逻辑函数（Composition API）
+
+---
+* **[lifecycle | Lifecycle Hooks](https://vuejs.org/guide/essentials/lifecycle.html)**
+  - life（生命）+ cycle（周期）
+  - 组件从创建到销毁的完整过程
+
+---
+* **[mount | Mount Component](https://vuejs.org/api/application.html#app-mount)**
+  - mount（挂载 / 安装）
+  - 将组件渲染并挂载到 DOM 上
+
+---
+* **[unmount | Unmount Component](https://vuejs.org/api/application.html#app-unmount)**
+  - un-（反向）+ mount
+  - 将组件从 DOM 中卸载
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
