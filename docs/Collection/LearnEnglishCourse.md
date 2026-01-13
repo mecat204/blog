@@ -6,6 +6,10 @@
 * **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
 
 ---
+* **[qwerty](https://qwerty.kaiyi.cool/)**
+
+
+---
 * **[chidiwilliams | buzz | 翻译软件 ](https://github.com/chidiwilliams/buzz)**
   - [buzz | zh](https://chidiwilliams.github.io/buzz/zh/docs)
 

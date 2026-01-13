@@ -1,6 +1,8 @@
 ### 000. Download
 * **[dlpanda](https://dlpanda.com/zh-CN)**
 
+* **[qwerty](https://qwerty.kaiyi.cool/)**
+
 ---
 ### 001. Javascript-learn
 * [Traversy Media](https://www.youtube.com/@TraversyMedia)
