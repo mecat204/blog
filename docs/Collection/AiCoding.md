@@ -6,8 +6,8 @@
 
 ---
 ### 001. AI·website
-* [videotube.ai](https://videotube.ai/)
-* [Nano Banana - AI 图像编辑器 | 编辑照片并添加文字](https://nanobanana.ai/)
+* **[videotube.ai](https://videotube.ai/)**
+* **[Nano Banana - AI 图像编辑器 | 编辑照片并添加文字](https://nanobanana.ai/)**
 
 ---
 ### 002. Coding online
