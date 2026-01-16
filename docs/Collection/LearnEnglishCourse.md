@@ -538,11 +538,13 @@
   - [各种量词英语表达](https://v.douyin.com/sXwQMmvcr_c/)
 
 ---
-* **[一叶手记 | 手写生活缝隙里的光 - 记录温暖，也治愈慌张。日子有烟火，笔下有远方。问绕前行，步履不停。](https://v.douyin.com/NjsN49u1frA/)**
-  - [一切都是最好的安排，加油！| 人生感悟](https://v.douyin.com/3WwtO15sgTM/)
+* **[听语英语研习社 | 嗨，我是星晴 🌷【听语英语研习社】知识星球主理人 | 多年英语翻译经验，分享点滴英语知识，伴你成长 | 五百章 | Douyin](https://v.douyin.com/paNb0F2Vl0U/)**
+  - [Important Terms and Ideas for Describing Artificial Intelligence](https://v.douyin.com/xGszsdPynX8/)
+  - [Five Things to Know about Notre Dame Cathedral](https://v.douyin.com/aEQBD38i-fk/)
 
 ---
-* **[电子米 | 把这当云存储，无人认识我的地方，是我自己的防空洞，想到啥说啥, 等老了再来看。](https://v.douyin.com/ZsKyLBVhTBY/)**
+* **[一叶手记 | 手写生活缝隙里的光 - 记录温暖，也治愈慌张。日子有烟火，笔下有远方。问绕前行，步履不停。百章 | Douyin](https://v.douyin.com/NjsN49u1frA/)**
+  - [一切都是最好的安排，加油！| 人生感悟](https://v.douyin.com/3WwtO15sgTM/)
 
 ---
 * **[BBC英语纪录频道](https://v.douyin.com/mot89bKXk8A/)**

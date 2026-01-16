@@ -28,6 +28,10 @@
   * **[laodifang.tv](https://www.laodifang.tv/)**
 
   ---
+  - **[腾讯视频 - Get the WeTV APP | 904万 | Youtube](https://www.youtube.com/@TencentVideo/videos)**
+    - [ENG SUB【仙剑奇侠传三 Sword and Fairy 3】EP05](https://www.youtube.com/watch?v=SsZg2eYbG5c)
+
+  ---
   * **libvio**
   - **[libvio.mov](https://libvio.mov/)**
   - **[libvio.vip](https://libvio.vip/)**
