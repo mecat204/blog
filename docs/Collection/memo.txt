@@ -17,5 +17,4 @@
 * Aoi Tsukasa | Tsukasa Aoi | DV-1241
 * Shuri Atomi | Atomi Shuri | MIRD-183
 * Aoi Tsukasa | Tsukasa Aoi | DV-1367
-* [Search drug](https://limbopro.com/)
-  - [limbopro](https://github.com/limbopro)
+
