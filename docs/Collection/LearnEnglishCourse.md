@@ -547,11 +547,11 @@
   - [一切都是最好的安排，加油！| 人生感悟](https://v.douyin.com/3WwtO15sgTM/)
 
 ---
-* **[BBC英语纪录频道](https://v.douyin.com/mot89bKXk8A/)**
+* **[BBC英语纪录频道 | BBC英语官方记录片 🤝官方资源一手推荐 | 二百章 | Douyin](https://v.douyin.com/mot89bKXk8A/)**
   - [神奇的动物 第二篇 RAISING A FAMILY 4](https://v.douyin.com/04FGqYPj8is/)
 
 ---
-* **[爱折腾的姜姜](https://v.douyin.com/ZyctINMF2NQ/)**
+* **[爱折腾的姜姜 | 天文学科普 | 科技改变生活 | 艺术科普 | 古代古代历史 | 商业启蒙 | 金融如何运转 | 三百家 | Douyin](https://v.douyin.com/ZyctINMF2NQ/)**
   - [揭秘发电站](https://v.douyin.com/vLXDtN5i648/)
   - 揭秘发电站：从煤到电的魔法 小朋友们，你知道我们每天用的电是从哪里来的吗？答案就在一个神奇的地方——发电站！发电站是制造电的工厂，它帮助我们打开灯💡、玩电脑🖥️、看电视📺，甚至给你的平板充电！现在，让我们一起了解电站是怎么工作的吧！ 首先，发电站会使用一种黑色的岩石叫煤。煤里面藏有很多能量，发电站用大机器把煤打碎，再放进一个超大的炉子🔥。炉子把煤烧得很热很热，这时候它会加热周围的水，把水变成蒸汽。已经变成超级热的蒸汽会推动一种叫涡轮机的的机器，让涡轮机旋转起来。涡轮机每旋转一次，就创造了电能⚡！最后，电能通过电线被送到我们的家，让我们可以安心使用电力。 不过，有些发电方式会产生烟雾和废气。发电站会用特殊的机器把这些废气清理干净，甚至把一些剩下的灰烬变成建筑用的材料，比如水泥。是不是很厉害呢？其实，我们也可以期待未来更多利用🌞太阳和🌬️风发电！你觉得保护环境重要吗？可以和爸爸妈妈一起讨论哦！ 快告诉大家这个有趣的知识吧！😊 🌟重点单词🌟 versatile /ˈvɜːsətaɪl/ adj. 多功能的；用途广泛的 turbine /ˈtɜːrbaɪn/ n. 涡轮机 furnace /ˈfɜːrnɪs/ n. 炉子；火炉 emission /ɪˈmɪʃən/ n. 排放；散发 fossil fuel /ˈfɒsl fjuːəl/ n. 化石燃料
 
@@ -780,6 +780,10 @@
 
 ---
 * **[猫猫走天下 | Douyin](https://v.douyin.com/ibTBHaQOfkI/)**
+
+---
+### 9999. Download
+* **[dlpanda](https://dlpanda.com/zh-CN)**
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)

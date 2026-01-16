@@ -650,4 +650,14 @@
 * **[汉武大帝](https://pan.quark.cn/s/2c92f5604b29#/list/share)**
 
 ---
+### 026. 原神大电影
+* **[空空 | 原神剧情整活 | 五百章 | Douyin](https://v.douyin.com/xZOlCE6uX34/)**
+  - [**原神大电影-猎月人篇**](https://v.douyin.com/XuteTLmcF6Y/)
+  - [**原神大电影-哥伦比亚篇**](https://v.douyin.com/p3qU8jgcxdY/)
+
+---
+### 999. Download
+* **[dlpanda](https://dlpanda.com/zh-CN)**
+
+---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)

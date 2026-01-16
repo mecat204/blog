@@ -783,6 +783,9 @@
   - [AI刚发的AI智能体浏览器Atlas再次解雇双手 Open AI近期发布的Atlas智能体浏览器，是解放双手还是解雇双手？视频一键总结，就连订火车票都一键直达](https://v.douyin.com/i9busAqA3V8/)
   - Atlas智能体浏览器
 
+---
+### 999. Download
+* **[dlpanda](https://dlpanda.com/zh-CN)**
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
