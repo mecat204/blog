@@ -399,6 +399,11 @@
   - [画妖怪吗？压箱底的技法全公开 ……用新《观山海》的风格画了枚"相柳"，做了个比较全面的技法分享，从工具、用笔、上色步骤等都记录了一下，希望对喜欢画画的朋友有所帮助。](https://v.douyin.com/jUpcayNNEr4/)
 
 ---
+* **[宫老丝的宇宙 | 东方美学xAIGC | 三百章 | Douyin](https://v.douyin.com/9v_3RwtV4W4/)**
+  - [东方美学](https://v.douyin.com/YfvcnaQdd9M/)
+  - [倚天屠龙记 金庸 | 张无忌 | 东方美学 | 周芷若 | 倚天屠龙记](https://v.douyin.com/gWKfXyKK8kQ/)
+
+---
 * **[站酷](https://www.zcool.com.cn/)**
   - **[站酷插画师](https://www.zcool.com.cn/search/image?album=ZMjM4MDU1OTA4_2)**
 
