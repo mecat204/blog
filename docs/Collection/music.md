@@ -624,7 +624,7 @@
   - **[Rain Sound On Window with Thunder SoundsㅣHeavy Rain for Sleep, Study and Relaxation, Meditation | 窗外雨声伴雷声——大雨助眠、学习、放松、冥想](https://www.youtube.com/watch?v=mPZkdNFkNps)**
 
 ---
-* **[睡觉的雨声](https://www.youtube.com/@rainandthundersounds/videos)**
+* **[睡觉的雨声 | 28.1万 | Youtube](https://www.youtube.com/@rainandthundersounds/videos)**
   * 该通道使用双耳降雨记录技术来准确模拟人耳被设计用来聆听世界的方式。嗨，我的名字是 Drew，我是一个团队的一员，该团队记录来自世界各地的降雨和雷暴。当我们找不到任何包含视频的降雨和氛围频道时，我们的旅程就开始了。我们决定着手满足这一需求。令我们惊讶的是，许多其他人都在寻找同样的东西，我们的团队从那时起就不断壮大。
   * 音频和视频编辑：
   * Adobe After Effects、Logic Pro、Final Cut Pro 和 iMovie。
