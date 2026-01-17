@@ -442,5 +442,6 @@ TCP    127.0.0.1:3000       127.0.0.1:7675       ESTABLISHED   16456
 
 * 补充技巧：SEQUENCE函数（Excel 2021及以上版本）
     - 输入公式 =TEXT(SEQUENCE(65),"000")，直接生成65行的三位数序列
+
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
