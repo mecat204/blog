@@ -16,6 +16,10 @@
 * **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
 
 ---
+* **[cs249r_book | harvard-edge](https://github.com/harvard-edge/cs249r_book)**
+  - **[Machine Learning Systems](https://mlsysbook.ai/book/)**
+
+---
 ### 0001. Useful Not True
   - "Useful Not True" is about reframing.
   - "有用但不真实"是关于重构。
