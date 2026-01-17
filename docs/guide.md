@@ -108,6 +108,8 @@
 * **翻译册**
   - [文学作品](翻译册/文学作品)
   - [哲学宗教](翻译册/哲学宗教)
+  - [Coding](翻译册/Coding)
+
 ---
 * **BooksTranslate**
   - [Machine Learning Systems](BooksTranslate/MachineLearningSystems)
