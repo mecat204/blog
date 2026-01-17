@@ -37,6 +37,15 @@
   - [国外很多影视ip原型都源自山海经，靠山海经赚得盆满钵满，如果我们自己都不加以挖掘山海经，岂不是愧对这部上古奇书！| 观山海](https://v.douyin.com/NWkl7exrLBQ/)
 
 ---
+* **[木子AI研究所 | 21.8万 | Youtube](https://www.youtube.com/@muziailab/videos)**
+  - 擁有多年互聯網行業工作經驗，短視頻自媒體賬號孵化者。
+  - 在這裏，我會與大家分享如何利用AI工具打造個人IP，將AI應用於各個行業。無論你是對AI充滿好奇，還是懷揣創業夢想，本頻道都將為你提供有價值的信息和實用的技巧。
+  - 我的郵箱: muziailab@gmail.com
+  - 我的微信: muziailab
+  - B站: https://space.bilibili.com/478527142
+  - X: https://x.com/muziailab
+
+---
   * **[Summer Hailstones 夏冰雹 | 12.4万 | Youtube](https://www.youtube.com/@SummerHailstones)**
     - [拖延、焦虑、没动力？《DOSE 效应》神经科学方法，帮你养成高能量体质｜冰雹讲书｜英文原版](https://www.youtube.com/watch?v=X4hwczXIhbQ)
 
