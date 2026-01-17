@@ -624,6 +624,23 @@
   - **[Rain Sound On Window with Thunder SoundsㅣHeavy Rain for Sleep, Study and Relaxation, Meditation | 窗外雨声伴雷声——大雨助眠、学习、放松、冥想](https://www.youtube.com/watch?v=mPZkdNFkNps)**
 
 ---
+* **[睡觉的雨声](https://www.youtube.com/@rainandthundersounds/videos)**
+  * 该通道使用双耳降雨记录技术来准确模拟人耳被设计用来聆听世界的方式。嗨，我的名字是 Drew，我是一个团队的一员，该团队记录来自世界各地的降雨和雷暴。当我们找不到任何包含视频的降雨和氛围频道时，我们的旅程就开始了。我们决定着手满足这一需求。令我们惊讶的是，许多其他人都在寻找同样的东西，我们的团队从那时起就不断壮大。
+  * 音频和视频编辑：
+  * Adobe After Effects、Logic Pro、Final Cut Pro 和 iMovie。
+  * 视频采集设备:
+    - Iphone 11、GoPro Hero 7 黑色、EOS Rebel T7
+  * 录音设备:
+    - H4N Pro，罗德 NT4
+
+  ---
+  - **[Rain Sounds for Sleep - Open Window Rain Sounds - Heavy Rain Sounds - 1 hour](https://www.youtube.com/watch?v=XhAhviQaxpQ)**
+  - **[SUV Camping During A Storm - 1 hour rain sounds](https://www.youtube.com/watch?v=op3B9ZdseJY)**
+
+* **[Home | Storm](https://shaantistorms.wixsite.com/shaanti)**
+  - **[Website Builder - Create a Free Website In Minutes | Wix.com](https://www.wix.com/)**
+
+---
 * **[贵州唐生Mr | 本频道专注收录雨声、溪流、鸟鸣等等... 一切大自然的白噪音 | 愿用纯净的自然之声，抚平你每一寸焦躁与不安  | 4K | 五百章 | Douyin](https://v.douyin.com/7qEUyn4Gygw/)**
   - [户外白噪音的设备和拍摄制作过程，助眠类大自然声音幕后拍摄花絮 | 白噪音 | 大自然声音 | 雨声 | 流水声 | 拍摄花絮](https://v.douyin.com/-Bzu5Zk3u9k/)
   - [下雨天拍摄花絮，日常拍摄VLOG，幕后雨声录制 拍摄录音：Canon R10 Gopor11 DJI mini3pro zoomH5 拍摄时间：2025.06.21 拍摄地点：贵州省黔东南州天柱县邦洞镇 视频编辑：DaVinci Resolve 大家好，本频道专门为大家收集各类自然声音，以帮助大家助眠，解压，学习和冥想等场所用，本频道所有的视频和声音，都是本人在贵州实地取景录制， 如果您喜欢这类视频，欢迎点赞订阅分享 | 下雨天 | 雨声助眠 | 日常vlog | 拍摄花絮 | 放松解压](https://v.douyin.com/Hngt5oxI0Cc/)
