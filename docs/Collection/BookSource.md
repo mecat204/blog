@@ -38,6 +38,8 @@
 ---
 * **[qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases)**
 
+* **[FreeMdict Forum](https://forum.freemdict.com/latest)**
+
 ---
 * **[安娜的档案](https://zh.annas-archive.org/)**
 
