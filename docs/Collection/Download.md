@@ -3,9 +3,10 @@
 
 ---
 ### 0001. Software
-* **[FastStone Capture]**
-* **[Sublime Text]**
-* **[Medlexo Ultimate]**
+* **[FastStone Capture](https://www.cnblogs.com/LiuYanYGZ/p/16839503.html)**
+* **[Sublime Text](https://www.sublimetext.com/download)**
+* **[Medlexo Ultimate](https://medlexo.is-an.app/cn.php)**
+  - [MedlexoNews](https://github.com/MedlexoNews/Update?tab=readme-ov-file)
 
 ---
 ### 999. Download
