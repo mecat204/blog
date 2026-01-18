@@ -6,7 +6,8 @@
 
 ---
 ### 001. 科学资料 | 机器学习
-* **[Machine-Learning-Systems](https://mecat204.github.io/website/翻译册/Machine-Learning-Systems-dual.pdf)**
+* **[Machine-Learning-Systems](https://mecat204.github.io/website/翻译册/Machine-Learning-Systems.pdf)**
+* **[Machine-Learning-Systems](https://mecat204.github.io/website/翻译册/Machine-Learning-Systems.zh-CN.dual.pdf)**
 
 ---
 * **[helloChenLei/clip | 中英文对照](https://github.com/helloChenLei/clip)**
