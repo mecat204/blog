@@ -51,49 +51,59 @@
 * **[VIMEO | 类似于YOUTUBE](https://vimeo.com/)**
 
 ---
-* **[1905-MovieTheater](https://www.youtube.com/@1905-MovieTheater)**
+* **[电影大剧院 1905 Movie Theater | 127万 | ](https://www.youtube.com/@1905-MovieTheater)**
+  - **[动作电影 | 动作题材佳作--热血燃爆肾上激素](https://www.youtube.com/playlist?list=PLSmkdyVkfosdCZDaO0uwBDOzYsI9YGkbg)**
+  - **[爱情电影 | 跟着角色去感受爱恨纠葛](https://www.youtube.com/playlist?list=PLSmkdyVkfosfZYsYgS_0JmepgOF1q5Ytf)**
+  - **[剧情类电影 | 剧情环环相扣令人上瘾](https://www.youtube.com/playlist?list=PLSmkdyVkfosfq4J8Fyd4Xi_VuSDKy6uCR)**
+  - **[](https://www.youtube.com/playlist?list=PLSmkdyVkfosfJSiubsI20URUbewcG4aY7)**
+
+  ---
   - [水浒传之英雄本色](https://www.youtube.com/watch?v=2j3KFNTEPNM)
 
 ---
-* **[經典華語老電影](https://www.youtube.com/@chnclassic)**
-  - [新天龙八部之天山童姥 (1994)](https://www.youtube.com/watch?v=hWjcf8ln_Rs)
+* **[經典華語老電影 | 61.5万 | Youtube](https://www.youtube.com/@chnclassic)**
+  - 經典華語老電影頻道專注在YouTube發行華語經典電影，擁有海量正版授權，歡迎訂閱!
+  - Classic Chinese Old Movies Channel focuses on distributing Chinese classic movies on YouTube, with a large number of genuine licenses, welcome to subscribe
+
+  ---
+  - **[新天龙八部之天山童姥 (1994)](https://www.youtube.com/watch?v=hWjcf8ln_Rs)**
 
 ---
 * **[影视](https://www.youtube.com/feed/storefront?bp=EgCSAQMI9gOiBQIoBQ%3D%3D)**
 
 ---
-* **[邵氏放映厅 | youtube](https://www.youtube.com/@%E9%82%B5%E6%B0%8F%E6%94%BE%E6%98%A0%E5%8E%85)**
+* **[邵氏放映厅 | 896位 | youtube](https://www.youtube.com/@%E9%82%B5%E6%B0%8F%E6%94%BE%E6%98%A0%E5%8E%85)**
 
 ---
-* **[中国精品电视剧](https://www.youtube.com/@BestC-Drama/featured)**
+* **[中国精品电视剧 | 6万 | Youtube](https://www.youtube.com/@BestC-Drama/featured)**
   - [一代枭雄](https://www.youtube.com/watch?v=piPubw47K_8&list=PLRWT6lKXUm2mzZoHbQUBwlsNDsvCICQrF)
 
 ---
-* **[优优经典剧场——YoYo Television Series Classic](https://www.youtube.com/@YoYoTVClassic)**
+* **[优优经典剧场——YoYo Television Series Classic | 41.5万 | Youtube](https://www.youtube.com/@YoYoTVClassic)**
   - [一代枭雄](https://www.youtube.com/watch?v=piPubw47K_8&list=PLRWT6lKXUm2mzZoHbQUBwlsNDsvCICQrF)
 
 ---
-* **[TVB Drama 国语剧场](https://www.youtube.com/@TVBDrama)**
+* **[TVB Drama 国语剧场 | 39.5万 | Youtube](https://www.youtube.com/@TVBDrama)**
   - [射雕英雄传 | 神雕侠侣| 天龙八部 老版](https://www.youtube.com/watch?v=aOXXW1KCnOU&list=PL9K8ksI6u303WctTcb19ja24jPQD2nWWB)
 
 ---
-* **[酷看青春剧场](https://www.youtube.com/@kukandramaromance)**
+* **[酷看青春剧场 | 53.3万 | Youtube](https://www.youtube.com/@kukandramaromance)**
   - [大生意人](https://www.youtube.com/watch?v=AoZg9sdMTX8&list=PLkMtr4Yvj1xKKAVaLbCr3m6o8R098z7dD&index=1)
 
 ---
 ### 003. 娱乐节目
-* **[CCTV春晚](https://www.youtube.com/@CCTVGala)**
+* **[CCTV春晚 | 107万 | Youtube](https://www.youtube.com/@CCTVGala)**
   - [2025年中央广播电视总台中秋晚会 2025 Mid-Autumn Festival Gala | CCTV春晚](https://www.youtube.com/watch?v=WF8LhUhyJDw)
 
 ---
 ### 004. 纪录片
-* **[芒果TV纪录片 MangoTV EDU](https://www.youtube.com/@MangoTVEDU)**
+* **[芒果TV纪录片 MangoTV EDU | 1.02万 | Youtube](https://www.youtube.com/@MangoTVEDU)**
   - [《中国》第一季合集：从春秋到盛唐 再现中国历史上"群星"闪耀时刻 展现悠悠千年古国的精神图腾](https://www.youtube.com/watch?v=K4YI0TwiSxM)
   - [中国》第二季合集：从盛唐到近代 讲述中国自盛唐拐点至辛亥革命的思想源变 呈现有血有肉的中华文明演进史](https://www.youtube.com/watch?v=CG22y9KTCsI)
   - [中国》第三季合集：从神话到历史 上溯尧舜禹 时跨夏商周 以当代视角与中西视野剖析"何以中国"](https://www.youtube.com/watch?v=kqWWKurJVXY)
 
 ---
-* **[湖南卫视芒果TV官方频道  China HunanTV Official Channel](https://www.youtube.com/@MangoTV-Official)**
+* **[湖南卫视芒果TV官方频道  China HunanTV Official Channel | 547万 | Youtube](https://www.youtube.com/@MangoTV-Official)**
   - [《中国第二季 China S2》 第1集：惊变——跟随诗仙李白与诗圣杜甫 感受巍巍大唐的飞扬与沉潜](https://www.youtube.com/watch?v=-ybZh9RMUEw&list=PLUM8x224JrX-EF3FLZ8_7YsKO2mviA_1P)
 
 ---

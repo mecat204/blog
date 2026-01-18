@@ -1,30 +1,46 @@
-<!-- docs/guide.md -->
+<!-- docs/_sidebar.md -->
 * [**首页**](README)
   - [readme](Collection/readme)
+
+---
 * **摘录集**
   - [Douyin](摘录集/douyin)
   - [认知](摘录集/认知)
+
+---
 * **古诗词**
   - [古文·唐诗·宋词](古诗词/001.古文)
+
+---
 * **千集录**
   - [哲思](千集录/001.哲思)
   - [千思集](千集录/002.千思集)
   - [心法](千集录/003.心法)
   - [摘录](千集录/004.摘录)
   - [经文](千集录/005.经文)
+
+---
 * **同义词辨析词典**
   - [words](同义词辨析词典/words)
   - [template](同义词辨析词典/template)
   - [a](同义词辨析词典/a)
+
+---
 * **同义词辨析简化版**
   - [a](同义词辨析简化版/a)
+
+---
 * **VS Code**
-  - [Win快捷键](VS Code/Win快捷键)
-  - [macOS快捷键](VS Code/macOS快捷键)
+  - [Win快捷键](VSCode/Win快捷键)
+  - [macOS快捷键](VSCode/macOS快捷键)
+
+---
 * **Book**
   - [瞬间记单词](Book/瞬间记单词)
   - [words](Book/words)
   - [构词法速查表](Book/构词法速查表)
+
+---
 * **Collection**
   - [readme](Collection/readme)
   - [Todaytask](Collection/Todaytask)
@@ -60,8 +76,8 @@
   - [心理学·思想史](Collection/心理学·思想史)
   - [哲学史](Collection/哲学史)
   - [世界树](Collection/世界树)
-  - [催眠](Collection/催眠)
   - [科普](Collection/科普)
+  - [催眠](Collection/催眠)
   - [思绪](Collection/思绪)
   - [健康养生](Collection/健康养生)
   - [道法自然](Collection/道法自然)
@@ -83,27 +99,40 @@
   - [online](Collection/online)
   - [TranslationVault](Collection/TranslationVault)
   - [Work](Collection/work)
+
+---
 * **CodeSnippet**
   - [Frontend](CodeSnippet/Frontend)
   - [JSfunc](CodeSnippet/JS_func)
   - [Python](CodeSnippet/Python)
+
+---
 * **TechnicalGuide**
   - [npm](TechnicalGuide/npm)
   - [technology](TechnicalGuide/Technology)
   - [git](TechnicalGuide/git)
   - [net](TechnicalGuide/net)
   - [cmd&&gitbash](TechnicalGuide/cmd&&gitbash)
+
+---
 * **Markdown**
   - [Markdown基础语法结构](markdown/01.Markdown的11种基本语法)
+
+---
 * **Bash**
   - [Bash的介绍](bash/001.bash的介绍)
   - [gitbash-command](bash/002.gitbash-command)
   - [gitbash](bash/003.gitbash)
   - [ssh-agent](bash/004.ssh-agent)
+
+---
 * **CommonSense**
   - [GeneralKnowledge](CommonSense/GeneralKnowledge)
+
+---
 * **英文小说**
-    - [EnglishStory](英文小说/EnglishStory)
+  - [EnglishStory](英文小说/EnglishStory)
+
 ---
 * **翻译册**
   - [文学作品](翻译册/文学作品)
@@ -115,4 +144,9 @@
   - [Machine Learning Systems](BooksTranslate/MachineLearningSystems)
 
 ---
+* **技术栈**
+  - [短链接风险与对策](技术栈/0001.bit.ly-短链接风险与对策.md)
+
+---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
+
