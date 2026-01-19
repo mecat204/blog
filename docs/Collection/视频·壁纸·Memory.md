@@ -408,6 +408,11 @@
   - **[站酷插画师](https://www.zcool.com.cn/search/image?album=ZMjM4MDU1OTA4_2)**
 
 ---
+### 008. 计算机专业知识分享站
+* **[知晓栈 | 计算机专业知识分享站 | 五百章 | Douyin](https://v.douyin.com/Y95LV5tThSE/)**
+  - [微服务应用的九大组成部分](https://v.douyin.com/4yi_Zar75_Y/)
+
+---
 ### 999. Download
 * **[dlpanda](https://dlpanda.com/zh-CN)**
 
