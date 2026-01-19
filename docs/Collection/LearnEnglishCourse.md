@@ -675,6 +675,34 @@
   - [英语阅读](https://v.douyin.com/fRQBkoVfhkE/)
 
 ---
+* **[英语启蒙UXA| 五百章 | Douyin](https://v.douyin.com/lWxrQf40OU8/)**
+  - **学生**
+    * **momo英语启蒙**
+    * **KK英语动画屋**
+    * **星星启蒙英语**
+    * **看剧学英语UXA**
+    * **99英语启蒙ZQ**
+    * **胡言英语启蒙**
+    * **PIP启蒙英语**
+    * **Mini英语启蒙**
+    * **Frank启迪小屋**
+    * **ZUZU单词歌**
+    * **YOYO英语歌**
+    * **Bunny趣英语**
+    * **LULU英语启蒙**
+    * **4FUN学英语**
+    * **英语启蒙UXA虫虫鸟**
+    * **AI看英语**
+    * **山海文化绘**
+    * **Baby英语启蒙**
+    * **英语启蒙TT**
+    * **小熊学英语**
+
+  - [颜色英文儿歌横屏版  | 英语启蒙UXA-横版可电视投屏的尺寸来了 | 星星启蒙英语优秀学生作业](https://v.douyin.com/tpT3DjwfHt4/)
+
+* **[星星启蒙英语 | 百章 | Douyin](https://v.douyin.com/Dr1xpKbfij0/)**
+
+---
 ### 0002. English source
 * **English source**
 
