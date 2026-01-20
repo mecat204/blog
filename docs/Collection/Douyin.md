@@ -314,7 +314,6 @@
   - **[杏之干 | 二百章 | Douyin](https://v.douyin.com/old4fKr0Ogo/)**
     - [丝柯克](https://v.douyin.com/j87lTVewqiM/)
 
-
   ---
   - **[洛盈盈师妹 | 百章 | Douyin](https://v.douyin.com/4Xd1CFIt5NY/)**
     * [励志](https://v.douyin.com/31zsh1ztiPk/)
@@ -329,17 +328,17 @@
     - [在雪季末开个板 | 滑雪 | 单板滑雪](https://v.douyin.com/BZPJKJt4ePY/)
 
   ---
-  * **[威廉君 | 百章 |Douyin](https://v.douyin.com/_rkMKSjEYts/)**
+  * **[威廉君 | 百章 | Douyin](https://v.douyin.com/_rkMKSjEYts/)**
     - **[AIGC生成虚拟形象｜绫波丽2K壁纸](https://v.douyin.com/nTTps7_jq8E/)**
 
 ---
 * **2021**
-  * **[一哒 | 你好, 只是换了一个身份 祝开心 | 二百章 | Douyin](https://v.douyin.com/3RuCJw8yjvc/)**
+  * **[一哒 | Your.Yida. | 你好, 只是换了一个身份 祝开心 | 二百章 | Douyin](https://v.douyin.com/3RuCJw8yjvc/)**
     - [梁山伯与祝英台](https://v.douyin.com/yYPrSFceuGY/)
 
 ---
 * **2022**
-  * **[羊贵妃 t宝 | 五百章 |Douyin](https://v.douyin.com/Q4mef7fztWY/)**
+  * **[羊贵妃 t宝 | 想做恋爱博主 差个人 | 五百章 | Douyin](https://v.douyin.com/Q4mef7fztWY/)**
     - [这里不噶腰子 哈哈哈](https://v.douyin.com/0-BywvuZmHI/)
     - [日常吐槽](https://v.douyin.com/VHkyVNrc6Ew/)
 
@@ -349,8 +348,14 @@
     - [心向自由致遠方](https://v.douyin.com/-pMTPhsdcJc/)
 
   ---
+  * **[小美是个野孩纸 | 1990位 | Youtube](https://www.youtube.com/@xiaomei_ski/videos)**
+    - [【小美是个野孩子】 燃起来了！！一镜到底！是滑雪快还是骑摩托快？新疆阿勒泰三月的雪竟然这么好？](https://www.youtube.com/watch?v=baBhMPsgZUs&list=PLRLm2P7GB6et_Ac7WEIg7-PFZuHp1-IEQ)
+
   * **[小美是个野孩纸 | 千章 | Douyin](https://v.douyin.com/2Yecf8ejux8/)**
     - [这是不是你想象中，自由的样子？](https://v.douyin.com/Acukcyz3F2s/)
+    - [兄弟上号！今天够不够帅？ | 尔滨坐不住又整活儿了](https://v.douyin.com/QvA_79hKXwQ/)
+    - [原来女生耍起帅来连自己都想嫁！| 滑雪 | 全民冰雪季 | 我的粉雪时刻](https://v.douyin.com/lKVsLvlowMg/)
+    - **[这是不是你想象中，自由的样子？| 小美真会玩](https://v.douyin.com/a6sfhXm8Tfs/)**
 
 ---
 * **2023**
@@ -450,7 +455,8 @@
   ---
   * **[奶思兔咪鱿 | Nice to meet you | 五百章 | Douyin](https://v.douyin.com/yF1WG9-otuc/)**
     - [儿时不解 大人为何拼尽全力依然清贫 长大才知 光是活着养家便已是多数人的极限](https://v.douyin.com/shTHN-zbKIY/)
-
+  * **[奶思兔 | 8位 | Youtube](https://www.youtube.com/@rabbitTwo23/shorts)**
+    - [今天吃西红柿炒鸡蛋](https://www.youtube.com/shorts/T0rFyyKiZBY)
   ---
   * **[鱿子 | 祝大家天天开心 |  百章 | Douyin](https://v.douyin.com/v4cURCRwMU4/)**
     - [拥有什么就享受什么](https://v.douyin.com/WUkqEGeVf2s/)
@@ -512,8 +518,11 @@
     - [每年过年外婆都会说~ 日常唠嗑  我的外婆](https://v.douyin.com/_Yp8ZwvdY9w/)
 
   ---
-  * **[傻白呀 | 千章 | Douyin](https://v.douyin.com/-pcXaJmmjN0/)**
+  * **[傻白呀 | To see a bigger world | 千章 | Douyin](https://v.douyin.com/-pcXaJmmjN0/)**
     - [时间会把所有苦难变成笑谈，所以请一定保住狗命，去见证更精彩的世界 | 反焦虑 | 人生感悟 | 岩中花述](https://v.douyin.com/K0wrmNGOGRM/)
+
+  * **[傻白在美国 | 5300位 | 傻白想带您看一个更大的世界 | 可傻可精，静若呆鸭，动如深井冰 Youtube](https://www.youtube.com/@ShabaiU.S./videos)**
+    - [介绍一种致命的顶级吸引力](https://www.youtube.com/watch?v=9cn2ID9rKJA)
 
   ---
   * **[折玉风 | 千章 | Douyin](https://v.douyin.com/g2vkpwEo6-E/)**
@@ -532,7 +541,7 @@
     - ["撑不下去的时候，就告诉自己：过好今天就行。"](https://v.douyin.com/bqv3Jl46oew/)
 
   ---
-  * **[小土豆 | 多肯定自己！！你超棒的！！ 千章 | Douyin ](https://v.douyin.com/bM3SY-Biix4/)**
+  * **[小土豆 | 多肯定自己！你超棒的！ | 祝我们爱与被爱能同时发生 | 千章 | Douyin ](https://v.douyin.com/bM3SY-Biix4/)**
     - [要照顾好自己 见与不见我都思念](https://v.douyin.com/dZfbT8hLfiw/)
 
   ---
@@ -686,7 +695,7 @@
 
 ---
 ### 016. 励志
-* **[鹭途自驾|旅小哒| 热衷并擅长于川西所有地区 | 百章 | Douyin](https://v.douyin.com/eMb-fuHcHb4/)**
+* **[鹭途自驾 | 旅小哒| 热衷并擅长于川西所有地区 | 百章 | Douyin](https://v.douyin.com/eMb-fuHcHb4/)**
   - [人生的旅途](https://v.douyin.com/Vhr9QbkBolI/)
 
 ---

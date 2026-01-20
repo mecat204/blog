@@ -7,7 +7,7 @@
 
 ---
 ### 001. Life Vlog
-* **[李子柒 Liziqi | Youtube](https://www.youtube.com/@cnliziqi)**
+* **[李子柒 Liziqi | 2970万 | Youtube](https://www.youtube.com/@cnliziqi)**
   - 这里是李子柒YouTube官方频道哦～欢迎订阅：https://goo.gl/nkjpSx
   - Please  subscribe to 【李子柒 Liziqi 】Liziqi Channel on YouTube if you like my videos
 
@@ -19,10 +19,24 @@
   - 目前没有任何官方粉丝后援会哦~
   - So far I don't have any official fan clubs~
 
-* **[李子柒 | 李家有女，人称子柒。| Douyin](https://v.douyin.com/UzDy7CInEV4/)**
+* **[李子柒 | 李家有女，人称子柒。| 千章 | Douyin](https://v.douyin.com/UzDy7CInEV4/)**
 
 ---
-* **[都靓 | Youtube](https://www.youtube.com/@duliangdushu/videos)**
+* **[敢敢烧琉璃 | 859位 | Youtube](https://www.youtube.com/@NB345/videos)**
+  - [baby别叫我达芬奇](https://www.youtube.com/watch?v=K410JXv6iK4)
+
+* **[敢敢烧琉璃 | 已经在跟老师学习新的手艺啦～希望大家天天开心 | 五百章 | Douyin](https://v.douyin.com/slNExV4ogek/)**
+  - [帮我看看头发上是什么？| 不要对我冷冰冰 | 最简单的手势舞来了](https://v.douyin.com/kSo9EsE91SM/)
+  - [冒出来的不是烟，是我的灵魂 | 人生就是要充满passion](https://v.douyin.com/PDkNNtPzaYU/)
+  - [你们催的佛怒火莲！终于来啦！| 琉璃 | 生活碎片plog | 2024又快过了一半 | 佛怒火莲 | flower](https://v.douyin.com/mOPE2WA_vcw/)
+  - **[牛牛疑惑😐 | 牛牛  | 东边的山坡上有两头牛  | 牛牛表情包  | 手艺人日常  | 冬至为葡萄成熟时按下播放键](https://v.douyin.com/4VyaiuLocpQ/)**
+
+* **[马路牙子 | 名字是小时候同学给起的外号，说我是大马路上的石牙子，天天喊，一开始不喜欢，后来就爱上了  | 五百章 | Douyin](https://v.douyin.com/_yr-t09rssk/)**
+  - [疑似第520通骚扰电话₍˄·͈༝·͈˄*₎◞ ̑̑  | 蓝天  | 雪天  | 不灵不灵手势舞  | 甜妹  | 手势舞](https://v.douyin.com/um-KidQwXpo/)
+  - [战战战我杀杀杀 | 开心最重要啦](https://v.douyin.com/jxS-E6z5TsI/)
+
+---
+* **[都靓 | 2250位 | Youtube](https://www.youtube.com/@duliangdushu/videos)**
   - 阅读是一件最重要的小事。听都靓，讲述中华之美。
   - Beauty of China, Presented by DuLiang
 
@@ -35,6 +49,32 @@
   - [喜迎新年，一口气读懂中国的马。**骑骥驰骋**](https://v.douyin.com/M4e3VxqM7tE/)
   - [你心中哪个省份，最能概括中国？安徽或许就是答案。这里，也是最"皖"美的中国。安徽 | 文脉里的中国 | 安徽人](https://v.douyin.com/RtHkogFsY98/)
   - [国外很多影视ip原型都源自山海经，靠山海经赚得盆满钵满，如果我们自己都不加以挖掘山海经，岂不是愧对这部上古奇书！| 观山海](https://v.douyin.com/NWkl7exrLBQ/)
+
+---
+* **[小美是个野孩纸 | 1990位 | Youtube](https://www.youtube.com/@xiaomei_ski/videos)**
+    - [【小美是个野孩子】 燃起来了！！一镜到底！是滑雪快还是骑摩托快？新疆阿勒泰三月的雪竟然这么好？](https://www.youtube.com/watch?v=baBhMPsgZUs&list=PLRLm2P7GB6et_Ac7WEIg7-PFZuHp1-IEQ)
+
+  * **[小美是个野孩纸 | 千章 | Douyin](https://v.douyin.com/2Yecf8ejux8/)**
+    - [这是不是你想象中，自由的样子？](https://v.douyin.com/Acukcyz3F2s/)
+    - [兄弟上号！今天够不够帅？ | 尔滨坐不住又整活儿了](https://v.douyin.com/QvA_79hKXwQ/)
+    - [原来女生耍起帅来连自己都想嫁！| 滑雪 | 全民冰雪季 | 我的粉雪时刻](https://v.douyin.com/lKVsLvlowMg/)
+    - **[这是不是你想象中，自由的样子？| 小美真会玩](https://v.douyin.com/a6sfhXm8Tfs/)**
+
+---
+* **[奶思兔咪鱿 | Nice to meet you | 五百章 | Douyin](https://v.douyin.com/yF1WG9-otuc/)**
+  - [儿时不解 大人为何拼尽全力依然清贫 长大才知 光是活着养家便已是多数人的极限](https://v.douyin.com/shTHN-zbKIY/)
+* **[奶思兔 | 8位 | Youtube](https://www.youtube.com/@rabbitTwo23/shorts)**
+  - [今天吃西红柿炒鸡蛋](https://www.youtube.com/shorts/T0rFyyKiZBY)
+---
+* **[鱿子 | 祝大家天天开心 |  百章 | Douyin](https://v.douyin.com/v4cURCRwMU4/)**
+  - [拥有什么就享受什么](https://v.douyin.com/WUkqEGeVf2s/)
+
+---
+* **[傻白呀 | To see a bigger world | 千章 | Douyin](https://v.douyin.com/-pcXaJmmjN0/)**
+  - [时间会把所有苦难变成笑谈，所以请一定保住狗命，去见证更精彩的世界 | 反焦虑 | 人生感悟 | 岩中花述](https://v.douyin.com/K0wrmNGOGRM/)
+
+* **[傻白在美国 | 5300位 | 傻白想带您看一个更大的世界 | 可傻可精，静若呆鸭，动如深井冰 |  Youtube](https://www.youtube.com/@ShabaiU.S./videos)**
+  - [介绍一种致命的顶级吸引力](https://www.youtube.com/watch?v=9cn2ID9rKJA)
 
 ---
 * **[木子AI研究所 | 21.8万 | Youtube](https://www.youtube.com/@muziailab/videos)**
