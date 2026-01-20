@@ -1388,7 +1388,7 @@
   - [坚持每天跟着外国博主学英语，口语听力突飞猛进 英语是钥匙，但世界才是你要开的门， 学习是转运的开始！欢迎和我一起变幸运！| **Youtuber: Elena Taber**](https://v.douyin.com/g4wpYhTXXOI/)
 
 ---
-* **[NaNa的英语宝藏 | 你的英语定制食谱 📚知识如旷野 | Douyin](https://v.douyin.com/mbGUxTMzXDQ/)**
+* **[NaNa的英语宝藏 | 你的英语定制食谱 📚知识如旷野 | 二百章 | Douyin](https://v.douyin.com/mbGUxTMzXDQ/)**
   - [今天分享给大家这套超实用的方法](https://v.douyin.com/zeyEt3eI1Ns/)
   - **今天分享给大家这套超实用的方法:**
     * **看英文短视频（油管或破站） 对一段影片多次反复听+场景化影子跟读，用耳朵和嘴巴记住情境里的语句，而非枯燥地学习语法。**选择自己感兴趣的内容很重要，不然很容易觉得乏味。
@@ -1409,6 +1409,12 @@
         * 朗读纯英文本，培养语感增强自信
       **英语学习是一件长期复利的事情，胜利是给坚持不懈者最好的奖赏，赶快加入我们吧！**
   - [30岁油管千万富婆给20多岁年轻人的建议 | **Youtuber: Vanessa Lau**](https://v.douyin.com/77dXgDkenvs/)
+
+---
+* **[VENQUEN的英语日记 | 二百章 | Douyin](https://v.douyin.com/lGerZrVjzQs/)**
+  - [学习是方向，世界是目的地！Follow along！ 飞向未知，直面恐惧 旧金山的酸面包，藏着冒险的滋味 独处的时光，发现真实的自己 大桥下的夕阳，点燃成长的勇气 | **Youtuber: Isabel Paige**](https://v.douyin.com/ACS0U3zIC54/)
+  - [雪花轻吻山巅，咖啡暖手 炉火旁，冬日的仙境悄然绽放 踏雪觅果，阳光洒落心间 这十一月的清晨，藏着治愈的温柔 | **Youtuber: Isabel Paige**](https://v.douyin.com/PokajBVenxU/)
+  - [Burnedout in early20s 🌄学习是方向，世界是目的地！Follow along！ 雨丝低吟 炉火唤春暖 童梦琴弦断于规整牢 跌倒，起身，圆满 | **Youtuber: Poetry Of Slow Life**](https://v.douyin.com/gIaihnAQ4kw/)
 
 ---
 * **[2255（日更版）| YouTube Vlog推荐 | 二百章 | Douyin](https://v.douyin.com/F2-yC0zVmzE/)**
@@ -1440,6 +1446,23 @@
 * **[哆啦N梦爱英语 | 百章 | Douyin](https://v.douyin.com/imI-y_Hedjg/)**
   - [分享一个我认为迄今为止在油管看到的最漂亮博主没有之一 | **Youtuber: Nil Sani**: 个人生活、时尚、美妆和生活方式](https://v.douyin.com/t4auaF8-RF4/)
   - [我们感觉一段关系，让我们不再快乐的时候，就是一段关系结束的时候 | **Youtuber: Lana Blakely**: 生活方式、人生体验、哲学思考、自我成长和社交话题讨论](https://v.douyin.com/yKQ1V1AlV2E/)
+
+---
+* **[Poetry Of Slow Life | 21.1万 | Youtube](https://www.youtube.com/@IamDaria/videos)**
+  - Hi, I'm Daria.
+  - 嗨，我是达莉娅。
+
+  ---
+  - A daydreamer (also a filmmaker and photographer) living a quiet life in the English countryside.
+  - 一个爱做白日梦的人（同时也是电影制片人和摄影师），在英格兰乡村过着平静的生活。
+
+  ---
+  - Welcome to my seasonal slow living country diaries!
+  - 欢迎来到我的季节性慢生活乡村日记！
+
+  ---
+  - **[Alone In An Off-Grid Cabin - A Complete Social Media Detox | Rainy slow days in English countryside | 独自一人在离网小屋——彻底社交媒体戒断 |英格兰乡村 的雨天缓慢](https://www.youtube.com/watch?v=jLj6zk-Vs5E)**
+  - **[Autumn in the mountains | Slow Travel In Scottish Highlands & Edinburgh | Cozy October Cabin Living | 山中的秋天 |慢速旅行 在苏格兰高地和爱丁堡 |温馨的十月小屋生活](https://www.youtube.com/watch?v=6rMFhIgBAn4)**
 
 ---
 * **[Speak English With Vanessa | Youtube](https://www.youtube.com/@SpeakEnglishWithVanessa/videos)**
