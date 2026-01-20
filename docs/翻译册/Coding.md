@@ -40,8 +40,13 @@
 ---
 ### 003. Math | Book
 * **[Calculus-Metric-Edition-th9-2020-EN](https://mecat204.github.io/website/翻译册/Calculus-Metric-Edition-th9-2020.pdf)**
-  - [微积分](https://zhuanlan.zhihu.com/p/3552717264)
-  - **[perlego](https://www.perlego.com/search?query=Calculus&searchType=title&tab=books&page=2&language=All&publicationDate=&topic=&publisher=&author=&format=)**
+
+---
+* **[Calculus-Metric-Edition-th9-2020.zh-CN.dual](https://mecat204.github.io/website/翻译册/Calculus-Metric-Edition-th9-2020.zh-CN.dual.pdf)**
+
+---
+* **[微积分 | zhihu](https://zhuanlan.zhihu.com/p/3552717264)**
+* **[perlego](https://www.perlego.com/search?query=Calculus&searchType=title&tab=books&page=2&language=All&publicationDate=&topic=&publisher=&author=&format=)**
 
 * **[斯图尔特-微积分-第9版-中文-上册](https://mecat204.github.io/website/翻译册/斯图尔特-微积分-第9版-中文-上册.pdf)**
 
