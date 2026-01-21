@@ -918,6 +918,12 @@
   - **时光会筛选关系，岁月会见证真心。愿我们和身边温柔的同路人，继续并肩，走过更多的春夏秋冬。**
 
 ---
+* **[中阮可梦 | 毕业于中央音乐学院 | 五百章 | Douyin](https://v.douyin.com/aotWD7LCvbI/)**
+  - [那只能弹琴了 | 须弥  | 中阮  | 音乐就要这么玩  | 玩音乐就是要热烈  | 滴滴](https://v.douyin.com/fHleQb-34HQ/)
+  - [音乐能使人…| 精卫 | 音乐就要这么玩](https://v.douyin.com/0FCXXZOxXgs/)
+  - [司机：我今天听寄明月听到了双声道环绕立体声。 挑战哪一天有师傅能认识这件乐器](https://v.douyin.com/PxLAMMcl2DQ/)
+
+---
 * **[Taylor Swift | Youtube](https://www.youtube.com/@TaylorSwift/videos)**
   - And, baby, that’s show business for you.
   - 宝贝，这就是演艺圈的全部。
