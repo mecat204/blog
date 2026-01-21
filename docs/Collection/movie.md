@@ -651,6 +651,11 @@
 * **[汉武大帝](https://pan.quark.cn/s/2c92f5604b29#/list/share)**
 
 ---
+* **[小七古裝劇場 | 7.08万 | Youtube](https://www.youtube.com/@HottestChineseDrama/videos)**
+  - **[白月梵星](https://www.youtube.com/watch?v=aEC-dIXPzEU)**
+  - **[白月梵星 | quark](https://pan.quark.cn/s/fc87ecc0e8f5#/list/share)**
+
+---
 ### 026. 原神大电影
 * **[空空 | 原神剧情整活 | 五百章 | Douyin](https://v.douyin.com/xZOlCE6uX34/)**
   - [**原神大电影-猎月人篇**](https://v.douyin.com/XuteTLmcF6Y/)
