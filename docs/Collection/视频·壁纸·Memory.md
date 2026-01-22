@@ -335,11 +335,6 @@
   - [有意义的绘画，人像写实定制 | 绘画  | 治愈系笑容](https://v.douyin.com/AuJ3ZE09lfk/)
   - [展示我的画 | 拉布布](https://v.douyin.com/NzUd7HsAupg/)
 
-
-### 005. 短剧
-* **[追剧酱来啦💖Here Comes Drama-chan | Youtube](https://www.youtube.com/@HereComesDrama-chan)**
-  - [漫长觊觎](https://www.youtube.com/watch?v=eSA4cOws7tE)
-
 ---
 ### 006. Memory
   - **[小可爱 | 百章 | Douyin](https://v.douyin.com/OL-zRVsPF-c/)**
@@ -402,6 +397,12 @@
 * **[宫老丝的宇宙 | 东方美学xAIGC | 三百章 | Douyin](https://v.douyin.com/9v_3RwtV4W4/)**
   - [东方美学](https://v.douyin.com/YfvcnaQdd9M/)
   - [倚天屠龙记 金庸 | 张无忌 | 东方美学 | 周芷若 | 倚天屠龙记](https://v.douyin.com/gWKfXyKK8kQ/)
+
+---
+* **[苏西糖 | 插画师 |  百章 | Douyin](https://v.douyin.com/-Mta9ZITJVE/)**
+  - [一些我画的女孩子们。整一个合集这里发发 | 原创插画 | 古风插画# 艺术 | 画画 | 汉服](https://v.douyin.com/GKInQnzgJiU/)
+  - [断断续续画了一年了 纪念一下 |邱饼 |大理寺少卿游 |邱庆之李饼 |被大理寺少卿游刀麻了 |画画](https://v.douyin.com/qeunJaXQ82M/)
+  - [如果把电影里的这一幕换成大藕。| 哪吒之魔童闹海 | 藕饼 | 哪吒 | 敖丙 | 画画](https://v.douyin.com/BteikJljxtA/)
 
 ---
 * **[站酷](https://www.zcool.com.cn/)**

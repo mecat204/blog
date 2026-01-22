@@ -658,13 +658,26 @@
 ---
 * **[影视 | btbtl](https://www.btbtla.com/)**
 * **[魅者无疆](https://www.youtube.com/watch?v=7_vCFU-3VJE&list=PLcHRE_huWMAy-mSTui3-pJSvsMwd_ejlS)**
-  - [魅者无疆 | quark](https://pan.quark.cn/s/1a359f5ee3b7#/list/share)
+  - **[魅者无疆 | quark](https://pan.quark.cn/s/1a359f5ee3b7#/list/share)**
+
+---
+* **[苏西糖 | 百章 | Douyin](https://v.douyin.com/-Mta9ZITJVE/)**
+  - [一些我画的女孩子们。整一个合集这里发发 | 原创插画 | 古风插画 艺术 | 画画 | 汉服](https://v.douyin.com/GKInQnzgJiU/)
+  - [断断续续画了一年了 纪念一下 |邱饼 |**大理寺少卿游** | 邱庆之李饼 |被大理寺少卿游刀麻了 | 画画](https://v.douyin.com/qeunJaXQ82M/)
+  - [醉眠 | 插画 | 红楼梦 | 史湘云 | 水彩风格 | 湘云醉卧](https://v.douyin.com/2FjW_UaHQQc/)
+  - [彩云易散琉璃脆。| 古风古剧古美人 | 红楼梦 | 林黛玉 | 古风绘画 | 宝黛](https://v.douyin.com/YcznjZiHGw4/)
+  - **[大理寺少卿游 | quark](https://pan.quark.cn/s/aee59b0605cb#/list/share)**
 
 ---
 ### 026. 原神大电影
 * **[空空 | 原神剧情整活 | 五百章 | Douyin](https://v.douyin.com/xZOlCE6uX34/)**
   - [**原神大电影-猎月人篇**](https://v.douyin.com/XuteTLmcF6Y/)
   - [**原神大电影-哥伦比亚篇**](https://v.douyin.com/p3qU8jgcxdY/)
+
+---
+### 027. 短剧 | Youtube
+* **[追剧酱来啦💖Here Comes Drama-chan | 46.6万 | Youtube](https://www.youtube.com/@HereComesDrama-chan)**
+  - [漫长觊觎](https://www.youtube.com/watch?v=eSA4cOws7tE)
 
 ---
 ### 999. Download
