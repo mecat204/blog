@@ -279,8 +279,10 @@
   - [我总是相信缓慢细 平和 细水长流的力量](https://v.douyin.com/by1zmnQk2dg/)
 
 ---
-* **[是涂苏苏呀](https://v.douyin.com/ojastCRsT-E/)**
+* **[是涂苏苏呀 | 诗词 | 历史 | 人文 | 练字 | 配音 视频均为原声～ | 五百章 | Douyin](https://v.douyin.com/ojastCRsT-E/)**
   - [为天地立心，为生民立命，为往圣继绝学，为万世开太平](https://v.douyin.com/mDEGi8tW_ks/)
+  - [那是百家争鸣的时代啊~ 诸子百家  | 天行九歌  | 秦时明月  | 台词  | 配音](https://v.douyin.com/RIsGYx9RLC0/)
+  - [过秦论 | 贾谊 | 秦始皇 | 文言文](https://v.douyin.com/dnwto-_YDRU/)
 
 ---
 * **[诗词](https://v.douyin.com/PjuhkSK840A/)**
