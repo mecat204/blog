@@ -148,31 +148,34 @@
   - [1987-2007年华语乐坛20年](https://mecat204.github.io/website/music/netease-80.html)
 
 ---
+* **我的歌单**
 * **[华语乐坛20年](https://mecat204.github.io/website/music/netease-80.html)**
-
----
 * **[轻音乐-看书学习](https://mecat204.github.io/website/music/music.html)**
-
----
 * **[音乐集](https://mecat204.github.io/website/music/index.html)**
 
 ---
-* **[落笔成殇-张紫宁](https://www.youtube.com/watch?v=Kfd49eOq8-4)**
+* **[Little V | 240位 | Youtube](https://www.youtube.com/@little.v/videos)**
+  - [一千年以后](https://www.youtube.com/watch?v=2BcWlT8F7eE&list=RD2BcWlT8F7eE&start_radio=1)
+
+---
+* **[YOYOROCK 滾石移動 | 45.4万 | Youtube](https://www.youtube.com/@YOYOROCK/videos)**
+  - **[落笔成殇-张紫宁](https://www.youtube.com/watch?v=Kfd49eOq8-4)**
 
 ---
 ### 005. TV·music
-* **长歌行**
-  - **[光的方向-张碧晨](https://www.youtube.com/watch?v=cwdmC6mqO1w)**
+* **[华策影视官方频道 China Huace TV Official Channel | 201万 | Youtube](https://www.youtube.com/@huace/videos)**
+  - **[光的方向-张碧晨 | 长歌行](https://www.youtube.com/watch?v=cwdmC6mqO1w)**
+  - **[【太平年】周深献唱主题曲《万里》MV | 白宇、周雨彤、朱亚文主演五代十国历史剧 | Swords into Plowshares - OST](https://www.youtube.com/watch?v=YQmhkgCbRno)**
 
 ---
-* **长月烬明**
-  - **[OST合集](https://www.youtube.com/watch?v=xcFpsXzV6jo)**
+* **[Cannibal Turtle | 1.63万 | Youtube](https://www.youtube.com/@cannibal_turtle/videos)**
+  - **[OST合集 | 长月烬明](https://www.youtube.com/watch?v=xcFpsXzV6jo)**
+  - **[『精选中国电视剧OST 第二辑』2022-2025古装剧合集 | 《影視原声带》](https://www.youtube.com/watch?v=MNIsdz7syFA)**
 
 ---
-* **墨雨云间**
-  - **[芳菲落尽梨花白](https://www.youtube.com/watch?v=QiwvWNMhPb4)**
+* **[Summer Cheong | 584位 | Youtube](https://www.youtube.com/@summercheong7996/videos)**
+  - **[芳菲落尽梨花白 | 墨雨云间](https://www.youtube.com/watch?v=QiwvWNMhPb4)**
   - **[原声带专辑](https://www.youtube.com/watch?v=m7At3pnTb80&t=247s)**
-  - **[一世聪明-崔格子](https://www.youtube.com/watch?v=ty4TTcO-lXw)**
   - **[当归](https://www.youtube.com/watch?v=Hnyb-PqAiNQ)**
 
 ---
@@ -327,6 +330,39 @@
   - [能不能为你再跳一支舞，我是你千百年前放生的白狐 | 白狐](https://v.douyin.com/ldwf0A2QGrU/)
   - [进击的巨人](https://v.douyin.com/NPm3v5eK5iw/)
   - [笛子 | 弱水三千 | 战国袍 | 宿命感](https://v.douyin.com/6bc1xv68Qn8/)
+
+---
+* **[穿越而過 | 1.95万 | Youtube](https://www.youtube.com/@pass.through/videos)**
+  - The primary artist of this channel is Guang (Light), creating in collaboration with his teacher.
+  - 该频道的主要艺术家是光（光），他 与老师合作创作。
+
+  ---
+  - Inspired by the quiet corners of the Himalayas,this channel seeks spiritual clarity and inner stillness, and shares this state of mind with the world.
+  - 灵感来自喜马拉雅山的宁静角落， 这个频道追求精神的清晰与内心的宁静， 并将这种心境分享给世界。
+
+  ---
+  - The works are rooted in the minimalist beauty of ancient Chinese instruments, and gradually expand to include Tibetan flute, singing bowls, and bell tones—carrying a sense of Zen, meditation, healing, and poetic atmosphere.
+  - 这些作品根植于古代中国乐器的极简美感， 逐渐扩展到藏笛、歌碗和钟声—— 承载禅意、冥想、疗愈和诗意氛围。
+
+  ---
+  - Here, you are invited to listen to sounds that pass through time, from ancient to present, and to experience a deep sense of calm and serenity within.
+  - 在这里，你被邀请聆听穿越时光的声音，从 古至今， 体验内心深处的宁静与宁静。
+
+  ---
+  - We invite you to listen slowly, and to walk with us into the quiet world within
+  - 我们邀请你慢慢倾听， 与我们一同走进内心的宁静世界
+
+  - **[空月｜古琴 古箏 簫 | Empty Moon | Chinese Guqin, Guzheng & Xiao Flute | Relaxation Music & Zen Meditation](https://www.youtube.com/watch?v=VSwK13Amq2Q)**
+
+---
+* **[HOYO-MiX | 52.4万 | Youtube](https://www.youtube.com/@HOYOMiX/videos)**
+  - HOYO-MiX is a music studio by miHoYo.
+  - HOYO-MiX 是 miHoYo 的音乐工作室。
+
+  - Lead by Cai "Zoe" Jinhan, our team composes and produces original music, including "Rubia," "Starfall," and others.
+  - 由蔡"佐伊"金汉领导，我们的团队创作并制作原创音乐，包括《Rubia》、《Starfall》等。
+
+  - **浮光摇日月 | 原神 | AlgerMusicPlayer**
 
 ---
 * **[笛子～小柔 | 笛子 | 百章 | Douyin](https://v.douyin.com/7ZMhqrKiU5Q/)**
