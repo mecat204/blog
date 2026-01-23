@@ -65,6 +65,12 @@
   - [Q&A-077、help的短语动词！ | 英语口语 | 英语没那么难 | 英语学习 | 老外教英语](https://v.douyin.com/XajhfXtaGaU/)
 
 ---
+* **[在线英语网课 | 课程涵盖: 零基础英语, 启蒙英语, 雅思口语, 商务英语 | 二千章 | Douyin](https://v.douyin.com/gp1CxFZ-ihY/)**
+  - [英语流利说英语，英语流利说英语水平测试，流利说app学英语靠谱吗，外教一对一网课，来看看学生真人外教上课视频，比线下划算！ 跟着外教老师学英语，快速提高英语水平！六个月后进步非常大，轻松和外教交流，经验分享给大家，| 跟着外教老师提高英语口语 | 英语流利说app](https://v.douyin.com/37zdZhEhzJM/)
+  - [新东方线上雅思网课，新东方线上雅思培训，雅思英语口语提升首选！外教1对1，25分钟纯英文对话+即时纠错，发音地道、自信开口。](https://v.douyin.com/5CVVaQZgPpM/)
+  - [51talk英语课程，51talk](https://v.douyin.com/kNnZmFrMVzU/)
+
+---
 * **[CC英语听读 | 每日英语文章分享,一起来打卡学习 |  百章 | Douyin](https://v.douyin.com/VQVWqMakCdo/)**
   - [And i have learned that one important trait that distinguishes those who truly excel in life is hard work.](https://v.douyin.com/HL_dxJG0lUA/)
   - [放松美好的生活。](https://v.douyin.com/7h-65W0Gj8I/)

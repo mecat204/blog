@@ -929,6 +929,16 @@
   - [断断续续画了一年了 纪念一下 |邱饼 |**大理寺少卿游** | 邱庆之李饼 |被大理寺少卿游刀麻了 | 画画](https://v.douyin.com/qeunJaXQ82M/)
 
 ---
+* **[Lycoris Music Channel | 3900位 | Youtube](https://www.youtube.com/@LycorisMusicChannel/videos)**
+  - [**寻常歌 - 不才**（电视剧《长月烬明》插曲）「桃花都吹落，春秋都吹落，最懂竟是梦中那一刻」【动态歌词Lyrics】](https://www.youtube.com/watch?v=7ctRCspF6Mg)
+
+---
+* **[淮上行 | 【慢跑】志若坚定，步之所丈终抵星辰。【随拍】心若向善，目之所及皆成画 | 五百章 | Douyin](https://v.douyin.com/cw0-csH0XUA/)**
+  - [南通映山湖，四九寒天里，红梅枝头俏。雪未到，梅先艳，傲骨迎冬风。](https://v.douyin.com/0p_kum5TsNc/)
+  - [美不美你说了算 | 枫叶荻花秋瑟瑟](https://v.douyin.com/g1d89_l6PU4/)
+  - [秋暮溪桥图 | 寻找古诗词中的风景 | 《齐安郡中偶题·其一》 唐·杜牧 两竿落日溪桥上，半缕轻烟柳影中。 多少绿荷相倚恨，一时回首背西风。](https://v.douyin.com/gboa-B7bjBY/)
+
+---
 * **[Taylor Swift | Youtube](https://www.youtube.com/@TaylorSwift/videos)**
   - And, baby, that’s show business for you.
   - 宝贝，这就是演艺圈的全部。

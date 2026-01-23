@@ -48,6 +48,7 @@
   - [时政](Collection/时政)
   - [动漫](Collection/动漫)
   - [music](Collection/music)
+  - [歌词](Collection/歌词)
   - [tips](Collection/tips)
   - [game](Collection/game)
   - [GenshinImpact](Collection/GenshinImpact)
