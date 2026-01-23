@@ -773,10 +773,28 @@
 
 ---
 ### 028. AI启示录
+* **[晓辉博士 | 五百章 | Douyin](https://v.douyin.com/1mCO9aZW1Nc/)**
+  - [AI Coding](https://v.douyin.com/XbtwLKALSr0/)
+  - **[AI Coding非共识报告](https://zhuanlan.zhihu.com/p/1932943005838443596)**
+  - [NotebookLM](https://v.douyin.com/gGvomRTcG0o/)
+  - Cursor
+  - CodeBuddy
+  - 把复杂的论文变成有趣的漫画 今天看到田渊栋老师用NotebookLM把自己写的一篇论文转换成了哆啦A梦的漫画故事，非常有趣，一下子把复杂的论文转换成了图文并茂的故事。觉得这个用法是可以帮助人来吸收和消化知识的，分享一下。 | Gemini3Pro  | 哆啦A梦  | AI  | Nanobanana  | NotebookLM
+  - [gemini3pro.netlify.app](https://691db2fad93dc937a1b3c496--gemini3pro.netlify.app/)
+  - [AI来了还要让孩子记大量知识吗 今天跟一些教育领域的专家一起讨论AI时代教育的实践问题，让我想到了这两天孩子跟我们讨论的高阶认知high order thinking，于是下班后跟AI一起研究了一下，谈点想法。高阶认知不止对培养孩子很重要，对于成年人的工作也非常重要啊。| 高阶认知 | AI教育 | AI | 布鲁姆分类法](https://v.douyin.com/Z0YzyKXSDoo/)
 
 ---
-* **[杨竹筠](https://v.douyin.com/ZGMIbRrkJHQ/)**
+* **[杨竹筠 | 前清华出版社数字运营总监 | 高教社生医数字分社长 | 国家级MOOC平台核心设计者 | 17年教育科技老兵 | G信部认证人工智能工程师 | 专注AI商业落地 | 五百章 | Douyin](https://v.douyin.com/ZGMIbRrkJHQ/)**
   - [AI会失控吗 200顶尖科学家的最后通牒 AI潘多拉魔盒，超过200名世界顶尖的科学家大声疾呼，2026年之前必须设立全球AI红线](https://v.douyin.com/Ma06-cxzu8A/)
+  - [凯文凯利：未来10000天的可能 中国会成为最强大的力量之一 30年前预言我们被算法牢牢抓住，现在又直接剧透，下一个25年，手机淘汰、工作洗牌、中层下岗、中国变酷、百岁人生，今天我们来聊一聊凯文·凯利，这个硅谷的精神领袖](https://v.douyin.com/Hy_KxP8Vbi4/)
+  - [中国人造太阳项目 又有新进展 中国可控核聚变突破！文明开始进化！西方彻底慌了 | 可控核聚变  | 人造太阳 | 科技](https://v.douyin.com/I9I-LslomH4/)
+  - [马斯克CES上专访再次预言未来 马斯克2025年最新预测，CES专访再次预测未来，3-4年计划大曝光，六大要点总结：AI，机器人，自动驾驶，脑机接口，火星移民，人类命运](https://v.douyin.com/V3rjwBbvUig/)
+
+---
+* **[是静静博士 | 三百章 | Douyin](https://v.douyin.com/dj1ZTuhtYEQ/)**
+  - [请你毫不犹豫的千次万次救自己于水火中。](https://v.douyin.com/sYoJeZ_0KtA/)
+  - 事实证明：人的潜力是很大的。基础差，天赋不好都没关系，造火箭比考试、学技能难100倍，但马斯克连炸7次还在继续。你要做的不过是——在命运说'不行'的时候，狠狠甩出一张'再试一次'的王牌！
+  - **坚持就是在不能坚持的时候再坚持一下。**
 
 ---
 * **[AI樟榆树](https://v.douyin.com/3eZz8TMyMKY/)**
