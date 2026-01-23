@@ -145,6 +145,7 @@
 
 ---
 * **[80,90歌曲](https://www.youtube.com/watch?v=he_VdjWUiWQ)**
+  - [1987-2007年华语乐坛20年](https://mecat204.github.io/website/music/netease-80.html)
 
 ---
 * **[华语乐坛20年](https://mecat204.github.io/website/music/netease-80.html)**
