@@ -324,6 +324,9 @@
   - 如需了解更多关于将TED用于商业目的的信息（例如员工学习、电影或在线课程），请在此提交媒体请求：https://media-requests.ted.com。
 
 ---
+* **[TED  | Ideas change everything](https://www.ted.com/)**
+
+---
 * **[Dr. Olivia Remes | Youtube](https://www.youtube.com/@dr.oliviaremes5962)**
   - Hi!  I'm Dr. Olivia Remes and I'm a mental health researcher at the University of Cambridge.
   - 你好！ 我是奥利维亚·雷梅斯博士，剑桥大学的心理健康研究员。

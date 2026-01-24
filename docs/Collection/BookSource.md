@@ -555,7 +555,6 @@
 ---
 ### 015. 资源
 * [ITM资源](https://pic.itmresources.com/)
-* [香菇影视](https://www.xiangguys.com/)
 * [轻听音乐](http://qlisten.qytechs.cn/#)
 * [Sun-Panel](https://doc.sun-panel.top/zh_cn/)
 * [识典古籍](https://www.shidianguji.com/)
@@ -584,24 +583,33 @@
 * [GeekHour-30分钟Docker入门教程](https://www.youtube.com/watch?v=Ozb9mZg7MVM)
 * [Python导师-蚂蚁](https://v.douyin.com/ERpyeiwm7xA/)
   - [真实工作中用的比较多的Python技术](https://v.douyin.com/CeicVdB3/)
-* [大侠之运维](https://v.douyin.com/amEqAzzQWqM/)
+
+---
+* **[大侠之运维 | 五年运维工程师, 分享工作经验, 职场感悟 | 千章 | Douyin](https://v.douyin.com/amEqAzzQWqM/)**
   - [开源代码编辑器: Lapce是一个用纯Rust编写的代码编辑器](https://v.douyin.com/Ceicp2tQ/)
-* [Limin Studio](https://www.limin.studio/)
+
+---
+* **[Limin Studio | Limin Studio - 利民工作室](https://www.limin.studio/)**
+
+
 * [CM喂饭 干货满满](https://www.youtube.com/@CMLiussss)
 * [CMLiussss](https://github.com/cmliu)
 * [开源电商系统-CRMEB](https://github.com/crmeb)
 * [开源下载工具](https://docs.gopeed.com/zh/)
-* NDM:下载工具
-* IFOX播放器-App Store
 * [波仔分享](https://www.youtube.com/@%E6%B3%A2%E4%BB%94%E5%88%86%E4%BA%AB/videos)
-* IFOX播放器-App Store
 * [波仔分享](https://www.youtube.com/@%E6%B3%A2%E4%BB%94%E5%88%86%E4%BA%AB/videos)
 * [trojannode](https://trojannode.org/clients)
 * [小屋crypto](https://www.youtube.com/@xwcrypto)
-* [Low-Cost Domain](https://www.namesilo.com/)
-* [在线英文打字练习](https://typing-practice.toolsnav.top/)
+
+---
+* **[Cheap Domain Names & Web Hosting Starting at $0.99!](https://www.namesilo.com/)**
+
+---
+* **[在线英文打字练习](https://typing-practice.toolsnav.top/)**
 * [python](https://www.w3schools.com/python/python_functions.asp)
-* [monday](https://monday.com)
+
+---
+* **[monday](https://monday.com)**
 * [Python Guide](https://cs.stanford.edu/people/nick/py/)
 * [freecodecamp](https://forum.freecodecamp.org/)
 * [回到Axton](https://youtube.com/@axtonliu)
@@ -614,6 +622,8 @@
 * 代码管理-Git
 * Spacetop G1
 * screenpipe-AI录屏软件
+
+---
 * **[一糖导航](https://iitang.com/)**
 * **[32个网盘搜索](https://zhuanlan.zhihu.com/p/32753352416)**
 * **[夸克网盘资源](https://kuakes.com/)**
@@ -622,25 +632,28 @@
 
 ---
 ### 016. 经济书籍推荐
-* 国富论-亚当斯密
-* 资本论-马克思
-* 通往奴役之路-哈耶克
-* 就业、利息与货币通论-凯恩斯
+* **国富论-亚当斯密**
+* **资本论-马克思**
+* **通往奴役之路-哈耶克**
+* **就业、利息与货币通论-凯恩斯**
 
 ---
 ### 017. Math书籍推荐
-* 线性代数与数据学习
+* **线性代数与数据学习**
 
 ---
 ### 018. 学术
-* [专知](https://zhuanzhi.ai/)
+* **[专知](https://zhuanzhi.ai/)**
 
 ---
 ### 019. 教材 | 教科书
 * **[教材 | 教科书 | 人教版](https://jc.pep.com.cn/)**
+
+---
 * **[教科书 | 课本](https://textbook.synaiv.com/)**
 
-* **[国家中小学智慧教育平台电子教材全套](https://pan.quark.cn/s/9bdccc0db3a8#/list/share)**
+---
+* **[国家中小学智慧教育平台电子教材全套 | quark](https://pan.quark.cn/s/9bdccc0db3a8#/list/share)**
 
 ---
 ### 020. Procreate Tutorials
@@ -653,15 +666,20 @@
 
 ---
 ### 022. 哲学
-* [十里梧桐-读书](https://v.douyin.com/ev-Y_QsiMNU/)
-* 万时
+* **[十里梧桐 | APP: 梧桐树下一起读书 | 逻辑化讲解世界经典著作、真实美国、前沿成果。| 家有万卷藏书，也去过很多国家; 读书，为理解世界运行的逻辑 | 五百章 | Douyin](https://v.douyin.com/eeiBJkQR00E/)**
+  - [梧桐的哲学50问:明知没有答案，为什么还要去问？哲学源于闲暇和惊奇，一起追寻真理，热爱智慧！](https://v.douyin.com/ev-Y_QsiMNU/)
+  - [林毅夫和杨小凯，分别提出了"后发优势"和"后发劣势"。 看似针锋相对，其实，他们说的是两个完全不同维度的问题。 因为，林毅夫讲的是技术维度，而杨小凯讲的是制度方向。 世界上有没有国家用后发优势实现了发展，又没有避免后发劣势呢？ 有，比如拉美几个国家。 有没有国家和地区，既利用了技术后发优势，又避免了制度改革的后发劣势呢？ 确实有，比如日本、韩国和TW。](https://v.douyin.com/CfHYL1TeZkk/)
+  - [科斯定律：谁避免意外的成本更低，谁的责任就更大； 谁用得好就归谁；诺贝尔经济学家罗纳德·科斯舌战群儒](https://v.douyin.com/p5UZNWW3Fyo/)
+
+---
+* **万时**
   - 哲学就是一个比较笼统的概念:就是研究万事万物。
   - 分为:心理学、精神学、文学、历史学、美术、科学、数学、物理、化学等,都是从里面分离出来的学科…早期写哲学的人自己知道什么那是什么都写的。所以说所有学科的基础是哲学,這些分离出来的学科也形成一套独特的逻辑思维思想。
   - 哲学大致分为三个部分:
-    *研究世界万事万物的规律和普遍问题
-    2.通过逻辑，科学论证，论据一系列的方法
-    建立一个解决问题的系统方法论
-    3.引导人们思想实践，也就是实践法。
+    * 研究世界万事万物的规律和普遍问题
+    * 通过逻辑，科学论证，论据一系列的方法
+    * 建立一个解决问题的系统方法论
+  - 引导人们思想实践，也就是实践法。
 
 ---
 ### 023. 文章摘录
@@ -673,26 +691,32 @@
 
 ---
 ### 024. 医学
-* [biodigital](https://human.biodigital.com/login?returnUrl=/explore)
+* **[biodigital](https://human.biodigital.com/login?returnUrl=/explore)**
 
 ---
 ### 025. Course
-* [classcentral](https://www.classcentral.com/)
+* **[Class Central | Find the best courses, wherever they exist](https://www.classcentral.com/)**
 
 ---
 ### 026. News
-* [minimalist](https://www.newsminimalist.com/)
-* [今日热榜](https://tophub.today/)
+* **[News Minimalist — All news ranked by significance](https://www.newsminimalist.com/)**
+
+---
+* **[今日热榜](https://tophub.today/)**
 
 ---
 ### 027. 全球地震数据
-* [全球地震数据](https://seismic-explorer.concord.org)
+* **[全球地震数据](https://seismic-explorer.concord.org)**
 
 ---
 ### 028. 全球气象数据
-* [全球气象数据](https://earth.nullschool.net/)
-* [ventusky](https://www.ventusky.com/)
-* [windy.com](https://windy.com)
+* **[全球气象数据](https://earth.nullschool.net/)**
+
+---
+* **[ventusky](https://www.ventusky.com/)**
+
+---
+* **[windy.com](https://windy.com)**
 
 ---
 ### 029. 梵蒂冈教堂
@@ -700,15 +724,28 @@
 
 ---
 ### 030. 宝藏网站
-* [ventusky](https://www.ventusky.com/)
-* [ifixit](https://zh.ifixit.com/)
-* [skyline](https://www.skylinewebcams.com/)
-* [yikm](https://www.yikm.net/)
-* [LINUX DO - 新的理想型社区](https://linux.do/)
+* **[ventusky | Ventusky - 天气预报、雷达和风力图](https://www.ventusky.com/)**
+
+---
+* **[ifixit | 免费修理手册](https://zh.ifixit.com/)**
+
+---
+* **[skyline | 全球实况高清摄像头](https://www.skylinewebcams.com/)**
+
+---
+* **[yikm | 小霸王，其乐无穷 。红白机，FC在线游戏，街机游戏，街机在线，NES games，NES games online，Super Mario](https://www.yikm.net/)**
+
+---
+* **[LINUX DO - 新的理想型社区](https://linux.do/)**
+
+---
 * **[Animagraffs——有关一切事物的动画信息图表。](https://animagraffs.com/)**
   - [human-eye](https://animagraffs.com/human-eye)
-* [animagraffs](https://www.youtube.com/@animagraffs)
-* **[AI教练·振轩|网站资源分享](https://v.douyin.com/Z85GoFIdT5k/)**
+
+---
+* **[animagraffs](https://www.youtube.com/@animagraffs)**
+---
+* **[AI教练·振轩 | 网站资源分享 | 五百章 | Douyin](https://v.douyin.com/Z85GoFIdT5k/)**
 
 ---
 ### 031. 搜索引擎
@@ -731,8 +768,6 @@
 
 ---
 ### 032. BooK·Search
-* [安娜的档案](https://zh.annas-archive.org/)
-* [Z-Library](https://zlib.wwwnav.com/)
 * [无名图书](https://www.book123.info/)
 * [熊猫搜书](https://xmsoushu.com/)
 * [书格](https://new.shuge.org/)
