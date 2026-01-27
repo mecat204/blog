@@ -13,12 +13,22 @@
   - [buzz | zh](https://chidiwilliams.github.io/buzz/zh/docs)
 
 ---
-* **[dlpanda](https://dlpanda.com/zh-CN)**
+* **[dlpanda](https://dlpanda.com)**
+
+---
+* **[PlayPhrase.me: Site for cinema archaeologists. | 台词搜索](https://www.playphrase.me/#/search?q=&language=en)**
 
 ---
 ### 0001. English Learn
 * **[句乐部](https://julebu.co)**
-* [阿崔cxr](https://v.douyin.com/db2HKpQSCl4/)
+* **[阿崔cxr | 句乐部创始人 用游戏化的方式通过句子习得英语 谨慎体验 小心上瘾 | 百章 | Douyin](https://v.douyin.com/db2HKpQSCl4/)**
+  - [句乐部的小高手 英语这么学就对了 重复重复再重复才是习得语言的秘诀 | 句乐部 | 认真学习的孩子 | 英语学习](https://v.douyin.com/peijB1BjDW0/)
+  - [5分钟上手句乐部 | 新手不完全指北🚀 📱 今天给大家介绍句乐部的新手指北 🎯 这是一个专注于英语句型练习的在线学习平台,让我带你快速了解如何开始使用~
+    * 第一步：访问网站 - 打开浏览器输入网址即可开始体验 - 无需注册即可免费试玩多个精选课程
+    * 基础操作指南： - 空格键：来到下一个横线/提交答案/来到下一题 - Enter键：提交答案/进入下一题 - 超贴心的操作设计,让学习更顺畅！
+    * 完成试玩后： - 系统会展示你的学习数据 - 想继续学习?只需简单注册即可 - 支持手机号/邮箱/微信扫码三种方式
+    * 注册成功后可以： - 查看个人学习数据分析 - 绑定课程学习包 - 开启完整的学习之旅 💡 Tips:建议先试玩体验,喜欢再注册哦](https://v.douyin.com/vDaHgRqP7kg/)
+  - [再见，2025！ | 创始人故事 | 创业日记 | 句乐部 | 无痛学英语 | 学英语](https://v.douyin.com/LrW2fSHy77U/)
 
 ---
 * **[linguamarina | 833万 | Youtube](https://www.youtube.com/@linguamarina)**
@@ -492,6 +502,14 @@
   - 今天分享的是杨绛传，不要活得太明白看淡一切， 做一个快乐的中年少女，中年是年龄，少女是心态。当我们看淡了所有的人和事，你就会明白这样一个道理。惜我者我惜之，嫌我者我弃之，懂我者，我惜之，爱我者我必爱之，生活是自己的，千万别为难自己，有什么样的能力，就过什么样的生活，尽力而为量力而行。做个温暖的人，有自己的喜好，有自己的原则，有自己的信仰。用顺其自然的态度过随遇而安的生活。余生站在属于自己的高度，看该看的风景。记住一个女人最好的状态，莫过于眼里写满了故事，脸上却不见风霜，不羡慕谁不嘲笑谁，也不依赖谁，只是悄悄的努力吞下委屈，喂大格局，活成自己喜欢的样子，成为自己的光
 
 ---
+* **[山雨书苑 | LYwh阳光下没有新鲜事， 每一个你困惑的问题， 都能在书中找到答案 | 三百章 | Douyin](https://v.douyin.com/YpcJu_MHGuI/)**
+  - [她发现的镭照亮了人类医学之路，也以辐射一寸寸焚烧着自己的生命。她是玛丽·居里——一位被教科书记载为"科学圣人"，却曾被骂为"波兰荡妇"、险被驱逐的受难者。 在停尸房改造的棚屋里熬煮4吨矿渣，用双手从酸雾与放射性尘埃中提炼出0.1克镭。丈夫车祸身亡后，她独自抚养女儿、成为法国首位女教授。 一纸与学生的情书却让她被举国唾骂，暴徒砸碎她家的窗户，诺贝尔委员会甚至劝她"别来领奖"。 然而一战爆发，这个被辱骂的女人却将私家车改成X光车，带着女儿驶入战壕，跪在血污中为士兵拍片，拯救了上百万生命。 她放弃镭的专利，说："它属于全人类。" 66岁，她死于长期辐射导致的骨髓衰竭，至今遗骸仍具放射性。 世界以痛吻她，她报之以歌——用一具千年后仍会"发光"的躯体，为人类换取了光明的未来。 | 居里夫人 | 女性科学家 | 诺贝尔奖 | 辐射之母 | 一战英雄](https://v.douyin.com/kG0rG3dkMVc/)
+  - [他被称为"哲学终结者"，只用五个字就改写了人类思想的轨迹。 8岁思考"为何不能撒谎"，10岁自制缝纫机，本是航空天才，却转身用哲学刺破人类认知的幻觉。 他说："语言的边界，就是世界的边界。" 一只坏掉的钟、一位改写求助语的乞丐，都是他揭示真相的工具——我们不是用语言描述世界，而是被语言困在思维的牢笼里。 从一战战壕里的生死顿悟，到隐居山村教书，他一生拒绝被定义，只追问："如果语言是谎言，我们如何看见真实？" | 维特根斯坦 | 语言哲学 | 思维觉醒 | 认知边界 | 哲学终结者](https://v.douyin.com/9R5Rr91sd1g/)
+  - [五位哲学巨匠的幸福箴言 | 维特根斯坦 | 认知 | 思维 | 思想自由 | 罗素](https://v.douyin.com/XP2P2NQmQaw/)
+  - [诺贝尔经济学奖得主弗里德里希·哈耶克曾发出振聋发聩的警告："如果一个人的权力太大，大到没有边界…他只会干魔鬼干的事，制造一场又一场的人类大灾难。" 这位思想巨匠的一生横跨经济学、政治学与哲学，是新古典自由主义的旗手。他坚信：自由、文明与保障必须相互依存，任何不受制约的权力都将通往奴役与混乱。哈耶克 | 权力 | 经济学 | 哲学 | 人物故事](https://v.douyin.com/T2GWa2Y_M5I/)
+  - [1921年，饱受抑郁折磨的作家黑塞，在第72次心理治疗后偶遇了一位即将入住养老院的老太太。她唯一的请求，是绕城再看一眼曾生活过的街道、老房子与河流。 黑塞与司机陪她缓缓行驶了大半个下午。临别时，老太太拥抱他说："谢谢你让一个走到尽头的人感到幸福。" 那一刻黑塞突然醒悟：自己长久陷在痛苦中，只因从未抬头看看世界的风景。这次相遇治愈了他，也催生出了伟大作品《悉达多》——一本关于放下执念、接纳自我、活在当下的生命之书。 有时候，走出深渊的第一步，或许是先伸手温暖他人。赫尔曼黑塞 | 心灵治愈 | 文学经典 | 悉达多 | 人生哲学](https://v.douyin.com/Vq1oDoqPtOg/)
+
+---
 * **[elain/mybooks](https://github.com/elain/mybooks)**
   - [mybook](https://github.com/elain/mybooks/blob/main/5%25%E7%9A%84%E6%94%B9%E5%8F%98.mobi)
 
@@ -519,32 +537,35 @@
 * **[香港中文大学翻译硕士](https://v.douyin.com/KBw5U92lhwc/)**
 
 ---
-* **[晨菲chenfei](https://v.douyin.com/8Dhbmktl-7g/)**
+* **[晨菲chenfei | 凡是发生皆有利于我。 It's okay to make a mistake but don't make it twice. | 百章 | Douyin](https://v.douyin.com/8Dhbmktl-7g/)**
   - [moishine老师说真的很好吃 | 留学 | 悉尼大学](https://v.douyin.com/U2INdfwojUo/)
+  - [外国人用英文吵架](https://v.douyin.com/DhhaaKhGd4M/)
+  - [外国同学用中文吵架belike](https://v.douyin.com/raYtftsMbCU/)
+  - [外国同学用中文吵架belike | 留学生精神状态belike](https://v.douyin.com/raYtftsMbCU/)
 
 ---
-* **[int7- | 用自己喜欢的方式记录生活 ](https://v.douyin.com/j-cxvnKJBDs/)**
+* **[int7- | 用自己喜欢的方式记录生活 | 五百章 | Douyin](https://v.douyin.com/j-cxvnKJBDs/)**
   - [不需要证明什么 你能做的就是不断尝试收获 | 纽约 |inmyfeelings |拍出电影感 |情绪短片 ](https://v.douyin.com/0url0E5etIw/)
 
 ---
-* **[零基础学习英语 牛津书虫第一期](https://www.youtube.com/watch?v=LttbCdk_A1M&list=PLYHYHpYmp4ZHrhXn21ry3sb5qci13DtSa&index=1)**
+* **[零基础学习英语 |  牛津书虫第一期 | Youtube](https://www.youtube.com/watch?v=LttbCdk_A1M&list=PLYHYHpYmp4ZHrhXn21ry3sb5qci13DtSa&index=1)**
 
 ---
-* **[列国漫游](https://v.douyin.com/qauh3aXv8CY/)**
+* **[列国漫游 | 全世界的新鲜事 由于平台规则变更，中英双语视频在其他平台更新 | 二千章 | Douyin](https://v.douyin.com/qauh3aXv8CY/)**
   - [川普调侃富豪朋友 失去财富老婆分分钟会跑](https://v.douyin.com/Pd9wVcfB2cc/)
 
 ---
-* **[michelelepe | ](https://www.youtube.com/@michelelepe)**
+* **[michelelepe | Youtube](https://www.youtube.com/@michelelepe)**
 
 ---
-* **[Little Reading Bug's Bilingual Channel | 小书虫的双语频道](https://www.youtube.com/@littlereadingbugsbilingual539/videos)**
+* **[Little Reading Bug's Bilingual Channel | 小书虫的双语频道 | Youtube](https://www.youtube.com/@littlereadingbugsbilingual539/videos)**
 
 ---
-* **[playphrase | 台词搜索](https://www.playphrase.me/#/search?q=&language=en)**
-
----
-* **[杰瑞姐姐](https://v.douyin.com/O36gRkr4zi4/)**
+* **[杰瑞姐姐 | 如果所有人都理解你，那你得普通成什么样 | 五百章 | Douyin](https://v.douyin.com/O36gRkr4zi4/)**
   - [各种量词英语表达](https://v.douyin.com/sXwQMmvcr_c/)
+  - [和跟着蛙蛙学英语-认各国国旗](https://v.douyin.com/QwFPgBWFxrk/)
+  - [和跟着蛙蛙学英语 一起 | 合拍 人心中的成见是一座大山](https://v.douyin.com/yUr2ExM3DeM/)
+  - [没错，我精神不正常# 专治不开心](https://v.douyin.com/myNfUedEpCo/)
 
 ---
 * **[听语英语研习社 | 嗨，我是星晴 🌷【听语英语研习社】知识星球主理人 | 多年英语翻译经验，分享点滴英语知识，伴你成长 | 五百章 | Douyin](https://v.douyin.com/paNb0F2Vl0U/)**

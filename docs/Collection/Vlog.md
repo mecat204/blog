@@ -119,6 +119,10 @@
   - [雪花轻吻山巅，咖啡暖手 炉火旁，冬日的仙境悄然绽放 踏雪觅果，阳光洒落心间 这十一月的清晨，藏着治愈的温柔](https://v.douyin.com/PokajBVenxU/)
 
 ---
+* **[Cav和Rose | 二百章 | Douyin](https://v.douyin.com/uMQ0Bw2LjsU/)**
+  - [大家都在问我是怎么获得中国五星卡的? 中国五星卡 | 2026我的新春vlog](https://v.douyin.com/Ozn12rzT8Xs/)
+
+---
 * **[Jonna Jinton | 526万 | Youtube](https://www.youtube.com/@jonnajinton)**
   - My name is Jonna Jinton, I'm a Swedish artist, musician and filmmaker and I live in the beautiful woods in the North of Sweden.
   - 我叫Jonna Jinton，是一名瑞典艺术家、音乐家和电影制作人，住在瑞典北部美丽的森林里。

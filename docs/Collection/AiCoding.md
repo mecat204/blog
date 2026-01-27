@@ -545,6 +545,14 @@
   - [当引力成为原罪，漂浮者与沉沦者共同书写忏悔录 | midjourney | 科幻 | 在天眼开开眼 | 和宇宙聊聊天](https://v.douyin.com/Rj0db3o5Mzs/)
 
 ---
+* **[勤悦 | 厚积薄发 | 五十章 | Douyin](https://v.douyin.com/gV4Yh8BRKmk/)**
+  - **[老版人民币 那卷边的钱角，已经是三十多年前的事了。一代人的回忆 | 图说历史](https://v.douyin.com/WdXxEIn-cGo/)**
+  - [愿:善良的你 能被这社会温柔以待。**芳华**](https://v.douyin.com/4bxCUDVLllA/)
+  - [十年之后又十年 "终有一天会静下心来，像个局外人一样，看着自己的故事，笑着摇摇头。" 时间终会让我们学会释然，与过去和解。和自己和解 | 过去vs现在 | 萌宠 | 治愈猫咪](https://v.douyin.com/YXbvkY7lxwQ/)
+  - [小学的时候插了一片仙人掌叶子，一晃眼25年了 | 仙人掌开花](https://v.douyin.com/L0NWEyHiY8w/)
+
+
+---
   * **[思辩论 | 只记录，只分享，无建议，无答案。| 五十章 | Douyin](https://v.douyin.com/o2AV2Mhf22I/)**
     - [慢慢变好 | 慢慢变好才是给自己最好的礼物](https://v.douyin.com/QY-GEP_e14w/)
     - [独处是一个人最好的修行](https://v.douyin.com/gVXQXrLrR54/)
