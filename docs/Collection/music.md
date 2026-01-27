@@ -1169,4 +1169,10 @@
   - [Secret Garden - Nocturne (Remastered 2025/Visualizer) | 秘密花园 - 夜曲（2025年重制/可视化版）](https://www.youtube.com/watch?v=yxuM2Leigyw)
 
 ---
+* **[李三水 | 源 | 三百章 | Douyin](https://v.douyin.com/vwvKVW0DrFQ/)**
+  - [世界上根本没有与你同频的人 只是有心人偷偷为你调了频](https://v.douyin.com/Wvl60MXx5ZM/)
+  - [原来水墨画里的山河，真的存在](https://v.douyin.com/FEwmN7kWqyM/)
+  - [洛阳的仙气越来越重了](https://v.douyin.com/TYE8vFFEsOQ/)
+
+---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)

@@ -693,6 +693,12 @@
   - [云山之间，仿佛有人在悄悄绘梦  | midjourney | ai视频 | 审美积累 | mj | 治愈系风景](https://v.douyin.com/dtOVCaucTzk/)
   - [当引力成为原罪，漂浮者与沉沦者共同书写忏悔录 | midjourney | 科幻 | 在天眼开开眼 | 和宇宙聊聊天](https://v.douyin.com/Rj0db3o5Mzs/)
 
+  ---
+  * **[袋鼠姥姥 | 双胞胎姐妹饲养员和训练师 | 百章 | Douyin](https://v.douyin.com/R0eDd7zLV7A/)**
+    - [还能这样？澳大利亚| 袋鼠](https://v.douyin.com/yiFYrqGhI18/)
+    - [还能这样？袋鼠| 澳大利亚](https://v.douyin.com/MB68KYyVGmk/)
+    - [完了，又被说了.. | 袋鼠| 澳大利亚| 袋鼠姥姥](https://v.douyin.com/fD86jjLGFKg/)
+
 ---
 ### 016. 励志
 * **[鹭途自驾 | 旅小哒| 热衷并擅长于川西所有地区 | 百章 | Douyin](https://v.douyin.com/eMb-fuHcHb4/)**

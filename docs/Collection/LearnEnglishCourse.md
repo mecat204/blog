@@ -191,6 +191,12 @@
   - [谢谢，有被油到，哈哈哈哈 | 英语口语](https://v.douyin.com/-8r4FrtMjrc/)
 
 ---
+* **[冯同学读英语 | 冯同学💤 是我儿子本人的抖音号码，感兴趣的也可以关注一下 | 千章 | Douyin](https://v.douyin.com/j8P2OAq9Eps/)**
+  - [点滴积累不慌不忙，温柔坚持，终会遇见更好的自己](https://v.douyin.com/Xs7FtSC4edc/)
+  - [日常练英语，是给自己的温柔充电，也是奔赴远方的铺垫](https://v.douyin.com/5p_mjill2yo/)
+  - [不必焦虑进度，认真对待每一次练习，英语自然会温柔回馈](https://v.douyin.com/SpEE-CvBs6I/)
+
+---
 * **[每日英语天天练 | 百章 | Douyin](https://v.douyin.com/BWtb9hqpzkY/)**
   - [每日英语|海洋生物类单词 | 英语  | 英语没那么难  | 实用英语  | 小学英语  | 单词速记](https://v.douyin.com/MpWFz83OIDI/)
   - [每日英语|一图学完调味品类单词| 英语 | 英语没那么难 | 日常英语 | 实用英语 | 亲子英语](https://v.douyin.com/yqX9yXneiRw/)
