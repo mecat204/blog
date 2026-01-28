@@ -1,4 +1,7 @@
 ### 0000. 开源项目
+* **[必应 | bing.com](https://cn.bing.com/)**
+
+---
 * **[WEIFENG2333 | VideoCaptioner | 翻译软件 ](https://github.com/WEIFENG2333/VideoCaptioner)**
   - [videocaptioner](https://www.videocaptioner.cn/)
 

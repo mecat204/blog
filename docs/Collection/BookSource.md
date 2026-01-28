@@ -1,4 +1,7 @@
 ### 000. Download
+* **[必应 | bing.com](https://cn.bing.com/)**
+
+---
 * **[dlpanda](https://dlpanda.com/zh-CN)**
 
 ---

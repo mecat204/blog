@@ -1,5 +1,12 @@
 ### 000. Download
+* **[必应 | bing.com](https://cn.bing.com/)**
+
+---
 * **[dlpanda](https://dlpanda.com/zh-CN)**
+
+---
+* **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
+  - [americanliterature](https://americanliterature.com/
 
 ---
 ### 001. 抖音
