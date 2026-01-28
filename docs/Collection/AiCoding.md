@@ -377,7 +377,7 @@
 
 
 ---
-  * **[暴躁虾剪 | 一个要把西游记剪成臊子的男人 | 五百章| Douyin](https://v.douyin.com/xma4-2Rjo5s/)**
+  * **[暴躁虾剪 | 一个要把西游记剪成臊子的男人 | 五百章 | Douyin](https://v.douyin.com/xma4-2Rjo5s/)**
     - [2026来了 祝君：岁岁常欢愉、年年皆胜意 | 新年快乐 | 2026跨年 | 青年创作者成长计划 | 青年创作年终讲](https://v.douyin.com/7z9Il6Puznw/)
     - [托塔天王的意思 朕自己也姓孙？青年创作者成长计划 | 青年创作年终讲 | 不一样的西游记](https://v.douyin.com/qTPyNX6RnnQ/)
     - [世界不应该是这样的 做人不应该是这样的](https://v.douyin.com/_iPApB2Pdm8/)
@@ -576,6 +576,15 @@
     * **天气之子**
   - [云山之间，仿佛有人在悄悄绘梦  | midjourney | ai视频 | 审美积累 | mj | 治愈系风景](https://v.douyin.com/dtOVCaucTzk/)
   - [当引力成为原罪，漂浮者与沉沦者共同书写忏悔录 | midjourney | 科幻 | 在天眼开开眼 | 和宇宙聊聊天](https://v.douyin.com/Rj0db3o5Mzs/)
+
+---
+* **[柳夜熙 | 一个会捉妖的虚拟美妆达人柳夜熙 | 百章 | Douyin](https://v.douyin.com/44_LK-Cy0Mc/)**
+  - [现在，我看到的世界，你也能看到了 | 虚拟偶像  | 元宇宙  | 美妆](https://v.douyin.com/FAnCpyskYzk/)
+  - [**情不知所起，若君心似我心，定不负相思意。**柳夜熙地支迷阵 | 虚拟偶像 | 柳夜熙酉鸡妆 | 柳夜熙戏曲妆 | 轻漫计划](https://v.douyin.com/JB-ETs7qR7c/)
+
+---
+* **[慧慧周 | 用创作让人近善近美。| 五百章 | Douyin](https://v.douyin.com/5To8O9lzYsI/)**
+  - [如果可以，我愿意付出一切找到你。 **短剧: 柒两人生** | **慧慧周**](https://v.douyin.com/bSCp8R4qdIU/)
 
 ---
 * **[勤悦 | 厚积薄发 | 五十章 | Douyin](https://v.douyin.com/gV4Yh8BRKmk/)**
