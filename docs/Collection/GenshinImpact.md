@@ -20,6 +20,10 @@
   - [《原神·提瓦特篇》幕间PV-「神的局限性」](https://www.youtube.com/watch?v=jvXVmvW8ZQw)
 
 ---
+* **[原神 | 我真的没时间陪你闹了，我要去「原神 · 空月之歌」| 三千章 | Douyin](https://v.douyin.com/hEOMQkgFrmk/)**
+  - [原神 《原神》兹白角色PV——「亦如陌上尘」](https://v.douyin.com/qOod_RcaVqE/)
+
+---
 * **[原神珍珠之歌](https://www.youtube.com/playlist?list=PLqWr7dyJNgLKjMUfZ7mnuPFLxX813sm8K)**
 
 ---
