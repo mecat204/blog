@@ -266,8 +266,14 @@
   - [考试神器](https://v.douyin.com/wHfY52mXcJU/)
 
 ---
-* **[乃炎英语 | Douyin | 五百章 | Douyin](https://v.douyin.com/pPqC74m3eTU/)**
+* **[乃炎英语 | 奈炎工作室 | 英语学习顾问, 专注成人零基础英语起步到提升 | 七年教龄 | 英语专八, 资深英语培训师 | 高级英语教师资格证 CATTI三级 | 一起快乐学英语 | Douyin | 五百章 | Douyin](https://v.douyin.com/pPqC74m3eTU/)**
   - **[日常口语](https://v.douyin.com/D8Wk9TkC14Y/)**
+  - [每天学习五句实用地道英语表达](https://v.douyin.com/__4RppvgmSE/)
+  - [马上学了就可以使用的日常口语](https://v.douyin.com/dR3AdukO5Dw/)
+  - [学完这80个短语，口语进步立竿见影](https://v.douyin.com/rAvZzpnXdy0/)
+  - **[坚持做自己 答案会出现在自己的节奏里](https://v.douyin.com/sfKwkKVTQXI/)**
+  - **[30句学完就能用的地道英语口语和我一起来学习吧](https://v.douyin.com/wB1zD3qrgtw/)**
+  - **["加减乘除"的英语表达你知道吗？和我一起来学习吧 | 等加减乘除- Equal,Plus,minus,Divided,Times](https://v.douyin.com/97TeaLAhQAk/)**
 
 ---
 * **[开源雅思](https://www.ieltsday.com/)**
@@ -760,6 +766,12 @@
   - [颜色英文儿歌横屏版  | 英语启蒙UXA-横版可电视投屏的尺寸来了 | 星星启蒙英语优秀学生作业](https://v.douyin.com/tpT3DjwfHt4/)
 
 * **[星星启蒙英语 | 百章 | Douyin](https://v.douyin.com/Dr1xpKbfij0/)**
+
+---
+* **[漫子今天学废了嘛 | 00后Tour Guide 一枚(中英) | 旅游 | 养成 | 英语 | 自学share | 哑巴英语重度患者，突破英语口语中ing | 山高路远 看世界 也找自己 | 五十章 | Douyin](https://v.douyin.com/tlIOW4Xs86Y/)**
+  - [旅游英语｜分享接待游客的常用英语句子 | greet: 问候 | jounery: 旅行 | luggage: 行李](https://v.douyin.com/v-dFVKTAbYs/)
+  - [那些读起来很爽的水果单词 | strawberry: 草莓 | watermelon: 西瓜 | pineapple 菠萝 | peach: 桃子 | mango: 芒果](https://v.douyin.com/vniyOrDcUXA/)
+  - [总结网友们评论的读起来很爽的单词，还有哪些大家可以继续分享呦 | construction: 建设 | translation: 翻译 | evolution: 进化 | manufacture ](https://v.douyin.com/ywNg5DfCRDk/)
 
 ---
 ### 0002. English source

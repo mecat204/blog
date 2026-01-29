@@ -6,7 +6,7 @@
 
 ---
 * **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
-  - [americanliterature](https://americanliterature.com/
+  - [americanliterature](https://americanliterature.com/)
 
 ---
 ### 001. 抖音
