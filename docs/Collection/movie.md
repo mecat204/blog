@@ -46,6 +46,7 @@
   * **4kvm**
   - **[4kvm·A](https://4kvm.site/)**
   - **[4kvm·B](https://www.4kvm.net/)**
+    * [怪奇物语: 第1季](https://www.4kvm.net/seasons/gqwy1)
   - **[4kvm·C](https://www.4kvm.pro)**
   - **[4kvm·D](https://www.4kvm.org)**
 

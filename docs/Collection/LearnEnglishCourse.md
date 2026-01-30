@@ -431,6 +431,7 @@
   - **[如何应对焦虑](https://v.douyin.com/YTTJxngDVSQ/)**
   - **[学习路上最大的障碍不是智力,而是情绪](https://v.douyin.com/5ONbAmsMVLs/)**
   - **[2015年比尔盖茨：下次疫情的爆发，我们还没准备好](https://v.douyin.com/w62TykhUTVk/)**
+  - **[教女孩们勇敢，而不是完美](https://v.douyin.com/vxN-OUdf1sk/)**
 
 ---
 * **[夏冰雹频道 | 英语教育博主 专注英文教学五年 听力口语阅读理解好评如潮 | 书籍: 绽放作者 | 激发年轻人挖掘热爱与潜能, 活出想要的人生 | 千章 | Douyin](https://v.douyin.com/suT9hTmBYss/)**
@@ -772,6 +773,44 @@
   - [旅游英语｜分享接待游客的常用英语句子 | greet: 问候 | jounery: 旅行 | luggage: 行李](https://v.douyin.com/v-dFVKTAbYs/)
   - [那些读起来很爽的水果单词 | strawberry: 草莓 | watermelon: 西瓜 | pineapple 菠萝 | peach: 桃子 | mango: 芒果](https://v.douyin.com/vniyOrDcUXA/)
   - [总结网友们评论的读起来很爽的单词，还有哪些大家可以继续分享呦 | construction: 建设 | translation: 翻译 | evolution: 进化 | manufacture ](https://v.douyin.com/ywNg5DfCRDk/)
+
+---
+* **[磨耳朵英语English | Hey! I'd like to share English speaking videos with you guys to improve your English. Subscrible and learn. | 二百章 | Douyin](https://v.douyin.com/hwYohYbuNAo/)**
+  - **[024.家庭日常英语对话](https://v.douyin.com/FJaevWtfgtA/)**
+  - **[第1集|磨耳朵英语|**走遍美国**|林登大街46号](https://v.douyin.com/HR17A1YHgKk/)**
+  - **[学习一门外语的秘密 | The secrets of learning a new language](https://v.douyin.com/F3zUeMdF1eY/)**
+  - **[Learn English with This Vlog 跟着vlog学英语](https://v.douyin.com/B5dd11kfG_Y/)**
+  - **[Learn English with This Vlog 推荐几本让你变有钱的书籍；坚持可理解性输入听英语磨耳朵，量变引起质变](https://v.douyin.com/lirrEoSJcfk/)**
+
+---
+* **[TED 演讲 | 每日更新英语演讲视频，畅学英语，聆听哲学 | 逐渐偏离轨道 | 百章 | 抖音](https://v.douyin.com/5cdjEoS3jxQ/)**
+  - **[马云在莫斯科大学的全英文演讲完整版](https://v.douyin.com/RsFseqixvMk/)**
+  - **[扎克伯格人生mvp结算画面，在哈佛大学毕业典礼的激情演讲，曾经中途退学得少年如今成为毕业典礼讲师。](https://v.douyin.com/vJpIkTa83B8/)**
+  - **[马云莫斯科大学英文演讲](https://v.douyin.com/edLf0AjLe50/)**
+  - **[奥巴马语录： 1.一个声音能改变一个房间，进而改变一座城市、一个国家，乃至世界，你的声音也能改变世界 2.未来会回报那些坚持不懈的人，我没时间自怨自艾，没时间抱怨，我要继续前进 3.如果你走在正确的道路上，并且愿意坚持走下去，最终你一定会取得进步 4.别让失败定义你，要让它教会你成长，告诉你下次该如何改进 5.改变不会等来，我们就是自己一直在等待的人，我们就是自己所追求的改变 6.摆脱绝望的最佳方式是起身行动，别等好事降临，主动去创造，你会为世界和自己注入希望 7.卓越从不是天赋，而是靠努力赢得 8.除非你愿意尽自己的一份微薄之力，为所有孩子留下一个更美好的世界，否则生命的意义将大打折扣 9.保持探索、保持梦想、保持追问，别满足于已知，永远相信你的想法、想象力与努力能改变世界 10.无论你已成就多少、多么成功，总有更多事要做、更多知识要学、更多目标要达成](https://v.douyin.com/0IuQifieVkk/)**
+  * **[罗斯福语录： 1.我们唯一值得恐惧的就是恐惧本身 2.规则不一定是神圣的，原则才是 3.真正的自由不能被赋予，它必须被争取 4.自由意味着人权在任何地方都处于至高无上的地位 5.如果失败，就坦率承认并尝试另一种。但最重要的是，要有所行动 6.伟大的代价就是责任 7.许多事情都有助于任务完成，但这些决不包括空谈。我们必须行动，立即行动 8.前进的道路有很多，但停滞不前的道路只有一条 9.人生好比橄榄球比赛，原则就是：奋力冲向底线 10.真正的个人自由，只有在经济安全和独立的基础上才能存在 11.实力永远意味着责任和危险 12.失败是痛苦的，更糟的是从来没有去争取成功 13.没有书籍，就不能打赢思想之战，正如没有军舰就不能打赢海战一样 14.检验我们进步的标准，不在于我们为那些富足的人增加了多少财富，而在于我们是15.否为那些一无所有的人提供了充足的保障](https://v.douyin.com/xHckRKq93Rg/)**
+  * **[韩国国父李承晚 被称为半岛的罪人，死后被韩国民众拒绝归国，始终在民调中位列最不受欢迎的总统之一 # 李承晚](https://v.douyin.com/ZdNSoGB1Tgo/)**
+
+
+---
+* **[English Unleashed: The Podcast]()**
+* **[每天半小时英语跟读练习 | You want to learn English in an easy and interesting way? I use simple stories to help you learn new vocabulay and improve you listening skills. you'll learn english while having fun! Subscribe to start your learning journey. | 百章 | Douyin](https://v.douyin.com/4MX9E6sqlws/)**
+  - **[查看抖音 | AI笔记- 英语播客13th - 50 useful phases](https://v.douyin.com/3ZokdAudJz0/)**
+  - **[This is how I started speaking](https://v.douyin.com/ntFnGnDBU6g/)**
+  - **[英语播客 10.1th ](https://v.douyin.com/bY0Nk9_HqZU/)**
+  - **[英语播客 10.2th](https://v.douyin.com/53AhoDhAVg0/)**
+  - **[英语播客 9th](https://v.douyin.com/gqARDDuExjQ/)**
+  - **[英语播客 8th](https://v.douyin.com/qZpmVDWI8co/)**
+
+---
+* **[欢快葫芦丝 | 没更新的日子都在微博上 | Chin Town | Hoolucy | ig: Hoolusi | 百章 | Douyin](https://v.douyin.com/xoH42qn_ptw/)**
+  - [我总是装作钝感力很强的样子 但其实哪个伤害我的话和事我都记得很清楚](https://v.douyin.com/qMj-d2UQ3e8/)
+  - **[如何阅读外刊｜适用雅思托福考研四六级](https://v.douyin.com/XpIhVLK0SiI/)**
+  - **[1天背1000个单词](https://v.douyin.com/e34w7XBZLsw/)**
+  - **[50分钟速成英语语法](https://v.douyin.com/Vea0kRThqq8/)**
+  - **[影子跟读法 毁了中国人的口语](https://v.douyin.com/m8lDXOD6yrU/)**
+  - **[如何通过美剧练口语- 以怪奇物语第五季第一集为例](https://v.douyin.com/1XDwOsnvsCU/)**
+
 
 ---
 ### 0002. English source

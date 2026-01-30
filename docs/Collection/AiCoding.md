@@ -597,11 +597,25 @@
   - [小学的时候插了一片仙人掌叶子，一晃眼25年了 | 仙人掌开花](https://v.douyin.com/L0NWEyHiY8w/)
 
 ---
-  * **[思辩论 | 只记录，只分享，无建议，无答案。| 五十章 | Douyin](https://v.douyin.com/o2AV2Mhf22I/)**
-    - [慢慢变好 | 慢慢变好才是给自己最好的礼物](https://v.douyin.com/QY-GEP_e14w/)
-    - [独处是一个人最好的修行](https://v.douyin.com/gVXQXrLrR54/)
-    - [生活哲学 | 年轻人 | 上热门话题](https://v.douyin.com/zPdO5npzGK8/)
-    - [生活哲学 | 攀比](https://v.douyin.com/JAOEgn7jiIs/)
+* **[思辩论 | 只记录，只分享，无建议，无答案。| 五十章 | Douyin](https://v.douyin.com/o2AV2Mhf22I/)**
+  - [慢慢变好 | 慢慢变好才是给自己最好的礼物](https://v.douyin.com/QY-GEP_e14w/)
+  - [独处是一个人最好的修行](https://v.douyin.com/gVXQXrLrR54/)
+  - [生活哲学 | 年轻人 | 上热门话题](https://v.douyin.com/zPdO5npzGK8/)
+  - [生活哲学 | 攀比](https://v.douyin.com/JAOEgn7jiIs/)
+
+---
+* **[Ferrari | 搞些AI视频 主页作品均为原创 | 五十章 | Douyin](https://v.douyin.com/-4Zz-zd3lno/)**
+  - **[原神：高清重置—5周年 。这是迟到的原神AI重制系列-5周年版本。 为什么用的是4周年的主题曲《经过》，因为这个视频开工的时候，5周年主题曲还没发布出来~ 原本计划5周年庆之前就做完发出来，但是因为工作原因，加上一直修修补补，一不小心拖到现在。不管怎样，祝各位旅行者们5周年快乐！ | 原神 | 原神五周年 | 游戏 | AI动画 | 游戏cg](https://v.douyin.com/CH189-R9ZKY/)**
+  - **[翁法罗斯·高清重置 | 崩坏星穹铁道 | 游戏破壁计划 | 抖音acg新春会 | 记忆是梦的开场白 | AI动画](https://v.douyin.com/D_jsAoC2AQU/)**
+  - **[蒙德：高清重置 用AI高清重置原神蒙德场景](https://v.douyin.com/3m1XdUGR-F4/)**
+  - **[用AI高清重置原神璃月场景](https://v.douyin.com/7DzzHedd6uQ/)**
+  - **[购置PSP, GenshinImpact | 用AI重置的原神稻妻场景 | BGM：《何妄何执》——雷电将军角色演示背景音乐](https://v.douyin.com/qwr0TfFfws0/)**
+  - **[用AI重制的原神须弥场景](https://v.douyin.com/ez3hytzJWzg/)**
+  - **[用AI重置的原神枫丹场景](https://v.douyin.com/bnUL7GhwBA4/)**
+  - **[原神夏活地图：高清重置](https://v.douyin.com/rvmu8wd6Qgw/)**
+  - **[如果在提瓦特被欺负了，应该找谁](https://v.douyin.com/Jua6WHOdQOg/)**
+  - **[用AI重制的原神纳塔场景](https://v.douyin.com/uIjVEId4sAE/)**
+  - **[挪德卡莱：高清重置](https://v.douyin.com/NQVL50U65dY/)**
 
 ---
 * **[尘风AI | 《智行无界》 尘寰万象掌中轻, 万佛千门屏上鸣。A爱智纳无涯海，I智穿云悦众生。AI很单纯，复杂的是人。| 二十九章 | Douyin](https://v.douyin.com/ZE-LqaiwJrw/)**
