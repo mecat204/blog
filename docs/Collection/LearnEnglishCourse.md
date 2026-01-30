@@ -775,6 +775,12 @@
   - [总结网友们评论的读起来很爽的单词，还有哪些大家可以继续分享呦 | construction: 建设 | translation: 翻译 | evolution: 进化 | manufacture ](https://v.douyin.com/ywNg5DfCRDk/)
 
 ---
+* **[每日英语口语 | 一个每天坚持练习英语口语的普通人 | 二百章 | Douyin](https://v.douyin.com/tMmedap52kU/)**
+  - [新年快乐！宝子们](https://v.douyin.com/RMoQ_xFvAb0/)
+  - [你上一次为自己感到骄傲，是什么时候](https://v.douyin.com/t05kvmUg-fg/)
+  - [沉默，是最强大的沟通方式吗](https://v.douyin.com/nEgpOk0nG-A/)
+
+---
 * **[磨耳朵英语English | Hey! I'd like to share English speaking videos with you guys to improve your English. Subscrible and learn. | 二百章 | Douyin](https://v.douyin.com/hwYohYbuNAo/)**
   - **[024.家庭日常英语对话](https://v.douyin.com/FJaevWtfgtA/)**
   - **[第1集|磨耳朵英语|**走遍美国**|林登大街46号](https://v.douyin.com/HR17A1YHgKk/)**
@@ -791,9 +797,35 @@
   * **[罗斯福语录： 1.我们唯一值得恐惧的就是恐惧本身 2.规则不一定是神圣的，原则才是 3.真正的自由不能被赋予，它必须被争取 4.自由意味着人权在任何地方都处于至高无上的地位 5.如果失败，就坦率承认并尝试另一种。但最重要的是，要有所行动 6.伟大的代价就是责任 7.许多事情都有助于任务完成，但这些决不包括空谈。我们必须行动，立即行动 8.前进的道路有很多，但停滞不前的道路只有一条 9.人生好比橄榄球比赛，原则就是：奋力冲向底线 10.真正的个人自由，只有在经济安全和独立的基础上才能存在 11.实力永远意味着责任和危险 12.失败是痛苦的，更糟的是从来没有去争取成功 13.没有书籍，就不能打赢思想之战，正如没有军舰就不能打赢海战一样 14.检验我们进步的标准，不在于我们为那些富足的人增加了多少财富，而在于我们是15.否为那些一无所有的人提供了充足的保障](https://v.douyin.com/xHckRKq93Rg/)**
   * **[韩国国父李承晚 被称为半岛的罪人，死后被韩国民众拒绝归国，始终在民调中位列最不受欢迎的总统之一 # 李承晚](https://v.douyin.com/ZdNSoGB1Tgo/)**
 
-
 ---
-* **[English Unleashed: The Podcast]()**
+* **[English Unleashed: The Podcast | 115万 | Youtube](https://www.youtube.com/@EnglishPodcastUnleashed/videos)**
+  - Welcome to English Unleashed: The Podcast.
+  - 欢迎收听《English Unleashed：播客》。
+
+  ---
+  - We are a group of language educators and researchers with more than 20 years of experience teaching English in Europe, the UK, Middle East and Austraila.
+  - 我们是一群拥有超过20年在欧洲、英国、中东和澳大利亚教授英语的语言教育者和研究人员。
+
+  ---
+  - In every episode, we (Tom and Sarah) speak slowly and clearly, so you can listen, understand, and speak along with us.
+  - 在每一集中，我们（汤姆和莎拉）都说得慢而清晰，这样你可以倾听、理解并与我们一起交流。
+
+  ---
+  - We share educational conversations, useful sentences, everyday expressions, and emotional language — all designed to help you sound more natural.
+  - 我们分享教育性对话、实用句子、日常表达和情感语言——所有这些都旨在帮助你听起来更自然。
+
+  ---
+  - You’ll also get learning tips and simple strategies to improve your English faster and with more confidence 🎧
+  - 你还将获得学习技巧和简单的策略，帮助你更快、更有信心 🎧地提升英语水平
+
+  ---
+  - Learn the phrases native speakers use 🗣️ Practice with us — shadowing, speaking, understanding 💡 Get clear advice for building fluency Perfect for pre-intermediate to advanced learners who want to go beyond grammar — and truly speak English with feeling.
+  - 学习母语者常用 🗣️的短语 与我们一起练习——跟随学习、口语、理解 💡 获取清晰的流利度建设建议 非常适合想要超越语法的中高级学习者——并真正用感情表达英语。
+
+  ---
+  - All rights reserved © Educational Video Productions.
+  - 版权所有，版权所有©：教育视频制作公司。
+
 * **[每天半小时英语跟读练习 | You want to learn English in an easy and interesting way? I use simple stories to help you learn new vocabulay and improve you listening skills. you'll learn english while having fun! Subscribe to start your learning journey. | 百章 | Douyin](https://v.douyin.com/4MX9E6sqlws/)**
   - **[查看抖音 | AI笔记- 英语播客13th - 50 useful phases](https://v.douyin.com/3ZokdAudJz0/)**
   - **[This is how I started speaking](https://v.douyin.com/ntFnGnDBU6g/)**
@@ -810,7 +842,6 @@
   - **[50分钟速成英语语法](https://v.douyin.com/Vea0kRThqq8/)**
   - **[影子跟读法 毁了中国人的口语](https://v.douyin.com/m8lDXOD6yrU/)**
   - **[如何通过美剧练口语- 以怪奇物语第五季第一集为例](https://v.douyin.com/1XDwOsnvsCU/)**
-
 
 ---
 ### 0002. English source
