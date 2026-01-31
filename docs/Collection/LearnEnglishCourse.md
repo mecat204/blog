@@ -844,6 +844,25 @@
   - **[如何通过美剧练口语- 以怪奇物语第五季第一集为例](https://v.douyin.com/1XDwOsnvsCU/)**
 
 ---
+* **[imleafsun | Welcome to my English Corner | 雅思8.0没出过国 | 学英语秘诀 | 英文VLOG | 百章 | Douyin](https://v.douyin.com/pit85miP5xg/)**
+  - [享受孤独🪐是自我提升的必要条件](https://v.douyin.com/UGcPX8EKgLk/)
+  - [轻松学地道口语，看这3个博主就够啦](https://v.douyin.com/Ib-qlTyWzTI/)
+  - [11绩点第一英专卷王，是怎么练阅读和听力的](https://v.douyin.com/VZVyl6_hmKc/)
+  - [外语博士生穿什么？用英文聊聊我的日常穿搭👔 9月份读博一后，我的衣橱也next level了。 不知不觉，那些花里胡哨的小女孩衣服悄悄退场。](https://v.douyin.com/i1RHDdV9Zyw/)
+  - [我永远为泰勒斯威夫特的文字感到动容｜全英读信 # 泰勒斯威夫特](https://v.douyin.com/9-kd6Lo_FFU/)
+  - [全英｜分享我的发音/口音快速提升小秘诀](https://v.douyin.com/OUcUYnmf3hk/)
+
+---
+* **[T哥的世界 | 五十章 | Douyin](https://v.douyin.com/ht4hPw-Hueo/)**
+  - [你知道缅甸曾经有多富吗](https://v.douyin.com/XZYYTXJmBjw/)
+
+---
+* **[人文 | 用人文的眼睛看世界。| English AI Video | 五十章 | Douyin](https://v.douyin.com/-sdx1P_ypng/)**
+  - [第一集 | 苗族古歌里的爱情真的很特别，蝴蝶妈妈没爱英雄山神，偏偏爱上了河水里的一缕泡泡，浪漫又纯粹✨ | 苗族 | 蝴蝶妈妈 | 非遗传承  | 非遗文化](https://v.douyin.com/j9s7z7W4ovI/)
+  - [第二集 | 蝴蝶妈妈的12枚神胎，藏着天地、生灵与灵界的秘密。诸神与怪物的时代已然开启.](https://v.douyin.com/lKNgMwKnbJw/)
+  - [第三集 | 🔥 凡人竟敢叫板天神？这场决定人类命运的博弈，藏着最古老的生存智慧！大地属人类，混沌时代落幕，人类纪元正式开启](https://v.douyin.com/4N45q3Y3am0/)
+
+---
 ### 0002. English source
 * **English source**
 

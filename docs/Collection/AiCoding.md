@@ -698,6 +698,12 @@
   - [第三集 穹，每相隔百年波动一次的天生之灵，当它现世的时候，天界也会随之震荡](https://v.douyin.com/ThNfnMuVK_4/)
 
 ---
+* **[人文 | 用人文的眼睛看世界。| English AI Video | 五十章 | Douyin](https://v.douyin.com/-sdx1P_ypng/)**
+  - [第一集 | 苗族古歌里的爱情真的很特别，蝴蝶妈妈没爱英雄山神，偏偏爱上了河水里的一缕泡泡，浪漫又纯粹✨ | 苗族 | 蝴蝶妈妈 | 非遗传承  | 非遗文化](https://v.douyin.com/j9s7z7W4ovI/)
+  - [第二集 | 蝴蝶妈妈的12枚神胎，藏着天地、生灵与灵界的秘密。诸神与怪物的时代已然开启.](https://v.douyin.com/lKNgMwKnbJw/)
+  - [第三集 | 🔥 凡人竟敢叫板天神？这场决定人类命运的博弈，藏着最古老的生存智慧！大地属人类，混沌时代落幕，人类纪元正式开启](https://v.douyin.com/4N45q3Y3am0/)
+
+---
 ### 007. 数字人实时语音交互
 * [VideoChat](https://github.com/Henry-23/VideoChat)
 

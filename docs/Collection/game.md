@@ -7,6 +7,12 @@
   - [小宅夜晚 | 一人一猫一世界](https://v.douyin.com/Y86iVrs7ccw/)
 
 ---
+* **[ManMan@CC | 千章 | Douyin](https://v.douyin.com/oF1TQmJ_Auk/)**
+  - [说出你玩过觉得最好玩的双人游戏……情侣好友双人游戏推荐🥇TOP10……想和谁玩就艾特谁# 适合情侣玩的游戏推荐](https://v.douyin.com/Fs8GLS4gbeQ/)
+  - [10款双人游戏｜快@TA和你一起玩 别再让你的switch吃灰了](https://v.douyin.com/Kw7Q_sEFPOw/)
+  - [如果有一个这样的电竞房，你会下班后几点回家](https://v.douyin.com/zPMk5CENFUw/)
+
+---
 ### 0002. Game translate
 * **[7788](https://v.douyin.com/7eLEjLQxLPc/)**
   - [这英语得学呀 | 实用英语 | 学英语 | 日常英语 | 生活英语 | 趣味英语](https://v.douyin.com/jVZrkl3FobI/)

@@ -602,8 +602,14 @@
     - [用《西游记》复刻《雍正王朝》卸甲！！！](ttps://v.douyin.com/jZ6KL8hjRCg/)
 
   ---
-  * **[乃炎英语 | Douyin | 五百章 | Douyin](https://v.douyin.com/pPqC74m3eTU/)**
-    - **[日常口语](https://v.douyin.com/D8Wk9TkC14Y/)**
+  * **[乃炎英语 | 奈炎工作室 | 英语学习顾问, 专注成人零基础英语起步到提升 | 七年教龄 | 英语专八, 资深英语培训师 | 高级英语教师资格证 CATTI三级 | 一起快乐学英语 | Douyin | 五百章 | Douyin](https://v.douyin.com/pPqC74m3eTU/)**
+  - **[日常口语](https://v.douyin.com/D8Wk9TkC14Y/)**
+  - [每天学习五句实用地道英语表达](https://v.douyin.com/__4RppvgmSE/)
+  - [马上学了就可以使用的日常口语](https://v.douyin.com/dR3AdukO5Dw/)
+  - [学完这80个短语，口语进步立竿见影](https://v.douyin.com/rAvZzpnXdy0/)
+  - **[坚持做自己 答案会出现在自己的节奏里](https://v.douyin.com/sfKwkKVTQXI/)**
+  - **[30句学完就能用的地道英语口语和我一起来学习吧](https://v.douyin.com/wB1zD3qrgtw/)**
+  - **["加减乘除"的英语表达你知道吗？和我一起来学习吧 | 等加减乘除- Equal,Plus,minus,Divided,Times](https://v.douyin.com/97TeaLAhQAk/)**
 
   ---
   * **[古宇家办 | 国内首家一站式财富管理和家族综合服务家族办公室 | 五百章 | Douyin ](https://v.douyin.com/Bq2kUH60nkY/)**
@@ -630,6 +636,16 @@
     - [独处是一个人最好的修行](https://v.douyin.com/gVXQXrLrR54/)
     - [生活哲学 | 年轻人 | 上热门话题](https://v.douyin.com/zPdO5npzGK8/)
     - [生活哲学 | 攀比](https://v.douyin.com/JAOEgn7jiIs/)
+
+  ---
+  * **[三三SHOWROOM | 嘿～我是三三 华东一带相当有文凭的一个人 | 千章 | Douyin](https://v.douyin.com/usHvcMTzhAo/)**
+    - [人参果树被推倒了，为什么只有观音菩萨能救活](https://v.douyin.com/zIj5JSvmYQM/)
+    - [于北辰看到我们055大驱排到18艘了，会怎么说](https://v.douyin.com/D2e6sMxMfN8/)
+    - [给你整得明明白白 | 搞笑](https://v.douyin.com/8lZZSZhTln0/)
+    - [为什么男人宁愿在家玩搬砖游戏 也不肯出去工作](https://v.douyin.com/87PmRm03gHo/)
+    - [历史上哪位奸臣不说名字，一句话就知道是谁](https://v.douyin.com/QNoKeN0ZgVc/)
+    - [西游记里最不合理的地方是哪里 | 自古评论区出人才](https://v.douyin.com/HtjDmpfjBrM/)
+    - [你会先救画还是先救猫 | 自古评论区出人才](https://v.douyin.com/1lGy8GIYCOI/)
 
 ---
 * **2026**
