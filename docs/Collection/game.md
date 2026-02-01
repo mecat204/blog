@@ -48,6 +48,10 @@
   - [ 夜晚的小世界如此宁静 | steam游戏 | 单机游戏 | 搭建 | 治愈 | TinyGlade](https://v.douyin.com/n38Kk4nzX3w/)
 
 ---
+### Proxy Game
+* **[MERCY](https://sonypictures.com.sg)**
+
+---
 ### 9999. Download
 * **[dlpanda](https://dlpanda.com/zh-CN)**
 
