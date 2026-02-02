@@ -257,7 +257,7 @@
   - [第7集 Englishpod 电脑中病毒了 坚持100天，英语听力，突飞猛进 适合初学者英语实用听力素材 | 每日学习打卡 | 英语听力 | 日常英语 | 每日英语 | 英语没那么难](https://v.douyin.com/8yOp7ChuHyc/)
 
 ---
-* **[Simon英语原著阅读 | 每本书都有整理全书单词及短语，橱窗购书附赠 | Douyin | 半百 | Douyin](https://v.douyin.com/tn3aP_8WEWs/)**
+* **[Simon英语原著阅读 | 每本书都有整理全书单词及短语，橱窗购书附赠 | 半百 | Douyin](https://v.douyin.com/tn3aP_8WEWs/)**
   - [你所需要学习的点都在书里。评论区告诉我你最喜欢的书，我们一起来读 | 学英语 | 英语学习方法 | 英语阅读 | 让阅读成为一种习惯 | 英语](https://v.douyin.com/k7sJvR2oj4U/)
   - [怎样练好英语口语 英语口语到底该怎么去练？小子不才，学习十余载，愿与君共享，与君共勉！英语口语练习 | 英语口语 | 流利英语 | 纯正英语 | 让阅读成为一种习惯](https://v.douyin.com/P_mjGHn_U2U/)
 
@@ -303,6 +303,7 @@
 
 ---
 * **[Felix英语 | 千章 | Douyin](https://v.douyin.com/LuaEhzr_HZc/)**
+  - **[Youtuber: Ariannita]**
 
 ---
 * **[甜甜教英语 | 五百章 | Douyin](https://v.douyin.com/mpd3SzfNxI4/)**
@@ -690,6 +691,19 @@
 ---
 * **[艾老师-原版英语](https://v.douyin.com/iVAT01OF5Uo/)**
   - [学英语词汇量很重要，词汇结构同样也很重要](https://v.douyin.com/RGplnH5alng/)
+
+---
+* **[英语超级屋 | 感受世界，感受人文，遇见这个世界上美好的人和事 学好英语，感受语言，遇见这个时间里最好的自己... | 三百章 | Douyin](https://v.douyin.com/JLRyWueVrOE/)**
+  - 语言的边界, 就是世界的边界 --- 维特根斯坦
+  - [张同完 | 韩国 | **Youtuber: _100ls**  | wan只用一部动画，重复100遍，做到年赚200万刀 谁说学好英语赚不到钱](https://v.douyin.com/dE8eIkNzQ28/)
+  - **[旅行学英语](https://v.douyin.com/clZqESbHEF4/)**
+  - **[全英播客通勤磨耳朵 | **Youtuber: English Learning Podcast**](https://v.douyin.com/qGQ7PDaJ7zY/)**
+  - **[如何在一天彻底改变你的一生](https://v.douyin.com/YLiYarwLOxY/)**
+  - **[你学英语的时候为什么总是被短视频带跑](https://v.douyin.com/LANarnZ8pdM/)**
+  - **[English podcast 英语听力训练](https://v.douyin.com/-1JcIfq0xfg/)**
+  * **[英文磨耳朵 进入心流状态是什么感觉](https://v.douyin.com/c1AbObGV9xI/)**
+  * **[英式英语那个小调调是怎么来的](https://v.douyin.com/hxaGseoYJok/)**
+  * **[韩国大集什么样 可理解性输入学英语 | Youtuber: volkaeagle](https://v.douyin.com/-G5XfX7KvRo/)**
 
 ---
 * **[本立道生生不息 | 山上高松溪畔竹，清风才动是知音。 The out way out is through.](https://v.douyin.com/_ljrxSfctCU/)**
