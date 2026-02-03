@@ -309,6 +309,17 @@
 * **[甜甜教英语 | 五百章 | Douyin](https://v.douyin.com/mpd3SzfNxI4/)**
 
 ---
+* **[朱梓橦 | 凤凰卫视双语主持人、媒体人、导演、律师 | 分享自律健康生活、语言艺术、法律小常识 | 千章 | Douyin](https://v.douyin.com/nz8G2JiTgHI/)**
+  - [主持凤凰卫视《风云对话》，专访芬兰驻华大使孟蓝](https://v.douyin.com/4xiRS0bhysM/)
+  - [梦想本不会发光，发光的是追梦的你](https://v.douyin.com/AffVAd2qCpE/)
+  - [岁月是把杀猪刀，大学是把美工刀，你们这两刀谁赢了](https://v.douyin.com/xS-rRPw07fY/)
+  - [把手机调成"灰度模式"，眼睛会感谢你](https://v.douyin.com/JCHuD2REfe8/)
+
+---
+* **[英语学习打卡 | 二百章 | Douyin](https://v.douyin.com/cYhcSTZIvYs/)**
+  - [每天跟我学涨知识井英语](https://v.douyin.com/PhNArQe-h2o/)
+
+---
 * **[薛麦Max | 百章 | Douyin](https://v.douyin.com/B17fqLy_u_0/)**
 
 ---

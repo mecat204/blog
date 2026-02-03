@@ -1,9 +1,19 @@
 ### 001. 收藏网址
-* [zpandame](https://zpandame.github.io/website/hidden.html)
+* **[mecat](https://mecat204.github.io/website)**
 
 ---
 * **[书栈网](https://www.bookstack.cn/)**
-* [问小白](https://www.wenxiaobai.com/)
+
+---
+* **[问小白](https://www.wenxiaobai.com/)**
+
+---
+* **[Linux命令大全手册](https://www.linuxcool.com/)**
+
+---
+* **[Linux就该这么学](https://www.linuxprobe.com/)**
+  - [Linux命令大全](https://www.linuxcool.com/)
+  - [LinuxProbe.com](https://www.linuxprobe.com/tools/)
 
 ---
 * **[爱纯净](https://aichunjing.com)**
@@ -49,17 +59,24 @@
 * [系统总裁·U盘魔术师](http://www.usbrun.com/)
 
 ---
-* **[IT天空](https://www.itsk.com/)**
+* **[IT天空 | IT天空 - 新的十年, 新的天空](https://www.itsk.com/)**
+
+---
 * [驱动人生](https://www.160.com/)
 
 ---
+* **[向日葵 | 向日葵远程控制软件_远程控制电脑手机_远程桌面连接_远程办公|游戏|运维-贝锐向日葵官网](https://sunlogin.oray.com/)**
+---
 * **[DiskGenius](https://www.diskgenius.cn/)**
+
+---
 * [佳佳数据恢复](http://www.jjhuifu.com/)
 * [亦是美网络 - 致力于操作系统应用与计算机网络技术的IT网站](http://www.yishimei.cn/)
 * [论坛- 远景论坛 - 前沿科技与智慧生态的极客社区](https://bbs.pcbeta.com/)
 * [U启大师](https://www.uqidashi.com/)
-* [傲梅分区助手](https://www.disktool.cn/)
-* [向日葵远程控制软件](https://sunlogin.oray.com/download)
+
+* **[傲梅分区助手](https://www.disktool.cn/)**
+
 * [麒麟生态网站](https://eco.kylinos.cn)
 
 ---
@@ -83,6 +100,15 @@
 * **[傲梅科技](https://www.disktool.cn/)**
 
 ---
+* **[下载易数一键还原](https://www.onekeyrestore.cn/download.php)**
+
+---
+* **[写作猫 | 秘塔写作猫](https://xiezuocat.com)**
+
+---
+* **[笨鸟工具 | 璞玉天成, 大器晚成](http://x1y1z1.com/)**
+
+---
 * **[PE8](https://www.pe8.com/)**
 * [MSDN_PE8](https://msdn.pe8.com/)
 * [ExcelHome](https://www.excelhome.net/419.html)
@@ -104,17 +130,24 @@
 
 ---
 ### 004. 常用查询命令
-* services.msc  打开服务
-* msconfig      系统配置
-* mspaint       绘图
-* calc          计算器
-* dxdiag        DirectX诊断工具
-* control       控制面板
-* appwiz.cpl    卸载程序
-* notepad       记事本
-* osk           虚拟键盘
+* nslookup          查询网络IP
+* ipconfig/all      查询本地IP
+* services.msc      打开服务
+* msconfig          系统配置
+* taskmgr           任务管理器
+* regedit reg|edit  注册表
+* shutdown/s        关机
+* mspaint           绘图板
+* calc calculator   计算器
+* dxdiag            DirectX诊断工具 | 硬件信息
+* control           控制面板
+* appwiz.cpl        卸载程序
+* notepad           记事本
+* osk               虚拟键盘
 * gpedit (group-edit) 本地组策略编辑器 --> 计算机配置 --> 管理模板 --> windows组件 --> windows更新 --> 配置自动更新 --> 已禁用
 * arp -a     列出所有的本地网络ip
+* Powershell查询主机SN: gwmi -class win32_bios
+* cmd查询主机配置信息: msinfo32
 
 ---
 ### 005. 命令
@@ -197,6 +230,10 @@ OOBE\BYPASSNRO
 
 ---
 * **[一糖导航](https://iitang.com/)**
+
+### 008. 制作ISO
+* 利用UltraISO,制作ISO文件
+* 利用Ventory制作U盘,把USM的ISO,wePE的ISO,Ubuntu,linux,麒麟等各种ISO镜像文件放入其中,形成一个多集合的启动项文件集成系统。
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
