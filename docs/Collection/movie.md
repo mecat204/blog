@@ -95,7 +95,21 @@
   - **[BT影视](https://www.btbtl.com/)**
     * **[后宫](https://pan.quark.cn/s/16aca5d345d3#/list/share)**
     * **[中国](https://pan.quark.cn/s/f6e2ed2d0f6a#/list/share)**
+    * **[第一序列]**
+    * **[剑来]**
+    * **[凡人修仙传]**
+    * **[沧元图]**
+    * **[仙逆]**
+    * **[永生]**
+    * **[灵笼]**
+    * **[刀剑神域]**
   - **[香菇影视](https://www.xiangguys.com/)**
+
+---
+* **[雪谷 | 二次元创造者 | 国漫 新番 CG | 千章 | Douyin](https://v.douyin.com/zFmHa2Bs1Q8/)**
+  - [十三境以下关我阿良十三境巅峰什么事](https://v.douyin.com/bzO6QzQ3eNo/)
+  - [宁姑娘，下次见面便是告白了](https://v.douyin.com/wqONccfOmvo/)
+  - [君子不救，但圣人当仁不让](https://v.douyin.com/omnbAh_ntWg/)
 
 ---
 * **[油条 | 就是为了一口醋才包的这盘饺子 | 百章 | Douyin](https://v.douyin.com/-XNcSkBl_pw/)**
@@ -136,6 +150,7 @@
     * [龙门飞甲 | 2011年]
   - **[对抗时间的唯一办法，既是好好珍惜当下](https://v.douyin.com/KzTlhx51xEI/)**
   - **[希望你抬头看向镜子的时候，能爱上眼前的你](https://v.douyin.com/aFl-5HbeTs0/)**
+  - **[电影教会我们：哪怕生活满是荆棘，笑着向前就会遇见花期。](https://v.douyin.com/InpLaXlf2mA/)**
 
 ---
 * **other**

@@ -492,6 +492,12 @@
   - [天宫藏于云海深处，古装仙女衣袂翻飞如蝶，仙气飘飘的瞬间被AI动画定格成诗～ 古风韵味交织二次元浪漫，AIGC打造的治愈仙境，每帧都藏着国风的温柔与奇幻](https://v.douyin.com/F878UlU5D0E/)
 
 ---
+* **[钮祜禄·剪疯 | 搞笑脑洞剧情博主｜甄嬛传签约博主 收藏视频 随时翻看 专治不开心 | 三百章 | Douyin](https://v.douyin.com/lryKaU4DMa4/)**
+  - [安陵容：公鸭嗓又如何？赛博鹂妃原地出道](https://v.douyin.com/wqAplhcogP8/)
+  - [甄嬛：春日里吃一口温宜的棒棒糖再合适不过了](https://v.douyin.com/sQQtNIfwviw/)
+  - [安陵容：皇后娘娘到底是见过世面的大家子](https://v.douyin.com/igSKMGeZCAU/)
+
+---
 * **[小小的一片云呀 | 一个想要带你体验古代奇闻异事的博主 | 百章 | Douyin](https://v.douyin.com/hYCnukVHrt8/)**
   - [君戏臣妻 第一集 持续更新中～ 在古代当一个皇帝有多爽你知道吗？历史 | 穿越 | 睡前小故事](https://v.douyin.com/UWEWtxjgvvI/)
   - [太监恋后 第一集～持续更新 历史 穿越 睡前小故事](https://v.douyin.com/4Lfqt8u6KSI/)
