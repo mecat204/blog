@@ -618,6 +618,12 @@
     - [数字人民币 2.0: 预付不亏，跨境无阻](https://v.douyin.com/G4rGfq7Pn7c/)
 
   ---
+  * **[旺旺 | 五百章 | Douyin](https://v.douyin.com/0e7gdZPIEe0/)**
+    - [第一眼就喜欢的人，一定要远离，那百分百是你的报应](https://v.douyin.com/R6Jej82woB8/)
+    - [所有的东西你不要了，这道题就解了，世事纷扰任去留，笑看浮云向自由](https://v.douyin.com/c63naLFDDxc/)
+    - [你的世界我退出啦，不想再内耗自己了，你永远都不知道，我当初满眼是你，为你痴狂的样子，连我自己都羡慕# 感情才是世界上最残忍的东西](https://v.douyin.com/71D04UVH5DM/)
+
+  ---
   * **[慕慕 | 百章 | Douyin](https://v.douyin.com/UFwTbh-2QK0/)**
     - [穿越到女频我手握80万军权，皇上何故谋反呢哈哈哈](https://v.douyin.com/YpQnwkoIsRU/)
     - [意想不到的结局哈哈哈](https://v.douyin.com/n1Sk1Wp461I/)
@@ -753,6 +759,13 @@
     - [陕西娃的浪漫 绿辣子卷卷 吃着真过瘾😋# 好吃到停不下来 | 陕西美食# 乡村生活# 乡村美食# 辣子花卷](https://v.douyin.com/MJosaJdMFyw/)
 
 ---
+* **[齐哥喵星人| 穿梭在城市和农村之间的小姑娘 🙈想成为大家的饭饭之交 | 不是大胃王 | 五百章 | Douyin]()**
+  - [陕西女娃的下午茶！吃砂锅米线就得这样吃！陕西美食 | 砂锅米线 | 好好吃饭 | 人间烟火 | 锅盔](https://v.douyin.com/tGh26ffRuHQ/)
+  - [今天起个早起，带大家看下世界上最早的方便面是怎么做的。这就是我们县城每个人从小吃到大的烙面，虽名气不大，但来头却很大。今天我把他介绍给大家。| 陕西地方特色美食 | 礼泉烙面 | 美食推荐官](https://v.douyin.com/kHzuLlwhesY/)
+  - [吃biangbiang面就得这么搭配！一个字沃野](https://v.douyin.com/xcLffEDpShU/)
+  - [哎……生病了，这样子也太惨了吧。](https://v.douyin.com/kKTKchd03JY/)
+
+---
 * **[逛逛GitHub](https://v.douyin.com/G_IW3BxNag4/)**
   - [实用菜谱](https://v.douyin.com/-fuythbxbq4/)
 
@@ -771,10 +784,18 @@
   - [感悟 - 天道忌满，人道忌全，别贪心，你不可能什么都有，别灰心，你不可能什么都没有](https://v.douyin.com/WXLQ6qpzZ7w/)
   - [《道德经》启示："反者道之动，弱者道之用。"](https://v.douyin.com/6oHlgu_AE6A/)
   - **《道德经》启示："反者道之动，弱者道之用。"低谷时，强行对抗如同硬闯逆流，而彻底躺平则会错失转机。道家智慧在于：以柔承压，顺势而为。 如溪水绕石，既接纳困境的存在，又在静默中积蓄力量。此刻的"无为"绝非放弃，而是在尊重规律下的积极准备——当你停止与浪潮搏斗，转而学习驾驭它时，转机自会浮现。**
+  - [有啥好焦虑的，人生不过三万天，开心一天是一天](https://v.douyin.com/FwE3W52a1CE/)
 
 ---
 * **[鸿紫本草日记 | 五百章 | Douyin](https://v.douyin.com/iwvej1R6gYw/)**
   - [什么年纪发财最好 最好的命其实是从35岁之后才开始有钱的，因为太早了，你担不住](https://v.douyin.com/ctVGLUACn2Q/)
+
+---
+* **[弯弯zoe | 谢谢大家喜欢… 日常发疯 | 五百章 | Douyin](https://v.douyin.com/ppLDyYBC674/)**
+  - [上一秒有多嚣张，下一秒你就有多狼狈](https://v.douyin.com/i6sYOjsMoI8/)
+  - [弟弟：完啦，翻车啦...弯弯：让你先跑2步是我最大的让步](https://v.douyin.com/eoZEqLLUahs/)
+  - [真羡慕人家回家叫妈的孩子，这个家我是一点都呆不下去了](https://v.douyin.com/tULS7REfl4c/)
+  - [wave一下，迎接周末～](https://v.douyin.com/mOK9A-0FzK4/)
 
 ---
 * **[洛盈小师妹 | 二百章 | Douyin](https://v.douyin.com/-ixotBRYFDo/)**

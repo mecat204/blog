@@ -49,6 +49,7 @@
   - [喜迎新年，一口气读懂中国的马。**骑骥驰骋**](https://v.douyin.com/M4e3VxqM7tE/)
   - [你心中哪个省份，最能概括中国？安徽或许就是答案。这里，也是最"皖"美的中国。安徽 | 文脉里的中国 | 安徽人](https://v.douyin.com/RtHkogFsY98/)
   - [国外很多影视ip原型都源自山海经，靠山海经赚得盆满钵满，如果我们自己都不加以挖掘山海经，岂不是愧对这部上古奇书！| 观山海](https://v.douyin.com/NWkl7exrLBQ/)
+  - [完美主义者不接受磨损。](https://v.douyin.com/VYesQelSQCI/)
 
 ---
 * **[小美是个野孩纸 | 1990位 | Youtube](https://www.youtube.com/@xiaomei_ski/videos)**
@@ -2002,9 +2003,9 @@
   - 网站: https://thehawaiivacationguide.com/
   - Instagram: https://www.instagram.com/thehawaiivacationguide/
 
-  - ****[First Time in Oahu? Watch This BEFORE You Go! (12 Essential Tips) | 第一次来欧胡岛？出发前一定要看这个！](https://www.youtube.com/watch?v=rxdmQh8r0ug)****
-  - ****[We Visited Every Hawaiian Island – Here’s Which One You Should Choose | 我们访问了夏威夷的每一个岛屿——以下是你应该选择 的哪个岛屿](https://www.youtube.com/watch?v=vgZVwOIEKKs)****
-  - ****[Which Hawaiian Island Should You Visit | Start Here for Your Hawaii Vacation Planning | 你应该去哪个夏威夷岛屿 |从这里开始你的夏威夷度假规划](https://www.youtube.com/watch?v=2mIYF41vnhw)****
+  - **[First Time in Oahu? Watch This BEFORE You Go! (12 Essential Tips) | 第一次来欧胡岛？出发前一定要看这个！](https://www.youtube.com/watch?v=rxdmQh8r0ug)**
+  - **[We Visited Every Hawaiian Island – Here’s Which One You Should Choose | 我们访问了夏威夷的每一个岛屿——以下是你应该选择 的哪个岛屿](https://www.youtube.com/watch?v=vgZVwOIEKKs)**
+  - **[Which Hawaiian Island Should You Visit | Start Here for Your Hawaii Vacation Planning | 你应该去哪个夏威夷岛屿 |从这里开始你的夏威夷度假规划](https://www.youtube.com/watch?v=2mIYF41vnhw)**
 
 ---
 * **[Iceland with a View | Youtube](https://www.youtube.com/@IcelandwithaView)**

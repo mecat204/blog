@@ -1,6 +1,7 @@
 ### 000. Download
 * **[dlpanda](https://dlpanda.com)**
 
+* **Rename in English name. quark**
 ---
 ### 001. IPTV
 * [IPTV](https://www.limin.studio/2024/10/31/IPTV/)
@@ -18,6 +19,7 @@
   - [qmp4 | proxy](https://www.qmp4.com)
   - [gmp4 | proxy](https://www.gmp4.com)
   - [qwnull](https://www.qwnull.com)
+    * [又见逍遥 | quark](https://pan.quark.cn/s/59396ebb417f#/list/share/c2e3a902732c4c00a0fbe5716221b1dd)
   - [qwmkv](https://www.qwmkv.com)
   - [qwfilm](https://www.qwfilm.com)
   - [qnmp4](https://www.qnmp4.com)
@@ -117,42 +119,58 @@
 * **[油条 | 就是为了一口醋才包的这盘饺子 | 百章 | Douyin](https://v.douyin.com/-XNcSkBl_pw/)**
   - [臣本布衣，躬耕南阳，苟全性命于乱世，不求闻达于诸侯](https://v.douyin.com/1ETZ6_BbNIo/)
   - **[日月蹉跎，人已将老，而功业未建](https://v.douyin.com/rOb8oV5FTMQ/)**
-    * [长安三万里 | 动漫 | 2023年]
-    * [水浒传 | 1998年]
-    * [大明风华 | 2019年]
-    * [三国演义 | 1994年]
-    * [新三国 | 2010年]
-    * [绣春刀 | 2014年]
-    * [雍正王朝 | 1999年]
-    * [太阳照常升起 | 2007年]
-    * [倩女幽魂 | 1987年]
-    * [西游记 | 1986年]
-    * [亮剑 | 2005年]
-    * [挡马夺刀 | 2024年]
-    * [甄嬛传 2011年]
-    * [柳如是 | 2012年]
-    * [妖猫传 | 2017年]
-    * [新龙门客栈 | 1992年]
-    * [孔子 | 2010年 ]
-    * [倚天屠龙记之魔教教主 | 1993年]
-    * [大明王朝1566 | 2007年]
+    * [长安三万里 | Chang An | 动漫 | 2023年](https://pan.quark.cn/s/31f2c6108d16#/list/share)
+    * [水浒传 | The Story by the Water Margin | 1998年](https://pan.quark.cn/s/f3165594bd99#/list/share/16d9ac62483d496685a0ef51c8c39d90)
+    * [大明风华 | 2019年](https://pan.quark.cn/s/096eb5129492#/list/share)
+    * [三国演义 | 1994年](https://pan.quark.cn/s/d05312c39895#/list/share)
+    * [新三国 | 2010年](https://pan.quark.cn/s/c0d3b4771088#/list/share)
+    * [绣春刀 张震 | 刘诗诗 | 2014年](https://pan.quark.cn/s/d9dcfc3b5c05#/list/share)
+    * [雍正王朝 | 1999年](https://pan.quark.cn/s/beae43ad8da7#/list/share)
+    * [太阳照常升起 | 2007年](https://pan.quark.cn/s/9e4b0936acfa#/list/share)
+    * [倩女幽魂 | 1987年](https://pan.quark.cn/s/b7ce4cbac5c2#/list/share/8d4b7edfc21b4c39a3cf58329af36cd9)
+    * [西游记 | 1986年](https://pan.quark.cn/s/55c5242a6a5b#/list/share)
+    * [亮剑 | 2005年](https://pan.quark.cn/s/af0999404845#/list/share)
+    * [挡马夺刀 | 2024年](https://pan.quark.cn/s/2b6dcdbf6dee#/list/share)
+    * [甄嬛传 2011年](https://pan.quark.cn/s/5be7a0fa1d3d#/list/share)
+    * [柳如是 | 2012年](https://pan.quark.cn/s/33a4a7ba393f#/list/share)
+    * [妖猫传 | 2017年](https://pan.quark.cn/s/bb56900cae99#/list/share)
+    * [新龙门客栈 | 1992年](https://pan.quark.cn/s/065d9f279356#/list/share)
+    * [孔子 | 2010年 ](https://pan.quark.cn/s/b197f9560fca#/list/share)
+    * [倚天屠龙记之魔教教主 | 1993年](https://pan.quark.cn/s/e6203df1e6e3#/list/share)
+    * [大明王朝1566 | 2007年](https://pan.quark.cn/s/4e845d49ebc2#/list/share)
   - **[阅尽好花千万束，愿君记取，此一枝](https://v.douyin.com/4l-yQfaK3D4/)**
   - **[岂不闻，光阴如骏马加鞭，日月如落花流水](https://v.douyin.com/vaKvM5o15Lw/)**
   * **[若非着急赶路，语文本该是最美的学科](https://v.douyin.com/i5cVC7HvADM/)**
-    * [国产零零七 | 1994年]
-    * [霸王别姬 | 1993年]
-    * [功夫 | 2004年]
-    * [唐伯虎点秋香 | 1993年]
-    * [新天龙八部之天山童姥 | 1994年]
-    * [笑傲江湖2:东方不败 |  1992]
-    * [新龙门客栈 | 1992年]
-    * [横空出世 | |1999年]
-    * [让子弹飞 | 2010年]
-    * [天下无贼 | 2004年]
-    * [龙门飞甲 | 2011年]
+    * [国产零零七 | 1994年](https://pan.quark.cn/s/e8e71de6f90a#/list/share)
+    * [霸王别姬 | 1993年](https://pan.quark.cn/s/be7b9c017a7b#/list/share)
+    * [功夫 | 2004年](https://pan.quark.cn/s/d254be593194#/list/share)
+    * [唐伯虎点秋香 | 1993年](https://pan.quark.cn/s/061772a7019c#/list/share)
+    * [新天龙八部之天山童姥 | 1994年](https://pan.quark.cn/s/3e028de52874#/list/share)
+    * [笑傲江湖2:东方不败 | 1992](https://pan.quark.cn/s/7d315b82999d#/list/share)
+    * [新龙门客栈 | New Dragon Gate Inn | 1992年](https://pan.quark.cn/s/e06d3a7da515#/list/share)
+    * [横空出世 | Roaring Across the Horizon | 1999年](https://pan.quark.cn/s/4c428f2aad88#/list/share)
+    * [让子弹飞 | Let The Bullets Fly | 2010年](https://pan.quark.cn/s/913b2a042f7c#/list/share)
+    * [天下无贼 | A World Without Thieves | 2004年](https://pan.quark.cn/s/5f0e8db7db9b#/list/share)
+    * [龙门飞甲 | Flying Swords of Dragon Gate | 2011年](https://pan.quark.cn/s/73df29afb52d#/list/share)
   - **[对抗时间的唯一办法，既是好好珍惜当下](https://v.douyin.com/KzTlhx51xEI/)**
   - **[希望你抬头看向镜子的时候，能爱上眼前的你](https://v.douyin.com/aFl-5HbeTs0/)**
   - **[电影教会我们：哪怕生活满是荆棘，笑着向前就会遇见花期。](https://v.douyin.com/InpLaXlf2mA/)**
+
+---
+* **[初代风华 | 二百章 | Douyin](https://v.douyin.com/4bP-iJ_VmqA/)**
+  - [人生如白驹过隙，转眼即逝](https://v.douyin.com/MpmfQO2QLLw/)
+  - [岂不闻光阴如骏马加鞭，日月如落花流水，哪有不倒的道理](https://v.douyin.com/an31Xx55zNU/)
+  - [独属于中国人的浪漫诗词](https://v.douyin.com/To3iLkbNVcs/)
+  - [如果不是着急赶路，语文应该是最美的学科](https://v.douyin.com/TRQFDQO1CLg/)
+  - [人要往远看，过了山，眼界就开阔了](https://v.douyin.com/maOD_cNOmIc/)
+  - [关云长 2011]
+  - [九品芝麻官 1994年]
+  - [让子弹飞 2010年]
+  - [功夫 2004年]
+
+---
+* **[俗电影 | 正在做一部电影！ 专业剖析 | 百章 | Douyin](https://v.douyin.com/xWGXaElGdJs/)**
+  - [2010年它横空出世，如今十六年过去还是没有一个能打的 | 猫屎一号](https://v.douyin.com/uIZ2w8EvRvs)
 
 ---
 * **other**
@@ -761,13 +779,19 @@
   - [**原神大电影-哥伦比亚篇**](https://v.douyin.com/p3qU8jgcxdY/)
 
 ---
-### 027. 短剧 | Youtube
+### 027. 短剧 | Youtube | Douyin
 * **[追剧酱来啦💖Here Comes Drama-chan | 46.6万 | Youtube](https://www.youtube.com/@HereComesDrama-chan)**
   - [漫长觊觎](https://www.youtube.com/watch?v=eSA4cOws7tE)
 
 ---
+* **[口语FluencyCrusher | Welcome to follow my account. I will share some videos about learning English here every day. Make progress togerther! | 五百章 | Douyin](https://v.douyin.com/gtEHyGFX7M4/)**
+  - **[You can change your English in six months | Youtuber: English Unleashed The Podcast](https://v.douyin.com/1RAiBB14WyY/)**
+  - [The Psychology of English Success_ 7 Mindset Keys](https://v.douyin.com/7teVL9GItvQ/)
+  - [rich man steals from beggar](https://v.douyin.com/ihbn_xdvY7E/)
+
+---
 ### 999. Download
-* **[dlpanda](https://dlpanda.com/zh-CN)**
+* **[dlpanda](https://dlpanda.com)**
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)

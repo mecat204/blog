@@ -84,6 +84,19 @@
   - [51talk英语课程，51talk](https://v.douyin.com/kNnZmFrMVzU/)
 
 ---
+* **[英语口语外教老师Lisa | 二千章 | ](https://v.douyin.com/EZW3DGFW1gc/)**
+  - [ 7岁娃的第一次外教课 ，线上一对一外教，半个小时沉浸式的英文环境，有输入有输出，有实时互动，而且还是一对一](https://v.douyin.com/i5yqbkg2rJ4/)
+  - [15岁初中生零基础学习英语口语，零基础外教英语，绝佳口语对话练习，与外教老师一对一练习英语，你会更快地进步，口语听力突飞猛进 |Teacher: Anna MaeA](https://v.douyin.com/QK9vQfesZ44/)
+  - [跟着对话外教教你学英语，跟外教一对一口语陪练，每天练习25分钟，零基础也能开口说流利英语，一起来看看四年级小学生真实上课实录](https://v.douyin.com/t38jmin-3yY/)
+  - [大学生跟着外教真实上雅思课实况，外教一对一网课，来看看学生真人外教上课视频，比线下划算！ 跟着外教老师学英语，快速提高雅思英语水平](https://v.douyin.com/CJe4M0Wc_J0/)
+
+---
+* **[英语荷花老师 | 剑桥大学认证英语培训师、高途优秀主讲老师 | 美国公立学校优秀教师、 10年三国英语教学经验、 跟我学方法 听口很简单 | 三百章 | Douyin](https://v.douyin.com/Vg-W1zrfwHM/)**
+  - [成事者的两把钥匙：笑对麻烦，静避是非](https://v.douyin.com/fgSi9kHgwGo/)
+  - [游泳队出国前狂练口语…原来冠军也怕尬聊](https://v.douyin.com/FnlhLmSd008/)
+  - [6个让老外惊呆的地道表达](https://v.douyin.com/RGGHIDywfjQ/)
+
+---
 * **[CC英语听读 | 每日英语文章分享,一起来打卡学习 |  百章 | Douyin](https://v.douyin.com/VQVWqMakCdo/)**
   - [And i have learned that one important trait that distinguishes those who truly excel in life is hard work.](https://v.douyin.com/HL_dxJG0lUA/)
   - [放松美好的生活。](https://v.douyin.com/7h-65W0Gj8I/)
@@ -660,6 +673,12 @@
 ---
 * **[大脚柚子英语学习日记 | 一起学习 | 一起进步 | 一起成长 | 百章 | Douyin](https://v.douyin.com/DPQLH9FbHKI/)**
   - [我真的很想学会 如何把那件事从脑子里释放出来，并且只在坐下来准备高效工作的时候才去想它。](https://v.douyin.com/6O4KGSmRwVg/)
+
+---
+* **[41_ Syee | 一个时而可爱，时而搞笑的女孩纸啦 | 百章 | Douyin](https://v.douyin.com/nWAI1_GmGlw/)**
+  - [一个问题：🍎自带的App免费又好用，为什么大家都放着吃灰](https://v.douyin.com/YIamuiyQpoc/)
+  - [故事的一开始，便早已是伤痕累累…](https://v.douyin.com/ZgDSSlIglR4/)
+  - [为啥呀 这小说比☠️品还上瘾](https://v.douyin.com/JQWU6TuCPLg/)
 
 ---
 * **[EnglishBooksSummaries](https://www.youtube.com/@EnglishBooksSummaries/videos)**

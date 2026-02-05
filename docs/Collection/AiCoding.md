@@ -596,6 +596,12 @@
   - [如果可以，我愿意付出一切找到你。 **短剧: 柒两人生** | **慧慧周**](https://v.douyin.com/bSCp8R4qdIU/)
 
 ---
+* **[问尘 | AI前沿探索者 白日梦想家 不被束缚的狂想创造者 | 百章 | Douyin](https://v.douyin.com/aglndAZ1foM/)**
+  - [几笔远山，淡入云烟，不留轮廓](https://v.douyin.com/V9cHz1K0F_I/)
+  - [棋声入定，暗藏舟影，不染尘缘](https://v.douyin.com/91m3zQg4zQg/)
+  - [沧海退去时，留下了盐的嘱咐与风的记忆。](https://v.douyin.com/QqJxdUW7ceM/)
+
+---
 * **[勤悦 | 厚积薄发 | 五十章 | Douyin](https://v.douyin.com/gV4Yh8BRKmk/)**
   - **[老版人民币 那卷边的钱角，已经是三十多年前的事了。一代人的回忆 | 图说历史](https://v.douyin.com/WdXxEIn-cGo/)**
   - [愿:善良的你 能被这社会温柔以待。**芳华**](https://v.douyin.com/4bxCUDVLllA/)
