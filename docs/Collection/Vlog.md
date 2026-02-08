@@ -137,6 +137,59 @@
   - [大家都在问我是怎么获得中国五星卡的? 中国五星卡 | 2026我的新春vlog](https://v.douyin.com/Ozn12rzT8Xs/)
 
 ---
+* **[English Fluency Journey | 223万 | Youtube](https://www.youtube.com/@EnglishFluencyJourney)**
+  - I’m Anna and welcome to my channel.
+  - 我是安娜，欢迎来到我的频道。
+
+  ---
+  - Here, I post some useful information for English learners.
+  - 在这里，我发布了一些对英语学习者有用的信息。
+
+
+  - I’m from Ukraine and I’ve worked on my English and accent, for the most part, on my own, but you can find out and trace my story by watching my videos.
+  - 我来自乌克兰，大部分时间都是自己努力练习英语和口音的，但你可以通过观看我的视频了解并追踪我的故事。
+
+  ---
+  - I’ve been studying American pronunciation for a long time, and I still do, and I guess I always will.
+  - 我研究美式发音已经很久了，现在依然如此，我想我永远都会继续。
+
+  ---
+  - Learning a language, it’s a lifetime journey.
+  - 学习一门语言，是一段终身的旅程。
+
+
+  - I know exactly what it takes to become fluent and acquire an accent in a non-English speaking country.
+  - 我完全清楚在非英语国家要流利说话并学会口音需要什么。
+
+  ---
+  - ♡Instagram page - https://www.instagram.com/englishfluencyjourney?igsh=cjgzZzQ2bzBla3dq
+  - ♡Facebook page - English Fluency Journey
+  - TikTok- www.tiktok.com/@englishfluencyjourney Amazon Wish List: https://www.amazon.com/hz/wishlist/ls/AWSROCO8IQ4N?ref_=wl_share
+  - Contact for collaboration: englishfluencyjourney@gmail.com
+
+  ---
+  - ♡ Instagram主页 - https://www.instagram.com/englishfluencyjourney?igsh=cjgzZzQ2bzBla3dq ♡
+- Facebook主页 - 英语流利之旅 TikTok - www.tiktok.com/@englishfluencyjourney
+  - 亚马逊愿望单： https://www.amazon.com/hz/wishlist/ls/AWSROCO8IQ4N?ref_=wl_share
+  - 合作联系方式：englishfluencyjourney@gmail.com
+
+---
+* **[English Fluency Journey | Hanna Khoma](https://www.englishfluencyjourney.com/)**
+
+---
+* **[欧美外教在线一对一口语 | 零基础英语 | 启蒙英语 | 雅思口语 | 零基础英语 | 商务英语 | 二千章 | Douyin](https://v.douyin.com/dtwC1ZGrWxQ/)**
+  - [北美外教一对一网课 外教：英语是一项改变人生的技能](https://v.douyin.com/Ix5dt7a8F-Q/)
+  - [欧美外教英语课一对一网课](https://v.douyin.com/cNQsa9vj7nQ/)
+  - [在线英语外教一对一英语口语 外教：记忆单词的最佳方式是多读。|英语流利说](https://v.douyin.com/S_WuSgv0SEM/)
+  - English Fluency Jounery
+
+---
+* **[菲教英语网课推荐 | 试听课咨询私信我呦 👉适合各年龄段的零基础，雅思托福 | 二千章 | Douyin](https://v.douyin.com/vVfQfoX9dYE/)**
+  - [跟外教老师练口语，提升你的英语水平](https://v.douyin.com/MMgIQU9fmuo/)
+  - [萌娃跟外教老师一对一学习英语，坚持2年，进步很大！ | 外教一对一  | 外教英语  | 英语启蒙](https://v.douyin.com/zK8HOOOrfIo/)
+  - [阅读的提升口语最快的方法 | 英语外教](https://v.douyin.com/lxInWasAlj8/)
+
+---
 * **[Jonna Jinton | 526万 | Youtube](https://www.youtube.com/@jonnajinton)**
   - My name is Jonna Jinton, I'm a Swedish artist, musician and filmmaker and I live in the beautiful woods in the North of Sweden.
   - 我叫Jonna Jinton，是一名瑞典艺术家、音乐家和电影制作人，住在瑞典北部美丽的森林里。
