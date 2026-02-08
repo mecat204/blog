@@ -38,6 +38,12 @@
 * **[zz-library | proxy](https://zh.z-library.sk/)**
 
 ---
+* **[孔夫子旧书网](https://www.kongfz.com/)**
+  - [淘宝二手书]
+  - [当当二手]
+  - [京东二手]
+
+---
 * **[qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases)**
 
 * **[FreeMdict Forum](https://forum.freemdict.com/latest)**
