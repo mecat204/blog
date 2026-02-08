@@ -422,6 +422,12 @@
 * **[How the Fridge Changed Food | Nicola Twilley | TED](https://www.youtube.com/watch?v=Mz1ItbiNqxw)**
 
 ---
+* **[欧美外教在线一对一口语 | 零基础英语 | 启蒙英语 | 雅思口语 | 零基础英语 | 商务英语 | 二千章 | Douyin](https://v.douyin.com/dtwC1ZGrWxQ/)**
+  - [北美外教一对一网课 外教：英语是一项改变人生的技能](https://v.douyin.com/Ix5dt7a8F-Q/)
+  - [欧美外教英语课一对一网课](https://v.douyin.com/cNQsa9vj7nQ/)
+  - [在线英语外教一对一英语口语 外教：记忆单词的最佳方式是多读。|英语流利说](https://v.douyin.com/S_WuSgv0SEM/)
+
+---
 * **[TED 视频精选 | 千章 | Douyin](https://v.douyin.com/ww6tnRMHqKM/)**
   - [6个科学学习法](https://v.douyin.com/fVrslOuU-lQ/)
   - 情绪记忆法（越骂记得越牢）

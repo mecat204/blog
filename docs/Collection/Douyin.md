@@ -330,6 +330,14 @@
     - [我想过夏天🥲 | 夏天  | 日常分享  | 海边](https://v.douyin.com/yuISWS77YeA/)
     - [在雪季末开个板 | 滑雪 | 单板滑雪](https://v.douyin.com/BZPJKJt4ePY/)
 
+   ---
+   * **[王菊鹅 | 一个普普通通的陕西农村女孩 | Douyin | 百章 | Douyin](https://v.douyin.com/5FWOmr3iS-g/)**
+     - [每个人的追求都不一样，所以每个人，都是对的. | 我的生活日记 | 我的摆摊日记](https://v.douyin.com/dEsNi_i7DJA/)
+     - [有了妈妈的支持，好像我又多了一份力量](https://v.douyin.com/3FoEvVSYWcg/)
+     - [我们总把家人团聚称作"团圆"， 可"团圆"这两个字，我们家总缺一口。| 放轻松摸个鱼吧 | 我的生活日记 | 我的家庭](https://v.douyin.com/jNh3l5Z7OJI/)
+     - [从年轻姑娘到如今两鬓染霜， 几十年如一日的坚守，只为了在婚姻中多一份底气和踏实。我还有什么理由不去坚持呢？| 秦人小酌 | 健康中国年劲酒贺团圆 | 养生时代福你上马 | 陕西吃啥更攒劲 | 食养咸阳](https://v.douyin.com/pyX_HiY_sSY/)
+     - **我的感悟: 你要在别人吃饭的时候摆，就是说，摆摊的地点与时间要选好。我们曾经去卖西瓜，拉到村子里卖，基本上卖不动，后来我们拉到了砖窑厂，大夏天，原本在村里里卖不动的西瓜，厂子的工人一扫而光。即使是未熟西瓜，也被扫光了。这大概是二十年前的事情，是和表哥卖的。他家种的西瓜，我当时放暑假。没事做，就和他一起去卖西瓜。**
+
   ---
   * **[威廉君 | 百章 | Douyin](https://v.douyin.com/_rkMKSjEYts/)**
     - **[AIGC生成虚拟形象｜绫波丽2K壁纸](https://v.douyin.com/nTTps7_jq8E/)**
@@ -412,8 +420,26 @@
 ---
 * **2025**
   * **[小锤 | 苦尽甘来终有时，一路向阳待花期 | 百章 | Douyin](https://v.douyin.com/XLwqm_foXg8/)**
-    - [香迷糊了 还是最爱的茄子辣子馅 | 陕西美食# 乡村美食](https://v.douyin.com/_5pVQD9Ffu8/)
-    - [陕西娃的浪漫 绿辣子卷卷 吃着真过瘾😋# 好吃到停不下来 | 陕西美食# 乡村生活# 乡村美食# 辣子花卷](https://v.douyin.com/MJosaJdMFyw/)
+    - [香迷糊了 还是最爱的茄子辣子馅 | 陕西美食 | 乡村美食](https://v.douyin.com/_5pVQD9Ffu8/)
+    - [陕西娃的浪漫 绿辣子**卷卷** 吃着真过瘾😋 | 好吃到停不下来 | 陕西美食 | 乡村生活 | 乡村美食 | 辣子花卷](https://v.douyin.com/MJosaJdMFyw/)
+    - [搅团！陕西人的梦中情饭～😋 | 好吃到停不下来  | 陕西美食 | 日常生活 | **搅团** | 瓜子二手车](https://v.douyin.com/hqv-AcAke_Y/)
+    - [哪个陕西娃能拒绝这一碗烩**麻食** | 我的乡村生活日记  | 烩麻食 | 陕西面食 | 回村的生活  | 农村生活](https://v.douyin.com/_73kDcqghAU/)
+    - [菠菜搓搓！把菠菜揉进面里，美味劲道，一吃一个不吱声😋 | 好吃到停不下来  | 陕西美食 | 乡村美食 | 日常生活 | **菠菜搓搓面**](https://v.douyin.com/30pmrvn0_lw/)
+
+  ---
+  * **[果果和小乔 | 柴米油盐 晨起幕落☀️ 一生追寻的味道 其实是故乡的味道 | 愿替所有漂泊的人存一份乡愁 | 庆阳 | 百章 | Douyin](https://v.douyin.com/ZkBSMNwKQ0c/)**
+    - [秋冬的田间地头长满了荠荠菜，摘回来做个搓搓面吃，太鲜美了 | 甘肃老家 | 和姐妹的快乐时光 | 农村生活](https://v.douyin.com/FGrNAqnBqXU/)
+    - [你们有多久没有吃村里的大席了，快回来我带你去吃席 | 庆阳彩礼12.8万 | 2026年01年17日](https://v.douyin.com/plkbpkxQBkM/)
+    - [生活已经够预制了，总要吃点现做的包子吧，丑是丑了点，但是真的好吃啊](https://v.douyin.com/zbXN-ccrQ8g/)
+    - [出摊啦，糖葫芦又大又甜，越吃越香，走过路过别错过](https://v.douyin.com/B_8mYx2jYKs/)
+    - [秋冬的田间地头长满了荠荠菜，摘回来做个搓搓面吃，太鲜美了 | 甘肃老家 | 和姐妹的快乐时光 | 农村生活](https://v.douyin.com/TuolJkj009I/)
+    - [今天实现辣条自由啦，来我家请你吃辣条](https://v.douyin.com/-ueEMYfa4kI/)
+
+  ---
+  * **[胖丫&小雪（母女）| 00后姑娘 70后的妈 希望能把开心 快乐带给大家 | 比较咋呼的陕西甜妹 |三百章 | Douyin](https://v.douyin.com/dV7tO22tLTU/)**
+    - [一天再嫑催我了！现在这行情不好😤 | 搞笑  | 农村生活](https://v.douyin.com/5iFEcziQAuU/)
+    - [我吃的不多，只吃一碗🤪 | 搞笑  | 农村生活  | 陕西甜妹](https://v.douyin.com/cieb6E9RAXs/)
+    - [这就是我陕西甜妹给女婿打下的江山！| 农村生活 | 搞笑 | 母女 | 晒玉米](https://v.douyin.com/ptnOpW1VfUE/)
 
   ---
   * **[陕西大婷婷 | 千章 | Douyin](https://v.douyin.com/d9ZurjObcLo/)**
@@ -770,11 +796,17 @@
     - [陕西娃的浪漫 绿辣子卷卷 吃着真过瘾😋# 好吃到停不下来 | 陕西美食# 乡村生活# 乡村美食# 辣子花卷](https://v.douyin.com/MJosaJdMFyw/)
 
 ---
-* **[齐哥喵星人| 穿梭在城市和农村之间的小姑娘 🙈想成为大家的饭饭之交 | 不是大胃王 | 五百章 | Douyin]()**
+* **[齐哥喵星人| 穿梭在城市和农村之间的小姑娘 🙈想成为大家的饭饭之交 | 不是大胃王 | 五百章 | Douyin](https://v.douyin.com/1Sb0mssFYZE/)**
   - [陕西女娃的下午茶！吃砂锅米线就得这样吃！陕西美食 | 砂锅米线 | 好好吃饭 | 人间烟火 | 锅盔](https://v.douyin.com/tGh26ffRuHQ/)
   - [今天起个早起，带大家看下世界上最早的方便面是怎么做的。这就是我们县城每个人从小吃到大的烙面，虽名气不大，但来头却很大。今天我把他介绍给大家。| 陕西地方特色美食 | 礼泉烙面 | 美食推荐官](https://v.douyin.com/kHzuLlwhesY/)
   - [吃biangbiang面就得这么搭配！一个字沃野](https://v.douyin.com/xcLffEDpShU/)
   - [哎……生病了，这样子也太惨了吧。](https://v.douyin.com/kKTKchd03JY/)
+
+---
+* **[花儿往前走 | 人设:暴躁婆婆 vs 懒人儿媳 | 百家碎戏 | 感恩每一个关注和支持的朋友 | 三百章 | Douyin](https://v.douyin.com/evpIxxY_vFI/)**
+  - [过年就剩不到十天了 妈妈开始做年饭了 甜甜的红芋碗子太好吃了 满满的过年的味道 大家可以回家做起来了](https://v.douyin.com/3v-Dr0aeHhA/)
+  - [今天妈妈做的是辣子豆腐 今天妈妈不仅做了白白胖胖的馒头 也做了陕西农家美食 辣子豆腐 | 舌尖上的味道  | 家常饭菜](https://v.douyin.com/WWJLsSqv3-M/)
+  - [小时候的油包子 过年的时候几乎每家每户都会包油包子.今天妈妈做的包子比较丰富.让我感觉到了小时候的味道 | 做包子  | 家常美食](https://v.douyin.com/fi9mNVKlCjU/)
 
 ---
 * **[逛逛GitHub](https://v.douyin.com/G_IW3BxNag4/)**

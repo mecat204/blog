@@ -319,17 +319,21 @@
   - [天地缓缓 | 青丝绾 情思晚](https://v.douyin.com/JckyKyfaVwA/)
   - [此生何用声声叹 | 秦时明月](https://v.douyin.com/B-23jqZBReg/)
   - [剑舞轻 潇洒过白袍影 | 谪仙](https://v.douyin.com/7rHlrFAqE0o/)
+  - [无所逃于天地之间 辨此心自由 | 无所逃于天地间](https://v.douyin.com/voZKnRVWDVY/)
+
 
 ---
 * **[一禅小者 | 百章 | Douyin](https://v.douyin.com/bhXPdBPdNWQ/)**
   - [鸳鸯戏｜谁识曲中意 断弦等你系](https://v.douyin.com/cTyZJ1u5agw/)
 
 ---
-* **[沧月神明 | 百章 | Douyin](https://v.douyin.com/MUQQ3_2ktJw/)**
+* **[沧月神明 | 自学笛子 | 百章 | Douyin](https://v.douyin.com/MUQQ3_2ktJw/)**
   - [不愿染是与非，怎料事与愿违 | 不染 | 香蜜沉沉烬如霜](https://v.douyin.com/KLUopNP12KM/)
   - [能不能为你再跳一支舞，我是你千百年前放生的白狐 | 白狐](https://v.douyin.com/ldwf0A2QGrU/)
   - [进击的巨人](https://v.douyin.com/NPm3v5eK5iw/)
   - [笛子 | 弱水三千 | 战国袍 | 宿命感](https://v.douyin.com/6bc1xv68Qn8/)
+  - [人在什么时候会大彻大悟 | 人生路上，只有处在人生的最低谷，方能有所觉悟。人啊，靠谁都不如靠自己强。所谓的靠山，只有自己。](https://v.douyin.com/_xkb-Cq-v-w/)
+  - [跟着红尘跟随我浪迹一生 | 跟着红尘跟随我浪迹一生  | 烟花易冷  | 笛子](https://v.douyin.com/oq7VwlOfkzA/)
 
 ---
 * **[穿越而過 | 1.95万 | Youtube](https://www.youtube.com/@pass.through/videos)**
@@ -438,6 +442,7 @@
 ---
 * **[与千与琴 | 以琴韵化导人心 ](https://v.douyin.com/VR9s1SImBVc/)**
   - [古琴｜「念念不敢念，偏落指弦间」](https://v.douyin.com/YMQv2RKgn8Y/)
+  - [古琴｜「古琴养人，必不会叫你香消玉殒」|古琴 |演奏 |深宫曲 |国风古韵 |传统音乐](https://v.douyin.com/ubNbheAo-2s/)
 
 ---
 * **[小澄拾光](https://v.douyin.com/_vwkYSiSmig/)**
@@ -974,6 +979,24 @@
   - [南通映山湖，四九寒天里，红梅枝头俏。雪未到，梅先艳，傲骨迎冬风。](https://v.douyin.com/0p_kum5TsNc/)
   - [美不美你说了算 | 枫叶荻花秋瑟瑟](https://v.douyin.com/g1d89_l6PU4/)
   - [秋暮溪桥图 | 寻找古诗词中的风景 | 《齐安郡中偶题·其一》 唐·杜牧 两竿落日溪桥上，半缕轻烟柳影中。 多少绿荷相倚恨，一时回首背西风。](https://v.douyin.com/gboa-B7bjBY/)
+
+---
+* **[小书子 | 人民日报推荐过的音乐歌手 | 有歌有诗有远方 | 五百章 | Douyin](https://v.douyin.com/M_84iPNuINc/)**
+  - [不要慌太阳下山还有月光呀](https://v.douyin.com/DRcFS6kWcSc/)
+  - [累了就来听听这首歌吧～送给努力的自己](https://v.douyin.com/MqnvlWuajnI/)
+  - [中秋快乐～🥮小书子和童声合唱团治愈版《月亮翻过小山坡》～🥰@山东卫视 | 月亮翻过小山坡 | 中秋晚会| 2025山东卫视中秋晚会 | 小书子](https://v.douyin.com/eAtBI4-N6lI/)
+  - [在零下26度的牙克石弹唱是什么体验？| 乌兰巴托的夜 | 极寒之旅 | 吉他弹唱 | 零下三十度 | 乌兰巴托的夜](https://v.douyin.com/-Kpb1Fgfzsg/)
+  - [今天立春，你们都有什么习俗呢～～| 春泥 | 吉他弹唱 | 无声卡清唱](https://v.douyin.com/eYCD-oOIDa8/)
+  - [不敢说出口的喜欢🥰让Timy熊帮你蹭蹭ta的心跳吧！| 爱 | 小虎队 | 吉他弹唱 | 川西美景](https://v.douyin.com/oDrlnE5onj8/)
+
+---
+* **[果实 | 时来天地皆同力，运到万物皆同行。| 百章 | Douyin](https://v.douyin.com/PR0U50rme9Q/)**
+  - [真实生活分享计划](https://v.douyin.com/Wt3K4-MHphY/)
+  - [真实生活分享计划 山的那边还是山](https://v.douyin.com/RG3fzt_xkrY/)
+  - [踩踩远方的风景，晒晒恒古的太阳，吹吹原始的风，听听喜欢听音乐 | **music : 爱如潮水**](https://v.douyin.com/ViakcNGKWcI/)
+  - [两个蒙古包 藏于大神山之中…| 大山深处自然美山 | **music: 何忻(xin)妍 苍穹唤**](https://v.douyin.com/lO4pPVoZ6jg/)
+  - [规规矩矩到中年，有情人修无情道 **music":  谭维维**](https://v.douyin.com/zLqm9nHRhPo/)
+  - [想让你忘去愁，忘去关怀 **music: 归去来**](https://v.douyin.com/5IA3idXkFhQ/)
 
 ---
 * **[Taylor Swift | Youtube](https://www.youtube.com/@TaylorSwift/videos)**

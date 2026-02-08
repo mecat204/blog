@@ -130,6 +130,15 @@
   - [孤独和自由](https://v.douyin.com/l_x-PRSUxek/)
 
 ---
+* **[黛画 | 作品展示均为AI特效，本人肖像生成，钟爱各种类型特效 | 五百章 | Douyin](https://v.douyin.com/iSK2nq4uGes/)**
+  - [抖音助手dou上热门](https://v.douyin.com/UxHXHYdZn14/)
+  - [抖音助手dou上热门](https://v.douyin.com/ClrQGgRFUBo/)
+  - [AI雪中剑影动](https://v.douyin.com/CWKhmY8O668/)
+  - [抖音助手dou上热门 | 抖音| 超爱| 跟拍](https://v.douyin.com/kIhuMXgyVSU/)
+  - [抖音助手dou上热门 | 特工行动](https://v.douyin.com/mNTWMJZ1h54/)
+  - [抖音助手dou上热门 | 抖音| 超爱| 跟拍](https://v.douyin.com/nAIwM45q6lg/)
+
+---
 * **[像素诗人·公子慕辰 | AI数字艺术 "像素诗人联盟" | 二百章 | Douyin](https://v.douyin.com/5kXd-wc3tCA/)**
   - [化外之境](https://v.douyin.com/EIfvqNUdNgY/)
   - [这是我梦中的东方幻境](https://v.douyin.com/7aeVzub8OHk/)
