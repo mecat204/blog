@@ -184,10 +184,6 @@
   - [励志英语](https://v.douyin.com/FS3sz0uAsbs/)
 
 ---
-* **[wordsfunny](https://wordsfunny.com/PEPXiaoXue5_2/words)**
-  - [remix-words-funny](https://github.com/SteveSuv/remix-words-funny)
-
----
 * **[口语侠–Morgan教雅思 | 二百章 | Douyin](https://v.douyin.com/8yNeQLjVlPs/)**
   - [口语练习](https://v.douyin.com/8NHv93dqy7w/)
 
