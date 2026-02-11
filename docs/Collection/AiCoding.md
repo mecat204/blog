@@ -53,6 +53,12 @@
   - [科普·痛风](https://v.douyin.com/XfqEpxB4qzs/)
   - [能让生物至死方休的快乐按钮，究竟是什么？](https://v.douyin.com/9ErfXea01Qg/)
   - [第一个选项为100%%稳拿100万； 第二个选项为10%%得500万，89%%得100万，1%%一无所获；](https://v.douyin.com/EZ5-xSDbr7k/)
+  - [刘慈欣在《三体》中描绘的混沌世界，早在一个世纪前就被庞加莱数学证明。三体文明面临的绝望，正是人类在混沌宇宙中的真实处境，确定性只是幻觉，不可预测才是常态...](https://v.douyin.com/BrJiOnuCzC4/)
+  - [1927年索尔维会议，29人合影中有17位诺奖得主，表面是科学盛宴，实则是爱因斯坦与玻尔派的终极对决——这场围绕"上帝掷不掷骰子"的辩论，改写了人类对宇宙本质的认知](https://v.douyin.com/lEWgsHmwc8A/)
+  - [端粒在染色体尽头滴答作响，海拉细胞却借癌变永存;凋亡刀锋雕出胚胎的指缝，**生命倒计时与自毁程序，原是同一枚硬币的光暗两面**](https://v.douyin.com/Y741tDOHlQY/)
+  - [从厨房染缸的漆黑独木到复活节试管的化学方舟 ，从乌贼轴突的二进制桅杆到硅基海洋的神经星舰，人类以大脑为悖论之舟，在自我解构的湍流中驶向意识源头](https://v.douyin.com/TXbuhArnmD8/)
+  - [人类用放血、汞丸、白兰地对抗**霍乱**近百年。直到斯诺的死亡地图和科赫的细菌学说，才让医学走出巫术时代](https://v.douyin.com/TDy3XRl8YVY/)
+  - [大圆镜用影游融合的视角带你去看"**鼠疫**"，这个连续杀害欧洲半数人口却从未被定罪的"完美杀手"，它用1400年时间证明：最致命的刺客不需要意志，只需要耐心等待文明出现裂缝](https://v.douyin.com/_s46kvUvSxo/)
 
 ---
 * **[幽居 每个视频都是用心创作」 「关注我，让我们一起在视觉中感受宁静与美好 | 千章 | Douyin](https://v.douyin.com/OMZB4wI2uZs/)**
@@ -623,6 +629,13 @@
   - [独处是一个人最好的修行](https://v.douyin.com/gVXQXrLrR54/)
   - [生活哲学 | 年轻人 | 上热门话题](https://v.douyin.com/zPdO5npzGK8/)
   - [生活哲学 | 攀比](https://v.douyin.com/JAOEgn7jiIs/)
+
+---
+* **[王多余 | 五十章 | Douyin](https://v.douyin.com/5bqeKawCtw0/)**
+  - [凡人功夫和热血凡人](https://v.douyin.com/ptLLOAqAK2U/)
+  - [**落云宗春节晚会一起过大年**](https://v.douyin.com/YzoGoQI6kN0/)
+  - [国漫 凡人番外之《水浒》燕金莲约会韩门庆。](https://v.douyin.com/aWKsxlpuEwk/)
+  - [凡人修仙传 | 国漫 | 凡人二创 苦海翻起仙缘爱恨皆为南宫](https://v.douyin.com/yMMVB6QG-_8/)
 
 ---
 * **[Ferrari | 搞些AI视频 主页作品均为原创 | 五十章 | Douyin](https://v.douyin.com/-4Zz-zd3lno/)**

@@ -7,7 +7,7 @@
 * **[ Musicca | 在线免费学习乐理（音乐理论）和基础乐器/音乐知识 的平台。](https://musicca.com)**
 
 ---
-* **[dlpanda](https://dlpanda.com/zh-CN)**
+* **[dlpanda](https://dlpanda.com)**
 
 ---
 ### 001. music·movie
@@ -440,12 +440,18 @@
   - [古琴|飞雪玉花 是猫猫陪着听了一晚上的曲～| 古琴 | 飞雪玉花 | 秦时明月](https://v.douyin.com/bSo8M1rxRgw/)
 
 ---
-* **[与千与琴 | 以琴韵化导人心 ](https://v.douyin.com/VR9s1SImBVc/)**
+* **[与千与琴 | 以琴韵化导人心 | 百章 | Douyin](https://v.douyin.com/VR9s1SImBVc/)**
   - [古琴｜「念念不敢念，偏落指弦间」](https://v.douyin.com/YMQv2RKgn8Y/)
-  - [古琴｜「古琴养人，必不会叫你香消玉殒」|古琴 |演奏 |深宫曲 |国风古韵 |传统音乐](https://v.douyin.com/ubNbheAo-2s/)
+  - [古琴｜「古琴养人，必不会叫你香消玉殒」| 古琴 |演奏 |深宫曲 |国风古韵 |传统音乐](https://v.douyin.com/ubNbheAo-2s/)
+  - [古琴｜「身如微尘何所惧，振翅一瞬向苍穹」](https://v.douyin.com/m5dFglj5UlE/)
+  - [古琴｜ 「一夜疏雨，万般离情」](https://v.douyin.com/sSYrJdH1YcM/)
+  - [古琴｜「问灵十三载，等一不归人」](https://v.douyin.com/nF33pHFD9oI/)
+  - [古琴｜「暂泊七弦，此间即是乌托邦」](https://v.douyin.com/w0jaqnmLhJ4/)
+  - [古琴｜「世事匆匆难改变，且听天地缓缓流」](https://v.douyin.com/UgNL0n0TnoY/)
+  - [古琴｜「以最清之声写最清之物」](https://v.douyin.com/guug_0VUzHQ/)
 
 ---
-* **[小澄拾光](https://v.douyin.com/_vwkYSiSmig/)**
+* **[小澄拾光 | 千章 | Douyin](https://v.douyin.com/_vwkYSiSmig/)**
   - [有些人天生就喜欢这种氛围](https://v.douyin.com/c_ypjMctcDk/)
   - [风是透明的河流](https://v.douyin.com/iTnWz8PmQng/)
 
@@ -953,6 +959,12 @@
 
 ---
 ### 025. music
+* **[民谣战哥 | 每天分享好听的民谣，生活的点滴，感谢关注 | 热爱可低岁月漫长，爱你所爱 | 三千章 | Douyin](https://v.douyin.com/ig7TBLhjMfc/)**
+  - [任素汐是被演戏耽误的歌手吧！这声音共情力太强了| 任素汐新歌唱哭了| 王招君| 盼望你| 想你](https://v.douyin.com/CB_JlZEPoCU/)
+  - [和爱的人一起，简单平淡的生活，何尝不是很多人的向往。](https://v.douyin.com/hhNO7p4USGc/)
+  - [你读过的最有力量的一段文字是什么？在坚冰还覆盖着北海的时候，我看到了怒放的梅花～ | 走心文字 | 成长  | 教员](https://v.douyin.com/yED92z5T6TY/)
+
+---
 * **[青柠 | 懂你的人永远懂你，不用太多的言语. 拍摄是为了治愈. 视频可一键剪同款 | 千章 | Douyin](https://v.douyin.com/mrwjlHKe0Ws/)**
   - [于是我驻足，享受这无法复刻的瞬间... 波光粼粼| 大概只有同频的人才喜欢这种感觉吧](https://v.douyin.com/qNMi03cuURk/)
   - [世界偷偷爱着你，以你尚未察觉的方式... 波光粼粼 | 大概只有同频的人才喜欢这种感觉吧 | 被大自然治愈的瞬间](https://v.douyin.com/sxPeX23E_38/)

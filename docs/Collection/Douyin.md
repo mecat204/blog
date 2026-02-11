@@ -427,6 +427,13 @@
     - [菠菜搓搓！把菠菜揉进面里，美味劲道，一吃一个不吱声😋 | 好吃到停不下来  | 陕西美食 | 乡村美食 | 日常生活 | **菠菜搓搓面**](https://v.douyin.com/30pmrvn0_lw/)
 
   ---
+  * **[小文颖 | 五百章 | Douyin](https://v.douyin.com/tLCqFpsO2Vo/)**
+    - [请温柔对待每一个给你扎针的小姐姐 | 学医的女孩子 | 甜妹](https://v.douyin.com/NuP_DPKmekM/)
+    - [第一针没扎好，我们再来一排好不好](https://v.douyin.com/Op6cXZFk5sI/)
+    - [小针筒行不行啊朋友](https://v.douyin.com/6bDMIKpu3QU/)
+    - [大家好，我是小文妹妹](https://v.douyin.com/oC0F4Uvj7_Q/)
+
+  ---
   * **[果果和小乔 | 柴米油盐 晨起幕落☀️ 一生追寻的味道 其实是故乡的味道 | 愿替所有漂泊的人存一份乡愁 | 庆阳 | 百章 | Douyin](https://v.douyin.com/ZkBSMNwKQ0c/)**
     - [秋冬的田间地头长满了荠荠菜，摘回来做个搓搓面吃，太鲜美了 | 甘肃老家 | 和姐妹的快乐时光 | 农村生活](https://v.douyin.com/FGrNAqnBqXU/)
     - [你们有多久没有吃村里的大席了，快回来我带你去吃席 | 庆阳彩礼12.8万 | 2026年01年17日](https://v.douyin.com/plkbpkxQBkM/)
@@ -791,9 +798,34 @@
   - [一分钟学会油泼拉条子，柔软筋道还不会断。| 油泼辣条子。](https://v.douyin.com/tQN94XaJi2k/)
 
 ---
+* **[乡村萍婶 | 记录农村生活&分享农家美食 🍁鹿野小院 — 生活日常 小时候想逃离的地方，长大后却无比向往 | 五百章 | Douyin](https://v.douyin.com/3IIt7oCR988/)**
+  - [农家现烙柴火"葱花油饼"，外酥里瓤，再配上一碗苞谷珍，简简单单却吃的很舒心](https://v.douyin.com/Kp8OsC7KOdY/)
+  - [九九重阳佳节来临之际，按照习俗给远嫁女儿做上一锅"花花馍"，寓意她们幸福美满，生活步步高升](https://v.douyin.com/kvPGEqhfKoE/)
+  - [天冷最适合咥一锅"铁锅炖排骨&烀包子"，软烂脱骨的大排骨配上浸头肉香的大包子，别提多香了](https://v.douyin.com/CLaxYes2buY/)
+  - [年夜饭系列之《菠菜拌粉丝》/简单爽口的小凉菜，酸辣开胃真的好吃～ | 用正统年味给邪修上一课](https://v.douyin.com/T-YjQzDvqAY/)
+
+---
+* **[牛🐮哥 | 音记录美好生活，每天给自己一个微笑！说自己很好！你就是自己的神 | 五百章 | Douyin](https://v.douyin.com/ZI92Mp7Lum4/)**
+  - [今天媳妇做的裤带面好像有点宽了，大家喜欢吃这么宽的面吗？| 裤带面的正确吃法 | 记录真实生活](https://v.douyin.com/2uaxz0_ULag/)
+  - [生活简单是清欢，人心简单是幸福，学会简单就是幸福](https://v.douyin.com/Qgjp-hFQado/)
+  - [最美的生活，就是把普通的烟火过的精致，把每一个平凡的日子都溢满欢喜](https://v.douyin.com/j_sPW3-Htn8/)
+  - [平时都是媳妇做饭，今天让她休息一下，我给媳妇和孩子简单做顿饭](https://v.douyin.com/W6l2rlIK0AI/)
+
+---
 * **[小锤 | 苦尽甘来终有时，一路向阳待花期 | 百章 | Douyin](https://v.douyin.com/XLwqm_foXg8/)**
     - [香迷糊了 还是最爱的茄子辣子馅 | 陕西美食# 乡村美食](https://v.douyin.com/_5pVQD9Ffu8/)
     - [陕西娃的浪漫 绿辣子卷卷 吃着真过瘾😋# 好吃到停不下来 | 陕西美食# 乡村生活# 乡村美食# 辣子花卷](https://v.douyin.com/MJosaJdMFyw/)
+
+---
+* **[田龙 | 生活向阳 人生向暖 一步一步踏实走 记录农村真实生活 分享农村美食 | 二百章 | Douyin](https://v.douyin.com/BOtwD-g7dKY/)**
+  - [**油泼biangbiang面** 今天做顿我们陕西特色biangbiang面！家的味道。| 新农人计划2024](https://v.douyin.com/PnmRUQMAUTA/)
+  - [**烩麻食** 农村的冬天，做上一碗热腾腾的烩麻食，一口气干掉一大碗，太满足了](https://v.douyin.com/s5UBjrs7NDg/)
+  - [**菠菜搓搓面** 生活在农村里，最美不过一碗手工搓搓菠菜面了，真的很过瘾](https://v.douyin.com/jOrCFwXO9W4/)
+  - [肉夹馍 馋我很久了！这一口肉夹馍，满满的家乡风味！肥瘦相间，外酥里嫩！太好吃了。](https://v.douyin.com/mKP1MvEUOao/)
+  - [**菠菜搓搓面** 在寒冷的冬天里，快来试试我这一碗手工菠菜搓搓面吧！好吃筋道又实在，太得劲了，满满的农家味](https://v.douyin.com/_1rgcx0BQzY/)
+  - [**菠菜片片** 霜降后，挖些菠菜，今天吃顿菠菜片片](https://v.douyin.com/S1uO2dQ3uwY/)
+  - [**蒜苗卷卷馍** 又到了一年吃蒜苗季节，快来试试我这一锅热气腾腾的蒜苗卷卷馍吧！太香了](https://v.douyin.com/O9lrbdq9vGw/)
+  - [**驴蹄子面**](https://v.douyin.com/VrAmLHa1-jE/)
 
 ---
 * **[齐哥喵星人| 穿梭在城市和农村之间的小姑娘 🙈想成为大家的饭饭之交 | 不是大胃王 | 五百章 | Douyin](https://v.douyin.com/1Sb0mssFYZE/)**
@@ -839,6 +871,7 @@
   - [弟弟：完啦，翻车啦...弯弯：让你先跑2步是我最大的让步](https://v.douyin.com/eoZEqLLUahs/)
   - [真羡慕人家回家叫妈的孩子，这个家我是一点都呆不下去了](https://v.douyin.com/tULS7REfl4c/)
   - [wave一下，迎接周末～](https://v.douyin.com/mOK9A-0FzK4/)
+  - [这理解能力绝对是顶级的](https://v.douyin.com/cYfKrgSUfjw/)
 
 ---
 * **[洛盈小师妹 | 二百章 | Douyin](https://v.douyin.com/-ixotBRYFDo/)**
