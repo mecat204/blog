@@ -595,14 +595,21 @@
   - [两个打开的区别](https://v.douyin.com/lLEcpgsXh-g/)
 
 ---
+* **[color | 总得有个爱好吧❤️杨千嬅 | 百章 | Douyin](https://v.douyin.com/N6mVSQ2nO2Q/)**
+  - [Dyolo每日英语 一起 | 合拍 浪了一个星期没有练习英语啦🤭。网速不太好，画面都是卡卡的](https://v.douyin.com/hBME68vaHy8/)
+  - [英语美句 一起](https://v.douyin.com/nqtI2NVibFk/)
+  - [英语美句 一起 | 合拍 小录一段吧！要午休了](https://v.douyin.com/U40JNVJeU1M/)
+  - [过期青年 一起 | 合拍 | 英语学习打卡 你们是怎么打发寒假时间的](https://v.douyin.com/WZZf_Fs-Dkc/)
+
+---
 * **[BBC Earth](https://www.youtube.com/@bbcearth)**
 
 ---
-* **[BBC英语纪录频道](https://v.douyin.com/Kg7WEHuZnzo/)**
+* **[BBC英语纪录频道 | BBC英语官方记录片 | 百章 | Douyin](https://v.douyin.com/Kg7WEHuZnzo/)**
   - [神奇的植物 GREEN PLANET 1](https://v.douyin.com/AyWrh_p2L2U/)
 
 ---
-* **[久别辞](https://v.douyin.com/-M5R0fs46Mo/)**
+* **[久别辞 | 世界上任何书籍都不能带给你好运 但是它能让你悄悄成为自己 读过同一本书，就是我们最好的相逢。 | 二百章 | Douyin](https://v.douyin.com/-M5R0fs46Mo/)**
   - [5%改变 | 好书推荐| 成长必读| 书籍推荐|好书分享](https://v.douyin.com/UgBhNa-5yCk/)
   - [百年孤独](https://v.douyin.com/j6aAftBgV0Q/)
   - 人生的本质就是一个人活着，不要对别人心存太多期待。我们是随手拂过的尘埃。比起有人左右情绪的日子，我更喜欢无人问津的时光。或许成年人的孤独就是悲喜自渡，而这也正是我们难得的自由，生命中曾经有过的所有灿烂，终究都需要用寂寞来偿还，人的精神寄托可以是音乐，可以是书籍，可以是工作，可以是山川湖海，唯独不可以是人。
@@ -628,15 +635,15 @@
   - [repositories | book](https://github.com/orgs/wqc-book/repositories)
 
 ---
-* **[英语大剧场 | 掌握一种语言，就是掌握一种看世界的方式](https://v.douyin.com/Sto8yPpvKCM/)**
+* **[英语大剧场 | 掌握一种语言，就是掌握一种看世界的方式 | 三百章 | Douyin](https://v.douyin.com/Sto8yPpvKCM/)**
   - [8岁的孩子一夜之间成为亿万富翁 | 短剧 | 原声 | 英语 | 英语没那么难 | 每天学习一点点]()
 
 ---
-* **[老虎不在家](https://v.douyin.com/HE5lo22uA6k/)**
+* **[老虎不在家 | 江西省散打冠军 | 五百章 | Douyin](https://v.douyin.com/HE5lo22uA6k/)**
   - [我每天睡醒了就去打工](https://v.douyin.com/Ybku8FdfqrE/)
 
 ---
-* **[𝐕𝐢𝐞𝐰𝐬视界](https://v.douyin.com/4CVsPz66WF4/)**
+* **[𝐕𝐢𝐞𝐰𝐬视界 | Flowers may bloom again,but youth never returns. | 三百章 | Douyin](https://v.douyin.com/4CVsPz66WF4/)**
   - [我们都不懂时间的重量…|情绪短片每一帧都是热爱](https://v.douyin.com/wYUFjWDoINg/)
 
 ---
@@ -733,11 +740,11 @@
 * **[EnglishBooksSummaries](https://www.youtube.com/@EnglishBooksSummaries/videos)**
 
 ---
-* **[immersive 英语 | 英语没有捷径，无他，唯手熟尔～～](https://v.douyin.com/BJbdmHJyVBE/)**
+* **[immersive 英语 | 英语没有捷径，无他，唯手熟尔～～ | 五百章 | Douyin](https://v.douyin.com/BJbdmHJyVBE/)**
   - [今日单词：# persist；风雨无阻persist学英语](https://v.douyin.com/dT4VjUdgYn4/)
 
 ---
-* **[学习啦在线学习网_免费的技能、特长、知识学习网站_学习.励志.成长!](https://www.xuexila.com/)**
+* **[学习啦在线学习网 | 免费的技能、特长、知识学习网站_学习.励志.成长!](https://www.xuexila.com/)**
 
 ---
 * **[小乐 | 谁是谁的谁](https://v.douyin.com/uZL6LRyNIA4/)**

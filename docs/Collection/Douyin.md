@@ -320,6 +320,7 @@
   ---
   - **[洛盈盈师妹 | 百章 | Douyin](https://v.douyin.com/4Xd1CFIt5NY/)**
     * [励志](https://v.douyin.com/31zsh1ztiPk/)
+
   ---
   - **[鸿紫本草养生 | 升笙莲.疼痛调理 | 百章 |Douyin](https://v.douyin.com/JTMmgx4dYFo/)**
     - [冬天不仅要懒床 更不能跑步 为什么一到冬天你就变得像放久了的抹布似的支棱不起来了 | 升笙莲  | 梦梦本草](https://v.douyin.com/R3kMoXHgVBE/)
@@ -876,8 +877,11 @@
 ---
 * **[洛盈小师妹 | 二百章 | Douyin](https://v.douyin.com/-ixotBRYFDo/)**
   - [励志](https://v.douyin.com/31zsh1ztiPk/)
+  - [机智专著](https://v.douyin.com/8JSCLd1qXKk/ )
+
 * **[神秘洛盈 | 二百章 | Douyin](https://v.douyin.com/01VLQtRhVMQ/)**
   - [惜字如金](https://v.douyin.com/9pKYJ9i7Nu8/)
+
 * **[洛盈道语 | 二百章 | Douyin](https://v.douyin.com/QsaViEcVIVk/)**
   - [穷且益坚，不坠青云之志| 国学文化 | 古人的智慧](https://v.douyin.com/ZXcwYY3TYHo/)
 
