@@ -384,7 +384,9 @@
 
 ---
 * **2024**
-  * **[子路Lucia | 百章 | Douyin](https://v.douyin.com/_56cUmlih_o/)**
+  * **[子路Lucia | 摄影师 | 百章 | Douyin](https://v.douyin.com/_56cUmlih_o/)**
+    - [东方美学](https://v.douyin.com/xrqbbPmJNRI/)
+    - [早知如此绊人心，何如当初莫相识](https://v.douyin.com/88H54XnraNA/)
     - ["孤雁北上，以身为剑" 东方美学 | 贵女 | 庄寒雁 | 陈都灵](https://v.douyin.com/KK2X7xm1000/)
     - ["所谓贵女，并非金银之贵" 东方美学| 雁回时 | 庄寒雁](https://v.douyin.com/7YRfXSCyawc/)
     - [东方美学](https://v.douyin.com/xrqbbPmJNRI/)

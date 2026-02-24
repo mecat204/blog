@@ -1070,8 +1070,15 @@
 * **[猫猫走天下 | Douyin](https://v.douyin.com/ibTBHaQOfkI/)**
 
 ---
+### 0007. English 绘本
+* **[松鼠联盟 | 英文绘本原创作者 | 愿每个故事都是跨越时空的握手 | 百章 | Douyin](https://v.douyin.com/DJJPyBRIkvs/)**
+  - [书和玫瑰 每天五分钟英语绘本 原创英语绘本动画 英语磨耳朵 | 看动画学英语  | 英语绘本  | 英语没那么难](https://v.douyin.com/HXRwmvhjQ4E/)
+  - [卖火柴的小女孩 每天五分钟英语绘本 原创英语绘本动画 英语磨耳朵 | 看动画学英语  | 英语绘本](https://v.douyin.com/1ucbgFGNCfE/)
+  - [英语原创绘本，磨耳朵每天五分钟 | 英语启蒙  | 亲子英语  | 治愈动画  | 每日英语](https://v.douyin.com/lqk3hDAjbhI/)
+
+---
 ### 9999. Download
-* **[dlpanda](https://dlpanda.com/zh-CN)**
+* **[dlpanda](https://dlpanda.com)**
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
