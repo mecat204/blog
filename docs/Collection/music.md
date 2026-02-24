@@ -990,6 +990,15 @@
   - [司机：我今天听寄明月听到了双声道环绕立体声。 挑战哪一天有师傅能认识这件乐器](https://v.douyin.com/PxLAMMcl2DQ/)
 
 ---
+* **[冬雪 | 用手机记录每一个美好瞬间，用心剪辑每一帧精彩片段。| 三百章 | Douyin](https://v.douyin.com/a7-BOYAWs-4/)**
+  - [我的楼兰](https://v.douyin.com/bzLLqbJGsU8/)
+  - [离别开出花](https://v.douyin.com/ULfIt5_-GX8/)
+  - [**Music:人间共鸣-李健**](https://v.douyin.com/Iy3y0f_Xyfk/)
+  - [万仁原唱《今生啊多相见》完整版，看山巅的风雪，是离别是相约](https://v.douyin.com/NqCGvxlhARk/)
+  - [王大泽《乌兰巴托的夜》空灵男嗓版，前奏响起直击灵魂深处](https://v.douyin.com/_auCq-ClwBU/)
+  - [男女对唱新歌《空山不语》](https://v.douyin.com/WPDNbLK8rlM/)
+
+---
 * **[苏西糖 | 百章 | Douyin](https://v.douyin.com/-Mta9ZITJVE/)**
   - [一些我画的女孩子们。整一个合集这里发发 | 原创插画 | 古风插画 艺术 | 画画 | 汉服](https://v.douyin.com/GKInQnzgJiU/)
   - [断断续续画了一年了 纪念一下 |邱饼 |**大理寺少卿游** | 邱庆之李饼 |被大理寺少卿游刀麻了 | 画画](https://v.douyin.com/qeunJaXQ82M/)

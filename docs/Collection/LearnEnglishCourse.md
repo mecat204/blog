@@ -1077,6 +1077,19 @@
   - [英语原创绘本，磨耳朵每天五分钟 | 英语启蒙  | 亲子英语  | 治愈动画  | 每日英语](https://v.douyin.com/lqk3hDAjbhI/)
 
 ---
+### 0008. 文本
+* **[英语 | 英语分享 | 二百章 | Douyin](https://v.douyin.com/zCaOBj6zFh8/)**
+  - [此刻的你，正在被无数人羡慕着，只是你不知道](https://v.douyin.com/AwQNbGLjjVQ/)
+  - [我们的大脑天生就喜欢寻找模式，并把随机事件解读为因果关系，以此来理解世界](https://v.douyin.com/wKEnCzByXRc/)
+  - [每件事到最后都会变好。如果还没变好，那说明还没到最后](https://v.douyin.com/bqzfAcdh6Gc/)
+
+---
+* **[英语家园Airt | 西安点亮网络科技有限公司 | Douyin | 千章 | Douyin](https://v.douyin.com/wqHYHhqA0zc/)**
+  - [大家好！今天我们来聊聊冬天。去年冬天，我开始写日记，这是我以前从未做过的事。写下我的想法帮助我理解自己的情绪，并为未来做好准备。](https://v.douyin.com/yA1UCipGkxs/)
+  - [大家好。今天我们来聊聊情绪。 情绪一天中会发生变化。 早上，你可能感到开心，准备好迎接新的一天。 下午，你可能觉得疲惫。 晚上，你会感到放松，准备睡觉。 不同的情绪都是正常的。](https://v.douyin.com/7h5af2ZTKPQ/)
+  - [大家好，今天我们来聊聊幸福的真正含义。 我相信，幸福是我们通过与他人的联结、个人成长以及积极的人生态度，慢慢积累而成的](https://v.douyin.com/7DkCkD6oa-c/)
+
+---
 ### 9999. Download
 * **[dlpanda](https://dlpanda.com)**
 

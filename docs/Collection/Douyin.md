@@ -709,6 +709,17 @@
     - [大自然，永远是我的来处与归途](https://v.douyin.com/3U1lNDN14ig/)
     - [创业，不论什么时候，创始人永远冲在第一线，你千万别想着干事业可以风光，可以让别人去干，管理是用好人的同时，让他们看到作为老大，是怎么带着他们往前走的！ 我想，这不仅仅是对于团队的力量，更是我对若嘉潜移默化的教育，她之所以懂事，就是因为她从小就知道妈妈是怎么辛苦干事的！ 乐观，积极，自律，能吃苦，有韧劲，做事有担当，这是我不脸红的对自己评价，我做不了美美的博主，我是一个做滋补农产品品牌的创始人！ "人生是一条路，每个人走的路很长，有的人在路上会颠簸四起，但她心里有开荒修路的坚强决心！人生的路很长，但要紧的路只有几步！"所以我要在我还年轻还能奔波下绝不躺平，而是坚强的去做一个开路者！ 其实，新会一行对我心里有很大的触动，这种触动是发自内心又一觉醒的力量！ 真好，值得！](https://v.douyin.com/g6er-ekH5xE/)
 
+  ---
+  * **[阿蛮 | 喜欢关注我的小伙伴 | 二十章 | Douyin](https://v.douyin.com/NrLU22A2DJA/)**
+    - [怎么敢跟你打电话 我家都是鹅叫声](https://v.douyin.com/-MqiXDhXqSk/)
+    - [喜欢少数民族的姑娘吗](https://v.douyin.com/9VWYVDAmN2I/)
+    - [你好呀 交个朋友](https://v.douyin.com/laNmWKEyZVs/)
+    - [新年快乐🎆呀](https://v.douyin.com/EUdRNo6v3F4/)
+    - [乱拍](https://v.douyin.com/tVEK2SDV4jo/)
+    - [伴娘苗族服装嘿嘿](https://v.douyin.com/jwxBEmUL1Mo/)
+    - [我回村了 什么时候来我家干活](https://v.douyin.com/fneMcOEan94/)
+    - [hi你好 | 少数民族](https://v.douyin.com/2oVP_S04f4M/)
+
 ---
 ### 015. 乡野·治愈系风景
 * **[Planet· | 行至朝雾里，坠入暮云间 | 千章 | Douyin](https://v.douyin.com/UpzNpH0zQSs/)**
