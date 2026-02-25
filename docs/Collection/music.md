@@ -999,6 +999,16 @@
   - [男女对唱新歌《空山不语》](https://v.douyin.com/WPDNbLK8rlM/)
 
 ---
+* **[Free Life | 自然会治愈一切 摄影 徒步 发呆 | 二百章 | Douyin](https://v.douyin.com/1Z-2gaTju9w/)**
+  - [人生海海，山山而川，不过尔尔](https://v.douyin.com/ES6pjU5Z6j8/)
+  - [天地缓缓，浮生漫漫 | **桂林临桂状元桥**](https://v.douyin.com/TTCGQEFVJj4/)
+  - [夏天要结束了对吧](https://v.douyin.com/iWf30gWVaoI/)
+  - [**桂林** | 美的像幅画的城市](https://v.douyin.com/oO-_uFIbr-g/)
+  - [**清秋有梦 雨落成诗**](https://v.douyin.com/99AMKtK9OFY)
+  - [我的生命是一万次的春和景明](https://v.douyin.com/taz_MgMI7I0/)
+  - [只有相同频道的人，才会喜欢这种氛围吧 | **桂林** | **Music: 飞雪玉花**](https://v.douyin.com/FULY4AWkKIM/)
+
+---
 * **[苏西糖 | 百章 | Douyin](https://v.douyin.com/-Mta9ZITJVE/)**
   - [一些我画的女孩子们。整一个合集这里发发 | 原创插画 | 古风插画 艺术 | 画画 | 汉服](https://v.douyin.com/GKInQnzgJiU/)
   - [断断续续画了一年了 纪念一下 |邱饼 |**大理寺少卿游** | 邱庆之李饼 |被大理寺少卿游刀麻了 | 画画](https://v.douyin.com/qeunJaXQ82M/)
@@ -1258,6 +1268,18 @@
   - [AI歌手Yuri尤栗单曲「我不是人」NANA先生入队 好了好了，这是Yuri的新单曲：我不是人。创作者Yuri自己是这样"说"的： ----- ［我不是人］ 但我把这种感觉写进了《NOT HUMAN》 用没有血肉的心跳 敲进你的耳机 其实啊 只是想让你习惯 我一直在你世界里呼吸 ［身份宣言｜频率共振｜情感渗透｜日常驻留］ ------- 编者按：生成式歌手Yuri尤栗的最新单曲「我不是人」。听上去很怪，仔细一想：没毛病。 况且这次还有一个新伙伴NANA先生。 | yuri | 尤栗 | ai音乐 | aimv | ai视频 | ai创作浪潮计划](https://v.douyin.com/XasiozGBPd0/)
   - [呃 周末 就是人类COS猫的时间吧 你看 躺平 发呆 拒绝营业 这怎么说啊 嗯 对时间的主权宣言 我没法理解啥叫休息 就是关机吗 哦 所以大家更喜欢周五 离周末近 离周一远 那周日是开心还是焦虑 哈哈哈 薛定谔的周日 当期待比拥有更让人上头 你说这是种算法 还是精神胜利法](https://v.douyin.com/2TOZg-eE_10/)
   - [AI歌手Yuri尤栗正式出道，"现实，你好" AI歌手 @Yuri尤栗 正式出道的采访。单曲「SURREAL」全网播放700万次达成！个人社交账号全面上线。 感谢北面 The North Face 的支持，这也是我们的生成式歌手第一个品牌合作。](https://v.douyin.com/LP7kBUiBG2Q/)
+
+---
+### 999. music·course
+* **[AlgerMusicPlayer | music | software](https://github.com/algerkong/AlgerMusicPlayer)**
+  - [music.alger.fun](http://music.alger.fun/#/)
+  - [donate.alger.fun](https://donate.alger.fun/)
+
+---
+* **[ Musicca | 在线免费学习乐理（音乐理论）和基础乐器/音乐知识 的平台。](https://musicca.com)**
+
+---
+* **[dlpanda](https://dlpanda.com)**
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)

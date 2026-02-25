@@ -1,5 +1,5 @@
 ### 0000. Download
-* **[dlpanda](https://dlpanda.com/zh-CN)**
+* **[dlpanda](https://dlpanda.com)**
 
 ---
 ### 0001. 一个班上的不开心，但为了生计，必须要上，该怎么办
@@ -4051,7 +4051,7 @@ Docsify 仓库里一份（你现在在做）
 
 ---
 ### 999. Download
-* **[dlpanda](https://dlpanda.com/zh-CN)**
+* **[dlpanda](https://dlpanda.com)**
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)

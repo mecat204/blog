@@ -1,5 +1,5 @@
-### collect
-* **[SetupsAI | 每日#科技 和 #人工智能 小贴士](https://www.youtube.com/@setupsaitony/shorts)**
+### 001. collect
+* **[SetupsAI | 每日科技 和 人工智能 小贴士](https://www.youtube.com/@setupsaitony/shorts)**
   - [Top 10 Powerful Websites You Should Know](https://www.youtube.com/watch?v=CTizV2M5H6w)
      * [ gamma |  Discover websites that simplify tasks and enhance productivity. | 发现可以简化任务并提高工作效率的网站。](https://gamma.app)
      * [ uiball | Discover websites for stylish loaders and quick logo design. | 发现时尚加载程序和快速徽标设计的网站。](https://uiball.com/ldrs)
@@ -8,7 +8,8 @@
      * [ REimagineHome | Explore AI tools for home design and social activities. | 探索用于家居设计和社交活动的人工智能工具。](https://reimaginehome.ai)
      * [ 10web | AI website builder simplifies creating websites effortlessly. |人工智能网站构建器可以轻松简化网站创建。 ](https://10web.io)
 
-### Solo.to | Link Aggregation Platform | Gather and Showcase User Links
+---
+### 002. Solo.to | Link Aggregation Platform | Gather and Showcase User Links
 * **[solo.to | Gather and Showcase User Links](https://solo.to/)**
 
 ---

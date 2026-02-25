@@ -1,5 +1,5 @@
 ### 000. Download
-* **[dlpanda](https://dlpanda.com/zh-CN)**
+* **[dlpanda](https://dlpanda.com)**
 
 ### 001. TV-Online
 * **[CCTV](https://www.youtube.com/@CCTV/featured)**
