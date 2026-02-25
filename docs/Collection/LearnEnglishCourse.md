@@ -635,10 +635,6 @@
   - [repositories | book](https://github.com/orgs/wqc-book/repositories)
 
 ---
-* **[英语大剧场 | 掌握一种语言，就是掌握一种看世界的方式 | 三百章 | Douyin](https://v.douyin.com/Sto8yPpvKCM/)**
-  - [8岁的孩子一夜之间成为亿万富翁 | 短剧 | 原声 | 英语 | 英语没那么难 | 每天学习一点点]()
-
----
 * **[老虎不在家 | 江西省散打冠军 | 五百章 | Douyin](https://v.douyin.com/HE5lo22uA6k/)**
   - [我每天睡醒了就去打工](https://v.douyin.com/Ybku8FdfqrE/)
 
@@ -1088,6 +1084,40 @@
   - [大家好！今天我们来聊聊冬天。去年冬天，我开始写日记，这是我以前从未做过的事。写下我的想法帮助我理解自己的情绪，并为未来做好准备。](https://v.douyin.com/yA1UCipGkxs/)
   - [大家好。今天我们来聊聊情绪。 情绪一天中会发生变化。 早上，你可能感到开心，准备好迎接新的一天。 下午，你可能觉得疲惫。 晚上，你会感到放松，准备睡觉。 不同的情绪都是正常的。](https://v.douyin.com/7h5af2ZTKPQ/)
   - [大家好，今天我们来聊聊幸福的真正含义。 我相信，幸福是我们通过与他人的联结、个人成长以及积极的人生态度，慢慢积累而成的](https://v.douyin.com/7DkCkD6oa-c/)
+
+---
+### 0009. 短剧 | English Course
+* **[KT英语 | Knowledge Transfer 开启记录，见证成长 拿捏心态不悔未来 告别emo 奋斗最青春 | 千章 | Douyin](https://v.douyin.com/u6Yboc0hzMY/)**
+  - [Beginner-120、学习停止翻译](https://v.douyin.com/FC480Y4AbGY/)
+  - [Q&A-077、help的短语动词！ | 英语口语 | 英语没那么难 | 英语学习 | 老外教英语](https://v.douyin.com/XajhfXtaGaU/)
+
+---
+* **[欧美外教在线一对一口语 | 零基础英语 | 启蒙英语 | 雅思口语 | 零基础英语 | 商务英语 | 二千章 | Douyin](https://v.douyin.com/dtwC1ZGrWxQ/)**
+  - [北美外教一对一网课 外教：英语是一项改变人生的技能](https://v.douyin.com/Ix5dt7a8F-Q/)
+  - [欧美外教英语课一对一网课](https://v.douyin.com/cNQsa9vj7nQ/)
+  - [在线英语外教一对一英语口语 外教：记忆单词的最佳方式是多读。|英语流利说](https://v.douyin.com/S_WuSgv0SEM/)
+  - English Fluency Jounery
+
+---
+* **[Keep Seeking | 英语短剧 | 纯英文练语感｜无中文字幕｜高频词标注 每日更新，陪你日进一寸 | 二百章 | Douyin](https://v.douyin.com/x-ukTvoLyBg/)**
+  - [Trapping the Pervert | 智擒变态](https://v.douyin.com/V9jN6gS9rV4/)
+  - [The Forgetful Aunt |  健忘的姑妈](https://v.douyin.com/fr4fXzjBcUw/)
+  - [短剧 | 口语 | 每日分享](https://v.douyin.com/h-zyakq6IRI/)
+  - [**美剧: 19号消防局**](https://v.douyin.com/3kLyjGvElyo/)
+  - [英语: 短剧](https://v.douyin.com/w2uO3gTqG40/)
+  - [He Got What He Deserved | 罪有应得](https://v.douyin.com/PyiK3og673s/)
+
+---
+* **[英语大剧场 | 掌握一种语言，就是掌握一种看世界的方式 | 三百章 | Douyin](https://v.douyin.com/Sto8yPpvKCM/)**
+  - [8岁的孩子一夜之间成为亿万富翁 | 短剧 | 原声 | 英语 | 英语没那么难 | 每天学习一点点]()
+  - [Conversation for You丨 本期是朋友引荐初次见面的英文对话跟练，温柔语速，跟着开口，轻松搞定社交英语，告别初见尴尬](https://v.douyin.com/gqsmTK0Jmng/)
+  - [走进色彩斑斓的印度洒红节（Holi）丨分级听读 本期带你穿越印度千年的历史长河。我们从古老的吠陀传说出发，见证善良如何战胜邪恶，色彩如何打破社会的隔阂；再跟随全球化的脚步，看这个节日如何演变为连接世界的精神符号](https://v.douyin.com/dqQOWlZjMN4/)
+  - [不必迎合，你就是你！｜挑战全英播客100期 68期｜ 丢掉那些不必要的道歉和自我怀疑。成长，就是学会好好爱自己](https://v.douyin.com/Pumi4-Bn2AA/)
+  - [进化论的诞生：一场改变世界的探索丨分级听读丨 从贝格尔号的五年远航到《物种起源》的出版，这篇材料用清晰易懂的语言，还原了达尔文发现进化论的全过程。它不仅是一段科学史，更是一堂生动的英语课，让你在探索生命奥秘的同时，轻松提升语言能力](https://v.douyin.com/W75DX8DmA3Y/)
+  - [用4-3-2法+语块+跟读，三步破解英语开口难，告别哑巴英语](https://v.douyin.com/RFa-1COxKE8/)
+  - [你的成长,不必和别人一样｜挑战全英播客100期 67期](https://v.douyin.com/8VmLFqM_Xsw/)
+  - [藏在空气里的人类奇迹丨分级听读 本期带你深度了解每日相伴的 Wi-Fi：回溯马可尼开启无线时代、海蒂・拉玛助力技术研发的历史，拆解 Wi-Fi 的简单工作原理，讲述它如何改变学习、工作与情感连接，在温柔的英文讲述中，感受无形电波里的人类温暖与科技力量](https://v.douyin.com/NCt9DUAtRqk/)
+
 
 ---
 ### 9999. Download
