@@ -1086,6 +1086,13 @@
   - [大家好，今天我们来聊聊幸福的真正含义。 我相信，幸福是我们通过与他人的联结、个人成长以及积极的人生态度，慢慢积累而成的](https://v.douyin.com/7DkCkD6oa-c/)
 
 ---
+* **[黄皮果子 | 闲时喜欢逛逛，拍拍路过的风景，记录人间的回忆 | 关于英语: 因为喜欢, 所以坚持, 希望有一天可以脱口而出 | 梦虽遥, 追则能达。愿虽艰, 持则可圆 | 希望每天都有进步 | 千章 | Douyin](https://v.douyin.com/AQioH2TYsmc/)**
+  - [落日余辉 时间会磨平无数个难言的瞬间 当执念慢慢消失 幸福就会悄悄贯穿每分每秒 愿在以后的日子里 把遗憾放下 把自己收好](https://v.douyin.com/xOseygrDRBw/)
+  - [深圳的冬天像极了倒放的春天，公园里的紫花风铃木正开的灿烂夺目，不是春天胜似春天](https://v.douyin.com/INaRFumCcVc/)
+  - [枯树终有回春日，故人难回那年秋](https://v.douyin.com/Tk6NHV7GOC8/)
+  - **[英语口语练习](https://v.douyin.com/gYBkBi5Xl98/)**
+
+---
 ### 0009. 短剧 | English Course
 * **[KT英语 | Knowledge Transfer 开启记录，见证成长 拿捏心态不悔未来 告别emo 奋斗最青春 | 千章 | Douyin](https://v.douyin.com/u6Yboc0hzMY/)**
   - [Beginner-120、学习停止翻译](https://v.douyin.com/FC480Y4AbGY/)
