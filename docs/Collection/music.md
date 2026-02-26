@@ -1044,6 +1044,12 @@
   - [过期青年 一起 | 合拍 | 英语学习打卡 你们是怎么打发寒假时间的](https://v.douyin.com/WZZf_Fs-Dkc/)
 
 ---
+* **[跳动@音符 | 个人原创 根据五线谱来制作的三维视觉动画 | 三百章 | Douyin](https://v.douyin.com/kwPBrVU6G5I/)**
+  - [**Lifeline-生命线**丨钢琴曲改编](https://v.douyin.com/vmH1MUahiRM/)
+  - [2025画上了句号。里程表上多了一程，行囊里却少了一张回程的](https://v.douyin.com/AYyUcIsjOlw/)
+  - [**卡农Canon** | 世界最治愈的钢琴曲](https://v.douyin.com/T8GpaGObMGw/)
+
+---
 * **[果实 | 时来天地皆同力，运到万物皆同行。| 百章 | Douyin](https://v.douyin.com/PR0U50rme9Q/)**
   - [真实生活分享计划](https://v.douyin.com/Wt3K4-MHphY/)
   - [真实生活分享计划 山的那边还是山](https://v.douyin.com/RG3fzt_xkrY/)

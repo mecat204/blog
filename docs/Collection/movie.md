@@ -174,6 +174,36 @@
   - [2010年它横空出世，如今十六年过去还是没有一个能打的 | 猫屎一号](https://v.douyin.com/uIZ2w8EvRvs)
 
 ---
+* **[木七说 | 没事讲点故事 更多好片等你解锁 | 百章 | Douyin](https://v.douyin.com/IVdUx_ywN3A/)**
+  - [先点炸药后点烟，不敢想象这一口到底有多爽 | 卡洛斯 | **生化危机3**](https://v.douyin.com/lHwLmY1PyGY/)
+  - [为什么仅凭这一个画面，就能让无数人血液沸腾 |**爱死机 | 秘密战争**](https://v.douyin.com/IScebduFYAg/)
+  - [五颗是普通人的天花板，但不是我的天花板 | 这就是命 | 王迅](https://v.douyin.com/1DHuvtJ0YpQ/)
+  - [当人类群星闪耀时，一切恐惧都将不复存在 | **切尔诺贝利**](https://v.douyin.com/c6aAvVJfxL4/)
+  - [给我擦皮鞋 | 我要验牌 | 周星驰  | **赌侠2之上海滩赌圣**](https://v.douyin.com/EFhXNIvZ1dw/)
+  - [为什么仅凭这一个画面，就能让深处绝望中的人重新燃起希望 | **惊天动地** | 汶川大地震](https://v.douyin.com/fFzsyWjXwWA/)
+  - [当她拉开门的那一刻，连耶稣都救不了这帮人贩子 | **未知死亡** | **阿米尔汗**](https://v.douyin.com/vtTyH_lh_gE/)
+  - [恐惧是生物的本能，而勇气是人类的赞歌 | **余烬之上** | 名场面](https://v.douyin.com/wUEoynl9uh8/)
+  - [世间最大的恶，莫过于利用别人的善 | **范伟** **老江湖**](https://v.douyin.com/kLCqbIIyB_E/)
+  - [直面恐惧才是打破死亡规则的唯一方式 | 电影解说 | **安雅泰勒乔伊** | 菜单](https://v.douyin.com/FK3muxZcJQQ/)
+
+---
+* **[2025 | 热爱生活。传递正能量 | 二十章 | Douyin](https://v.douyin.com/9rXyRh16xF4/)**
+  - [谈判高手的精彩瞬间](https://v.douyin.com/UvvL1q-B_c4/)
+  - [想改变世界 从叠被子开始](https://v.douyin.com/Yd7WhfxmH_o/)
+  - [**奇异博士** | 英国演员 | **本尼迪克特·康伯巴奇**](https://v.douyin.com/VmfbrO7Vq_E/)
+  - [要是你什么都能原谅,那么你经历的都是活该 | 没有实力,就不要对别人好, 不然很容易被定义为讨好 | 面对看不起你的人, 你绝不高看一眼, 这是规矩也是礼貌。](https://v.douyin.com/cliOIIUFjB0/)
+  - [**泰坦尼克号**](https://v.douyin.com/Igi2YvtiPUM/)
+  - [**泰坦尼克号 | quark**](https://pan.quark.cn/s/c111ed1377b1#/list/share)
+
+---
+* **[挑灯夜剪 | 抖音解说'过江之鲫 我心所向' | Spartacus | 权游 | 龙族 | 七国王的骑士 | 二百章 | Douyin](https://v.douyin.com/oMY4gmPw3gs/)**
+  - [身形虽小气场万丈，以勇毅为刃凭底气护北境的精神领袖-小熊女 | 了不起的精讲团](https://v.douyin.com/EnKz7KZd-n4/)
+  - [不辜负每一份信任与支持。失去是常态，失败也是常态， 这便是人生。因为生命的韧性程度，要靠精神来反复打磨 | **七王国的骑士**](https://v.douyin.com/dImgWgku43U/)
+  - [后之子"伊蒙德·坦格利安”喜提维斯特洛最大远古"瓦格哈儿" | 龙之家族 | **龙族**](https://v.douyin.com/wYDP3Tr3tcE/)
+  - [传言丹妮莉丝空手套白狼，我不同意，这是明明是智勇双全的表现 | **权力的游戏·第三季**](https://v.douyin.com/spTei328uTk/)
+  - [伊耿《二世》降临，国王优柔寡断，储位摇摆不定， 红堡分裂为公主与王后两派](https://v.douyin.com/G5QsMbpO-VY/)
+
+---
 * **other**
   - [沙暖](https://www.shanuan.com/)
   - [zyplayer](https://zyplayer.fun/)
@@ -617,7 +647,6 @@
 * **沉默的羔羊**
 * **勇敢的心**
 * **英国病人**
-* **泰坦尼克号**
 * **莎翁情史**
 * **角斗士**
 * **美丽心灵**

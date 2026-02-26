@@ -699,21 +699,36 @@
   - 揭秘发电站：从煤到电的魔法 小朋友们，你知道我们每天用的电是从哪里来的吗？答案就在一个神奇的地方——发电站！发电站是制造电的工厂，它帮助我们打开灯💡、玩电脑🖥️、看电视📺，甚至给你的平板充电！现在，让我们一起了解电站是怎么工作的吧！ 首先，发电站会使用一种黑色的岩石叫煤。煤里面藏有很多能量，发电站用大机器把煤打碎，再放进一个超大的炉子🔥。炉子把煤烧得很热很热，这时候它会加热周围的水，把水变成蒸汽。已经变成超级热的蒸汽会推动一种叫涡轮机的的机器，让涡轮机旋转起来。涡轮机每旋转一次，就创造了电能⚡！最后，电能通过电线被送到我们的家，让我们可以安心使用电力。 不过，有些发电方式会产生烟雾和废气。发电站会用特殊的机器把这些废气清理干净，甚至把一些剩下的灰烬变成建筑用的材料，比如水泥。是不是很厉害呢？其实，我们也可以期待未来更多利用🌞太阳和🌬️风发电！你觉得保护环境重要吗？可以和爸爸妈妈一起讨论哦！ 快告诉大家这个有趣的知识吧！😊 🌟重点单词🌟 versatile /ˈvɜːsətaɪl/ adj. 多功能的；用途广泛的 turbine /ˈtɜːrbaɪn/ n. 涡轮机 furnace /ˈfɜːrnɪs/ n. 炉子；火炉 emission /ɪˈmɪʃən/ n. 排放；散发 fossil fuel /ˈfɒsl fjuːəl/ n. 化石燃料
 
 ---
-* **[Mark学英语](https://v.douyin.com/Fw8_g1qpMFk/)**
+* **[Mark学英语 | 为了给俩娃启蒙英语，37岁重学英语 | 每日分享实用英语口语 | 祝大家2026学会真英语 | 二百章 | Douyin ](https://v.douyin.com/Fw8_g1qpMFk/)**
   - [高频英语缩略词，像母语者一样聊天 Most Common Acronyms In English](https://v.douyin.com/OylLt8yPs-w/)
   - [【英语易混词】Do vs Make：核心区别一次讲清 | 英语 | 英语口语 | 英语启蒙 | 英语学习 | 英语听力](https://v.douyin.com/THCKuOPQ_NQ/)
+  - [跟着镜头逛华盛顿！实景学习最地道的城市英语词汇 | **Youtuber: Ariannita**](https://v.douyin.com/UpQ8Rg_kkBI/)
+  - [美国五金店和中国的有什么不一样](https://v.douyin.com/KY-ivAXPzR8/)
 
 ---
-* **[是萬萬啊](https://v.douyin.com/DisZuVgx3vY/)**
+* **[是萬萬啊 | 我在过我的第二个🎧18岁 13年资深电影美术.疗愈能量艺术创造者 | 分享美好 | 活成黑夜里的微光 | 每日三事: 修行, 感恩, 知足 | 百章 | Douyin](https://v.douyin.com/DisZuVgx3vY/)**
   - [重塑人生：真正厉害的人，都在重复做这两件事 | 人生建议](https://v.douyin.com/5izqKD9ci-Q/)
-
----
-* **[拽猴大人 | 一个积极的废柴会点治愈系魔法](https://v.douyin.com/kVj_M-B0EJo/)**
-  - [个人成长 生死看淡，不服就干](https://v.douyin.com/pRzgq3bduk4/)
-
----
-* **[Nemophilist](https://v.douyin.com/7VRAtkLrJnM/)**
-  - ["失败不可怕 可怕的是你害怕失败"](https://v.douyin.com/KsxhY7BAaRY/)
+  - [跳出受害者叙事：不要困在情绪里](https://v.douyin.com/NO0c2fIdW2I/)
+  - [一个人变强最快的方法：焦虑觉醒 这个世界上所有，真正的行动力高手，不是有能耐在同一时间做很多事的人，而是会想办法避免同时做很多事的人](https://v.douyin.com/YimG1_vpax0/)
+  - [终有一天，你会明白《皮囊》里的这句话 世界很大，人生广阔，祝你幸福 | **我最大的靠山是我自己啊，为何我不明白这一点呢**](https://v.douyin.com/q4xAzwBqHek/)
+  - [直接去做你想做的事，再见完美主义！ 大胆开始，1步总比0步强，先做，然后做对，最后做得更好](https://v.douyin.com/pyu2WSQp0XA/)
+  - [真正的奢侈就是拥有专注当下的能力 当你开始专注当下，不再纠结过去焦虑未来，你越放松，能量释放的越强，结果自然越好 | **当下即是最好**](https://v.douyin.com/dee8ieo2lPU/)
+  - [看透这一点，人生莫名其妙就变轻松了](https://v.douyin.com/9Pit1a07grs/)
+  - [走出低谷期很重要的一件事](https://v.douyin.com/5rlWq7e42gQ/)
+  - [改命必看：一个越过越顺的顶级心法](https://v.douyin.com/lP7TZJELGbY/)
+  - [**心力归位，神气自足** : 当你成为自己能量的主人，好运自然就会来](https://v.douyin.com/EYtJIcB-ELU/)
+  - [人生唯一确定的事情就是大家都是来体验的](https://v.douyin.com/hDZKrtwi-K8/)
+  - [人生最大的捷径之一：别再被"假性自爱"骗了](https://v.douyin.com/Z2iX_jbYIic/)
+  - [成事必看：想明白这一点，你的人生爽到可怕 | **受害者心态** | **强者思维**](https://v.douyin.com/ksMj9x6pDnc/)
+  - [高能量觉醒：人生下半场，最清醒的活法](https://v.douyin.com/_DKyh9rl7KE/)
+  - [重塑人生：真正厉害的人，都在重复做这两件事 | **趋利避害**](https://v.douyin.com/gppAkGjzsTw/)
+  - [建议所有女生停止内耗：听完你就释怀了 | **开心每一天**](https://v.douyin.com/E17C58D_y-M/)
+  - [人生回报率最高的事情之一：成为自己的贵人 | 逆风翻盘 | 坚持的意义](https://v.douyin.com/vhwNfat8NDo/)
+  - [从翻篇开始放过你自己，所有的好事已经在来的路上](https://v.douyin.com/UvMvnxIjk_w/)
+  - [别追逐，去吸引，人生一切都会变得更好 | 自我提升 | 吸引力法则 | 做自己](https://v.douyin.com/lTIwIpOW-Lg/)
+  - [记住，你才是你自己真正的贵人 | 自我提升 | 个人成长](https://v.douyin.com/aj72uBNpv30/)
+  - [人生没有完美的明天，要对得起自己，也不逼自己活的"有意义"](https://v.douyin.com/Vz7BIHbV2GU/)
+  - [低谷的时候请反复对自己说一万遍 | **相信自己** | **勇敢做自己** | **人已经要百分之二百的相信自己**](https://v.douyin.com/7E4ex4cDKm8/)
 
 ---
 * **[Isabel Paige | Youtube ](https://www.youtube.com/@isabel_paige)**
@@ -743,36 +758,33 @@
 * **[学习啦在线学习网 | 免费的技能、特长、知识学习网站_学习.励志.成长!](https://www.xuexila.com/)**
 
 ---
-* **[小乐 | 谁是谁的谁](https://v.douyin.com/uZL6LRyNIA4/)**
+* **[福临 | 谁是谁的谁 | 三百章 | Douyin](https://v.douyin.com/uZL6LRyNIA4/)**
   - [英语每天一分钟](https://v.douyin.com/rrLGNXEO7fo/)
+  - [每日英语一读](https://v.douyin.com/jxzGPdosCkg/)
 
 ---
-* **[蜜糖CoCo](https://v.douyin.com/i0UspbotyBs/)**
+* **[蜜糖CoCo | 85后宝妈，关注亲子共同成长 | 三百章 | Douyin](https://v.douyin.com/i0UspbotyBs/)**
+  - [俱乐部](https://julebu.co)
   - [每日高频英语单词，轻松搞定小学英语 轻松搞定小学英语，每日学习背诵英语单词。](https://v.douyin.com/2Fq1bWOWSwY/)
+  - [每日高频英语单词 | 月份](https://v.douyin.com/akE6MQmtxho/)
+
 
 ---
-* **[7788](https://v.douyin.com/7eLEjLQxLPc/)**
+* **[7788 | 我祝大家都开心🥳 抄袭可耻&我做的内容你抄不来 | 二百章 | Douyin](https://v.douyin.com/7eLEjLQxLPc/)**
   - [这英语得学呀 | 实用英语 | 学英语 | 日常英语 | 生活英语 | 趣味英语](https://v.douyin.com/jVZrkl3FobI/)
+  - [这英语得学呀](https://v.douyin.com/7InuGyJCveA/)
+  - [英雄联盟](https://v.douyin.com/fY3c-miZVEU/)
+  - [新节目3️⃣](https://v.douyin.com/zSrDNT2wAi0/)
 
 ---
-* **[ABC在路上- 突破英语](https://v.douyin.com/lBdotnqjVYw/)**
+* **[ABC在路上- 突破英语 | 每个人都可以达到英语听力自由，分级大量听 | 二千章 | Douyin](https://v.douyin.com/lBdotnqjVYw/)**
   - [3个月突破英语](https://v.douyin.com/iIKcKoIhvKg/)
+  - [HOW TO DEAL WITH DISRESPECTFUL PEOPLE](https://v.douyin.com/9bGOgE1-3rk/)
+  - [How To Deal With a Narcissist](https://v.douyin.com/I0fqeWtg-zI/)
 
 ---
-* **[安陆](https://v.douyin.com/hZ19W_8SlNA/)**
-  - [后秀暴汗服](https://v.douyin.com/8uXHls5T6Do/)
-
----
-* **[每日英语](https://v.douyin.com/u_OyKAyiIek/)**
+* **[每日英语 | 二百章 | Douyin](https://v.douyin.com/u_OyKAyiIek/)**
   - [英语听力训练](https://v.douyin.com/kt8SNI-t9yY/)
-
----
-* **[海淀周麻麻教英语](https://v.douyin.com/nGX6CfOp1qI/)**
-  - [英语里的"打开" 是用open还是turn on](https://v.douyin.com/kV0_9lxuBQk/)
-
----
-* **[艾老师-原版英语](https://v.douyin.com/iVAT01OF5Uo/)**
-  - [学英语词汇量很重要，词汇结构同样也很重要](https://v.douyin.com/RGplnH5alng/)
 
 ---
 * **[英语超级屋 | 感受世界，感受人文，遇见这个世界上美好的人和事 学好英语，感受语言，遇见这个时间里最好的自己... | 三百章 | Douyin](https://v.douyin.com/JLRyWueVrOE/)**
@@ -815,16 +827,9 @@
     * 因为他的心怎么也打不开。
 
 ---
-* **[他喵的淼 | 在加拿大的定期发疯日常 永远做自己 陪你学英语](https://v.douyin.com/uUYLmQbBY98/)**
-  - [世界上只有两类人你应该在意：给你钱的人，和亲自为你下场解决问题的人。| 英语口语天天练](https://v.douyin.com/B6IpEHFyHyI/)
-
----
-* **[挑灯夜剪](https://v.douyin.com/oMY4gmPw3gs/)**
-  - [身形虽小气场万丈，以勇毅为刃凭底气护北境的精神领袖-小熊女 | 了不起的精讲团](https://v.douyin.com/EnKz7KZd-n4/)
-
----
-* **[雅思考官尼克](https://v.douyin.com/Y4NOPchDvuA/)**
+* **[雅思考官尼克 | 8年雅思考官，20年教学经验 | 千章| Douyin](https://v.douyin.com/Y4NOPchDvuA/)**
   - [雅思法学生口语模考，考官一句细节点评藏着关键](https://v.douyin.com/55ALl7M550E/)
+  - [雅思全科正确认知引导 | Min: 46:19](https://v.douyin.com/TYlXh_YuuDg/)
 
 ---
 * **[别再内耗, 只管去做 | 奇异博士](https://v.douyin.com/ykr2o0dfF0E/)**
@@ -837,7 +842,7 @@
   - [英语阅读](https://v.douyin.com/fRQBkoVfhkE/)
 
 ---
-* **[英语启蒙UXA| 五百章 | Douyin](https://v.douyin.com/lWxrQf40OU8/)**
+* **[英语启蒙UXA | 五百章 | Douyin](https://v.douyin.com/lWxrQf40OU8/)**
   - **学生**
     * **momo英语启蒙**
     * **KK英语动画屋**
@@ -957,6 +962,38 @@
   - [第一集 | 苗族古歌里的爱情真的很特别，蝴蝶妈妈没爱英雄山神，偏偏爱上了河水里的一缕泡泡，浪漫又纯粹✨ | 苗族 | 蝴蝶妈妈 | 非遗传承  | 非遗文化](https://v.douyin.com/j9s7z7W4ovI/)
   - [第二集 | 蝴蝶妈妈的12枚神胎，藏着天地、生灵与灵界的秘密。诸神与怪物的时代已然开启.](https://v.douyin.com/lKNgMwKnbJw/)
   - [第三集 | 🔥 凡人竟敢叫板天神？这场决定人类命运的博弈，藏着最古老的生存智慧！大地属人类，混沌时代落幕，人类纪元正式开启](https://v.douyin.com/4N45q3Y3am0/)
+
+---
+* **[西奥多（每日英语）| 关注我，一起提示英语语感和听力。| 五十章 | Douyin](https://v.douyin.com/U1TgUIwedoY/)**
+  - [提升英语口语，需要克服的三个敌人](https://v.douyin.com/uF6rp-RvmNQ/)
+  - [想要英语流利所面对的第二个敌人](https://v.douyin.com/LtCv-XpIIzI/)
+  - [第三个敌人(与前期视频标注单词略有重复，可加深记忆)](https://v.douyin.com/Cjf7LLCQDRE/)
+  - [滑雪的来由 | **滑雪**  | 英语口语](https://v.douyin.com/MinxNopLzgE/)
+  - [猫的历史 | **猫咪**  | 英语](https://v.douyin.com/tP95CJYOkGI/)
+  - [中国地铁，世界地铁](https://v.douyin.com/OiVlvPDM6RI/)
+  - [**下元节** | 英语](https://v.douyin.com/tNWXGM2Fo1s/)
+  - [用英语来描述"中国书法" | 英语](https://v.douyin.com/iBqfmtBT4iQ/)
+  - [**流水不腐，户枢不蠹。**  | **学英语亦如是，每日坚持，方能流利如溪** **第一节**](https://v.douyin.com/1s4EzPlP7Ic/)
+  - [**流水不腐，户枢不蠹。**  | **学英语亦如是，每日坚持，方能流利如溪** **第二节**](https://v.douyin.com/1Is0-2JTf80/)
+  - [下期是剩下的五个tips](https://v.douyin.com/zZlKt2Ub5Js/)
+  - [English speaking 1](https://v.douyin.com/vzOEEZ_wbEo/s)
+  - [English speaking 2](https://v.douyin.com/0bIZdaD-G9U/)
+  - [English speaking 3](https://v.douyin.com/7j2A3WIBmQs/)
+  - [English speaking 4](https://v.douyin.com/PeTGHil1M_k/)
+  - [Be Slient](https://v.douyin.com/1zH_xF4xEFo/)
+  - [Lover](https://v.douyin.com/rOU_pNflITI/)
+  - [Tips for speaking 1](https://v.douyin.com/EBmjb9PJzl8/)
+  - [Tips for speaking 2](https://v.douyin.com/KWhDztT4RSw/)
+  - [Let it go](https://v.douyin.com/CltyvO1OPSo/)
+  - [Take Action](https://v.douyin.com/D5InhedHsO4/)
+  - [Be youself](https://v.douyin.com/9W0slsmENTg/)
+  - [The Best Decision](https://v.douyin.com/lLEcBp8eRwY/)
+  - [Change your life](https://v.douyin.com/LJr7bg4cJZU/)
+  - [Focus on yourself](https://v.douyin.com/LJr7bg4cJZU/)
+  - [Stay Positive](https://v.douyin.com/Fs7yCuKHrC8/)
+  - [Why Learn English](https://v.douyin.com/7FqKgEz6aOA/)
+  - [what is wasted time](https://v.douyin.com/SMyH1iygFnY/)
+
 
 ---
 ### 0002. English source
