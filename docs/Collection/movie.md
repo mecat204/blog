@@ -204,6 +204,20 @@
   - [伊耿《二世》降临，国王优柔寡断，储位摇摆不定， 红堡分裂为公主与王后两派](https://v.douyin.com/G5QsMbpO-VY/)
 
 ---
+* **[英语雪梨老师 | 香港中文大学翻译硕士 | 二千章 | Douyin](https://v.douyin.com/KBw5U92lhwc/)**
+  - [年兽的故事](https://v.douyin.com/Pp6E5207qkg/)
+  - [春节一定要给孩子读这本～ Maisy’s Chinese New Year](https://v.douyin.com/OvBhfqii2KA/)
+  - **[原音: a e i o u | 英语启蒙](https://v.douyin.com/L9j_bLhPiFk/**)**
+  - **[开闭音节](https://v.douyin.com/zbLyVGZOd-I/)**
+  - **[用一首歌搞定最常用的26字母自然拼读](https://v.douyin.com/5QC4IoIci9w/)**
+  - **[寒假就看这5部英语纪录片](https://v.douyin.com/hKwyNh1W62k/)**
+    * [Plant Earth | 地球脉动]()
+    * [Too Cute | 萌宠成长记]()
+    * [Wild China | 美丽中国]()
+    * [Andy's Adventures | 安迪的冒险]()
+    * [Little Human Planet | 小小人类星球]()
+
+---
 * **other**
   - [沙暖](https://www.shanuan.com/)
   - [zyplayer](https://zyplayer.fun/)

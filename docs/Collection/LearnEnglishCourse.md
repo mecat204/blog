@@ -73,11 +73,6 @@
   - [120 Minutes of Real-World English Listening & Speaking Training](https://youtube.com/watch?v=1-kJsy_B4T4)
 
 ---
-* **[KT英语 | Knowledge Transfer 开启记录，见证成长 拿捏心态不悔未来 告别emo 奋斗最青春 | 千章 | Douyin](https://v.douyin.com/u6Yboc0hzMY/)**
-  - [Beginner-120、学习停止翻译](https://v.douyin.com/FC480Y4AbGY/)
-  - [Q&A-077、help的短语动词！ | 英语口语 | 英语没那么难 | 英语学习 | 老外教英语](https://v.douyin.com/XajhfXtaGaU/)
-
----
 * **[在线英语网课 | 课程涵盖: 零基础英语, 启蒙英语, 雅思口语, 商务英语 | 二千章 | Douyin](https://v.douyin.com/gp1CxFZ-ihY/)**
   - [英语流利说英语，英语流利说英语水平测试，流利说app学英语靠谱吗，外教一对一网课，来看看学生真人外教上课视频，比线下划算！ 跟着外教老师学英语，快速提高英语水平！六个月后进步非常大，轻松和外教交流，经验分享给大家，| 跟着外教老师提高英语口语 | 英语流利说app](https://v.douyin.com/37zdZhEhzJM/)
   - [新东方线上雅思网课，新东方线上雅思培训，雅思英语口语提升首选！外教1对1，25分钟纯英文对话+即时纠错，发音地道、自信开口。](https://v.douyin.com/5CVVaQZgPpM/)
@@ -176,11 +171,7 @@
 * **[etym online | 在线词源词典 | 查询英语单词的词源、起源与历史演变](https://www.etymonline.com/)**
 
 ---
-* **[早晨英语 | 百章 | Douyin](https://v.douyin.com/IjE1oR_vlqY/)**
-  - [慢速英语](https://v.douyin.com/xidQU-uA1fw/)
-
----
-* **[茵茵老师 | 五百章 | Douyin](https://v.douyin.com/APnunC4tVXM/)**
+* **[茵茵老师 | 一名一线英语教书匠 | 五百章 | Douyin](https://v.douyin.com/APnunC4tVXM/)**
   - [励志英语](https://v.douyin.com/FS3sz0uAsbs/)
 
 ---
@@ -273,16 +264,6 @@
 ---
 * **[快听听力 | 二百章 | Douyin](https://v.douyin.com/06UXFkAWso0/)**
   - [考试神器](https://v.douyin.com/wHfY52mXcJU/)
-
----
-* **[乃炎英语 | 奈炎工作室 | 英语学习顾问, 专注成人零基础英语起步到提升 | 七年教龄 | 英语专八, 资深英语培训师 | 高级英语教师资格证 CATTI三级 | 一起快乐学英语 | Douyin | 五百章 | Douyin](https://v.douyin.com/pPqC74m3eTU/)**
-  - **[日常口语](https://v.douyin.com/D8Wk9TkC14Y/)**
-  - [每天学习五句实用地道英语表达](https://v.douyin.com/__4RppvgmSE/)
-  - [马上学了就可以使用的日常口语](https://v.douyin.com/dR3AdukO5Dw/)
-  - [学完这80个短语，口语进步立竿见影](https://v.douyin.com/rAvZzpnXdy0/)
-  - **[坚持做自己 答案会出现在自己的节奏里](https://v.douyin.com/sfKwkKVTQXI/)**
-  - **[30句学完就能用的地道英语口语和我一起来学习吧](https://v.douyin.com/wB1zD3qrgtw/)**
-  - **["加减乘除"的英语表达你知道吗？和我一起来学习吧 | 等加减乘除- Equal,Plus,minus,Divided,Times](https://v.douyin.com/97TeaLAhQAk/)**
 
 ---
 * **[开源雅思](https://www.ieltsday.com/)**
@@ -558,13 +539,6 @@
       - 《雅思口语题库》：重要性无需多言，题库中的所有题目及对应答案，至少需完整练习两遍。 . 此外，所有推荐书籍均已整理完毕，可导入手机或 iPad 中随时学习。实际上，雅思备考只要摸准学习节奏，过程就会思路清晰、难度降低。靠谱的备考方法从无捷径可言，都是往届考生总结的实用经验，但大家也能依据自身基础灵活调整。
 
 ---
-* **[每天一起练英语](https://v.douyin.com/J5uD5aVF3n4/)**
-
----
-* **[Leah的小日记](https://v.douyin.com/zLRSwv2ARHc/)**
-  - [全英vlog｜跟着我的vlog学点英语吧](https://v.douyin.com/TPiSv2S-qXQ/)
-
----
 * **[LingQInChina](https://v.douyin.com/jWFu-jYRcm0/)**
 
 ---
@@ -584,29 +558,7 @@
   - [英语思维 学习语言的秘诀就是………](https://v.douyin.com/f45yTnpngRU/)
 
 ---
-* **[张叻叻哇](https://v.douyin.com/e2BnNoW-fUM/)**
-  - [每次客户都会说的"Give me your best price."](https://v.douyin.com/9WCl2_sIFhA/)
-
----
-* **[阿金的外贸英语频道](https://v.douyin.com/zisVXdlDmYY/)**
-  - [外贸人不可错过的收款工具！安全又高效 | 万里汇](https://v.douyin.com/SVIxD9O87bI/)
-
-* **[剧能学英语 | 剧能 背单词](https://v.douyin.com/L4Ll0xB9rcU/)**
-  - [两个打开的区别](https://v.douyin.com/lLEcpgsXh-g/)
-
----
-* **[color | 总得有个爱好吧❤️杨千嬅 | 百章 | Douyin](https://v.douyin.com/N6mVSQ2nO2Q/)**
-  - [Dyolo每日英语 一起 | 合拍 浪了一个星期没有练习英语啦🤭。网速不太好，画面都是卡卡的](https://v.douyin.com/hBME68vaHy8/)
-  - [英语美句 一起](https://v.douyin.com/nqtI2NVibFk/)
-  - [英语美句 一起 | 合拍 小录一段吧！要午休了](https://v.douyin.com/U40JNVJeU1M/)
-  - [过期青年 一起 | 合拍 | 英语学习打卡 你们是怎么打发寒假时间的](https://v.douyin.com/WZZf_Fs-Dkc/)
-
----
 * **[BBC Earth](https://www.youtube.com/@bbcearth)**
-
----
-* **[BBC英语纪录频道 | BBC英语官方记录片 | 百章 | Douyin](https://v.douyin.com/Kg7WEHuZnzo/)**
-  - [神奇的植物 GREEN PLANET 1](https://v.douyin.com/AyWrh_p2L2U/)
 
 ---
 * **[久别辞 | 世界上任何书籍都不能带给你好运 但是它能让你悄悄成为自己 读过同一本书，就是我们最好的相逢。 | 二百章 | Douyin](https://v.douyin.com/-M5R0fs46Mo/)**
@@ -619,7 +571,7 @@
   - 今天分享的是杨绛传，不要活得太明白看淡一切， 做一个快乐的中年少女，中年是年龄，少女是心态。当我们看淡了所有的人和事，你就会明白这样一个道理。惜我者我惜之，嫌我者我弃之，懂我者，我惜之，爱我者我必爱之，生活是自己的，千万别为难自己，有什么样的能力，就过什么样的生活，尽力而为量力而行。做个温暖的人，有自己的喜好，有自己的原则，有自己的信仰。用顺其自然的态度过随遇而安的生活。余生站在属于自己的高度，看该看的风景。记住一个女人最好的状态，莫过于眼里写满了故事，脸上却不见风霜，不羡慕谁不嘲笑谁，也不依赖谁，只是悄悄的努力吞下委屈，喂大格局，活成自己喜欢的样子，成为自己的光
 
 ---
-* **[山雨书苑 | LYwh阳光下没有新鲜事， 每一个你困惑的问题， 都能在书中找到答案 | 三百章 | Douyin](https://v.douyin.com/YpcJu_MHGuI/)**
+* **[山雨书苑 | AI-video |  LYwh阳光下没有新鲜事， 每一个你困惑的问题， 都能在书中找到答案 | 三百章 | Douyin](https://v.douyin.com/YpcJu_MHGuI/)**
   - [她发现的镭照亮了人类医学之路，也以辐射一寸寸焚烧着自己的生命。她是玛丽·居里——一位被教科书记载为"科学圣人"，却曾被骂为"波兰荡妇"、险被驱逐的受难者。 在停尸房改造的棚屋里熬煮4吨矿渣，用双手从酸雾与放射性尘埃中提炼出0.1克镭。丈夫车祸身亡后，她独自抚养女儿、成为法国首位女教授。 一纸与学生的情书却让她被举国唾骂，暴徒砸碎她家的窗户，诺贝尔委员会甚至劝她"别来领奖"。 然而一战爆发，这个被辱骂的女人却将私家车改成X光车，带着女儿驶入战壕，跪在血污中为士兵拍片，拯救了上百万生命。 她放弃镭的专利，说："它属于全人类。" 66岁，她死于长期辐射导致的骨髓衰竭，至今遗骸仍具放射性。 世界以痛吻她，她报之以歌——用一具千年后仍会"发光"的躯体，为人类换取了光明的未来。 | 居里夫人 | 女性科学家 | 诺贝尔奖 | 辐射之母 | 一战英雄](https://v.douyin.com/kG0rG3dkMVc/)
   - [他被称为"哲学终结者"，只用五个字就改写了人类思想的轨迹。 8岁思考"为何不能撒谎"，10岁自制缝纫机，本是航空天才，却转身用哲学刺破人类认知的幻觉。 他说："语言的边界，就是世界的边界。" 一只坏掉的钟、一位改写求助语的乞丐，都是他揭示真相的工具——我们不是用语言描述世界，而是被语言困在思维的牢笼里。 从一战战壕里的生死顿悟，到隐居山村教书，他一生拒绝被定义，只追问："如果语言是谎言，我们如何看见真实？" | 维特根斯坦 | 语言哲学 | 思维觉醒 | 认知边界 | 哲学终结者](https://v.douyin.com/9R5Rr91sd1g/)
   - [五位哲学巨匠的幸福箴言 | 维特根斯坦 | 认知 | 思维 | 思想自由 | 罗素](https://v.douyin.com/XP2P2NQmQaw/)
@@ -635,19 +587,11 @@
   - [repositories | book](https://github.com/orgs/wqc-book/repositories)
 
 ---
-* **[老虎不在家 | 江西省散打冠军 | 五百章 | Douyin](https://v.douyin.com/HE5lo22uA6k/)**
-  - [我每天睡醒了就去打工](https://v.douyin.com/Ybku8FdfqrE/)
-
----
-* **[𝐕𝐢𝐞𝐰𝐬视界 | Flowers may bloom again,but youth never returns. | 三百章 | Douyin](https://v.douyin.com/4CVsPz66WF4/)**
-  - [我们都不懂时间的重量…|情绪短片每一帧都是热爱](https://v.douyin.com/wYUFjWDoINg/)
-
----
-* **[菲儿说财经](https://v.douyin.com/ZVysXpbfuMk/)**
+* **[财女菲儿 | 菲儿说财经 | 官渡区菲儿网络技术服务部 | 二百章 | Douyin](https://v.douyin.com/ZVysXpbfuMk/)**
   - [靠刷抖音评论区，从8万到4000万。](https://v.douyin.com/AMTgPnW-zxw/)
-
----
-* **[香港中文大学翻译硕士](https://v.douyin.com/KBw5U92lhwc/)**
+  - [涨停就要盯住溢价率](https://v.douyin.com/MeLPyo7LGA0/)
+  - [商业航天、AI应用、创新药](https://v.douyin.com/p6vqkfHZ3_I/)
+  - [A股食物链](https://v.douyin.com/Ts5juZkaFCk/)
 
 ---
 * **[晨菲chenfei | 凡是发生皆有利于我。 It's okay to make a mistake but don't make it twice. | 百章 | Douyin](https://v.douyin.com/8Dhbmktl-7g/)**
@@ -657,15 +601,7 @@
   - [外国同学用中文吵架belike | 留学生精神状态belike](https://v.douyin.com/raYtftsMbCU/)
 
 ---
-* **[int7- | 用自己喜欢的方式记录生活 | 五百章 | Douyin](https://v.douyin.com/j-cxvnKJBDs/)**
-  - [不需要证明什么 你能做的就是不断尝试收获 | 纽约 |inmyfeelings |拍出电影感 |情绪短片 ](https://v.douyin.com/0url0E5etIw/)
-
----
 * **[零基础学习英语 |  牛津书虫第一期 | Youtube](https://www.youtube.com/watch?v=LttbCdk_A1M&list=PLYHYHpYmp4ZHrhXn21ry3sb5qci13DtSa&index=1)**
-
----
-* **[列国漫游 | 全世界的新鲜事 由于平台规则变更，中英双语视频在其他平台更新 | 二千章 | Douyin](https://v.douyin.com/qauh3aXv8CY/)**
-  - [川普调侃富豪朋友 失去财富老婆分分钟会跑](https://v.douyin.com/Pd9wVcfB2cc/)
 
 ---
 * **[michelelepe | Youtube](https://www.youtube.com/@michelelepe)**
@@ -679,24 +615,32 @@
   - [和跟着蛙蛙学英语-认各国国旗](https://v.douyin.com/QwFPgBWFxrk/)
   - [和跟着蛙蛙学英语 一起 | 合拍 人心中的成见是一座大山](https://v.douyin.com/yUr2ExM3DeM/)
   - [没错，我精神不正常# 专治不开心](https://v.douyin.com/myNfUedEpCo/)
+  - [明日复明日，明日何其多 | 滚动太快了，哈哈](https://v.douyin.com/YBAo2O3dY6w/)
 
 ---
-* **[听语英语研习社 | 嗨，我是星晴 🌷【听语英语研习社】知识星球主理人 | 多年英语翻译经验，分享点滴英语知识，伴你成长 | 五百章 | Douyin](https://v.douyin.com/paNb0F2Vl0U/)**
+* **[听语英语研习社 | 听力 | 嗨，我是星晴 🌷【听语英语研习社】知识星球主理人 | 多年英语翻译经验，分享点滴英语知识，伴你成长 | 五百章 | Douyin](https://v.douyin.com/paNb0F2Vl0U/)**
   - [Important Terms and Ideas for Describing Artificial Intelligence](https://v.douyin.com/xGszsdPynX8/)
   - [Five Things to Know about Notre Dame Cathedral](https://v.douyin.com/aEQBD38i-fk/)
+  - [冰山对南大西洋企鹅等动物产生的影响](https://v.douyin.com/gtDPXriWtHo/)
 
 ---
 * **[一叶手记 | 手写生活缝隙里的光 - 记录温暖，也治愈慌张。日子有烟火，笔下有远方。问绕前行，步履不停。百章 | Douyin](https://v.douyin.com/NjsN49u1frA/)**
   - [一切都是最好的安排，加油！| 人生感悟](https://v.douyin.com/3WwtO15sgTM/)
+  - [只要我们持之以恒，我们追求的东西都会一一到来，二月，加油！ | **持之以恒**](https://v.douyin.com/I1H3DZH04sg/)
+  - [千里之行，始于足下](https://v.douyin.com/lAGKKCuI15E/)
+  - [那一刻，泪水涌上我的眼眶，我才真正意识到，成功并非终点，失败也非末日，最重要的是继续前进的勇气。](https://v.douyin.com/XQhIM2JZZt0/)
 
 ---
-* **[BBC英语纪录频道 | BBC英语官方记录片 🤝官方资源一手推荐 | 二百章 | Douyin](https://v.douyin.com/mot89bKXk8A/)**
+* **[BBC英语纪录频道 | 4K纪录片 | 二百章 | Douyin](https://v.douyin.com/mot89bKXk8A/)**
+  - [神奇的动物 第一篇 ADVENTURE 1 神奇的动物 第一篇](https://v.douyin.com/FbF_buesFZw/)
   - [神奇的动物 第二篇 RAISING A FAMILY 4](https://v.douyin.com/04FGqYPj8is/)
+  - [小小世界 1 TINY WORLD 2](https://v.douyin.com/8wvxoOjpaXA/)
+  - [神奇的动物第五篇 THE ARE OF DECEPTION1 | **此视频充分说明: 学好外语的重要性,哈哈~**](https://v.douyin.com/-x13n6BhQ7E/)
+  - [神奇的动物 40](https://v.douyin.com/ftFa61pV-6c/)
 
 ---
-* **[爱折腾的姜姜 | 天文学科普 | 科技改变生活 | 艺术科普 | 古代古代历史 | 商业启蒙 | 金融如何运转 | 三百家 | Douyin](https://v.douyin.com/ZyctINMF2NQ/)**
+* **[姜姜的英语书屋 | 电子书籍 | 4K电子书籍阅读 |  天文学科普 | 科技改变生活 | 艺术科普 | 古代古代历史 | 商业启蒙 | 金融如何运转 | 五百章 | Douyin](https://v.douyin.com/ZyctINMF2NQ/)**
   - [揭秘发电站](https://v.douyin.com/vLXDtN5i648/)
-  - 揭秘发电站：从煤到电的魔法 小朋友们，你知道我们每天用的电是从哪里来的吗？答案就在一个神奇的地方——发电站！发电站是制造电的工厂，它帮助我们打开灯💡、玩电脑🖥️、看电视📺，甚至给你的平板充电！现在，让我们一起了解电站是怎么工作的吧！ 首先，发电站会使用一种黑色的岩石叫煤。煤里面藏有很多能量，发电站用大机器把煤打碎，再放进一个超大的炉子🔥。炉子把煤烧得很热很热，这时候它会加热周围的水，把水变成蒸汽。已经变成超级热的蒸汽会推动一种叫涡轮机的的机器，让涡轮机旋转起来。涡轮机每旋转一次，就创造了电能⚡！最后，电能通过电线被送到我们的家，让我们可以安心使用电力。 不过，有些发电方式会产生烟雾和废气。发电站会用特殊的机器把这些废气清理干净，甚至把一些剩下的灰烬变成建筑用的材料，比如水泥。是不是很厉害呢？其实，我们也可以期待未来更多利用🌞太阳和🌬️风发电！你觉得保护环境重要吗？可以和爸爸妈妈一起讨论哦！ 快告诉大家这个有趣的知识吧！😊 🌟重点单词🌟 versatile /ˈvɜːsətaɪl/ adj. 多功能的；用途广泛的 turbine /ˈtɜːrbaɪn/ n. 涡轮机 furnace /ˈfɜːrnɪs/ n. 炉子；火炉 emission /ɪˈmɪʃən/ n. 排放；散发 fossil fuel /ˈfɒsl fjuːəl/ n. 化石燃料
 
 ---
 * **[Mark学英语 | 为了给俩娃启蒙英语，37岁重学英语 | 每日分享实用英语口语 | 祝大家2026学会真英语 | 二百章 | Douyin ](https://v.douyin.com/Fw8_g1qpMFk/)**
@@ -950,7 +894,7 @@
   - [轻松学地道口语，看这3个博主就够啦](https://v.douyin.com/Ib-qlTyWzTI/)
   - [11绩点第一英专卷王，是怎么练阅读和听力的](https://v.douyin.com/VZVyl6_hmKc/)
   - [外语博士生穿什么？用英文聊聊我的日常穿搭👔 9月份读博一后，我的衣橱也next level了。 不知不觉，那些花里胡哨的小女孩衣服悄悄退场。](https://v.douyin.com/i1RHDdV9Zyw/)
-  - [我永远为泰勒斯威夫特的文字感到动容｜全英读信 # 泰勒斯威夫特](https://v.douyin.com/9-kd6Lo_FFU/)
+  - [我永远为泰勒斯威夫特的文字感到动容｜全英读信 泰勒斯威夫特](https://v.douyin.com/9-kd6Lo_FFU/)
   - [全英｜分享我的发音/口音快速提升小秘诀](https://v.douyin.com/OUcUYnmf3hk/)
 
 ---
@@ -1162,6 +1106,78 @@
   - [你的成长,不必和别人一样｜挑战全英播客100期 67期](https://v.douyin.com/8VmLFqM_Xsw/)
   - [藏在空气里的人类奇迹丨分级听读 本期带你深度了解每日相伴的 Wi-Fi：回溯马可尼开启无线时代、海蒂・拉玛助力技术研发的历史，拆解 Wi-Fi 的简单工作原理，讲述它如何改变学习、工作与情感连接，在温柔的英文讲述中，感受无形电波里的人类温暖与科技力量](https://v.douyin.com/NCt9DUAtRqk/)
 
+---
+### 0010. 4K电子书籍
+* **[姜姜的英语书屋 | 电子书籍 | 4K电子书籍阅读 |  天文学科普 | 科技改变生活 | 艺术科普 | 古代古代历史 | 商业启蒙 | 金融如何运转 | 五百章 | Douyin](https://v.douyin.com/ZyctINMF2NQ/)**
+  - [揭秘发电站](https://v.douyin.com/vLXDtN5i648/)
+
+---
+### 0011. 英语纪录片
+* **[BBC英语纪录频道 | 4K纪录片 | 二百章 | Douyin](https://v.douyin.com/mot89bKXk8A/)**
+  - [神奇的动物 第一篇 ADVENTURE 1 神奇的动物 第一篇](https://v.douyin.com/FbF_buesFZw/)
+  - [神奇的动物 第二篇 RAISING A FAMILY 4](https://v.douyin.com/04FGqYPj8is/)
+  - [小小世界 1 TINY WORLD 2](https://v.douyin.com/8wvxoOjpaXA/)
+  - [神奇的动物第五篇 THE ARE OF DECEPTION1 | **此视频充分说明: 学好外语的重要性,哈哈~**](https://v.douyin.com/-x13n6BhQ7E/)
+  - [神奇的动物 40](https://v.douyin.com/ftFa61pV-6c/)
+
+---
+### 0012. 手记
+* **[一叶手记 | 手写生活缝隙里的光 - 记录温暖，也治愈慌张。日子有烟火，笔下有远方。问绕前行，步履不停。百章 | Douyin](https://v.douyin.com/NjsN49u1frA/)**
+  - [一切都是最好的安排，加油！| 人生感悟](https://v.douyin.com/3WwtO15sgTM/)
+  - [只要我们持之以恒，我们追求的东西都会一一到来，二月，加油！ | **持之以恒**](https://v.douyin.com/I1H3DZH04sg/)
+  - [千里之行，始于足下](https://v.douyin.com/lAGKKCuI15E/)
+  - [那一刻，泪水涌上我的眼眶，我才真正意识到，成功并非终点，失败也非末日，最重要的是继续前进的勇气。](https://v.douyin.com/XQhIM2JZZt0/)
+
+---
+### 0013. 听力
+* **[听语英语研习社 | 听力 | 嗨，我是星晴 🌷【听语英语研习社】知识星球主理人 | 多年英语翻译经验，分享点滴英语知识，伴你成长 | 五百章 | Douyin](https://v.douyin.com/paNb0F2Vl0U/)**
+  - [Important Terms and Ideas for Describing Artificial Intelligence](https://v.douyin.com/xGszsdPynX8/)
+  - [Five Things to Know about Notre Dame Cathedral](https://v.douyin.com/aEQBD38i-fk/)
+  - [冰山对南大西洋企鹅等动物产生的影响 | Min: 06:04](https://v.douyin.com/gtDPXriWtHo/)
+  - [Experts Provide Tips for Avoiding Computer-linked Vision Trouble | Min: 07:37](https://v.douyin.com/ISTTPxEQ7NQ/)
+
+---
+### 0014. 新鲜事 | 猎奇
+* **[列国漫游 | 全世界的新鲜事 由于平台规则变更，中英双语视频在其他平台更新 | 二千章 | Douyin](https://v.douyin.com/qauh3aXv8CY/)**
+  - [川普调侃富豪朋友 失去财富老婆分分钟会跑](https://v.douyin.com/Pd9wVcfB2cc/)
+  - [特朗普：鸦片曾经摧毁了中国 美国可不能犯同样的错误](https://v.douyin.com/0GQKHqpPVVI/)
+
+---
+### 0015. English 精品
+* **[英语雪梨老师 | 香港中文大学翻译硕士 | 二千章 | Douyin](https://v.douyin.com/KBw5U92lhwc/)**
+  - [年兽的故事](https://v.douyin.com/Pp6E5207qkg/)
+  - [春节一定要给孩子读这本～ Maisy’s Chinese New Year](https://v.douyin.com/OvBhfqii2KA/)
+  - **[原音: a e i o u | 英语启蒙](https://v.douyin.com/L9j_bLhPiFk/**)**
+  - **[开闭音节](https://v.douyin.com/zbLyVGZOd-I/)**
+  - **[用一首歌搞定最常用的26字母自然拼读](https://v.douyin.com/5QC4IoIci9w/)**
+  - **[寒假就看这5部英语纪录片](https://v.douyin.com/hKwyNh1W62k/)**
+    * [Plant Earth | 地球脉动]()
+    * [Too Cute | 萌宠成长记]()
+    * [Wild China | 美丽中国]()
+    * [Andy's Adventures | 安迪的冒险]()
+    * [Little Human Planet | 小小人类星球]()
+
+---
+* **[乃炎英语 | 奈炎工作室 | 英语学习顾问, 专注成人零基础英语起步到提升 | 七年教龄 | 英语专八, 资深英语培训师 | 高级英语教师资格证 CATTI三级 | 一起快乐学英语 | Douyin | 五百章 | Douyin](https://v.douyin.com/pPqC74m3eTU/)**
+  - **[日常口语](https://v.douyin.com/D8Wk9TkC14Y/)**
+  - [每天学习五句实用地道英语表达](https://v.douyin.com/__4RppvgmSE/)
+  - [马上学了就可以使用的日常口语](https://v.douyin.com/dR3AdukO5Dw/)
+  - [学完这80个短语，口语进步立竿见影](https://v.douyin.com/rAvZzpnXdy0/)
+  - **[坚持做自己 答案会出现在自己的节奏里](https://v.douyin.com/sfKwkKVTQXI/)**
+  - **[30句学完就能用的地道英语口语和我一起来学习吧](https://v.douyin.com/wB1zD3qrgtw/)**
+  - **["加减乘除"的英语表达你知道吗？和我一起来学习吧 | 等加减乘除- Equal,Plus,minus,Divided,Times](https://v.douyin.com/97TeaLAhQAk/)**
+
+---
+* **[Leah的小日记 | 好好生活 跟我学习英语 | 百章 | Douyin](https://v.douyin.com/zLRSwv2ARHc/)**
+  - [全英vlog｜跟着我的vlog学点英语吧](https://v.douyin.com/TPiSv2S-qXQ/)
+  - [可抄作业｜我的春季英文书单](https://v.douyin.com/4j_AyhrL4AA/)
+
+---
+### 0016. 英语启蒙动画
+* **[快乐学英语 | 英语启蒙动画 | 听先行，读相伴🍀 持续更新原创少儿英语启蒙动画 | 百章 | Douyin](https://v.douyin.com/HhWVTPYMkuw/)**
+  - [学会拒绝的小象](https://v.douyin.com/hDeQbrUmUxI/)
+  - [小鸭子的怪物乌龙](https://v.douyin.com/VDFmLCQnau0/)
+  - [小狐狸的彩虹尾巴](https://v.douyin.com/IsrQ0SHI-Aw/)
 
 ---
 ### 9999. Download
