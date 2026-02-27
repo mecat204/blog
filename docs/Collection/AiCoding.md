@@ -136,6 +136,20 @@
   - [孤独和自由](https://v.douyin.com/l_x-PRSUxek/)
 
 ---
+* **[忆昨日 | 武侠 | 凡人 | 喜欢AI绘画 | 三百章 | Douyin](https://v.douyin.com/JNnyJEooQng/)**
+  - **[不胜人生一场醉 | 凡人修仙传 | 武侠 | 天龙八音](https://v.douyin.com/xGj8BaG26q0/)**
+  - **[人生路 美梦似路长 | 凡人修仙传 | 倩女幽魂](https://v.douyin.com/1BUZlrOXQKY/)**
+  - **[凡人武侠篇 佛光初现 | 凡人修仙传 | 武侠 | 佛光初现](https://v.douyin.com/vQZ8UBExZlM/)**
+  - **[凡人武侠篇 人的感情 | 凡人修仙传 | 国漫作者团 | 武侠](https://v.douyin.com/Lov1xa18T8E/)**
+  - [南宫婉对战紫灵续 | 凡人修仙传](https://v.douyin.com/uHRK61K1a4k/)
+  - [徒……你耍我…… | 凡人修仙传 | 国漫作者团 | 墨大夫 | 韩立](https://v.douyin.com/mLtwEK9L7Yg/)
+  - [南宫婉对战紫灵 | 国漫作者团](https://v.douyin.com/ncUQ42E4Ulo/)
+  - [**战灭霸** | 国漫作者团 | 凡人修仙传 | 韩立](https://v.douyin.com/sBTt2qMFvpM/)
+  - [无情碾压 | 凡人修仙传 | 指环王](https://v.douyin.com/p0pt-q95tHQ/)
+  - [急速逃亡 | 凡人修仙传 | 逃亡 | 韩立 | 仲神师](https://v.douyin.com/LSa0XZapJSQ/)
+  - [双剑侍女VS紫灵 | 凡人修仙传 | 紫灵 | 双剑侍女 | **seedance2**](https://v.douyin.com/vcabg56Og7I/)
+
+---
 * **[黛画 | 作品展示均为AI特效，本人肖像生成，钟爱各种类型特效 | 五百章 | Douyin](https://v.douyin.com/iSK2nq4uGes/)**
   - [抖音助手dou上热门](https://v.douyin.com/UxHXHYdZn14/)
   - [抖音助手dou上热门](https://v.douyin.com/ClrQGgRFUBo/)

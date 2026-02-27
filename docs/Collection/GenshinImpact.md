@@ -174,6 +174,18 @@
   - [《原神》温迪微电影 - 「时与风」 |温迪复刻 | 原神空月之歌 | 和我一起玩原神吧 | 原神挪德卡莱 | 青年创作者成长计划](https://v.douyin.com/x3b6hXcEfDs/)
 
 ---
+* **[能工智人Lilin | AIGC | 感谢您的喜欢与关注 | 大厂打工人 | 🎨业余小画手 | 百章 | Douyin](能工智人Lilin)**
+  - [**流萤大战遐蝶** | AI特摄巨物搏斗](https://v.douyin.com/RVZ2MRbcI0U/)
+  - [拉乌玛壁咚奈芙尔](https://v.douyin.com/mhaUtbzyrkI/)
+  - [雅珂达能打十个](https://v.douyin.com/Fu3pwoj2hbo/)
+  - [猫在哪呢 | 哥伦比娅 | 桑多涅](https://v.douyin.com/OVrTZhCcJFk/)
+  - [爱诺深夜偷吃 | 抖音acg新春会](https://v.douyin.com/Rv0Fmrhchj0/)
+  - [快递与门岗 | 抖音acg新春会](https://v.douyin.com/7yDdnEM4XGM/)
+  - [妈妈喂我吃薯片 | ai薯片引发的亲昵博弈](https://v.douyin.com/MN3IjZvffBs/)
+  - [功夫厨神 | AI功夫厨神 | 原神 | 香菱](https://v.douyin.com/_NrbZ-AlMtU/)
+
+
+---
 ### 9999. Download
 * **[dlpanda](https://dlpanda.com)**
 
