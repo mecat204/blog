@@ -187,6 +187,12 @@
   - [妈妈喂我吃薯片 | ai薯片引发的亲昵博弈](https://v.douyin.com/MN3IjZvffBs/)
   - [功夫厨神 | AI功夫厨神 | 原神 | 香菱](https://v.douyin.com/_NrbZ-AlMtU/)
 
+---
+* **[荧荧派 | 原神、崩铁剧情二创整活~ ✨现在点个关注就是老粉咯 | 百章 | Douyin](https://v.douyin.com/o5Kf0qert-s/)**
+  - [芙芙：不好！他要歪嘴了 | **原神整活**](https://v.douyin.com/8WUlO8TNhas/)
+  - [欧洛伦：我是要成为种菜王的男人](https://v.douyin.com/NfEFcl7OIpQ/)
+  - [霸道仆人爱上我？！ 芙宁娜：阿蕾奇诺！你不要过来啊](https://v.douyin.com/joGuqJNJU_o/)
+  - [提瓦特春节联欢晚会 | 2026马年吉祥](https://v.douyin.com/MIEZ3GrtbMg/)
 
 ---
 ### 9999. Download

@@ -46,7 +46,8 @@
   - [readme](Collection/readme)
   - [Todaytask](Collection/Todaytask)
   - [凡人修仙](Collection/凡人修仙)
-  - [传统武术](Collection/传统武术)
+  - [传统武术·赛博武侠](Collection/传统武术·赛博武侠)
+
   - [时政](Collection/时政)
   - [动漫](Collection/动漫)
   - [music](Collection/music)

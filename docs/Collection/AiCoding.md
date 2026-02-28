@@ -202,6 +202,31 @@
   - [凡人修仙传 | 慕沛灵](https://v.douyin.com/C9J31unAp5w/)
 
 ---
+* **[就扶墙老师 | AIGC Creator｜绘画、影视创作的探索者 可灵/即梦/海螺/Vidu | 官方超创 | 百章 | Douyin](https://v.douyin.com/u8i82m_wjH8/)**
+  - [内门修仙Vlog，大师姐在我直播间渡劫](https://v.douyin.com/c5dn95LhMgU/)
+  - [破产姐妹→5岁萌娃版](https://v.douyin.com/2HQOIGSp3oQ/)
+  - [受邀为我们**Esther Yu 欣欣子**的新歌《Spicy Honey](https://v.douyin.com/l5HknPYsp4I/=)
+  - 工作流介绍:
+    *文生图 | Midjourney v7 + Dreamina seedream3.0
+    *图生视频 | Dreamina
+    *口型迁移 | Dreamina Omnihuman-1
+    *剪辑 | Capcut
+  ---
+  - 工具:
+    * 即梦AIMV
+    * AIMV宇宙放映厅
+  - 于是在片中我虚构了一份《甜辣指南》，由两种不同风格的Esther来演绎诠释，把一个自信张扬的女性，通过"甜与辣"的碰撞隐喻，打破传统浪漫关系中被动柔弱的女性定位，强调在情感互动中掌控主导权、兼具诱惑与攻击性的现代独立态度给表现出来，传递出热情奔放又充满掌控欲的情绪张力
+  - [一旦接受了这种设定，中二病也是种浪漫 | **赛博武侠**](https://v.douyin.com/Aosd-qoiQrM/)
+  - [赛博江湖？乱你的不是代码崩坏 | **赛博武侠**](https://v.douyin.com/OvvqXMR-AtI/)
+  - **Genshin Impact 走的就是赛博武侠的路子**
+  - [赛博江湖？雨停了，我的协议也该终止了 | **AIGC**](https://v.douyin.com/Lo8Aok_vnZk/)
+  - [赛博江湖？我的铁骨里依然跳动着一颗侠心](https://v.douyin.com/-F4ogEK0AJg/)
+  - [是我能嗑的吗…… 来，全体跟我一起唱：两只老虎两只老虎，跑得快 | **姜栋元** | **河智苑**](https://v.douyin.com/4RC8-PFDNrk/)
+  - [天马行空2026](https://v.douyin.com/j5afLM5bpOo/)
+  - [此视频有点"病"，但病得很好看](https://v.douyin.com/cCh-5Rl91Io/)
+  - [baby-track | 标记效果 | 人工智能ai艺术](https://v.douyin.com/qXUlHSKwv-A/)
+
+---
 * **[ෆ Athorn | Home  | 百章 | Douyin](https://v.douyin.com/0mHywY-j7S8/)**
   - [享受独处](https://v.douyin.com/gBfr0TDtarM/)
 
@@ -220,6 +245,18 @@
   - [凡人修仙传 韩立对战乐上师](https://v.douyin.com/rcPsynHI0L8/)
   - [韩立黄龙山大战谷双蒲](https://v.douyin.com/kAIfAwDmCoI/)
   - [韩立又秒了一名元婴 黄龙山无间道](https://v.douyin.com/HI0TuvShIko/)
+
+---
+* **[流 | 影视解说 二创 | 五十章 | Douyin](https://v.douyin.com/pFcYPjSZzGU/)**
+  - [南宫婉正式加入落云宗，程天坤狂喜](https://v.douyin.com/FetnDnkkPdE/)
+  - [趁主人不在，银月给大家看 | 黑神话:韩立](https://v.douyin.com/tASWPo9CQYU/)
+  - [**韩立与南宫婉婚礼现场**](https://v.douyin.com/ox7D3Je4iPA/)
+  - [**南宫婉主持了一届侍妾大会**](https://v.douyin.com/dkAtO8c3tRQ/)
+  - [**新三国：他元婴我也元婴**](https://v.douyin.com/RJ1vgCVmKIU/)
+  - [**正宫 难辞其咎**](https://v.douyin.com/gWZ2tzNASBk/)
+  - [**银月锐评韩立后宫**](https://v.douyin.com/Ca9TtMla4gs/)
+  - [凡人之柳玉：师尊，当年你的刀不够快，也不够狠](https://v.douyin.com/Mi-h7ZoRk0A/)
+
 
 ---
 * **[北辰漫剪 | 百章 | Douyin](https://v.douyin.com/5eEgMYS5uH8/)**
