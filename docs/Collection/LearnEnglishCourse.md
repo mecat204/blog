@@ -442,7 +442,8 @@
   - [北美外教一对一网课 外教：英语是一项改变人生的技能](https://v.douyin.com/Ix5dt7a8F-Q/)
   - [欧美外教英语课一对一网课](https://v.douyin.com/cNQsa9vj7nQ/)
   - [在线英语外教一对一英语口语 外教：记忆单词的最佳方式是多读。|英语流利说](https://v.douyin.com/S_WuSgv0SEM/)
-  - English Fluency Jounery
+  - **[English Fluency Jounery | 223万 | Youtube](https://www.youtube.com/@EnglishFluencyJourney/videos)**
+  - [English Fluency Journey | Hanna Khoma](https://www.englishfluencyjourney.com/)
 
 ---
 * **[菲教英语网课推荐 | 试听课咨询私信我呦 👉适合各年龄段的零基础，雅思托福 | 二千章 | Douyin](https://v.douyin.com/vVfQfoX9dYE/)**
@@ -1095,7 +1096,9 @@
   - [北美外教一对一网课 外教：英语是一项改变人生的技能](https://v.douyin.com/Ix5dt7a8F-Q/)
   - [欧美外教英语课一对一网课](https://v.douyin.com/cNQsa9vj7nQ/)
   - [在线英语外教一对一英语口语 外教：记忆单词的最佳方式是多读。|英语流利说](https://v.douyin.com/S_WuSgv0SEM/)
-  - English Fluency Jounery
+  - **[English Fluency Jounery | 223万 | Youtube](https://www.youtube.com/@EnglishFluencyJourney/videos)**
+  - [English Fluency Journey | Hanna Khoma](https://www.englishfluencyjourney.com/)
+
 
 ---
 * **[Keep Seeking | 英语短剧 | 纯英文练语感｜无中文字幕｜高频词标注 每日更新，陪你日进一寸 | 二百章 | Douyin](https://v.douyin.com/x-ukTvoLyBg/)**

@@ -48,6 +48,7 @@
   - [凡人修仙](Collection/凡人修仙)
   - [传统武术·赛博武侠](Collection/传统武术·赛博武侠)
   - [时政](Collection/时政)
+  - [信息生态](Collection/信息生态)
   - [动漫](Collection/动漫)
   - [music](Collection/music)
   - [古琴](Collection/古琴)
