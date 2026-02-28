@@ -700,6 +700,12 @@
     - [西游记里最不合理的地方是哪里 | 自古评论区出人才](https://v.douyin.com/HtjDmpfjBrM/)
     - [你会先救画还是先救猫 | 自古评论区出人才](https://v.douyin.com/1lGy8GIYCOI/)
 
+  ---
+  * **[一只洋洋 | 普普通通一只洋，谢谢你的喜欢 发型妆造指路 | 二百章 | Douyin](https://v.douyin.com/wVEbyaw3gqA/)**
+    - [为什么没人能抵挡住中式魅魔？ | 一人分饰多角| 勿忘国耻 | 秦始皇](https://v.douyin.com/TqsOhXvwFL0/)
+    - [当东方修士来到魔法学院 | 一人分饰多角 | 幽默搞笑视频 | **伏地魔** | 修仙](https://v.douyin.com/7PVJHd0ELzU/)
+    - [假如历史人物看到了自己的野史 | 一人分饰多角](https://v.douyin.com/BzhtU7786sw/)
+
 ---
 * **2026**
   * **[蒹葭的碎碎念 | 日常 | 文学 | 五十章 | Douyin](https://v.douyin.com/FArXTFpNTWc/)**
