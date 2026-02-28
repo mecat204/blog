@@ -649,6 +649,18 @@
   - [美国五金店和中国的有什么不一样](https://v.douyin.com/KY-ivAXPzR8/)
 
 ---
+* **[心妍英语日记 | 传播中国文化｜英语学习心得 | 千章 | Douyin](https://v.douyin.com/TfAWRgQixic/)**
+  - [学好英语每天听是关键](https://v.douyin.com/BNPH9iEeNEc/)
+  - [很多人听不懂英语，是因为第一步就错了。我们习惯的是"视觉优先法"即看字幕、听句子、查单词。想快速听懂英语的方法是**母语路径**的听力训练法](https://v.douyin.com/DT2cnSPSDq4/)
+  - [**让耳朵习惯英语的节奏和感觉**](https://v.douyin.com/HxaRM_B1lbE/)
+  - [**普通人如何学好英语**](https://v.douyin.com/dvjJVuJa7WU/)
+  - [**Rome Wasn't Built in a Day**](https://v.douyin.com/NLT4vn5KaVU/)
+  - [**中国人对烟花的特殊情感**](https://v.douyin.com/ALSd5CpB1f8/)
+  - [**摆脱翻译思维**](https://v.douyin.com/Vzw-c-EdW34/)
+  - [**Learning English**](https://v.douyin.com/pQ7KS7jxT7s/)
+  - [春联](https://v.douyin.com/13NcEASCWVY/)
+
+---
 * **[是萬萬啊 | 我在过我的第二个🎧18岁 13年资深电影美术.疗愈能量艺术创造者 | 分享美好 | 活成黑夜里的微光 | 每日三事: 修行, 感恩, 知足 | 百章 | Douyin](https://v.douyin.com/DisZuVgx3vY/)**
   - [重塑人生：真正厉害的人，都在重复做这两件事 | 人生建议](https://v.douyin.com/5izqKD9ci-Q/)
   - [跳出受害者叙事：不要困在情绪里](https://v.douyin.com/NO0c2fIdW2I/)

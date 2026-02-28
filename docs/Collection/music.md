@@ -336,6 +336,16 @@
   - [跟着红尘跟随我浪迹一生 | 跟着红尘跟随我浪迹一生  | 烟花易冷  | 笛子](https://v.douyin.com/oq7VwlOfkzA/)
 
 ---
+* **[沉沉沉吟 | 不定期更新自扒古筝作品，使用谱子注明出处 | 百章 | Douyin](https://v.douyin.com/CtR8XRHLk0c/)**
+  - [《不凡》变奏无人声版 | 古筝  | 不凡 | 凡人修仙传  | 韩立结婴  | 王铮亮](https://v.douyin.com/c4FuIVMFH6I/)
+  - [古筝《不凡》完整版](https://v.douyin.com/p9c1_qFe2Fs/)
+  - [趁年少 别今朝 启程踏遍荒草](https://v.douyin.com/9RDhyUZkGWU/)
+  - [**古筝《镇海》｜天暗星入阵曲** | **不良人第六季 李星云 | 镇海**](https://v.douyin.com/PxGcdQv3-Vc/)
+  - [**古筝《落了白》| 《莫问归期》**](https://v.douyin.com/aLP07cu0akU/)
+  - [**洛云TV-Bilibili**](https://v.douyin.com/Qe385AdzVlQ/)
+  - [踏破这轨迹，逆行在天地](https://v.douyin.com/EIoQXPZoXao/)
+
+---
 * **[穿越而過 | 1.95万 | Youtube](https://www.youtube.com/@pass.through/videos)**
   - The primary artist of this channel is Guang (Light), creating in collaboration with his teacher.
   - 该频道的主要艺术家是光（光），他 与老师合作创作。
@@ -375,6 +385,16 @@
 ---
 * **[晓乐的钢琴札记 | 百章 | Douyin](https://v.douyin.com/22gFoRVOSts/)**
   - [每一首歌都是一个记忆U盘 | 钢琴](https://v.douyin.com/_ety9MDtOdk/)
+
+---
+* **[觉庐 | 学琴/曲谱/交流 | 国风古韵 | 百章 | Douyin](https://v.douyin.com/4cZFPkS230o/)**
+  - [古琴「精卫」你与我先谈养心殿，后拜瀑淋身](https://v.douyin.com/0lRpuTuSjoc/)
+  - [古琴右手指法跟练示范，快快收藏起来](https://v.douyin.com/Agn6Q37zTww/)
+  - [琴「风催雨」"愁生天际 雨落时又想起 撑伞过桥底" **移植/演奏：楠欣**](https://v.douyin.com/i75Dbkb6yU0/)
+  - [问谁能暂留天地 缓缓 古琴《天地缓缓·纯阳》 演奏：楠欣 移植：东韵](https://v.douyin.com/1vuKQXKjYdU/)
+  - [琴「芳菲落尽梨花白」"见天地，见众生，妙哉" 演奏：宜蓉 移植：海洋洋](https://v.douyin.com/p-KZ2I1hdSE/)
+  - [古琴「乌兰巴托的夜」"穿过旷野的风，你慢些走" 演奏：楠欣 移植：海洋洋](https://v.douyin.com/iLAyjxZgmgk/)
+  - [古琴「西厢寻他」"听西厢月落乌啼声声唱罢" 演奏：楠欣 移植：东韵 | 古琴](https://v.douyin.com/BqkpiT-QHgA/)
 
 ---
 * **[银幕诗人 | 苏州园林 ｜江南水乡｜中式美学 | 百章 | Douyin | 百章 | Douyin](https://v.douyin.com/b2blAPgkIlE/)**
@@ -1213,10 +1233,6 @@
   - Two Hearts, One Beat
   - Stay Close to Me
   - Hold Me Through The Night
-
----
-* **[沉沉沉吟 | 百章 | Douyin](https://v.douyin.com/CtR8XRHLk0c/)**
-  - [《不凡》变奏无人声版 | 古筝  | 不凡 | 凡人修仙传  | 韩立结婴  | 王铮亮](https://v.douyin.com/c4FuIVMFH6I/)
 
 ---
 * **[三点烛火 | 要天天开心 | 二十章 | Douyin](https://v.douyin.com/1Q5Dv3SGoT0/)**

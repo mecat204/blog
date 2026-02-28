@@ -50,6 +50,8 @@
   - [时政](Collection/时政)
   - [动漫](Collection/动漫)
   - [music](Collection/music)
+  - [古琴](Collection/古琴)
+  - [笛子](Collection/笛子)
   - [歌词](Collection/歌词)
   - [tips](Collection/tips)
   - [game](Collection/game)
