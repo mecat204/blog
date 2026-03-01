@@ -405,7 +405,11 @@
 
 ---
 * **[惊枝 | 海压竹枝低复举，风吹山角晦还明 | 百章 | Douyin](https://v.douyin.com/AEIx2NG45Pc/)**
-  - [情思晚，暂留天地缓缓" 原唱：伦桑 移植：东韵Dongyun 演奏：我 小小的变了一下调 这个旋律还是太权威了，东韵老师移植也是太权威了 古琴 天地缓缓](https://v.douyin.com/znD-CUN6yGQ/)
+  - [情思晚，暂留天地缓缓" 原唱：伦桑 移植：东韵Dongyun 演奏：我 小小的变了一下调 这个旋律还是太权威了，东韵老师移植也是太权威了 古琴 **天地缓缓**](https://v.douyin.com/znD-CUN6yGQ/)
+  - [追剧上头，真的好配 | 古琴 | 九重紫 | 戏文说 | 国风古韵 | **听说戏文说和九重紫很配**](https://v.douyin.com/UocoL3KGojE/)
+  - [春知晓梦不觉恰似你我那年 | **移植：东韵 演奏: 我**](https://v.douyin.com/n-fVjLa-inE/)
+  - [抓紧你的手，走过我的朝朝暮暮。**古琴 | 金玉良缘**](https://v.douyin.com/mGflOTi5URg/)
+  - [闪动如蝴蝶在双颊，那是眼泪吗。 **古琴 | 同花顺**](https://v.douyin.com/Jh650wbWrnY/)
 
 ---
 * **[今也_古琴](https://v.douyin.com/ciILFWons1E/)**
