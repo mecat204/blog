@@ -47,6 +47,14 @@
   - **[NetflixGC | 奈飞工厂-一个致力于免费提供Netflix影剧动漫的流媒体播放平台](https://www.netflixgc.com/)**
 
   ---
+  * **dalao.ru**
+  - **[iui.su](https://iui.su/link.html)**
+    * **[movie](https://movie.ley.best/)**
+    * **[b.dalao](https://b.dalao.ru/)**
+      - **[资源分享库](https://docs.qq.com/sheet/DUXR1VmtpVFR5bEpX?tab=44un5y)**
+      - **[CCTV](https://tv.cctv.com/lm/index.shtml#datapd=EPGC1386744804340113&datafl=&dataszm=)**
+
+  ---
   * **4kvm**
   - **[4kvm·A](https://4kvm.site/)**
   - **[4kvm·B](https://www.4kvm.net/)**

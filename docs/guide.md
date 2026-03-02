@@ -3,13 +3,16 @@
   - [readme](Collection/readme)
 
 ---
-* **摘录集**
-  - [Douyin](摘录集/douyin)
-  - [认知](摘录集/认知)
-
----
 * **古诗词**
   - [古文·唐诗·宋词](古诗词/001.古文)
+
+---
+* **理想生活**
+  - [理想的生活](理想生活/理想的生活)
+
+---
+* **Vlog**
+  - [Vlog](Vlog/Vlog)
 
 ---
 * **千集录**
@@ -20,26 +23,46 @@
   - [经文](千集录/005.经文)
 
 ---
-* **同义词辨析词典**
-  - [words](同义词辨析词典/words)
-  - [template](同义词辨析词典/template)
-  - [a](同义词辨析词典/a)
+* **技术栈**
+  - [OpenSource](技术栈/0000.OpenSource)
+  - [技术栈](技术栈/0001.技术栈)
+  - [关于iPhone联网](技术栈/0002.关于iPhone联网)
+  - [技术网站](技术栈/0003.技术网站)
+  - [AI创客](技术栈/0004.AI创客)
+  - [星空](技术栈/0005.星空)
+  - [短链接风险与对策](技术栈/0006.bit.ly-短链接风险与对策)
 
 ---
-* **同义词辨析简化版**
-  - [a](同义词辨析简化版/a)
+* **Ai-video**
+  - [Ai-video](Ai-video/Ai-video)
 
 ---
-* **VS Code**
-  - [Win快捷键](VSCode/Win快捷键)
-  - [macOS快捷键](VSCode/macOS快捷键)
+* **Music**
+  - [music](Music/music)
+  - [古琴](Music/古琴)
+  - [钢琴](Music/钢琴)
+  - [笛子](Music/笛子)
+  - [小提琴](Music/小提琴)
+  - [歌词](Music/歌词)
+  - [轻音乐](Music/轻音乐)
+  - [华语乐坛](Music/华语乐坛)
+
+---
+* **Movie**
+  - [Movie](Movie/movie)
 
 ---
 * **Book**
+  - [BookSource](Book/BookSource)
   - [瞬间记单词](Book/瞬间记单词)
   - [超实用15000词分类速记](Book/超实用15000词分类速记)
   - [words](Book/words)
   - [构词法速查表](Book/构词法速查表)
+
+---
+* **摘录集**
+  - [Douyin](摘录集/douyin)
+  - [认知](摘录集/认知)
 
 ---
 * **Collection**
@@ -47,31 +70,20 @@
   - [Todaytask](Collection/Todaytask)
   - [凡人修仙](Collection/凡人修仙)
   - [传统武术·赛博武侠](Collection/传统武术·赛博武侠)
-
   - [时政](Collection/时政)
   - [信息生态](Collection/信息生态)
   - [动漫](Collection/动漫)
-  - [music](Collection/music)
-  - [古琴](Collection/古琴)
-  - [钢琴](Collection/钢琴)
-  - [笛子](Collection/笛子)
-  - [小提琴](Collection/小提琴)
-  - [歌词](Collection/歌词)
   - [tips](Collection/tips)
   - [game](Collection/game)
   - [GenshinImpact](Collection/GenshinImpact)
-  - [轻音乐](Collection/轻音乐)
-  - [华语乐坛](Collection/华语乐坛)
   - [问小白](Collection/问小白)
   - [古今文学](Collection/古今文学)
   - [备忘录](Collection/备忘录)
   - [名人录](Collection/名人录)
   - [原神·人物志](Collection/原神·人物志)
   - [码农](Collection/码农)
-  - [开源项目](Collection/开源项目)
   - [中外艺人简介](Collection/中外艺人简介)
   - [中外剧作史学](Collection/中外剧作史学)
-  - [技术栈](Collection/技术栈)
   - [网络新闻](Collection/网络新闻)
   - [视频·壁纸·Memory](Collection/视频·壁纸·Memory)
   - [环球户外风光](Collection/环球户外风光)
@@ -79,8 +91,6 @@
   - [江湖侠客](Collection/江湖侠客)
   - [地理志](Collection/地理志)
   - [创业&&财经](Collection/创业&&财经)
-  - [BookSource](Collection/BookSource)
-  - [理想的生活](Collection/理想的生活)
   - [牛马三部曲](Collection/牛马三部曲)
   - [心理学·思想史](Collection/心理学·思想史)
   - [哲学史](Collection/哲学史)
@@ -94,16 +104,13 @@
   - [战情简报](Collection/战情简报)
   - [AI实战派](Collection/AI实战派)
   - [AI+VR+XR+AR眼镜发展](Collection/AI+VR+XR+AR眼镜发展)
-  - [Vlog](Collection/Vlog)
   - [CollegeCourse](Collection/CollegeCourse)
   - [CodingSource](Collection/CodingSource)
   - [Download](Collection/Download)
   - [Douyin](Collection/Douyin)
   - [LearnEnglishCourse](Collection/LearnEnglishCourse)
   - [EnglishLearn](Collection/EnglishLearn)
-  - [Movie](Collection/movie)
   - [影视剧介绍](Collection/影视剧介绍)
-  - [Ai-video](Collection/Ai-video)
   - [AiCoding](Collection/AiCoding)
   - [AiWebsite](Collection/AiWebsite)
   - [ChatGPT.q&w](Collection/ChatGPT.q&w)
@@ -137,6 +144,21 @@
   - [ssh-agent](bash/004.ssh-agent)
 
 ---
+* **同义词辨析词典**
+  - [words](同义词辨析词典/words)
+  - [template](同义词辨析词典/template)
+  - [a](同义词辨析词典/a)
+
+---
+* **同义词辨析简化版**
+  - [a](同义词辨析简化版/a)
+
+---
+* **VS Code**
+  - [Win快捷键](VSCode/Win快捷键)
+  - [macOS快捷键](VSCode/macOS快捷键)
+
+---
 * **CommonSense**
   - [GeneralKnowledge](CommonSense/GeneralKnowledge)
 
@@ -154,13 +176,6 @@
 * **BooksTranslate**
   - [Machine Learning Systems](BooksTranslate/MachineLearningSystems)
 
----
-* **技术栈**
-  - [短链接风险与对策](技术栈/0001.bit.ly-短链接风险与对策)
-  - [关于iPhone联网](技术栈/0002.关于iPhone联网)
-  - [技术网站](技术栈/0003.技术网站)
-  - [AI创客](技术栈/0004.AI创客)
-  - [星空](技术栈/0005.星空)
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
