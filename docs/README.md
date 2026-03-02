@@ -15,6 +15,10 @@
   - [Vlog](Vlog/Vlog)
 
 ---
+* **Learn English Course**
+  - [Learn English Course](LearnEnglishCourse/LearnEnglishCourse)
+
+---
 * **千集录**
   - [哲思](千集录/001.哲思)
   - [千思集](千集录/002.千思集)
@@ -175,7 +179,6 @@
 ---
 * **BooksTranslate**
   - [Machine Learning Systems](BooksTranslate/MachineLearningSystems)
-
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)

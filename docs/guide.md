@@ -15,6 +15,10 @@
   - [Vlog](Vlog/Vlog)
 
 ---
+* **Learn English Course**
+  - [Learn English Course](LearnEnglishCourse/LearnEnglishCourse)
+
+---
 * **千集录**
   - [哲思](千集录/001.哲思)
   - [千思集](千集录/002.千思集)
