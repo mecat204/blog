@@ -52,6 +52,9 @@
 * **[MERCY](https://sonypictures.com.sg)**
 
 ---
+* **[Conquer the Unexplored Planet](https://entropy-pc.funplus.com)**
+
+---
 ### 9999. Download
 * **[dlpanda](https://dlpanda.com)**
 

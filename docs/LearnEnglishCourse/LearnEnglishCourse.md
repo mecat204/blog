@@ -1194,6 +1194,36 @@
   - [小狐狸的彩虹尾巴](https://v.douyin.com/IsrQ0SHI-Aw/)
 
 ---
+### 0017. 高端访谈 | CCTV
+* **[高端访谈小制片 | 总台央视新闻频道 CCTV-13《高端访谈》](https://v.douyin.com/a5HyNbsjUiI/)**
+  - [高端访谈｜非洲53个建交国享100%%税目产品0关税，塞舌尔总统畅谈合作机遇](https://v.douyin.com/tIe7xVRlk9E/)
+  - [今天（2026年02月26日），德国总理默茨参观故宫](https://v.douyin.com/OOkBB5W6GXA/)
+  - [2025.06.26专访新西兰前总理希普利 | Min: 23:10](https://v.douyin.com/kKniYbSvyCc/)
+  - [2025.06.27专访肯尼亚总统鲁托 Min: 22:13](https://v.douyin.com/f5ts0roFBxM/)
+  - [2025.06.28专访巴基斯坦总统扎尔达里 | Min: 16:21](https://v.douyin.com/TOPEk7Vdbt4/)
+  - [2025.06.29专访格林纳达总理米切尔 | Min: 24:31](https://v.douyin.com/PJMHFHHIfrI/)
+  - [2025.07.13专访国际奥委会主席巴赫 | Min: 28:41](https://v.douyin.com/PSxoQyttFoY/)
+  - [2025.07.15专访西门子总裁博乐仁 | Min: 25:37](https://v.douyin.com/WCN3wClFeas/)
+  - [2025.07.22专访新加坡总理黄循财 | Min: 25:47](https://v.douyin.com/ubEpCdPG4gQ/)
+  - [2025.07.27专访瑙鲁总统阿迪昂 | Min: 23:14](https://v.douyin.com/DTbbJGplOgk/)
+  - [2025.08.03专访瑙鲁总统阿迪昂 | Min:24:04](https://v.douyin.com/Q13rASU_0WY/)
+  - [专访多米尼克总统伯顿 | Min: 21:21](https://v.douyin.com/bpoA9ZgVmyU/)
+  - [专访新加坡前常驻联合国代表马凯硕 | Min:24:12](https://v.douyin.com/jLfUlt1156A/)
+
+---
+### 0018. 自动化工具屋
+* **[Mia英语精读自动化工具屋 | 五百章 | Douyin](https://v.douyin.com/rrvuP1Vk04s/)**
+  - [1分钟教你制作爆款单词速记视频](https://v.douyin.com/HxvOJ5y6BTI/)
+  - [跟央视主持人邹韵学英语｜英语笔记精读](https://v.douyin.com/CbPGAONY3SA/)
+  - [英语老师英语副业备课工具教程](https://v.douyin.com/a9TQL8cpdWs/)
+
+---
+### 0019. 翻译官
+* **[Freelensia | 7.33万 | Youtube](https://www.youtube.com/@Freelensia/videos)**
+  - Freelensia 翻译来自世界各地的政治演讲和其他富有洞察力的内容。我们还展示国际电影和电视剧，突显文化和语言的多样性。我们的影片通常提供字幕和配音，以提高可访问性。有些视频提供双语通译。请佩戴耳机，在左耳听一种语言，在右耳听另一种语言。
+  - 为了帮助你找到喜欢的内容，我们将视频整理成播放列表：Speeches by Country、Speeches by Speaker 和 Movie-Related Videos。浏览我们的播放列表，享受你喜欢的语言内容
+
+---
 ### 9999. Download
 * **[dlpanda](https://dlpanda.com)**
 
