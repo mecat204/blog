@@ -112,7 +112,6 @@
   - [CodingSource](Collection/CodingSource)
   - [Download](Collection/Download)
   - [Douyin](Collection/Douyin)
-  - [LearnEnglishCourse](Collection/LearnEnglishCourse)
   - [EnglishLearn](Collection/EnglishLearn)
   - [影视剧介绍](Collection/影视剧介绍)
   - [AiCoding](Collection/AiCoding)
@@ -179,7 +178,6 @@
 ---
 * **BooksTranslate**
   - [Machine Learning Systems](BooksTranslate/MachineLearningSystems)
-
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)

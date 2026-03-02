@@ -112,7 +112,6 @@
   - [CodingSource](Collection/CodingSource)
   - [Download](Collection/Download)
   - [Douyin](Collection/Douyin)
-  - [LearnEnglishCourse](Collection/LearnEnglishCourse)
   - [EnglishLearn](Collection/EnglishLearn)
   - [影视剧介绍](Collection/影视剧介绍)
   - [AiCoding](Collection/AiCoding)
