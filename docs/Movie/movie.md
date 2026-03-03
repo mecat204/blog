@@ -58,7 +58,8 @@
   * **4kvm**
   - **[4kvm·A](https://4kvm.site/)**
   - **[4kvm·B](https://www.4kvm.net/)**
-    * [怪奇物语: 第1季](https://www.4kvm.net/seasons/gqwy1)
+    * [怪奇物语: 第1季  | Stranger Things](https://www.4kvm.net/seasons/gqwy1)
+    * [遗落战境 Oblivion | 汤姆·克鲁斯 Tom Cruise](https://www.4kvm.net/movies/ylzj)
   - **[4kvm·C](https://www.4kvm.pro)**
   - **[4kvm·D](https://www.4kvm.org)**
 
