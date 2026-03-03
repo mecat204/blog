@@ -743,19 +743,6 @@
   - [英语听力训练](https://v.douyin.com/kt8SNI-t9yY/)
 
 ---
-* **[英语超级屋 | 感受世界，感受人文，遇见这个世界上美好的人和事 学好英语，感受语言，遇见这个时间里最好的自己... | 三百章 | Douyin](https://v.douyin.com/JLRyWueVrOE/)**
-  - 语言的边界, 就是世界的边界 --- 维特根斯坦
-  - [张同完 | 韩国 | **Youtuber: _100ls**  | wan只用一部动画，重复100遍，做到年赚200万刀 谁说学好英语赚不到钱](https://v.douyin.com/dE8eIkNzQ28/)
-  - **[旅行学英语](https://v.douyin.com/clZqESbHEF4/)**
-  - **[全英播客通勤磨耳朵 | **Youtuber: English Learning Podcast**](https://v.douyin.com/qGQ7PDaJ7zY/)**
-  - **[如何在一天彻底改变你的一生](https://v.douyin.com/YLiYarwLOxY/)**
-  - **[你学英语的时候为什么总是被短视频带跑](https://v.douyin.com/LANarnZ8pdM/)**
-  - **[English podcast 英语听力训练](https://v.douyin.com/-1JcIfq0xfg/)**
-  * **[英文磨耳朵 进入心流状态是什么感觉](https://v.douyin.com/c1AbObGV9xI/)**
-  * **[英式英语那个小调调是怎么来的](https://v.douyin.com/hxaGseoYJok/)**
-  * **[韩国大集什么样 可理解性输入学英语 | Youtuber: volkaeagle](https://v.douyin.com/-G5XfX7KvRo/)**
-
----
 * **[本立道生生不息 | 山上高松溪畔竹，清风才动是知音。 The out way out is through.](https://v.douyin.com/_ljrxSfctCU/)**
   - [英语口语 | livelifeforward](https://v.douyin.com/hmPbkegRAws/)
   - [十四行诗](https://v.douyin.com/XecpmvOVJaY/)
@@ -1099,6 +1086,18 @@
   - **[English Fluency Jounery | 223万 | Youtube](https://www.youtube.com/@EnglishFluencyJourney/videos)**
   - [English Fluency Journey | Hanna Khoma](https://www.englishfluencyjourney.com/)
 
+---
+* **[英语超级屋 | 感受世界，感受人文，遇见这个世界上美好的人和事 学好英语，感受语言，遇见这个时间里最好的自己... | 三百章 | Douyin](https://v.douyin.com/JLRyWueVrOE/)**
+  - 语言的边界, 就是世界的边界 --- 维特根斯坦
+  - [张同完 | 韩国 | **Youtuber: _100ls**  | wan只用一部动画，重复100遍，做到年赚200万刀 谁说学好英语赚不到钱](https://v.douyin.com/dE8eIkNzQ28/)
+  - **[旅行学英语](https://v.douyin.com/clZqESbHEF4/)**
+  - **[全英播客通勤磨耳朵 | **Youtuber: English Learning Podcast**](https://v.douyin.com/qGQ7PDaJ7zY/)**
+  - **[如何在一天彻底改变你的一生](https://v.douyin.com/YLiYarwLOxY/)**
+  - **[你学英语的时候为什么总是被短视频带跑](https://v.douyin.com/LANarnZ8pdM/)**
+  - **[English podcast 英语听力训练](https://v.douyin.com/-1JcIfq0xfg/)**
+  * **[英文磨耳朵 进入心流状态是什么感觉](https://v.douyin.com/c1AbObGV9xI/)**
+  * **[英式英语那个小调调是怎么来的](https://v.douyin.com/hxaGseoYJok/)**
+  * **[韩国大集什么样 可理解性输入学英语 | Youtuber: volkaeagle](https://v.douyin.com/-G5XfX7KvRo/)**
 
 ---
 * **[Keep Seeking | 英语短剧 | 纯英文练语感｜无中文字幕｜高频词标注 每日更新，陪你日进一寸 | 二百章 | Douyin](https://v.douyin.com/x-ukTvoLyBg/)**
@@ -1182,7 +1181,7 @@
   - **["加减乘除"的英语表达你知道吗？和我一起来学习吧 | 等加减乘除- Equal,Plus,minus,Divided,Times](https://v.douyin.com/97TeaLAhQAk/)**
 
 ---
-* **[Leah的小日记 | 好好生活 跟我学习英语 | 百章 | Douyin](https://v.douyin.com/zLRSwv2ARHc/)**
+* **[Leah的小日记 | 好好生活 跟我学习英语 | 莉雅老师教英语 | 百章 | Douyin](https://v.douyin.com/zLRSwv2ARHc/)**
   - [全英vlog｜跟着我的vlog学点英语吧](https://v.douyin.com/TPiSv2S-qXQ/)
   - [可抄作业｜我的春季英文书单](https://v.douyin.com/4j_AyhrL4AA/)
 
