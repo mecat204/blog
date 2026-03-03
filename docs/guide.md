@@ -57,6 +57,10 @@
   - [华语乐坛](Music/华语乐坛)
 
 ---
+* **Genshin Impact**
+  - [Genshin Impact](GenshinImpact/GenshinImpact)
+
+---
 * **Movie**
   - [Movie](Movie/movie)
 
