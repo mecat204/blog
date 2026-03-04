@@ -2,7 +2,7 @@
 * **[dlpanda](https://dlpanda.com)**
 
 ---
-### MosaicEcho马赛回声
+### 0001. MosaicEcho马赛回声
 * **[MosaicEcho马赛回声 | AI-Images | 复古未来主义 |先锋视角 | 多元融合 | 时间以及 | 深度传播 | 五百章 | Douyin](https://v.douyin.com/NC-kYJUf7HA/)**
   - [大梦初醒：东方美学最极致的压迫感。](https://v.douyin.com/w1cUnK4oTPk/)
   - [失重的东方美学。| **复古未来主义**](https://v.douyin.com/WzWPPzz37aY/)

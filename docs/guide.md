@@ -135,8 +135,6 @@
   - [Douyin](Collection/Douyin)
   - [EnglishLearn](Collection/EnglishLearn)
   - [影视剧介绍](Collection/影视剧介绍)
-  - [AiCoding](Collection/AiCoding)
-  - [AiWebsite](Collection/AiWebsite)
   - [ChatGPT.q&w](Collection/ChatGPT.q&w)
   - [online](Collection/online)
   - [TranslationVault](Collection/TranslationVault)
