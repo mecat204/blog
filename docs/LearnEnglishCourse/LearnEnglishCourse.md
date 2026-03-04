@@ -1225,6 +1225,16 @@
   - 为了帮助你找到喜欢的内容，我们将视频整理成播放列表：Speeches by Country、Speeches by Speaker 和 Movie-Related Videos。浏览我们的播放列表，享受你喜欢的语言内容
 
 ---
+### 0020. StudyEnglish英语口语 | Book
+* **[StudyEnglish英语口语 | 英专生，每日分享英语智慧语录， 英语美文，英语朗读，英语口语练习素材 | 教辅以及学习资料在橱窗 | 千章 | Douyin](https://v.douyin.com/1Tmc4q5oAgo/)**
+  - [英语介绍: 长安的荔枝](https://v.douyin.com/1MWSIDoJKF8/)
+  - [英语介绍中国系列书籍](https://v.douyin.com/fLuwkneW8NU/)
+  - [传统文化阅读和写作](https://v.douyin.com/VA1F7gkcKBk/)
+  - [英语阅读：时间是最公平的裁判](https://v.douyin.com/umdZEcUzo1k/)
+  - [英语口语：眼界决定人生半径 你的眼界有多宽，人生就有多大舞台。](https://v.douyin.com/c3Px4nQCtyQ/)
+  - [英语学习：敢于开始，才能不负未来。 别等完美时机，行动才是最好的开始。](https://v.douyin.com/w45zwFfNkbg/)
+
+---
 ### 9999. Download
 * **[dlpanda](https://dlpanda.com)**
 

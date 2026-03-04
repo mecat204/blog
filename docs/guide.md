@@ -52,8 +52,11 @@
   - [短链接风险与对策](技术栈/0006.bit.ly-短链接风险与对策)
 
 ---
-* **Ai-video**
-  - [Ai-video](Ai-video/Ai-video)
+* **Ai-source**
+  - [Ai-video](Ai-source/Ai-video)
+  - [Ai-images](Ai-source/Ai-images)
+  - [Ai-website](Ai-source/Ai-website)
+  - [Ai-coding](Ai-source/Ai-coding)
 
 ---
 * **Music**
