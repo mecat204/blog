@@ -6,14 +6,6 @@
   - [videocaptioner](https://www.videocaptioner.cn/)
 
 ---
-* **English Rource**
-  - **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
-  - **[英语学习资源导航 | 全网最全](https://en.knowledgefxg.com/)**
-  - **[句乐部](https://julebu.co)**
-  - **[Qwerty Learnner | 官网 — 为键盘工作者设计的单词与肌肉记忆锻炼软件](https://qwerty.liumingye.cn)**
-  - **[Type Words 官网 - 词文记 | 单词跟打 · 文章跟打](https://typewords.cc/articles)**
-
----
 * **[chidiwilliams | buzz | 翻译软件 ](https://github.com/chidiwilliams/buzz)**
   - [buzz | zh](https://chidiwilliams.github.io/buzz/zh/docs)
 
@@ -24,8 +16,26 @@
 * **[PlayPhrase.me: Site for cinema archaeologists. | 台词搜索](https://www.playphrase.me/#/search?q=&language=en)**
 
 ---
-### 0001. English Learn
+### 0001. English Resource
+* **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
+
+---
+* **[英语学习资源导航 | 全网最全](https://en.knowledgefxg.com/)**
+
+---
 * **[句乐部](https://julebu.co)**
+
+---
+* **[Qwerty Learnner | 官网 — 为键盘工作者设计的单词与肌肉记忆锻炼软件](https://qwerty.liumingye.cn)**
+
+---
+* **[Type Words 官网 - 词文记 | 单词跟打 · 文章跟打](https://typewords.cc/articles)**
+
+---
+* **[英语学习 | GitCN](https://gitcn.org/collections/learning-english?utm_source=chatgpt.com)**
+  * **[1000h](https://1000h.org/)**
+
+---
 * **[阿崔cxr | 句乐部创始人 用游戏化的方式通过句子习得英语 谨慎体验 小心上瘾 | 百章 | Douyin](https://v.douyin.com/db2HKpQSCl4/)**
   - [句乐部的小高手 英语这么学就对了 重复重复再重复才是习得语言的秘诀 | 句乐部 | 认真学习的孩子 | 英语学习](https://v.douyin.com/peijB1BjDW0/)
   - [5分钟上手句乐部 | 新手不完全指北🚀 📱 今天给大家介绍句乐部的新手指北 🎯 这是一个专注于英语句型练习的在线学习平台,让我带你快速了解如何开始使用~
