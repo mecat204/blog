@@ -36,16 +36,28 @@
   * **[1000h](https://1000h.org/)**
 
 ---
-* **[阿崔cxr | 句乐部创始人 用游戏化的方式通过句子习得英语 谨慎体验 小心上瘾 | 百章 | Douyin](https://v.douyin.com/db2HKpQSCl4/)**
-  - [句乐部的小高手 英语这么学就对了 重复重复再重复才是习得语言的秘诀 | 句乐部 | 认真学习的孩子 | 英语学习](https://v.douyin.com/peijB1BjDW0/)
-  - [5分钟上手句乐部 | 新手不完全指北🚀 📱 今天给大家介绍句乐部的新手指北 🎯 这是一个专注于英语句型练习的在线学习平台,让我带你快速了解如何开始使用~
-    * 第一步：访问网站 - 打开浏览器输入网址即可开始体验 - 无需注册即可免费试玩多个精选课程
-    * 基础操作指南： - 空格键：来到下一个横线/提交答案/来到下一题 - Enter键：提交答案/进入下一题 - 超贴心的操作设计,让学习更顺畅！
-    * 完成试玩后： - 系统会展示你的学习数据 - 想继续学习?只需简单注册即可 - 支持手机号/邮箱/微信扫码三种方式
-    * 注册成功后可以： - 查看个人学习数据分析 - 绑定课程学习包 - 开启完整的学习之旅 💡 Tips:建议先试玩体验,喜欢再注册哦](https://v.douyin.com/vDaHgRqP7kg/)
-  - [再见，2025！ | 创始人故事 | 创业日记 | 句乐部 | 无痛学英语 | 学英语](https://v.douyin.com/LrW2fSHy77U/)
+* **[grammarly](https://www.grammarly.com/)**
 
 ---
+* **[TED  | Ideas change everything](https://www.ted.com/)**
+
+---
+* **[etym online | 在线词源词典 | 查询英语单词的词源、起源与历史演变](https://www.etymonline.com/)**
+
+---
+### 0002. Youtube
+* **English source**
+
+| 类型               | 名称                            | 简介                                        | 网址/频道链接                                                                                                                                                                                                      |
+| ---------------- | ----------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **分级阅读书籍**       | Oxford Bookworms Library      | 牛津大学出版社分级读物，从 A1 到 C1，共 270+ 部作品，适合不同英语水平 | [点击访问](https://elt.oup.com/catalogue/items/global/graded_readers/oxford_bookworms_library/?cc=global&selLanguage=en&srsltid=AfmBOopYutFr6NmJQC012PJDDm8Wnm76p9s7Mtm7klGxPsyvryTKzdtc&utm_source=chatgpt.com) |
+| **分级阅读书籍**       | Penguin Readers               | 企鹅出版社分级读物，涵盖小说、经典文学及非小说作品                 | [点击访问](https://www.penguinreaders.co.uk/?utm_source=chatgpt.com)                                                                                                                                             |
+| **分级阅读书籍**       | Cambridge English Readers     | 剑桥大学出版社出版的分级读物，多题材故事，适合兴趣和水平不同的学习者        | [点击访问](https://www.cambridge.org/elt/readers/default.asp?utm_source=chatgpt.com)                                                                                                                             |
+| **YouTube阅读/听力** | Brightly Storytime            | 儿童图画书朗读，每周更新，适合初学者听力和词汇积累                 | [点击访问](https://www.youtube.com/channel/UCvQagFNHMrGgQpYunk4rHXg?utm_source=chatgpt.com)                                                                                                                      |
+| **YouTube阅读/听力** | Storyline Online              | SAG-AFTRA基金会制作，知名演员朗读儿童图画书，提高听力理解         | [点击访问](https://www.youtube.com/storylineonline?utm_source=chatgpt.com)                                                                                                                                       |
+| **YouTube英语学习**  | English Addict with Mr Duncan | 覆盖语法、发音、拼写等内容，适合中级学习者                     | [点击访问](https://www.youtube.com/channel/UC8pPDhxSn1nee70LRKJ0p3g?utm_source=chatgpt.com)                                                                                                                      |
+| **YouTube英语学习**  | BBC Learning English          | BBC官方英语学习频道，包含新闻、电影、词汇等，适合提升听力和口语         | [点击访问](https://www.youtube.com/user/bbclearningenglish?utm_source=chatgpt.com)
+
 * **[linguamarina | 833万 | Youtube](https://www.youtube.com/@linguamarina)**
   - Co-founder of a language-learning platform Linguatrip, passionate about learning languages.
   - 语言学习平台Linguatrip的联合创始人，热衷于学习语言。
@@ -84,33 +96,17 @@
   - [Fix Your English Speaking in 150 Minutes](https://www.youtube.com/watch?v=Xg0dZdphmUU)
   - [120 Minutes of Real-World English Listening & Speaking Training](https://youtube.com/watch?v=1-kJsy_B4T4)
 
----
-* **[在线英语网课 | 课程涵盖: 零基础英语, 启蒙英语, 雅思口语, 商务英语 | 二千章 | Douyin](https://v.douyin.com/gp1CxFZ-ihY/)**
-  - [英语流利说英语，英语流利说英语水平测试，流利说app学英语靠谱吗，外教一对一网课，来看看学生真人外教上课视频，比线下划算！ 跟着外教老师学英语，快速提高英语水平！六个月后进步非常大，轻松和外教交流，经验分享给大家，| 跟着外教老师提高英语口语 | 英语流利说app](https://v.douyin.com/37zdZhEhzJM/)
-  - [新东方线上雅思网课，新东方线上雅思培训，雅思英语口语提升首选！外教1对1，25分钟纯英文对话+即时纠错，发音地道、自信开口。](https://v.douyin.com/5CVVaQZgPpM/)
-  - [51talk英语课程，51talk](https://v.douyin.com/kNnZmFrMVzU/)
+* **OTHER**
 
----
-* **[英语口语外教老师Lisa | 二千章 | ](https://v.douyin.com/EZW3DGFW1gc/)**
-  - [ 7岁娃的第一次外教课 ，线上一对一外教，半个小时沉浸式的英文环境，有输入有输出，有实时互动，而且还是一对一](https://v.douyin.com/i5yqbkg2rJ4/)
-  - [15岁初中生零基础学习英语口语，零基础外教英语，绝佳口语对话练习，与外教老师一对一练习英语，你会更快地进步，口语听力突飞猛进 |Teacher: Anna MaeA](https://v.douyin.com/QK9vQfesZ44/)
-  - [跟着对话外教教你学英语，跟外教一对一口语陪练，每天练习25分钟，零基础也能开口说流利英语，一起来看看四年级小学生真实上课实录](https://v.douyin.com/t38jmin-3yY/)
-  - [大学生跟着外教真实上雅思课实况，外教一对一网课，来看看学生真人外教上课视频，比线下划算！ 跟着外教老师学英语，快速提高雅思英语水平](https://v.douyin.com/CJe4M0Wc_J0/)
-
----
-* **[英语荷花老师 | 剑桥大学认证英语培训师、高途优秀主讲老师 | 美国公立学校优秀教师、 10年三国英语教学经验、 跟我学方法 听口很简单 | 三百章 | Douyin](https://v.douyin.com/Vg-W1zrfwHM/)**
-  - [成事者的两把钥匙：笑对麻烦，静避是非](https://v.douyin.com/fgSi9kHgwGo/)
-  - [游泳队出国前狂练口语…原来冠军也怕尬聊](https://v.douyin.com/FnlhLmSd008/)
-  - [6个让老外惊呆的地道表达](https://v.douyin.com/RGGHIDywfjQ/)
-
----
-* **[CC英语听读 | 每日英语文章分享,一起来打卡学习 |  百章 | Douyin](https://v.douyin.com/VQVWqMakCdo/)**
-  - [And i have learned that one important trait that distinguishes those who truly excel in life is hard work.](https://v.douyin.com/HL_dxJG0lUA/)
-  - [放松美好的生活。](https://v.douyin.com/7h-65W0Gj8I/)
-  - [付出才会有收获！](https://v.douyin.com/gkfcsJ1BGCA/)
-
----
-* **[grammarly](https://www.grammarly.com/)**
+| 类型               | 名称                            | 简介                                        | 网址/频道链接                                                                                                                                                                                                      |
+| ---------------- | ----------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **分级阅读书籍**       | Oxford Bookworms Library      | 牛津大学出版社分级读物，从 A1 到 C1，共 270+ 部作品，适合不同英语水平 | [点击访问](https://elt.oup.com/catalogue/items/global/graded_readers/oxford_bookworms_library/?cc=global&selLanguage=en&srsltid=AfmBOopYutFr6NmJQC012PJDDm8Wnm76p9s7Mtm7klGxPsyvryTKzdtc&utm_source=chatgpt.com) |
+| **分级阅读书籍**       | Penguin Readers               | 企鹅出版社分级读物，涵盖小说、经典文学及非小说作品                 | [点击访问](https://www.penguinreaders.co.uk/?utm_source=chatgpt.com)                                                                                                                                             |
+| **分级阅读书籍**       | Cambridge English Readers     | 剑桥大学出版社出版的分级读物，多题材故事，适合兴趣和水平不同的学习者        | [点击访问](https://www.cambridge.org/elt/readers/default.asp?utm_source=chatgpt.com)                                                                                                                             |
+| **YouTube阅读/听力** | Brightly Storytime            | 儿童图画书朗读，每周更新，适合初学者听力和词汇积累                 | [点击访问](https://www.youtube.com/channel/UCvQagFNHMrGgQpYunk4rHXg?utm_source=chatgpt.com)                                                                                                                      |
+| **YouTube阅读/听力** | Storyline Online              | SAG-AFTRA基金会制作，知名演员朗读儿童图画书，提高听力理解         | [点击访问](https://www.youtube.com/storylineonline?utm_source=chatgpt.com)                                                                                                                                       |
+| **YouTube英语学习**  | English Addict with Mr Duncan | 覆盖语法、发音、拼写等内容，适合中级学习者                     | [点击访问](https://www.youtube.com/channel/UC8pPDhxSn1nee70LRKJ0p3g?utm_source=chatgpt.com)                                                                                                                      |
+| **YouTube英语学习**  | BBC Learning English          | BBC官方英语学习频道，包含新闻、电影、词汇等，适合提升听力和口语         | [点击访问](https://www.youtube.com/user/bbclearningenglish?utm_source=chatgpt.com)
 
 ---
 * **[ETJ English | 113万 | Youtube](https://www.youtube.com/@etjenglish)**
@@ -180,7 +176,155 @@
   * **[How to Stay Motivated to Learn English in 2026! | 如何在2026年保持学习英语的动力！](https://www.youtube.com/watch?v=1knajL-wIjA)**
 
 ---
-* **[etym online | 在线词源词典 | 查询英语单词的词源、起源与历史演变](https://www.etymonline.com/)**
+* **[TED Archive | Youtube ](https://www.youtube.com/@TEDTalks)**
+  - Welcome to the TED Archive, a collection of all the talks from TED conferences from 1984 on.
+  - 欢迎来到TED档案馆，这里收录了自1984年以来所有TED会议的演讲。
+
+  ---
+  - This channel is arranged by conference and by session, featuring both talks that are already on TED.com along with newly posted, never-before-seen, unedited versions of archive talks.
+  - 该频道按会议和分会安排，包含已 TED.com 的两场演讲以及新发布、从未公开过、未经编辑的档案演讲版本。
+
+  ---
+  - Okay, not all the talks, because for various reasons we’ll never be able to publish them all.
+  - 好吧，不是所有演讲，因为各种原因我们永远无法全部发表。
+
+  ---
+  - But welcome to our as-comprehensive-as-possible work-in-progress; we’ll be working backward in time and adding talks from earlier conferences regularly, so check back often.
+  - 但欢迎来到我们尽可能全面的进行中;我们将倒推时间，定期添加早期会议的演讲，敬请经常回来查看。
+
+---
+* **[TEDx Talks | Youtube](https://www.youtube.com/@TEDx)**
+  - TEDx is an international community that organizes TED-style events anywhere and everywhere -- celebrating locally-driven ideas and elevating them to a global stage.
+  - TEDx是一个国际社区，组织类似TED的活动，地点和地点——庆祝本地驱动的理念，并将其提升到全球舞台。
+
+  ---
+  - TEDx events are produced independently of TED conferences, each event curates speakers on their own, but based on TED's format and rules.
+  - TEDx活动独立于TED会议制作，每个活动都会根据TED的形式和规则单独策划演讲嘉宾。
+
+  ---
+  - For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request here: https://media-requests.ted.com.
+  - 如需了解更多关于将TED用于商业目的的信息（例如员工学习、电影或在线课程），请在此提交媒体请求：https://media-requests.ted.com。
+
+---
+* **[Dr. Olivia Remes | Youtube](https://www.youtube.com/@dr.oliviaremes5962)**
+  - Hi!  I'm Dr. Olivia Remes and I'm a mental health researcher at the University of Cambridge.
+  - 你好！ 我是奥利维亚·雷梅斯博士，剑桥大学的心理健康研究员。
+
+  ---
+  - I have been researching anxiety, depression, and coping strategies for wellbeing and resilience for a long time, and I'm excited to share my content with you!
+  - 我一直在研究焦虑、抑郁以及关于健康和韧性的应对策略，现在很高兴能和大家分享我的内容！
+
+  ---
+  - I am also a life coach working with people to help them achieve their goals in life.
+  - 我也是一名生活教练，帮助人们实现人生目标。
+
+  ---
+  - Stay tuned for videos on coping strategies, how to take back control of your life, how to become confident, and much more!
+  - 敬请关注关于应对策略、如何重新掌控生活、如何变得自信等更多内容的视频!
+
+  ---
+  - [Feeling overwhelmed? Tips from Dr Olivia Remes ](https://www.youtube.com/watch?v=8-eUxk69r-I)
+  - [How to manage exam stress by Dr Olivia Remes](https://www.youtube.com/watch?v=Ni3VEgbvuhU)
+
+---
+* **[TED | Youtube](https://www.youtube.com/@TED)**
+  - The TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less).
+  - TED演讲频道汇集了TED大会上最精彩的演讲和表演，世界顶尖的思想家和实践者将在18分钟（或更短时间）内发表他们人生中最精彩的演讲。
+
+  ---
+  - Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more.
+  - 请关注关于科技、娱乐和设计的讲座——以及科学、商业、全球议题、艺术等。
+
+  ---
+  - You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know.
+  - 你可以链接或嵌入这些视频，转发给其他人，并与你认识的人分享这些想法。
+
+  ---
+  - TED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy.
+  - TED的视频可根据知识共享许可协议、署名-非商业-禁止衍生（或CC by – NC – ND 4.0 International）及我们的TED演讲使用政策：https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy 用于非商业目的。
+
+  ---
+  - For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com
+  - 如需了解更多关于将TED用于商业目的（如员工学习、电影或在线课程）的信息，请提交媒体请求 https://media-requests.ted.com
+
+---
+* **[How the Fridge Changed Food | Nicola Twilley | TED](https://www.youtube.com/watch?v=Mz1ItbiNqxw)**
+
+---
+* **[English Fluency Journey | 223万 | Youtube](https://www.youtube.com/@EnglishFluencyJourney)**
+  - I’m Anna and welcome to my channel.
+  - 我是安娜，欢迎来到我的频道。
+
+  ---
+  - Here, I post some useful information for English learners.
+  - 在这里，我发布了一些对英语学习者有用的信息。
+
+
+  - I’m from Ukraine and I’ve worked on my English and accent, for the most part, on my own, but you can find out and trace my story by watching my videos.
+  - 我来自乌克兰，大部分时间都是自己努力练习英语和口音的，但你可以通过观看我的视频了解并追踪我的故事。
+
+  ---
+  - I’ve been studying American pronunciation for a long time, and I still do, and I guess I always will.
+  - 我研究美式发音已经很久了，现在依然如此，我想我永远都会继续。
+
+  ---
+  - Learning a language, it’s a lifetime journey.
+  - 学习一门语言，是一段终身的旅程。
+
+
+  - I know exactly what it takes to become fluent and acquire an accent in a non-English speaking country.
+  - 我完全清楚在非英语国家要流利说话并学会口音需要什么。
+
+  ---
+  - ♡Instagram page - https://www.instagram.com/englishfluencyjourney?igsh=cjgzZzQ2bzBla3dq
+  - ♡Facebook page - English Fluency Journey
+  - TikTok- www.tiktok.com/@englishfluencyjourney Amazon Wish List: https://www.amazon.com/hz/wishlist/ls/AWSROCO8IQ4N?ref_=wl_share
+  - Contact for collaboration: englishfluencyjourney@gmail.com
+
+  ---
+  - ♡ Instagram主页 - https://www.instagram.com/englishfluencyjourney?igsh=cjgzZzQ2bzBla3dq ♡
+- Facebook主页 - 英语流利之旅 TikTok - www.tiktok.com/@englishfluencyjourney
+  - 亚马逊愿望单： https://www.amazon.com/hz/wishlist/ls/AWSROCO8IQ4N?ref_=wl_share
+  - 合作联系方式：englishfluencyjourney@gmail.com
+
+---
+* **[English Fluency Journey | Hanna Khoma](https://www.englishfluencyjourney.com/)**
+
+---
+### 0003. Douyin
+* **[在线英语网课 | 课程涵盖: 零基础英语, 启蒙英语, 雅思口语, 商务英语 | 二千章 | Douyin](https://v.douyin.com/gp1CxFZ-ihY/)**
+  - [英语流利说英语，英语流利说英语水平测试，流利说app学英语靠谱吗，外教一对一网课，来看看学生真人外教上课视频，比线下划算！ 跟着外教老师学英语，快速提高英语水平！六个月后进步非常大，轻松和外教交流，经验分享给大家，| 跟着外教老师提高英语口语 | 英语流利说app](https://v.douyin.com/37zdZhEhzJM/)
+  - [新东方线上雅思网课，新东方线上雅思培训，雅思英语口语提升首选！外教1对1，25分钟纯英文对话+即时纠错，发音地道、自信开口。](https://v.douyin.com/5CVVaQZgPpM/)
+  - [51talk英语课程，51talk](https://v.douyin.com/kNnZmFrMVzU/)
+
+---
+* **[英语口语外教老师Lisa | 二千章 | ](https://v.douyin.com/EZW3DGFW1gc/)**
+  - [ 7岁娃的第一次外教课 ，线上一对一外教，半个小时沉浸式的英文环境，有输入有输出，有实时互动，而且还是一对一](https://v.douyin.com/i5yqbkg2rJ4/)
+  - [15岁初中生零基础学习英语口语，零基础外教英语，绝佳口语对话练习，与外教老师一对一练习英语，你会更快地进步，口语听力突飞猛进 |Teacher: Anna MaeA](https://v.douyin.com/QK9vQfesZ44/)
+  - [跟着对话外教教你学英语，跟外教一对一口语陪练，每天练习25分钟，零基础也能开口说流利英语，一起来看看四年级小学生真实上课实录](https://v.douyin.com/t38jmin-3yY/)
+  - [大学生跟着外教真实上雅思课实况，外教一对一网课，来看看学生真人外教上课视频，比线下划算！ 跟着外教老师学英语，快速提高雅思英语水平](https://v.douyin.com/CJe4M0Wc_J0/)
+
+---
+* **[英语荷花老师 | 剑桥大学认证英语培训师、高途优秀主讲老师 | 美国公立学校优秀教师、 10年三国英语教学经验、 跟我学方法 听口很简单 | 三百章 | Douyin](https://v.douyin.com/Vg-W1zrfwHM/)**
+  - [成事者的两把钥匙：笑对麻烦，静避是非](https://v.douyin.com/fgSi9kHgwGo/)
+  - [游泳队出国前狂练口语…原来冠军也怕尬聊](https://v.douyin.com/FnlhLmSd008/)
+  - [6个让老外惊呆的地道表达](https://v.douyin.com/RGGHIDywfjQ/)
+
+---
+* **[CC英语听读 | 每日英语文章分享,一起来打卡学习 |  百章 | Douyin](https://v.douyin.com/VQVWqMakCdo/)**
+  - [And i have learned that one important trait that distinguishes those who truly excel in life is hard work.](https://v.douyin.com/HL_dxJG0lUA/)
+  - [放松美好的生活。](https://v.douyin.com/7h-65W0Gj8I/)
+  - [付出才会有收获！](https://v.douyin.com/gkfcsJ1BGCA/)
+
+---
+* **[阿崔cxr | 句乐部创始人 用游戏化的方式通过句子习得英语 谨慎体验 小心上瘾 | 百章 | Douyin](https://v.douyin.com/db2HKpQSCl4/)**
+  - [句乐部的小高手 英语这么学就对了 重复重复再重复才是习得语言的秘诀 | 句乐部 | 认真学习的孩子 | 英语学习](https://v.douyin.com/peijB1BjDW0/)
+  - [5分钟上手句乐部 | 新手不完全指北🚀 📱 今天给大家介绍句乐部的新手指北 🎯 这是一个专注于英语句型练习的在线学习平台,让我带你快速了解如何开始使用~
+    * 第一步：访问网站 - 打开浏览器输入网址即可开始体验 - 无需注册即可免费试玩多个精选课程
+    * 基础操作指南： - 空格键：来到下一个横线/提交答案/来到下一题 - Enter键：提交答案/进入下一题 - 超贴心的操作设计,让学习更顺畅！
+    * 完成试玩后： - 系统会展示你的学习数据 - 想继续学习?只需简单注册即可 - 支持手机号/邮箱/微信扫码三种方式
+    * 注册成功后可以： - 查看个人学习数据分析 - 绑定课程学习包 - 开启完整的学习之旅 💡 Tips:建议先试玩体验,喜欢再注册哦](https://v.douyin.com/vDaHgRqP7kg/)
+  - [再见，2025！ | 创始人故事 | 创业日记 | 句乐部 | 无痛学英语 | 学英语](https://v.douyin.com/LrW2fSHy77U/)
 
 ---
 * **[茵茵老师 | 一名一线英语教书匠 | 五百章 | Douyin](https://v.douyin.com/APnunC4tVXM/)**
@@ -330,124 +474,6 @@
 * **[Steve Kaufmann | 五十章 | Douyin](https://v.douyin.com/TxLEBUqeOUw/)**
   - [跨过心理障碍](https://v.douyin.com/MBMVC1WAaBI/)
   - 学语言害怕开口？这招帮你轻松跨过心理障碍 很多人把说错一句话看得太严重，结果越想避免错误，心理负担就越重。反而，那些敢于多听、多读、多试的学习者，更快突破了心理障碍。 这也印证了心理语言学里的一个理论： 📖 Affective Filter Hypothesis（情感过滤假说） —— 当我们焦虑、紧张时，大脑对语言的吸收效率会下降；而在放松、愉快的状态下，我们更容易习得语言。
-
----
-* **[TED Archive | Youtube ](https://www.youtube.com/@TEDTalks)**
-  - Welcome to the TED Archive, a collection of all the talks from TED conferences from 1984 on*.
-  - 欢迎来到TED档案馆，这里收录了自1984年以来所有TED会议的演讲*。
-
-  ---
-  - This channel is arranged by conference and by session, featuring both talks that are already on TED.com along with newly posted, never-before-seen, unedited versions of archive talks.
-  - 该频道按会议和分会安排，包含已 TED.com 的两场演讲以及新发布、从未公开过、未经编辑的档案演讲版本。
-
-  ---
-  - Okay, not all the talks, because for various reasons we’ll never be able to publish them all.
-  - 好吧，不是所有演讲，因为各种原因我们永远无法全部发表。
-
-  ---
-  - But welcome to our as-comprehensive-as-possible work-in-progress; we’ll be working backward in time and adding talks from earlier conferences regularly, so check back often.
-  - 但欢迎来到我们尽可能全面的进行中;我们将倒推时间，定期添加早期会议的演讲，敬请经常回来查看。
-
----
-* **[TEDx Talks | Youtube](https://www.youtube.com/@TEDx)**
-  - TEDx is an international community that organizes TED-style events anywhere and everywhere -- celebrating locally-driven ideas and elevating them to a global stage.
-  - TEDx是一个国际社区，组织类似TED的活动，地点和地点——庆祝本地驱动的理念，并将其提升到全球舞台。
-
-  ---
-  - TEDx events are produced independently of TED conferences, each event curates speakers on their own, but based on TED's format and rules.
-  - TEDx活动独立于TED会议制作，每个活动都会根据TED的形式和规则单独策划演讲嘉宾。
-
-  ---
-  - For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request here: https://media-requests.ted.com.
-  - 如需了解更多关于将TED用于商业目的的信息（例如员工学习、电影或在线课程），请在此提交媒体请求：https://media-requests.ted.com。
-
----
-* **[TED  | Ideas change everything](https://www.ted.com/)**
-
----
-* **[Dr. Olivia Remes | Youtube](https://www.youtube.com/@dr.oliviaremes5962)**
-  - Hi!  I'm Dr. Olivia Remes and I'm a mental health researcher at the University of Cambridge.
-  - 你好！ 我是奥利维亚·雷梅斯博士，剑桥大学的心理健康研究员。
-
-  ---
-  - I have been researching anxiety, depression, and coping strategies for wellbeing and resilience for a long time, and I'm excited to share my content with you!
-  - 我一直在研究焦虑、抑郁以及关于健康和韧性的应对策略，现在很高兴能和大家分享我的内容！
-
-  ---
-  - I am also a life coach working with people to help them achieve their goals in life.
-  - 我也是一名生活教练，帮助人们实现人生目标。
-
-  ---
-  - Stay tuned for videos on coping strategies, how to take back control of your life, how to become confident, and much more!
-  - 敬请关注关于应对策略、如何重新掌控生活、如何变得自信等更多内容的视频!
-
-  ---
-  - [Feeling overwhelmed? Tips from Dr Olivia Remes ](https://www.youtube.com/watch?v=8-eUxk69r-I)
-  - [How to manage exam stress by Dr Olivia Remes](https://www.youtube.com/watch?v=Ni3VEgbvuhU)
-
----
-* **[TED | Youtube](https://www.youtube.com/@TED)**
-  - The TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less).
-  - TED演讲频道汇集了TED大会上最精彩的演讲和表演，世界顶尖的思想家和实践者将在18分钟（或更短时间）内发表他们人生中最精彩的演讲。
-
-  ---
-  - Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more.
-  - 请关注关于科技、娱乐和设计的讲座——以及科学、商业、全球议题、艺术等。
-
-  ---
-  - You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know.
-  - 你可以链接或嵌入这些视频，转发给其他人，并与你认识的人分享这些想法。
-
-  ---
-  - TED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy.
-  - TED的视频可根据知识共享许可协议、署名-非商业-禁止衍生（或CC by – NC – ND 4.0 International）及我们的TED演讲使用政策：https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy 用于非商业目的。
-
-  ---
-  - For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com
-  - 如需了解更多关于将TED用于商业目的（如员工学习、电影或在线课程）的信息，请提交媒体请求 https://media-requests.ted.com
-
----
-* **[How the Fridge Changed Food | Nicola Twilley | TED](https://www.youtube.com/watch?v=Mz1ItbiNqxw)**
-
----
-* **[English Fluency Journey | 223万 | Youtube](https://www.youtube.com/@EnglishFluencyJourney)**
-  - I’m Anna and welcome to my channel.
-  - 我是安娜，欢迎来到我的频道。
-
-  ---
-  - Here, I post some useful information for English learners.
-  - 在这里，我发布了一些对英语学习者有用的信息。
-
-
-  - I’m from Ukraine and I’ve worked on my English and accent, for the most part, on my own, but you can find out and trace my story by watching my videos.
-  - 我来自乌克兰，大部分时间都是自己努力练习英语和口音的，但你可以通过观看我的视频了解并追踪我的故事。
-
-  ---
-  - I’ve been studying American pronunciation for a long time, and I still do, and I guess I always will.
-  - 我研究美式发音已经很久了，现在依然如此，我想我永远都会继续。
-
-  ---
-  - Learning a language, it’s a lifetime journey.
-  - 学习一门语言，是一段终身的旅程。
-
-
-  - I know exactly what it takes to become fluent and acquire an accent in a non-English speaking country.
-  - 我完全清楚在非英语国家要流利说话并学会口音需要什么。
-
-  ---
-  - ♡Instagram page - https://www.instagram.com/englishfluencyjourney?igsh=cjgzZzQ2bzBla3dq
-  - ♡Facebook page - English Fluency Journey
-  - TikTok- www.tiktok.com/@englishfluencyjourney Amazon Wish List: https://www.amazon.com/hz/wishlist/ls/AWSROCO8IQ4N?ref_=wl_share
-  - Contact for collaboration: englishfluencyjourney@gmail.com
-
-  ---
-  - ♡ Instagram主页 - https://www.instagram.com/englishfluencyjourney?igsh=cjgzZzQ2bzBla3dq ♡
-- Facebook主页 - 英语流利之旅 TikTok - www.tiktok.com/@englishfluencyjourney
-  - 亚马逊愿望单： https://www.amazon.com/hz/wishlist/ls/AWSROCO8IQ4N?ref_=wl_share
-  - 合作联系方式：englishfluencyjourney@gmail.com
-
----
-* **[English Fluency Journey | Hanna Khoma](https://www.englishfluencyjourney.com/)**
 
 ---
 * **[欧美外教在线一对一口语 | 零基础英语 | 启蒙英语 | 雅思口语 | 零基础英语 | 商务英语 | 二千章 | Douyin](https://v.douyin.com/dtwC1ZGrWxQ/)**
@@ -948,77 +974,6 @@
   - [Stay Positive](https://v.douyin.com/Fs7yCuKHrC8/)
   - [Why Learn English](https://v.douyin.com/7FqKgEz6aOA/)
   - [what is wasted time](https://v.douyin.com/SMyH1iygFnY/)
-
-
----
-### 0002. English source
-* **English source**
-
-| 类型               | 名称                            | 简介                                        | 网址/频道链接                                                                                                                                                                                                      |
-| ---------------- | ----------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **分级阅读书籍**       | Oxford Bookworms Library      | 牛津大学出版社分级读物，从 A1 到 C1，共 270+ 部作品，适合不同英语水平 | [点击访问](https://elt.oup.com/catalogue/items/global/graded_readers/oxford_bookworms_library/?cc=global&selLanguage=en&srsltid=AfmBOopYutFr6NmJQC012PJDDm8Wnm76p9s7Mtm7klGxPsyvryTKzdtc&utm_source=chatgpt.com) |
-| **分级阅读书籍**       | Penguin Readers               | 企鹅出版社分级读物，涵盖小说、经典文学及非小说作品                 | [点击访问](https://www.penguinreaders.co.uk/?utm_source=chatgpt.com)                                                                                                                                             |
-| **分级阅读书籍**       | Cambridge English Readers     | 剑桥大学出版社出版的分级读物，多题材故事，适合兴趣和水平不同的学习者        | [点击访问](https://www.cambridge.org/elt/readers/default.asp?utm_source=chatgpt.com)                                                                                                                             |
-| **YouTube阅读/听力** | Brightly Storytime            | 儿童图画书朗读，每周更新，适合初学者听力和词汇积累                 | [点击访问](https://www.youtube.com/channel/UCvQagFNHMrGgQpYunk4rHXg?utm_source=chatgpt.com)                                                                                                                      |
-| **YouTube阅读/听力** | Storyline Online              | SAG-AFTRA基金会制作，知名演员朗读儿童图画书，提高听力理解         | [点击访问](https://www.youtube.com/storylineonline?utm_source=chatgpt.com)                                                                                                                                       |
-| **YouTube英语学习**  | English Addict with Mr Duncan | 覆盖语法、发音、拼写等内容，适合中级学习者                     | [点击访问](https://www.youtube.com/channel/UC8pPDhxSn1nee70LRKJ0p3g?utm_source=chatgpt.com)                                                                                                                      |
-| **YouTube英语学习**  | BBC Learning English          | BBC官方英语学习频道，包含新闻、电影、词汇等，适合提升听力和口语         | [点击访问](https://www.youtube.com/user/bbclearningenglish?utm_source=chatgpt.com)
-
----
-### 0003. Youtube&&Book
-* **[智慧猫-Wisdom Cat](https://www.youtube.com/@wisdomcat369/videos)**
-  - [《超級思維》心智模型全解析](https://www.youtube.com/watch?v=kX8_uexJGE8)
-  - [Ego Is the Enemy](https://www.youtube.com/watch?v=JnNUjFm4new)
-
----
-* **[猿猿松](https://www.youtube.com/@%E7%8C%BF%E7%8C%BF%E6%9D%BE)**
-  - [US KG](https://www.youtube.com/watch?v=n3DqoNPKKD4)
-
----
-* **[明朝那些事](https://www.youtube.com/watch?v=uuMgENVoTcY)**
-
----
-* **[剧天下](https://www.youtube.com/@TVWorld001)**
-  - [叶卡捷琳娜](https://www.youtube.com/watch?v=9nBNax55628)
-
----
-* **[光影二三事](https://www.youtube.com/@guangying23shi)**
- - [爱之蔓延](https://www.youtube.com/watch?v=Vhf5RddV_Go)
-
----
-* **[迪仔Dizzz](https://www.youtube.com/@dizzz395)**
-
----
-* **[零度解说](https://www.youtube.com/@lingdujieshuo)**
-
----
-* **[威廉说](https://www.youtube.com/@%E5%A8%81%E5%BB%89%E8%AF%B4/videos)**
-
----
-* **[sev7en](https://www.youtube.com/@imrockwall/videos)**
-
----
-* **[技术爬爬虾](https://v.douyin.com/GGudiW2Vtgw/)**
-  - [Follow-抖音介绍](https://www.douyin.com/video/7439690126139198759)
-
----
-* **[IDM-開封明](https://www.youtube.com/@%E9%96%8B%E5%B0%81%E6%98%8E)**
-
----
-* **[Find Interesting AI](https://www.youtube.com/@architect-felix/videos)**
-  - [OCR技术总结](https://www.youtube.com/watch?v=jeXKlagSazI)
-  - [3款最新的免费数字人项目](https://www.youtube.com/watch?v=t25ZM6bo5s4)
-
----
-* **[大數軟體有限公司](https://www.youtube.com/@Largitdata)**
-
----
-* **[Anil Agrawal](https://www.youtube.com/@AnilAgrawal)**
-  - [Jogg AI Review](https://www.youtube.com/watch?v=B9rjVXGJfpk)
-
----
-* **[PAPAYA 電腦教室](https://www.youtube.com/@papayaclass)**
-  - [Suno AI 作曲](https://www.youtube.com/watch?v=TlRUg9lCKYY)
 
 ---
 ### 0004. College and University
