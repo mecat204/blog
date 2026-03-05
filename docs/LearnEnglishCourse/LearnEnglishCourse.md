@@ -19,6 +19,27 @@
 ### 0001. English Resource
 * **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
 
+  **movie**
+  - [巴别英语-看美剧学英语 | **巴别英语**](https://www.babelabc.com/)
+  - [**Let Me English**](https://letmeenglish.com/zh-hans/)
+    * [**听力训练**](https://letmeenglish.com/zh-hans/listening/)
+
+  ---
+  **新概念英语:**
+  - [**西瓜英语** | **新概念英语学习**](https://learnenai.com/)
+  - [**新概念英语** | NCE.ICHOCHY](https://nce.ichochy.com/)
+
+  ---
+  **语法:**
+  - [**英语语法**](https://hzpt-inet-club.github.io/english-note/)
+  - [**语法俱乐部**](https://llwslc.github.io/grammar-club/content/Preface.html)
+  - [极速英语提供【英语零基础自学教材】 | 详细的、完全免费的英语学习笔记_夸克英语笔记](https://www.ncego.com/)
+
+  ---
+  **Book:**
+  - [**American Literature** |Short Stories & Classic Literature for Readers & Teachers](https://americanliterature.com/)
+  - [bilinguis.com | 免费双语读物](http://zh.bilinguis.com/)
+
 ---
 * **[英语学习资源导航 | 全网最全](https://en.knowledgefxg.com/)**
 
@@ -58,6 +79,10 @@
 | **YouTube英语学习**  | English Addict with Mr Duncan | 覆盖语法、发音、拼写等内容，适合中级学习者                     | [点击访问](https://www.youtube.com/channel/UC8pPDhxSn1nee70LRKJ0p3g?utm_source=chatgpt.com)                                                                                                                      |
 | **YouTube英语学习**  | BBC Learning English          | BBC官方英语学习频道，包含新闻、电影、词汇等，适合提升听力和口语         | [点击访问](https://www.youtube.com/user/bbclearningenglish?utm_source=chatgpt.com)
 
+---
+* **[BBC Earth](https://www.youtube.com/@bbcearth)**
+
+---
 * **[linguamarina | 833万 | Youtube](https://www.youtube.com/@linguamarina)**
   - Co-founder of a language-learning platform Linguatrip, passionate about learning languages.
   - 语言学习平台Linguatrip的联合创始人，热衷于学习语言。
@@ -291,6 +316,54 @@
 * **[English Fluency Journey | Hanna Khoma](https://www.englishfluencyjourney.com/)**
 
 ---
+* **[ElenaLin_青青 | Youtube](https://www.youtube.com/@ElenaLin)**
+
+---
+* **[英语能力突破 | Youtube](https://www.youtube.com/@stars2046/playlists)**
+  - **[英语能力突破_100个句子记完7000个雅思单词](https://www.youtube.com/watch?v=lob44iOFNYE&list=PLH8j2mKj10K1G7XjDvaG2hMXwNv36CioN)**
+
+---
+* **[熊熊英语 | Youtube](https://www.youtube.com/@OneHourListen/videos)**
+
+---
+* **[零基础学习英语 |  牛津书虫第一期 | Youtube](https://www.youtube.com/watch?v=LttbCdk_A1M&list=PLYHYHpYmp4ZHrhXn21ry3sb5qci13DtSa&index=1)**
+
+---
+* **[michelelepe | Youtube](https://www.youtube.com/@michelelepe)**
+
+---
+* **[Little Reading Bug's Bilingual Channel | 小书虫的双语频道 | Youtube](https://www.youtube.com/@littlereadingbugsbilingual539/videos)**
+
+---
+* **[English Unleashed: The Podcast | 115万 | Youtube](https://www.youtube.com/@EnglishPodcastUnleashed/videos)**
+  - Welcome to English Unleashed: The Podcast.
+  - 欢迎收听《English Unleashed：播客》。
+
+  ---
+  - We are a group of language educators and researchers with more than 20 years of experience teaching English in Europe, the UK, Middle East and Austraila.
+  - 我们是一群拥有超过20年在欧洲、英国、中东和澳大利亚教授英语的语言教育者和研究人员。
+
+  ---
+  - In every episode, we (Tom and Sarah) speak slowly and clearly, so you can listen, understand, and speak along with us.
+  - 在每一集中，我们（汤姆和莎拉）都说得慢而清晰，这样你可以倾听、理解并与我们一起交流。
+
+  ---
+  - We share educational conversations, useful sentences, everyday expressions, and emotional language — all designed to help you sound more natural.
+  - 我们分享教育性对话、实用句子、日常表达和情感语言——所有这些都旨在帮助你听起来更自然。
+
+  ---
+  - You’ll also get learning tips and simple strategies to improve your English faster and with more confidence 🎧
+  - 你还将获得学习技巧和简单的策略，帮助你更快、更有信心 🎧地提升英语水平
+
+  ---
+  - Learn the phrases native speakers use 🗣️ Practice with us — shadowing, speaking, understanding 💡 Get clear advice for building fluency Perfect for pre-intermediate to advanced learners who want to go beyond grammar — and truly speak English with feeling.
+  - 学习母语者常用 🗣️的短语 与我们一起练习——跟随学习、口语、理解 💡 获取清晰的流利度建设建议 非常适合想要超越语法的中高级学习者——并真正用感情表达英语。
+
+  ---
+  - All rights reserved © Educational Video Productions.
+  - 版权所有，版权所有©：教育视频制作公司。
+
+---
 ### 0003. Douyin
 * **[在线英语网课 | 课程涵盖: 零基础英语, 启蒙英语, 雅思口语, 商务英语 | 二千章 | Douyin](https://v.douyin.com/gp1CxFZ-ihY/)**
   - [英语流利说英语，英语流利说英语水平测试，流利说app学英语靠谱吗，外教一对一网课，来看看学生真人外教上课视频，比线下划算！ 跟着外教老师学英语，快速提高英语水平！六个月后进步非常大，轻松和外教交流，经验分享给大家，| 跟着外教老师提高英语口语 | 英语流利说app](https://v.douyin.com/37zdZhEhzJM/)
@@ -434,17 +507,7 @@
   - [英语学习资源导航](https://en.knowledgefxg.com/)
 
 ---
-* **[ElenaLin_青青 | Youtube](https://www.youtube.com/@ElenaLin)**
-
----
-* **[英语能力突破 | Youtube](https://www.youtube.com/@stars2046/playlists)**
-  - **[英语能力突破_100个句子记完7000个雅思单词](https://www.youtube.com/watch?v=lob44iOFNYE&list=PLH8j2mKj10K1G7XjDvaG2hMXwNv36CioN)**
-
----
 * **[BigShot英语 | 五百章 | Douyin](https://v.douyin.com/6Oo1jTjwdM0/)**
-
----
-* **[熊熊英语 | Youtube](https://www.youtube.com/@OneHourListen/videos)**
 
 ---
 * **[Felix英语 | 千章 | Douyin](https://v.douyin.com/LuaEhzr_HZc/)**
@@ -584,19 +647,14 @@
   - [没有语言环境如何学好英语？这3个习惯一定要养成 避免踩坑](https://v.douyin.com/kVvrsm8ERo0/)
 
 ---
-* **[Linda老师英文故事](https://v.douyin.com/1kltKx3OtS8/)**
-  - [英语启蒙](https://v.douyin.com/Dc6oAsuCwEg/)
-  - 每天5分钟！用故事打造娃的"英语耳朵"，听说读能力全提升
+* **[Linda老师英文故事 | 知名IB国际学校一线老师 | 创动画片分级教学体系 | 英语启蒙 | 美式教育 | 同步IB国际学校课堂 | 三百章 | Douyin](https://v.douyin.com/1kltKx3OtS8/)**
+  - [每天5分钟！用故事打造娃的"英语耳朵"，听说读能力全提升 | 英语启蒙](https://v.douyin.com/Dc6oAsuCwEg/)
 
 ---
-* **[英语磨耳朵：如何寻找人生方向并明确自己的追求](https://v.douyin.com/PkE0mrjAIhc/)**
-
----
-* **[Daisy学姐的英语书房](https://v.douyin.com/S7ZB8JKi5ck/)**
-  - [英语思维 学习语言的秘诀就是………](https://v.douyin.com/f45yTnpngRU/)
-
----
-* **[BBC Earth](https://www.youtube.com/@bbcearth)**
+* **[木木英语 | 📚英语爱好者 🧸努力学习英语中 ❤️好好吃饭💛好好睡觉 | 好好生活 | 二百章 | Douyin](https://v.douyin.com/QZzJk4kA2NE/)**
+  - **[英语磨耳朵：如何寻找人生方向并明确自己的追求](https://v.douyin.com/PkE0mrjAIhc/)**
+  - [英语磨耳朵：春节中国最重要的传统节日](https://v.douyin.com/bdWxc9528QA/)
+  - [中国茶文化](https://v.douyin.com/puToofDaqWw/)
 
 ---
 * **[久别辞 | 世界上任何书籍都不能带给你好运 但是它能让你悄悄成为自己 读过同一本书，就是我们最好的相逢。 | 二百章 | Douyin](https://v.douyin.com/-M5R0fs46Mo/)**
@@ -637,15 +695,6 @@
   - [外国人用英文吵架](https://v.douyin.com/DhhaaKhGd4M/)
   - [外国同学用中文吵架belike](https://v.douyin.com/raYtftsMbCU/)
   - [外国同学用中文吵架belike | 留学生精神状态belike](https://v.douyin.com/raYtftsMbCU/)
-
----
-* **[零基础学习英语 |  牛津书虫第一期 | Youtube](https://www.youtube.com/watch?v=LttbCdk_A1M&list=PLYHYHpYmp4ZHrhXn21ry3sb5qci13DtSa&index=1)**
-
----
-* **[michelelepe | Youtube](https://www.youtube.com/@michelelepe)**
-
----
-* **[Little Reading Bug's Bilingual Channel | 小书虫的双语频道 | Youtube](https://www.youtube.com/@littlereadingbugsbilingual539/videos)**
 
 ---
 * **[杰瑞姐姐 | 如果所有人都理解你，那你得普通成什么样 | 五百章 | Douyin](https://v.douyin.com/O36gRkr4zi4/)**
@@ -877,37 +926,9 @@
   - **[马云莫斯科大学英文演讲](https://v.douyin.com/edLf0AjLe50/)**
   - **[奥巴马语录： 1.一个声音能改变一个房间，进而改变一座城市、一个国家，乃至世界，你的声音也能改变世界 2.未来会回报那些坚持不懈的人，我没时间自怨自艾，没时间抱怨，我要继续前进 3.如果你走在正确的道路上，并且愿意坚持走下去，最终你一定会取得进步 4.别让失败定义你，要让它教会你成长，告诉你下次该如何改进 5.改变不会等来，我们就是自己一直在等待的人，我们就是自己所追求的改变 6.摆脱绝望的最佳方式是起身行动，别等好事降临，主动去创造，你会为世界和自己注入希望 7.卓越从不是天赋，而是靠努力赢得 8.除非你愿意尽自己的一份微薄之力，为所有孩子留下一个更美好的世界，否则生命的意义将大打折扣 9.保持探索、保持梦想、保持追问，别满足于已知，永远相信你的想法、想象力与努力能改变世界 10.无论你已成就多少、多么成功，总有更多事要做、更多知识要学、更多目标要达成](https://v.douyin.com/0IuQifieVkk/)**
   * **[罗斯福语录： 1.我们唯一值得恐惧的就是恐惧本身 2.规则不一定是神圣的，原则才是 3.真正的自由不能被赋予，它必须被争取 4.自由意味着人权在任何地方都处于至高无上的地位 5.如果失败，就坦率承认并尝试另一种。但最重要的是，要有所行动 6.伟大的代价就是责任 7.许多事情都有助于任务完成，但这些决不包括空谈。我们必须行动，立即行动 8.前进的道路有很多，但停滞不前的道路只有一条 9.人生好比橄榄球比赛，原则就是：奋力冲向底线 10.真正的个人自由，只有在经济安全和独立的基础上才能存在 11.实力永远意味着责任和危险 12.失败是痛苦的，更糟的是从来没有去争取成功 13.没有书籍，就不能打赢思想之战，正如没有军舰就不能打赢海战一样 14.检验我们进步的标准，不在于我们为那些富足的人增加了多少财富，而在于我们是15.否为那些一无所有的人提供了充足的保障](https://v.douyin.com/xHckRKq93Rg/)**
-  * **[韩国国父李承晚 被称为半岛的罪人，死后被韩国民众拒绝归国，始终在民调中位列最不受欢迎的总统之一 # 李承晚](https://v.douyin.com/ZdNSoGB1Tgo/)**
+  * **[韩国国父李承晚 被称为半岛的罪人，死后被韩国民众拒绝归国，始终在民调中位列最不受欢迎的总统之一 | 李承晚](https://v.douyin.com/ZdNSoGB1Tgo/)**
 
 ---
-* **[English Unleashed: The Podcast | 115万 | Youtube](https://www.youtube.com/@EnglishPodcastUnleashed/videos)**
-  - Welcome to English Unleashed: The Podcast.
-  - 欢迎收听《English Unleashed：播客》。
-
-  ---
-  - We are a group of language educators and researchers with more than 20 years of experience teaching English in Europe, the UK, Middle East and Austraila.
-  - 我们是一群拥有超过20年在欧洲、英国、中东和澳大利亚教授英语的语言教育者和研究人员。
-
-  ---
-  - In every episode, we (Tom and Sarah) speak slowly and clearly, so you can listen, understand, and speak along with us.
-  - 在每一集中，我们（汤姆和莎拉）都说得慢而清晰，这样你可以倾听、理解并与我们一起交流。
-
-  ---
-  - We share educational conversations, useful sentences, everyday expressions, and emotional language — all designed to help you sound more natural.
-  - 我们分享教育性对话、实用句子、日常表达和情感语言——所有这些都旨在帮助你听起来更自然。
-
-  ---
-  - You’ll also get learning tips and simple strategies to improve your English faster and with more confidence 🎧
-  - 你还将获得学习技巧和简单的策略，帮助你更快、更有信心 🎧地提升英语水平
-
-  ---
-  - Learn the phrases native speakers use 🗣️ Practice with us — shadowing, speaking, understanding 💡 Get clear advice for building fluency Perfect for pre-intermediate to advanced learners who want to go beyond grammar — and truly speak English with feeling.
-  - 学习母语者常用 🗣️的短语 与我们一起练习——跟随学习、口语、理解 💡 获取清晰的流利度建设建议 非常适合想要超越语法的中高级学习者——并真正用感情表达英语。
-
-  ---
-  - All rights reserved © Educational Video Productions.
-  - 版权所有，版权所有©：教育视频制作公司。
-
 * **[每天半小时英语跟读练习 | You want to learn English in an easy and interesting way? I use simple stories to help you learn new vocabulay and improve you listening skills. you'll learn english while having fun! Subscribe to start your learning journey. | 百章 | Douyin](https://v.douyin.com/4MX9E6sqlws/)**
   - **[查看抖音 | AI笔记- 英语播客13th - 50 useful phases](https://v.douyin.com/3ZokdAudJz0/)**
   - **[This is how I started speaking](https://v.douyin.com/ntFnGnDBU6g/)**

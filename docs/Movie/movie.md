@@ -43,6 +43,10 @@
   - **[libvio.vip](https://libvio.vip/)**
 
   ---
+  * **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
+    - **[Kimivod | 電視劇 電影 動漫 綜藝 線上看](https://kimivod.com/)**
+
+  ---
   * **NetflixGC**
   - **[NetflixGC | 奈飞工厂-一个致力于免费提供Netflix影剧动漫的流媒体播放平台](https://www.netflixgc.com/)**
 
