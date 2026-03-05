@@ -117,6 +117,7 @@
   ---
   - [曾经最极致的浪漫，千年绝技——打铁花。](https://www.youtube.com/watch?v=HiJiAcwe9pk)
 
+---
 * **[江寻千 (九月) | 莫听穿林打叶声 何妨吟啸且徐行 | 三百章 | Douyin](https://v.douyin.com/S2ENUvEPBJQ/)**
   - [三书六聘十里红妆，带你去看一场真正的中式婚礼. 传世婚服 | 拼酷十里红妆| 拼酷大花轿 濮院时尚古镇 中式婚礼主持人张博](https://v.douyin.com/9NqrnTRJdpk/)
   - [耗时1年零4个月，我用云锦做了一件传世婚服。 | 滴露衣物消毒液 | 传世婚服 | 云锦](https://v.douyin.com/ZZx-30rhdw8/)
@@ -191,6 +192,16 @@
   - [跟外教老师练口语，提升你的英语水平](https://v.douyin.com/MMgIQU9fmuo/)
   - [萌娃跟外教老师一对一学习英语，坚持2年，进步很大！ | 外教一对一  | 外教英语  | 英语启蒙](https://v.douyin.com/zK8HOOOrfIo/)
   - [阅读的提升口语最快的方法 | 英语外教](https://v.douyin.com/lxInWasAlj8/)
+
+---
+* **[高高Lindsey | 北京外国语大学英语口译硕士｜Polyglot | "语言的边界就是你世界的边界" | 5.5万 | Youtube](https://www.youtube.com/@lindseylingo/videos)**
+  - [AI Can Speak English Better Than You](https://www.youtube.com/watch?v=nILMlkHiVdM)
+
+* **[高高Lindsey | 语言的极限就是我世界的极限 | 北外口译硕士 | 4K |  百章 | Douyin](https://v.douyin.com/Km65NtSiWqA/)**
+  - [没有语言环境如何学好英语？这3个习惯一定要养成 避免踩坑](https://v.douyin.com/kVvrsm8ERo0/)
+  - [如何快速获得语感？并停止在大脑中把中文译为英文 | Min: 04:50](https://v.douyin.com/vdy3qZoFl0Q/)
+  - [分级美音播客&频道推荐｜磨耳朵👂给大脑注入养分 | Min: 04:58](https://v.douyin.com/YG8zsgmXKr8/)
+  - [新一年的英语学习计划启动！进来抄一份科学有效的口语进阶](https://v.douyin.com/kTFzHYBpbQI/)
 
 ---
 * **[Jonna Jinton | 526万 | Youtube](https://www.youtube.com/@jonnajinton)**

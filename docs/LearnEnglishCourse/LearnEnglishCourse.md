@@ -16,6 +16,9 @@
 * **[PlayPhrase.me: Site for cinema archaeologists. | 台词搜索](https://www.playphrase.me/#/search?q=&language=en)**
 
 ---
+* **[LingQ](https://www.lingq.com/en/)**
+
+---
 ### 0001. English Resource
 * **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
 
@@ -364,6 +367,11 @@
   - 版权所有，版权所有©：教育视频制作公司。
 
 ---
+* **[高高Lindsey | 北京外国语大学英语口译硕士｜Polyglot | "语言的边界就是你世界的边界" | Youtube](https://www.youtube.com/@lindseylingo/videos)**
+  - [AI Can Speak English Better Than You](https://www.youtube.com/watch?v=nILMlkHiVdM)
+* **[小红书](https://www.xiaohongshu.com/user/profile/62be5b34000000001b0294c4?xsec_token=YBupxFMeZgHrzNH29Lc8WknCW8FSqsFw05Rs8-2haM8ac=&xsec_source=app_share&xhsshare=CopyLink&shareRedId=ODhERThHNz02NzUyOTgwNjdFOTk9OUk9&apptime=1762249405&share_id=6b146a5e6305453780f4a4b797ee698c)**
+
+---
 ### 0003. Douyin
 * **[在线英语网课 | 课程涵盖: 零基础英语, 启蒙英语, 雅思口语, 商务英语 | 二千章 | Douyin](https://v.douyin.com/gp1CxFZ-ihY/)**
   - [英语流利说英语，英语流利说英语水平测试，流利说app学英语靠谱吗，外教一对一网课，来看看学生真人外教上课视频，比线下划算！ 跟着外教老师学英语，快速提高英语水平！六个月后进步非常大，轻松和外教交流，经验分享给大家，| 跟着外教老师提高英语口语 | 英语流利说app](https://v.douyin.com/37zdZhEhzJM/)
@@ -602,27 +610,30 @@
     - [为什么我从小在中国生活，却把英语练到了母语水平？](https://v.douyin.com/CWwCplRLEK0/)
 
 ---
-* **[TypeWords](https://github.com/zyronon/TypeWords)**
-  - [2study](https://2study.top/)
+* **[ABC在路上- 突破英语 | 每个人都可以达到英语听力自由，分级大量听 | 二千章 | Douyin](https://v.douyin.com/lBdotnqjVYw/)**
+  - [3个月突破英语](https://v.douyin.com/iIKcKoIhvKg/)
+  - [HOW TO DEAL WITH DISRESPECTFUL PEOPLE](https://v.douyin.com/9bGOgE1-3rk/)
+  - [How To Deal With a Narcissist](https://v.douyin.com/I0fqeWtg-zI/)
 
 ---
-* **[wordforest](https://www.wordforest.cn/books)**
+* **[北美外教一对一口语 | 千章 | Douyin](https://v.douyin.com/5gy921EoPv0/)**
 
 ---
-* **[北美外教一对一口语](https://v.douyin.com/5gy921EoPv0/)**
+* **[来点思考 | Dan Koe | 三百章 | Douyin](https://v.douyin.com/OkNpJEuLTEg/)**
+  - [你还在慢慢学吗？用AI加速学习，10倍提高效率 | AI加速学习 | Min: 27:56](https://v.douyin.com/dJUjAceOkEg/)
+  - [两周就能学会任何技能，为什么你这么慢？ | Min: 27:56](https://v.douyin.com/uYLph2ZzDRA/)
+  - [32分钟教你主宰20多岁：人生逆袭的8大关键技能 中英文稿+视频总结稿+思维导图等知识库 | Min:32:05](https://v.douyin.com/mea40459-vo/)
+  - [消失与蜕变：6个月完成6年蜕变的12条人生法则 | Min: 16:36](https://v.douyin.com/8PW01lD0INM/)
+  - [百万收入技能组合：赚钱必备的高价值技能——Dan Koe  | Min: 35:04](https://v.douyin.com/ldx-1Rz4jig/)
 
 ---
-* **[来点思考 | Dan Koe](https://v.douyin.com/OkNpJEuLTEg/)**
-  - [AI加速学习](https://v.douyin.com/dJUjAceOkEg/)
-  - 你还在慢慢学吗？用AI加速学习，10倍提高效率！  dankoe来点思考 AI  学习效率
-  - [两周就能学会任何技能，为什么你这么慢？](https://v.douyin.com/uYLph2ZzDRA/)
+* **[dankoe | 大家好,让我们一起6个月改变人生 | Read my book, and you'll know the way. Become a member, and you'll be the way. Free,and you'll never. Choose. | 百章 | Douyin](https://v.douyin.com/tN4bvreV5vE/)**
+  - [How To Make Progress 10X Faster In Life (Full Guide) | Min: 35:04](https://v.douyin.com/XyQq7MkQ4hI/)
+  - [How I'd build a one-person business (if I started over in 2026) | Min: 31:02](https://v.douyin.com/nOUHvgiqFnU/)
+  - [How to fix your entire life in 1 day](https://v.douyin.com/01ZnvXSZQdo/)
 
 ---
-* **[dankoe](https://v.douyin.com/tN4bvreV5vE/)**
-  - [如何让人生进步十倍（完整指南） How To Make Progress 10X Faster In Life (Full Guide)](https://v.douyin.com/XyQq7MkQ4hI/)
-
----
-* **[跟着雅思考官即刻说](https://v.douyin.com/gdn4JbcfBfU/)**
+* **[跟着雅思考官即刻说 | 前任雅思考官Daniel 中国区写作 口语9年教学经验 | 三十章 | Douyin](https://v.douyin.com/gdn4JbcfBfU/)**
   - [雅思学习顺序](https://v.douyin.com/HXvsXOVgrN4/)
   - 雅思学习顺序很重要！ 千万别搞反顺序了。实际上，雅思备考只要摸准学习节奏，过程就会思路清晰、难度降低。靠谱的备考方法从无捷径可言，都是往届考生总结的实用经验，但大家也能依据自身基础灵活调整。
   - 系统备考的流程：
@@ -640,11 +651,18 @@
       - 《雅思口语题库》：重要性无需多言，题库中的所有题目及对应答案，至少需完整练习两遍。 . 此外，所有推荐书籍均已整理完毕，可导入手机或 iPad 中随时学习。实际上，雅思备考只要摸准学习节奏，过程就会思路清晰、难度降低。靠谱的备考方法从无捷径可言，都是往届考生总结的实用经验，但大家也能依据自身基础灵活调整。
 
 ---
-* **[LingQInChina](https://v.douyin.com/jWFu-jYRcm0/)**
+* **[LingQInChina | 欢迎大家关注LingQ语言学习平台 | 百章 | Douyin](https://v.douyin.com/jWFu-jYRcm0/)**
+  - [Steve Kaufmann：欢迎中国朋友加入我的语言世界](https://v.douyin.com/306jXkMHjZM/)
+  - **[LingQ](https://www.lingq.com/en/)**
+  - [我没有天赋，我只有好奇心 我不是语言学家，也不是专业研究员，我只是一个对世界充满好奇的人。 而这，就是我能坚持学 20 种语言的唯一动力，也是 Steve Kaufmann（70 多岁还在学语言）的核心理念： 语言学习不是任务，不是责任，而是一种探索世界的方式 | Min: 07:07](https://v.douyin.com/6si0JmSE2wI/)
+  - [语言学习到底需要做什么 语言不是靠背，是靠大量输入 + 自然吸收 | Min: 05:07](https://v.douyin.com/pNCcNTRFawc/)
 
 ---
-* **[高高Lindsey](https://v.douyin.com/Km65NtSiWqA/)**
+* **[高高Lindsey | 语言的极限就是我世界的极限 | 北外口译硕士 | 4K |  百章 | Douyin](https://v.douyin.com/Km65NtSiWqA/)**
   - [没有语言环境如何学好英语？这3个习惯一定要养成 避免踩坑](https://v.douyin.com/kVvrsm8ERo0/)
+  - [如何快速获得语感？并停止在大脑中把中文译为英文 | Min: 04:50](https://v.douyin.com/vdy3qZoFl0Q/)
+  - [分级美音播客&频道推荐｜磨耳朵👂给大脑注入养分 | Min: 04:58](https://v.douyin.com/YG8zsgmXKr8/)
+  - [新一年的英语学习计划启动！进来抄一份科学有效的口语进阶](https://v.douyin.com/kTFzHYBpbQI/)
 
 ---
 * **[Linda老师英文故事 | 知名IB国际学校一线老师 | 创动画片分级教学体系 | 英语启蒙 | 美式教育 | 同步IB国际学校课堂 | 三百章 | Douyin](https://v.douyin.com/1kltKx3OtS8/)**
@@ -818,12 +836,6 @@
   - [这英语得学呀](https://v.douyin.com/7InuGyJCveA/)
   - [英雄联盟](https://v.douyin.com/fY3c-miZVEU/)
   - [新节目3️⃣](https://v.douyin.com/zSrDNT2wAi0/)
-
----
-* **[ABC在路上- 突破英语 | 每个人都可以达到英语听力自由，分级大量听 | 二千章 | Douyin](https://v.douyin.com/lBdotnqjVYw/)**
-  - [3个月突破英语](https://v.douyin.com/iIKcKoIhvKg/)
-  - [HOW TO DEAL WITH DISRESPECTFUL PEOPLE](https://v.douyin.com/9bGOgE1-3rk/)
-  - [How To Deal With a Narcissist](https://v.douyin.com/I0fqeWtg-zI/)
 
 ---
 * **[每日英语 | 二百章 | Douyin](https://v.douyin.com/u_OyKAyiIek/)**
