@@ -205,6 +205,13 @@
   - [不同风格的作品，你更喜欢哪一种](https://v.douyin.com/WYVS7GcDrHI/)
 
 ---
+* **[甄选艺术～ | 艺术与浪漫永不落幕~ 喜欢收藏字画的朋友在哪呀？ 山水画 花鸟画 油画 人物画 书法等各种名家老师字画 真迹 | 千章 | Douyin](https://v.douyin.com/C1e36hOcBjQ/)**
+  - [**丰慧《春消息》**| 33*66cm | **感受国画的意境之美**](https://v.douyin.com/ru5FfsEJomY/)
+  - [**中国当代实力名家-潘文良** | 字画  | 国画  | 潘文良](https://v.douyin.com/NtdI_b8hzU4/)
+  - [赵永夫作品多少钱一平尺？ | 赵永夫花鸟画](https://v.douyin.com/Nxhfu4453uU/)
+  - [李长田老师斗方山水 | 国画  | 水墨画  | 国画艺术](https://v.douyin.com/769k6Vd3ws4/)
+
+---
 * **[暖风藏腐朽 | Genshin Impact | 百章 | Douyin](https://v.douyin.com/FSO6Au4FFok/)**
   - [年狐狸 万年"尸魈"合集 那些凡人修仙传散落人界的绝色仙子 29 | 二次元动漫  | 古风  | 高清壁纸  | 国漫推荐  | 凡人修仙传](https://v.douyin.com/uXbKPgyNqHU/)
   - [墨彩环。一遇韩立误终身"墨彩环"合集 那些凡人修仙传散落人界的绝色仙子 48 | 二次元  | 高清壁纸  | 古风  | 动漫推荐  | 凡人修仙传](https://v.douyin.com/7NL36oUjh5U/)

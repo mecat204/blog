@@ -40,8 +40,19 @@
 
   ---
   **Book:**
-  - [**American Literature** |Short Stories & Classic Literature for Readers & Teachers](https://americanliterature.com/)
+  - [**American Literature** | Short Stories & Classic Literature for Readers & Teachers](https://americanliterature.com/)
   - [bilinguis.com | 免费双语读物](http://zh.bilinguis.com/)
+  - [爱丽丝梦游仙境 | **Trancy AI双语**](https://www.typelit.io/typing-console/Alice_in_Wonderland/0/11)
+  - [Obooko | Instantly download free eBooks, novels and textbooks online](https://www.obooko.com/)
+  - [AI教母论文 | English]()
+
+  ---
+  **News**
+  - [Buzzing | 用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读](https://www.buzzing.cc/)
+
+  ---
+  **Ai-Website**
+  - [Home | Anthropic | 与人类有关的](https://www.anthropic.com/)
 
 ---
 * **[英语学习资源导航 | 全网最全](https://en.knowledgefxg.com/)**

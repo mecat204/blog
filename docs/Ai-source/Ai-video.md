@@ -76,6 +76,11 @@
   - [实验宇宙47: 宇宙结构日志](https://v.douyin.com/CMB_4NoohSg/)
 
 ---
+* **[动漫人物壁纸丶KK | 不定期更新动漫壁纸和视频，本人也是一名电商美工有需要作图的也可联系,喜欢的点关注 | 千章 | Douyin](https://v.douyin.com/1GLykkFGBhE/)**
+  - [AI邵氏风农夫防扰记](https://v.douyin.com/sXv9MF0NM9o/)
+
+
+---
 ### 0002. AI裂变 | 哈哈~
 * **[意大利面伴42号混凝土 | 原始](https://v.douyin.com/lEVbZVRvTK4/)**
   - **[意大利面拌42号混凝土，维尔康，秦始皇的身高，影响经济都出现了](https://v.douyin.com/AyT0D0pbx5k/)**
