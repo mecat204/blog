@@ -58,6 +58,10 @@
 * **[英语学习资源导航 | 全网最全](https://en.knowledgefxg.com/)**
 
 ---
+* **[heygsc/word-wind | English | 单词](https://github.com/heygsc/word-wind)**
+  - **[单词之风](https://word-wind.pages.dev/)**
+
+---
 * **[句乐部](https://julebu.co)**
 
 ---
