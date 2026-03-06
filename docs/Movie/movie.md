@@ -26,6 +26,7 @@
     * **[神雕侠侣](https://pan.quark.cn/s/da6fe2adf149#/list/share)**
     * **[头脑特工队](https://pan.quark.cn/s/3c90904e4448#/list/share/ecc36105affe4141afdeb9dc38a9f63b)**
     * **[唐宫奇案之青雾风鸣](https://pan.quark.cn/s/5ffba1801964#/list/share)**
+    * **[寻梦环游记](https://pan.quark.cn/s/743662b82b28#/list/share)**
 
   ---
   - **[OWOTUBE影院](https://owotube.com/)**
@@ -39,7 +40,7 @@
   ---
   * **libvio**
   - **[libvio.mov](https://libvio.mov/)**
-    * **[剑来 | quark](https://pan.quark.cn/s/c9829d85c795#/list/share)**
+    * **[剑来 | quark](https://pan.quark.cn/s/1783bc24dc32#/list/share)**
 
   - **[libvio.vip](https://libvio.vip/)**
 
