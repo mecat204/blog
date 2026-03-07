@@ -210,67 +210,107 @@
   - [《原神》沉玉沐芳 - Disc 2：翠羽云深隐灵濛](https://www.youtube.com/watch?v=roHkAJvAt9s&list=PLqWr7dyJNgLJCVtbW0yz_CpwpwyVwPJNX&index=2)
 
 ---
-* **[一根葱（原神）](https://v.douyin.com/d0bIkN3b7lY/)**
+* **[一根葱（原神）| 千章 | Douyin](https://v.douyin.com/d0bIkN3b7lY/)**
   - [原神交响乐](https://v.douyin.com/bUTuNkg6uI4/)
 
 ---
-### 008. 听歌识曲
-* [Aeden & Um41K - Ain't Nobody Perfect](https://www.youtube.com/watch?v=qcayt_B8868)
+### 009. Douyin
+* **[房东的猫 | 千章 | Douyin](https://v.douyin.com/eQ3OWkAF9yA/)**
+  - [把贵阳的风、烟火与旋律，都放进时光里慢慢发酵。山地有回响，歌声有归处。希望所有的美好，全都留在你身边。](https://v.douyin.com/UeXtbVJDfEY/)
 
 ---
-### 009. douyin·music
-* **[你的歌单](https://v.douyin.com/I3cagT5BM90/)**
-  - [时间的摇晃·窝窝](https://v.douyin.com/UhUtkRYmSf8/)
+* **[你的歌单 | 千章 | Douyin](https://v.douyin.com/I3cagT5BM90/)**
+  - **[时间的摇晃·窝窝](https://v.douyin.com/UhUtkRYmSf8/)**
+  - **[房东的猫 | 遇见](https://www.youtube.com/watch?v=EeQLBLQb074)**
+  - **[房东的猫 | 合唱集](https://www.youtube.com/watch?v=x8RZofVCw0k&list=RDx8RZofVCw0k&index=1)**
 
 ---
-* **[窝窝_WOWO](https://v.douyin.com/xkw5q4AAbyU/)**
-  - [熬过岁月的冷眼 前路终璀璨" 希望所有喜欢月亮照山川的朋友们熬过艰难岁月后，前路一帆风顺 璀璨无比 | 月亮照山川 | 原唱 | 窝窝 | 王赫野月亮照山川 | 人间烟火](https://v.douyin.com/aKHAMJmisrk/)
-  - ["再也找不到当年的月亮" | 终不似少年游 | 时光的摇晃 | 岁月不声不响却让人慌慌张张 | 窝窝](https://v.douyin.com/vY29_x-6cE4/)
+* **[窝窝_WOWO | 音乐人 | SMEConnor | 月亮照山川 | 远山少年 | 星斗照高楼 | 花开满山岗 | 百章 | Douyin](https://v.douyin.com/xkw5q4AAbyU/)**
+  - [熬过岁月的冷眼 前路终璀璨" 希望所有喜欢月亮照山川的朋友们熬过艰难岁月后，前路一帆风顺 璀璨无比 | Music: **月亮照山川**](https://v.douyin.com/aKHAMJmisrk/)
+  - ["再也找不到当年的月亮" | 终不似少年游 | **时光的摇晃** | 岁月不声不响却让人慌慌张张 | 窝窝](https://v.douyin.com/vY29_x-6cE4/)
 
 ---
-* **[比奇小羊堡 | 我回来啦～中午11点和晚上8点半](https://v.douyin.com/56mqVVJwMz4/)**
+* **[比奇小羊堡 | 我回来啦～中午11点和晚上8点半 | 五百章 | Douyin](https://v.douyin.com/56mqVVJwMz4/)**
   - [咚哒哒咚 前奏一响 狗都遗憾 | 安和桥](https://v.douyin.com/_WGclxG6G8k/)
+
 ---
-* **[𝐆𝐍𝐀𝐑](https://v.douyin.com/r-NztBNUTsI/)**
+* **[𝐆𝐍𝐀𝐑 | 五百章 | Douyin](https://v.douyin.com/r-NztBNUTsI/)**
   - [励志](https://v.douyin.com/-jFJFrPSS3M/)
 
 ---
-* **[Mr.凌晨](https://v.douyin.com/V8ZLG9XP87A/)**
-  - [回忆是一条没有尽头的路 | 钢琴](https://v.douyin.com/1V9x-FlyqvY/)
-  - [这个世界是残酷的，但同时也很美。| 钢琴](https://v.douyin.com/UglODQ1fxaQ/)
+* **[Mr.凌晨 | 总有一段旋律，能精准击中你的心弦。我用钢琴，找到它。| 钢琴 |  千章 | Douyin](https://v.douyin.com/V8ZLG9XP87A/)**
+  - [回忆是一条没有尽头的路 | **钢琴**](https://v.douyin.com/1V9x-FlyqvY/)
+  - [这个世界是残酷的，但同时也很美。| **钢琴**](https://v.douyin.com/UglODQ1fxaQ/)
 
 ---
-* **[养有术](https://v.douyin.com/Lw6iMZsbUjM/)**
+* **[养有术 | 愿大家都有个好身体 | 三百章 | 养心曲 | Douyin](https://v.douyin.com/Lw6iMZsbUjM/)**
   - [五音疗愈](https://v.douyin.com/tEfGHPZsoy8/)
 
 ---
-* **[羊阿宝的空灵鼓](https://v.douyin.com/FCan7tFzndI/)**
-  - [风居住的街道](https://v.douyin.com/FbLFxxBv3tY/)
-  - 昨天的太阳，晒不干今天的衣裳，昨天的雨，淋不湿今天的自己。让心归零，微笑前行。
+* **[羊阿宝的空灵鼓 | 空灵鼓双股创新演奏 | 大量实战演奏教学、曲谱编配 | 千章 | Douyin](https://v.douyin.com/FCan7tFzndI/)**
+  - [昨天的太阳，晒不干今天的衣裳，昨天的雨，淋不湿今天的自己。让心归零，微笑前行。 | **风居住的街道**](https://v.douyin.com/FbLFxxBv3tY/)
 
 ---
-* **[瑛与抱月](https://v.douyin.com/scHP-mc9Uv0/)**
+* **[瑛与抱月 | 心理委员抱月喵，不得劲可以@我，我可以喂你喝奶奶，不哭不哭 | 二百章 | Douyin](https://v.douyin.com/scHP-mc9Uv0/)**
   - [故事的结局重要吗](https://v.douyin.com/MvNujxQ_Pqs/)
-  - [病变·鞠文娴](https://v.douyin.com/m0nTg47vKxs/)
+  - **[病变·鞠文娴](https://v.douyin.com/m0nTg47vKxs/)**
   - [阿拉斯加海湾·蓝心羽](https://v.douyin.com/teAPl4ZtAXo/)
 
 ---
-* **[相思无解，悲秋望雨！ 相遇相知，已是上签。 心怀山河，缓步前行， 见山见水，独不见你。 似见非见，了无遗憾！ 接下来的日子渐寒，添衣，无病，安好!](https://v.douyin.com/BlXHteKlCpE/)**
+* **[初秋 | 愿你出走半生，归来仍是少年。 | 十章 | Douyin](https://v.douyin.com/xA5v1d9Tv4k/)**
+  - **[相思无解，悲秋望雨！ 相遇相知，已是上签。 心怀山河，缓步前行， 见山见水，独不见你。 似见非见，了无遗憾！ 接下来的日子渐寒，添衣，无病，安好!](https://v.douyin.com/BlXHteKlCpE/)**
 
 ---
-* **[马悠悠🇨🇳（回族）](https://v.douyin.com/gaN093nLMIk/)**
+* **[马悠悠🇨🇳（回族） | 百章 | Douyin](https://v.douyin.com/gaN093nLMIk/)**
   - [东方青苍和小兰花 | 苍兰诀 王鹤棣 虞书欣](https://v.douyin.com/Tn7pYlG9_zM/)
 
 ---
 ### 010. 奇幻世界
-* **[奇幻世界](https://v.douyin.com/GhGCXGPvl58/)**
+* **[山野漫步者 | 山野万里，藏着所有的浪漫与诗意。| 二百章 | Douyin](https://v.douyin.com/VLDy4FyOKEg/)**
+  - **[乌蒙蒙的海岸线，仿佛是世界尽头的神秘画卷，让人心生敬畏。| 朦胧美 | 海岸| 浪 | 奇幻世界](https://v.douyin.com/GhGCXGPvl58/)**
+  - [每一次呼吸，都能感受到大自然的清新和瀑布的磅礴](https://v.douyin.com/EHIfGsyiiGQ/)
+  - [站在瀑布前，我仿佛听到了大自然的歌声。| 瀑布美景 | 美在山水间 | 如诗如画](https://v.douyin.com/6IzeiZr-T88/)
+  - [不要把秘密告诉风，风会把它传遍整个森林 | 感受大自然 | 瀑布](https://v.douyin.com/C2Kr1ix1I-0/)
 
 ---
-### 011. youtube·music
-* **[NoCopyrightSounds](https://www.youtube.com/@NoCopyrightSounds)**
+### 011. Youtube
+* **[NoCopyrightSounds | 3430万 | Youtube](https://www.youtube.com/@NoCopyrightSounds)**
+  - NCS is on a mission to soundtrack the internet.
+  - NCS致力于为互联网配乐。
+
+  ---
+  - 🚀For over a decade, NCS has been home to some of the most iconic tracks in online culture—from YouTube intros to viral TikTok moments.
+  - 🚀 十多年来，NCS一直是网络文化中最具标志性的曲目之一的发源地——从YouTube开场到病毒式的TikTok瞬间。
+
+  ---
+  - We work with artists from around the world, covering everything from House and Drum & Bass to Dubstep, Phonk, Pop, and beyond.
+  - 我们与来自世界各地的艺术家合作，涵盖从浩室、鼓打贝斯到Dubstep、Phonk、流行等各种风格。
+
+  ---
+  - We’re still copyright free and stream safe for creators.
+  - 我们依然无版权，创作者可以安全直播。
+
+  ---
+  - NCS music is free to use for independent creators and their UGC (User Generated Content) on YouTube & Twitch—just remember to credit the artist, track, and NCS, and link back to our original upload.
+  - NCS音乐免费供独立创作者及其用户生成内容（UGC）在YouTube和Twitch上使用——只需记得注明艺术家、曲目和NCS，并链接回我们最初上传的链接。
+
+  * **[Aeden & Um41K - Ain't Nobody Perfect](https://www.youtube.com/watch?v=qcayt_B8868)**
 
 ---
-* **[在加納共和國離婚](https://www.youtube.com/watch?v=eACpNen3ZcI)**
+* **[菲道尔 Firdhaus | 马来西亚 | 21万 | Youtube](https://www.youtube.com/@fffirdhaus/videos)**
+  - **[在加納共和國離婚](https://www.youtube.com/watch?v=eACpNen3ZcI)**
+  - **[友谊长存](https://www.youtube.com/watch?v=xFKZTvNwS70)**
+
+---
+* **[CentralRecord | Music  | 12.3万 | Youtube](https://www.youtube.com/@CentralRecord/videos)**
+  - Elevate your worship experience: instrumentals, lyrics video, and multitracks.
+  - 提升你的敬拜体验：器乐、歌词视频和多轨录音。
+
+  ---
+  - If you are a musician or band looking for a producer, I help artists craft their sound and bring their vision to life - contact me at cr@centralrecord.pro.
+
+  ---
+  - 如果你是音乐人或乐队正在寻找制作人，我帮助艺术家打造他们的声音，实现他们的愿景——联系我，cr@centralrecord.pro。
 
 ---
 ### 012. music-bgmusic
@@ -297,7 +337,7 @@
 
 ---
 * **红昭愿·合集**
-  - [国风MV](https://www.youtube.com/watch?v=Rflz7mdY2_Y&list=RDRflz7mdY2_Y&start_radio=1)
+  - **[国风MV](https://www.youtube.com/watch?v=Rflz7mdY2_Y&list=RDRflz7mdY2_Y&start_radio=1)**
 
 ---
 ### 013. 日语·声优
