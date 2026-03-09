@@ -16,22 +16,32 @@
 ---
 * **如梦令**
   - [催眠](如梦令/催眠)
+  - [思绪](如梦令/思绪)
   - [国风·艺术·古风](如梦令/国风·艺术·古风)
   - [健康养生](如梦令/健康养生)
 
 ---
-* **如梦令**
-  - [催眠](如梦令/催眠)
-  - [国风·艺术·古风](如梦令/国风·艺术·古风)
-  - [健康养生](如梦令/健康养生)
+* **摄影·壁纸**
+  - [视频·壁纸·Memory](摄影·壁纸/视频·壁纸·Memory)
 
 ---
 * **Vlog**
   - [Vlog](Vlog/Vlog)
 
 ---
-* **Learn English Course**
-  - [Learn English Course](LearnEnglishCourse/LearnEnglishCourse)
+* **EnglishCourse**
+  - **LearnEnglishCourse**
+    * [LearnEnglishCourse](/EnglishCourse/LearnEnglishCourse/LearnEnglishCourse)
+  - **EnglishLearn**
+    * [EnglishLearn](EnglishCourse/EnglishLearn/EnglishLearn)
+  - **翻译册**
+    * [文学作品](EnglishCourse/翻译册/文学作品)
+    * [哲学宗教](EnglishCourse/翻译册/哲学宗教)
+    * [Coding](EnglishCourse/翻译册/Coding)
+  - **英文小说**
+    * [EnglishStroy](EnglishCourse/英文小说/EnglishStory)
+  - **BooksTranslate**
+    * [MachineLearningSystems](EnglishCourse/BooksTranslate/MachineLearningSystems)
 
 ---
 * **千集录**
@@ -70,8 +80,10 @@
   - [华语乐坛](Music/华语乐坛)
 
 ---
-* **Genshin Impact**
-  - [Genshin Impact](GenshinImpact/GenshinImpact)
+* **Game**
+  - **Genshin Impact**
+    * [Genshin Impact](Game/GenshinImpact/GenshinImpact)
+  - [Game](Game/game)
 
 ---
 * **Movie**
@@ -104,8 +116,6 @@
   - [信息生态](Collection/信息生态)
   - [动漫](Collection/动漫)
   - [tips](Collection/tips)
-  - [game](Collection/game)
-  - [GenshinImpact](Collection/GenshinImpact)
   - [问小白](Collection/问小白)
   - [古今文学](Collection/古今文学)
   - [备忘录](Collection/备忘录)
@@ -115,7 +125,6 @@
   - [中外艺人简介](Collection/中外艺人简介)
   - [中外剧作史学](Collection/中外剧作史学)
   - [网络新闻](Collection/网络新闻)
-  - [视频·壁纸·Memory](Collection/视频·壁纸·Memory)
   - [环球户外风光](Collection/环球户外风光)
   - [江湖侠客](Collection/江湖侠客)
   - [地理志](Collection/地理志)
@@ -124,8 +133,6 @@
   - [心理学·思想史](Collection/心理学·思想史)
   - [哲学史](Collection/哲学史)
   - [世界树](Collection/世界树)
-  - [思绪](Collection/思绪)
-  - [健康养生](Collection/健康养生)
   - [道法自然](Collection/道法自然)
   - [综艺](Collection/综艺)
   - [战情简报](Collection/战情简报)
@@ -135,7 +142,6 @@
   - [CodingSource](Collection/CodingSource)
   - [Download](Collection/Download)
   - [Douyin](Collection/Douyin)
-  - [EnglishLearn](Collection/EnglishLearn)
   - [影视剧介绍](Collection/影视剧介绍)
   - [ChatGPT.q&w](Collection/ChatGPT.q&w)
   - [online](Collection/online)
@@ -185,20 +191,6 @@
 ---
 * **CommonSense**
   - [GeneralKnowledge](CommonSense/GeneralKnowledge)
-
----
-* **英文小说**
-  - [EnglishStory](英文小说/EnglishStory)
-
----
-* **翻译册**
-  - [文学作品](翻译册/文学作品)
-  - [哲学宗教](翻译册/哲学宗教)
-  - [Coding](翻译册/Coding)
-
----
-* **BooksTranslate**
-  - [Machine Learning Systems](BooksTranslate/MachineLearningSystems)
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
