@@ -84,6 +84,10 @@
   - [构词法速查表](Book/构词法速查表)
 
 ---
+* **科普**
+  - [科普](科普/科普)
+
+---
 * **摘录集**
   - [Douyin](摘录集/douyin)
   - [认知](摘录集/认知)
@@ -118,8 +122,6 @@
   - [心理学·思想史](Collection/心理学·思想史)
   - [哲学史](Collection/哲学史)
   - [世界树](Collection/世界树)
-  - [科普](Collection/科普)
-  - [催眠](Collection/催眠)
   - [思绪](Collection/思绪)
   - [健康养生](Collection/健康养生)
   - [道法自然](Collection/道法自然)
