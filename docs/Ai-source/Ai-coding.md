@@ -627,6 +627,12 @@
   - [大家都是元婴修士，没那么容易陨落吧 | 凡人修仙传 | 韩立 | 银月 | 国漫 | 银月](https://v.douyin.com/kdoass3SnQ4/)
   - [落云宗日常:韩长老的逍遥人生 | 凡人修仙传 | 韩立 | 宋玉 | 国漫推荐  | 凡人修仙传](https://v.douyin.com/A0JD82os0Ds/)
   - [我的六翼霜蚣，你是不是看上他了？ | 凡人修仙传 | 韩立 | 柳玉 | 国漫 | 名场面](https://v.douyin.com/5rKaEPIxDV0/)
+  - [贺表来了，贺表来了 | **凡人二创**](https://v.douyin.com/aoN_ugUx6qY/)
+  - [韩爷爷是我天南第一大剑修](https://v.douyin.com/8U7PmebHPOY/)
+  - [燃烧精血也得活下来，怎能命丧于此](https://v.douyin.com/0aV9ntmzamc/)
+  - [紫灵：我剑也未尝不利](https://v.douyin.com/5c3hiRBw8C8/)
+  - [银月锐评韩立后宫](https://v.douyin.com/RUCe5hM15LE/)
+  - [青梅煮酒论正宫](https://v.douyin.com/K1IR5L3PEy0/)
 
 ---
 * **[胡须侦探社 | 假如我是一只猫，我就能知道除了侵略地球，喵星人还在谋划什么？奇奇怪怪的喵星猫腻，又增加了呢。| 百章 | Douyin](https://v.douyin.com/IClFhHykUbg/)**

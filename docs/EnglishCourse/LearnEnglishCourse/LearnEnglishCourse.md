@@ -382,9 +382,14 @@
   - 版权所有，版权所有©：教育视频制作公司。
 
 ---
-* **[高高Lindsey | 北京外国语大学英语口译硕士｜Polyglot | "语言的边界就是你世界的边界" | Youtube](https://www.youtube.com/@lindseylingo/videos)**
-  - [AI Can Speak English Better Than You](https://www.youtube.com/watch?v=nILMlkHiVdM)
+* **[高高Lindsey | 北京外国语大学英语口译硕士｜Polyglot | "语言的边界就是你世界的边界"  | 5.54万| Youtube](https://www.youtube.com/@lindseylingo/videos)**
+  - **[AI Can Speak English Better Than You](https://www.youtube.com/watch?v=nILMlkHiVdM)**
+
 * **[小红书](https://www.xiaohongshu.com/user/profile/62be5b34000000001b0294c4?xsec_token=YBupxFMeZgHrzNH29Lc8WknCW8FSqsFw05Rs8-2haM8ac=&xsec_source=app_share&xhsshare=CopyLink&shareRedId=ODhERThHNz02NzUyOTgwNjdFOTk9OUk9&apptime=1762249405&share_id=6b146a5e6305453780f4a4b797ee698c)**
+
+---
+* **[LOVEBUSTER | 198万 | Youtube](https://www.youtube.com/@LoveBusterShow/videos)**
+  - [I Broke The Law To Save Those I Love | SAVING HEARTS | Ep.10 | 我违法拯救我所爱的人 |拯救心灵 |第10集](https://www.youtube.com/watch?v=xxAknGzwPSw)
 
 ---
 ### 0003. Douyin
@@ -1015,6 +1020,10 @@
   - [Stay Positive](https://v.douyin.com/Fs7yCuKHrC8/)
   - [Why Learn English](https://v.douyin.com/7FqKgEz6aOA/)
   - [what is wasted time](https://v.douyin.com/SMyH1iygFnY/)
+
+---
+* **[老李撩英语 | 前新东方教师 | 公立学校英语教师 | 英语短剧 | 五百章 | Douyin](https://v.douyin.com/p4pyAnZgIs4/)**
+  - [英语短剧 | shortdrama | micro-drama | 丈夫空中"表演",落地如何受到惩罚？Min: 06:26](https://v.douyin.com/sIghTyvn9PY/)
 
 ---
 ### 0004. College and University
