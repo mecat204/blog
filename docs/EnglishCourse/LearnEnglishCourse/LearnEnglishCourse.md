@@ -673,13 +673,6 @@
   - [语言学习到底需要做什么 语言不是靠背，是靠大量输入 + 自然吸收 | Min: 05:07](https://v.douyin.com/pNCcNTRFawc/)
 
 ---
-* **[高高Lindsey | 语言的极限就是我世界的极限 | 北外口译硕士 | 4K |  百章 | Douyin](https://v.douyin.com/Km65NtSiWqA/)**
-  - [没有语言环境如何学好英语？这3个习惯一定要养成 避免踩坑](https://v.douyin.com/kVvrsm8ERo0/)
-  - [如何快速获得语感？并停止在大脑中把中文译为英文 | Min: 04:50](https://v.douyin.com/vdy3qZoFl0Q/)
-  - [分级美音播客&频道推荐｜磨耳朵👂给大脑注入养分 | Min: 04:58](https://v.douyin.com/YG8zsgmXKr8/)
-  - [新一年的英语学习计划启动！进来抄一份科学有效的口语进阶](https://v.douyin.com/kTFzHYBpbQI/)
-
----
 * **[Linda老师英文故事 | 知名IB国际学校一线老师 | 创动画片分级教学体系 | 英语启蒙 | 美式教育 | 同步IB国际学校课堂 | 三百章 | Douyin](https://v.douyin.com/1kltKx3OtS8/)**
   - [每天5分钟！用故事打造娃的"英语耳朵"，听说读能力全提升 | 英语启蒙](https://v.douyin.com/Dc6oAsuCwEg/)
 
@@ -1194,6 +1187,14 @@
   - **[坚持做自己 答案会出现在自己的节奏里](https://v.douyin.com/sfKwkKVTQXI/)**
   - **[30句学完就能用的地道英语口语和我一起来学习吧](https://v.douyin.com/wB1zD3qrgtw/)**
   - **["加减乘除"的英语表达你知道吗？和我一起来学习吧 | 等加减乘除- Equal,Plus,minus,Divided,Times](https://v.douyin.com/97TeaLAhQAk/)**
+
+---
+* **[高高Lindsey | 语言的极限就是我世界的极限 | 北外口译硕士 | 4K |  百章 | Douyin](https://v.douyin.com/Km65NtSiWqA/)**
+  - [没有语言环境如何学好英语？这3个习惯一定要养成 避免踩坑](https://v.douyin.com/kVvrsm8ERo0/)
+  - [如何快速获得语感？并停止在大脑中把中文译为英文 | Min: 04:50](https://v.douyin.com/vdy3qZoFl0Q/)
+  - [分级美音播客&频道推荐｜磨耳朵👂给大脑注入养分 | Min: 04:58](https://v.douyin.com/YG8zsgmXKr8/)
+  - [新一年的英语学习计划启动！进来抄一份科学有效的口语进阶](https://v.douyin.com/kTFzHYBpbQI/)
+  - [语言不是知识而是肌肉 - 英语脑如何真正建立](https://v.douyin.com/3WWtrtae2dc/)
 
 ---
 * **[Leah的小日记 | 好好生活 跟我学习英语 | 莉雅老师教英语 | 百章 | Douyin](https://v.douyin.com/zLRSwv2ARHc/)**
