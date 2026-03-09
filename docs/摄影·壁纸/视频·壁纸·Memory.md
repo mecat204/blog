@@ -5,6 +5,7 @@
 ### 0001. 视频·壁纸
 * **[wallpapers](https://wallpapers.com/)**
 * **[壁纸下载](https://www.bizhi99.com/s/8748/)**
+* **[China Travel Curriculum | WildChina](https://wildchina.com/travel-curriculum-china/)**
 
 ---
 * **[方块十AI | 系列图集获取/定制图片 | 千章 | Douyin](https://v.douyin.com/l-KxnOqop5Q/)**

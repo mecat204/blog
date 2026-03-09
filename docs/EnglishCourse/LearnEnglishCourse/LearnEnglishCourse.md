@@ -1172,7 +1172,7 @@
   - **[开闭音节](https://v.douyin.com/zbLyVGZOd-I/)**
   - **[用一首歌搞定最常用的26字母自然拼读](https://v.douyin.com/5QC4IoIci9w/)**
   - **[寒假就看这5部英语纪录片](https://v.douyin.com/hKwyNh1W62k/)**
-    * [Plant Earth | 地球脉动]()
+    * [Plant Earth | 地球脉动](https://pan.quark.cn/s/9a87169ebf29#/list/share)
     * [Too Cute | 萌宠成长记]()
     * [Wild China | 美丽中国]()
     * [Andy's Adventures | 安迪的冒险]()
@@ -1187,6 +1187,14 @@
   - **[坚持做自己 答案会出现在自己的节奏里](https://v.douyin.com/sfKwkKVTQXI/)**
   - **[30句学完就能用的地道英语口语和我一起来学习吧](https://v.douyin.com/wB1zD3qrgtw/)**
   - **["加减乘除"的英语表达你知道吗？和我一起来学习吧 | 等加减乘除- Equal,Plus,minus,Divided,Times](https://v.douyin.com/97TeaLAhQAk/)**
+  - **[7首英语神曲，搞定常见英语时态一起来学习吧](https://v.douyin.com/qEaDHxMyM4U/)**
+    * **一般现在时 | You Are My Sunshine**
+    * **一般过去时 | Yesterday Once More**
+    * **现在进行时 | Lemon Tree**
+    * **现在完成时 | Seasons In The Sun**
+    * **一般将来时 | Monsters**
+    * **过去进行时 | Love Story  | Taylor Swift**
+    * **过去完成时&虚拟语气 | If I were A Boy**
 
 ---
 * **[高高Lindsey | 语言的极限就是我世界的极限 | 北外口译硕士 | 4K |  百章 | Douyin](https://v.douyin.com/Km65NtSiWqA/)**

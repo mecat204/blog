@@ -27,6 +27,8 @@
     * **[头脑特工队](https://pan.quark.cn/s/3c90904e4448#/list/share/ecc36105affe4141afdeb9dc38a9f63b)**
     * **[唐宫奇案之青雾风鸣](https://pan.quark.cn/s/5ffba1801964#/list/share)**
     * **[寻梦环游记](https://pan.quark.cn/s/743662b82b28#/list/share)**
+    * **[地球脉动](https://pan.quark.cn/s/8241e64352ea#/list/share)**
+    * **[地球脉动](https://pan.quark.cn/s/9a87169ebf29#/list/share)**
 
   ---
   - **[OWOTUBE影院](https://owotube.com/)**
