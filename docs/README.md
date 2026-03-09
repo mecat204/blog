@@ -14,6 +14,10 @@
   - [理想的生活](理想生活/理想的生活)
 
 ---
+* **摄影·壁纸**
+  - [视频·壁纸·Memory](摄影·壁纸/视频·壁纸·Memory)
+
+---
 * **如梦令**
   - [催眠](如梦令/催眠)
   - [思绪](如梦令/思绪)
@@ -21,17 +25,24 @@
   - [健康养生](如梦令/健康养生)
 
 ---
-* **摄影·壁纸**
-  - [视频·壁纸·Memory](摄影·壁纸/视频·壁纸·Memory)
-
----
-* **Vlog**
-  - [Vlog](Vlog/Vlog)
+* **Music**
+  - [music](Music/music)
+  - [古琴](Music/古琴)
+  - [钢琴](Music/钢琴)
+  - [笛子](Music/笛子)
+  - [小提琴](Music/小提琴)
+  - [歌词](Music/歌词)
+  - [轻音乐](Music/轻音乐)
+  - [华语乐坛](Music/华语乐坛)
 
 ---
 * **EnglishCourse**
   - **LearnEnglishCourse**
-    * [LearnEnglishCourse](/EnglishCourse/LearnEnglishCourse/LearnEnglishCourse)
+    * [LearnEnglishCourse](EnglishCourse/LearnEnglishCourse/LearnEnglishCourse)
+  - **Vlog**
+    * [Vlog](EnglishCourse/Vlog/Vlog)
+
+  ---
   - **EnglishLearn**
     * [EnglishLearn](EnglishCourse/EnglishLearn/EnglishLearn)
   - **翻译册**
@@ -67,17 +78,6 @@
   - [Ai-images](Ai-source/Ai-images)
   - [Ai-website](Ai-source/Ai-website)
   - [Ai-coding](Ai-source/Ai-coding)
-
----
-* **Music**
-  - [music](Music/music)
-  - [古琴](Music/古琴)
-  - [钢琴](Music/钢琴)
-  - [笛子](Music/笛子)
-  - [小提琴](Music/小提琴)
-  - [歌词](Music/歌词)
-  - [轻音乐](Music/轻音乐)
-  - [华语乐坛](Music/华语乐坛)
 
 ---
 * **Game**
