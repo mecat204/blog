@@ -126,7 +126,15 @@
   - [一千万粉丝了，今天带你们去看曾经最极致的浪漫，千年绝技 - 打铁花](https://v.douyin.com/rHdjP99rVo0/)
 
 ---
-* **[Youtuber是一位来自挪威的大一女生，专业是medical engineering ]()**
+* **[studytee | 117万 | Youtube](https://www.youtube.com/@studytee/videos)**
+  - My name is Therese, and I'm a Norwegian 3rd year university student in applied mathematics!
+  - 我叫特蕾丝，是一名挪威应用数学三年级的学生！
+
+  ---
+  - Here you'll find study tips, recommendations and hopefully a bit of study motivation - all while bringing you along on my journey through university and life!
+  - 在这里，你会找到学习技巧、推荐，还能带来一些学习动力——同时带你一起踏上大学和人生的旅程！
+
+  ---
   - [Youtuber是一位来自挪威的大一女生，专业是medical engineering | **参考: 2019年**](https://www.youtube.com/channel/UCc1QflC90Nkf_SDBZwJScDQ)
 
 ---
