@@ -258,8 +258,27 @@
 
 ---
 **[mvcat](https://www.mvcat.com/)**
-  - [厂长资源](https://www.czzy.site/)
-    * [czzymovie](https://www.czzymovie.com/)
+  - **[在线电影](https://maohaha.com/n/2053/#https://maohaha.com/c/51845/)**
+    * **[毒舍电影](https://www.dushe05.com/)**
+    * **[低端影视](https://maohaha.com/c/9417/)**
+      - **[ddys.run](https://www.ddys.run)**
+      - **[ddys.io](https://ddys.io/)**
+      - [ddys.la](https://www.ddys.la)
+      - [ddys.pw](https://www.ddys.pw)
+      - [ddys.ws](https://www.ddys.ws)
+      - [ddys.city](https://www.ddys.city)
+    * **[注视影视](https://gaze.run/)**
+    * **[磁力熊](https://www.cilixiong.org/)**
+    * **[韩剧网](https://www.hanju7.com/)**
+    * **[日本动漫 | 番剧尽在番茶屋 | 免费观看高清动漫_经典 | 新番全覆盖](https://www.fanchawu.cc/)**
+    * **[🍉西瓜卡通](https://cn.xgcartoon.com/)**
+    * **[搜片 | 搜你想看的影片](https://soupian.one/)**
+
+  ---
+  - **[厂长资源](https://www.czzy.site/)**
+    * **[czzymovie](https://www.czzymovie.com/)**
+      - **[豆瓣电影Top250](https://www.czzymovie.com/dbtop250/)**
+        * **[罗马假日 | 奥黛丽·赫本 |  格利高里·派克](https://www.czzymovie.com/v_play/bXZfNzMwNi1ubV8x.html)**
     * [cz4k](https://www.cz4k.com/)
 
 ---
