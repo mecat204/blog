@@ -138,6 +138,10 @@
   - [Youtuber是一位来自挪威的大一女生，专业是medical engineering | **参考: 2019年**](https://www.youtube.com/channel/UCc1QflC90Nkf_SDBZwJScDQ)
 
 ---
+* **[Celine | Let’s study together! I make study with me videos so our studying is less lonely. Keep working hard! | 20.4万 | Youtube](https://www.youtube.com/@celinestudy/videos)**
+  - [4-HOUR STUDY WITH ME 🌧️ Deep Focus on a Rainy Night | 🎧 Focus Music | Pomodoro 50/10](https://www.youtube.com/watch?v=a3gI2SBQaqM)
+
+---
 * **[Isabel Paige | 95万 |  Youtube](https://www.youtube.com/@isabel_paige)**
   - **[The Hardest Days of Winter](https://www.youtube.com/watch?v=jNqhUIYZM8Q)**
   - **[Buried in Snow…Winter In The Mountains](https://www.youtube.com/watch?v=E_TEf57zBWQ)**
