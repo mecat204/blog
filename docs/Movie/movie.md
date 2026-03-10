@@ -236,27 +236,6 @@
     * [Little Human Planet | 小小人类星球]()
 
 ---
-* **other**
-  - [沙暖](https://www.shanuan.com/)
-  - [zyplayer](https://zyplayer.fun/)
-  - [海归TV](https://www.haigui.tv/)
-  - [麻瓜影院](https://www.yangzhujixie.com/)
-  - [CN影院](https://www.cnysvod.com/)
-  - [天天美剧](https://www.meijuq.com/)
-  - [Kin热点](https://kin.itmresources.com/)
-  - [LOL电影天堂](http://www.loldytt.me/)
-  - [美剧迷](https://www.meijumi.net/)
-  - [琉璃影院](https://ll.yinyue.tw/)
-  - [枫林网](https://imaple8.co/)
-  - [剧谜](https://gimy.cc/)
-  - [VidHub](https://vidhub.me/)
-  - [DIANLE](https://www.duanju55.com/)
-  - [iKanBot](https://v.ikanbot.com/)
-  - [简单TV](https://jiandantv.com/)
-  - [独播库](https://www.duboku.tv/)
-  - [FoFo影院](https://www.fofoyy.com/dianshiju/68008)
-
----
 **[mvcat](https://www.mvcat.com/)**
   - **[在线电影](https://maohaha.com/n/2053/#https://maohaha.com/c/51845/)**
     * **[毒舍电影](https://www.dushe05.com/)**
