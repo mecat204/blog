@@ -2,34 +2,46 @@
 * **[dlpanda](https://dlpanda.com)**
 
 ### 001. TV-Online
-* **[CCTV](https://www.youtube.com/@CCTV/featured)**
+* **[CCTV | 447万 | 我们致力于更好展现真实、立体、全面的中国，成为中国走向世界、世界读懂中国的重要窗口。| Youtube](https://www.youtube.com/@CCTV/featured)**
   - [CCTV纪录](https://www.youtube.com/@CCTVDocumentary)
+  - [海外频道_央视网(cctv.com)](https://global.cctv.com/)
 
 ---
-* **[LiveNow24H](https://www.youtube.com/@LiveNow24H)**
+* **[LiveNow24H | 57.8万 | 传承中华文明、服务全球华人，为海内外用户提供新闻、文化类的资讯、互动与服务 | Youtube](https://www.youtube.com/@LiveNow24H)**
   - [中文国际](https://www.youtube.com/watch?v=7j92Myu2wzg)
   - [中文国际 | 美洲](https://www.youtube.com/watch?v=f6Kq93wnaZ8)
-* [Bloomberg Television](https://www.youtube.com/@markets)
-  - [China Stocks Drop as Trade War Drags On | The China Show](https://www.youtube.com/watch?v=4hDbZ_12zic)
-* [鳳凰衛視特別節目](https://www.youtube.com/watch?v=fN9uYWCjQaw)
 
 ---
-* **[8worldSG | 新加坡媒体](https://www.youtube.com/8worldSG)**
-  - [8world](https://www.youtube.com/watch?v=RvSOIM620bA)
-  - [8视界新闻网](https://www.8world.com)
-  - 最即时的全面报道，全天聚焦新闻热点，关注社会动态！新加坡、东南亚、中港台和国际时事热闻，掌握最前线的新闻观点。
+* **[CCTV中文 | 155万 | 聚焦全球动态，传递真实声音，以权威视角解读重大国际事件。| Youtube](https://www.youtube.com/@CCTVCH/videos)**
 
 ---
-* **[寰宇新聞 頻道](https://www.youtube.com/@globalnewstw)**
+* **[8world | 32.8万 | 最即时的全面报道，全天聚焦新闻热点，关注社会动态！新加坡、东南亚、中港台和国际时事热闻，掌握最前线的新闻观点。| Youtube](https://www.youtube.com/@8worldSG/videos)**
+  - [资讯不停播！《8视界》 24/7 直播](https://www.youtube.com/watch?v=RvSOIM620bA)
+
+---
+* **[Bloomberg Television | 306万 | Youtube](https://www.youtube.com/@markets)**
+  - The latest financial news and market analysis, direct from Bloomberg TV.
+  - 最新的财经新闻和市场分析，直接来自彭博电视台。
+
+  ---
+  - [China Stocks Drop as Trade War Drags On |The China Show 10/13/2025 | 中国股市下跌，贸易战持续拖延 | 中国展 2025年10月13日](https://www.youtube.com/watch?v=4hDbZ_12zic)
+
+
+---
+* **[鳳凰衛視PhoenixTV Official | 102万 | Youtube](https://www.youtube.com/@phoenixtvglobal/videos)**
+  - **[鳳凰衛視特別節目](https://www.youtube.com/watch?v=fN9uYWCjQaw)**
+
+---
+* **[寰宇新聞 頻道 | 108万 | CN-tw | Youtube](https://www.youtube.com/8worldSG)**
   - **[寰宇新闻台](https://www.youtube.com/watch?v=6IquAgfvYmc)**
 
 ---
-* **[天下雜誌 video](https://www.youtube.com/@cwvideo)**
+* **[天下雜誌 video | 79.1万 | 天下，不只是一本雜誌，我們經營的是「信任」| Youtube](https://www.youtube.com/@cwvideo)**
   - [飛機、海上、深山都能用手機！6G為何厲害？實現網路「無所不在」【8分鐘看懂天下】](https://www.youtube.com/watch?v=wQsdz8UkQ-I)
   - [三兆美元AI狂潮下的隱憂，多數投資人恐怕血本無歸，甚至衝擊美國經濟](https://www.youtube.com/watch?v=h-gyWgxJ-7w)
 
 ---
-* **[华语纪实大咖说](https://www.youtube.com/@Hot-ChinaDocumentary)**
+* **[华语纪实大咖说 | 12万 | Youtube](https://www.youtube.com/@Hot-ChinaDocumentary)**
   - [《芳華》解說爆紅後瞬間下架！文革都只是冰山一角？](https://www.youtube.com/watch?v=MfEe_koaUyM)
 
 ---
@@ -37,29 +49,17 @@
   - **[柴静专访梁中堂：挑战计划生育40年----历史会纪录，我们这个民族反抗过，反思过](https://www.youtube.com/watch?v=Mros72lMndo)**
 
 ---
-* **[TVB (official) | youtube](https://www.youtube.com/@TVB)**
-
----
-* **[新聞最嘲點 Mr.姜光宇](https://www.youtube.com/@MrFunnyNewsJGY)**
-
----
 ### 002. movie
 * **[OWOTUBE影院](https://owotube.com/)**
-* [靑檸](https://www.youtube.com/@heyao1997)
-* [牧马人](https://www.youtube.com/watch?v=tsBbcaKd2Zg)
+  - [靑檸](https://www.youtube.com/@heyao1997)
+  - [牧马人](https://www.youtube.com/watch?v=tsBbcaKd2Zg)
 
 ---
-* **[电影大剧院 1905 Movie Theater](https://www.youtube.com/@1905-MovieTheater)**
-
----
-* **[VIMEO | 类似于YOUTUBE](https://vimeo.com/)**
-
----
-* **[电影大剧院 1905 Movie Theater | 127万 | ](https://www.youtube.com/@1905-MovieTheater)**
+* **[电影大剧院 1905 Movie Theater | 128万 | ](https://www.youtube.com/@CCTV6-MovieTheater)**
   - **[动作电影 | 动作题材佳作--热血燃爆肾上激素](https://www.youtube.com/playlist?list=PLSmkdyVkfosdCZDaO0uwBDOzYsI9YGkbg)**
   - **[爱情电影 | 跟着角色去感受爱恨纠葛](https://www.youtube.com/playlist?list=PLSmkdyVkfosfZYsYgS_0JmepgOF1q5Ytf)**
   - **[剧情类电影 | 剧情环环相扣令人上瘾](https://www.youtube.com/playlist?list=PLSmkdyVkfosfq4J8Fyd4Xi_VuSDKy6uCR)**
-  - **[](https://www.youtube.com/playlist?list=PLSmkdyVkfosfJSiubsI20URUbewcG4aY7)**
+  - **[历史传记电影 | 有血有肉的历史人物塑造电影](https://www.youtube.com/playlist?list=PLSmkdyVkfosfJSiubsI20URUbewcG4aY7)**
 
   ---
   - [水浒传之英雄本色](https://www.youtube.com/watch?v=2j3KFNTEPNM)
@@ -71,9 +71,6 @@
 
   ---
   - **[新天龙八部之天山童姥 (1994)](https://www.youtube.com/watch?v=hWjcf8ln_Rs)**
-
----
-* **[影视](https://www.youtube.com/feed/storefront?bp=EgCSAQMI9gOiBQIoBQ%3D%3D)**
 
 ---
 * **[邵氏放映厅 | 896位 | youtube](https://www.youtube.com/@%E9%82%B5%E6%B0%8F%E6%94%BE%E6%98%A0%E5%8E%85)**
@@ -113,6 +110,10 @@
 ---
 ### 005. voachinese
 * **[原声带·严歌苓：出走半生，我的觉醒与幻灭](https://www.youtube.com/watch?v=QqrjsAbFekk)**
+
+---
+### 006. AI
+* **[Vimeo | All-in-One Video Platform](https://vimeo.com/)**
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
