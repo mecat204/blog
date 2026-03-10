@@ -954,6 +954,13 @@
   - [凡人修仙传 | 慕沛灵](https://v.douyin.com/C9J31unAp5w/)
 
 ---
+* **[黄昭懿 | 新歌《恋爱偏科生》已上线啦 歌曲完整版全平台 | 三百章 |Douyin](https://v.douyin.com/-Wufma25dOA/)**
+  - **[大人也是过期的小朋友，2026要多花点心思哄自己开心呀](https://v.douyin.com/8m_apZ0tCPE/)**
+  - [天空好想下雨 我好想住你隔壁](https://v.douyin.com/3CIdweutotc/)
+  - [爱的星际旅行](https://v.douyin.com/8TYa4n9lOJg/)
+  - [缠住吻住春风吹住我吗](https://v.douyin.com/5S8t-PV3RWc/)
+
+---
 * **[赵赵航 | 咖啡｜音乐｜摄影｜记录日常 📷理光｜富士｜大疆 | 二百章 | Douyin](https://v.douyin.com/S4hDJkAzOFM/)**
   - [如果你也喜欢抬头看树。](https://v.douyin.com/WyFeiMcadSw/)
   - [树会拥抱每一个抬头的人。inmyfeelings | infp | 摄影 | 生活美学 | 审美积累](https://v.douyin.com/t86yd9ASmNA/)

@@ -126,6 +126,10 @@
   - [一千万粉丝了，今天带你们去看曾经最极致的浪漫，千年绝技 - 打铁花](https://v.douyin.com/rHdjP99rVo0/)
 
 ---
+* **[Youtuber是一位来自挪威的大一女生，专业是medical engineering ]()**
+  - [Youtuber是一位来自挪威的大一女生，专业是medical engineering | **参考: 2019年**](https://www.youtube.com/channel/UCc1QflC90Nkf_SDBZwJScDQ)
+
+---
 * **[Isabel Paige | 95万 |  Youtube](https://www.youtube.com/@isabel_paige)**
   - **[The Hardest Days of Winter](https://www.youtube.com/watch?v=jNqhUIYZM8Q)**
   - **[Buried in Snow…Winter In The Mountains](https://www.youtube.com/watch?v=E_TEf57zBWQ)**

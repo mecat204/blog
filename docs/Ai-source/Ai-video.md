@@ -79,6 +79,15 @@
 * **[动漫人物壁纸丶KK | 不定期更新动漫壁纸和视频，本人也是一名电商美工有需要作图的也可联系,喜欢的点关注 | 千章 | Douyin](https://v.douyin.com/1GLykkFGBhE/)**
   - [AI邵氏风农夫防扰记](https://v.douyin.com/sXv9MF0NM9o/)
 
+---
+* **[画语 | 今天辛苦啦，让我的镜头轻抚你的疲惫。| 温馨小窝 | 三百章 | Douyin ](https://v.douyin.com/SS0CJXxRZN4/)**
+  - [享受安静和独处](https://v.douyin.com/TcKDEht-kcI/)
+  - [独居生活 | loft公寓 | **Music: 满目星河(Star river in your eyes**)](https://v.douyin.com/b8V_mCMkaO4/)
+  - [loft复式 | 梦中情房](https://v.douyin.com/sSD39r513Io/)
+
+---
+* **[月生国漫社 | 每天更新精彩动画短片 | 二百章 | Douyin](https://v.douyin.com/xNfVq_epcwA/)**
+  - [你怎么跟我比，我崩溃过，你崩溃过吗](https://v.douyin.com/tJTE9FEEqog/)
 
 ---
 ### 0002. AI裂变 | 哈哈~
