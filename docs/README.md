@@ -58,6 +58,14 @@
     * [MachineLearningSystems](EnglishCourse/BooksTranslate/MachineLearningSystems)
 
 ---
+* **Book**
+  - [BookSource](Book/BookSource)
+  - [瞬间记单词](Book/瞬间记单词)
+  - [超实用15000词分类速记](Book/超实用15000词分类速记)
+  - [words](Book/words)
+  - [构词法速查表](Book/构词法速查表)
+
+---
 * **千集录**
   - [哲思](千集录/001.哲思)
   - [千思集](千集录/002.千思集)
@@ -92,14 +100,6 @@
 * **Movie**
   - [Movie](Movie/movie)
   - [Online](Movie/online)
-
----
-* **Book**
-  - [BookSource](Book/BookSource)
-  - [瞬间记单词](Book/瞬间记单词)
-  - [超实用15000词分类速记](Book/超实用15000词分类速记)
-  - [words](Book/words)
-  - [构词法速查表](Book/构词法速查表)
 
 ---
 * **科普**

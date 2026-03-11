@@ -206,7 +206,7 @@
   - [卧龙凤雏什么时候成了贬义词？其实网络热梗扭曲挤压了成语的使用空间。我们的成语有多博大精深？| 网络热梗 | 成语 | 历史 | 阅读](https://v.douyin.com/E9SCy1lVwoY/)
   - [每一次碰杯的声音，都是献给自己的祝酒词。七夕 | 敬自己](https://v.douyin.com/o_JI7HSjPds/)
   - [给我10个数的时间！带你领略那些你应该知道一点儿 的中国文化常识。传统文化 | 知识分享](https://v.douyin.com/5n_h8vS1mHU/)
-  - [2026年怎么更好地爱自己？这个视频请耐心看完。# 爱自己 - 《好的自己》- 陈果](https://v.douyin.com/LgD8k4JSklw/)
+  - **[Book: 好的自己-陈果](https://v.douyin.com/LgD8k4JSklw/)**
 
 ---
 * **[金屋电子书](https://pdfs.top/)**
@@ -220,19 +220,24 @@
   - [Ego Is the Enemy](https://www.youtube.com/watch?v=JnNUjFm4new)
 
 ---
-* **[彭春花本人](https://v.douyin.com/pacd8NSjJrE/)**
+* **[彭春花本人 | 自我养育幸存指南 | 坚持写日记20年 | 独居2年+ | 聊心理, 聊文化, 知识的终点就是使用 | 五十章 | Douyin](https://v.douyin.com/pacd8NSjJrE/)**
   - [罪与罚](https://v.douyin.com/qIFpNcEPdKs/)
   - [从暗黑情绪中获取力量](https://v.douyin.com/Pe9fdOqWUHA/)
+  - [30岁，写给20岁时紧绷的自己](https://v.douyin.com/83f_KdLrOOs/)
+
+---
 * [有声书频道](https://www.youtube.com/@ysschannel)
 * [小Lin说](https://www.youtube.com/watch?v=6y-JN5tA-pc)
 * [javascript-en](https://javascript.sumankunwar.com.np/en/)
 * [Python从入门到精通·背记手册](https://www.scribd.com/document/824085167/Python%E8%83%8C%E8%AE%B0%E6%89%8B%E5%86%8C)
 * [commons.wikimedia](https://commons.wikimedia.org/wiki/%E9%A6%96%E9%A1%B5?uselang=zh-cn)以繁体字搜索。县志等资料
-* [安娜的档案](https://zh.annas-archive.org/)
-* **[archive·互联网档案馆](https://archive.org/)**
 * [DK-English](https://www.dkefe.com/cn)
-* **[愚生](https://v.douyin.com/qWkTmDdp0_I/)**
-  - [大脑保养 刻不容缓](https://v.douyin.com/pGC5D152tM8/)
+
+---
+* **[愚生 | 读尽一生，暮首，尘归 | 百章 | Douyin](https://v.douyin.com/qWkTmDdp0_I/)**
+  - **[Book: 大脑保养 刻不容缓](https://v.douyin.com/pGC5D152tM8/)**
+  - **[Book: 孩子一生的底气](https://v.douyin.com/FxaW99WYc4Q/)**
+  - **[Book: 当下的力量](https://v.douyin.com/DSmd6g3N4tA/)**
 
 ---
 * **[毒舌心理](https://v.douyin.com/76HhCJcyqrA/)**
@@ -353,48 +358,39 @@
     - 望远山而前行
 
 ---
-* **[珍美读书](https://v.douyin.com/l8sTLo3t7oU/)**
+* **[珍美读书 | 感谢朋友们喜欢我的字, 字帖、笔、书籍 | 文案均摘抄自网络或书籍 | 千章 | Douyin](https://v.douyin.com/l8sTLo3t7oU/)**
   - [今日摘抄。| 每天学习一点点 | 读书 | 每日分享 | 提升自己 | 手写](https://v.douyin.com/wlSH9VlhBXM/)
   - [真正觉醒的家庭 | 每天学习一点点](https://v.douyin.com/HOW0JWyvrfw/)
-  - [人最好的状态 # 每天学习一点点](https://v.douyin.com/R5uX5NXPBnQ/)
-  - [什么是三观](https://v.douyin.com/TyzoIfI3ZwY/)
-    - 世界观: 认清别人
-    - 人生观: 认清自己
-    - 价值观: 认清现实
-  - [成年人的烦恼](https://v.douyin.com/SsbD2fULs8U/)
-    - 人在低谷, 不要逢人就诉苦,也不要轻易做任何决定。
-    - 成年人的烦恼, 和谁说好像都不合适。
-    - 要学会自我消化, 想开, 看开, 放开。
-    - 睡前原谅一切, 醒来便是重生。
-  - [津巴多《普通心理学》](https://v.douyin.com/lBnVMmJ01Qc/)
-    - [读书笔记| 津巴多普通心理学](https://1keven1.github.io/2021/03/05/%E3%80%90%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E3%80%91%E6%B4%A5%E5%B7%B4%E5%A4%9A%E6%99%AE%E9%80%9A%E5%BF%83%E7%90%86%E5%AD%A6/)
+  - [人最好的状态 | 每天学习一点点](https://v.douyin.com/R5uX5NXPBnQ/)
+
+  ---
+  - **[什么是三观](https://v.douyin.com/TyzoIfI3ZwY/)**
+    * **世界观: 认清别人**
+    * **人生观: 认清自己**
+    * **价值观: 认清现实**
+
+  ---
+  - **[成年人的烦恼](https://v.douyin.com/SsbD2fULs8U/)**
+    - **人在低谷, 不要逢人就诉苦, 也不要轻易做任何决定。**
+    - **成年人的烦恼, 和谁说好像都不合适。**
+    - **要学会自我消化, 想开, 看开, 放开。**
+    - **睡前原谅一切, 醒来便是重生。**
+    - **[心理学: 津巴多《普通心理学》](https://v.douyin.com/lBnVMmJ01Qc/)**
+
+    ---
 
 ---
-* **[小王子书屋 | 读书让你哪怕深陷泥泞， 也能抬头仰望星空。](https://v.douyin.com/FxqsIY3SnLE/)**
+* **[小王子书屋 | 读书让你哪怕深陷泥泞， 也能抬头仰望星空。| 二百章 | Douyin](https://v.douyin.com/FxqsIY3SnLE/)**
   - [布鲁克林有棵树](https://v.douyin.com/gdqYuK-SGVo/)
-  - 布鲁克林有棵树 | "坚持与希望"它向着天空，挣扎着生长。无论种子落在废墟、垃圾场，甚至水泥地，都会长成一棵树。这种树被称为"天堂树"。 这本书讲述了坚强，讲述阅读如何让生命变得鲜活，知识如何改变人的命运，家庭的力量如何支撑孩子去实现梦想。 希望这本讲述小女孩弗兰茜蓬勃成长的故事书，能给你注入昂扬向上的动力。
+  - **布鲁克林有棵树 | "坚持与希望"它向着天空，挣扎着生长。无论种子落在废墟、垃圾场，甚至水泥地，都会长成一棵树。这种树被称为"天堂树"。 这本书讲述了坚强，讲述阅读如何让生命变得鲜活，知识如何改变人的命运，家庭的力量如何支撑孩子去实现梦想。 希望这本讲述小女孩弗兰茜蓬勃成长的故事书，能给你注入昂扬向上的动力。**
 
 ---
-* **[糖加三勺](https://v.douyin.com/vBcispq4AAU/)**
-  - [约翰 斯皮登 刘易斯](https://v.douyin.com/Djbh51fxLEU/)
-
----
-* **[小生有礼](https://v.douyin.com/Gb64J2Kt61M/)**
-  - [时也运也命也。](https://v.douyin.com/OBMFrdIAbCw/)
-  - 天地万物不为我所有, 却为我所用
-  - 万人万事万物, 皆为我师
-  - 活在当下, 修身立德
-  - 广学致知, 知行合一
-  - 勤能补拙, 取长补短
-  - 虚怀若谷, 海纳百川
-
----
-* **[甜甜老师讲文学](https://v.douyin.com/PdRYsQbm0T4/)**
+* **[甜甜老师讲文学 | 已婚。 和老公一起讲好故事，陪大家一起过好日子。| 百章 | Douyin](https://v.douyin.com/PdRYsQbm0T4/)**
   - [文学 人生感悟 婚姻 读书 聊斋  ](https://v.douyin.com/aE_qzTFyCdk/)
-
----
-* **[书旅人间](https://v.douyin.com/1ckm1UTB12s/)**
-  - [别再被"天赋"的谎言束缚你的人生了。从今天起，拥抱"刻意练习"这门科学。](https://v.douyin.com/8M6M4sbK6s4/)
+  - [我的阿勒泰](https://v.douyin.com/WT2pCbN_43I/)
+  - [我们为什么要做一套有趣的通识的文学课](https://v.douyin.com/YorCkzevRag/)
+  - [红楼梦 | 四大名著 | 语文 | 读书](https://v.douyin.com/9xOytrHc2qk/)
+  - [文学 | 读书 | 张爱玲 | 爱情 | 过瘾](https://v.douyin.com/uaIzA281NL0/)
 
 ---
 * **[哲思读书](https://v.douyin.com/vYi-DGESEJQ/)**
@@ -567,7 +563,6 @@
 * [轻听音乐](http://qlisten.qytechs.cn/#)
 * [Sun-Panel](https://doc.sun-panel.top/zh_cn/)
 * [识典古籍](https://www.shidianguji.com/)
-* [电子书库](http://156.232.1*145:5244/ali2/%E7%BB%BC%E5%90%88%E5%A4%A7%E4%BC%9A%E5%91%98/001%20%E7%83%AD%E9%97%A8%E6%9B%B4%E6%96%B0/100T%E8%B5%84%E6%BA%90%E5%85%A8%E5%88%86%E4%BA%AB/100T%E8%B5%84%E6%BA%90/%E3%80%8A%E7%9B%AE%E5%89%8D%E8%83%BD%E6%89%BE%E5%88%B0%E6%9C%80%E5%85%A8%E7%9A%84%E7%94%B5%E5%AD%90%E4%B9%A6%E3%80%8B%E5%90%88%E9%9B%86/ePUBee%E6%95%B4%E7%AB%99%E7%94%B5%E5%AD%90%E4%B9%A6%E5%BA%93/%E3%80%902%E3%80%91)
 * [Docker是什么？](https://www.youtube.com/watch?v=ArlpZev0K0o)
 * [Docker 容器内的 Windows](https://github.com/dockur/windows)
 * [docker官网](https://docs.docker.com/get-docker/)
@@ -662,7 +657,7 @@
 * **[教科书 | 课本](https://textbook.synaiv.com/)**
 
 ---
-* **[国家中小学智慧教育平台电子教材全套 | quark](https://pan.quark.cn/s/9bdccc0db3a8#/list/share)**
+* **[国家中小学智慧教育平台电子教材全套 | quark]()**
 
 ---
 ### 020. Procreate Tutorials
@@ -719,21 +714,21 @@
 
 ---
 ### 028. 全球气象数据
-* **[全球气象数据](https://earth.nullschool.net/)**
 
----
-* **[ventusky](https://www.ventusky.com/)**
-
----
-* **[windy.com](https://windy.com)**
 
 ---
 ### 029. 梵蒂冈教堂
 * [梵蒂冈教堂](https://virtual.basilicasanpietro.va/en/basilica-viewer/st-peters-square)
 
 ---
-### 030. 宝藏网站
+### 030. 宝藏网站 | 天气 | 维修 | 摄像头 | 游戏
 * **[ventusky | Ventusky - 天气预报、雷达和风力图](https://www.ventusky.com/)**
+
+---
+* **[全球气象数据](https://earth.nullschool.net/)**
+
+---
+* **[windy.com | proxy](https://windy.com)**
 
 ---
 * **[ifixit | 免费修理手册](https://zh.ifixit.com/)**
@@ -748,7 +743,7 @@
 * **[LINUX DO - 新的理想型社区](https://linux.do/)**
 
 ---
-* **[Animagraffs——有关一切事物的动画信息图表。](https://animagraffs.com/)**
+* **[Animagraffs - 有关一切事物的动画信息图表。](https://animagraffs.com/)**
   - [human-eye](https://animagraffs.com/human-eye)
 
 ---
