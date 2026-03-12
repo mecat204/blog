@@ -580,7 +580,25 @@
 
 ---
 ### 004. Learn English Vlog
-* **[Michelle Khare | YouTube 的冒险家 | 中阶](https://www.youtube.com/@MichelleKhare)**
+* **[Leah's English 莉雅老师 | 20万 | Youtube](https://www.youtube.com/@Leah%E7%9A%84%E5%B0%8F%E6%97%A5%E8%AE%B0/videos)**
+  - Welcome! Let's learn some authentic English!
+  - 欢迎大家跟我一起学习英语口语～
+
+  - I'm an American English teacher with a degree in Linguistics and a TESOL teaching certificate. I also like to share my daily life.
+  - 我是一名美国英语教师，拥有语言学学位和TESOL教师证书。我也喜欢分享我的日常生活。
+
+  - Business inquiries only: liya427447@gmail.com
+
+  - This is my only channel on this platform!
+  - 本平台本人只有这一个英语教学账号
+
+  ---
+
+  - [My experience as an American traveling in China！| 一个美国人在中国旅行的真实感受！](https://www.youtube.com/watch?v=yagAdzdxmvI)
+  - [How to become fluent in any language | 英语母语者也要背单词吗](https://www.youtube.com/watch?v=Qfnly99n1bY)
+
+---
+* **[Michelle Khare | YouTube 的冒险家 | 534万 | 中阶 | Youtube](https://www.youtube.com/@MichelleKhare)**
   - YouTube's Daredevil 😈 For business Inquiries: michellekhare+business@gmail.com Challenge Accepted follows Michelle Khare as she attempts the world's most difficult lifestyles, stunts, and professions.
   - YouTube的《商业咨询夜魔😈侠 ： michellekhare+business@gmail.com 挑战接受》跟随米歇尔·卡尔尝试世界上最艰难的生活方式、特技和职业。
 
@@ -593,7 +611,7 @@
   - Streamy获奖者 - 最佳无剧本剧集 - 挑战 接受 2022年 Streamy提名 - 年度节目 2019 短片提名 - 年度创作者 代表： Gersh - Keith Bielory 宣传： imPRint - Emily Rennert， Lauren Denker 演讲 嘉宾： Lavin - Charles Yao
 
 ---
-* **[Max Amini | 了解即将举行的活动和演出 | 高阶](https://www.youtube.com/@MaxAmini)**
+* **[Max Amini | 了解即将举行的活动和演出 | 高阶 | 396万 | Youtube](https://www.youtube.com/@MaxAmini)**
   - 𝐓𝐈𝐂𝐊𝐄𝐓𝐒 𝐎𝐍 𝐒𝐀𝐋𝐄 𝐍𝐎𝐖!
   - 门票现已开售！
 
@@ -602,9 +620,9 @@
   - 关于即将到来的活动和演出！ 请访问 MAXAMINI.COM
 
 ---
-* **[The Balance Theory Podcast | 高阶](https://www.youtube.com/@thebalancetheorypodcast)**
+* **[The Balance Theory Podcast | 高阶 | 26.3万 | Youtube](https://www.youtube.com/@thebalancetheorypodcast)**
   - The Balance Theory is a self development podcast for people looking to build confidence in themselves and the life they want to create.
-  - 《平衡理论》是一档为那些希望建立自信和想要创造生活的人们打造的自我发展播客。
+  - **《平衡理论》是一档为那些希望建立自信和想要创造生活的人们打造的自我发展播客。**
 
   ---
   - Hosted by Erika De Pellegrin, a lawyer who’s been from the depths of burnout, people pleasing and guilt, and now to completely creating confidence in herself and built her dream life, this show delivers practical tips on mindset shifts, time optimisation, productivity, self-discovery, and intentional living.
@@ -626,12 +644,12 @@
   - 《平衡理论》是一档个人成长播客，旨在帮助人们建立自信，打造理想生活。节目由艾丽卡·德·佩莱格林主持，她是一位律师，曾深陷倦怠、讨好他人和内疚的泥沼，如今已彻底重拾自信，并实现了梦想。本节目提供关于思维转变、时间优化、效率提升、自我发现和有意识生活的实用技巧。您将学习如何更深入地了解自己，如何让行动与梦想保持一致，以及如何创造真正属于自己的生活。无论您是想克服倦怠、提高效率，还是想设计自己热爱的生活，本播客都是您平衡成功与幸福的指南.
 
 ---
-* **[Steve TV Show | "STEVE"是喜剧演员、畅销书作家、艾美奖 | 高阶](https://www.youtube.com/@SteveTVShow/featured)**
+* **[Steve TV Show | "STEVE"是喜剧演员、畅销书作家、艾美奖 | 高阶 | 828万 | Youtube](https://www.youtube.com/@SteveTVShow/featured)**
   - "STEVE" is the destination for laughter and life lessons from comedian, bestselling author, and Emmy® Award-winning host Steve Harvey, whose distinctive comedic voice and inspiring, straight talk advice have earned him global recognition as a household name.
   - "STEVE"是喜剧演员、畅销书作家及艾美®奖获奖主持人史蒂夫·哈维带来的欢笑与人生道理的目的地，他独特的喜剧嗓音和鼓舞人心、直率的建议使他成为全球家喻户晓的名字。
 
 ---
-* **[Blondie in China | 嗨！我是来自澳大利亚的艾米！过去十年间，我断断续续地在中国旅行。今天来这里和大家分享我的奇遇，品尝美食，传递正能量  | 中阶](https://www.youtube.com/@BlondieinChina)**
+* **[Blondie in China | 嗨！我是来自澳大利亚的艾米！过去十年间，我断断续续地在中国旅行。今天来这里和大家分享我的奇遇，品尝美食，传递正能量  | 中阶 | 58.5万 | Youtube](https://www.youtube.com/@BlondieinChina)**
   - Hey! I'm Amy from Australia!
   - 嘿！我是来自澳大利亚的艾米！
 
@@ -644,7 +662,7 @@
   - 我在这里分享一些疯狂的冒险，吃点美味的食物，传播正能量:)xx
 
 ---
-* **[emma chamberlain | 中阶](https://www.youtube.com/@emmachamberlain)**
+* **[emma chamberlain | 中阶 | 1200万 | Youtube](https://www.youtube.com/@emmachamberlain)**
   - other stuff i do, listen to me talk on my podcast "Anything Goes," available for free anywhere you stream podcasts.
   - 我还做的其他事情，比如 在我的播客《Anything Goes》上听我讲话，这个播客在你听播客的地方免费收听。
 
@@ -657,15 +675,16 @@
   - 每周四和周日更新新剧集。 在 www.chamberlaincoffee.com、社交媒体@chamberlaincoffee，甚至你附近的超市找到我的咖啡公司......
 
 ---
-* **[Daniel Simmons | 更新时尚、生活方式、室内设计和糕点 | 中阶](https://www.youtube.com/@imdanielsimmons)**
+* **[Daniel Simmons | 更新时尚、生活方式、室内设计和糕点 | 中阶 | 78.4万 | Youtube](https://www.youtube.com/@imdanielsimmons)**
   - Digital Diary 🤎 Weekly videos around fashion, lifestyle, interior design & pastries Daniel Simmons New York City, United States Contact: contact@danielsimmonsmedia.com
   - 数字日记 🤎 每周视频，内容涵盖时尚、生活方式、室内设计和糕点 丹尼尔·西蒙斯 纽约市，美国 联系方式：contact@danielsimmonsmedia.com
 
 ---
-* **[Life Of Riza | 中阶 | Life lessons](https://www.youtube.com/@LifeOfRiza)**
+* **[Life Of Riza | 中阶 | Life lessons | 100万 | Youtube](https://www.youtube.com/@LifeOfRiza)**
+  - [For those feeling behind in life](https://www.youtube.com/watch?v=4M6Ykqw26TI)
 
 ---
-* **[Speak English with Bo's Slow English | 初级](https://www.youtube.com/@BoSlowEnglish)**
+* **[Speak English with Bo's Slow English | 初级 | 11.2万 | Youtube](https://www.youtube.com/@BoSlowEnglish)**
   - Welcome to Bo’s Slow English!
   - 欢迎来到Bo的慢英语！
 
@@ -694,7 +713,7 @@
   - 谢谢你和我❤️一起学习
 
 ---
-* **[Luke's English Podcast | 初中级衔接](https://www.youtube.com/@LukesEnglishPodcast)**
+* **[Luke's English Podcast | 初中级衔接 | 174万 | Youtube](https://www.youtube.com/@LukesEnglishPodcast)**
   - An award-winning podcast for learners of English, since 2009.
   - 自2009年以来，这是一个获奖的英语学习者播客。
 
@@ -702,18 +721,18 @@
   - 👉 More information about Luke's English Podcast https://teacherluke.co.uk/ 👉 More information about Luke https://teacherluke.co.uk/luke/
   - 👉 关于卢克英语播客的更多信息 https://teacherluke.co.uk/ 👉 关于卢克·https://teacherluke.co.uk/luke/ 的更多信息
 
-  - [teacherluke](https://teacherluke.co.uk/)
+  - **[teacherluke | Luke’s ENGLISH Podcast | Learn British English with Luke Thompson](https://teacherluke.co.uk/)**
 
 ---
-* **[Miss Honey | 初级](https://www.youtube.com/@Slow_English_Podcast)**
+* **[Miss Honey | 初级 | 90.5万 | Youtube](https://www.youtube.com/@Slow_English_Podcast)**
   - Learn COMPREHENSIBLE English New Posts EVERY Wednesday☀️
   - 学习可理解的英语 🗣️ 每周三☀️ 新文章
 
 ---
-* **[Jalin Siu | 中级 |  亚裔女生，写实记录Vlog，类似ur mom ashley 的频道。 有个特色是时常出现多人场景，非常适合扩充社交英文、锻炼多人语境的听力能力。](https://www.youtube.com/@jalinsiu)**
+* **[Jalin Siu | 中级 |  亚裔女生，写实记录Vlog，类似ur mom ashley 的频道。 有个特色是时常出现多人场景，非常适合扩充社交英文、锻炼多人语境的听力能力。| 155万 | Youtube](https://www.youtube.com/@jalinsiu)**
 
 ---
-* **[KerryDowdle in China | 中级 | 一个在大陆的美国博主，拍一些旅游、文化相关的Vlogs， 写实风格。 除了拍大陆内容，也有美国以及其他国家的旅行内容。](https://www.youtube.com/@KerryDowdleinChina)**
+* **[KerryDowdle in China | 中级 | 一个在大陆的美国博主，拍一些旅游、文化相关的Vlogs， 写实风格。 除了拍大陆内容，也有美国以及其他国家的旅行内容。 | 8600 | Youtube](https://www.youtube.com/@KerryDowdleinChina)**
   - Hi! I'm Kerry Dowdle from Florida! I've been traveling all over China. I'm here to share some of my amazing adventures, enjoy some great food, and spread some positive energy :) xx
   - 大家好！我是来自佛罗里达的Kerry Dowdle！我一直在中国各地旅行，分享我的奇妙冒险，品尝美食，并传递满满的正能量 :) xx
 
@@ -724,11 +743,18 @@
   - [你试过在夏天穿着汉服在西湖边读诗吗？](https://www.youtube.com/watch?v=_T5KzJgUxLQ)
 
 ---
-* **[Doobydobap | 中级 | 非常幽默搞笑、旅行、食物内容](https://www.youtube.com/@Doobydobap)**
+* **[Doobydobap | 中级 | 非常幽默搞笑、旅行、食物内容 | 438万 | Youtube](https://www.youtube.com/@Doobydobap)**
+  - **[美食博主](https://doobydobap.com)**
+
+  ---
   - [100 种做方便面的方法](https://www.youtube.com/watch?v=UlafoXGyx6g)
 
 ---
-* **[Tiny Home Tours | 小户型设计](https://www.youtube.com/@TinyHomeTours/videos)**
+* **[Tiny Home Tours | 小户型设计 | 179万 | Youtube](https://www.youtube.com/@TinyHomeTours/videos)**
+  - **[Tiny Home Tours | 小家旅游](https://tinyhometours.buzzsprout.com/)**
+  - **[Home | Tiny Home Tours](https://www.tinyhometours.com/)**
+
+  ---
   - Welcome!
   - 欢迎！
 
@@ -770,7 +796,7 @@
   - [Her Tiny Home Will Change How You Think About Interior Design](https://www.youtube.com/watch?v=HSWOZdMA1n8)
 
 ---
-* **[Mind the Game | 高阶 |  勒布朗·詹姆斯的播客频道 | 体育](https://www.youtube.com/@MindTheGamePodcast)**
+* **[Mind the Game | 高阶 |  勒布朗·詹姆斯的播客频道 | 体育 | 86.8万 | Youtube](https://www.youtube.com/@MindTheGamePodcast)**
   - Mind The Game is an entry into the heralded basketball minds of LeBron James and Steve Nash.
   - 《Mind The Game》是勒布朗·詹姆斯和史蒂夫·纳什备受赞誉的篮球心灵之作。
 
@@ -783,7 +809,7 @@
   - 由UNINTERRUPTED和Wondery呈现。
 
 ---
-* **[The Diary Of A CEO | 高阶 | 嘉宾行业大牛，内容知识含金量超高。主持人英国人 | Youtube](https://www.youtube.com/@TheDiaryOfACEO)**
+* **[The Diary Of A CEO | 高阶 | 嘉宾行业大牛，内容知识含金量超高。主持人英国人 | 1520万 |  Youtube](https://www.youtube.com/@TheDiaryOfACEO)**
   - 64% of our viewers don't realise they don't subscribe, please double check, thank you!!
   - 64%的观众不知道自己没订阅，请再确认一下，谢谢！！
 
@@ -793,7 +819,7 @@
   - [WW3 Threat Assessment_ World War III Has Quietly Started! | 第三次世界大战威胁评估：第三次世界大战已悄然开始！](https://www.youtube.com/watch?v=8qObdS-bhRM)
 
 ---
-* **[The Diary Of A CEO Clips | 精品节选 |  Youtube](https://www.youtube.com/@TheDiaryOfACEOClips/videos)**
+* **[The Diary Of A CEO Clips | 精品节选 | 203万 | Youtube](https://www.youtube.com/@TheDiaryOfACEOClips/videos)**
   - This Channel is where we showcase the best clips from The Diary Of A CEO, hosted by Steven Bartlett, this show is an invitation to rethink what’s possible.
   - 这个频道是我们展示《CEO日记》中最精彩片段的地方，由史蒂文·巴特利特主持，这个节目邀请大家重新思考可能性。
 
@@ -809,7 +835,7 @@
   - [Nuclear Expert WARNS: "You Have No Idea What's Coming" | 核专家警告："你根本不知道接下来发生的事"](https://www.youtube.com/watch?v=fnGw_mT1278)
 
 ---
-* **[SMii7Y | 高阶 | 多人聊天、高效、调侃](https://www.youtube.com/@SMii7Y/videos)**
+* **[SMii7Y | 高阶 | 多人聊天、高效、调侃 | 847万 | Youtube](https://www.youtube.com/@SMii7Y/videos)**
   - Pronounced "Smitty" -  Gameplay, Funny Moments, Hilarity & More!
   - 发音为"Smitty"——游戏玩法、搞笑时刻、搞笑元素等！
 
@@ -818,7 +844,7 @@
   - 在Gamer Supps使用代码S7，订单享九折优惠！
 
 ---
-* **[SeanDoesMagic | 高阶 | 搞笑、调侃](https://www.youtube.com/@SeanDoesMagic/videos)**
+* **[SeanDoesMagic | 高阶 | 搞笑、调侃 | 1180万 | Youtube](https://www.youtube.com/@SeanDoesMagic/videos)**
   - Just a lil magician ❤️📧
   - 只是个小魔术师 ❤️ 📧
 
@@ -827,12 +853,12 @@
   - 如需商业咨询，请联系我的经理Ronit Cohn，ronit@cohntalent.com
 
 ---
-* **[The Late Late Show with James Corden | 高阶 | 主持人英音](https://www.youtube.com/@TheLateLateShow)**
+* **[The Late Late Show with James Corden | 高阶 | 主持人英音 | 2820万 | Youtube](https://www.youtube.com/@TheLateLateShow)**
   - This is the official YouTube channel for The Late Late Show with James Corden on CBS.
   - 这是CBS《詹姆斯·科登深夜秀》的官方YouTube频道。
 
 ---
-* **[Jimmy Kimmel Live | 高阶 | 脱裤秀访谈](https://www.youtube.com/@JimmyKimmelLive)**
+* **[Jimmy Kimmel Live | 高阶 | 脱裤秀访谈 | 2200万 | Youtube](https://www.youtube.com/@JimmyKimmelLive)**
   - The official Jimmy Kimmel Live!
   - 官方吉米·金梅尔现场！
 
@@ -845,7 +871,7 @@
   - 名人阅读"恶意推文"、"YouTube挑战"以及你最喜欢的深夜病毒视频的家园。
 
 ---
-* **[The Tonight Show Starring Jimmy Fallon | 中阶 | 脱裤秀访谈](https://www.youtube.com/@fallontonight)**
+* **[The Tonight Show Starring Jimmy Fallon | 中阶 | 脱裤秀访谈 | 3360万 | Youtube](https://www.youtube.com/@fallontonight)**
   - The official home of The Tonight Show Starring Jimmy Fallon!
   - 吉米·法伦主持的《今夜秀》官方主台！
 
@@ -869,8 +895,11 @@
   - Stream now: https://bit.ly/2AYGd0x
   - 立即观看：https://bit.ly/2AYGd0x
 
+  ---
+  - **[Alysa Liu Reacts to Historic U.S. Figure Skating Win, Quizzes Jimmy on His Figure Skating Knowledge | 刘艾丽莎对美国花样滑冰历史性胜利的回应，向吉米提问他的花样滑冰知识](https://www.youtube.com/watch?v=qYTYDm1IOQw)**
+
 ---
-* **[Fred Liu | 中阶 | 男、生活记录、常有朋友出境多人聊天场景](https://www.youtube.com/@Freddielooo/videos)**
+* **[Fred Liu | 中阶 | 男、生活记录、常有朋友出境多人聊天场景 | 81.2万 | Youtube](https://www.youtube.com/@Freddielooo/videos)**
   - Hi friends, My name is Fred and I make skits and vlogs
   - 大家好， 我叫弗雷德，我制作小品和视频日志
 
@@ -882,7 +911,9 @@
   - [I'm going to be a (foster) dad.](https://www.youtube.com/watch?v=8l7WbFn31jk)
 
 ---
-* **[ur mom ashley | 中阶 | 女、生活写实记录](https://www.youtube.com/@urmomashley)**
+* **[ur mom ashley | 中阶 | 女、生活写实记录 | 192万 | Youtube](https://www.youtube.com/@urmomashley)**
+
+* **[Beautiful Twin Sisters | 8.32万 | Youtube](https://www.youtube.com/@BeautifulTwinSistersPod/videos)**
 
 ---
 * **[Echo Browne | 中阶 | 女、美高中](https://www.youtube.com/@echobrownevlogs/videos)**
