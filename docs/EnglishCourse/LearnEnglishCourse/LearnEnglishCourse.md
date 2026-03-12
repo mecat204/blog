@@ -49,6 +49,7 @@
   ---
   **News**
   - [Buzzing | 用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读](https://www.buzzing.cc/)
+  - [English News In Levels | Daily News for ESL Learners at Every Level](https://englishnewsinlevels.com/)
 
   ---
   **Ai-Website**
