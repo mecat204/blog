@@ -916,7 +916,7 @@
 * **[Beautiful Twin Sisters | 8.32万 | Youtube](https://www.youtube.com/@BeautifulTwinSistersPod/videos)**
 
 ---
-* **[Echo Browne | 中阶 | 女、美高中](https://www.youtube.com/@echobrownevlogs/videos)**
+* **[Echo Browne | 中阶 | 女、美高中 | 20.6万 | Youtube](https://www.youtube.com/@echobrownevlogs/videos)**
   - new uploads every week 👀 Welcome to the channel!
   - 每周都有新上传👀 内容，欢迎来到频道！
 
@@ -929,7 +929,7 @@
   - 🌷 商业咨询：contact@seralunestudios.com
 
 ---
-* **[Max Reisinger | 中阶 | 男、美高已毕业、拍摄剪辑很棒。](https://www.youtube.com/@MaxReisinger/featured)**
+* **[Max Reisinger | 中阶 | 男、美高已毕业、拍摄剪辑很棒。 | 78.4万 | Youtube](https://www.youtube.com/@MaxReisinger/featured)**
   - This channel was an optimistic experiment aimed at encapsulating what it means to grow up and find your place in this modern-day, fast-moving, and ever-changing world.
   - 这个频道是一个乐观的实验，旨在概括成长和在这个现代、快速变化、不断变化的世界中找到归属感。
 
@@ -937,18 +937,16 @@
   - ⊶ (Consider it a coming-of-age movie, but broken up into mini episodes and behind-the-scenes looks into the story) ꐕ 🛋 Follow me on Instagram for everything that happens in between these videos - https://instagram.com/maxbrsee 🪴Connect on Linkedin - https://www.linkedin.com/in/maxreisinger 🏕 Learn more about Creator Camp - https://creatorcamp.co .Thanks for stopping by!
   - ⊶ （把它当作成长电影，但分为小集和幕后故事） ꐕ 🛋 关注我的Instagram，了解这些视频之间的所有动态——https://instagram.com/maxbrsee 🪴在LinkedIn上联系——https://www.linkedin.com/in/maxreisinger 🏕 了解更多关于创作者营的信息 - https://creatorcamp.co 感谢你的到来！
 
+---
+* **[Elliot Choy | 中阶 | 男、已毕业要往前翻大学生活Vlog。| 132万 | Youtube](https://www.youtube.com/@ELLIOTCHOY/videos)**
+  - Hi ~ I’m Elliot, based in NYC, making videos, living life.
+  - 嗨~我是Elliot，常驻纽约市，制作视频，过生活。
 
 ---
-* **[Peter Le | 中阶 | 男、医学专业](https://www.youtube.com/@petermkle)**
+* **[Nayomique | 初中阶 | 在大陆创业的美国人 | 1.13万 | Youtube](https://www.youtube.com/@NayomiqueOfficial)**
 
 ---
-* **[Elliot Choy | 中阶 | 男、已毕业要往前翻大学生活Vlog。](https://www.youtube.com/@ELLIOTCHOY/videos)**
-
----
-* **[Nayomique | 初中阶 | 在大陆创业的美国人 ](https://www.youtube.com/@NayomiqueOfficial)**
-
----
-* **[Katherine's Journey to the East 阳离子东游记 | 初中阶 | 一位同新疆人结婚生活在大陆沿海地区的美国人](https://www.youtube.com/@kats_journey_east)**
+* **[Katherine's Journey to the East 阳离子东游记 | 初中阶 | 一位同新疆人结婚生活在大陆沿海地区的美国人 | 15.4万 | Youtube](https://www.youtube.com/@kats_journey_east)**
   - CHINA OFF THE BEATEN PATH 🚲🌻 Sharing my life in rural China 🐓🌾
   - 中国 偏离人🚲🌻迹 分享我的生活 在中国🐓🌾 农村
 
@@ -965,14 +963,44 @@
   - 跟随我踏上一段旅程，探索中国人民和其美丽风景的无尽故事，从海洋到山脉再到村庄，再到介于两者之间的一切——还有一些在中国非政府组织🏞工作的有趣片段
 
 ---
-* **[This Is How We Bingham | 中阶 | 小孩家庭](https://www.youtube.com/@thisishowwebingham)**
+* **[This Is How We Bingham | 中阶 | 小孩家庭 | 133万 | Youtube](https://www.youtube.com/@thisishowwebingham)**
+  - Life is for living and we LOVE living life!
+  - 生活就是为了活着，而我们热爱生活！
+
+  ---
+  - Focused on finding the positive in every situation.
+  - 专注于在每种情况下寻找积极的一面。
+
+  ---
+  - We are a dynamic and energetic family of seven! 🤪
+  - 我们是一个充满活力、充满活力的七口之家！🤪
+
+  ---
+  - We are the HAPPIEST family on YouTube!!
+  - 我们是YouTube上最幸福的家庭！！
+
+  ---
+  - (maybe even the world)
+  - （甚至可能是全世界）
+
+  ---
+  - We love SHARING our happiness with all of you!
+  - 我们喜欢与大家分享我们的快乐！
+
+  ---
+  - This Is How We Bingham!
+  - 这就是我们宾厄姆的做法！
+
+  ---
+  - Join us on this adventure and let's take life's everyday joy to the extreme!
+  - 加入我们的冒险，让我们将生活中的日常乐趣发挥到极致！
 
 ---
-* **[Us The Duo | 中阶 | 小孩家庭  | music](https://www.youtube.com/@ustheduo/featured)**
+* **[Us The Duo | 中阶 | 小孩家庭 | 音乐 | Music | 260万 | Youtube](https://www.youtube.com/@ustheduo/featured)**
   - [Top Hits of 2023 - Us The Duo](https://www.youtube.com/watch?v=sMChO6ex5lw)
 
 ---
-* **[J House Vlogs | 中阶 | 爸妈带着一群小孩世界各地旅居](https://www.youtube.com/@jhousevlogs/featured)**
+* **[J House Vlogs | 中阶 | 爸妈带着一群小孩世界各地旅居 | 353万 | Youtube](https://www.youtube.com/@jhousevlogs/featured)**
   - Welcome to J House Vlogs.
   - 欢迎来到J House Vlogs。
 
@@ -993,26 +1021,26 @@
   - 欢迎加入我们，共度家庭时光、旅行体验和日常生活。
 
 ---
-* **[The LaBrant Fam | 中阶 | God and family](https://www.youtube.com/@ColeAndSav/featured)**
+* **[The LaBrant Fam | 中阶 | God and family | 1270万 | Youtube](https://www.youtube.com/@ColeAndSav/featured)**
   - [OUR WEDDING VIDEO. Vows to 4 year old daughter](https://www.youtube.com/watch?v=MK5zVLYXzyg)
 
 ---
-* **[The Crosbys | 初中阶段衔接 | 有一个很有意思的小孩口播列表 | music](https://www.youtube.com/@TheCrosbys/videos)**
+* **[The Crosbys | 初中阶段衔接 | 有一个很有意思的小孩口播列表 | Music | 466万 | Youtube](https://www.youtube.com/@TheCrosbys/videos)**
   - [Ocean Eyes - Billie Eilish (12-year-old Claire Crosby Live Cover)](https://www.youtube.com/watch?v=4cUuxGNY9D4)
 
 ---
-* **[English with Brittany | 初中阶段衔接 | 小孩的日常生活记录](https://www.youtube.com/@EnglishwithBrittany)**
+* **[English with Brittany | 初中阶段衔接 | 小孩的日常生活记录 | 39.5万 | Youtube](https://www.youtube.com/@EnglishwithBrittany)**
   - [Teach English to Your Baby or Child! ✨ 30-Minute MASTERCLASS for Parents](https://www.youtube.com/watch?v=seKOJ2hhHL0)
 
 ---
-* **[Speak English With Vanessa | 初级 | 初中级衔接 | 有吐字非常清晰、语速较慢的超长对话内容，有挺多雅思口语相关话题。](https://www.youtube.com/@SpeakEnglishWithVanessa)**
+* **[Speak English With Vanessa | 初级 | 初中级衔接 | 有吐字非常清晰、语速较慢的超长对话内容，有挺多雅思口语相关话题。| 717万 | Youtube](https://www.youtube.com/@SpeakEnglishWithVanessa)**
 
 ---
-* **[Ariannita la Gringa | 初阶 | 生活实用英文](https://www.youtube.com/@ariannitalagringa/videos)**
-  - Hey! I'm Ariannita, an English teacher. Let's boost your real-world English skills. Subscribe and learn!
+* **[Ariannita la Gringa | 初阶 | 生活实用英文 | English Teacher | 208万 | Youtube](https://www.youtube.com/@ariannitalagringa/videos)**
+  - **Hey! I'm Ariannita, an English teacher. Let's boost your real-world English skills. Subscribe and learn!**
 
 ---
-* **[Learn English with Bob the Canadian | 0基础 | 内容量巨大，风格偏写实记录](https://www.youtube.com/@LearnEnglishwithBobtheCanadian/videos)**
+* **[Learn English with Bob the Canadian | 0基础 | 内容量巨大，风格偏写实记录 | 244万 | Youtube](https://www.youtube.com/@LearnEnglishwithBobtheCanadian/videos)**
   - Do you want to learn English?
   - 你想学英语吗？
 
@@ -1033,16 +1061,16 @@
   - 请在继续学习英语的过程中欣赏这些视频！
 
 ---
-* **[English by Jay - Sprout | 0基础 | 剪辑很棒，比一般英文频道要更有意思](https://www.youtube.com/@englishbyjay.official)**
+* **[English by Jay - Sprout | 0基础 | 剪辑很棒，比一般英文频道要更有意思 | 32.8万 | Youtube](https://www.youtube.com/@englishbyjay.official)**
   - Watch more of my videos and learn English the natural way with Sprout 🌱 https://sproutlanguage.com/
   - 多看我的视频，用Sprout 🌱自然学习英语 https://sproutlanguage.com/
 
 ---
-* **[Volka English | 0基础 | 初阶 | 内容风格非常一致，画质很好](https://www.youtube.com/@VolkaEnglish)**
+* **[Volka English | 0基础 | 初阶 | 内容风格非常一致，画质很好 | 96.9万 | Youtube](https://www.youtube.com/@VolkaEnglish)**
 
 ---
 ### 005. 播客资源
-* **[Coffee Break English | Youtube](https://www.youtube.com/@coffeebreakenglish)**
+* **[Coffee Break English  | 21.5万 | Youtube](https://www.youtube.com/@coffeebreakenglish)**
   - Welcome to the Coffee Break English YouTube channel - start learning English on your coffee break!
   - 欢迎来到Coffee Break English频道——在你的咖啡休息时间开始学习英语吧！
 
@@ -1067,7 +1095,7 @@
   - [How to use 'get' in English](https://www.youtube.com/watch?v=1zw2pTZ9U_I&t=41s)
 
 ---
-* **[TheCottageFairy | 乡村小屋 | 分享书籍 | Youtube](https://www.youtube.com/@TheCottageFairy)**
+* **[TheCottageFairy | 乡村小屋 | 分享书籍 | Youtube | 160万 | Youtube](https://www.youtube.com/@TheCottageFairy)**
   - Salutations!
   - 问候！
 
@@ -1089,7 +1117,7 @@
   - [Let's answer your questions (because I'm snowed in) - money, bullying, moving on from youtube | 让我们来回答你的问题（因为我被大雪困住了）——钱、欺凌、离开YouTube](https://www.youtube.com/watch?v=zJ2uPZfkYMk)
 
 ---
-* **[Nischa | 投资 |  Youtube](https://www.youtube.com/@nischa)**
+* **[Nischa | 投资 | 213万 |  Youtube](https://www.youtube.com/@nischa)**
   - I’m a former Investment Banker (with an accountancy qualification) and on this channel we explore all things personal finance, self development and business.
   - 我曾是一名投资银行家（拥有会计学资格），在这个频道中我们探讨所有关于个人理财、自我发展和商业的话题。
   - Get my free spending tracker: https://nischa.me/ist/
@@ -1098,7 +1126,7 @@
   ---
   - [8 TINY Habits to Become Financially Literate In 2026](https://www.youtube.com/watch?v=uXTREehuNFU)
 
-* **[Bg2 Pod | Youtube](https://www.youtube.com/@Bg2Pod)**
+* **[Bg2 Pod | 9.93万 | Youtube](https://www.youtube.com/@Bg2Pod)**
   - Open Source bi-weekly convo w @altcap & @bgurley on all things tech, markets, investing & capitalism
   - 开源双周一次的对话，内容涵盖科技、市场、投资与资本主义@altcap与@bgurley
 
@@ -1128,7 +1156,7 @@
     - 祝大家继续享受《博德之门2》的精彩内容！
 
 ---
-* **[All-In Podcast | Youtube](https://www.youtube.com/@allin)**
+* **[All-In Podcast | 104万 | Youtube](https://www.youtube.com/@allin)**
   - Chamath Palihapitiya, Jason Calacanis, David Sacks & David Friedberg cover all things economic, tech, political, social & poker.
   - Chamath Palihapitiya、Jason Calacanis、David Sacks 和 David Friedberg 涵盖经济、科技、政治、社会和扑克等所有相关内容。
 
@@ -1158,7 +1186,7 @@
   - [Massive Somali Fraud in Minnesota with Nick Shirley, California Asset Seizure, $20B Groq-Nvidia Deal | 明尼苏达州与尼克·雪莉的大规模索马里诈骗案，加州资产没收，200亿美元Groq-Nvidia交易](https://www.youtube.com/watch?v=bhpd4NeTbCI)
 
 ---
-* **[Lex-Friedman | Math | Youtube](https://www.youtube.com/@lexfridman/videos)**
+* **[Lex-Friedman | Math | 495万 | Youtube](https://www.youtube.com/@lexfridman/videos)**
   - Lex Fridman Podcast and other videos.
   - 莱克斯·弗里德曼播客及其他视频。
 
@@ -1183,7 +1211,7 @@
 
 ---
 ###  006. 雅思 IELTS
-* **[Learn English with EnglishClass101.com | Youtube](https://www.youtube.com/@EnglishClass101/videos)**
+* **[Learn English with EnglishClass101.com | English Teacher | 865万 | Youtube](https://www.youtube.com/@EnglishClass101/videos)**
   - Learn English with EnglishClass101.com - The Fastest, Easiest and Most Fun Way to Learn English. Start speaking English in minutes with Audio and Video lessons.
   - 与英语 EnglishClass101.com 学习——最快、最简单、最有趣的学习英语方式. 通过音频和视频课程几分钟内开始说英语。
 
@@ -1212,7 +1240,7 @@
   - 点击上方红色框中的"订阅"，当新增视频时会收到通知。
 
 ---
-* **[Arnel's Everyday English | 语法 | Youtube](https://www.youtube.com/@ArnelsEverydayEnglish)**
+* **[Arnel's Everyday English | English Teacher |  语法 | 134万 |  Youtube](https://www.youtube.com/@ArnelsEverydayEnglish)**
   - Welcome to my channel!
   - 欢迎来到我的频道！
 
@@ -1273,7 +1301,7 @@
   - 阿内尔·:)
 
 ---
-* **[BBC Learning English | 听力 | Youtube](https://www.youtube.com/@bbclearningenglish)**
+* **[BBC Learning English | 980万 | 听力 | Youtube](https://www.youtube.com/@bbclearningenglish)**
   - Learn English with the BBC.
   - 跟BBC学英语。
 
@@ -1310,7 +1338,7 @@
   - 祝你学习愉快！
 
 ---
-* **[English Speaking Success | 口语 | Youtube](https://www.youtube.com/@EnglishSpeakingSuccess)**
+* **[English Speaking Success | 412万 | 口语 | Youtube](https://www.youtube.com/@EnglishSpeakingSuccess)**
   - English Speaking Success will help you develop your English speaking skills so you can face the examiner with confidence and ace the IELTS Speaking test.
   - 《英语口语成功》将帮助你提升英语口语能力，让你能够自信地面对考官，并在雅思口语测试中取得优异成绩。
 
@@ -1327,7 +1355,7 @@
   - 我没有任何隶属关系、关系、认可或认可，也没有获得英国文化协会或任何官方雅思合作伙伴的认可。
 
 ---
-* **[https://www.youtube.com/@IELTSSIMON1/videos  | 西蒙的雅思课程 | 写作 | Youtube](https://www.youtube.com/@IELTSSIMON1/videos)**
+* **[IELTS with Simon | 西蒙的雅思课程 | 2540位 |  写作 | Youtube](https://www.youtube.com/@IELTSSIMON1/videos)**
   - My name is Simon  Corcoran, and this is my mission as an IELTS teacher: I aim to provide the best information about the IELTS test, from an ex examiner's perspective.
   - 我叫西蒙·科科伦，作为一名雅思教师，我的使命是：我 致力于从一名前考官的角度，提供关于雅思考试的最佳信息。
 
@@ -1360,7 +1388,7 @@
   - 爱你们所有人！
 
 ---
-* **[E2 IELTS | 阅读 | Youtube](https://www.youtube.com/@E2IELTS)**
+* **[E2 IELTS | 阅读 | 285万 | Youtube](https://www.youtube.com/@E2IELTS)**
   - Welcome to E2 IELTS, a place for mastering the IELTS General and Academic exams.
   - 欢迎来到E2雅思，这是一个帮助精通雅思普通和学术考试的地方。
 
@@ -1394,7 +1422,7 @@
 
 ---
 ### 007. Church
-* **[2819 Church | Youtube](https://www.youtube.com/@2819Church)**
+* **[2819 Church | 165万| Youtube](https://www.youtube.com/@2819Church)**
   - Welcome to the official Youtube channel for 2819 Church.
   - 欢迎来到2819教会的官方YouTube频道。
 
@@ -1414,7 +1442,7 @@
 
 ---
 ### 008. Music | Youtube
-* **[Taylor Swift | Youtube](https://www.youtube.com/@TaylorSwift/videos)**
+* **[Taylor Swift |  6310万 | Youtube](https://www.youtube.com/@TaylorSwift/videos)**
   - And, baby, that’s show business for you.
   - 宝贝，这就是演艺圈的全部。
   - New album The Life of a Showgirl.
@@ -1486,7 +1514,7 @@
   * **[Humanity’s Real Plan to Stop This Asteroid (Feat. Mark Rober)](https://www.youtube.com/watch?v=LOn-mmezykQ)**
 
 ---
-* **[Dr. Arthur Brooks | Youtube](https://www.youtube.com/@drarthurbrooks)**
+* **[Dr. Arthur Brooks | 22.5万 | Youtube](https://www.youtube.com/@drarthurbrooks)**
   - Arthur Brooks is a Harvard professor, PhD social scientist, bestselling author, and columnist who specializes in using the highest levels of science and philosophy to provide people with actionable strategies to live their best lives.
   - 亚瑟·布鲁克斯是哈佛大学教授、社会科学家博士、畅销书作家和专栏作家，专注于运用最高层次的科学和哲学，为人们提供可行的策略，帮助他们过上最好的生活。
 
@@ -1502,7 +1530,7 @@
   - [The 3 Macronutrients of Happiness, and How to Measure Yours| 幸福的三大宏量营养素，以及如何衡量你的幸福](https://www.youtube.com/watch?v=6UAq3KAR2bc)
 
 ---
-* **[Veritasium | 科普 |  Youtube](https://www.youtube.com/@veritasium)**
+* **[Veritasium | 科普 | 2040万 |  Youtube](https://www.youtube.com/@veritasium)**
   - An element of truth - videos about science, education, and anything else we find interesting.
   - 真理元素——关于科学、教育以及我们感兴趣的任何内容的视频。
 
@@ -1513,7 +1541,7 @@
   - [The Man Who Accidentally Discovered Antimatter | 意外发现反物质的人](https://www.youtube.com/watch?v=Y-W-w8yNiKU)
 
 ---
-* **[Big Think | Youtube](https://www.youtube.com/@bigthink/videos)**
+* **[Big Think | 859万 | Youtube](https://www.youtube.com/@bigthink/videos)**
   - Big Think exists to make you smarter, faster.
   - Big Think的存在是为了让你变得更聪明、更快。
 
@@ -1533,7 +1561,7 @@
   - [The terrifying ways that social media is altering teenage brains | Clare Morell: Full Interview社交媒体如何以令人恐惧的方式改变青少年的大脑 |克莱尔·莫雷尔：完整采访](https://www.youtube.com/watch?v=tk_Q4DyWY48)
 
 ---
-* **[Nikhil Kamath | Youtube](http://youtube.com/@nikhil.kamath/videos)**
+* **[Nikhil Kamath | 220万 | Youtube](http://youtube.com/@nikhil.kamath/videos)**
   - "WTF is" is a podcast series where entrepreneur and Investor Nikhil Kamath hosts friends and industry experts and holds casual yet intellectually stimulating conversations.
   - "WTF is"是一个播客系列，企业家兼投资人Nikhil Kamath邀请朋友和行业专家，进行轻松但富有启发性的对话。
 
@@ -1637,7 +1665,7 @@
   - **[Autumn in the mountains | Slow Travel In Scottish Highlands & Edinburgh | Cozy October Cabin Living | 山中的秋天 |慢速旅行 在苏格兰高地和爱丁堡 |温馨的十月小屋生活](https://www.youtube.com/watch?v=6rMFhIgBAn4)**
 
 ---
-* **[Speak English With Vanessa | Youtube](https://www.youtube.com/@SpeakEnglishWithVanessa/videos)**
+* **[Speak English With Vanessa | 初级 | 初中级衔接 | 有吐字非常清晰、语速较慢的超长对话内容，有挺多雅思口语相关话题。| 717万 | Youtube | Youtube](https://www.youtube.com/@SpeakEnglishWithVanessa/videos)**
   - Speak English naturally, confidently, and fluently with Vanessa.
   - 与Vanessa自然、自信且流利地交流英语。
 
@@ -1653,7 +1681,7 @@
   * **[Daily Life Vocabulary You Need to Know | 你需要掌握 的日常生活词汇](https://www.youtube.com/watch?v=jwJqvuoY26o)**
 
 ---
-* **[Vanessa Lau | Youtube](https://www.youtube.com/@VanessaLau/videos)**
+* **[Vanessa Lau | 99.8万 | Youtube](https://www.youtube.com/@VanessaLau/videos)**
   - I make videos that help creators feel good, have fun, do less, and earn  ̶m̶o̶r̶e̶ enough.
   - 我制作的视频帮助创作者感觉良好、玩得开心、少做事，并赚取足够的"m̶o̶r̶e̶"。
 
@@ -1673,7 +1701,7 @@
   * **[The EASIEST Video Editing Guide for Beginners in 2026 (STEP-BY-STEP MASTERCLASS) | 2026年初学者最简单的视频剪辑指南（逐步大师班）](https://www.youtube.com/watch?v=GRO5GRx1y0A)**
 
 ---
-* **[Michelle Choi | Youtube](https://www.youtube.com/@michellechoii/videos)**
+* **[Michelle Choi | 233万 | Youtube](https://www.youtube.com/@michellechoii/videos)**
   - Hi!
   - 你好！
 
@@ -1696,10 +1724,10 @@
   - 电子邮件：michellechoi@select.co
 
   ---
-  - **[Living Alone Diaries | What I Eat in a Day (simple and easy meals) | 独居日记 |我一天吃什么（简单易吃的餐）](https://www.youtube.com/watch?v=ZACSFysf1nE)**
+  - **[Living Alone Diaries | What I Eat in a Day (simple and easy meals) | 独居日记 | 我一天吃什么（简单易吃的餐）](https://www.youtube.com/watch?v=ZACSFysf1nE)**
 
 ---
-* **[English At The Ready | Youtube](https://www.youtube.com/@englishattheready/videos)**
+* **[English At The Ready | 67.7万 | Youtube](https://www.youtube.com/@englishattheready/videos)**
   - Apply to study English with us 👇 I’m Michael Anton — born in Canada, Cambrige CELTA-certified, and founder of English At The Ready.
   - 申请加入我们👇学习英语 ，我是Michael Anton——出生于加拿大，拥有Cambrige CELTA认证，也是English At The Ready的创始人。
 
@@ -1738,7 +1766,8 @@
   - **[How to REALLY become fluent in English in 2026 | 如何在2026 年真正流利地掌握英语](https://www.youtube.com/watch?v=zxWEPWWmVio)**
 
 ---
-* **[Tyson Liberto | 自我提升 心理健康 个人成长 | Youtube](https://www.youtube.com/@tysonliberto/videos)**
+**心理健康**
+* **[Tyson Liberto | 自我提升 心理健康 个人成长 | 31.6万 | Youtube](https://www.youtube.com/@tysonliberto/videos)**
   - **[This isn't a rut, it's a spiritual attack. | 这不是发情期，而是精神上的攻击。](https://www.youtube.com/watch?v=7XKd8T0UzBU)**
 
 ---
@@ -1750,7 +1779,7 @@
   - **[why you lost your love for learning & how to get it back | 你为什么失去对学习的热爱以及如何找回它](https://www.youtube.com/watch?v=0rk9O8NUrCg)**
 
 ---
-* **[Jasmine Nadya  | Youtube ](https://www.youtube.com/@JasmineNadya/videos)**
+* **[Jasmine Nadya  | 14.3万 | Youtube ](https://www.youtube.com/@JasmineNadya/videos)**
   - The Official YouTube Channel of Jasmine Nadya.
   - Jasmine Nadya的官方YouTube频道。
 
@@ -1787,7 +1816,7 @@
   - **[dont look back in anger - oasis (cover) | 别回头看怒——Oasis（封面）](https://www.youtube.com/watch?v=QmjrLljcYSw)**
 
 ---
-* **[Elena Taber | Youtube](https://www.youtube.com/@ElenaTaber/videos)**
+* **[Elena Taber | 86.5万 | Travel | 旅行者 | Youtube](https://www.youtube.com/@ElenaTaber/videos)**
   - travel, outdoor adventures, city living, fashion, wellness, and my other 20 something misadventures in nyc, paris, and beyond 💌
   - 旅行、户外探险、城市生活、时尚、健康，以及我在纽约、巴黎和其他地方💌的其他二十多岁冒险
 
@@ -1795,7 +1824,7 @@
   - **[I travelled across the world to find WILD gorillas | this is Uganda 🇺🇬 | 我走遍了世界各地，去寻找野生大猩猩 | 这里是乌干达 🇺🇬](https://www.youtube.com/watch?v=7YjhswLfsAQ)**
 
 ---
-* **[clarisseintheclouds | 生活方式 | 自我关怀 内容创作者 | Youtube](https://www.youtube.com/@clarisseintheclouds/videos)**
+* **[clarisseintheclouds | 生活方式 | 自我关怀 内容创作者  | 28.5万 | Youtube](https://www.youtube.com/@clarisseintheclouds/videos)**
   - Lifestyle & Self-Care YouTuber — 日常生活与个人成长内容创作者
   - Vlogger — 以 vlog 形式记录日常与旅行体验
   - Content Creator — 多平台内容分享者（YouTube 为主）
@@ -1804,7 +1833,7 @@
   - **[reading holiday books to get me out of a reading slump | vlogmas day 9 | 阅读节日书籍帮我摆脱阅读低谷 | Vlogmas第9 天](https://www.youtube.com/watch?v=M9GXs0Q_05k)**
 
 ---
-* **[Lana Blakely | 生活方式、人生体验、哲学思考、自我成长和社交话题讨论 | Youtube](https://www.youtube.com/@LanaBlakely/videos)**
+* **[Lana Blakely | 生活方式、人生体验、哲学思考、自我成长和社交话题讨论 | 166万 | Youtube](https://www.youtube.com/@LanaBlakely/videos)**
   - books, solo trips, vintage finds and thinking aloud | Email hello@lanablakely.com
   - 书籍、独自旅行、复古发现和随意思考 邮件 hello@lanablakely.com
 
@@ -1812,7 +1841,7 @@
   - **[it's NOT about romanticizing your life... it’s much simpler than that | 这不是美化你的生活...... 事情远比这 简单](https://www.youtube.com/watch?v=K_d6B58lCHM)**
 
 ---
-* **[Ellison Scar | 自由职业、品牌内容创作和社媒营销 | Youtube](https://www.youtube.com/@ElliScar/videos)**
+* **[Ellison Scar | 自由职业、品牌内容创作和社媒营销 | 1.82万 | Youtube](https://www.youtube.com/@ElliScar/videos)**
   - Live Better, For Longer
   - 活得更好，活得更久
 
@@ -1823,7 +1852,7 @@
   - **[10 Longevity Habits That Actually Work (Backed by Science) - 10个真正有效的长寿习惯（有科学依据）](https://www.youtube.com/watch?v=MIU8dvLZqIM)**
 
 ---
-* **[Sydney Serena | 20岁博主 | 博主 & 生活方式 / 美妆 时尚内容创作者 | Youtube](https://www.youtube.com/@SydneySerena)**
+* **[Sydney Serena | 20岁博主 | 博主 & 生活方式 / 美妆 时尚内容创作者 | 385万| Youtube](https://www.youtube.com/@SydneySerena)**
   - just a 20-something figuring it out (and filming it).
   - 只是一个二十多岁的人摸索（并拍摄）。
 
@@ -1844,13 +1873,13 @@
   - **[i haven't felt like myself lately...|  0：02 / 13：31 最近我感觉不像自己......](https://www.youtube.com/watch?v=TCa-Apn6y6g)**
 
 ---
-* **[TheCottageFairy | 乡村 | 书籍分享 | Youtube](https://www.youtube.com/@TheCottageFairy)**
+* **[TheCottageFairy | 乡村 | 书籍分享 | 106万 | Youtube](https://www.youtube.com/@TheCottageFairy)**
   - **[A blessing and heartfelt message for the new year | 这是一份祝福和真挚的新年信息](https://www.youtube.com/watch?v=vAwRS1wx46Q)**
   - **[I have no ambition in life - but I feel fine | 我没有人生上的野心——但我感觉很好](https://www.youtube.com/watch?v=eAdhk8GkKhU)**
   - **[I Bought a Bookstore](https://www.youtube.com/watch?v=-IO3rAurptA)**
 
 ---
-* **[Birta Hlin | 时尚穿搭  | Youtube](https://www.youtube.com/@birtahlin/videos)**
+* **[Birta Hlin | 时尚穿搭 | 47.4万 | Youtube](https://www.youtube.com/@birtahlin/videos)**
   - **[weekend in oslo | food spots, thrifting & exploring the city | 奥斯陆周末 | 美食店、二手店和城市探索](https://www.youtube.com/watch?v=re7W5w81Rq8)**
   - **[first december days | 十二月初日](https://www.youtube.com/watch?v=veY2jXSxpoo)**
   - **[winter routine to feel my best | 冬季例行公事，让我感觉最佳](https://www.youtube.com/watch?v=_75CQJAKgBo)**
@@ -1862,15 +1891,16 @@
   - **[day in my life in copenhagen | new books, my workout & delicious dinner recipe | 我在哥本哈根的一天 |新书、我的锻炼和美味晚餐食谱](https://www.youtube.com/watch?v=9qR0vkgd9Rg)**
 
 ---
-* **[Nil Sani | 个人生活、时尚、美妆和生活方式  | Youtube](https://www.youtube.com/@NilSani/videos)**
+* **[Nil Sani | 47.1万 | 个人生活、时尚、美妆和生活方式  | Youtube](https://www.youtube.com/@NilSani/videos)**
   - **[a week in miami: r&r, pilates, pottery, brand trip with alo | 迈阿密一周：休息、普拉提、陶艺、和Alo 的品牌之旅](https://www.youtube.com/watch?v=2M0WJkM-Rkk)**
 
 ---
-* **[Phoebe Taylor | enjoys dressing & nesting | 喜欢穿衣和筑巢 | Youtube](https://www.youtube.com/@__phoebe.taylor/videos)**
+* **[Phoebe Taylor | 5.31万 | enjoys dressing & nesting | 喜欢穿衣和筑巢 | Youtube](https://www.youtube.com/@__phoebe.taylor/videos)**
   - **[new year's (fashion & home decor) resolutions | 新年（时尚与家居装饰）决心](https://www.youtube.com/watch?v=RR6MshB1Ads)**
 
 ---
-* **[Joel and Emilia | 8年环游世界旅行 | Youtube](https://www.youtube.com/@Joel_Emilia/videos)**
+**旅行**
+* **[Joel and Emilia | 8年环游世界旅行 | 53.9万 | Youtube](https://www.youtube.com/@Joel_Emilia/videos)**
   - Hi, we are Joel Friend and Emilia Beattie and we have been travelling the world together over the last 3 years!
   - 你好，我们是Joel Friend和Emilia Beattie，过去三年我们一起环游世界！
 
@@ -1893,7 +1923,7 @@
   - **[The Middle East’s Best-Kept Secret | 中东最隐秘的秘密](https://www.youtube.com/watch?v=BzxI1pFzSxM)**
 
 ---
-* **[Sanne Vloet | 国际模特身份起家，同时在社交媒体分享生活方式内容（生活、健身、旅行） | Youtube](https://www.youtube.com/@SanneVloet/videos)**
+* **[Sanne Vloet | 国际模特身份起家，同时在社交媒体分享生活方式内容（生活、健身、旅行）| 187万 | Youtube](https://www.youtube.com/@SanneVloet/videos)**
   - Fashion Model & Lifestyle Influencer — 以国际模特身份起家，同时在社交媒体分享生活方式内容（生活、健身、旅行）
   - YouTuber & Wellness Content Creator — 在 YouTube 上发布关于健身、健康日常、旅途 vlog 等视频内容
   - Entrepreneur & Brand Founder — 参与创立食品/健康类品牌和在线健身平台
@@ -1941,7 +1971,7 @@
   - **[Matcha Talks | Face Yoga Secrets for a Lifted & Sculpted Look | w/ Anastasia | 抹茶谈话 |面部瑜伽秘诀：提升与雕塑造型 | 与阿纳斯塔西娅 合作](https://www.youtube.com/watch?v=JRTih7Nr1zs)**
 
 ---
-* **[Janice | Youtube](https://www.youtube.com/@janicenicholee/videos)**
+* **[Janice | 52万 |  Youtube](https://www.youtube.com/@janicenicholee/videos)**
   - [Vlogmas 5/5 | Llegó Santa!🎅🎄 | Vlogmas 5/5 |圣诞莱戈！ 🎅🎄](https://www.youtube.com/watch?v=IkkMEUZtRYM)
   - [Vlogmas 4/5 🎄✨ | 视频视频 4/5 🎄✨](https://www.youtube.com/watch?v=M7zZaIAkxPY)
   - [Vlogmas 3/5🎄✨| Comprándole regalos a mis perritos🐶](https://www.youtube.com/watch?v=CfXNJ3oyMXU)
@@ -1949,7 +1979,7 @@
   - [Vlogmas 1/5 🎄✨| Christmas mood ON](https://www.youtube.com/watch?v=N4RbPWQ8kW8)
 
 ---
-* **[The Squeeze | Youtube](https://www.youtube.com/@thesqueeze/videos)**
+* **[The Squeeze  | 24.9万| Youtube](https://www.youtube.com/@thesqueeze/videos)**
   - When life gives you lemons, what do you do with them?
   - 当生活给你柠檬时，你会怎么处理它们？
 
@@ -1982,7 +2012,7 @@
   - **[Chad Franke: Freed | 查德·弗兰克：获释](https://www.youtube.com/watch?v=KUOlYFjbYvk)**
 
 ---
-* **[Jay Shetty Podcast | Youtube](https://www.youtube.com/@JayShettyPodcast./videos)**
+* **[Jay Shetty Podcast  | 538万 | Youtube](https://www.youtube.com/@JayShettyPodcast./videos)**
   - I’m Jay Shetty host of On Purpose the worlds #1 Mental Health podcast
   - 我是Jay Shetty，主持《On Purpose the worlds #1》心理健康播客
 
@@ -2026,7 +2056,7 @@
 
 ---
 ### 011. Travel on the World
-* **[DJI | Youtube](https://www.youtube.com/@DJI/videos)**
+* **[DJI | 大疆 | 595万| Youtube](https://www.youtube.com/@DJI/videos)**
   - DJI's official YouTube channel is home to everything DJI, showcasing the full and incredible capability of our latest aerial and handheld products including the Phantom, Mavic, Inspire, Ronin, and Osmo series.
   - 大疆官方YouTube频道汇聚了所有大疆相关内容，展示了我们最新空中和掌机产品的完整且令人难以置信的能力，包括Phantom、Mavic、Inspire、Ronin和Osmo系列。
 
@@ -2050,12 +2080,12 @@
   - **[SkyPixel 11th Annual Photo & Video Contest Starts Today | SkyPixel 第十一届年度摄影与视频比赛今天 开始](https://www.youtube.com/watch?v=XGsr7fsN5jIs)**
 
 ---
-* **[Dustin Dunnill | Youtube](https://www.youtube.com/@DustinDunnill/videos)**
+* **[Dustin Dunnill | 31.4万 | Youtube](https://www.youtube.com/@DustinDunnill/videos)**
   - Great Stuff Here for Radio Control and Tech Enthusiasts!
   - 这里对遥控和科技爱好者来说非常棒！
 
 ---
-* **[traveler_HIRO | Youtube](https://www.youtube.com/@traveler_HIRO/featured)**
+* **[traveler_HIRO | 6.98万 | Youtube](https://www.youtube.com/@traveler_HIRO/featured)**
   - Hey there, I’m Hiro, and welcome to traveler_HIRO!
   - 你好，我是广，欢迎来到traveler_HIRO！
 
@@ -2076,16 +2106,16 @@
   - 如果你有问题，请使用会员专属社区。
 
   ---
-  - **[火奴鲁鲁，夏威夷 - 4K 散步 | 畅享威基基海滩的日落漫步 | 美国 🇺🇸 2024年12月 [4K HDR]](https://www.youtube.com/watch?v=91RzZmn6jeI)**
+  - **[火奴鲁鲁，夏威夷 - 4K 散步 | 畅享威基基海滩的日落漫步 | 美国 🇺🇸 2024年12月 | 4K HDR](https://www.youtube.com/watch?v=91RzZmn6jeI)**
 
 ---
-* **[The Hawaii Vacation Guide | Youtube](https://www.youtube.com/@TheHawaiiVacationGuide/videoss)**
-  - Welcome to our Hawaii adventures!
-  - 欢迎来到我们的夏威夷冒险之旅！
+* **[The Hawaii Vacation Guide | 15.6万 | Youtube](https://www.youtube.com/@TheHawaiiVacationGuide/videoss)**
+  - Welcome to our **Hawaii** adventures!
+  - 欢迎来到我们的**夏威夷**冒险之旅！
 
   ---
-  - We're Erica and Jordan and we've lived on Maui and Oahu.
-  - 我们是Erica和Jordan，我们曾在茂宜岛和欧胡岛生活过。
+  - We're Erica and Jordan and we've lived on **Maui** and **Oahu**.
+  - 我们是Erica和Jordan，我们曾在**茂宜岛**和**欧胡岛**生活过。
 
   ---
   - Now, with our son and daughter in tow, we continue learning as much as possible about traveling in Hawaii.
@@ -2122,9 +2152,9 @@
   - **[Which Hawaiian Island Should You Visit | Start Here for Your Hawaii Vacation Planning | 你应该去哪个夏威夷岛屿 |从这里开始你的夏威夷度假规划](https://www.youtube.com/watch?v=2mIYF41vnhw)**
 
 ---
-* **[Iceland with a View | Youtube](https://www.youtube.com/@IcelandwithaView)**
-  - Hi, I’m Jeannie — I sold everything I owned in the U.S. and moved to Iceland!
-  - 你好，我是Jeannie——我卖掉了美国所有的东西，搬到了冰岛！
+* **[Iceland with a View | 11万 |  Youtube](https://www.youtube.com/@IcelandwithaView)**
+  - Hi, I’m Jeannie — I sold everything I owned in the U.S. and moved to **Iceland**!
+  - 你好，我是Jeannie——我卖掉了美国所有的东西，搬到了**冰岛**！
 
   ---
   - Now I help travelers plan their dream trip to this incredible country with confidence and ease.
@@ -2160,7 +2190,7 @@
   - **[Why the Ring Road is the Best Way to See Iceland | 为什么环城公路是游览冰岛 的最佳方式](https://www.youtube.com/watch?v=hgxETQBANb8s)**
   - **[Iceland Highlands: Top 5 Places to Visit | 冰岛高地：必访 五大景点](https://www.youtube.com/watch?v=y7S-aruFYis)**
 ---
-* **[Emma Marie | Youtube](https://www.youtube.com/@EmmaMariesWorld/videos)**
+* **[Emma Marie | 153万| Youtube](https://www.youtube.com/@EmmaMariesWorld/videos)**
   - Hi!
   - 你好！
 
@@ -2202,7 +2232,7 @@
   - **[a GIRL WEEKEND in my life vlog: coffee, Anna Maria day trip, markets + sunsets | 我生命中的女孩周末视频日志：咖啡、安娜玛丽亚一日游、市场+日落](https://www.youtube.com/watch?v=p6ODDTaM990)**
 
 ---
-* **[Tokyo Cheapos | Youtube](https://www.youtube.com/@tokyocheapo)**
+* **[Tokyo Cheapos | 12.7万 | Youtube](https://www.youtube.com/@tokyocheapo)**
   - Our website has almost a million readers every month, making it one of the most popular English language websites about Tokyo.
   - 我们的网站每月有近一百万读者，是东京最受欢迎的英文网站之一。
 
@@ -2236,7 +2266,7 @@
 | 苍天        | **the heavens**         | 古典、宗教 |
 
 ---
-* **[NASA | Youtube](https://www.youtube.com/@NASA/featured)**
+* **[NASA | 1270万 | Youtube](https://www.youtube.com/@NASA/featured)**
   - NASA's mission is to pioneer the future in space exploration, scientific discovery, and aeronautics research.
   - NASA的使命是开创太空探索、科学发现和航空研究的未来。
 
@@ -2257,11 +2287,15 @@
 
 ---
 ### 013. Books | Youtube
-* **[bestbookbits | Youtube](https://www.youtube.com/@BestBookBits/videos)**
+* **[bestbookbits  | 8.61万 | Youtube](https://www.youtube.com/@BestBookBits/videos)**
   - WORLD'S LARGEST FREE BOOK SUMMARY WEBSITE bestbookbits.com with over 1,000 free video, written and audio book summaries.
   - 全球最大的免费书籍摘要网站 bestbookbits.com 拥有超过1000个免费视频、书面和有声书摘要。
+
+  ---
   - You can also browse and listen to our library of book summaries on Spotify, Google Podcast and Apple Podcast.
   - 你还可以浏览并收听我们在Spotify、Google Podcast和Apple Podcast上的书籍摘要库。
+
+  ---
   - Follow Bestbookbits on Instagram, Facebook and LinkedIn.
   - 关注Bestbookbits的Instagram、Facebook和LinkedIn。
 
@@ -2269,7 +2303,7 @@
   - **[Secrets of the Wealthy Seminar | Robert Kiyosaki | 富裕研讨会的秘密 |罗伯特·清崎](https://www.youtube.com/watch?v=s0IV9EGtpx8)**
 
 ---
-* **[Motivation Alchemists | Youtube](https://www.youtube.com/@Motivation-Alchemists/videos)**
+* **[Motivation Alchemists | 2.28万 | Youtube](https://www.youtube.com/@Motivation-Alchemists/videos)**
   - Welcome to Motivation Alchemists, where we are dedicated to your personal development and success!
   - 欢迎来到Motivation Alchemists，我们致力于您的个人发展与成功！
 
