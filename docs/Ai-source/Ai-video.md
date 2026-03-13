@@ -101,6 +101,13 @@
   - [你怎么跟我比，我崩溃过，你崩溃过吗](https://v.douyin.com/tJTE9FEEqog/)
 
 ---
+* **[听禅 | 喜欢听禅，用影像表达东方觉悟。| 五十章 | Douyin](https://v.douyin.com/lS_g76BQUOM/)**
+  - [他早就放下了，你呢](https://v.douyin.com/OvNVgSAhEkw/)
+  - [无心之过不是罪，罪不在行为，而在起心动念](https://v.douyin.com/rZDtDmQ6VaI/)
+  - [欲成大事者，皆修白骨观](https://v.douyin.com/2TZtKXQUASI/)
+  - [山寺清晨，一问一答之间，没有大道理，只有挑水、砍柴、做饭。但也许答案，就在这些最普通的事情里。](https://v.douyin.com/RaPsVsWLh78/)
+
+---
 ### 0002. AI裂变 | 哈哈~
 * **[意大利面伴42号混凝土 | 原始](https://v.douyin.com/lEVbZVRvTK4/)**
   - **[意大利面拌42号混凝土，维尔康，秦始皇的身高，影响经济都出现了](https://v.douyin.com/AyT0D0pbx5k/)**

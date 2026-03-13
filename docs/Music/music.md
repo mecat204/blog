@@ -1352,6 +1352,12 @@
   - [AI歌手Yuri尤栗正式出道，"现实，你好" AI歌手 @Yuri尤栗 正式出道的采访。单曲「SURREAL」全网播放700万次达成！个人社交账号全面上线。 感谢北面 The North Face 的支持，这也是我们的生成式歌手第一个品牌合作。](https://v.douyin.com/LP7kBUiBG2Q/)
 
 ---
+* **[林花 | 总有一首歌能触动你的心灵 | 五百章 | Douyin](https://v.douyin.com/QZ2UUhpllww/)**
+  - [关于你，九个字，很喜欢，很短暂，很遗憾，原来有些人，已经见完了今生的最后一面… | **Music: 今生啊多相见**](https://v.douyin.com/LgNmDhXxocw/)
+  - [一首弥漫着深切眷恋与无奈离愁的歌曲。它道尽了人在命运面前的渺小与对缘分的执着渴求。| **Music: 今生啊多相见**](https://v.douyin.com/ngSb5lL4Pkg/)
+  - [侄女在房间唱一下午了 | **Music: 今生啊多相见**](https://v.douyin.com/vojJkSnpzJ4/)
+
+---
 ### 999. music·course
 * **[AlgerMusicPlayer | music | software](https://github.com/algerkong/AlgerMusicPlayer)**
   - [music.alger.fun](http://music.alger.fun/#/)

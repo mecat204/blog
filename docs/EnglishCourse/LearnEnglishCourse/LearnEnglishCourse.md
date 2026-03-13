@@ -1199,6 +1199,7 @@
     * [Wild China | 美丽中国]()
     * [Andy's Adventures | 安迪的冒险]()
     * [Little Human Planet | 小小人类星球]()
+  - **[一首歌让你掌握48音标 | 国际音标](https://v.douyin.com/cX7EOaZEx6Y/)**
 
 ---
 * **[乃炎英语 | 奈炎工作室 | 英语学习顾问, 专注成人零基础英语起步到提升 | 七年教龄 | 英语专八, 资深英语培训师 | 高级英语教师资格证 CATTI三级 | 一起快乐学英语 | Douyin | 五百章 | Douyin](https://v.douyin.com/pPqC74m3eTU/)**
