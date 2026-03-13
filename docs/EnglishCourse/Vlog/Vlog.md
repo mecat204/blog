@@ -2055,7 +2055,7 @@
     - **[Joe Dispenza: You've Been Programmed To Stay BROKE, STUCK & EXHAUSTED - Here's How To Break It! | 乔·迪斯彭扎：你被编程成永远破产、困顿且疲惫不堪—— 以下是如何打破它的方法！](https://www.youtube.com/watch?v=d7sUWwHugg8)**
 
 ---
-### 011. Travel on the World
+### 011. Travel on the World | 环球旅行
 * **[DJI | 大疆 | 595万| Youtube](https://www.youtube.com/@DJI/videos)**
   - DJI's official YouTube channel is home to everything DJI, showcasing the full and incredible capability of our latest aerial and handheld products including the Phantom, Mavic, Inspire, Ronin, and Osmo series.
   - 大疆官方YouTube频道汇聚了所有大疆相关内容，展示了我们最新空中和掌机产品的完整且令人难以置信的能力，包括Phantom、Mavic、Inspire、Ronin和Osmo系列。
@@ -2256,7 +2256,7 @@
   - **[Discover Kawagoe: Day Trip to ‘Old Tokyo’ | 探索川越："老东京"一日游](https://www.youtube.com/watch?v=uuWL-mXLF7k)**
 
 ---
-### 012. Universe
+### 012. Universe | 宇宙
 * **宇宙**
 | 中文        | 英语                      | 使用场景  |
 | --------- | ----------------------- | ----- |
