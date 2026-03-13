@@ -128,6 +128,17 @@
   - **[香菇影视](https://www.xiangguys.com/)**
 
 ---
+* **[Also | 绘梦 | 百章 | Douyin](https://v.douyin.com/ImjTwLpQbNE/)**
+  - [云山之间，仿佛有人在悄悄**绘梦** | midjourney | ai视频 | 审美积累 | mj | 治愈系风景](https://v.douyin.com/F7LCYbgH5Po/)
+    * **[剑与魔法的世界]()**
+    * **[铃芽之旅]()**
+    * **[你的名字]()**
+    * **[天气之子]()**
+  - [云山之间，仿佛有人在悄悄绘梦  | midjourney | ai视频 | 审美积累 | mj | 治愈系风景](https://v.douyin.com/dtOVCaucTzk/)
+  - [当引力成为原罪，漂浮者与沉沦者共同书写忏悔录 | **midjourney** | 科幻 | 在天眼开开眼 | 和宇宙聊聊天](https://v.douyin.com/Rj0db3o5Mzs/)
+  - [这个世界像是走错了一步，却刚好](https://v.douyin.com/RwnMlFH8y14/)
+
+---
 * **[雪谷 | 二次元创造者 | 国漫 新番 CG | 千章 | Douyin](https://v.douyin.com/zFmHa2Bs1Q8/)**
   - [十三境以下关我阿良十三境巅峰什么事](https://v.douyin.com/bzO6QzQ3eNo/)
   - [宁姑娘，下次见面便是告白了](https://v.douyin.com/wqONccfOmvo/)

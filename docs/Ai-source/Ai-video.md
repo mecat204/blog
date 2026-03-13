@@ -86,6 +86,17 @@
   - [loft复式 | 梦中情房](https://v.douyin.com/sSD39r513Io/)
 
 ---
+* **[Also | 绘梦 | 百章 | Douyin](https://v.douyin.com/ImjTwLpQbNE/)**
+  - [云山之间，仿佛有人在悄悄**绘梦** | midjourney | ai视频 | 审美积累 | mj | 治愈系风景](https://v.douyin.com/F7LCYbgH5Po/)
+    * **[剑与魔法的世界]()**
+    * **[铃芽之旅]()**
+    * **[你的名字]()**
+    * **[天气之子]()**
+  - [云山之间，仿佛有人在悄悄绘梦  | midjourney | ai视频 | 审美积累 | mj | 治愈系风景](https://v.douyin.com/dtOVCaucTzk/)
+  - [当引力成为原罪，漂浮者与沉沦者共同书写忏悔录 | **midjourney** | 科幻 | 在天眼开开眼 | 和宇宙聊聊天](https://v.douyin.com/Rj0db3o5Mzs/)
+  - [这个世界像是走错了一步，却刚好](https://v.douyin.com/RwnMlFH8y14/)
+
+---
 * **[月生国漫社 | 每天更新精彩动画短片 | 二百章 | Douyin](https://v.douyin.com/xNfVq_epcwA/)**
   - [你怎么跟我比，我崩溃过，你崩溃过吗](https://v.douyin.com/tJTE9FEEqog/)
 

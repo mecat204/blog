@@ -26,6 +26,7 @@
   - [巴别英语-看美剧学英语 | **巴别英语**](https://www.babelabc.com/)
   - [**Let Me English**](https://letmeenglish.com/zh-hans/)
     * [**听力训练**](https://letmeenglish.com/zh-hans/listening/)
+  - [BBC纪录片专题](https://pan.quark.cn/s/c857233e3cd5#/list/share)
 
   ---
   **新概念英语:**
@@ -45,6 +46,17 @@
   - [爱丽丝梦游仙境 | **Trancy AI双语**](https://www.typelit.io/typing-console/Alice_in_Wonderland/0/11)
   - [Obooko | Instantly download free eBooks, novels and textbooks online](https://www.obooko.com/)
   - [AI教母论文 | English]()
+
+  ---
+  **听力**
+  - **[爱听写](https://www.idictation.cn/home)**
+
+  ---
+  **[XXEnglish | 学习英语网,单词,英语单词,英语词典,单词词典,在线词典,单词查询](https://www.xxenglish.com/)**
+
+  ---
+  **Speaking**
+  - [Hi Speaking](https://hispeaking.com/c/bbc-6-minute-english/addicted-to-sugar-6-minute-english)
 
   ---
   **News**
