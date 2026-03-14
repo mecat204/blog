@@ -449,6 +449,35 @@
   - [神奇的植物 GREEN PLANET 1](https://v.douyin.com/AyWrh_p2L2U/)
 
 ---
+* **[SciShow Kids | 157万 | Youtube](https://www.youtube.com/@SciShowKids/videos)**
+  - From the team behind the YouTube series SciShow comes SciShow Kids!
+  - 由YouTube系列《SciShow》团队打造，推出了《SciShow Kids》！
+
+  ---
+  - Join host Jessi, her robot rat friend Squeaks, and all their friends at the Fort as they explain fun, complex science concepts for young, curious minds.
+  - 加入主持人Jessi、她的机器人老鼠朋友Squeaks以及所有朋友们在堡垒，向年轻好奇的孩子们讲解有趣且复杂的科学概念。
+
+  ---
+  - Whether conducting experiments, researching new questions, or talking with experts, there’s always something new to discover with SciShow Kids, no matter what your age!
+  - 无论是进行实验、研究新问题，还是与专家交流，无论年龄多大，SciShow Kids总有新发现！
+
+  ---
+  - SciShow Kids is streaming on Peacock and Roku!
+  - 《SciShow Kids》正在Peacock和Roku上线！
+
+  ---
+  - Just search for SciShow Kids to watch a special selection of our favorite compilations.
+  - 只需搜索"SciShow Kids"，即可观看我们特别精选的喜爱合集。
+
+  ---
+  - New episodes of SciShow Kids will continue to be posted on YouTube.
+  - 《SciShow Kids》的新剧集将继续在YouTube上发布。
+
+  ---
+  - SciShow Kids is ideal for early-elementary learners, Grades 1-3, and most episodes are structured around the Next Generation Science Standards (NGSS) curriculum.
+  -《SciShow Kids》非常适合1至3年级的初小学儿童，大多数节目围绕下一代科学标准（NGSS）课程展开。
+
+---
 * **[Dan Koe | 124万 | Youtube](https://www.youtube.com/@DanKoeTalks)**
 
 * **[来点思考 | 一人公司→超级个体→自我实现 帮你把想不清楚的问题判断清楚 | 二百章 | Douyin](https://v.douyin.com/OkNpJEuLTEg/)**
