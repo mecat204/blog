@@ -1280,6 +1280,10 @@
   - [英语学习：敢于开始，才能不负未来。 别等完美时机，行动才是最好的开始。](https://v.douyin.com/w45zwFfNkbg/)
 
 ---
+### 0021. Prompt | FSI
+**你是我的FSI语言教练。用Pattern Drill的方式训练我。先从Substitution Drill开始, 给我一个基础句型,然后快速给我变体提示词, 我必须在3秒内回应。如果我超过3秒,提醒我加快速度。每个句型练习20词。练完替换换之后，切换到Transfromation Drill**
+
+---
 ### 9999. Download
 * **[dlpanda](https://dlpanda.com)**
 
