@@ -38,7 +38,7 @@
 
 ---
 * **EnglishCourse**
-  - **LearnEnglishCourse**
+  - **LearnEnglishCourse | Douyin**
     * [LearnEnglishCourse](EnglishCourse/LearnEnglishCourse/LearnEnglishCourse)
   - **Bilibili**
     * [Bilibili](EnglishCourse/Bilibili/收藏集)
