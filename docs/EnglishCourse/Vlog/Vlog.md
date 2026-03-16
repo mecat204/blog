@@ -374,6 +374,11 @@
   - [Visiting an International Market](https://www.youtube.com/watch?v=3VP8OZyr87A)
 
 ---
+* **[Lana Blakely | 165万 | Youtube](https://www.youtube.com/@LanaBlakely/videos)**
+  - **books, solo trips, vintage finds and thinking aloud**
+  - **书籍、独自旅行、复古发现和随声思考**
+
+---
 * **[Mark学英语 | 为了给俩娃启蒙英语，37岁重学英语 | 百章 | Douyin](https://v.douyin.com/Fw8_g1qpMFk/)**
   - [高频英语缩略词，像母语者一样聊天 Most Common Acronyms In English](https://v.douyin.com/OylLt8yPs-w/)
   - [【英语易混词】Do vs Make：核心区别一次讲清 | 英语 | 英语口语 | 英语启蒙 | 英语学习 | 英语听力](https://v.douyin.com/THCKuOPQ_NQ/)
@@ -702,6 +707,28 @@
   ---
   - new episodes every thursday and sunday. find my coffee company online at www.chamberlaincoffee.com, on social media @chamberlaincoffee, and possibly at a grocery store near you...
   - 每周四和周日更新新剧集。 在 www.chamberlaincoffee.com、社交媒体@chamberlaincoffee，甚至你附近的超市找到我的咖啡公司......
+
+---
+* **[Girls Gone Bible | 85.9万 | Youtube](https://www.youtube.com/@GirlsGoneBible/videos)**
+  - Podcast hosted by Angela Halili and Arielle Reitsma.
+  - 播客由安吉拉·哈利利和阿丽尔·雷茨玛主持。
+
+  ---
+  - All things Jesus, all things life.
+  - 一切关于耶稣，一切关于生命。
+
+  ---
+  - A couple of imperfect girls serving an absolutely perfect God.
+  - 两个不完美的女孩侍奉着一个绝对完美的上帝。
+
+  ---
+  - We love you!
+  - -Ang & Ari
+
+  ---
+  - 我们爱你！
+  - ——安和阿里
+
 
 ---
 * **[Daniel Simmons | 更新时尚、生活方式、室内设计和糕点 | 中阶 | 78.4万 | Youtube](https://www.youtube.com/@imdanielsimmons)**
