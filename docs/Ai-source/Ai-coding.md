@@ -752,8 +752,9 @@
   - [努力送自己出国0基础自学英语day41📖发现了一个英语听说读写练习最快的捷径](https://v.douyin.com/QXa_hcVewao/)
 
 ---
-* **[ai老韩 | aigc创作者，有凡人官方授权 | 三十章 | Douyin](https://v.douyin.com/2Y3LdWQthZM/)**
+* **[ai老韩 | aigc创作者，有凡人官方授权 | 百章 | Douyin](https://v.douyin.com/2Y3LdWQthZM/)**
   - [仓坤上人副本 | 凡人修仙传 | AI创作浪潮计划 | 海艺AI | 韩立 | 南陇侯](https://v.douyin.com/zhIuD4WxtiY/)
+  - **[韩立结婴 炼虚大妖你见过吗 | 凡人修仙传 | 海艺AI](https://v.douyin.com/1reQ9vr_yyM/)**
 
 ---
 * **[哈基乱剪 | 整一些好玩的新三国二创~ 望能带给你更多的快乐 | 二十多章 | Douyin](https://v.douyin.com/pDw538G72TY/)**
