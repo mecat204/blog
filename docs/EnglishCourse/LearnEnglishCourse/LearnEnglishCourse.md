@@ -1084,12 +1084,6 @@
 
 ---
 ### 0008. 文本
-* **[英语 | 英语分享 | 二百章 | Douyin](https://v.douyin.com/zCaOBj6zFh8/)**
-  - [此刻的你，正在被无数人羡慕着，只是你不知道](https://v.douyin.com/AwQNbGLjjVQ/)
-  - [我们的大脑天生就喜欢寻找模式，并把随机事件解读为因果关系，以此来理解世界](https://v.douyin.com/wKEnCzByXRc/)
-  - [每件事到最后都会变好。如果还没变好，那说明还没到最后](https://v.douyin.com/bqzfAcdh6Gc/)
-
----
 * **[英语家园Airt | 西安点亮网络科技有限公司 | Douyin | 千章 | Douyin](https://v.douyin.com/wqHYHhqA0zc/)**
   - [大家好！今天我们来聊聊冬天。去年冬天，我开始写日记，这是我以前从未做过的事。写下我的想法帮助我理解自己的情绪，并为未来做好准备。](https://v.douyin.com/yA1UCipGkxs/)
   - [大家好。今天我们来聊聊情绪。 情绪一天中会发生变化。 早上，你可能感到开心，准备好迎接新的一天。 下午，你可能觉得疲惫。 晚上，你会感到放松，准备睡觉。 不同的情绪都是正常的。](https://v.douyin.com/7h5af2ZTKPQ/)
@@ -1101,6 +1095,19 @@
   - [深圳的冬天像极了倒放的春天，公园里的紫花风铃木正开的灿烂夺目，不是春天胜似春天](https://v.douyin.com/INaRFumCcVc/)
   - [枯树终有回春日，故人难回那年秋](https://v.douyin.com/Tk6NHV7GOC8/)
   - **[英语口语练习](https://v.douyin.com/gYBkBi5Xl98/)**
+
+---
+* **[英语 | 英语分享 | 二百章 | Douyin](https://v.douyin.com/zCaOBj6zFh8/)**
+  - [此刻的你，正在被无数人羡慕着，只是你不知道](https://v.douyin.com/AwQNbGLjjVQ/)
+  - [我们的大脑天生就喜欢寻找模式，并把随机事件解读为因果关系，以此来理解世界](https://v.douyin.com/wKEnCzByXRc/)
+  - [每件事到最后都会变好。如果还没变好，那说明还没到最后](https://v.douyin.com/bqzfAcdh6Gc/)
+
+---
+* **[Ivy趣英语 | 每日分享有趣的英语内容 | 五十章 | douyin](https://v.douyin.com/R-AY9ukX3qY/)**
+  - [英语里的数字可不止one, two, three](https://v.douyin.com/auNDDN_C2HI/)
+  - [16个常用数学符号的英文说法](https://v.douyin.com/pIYL5Zl-wA8/)
+  - [树的各个部分](https://v.douyin.com/hpzkbBcR0vw/)
+  - [如果用「绿色」来记英文单词 | 绿色植物](https://v.douyin.com/JopzneS_yzw/)
 
 ---
 ### 0009. 短剧 | English Course
