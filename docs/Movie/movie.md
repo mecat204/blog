@@ -270,7 +270,7 @@
     * **[日本动漫 | 番剧尽在番茶屋 | 免费观看高清动漫_经典 | 新番全覆盖](https://www.fanchawu.cc/)**
     * **[🍉西瓜卡通](https://cn.xgcartoon.com/)**
     * **[搜片 | 搜你想看的影片](https://soupian.one/)**
-
+    * **[bttwo](https://www.bttwo.org/hot-month)**
   ---
   - **[厂长资源](https://www.czzy.site/)**
     * **[czzymovie](https://www.czzymovie.com/)**

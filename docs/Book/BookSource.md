@@ -1,11 +1,14 @@
-### 000. Download
+### 0000. Download
 * **[必应 | bing.com](https://cn.bing.com/)**
 
 ---
 * **[dlpanda](https://dlpanda.com)**
 
 ---
-### 001. proxy·book·website
+* **[24H搜书 | AI驱动的24小时搜书平台](https://24hbook.com/)**
+
+---
+### 0001. proxy·book·website
 * **[archive·互联网档案馆](https://archive.org/)**
 
 ---
@@ -95,7 +98,7 @@
   - [LinuxProbe.com](https://www.linuxprobe.com/tools/)
 
 ---
-### 002. PE
+### 0002. PE
 * **[Ventoy](https://github.com/ventoy/Ventoy/releases)**
   - https://github.com/ventoy/Ventoy/releases
   - https://gitee.com/longpanda/Ventoy/releases/
@@ -108,7 +111,7 @@
   - git clone https://github.com/ventoy/Ventoy.git
 
 ---
-### 003. Youtube&&Book
+### 0003. Youtube&&Book
 * **[智慧猫-Wisdom Cat](https://www.youtube.com/@wisdomcat369/videos)**
   - [《超級思維》心智模型全解析](https://www.youtube.com/watch?v=kX8_uexJGE8)
   - [Ego Is the Enemy](https://www.youtube.com/watch?v=JnNUjFm4new)
@@ -164,12 +167,12 @@
   - [Suno AI 作曲](https://www.youtube.com/watch?v=TlRUg9lCKYY)
 
 ---
-### 004. 读书方法论
+### 0004. 读书方法论
 * **[十里梧桐](https://v.douyin.com/2haG3RqVmos/)**
   - [90%%的人读书都白读，不是笨，是方法太离谱。 很多人读专业书、哲学书、认知书，就跟读小说一样——从头看到尾、线性阅读，其实，他只是安静的感动了自己。 会读书的人靠的是系统化阅读： 先搭骨架，再挂信息，让书自动长进你的头脑里。 越聪明的人，越不"从头读到尾"。 | 梧桐树下 | 读书 | 梧桐树下App | 读书方法论 | 梧桐树下一起读书](https://v.douyin.com/D0oTLNWpS2c/)
 
 ---
-### 005. 收藏&&Blog
+### 0005. 收藏&&Blog
 * **收藏**
   - [github登录不上去](https://iui.su/3415/)
   - [github.hscsec.cn](https://github.hscsec.cn/chlinlearn/chlinlearn.github.io.git)
@@ -200,7 +203,7 @@
   * [**javascript.info**](https://javascript.info/)
 
 ---
-### 006. Book·文学·书法
+### 0006. Book·文学·书法
 * **[都靓读书 | 阅读是一件最重要的小事 | 千章 | Douyin](https://v.douyin.com/z4aLtYzUY2E/)**
   - [中文里每一个词都不是滥竽充数的](https://v.douyin.com/8EuHNH5Ihhw/)
   - [卧龙凤雏什么时候成了贬义词？其实网络热梗扭曲挤压了成语的使用空间。我们的成语有多博大精深？| 网络热梗 | 成语 | 历史 | 阅读](https://v.douyin.com/E9SCy1lVwoY/)
@@ -452,33 +455,33 @@
   - [冬天会周而复始，该相逢的人会再相逢。| 读完这本书你会被狠狠治愈，相当于是黑塞把他自己的自救之路融入到了这本书里。 如果你此刻心情是暗淡的，相信读完这本书，你可能也会被黑塞打捞起来| 黑塞 | 诺贝尔文学奖 | 克林索尔的最后夏天](https://v.douyin.com/2E_NTzNU9qA/)
 
 ---
-### 007. Translate
+### 0007. Translate
 * [UPDF](https://www.updf.cn/)
 
 ---
-### 008. PDF
+### 0008. PDF
 * [I LVOE PDF](https://ilovepdf.com/zh-cn)
 
 ---
-### 009. Source Search
+### 0009. Source Search
 * [小云搜索](https://www.yunso.net/)
 * [阿里云盘资源论坛](https://aliyunpan1.com/)
 
 ---
-### 010. Course
+### 0010. Course
 * [林粒粒呀](https://v.douyin.com/4RGrEHqrQ5g/)
   - [3小时学Python](https://v.douyin.com/qPcLNQj2v9U/)
 * [Python + AI探路者](https://v.douyin.com/Rmr9WZOLKSw/)
   - [九九乘法表](https://v.douyin.com/WxaV9DmPJaQ/)
 
 ---
-### 011. Photoshop
+### 0011. Photoshop
 * [tutvid](https://www.youtube.com/@tutvid)
 * [phlearn](https://www.youtube.com/@phlearn)
 * [PiXimperfect](https://www.youtube.com/@PiXimperfect)
 
 ---
-### 012. PS素材网
+### 0012. PS素材网
 * [PNG images](https://pngimg.com/)
 * [设计魔法师](https://v.douyin.com/dUzIINcner8/)
   - [下雨效果](https://v.douyin.com/TNMymwzJRYk/)
@@ -492,7 +495,7 @@
   - 神秘的Nano Banana AI 生图模型玩法大全
 
 ---
-### 013. 抖音鸡汤
+### 0013. 抖音鸡汤
 * [凌九说](https://v.douyin.com/qKr6opldBZU/)
   - [专注力和执行力](https://v.douyin.com/AvJGmeiCt9k/)
 * [心理师Suna](https://v.douyin.com/TdQ41m7FkiI/)
@@ -516,7 +519,7 @@
   - [永远不要和别人比生活，追求不同，各有活法，开心了就笑，累了就休息，日子图的是安稳和踏实](https://v.douyin.com/Xu3HFAINaXE/)
 
 ---
-### 014. 读书
+### 0014. 读书
 * **[安声漫读](https://v.douyin.com/8DbjipboglA/)**
   - [情感共鸣](https://v.douyin.com/0eMqUBqvCfc/)
 
@@ -563,7 +566,7 @@
   - [1 分钟看懂态度操控行为？行为反手就改你的三观！ 《社会心理学 第11版》：态度影响行为，行为也重塑态度，基因 文化与性别都在塑造我们理解世界的方式。](https://v.douyin.com/cp65D5ouPHQ/)
 
 ---
-### 015. 资源
+### 0015. 资源
 * [ITM资源](https://pic.itmresources.com/)
 * [轻听音乐](http://qlisten.qytechs.cn/#)
 * [Sun-Panel](https://doc.sun-panel.top/zh_cn/)
@@ -640,22 +643,22 @@
 
 
 ---
-### 016. 经济书籍推荐
+### 0016. 经济书籍推荐
 * **国富论-亚当斯密**
 * **资本论-马克思**
 * **通往奴役之路-哈耶克**
 * **就业、利息与货币通论-凯恩斯**
 
 ---
-### 017. Math书籍推荐
+### 0017. Math书籍推荐
 * **线性代数与数据学习**
 
 ---
-### 018. 学术
+### 0018. 学术
 * **[专知](https://zhuanzhi.ai/)**
 
 ---
-### 019. 教材 | 教科书
+### 0019. 教材 | 教科书
 * **[教材 | 教科书 | 人教版](https://jc.pep.com.cn/)**
 
 ---
@@ -665,16 +668,16 @@
 * **[国家中小学智慧教育平台电子教材全套 | quark]()**
 
 ---
-### 020. Procreate Tutorials
+### 0020. Procreate Tutorials
 * [Genevieve's Design Studio](https://www.youtube.com/@GenevievesDesignStudio)
 
 ---
-### 021. other
+### 0021. other
 * [北美省钱快报](https://www.dealmoon.com/)
 * [DevianArt](https://www.deviantart.com/)
 
 ---
-### 022. 哲学
+### 0022. 哲学
 * **[十里梧桐 | APP: 梧桐树下一起读书 | 逻辑化讲解世界经典著作、真实美国、前沿成果。| 家有万卷藏书，也去过很多国家; 读书，为理解世界运行的逻辑 | 五百章 | Douyin](https://v.douyin.com/eeiBJkQR00E/)**
   - [梧桐的哲学50问:明知没有答案，为什么还要去问？哲学源于闲暇和惊奇，一起追寻真理，热爱智慧！](https://v.douyin.com/ev-Y_QsiMNU/)
   - [林毅夫和杨小凯，分别提出了"后发优势"和"后发劣势"。 看似针锋相对，其实，他们说的是两个完全不同维度的问题。 因为，林毅夫讲的是技术维度，而杨小凯讲的是制度方向。 世界上有没有国家用后发优势实现了发展，又没有避免后发劣势呢？ 有，比如拉美几个国家。 有没有国家和地区，既利用了技术后发优势，又避免了制度改革的后发劣势呢？ 确实有，比如日本、韩国和TW。](https://v.douyin.com/CfHYL1TeZkk/)
@@ -691,7 +694,7 @@
   - 引导人们思想实践，也就是实践法。
 
 ---
-### 023. 文章摘录
+### 0023. 文章摘录
 * **36Kr**
   - [帮助孩子戒断AI](https://www.36kr.com/p/3259829834923785)
   - [对 ChatGPT 说:谢谢](https://www.36kr.com/p/3259665580814593)
@@ -699,34 +702,34 @@
   - [AI时代，牛马的结局终将是被抛弃](https://www.woshipm.com/ai/6207607.html)
 
 ---
-### 024. 医学
+### 0024. 医学
 * **[biodigital](https://human.biodigital.com/login?returnUrl=/explore)**
 
 ---
-### 025. Course
+### 0025. Course
 * **[Class Central | Find the best courses, wherever they exist](https://www.classcentral.com/)**
 
 ---
-### 026. News
+### 0026. News
 * **[News Minimalist — All news ranked by significance](https://www.newsminimalist.com/)**
 
 ---
 * **[今日热榜](https://tophub.today/)**
 
 ---
-### 027. 全球地震数据
+### 0027. 全球地震数据
 * **[全球地震数据](https://seismic-explorer.concord.org)**
 
 ---
-### 028. 全球气象数据
+### 0028. 全球气象数据
 
 
 ---
-### 029. 梵蒂冈教堂
+### 0029. 梵蒂冈教堂
 * [梵蒂冈教堂](https://virtual.basilicasanpietro.va/en/basilica-viewer/st-peters-square)
 
 ---
-### 030. 宝藏网站 | 天气 | 维修 | 摄像头 | 游戏
+### 0030. 宝藏网站 | 天气 | 维修 | 摄像头 | 游戏
 * **[ventusky | Ventusky - 天气预报、雷达和风力图](https://www.ventusky.com/)**
 
 ---
@@ -757,7 +760,7 @@
 * **[AI教练·振轩 | 网站资源分享 | 五百章 | Douyin](https://v.douyin.com/Z85GoFIdT5k/)**
 
 ---
-### 031. 搜索引擎
+### 0031. 搜索引擎
 * **国内好用的搜索引擎**
 |name|title|
 |:---:|:---:|
@@ -776,7 +779,7 @@
 |[PanSearch](https://www.pansearch.me/) | PanSearch-网盘资源搜索 |
 
 ---
-### 032. BooK·Search
+### 0032. BooK·Search
 * [无名图书](https://www.book123.info/)
 * [熊猫搜书](https://xmsoushu.com/)
 * [书格](https://new.shuge.org/)
@@ -788,7 +791,7 @@
 * **[精选目录](https://www.yuque.com/quruanpu/dimqr1)**
 
 ---
-### 033. 演讲
+### 0033. 演讲
 * **Jimrohn 指挥语录**
   - [01. 如果你既想富有又想快乐](https://v.douyin.com/-FOXaVqJRJI/)
   - [02. 如果你既想富有又想快乐](https://v.douyin.com/qhnO8AnwL_k/)
@@ -796,7 +799,7 @@
   - [04. 如何得到你想要的任何东西 | 思维认知 ](https://v.douyin.com/RhY2xYcxc38/)
 
 ---
-### 034. 历史
+### 0034. 历史
 * **[不屯田的邓艾](https://v.douyin.com/QfvE9t2rSGE/)**
   - [帝制两千年](https://v.douyin.com/f3grKPZXUyI/)
   - [农民起义给中国带来了什么？](https://v.douyin.com/GqQa6CWTPcE/)
@@ -807,7 +810,7 @@
   - [古装剧骗人❗除了红和黄，宫殿还有其他配色 中国古建筑讲究色彩之美，各朝各代的建筑都有偏好的色彩。听大咖说南京讲师巫鹏飞老师为我们讲述宫殿配色的演变历史…… ](https://v.douyin.com/s49OgFm0HHo/)
 
 ---
-### 035. 书单
+### 0035. 书单
 * **算法的乐趣**
 * **计算机程序设计艺术**
 * **算法设计与分析**
@@ -986,7 +989,7 @@
 * **编舟记 三浦紫苑**
 
 ---
-### 036. 编程英语单词
+### 0036. 编程英语单词
 * **application 应用程式 应用、应用程序**
 
 ---
@@ -2424,12 +2427,18 @@
 * **text 文字 文本**
 
 ---
-### 037. Coding Book
+### 0037. Coding Book
 * **[编程书籍](https://tool.lu/book?page=1)**
 
 ---
-### 999. Download
+### 9999. Download
+* **[必应 | bing.com](https://cn.bing.com/)**
+
+---
 * **[dlpanda](https://dlpanda.com)**
+
+---
+* **[24H搜书 | AI驱动的24小时搜书平台](https://24hbook.com/)**
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)

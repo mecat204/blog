@@ -1,14 +1,14 @@
-### 001. 收藏网址
+### 0001. 收藏网址
 * **[mecat](https://mecat204.github.io/website)**
 
 ---
-* **[书栈网](https://www.bookstack.cn/)**
+* **[书栈网 · BookStack_程序员IT互联网开源编程书籍免费阅读，助您【码】力十足！](https://www.bookstack.cn/)**
 
 ---
-* **[问小白](https://www.wenxiaobai.com/)**
+* **[问小白 | 探索世界的AI搭子](https://www.wenxiaobai.com/)**
 
 ---
-* **[Linux命令大全手册](https://www.linuxcool.com/)**
+* **[Linux命令大全(手册) | 真正好用的Linux命令在线查询网站](https://www.linuxcool.com/)**
 
 ---
 * **[Linux就该这么学](https://www.linuxprobe.com/)**
@@ -22,12 +22,13 @@
 * [国产操作系统、麒麟操作系统——麒麟软件官方网站](https://www.kylinos.cn/)
 
 ---
-* **[果壳剥壳](https://www.ghxi.com)**
-* [夏普官网](http://www.sharp.cn/node/1306)
-* [简单搜索](https://xgoogle.com)
+* **[果壳剥壳 | 互联网的净土](https://www.ghxi.com)**
 
 ---
-* **[CMDPE](https://cmdpe.com/)**
+* **[夏普官网 | 扫描至共享文件夹](http://www.sharp.cn/node/1306)**
+
+---
+* **[CMDPE | cmdpe网络版-可以上网、远程、下载的网络版PE系统。](https://cmdpe.com/)**
 
 ---
 * **[PCSofter](https://www.pcsofter.com/)**
@@ -47,27 +48,26 @@
 * [简书](https://www.jianshu.com)
 
 ---
-* **[Ventoy](https://www.ventoy.net/cn/download.html)**
+* **[Ventoy | 新一代多系统启动U盘解决方案](https://www.ventoy.net/cn/download.html)**
 
 ---
-* **[系统极客](https://www.sysgeek.cn/)**
+* **[系统极客 | 掌握软件技能](https://www.sysgeek.cn/)**
 
 ---
-* **[系统总裁](https://www.sysceo.com/)**
-
----
-* [系统总裁·U盘魔术师](http://www.usbrun.com/)
+* **[系统总裁 | 驱动总裁官网_驱动在线安装_离线驱动_系统封装_封装系统_Windows系统封装工具_封装软件推广联盟-系统总裁](https://www.sysceo.com/)**
+  - [系统总裁·U盘魔术师](http://www.usbrun.com/)
 
 ---
 * **[IT天空 | IT天空 - 新的十年, 新的天空](https://www.itsk.com/)**
 
 ---
-* [驱动人生](https://www.160.com/)
+* **驱动人生 | 驱动人生官网-显卡驱动_打印机驱动_网卡驱动_声卡驱动等驱动程序下载及检测平台](https://www.160.com/)**
 
 ---
 * **[向日葵 | 向日葵远程控制软件_远程控制电脑手机_远程桌面连接_远程办公|游戏|运维-贝锐向日葵官网](https://sunlogin.oray.com/)**
+
 ---
-* **[DiskGenius](https://www.diskgenius.cn/)**
+* **[DiskGenius | 数据恢复软件，硬盘分区工具，系统备份软件 - DiskGenius官方网站](https://www.diskgenius.cn/)**
 
 ---
 * [佳佳数据恢复](http://www.jjhuifu.com/)
@@ -75,12 +75,14 @@
 * [论坛- 远景论坛 - 前沿科技与智慧生态的极客社区](https://bbs.pcbeta.com/)
 * [U启大师](https://www.uqidashi.com/)
 
+---
 * **[傲梅分区助手](https://www.disktool.cn/)**
 
+---
 * [麒麟生态网站](https://eco.kylinos.cn)
 
 ---
-* **[蓝点网 | ](https://www.landiannews.com/)**
+* **[蓝点网 | 给你感兴趣的内容](https://www.landiannews.com/)**
 
 ---
 * **[海棠网  | 海棠网 - 海棠应用网专注黑科技软件,绿色无毒互联网资源分享](https://www.haitangw.cc/)**
@@ -90,14 +92,14 @@
 * **[CPU Rank List | CPU天梯图](https://cpuranklist.com/)**
 
 ---
-### 002. website·computer
-* **[CMDPE](https://www.cmdpe.com/post/542.html)**
+### 0002. website·computer
+* **[CMDPE | ChatGPT中文调教指南](https://www.cmdpe.com/post/542.html)**
 
 ---
-* **[羽兔-software](https://www.yutu.cn/popsoft.html)**
+* **[羽兔-software | 常见软件免费下载-羽兔网](https://www.yutu.cn/popsoft.html)**
 
 ---
-* **[傲梅科技](https://www.disktool.cn/)**
+* **[傲梅科技 | 傲梅分区助手、轻松备份、数据恢复(恢复之星)、远程控制（AnyViewer）等软件免费下载官网](https://www.disktool.cn/)**
 
 ---
 * **[下载易数一键还原](https://www.onekeyrestore.cn/download.php)**
@@ -109,7 +111,9 @@
 * **[笨鸟工具 | 璞玉天成, 大器晚成](http://x1y1z1.com/)**
 
 ---
-* **[PE8](https://www.pe8.com/)**
+* **[PE8 | 安装系统_系统安装_一键重装系统_重装系统软件_PE吧装机助理-pe8网文分享](https://www.pe8.com/)**
+
+---
 * [MSDN_PE8](https://msdn.pe8.com/)
 * [ExcelHome](https://www.excelhome.net/419.html)
 * [For的参数/L](http://www.360doc.com/content/10/0706/05/1438974_37156506.shtml)
@@ -118,7 +122,7 @@
 * [7z_download](https://www.7-zip.org/download.html)
 
 ---
-### 003. work·source
+### 0003. work·source
 * [ubuntu](https://releases.ubuntu.com/)
 * [chinauos](https://www.chinauos.com/)
 * [桌面专业版](https://www.chinauos.com/resource/download-professional)
@@ -129,7 +133,7 @@
   - [企业网盘](https://kodcloud.com/product/kodbox/)
 
 ---
-### 004. 常用查询命令
+### 0004. 常用查询命令
 * nslookup          查询网络IP
 * ipconfig/all      查询本地IP
 * services.msc      打开服务
@@ -150,7 +154,7 @@
 * cmd查询主机配置信息: msinfo32
 
 ---
-### 005. 命令
+### 0005. 命令
 * **跳过联网**
   - shift + F10,输入 oobe\bypassnro.cmd
   - shift + F10,输入 start ms-cxh:localonly
@@ -212,27 +216,27 @@ OOBE\BYPASSNRO
 **优先使用 `OOBE\BYPASSNRO` 命令**，这是最正统的绕过方法。如果因为快捷键失灵或其他原因无法打开CMD，那么就采用**拔掉网线**或**关闭Wi-Fi**的物理方法，这是最有效的保障。
 
 ---
-### 006. CN.AI
-* **[椒图AI](https://www.jiaotuai.cn/?ref=htw)**
+### 0006. CN.AI
+* **[椒图AI - 中文AI修图神器，一句话搞定复杂修图、电商设计、宣传海报、虚拟试衣、抠图扩图、照片修复！](https://www.jiaotuai.cn/?ref=htw)**
 
 ---
-### 007. Software Download
-* **[TZ素材网](https://www.tzsucai.com/soft.html)**
+### 0007. Software Download
+* **[TZ素材网 | 全套设计软件免费下载-带安装方法-[TZ素材网]](https://www.tzsucai.com/soft.html)**
 
 ---
-* **[trae.cn | 字节IDE](https://www.trae.cn/)**
+* **[trae.cn | 字节IDE | TRAE - The Real AI Engineer | TRAE - The Real AI Engineer](https://www.trae.cn/)**
 
 ---
-* **[羽兔网](https://www.yutu.cn/)**
+* **[羽兔网 | 年轻人都在用的自学设计平台](https://www.yutu.cn/)**
 
 ---
-* **[3d66](https://www.3d66.com/)**
+* **[3D溜溜网(3d66.com) |-全网设计素材首选平台](https://www.3d66.com/)**
 
 ---
-* **[一糖导航](https://iitang.com/)**
+* **[一糖导航丨实用的上网导航资源网址导航](https://iitang.com/)**
 
 ---
-### 008. 制作ISO
+### 0008. 制作ISO
 * 利用UltraISO,制作ISO文件
 * 利用Ventory制作U盘,把USM的ISO,wePE的ISO,Ubuntu,linux,麒麟等各种ISO镜像文件放入其中,形成一个多集合的启动项文件集成系统。
 

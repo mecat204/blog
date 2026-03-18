@@ -1,4 +1,4 @@
-### 000. music·course
+### 0000. music·course
 * **[AlgerMusicPlayer | music | software](https://github.com/algerkong/AlgerMusicPlayer)**
   - [music.alger.fun](http://music.alger.fun/#/)
   - [donate.alger.fun](https://donate.alger.fun/)
@@ -10,7 +10,11 @@
 * **[dlpanda](https://dlpanda.com)**
 
 ---
-### 001. music·movie
+* **[桃李醉春风个人制谱园地_中国曲谱网](https://www.qupu123.com/space/6)**
+  - [舍得](https://www.qupu123.com/jipu/p294759.html)
+
+---
+### 0001. music·movie
 * **work**
   - **[work && code](https://www.youtube.com/watch?v=mhNg55_IYiw&list=RDmhNg55_IYiw&start_radio=1)**
   - **[深度工作音乐](https://www.youtube.com/watch?v=TpBnbLT3Ki0)**
@@ -44,11 +48,11 @@
   - 13:19 Whispers of the Tide
 
 ---
-### 002. music-site
+### 0002. music-site
 * [unminus](https://www.unminus.com/)
 
 ---
-### 003. 战曲
+### 0003. 战曲
 * Immortals
 * Ashina deva
 * Nijamena 印度
@@ -76,7 +80,7 @@
   - https://www.youtube.com/watch?v=BzPYvrGWJgA
 
 ---
-### 004. Youtube·music
+### 0004. Youtube·music
 * **[星际穿越·Interstellar](https://www.youtube.com/watch?v=8kooIgKESYE)**
 
 ---
@@ -162,7 +166,7 @@
   - **[落笔成殇-张紫宁](https://www.youtube.com/watch?v=Kfd49eOq8-4)**
 
 ---
-### 005. TV·music
+### 0005. TV·music
 * **[华策影视官方频道 China Huace TV Official Channel | 201万 | Youtube](https://www.youtube.com/@huace/videos)**
   - **[光的方向-张碧晨 | 长歌行](https://www.youtube.com/watch?v=cwdmC6mqO1w)**
   - **[【太平年】周深献唱主题曲《万里》MV | 白宇、周雨彤、朱亚文主演五代十国历史剧 | Swords into Plowshares - OST](https://www.youtube.com/watch?v=YQmhkgCbRno)**
@@ -200,11 +204,11 @@
   - **[长安十二时辰OST](https://www.youtube.com/watch?v=JH-3KFtOf6s&list=PLGOZmHa7O-aESFChpX-hoPK2KlHhvOKyE)**
 
 ---
-### 006. Music App
+### 0006. Music App
 * **[AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer/releases)**
 
 ---
-### 007. Genshin Impact
+### 0007. Genshin Impact
 * **[Genshin Impact | Youtube](https://www.youtube.com/@GenshinImpact)**
   - [《原神》沉玉沐芳 - Disc 1：春风几度醉翘英 ](https://www.youtube.com/watch?v=UM7F_WM1Vhk&list=PLqWr7dyJNgLJCVtbW0yz_CpwpwyVwPJNX&index=1)
   - [《原神》沉玉沐芳 - Disc 2：翠羽云深隐灵濛](https://www.youtube.com/watch?v=roHkAJvAt9s&list=PLqWr7dyJNgLJCVtbW0yz_CpwpwyVwPJNX&index=2)
@@ -214,7 +218,7 @@
   - [原神交响乐](https://v.douyin.com/bUTuNkg6uI4/)
 
 ---
-### 009. Douyin
+### 0009. Douyin
 * **[房东的猫 | 千章 | Douyin](https://v.douyin.com/eQ3OWkAF9yA/)**
   - [把贵阳的风、烟火与旋律，都放进时光里慢慢发酵。山地有回响，歌声有归处。希望所有的美好，全都留在你身边。](https://v.douyin.com/UeXtbVJDfEY/)
 
@@ -266,7 +270,7 @@
   - [东方青苍和小兰花 | 苍兰诀 王鹤棣 虞书欣](https://v.douyin.com/Tn7pYlG9_zM/)
 
 ---
-### 010. 奇幻世界
+### 0010. 奇幻世界
 * **[山野漫步者 | 山野万里，藏着所有的浪漫与诗意。| 二百章 | Douyin](https://v.douyin.com/VLDy4FyOKEg/)**
   - **[乌蒙蒙的海岸线，仿佛是世界尽头的神秘画卷，让人心生敬畏。| 朦胧美 | 海岸| 浪 | 奇幻世界](https://v.douyin.com/GhGCXGPvl58/)**
   - [每一次呼吸，都能感受到大自然的清新和瀑布的磅礴](https://v.douyin.com/EHIfGsyiiGQ/)
@@ -274,7 +278,7 @@
   - [不要把秘密告诉风，风会把它传遍整个森林 | 感受大自然 | 瀑布](https://v.douyin.com/C2Kr1ix1I-0/)
 
 ---
-### 011. Youtube
+### 0011. Youtube
 * **[NoCopyrightSounds | 3430万 | Youtube](https://www.youtube.com/@NoCopyrightSounds)**
   - NCS is on a mission to soundtrack the internet.
   - NCS致力于为互联网配乐。
@@ -314,7 +318,7 @@
   - 如果你是音乐人或乐队正在寻找制作人，我帮助艺术家打造他们的声音，实现他们的愿景——联系我，cr@centralrecord.pro。
 
 ---
-### 012. music-bgmusic
+### 0012. music-bgmusic
 * **[Daniel Deluxe - Star Eater](https://www.youtube.com/watch?v=QHNakk1oM7g&list=RDQHNakk1oM7g&start_radio=1)**
 
 ---
@@ -341,12 +345,12 @@
   - **[国风MV](https://www.youtube.com/watch?v=Rflz7mdY2_Y&list=RDRflz7mdY2_Y&start_radio=1)**
 
 ---
-### 013. 日语·声优
+### 0013. 日语·声优
 * **[芯如 shirol](https://v.douyin.com/YGEQzStkUcM/)**
   - [我做了一个很长的梦日语·爱情·离别](https://v.douyin.com/_N_kxqj8_UY/)
 
 ---
-### 014. 古琴 | 古筝 |  笛子 | 钢琴 | 小提琴
+### 0014. 古琴 | 古筝 |  笛子 | 钢琴 | 小提琴
 * **[浅影阿 | 千章 | Douyin](https://v.douyin.com/j9R790aOI3M/)**
   - [谪居](https://v.douyin.com/BTeGOKmQ89M/)
   - [我走在长街中！](https://v.douyin.com/2vkb2aZVXfo/)
@@ -556,7 +560,7 @@
   - [我们可能已经和很多人见了最后一面. | **钢琴** | **别离** | **emo**](https://v.douyin.com/cef5SvZz1Ro/)
 
 ---
-### 015. music·author
+### 0015. music·author
 * **[银屏系漫游指南](https://www.youtube.com/@%E9%93%B6%E5%B1%8F%E7%B3%BB%E6%BC%AB%E6%B8%B8%E6%8C%87%E5%8D%97)**
   - **[为什么《星际穿越》的配乐，你一听就想哭？](https://www.youtube.com/watch?v=aN53Va60sY8)**
 
@@ -564,7 +568,7 @@
 * **[M83 - Oblivion | 遗落战境](https://www.youtube.com/watch?v=UjpbQ1OWMPE&list=RDUjpbQ1OWMPE&start_radio=1)**
 
 ---
-### 016. 音乐带来力量
+### 0016. 音乐带来力量
 * **这个问题非常深刻，涉及到**心理学、生理学与神经科学**的多个层面。我们之所以在心情低落时听音乐会感到被"治愈"或获得"力量感"，其实是因为音乐在多重机制上与人类的情绪系统发生了共鸣。下面我们可以分几个层面来看：**
 
 ---
@@ -677,7 +681,7 @@
 > **音乐在我们最脆弱的时候，帮我们重新找到自己。**
 
 ---
-### 017. 收音机 | Douyin
+### 0017. 收音机 | Douyin
 * **[收音HiFi | 本人喜欢音响最爱收音机，听听广播电台的声音，听听新闻除却一天的疲劳，何尝不是一种惬意。| 千章 | Douyin](https://v.douyin.com/n3lGlAiON2g/)**
   - [熟悉的声音传来，瞬间清醒睡不着觉，有朋友知道这是哪期的节目吗？ | 收音机](https://v.douyin.com/TonN4WDJ1q8/)
   - [在深圳拼搏过的朋友还记得这个节目吗？当时来到深圳摸不清方向很迷茫晚上下了班回到宿舍打开收音机听听可以让人放松的广播，特别是胡晓梅的《夜空不寂寞》令人难以忘怀基本都是听她的节目入睡，讲的也是很多身同感受的故事，很是励志共鸣，第二天又打满鸡血似的去富士康工厂工作，这就是广播的能量，我还记得这个节目播出的频率是97.1MHz，现在这个频率电台还在，但是这个节目却没有了。特意把之前的一段录音分享出来。朋友你还记得这个节目吗？收音机| 怀旧经典 | 胡晓梅的夜空不寂寞 | 8090后](https://v.douyin.com/1HgeXikIopI/)
@@ -695,7 +699,7 @@
   - [千里共良宵2020.01.29，姚科：曾经的年](https://v.douyin.com/fkLpE1M0YKo/)
 
 ---
-### 018. 自创乐器 | 鼓点
+### 0018. 自创乐器 | 鼓点
 * **[厨乐小屋 | 百章 | Douyin](https://v.douyin.com/xEGf_Kx2XGs/)**
   - [大家都听听看行不行| 笛子 | 新手笛子 | 何以歌 | 自制乐器](https://v.douyin.com/SiI27ugDMAM/)
 
@@ -703,7 +707,7 @@
 * **[极美大师姐 | 一个来自外星的外星人 | 百章 | Douyin](https://v.douyin.com/zyIp7ZOwjmA/)**
   - [青春若有BGM，我的部分必须用大鼓开场](https://v.douyin.com/JTLo_qmrhDU/)
 
-### 019. 雨声 | 音乐 | 催眠
+### 0019. 雨声 | 音乐 | 催眠
 * **[合集]**
   - [asmr，rain sounds for sleeping，2022](https://www.youtube.com/watch?v=-ERFwSSqg1Y)
   - [Top 5 Most Beautiful Tracks by Peder B. Helland in 2025](https://www.youtube.com/watch?v=tHsmufMcCqY)
@@ -906,12 +910,12 @@
   * **[GOD IS WITH ME - Soaking worship instrumental | Prayer and Devotional 神与我同在 - 浸湿敬拜器乐 | 祈祷与灵修](https://www.youtube.com/watch?v=uaaIM0YJATo)**
 
 ---
-### 020. 合唱
+### 0020. 合唱
 * **[李拜天来唱歌 | 指挥里最会唱歌的，会唱更会教的声乐老师 | 音乐哲学博士 | 四川音乐学院在编 | 三百章  | Douyin](https://v.douyin.com/WRiV7QNqVvk/)**
   - [童声版的《晴天》来啦！👧👦清澈的嗓音像雨后的彩虹，治愈所有不开心 | 周杰伦 晴天 童声合唱 童声](https://v.douyin.com/vYCBl4c7Qu8/)
 
 ---
-### 021. 抖音配乐 | 古风歌曲
+### 0021. 抖音配乐 | 古风歌曲
 * **[哈游记 | 读风看景，走心驻足。| 千章 | Douyin](https://v.douyin.com/3FMFvNakcX8/)**
   - [牵丝戏 | 古风歌曲](https://v.douyin.com/AeQW8sS8u1I/)
   - 烟波里成灰 也去得完美 风雪依稀 秋白发尾 灯火葳蕤 揉皱你眼眉 《牵丝戏》凭借婉转戏腔和动人词作成为古风圈经典曲目  | 歌曲欣赏  | 牵丝戏  | 古风歌曲  | 音乐视频  | 夕阳美景
@@ -923,7 +927,7 @@
   - [真正的智慧，不是填满所有答案，而是守护那些"不必懂"的留白。](https://v.douyin.com/a17KtNaLQzA/)
 
 ---
-### 022. 怀旧经典
+### 0022. 怀旧经典
 * **[天空日记 | 呼伦贝尔 |  在这片天空下 ✨ 春夏秋冬，每一天都值得记录 | 千章 | Douyin](https://v.douyin.com/1R6WatkdbEk/)**
   - [秋天适合思念，更适合见面，所以我们什么时候见一面 | 我在出片前线 | 这里秋天的树张力拉满了 | 治愈系风景](https://v.douyin.com/7KiHhKVGdO4/)
   - [夏天会周而复始 相逢的人会再相逢 | 治愈系风景](https://v.douyin.com/yt0Sp5h5Fl8/)
@@ -996,7 +1000,7 @@
   - [四姑娘山日照金山。| 川西美景 | 日落金山 | 雪山美景 | 幺妹峰](https://v.douyin.com/aS9eTMU0cLM/)
 
 ---
-### 023. English song
+### 0023. English song
 * **[Us The Duo | 中阶 | 小孩家庭  | music | Youtube](https://www.youtube.com/@ustheduo/featured)**
   - Our brand new album "Covers from Home" is out now!
   - 我们的全新专辑《Covers from Home》现已发行！
@@ -1034,12 +1038,12 @@
   - [Ocean Eyes - Billie Eilish (12-year-old Claire Crosby Live Cover)](https://www.youtube.com/watch?v=4cUuxGNY9D4)
 
 ---
-### 024. miHoYo
+### 0024. miHoYo
 * **[yfan | 让我们点推荐！~ 喜欢风物之诗琴的原神玩家，音乐原创改编 | 二百章 | Douyin](https://v.douyin.com/MYFMMUh5VFM/)**
   - [我们会想你的，哥伦比娅…… 原琴玩家 | 哥伦比娅 | 原神月之三 | 青年创作者成长计划](https://v.douyin.com/PohUscXwn9c/)
 
 ---
-### 025. music
+### 0025. music
 * **[民谣战哥 | 每天分享好听的民谣，生活的点滴，感谢关注 | 热爱可低岁月漫长，爱你所爱 | 三千章 | Douyin](https://v.douyin.com/ig7TBLhjMfc/)**
   - [任素汐是被演戏耽误的歌手吧！这声音共情力太强了| 任素汐新歌唱哭了| 王招君| 盼望你| 想你](https://v.douyin.com/CB_JlZEPoCU/)
   - [和爱的人一起，简单平淡的生活，何尝不是很多人的向往。](https://v.douyin.com/hhNO7p4USGc/)
@@ -1335,7 +1339,7 @@
   - [洛阳的仙气越来越重了](https://v.douyin.com/TYE8vFFEsOQ/)
 
 ---
-### 026 AI 歌手
+### 0026 AI 歌手
 * **[Yuri尤栗 | 生成式歌手｜"现实，你好。" | 百章 | Douyin](https://v.douyin.com/F6V0H7cCdhU/)**
   - [AI能理解美吗？ "什么是美？是外在的光鲜，还是内心的温暖？" 作为小美公益的探索官，我有了全新的答案。 我和小美公益一起，去探索那些真正能改变世界的小小行动：不是华丽的展示，而是默默地去接住他人的无助，给予力量。 从「心灵疗愈」到「盲童钢琴」，从「长城保护」到「野朋友」，每一份看似不起眼的付出，都是对"美"最深刻的诠释。 它不是单纯的被看见，而是看见了谁的脆弱，伸出手去接住。 希望大家也能从这段影片中，感受到那份温暖的力量，并把它传递下去。小美公益 | 一起SSV | Yuri | **Yuri尤栗** | aitalk](https://v.douyin.com/HKu15KarUbQ/)
   - [第一人称 快看漫画2.0版本主题曲 我穿越到了互动漫画里 这是我为快看漫画2.0全新版本创作的主题曲。 嗯…当漫画不再只是被阅读，当角色有了灵魂并回应我们的情绪，一种关于漫画体验的全新尝试，正在发生😲 漫画再次进化，快看AI陪伴互动漫画，是一种更加突破次元的超沉浸体验！ 「第一人称」是种态度：不再只做旁观者，我想要超真实第一视角、多类型优质剧情掉落、即时的恋爱反馈……一次全新的漫画体验探索正式开启～ 在歌声中一起寻找更多关于漫画的可能性吧🎵 | 全球首个AI陪伴互动漫画 | 快看AI陪伴互动漫画 | 快看漫画 | **Yuri尤栗** | **AITALK**](https://v.douyin.com/dAgzpO8a_eE/)
@@ -1359,7 +1363,7 @@
   - [侄女在房间唱一下午了 | **Music: 今生啊多相见**](https://v.douyin.com/vojJkSnpzJ4/)
 
 ---
-### 999. music·course
+### 9999. music·course
 * **[AlgerMusicPlayer | music | software](https://github.com/algerkong/AlgerMusicPlayer)**
   - [music.alger.fun](http://music.alger.fun/#/)
   - [donate.alger.fun](https://donate.alger.fun/)
@@ -1369,6 +1373,10 @@
 
 ---
 * **[dlpanda](https://dlpanda.com)**
+
+---
+* **[桃李醉春风个人制谱园地_中国曲谱网](https://www.qupu123.com/space/6)**
+  - [舍得](https://www.qupu123.com/jipu/p294759.html)
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
