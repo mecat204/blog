@@ -441,6 +441,12 @@
   - [再见，2025！ | 创始人故事 | 创业日记 | 句乐部 | 无痛学英语 | 学英语](https://v.douyin.com/LrW2fSHy77U/)
 
 ---
+* **[Emily英文绘本故事 | 北大本硕 | 15年 + 教育人 | 俩娃妈妈 | 把教育经验熬成原创英语绘本故事 | 用妈妈的视角, 讲孩子能听懂的英文内容, 每天5分钟磨耳朵,陪娃轻松爱上英语 | 百章 | Douyin](https://v.douyin.com/jkP_utJS_p8/)**
+  - [守株待兔英文版](https://v.douyin.com/o-1mfFfzW4M/)
+  - [狮子王](https://v.douyin.com/erRH2wGf7ss/
+  - [疯狂原始人](https://v.douyin.com/6M9pCejaAZI/)
+
+---
 * **[茵茵老师 | 一名一线英语教书匠 | 五百章 | Douyin](https://v.douyin.com/APnunC4tVXM/)**
   - [励志英语](https://v.douyin.com/FS3sz0uAsbs/)
 
@@ -1122,6 +1128,17 @@
   - [在线英语外教一对一英语口语 外教：记忆单词的最佳方式是多读。|英语流利说](https://v.douyin.com/S_WuSgv0SEM/)
   - **[English Fluency Jounery | 223万 | Youtube](https://www.youtube.com/@EnglishFluencyJourney/videos)**
   - [English Fluency Journey | Hanna Khoma](https://www.englishfluencyjourney.com/)
+
+---
+* **[Emily英文绘本故事 | 北大本硕 | 15年 + 教育人 | 俩娃妈妈 | 把教育经验熬成原创英语绘本故事 | 用妈妈的视角, 讲孩子能听懂的英文内容, 每天5分钟磨耳朵,陪娃轻松爱上英语 | 百章 | Douyin](https://v.douyin.com/jkP_utJS_p8/)**
+  - [守株待兔英文版](https://v.douyin.com/o-1mfFfzW4M/)
+  - **[狮子王](https://v.douyin.com/erRH2wGf7ss/)**
+    * **[狮子王 | 1994](https://www.libvio.mov/play/167-1-1.html)**
+  - [疯狂原始人](https://v.douyin.com/6M9pCejaAZI/)
+
+---
+* **[老李撩英语 | 前新东方教师 | 公立学校英语教师 | 英语短剧 | 五百章 | Douyin](https://v.douyin.com/p4pyAnZgIs4/)**
+  - [英语短剧 | shortdrama | micro-drama | 丈夫空中"表演",落地如何受到惩罚？Min: 06:26](https://v.douyin.com/sIghTyvn9PY/)
 
 ---
 * **[英语超级屋 | 感受世界，感受人文，遇见这个世界上美好的人和事 学好英语，感受语言，遇见这个时间里最好的自己... | 三百章 | Douyin](https://v.douyin.com/JLRyWueVrOE/)**

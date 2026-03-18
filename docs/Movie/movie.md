@@ -41,9 +41,10 @@
 
   ---
   * **libvio**
+  - **libvio.app**
   - **[libvio.mov](https://libvio.mov/)**
     * **[剑来 | quark](https://pan.quark.cn/s/1783bc24dc32#/list/share)**
-
+    * **[狮子王 | 1994](https://www.libvio.mov/play/167-1-1.html)**
   - **[libvio.vip](https://libvio.vip/)**
 
   ---
@@ -114,7 +115,7 @@
   - **[夸克4K资源](https://quark4k.com/)**
   - **[子子影视](https://www.ziziys.net/)**
   - **[i.iao.su](https://i.iao.su/?2025/%E9%9F%B3%E4%B9%90)**
-  - **[BT影视](https://www.btbtl.com/)**
+  - **[BT影视](https://www.btbtla.com/)**
     * **[后宫](https://pan.quark.cn/s/16aca5d345d3#/list/share)**
     * **[中国](https://pan.quark.cn/s/f6e2ed2d0f6a#/list/share)**
     * **[第一序列]**
@@ -432,15 +433,15 @@
 
 ---
 ### 012. 博物院
-* [故宫博物馆](https://www.dpm.org.cn/)
+* **[故宫博物馆](https://www.dpm.org.cn/)**
 
 ---
-### 013. youtube·subscription
-* [WasabiDrama](https://www.youtube.com/@WasabiDrama)
-  - [WasabiDrama·bilibili](space.bilibili.com/68412710)
+### 013. 影视解说 | Youtube&&Bilibili
+* **[WasabiDrama](https://www.youtube.com/@WasabiDrama)**
+  - [哇萨比抓马 | 哇是猫，男声萨比，女声抓马 影视系毕业生/又细又长 | 111.8万](https://space.bilibili.com/68412710)
 
 ---
-### 014. 国漫
+### 014. 国漫 | 凡人 | 遮天
 * **[遮天](https://www.youtube.com/watch?v=_TyUkS1DOwc)**
 
 ---
@@ -452,7 +453,7 @@
 
 ---
 * **[路人甲国漫日记](https://v.douyin.com/sFPj7sMCTiY/)**
-    - [剑来](https://v.douyin.com/ra5xsTDVdaQ/)
+  - [剑来](https://v.douyin.com/ra5xsTDVdaQ/)
 
 ---
 ### 015. 美剧
@@ -551,9 +552,9 @@
 
 ---
 * **风雨哈佛路 | Homeless to Harvard | 关于自信**
-  - [风雨哈佛路](https://www.qwnull.com/py/39174-2-1.html)
-  - [Homeless to Harvard](https://pan.quark.cn/s/27a48ec76c56#/list/share)
-  - [風雨哈佛路](https://kimivod.com/vod/34251/2-1.html)
+  - **[风雨哈佛路](https://www.qwnull.com/py/39174-2-1.html)**
+  - **[Homeless to Harvard](https://pan.quark.cn/s/27a48ec76c56#/list/share)**
+  - **[風雨哈佛路](https://kimivod.com/vod/34251/2-1.html)**
 
 ---
 * **超级骇客**
@@ -632,13 +633,20 @@
   - [身形虽小气场万丈，以勇毅为刃凭底气护北境的精神领袖-小熊女 | 了不起的精讲团](https://v.douyin.com/EnKz7KZd-n4/)
 
 ---
-### 020. 电影美学
-* **[星光殷殷 其灿如言](https://v.douyin.com/5TRXgPiNxz0/)**
-  - [似乎一切事物的结局 都得由它收尾" | 眼泪](https://v.douyin.com/QxG7VMezsms/)
+### 020. 电影美学 | 老电影
+* **[AC_Blue | 星光殷殷 其灿如言 | 千章 | Douyin](https://v.douyin.com/5TRXgPiNxz0/)**
+  - [似乎一切事物的结局 都得由它收尾 | 眼泪](https://v.douyin.com/QxG7VMezsms/)
+  - [两边都是我的亲人 也就觉着不害怕了 | 我们天上见](https://v.douyin.com/ThQvnhUp9hI/)
+  - [万般皆下品 唯有读书高 | 侠女 | 胡金铨](https://v.douyin.com/9Kxrcy3LLGQ/)
+  - [子弹要飞多久 才能变成和平的白鸽](https://v.douyin.com/vjk62Wnqc_8/)
 
 ---
-* **[ilysol](https://v.douyin.com/LFSJ0pMRDiA/)**
-  - ["行了 大家聪明人 了解" | 鹿鼎记](https://v.douyin.com/nxLF-YVOZPQ/)
+* **[ilysol | 二百章 | Douyin](https://v.douyin.com/LFSJ0pMRDiA/)**
+  - ["行了 大家聪明人 了解" | **鹿鼎记**](https://v.douyin.com/nxLF-YVOZPQ/)
+  - [**柳如是**](https://v.douyin.com/xvmlq-tn-fQ/)
+  - [他好像条狗啊 | **大话西游**](https://v.douyin.com/8ykx0mu5RpA/)
+  - [你肚子饿不饿 我煮碗面给你吃 | **大内密探零零发**](https://v.douyin.com/yiS7TZCdF70/)
+  - [给你钱 也买不回失去的东西  | **武状元苏乞儿**](https://v.douyin.com/ukVDxCl1H2o/)
 
 ---
 * **[阿智解说 | 电影是生活的切片，透过镜头与表演 可以窥探到人性的幽徽和世界的广袤](https://v.douyin.com/Lb23hExLPcM/)**
@@ -658,7 +666,7 @@
   - [简爱 | 电影对白](https://v.douyin.com/1cFoxN6_IAs/)
 
 ---
-### 022. 奥斯卡电影
+### 022. 奥斯卡电影列表
 * **翼**
 * **西线无战事**
 * **壮志千秋**
@@ -713,7 +721,7 @@
 * **拆弹部队**
 
 ---
-### 023. 电影解说
+### 023. 电影解说 | 长剧
 * **[风行浮生影院 | 正版授权，感谢关注 | 千章 | Douyin](https://v.douyin.com/EdOquCmLiyQ/)**
   - [04.算计半生掌乾坤，一代妖后慈禧，一手遮天覆大清 | 一代妖后 | 巩俐 | 刘晓庆 | 剧情片 | 慈溪](https://v.douyin.com/Y3A_IWfH-ew/)
 
@@ -790,6 +798,13 @@
   - [【越哥】导演修行20年才拍出来，日本上映时一票难求，看懂即开悟！](https://www.youtube.com/watch?v=A0GVBOB5aBo)
   - [【越哥】这才是真正的佛教电影，禅宗一代宗师的传奇经历，开悟必备！](https://www.youtube.com/watch?v=F0xaNIqcN2s)
   - [越哥说电影《了凡四训》](https://www.youtube.com/watch?v=DnbM7lxt9Ak)
+
+---
+* **[九公子探影 | 如果再也见不到你，祝你早安，午安，晚安。|  |  二百章 | Douyin](https://v.douyin.com/PnrmYeoUeFo/)**
+  - [男人含冤入狱十四年，出来后化身基督山伯爵开始复仇 | **基督山伯爵**](https://v.douyin.com/-XPWn8c925A/)
+  - [**百年孤独01**](https://v.douyin.com/yIScCH5-yD0/)
+  - [**百年孤独02**](https://v.douyin.com/nZYkxEk8wu8/)
+  - [**百年孤独03**](https://v.douyin.com/qGrQ4ahTihE/)
 
 ---
 * **[佛缘影视 | 因果循环真实不虚！佛教故事，教你我做人 行善积德，从我做起！| 百章 | Douyin](https://v.douyin.com/aqY4c6UnnL4/)**
