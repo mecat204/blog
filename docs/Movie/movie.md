@@ -396,24 +396,35 @@
 * [安卓模拟器](https://www.youtube.com/watch?v=SWVOvvmSAsg)
 
 ---
-### 008. movie_site
-* **[N奈飞工厂](https://www.netflixgc.com/)**
-* [4kfilm](http://4kfilm.cn/)
-* [grab4k.com](https://grab4k.com/)
-* [CN影院](https://cnys.tv/)
-* [星火直播](https://www.xhzb.tw/tv.html)
-* [泥巴影院](https://nbtvv.com/)
-* [优视频](https://www.uvod.tv/)
-* [华人直播](https://huaren.live/)
-* [唐人街影院](https://www.chinatownfilm.com/)
-* [飞兔影视](https://www.feitu.tv/)
-* [酷亚影院](https://kuyatv.net/)
-* [HONGHULI](https://honghuli.com/)
-* [高清老电影](https://www.youtube.com/@%E4%B8%AD%E5%9B%BD%E9%AB%98%E6%B8%85%E8%80%81%E7%94%B5%E5%BD%B1)
-* [Chineseoldmovie](https://www.youtube.com/@Chineseoldmovie)
-* [动画资源](https://pan.quark.cn/s/b75771b29a38)
-* [腾讯视频 - 动漫](https://www.youtube.com/@TencentVideoAnimation)
-* **[无关风月](https://v.douyin.com/i2aFD84aSQY/)**
+### 008. 动漫电影
+* **[疯狂原始人01](https://www.libvio.mov/play/116-1-1.html)**
+* **[疯狂原始人02](https://kimivod.com/vod/42679/1-2.html)**
+
+---
+* **[寻梦环游记](https://www.4kvm.net/movies/xunfhyj)**
+
+---
+* **[头脑特工队](https://kimivod.com/vod/42705/1-1.html)**
+* **[头脑特工队2](https://kimivod.com/vod/28308/1-1.html)**
+* **[人猿泰山 | 2013版](https://kimivod.com/vod/16758/1-1.html)**
+
+---
+* **[辛普森一家](https://kimivod.com/vod/1523/1-1.html)**
+  - [辛普森一家第一季](https://kimivod.com/vod/5868/1-1.html)
+  - [辛普森一家第二季](https://kimivod.com/vod/5869/1-1.html)
+
+---
+* **[童年时光的美好记忆 | 回顾40部欧美系译制动画片](https://www.douban.com/note/682870142/?_i=3801849Pu7UAEH)**
+  - [Barbapapa/1975年/法国/引进58集]
+  - [He-Man and the Masters of the Universe/1983/美国/引进50集]
+  - [忍者神龟 | Teenage Mutant Ninja Turtles/美国/1987年/首次引进120集）]
+
+---
+* **[80、90年代大陆播放过的30部经典动画](https://kknews.cc/comic/39kz3zg.html)**
+  - [神龙斗士 | 魔神英雄传（又名神龙斗士）]()
+
+---
+* **[30部童年的动画片](https://kknews.cc/comic/ynozvk.html)**
 
 ---
 ### 009. APTV

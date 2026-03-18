@@ -1135,6 +1135,9 @@
   - **[狮子王](https://v.douyin.com/erRH2wGf7ss/)**
     * **[狮子王 | 1994](https://www.libvio.mov/play/167-1-1.html)**
   - [疯狂原始人](https://v.douyin.com/6M9pCejaAZI/)
+    * **[疯狂原始人01](https://www.libvio.mov/play/116-1-1.html)**
+    * **[疯狂原始人02](https://kimivod.com/vod/42679/1-2.html)**
+    * **[寻梦环游记](https://www.4kvm.net/movies/xunfhyj)**
 
 ---
 * **[老李撩英语 | 前新东方教师 | 公立学校英语教师 | 英语短剧 | 五百章 | Douyin](https://v.douyin.com/p4pyAnZgIs4/)**
