@@ -48,6 +48,19 @@
   - [ 夜晚的小世界如此宁静 | steam游戏 | 单机游戏 | 搭建 | 治愈 | TinyGlade](https://v.douyin.com/n38Kk4nzX3w/)
 
 ---
+### 0006. SunShine | 自建云游戏串流
+* **[SunShine](https://app.lizardbyte.dev/Sunshine/?lng=en#Download)**
+
+---
+* **[sunshine+moonlight](https://pan.quark.cn/s/294ebe0e4535)**
+
+---
+* **[Sunshine documentation](https://docs.lizardbyte.dev/projects/sunshine/en/latest/)**
+
+---
+* **[Linux do](https://linux.do/t/topic/51949)**
+
+---
 ### 9999. Download
 * **[dlpanda](https://dlpanda.com)**
 

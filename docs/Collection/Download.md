@@ -10,6 +10,12 @@
 * **[Epub | 现代化的 epub 阅读器](https://janereader.com/#downloads)**
 
 ---
+* **[MuMu模拟器](https://mumu.163.com/)**
+
+---
+* **[Global PotPlayer](https://potplayer.tv/)**
+
+---
 ### 0002. Mirrors
 * **[清华大学开源软件站 | Tsinghua Open Source Mirror](https://mirrors.tuna.tsinghua.edu.cn/)**
 
@@ -17,7 +23,7 @@
 * **[wxyShine | 王旭阳](https://github.com/wxyShine)**
   -  **[Java知识库网站收集整理 - 王旭阳个人博客](wxy97.com/archives/0248581d-12c6-4468-a04f-c8824faa7118)**
 
-### 999. Download
+### 9999. Download
 * **[dlpanda](https://dlpanda.com)**
 
 ---

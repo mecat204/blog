@@ -9,13 +9,10 @@
 
 ---
 ### 0001. IPTV
-* [IPTV](https://www.limin.studio/2024/10/31/IPTV/)
-* [vumstar](https://www.vumstar.com/)
-* [电视APP下载](https://pan.quark.cn/s/86d5a59ee4e1)
-* [GitHub项目](https://github.com/lizongying/my-tv-0)
-* [直播源项目1](https://github.com/fanmingming/live)
-* [直播源项目2](https://github.com/suxuang/myIPTV)
-* [IPV6 检测](https://test-ipv6.com/index.html.zh_CN)
+* **[iptv-org](https://iptv-org.github.io/)**
+
+---
+* **[python.org](https://www.python.org/downloads/)**
 
 ---
 ### 0002. Movie
@@ -290,7 +287,7 @@
   - [Binge Society-电影片段](https://www.youtube.com/@bingesociety/playlists)
 
 ---
-### 0003. Note
+### 0003. Film-Note
 * **黑白-国外电影-精神-战斗 美少女特工队 大鹅 梦境制作models**
   - [Sucker Punch | 4K Trailer | Warner Bros. Entertainment](https://www.youtube.com/watch?v=vJ0xYZ5mVMc)
   - [异界-大鹅科幻作品](https://www.youtube.com/watch?v=AN1ffslY1cw)
@@ -323,7 +320,7 @@
 * **[百家观察·相声小品](https://www.youtube.com/watch?v=tFcW-VJ_HR4&list=PLxD8kq6jJ87MAEhKQt0HNef0OxFiCdh4I)**
 
 ---
-### 0006. movie
+### 0006. Movie介绍
 * **现实与虚幻的边界消解**
 | 电影 | 剧情简述 | 关联点 |
 |------|----------|--------|
@@ -374,31 +371,25 @@
 ---
 ### 0007. 电影资源
 * **[蓝点网](https://www.landiannews.com/)**
-  - [海棠网  | 海棠网 - 海棠应用网专注黑科技软件,绿色无毒互联网资源分享](https://www.haitangw.cc/)
-* [小云搜索](https://www.yunso.net/)
-* [AMIN](https://aaamiiin.com/)
-* [新版6v](https://www.xb6v.com/)
-* [影视TV](https://yingshi.tv/)
-* [影视聚合](https://abjlp.com/forum.php)
-* [animoto](https://animoto.com/)
-* [wondershare](https://www.wondershare.tw/?)
-* [高清电影](http://gqdyb.com/)
-* [看片狂人](https://www.kpkuang.org/)
-* [韩片网](https://www.hanpian.pro/)
-* [看韩剧](https://www.thanju.com/)
-* [DPanel可视化](https://dpanel.cc/#/)
-* [swapco](https://swapco.de/)
-* [音乐魔石](https://yym4.com/)
-* [SunShine](https://app.lizardbyte.dev/Sunshine/?lng=en#Download)
-* [sunshine+moonlight](https://pan.quark.cn/s/294ebe0e4535)
-* [Sunshine documentation](https://docs.lizardbyte.dev/projects/sunshine/en/latest/)
-* [Linux do](https://linux.do/t/topic/51949)
-* [mytv-android](https://github.com/yaoxieyoulei/mytv-android/releases)
-* [老E的博客](https://appscross.com/blog/another-open-source-live-tv-software-ipv6-version-of-my-tv.html)
-* [奶油之家](https://naiyous.com/)
-* [ADB工具下载](https://naiyous.com/515*html)
-* [电视直播](https://www.youtube.com/watch?v=Ch2shhXw8u0)
-* [安卓模拟器](https://www.youtube.com/watch?v=SWVOvvmSAsg)
+  - [海棠网  | 海棠应用网专注黑科技软件, 绿色无毒互联网资源分享](https://www.haitangw.cc/)
+
+---
+* **[小云搜索 | 盘搜搜 | 蓝奏云 | 阿里云盘夸克网盘云盘工具导航平台 | 网盘搜索引擎 ](https://www.yunso.net/)**
+
+---
+* **[lily4k | Proxy | Login](https://lily4k.fun/)**
+
+---
+* **[Free Video Maker | Create & Edit Your Videos Easily | Animoto](https://animoto.com/)**
+
+---
+* **[Wondershare | CN-tw | 官方網站: 萬興科技 - 讓世界更有創意](https://www.wondershare.tw/?)**
+
+---
+* **[看片狂人](https://www.kpkuang.org/)**
+
+---
+* **[韩剧网 | 最新韩国电视剧, 电影, 综艺, 韩剧TV](https://www.thanju.com/)**
 
 ---
 ### 0008. 动漫电影
