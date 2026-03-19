@@ -44,6 +44,10 @@
   - [Boost Your English Every Morning | Train Your Ears With Real Stories | B1 English Listening Practice](https://www.youtube.com/watch?v=aWnAXQid-c8)
 
 ---
+* **[English Conversation Podcast | 2.45万 | Youtube](https://www.youtube.com/@EnglishConversationPod/videos)**
+  - [Why Your Brain FREEZES When People Speak Fast in English](https://www.youtube.com/watch?v=wlPY5gv1I6E)
+
+---
 ### 0002. Translate
 * **[Dr. T. Justin Webb | 326位 | Youtube](https://www.youtube.com/@webb8020/videos)**
   - **[AI-Powered Strategic Thinker](https://pensator-strategus.notion.site/AI-Powered-Strategic-Thinker-187f851e265a8087a195fbdec5054cb5)**
