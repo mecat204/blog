@@ -10,6 +10,8 @@
 ---
 ### 0001. IPTV
 * **[iptv-org](https://iptv-org.github.io/)**
+  - [001](https://www.iyouhun.com/tv/fty)
+  - [002](http://xhztv.top/xhz)
 
 ---
 * **[python.org](https://www.python.org/downloads/)**
@@ -633,11 +635,24 @@
 * **创：战神 Tron: Ares**
 
 ---
-### 0019. 美剧
+### 0019. 8090年代中国引进的海外剧
 * **[影视](https://www.youtube.com/channel/UCuVPpxrm2VAgpH3Ktln4HXg)**
+
+---
 * **[央视1979-2001引进的外国电影和电视剧](https://mecat204.github.io/website/source/cctv.film/index.html)**
+
+---
 * **[挑灯夜剪](https://v.douyin.com/oMY4gmPw3gs/)**
   - [身形虽小气场万丈，以勇毅为刃凭底气护北境的精神领袖-小熊女 | 了不起的精讲团](https://v.douyin.com/EnKz7KZd-n4/)
+
+---
+* **[8090年代中国引进的海外剧：新加坡篇](https://ishare.ifeng.com/c/s/7qE9lzzYJpO)**
+
+* **[亚洲电视外购剧集列表](https://zh.wikipedia.org/wiki/%E4%BA%9E%E6%B4%B2%E9%9B%BB%E8%A6%96%E5%A4%96%E8%B3%BC%E5%8A%87%E9%9B%86%E5%88%97%E8%A1%A8#%E8%BF%B7%E4%BD%A0%E5%8A%87%E5%8F%8A%E9%9B%BB%E8%A6%96%E9%9B%BB%E5%BD%B1)**
+
+---
+* **[80年代的英美剧新剧](https://www.douban.com/doulist/46250570/)**
+  - [90年代的英美剧新剧](https://www.douban.com/doulist/46250658/)
 
 ---
 ### 0020. 电影美学 | 老电影
