@@ -897,7 +897,42 @@
   - [rich man steals from beggar](https://v.douyin.com/ihbn_xdvY7E/)
 
 ---
-### 999. Download
+### 0028. 备忘
+* **四大名捕之入梦妖灵**
+* **刺杀小说家2**
+* **四大名捕之入梦妖灵**
+* **云图**
+* **日出日落**
+* **异界**
+* **浪浪山小妖怪**
+* **云图**
+* **新白娘子传奇**
+* **马可·波罗 | 朱珠**
+* **珠帘玉幕 | 赵露思 | 刘宇宁**
+* **青色杜马 | Blue Blink**
+
+---
+### 0029. 童年回忆 | 动漫作品 | 美剧
+**边想边记，边记边想，慢慢挖吧**
+
+---
+* **[The Twins of Destiny | 1991年 | 《龙之子》/《命运双子》| 龙族双子对抗晚清政权](https://www.youtube.com/playlist?list=PLEFPOCymKSrc5F5PJoY35eLBDsSxlSpea)**
+
+---
+* **[Arissa Chan | 148 | Youtube](https://www.youtube.com/@arissachan1975/videos)**
+  - **[叮当猫 | Pokonyan | 1993-1996 | Japan | 1998年引进中国大陆](https://www.youtube.com/watch?v=m8U2YAdnD9U&list=PLMSO0uLrlUfqrNj3DJB2ZXaxi2Y3Laedc)**
+
+---
+* **[Chidab DDunder | 1080 | Youtube](https://www.youtube.com/@chidabddunder6463/videos)**
+  - **[The Adventures of Hutch the Honeybee | 小蜜蜂寻亲记 | 1989–1990 | Japan](https://www.youtube.com/playlist?list=PLebfQz0qETrtTflSGPVBnrPvMWuK6sI7q)**
+  - **[Download | Google云端硬盘](https://drive.google.com/drive/folders/1nxW_ee0FggEm9oczKbz2BtISNTwK13_y)**
+
+---
+* **[Aya Brea | 32位 | Youtube](https://www.youtube.com/@ayabrea013/videos)**
+  - [Aoi Blink Blue Blink Ep. 11-15 English Sub | **Blue Blink | 青色杜马**](https://www.youtube.com/watch?v=akbrTYqPEe0)
+
+---
+### 9999. Download
 * **[dlpanda](https://dlpanda.com)**
 
 ---
