@@ -46,6 +46,10 @@
     * [Vlog](EnglishCourse/Vlog/Vlog)
 
   ---
+  - **AiTeacher**
+    * [AiTeacher](EnglishCourse/AiTeacher/AiTeacher)
+
+  ---
   - **EnglishLearn**
     * [EnglishLearn](EnglishCourse/EnglishLearn/EnglishLearn)
   - **翻译册**

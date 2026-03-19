@@ -145,7 +145,6 @@
   ---
   - **[How I started speaking English without fear (as a non-native speaker) | 我如何无畏地开始说英语（作为非母语者）](https://www.youtube.com/watch?v=p9KWSh06Wuo)**
 
-
 ---
 * **[EnglishClass101.com  | 863万 | Youtube](https://youtube.com/@EnglishClass101)**
   - [How to Score 9.0 on IELTS EXAM: best tips and strategies](https://www.youtube.com/watch?v=s2M1t-pHJcc&list=PLoDjs_CkjI64nuMBkse4y2zJitzeGlZxi)
@@ -210,6 +209,49 @@
 
   ---
   * **[If you know these, you're C2. | 如果你知道这些，你就是C2。](https://www.youtube.com/watch?v=NSycEAiPU3U)**
+
+---
+* **[English in Comfort | 26.5万 | Youtube](https://www.youtube.com/@EnglishinComfort/videos)**
+  - Learn English the Comfortable Way!
+  - 舒适地学习英语！
+
+  ---
+  - At English in Comfort, we help you improve your English through listening and speaking practice.
+  - 在舒适英语中心，我们通过听力和口语练习帮助你提升英语水平。
+
+  ---
+  - Our relaxing podcasts make learning natural and enjoyable.
+  - 我们的轻松播客让学习变得自然且愉快。
+
+  ---
+  - No stress, just real progress!
+  - 没有压力，只有真正的进步！
+
+  ---
+  - What you’ll find here: ✔️
+  - 你会在这里找到： ✔️
+
+  ---
+  - Learn English through listening – absorb the language effortlessly ✔️
+  - 通过听力学习英语——轻松吸收语言 ✔️
+
+  ---
+  - Speaking practice – improve your pronunciation and confidence ✔️
+  - 口语练习——提升你的发音和自信 ✔️
+
+  ---
+  - Daily conversations & useful phrases – sound more natural in real life ✔️
+  - 日常对话和实用短语——在现实生活中 ✔️听起来更自然
+
+  ---
+  - Self-improvement topics – boost motivation and stay consistent Perfect for English learners who want to learn and improve at their own pace, comfortably, and in a cozy way.
+  - 自我提升主题——提升动力并保持坚持 非常适合希望以自己节奏、舒适且舒适地学习和提升的英语学习者。
+
+  ---
+  - Subscribe and start your journey today!
+  - 订阅，立即开始您的旅程！
+
+
 
 ---
 * **[Learn English with Grace | 7560位 | Youtube](https://www.youtube.com/@LearnEnglishwithGrace24)**
