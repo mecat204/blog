@@ -1,4 +1,4 @@
-### 000. Download
+### 0000. Download
 * **[必应 | bing.com](https://cn.bing.com/)**
 
 ---
@@ -9,34 +9,34 @@
   - [americanliterature](https://americanliterature.com/)
 
 ---
-### 001. AI·website
+### 0001. AI·website
 * **[videotube.ai](https://videotube.ai/)**
 * **[Nano Banana - AI 图像编辑器 | 编辑照片并添加文字](https://nanobanana.ai/)**
 
 ---
-### 002. Coding online
+### 0002. Coding online
 * [**CodeSandbox**:在线代码编辑和演示平台](https://codesandbox.io/)
 * [**StackBlitz**:实时开发和预览的在线 IDE](https://stackblitz.com/)
 * [**ESLint**:JavaScript 代码检查工具](https://eslint.org/)
 * [**Prettier**:代码格式化工具](https://prettier.io/)
 
 ---
-### 003. 虚拟人AI助手(智能助手)-超写实数字人AI助手
+### 0003. 虚拟人AI助手(智能助手)-超写实数字人AI助手
 * [shakker.ai](https://www.shakker.ai/)
 * [synthesia](https://synthesia.io)
 * [Synthesia-io](https://www.youtube.com/@synthesia-io)
 
 ---
-### 004. AI·website
+### 0004. AI·website
 * [AI风向标](https://www.talktop.cn/)
 
 ---
-### 005. FreeAI
+### 0005. FreeAI
 * [desktophut](https://www.desktophut.com/ai/generator)
 * [阿甘探AI](https://v.douyin.com/4SaZcq_bXns/)
 
 ---
-### 006. AI·video
+### 0006. AI·video
 * [剑来](https://v.douyin.com/-odlboAmAGA/)
   - [宁姚](https://v.douyin.com/Ru1_J7d7r7o/)
 * [skyreels](https://github.com/SkyworkAI/SkyReels-V2)
@@ -796,25 +796,25 @@
   - [第三集 | 🔥 凡人竟敢叫板天神？这场决定人类命运的博弈，藏着最古老的生存智慧！大地属人类，混沌时代落幕，人类纪元正式开启](https://v.douyin.com/4N45q3Y3am0/)
 
 ---
-### 007. 数字人实时语音交互
+### 0007. 数字人实时语音交互
 * [VideoChat](https://github.com/Henry-23/VideoChat)
 
 ---
-### 008. AI·Canvas
+### 0008. AI·Canvas
 * [Animated Drawings](https://sketch.metademolab.com/canvas)
 * [index-tts2](https://index-tts.github.io/index-tts2.github.io/)
   - [index-tts](https://github.com/index-tts/index-tts)
 
 ---
-### 009. 在线编码
+### 0009. 在线编码
 * [Qwen2.5-Coder-Artifacts](https://huggingface.co/spaces/Qwen/Qwen2.5-Coder-Artifacts)
 
 ---
-### 010. AI开源方案库
+### 0010. AI开源方案库
 * [aigclink- AI开源方案库-传递最新AI应用落地解决方案](https://d.aigclink.ai)
 
 ---
-### 011. 同义千问
+### 0011. 同义千问
 * [同义官网](https://tongyi.aliyun.com)
 * [Qwen2.5-Coder](https://v.douyin.com/CeiJS3qnN/）
   - 性能达到GPT-4o的编程模型 Qwen2.5-Coder：阿里通义千问开源性能达到GPT-4o的编程专用模型，具备artifact能力、以及结合cursor使用qwen2.5-coderai编程模型
@@ -829,12 +829,12 @@
 * [AIGCLINK](https://www.youtube.com/@AIGCLINK)
 
 ---
-### 012. Comfyui
+### 0012. Comfyui
 * [Comfy-Org](https://github.com/Comfy-Org/desktop)
 * [优设-comfyui](https://www.uisdc.com/comfyui-v1)
 
 ---
-### 013. Hunyuan video
+### 0013. Hunyuan video
 * [Hunyuan video]6.64 Qxf:/ 10/14 H@v.fB 最强国产AI视频模型！完全免费开源，电影级画质，本地部署使用 视频模型下载：bittly.cc/yuan  https://v.douyin.com/CeiJFoUCT/ 复制此链接，打开Dou音搜索，直接观看视频！
 * [tencent-HunyuanVideo](https://github.com/tencent/HunyuanVideo)
 * [Windsurf-IDE]
@@ -846,7 +846,7 @@
 * [网飞十大烧钱剧集排行榜](https://v.douyin.com/CeiJ25eJd/)
 
 ---
-### 014. AI工具箱
+### 0014. AI工具箱
 * [AI工具箱导航](https://promptchoose.com/)
 * [5个好用的Github开源PDF阅读器推荐](https://promptchoose.com/ai-tools/github-open-source-pdf-reader/)
   - [koodo-reader](https://github.com/koodo-reader/koodo-reader)
@@ -856,17 +856,17 @@
   - [readthedocs](https://about.readthedocs.com/)
 
 ---
-### 015. AI TTS
+### 0015. AI TTS
 * [AICodeKing](https://www.youtube.com/watch?v=OyrS-lX_sLk)
 * [Minimax.io](https://minimax.io/audio)
 
 ---
-### 016. Humva AI
+### 0016. Humva AI
 * [Create Realistic AI Avatar Videos with Humva](https://www.youtube.com/watch?v=Yts9ZuwXNMQ)
 * [Discover Humva AI: Where Cutting-Edge Technology Meets Avatar Creation](https://www.youtube.com/watch?v=sF_E9r0JeMQ)
 
 ---
-### 017. 原神·AI
+### 0017. 原神·AI
 * [tools.miku.ac](https://tools.miku.ac/anime_tts/)
 * [TTS-Online](https://acgn.ttson.cn/)
 * [hoyoTTS](https://modelscope.cn/studios/Genius-Society/hoyoTTS)
@@ -877,22 +877,22 @@
   - [雷电将军：你？要与我为敌吗？](https://v.douyin.com/PWi9EHiHDgw/)
 
 ---
-### 018. 原神·ChatTTS
+### 0018. 原神·ChatTTS
 * [派蒙语音合成工具](https://colab.research.google.com/drive/1nYUnKTj1pwYhQQASsVWoqJtVIaAyb0RD?usp=sharing)
 * [VITS-fast-fine-tuning](https://github.com/Plachtaa/VITS-fast-fine-tuning)
 * [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc)
 
 ---
-### 019. 导航
+### 0019. 导航
 * [简约导航](https://www.jianavi.com/)
 
 ---
-### 020. AI
+### 0020. AI
 * [海螺ai](https://hailuoai.video/)
 * [styleai](https://styleai.art/zh)
 
 ---
-### 021. AI·Vtuber
+### 0021. AI·Vtuber
 * [黑焱](https://www.youtube.com/watch?v=QQieOmN4IHY)
 * [花儿不哭-B站](https://space.bilibili.com/5760446?spm_id_from=333.999.0.0)
 * [AI VTuber-制作](https://www.youtube.com/watch?v=QQI2UyFlk8c&list=PLji6-Hn_9g_WbjWjeR6rGKk_HeGd3xz1c)
@@ -902,40 +902,40 @@
 * [bilibili·林亦LYi](space.bilibili.com/4401694)
 
 ---
-### 022. Neuro-sama
+### 0022. Neuro-sama
 * [Neuro-sama](https://www.youtube.com/channel/UCLHmLrj4pHHg3-iBJn_CqxA)
 
 ---
-### 023. AI素材网
+### 0023. AI素材网
 * [克隆工具](https://www.youtube.com/watch?v=5PRX3HM47Ew)
 * [小林素材网](https://xhlmr.cn/index?promo=KJLHM2)
 * [声音克隆工具](https://feng800.blogspot.com/2024/10/1fireredttsaitts.html)
 * [峰哥探世界](https://feng800.blogspot.com/)
 
 ---
-### 024. miHoYo·AI·Game
+### 0024. miHoYo·AI·Game
 * [anuttacon](https://wfts.anuttacon.com/)
 
 ---
-### 025. AIGC 应用平台
+### 0025. AIGC 应用平台
 * [Cephalon Cloud端脑云](https://cephalon.cloud/aigc#/share/register-landing?id=xDnmPN)
 
 ---
-### 026. ChatTTS
+### 0026. ChatTTS
 * [YubAI-鱼摆摆](https://www.youtube.com/watch?v=D1HJ7KJrO7M)
   - [Chat-TTS-Quark](https://pan.quark.cn/s/f8d42e136e1b#/list/share)
 * [YubAI-鱼摆摆](https://www.youtube.com/@yubaibai2023/videos)
 * [ChatTTS](https://chattts.in/playground)
 
 ---
-### 027. AI·动漫二创
+### 0027. AI·动漫二创
 
 ---
 * **[幻窥心渊](https://v.douyin.com/74rcO1tOG3Q/)**
   - **[宗祠剑影里的凡人风骨 韩瑞：记吾家叔祖韩立公](https://v.douyin.com/AROBdwgpepM/)**
 
 ---
-### 028. AI启示录
+### 0028. AI启示录
 * **[晓辉博士 | 五百章 | Douyin](https://v.douyin.com/1mCO9aZW1Nc/)**
   - [AI Coding](https://v.douyin.com/XbtwLKALSr0/)
   - **[AI Coding非共识报告](https://zhuanlan.zhihu.com/p/1932943005838443596)**
@@ -965,8 +965,15 @@
   - Atlas智能体浏览器
 
 ---
-### 999. Download
+### 9999. Download
+* **[必应 | bing.com](https://cn.bing.com/)**
+
+---
 * **[dlpanda](https://dlpanda.com)**
+
+---
+* **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
+  - [americanliterature](https://americanliterature.com/)
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)

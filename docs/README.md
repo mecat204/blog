@@ -90,6 +90,7 @@
 
 ---
 * **Ai-source**
+  - [Ai-designer](Ai-source/Ai-designer)
   - [Ai-video](Ai-source/Ai-video)
   - [Ai-images](Ai-source/Ai-images)
   - [Ai-website](Ai-source/Ai-website)
