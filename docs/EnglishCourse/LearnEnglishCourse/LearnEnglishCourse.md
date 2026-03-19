@@ -1140,6 +1140,11 @@
     * **[寻梦环游记](https://www.4kvm.net/movies/xunfhyj)**
 
 ---
+* **[Socialtalk | 英语领域创作者，内容包含雅思口语，商务英语口语，日常生活口语. 英语词汇专栏 | 五百章 | Douyin](https://v.douyin.com/7OwkBb0SUBY/)**
+  - [001.外贸收藏：如何降低运输风险 | **商务英语vs外贸英语**](https://v.douyin.com/Mg4_VjzmRtg/)
+  - [222.FOB暗坑：面对指定货代乱收费，业务员硬刚刁钻客户 | **商务英语vs外贸英语**](https://v.douyin.com/hGfyqdcggsk/)
+
+---
 * **[老李撩英语 | 前新东方教师 | 公立学校英语教师 | 英语短剧 | 五百章 | Douyin](https://v.douyin.com/p4pyAnZgIs4/)**
   - [英语短剧 | shortdrama | micro-drama | 丈夫空中"表演",落地如何受到惩罚？Min: 06:26](https://v.douyin.com/sIghTyvn9PY/)
 
@@ -1175,6 +1180,10 @@
   - [用4-3-2法+语块+跟读，三步破解英语开口难，告别哑巴英语](https://v.douyin.com/RFa-1COxKE8/)
   - [你的成长,不必和别人一样｜挑战全英播客100期 67期](https://v.douyin.com/8VmLFqM_Xsw/)
   - [藏在空气里的人类奇迹丨分级听读 本期带你深度了解每日相伴的 Wi-Fi：回溯马可尼开启无线时代、海蒂・拉玛助力技术研发的历史，拆解 Wi-Fi 的简单工作原理，讲述它如何改变学习、工作与情感连接，在温柔的英文讲述中，感受无形电波里的人类温暖与科技力量](https://v.douyin.com/NCt9DUAtRqk/)
+
+---
+* **[Mr.D标准美语频道 | 标准美式发音领航者，敢说，会说，说的标准！| 五十章 | Douyin](https://v.douyin.com/DDC6bqfvd70/)**
+  - [用简单的英语描述一天的生活，帮你轻松学会用英文介绍自己的日常。 | **Youtuber: LISTENING PRATICE**](https://v.douyin.com/anyxrtbstk4/)
 
 ---
 ### 0010. 4K电子书籍
