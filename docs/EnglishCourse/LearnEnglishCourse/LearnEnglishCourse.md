@@ -1362,6 +1362,94 @@
 **你是我的FSI语言教练。用Pattern Drill的方式训练我。先从Substitution Drill开始, 给我一个基础句型,然后快速给我变体提示词, 我必须在3秒内回应。如果我超过3秒,提醒我加快速度。每个句型练习20词。练完替换换之后，切换到Transfromation Drill**
 
 ---
+### 0022. New Concept English 01 | AI
+* **[枫娇鹤 | 寓教于乐，融学于趣，化教于心 | 二十章 | Douyin](https://v.douyin.com/J9KB5QS99lM/)**
+  - [New Concept English 01 | 第一册 | 01](https://v.douyin.com/-51n4SOiw_M/)
+  - [New Concept English 01 | 第一册 | 19](https://v.douyin.com/RGol_7XQQSI/)
+
+---
+* **[颗星星 | 一名专注AI动画制作的个人玩家 | 寓教于乐 | 一直被抄袭, 从未被超越 | 坚持初心, 以质量回报粉丝 | 百章 | Douyin](https://v.douyin.com/jV_6t-XSSQw/)**
+  - **New Concept English 01**
+     * **[New Concept English 01 | Lesson-001](https://v.douyin.com/sHfdwT_Xp8E/)**
+     * **[New Concept English 01 | Lesson-020](https://v.douyin.com/ObtSflmNgps/)**
+     * **[New Concept English 01 | Lesson-022](https://v.douyin.com/9indtu0nFOo/)**
+     * **[New Concept English 01 | Lesson-027](https://v.douyin.com/AxiDncRagf8/)**
+     * **[New Concept English 01 | Lesson-028](https://v.douyin.com/WPmf54M67dk/)**
+
+  ---
+  - **中华寓言故事**
+    * [守株待兔·改 | Veo](https://v.douyin.com/6TmtUqRncec/)
+    * [小白归来 小白进化成了棉花糖，和Elara（主人）的故事 | **我的花园世界**](https://v.douyin.com/PJtRhJ35Q6k/)
+
+---
+* **[AI造梦者 | AI续更狂徒 原创产品 | 4K | 新概念电影版 | 二十章 | Douyin ](https://v.douyin.com/jGev-2Po9mE/)**
+  - **[New Concept English 01 | Lesson-001](https://v.douyin.com/3XIUw3HIGrc/)**
+  - **[New Concept English 01 | Lesson-002](https://v.douyin.com/FCjqDn34dyA/)**
+  - **[New Concept English 01 | Lesson-003](https://v.douyin.com/RP9eToxmWJQ/)**
+  - **[New Concept English 01 | Lesson-004](https://v.douyin.com/HKQDnFkzz-0/)**
+
+---
+* **[英语橙子老师 | 初中英语教师资格证，心理教师资格证 | 二百章 | Douyin](https://v.douyin.com/xQnItp_2Uy8/)**
+  - **New Concept English 01**
+    * **[New Concept English 01 | Lesson-001](https://v.douyin.com/bLpKj_X6yzQ/)**
+    * **[New Concept English 01 | Lesson-043](https://v.douyin.com/ZSy14MhMSBQ/)**
+
+  ---
+  - **New Concept English 02**
+    * **[New Concept English 02 | Lesson-001](https://v.douyin.com/DNoSvIFZuxs/)**
+    * **[New Concept English 02 | Lesson-009](https://v.douyin.com/piasxBj00lM/)**
+
+---
+* **[Yuki的英语世界 | 英语语言文学硕士|专业八级|十年一线教龄 | 新概念英语1-4册电影版持续更新中... | 百章 | Douyin](https://v.douyin.com/0M-_4IujMEU/)**
+  - **[New Concept English 01 | Lesson-001](https://v.douyin.com/bC9qQDSJFkI/)**
+  - **[New Concept English 19 | Lesson-057](https://v.douyin.com/PrpuVIoCXKg/)**
+
+---
+* **[佘一鸣 | 发布原创短视频，欢迎关注。| 百章 | Douyin](https://v.douyin.com/xiKQE7P7iKU/)**
+  - **New Concept English 01·三国版**
+    * **[New Concept English 01·三国版 | Lesson-001](https://v.douyin.com/ED_hh-uhlc4/)**
+    * **[New Concept English 01·三国版 | Lesson-002](https://v.douyin.com/hjTzkaFkDhg/)**
+    * **[New Concept English 01·三国版 | Lesson-003](https://v.douyin.com/evamg363dKY/)**
+
+  ---
+  - **荒岛迷案**
+    * **[第01集 |  荒岛空难现场，年轻的女子离奇死亡，心脏被人剜走，尸检发现重要线索。](https://v.douyin.com/LKia1i_24WQ/)**
+    * **[第13集 | 大结局 荒岛空难现场发生离奇命案，幸存者与世隔绝，救援遥遥无期。](https://v.douyin.com/g8fy0kzle9s/)**
+
+---
+* **[柒柒学英语 | 985大学生 | 百章 | Douyin](https://v.douyin.com/VBesR-lD3yA/)**
+  - **New Concept English 01**
+    * **[New Concept English 01 | Lesson-001](https://v.douyin.com/tw_MbOzNz4E/)**
+    * **[New Concept English 01 | Lesson-018](https://v.douyin.com/xX1el4soG1o/)**
+    * **[New Concept English 01 | Lesson-019](https://v.douyin.com/vKSbKD8JHqQ/)**
+
+---
+### 0023. AI短剧
+* **[Emily英文绘本故事 | 北大本硕 | 15年 + 教育人 | 俩娃妈妈 | 把教育经验熬成原创英语绘本故事 | 用妈妈的视角, 讲孩子能听懂的英文内容, 每天5分钟磨耳朵,陪娃轻松爱上英语 | 百章 | Douyin](https://v.douyin.com/jkP_utJS_p8/)**
+  - **[狮子王](https://v.douyin.com/erRH2wGf7ss/)**
+    * **[狮子王 | 1994](https://www.libvio.mov/play/167-1-1.html)**
+  - [疯狂原始人](https://v.douyin.com/6M9pCejaAZI/)
+    * **[疯狂原始人01](https://www.libvio.mov/play/116-1-1.html)**
+    * **[疯狂原始人02](https://kimivod.com/vod/42679/1-2.html)**
+    * **[寻梦环游记](https://www.4kvm.net/movies/xunfhyj)**
+
+  ---
+  - **40篇英语故事掌握小学1000词**
+    * **[第001篇 | 龟兔赛跑](https://v.douyin.com/0-X_X7mE8XU/)**
+    * **[第042篇 | 元宵节的传说](https://v.douyin.com/gF0vfLIQIhA/)**
+
+  ---
+  - **奥斯卡经典动画绘本**
+    * **[001.狮子王森巴](https://v.douyin.com/labFvQ_T10w/)**
+    * **[007.冰雪奇缘](https://v.douyin.com/vmUlDpepE_Y/)**
+      - [冰雪奇缘 | Frozen](https://www.bttwo.org/v_play/bXZfNTU5OC1ubV8wMQ==.html)
+
+  ---
+  - **经典英文绘本故事**
+    * **[001.巨人的花园](https://v.douyin.com/VNlVrO4TFTk/)**
+    * **[027.丑小鸭](https://v.douyin.com/NGfF8E8eWl0/)**
+
+---
 ### 9999. Download
 * **[dlpanda](https://dlpanda.com)**
 

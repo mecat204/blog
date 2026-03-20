@@ -296,6 +296,7 @@
 ### 0004. Bttwo | mvcat
 * **[Bttwo | hot](https://www.bttwo.org/hot-month)**
   - [Lucy | 超体](https://www.bttwo.org/v_play/bXZfMTMyLW5tXzE=.html)
+  - [哈利波特](https://www.bttwo.org/xsssearch?q=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9)
 
 ---
 **[mvcat](https://www.mvcat.com/)**
