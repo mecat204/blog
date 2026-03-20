@@ -974,7 +974,7 @@
   - [**环游世界八十天** | **少女疑云** | 51-60](https://v.douyin.com/FFeGaBdDMxE/)
   - [**简爱** | 61-70](https://v.douyin.com/-9m2PJ0Kv7g/)
   - [**吉姆汉森的说书人** | 71-80](https://v.douyin.com/cRgIzBBl_Zs/)
-  - [**新加坡·莲花争霸* | **新加坡·绝代双雄** | **新加坡·勇者无惧** | 81-90](https://v.douyin.com/JvngAmEMkJw/)
+  - [**新加坡·莲花争霸** | **新加坡·绝代双雄** | **新加坡·勇者无惧** | 81-90](https://v.douyin.com/JvngAmEMkJw/)
   - [**Japan·东京爱情故事** | 91-100](https://v.douyin.com/Gm_HW3Vl1vE/)
   - [**新加坡·鹤啸九天** | **新加坡·情丝万缕** | 101-110](https://v.douyin.com/EzPSuQx_3uQ/)
     * **情丝万缕·主题曲**
