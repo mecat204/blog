@@ -19,6 +19,10 @@
   - [桃花源记现场vlog第1集：武陵渔夫即将发现惊天秘密 | **桃花源记 | 陶渊明**](https://v.douyin.com/f4qMfH29N1U/)
   - [李白鲜为人知的第二故乡 | **云梦故乡 | 李白**](https://v.douyin.com/L0xUeUMisGs/)
   - [邹忌讽齐王纳谏 | **Ai短剧**](https://v.douyin.com/Ls7FkGpwu5Y/)
+  - [谁才是晚清第一美女 | **王敏彤（完颜立童记）**|**完颜童记**](https://v.douyin.com/fng3xhyRMk8/)
+
+* **[AI造梦师小宝 | 小宝带你穿越千年 · 直击历史名场面现场 | 2440位 | Youtube](https://www.youtube.com/@aixiaobao/videos)**
+  - **[邹忌讽齐王纳谏](https://www.youtube.com/watch?v=DCBw5KolJh4)**
 
 ---
 * **[✨青儿✨ | 简单快乐，爱美、爱生活的北京姐姐💃😊🌹 | 千章 | Douyin](https://v.douyin.com/pchA6wAENUo/)**

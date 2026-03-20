@@ -1381,6 +1381,16 @@
     * [守株待兔·改 | Veo](https://v.douyin.com/6TmtUqRncec/)
     * [小白归来 小白进化成了棉花糖，和Elara（主人）的故事 | **我的花园世界**](https://v.douyin.com/PJtRhJ35Q6k/)
 
+* **[颗星星 | 8位 | Youtube](https://www.youtube.com/@%E9%A2%97%E6%98%9F%E6%98%9F/videos)**
+  - 🛠️Independent AI Creator
+  - 🤖 AI Explorer | English Animation Creator
+  - 📺 Witnessing the magical collision of AI tech and language education
+
+  ---
+  - 🛠️独立人工智能创作者
+  - 🤖 人工智能探索者 |英语动画创作
+  - 📺者 见证人工智能技术与语言教育的神奇碰撞
+
 ---
 * **[AI造梦者 | AI续更狂徒 原创产品 | 4K | 新概念电影版 | 二十章 | Douyin ](https://v.douyin.com/jGev-2Po9mE/)**
   - **[New Concept English 01 | Lesson-001](https://v.douyin.com/3XIUw3HIGrc/)**
