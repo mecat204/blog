@@ -9,13 +9,6 @@
 * **[糯叽叽](https://v.douyin.com/4nkV_AdZuT0/)**
   - [风与自由的锲约](https://v.douyin.com/bx4cN_whmWo/)
 
----
-* **[Mi-呆](https://v.douyin.com/7O-EG4quiCI/)**
-  - [procreate绘画](https://v.douyin.com/Mb7-ktHi9aM/)
-* [传统美学](https://v.douyin.com/emIQtOIkz3I/)
-* [卿期期](https://v.douyin.com/OdlMyRMc2sE/)
-
----
 * **[Wink](https://v.douyin.com/TAr4beog-3k/)**
   - [满天星辰·古老的北欧传说: "看见银河的人，愿望都能实现"](https://v.douyin.com/BH-I7HenX2E/)
 
@@ -975,7 +968,20 @@
 ---
 ### 0026. 90年代回忆
 * **[童年记忆挖掘机 | 带你挖掘童年深处的记忆 | 千章 | Douyin](https://v.douyin.com/1Uct7s_b9RU/)**
+  - **盘点150部译制电视剧**
   - [盘点150部译制电视剧 | 01-10](https://v.douyin.com/VQGL7lH8X0Y/)
+  - [**新加坡·人在旅途** | 41-50](https://v.douyin.com/zAZtGOgzwFk/)
+  - [**环游世界八十天** | **少女疑云** | 51-60](https://v.douyin.com/FFeGaBdDMxE/)
+  - [**简爱** | 61-70](https://v.douyin.com/-9m2PJ0Kv7g/)
+  - [**吉姆汉森的说书人** | 71-80](https://v.douyin.com/cRgIzBBl_Zs/)
+  - [**新加坡·莲花争霸* | **新加坡·绝代双雄** | **新加坡·勇者无惧** | 81-90](https://v.douyin.com/JvngAmEMkJw/)
+  - [**Japan·东京爱情故事** | 91-100](https://v.douyin.com/Gm_HW3Vl1vE/)
+  - [**新加坡·鹤啸九天** | **新加坡·情丝万缕** | 101-110](https://v.douyin.com/EzPSuQx_3uQ/)
+    * **情丝万缕·主题曲**
+      - [辛曉琪 Winnie Hsin【倆倆相忘 Try to forget】| 1994年台視「倚天屠龍記」片尾曲 Official Music Video](https://www.youtube.com/watch?v=CR_JvOHcN5E&list=RDCR_JvOHcN5E&start_radio=1)
+  - [**新加坡·塞外奇侠** |**新加坡·真命小和尚**  | 111-120](https://v.douyin.com/fJTu8SU3LX8/)
+  - [**新加坡·东游记** | **新加坡·神雕侠侣** | 新加坡·莲花童子哪吒 | 121-130](https://v.douyin.com/InazA80I0I0/)
+  - [盘点150部译制电视剧](https://v.douyin.com/D5pACGsiC8s/)
 
 ---
 ### 9999. Download

@@ -253,6 +253,51 @@
     * [Little Human Planet | 小小人类星球]()
 
 ---
+* **电影**
+  - **[新龙门客栈](https://www.youtube.com/watch?v=eCy1YvYGsi0)**
+  - **[大遼太后 The Empress Dowager of Great Liao (1995)](https://www.youtube.com/watch?v=0Laq0cqKN20)**
+  - **[新天龙八部之天山童姥](https://www.youtube.com/watch?v=v3LmGve2HRQ)**
+  - **[国产凌凌漆](https://www.youtube.com/watch?v=kdilUANii6s)**
+
+---
+* **proxy·movie**
+  - [Binge Society-电影片段](https://www.youtube.com/@bingesociety/playlists)
+
+---
+### 0003. Film-Note | Bttwo
+* **黑白-国外电影-精神-战斗 美少女特工队 大鹅 梦境制作models**
+  - [Sucker Punch | 4K Trailer | Warner Bros. Entertainment](https://www.youtube.com/watch?v=vJ0xYZ5mVMc)
+  - [异界-大鹅科幻作品](https://www.youtube.com/watch?v=AN1ffslY1cw)
+  - **[2020年 | 俄罗斯 | 异界](https://www.bttwo.org/v_play/bXZfMzM2NzQtbm1fMQ==.html)**
+  - **[异界](https://www.4kvm.net/movies/yj)**
+
+---
+* **脑开发 100% 国外电影 超体 Lucy**
+  - [Lucy: Lucy meets Lucy](https://www.youtube.com/watch?v=UcDjWCEvZLM)
+  - [LUCY 2 (2026)](https://www.youtube.com/watch?v=deMHi69NA1Q)
+
+
+---
+* **Quark**
+  - [逆世界](https://pan.quark.cn/s/fdf3e32f44ac#/list/share)
+  - [可爱的骨头](https://pan.quark.cn/s/627222c2d675#/list/share)
+  - [美少女特攻队](https://pan.quark.cn/s/edd7d256bc3b#/list/share)
+
+---
+* **[腾讯视频 - 动漫 - Get the WeTV APP | 148万 | Youtube](https://www.youtube.com/@TencentVideoAnimation/videos)**
+  - **[画江湖之不良人第七季：九幽玄天](https://www.youtube.com/watch?v=yP16SeL5AzE)**
+
+---
+* **[Believer.67](https://v.douyin.com/sdprE26WI48/)**
+  - [共鸣叙事家·去找到你生命中的快乐！](https://v.douyin.com/kQjzqhUHk2k/)
+  - [荒野生存](https://v.douyin.com/J_jP3V0t678/)
+
+---
+### 0004. Bttwo | mvcat
+* **[Bttwo | hot](https://www.bttwo.org/hot-month)**
+  - [Lucy | 超体](https://www.bttwo.org/v_play/bXZfMTMyLW5tXzE=.html)
+
+---
 **[mvcat](https://www.mvcat.com/)**
   - **[在线电影](https://maohaha.com/n/2053/#https://maohaha.com/c/51845/)**
     * **[毒舍电影](https://www.dushe05.com/)**
@@ -269,60 +314,21 @@
     * **[日本动漫 | 番剧尽在番茶屋 | 免费观看高清动漫_经典 | 新番全覆盖](https://www.fanchawu.cc/)**
     * **[🍉西瓜卡通](https://cn.xgcartoon.com/)**
     * **[搜片 | 搜你想看的影片](https://soupian.one/)**
-    * **[bttwo](https://www.bttwo.org/hot-month)**
+
   ---
   - **[厂长资源](https://www.czzy.site/)**
     * **[czzymovie](https://www.czzymovie.com/)**
+      - **[2013年 | 美国 | 地心引力](https://www.czzymovie.com/v_play/bXZfMzQyNS1ubV8=.html)**
       - **[豆瓣电影Top250](https://www.czzymovie.com/dbtop250/)**
-        * **[罗马假日 | 奥黛丽·赫本 |  格利高里·派克](https://www.czzymovie.com/v_play/bXZfNzMwNi1ubV8x.html)**
-    * [cz4k](https://www.cz4k.com/)
-
----
-* **电影**
-  - **[新龙门客栈](https://www.youtube.com/watch?v=eCy1YvYGsi0)**
-  - **[大遼太后 The Empress Dowager of Great Liao (1995)](https://www.youtube.com/watch?v=0Laq0cqKN20)**
-  - **[新天龙八部之天山童姥](https://www.youtube.com/watch?v=v3LmGve2HRQ)**
-  - **[国产凌凌漆](https://www.youtube.com/watch?v=kdilUANii6s)**
-
----
-* **proxy·movie**
-  - [Binge Society-电影片段](https://www.youtube.com/@bingesociety/playlists)
-
----
-### 0003. Film-Note
-* **黑白-国外电影-精神-战斗 美少女特工队 大鹅 梦境制作models**
-  - [Sucker Punch | 4K Trailer | Warner Bros. Entertainment](https://www.youtube.com/watch?v=vJ0xYZ5mVMc)
-  - [异界-大鹅科幻作品](https://www.youtube.com/watch?v=AN1ffslY1cw)
-
----
-* **脑开发 100% 国外电影 超体 Lucy**
-  - [Lucy: Lucy meets Lucy](https://www.youtube.com/watch?v=UcDjWCEvZLM)
-  - [LUCY 2 (2026)](https://www.youtube.com/watch?v=deMHi69NA1Q)
-  - [美少女特攻队](https://pan.quark.cn/s/edd7d256bc3b#/list/share)
-
-  ---
-  - **[异界](https://www.4kvm.net/movies/yj)**
-
-  - [逆世界](https://pan.quark.cn/s/fdf3e32f44ac#/list/share)
-  - [可爱的骨头](https://pan.quark.cn/s/627222c2d675#/list/share)
-* 动漫
-  - 九幽玄天 3.27
-
----
-* **[Believer.67](https://v.douyin.com/sdprE26WI48/)**
-  - [共鸣叙事家·去找到你生命中的快乐！](https://v.douyin.com/kQjzqhUHk2k/)
-  - [荒野生存](https://v.douyin.com/J_jP3V0t678/)
-
----
-### 0004. TVBOX
-* [配置地址](http://xhztv.top/xhz)
+        * **[1953年 | 美国 | 罗马假日 | 奥黛丽·赫本 |  格利高里·派克](https://www.czzymovie.com/v_play/bXZfNzMwNi1ubV8x.html)**
+    * **[cz4k](https://www.cz4k.com/)**
 
 ---
 ### 0005. TV-小品
 * **[百家观察·相声小品](https://www.youtube.com/watch?v=tFcW-VJ_HR4&list=PLxD8kq6jJ87MAEhKQt0HNef0OxFiCdh4I)**
 
 ---
-### 0006. Movie介绍
+### 0006. Movie | 介绍
 * **现实与虚幻的边界消解**
 | 电影 | 剧情简述 | 关联点 |
 |------|----------|--------|

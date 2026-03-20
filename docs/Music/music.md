@@ -17,7 +17,7 @@
 * **[音乐魔石 | 音乐魔石-无损音乐免费下载网站](https://yym4.net)**
 
 ---
-### 0001. music·movie
+### 0001. Music·Movie
 * **work**
   - **[work && code](https://www.youtube.com/watch?v=mhNg55_IYiw&list=RDmhNg55_IYiw&start_radio=1)**
   - **[深度工作音乐](https://www.youtube.com/watch?v=TpBnbLT3Ki0)**
@@ -51,39 +51,80 @@
   - 13:19 Whispers of the Tide
 
 ---
-### 0002. music-site
-* [unminus](https://www.unminus.com/)
+* **情丝万缕·主题曲**
+      - [辛曉琪 Winnie Hsin【倆倆相忘 Try to forget】| 1994年台視「倚天屠龍記」片尾曲 Official Music Video](https://www.youtube.com/watch?v=CR_JvOHcN5E&list=RDCR_JvOHcN5E&start_radio=1)
 
 ---
-### 0003. 战曲
-* Immortals
-* Ashina deva
-* Nijamena 印度
-  - https://www.youtube.com/watch?v=rM-oxZHOBr0
-* The Mass
-  - https://www.youtube.com/watch?v=qMa1kTobETc
-* star sky
-  - https://www.youtube.com/watch?v=s-0ganwG284
-* victory
-  - https://www.youtube.com/watch?v=H6EceDF5ltc
-  - https://www.youtube.com/watch?v=7ayeex93u6o
-* 七剑战歌
-* Ei Dorado
-  - https://www.youtube.com/watch?v=qiB98Wbsdlo
-* The Dawn -亡灵序曲
-  - https://www.youtube.com/watch?v=sVVu5zXOVhE
-* Breath and life
-  - https://www.youtube.com/watch?v=C0xZ-H2KYWw
-* Hall in mig 叶卡捷琳娜
-  - https://www.youtube.com/watch?v=cQU93yrp41o
-* divano
-  - https://www.youtube.com/watch?v=QllvHZW33dE
-* Never Gonna Give You UP -?
-* Gravity 2013地心引力Gravity
-  - https://www.youtube.com/watch?v=BzPYvrGWJgA
+### 0002. Music·website
+* [Free Premium Music | **Unminus**](https://www.unminus.com/)
+
+---
+### 0003. 战歌 | Bilibili | Youtube
+* **[墨韵Moyun | 筝人，愿拆曲成诗 | 233.7万 | Bilibili](https://space.bilibili.com/2374194?spm_id_from=333.788.upinfo.detail.click)**
+  - **[十二镇魂歌](https://www.bilibili.com/video/av18200802/)**
+
+---
+* **[中华战歌的压迫感 | 玉盘](https://www.youtube.com/watch?v=k0JUs1O3Wac&list=RDk0JUs1O3Wac&start_radio=1)**
+
+---
+* **[战歌](https://www.youtube.com/playlist?list=PLUIMdYwR3qjrqrVa2xt9-NaAFIx4ZvF4d)**
+
+---
+* **[Immortals](https://www.youtube.com/watch?v=SyouAJU5yfs&list=RDSyouAJU5yfs&start_radio=1)**
+
+---
+* **[Ashina deva | 中东战歌](https://www.youtube.com/shorts/pgEudoV3FOg)**
+
+---
+* **[Nijamena | 印度](https://www.youtube.com/watch?v=rM-oxZHOBr0)**
+
+---
+* **[ERA | 101万 | Youtube](https://www.youtube.com/@ERAMusicOfficial/videos)**
+  - **[The Mass](https://www.youtube.com/watch?v=qMa1kTobETc)**
+
+---
+* **[袁莉媛 | 4.89万 | Youtube](https://www.youtube.com/@%E8%A2%81%E8%8E%89%E5%AA%9B/videos)**
+  - **[star sky](https://www.youtube.com/watch?v=s-0ganwG284)**
+
+---
+* **[Jim_Kirk1 | 3.73万 | Youtube](https://www.youtube.com/@JimKirk1/videos)**
+  - **[Victory](https://www.youtube.com/watch?v=H6EceDF5ltc)**
+
+---
+* **[Hardigun | 60.6万 | Youtube](https://www.youtube.com/@Hardigun/videos)**
+  - **[Victory](https://www.youtube.com/watch?v=7ayeex93u6o)**
+
+---
+* **[七剑战歌](https://www.youtube.com/watch?v=pszSdvdwgDY&list=RDpszSdvdwgDY&start_radio=1)**
+
+* **[Ei Dorado](https://www.youtube.com/watch?v=qiB98Wbsdlo)**
+
+---
+* **[The Dawn | 亡灵序曲](https://www.youtube.com/watch?v=sVVu5zXOVhE)**
+
+---
+* **[Breath and life](https://www.youtube.com/watch?v=C0xZ-H2KYWw)**
+
+---
+* **[Hall in mig  | 霍尔·奥姆·米格 - 叶卡捷琳娜王后](https://www.youtube.com/watch?v=cQU93yrp41o)**
+
+---
+* **[ERA - Divano | ERA - 迪瓦诺](https://www.youtube.com/watch?v=QllvHZW33dE)**
+
+---
+* **[Gravity | 2013-地心引力](https://www.youtube.com/watch?v=BzPYvrGWJgA)**
 
 ---
 ### 0004. Youtube·music
+* **[Lord Of The Rings - Arwen - One With The Truth | 指环王 - 阿尔文 - 与真相合一](https://www.youtube.com/watch?v=q4lRukMEI6Y&list=RDq4lRukMEI6Y&start_radio=1)**
+
+---
+* **[Deep](https://www.youtube.com/watch?v=9fmeVo70dvs)**
+
+---
+* **[Melodies of comfort | Piano Playlist](https://www.youtube.com/watch?v=unI_mm1UBbQ)**
+
+---
 * **[星际穿越·Interstellar](https://www.youtube.com/watch?v=8kooIgKESYE)**
 
 ---
