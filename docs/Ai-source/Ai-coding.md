@@ -169,6 +169,7 @@
   - [如何把名画变成电影？ 这次使用了jimeng画布，Agent模式+图片4.5+视频3.5pro一站式工作流，发现jimeng对国风的理解真是够绝啊，光影和色调完全符合我的想象！| 一站式AI创作工作台 | AI六边形战士 | 汉宫春晓图 | AI短片 | ai电影](https://v.douyin.com/8jOcXpzX_Ms/)
   - [天上星河落人间，一城灯火照千年。 | 2025AI年终大赏 | AI创作浪潮计划 | 即梦AI创作者成长计划 | 唯美意境 | 风景](https://v.douyin.com/jV9hEMEJB9Q/)
   - [一镜到底，走进画里](https://v.douyin.com/Ahi2hnaDeJI/)
+  - [唯美仙境环游记 | seedance 2.0](https://v.douyin.com/eeTDEV-bQzc/)
 
 ---
 * **[邀你赏景 | 二百章 | Douyin](https://v.douyin.com/1DiZbuQEpBY/)**
