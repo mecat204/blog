@@ -7,7 +7,7 @@
   - [万事已俱备，只等智能眼镜时刻 👓 到来。| XREALOnePro](https://v.douyin.com/eUbq9rd5X64/)
 
 ---
-* **[那个牧之 | 分享喜欢的东西，认识有趣的人。| 百章 | Douyin]()**
+* **[那个牧之 | 分享喜欢的东西，认识有趣的人。| 百章 | Douyin](https://v.douyin.com/SO5UypoVxLI/)**
   - [AR 眼镜选购指南](https://v.douyin.com/Hb0in2Zom28/)
 
 ---
