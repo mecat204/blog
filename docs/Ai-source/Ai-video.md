@@ -13,14 +13,22 @@
 * **[AI小宝 | 小宝带你穿越千年 · 直击历史名场面现场 | AI短剧导演 | 历史复原研究者 | 学术交流· AI造梦师小宝 | 百章 | 小宝](https://v.douyin.com/G82OlqoQzHc/)**
   - [AI复原张择端《清明上河图》](https://v.douyin.com/-V300tIKciY/)
   - [AI穿越实录｜重返北宋，亲历苏轼《承天寺夜游》现场](https://v.douyin.com/Bz3lQ6o6FZo/)
-  - [AI还原林徽因的一生 | AI | 林徽因 | 老照片 | 人生照片 | 历史](https://v.douyin.com/fxBFSDy1KYM/)
-  - [AI还原1924林徽因徐志摩陪同泰戈尔游览法源寺历史影像 | 林徽因 | 徐志摩 | 即梦AI新影像](https://v.douyin.com/LoblfCdGZtc/)
-  - [林徽因跨越一个世纪的早餐瞬间 | AI纪实还原影像 | 林徽因 | 林长民 | 老照片](https://v.douyin.com/BsrLJG5VwVU/)
+
+  ---
+  **林徽因**
+  - [**AI还原林徽因的一生** | AI | **林徽因**](https://v.douyin.com/fxBFSDy1KYM/)
+  - [AI还原1924林徽因徐志摩陪同泰戈尔游览法源寺历史影像 | 林徽因 | 徐志摩 | **即梦AI新影像**](https://v.douyin.com/LoblfCdGZtc/)
+  - [**林徽因跨越一个世纪的早餐瞬间** | AI纪实还原影像 | 林徽因 | 林长民 | 老照片](https://v.douyin.com/BsrLJG5VwVU/)
+  - [假如把老照片拍成电影 | **林徽因・英伦旧梦**](https://v.douyin.com/t3QYiBAZzLk/)
+  - [AI还原16岁林徽因的伦敦少女日常vlog | **可灵AI动作控制3**](https://v.douyin.com/4THNWqcRd50/)
+
+  ---
   - [桃花源记现场vlog第1集：武陵渔夫即将发现惊天秘密 | **桃花源记 | 陶渊明**](https://v.douyin.com/f4qMfH29N1U/)
   - [李白鲜为人知的第二故乡 | **云梦故乡 | 李白**](https://v.douyin.com/L0xUeUMisGs/)
   - [邹忌讽齐王纳谏 | **Ai短剧**](https://v.douyin.com/Ls7FkGpwu5Y/)
   - [谁才是晚清第一美女 | **王敏彤（完颜立童记）** |**完颜童记**](https://v.douyin.com/fng3xhyRMk8/)
 
+---
 * **[AI造梦师小宝 | 小宝带你穿越千年 · 直击历史名场面现场 | 2440位 | Youtube](https://www.youtube.com/@aixiaobao/videos)**
   - **[邹忌讽齐王纳谏](https://www.youtube.com/watch?v=DCBw5KolJh4)**
 
@@ -181,6 +189,7 @@
   - [人类用放血、汞丸、白兰地对抗**霍乱**近百年。直到斯诺的死亡地图和科赫的细菌学说，才让医学走出巫术时代](https://v.douyin.com/TDy3XRl8YVY/)
   - [大圆镜用影游融合的视角带你去看"**鼠疫**"，这个连续杀害欧洲半数人口却从未被定罪的"完美杀手"，它用1400年时间证明：最致命的刺客不需要意志，只需要耐心等待文明出现裂缝](https://v.douyin.com/_s46kvUvSxo/)
   - [第一次，人类是上帝，亲手写代码；第二次，人类是教练，教它学规则；第三次，人类沦为"饲养员"，只管喂数据和电费，坐看"神迹"涌现 | 本视频由**即梦seedance2.0**制作](https://v.douyin.com/x7JHbDDEYlc/)
+  - [在731部队的活体解剖记录里，炭疽是反人类的代名词；在现代实验室的论文中，它是抗癌新星的希望载体。| 同一种微生物，因人心的选择，同时处于"恶魔"与"天使"的叠加态——科学的边界，从来不是技术的极限，而是伦理的底线… | **Seko AI**](https://v.douyin.com/wEZldVM9Mbg/)
 
 ---
 ### 0005. New Concept English 01 | AI
