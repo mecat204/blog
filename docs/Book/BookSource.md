@@ -668,6 +668,8 @@
 * **[学爸加加油 - 教育学习资源分享](https://xuebajiajiayou.com/)**
   - **[国家中小学智慧教育平台电子教材全套 | quark](https://pan.quark.cn/s/44869c420044#/list/share)**
 
+* **[ahhhhfs - A姐分享](https://www.ahhhhfs.com/)**
+
 ---
 ### 0020. Procreate Tutorials
 * [Genevieve's Design Studio](https://www.youtube.com/@GenevievesDesignStudio)
