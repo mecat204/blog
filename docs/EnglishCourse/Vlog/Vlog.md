@@ -2409,4 +2409,107 @@
   - [Python Decorators - Visually Explained](https://www.youtube.com/watch?v=3tyaO-OE0K0)
 
 ---
+### 017. 学爸加加油
+* **[学爸加加油](https://xuebajiajiayou.com)**
+  - [**英文科普，油管Youtube频道推荐(科普/教育/工程/奇趣/自然/手工等)**](https://xuebajiajiayou.com/english-science-popularization-youtube-channel/)
+    **泛科普类**
+      1. **Kurzgesagt - In a Nutshell**
+      1. **Science Channel**
+      1. **minutephysics**
+      1. **TED-Ed**
+      1. **Domain of Science**
+      1. **Peekaboo Kidz**
+      1. **Space Videos**
+
+    ---
+    **在家上学类(Homeschooling)**
+      1. **Free School**
+      1. **Homeschool Pop**
+      1. **CrashCourse**
+      1. **Learn Bright**
+
+    ---
+    **工程机械、工作原理类**
+      1. **Jared Owen**
+      1. **Lesics**
+      1. **Art of Engineering**
+      1. **Animagraffs**
+      1. **Branch Education**
+
+    ---
+    **奇闻逸趣类**
+      1. **Bright side**
+      1. **BE AMAZED**
+
+    ---
+    **人文历史类**
+      1. **Knowledgia**
+      1. **The Great War**
+      1. **Mytholoy & Fiction Explained**
+      1. **History on Maps**
+
+    ---
+    **动植物自然类**
+      1. **Nat Geo Kids**
+      1. **BBC Earth**
+      1. **Brave Wilderness**
+
+    ---
+    **少儿新闻类**
+      1. **NBC News (Nightly News: Kids Edition)**
+      1. **BBC Newsround**
+
+    ---
+    **手动制作类**
+      1. **5-Minute Crafts PLAY**
+      1. **Art for Kids Hub**
+      1. **Brick Builder(乐高)**
+
+    ---
+    **Minecraft**
+      1. **Funny Mikey**
+      1. **Maizen**
+      1. **LockDownLife**
+
+---
+**泛科普类**
+* **[Kurzgesagt – In a Nutshell | 2510万 | Youtube](https://www.youtube.com/@kurzgesagt/videos)**
+  - Animation videos explaining things with optimistic nihilism since 12,013.
+  - 自12,013年以来，动画视频以乐观虚无主义的方式解释事物。
+
+  ---
+  - We’re a team of illustrators, animators, number crunchers and one dog who aim to spark curiosity about science and the world we live in.
+  - 我们是一支由插画师、动画师、数字计算者和一只狗组成的团队，旨在激发人们对科学和我们所处世界的好奇心。
+
+  ---
+  - To us nothing is boring if you tell a good story.
+  - 对我们来说，只要讲好故事，什么都不会无聊。
+
+  ---
+  - For updates on our videos and other news from the kurzgesagt universe follow us on Twitter, Facebook, Instagram and LinkedIn.
+  - 想了解我们的视频更新以及kurzgesagt宇宙的其他新闻，请关注我们的Twitter、Facebook、Instagram和LinkedIn
+
+* **[Science Channel | 530万 | Youtube](https://www.youtube.com/@sciencechannel/videos)**
+  - Learn about outer space, leading scientific exploration, new technology, earth science basics, & more with science videos & news from Science Channel.
+  - 通过科学视频和新闻，了解外太空、领先的科学探索、新技术、地球科学基础等内容。
+
+* **[minutephysics | 595万 | Youtube](https://www.youtube.com/@MinutePhysics/videos)**
+  - Simply put: cool physics and other sweet science.
+  - 简单来说：很酷的物理学和其他精彩的科学。
+
+  ---
+  - "If you can't explain it simply, you don't understand it well enough.
+  - "如果你连简单解释都说不清楚，那你还不够了解."
+
+  ---
+  - ~Rutherford via Einstein?
+  - ~拉瑟福经爱因斯坦？
+
+  ---
+  - (wikiquote) Created by Henry Reich
+  - (维基语录) 由亨利·赖希创作
+
+* **[]()**
+
+---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
