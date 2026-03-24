@@ -1552,6 +1552,5 @@
   - <font color="#F8791B"> **<font color="#0F3194">【】</font>**</font>
   - <font color="#F8791B"></font>
 ```
-
 ---
-![alt text](https://upload- <font color="#F8791B">bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50</font>f9c9f299c_1259576169906078498.PNG?x- <font color="#F8791B">oss- <font color="#F8791B">process=image//resize,s_600/quality,q_80/auto- <font color="#F8791B">orient,0</font>/interlace,1/format,png</font>)
+![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/124efecdc67bfec6e7041b7ab7f0516a_916342339906101518.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
