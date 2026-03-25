@@ -690,6 +690,62 @@
       - 🔹 内啡肽：用"适度挑战"激活天然止痛剂，获得平静愉悦 我将此书与我十余年的生活习惯集合，分享具体可操作的"高能量体质"养成方案。从今天开始，让专注力和好状态成为自然而然的事！
     - [为什么我从小在中国生活，却把英语练到了母语水平？](https://v.douyin.com/CWwCplRLEK0/)
 
+  **001. 全英文Talk**
+    - [无用的爱好 | 001 | 全英Talk](https://v.douyin.com/Q3FwrJrJa1s/)
+    - [无助是人的本能，自主需要刻意练习 | 016 | 全英Talk](https://v.douyin.com/QznrQH4D7JM/)
+
+  ---
+  **002. 冰雹讲书 | Min: 10-20min**
+    - [2024年09年 | 我是如何实现英文词汇量3年2万、6年3万的 | 001](https://v.douyin.com/EC0CmC7GcUs/)
+    - [随他们去 | Author: Mel Robbins | 015 ](https://v.douyin.com/c9wQdbYk4XM/)
+    - 冰雹讲书 《随他们去》是一本在北美广泛流行的成长类书籍，作者 **Author: Mel Robbins** Author: 用 13 年时间，从中年失业、负债 80 万美金的人生低谷，走到全球顶级播客与演讲者。 她总结出一个极其重要的认知：成年人最大的内耗，来自控制你无法控制的人和事。
+    - 本期视频将系统拆解书中最有力量的 4 个心法，帮你在家庭、友情、亲密关系中，建立清晰的边界感，减少无谓消耗，把人生的主动权，重新握回自己手中。
+
+  ---
+  **003. 冰雹个人成长故事**
+    - [我如何10年收获英语口语的蜕变？从小白到英语记者的训练方法 | 001](https://v.douyin.com/ZA_3bsy-DgY/)
+    - [写日记20年：从人生错题本到人生启示录，我用它创造心仪人生 我坚持写了20年日记。| 029](https://v.douyin.com/vJwZyPpmYNc/)
+
+  ---
+  **004. 学英语技巧**
+    - [突破英语听力口语瓶颈01｜**掌握连读，听懂老外说话，说得更流利** | 001](https://v.douyin.com/l6d1Vs4hktk/)
+    - [1个神奇技巧，激活你的英语口语大脑，流利度翻倍 | 057](https://v.douyin.com/9DvphX3Pj9I/)
+
+  ---
+  **005. 万能高效学习法 | Min: 4min**
+    - [**短时集中的学习，让学习事半功倍** | 001](https://v.douyin.com/jgADHlrGyFM/)
+    - [**30秒视觉聚焦训练，提升专注力** | 012](https://v.douyin.com/-V5afDLbvNs/)
+
+  ---
+  **006. 变聪明秘籍**
+    - [智商是固定的吗？不，你可以变得更聪明 | 001](https://v.douyin.com/rhBeNvN_Gv4/)
+    - [学习音乐，全面激发大脑潜能 | 007](https://v.douyin.com/_qrwgcGnQdU/)
+
+  ---
+  **007. 抗焦虑秘籍 | Min: 4min**
+    - [如何停止脑海里的负面声音 | 励志演讲 | 001](https://v.douyin.com/CCKv-uFkmeU/)
+    - [把千分之一的想法变成行动，就能打败焦虑 | 005](https://v.douyin.com/51WPuh3Sq54/)
+
+  ---
+  **008. 三分钟英语美文 | Min: 4min**
+    - [人们永远不会忘记你带给他们的感受 | 美国作家: Maya Angelou | 001](https://v.douyin.com/Z5MZgleQMy4/)
+    - [你是绝对独一无二的 | 018](https://v.douyin.com/VeY5vjyGn0Y/)
+
+  ---
+  **009. 好口才养成秘籍 | Min: 5min**
+    - [好口才养成秘籍 | 001](https://v.douyin.com/qHHuoJmgqU4/)
+    - [好口才养成秘籍 | 005](https://v.douyin.com/Or7htLqWKC0/)
+
+  ---
+  **010. 学校不告诉你的事 | Min: 10min**
+    - [告别普通，从挖掘相对优势开始 | 001](https://v.douyin.com/MmLDkI85IDI/)
+    - [怎么找到优质的实习与工作 | 014](https://v.douyin.com/lH2NiHHIpI4/)
+
+  ---
+  **011. 世界有理所见闻 | Min: 5min**
+    - [资本撑起的教培行业水太深，真正的教育是自我教育 | 001](https://v.douyin.com/hEPGf4kqY0k/)
+    - [在印尼救助濒死的海龟，重新思考人与自然的关系 | 006](https://v.douyin.com/54RXe-SD97w/)
+
 ---
 * **[ABC在路上- 突破英语 | 每个人都可以达到英语听力自由，分级大量听 | 二千章 | Douyin](https://v.douyin.com/lBdotnqjVYw/)**
   - [3个月突破英语](https://v.douyin.com/iIKcKoIhvKg/)
