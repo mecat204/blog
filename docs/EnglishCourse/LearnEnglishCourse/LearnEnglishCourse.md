@@ -1335,6 +1335,121 @@
     * [Little Human Planet | 小小人类星球]()
   - **[一首歌让你掌握48音标 | 国际音标](https://v.douyin.com/cX7EOaZEx6Y/)**
 
+  ---
+  **001. 自然拼读**
+    - [英文数字1-100的标准读音 | **启蒙早教** | 001](https://v.douyin.com/sQvfu1ZvphY/)
+    - [**三步搞定长难单词**！告别死记硬背，词汇量暴涨其实很简单 | **元音: a e i o u** |**Kindergarten: 'Kin'der'gar'ten** | 147](https://v.douyin.com/6UfY6H-jmsE/)
+
+  ---
+  **002. 音标学习**
+    - [口诀巧记48个音标 | 001](https://v.douyin.com/QQ4iilpt-a0/)
+    - [一首歌让你掌握48音标 | 035](https://v.douyin.com/ytRnon0RPHE/)
+
+  ---
+  **003. 语法口诀和大招**
+    - [超形象秒记英语介词里的4个过 | across: 表面经过 | through: 内部经过 | over: 上方经过 | past: 旁边经过 | 001](https://v.douyin.com/CdrG7XE3bjg/)
+    - [从0数到10，搞定 **英语零冠词** | 209](https://v.douyin.com/dGFNbie3W74/)
+
+  ---
+  **004. 启蒙儿歌+绘本**
+    - [Brown bear | 001](https://v.douyin.com/heTqg9Vdiuk/)
+    - [Lemon Tree: 柠檬树 | 033 ](https://v.douyin.com/50KKZtHJ3v8/)
+
+  ---
+  **005. 小学单词的标准读音大全**
+    - [数字1-100的标准读音 | 001](https://v.douyin.com/GoblW3cdCfU/)
+    - [最新人教版三年级英语上册 | 055](https://v.douyin.com/8QUKhtokh1Q/)
+
+  ---
+  **006. 听英文歌学英语**
+    - [推荐7首英文歌](https://v.douyin.com/8grpfGsV-v0/)
+    - [英语零基础暑假必听的三首神曲](https://v.douyin.com/KeOx4i12b2s/)
+
+  ---
+  **007. 家长必看如何英语启蒙**
+    - [什么是英文思维？中英文思维的区别 | 001](https://v.douyin.com/OorJ8HSG1tw/)
+    - [英语教材改版后，光靠学校是不够的，家长必看干货 | 007](https://v.douyin.com/4OKHawruTTA/)
+    - [高考结束，英语命题和考查方向非常清晰，小学到高中都要看完， 未来的学习方向和方法。| 010](https://v.douyin.com/H3HeLJglFJ8/)
+
+  ---
+  **008. 亲子口语**
+    - [一分钟教你学会手部动作的英文 | 001](https://v.douyin.com/OfEf6lYJLXE/)
+      * Slap    扇
+      * point   指
+      * push    推
+      * poke    戳
+      * punch   拳打
+      * lift    举起
+      * hold    握住
+      * grab    抓取
+      * flick   轻弹
+      * scratch 挠
+      * pull    拉
+
+    ---
+    - [口头禅换成英语 | 025](https://v.douyin.com/yjZPOUvBjck/)
+      * See you later | 待会见
+      * I got it | 我知道了
+      * Let me try | 让我试试
+      * No way | 不可能
+      * Here you go | 给你
+
+  ---
+  **009. 每天学5句日常口语**
+    - [001](https://v.douyin.com/DpsZ4IVelHM/)
+      * What do you think?
+      * What do you have?
+      * What do you mean?
+      * What do you want?
+      * What do you know?
+    - [005](https://v.douyin.com/I5cTiXSsalY/)
+      * See you.
+      * See you soon. | 待会见
+      * See you later. | 晚点见
+      * See you around. | 后会有期
+      * See you tomorrow.
+
+  ---
+  **010.以一记十 秒记单词**
+    - [以一记十 | **自然拼读巧记单词**](https://v.douyin.com/ltaPyXaNLsY/)
+      * air
+      * hair
+      * chair
+      * pair | 一对
+      * stair | 楼梯
+      * fair  | 公平
+      * repair | 修理
+    - [秒记天气单词](https://v.douyin.com/LcIuWmZdN1c/)
+      * sun sunny
+      * rain rainy
+      * wind windy
+      * fog foggy 有雾的
+      * snow snowy
+      * cloud cloudy 多云的
+
+  ---
+  **011. 99%的人都读错的英文**
+    - [001](https://v.douyin.com/cWs3fPbx6gI/)
+      * queue | 排队
+      * climb | 攀登
+      * iron
+      * sword
+      * suite | 套房
+      * obvious | 明显
+    - [002](https://v.douyin.com/nmG6ewz3aCs/)
+      * dress warm.
+      * My English is not very good.
+      * eat soup.
+
+  ---
+  **012. 雪梨老师的口语干货**
+    - [001](https://v.douyin.com/TO9kELi1-B8/)
+      * Same here       | 我也是
+      * Good idea
+      * It makes sense. | 很有道理
+      * Couldn't  agree more. | 非常同意
+    - [连读 | 011](https://v.douyin.com/veTV9XYCX-E/)
+
 ---
 * **[乃炎英语 | 奈炎工作室 | 英语学习顾问, 专注成人零基础英语起步到提升 | 七年教龄 | 英语专八, 资深英语培训师 | 高级英语教师资格证 CATTI三级 | 一起快乐学英语 | Douyin | 五百章 | Douyin](https://v.douyin.com/pPqC74m3eTU/)**
   - **[日常口语](https://v.douyin.com/D8Wk9TkC14Y/)**
