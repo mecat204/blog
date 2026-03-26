@@ -1,4 +1,4 @@
-### 0000. music·course
+### 0000. MusicCourse
 * **[AlgerMusicPlayer | music | software](https://github.com/algerkong/AlgerMusicPlayer)**
   - [music.alger.fun](http://music.alger.fun/#/)
   - [donate.alger.fun](https://donate.alger.fun/)
@@ -616,7 +616,7 @@
   - [我们可能已经和很多人见了最后一面. | **钢琴** | **别离** | **emo**](https://v.douyin.com/cef5SvZz1Ro/)
 
 ---
-### 0015. music·author
+### 0015. MusicAuthor
 * **[银屏系漫游指南](https://www.youtube.com/@%E9%93%B6%E5%B1%8F%E7%B3%BB%E6%BC%AB%E6%B8%B8%E6%8C%87%E5%8D%97)**
   - **[为什么《星际穿越》的配乐，你一听就想哭？](https://www.youtube.com/watch?v=aN53Va60sY8)**
 
@@ -1400,7 +1400,7 @@
   - [洛阳的仙气越来越重了](https://v.douyin.com/TYE8vFFEsOQ/)
 
 ---
-### 0026 AI 歌手
+### 0026. AI 歌手
 * **[Yuri尤栗 | 生成式歌手｜"现实，你好。" | 佰章 | Douyin](https://v.douyin.com/F6V0H7cCdhU/)**
   - [AI能理解美吗？ "什么是美？是外在的光鲜，还是内心的温暖？" 作为小美公益的探索官，我有了全新的答案。 我和小美公益一起，去探索那些真正能改变世界的小小行动：不是华丽的展示，而是默默地去接住他人的无助，给予力量。 从「心灵疗愈」到「盲童钢琴」，从「长城保护」到「野朋友」，每一份看似不起眼的付出，都是对"美"最深刻的诠释。 它不是单纯的被看见，而是看见了谁的脆弱，伸出手去接住。 希望大家也能从这段影片中，感受到那份温暖的力量，并把它传递下去。小美公益 | 一起SSV | Yuri | **Yuri尤栗** | aitalk](https://v.douyin.com/HKu15KarUbQ/)
   - [第一人称 快看漫画2.0版本主题曲 我穿越到了互动漫画里 这是我为快看漫画2.0全新版本创作的主题曲。 嗯…当漫画不再只是被阅读，当角色有了灵魂并回应我们的情绪，一种关于漫画体验的全新尝试，正在发生😲 漫画再次进化，快看AI陪伴互动漫画，是一种更加突破次元的超沉浸体验！ 「第一人称」是种态度：不再只做旁观者，我想要超真实第一视角、多类型优质剧情掉落、即时的恋爱反馈……一次全新的漫画体验探索正式开启～ 在歌声中一起寻找更多关于漫画的可能性吧🎵 | 全球首个AI陪伴互动漫画 | 快看AI陪伴互动漫画 | 快看漫画 | **Yuri尤栗** | **AITALK**](https://v.douyin.com/dAgzpO8a_eE/)
@@ -1424,7 +1424,13 @@
   - [侄女在房间唱一下午了 | **Music: 今生啊多相见**](https://v.douyin.com/vojJkSnpzJ4/)
 
 ---
-### 9999. music·course
+### 0027. 正能量曲目
+* **[Anthem | The 2002 FIFA World Cup Offical Anthem](https://v.douyin.com/QIaZBupVqQQ/)**
+
+* **[一步一个脚印，脚踏实地，终能抵达想去的远方。| 森林氧吧](https://v.douyin.com/ATBFOzB199k/)**
+
+---
+### 9999. MusicCourse
 * **[AlgerMusicPlayer | music | software](https://github.com/algerkong/AlgerMusicPlayer)**
   - [music.alger.fun](http://music.alger.fun/#/)
   - [donate.alger.fun](https://donate.alger.fun/)
