@@ -131,6 +131,10 @@
   - [认知](摘录集/认知)
 
 ---
+* **图文散频**
+  - [图文散频](图文散频/图文散拼)
+
+---
 * **Collection**
   - [readme](Collection/readme)
   - [Todaytask](Collection/Todaytask)

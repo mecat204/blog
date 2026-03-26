@@ -628,8 +628,9 @@
     - [今天下雪啦！本来和和美美的 但是双胞胎真是说不好因为什么打起来！双胞胎| 打架 | 下雪啦](https://v.douyin.com/sebpU_dvIRw/)
 
   ---
-  * **[嘉鹅 | 橱窗可以自助下单哦 | 五百章 | Douyin](https://v.douyin.com/KVYyrvI0fUQ/)**
+  * **[嘉鹅 | 这里是你的情感榨菜 | 五百章 | Douyin](https://v.douyin.com/KVYyrvI0fUQ/)**
     - [你们喝完爱说啥故事 说给我听听😂 | 酒后故事 | 鹅嘉 | 嘉鹅的朋友圈](https://v.douyin.com/5-3iv4rCASY/)
+    - [不要拿自己的幕后生活去和别人的精彩片段比较 | **张雪峰离开的思考**](https://v.douyin.com/hQt3P9IWh4k/)
 
   ---
   * **[钵钵江 | 承蒙厚爱，感谢关注˵¯̴͒ꇴ¯̴͒˵ 每天笑一笑，烦恼少又少 | 千章 | Douyin](https://v.douyin.com/yIn7I4bwUMc/)**
@@ -637,6 +638,17 @@
     - [让你压声，没让你叛国～哈哈哈哈哈](https://v.douyin.com/Dj9j0xWWTLw/)
     - [我感受了一股杀气～哈哈哈哈](https://v.douyin.com/P3fitQxPFHY/)
     - [好久没听过这么干净的骂人话语了～](https://v.douyin.com/SlNQt6JYVZk/)
+
+    ---
+    **2026爆笑合集**
+      - **[各自拿下都好好处～哈哈哈哈 | 001](https://v.douyin.com/jcFVU2xWGv0/)**
+      - **[大姐在一声声姐姐中迷失自我 | 021](https://v.douyin.com/WfLL7goyUM0/)**
+      - **[我看看你有没有文化 | 065](https://v.douyin.com/1Y72iR0RhsQ/)**
+
+    ---
+    **爆笑神评论**
+      - **[简单的嘴臭，才有极致的享受！哈哈哈 | 001](https://v.douyin.com/JGBPmkswohY/)**
+      - **[一点气都受不了，但..加钱可以 | 404](https://v.douyin.com/3DBUueRd-HQ/)**
 
   ---
   * **[暴躁虾剪 | 一个要把西游记剪成臊子的男人 | 五百章 | Douyin](https://v.douyin.com/xma4-2Rjo5s/)**

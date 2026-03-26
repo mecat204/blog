@@ -747,6 +747,46 @@
     - [在印尼救助濒死的海龟，重新思考人与自然的关系 | 006](https://v.douyin.com/54RXe-SD97w/)
 
 ---
+* **[美国小学Sunny老师 | 口语星球创始人 | 英语原版娃家长必读 | 曾任教与美国蓝丝带公立小学 | 千章 | Douyin](https://v.douyin.com/tUM9U3-NVZ0/)**
+  **001. 口语星球培养的十万个英语牛娃**
+    - [学生合集 | 001](https://v.douyin.com/6P8kyOt8vrE/)
+    - [用"听来带动读"，效果绝对翻倍 | 048](https://v.douyin.com/b7XMTfoKW_A/)
+
+  ---
+  **002. 英语启蒙避坑指南**
+    - [全网zui全英语教材改版解读-让语言回归本质 | 001](https://v.douyin.com/yVDaqDHoMDE/)
+    - [自然拼读和分级阅读根本不是二选一⚠️而是拼读+解码+精读+ 泛读+写作基础多线条同步发展，最终才能衔接到学术阅读和学术写作 | 220](https://v.douyin.com/_Zha6kRj2mM/)
+
+  ---
+  **003. 国际教育理念分享**
+    - [名校之UWC世界联合学院 | 001](https://v.douyin.com/qbpa9iEp4pA/)
+    - [沉浸式体验美国小学阅读课:如何分析作者的中心思想 | 042](https://v.douyin.com/x7GYh2wRRUY/)
+
+  ---
+  **004. 亲子英语(常见生活场景)**
+    - [吃饭时可以和孩子说的英文 | 001 ](https://v.douyin.com/7muzcre0LbM/)
+    - [赶紧收藏这些好玩的英语叠词，跟娃说起来吧 | 016](https://v.douyin.com/Ic5WCx1ydSM/)
+
+  ---
+  **005. 口语星球背后的顶尖语言学家**
+    - [快来上Steve老师推荐的口语星球吧 | 001](https://v.douyin.com/x0H8_H8GwmE/)
+    - [Alex老师喊大家来参加一年一度的万人复述大赛了 | 017](https://v.douyin.com/DD-FBWPoyek/)
+
+  ---
+  **006. Sunny老师的日常**
+    - [在亲妈滤镜下，我感觉老三四个月能听懂一点英语了 | 001](https://v.douyin.com/rRAKkwRt0Bo/)
+    - [国庆节带美国朋友看中国🇨🇳她的一句话让我泪目 最让外国人惊叹的已经不仅仅是中国的高科技和美食了，而是 | 010](https://v.douyin.com/eqtaUmIoJCM/)
+
+---
+* **[橙爸情绪超稳定 | 贰佰章 | Douyin](https://v.douyin.com/V4fGE6K1UnM/)**
+  - [布鲁伊 |  动画](https://v.douyin.com/sm5w17VCXnk/)
+
+  ---
+  **001. 蓝色小考拉**
+    - [蓝色小考拉 | 动画 | 001](https://v.douyin.com/cAo-kNxRUc8/)
+    - [小鸡彩虹 | 动画 | 011](https://v.douyin.com/UuQBXhphQjs/)
+
+---
 * **[ABC在路上- 突破英语 | 每个人都可以达到英语听力自由，分级大量听 | 二千章 | Douyin](https://v.douyin.com/lBdotnqjVYw/)**
   - [3个月突破英语](https://v.douyin.com/iIKcKoIhvKg/)
   - [HOW TO DEAL WITH DISRESPECTFUL PEOPLE](https://v.douyin.com/9bGOgE1-3rk/)
