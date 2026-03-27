@@ -173,7 +173,6 @@
   - [影视剧介绍](Collection/影视剧介绍)
   - [ChatGPT.q&w](Collection/ChatGPT.q&w)
   - [TranslationVault](Collection/TranslationVault)
-  - [Work](Collection/work)
 
 ---
 * **CodeSnippet**
@@ -218,6 +217,11 @@
 ---
 * **CommonSense**
   - [GeneralKnowledge](CommonSense/GeneralKnowledge)
+
+---
+* **Work**
+  - [Work](Work/work)
+  - [ChatGPT](Work/chatpgt)
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
