@@ -1590,6 +1590,19 @@
   - [小狐狸的彩虹尾巴](https://v.douyin.com/IsrQ0SHI-Aw/)
 
 ---
+* **[搬运工小莯 | 分享动画片合集 不定期更新哦 | 三百章 | Douyin](https://v.douyin.com/mSgSsHWc-PQ/)**
+
+  ---
+  **001. 布鲁伊第一季英文版**
+    - [01. magic xylophone | 神奇的木琴](https://v.douyin.com/YTMSs5oNNIM/)
+    - [51.阳台圣诞老人](https://v.douyin.com/PSoMHLsGgSk/)
+
+  ---
+  **002. 布鲁伊第二季英文版**
+    - [Dance Mode | 跳舞模式 | 001](https://v.douyin.com/7PhTIKAm6mM/)
+    - [Favourite Thing | 最开心的事 | 007](https://v.douyin.com/oLhQWb2GuH4/)
+
+---
 ### 0017. 高端访谈 | CCTV
 * **[高端访谈小制片 | 总台央视新闻频道 CCTV-13《高端访谈》](https://v.douyin.com/a5HyNbsjUiI/)**
   - [高端访谈｜非洲53个建交国享100%%税目产品0关税，塞舌尔总统畅谈合作机遇](https://v.douyin.com/tIe7xVRlk9E/)
