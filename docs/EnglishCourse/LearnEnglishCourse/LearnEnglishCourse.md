@@ -628,20 +628,6 @@
   - 学语言害怕开口？这招帮你轻松跨过心理障碍 很多人把说错一句话看得太严重，结果越想避免错误，心理负担就越重。反而，那些敢于多听、多读、多试的学习者，更快突破了心理障碍。 这也印证了心理语言学里的一个理论： 📖 Affective Filter Hypothesis（情感过滤假说） —— 当我们焦虑、紧张时，大脑对语言的吸收效率会下降；而在放松、愉快的状态下，我们更容易习得语言。
 
 ---
-* **[欧美外教在线一对一口语 | 零基础英语 | 启蒙英语 | 雅思口语 | 零基础英语 | 商务英语 | 二千章 | Douyin](https://v.douyin.com/dtwC1ZGrWxQ/)**
-  - [北美外教一对一网课 外教：英语是一项改变人生的技能](https://v.douyin.com/Ix5dt7a8F-Q/)
-  - [欧美外教英语课一对一网课](https://v.douyin.com/cNQsa9vj7nQ/)
-  - [在线英语外教一对一英语口语 外教：记忆单词的最佳方式是多读。|英语流利说](https://v.douyin.com/S_WuSgv0SEM/)
-  - **[English Fluency Jounery | 223万 | Youtube](https://www.youtube.com/@EnglishFluencyJourney/videos)**
-  - [English Fluency Journey | Hanna Khoma](https://www.englishfluencyjourney.com/)
-
----
-* **[菲教英语网课推荐 | 试听课咨询私信我呦 👉适合各年龄段的零基础，雅思托福 | 二千章 | Douyin](https://v.douyin.com/vVfQfoX9dYE/)**
-  - [跟外教老师练口语，提升你的英语水平](https://v.douyin.com/MMgIQU9fmuo/)
-  - [萌娃跟外教老师一对一学习英语，坚持2年，进步很大！ | 外教一对一  | 外教英语  | 英语启蒙](https://v.douyin.com/zK8HOOOrfIo/)
-  - [阅读的提升口语最快的方法 | 英语外教](https://v.douyin.com/lxInWasAlj8/)
-
----
 * **[TED 视频精选 | 千章 | Douyin](https://v.douyin.com/ww6tnRMHqKM/)**
   - [6个科学学习法](https://v.douyin.com/fVrslOuU-lQ/)
   - 情绪记忆法（越骂记得越牢）
@@ -1259,13 +1245,45 @@
   - [Beginner-120、学习停止翻译](https://v.douyin.com/FC480Y4AbGY/)
   - [Q&A-077、help的短语动词！ | 英语口语 | 英语没那么难 | 英语学习 | 老外教英语](https://v.douyin.com/XajhfXtaGaU/)
 
----
-* **[欧美外教在线一对一口语 | 零基础英语 | 启蒙英语 | 雅思口语 | 零基础英语 | 商务英语 | 二千章 | Douyin](https://v.douyin.com/dtwC1ZGrWxQ/)**
-  - [北美外教一对一网课 外教：英语是一项改变人生的技能](https://v.douyin.com/Ix5dt7a8F-Q/)
-  - [欧美外教英语课一对一网课](https://v.douyin.com/cNQsa9vj7nQ/)
-  - [在线英语外教一对一英语口语 外教：记忆单词的最佳方式是多读。|英语流利说](https://v.douyin.com/S_WuSgv0SEM/)
-  - **[English Fluency Jounery | 223万 | Youtube](https://www.youtube.com/@EnglishFluencyJourney/videos)**
-  - [English Fluency Journey | Hanna Khoma](https://www.englishfluencyjourney.com/)
+  ---
+  **001. Talk Show**
+    - [Talk show-001、最喜欢的英语 | 001](https://v.douyin.com/yau2CKxzknI/)
+    - [show-005、英语绕口令 | 005](https://v.douyin.com/Hz0chbh96fA/)
+
+  ---
+  **002. Questions & Answers**
+    - [Would&Will&Shall区别解析 | Q&A-001](https://v.douyin.com/G3WWZIk3VOs/)
+    - [help的短语动词 | Q&A-077](https://v.douyin.com/Ujnw8jzKw9c/)
+
+  ---
+  **003. English Grammar**
+    - [The Difference Between "Until" and "By" | Grammar-001](https://v.douyin.com/UzIHrVD-izw/)
+    - [没有、不能、不会 | Grammar-210](https://v.douyin.com/3FtS2p4YK_c/)
+
+  ---
+  **004. Monthly Review**
+    - [保持学习动力 | Monthly-001](https://v.douyin.com/NOwHwMF_9q4/)
+    - [日常匹配（七） | Monthly-030](https://v.douyin.com/6biZh_yzSPo/)
+
+  ---
+  **005. 800 Words and Phrase**
+    - [Core 800-01](https://v.douyin.com/TNkbPD561Ak/)
+    - [Core 800-40](https://v.douyin.com/YoqduxAWmYc/)
+
+  ---
+  **006. Learning Strategies**
+    - [Top 5 Shortcuts to Learning a Language | 学习英语有捷径 | Strategies-01](https://v.douyin.com/PLExJjkGnDY/)
+    - [掌控词汇短语 | Strategies-60](https://v.douyin.com/JJTVr93KOio/)
+
+  ---
+  **007. Know Your Verbs**
+    - [你瞅啥？"see" 瞅你咋的 | 001](https://v.douyin.com/Rh1CXm6TWJM/)
+    - [掩护我！Cover | 100](https://v.douyin.com/N-HN5p3qmzA/)
+
+  ---
+  **008. English Beginner**
+    - [25个最常用单词短语 | Beginner-001](https://v.douyin.com/rusP9TNmg2Y/)
+    - [看电影的表达 | Beginner-175](https://v.douyin.com/Nr6ntkvvHCM/)
 
 ---
 * **[Emily英文绘本故事 | 北大本硕 | 15年 + 教育人 | 俩娃妈妈 | 把教育经验熬成原创英语绘本故事 | 用妈妈的视角, 讲孩子能听懂的英文内容, 每天5分钟磨耳朵,陪娃轻松爱上英语 | 百章 | Douyin](https://v.douyin.com/jkP_utJS_p8/)**
@@ -1489,6 +1507,49 @@
       * It makes sense. | 很有道理
       * Couldn't  agree more. | 非常同意
     - [连读 | 011](https://v.douyin.com/veTV9XYCX-E/)
+
+---
+* **[欧美外教在线一对一口语 - 葡然蕴 | 零基础英语 | 启蒙英语 | 雅思口语 | 零基础英语 | 商务英语 | 二千章 | Douyin](https://v.douyin.com/dtwC1ZGrWxQ/)**
+  - [北美外教一对一网课 外教：英语是一项改变人生的技能](https://v.douyin.com/Ix5dt7a8F-Q/)
+  - [欧美外教英语课一对一网课](https://v.douyin.com/cNQsa9vj7nQ/)
+  - [在线英语外教一对一英语口语 外教：记忆单词的最佳方式是多读。|英语流利说](https://v.douyin.com/S_WuSgv0SEM/)
+  - **[English Fluency Jounery | 223万 | Youtube](https://www.youtube.com/@EnglishFluencyJourney/videos)**
+  - [English Fluency Journey | Hanna Khoma](https://www.englishfluencyjourney.com/)
+
+  ---
+  **001. 51talk英语外教一对一**
+    - [51talk外教一对一，外教一对一，母语者教你如何正确高效的学英语 | 001](https://v.douyin.com/sa-SjAcZloQ/)
+    - [51talk英语外教一对一 在线授课，英语是用来说的，一定的语言环境对于英语的学成有非常帮助 | 011](https://v.douyin.com/flgq6-R01PM/)
+
+  ---
+  **002. vipkid一对一口语外教**
+    - [vipkid的外教都是北美 | 001](https://v.douyin.com/kgPL0nCb2cI/)
+    - [vipkid一对一口语外教 外教：发音相近但意义不同的单词 | 021](https://v.douyin.com/c3_UcMgSsEs/)
+
+  ---
+  **003. 在线英语外教一对一口语免费课程**
+    - [真人外教一对一在线英语课 | 001](https://v.douyin.com/ACTS2tIr7K0/)
+    - [外教一对一英语口语课 外教：口语不好？别怪语法词汇没掌握 | 018](https://v.douyin.com/OIi4eUtf3jE/)
+
+  ---
+  **004. 外教口语一对一**
+    - [今日话题：在你工作的地方请假容易吗 | 001](https://v.douyin.com/198txVleeG8/)
+    - [好可爱的描是你那只小描咪吗？| 007](https://v.douyin.com/i93pOHnUBng/)
+
+  ---
+  **005. 商务英语从零开始学习**
+    - [商务英语口语成人速成班 | 001](https://v.douyin.com/opwot6T6iDU/)
+    - [你去过现场演唱会吗 | 010](https://v.douyin.com/PsVN77nRTJk/)
+
+  ---
+  **006. 欧美外教在线一对一口语**
+    - **[说三个你蕞想去的城市 | 001](https://v.douyin.com/CSkUMvvYy4w/)**
+    - **[你为什么选择离开深圳 | 050](https://v.douyin.com/ulq9cnxbW9g/)**
+
+  ---
+  **007. 外教一对一英语口语课**
+    - [你害怕当众演讲吗？ | 001](https://v.douyin.com/oCk1_To0A_U/)
+    - [男人哭可以吗？ | 184](https://v.douyin.com/cns6ULzSGlE/)
 
 ---
 * **[乃炎英语 | 奈炎工作室 | 英语学习顾问, 专注成人零基础英语起步到提升 | 七年教龄 | 英语专八, 资深英语培训师 | 高级英语教师资格证 CATTI三级 | 一起快乐学英语 | Douyin | 五百章 | Douyin](https://v.douyin.com/pPqC74m3eTU/)**
