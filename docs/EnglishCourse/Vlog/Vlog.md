@@ -1,4 +1,4 @@
-### 000. Google
+### 0000. Google
 * **[Google |  1390万 | Youtube](https://www.youtube.com/@Google)**
   - **[Operation Aurora | HACKING GOOGLE | Documentary EP000](https://www.youtube.com/watch?v=przDcQe6n5o)**
 
@@ -6,7 +6,7 @@
 * **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
 
 ---
-### 001. Life Vlog
+### 0001. Life Vlog
 * **[李子柒 Liziqi | 2970万 | Youtube](https://www.youtube.com/@cnliziqi)**
   - 这里是李子柒YouTube官方频道哦～欢迎订阅：https://goo.gl/nkjpSx
   - Please  subscribe to 【李子柒 Liziqi 】Liziqi Channel on YouTube if you like my videos
@@ -604,16 +604,16 @@
   - **[音乐疗法🌿 修复神经系统，停止过度思考 | 舒缓压力的放松音乐](https://www.youtube.com/watch?v=ecrL5FHBmFA)**
 
 ---
-### 002. Chinese Vlog
+### 0002. Chinese Vlog
 * **[山肆十四 | 会一直折腾  谢谢观看 | 百章 | Douyin](https://v.douyin.com/xu9aAeeaEoY/)**
   - [大部分时候我们的不快乐，不是因为得不到，而是拥有的太多。| **旅行vlog** | **交换世界计划** | **做拓路者越万重山**](https://v.douyin.com/kSotN4KDXNM/)
 
 ---
-### 003. Notion
+### 0003. Notion
 * **[自学流利英文·频道通关介绍](https://sincere-numeric-f39.notion.site/20a86f84b68d800ea7e6e70ab345a75a?v=20a86f84b68d80dfa81d000c894c2c0f)**
 
 ---
-### 004. Learn English Vlog
+### 0004. Learn English Vlog
 * **[Leah's English 莉雅老师 | 20万 | Youtube](https://www.youtube.com/@Leah%E7%9A%84%E5%B0%8F%E6%97%A5%E8%AE%B0/videos)**
   - Welcome! Let's learn some authentic English!
   - 欢迎大家跟我一起学习英语口语～
@@ -1125,7 +1125,7 @@
 * **[Volka English | 0基础 | 初阶 | 内容风格非常一致，画质很好 | 96.9万 | Youtube](https://www.youtube.com/@VolkaEnglish)**
 
 ---
-### 005. 播客资源
+### 0005. 播客资源
 * **[Coffee Break English  | 21.5万 | Youtube](https://www.youtube.com/@coffeebreakenglish)**
   - Welcome to the Coffee Break English YouTube channel - start learning English on your coffee break!
   - 欢迎来到Coffee Break English频道——在你的咖啡休息时间开始学习英语吧！
@@ -1477,7 +1477,7 @@
   - 订阅专家雅思辅导、顶级考试准备、经过验证的技巧和模拟考试！ https://www.youtube.com/@E2IELTS/?sub_confirmation=1
 
 ---
-### 007. Church
+### 0007. Church
 * **[2819 Church | 165万| Youtube](https://www.youtube.com/@2819Church)**
   - Welcome to the official Youtube channel for 2819 Church.
   - 欢迎来到2819教会的官方YouTube频道。
@@ -1497,7 +1497,7 @@
   - [NYE 2022 | All Things New | Matthew 28:18-20 | Philip Anthony Mitchell](https://www.youtube.com/watch?v=7R2fER5N7LI)
 
 ---
-### 008. Music | Youtube
+### 0008. Music | Youtube
 * **[Taylor Swift |  6310万 | Youtube](https://www.youtube.com/@TaylorSwift/videos)**
   - And, baby, that’s show business for you.
   - 宝贝，这就是演艺圈的全部。
@@ -1512,7 +1512,7 @@
   - [Taylor Swift - Mine](https://www.youtube.com/watch?v=oxNLRqMJMZk&list=OLAK5uy_n8xJHj0rL3zyol9oYHsVTBHm-L_eY-3gY)
 
 ---
-### 009. 小元智谈 | Gather Youtube
+### 0009. 小元智谈 | Gather Youtube
 * **[小元智谈 | 每天听一听，提升自己 | 好书、TED、政策、前沿、生活 | 五百章 |  Douyin](https://v.douyin.com/LOyLVRhN5u0/)**
   - [神经科学家：你的一生可能都是一个预测 本期聊聊神经科学家丽莎·费尔德曼·巴雷特 (Lisa Feldman Barrett) 博士的一次访谈。她在访谈中探讨了大脑如何构建我们的现实。她指出，大脑并非被动地对世界做出反应，而是一个预测器官，它结合过去的经验和当前的感官信号来预判行动并制造情绪。通过理解这一预测机制，人们可以意识到自己并非受过去或环境摆布的傀儡，从而在处理心理健康、创伤和日常感受时掌握更多的自主权。作者还通过分享治愈女儿抑郁症的经历，强调了代谢管理、社交支持和刻意练习新经验对重塑大脑预测的重要性。总之，这些内容揭示了人类拥有比想象中更强大的能力去架构自己的生命体验。大脑 | 人的一生 | 大脑重塑 | 预测人生](https://v.douyin.com/uMxs84mrK8c/)
   - [谈前沿：英伟达首席执行官黄仁勋对未来的愿景 本期聊聊英伟达首席执行官黄仁勋2025年1月的一次访谈：NVIDIA CEO Jensen Huang's Vision for the Future（英伟达首席执行官黄仁勋对未来的愿景）。访谈中讨论了NVIDIA在计算领域的开创性工作，特别关注了图形处理器（GPU）的发展及其对游戏、人工智能和机器人技术等不同行业的影响。黄仁勋阐述了NVIDIA通过CUDA平台实现的并行处理的演变，以及AI如何从根本上重塑计算和日常生活。他还分享了公司未来在物理AI、数字生物学和气候科学方面的愿景，强调了能源效率和AI可及性的重要性，并鼓励观众学习如何利用AI来提升个人和职业能力。 | 英伟达  | 黄仁勋](https://v.douyin.com/qYr1qU4mMog/)
@@ -1630,7 +1630,7 @@
   - [Elon Musk: A Different Conversation w/ Nikhil Kamath | Full Episode | People by WTF Ep.  埃隆·马斯克：与尼基尔·卡马斯的不同对话 | 完整剧集 |WTF Ep. 的《People by People》](https://www.youtube.com/watch?v=Rni7Fz7208c)
 
 ---
-### 010. 英语学习日记 | Search Youtuber
+### 0010. 英语学习日记 | Search Youtuber
 * **[LEIA英语 | 北师大硕士，多年教育经验 | 每日分享日常英语对话 | 五百章 | Douyin](https://v.douyin.com/J-8oISXP2eI/)**
   - [博主分享了做美甲的经历和即将参加的野餐活动的期待. | **Youtuber: Birta Hlin**](https://v.douyin.com/IIpbomrgTVo/)
   - [博主分享了自己生活中即将迎来宝宝的喜讯，以及随之而来的生活调整和未来规划。| **Youtuber: TheCottageFairy**](https://v.douyin.com/5rHbyt-RZLI/)
@@ -2111,7 +2111,7 @@
     - **[Joe Dispenza: You've Been Programmed To Stay BROKE, STUCK & EXHAUSTED - Here's How To Break It! | 乔·迪斯彭扎：你被编程成永远破产、困顿且疲惫不堪—— 以下是如何打破它的方法！](https://www.youtube.com/watch?v=d7sUWwHugg8)**
 
 ---
-### 011. Travel on the World | 环球旅行
+### 0011. Travel on the World | 环球旅行
 * **[DJI | 大疆 | 595万| Youtube](https://www.youtube.com/@DJI/videos)**
   - DJI's official YouTube channel is home to everything DJI, showcasing the full and incredible capability of our latest aerial and handheld products including the Phantom, Mavic, Inspire, Ronin, and Osmo series.
   - 大疆官方YouTube频道汇聚了所有大疆相关内容，展示了我们最新空中和掌机产品的完整且令人难以置信的能力，包括Phantom、Mavic、Inspire、Ronin和Osmo系列。
@@ -2312,7 +2312,7 @@
   - **[Discover Kawagoe: Day Trip to ‘Old Tokyo’ | 探索川越："老东京"一日游](https://www.youtube.com/watch?v=uuWL-mXLF7k)**
 
 ---
-### 012. Universe | 宇宙
+### 0012. Universe | 宇宙
 * **宇宙**
 | 中文        | 英语                      | 使用场景  |
 | --------- | ----------------------- | ----- |
@@ -2342,7 +2342,7 @@
   - **[Step Inside the International Space Station (POV Tour) | 走进国际空间站（视角导览）](https://www.youtube.com/watch?v=nmBbcNTUkOg)**
 
 ---
-### 013. Books | Youtube
+### 0013. Books | Youtube
 * **[bestbookbits  | 8.61万 | Youtube](https://www.youtube.com/@BestBookBits/videos)**
   - WORLD'S LARGEST FREE BOOK SUMMARY WEBSITE bestbookbits.com with over 1,000 free video, written and audio book summaries.
   - 全球最大的免费书籍摘要网站 bestbookbits.com 拥有超过1000个免费视频、书面和有声书摘要。
@@ -2391,7 +2391,7 @@
   - **[Jim Rohn Life Lesson: The 7 Fundamentals Of Success | Jim Rohn Motivational Video 2024 | 吉姆·罗恩人生课题：成功的七大基本原理 |吉姆·罗恩2024年励志视频](https://www.youtube.com/watch?v=YXN72-14dJQ)**
 
 ---
-### 014. House
+### 0014. House
 * **[Forlorn | 影子是我唯一敢麻烦的同行者 | 二百章 | Douyin](https://v.douyin.com/3rpSVn56nQY/)**
   - [当美剧里的幸福小镇照进现实 | inmyfeelings](https://v.douyin.com/dtZdvS65Bro/)
   - [当美剧里的幸福小镇照进现实 | 美国 | 纽约 | inmyfeelings](https://v.douyin.com/wXLRO76doKo/)
@@ -2399,17 +2399,17 @@
   - [这种氛围太适合散步了 | 美国 | 纽约 | inmyfeelings](https://v.douyin.com/O8sOTywwXrg/)
 
 ---
-### 015. AI | 虚拟主播
+### 0015. AI | 虚拟主播
 * **[Neuro-sama | neuro-sama (neurosama) the ai vtuber | Neuro-sama（Neurosama），AI 虚拟主播 | 88.9万 | Youtube](https://www.youtube.com/@Neurosama/videos)**
   - [Testing Neuro's 3D Capabilities | 测试Neuro的3D功能](https://www.youtube.com/watch?v=MiF3JiVCwkk)
 
 ---
-### 016. Coding
+### 0016. Coding
 * **[Visually Explained | 直观地解释 | 9.54万 | Youtube](https://www.youtube.com/@VisuallyExplainedEducation/videos)**
   - [Python Decorators - Visually Explained](https://www.youtube.com/watch?v=3tyaO-OE0K0)
 
 ---
-### 017. 学爸加加油
+### 0017. 学爸加加油
 * **[学爸加加油](https://xuebajiajiayou.com)**
   - [**英文科普，油管Youtube频道推荐(科普/教育/工程/奇趣/自然/手工等)**](https://xuebajiajiayou.com/english-science-popularization-youtube-channel/)
     **泛科普类**
@@ -2509,7 +2509,37 @@
   - (wikiquote) Created by Henry Reich
   - (维基语录) 由亨利·赖希创作
 
-* **[]()**
+---
+### 0018. 小道必可观(油管)
+* **[小道必可观(油管) | 关注我外网热门视频一网打尽，我的知识不够，你的评论来凑。| 千章 | Douyin](https://v.douyin.com/WdfoxIT8Wm4/)**
+
+  ---
+  **001. 老外说中国**
+    - [美国记者：中国已成全球顶流！美国年轻人正经历中国化转型？ | 油管博主: @jessicaburbankshow 粉丝数量: 2.8万 视频标题: China Is the Global It-Girl Now 发布日期: 2026/01/20 观看次数: 7,843 点赞数量: 811 评论总数: 303 | 001](https://v.douyin.com/JF_IwNNgGy8/)
+    - [英国妹子初到上海激动到失语：当了十几年电脑壁纸，圆梦魔都 | 油管博主: @by.rheashanika 粉丝数量: 4.3万 | 060](https://v.douyin.com/gk-ioWG-SRs/)
+    - [英国老哥：为啥中国没有零元购？油管评论区回复绝了！ | 油管博主: @tobylifecycles 粉丝数量: 210 | 021](https://v.douyin.com/ezFPPWLdu0s/)
+
+  ---
+  **002. 老外看中国**
+    - [内蒙人怎么看外蒙？韩国博主实地访谈，答案让韩国网友吵翻了 油管博主: @연포물개 粉丝数量: 4.6万 视频标题: 내몽골 사람들의 몽골에 대한 솔직한 이야기 发布日期: 2026/01/04 观看次数: 1.6万 点赞数量: 907 评论总数: 94 | 001](https://v.douyin.com/XMrs3qNyysI/)
+    - [日本酒鬼妹子初到北京，中国很危险？我在凌晨街头喝醉 油管博主: @yukke_sakamura 粉丝数量: 109万 | 073](https://v.douyin.com/sqxzKjH8i9s/)
+
+---
+* **[Jessica Burbank | 3.88万 | Youtube](https://www.youtube.com/@JessicaBurbankShow/videos)**
+  - Working class kid who spends her days fighting for better days. | 一个工人阶级的孩子，整天为更好的日子而战。
+  - [China Is the Global It-Girl Now | 中国现在是全球的"潮人"](https://www.youtube.com/watch?v=hAM3QABIGFQ)
+
+---
+### 9999. Download
+* **[dlpanda](https://dlpanda.com)**
+
+---
+* **English Rource**
+  - **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
+  - **[英语学习资源导航 | 全网最全](https://en.knowledgefxg.com/)**
+  - **[句乐部](https://julebu.co)**
+  - **[Qwerty Learnner | 官网 — 为键盘工作者设计的单词与肌肉记忆锻炼软件](https://qwerty.liumingye.cn)**
+  - **[Type Words 官网 - 词文记 | 单词跟打 · 文章跟打](https://typewords.cc/articles)**
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
