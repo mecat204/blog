@@ -299,8 +299,42 @@
     - [当英语老师开始用原神教英语 | 006](https://v.douyin.com/TIOPFuVP7-c/)
 
 ---
-### 0005. Mihayou Game
+### 0005. Mihayou Game Software
 * Anuneko 米哈游AI软件 Github Search
+
+---
+### 0006. 原神 | GenshinImpact
+* **[Teyvat Historia | 10.9万 | Youtube](https://www.youtube.com/@TeyvatHistoria/videos)**
+  - A channel dedicated to Genshin Impact theories, characters, and lore.
+  - 一个专注于原神理论、角色和背景故事的频道。
+
+---
+* **[Ashikai | 28.3万 | Youtube](https://www.youtube.com/@Ashikai/videos)**
+  - [[6.2] Teyvat's Celestial Hierarchy - A Genshin Impact Theory... thing](https://www.youtube.com/watch?v=qWDNVGNtpjc)
+
+---
+* **[bwaap | 73.8万 | Youtube](https://www.youtube.com/@bwaap/videos)**
+  - I'm just doing what i do | 我只是做我该做的 事
+
+  ---
+  - [A Nostalgic Return to Mondstadt | 怀旧的蒙德归来](https://www.youtube.com/watch?v=IN4TqQihG20)
+
+---
+* **[sarahmillercrews | Sarah Miller-Crews | 6.94万 | Youtube](https://www.youtube.com/@sarahmillercrews/videos)**
+  - Hello!
+  - 你好！
+
+  ---
+  - My name is Sarah and I'm a voice actor.
+  - 我叫Sarah，是一名配音演员。
+
+  ---
+  - Some of the characters I've voiced include: Lumine in Genshin Impact, Angela in Trials of Mana, Roxanne & Caitlin in Pokemon Masters, Layla in Mobile Legends, and more!
+  - 我配过的一些角色包括：原神中的荧、《圣剑传说》中的安吉拉、《宝可梦大师》中的罗克珊和凯特琳、《移动传说》中的莱拉，等等！
+
+  ---
+  - [ARLECCHINO ANIMATED SHORT REACTION - Ft. Lumine's English Voice Actor (Sarah Miller-Crews)| 阿尔勒奇诺动画短片 - 荧堡英文配音演员（莎拉·米勒-克鲁斯）](https://www.youtube.com/watch?v=G-tGCFrIb-Y)
+  - [Summertide Scales and Tales! Lumine's English Voice Actor Plays Genshin Impact (Full Stream) | 夏潮天文与故事！荧的英文配音演员在《原神》中亮相（完整直播）](https://www.youtube.com/watch?v=YXBcLwqdb8M)
 
 ---
 ### 9999. Download
