@@ -1642,6 +1642,7 @@
   - [英语口语：眼界决定人生半径 你的眼界有多宽，人生就有多大舞台。](https://v.douyin.com/c3Px4nQCtyQ/)
   - [英语学习：敢于开始，才能不负未来。 别等完美时机，行动才是最好的开始。](https://v.douyin.com/w45zwFfNkbg/)
 
+
 ---
 ### 0021. Prompt | FSI
 **你是我的FSI语言教练。用Pattern Drill的方式训练我。先从Substitution Drill开始, 给我一个基础句型,然后快速给我变体提示词, 我必须在3秒内回应。如果我超过3秒,提醒我加快速度。每个句型练习20词。练完替换换之后，切换到Transfromation Drill**
@@ -1749,6 +1750,29 @@
   - **经典英文绘本故事**
     * **[001.巨人的花园](https://v.douyin.com/VNlVrO4TFTk/)**
     * **[027.丑小鸭](https://v.douyin.com/NGfF8E8eWl0/)**
+
+---
+### 0024. 长剧 | 油管
+* **[English1314 | YTB: English 1314 | 二十章 | Douyin](https://v.douyin.com/DzruFy_hhxw/)**
+  - [Keep Your Brain Young | 如何让大脑保持年轻, 学英文是最好的抗 | Min: 40min](https://v.douyin.com/PJked0BWBuo/)
+
+---
+* **[小道必可观(油管) | 关注我外网热门视频一网打尽，我的知识不够，你的评论来凑。| 千章 | Douyin](https://v.douyin.com/WdfoxIT8Wm4/)**
+  - [荷兰女骑穿越中蒙边境，这落差绝了！画风秒变生存模式 油管博主: @itchyboots 粉丝数量: 326万  | 旅行vlog](https://v.douyin.com/frdiSe7hU30/)
+  - [伊朗封锁海峡，外网疯传中国缺油？美国老哥：小丑竟是我们自己 油管博主: @mrglobalyoutube 粉丝数量: 14.5万](https://v.douyin.com/_Xg-AhFoa9I/)
+  - [美国老哥一家游南京意外受伤，医院账单一出，外网评论区炸了 油管博主: @chrisheretoday 粉丝数量: 13.4万](https://v.douyin.com/qNvdqkSo2u8/)
+  - **[美国千万粉博主摩旅中国启程。无地图无手机，开局逢人喊爹](https://v.douyin.com/Q29QpAgk_jI/)**
+
+  ---
+  **001. 老外说中国**
+    - [美国记者：中国已成全球顶流！美国年轻人正经历中国化转型？ | 油管博主: @jessicaburbankshow 粉丝数量: 2.8万 视频标题: China Is the Global It-Girl Now 发布日期: 2026/01/20 观看次数: 7,843 点赞数量: 811 评论总数: 303 | 001](https://v.douyin.com/JF_IwNNgGy8/)
+    - [英国妹子初到上海激动到失语：当了十几年电脑壁纸，圆梦魔都 | 油管博主: @by.rheashanika 粉丝数量: 4.3万 | 060](https://v.douyin.com/gk-ioWG-SRs/)
+    - [英国老哥：为啥中国没有零元购？油管评论区回复绝了！ | 油管博主: @tobylifecycles 粉丝数量: 210 | 021](https://v.douyin.com/ezFPPWLdu0s/)
+
+  ---
+  **002. 老外看中国**
+    - [内蒙人怎么看外蒙？韩国博主实地访谈，答案让韩国网友吵翻了 油管博主: @연포물개 粉丝数量: 4.6万 视频标题: 내몽골 사람들의 몽골에 대한 솔직한 이야기 发布日期: 2026/01/04 观看次数: 1.6万 点赞数量: 907 评论总数: 94 | 001](https://v.douyin.com/XMrs3qNyysI/)
+    - [日本酒鬼妹子初到北京，中国很危险？我在凌晨街头喝醉 油管博主: @yukke_sakamura 粉丝数量: 109万 | 073](https://v.douyin.com/sqxzKjH8i9s/)
 
 ---
 ### 9999. Download

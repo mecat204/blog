@@ -213,7 +213,7 @@
 ### 0004. 跟着原神学英语
 **米哈游就该搞一个双语版的，支持世界网友学习中文，支持中国网友学习英文，打通美服和国服。加入Ai,支持人物Ai-NPC互相交流.打造一个真正的原神世界。**
 
-* **[永不认输的璃月人](https://v.douyin.com/gwdtS6JSHz8/)**
+* **[永不认输的璃月人 | 原神佛系玩家，体验100种小游戏ing | 二百章 | Douyin](https://v.douyin.com/gwdtS6JSHz8/)**
 
   ---
   **001. 跟着胡桃学英语**
@@ -289,6 +289,18 @@
   **015. 神里凌华带你学英语**
     - [跟着神里绫华学英语-初次见面 | 001](https://v.douyin.com/67QVUTjD9Q4/)
     - [跟着神里绫华学英语-早上好 | 012](https://v.douyin.com/9_v_mzdwsXI/)
+
+---
+* **[JustinEnglish | 欢迎 这个频道有着不一样的英语趣味教学 | 佰章 | Douyin](https://v.douyin.com/LKTZH1pGDvE/)**
+
+  ---
+  **001. 原神英语 启动**
+    - [如何通过二次元游戏学英语 | 001](https://v.douyin.com/g014VBsIffM/)
+    - [当英语老师开始用原神教英语 | 006](https://v.douyin.com/TIOPFuVP7-c/)
+
+---
+### 0005. Mihayou Game
+* Anuneko 米哈游AI软件 Github Search
 
 ---
 ### 9999. Download
