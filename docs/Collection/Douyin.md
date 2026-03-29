@@ -608,7 +608,8 @@
 
   ---
   * **[九才小白 | 二千章 | Douyin](https://v.douyin.com/RJRVOmwJVhQ/)**
-    - [35岁后明白的，职场四大法则 | 职场 | 财经 | 经济]https://v.douyin.com/0ucbgC48ouk/)
+    - [35岁后明白的，职场四大法则 | 职场 | 财经 | 经济](https://v.douyin.com/0ucbgC48ouk/)
+    - [2028智能危机-发生的概率有多大](https://v.douyin.com/ps5ZIEpBi24/)
 
   ---
   * **[匠妹儿 | 卖电脑的靓妹 | 二百章 | Douyin](https://v.douyin.com/48eHDcpzTYE/)**

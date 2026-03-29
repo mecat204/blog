@@ -97,6 +97,11 @@
 * **[etym online | 在线词源词典 | 查询英语单词的词源、起源与历史演变](https://www.etymonline.com/)**
 
 ---
+* **[Teco](https://teco-lab.com)**
+  - tel
+  - min
+
+---
 ### 0002. Youtube
 * **English source**
 
@@ -448,6 +453,11 @@
 
 ---
 ### 0003. Douyin
+* **[Mona | 热爱生活，享受生活，活在当下！ | 三千章 | Douyin](https://v.douyin.com/wOG6LH62MDw/)**
+  - [开心就好 | 英文语录 | 生活很好，记得微笑，众口难调，开心就好](https://v.douyin.com/xDTD6DaYERo/)
+  - [人生中的每一次选择，都是一种渡，有的人越过小溪，有的人越过海洋！ | 英文语录](https://v.douyin.com/x-fPjM64Q-g/)
+
+---
 * **[在线英语网课 | 课程涵盖: 零基础英语, 启蒙英语, 雅思口语, 商务英语 | 二千章 | Douyin](https://v.douyin.com/gp1CxFZ-ihY/)**
   - [英语流利说英语，英语流利说英语水平测试，流利说app学英语靠谱吗，外教一对一网课，来看看学生真人外教上课视频，比线下划算！ 跟着外教老师学英语，快速提高英语水平！六个月后进步非常大，轻松和外教交流，经验分享给大家，| 跟着外教老师提高英语口语 | 英语流利说app](https://v.douyin.com/37zdZhEhzJM/)
   - [新东方线上雅思网课，新东方线上雅思培训，雅思英语口语提升首选！外教1对1，25分钟纯英文对话+即时纠错，发音地道、自信开口。](https://v.douyin.com/5CVVaQZgPpM/)
@@ -678,6 +688,7 @@
 
   **001. 全英文Talk**
     - [无用的爱好 | 001 | 全英Talk](https://v.douyin.com/Q3FwrJrJa1s/)
+    - [你的朋友圈，是你最好的简历｜全英 Talk 越来越多人把朋友圈锁进 "3 天可见", 让主页变得一片空白, 但其实, 这方小小的空间, 正是你最低成本、最鲜活的个人简历与作品集](https://v.douyin.com/f0N5eVNdyaA/)
     - [无助是人的本能，自主需要刻意练习 | 016 | 全英Talk](https://v.douyin.com/QznrQH4D7JM/)
 
   ---
