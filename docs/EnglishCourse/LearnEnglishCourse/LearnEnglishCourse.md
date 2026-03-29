@@ -98,7 +98,7 @@
 
 ---
 * **[Teco](https://teco-lab.com)**
-  - tel
+  - user: meca..
   - min
 
 ---
