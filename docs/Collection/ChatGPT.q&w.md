@@ -1,5 +1,5 @@
 ### 0000. Download
-* **[dlpanda](https: //dlpanda.com)**
+* **[dlpanda](https://www.dlpanda.com/)**
 
 ---
 ### 0001. 一个班上的不开心，但为了生计，必须要上，该怎么办

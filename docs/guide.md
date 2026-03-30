@@ -101,6 +101,9 @@
   - [短链接风险与对策](技术栈/0006.bit.ly-短链接风险与对策)
   - [GPT推荐站点](技术栈/0007.GPT推荐站点)
 
+---
+* **动漫**
+  - [动漫](动漫/动漫)
 
 ---
 * **Ai-source**
@@ -143,7 +146,6 @@
   - [传统武术·赛博武侠](Collection/传统武术·赛博武侠)
   - [时政](Collection/时政)
   - [信息生态](Collection/信息生态)
-  - [动漫](Collection/动漫)
   - [tips](Collection/tips)
   - [问小白](Collection/问小白)
   - [古今文学](Collection/古今文学)
