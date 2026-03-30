@@ -291,12 +291,37 @@
     - [当我开始猜你们怎么看我，我还算真实么(偏差感知) 我最近有点分心。| 001](https://v.douyin.com/D_J8oxgFWQU/)
     - [AI音乐是不是新鲜感｜Log002 [新鲜审计] AI 音乐，究竟是在被听，还是只是在被当成一次新鲜感来确认？ [判断延迟] [输入回声] [评估未完成] | 002](https://v.douyin.com/gZBCU8wT-Z4/)
 
+
+---
+### 0006. 动画 | Ai
+* **[豆豆双语岛 | 原创英语故事视频 看寓言故事学英语 小故事大道理 | 三百章 | Douyin](https://v.douyin.com/s86SA_SrYFw/)**
+  **001. 英语童话小故事**
+    - [英语童话故事，小学英语阅读 | 001](https://v.douyin.com/O8FDWuicu9M/)
+
+  ---
+  **002. 小学英语阅读**
+    - [初级英语阅读精选| 英语 | 001](https://v.douyin.com/ke_o4MF2dUk/)
+    - [新年 用英语介绍中国传统节日 | 012](https://v.douyin.com/vEqIUmgK1O4/)
+
+  ---
+  **003. 成语故事-英文版**
+    - [有趣的英语小故事，磨耳朵练习 | 001](https://v.douyin.com/Bsq8r_mRveQ/)
+    - [守株待兔 | 002](https://v.douyin.com/8bJpvc1eEt8/)
+    - [杞人忧天 | 003](https://v.douyin.com/qApxyTZ9FII/)
+    - [南辕北辙 | 004](https://v.douyin.com/2NMDQ5p6VFQ/)
+
+  ---
+  **004. 英语小故事-初级**
+    - [每日一集，看英语动画小故事 | 001](https://v.douyin.com/FDREjjWqHfk/)
+    - [老人和死神 | 286](https://v.douyin.com/gXk1wT9WBN4/)
+    - [聪明的大熊猫 | 295](https://v.douyin.com/s9qdaJDfc9w/)
+
 ---
 ### 9999. Download
 * **[必应 | bing.com](https://cn.bing.com/)**
 
 ---
-* **[dlpanda](https://dlpanda.com)**
+* **[dlpanda](https://www.dlpanda.com)**
 
 ---
 * **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**

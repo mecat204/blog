@@ -10,7 +10,7 @@
   - [buzz | zh](https://chidiwilliams.github.io/buzz/zh/docs)
 
 ---
-* **[dlpanda](https://dlpanda.com)**
+* **[dlpanda](https://www.dlpanda.com)**
 
 ---
 * **[PlayPhrase.me: Site for cinema archaeologists. | 台词搜索](https://www.playphrase.me/#/search?q=&language=en)**
@@ -1786,8 +1786,33 @@
     - [日本酒鬼妹子初到北京，中国很危险？我在凌晨街头喝醉 油管博主: @yukke_sakamura 粉丝数量: 109万 | 073](https://v.douyin.com/sqxzKjH8i9s/)
 
 ---
+### 0025. 动画 | Ai
+* **[豆豆双语岛 | 原创英语故事视频 看寓言故事学英语 小故事大道理 | 三百章 | Douyin](https://v.douyin.com/s86SA_SrYFw/)**
+  **001. 英语童话小故事**
+    - [英语童话故事，小学英语阅读 | 001](https://v.douyin.com/O8FDWuicu9M/)
+
+  ---
+  **002. 小学英语阅读**
+    - [初级英语阅读精选| 英语 | 001](https://v.douyin.com/ke_o4MF2dUk/)
+    - [新年 用英语介绍中国传统节日 | 012](https://v.douyin.com/vEqIUmgK1O4/)
+
+  ---
+  **003. 成语故事-英文版**
+    - [有趣的英语小故事，磨耳朵练习 | 001](https://v.douyin.com/Bsq8r_mRveQ/)
+    - [守株待兔 | 002](https://v.douyin.com/8bJpvc1eEt8/)
+    - [杞人忧天 | 003](https://v.douyin.com/qApxyTZ9FII/)
+    - [南辕北辙 | 004](https://v.douyin.com/2NMDQ5p6VFQ/)
+
+  ---
+  **004. 英语小故事-初级**
+    - [每日一集，看英语动画小故事 | 001](https://v.douyin.com/FDREjjWqHfk/)
+    - [老人和死神 | 286](https://v.douyin.com/gXk1wT9WBN4/)
+    - [聪明的大熊猫 | 295](https://v.douyin.com/s9qdaJDfc9w/)
+
+
+---
 ### 9999. Download
-* **[dlpanda](https://dlpanda.com)**
+* **[dlpanda](https://www.dlpanda.com)**
 
 ---
 * **English Rource**
