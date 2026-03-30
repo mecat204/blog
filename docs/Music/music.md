@@ -994,6 +994,45 @@
   - [已经开始期待2026年的夏天了 | 治愈系风景 | 夏天 | 我们的可颂时刻](https://v.douyin.com/a_ccL5rXDdQ/)
   - [我们应该在大自然里一起发呆 | 治愈系风景 | 我们的可颂时刻](https://v.douyin.com/P4L-Gdqp1zM/)
 
+  ---
+  **001. 云之南**
+    - [傍晚黄昏下的小路，和你在这样的氛围下散步一定很浪漫 | 001](https://v.douyin.com/8fbKdWR_KcU/)
+    - [好想在这样一个阳光明媚的天气 和你在这样的氛围见面 | 103](https://v.douyin.com/Pzb6MUUuyXg/)
+    - [想和你一起在浪漫的蓝调时刻散步 | 128](https://v.douyin.com/8MkQDEOQSV4/)
+
+  ---
+  **002. 花海**
+    - [夏天会周而复始 相逢的人会再相逢 | 001](https://v.douyin.com/N20NUHGnmqo/)
+    - [浪漫的晚霞花海分享给你 | 063](https://v.douyin.com/bc6K_XM-U-A/)
+
+  ---
+  **003. 海边日记**
+    - [海岸线边有我无尽的夏天 | 001](https://v.douyin.com/OVMzIUh43oQ/)
+    - [日落我很常见 而你我很想见 | 023](https://v.douyin.com/R0KH9MVmN7w/)
+
+  ---
+  **004. 山野日记**
+    - [阳光 微风 午后，不出意外的话我能在这种氛围里待一下午 | 001](https://v.douyin.com/Whx6ytcRso8/)
+    - [世界太吵了 只想找个安静的地方 吹吹风发发呆 | 099](https://v.douyin.com/QrJab28ie2k/)
+    - [如果没有常青树 那就做自己的 自由树 | **内蒙古呼伦贝尔** | 130](https://v.douyin.com/LCPO4VleS3A/)
+    - [怀念那个与你相识的夏天 | **Music: 夏至未至** | 167](https://v.douyin.com/kBjpnTIhKQI/)
+
+  ---
+  **005. 晚霞日记**
+    - [我永远爱傍晚轻抚的微风 落日黄昏的晚霞 和此刻的你 | 001](https://v.douyin.com/wd8--5sX7kI/)
+    - [怎么会不思念呢 如果可以 每天都想见见你 | 168](https://v.douyin.com/OpkeSKbUE3M/)
+    - [风会把我的思念带到你身边吗 | 169](https://v.douyin.com/zen4H9fTetc/)
+
+  ---
+  **006. 云朵日记**
+    - [为了这个声音翻遍了相册 | 001](https://v.douyin.com/e-E0ccqZHgw/)
+    - [每天和你分享云的人一定很喜欢你吧 | 089](https://v.douyin.com/Xo5NdMoMnWA/)
+
+  ---
+  **007. 坝上小路**
+    - [旷野 阳光 微风 小路，和你在这里散步一定很开心 | 001](https://v.douyin.com/kOWgBKFe3to/)
+    - [想和你走在夏天的小路上，一起散散步吹吹风 | 042](https://v.douyin.com/9gkrMg9LG5M/)
+
 ---
 * **[8090怀旧经典头像 | 经典老歌 | 仟章 | Douyin](https://v.douyin.com/7vNEGqiEH5U/)**
   - [前奏一响勾起多少人的青春回忆！| 爱似流星 | 音乐 | 音乐分享 | 经典歌曲 | 佰听不厌](https://v.douyin.com/8CSzxNB3xKY/)
@@ -1020,6 +1059,11 @@
   - [天空好想下雨 我好想住你隔壁](https://v.douyin.com/3CIdweutotc/)
   - [爱的星际旅行](https://v.douyin.com/8TYa4n9lOJg/)
   - [缠住吻住春风吹住我吗](https://v.douyin.com/5S8t-PV3RWc/)
+
+  ---
+  **001. 完整版的歌**
+    - [大人也是过期的小朋友，2026要多花点心思哄自己开心呀。 | 001](https://v.douyin.com/2rtabuvCpms/)**
+    - [来来来～ 喝完这杯还有三杯 | 008](https://v.douyin.com/cIp1jJEd4Vo/)**
 
 ---
 * **[赵赵航 | 咖啡｜音乐｜摄影｜记录日常 📷理光｜富士｜大疆 | 贰佰章 | Douyin](https://v.douyin.com/S4hDJkAzOFM/)**
@@ -1098,7 +1142,8 @@
 * **[yfan | 让我们点推荐！~ 喜欢风物之诗琴的原神玩家，音乐原创改编 | 贰佰章 | Douyin](https://v.douyin.com/MYFMMUh5VFM/)**
   - [我们会想你的，哥伦比娅…… 原琴玩家 | 哥伦比娅 | 原神月之三 | 青年创作者成长计划](https://v.douyin.com/PohUscXwn9c/)
 
----### 0025. music
+---
+### 0025. music
 * **[民谣战哥 | 每天分享好听的民谣，生活的点滴，感谢关注 | 热爱可低岁月漫长，爱你所爱 | 叁仟章 | Douyin](https://v.douyin.com/ig7TBLhjMfc/)**
   - [任素汐是被演戏耽误的歌手吧！这声音共情力太强了| 任素汐新歌唱哭了| 王招君| 盼望你| 想你](https://v.douyin.com/CB_JlZEPoCU/)
   - [和爱的人一起，简单平淡的生活，何尝不是很多人的向往。](https://v.douyin.com/hhNO7p4USGc/)
