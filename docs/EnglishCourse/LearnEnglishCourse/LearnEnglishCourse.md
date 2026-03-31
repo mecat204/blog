@@ -1815,11 +1815,21 @@
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
-* **English Rource**
+* **English Resource**
   - **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
+
+  ---
   - **[英语学习资源导航 | 全网最全](https://en.knowledgefxg.com/)**
+
+  ---
   - **[句乐部](https://julebu.co)**
+    * user: telphone
+    * pwd: min-2 | + 5213
+
+  ---
   - **[Qwerty Learnner | 官网 — 为键盘工作者设计的单词与肌肉记忆锻炼软件](https://qwerty.liumingye.cn)**
+
+  ---
   - **[Type Words 官网 - 词文记 | 单词跟打 · 文章跟打](https://typewords.cc/articles)**
 
 ---
