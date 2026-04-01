@@ -363,6 +363,43 @@
     - [人类在宇宙中到底算几级文明？是否有比我们文明低的星球？ 连地球都有像太阳这样的大哥保着，也许人类在宇宙没那么孤单 | 085](https://v.douyin.com/9KNIxCdlcPc/)
 
 ---
+### 0009. 虚妄
+* **[虚妄 | AIGC 探索。风格不定。| 百章4K | Douyin](https://v.douyin.com/Bk_h29FDK8M/)**
+
+  ---
+  **001. 小师妹**
+    - [氛围感 ai](https://v.douyin.com/g2zDLdYjKW8/)
+    - **[师兄们，这次喝奶茶不](https://v.douyin.com/yRv2L4vDZEA/)**
+    - [师兄们，这次喝奶茶不](https://v.douyin.com/LpBwIQtpumE/)
+    - [我路过这琼楼玉宇，如惊鸿一瞥，不问归期。](https://v.douyin.com/Ak2MOtLeuTA/)
+    - [沉浸体验温柔的师姐给你做最爱吃的青椒炒肉！](https://v.douyin.com/Uuqijy0Qt-c/)
+    - [小师妹 | 晓梦：祝大家新年快乐！](https://v.douyin.com/uRlaPeHLG0E/)
+    - [天上白玉京 | 不过是云雾堆砌的荒原。我于此间久立，看满目山河，皆是清冷的留白。](https://v.douyin.com/Tz4zNpmAjGM/)
+    - [小师妹们的日常](https://v.douyin.com/qcYLykGBFqQ/)
+    - [师兄啊，i see you ！](https://v.douyin.com/1j3D7uPKTFQ/)
+    - [师妹们日常遛弯的绝美。](https://v.douyin.com/1zDnZ8DZKfg/)
+    - [金光破云海，行影入仙城。](https://v.douyin.com/wyoNSzJKFpA/)
+    - [莫道人间初相见，应是千年旧梦归。梦里依稀曾驻马，前身应是画中人。](https://v.douyin.com/Q612pWJeCIs/)
+    - [师兄们，爱吃煮了几分钟的鸡蛋。](https://v.douyin.com/KnRRDmbzxoI/)
+    - [手挽星河千尺浪，脚踏云海万重金。](https://v.douyin.com/_9DKZr3eY3E/)
+
+  ---
+  **002. 二次元**
+    - [蝶落无痕 | 001](https://v.douyin.com/bNxVuWU8kiw/)
+    - [你看我有几分像嘉米 | 005](https://v.douyin.com/q9C33FPx5BU/)
+    - [换种画风打开鬼灭之刃 | 032](https://v.douyin.com/dYVqs4Ws_P8/)
+
+  ---
+  **003. 中式意境**
+    - [天上白玉京 | 不过是云雾堆砌的荒原。我于此间久立，看满目山河，皆是清冷的留白。| 001](https://v.douyin.com/GI0akSFgLLo/)
+    - [落日染尽千重檐，此身凡胎，亦要登仙颠。| 023](https://v.douyin.com/U_opUYAE62w/)
+
+  ---
+  **004. ow**
+    - [天使姐姐来啦 | 001](https://v.douyin.com/P2mM-A50Ewo/)
+    - [萌萌哒 vs 酷酷哒: 猎空](https://v.douyin.com/PZyMFO0kEhU/)
+
+---
 ### 9999. Download
 * **[必应 | bing.com](https://cn.bing.com/)**
 
