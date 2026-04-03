@@ -3,6 +3,12 @@
   - [readme](Collection/readme)
 
 ---
+* **精选账号**
+  - [Douyin](精选账号/Douyin)
+  - [Youtube](精选账号/Youtube)
+  - [Bilibili](精选账号/Bilibili)
+
+---
 * **文学**
   - **古代文学**
     * [古诗文 | 唐诗·宋词为主](文学/古代文学/001.古诗文)

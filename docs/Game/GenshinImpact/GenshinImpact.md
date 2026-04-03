@@ -34,30 +34,92 @@
 * **[BetterTNothing 沐兒 | Youtube](https://www.youtube.com/@BetterTNothing)**
   - [【原神】4K过场动画合集](https://www.youtube.com/playlist?list=PL3mIsp0ODxy6t8tKVcBn7FjxDzHeD1swI)
 
+---
 * **[BetterTNothing | Bilibili](https://space.bilibili.com/1056402369?spm_id_from=333.1007.0.0)**
   - [合集·【原神】活动4KHD剧情总合辑](https://space.bilibili.com/1056402369/lists/1886977?type=season)
 
 ---
 ### 0002. 原神大电影
 * **[空空 | 原神剧情整活 | 五百章 | Douyin](https://v.douyin.com/xZOlCE6uX34/)**
-  - [**原神大电影-猎月人篇**](https://v.douyin.com/XuteTLmcF6Y/)
-  - [**原神大电影-哥伦比亚篇**](https://v.douyin.com/p3qU8jgcxdY/)
+
+  **001. 原神大电影**
+    - [原神大电影·可莉篇 | 001](https://v.douyin.com/Tt5YnkqpKIs/)
+    - [原神大电影·猎月人篇 | 002 ](https://v.douyin.com/XuteTLmcF6Y/)
+    - [原神大电影·哥伦比亚篇 | 003](https://v.douyin.com/6GNFj-HBrU4/)
+    - [原神大电影-完全之月 · 一 | 004](https://v.douyin.com/ncJHiOqnnI0/)
+    - [原神大电影-完全之月 · 二 | 005](https://v.douyin.com/naxvS8BLVyc/)
+
+  ---
+  **002. 原神图文**
+    - [可莉的自拍来啦 | 001](https://v.douyin.com/jpGb0RztcB0/)
+    - [遇到火深之后懂可莉成为了火神可莉 | 010](https://v.douyin.com/4-LdUM5gZDI/)
 
 ---
 ### 0003. miHoYo·Genshin
 * **[盛夏聆听深秋 | 千章 | Douyin](https://v.douyin.com/SYuVNWFyNaM/)**
-  - [以"神明冠冕下的凡人"芙宁娜的第一视角独白，带入原神剧情《罪人舞步旋》| 原神二创 | 原神 | 芙宁娜 | 原神纳塔 | 提瓦特剧场](https://v.douyin.com/CutkMOlXrhQ/)
-  - [如果我突破了旅途的上限，我就可以见到哥哥了吗？| 原神枫丹 | 原神 | 原神攻略 | 原神金秋祈愿赛 | 云原神](https://v.douyin.com/EYYGR1vMe_E/)
-  - ["执着于注定不属于自己的事物，只是在浪费时间" | 风花的呼吸 | 原神 | 语录](https://v.douyin.com/DWq0-YYA6Pg/)
-  - [原神每年必备节目 | 原神挪德卡莱  | 胡桃  | 魈  | 2026  | 原神空月之歌](https://v.douyin.com/N0sJRmy61IM/)
-  - [我听人说，喜欢上一个人，眼睛里除了ta什么都没有 | 原神空月之歌 | 原神挪德卡莱 | 原神 | 和我一起玩原神吧](https://v.douyin.com/LJw4ES304S0/)
-  - [新时装？龙王！！？fes现场都爆炸了 | 原神空月之歌| 原神版本前瞻 | 原神fes | 原神万人线下| 原神月之四版本前瞻](https://v.douyin.com/Z_48-cFtpXU/)
-  - [原神CV01](https://v.douyin.com/CcjeZenhW-w/)
-  - [原神CV37](https://v.douyin.com/QKOqXmhYYZY/)
+
+  ---
+  **001. 原神宣传片**
+    - [千年之恋 | 001](https://v.douyin.com/pnciGklXVNk/)
+    - [一首《wake》送给陪伴原神三年的旅行者们 | 002](https://v.douyin.com/-dq5ffFJQ7o/)
+    - [用果宝特攻主题曲《疯狂国宝》打开原神 | 012](https://v.douyin.com/9uGHZeiY0E4/)
+    - [用仙剑三主题曲 | 生生世世爱  014](https://v.douyin.com/JcqnRqpjr0o/)
+    - [用神兵小将主题曲《梦的光点》打开原神 |015](https://v.douyin.com/HC1K6b9szuM/)
+    - [用狐妖小红娘op主题曲-梦回还 | 016](https://v.douyin.com/YMI5WbHfiW0/)
+    - [用小花仙主题曲fight fight 开始吧 | 017](https://v.douyin.com/ETEwWiyBswI/)
+
+  ---
+  **002. 应该算高质二创吧**
+    - [临别前最后一舞便是「罪人舞步旋」的真正意义，谋士以身入局，举棋胜天半子 | 001](https://v.douyin.com/k4K50yUHatw/)
+    - [如果在启程之初，你便已经知晓此行的终点，你还会踏上旅途吗？| **原神·旅途从未停止** | 013](https://v.douyin.com/9J0QK-fFrUI/)
+
+  ---
+  **003. The Best Of Me**
+    - [以中国为原型的璃月，它的神明摩拉克斯怎么又会弱呢 | 001 ](https://v.douyin.com/Jkq5vDOHTeo/)
+    - [我不认为舍弃同伴，是战士应有的行为 | 029](https://v.douyin.com/faRl0Gf05N8/)
+
+  ---
+  **004. 提瓦特风景大赏**
+    - [如果在旅途的过程中累了，不妨停下来看看风景吧，这不是你最开始的初衷吗？| 001](https://v.douyin.com/yzJyLLV0TP8/)
+    - [如果玩累了，那就停下来看看周边的风景吧 | 002](https://v.douyin.com/ZHuEPypEFHg/)
+    - [很喜欢一句话 | 以上均为实机画面 | 011](https://v.douyin.com/2qPxP6DKejw/)
+
+  ---
+  **005. 崩坏·星琼铁道**
+    - [崩铁的美术也太好看了吧 | 001](https://v.douyin.com/aROl2iuTNXI/)
+    - [你知道你要面对什么吗？小逼崽子！崩坏星穹铁道 | 076](https://v.douyin.com/Z4wkWw-xzN4/)
+
+  ---
+  **006. 原神崩铁奥义图**
+    - [不知道你们沉默没有，反正我先沉默了 | 001](https://v.douyin.com/h0UyEJx6LEs/)
+    - [假如崩铁里的奥义图植入刀子，你又该怎么办呢 | 014](ttps://v.douyin.com/h0t8u0Rhbx0/)
+
+  ---
+  **007. 原神CV们的名场面**
+    - [疑似现实版角色语音流出 | 风花的呼吸 | 001](https://v.douyin.com/SBkM9XbmCo4/)
+    - [怪不得一斗不怕雷电将军跟九条 | 清夏乐园大秘境 | 014](https://v.douyin.com/9OS4g672ado/)
+
+  ---
+  **008. 让我试试刀吧**
+    - [90秒，提瓦特，命格孤煞 | 六入尽明诸相皆无 | 001](https://v.douyin.com/_ztf6exfnbw/)
+    - [为什么先抵达坎瑞亚的人不是我，而是她 | 磬弦奏华夜 | 原神海灯节 | 013](https://v.douyin.com/Tojh1ZyURTE/)
+    - [如果可以的话，你最想复活原神里的谁呢 | 盛典与慧业 | 027](https://v.douyin.com/8jF-qEAePck/)
+    - [如果有一天到了旅行的终点，你还会回头看看曾经的故事吗 | 风花的呼吸 | 043](https://v.douyin.com/QjsZgcEbnLY/)
+    - [怎么了，你又难过了吗？原神枫丹 | 052](https://v.douyin.com/HAkLEyuG4Ss/)
+
+  ---
+  **009. 原來你也玩原神**
+    - [连神都没有放弃我，我又怎么能放弃我自己 | 六入尽明诸相皆无 | 磬弦奏华夜 | 001](https://v.douyin.com/TZtc4HRPH_M/)
+    - [稻妻五个老婆，你最想抱哪个回家 | 051](https://v.douyin.com/jLYMatRG230/)
+    - [万事万物都不可脱离联系独立存在，倘若一件事拖了后腿，与它联系的诸多事项都会遭殃 | 决斗召唤之巅 | 065](https://v.douyin.com/yMgFs7t3wAk/)
+    - [原神CV01](https://v.douyin.com/CcjeZenhW-w/)
+    - [原神CV37](https://v.douyin.com/QKOqXmhYYZY/)
+
 
 ---
 * **[无鱼 | 千章 | Douyin](https://v.douyin.com/9hghTiuAnLI/)**
   - [原神 他们都好温柔，这一天，雨下的特别大 | 原神枫丹  | 云原神  | 芙卡洛斯  | 那维莱特](https://v.douyin.com/1Guq-CI11hw/)
+
 
 
 ---
