@@ -164,6 +164,15 @@
 * **[热情的河北人](https://v.douyin.com/oeodoObvjFU/)**
 
 ---
+* **[第九朵云 | 学做ai 视频中 | 十章 | Douyin](https://v.douyin.com/GIvXMGGDw1A/)**
+  - **[物皆有灵：十二星座的中式浪漫 | 狮子座·曜日皇女](https://v.douyin.com/_3jB5AeB_08/)**
+
+
+---
+* **[疯信子 | 用极客的思维分享Ai知识，关注我，工作生活帮你帮你开挂 | 十章 | Douyin](https://v.douyin.com/-U43RaWTfbg/)**
+  - [Claude code泄漏背后真相 Claude Code真正暴露的，并非Anthropic的根本（护城河），而是顶级Coding Agent的工程实现思路。在Vibe Coding时代，核心竞争力已从单一模型能力，转向"模型+工程+产品"的系统性集成。这是技术人最好的学习方式。下次分享，我会基于我学到的cc这种思维方式，开源一个小型项目。](https://v.douyin.com/r5miHCbCfCQ/)
+
+---
 ### 0004. 精选AI
 * **[大圆镜科普 | 百章 | Douyin](https://v.douyin.com/Rj2OPR_kCj0/)**
 
