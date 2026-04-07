@@ -119,6 +119,57 @@
 * **[BBC Earth](https://www.youtube.com/@bbcearth)**
 
 ---
+* **[English MasterClass | 35.9万 | Youtube](https://www.youtube.com/@EnglishMasterClass019/shorts)**
+  - [Where To Use " For & Since " | English Grammar Learning](https://www.youtube.com/watch?v=2veCTtcQQqo)
+    * For / Since
+      - For -> duration of time
+      - Since -> point of time
+    * Examples:
+      - I Lived here for 2 years. I
+      - She slept since morining.
+      - He waited since monday.
+      - We studied for 3 hours.
+      - The stayed since January.
+      - I worked for 3 days.
+      - He drove for an hour.
+      - She ran since morning.
+      - They played for 2 hours.
+      - We talked for a while.
+
+    ---
+    * At : Time | Night | Specific | Location
+    * On : Days | Date | Part of day
+    * In:  Seasons |  Months | Years |  Mor/Aft Evening
+    * Examples:
+      - At 10 '0'clock
+      - At night
+      - On Wednesday
+      - In Summer
+      - At the office
+      - In September
+      - On 9th June
+      - In 2025
+      - On Monday morning
+   ---
+
+   * MATHEMATICAL SYMBOLS
+     - Plus +
+     - Minus -
+     - Division /
+     - Multiply *
+     - Percent %
+     - Equal =
+     - big bracket []
+     - Square Root √
+     - Colon :
+     - Semi colon ;
+     - < less Than
+     - > Greator Than
+
+  - []()
+  - []()
+
+---
 * **[linguamarina | 833万 | Youtube](https://www.youtube.com/@linguamarina)**
   - Co-founder of a language-learning platform Linguatrip, passionate about learning languages.
   - 语言学习平台Linguatrip的联合创始人，热衷于学习语言。
