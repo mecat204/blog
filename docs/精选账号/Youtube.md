@@ -2531,6 +2531,11 @@
   - [China Is the Global It-Girl Now | 中国现在是全球的"潮人"](https://www.youtube.com/watch?v=hAM3QABIGFQ)
 
 ---
+### 0019. Youtube
+* **[Caro Kowanz | 414万 | Youtube](https://www.youtube.com/@carokowanzenglish/shorts)**
+  - **[1 Hour of English conversations](http://youtube.com/watch?v=JEE6s4RyaX8)**
+
+---
 ### 9999. Download
 * **[dlpanda](https://dlpanda.com)**
 
