@@ -417,7 +417,7 @@
   - [假如历史人物看到了自己的野史 | 一人分饰多角](https://v.douyin.com/BzhtU7786sw/)
 
 ---
-### 0007. 2026
+### 0008. 2026
 * **[蒹葭的碎碎念 | 日常 | 文学 | 五十章 | Douyin](https://v.douyin.com/FArXTFpNTWc/)**
   - [《庄子》，有一句话彻底刷新了我对"孤独"的认知： "天地与我并生万物与我为一。 从前总觉孤独是"少了什么"，少人陪，少人懂，少一个能说话的人。可庄子说，孤独不是一种"空"，而是一种"容器"。空，才有容量；感到孤独，恰意味着你拥有更多自由。 他说："大鹏之动，非轻举也。"大鹏飞往九万里之外，不是因为它离群，而是它要去一个别人无法同行的远方。 这一路，必然穿越无人应答的天空。这段孤独不是缺失，而是生命在默默拓展自己的疆域。 成长的孤独，常常是这样开始的：你开始看见事物更深的层次，听懂沉默背后的声音，体会到无法轻易言说的感受。 别人说你想太多，你却知道，那不是想太多，是你终于能清晰地听见自己。 庄子认为，心若总依赖外界的回应，就像风中乱舞的叶子。 唯有当内心生长出自己的重量，人才能站稳。](https://v.douyin.com/9TDjK-Yl62U/)
   - ["正财"的本质并非辛苦劳作，而是心念的纯粹变现，其核心路径在于发大愿、深度投入以达忘我之境，并在事上反复磨练以破除我执与恐惧，最终让财富如流水般自然汇聚于你。| 努力只能及格拼命才能优秀](https://v.douyin.com/mFSP46kBnaA/)
@@ -435,6 +435,48 @@
   - [伴娘苗族服装嘿嘿](https://v.douyin.com/jwxBEmUL1Mo/)
   - [我回村了 什么时候来我家干活](https://v.douyin.com/fneMcOEan94/)
   - [hi你好 | 少数民族](https://v.douyin.com/2oVP_S04f4M/)
+
+---
+* **[童佳媱 | 自助者天助之 | 百章 | Douyin](https://v.douyin.com/m1rhbv_5kGA/)**
+  - **[历史告诉我们一个规律，人们一直在争斗， 最先是忠诚厚道的人死 其次是勇敢正直的人死 最后是智慧诚心的死。 当所有理想主义者从历史舞台退场后，剩下的便是伪君子和真小人的较量。别小看他们，历史往往由他们书写。](https://v.douyin.com/jlLBb5berR4/)**
+  - **[悟空的眼泪不是软弱，而是每个中年人都藏不住的落寞](https://v.douyin.com/Ob4k4JDQqC8/)**
+  - **[100多年过去了，那些似曾相似的影子，不是角色的复刻而是困境的轮回](https://v.douyin.com/e8f6uB1-6_Y/)**
+  - **[好东西不允许传播 | 情感 | 人间清醒](https://v.douyin.com/BOLrvbtmwL4/)**
+  - **[过程可以伪装，但结果从来不会说谎](https://v.douyin.com/Ut3QuD8eISE/)**
+  - **[一定要努力，这个世界讲实力讲关系讲利益就是不讲道理](https://v.douyin.com/MvIbigM57uE/)**
+
+---
+* **[𝐌𝐢𝐜𝐤𝐞𝐲 | You just have to be yourself 将感觉置顶 | 二百章 | Douyin](https://v.douyin.com/QyUrUenktCg/)**
+  - [请选择你的地球online主线任务](https://v.douyin.com/He9Lh4N_9RM/)
+  - [亲爱的朋友@无法重来的一生](https://v.douyin.com/JjHYSCRLbbk/)
+  - [我對這片星空許願 希望你永遠幸福開心.](https://v.douyin.com/_KzwJp9gVbs/)
+  - [净化心灵 净化自己.](https://v.douyin.com/YroLqkTNlpo/)
+
+---
+* **[Blank | 我的口袋只剩玫瑰一片，此行又山高路远。 谢谢你这么好看还关注 | 二百章 | Douyin](https://v.douyin.com/k4c0Gv5tGtA/)**
+  - [真正的世界 不在书和地图里 它在外面](https://v.douyin.com/7DL2KERfvHE/)
+  - [北欧古老的传说：看见银河的人，许愿一定会实现的。](https://v.douyin.com/yIrK4RlWt1w/)
+  - [你一定 是颗星星](https://v.douyin.com/AxCgSAEzbFE/)
+  - [赠尔蝴蝶 愿君福叠](https://v.douyin.com/d9ul0XcKUlw/)
+
+---
+* **[百科片场  | 你想了解的趣味知识，正是我科普的主题！ 已开启全网原创保护 | 千章 | Douyin](https://v.douyin.com/ylQAYiwxTuU/)**
+
+  ---
+  **001. 探索地球**
+    - [假如把海水全部抽干，你会看到怀疑人生的一幕 | 001](https://v.douyin.com/FB40iiMoVUo/)
+    - [苏联最疯狂的工程，居然把一片海搞没了 | 030](https://v.douyin.com/rMqAMv_KVpY/)
+
+  ---
+  **002. 探索宇宙奥秘**
+    - [发现一颗"超级地球"，距离地球仅12.5光年，与地球相似指数高达0.95 | 001](https://v.douyin.com/x5jBcE7-xdU/)
+    - [月球背面失联40分钟，NASA为什么故意关掉摄像头？ 阿尔忒弥斯2号 | 270](https://v.douyin.com/sHvKQ97TmEA/)
+    - [月球背面看地球，居然是月牙形的？NASA最新照片刷屏了 | 阿尔忒弥斯2号 | 271](https://v.douyin.com/e-FO1KPUCN4/)
+
+  ---
+  **003. 探测器望远镜系列**
+    - [朱诺号探测器近距离拍摄木星，并飞向了木星大红斑内部 | 001](https://v.douyin.com/H6X6Is604hI/)
+    - [银河系10万光年，如果让猎户座飞船飞出银河系要多久？ | 猎户座飞船 | 阿尔忒弥斯2号](https://v.douyin.com/694TmRvwbTY/)
 
 ---
 ### 9999. Download
