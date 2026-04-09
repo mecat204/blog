@@ -53,6 +53,15 @@
     * [Vlog](EnglishCourse/Vlog/Vlog)
 
   ---
+  - **雪梨Teacher**
+    * [小学 | 第一册 | 人与自我](EnglishCourse/雪梨Teacher/小学第一册)
+    * []()
+    * []()
+    * []()
+    * []()
+    * []()
+
+  ---
   - **AiTeacher**
     * [AiTeacher](EnglishCourse/AiTeacher/AiTeacher)
 
