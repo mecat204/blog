@@ -1433,6 +1433,14 @@
    - [如何快速成为理想的自己 | 067](https://v.douyin.com/ZBorJmbQIjg/)
 
 ---
+* **[曼琳和妈妈 | 伍佰章 | Douyin](https://v.douyin.com/6ZuUzMS1Ehg/)**
+
+  ---
+  **001. 英语**
+    - [001](https://v.douyin.com/8-_goI0zGWk/)
+    - [英语动画片配音～狮子王 | 185](https://v.douyin.com/elpFiBaOTJ0/)
+
+---
 * **[Keep Seeking | 英语短剧 | 纯英文练语感｜无中文字幕｜高频词标注 每日更新，陪你日进一寸 | 二百章 | Douyin](https://v.douyin.com/x-ukTvoLyBg/)**
   - [Trapping the Pervert | 智擒变态](https://v.douyin.com/V9jN6gS9rV4/)
   - [The Forgetful Aunt |  健忘的姑妈](https://v.douyin.com/fr4fXzjBcUw/)
