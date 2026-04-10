@@ -1422,6 +1422,16 @@
   * **[英式英语那个小调调是怎么来的](https://v.douyin.com/hxaGseoYJok/)**
   * **[韩国大集什么样 可理解性输入学英语 | Youtuber: volkaeagle](https://v.douyin.com/-G5XfX7KvRo/)**
 
+  ---
+  **001. 超级英语 | 老师篇**
+    - [跟着老师学习就餐实用英语 就餐英语 | 001](https://v.douyin.com/ThApI_ho-28/)
+    - [这5个阻碍你自由开口说英语的原因你有吗 | 100](https://v.douyin.com/h8JYLz8PaAI/)
+
+  ---
+  **002. 超级英语 | 听力篇**
+   - [如何像孩子一样轻松掌握英语，像母语一样搞定英语 | 001](https://v.douyin.com/mKix9wPAxC4/)
+   - [如何快速成为理想的自己 | 067](https://v.douyin.com/ZBorJmbQIjg/)
+
 ---
 * **[Keep Seeking | 英语短剧 | 纯英文练语感｜无中文字幕｜高频词标注 每日更新，陪你日进一寸 | 二百章 | Douyin](https://v.douyin.com/x-ukTvoLyBg/)**
   - [Trapping the Pervert | 智擒变态](https://v.douyin.com/V9jN6gS9rV4/)
