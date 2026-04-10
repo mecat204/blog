@@ -514,6 +514,18 @@
   - [新东方线上雅思网课，新东方线上雅思培训，雅思英语口语提升首选！外教1对1，25分钟纯英文对话+即时纠错，发音地道、自信开口。](https://v.douyin.com/5CVVaQZgPpM/)
   - [51talk英语课程，51talk](https://v.douyin.com/kNnZmFrMVzU/)
 
+* **[莘莘云课堂 | 学科类英语知识归纳总结 ✍️原创英语时文及习题组每日更新 | 二千章 | Douyin](https://v.douyin.com/S9SpIxflWIo/)**
+
+  ---
+  **001. 英语时文**
+    - [延迟退休英语怎么说 | 001](https://v.douyin.com/RvQqWiQTqBQ/)
+    - [黑神话悟空获TGA年度最佳动作游戏 | 110](https://v.douyin.com/2aE4nCpiwR0/)
+
+  ---
+  **002. China Travel**
+    - [故宫博物院 | 001](https://v.douyin.com/BKExDVlwQCs/)
+    - [六尺巷 | 020](https://v.douyin.com/nyNfwbv8vDQ/)
+
 ---
 * **[英语口语外教老师Lisa | 二千章 | ](https://v.douyin.com/EZW3DGFW1gc/)**
   - [ 7岁娃的第一次外教课 ，线上一对一外教，半个小时沉浸式的英文环境，有输入有输出，有实时互动，而且还是一对一](https://v.douyin.com/i5yqbkg2rJ4/)
