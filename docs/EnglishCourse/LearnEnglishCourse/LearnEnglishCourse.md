@@ -528,6 +528,15 @@
   - [6个让老外惊呆的地道表达](https://v.douyin.com/RGGHIDywfjQ/)
 
 ---
+* **[Boya松绑了 | 能松绑的 只有自己 刀就在你手里 | 伍佰章 | Douyin](https://v.douyin.com/S7sDJ3gSei0/)**
+
+  ---
+  **001. 开窍变厉害合集**
+  - [灵魂 | 人生 | 人间清醒 | 成长 | boya心里话 | 001](https://v.douyin.com/bDdBSJ_TU4U/)
+  - [来着35岁大佬的人生建议 | 005](https://v.douyin.com/xXuSOHthFZo/)
+  - [多学点东西，在社会上才能不吃亏 | 007](https://v.douyin.com/rGHiLBXuumM/)
+
+---
 * **[CC英语听读 | 每日英语文章分享,一起来打卡学习 |  百章 | Douyin](https://v.douyin.com/VQVWqMakCdo/)**
   - [And i have learned that one important trait that distinguishes those who truly excel in life is hard work.](https://v.douyin.com/HL_dxJG0lUA/)
   - [放松美好的生活。](https://v.douyin.com/7h-65W0Gj8I/)
@@ -542,6 +551,28 @@
     * 完成试玩后： - 系统会展示你的学习数据 - 想继续学习?只需简单注册即可 - 支持手机号/邮箱/微信扫码三种方式
     * 注册成功后可以： - 查看个人学习数据分析 - 绑定课程学习包 - 开启完整的学习之旅 💡 Tips:建议先试玩体验,喜欢再注册哦](https://v.douyin.com/vDaHgRqP7kg/)
   - [再见，2025！ | 创始人故事 | 创业日记 | 句乐部 | 无痛学英语 | 学英语](https://v.douyin.com/LrW2fSHy77U/)
+
+---
+* **[思她说说 | 读书 | 诗词 | 慢生活 愿我分享的文字，能成为你疲惫生活里的温柔解药 | 先完成再完美, 做永远清醒且有温度的自己 | 二百章 | Douyin](https://v.douyin.com/xlJh-zfWtME/)**
+  - [胡适说一个人愚昧的四大表现：第一：对从未见过的人恨之入骨。第二，对从未做过的事引以为豪。第三，对吹捧出来的神倒头就拜。第四，对画而未得的饼感恩戴德](https://v.douyin.com/5HVKAmv6d-s/)
+  - [学来的都是术，悟道才是道。术可以学，道只能悟。从书上和别人那学来的，我们称之为知识。纸上得来终觉浅，绝知此事要躬行。只有自己在生活中、实践中领悟到的，才是真正的智慧。](https://v.douyin.com/OPBccatDBLY/)
+  - [自由第一课，接受没有人爱你。自由第二课，任何人的爱都是负担。自由第三课，爱上任何人都无法自由。自由第四课，接受所有的关系都是阶段性的，活在缘分里而非关系里。自由第五课，释怀所有人的离开。自由第六课，允许一切发生。爱人之前先学会爱自己。](https://v.douyin.com/nEUnRmmg2zE/)
+
+---
+* **[福瑶 | 自由、无限、感恩、依心而活🍀 治愈 | 生活——读书修气质、写字养心性！希望这里可以给大家带来力量和温暖！以道养心, 以善陪伴. | 百章 | Douyin](https://v.douyin.com/j_rYzYfG3dg/)**
+  - [来时的路，也还在路上，待，顶峰相见 | 无人扶我青云志我自踏雪至山巅](https://v.douyin.com/9C1wwoXd1SA/)
+  - [苦尽甘来时，再讲来时路，每一步都算数，困卦是告诉我们当进退两难时，时机未到就先安心的养精蓄锐，人生除了生死，其他都是擦伤，好好把当下的每一天过好](https://v.douyin.com/G7UVVSo4SUg/)
+  - [伴侣是不是命定？人死后去了哪里？世上真的有"魂"吗](https://v.douyin.com/9P71uxs3btQ/)
+
+  ---
+  **001. 学习《周易》的不焦虑**
+    - [乾卦周易第一卦 初九爻"潜龙勿用"事以密成，言以泄败 | 001](https://v.douyin.com/QzzKknHIjeA/)
+    - [有福之人无心插柳柳成荫 无福之人机关算尽尽成空 | 007](https://v.douyin.com/k3OT-g5PKR4/)
+
+  ---
+  **002. 今天说个玄学**
+    - [刷到这条视频说明老天在告诉你：往后的日子，我们松快儿的过 | 001](https://v.douyin.com/qFe1EfOsGvY/)
+    - [突然意识到一个问题，如果此生只能爱一个人，那为什么不按照自己的理想型培养自己 | 028 ](https://v.douyin.com/rLpkm-Kk7Vg/)
 
 ---
 * **[Emily英文绘本故事 | 北大本硕 | 15年 + 教育人 | 俩娃妈妈 | 把教育经验熬成原创英语绘本故事 | 用妈妈的视角, 讲孩子能听懂的英文内容, 每天5分钟磨耳朵,陪娃轻松爱上英语 | 百章 | Douyin](https://v.douyin.com/jkP_utJS_p8/)**

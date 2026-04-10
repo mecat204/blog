@@ -438,6 +438,15 @@
     - [陨石来袭 | 023](https://v.douyin.com/VxF_9yFCRAo/)
     - [修仙与科技 | 第25集](https://v.douyin.com/5bshswN0peg/)
 
+---
+### 0012. English speaking
+* **[English speaking](https://v.douyin.com/FjoLURq-nA4/)**
+  - [001](https://v.douyin.com/6DWA2e30Koo/)
+  - [002](https://v.douyin.com/Htna8R5lLEQ/)
+  - [003](https://v.douyin.com/cApfYKj39C4/)
+  - [004](https://v.douyin.com/U0zh3dvo784/)
+  - [短剧](https://v.douyin.com/2zZYX2_CS3w/)
+  - [005](https://v.douyin.com/7dAddAOeFcs/)
 
 ---
 ### 9999. Download
