@@ -27,11 +27,19 @@
   - [2026 AGI普及元年｜普通人如何翻盘？ OpenAI 这次"官方泄露"信息量实在太大！但我看完后，比起新模型，更让我思考的是：我们真的准备好拥抱 AGI 了吗？ 视频里出现了一个高频词：Capability Overhang（能力过剩）。 这意味着现在的 AI 像是一个满腹经纶的博士，但我们却只让他做"点外卖"的活。 OpenAI 的 2026 预言非常明确： ❌ 2026 不再是单纯的"卷参数"之年； ✅ 2026 是 Deployment（部署/应用）之年，是让 AI 真正深入医疗、商业和设计师日常的一年； AGI 的进展不看模型有多强，而看它能帮你做成什么。](https://v.douyin.com/NQmuqKm5VuY/)
 
 ---
+* **[杨竹筠 | 前清华出版社数字运营总监 | 高教社生医数字分社长 | 国家级MOOC平台核心设计者 | 17年教育科技老兵 | G信部人工智能工程师 | 专注AI商业落地 | 伍佰章 | Douyin](https://v.douyin.com/yhKJneLkEIs/)**
+
+  ---
+  **001. 竹子聊AI**
+  - [全球已进入AI军备竞赛阶段 普通人还没意识到，12月开始人类的命运可能被AI彻底改变 | 001](https://v.douyin.com/04Aa3D0U3_s/)
+  - [诺奖得主**哈萨比斯**: 人类将活到150岁！人工智能最大的影响，不在手机里，用AI治愈所有疾病又进一步 | 230](https://v.douyin.com/e8-AY8XMX6M/)
+
+---
 ### 9999. Download
 * **[必应 | bing.com](https://cn.bing.com/)**
 
 ---
-* **[dlpanda](https://dlpanda.com)**
+* **[dlpanda](https://www.dlpanda.com)**
 
 ---
 * **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
