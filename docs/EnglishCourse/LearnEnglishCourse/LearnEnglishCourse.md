@@ -769,6 +769,34 @@
   - **[教女孩们勇敢，而不是完美](https://v.douyin.com/vxN-OUdf1sk/)**
 
 ---
+* **[Lisha学姐 | 雅思 | 叁佰章 | Douyin](https://v.douyin.com/USzPZ3I9MJ8/)**
+
+  ---
+  **001. 雅思口语2026年1-4月**
+    - [雅思口语1-4月Part1——Pets and Animal | 001](https://v.douyin.com/T9z3ahDJfYE/)
+    - [雅思口语1-4月Part1新题——Team Sports Sports team | 008](https://v.douyin.com/X-z-HTkpME4/)
+
+  ---
+  **002. 雅思口语2025年9-12月话题示范合集**
+    - [雅思口语9-12月Part3——不喜欢快速做决定 | 001](https://v.douyin.com/HlhqTj_wueA/)
+    - [雅思口语Part3——不要再'it depends'了 | 029](https://v.douyin.com/_hkoW5fy880/)
+
+  ---
+  **003. 雅思口语2025年05-08月口语话题示范**
+    - [雅思口语5-8月Part1——Spending time | 001](https://v.douyin.com/waRscq8t44E/)
+    - [雅思口语1-4月Part3新题——坦率的表达情感是好是坏 | 051](https://v.douyin.com/i8LeNDDV9IA/)
+
+  ---
+  **003. 雅思口语2025年01-04月话题示范合集**
+    - [雅思口语1-4月Part3话题高分示范 | 001](https://v.douyin.com/3vIIKhrHI7U/)
+    - [雅思口语1-4月换题季训练营来啦 | 035](https://v.douyin.com/-qCOAKpiUXI/)
+
+  ---
+  **004. 雅思口语2025年09-12月口语话题示范**
+    - [雅思口语9-12月Part2新题——公园/花园 | 001](https://v.douyin.com/gvFn1IQakYs/)
+    - [雅思口语11月Part2新题——重要的河流/湖泊 | 039](https://v.douyin.com/-yrTCGJ8KKY/)
+
+---
 * **[夏冰雹频道 | 英语教育博主 专注英文教学五年 听力口语阅读理解好评如潮 | 书籍: 绽放作者 | 激发年轻人挖掘热爱与潜能, 活出想要的人生 | 千章 | Douyin](https://v.douyin.com/suT9hTmBYss/)**
     - [15年的好习惯](https://v.douyin.com/6Y8P2kxOQEU/)
     - 30岁活成18岁的状态？我坚持了15年的好习惯，让我精力充沛 从青春期熬夜发胖的 "死肥宅" 到彻底改变：15 岁那年我靠调整生活习惯瘦了 35 斤，之后 15 年始终坚持不熬夜、每天运动、拒绝超加工食品，现在 30 岁仍保持着 15 岁般的高能量状态。这些习惯不仅让我精力充沛，更让学业事业一路稳步提升。 视频里会拆解我的规律睡眠技巧、随时随地能做的运动方案、简单易执行的饮食原则，以及如何利用每天黄金 4 小时放大成长效率。只要你跟着做就能养出持久高能量，越活越顺
