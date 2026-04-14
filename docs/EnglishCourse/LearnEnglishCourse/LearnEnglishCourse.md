@@ -1949,6 +1949,18 @@
     - [老人和死神 | 286](https://v.douyin.com/gXk1wT9WBN4/)
     - [聪明的大熊猫 | 295](https://v.douyin.com/s9qdaJDfc9w/)
 
+---
+### 0026. 速记单词
+* **[薄荷速记单词 | 佰章 | Douyin](https://v.douyin.com/_wxEgIlzHts/)**
+  - **[宇宙天文英语](https://v.douyin.com/-MBureIDs8c/)**
+
+---
+* **[生回报率超高的宝藏英文播客推荐](https://v.douyin.com/d09P2pIo65M/)**
+  - [6 Mintute English]()
+  - [No stupid Questions]()
+  - [英语万花筒| 英语精讲]()
+  - [纵横Say Hi]()
+  - [This American Life]()
 
 ---
 ### 9999. Download

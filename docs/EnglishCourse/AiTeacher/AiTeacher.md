@@ -48,6 +48,72 @@
   - [Why Your Brain FREEZES When People Speak Fast in English](https://www.youtube.com/watch?v=wlPY5gv1I6E)
 
 ---
+* **[Speak English Daily | 26.6万 | Youtube](https://www.youtube.com/@SpeakEnglishDailyTV/videos)**
+  - 🎧 Welcome to Speak English Daily TV – Learn American English Every Day!
+  - 🎧 欢迎收看《每日英语说话》电视——每天学习美式英语！
+
+  ---
+  - Do you want to speak English like an American?
+  - 你想像美国人一样说英语吗？
+
+  ---
+  - You found the right place!
+  - 你找到对地方了！
+
+  ---
+  - Our channel helps beginners (A1-A2) learn to speak - English clearly and confidently.
+  - 我们的频道帮助初学者（A1-A2）学会清晰自信地说英语。
+
+  ---
+  - What you will learn:
+    * Daily practice with American accent
+    * Real English conversations you use every day
+    * Clear subtitles + slow, easy speech
+    * Fix common mistakes in grammar and pronunciation
+    * Fun, short English lessons daily
+  - You will learn to:
+    * Speak English fluently like Americans
+    * Answer confidently in daily talks
+    * Build good speaking habits in 5-10 minutes daily
+    * Get ready for real English conversations and IELTS Speaking test
+  - What we offer:
+    * New videos EVERY DAY!
+
+  ---
+  - 你将学到的内容：
+    * 每天练习美式口音
+    * 每天使用的真实英语对话
+    * 清晰字幕 + 缓慢轻松的说话
+    * 纠正语法和发音中的常见错误
+    * 每天有趣且简短的英语课 你将学会：
+    * 像美国人一样流利地说英语
+    * 在日常对话中自信回答
+    * 每天 5-10分钟内建立良好的口语习惯
+    *  准备迎接真正的英语对话和雅思口语考试 什么我们提供：
+    *  每天推出新视频！
+
+  ---
+  - Simple English for beginners
+  - Practice speaking with us
+  - Learn American pronunciation step by step
+  - 🗣️ Start speaking better English today!
+
+  - 初学者简单英语
+  - 与我们一起练习口语
+  - 一步步
+  - 🗣️学习美式发音 今天就开始说更好的英语吧！
+
+  ---
+  - Leave a comment and practice with us.
+  - 欢迎留言和我们一起练习。
+
+  ---
+  - 📧 Contact us: innergrowthpath2412@gmail.com(For questions, help, or working together)
+
+  ---
+  * **[English Speaking Practice Speak Without Translating | Day 6 Morning Shadowing Practice](https://www.youtube.com/watch?v=hJf840x5MU0)**
+
+---
 ### 0002. Translate
 * **[Dr. T. Justin Webb | 326位 | Youtube](https://www.youtube.com/@webb8020/videos)**
   - **[AI-Powered Strategic Thinker](https://pensator-strategus.notion.site/AI-Powered-Strategic-Thinker-187f851e265a8087a195fbdec5054cb5)**
