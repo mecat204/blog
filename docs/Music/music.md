@@ -1475,6 +1475,15 @@
 * **[一步一个脚印，脚踏实地，终能抵达想去的远方。| 森林氧吧](https://v.douyin.com/ATBFOzB199k/)**
 
 ---
+### 0028. 放歌的舸大爷
+* **[放歌的舸大爷 | 前电台音乐节目DJ、酒腻子、《庞舸的扒音盒》《跑调》《庞舸sway派《庞舸读书会》《庞舸船播》背后有一个脑声优。| 伍佰章 | Douyin](https://v.douyin.com/hpvFRMj4eRg/)**
+  - [不要温顺地走进那个良夜 "，Do not go gentle into that good night ， 这首诗是写于1951年，狄兰·托马斯用以鼓励病重的父亲。 诗人对于死神将可爱的人们带离这个世界表达了愤怒，他要"怒斥光明的消逝"。](https://v.douyin.com/x0WznopMYl4/)
+  - [今年是音乐历史上最伟大的概念专辑之一《月之暗面》发行50周年，我们来听听专辑里给疯子写的歌](https://v.douyin.com/tczVuKlu1mM/)
+  - [风吹走我的黑暗](https://v.douyin.com/KPjhJzRmRDI/)
+  - [最真挚的活在1988，我是不是你最爱的人](https://v.douyin.com/pcrZROjbaQQ/)
+  - [泰坦尼克号](https://v.douyin.com/UndpkwRj35E/)
+
+---
 ### 9999. MusicCourse
 * **[AlgerMusicPlayer | music | software](https://github.com/algerkong/AlgerMusicPlayer)**
   - [music.alger.fun](http://music.alger.fun/#/)

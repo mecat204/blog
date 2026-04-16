@@ -1466,7 +1466,36 @@
   ---
   **001. 英语**
     - [001](https://v.douyin.com/8-_goI0zGWk/)
+    - [It in English | 129](https://v.douyin.com/4sXuHzrtBO0/)
+    - [Time is very important in our life | 130](https://v.douyin.com/6NETJ6lN_J0/)
     - [英语动画片配音～狮子王 | 185](https://v.douyin.com/elpFiBaOTJ0/)
+
+---
+* **[Say It in English | Speak it you way. | 英文独白 | 合拍跟读 | 观点表达 | 伍佰章 | Douyin](https://v.douyin.com/fnB0IqLDQ8o/)**
+  - [Speak it your way.](https://v.douyin.com/YT3I779-y5U/)
+  - [My dear mum](https://v.douyin.com/QPq3ZNQNilE/)
+  - [Knowledge is power](https://v.douyin.com/-Pd_6z_IXxM/)
+
+---
+* **[贝拉剑桥英语伴学社 | 剑桥英语KET/PET伴学 | 原版教材Unlock | 美国地理Re | 牛津书虫系列陪读 | 原版畅销书Ted博客分享 | 百章 | Douyin](https://v.douyin.com/kNeRLuW06Hc/)**
+  - [My dear mum](https://v.douyin.com/6NPa7BrHQo0/)
+  - [Communication is very important in our life](https://v.douyin.com/qk0Kw1x21Pw/)
+  - [语言的力量 | 语言塑造能量的体现](https://v.douyin.com/Y4a_N1lATW4/)
+  - [Yesterday Once More | Music](https://v.douyin.com/AotvgMvFNz4/)
+  - [You live in the quiet places of my heart, where the good things stay](https://v.douyin.com/eZ0FjycS_d8/)
+  - [Keep going. You are strong,  You are smart.You’re capable of more than you think | Never give uo. | 不要温柔的走进那个凉夜.](https://v.douyin.com/LxwGCwUrG8c/)
+  - [不要温顺地走进那个良夜 | Do not go gentle into that good night | 这首诗是写于1951年，狄兰·托马斯用以鼓励病重的父亲。 诗人对于死神将可爱的人们带离这个世界表达了愤怒，他要"怒斥光明的消逝"](https://v.douyin.com/xJAsLsQLHjM/)
+
+---
+* **[Harper.L（男声）| 每日英语美文、电影台词朗读（欢迎投稿） 英语专八｜CATTI | 外研社全国金奖 | 翻译硕士在读 | 看书、英语翻译、唱歌、游戏 | 贰佰章 | Douyin](https://v.douyin.com/ptEJEYKi-F4/)**
+  - **[男声英文朗读｜绿皮书：亲爱的德洛丽丝](https://v.douyin.com/6RJN36RA7zA/)**
+  - **[男声英文朗读｜阿甘正传](https://v.douyin.com/ghMPT4A7SE0/)**
+  - **[男声英文朗读｜刺客信条：余烬](https://v.douyin.com/jaYXLppcQ1k/)**
+
+  ---
+  **001. 新概念英语二**
+    - [A Private Conversation | 001](https://v.douyin.com/P71RPfF3FNk/)
+    - [A slip fo the tongue | 089](https://v.douyin.com/IOnVunHCRcw/)
 
 ---
 * **[Keep Seeking | 英语短剧 | 纯英文练语感｜无中文字幕｜高频词标注 每日更新，陪你日进一寸 | 二百章 | Douyin](https://v.douyin.com/x-ukTvoLyBg/)**
@@ -1476,6 +1505,35 @@
   - [**美剧: 19号消防局**](https://v.douyin.com/3kLyjGvElyo/)
   - [英语: 短剧](https://v.douyin.com/w2uO3gTqG40/)
   - [He Got What He Deserved | 罪有应得](https://v.douyin.com/PyiK3og673s/)
+
+  ---
+  **001. Love Me Bite Me**
+    - [001](https://v.douyin.com/XYImrO2L7cg/)
+    - [008](https://v.douyin.com/xmxqz8YXQuQ/)
+
+  ---
+  **002. 纯英文短剧**
+    - [老外真会玩 | 001](https://v.douyin.com/q6DK6kgQ3-U/)
+    - [Cancer or Evil Spirit | 144](https://v.douyin.com/gtyFsjHjIOI/)
+
+  ---
+  **003. 外文经典名场面**
+    - [001](https://v.douyin.com/AHSYnm0Z6gg/)
+    - [I Keep Tabs On You 默默的关注你 | 047](https://v.douyin.com/vtqoqbjr_Wo/)
+
+  ---
+  **004. 外文经典曲目 | Music**
+    - [Aud Lang Syne | 友谊天长地久](https://v.douyin.com/DbDnB8NixJA/)
+    - [杰克逊 - 迈克尔·杰克逊的《犯罪高手》，收录在他1987年的专辑《Bad》中，是专辑的第七支单曲。](https://v.douyin.com/nvKySJb-qSM/)
+    - [Labour | 英国歌手 Paris Paloma 于 2023 年 3 月发行的单曲，是一首女权主义赞歌，批判女性在家庭中承担的无偿劳动，在全球范围内引发广泛关注。](https://v.douyin.com/XNLSXTFaewQ/)
+    - **[Opalite | Taylor Swift](https://v.douyin.com/682TlDadsGo/s)**
+    - **[Love Story | Taylor Swift](https://v.douyin.com/EdVgbDFOVVg/)**
+    - **[All to Well | Taylor Swift](https://v.douyin.com/yCOk-HFCM10/)**
+
+  ---
+  **005. 英语演讲TED**
+    - [001](https://v.douyin.com/tB9hE1g_sog/ 复制此链接，打开Dou音搜索，直接观看视频！)
+    - [Treat Yourself As Someone You Love | 把自己当成你爱的人 | 002](https://v.douyin.com/LqkXYvx6EB4/)
 
 ---
 * **[英语大剧场 | 掌握一种语言，就是掌握一种看世界的方式 | 三百章 | Douyin](https://v.douyin.com/Sto8yPpvKCM/)**
@@ -1658,6 +1716,19 @@
       * It makes sense. | 很有道理
       * Couldn't  agree more. | 非常同意
     - [连读 | 011](https://v.douyin.com/veTV9XYCX-E/)
+
+---
+* **[夏夏不温柔（学英语版）| 感恩相遇，如果能感染到你，我会倍感幸福 | 千章 | Douyin](https://v.douyin.com/iRGr_X0cxB4/)**
+
+  ---
+  **001. 自我肯定**
+    - [睡前做个自我肯定，然后安安稳稳做个好梦 | 001](https://v.douyin.com/W5KlxpSYwOk/)
+    - [最近我一直在想，孩子的补课是不是应该暂停，学历不再那么重要了？但是学习的能力依旧重要 | 035](https://v.douyin.com/pvN_Ktx1Db8/)
+
+  ---
+  **002. 日常碎碎念**
+    - [录了100遍终于鼓足勇气发出来了，不卷女儿，卷自己 | 001](https://v.douyin.com/sSt96jT0-qg/)
+    - [烧饭做菜真的不容易，感谢身边默默付出的那一位 | 064](https://v.douyin.com/uPlkOjxFmbk/)
 
 ---
 * **[欧美外教在线一对一口语 - 葡然蕴 | 零基础英语 | 启蒙英语 | 雅思口语 | 零基础英语 | 商务英语 | 二千章 | Douyin](https://v.douyin.com/dtwC1ZGrWxQ/)**
