@@ -1484,6 +1484,15 @@
   - [泰坦尼克号](https://v.douyin.com/UndpkwRj35E/)
 
 ---
+### 0029. 老顽童刘大爷
+* **[老顽童刘大爷 | 所有作品内容均为原创版权作品(音词视画)| 虚拟艺术六六 | 人类历史上首次举办专场演唱会虚拟AI艺人| 原创代表作 《会有人》、《别走开》、《人生不过三万台》、《浪漫人间》、《加油,亲爱的》、命中注定是你》、《把自己放在人生第一行》](https://v.douyin.com/xJw1wErexJ0/)**
+  - **[人类史上首次AI艺人专场演唱会](https://v.douyin.com/mcSWiUAhirw/)**
+
+---
+* **[虚拟艺人六六 | 人类世界史上首次举办专场演唱会虚拟AI艺人](https://v.douyin.com/hY5qahhTbww/)**
+  - [世界第一个开万人演唱会](https://v.douyin.com/L8QKw6gm4EE/)
+
+---
 ### 9999. MusicCourse
 * **[AlgerMusicPlayer | music | software](https://github.com/algerkong/AlgerMusicPlayer)**
   - [music.alger.fun](http://music.alger.fun/#/)
@@ -1493,7 +1502,7 @@
 * **[ Musicca | 在线免费学习乐理（音乐理论）和基础乐器/音乐知识 的平台。](https://musicca.com)**
 
 ---
-* **[dlpanda](https://dlpanda.com)**
+* **[dlpanda](https://www.dlpanda.com)**
 
 ---
 * **[桃李醉春风个人制谱园地_中国曲谱网](https://www.qupu123.com/space/6)**
