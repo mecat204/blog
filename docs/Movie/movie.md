@@ -958,8 +958,17 @@
   - [Aoi Blink Blue Blink Ep. 11-15 English Sub | **Blue Blink | 青色杜马**](https://www.youtube.com/watch?v=akbrTYqPEe0)
 
 ---
+### 0030. 欧美影视解说
+* **[太守 | 三日不观影便觉灵台蒙尘」 下一期《冰雪奇缘 2》| 佰章 | Douyin](https://v.douyin.com/o1oi8hBHtaI/)**
+  ---
+  **001. 名著重映**
+    - [唯有在爱与责任中学会成长，幸福才会真正稳固而长久。 **爱玛** | 001](https://v.douyin.com/wRIWO6FMom4/)
+    - [爱，是摒弃傲慢与偏见之后的曙光。**傲慢与偏见** | 005](https://v.douyin.com/mA_8IKEG5iE/)
+    - [不折不扣的传奇：**彼得兔的作者波特小姐** | 012](https://v.douyin.com/GeF8h4TUoxA/)
+
+---
 ### 9999. Download
-* **[dlpanda](https://dlpanda.com)**
+* **[dlpanda](https://www.dlpanda.com)**
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
