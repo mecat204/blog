@@ -67,6 +67,10 @@
   **Ai-Website**
   - [Home | Anthropic | 与人类有关的](https://www.anthropic.com/)
 
+  ---
+  **Game**
+  - **[Games to learn English](https://www.gamestolearnenglish.com/)**
+
 ---
 * **[英语学习资源导航 | 全网最全](https://en.knowledgefxg.com/)**
 
