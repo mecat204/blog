@@ -56,7 +56,7 @@
 
   ---
   **Speaking**
-  - [Hi Speaking](https://hispeaking.com/c/bbc-6-minute-english/addicted-to-sugar-6-minute-english)
+  - **[Hi Speaking](https://hispeaking.com)**
 
   ---
   **News**
