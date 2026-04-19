@@ -499,6 +499,14 @@
   - **[95岁老人的人生感悟 | 001](https://v.douyin.com/yEcXbB6e5rw/)**
   - **[95岁老人的人生感悟 | 061](https://v.douyin.com/nn4srGohGrk/)**
 
+---
+### 0016. 教石头思考 | 人工智能的诞生
+* **[左歪歪的技能树 | CAU食品本 FDU生信研0 闲暇之余 努力更视频 朋友圈 | 佰章 | Douyin ](https://v.douyin.com/_p8YRMcERbo/)**
+
+  ---
+  **001. 人工智能的诞生**
+    - [在机器学习诞生之前，人类是如何试图"手写"智慧的 | 001](https://v.douyin.com/lNoy9s7IlZs/)
+    - [残差网络：当深度学习撞上天花板，他在网络里画了一道捷径 2013年，多伦多大学。| 016](https://v.douyin.com/BD-TpBX-Yc0/)
 
 ---
 ### 9999. Download

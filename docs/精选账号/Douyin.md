@@ -54,6 +54,11 @@
     - **[AIGC生成虚拟形象｜绫波丽2K壁纸](https://v.douyin.com/nTTps7_jq8E/)**
 
 ---
+### 0002a. 2018
+* **[少寒Shine 助眠| 千章 | Douyin](https://v.douyin.com/f-tAOPcunls/)**
+  - **[少寒 Shine | 采耳的声音](https://v.douyin.com/CcX97eyTTaU/)**
+
+---
 ### 0003. 2021
 * **[一哒 | Your.Yida. | 你好, 只是换了一个身份 祝开心 | 二百章 | Douyin](https://v.douyin.com/3RuCJw8yjvc/)**
   - [梁山伯与祝英台](https://v.douyin.com/yYPrSFceuGY/)
