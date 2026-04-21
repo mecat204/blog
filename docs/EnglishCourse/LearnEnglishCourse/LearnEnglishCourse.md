@@ -2038,6 +2038,62 @@
   - [This American Life]()
 
 ---
+### 0027. 心理学 | English字幕
+* **[治愈果（kakki在说啥）| 🐳90万粉丝心理创作者｜心理师 🐳累计500+小时个案 | 亲密关系终身成长](https://v.douyin.com/KcHp3-7eID4/)**
+  - **[啥样的人是不可错过的好伴侣？心理学的角度揭秘好伴侣的三个特质](https://v.douyin.com/gb-EP3_R0ZQ/)**
+  - **[学会显化我们都会过上想要的人生，成为理想的自己](https://v.douyin.com/DVEOKxF3et4/)**
+  - **[你分得清正缘和孽缘吗？重塑感情观，分享5个正缘特征](https://v.douyin.com/VQSkxlrZzgQ/)**
+
+  ---
+  **001. 感情里必须知道的事**
+    - [你爱上的人，其实就是你的性格 | 001](https://v.douyin.com/5xmsxq3sui4/)
+    - [让人疯狂上头背后的心理学原理 | 100](https://v.douyin.com/EyCKMwASyYc/)
+
+  ---
+  **002. 个人成长**
+    - [改变自己，需要觉察和开放，然后才能行动 | 001](https://v.douyin.com/19QuisvotWg/)
+    - [国外神经心理学家的精华7点 | 098](https://v.douyin.com/nDpDnFp5rFM/)
+
+  ---
+  **003. 种下心中的福田**
+    - [其实你所有的情绪问题其实源于不够爱自己 | 001](https://v.douyin.com/HceefGkt6Eg/)
+    - [真正顶级的提升能量方法？身弱之人必看 | 019](https://v.douyin.com/65acSr4UArc/)
+
+---
+### 0028. yoyo的跨国生存 | English字幕
+* **[yoyo的跨国生存 | 是yoyo 中医学本科却成了“跨国摆渡人” 曾历房产浮沉、情感变故、负债百万, 为儿子, 四赴美国, 从语言不通到终获工作转机。| 记录我真实的美国生存英语| 分享最一线的跨国资讯 | 我的弯路,你的捷径. | 贰佰章 | Douyin](https://v.douyin.com/wQZdIpaF0F4/)**
+  - [出国最大的收获，要懂得更爱自己 见天地、见众生、见自己](https://v.douyin.com/mH90Pvg-YGw/)
+  - [学好英语，犹如手握开启世界大门的钥匙🔑，命运的轨迹或将因此改写](https://v.douyin.com/7ho1aj41BtQ/)
+  - [学好英语 背上🎒 直接飞行12000公里](https://v.douyin.com/kc3WOrRMijI/)
+
+---
+### 0029. 苗儿老师Joyce | 配音演员
+* **[苗儿老师Joyce | 2009年开始教英语l央视主持人纠音老师 英语配音员l全平台同名 | 千章 | Douyin](https://v.douyin.com/LnvQ8mC5TvA/)**
+  - [当有人说讨厌你时，你就这么说](https://v.douyin.com/qssuvjyFStY/)
+  - [英语配音 一段有质感的电影独白](https://v.douyin.com/1eYDsPOSk9E/)
+  - [英语配音 阿汤哥独白之《遗落战境》](https://v.douyin.com/4yyWgETSoTA/)
+
+  ---
+  **001. 治愈系英语**
+    - [情人节❤️送给正在找对象的你 | 001](https://v.douyin.com/Djqu_Lwwyzs/)
+    - [记住这句话，就没人能伤害你 | 084](https://v.douyin.com/wK8gu685Evg/)
+
+  ---
+  **002. 英语发音**
+    - [秒懂干货|易混单词发音要领及音标解析：done,dawn,down的区别 | 001](https://v.douyin.com/CG6FMyK0_lI/)
+    - [超长单词就这样读 | 070](https://v.douyin.com/gXq0ytJPNNc/)
+
+  ---
+  **003. 英语配音**
+    - [游戏《生化危机4》艾达王 | 001 ](https://v.douyin.com/0XxMqOJ-gPs/)
+    - [战锤40K荷鲁斯之乱》英语配音 | 326](https://v.douyin.com/wF94GwO5HUk/)
+
+  ---
+  **004. 中文配音**
+    - [画皮](https://v.douyin.com/-exbqU59D_o/)
+    - [蜡笔小新精分配音](https://v.douyin.com/qEB29-9OXGc/)
+
+---
 ### 9999. Download
 * **[dlpanda](https://www.dlpanda.com)**
 

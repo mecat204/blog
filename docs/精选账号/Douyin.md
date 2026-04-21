@@ -446,6 +446,11 @@
   - [日落前三分钟的夹缝光](https://v.douyin.com/GqWo8XSlEdA/)
   - [黛玉亡魂走马灯 | 归晚·瑜瑾](https://v.douyin.com/rbpEPJ7PGt4/)
 
+* **[治愈果（kakki在说啥）| 🐳90万粉丝心理创作者｜心理师 🐳累计500+小时个案 | 亲密关系终身成长](https://v.douyin.com/KcHp3-7eID4/)**
+  - **[啥样的人是不可错过的好伴侣？心理学的角度揭秘好伴侣的三个特质](https://v.douyin.com/gb-EP3_R0ZQ/)**
+  - **[学会显化我们都会过上想要的人生，成为理想的自己](https://v.douyin.com/DVEOKxF3et4/)**
+  - **[你分得清正缘和孽缘吗？重塑感情观，分享5个正缘特征](https://v.douyin.com/VQSkxlrZzgQ/)**
+
 ---
 * **[阿蛮 | 喜欢关注我的小伙伴 | 二十章 | Douyin](https://v.douyin.com/NrLU22A2DJA/)**
   - [怎么敢跟你打电话 我家都是鹅叫声](https://v.douyin.com/-MqiXDhXqSk/)
