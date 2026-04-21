@@ -79,6 +79,10 @@
   - **BooksTranslate**
     * [MachineLearningSystems](EnglishCourse/BooksTranslate/MachineLearningSystems)
 
+  ---
+  - **ChatGPT**
+     * [ChatGPT](EnglishCourse/ChatGPT)
+
 ---
 * **Book**
   - [BookSource](Book/BookSource)
