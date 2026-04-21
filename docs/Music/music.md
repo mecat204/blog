@@ -1493,6 +1493,28 @@
   - [世界第一个开万人演唱会](https://v.douyin.com/L8QKw6gm4EE/)
 
 ---
+### Chari xcx | Youtube
+* **[Charli xcx | 405万 | Youtube](https://www.youtube.com/@officialcharlixcx/videos)**
+  - The official YouTube Channel of Charli xcx
+  - 查理xcx 的官方YouTube频道
+
+  ---
+  - Charli xcx is an iconic figure in the arts, having helped expand the landscape of popular music over the last decade by seamlessly traversing the underground and the mainstream with her artistic output.
+  - Charli xcx 是艺术界的标志性人物，过去十年她通过艺术创作无缝跨越地下与主流，帮助拓展了流行音乐的领域。
+
+  ---
+  - A singer, songwriter, documentary maker, radio host and record label boss, Charli’s story is one of an artist who continues to succeed without compromise, earning critical acclaim for her forward-thinking music style and entrepreneurial spirit.
+  - 作为歌手、词曲作者、纪录片制作人、电台主持人和唱片公司老板，Charli的故事讲述了一位持续无妥协地取得成功的艺术家，凭借其前瞻性的音乐风格和创业精神赢得了评论界的高度赞誉。
+
+  ---
+  - Her incredible catalogue includes the studio albums True Romance, SUCKER, Charli, how i'm feeling now, CRASH, and BRAT.
+  - 她令人难以置信的作品包括录音室专辑《True Romance》、《SUCKER》、《Charli》、《how i'm feel now》、《CRASH》和《BRAT》。
+
+  ---
+  - These have spawned hit singles such as Boom Clap, Break The Rules, Doing It, After The Afterparty, 1999, Blame It On Your Love , Gone, Good Ones and has seen Charli collaborate with global superstars such as BTS, Lizzo, Troye Sivan and HAIM as well as future game changers such as Kim Petras, Christine and the Queens, Yaeji and Clairo.
+  - 这些作品催生了热门单曲如《Boom Clap》、《Break The Rules》、《Doing It》、《After The Afterparty》、《1999》、《Blame It On Your Love》、《Gone》、《Good Ones》，并与全球巨星如BTS、Lizzo、Troye Sivan和HAIM合作，也与未来的改变者如Kim Petras、Christine和The Queens合作。 八重治和克莱罗。
+
+---
 ### 9999. MusicCourse
 * **[AlgerMusicPlayer | music | software](https://github.com/algerkong/AlgerMusicPlayer)**
   - [music.alger.fun](http://music.alger.fun/#/)

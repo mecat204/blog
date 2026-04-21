@@ -278,7 +278,7 @@
 
 ---
 ### 0029. TheCottageFairy | 乡村读书介绍 | Bilibili
-* **[叫我阿军就好呀 | 搬运区up主，本号没有任何收益，纯为爱发电，目前在做西语、韩语、俄语、日语和英语的翻译，工程量挺大的，SO 别再](https://space.bilibili.com/36725118?spm_id_from=333.788.upinfo.head.click)**
+* **[叫我阿军就好呀 | 搬运区up主，本号没有任何收益，纯为爱发电，目前在做西语、韩语、俄语、日语和英语的翻译，工程量挺大的，SO 别再催更了。 |  Bilibili](https://space.bilibili.com/36725118?spm_id_from=333.788.upinfo.head.click)**
   - **[TheCottageFairy](https://www.bilibili.com/video/BV1SM4m167ck/?spm_id_from=333.337.search-card.all.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
 
 ---
@@ -357,7 +357,7 @@
 
 ---
 ### 0036. UrMomAshley | Bilibili
-* **[叫我阿军就好呀 | 搬运区up主，本号没有任何收益，纯为爱发电，目前在做西语、韩语、俄语、日语和英语的翻译，工程量挺大的，SO 别再](https://space.bilibili.com/36725118?spm_id_from=333.788.upinfo.head.click)**
+* **[叫我阿军就好呀 | 搬运区up主，本号没有任何收益，纯为爱发电，目前在做西语、韩语、俄语、日语和英语的翻译，工程量挺大的，SO 别再催更了。 |  Bilibili](https://space.bilibili.com/36725118?spm_id_from=333.788.upinfo.head.click)**
   - **[UrMomAshley | Youtuber: UrMomAshley](https://www.bilibili.com/video/BV1zC4y1X7HN?spm_id_from=333.788.recommend_more_video.3&trackid=web_related_0.router-related-2479604-9xr68.1773631554397.67&vd_source=19beb856dede8620770a18feaaf13ae2)**
 
 ---
@@ -365,7 +365,7 @@
 
 ---
 ### 0037. Birta Hlin | Bilibili
-* **[叫我阿军就好呀 | 搬运区up主，本号没有任何收益，纯为爱发电，目前在做西语、韩语、俄语、日语和英语的翻译，工程量挺大的，SO 别再](https://space.bilibili.com/36725118?spm_id_from=333.788.upinfo.head.click)**
+* **[叫我阿军就好呀 | 搬运区up主，本号没有任何收益，纯为爱发电，目前在做西语、韩语、俄语、日语和英语的翻译，工程量挺大的，SO 别再催更了。 |  Bilibili](https://space.bilibili.com/36725118?spm_id_from=333.788.upinfo.head.click)**
   - **[Birta Hlin | Youtuber: Birta Hlin](https://www.bilibili.com/video/BV1hH4y1M7FM?spm_id_from=333.788.recommend_more_video.2&trackid=web_related_0.router-related-2479604-dplt2.1773631706306.700&vd_source=19beb856dede8620770a18feaaf13ae2)**
 
 ---
@@ -383,6 +383,10 @@
 **Search Bilibili**
   - Youtuber: English Conversation Podcast | Search Bilibili
     * Why Your Brain FREEZES When People Speak Fast in English
+
+---
+### 0038. Caro Kowanz | Bilibili
+* **[Caro Kowanz | 一位在德国生活的英语和西班牙语教师](https://www.bilibili.com/video/BV1gN4y1v7zh/?spm_id_from=333.337.search-card.all.click)**
 
 ---
 ### 9999. 开源项目
