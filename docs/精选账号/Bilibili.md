@@ -389,6 +389,30 @@
 * **[Caro Kowanz | 一位在德国生活的英语和西班牙语教师](https://www.bilibili.com/video/BV1gN4y1v7zh/?spm_id_from=333.337.search-card.all.click)**
 
 ---
+### 0039. English Class 101 | Alisha
+* **[English Class 101 | Alisha](https://www.bilibili.com/video/BV16e411R7nT?spm_id_from=333.788.videopod.episodes&p=6)**
+
+---
+* **[English Grammar Made Easy with Alisha](https://www.bilibili.com/video/BV1SYsAe5EE6?spm_id_from=333.788.videopod.episodes&p=6)**
+
+---
+* **[Learn English LIVE with Alisha | Every Thursday](https://www.bilibili.com/video/BV137411b7Fu/?spm_id_from=333.788.recommend_more_video.0&trackid=web_related_0.router-related-2479604-5tzfh.1776877608686.356)**
+
+---
+* **[ Learn English LIVE with Alisha Every Thursday](https://www.bilibili.com/video/BV1ghsAe2Ewu/?spm_id_from=333.337.search-card.all.click)**
+
+---
+* **[Alisha保姆级教程](https://www.bilibili.com/video/BV1S7411K7K7/?spm_id_from=333.337.search-card.all.click)**
+
+---
+### 0040. Youtube英语听说
+* **[YouTube英语听说 | 大学前/专升本/四六级/考研/雅思/托福 | 67.5万 | Bilibili](https://space.bilibili.com/183751118?spm_id_from=333.788.upinfo.head.click)**
+
+  ---
+  **[迪士尼电影学英语](https://www.bilibili.com/video/BV1Rm421g7yT?spm_id_from=333.788.videopod.episodes)**
+
+
+---
 ### 9999. 开源项目
 * **[必应 | bing.com](https://cn.bing.com/)**
 
@@ -401,7 +425,7 @@
   - [buzz | zh](https://chidiwilliams.github.io/buzz/zh/docs)
 
 ---
-* **[dlpanda](https://dlpanda.com)**
+* **[dlpanda](https://www.dlpanda.com)**
 
 ---
 * **[PlayPhrase.me: Site for cinema archaeologists. | 台词搜索](https://www.playphrase.me/#/search?q=&language=en)**
