@@ -2138,6 +2138,28 @@
     - [内心丰盈者 独行也如众 | 007](https://v.douyin.com/NQomaNOTk7w/)
 
 ---
+### 0032. 尼克叔游戏英语 | Genshin Impact
+* **[尼克叔游戏英语 | 千星奇域《背单词有原神例句》| 伍佰章 | Douyin](https://v.douyin.com/KtsqY31hkFQ/)**
+
+  ---
+  **001. Genshin Impact | 千星奇域GUID: 6734 0060 303**
+    - **[我做的第一个游戏，上线原神千星奇域啦 | 001](https://v.douyin.com/-UD98eUONmM/)**
+    - **[原神千星奇域 | 002](https://v.douyin.com/WHWyHdzVwLA/)**
+
+  ---
+  **002. 玩游戏读外刊**
+    - [外网英文游戏资讯精读-尼克叔新系列全网首发 | 001](https://v.douyin.com/tbiFpWCw1sI/)
+    - [黑神话钟馗 | 002](https://v.douyin.com/SjeXl_YbvEg/)
+
+  ---
+  **003. 原神横扫四六级考研雅思**
+    - [001](https://v.douyin.com/0uevIvfbXdw/)
+    - [047](https://v.douyin.com/5PvzLKxYKbc/)
+    - [048](https://v.douyin.com/3oY4NyqUpP8/)
+    - [049](https://v.douyin.com/loR_aDJkYRM/)
+    - [054](https://v.douyin.com/S1xawoj7vi0/)
+
+---
 ### 9999. Download
 * **[dlpanda](https://www.dlpanda.com)**
 
