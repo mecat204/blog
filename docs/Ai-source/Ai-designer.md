@@ -55,6 +55,21 @@
     - [国产龙虾助手 | **百度搭子dumate** | 019](https://v.douyin.com/uPqs6PB1pu0/)
 
 ---
+### 0004. 小宇玩AI
+* **[小宇玩AI | 普通人如何用AI放大自己 用AI构建副业系统｜只讲结构不贩卖 | 五十章 | Douyin](https://v.douyin.com/k-BEcEE21Jo/)**
+
+  ---
+  **001. Ai技能入门**
+  - [没有工作流的claude，就像缺了腿。| 001](https://v.douyin.com/axMMy29zRv8/)
+  - [蒸馏、量化、MoE、RAG | 007](https://v.douyin.com/QO4rSMfSSoE/)
+  - 蒸馏 = 抄学霸作业（大模型教小模型） · 量化 = 压缩（16bit 压成 2bit，照片从 RAW 变 JPEG） · MoE = 公司 256 个员工只派 9 个干活 · RAG = 给 AI 装个外挂搜索引擎 蒸馏解决太贵，量化解决太大，MoE 解决太慢，RAG 解决太蠢。
+
+  ---
+  **002. AI新工具观察室**
+    - [AI 写代码老翻车？ 12 万人用的不是更强的模型，是这套纪律 | 001](https://v.douyin.com/6bByqGi-vPE/)
+    - [ClaudeCode | 031](https://v.douyin.com/vz-aVrNrECM/)
+
+---
 ### 9999. Download
 * **[必应 | bing.com](https://cn.bing.com/)**
 

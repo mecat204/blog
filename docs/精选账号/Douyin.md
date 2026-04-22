@@ -505,5 +505,31 @@
     - [银河系10万光年，如果让猎户座飞船飞出银河系要多久？ | 猎户座飞船 | 阿尔忒弥斯2号](https://v.douyin.com/694TmRvwbTY/)
 
 ---
+* **[乔子 | 二次元🔥小书虫📖| Douyin | 伍佰章 | Douyin](https://v.douyin.com/npclPZkTUY0/)**
+
+  ---
+  **001. 诡秘之主**
+    - [创作灵感-诡秘之主 | 001](https://v.douyin.com/SdVwyLho0yk/)
+    - [002](https://v.douyin.com/LticQu-QOaw/)
+
+  ---
+  **002. 剑来**
+    - [001](https://v.douyin.com/vdWZEMMsV_w/)
+    - [025](https://v.douyin.com/uQS6fl6_AJo/)
+
+  ---
+  **003. 凡人修仙传**
+    - [001](https://v.douyin.com/jXePTSJ1lL4/)
+    - [022](https://v.douyin.com/VvnWFkRbZ8o/)
+
+  ---
+  **004. 日月同错**
+    - [001](https://v.douyin.com/bMBk866IUl4/)
+    - [013](https://v.douyin.com/RZH_Ywhj4pE/)
+
+---
 ### 9999. Download
 * **[Download TikTok Videos Without Watermark | Free HD Video &amp; Photo Downloader - DLPanda.com](https://www.dlpanda.com/)**
+
+---
+![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)

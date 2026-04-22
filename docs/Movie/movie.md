@@ -883,6 +883,19 @@
 * **[新白娘子传奇 | Quark](https://pan.quark.cn/s/0491cb23e09f#/list/share)**
 
 ---
+* **[千朵桃花一世开 | 孙珍妮 张彬彬](https://pan.quark.cn/s/0bee3e40e65b#/list/share)**
+  - 宿命轮回
+
+---
+* **[长月烬明 | 白鹿 ](https://pan.quark.cn/s/530779bddc51#/list/share)**
+
+---
+* **[白月梵星 | 白鹿 熬瑞鹏](https://pan.quark.cn/s/23f16da392f9#/list/share)**
+
+---
+* **[月鳞绮纪 | 鞠婧祎 曾舜晞 陈都灵](https://www.4kvm.net/play/ch43cs5ab)**
+
+---
 * **[仙剑四 | 4kvm.net](https://www.4kvm.net/seasons/xjs)**
 
 ---
@@ -967,6 +980,11 @@
     - [唯有在爱与责任中学会成长，幸福才会真正稳固而长久。 **爱玛** | 001](https://v.douyin.com/wRIWO6FMom4/)
     - [爱，是摒弃傲慢与偏见之后的曙光。**傲慢与偏见** | 005](https://v.douyin.com/mA_8IKEG5iE/)
     - [不折不扣的传奇：**彼得兔的作者波特小姐** | 012](https://v.douyin.com/GeF8h4TUoxA/)
+
+---
+### 0031. 伦帝电影说
+* **[伦帝电影说 | 看一部电影 走一遍人生 | 叁仟章 | Douyin](https://v.douyin.com/E2J8e4swHkA/)**
+  - [印度影史第一神作](https://v.douyin.com/a2A1kD_ocVY/)
 
 ---
 ### 9999. Download
