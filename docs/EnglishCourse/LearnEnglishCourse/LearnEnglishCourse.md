@@ -2094,6 +2094,50 @@
     - [蜡笔小新精分配音](https://v.douyin.com/qEB29-9OXGc/)
 
 ---
+### 0030. Journey Alone 一个人的旅行 | Books
+* **[Journey Alone 一个人的旅行 ](https://v.douyin.com/o5bRx_amFOo/)**
+
+  ---
+  **001. 读书变现Read More 读更多**
+    - **[原子习惯 Atomic Habits | 001](https://v.douyin.com/W9wl5_KVQRg/)**
+    - **[Secrets Millionair Mind · T.Harv Eker | THINK GROW RICH  · NAPOLEN HILL | A happy pocket Full of MONRY · DAVID CANRIN GIKANDI | 006](https://v.douyin.com/VN0iplqm1x0/)**
+
+  ---
+  **002. 挑战百万富翁系列**
+    - [1美元到“1后面21个零”…这是什么概念 | 001](https://v.douyin.com/-y716cTaL2o/)
+    - [搬过去给钱 如果一个国家愿意给你钱，你会考虑搬过去吗 | 043](https://v.douyin.com/EUwXeWVas9s/)
+
+  ---
+  **003. Dan Martell**
+    - [最容易毁掉成交的"口头禅" | 001](https://v.douyin.com/tZGkENt8IcU/)
+    - [想让生意增长，你需要一个系统 | 008](https://v.douyin.com/Pb4E1ySnEg4/)
+
+  ---
+  **004. 环球见闻志GeoGlobeTales**
+    - [27年走完全球 **Karl Bushby 卡尔·布什比** | 001](https://v.douyin.com/9kcfgCVqKCE/)
+
+  ---
+  **005. AI Claude编程**
+    - [How to use Claude 10x better How to use Claude 10x better  | 如何能更好地使用Claude | 001](https://v.douyin.com/uLvCLXYUxVM/)
+    - [深度研究工具。 如果你还在普通搜索，那你可能没用对AI。Claude | 011](https://v.douyin.com/LB1utRIDz7A/)
+
+---
+### 0031. 让柠檬更酸，让苹果更甜
+* **[让柠檬更酸，让苹果更甜 | 重拾英语，开启英语成长之路～ 🌻莫道桑榆晚，为霞尚满天 | 佰章 | Douyin](https://v.douyin.com/9JQSyeWeHrc/)**
+  - [**Never give up** | 永不言弃](https://v.douyin.com/0CoENzDYnz4/)
+  - [音标教学](https://v.douyin.com/IcKEzY1HY4M/)
+
+  ---
+  **001. inmyfeeling**
+    - [**有些东西必须放弃，才会迎来新生** | 001](https://v.douyin.com/IU4KR366me8/)
+    - [**人生就是一场马拉松，不在于跑多快，而在于跑多久** | 086](https://v.douyin.com/yPnnig7C8tM/)
+
+  ---
+  **002. G·E·M | 邓紫棋**
+    - [活在别人眼里，就会死在别人嘴里 | **邓紫棋** | 001](https://v.douyin.com/sDMVbMYi4zo/)
+    - [内心丰盈者 独行也如众 | 007](https://v.douyin.com/NQomaNOTk7w/)
+
+---
 ### 9999. Download
 * **[dlpanda](https://www.dlpanda.com)**
 
