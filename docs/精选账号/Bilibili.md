@@ -412,6 +412,20 @@
   **001. 迪士尼电影学英语**
     - **[迪士尼电影学英语](https://www.bilibili.com/video/BV1Rm421g7yT?spm_id_from=333.788.videopod.episodes)**
 
+---
+### 0041. bwaap | GenshinImpact
+* **[InverseZZ | 心若在，梦就在 | 粉丝数9204](https://space.bilibili.com/9429196/lists/1091065?type=series)**
+
+  ---
+  **Bwaap | GenshinImpact**
+  - **[So I played the last archon mission](https://www.bilibili.com/video/BV1Fy4y167op/?spm_id_from=333.337.search-card.all.click)**
+
+---
+  **MurderofBirds Impact**
+    - [MurderofBirds「折枝落梦」](https://www.bilibili.com/video/BV1Ht4y1N7Dg/?spm_id_from=333.1387.homepage.video_card.click)
+
+---
+* **[MurderofBirds Impact](https://www.youtube.com/c/MurderofBirdsImpact)**
 
 ---
 ### 9999. 开源项目
