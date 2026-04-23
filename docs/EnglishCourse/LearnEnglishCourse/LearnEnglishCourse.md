@@ -1811,7 +1811,7 @@
 ---
 * **[Erin姜姜来 | 27fall 国际生 intj + 大白羊 | Email: erinjiangmuxuan@outlook.com](https://v.douyin.com/Tx6dyFgb0_M/)**
   - [允许自己不完美](https://v.douyin.com/xT1kOy5BQ84/)
-  - [每天15分钟 | English Exercise](https://v.douyin.com/RNHCBSpxCm0/ 复制此链接，打开Dou音搜索，直接观看视频！)
+  - [每天15分钟 | English Exercise](https://v.douyin.com/RNHCBSpxCm0/)
 
 ---
 ### 0016. 英语启蒙动画
