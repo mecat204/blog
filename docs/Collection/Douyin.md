@@ -43,19 +43,6 @@
   - [大慈树王](https://v.douyin.com/GddLMUDhdAs/)
   - [璃月](https://v.douyin.com/b20-X9kTXAU/)
 
-
-
----
-* **[Ferrari](https://v.douyin.com/Xd6kRRlTfjA/)**
-* [流星的旅人](https://v.douyin.com/1bHkm2PXzhs/)
-* [小星不摄摄](https://v.douyin.com/VD8bVNNwccU/)
-* 陈皮C
-  - [瓦雷莎](https://v.douyin.com/NoDZRA2gj5A/)
-* huhusama
-  - [希诺宁](https://v.douyin.com/hncmoFw1TSs/)
-* 阳木
-  - [娜维亚·整活](https://v.douyin.com/yAIYsEKDiLE/)
-
 ---
 * **[流星的旅人](https://v.douyin.com/vAiqepcaEHM/)**
   - [六神](https://v.douyin.com/neRuBfAQkFw/)

@@ -428,6 +428,14 @@
 * **[MurderofBirds Impact](https://www.youtube.com/c/MurderofBirdsImpact)**
 
 ---
+### 0042. YouTube英语课堂
+* **[YouTube英语课堂| 11.4万](https://space.bilibili.com/3493120649989094?spm_id_from=333.1387.follow.user_card.click)**
+
+---
+### 0043. Youtube口语精选
+* **[YouTube口语精选 | 567万](https://space.bilibili.com/454755309)**
+
+---
 ### 9999. 开源项目
 * **[必应 | bing.com](https://cn.bing.com/)**
 

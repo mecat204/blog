@@ -509,6 +509,12 @@
     - [残差网络：当深度学习撞上天花板，他在网络里画了一道捷径 2013年，多伦多大学。| 016](https://v.douyin.com/BD-TpBX-Yc0/)
 
 ---
+### 0017. Ferrari | Ai-video
+* **[Ferrari | 搞些AI视频 | 五十章 | Douyin](https://v.douyin.com/Xd6kRRlTfjA/)**
+  - **[蒙德：高清重置](https://v.douyin.com/Eo7KSZVQRfM/)**
+  - **[原神：高清重置—5周年](https://v.douyin.com/kbBTsPzkGdc/)**
+
+---
 ### 9999. Download
 * **[必应 | bing.com](https://cn.bing.com/)**
 
