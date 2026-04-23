@@ -432,6 +432,20 @@
   - [ARLECCHINO ANIMATED SHORT REACTION - Ft. Lumine's English Voice Actor (Sarah Miller-Crews)| 阿尔勒奇诺动画短片 - 荧堡英文配音演员（莎拉·米勒-克鲁斯）](https://www.youtube.com/watch?v=G-tGCFrIb-Y)
   - [Summertide Scales and Tales! Lumine's English Voice Actor Plays Genshin Impact (Full Stream) | 夏潮天文与故事！荧的英文配音演员在《原神》中亮相（完整直播）](https://www.youtube.com/watch?v=YXBcLwqdb8M)
 
+---
+### 0007. bwaap | GenshinImpact | Bilibili
+* **[InverseZZ | 心若在，梦就在 | 粉丝数9204](https://space.bilibili.com/9429196/lists/1091065?type=series)**
+
+  ---
+  **Bwaap | GenshinImpact**
+  - **[So I played the last archon mission](https://www.bilibili.com/video/BV1Fy4y167op/?spm_id_from=333.337.search-card.all.click)**
+
+---
+  **MurderofBirds Impact**
+    - [MurderofBirds「折枝落梦」](https://www.bilibili.com/video/BV1Ht4y1N7Dg/?spm_id_from=333.1387.homepage.video_card.click)
+
+---
+* **[MurderofBirds Impact](https://www.youtube.com/c/MurderofBirdsImpact)**
 
 ---
 ### 9999. Download
