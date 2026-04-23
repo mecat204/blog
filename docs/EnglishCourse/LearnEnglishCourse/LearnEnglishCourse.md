@@ -1809,6 +1809,11 @@
   - [可抄作业｜我的春季英文书单](https://v.douyin.com/4j_AyhrL4AA/)
 
 ---
+* **[Erin姜姜来 | 27fall 国际生 intj + 大白羊 | Email: erinjiangmuxuan@outlook.com](https://v.douyin.com/Tx6dyFgb0_M/)**
+  - [允许自己不完美](https://v.douyin.com/xT1kOy5BQ84/)
+  - [每天15分钟 | English Exercise](https://v.douyin.com/RNHCBSpxCm0/ 复制此链接，打开Dou音搜索，直接观看视频！)
+
+---
 ### 0016. 英语启蒙动画
 * **[快乐学英语 | 英语启蒙动画 | 听先行，读相伴🍀 持续更新原创少儿英语启蒙动画 | 百章 | Douyin](https://v.douyin.com/HhWVTPYMkuw/)**
   - [学会拒绝的小象](https://v.douyin.com/hDeQbrUmUxI/)
@@ -2138,7 +2143,95 @@
     - [内心丰盈者 独行也如众 | 007](https://v.douyin.com/NQomaNOTk7w/)
 
 ---
-### 0032. 尼克叔游戏英语 | Genshin Impact
+### 0032. Genshin Impact | 跟着原神学英语
+**米哈游就该搞一个双语版的，支持世界网友学习中文，支持中国网友学习英文，打通美服和国服。加入Ai,支持人物Ai-NPC互相交流.打造一个真正的原神世界。**
+
+* **[永不认输的璃月人 | 原神佛系玩家，体验100种小游戏ing | 二百章 | Douyin](https://v.douyin.com/gwdtS6JSHz8/)**
+
+  ---
+  **001. 跟着胡桃学英语**
+    - [跟着胡桃学英语-初次见面 | 001](https://v.douyin.com/AqYLmm1jqg0/)
+    - [跟着胡桃学英语-闲聊·偷懒 | 004](https://v.douyin.com/MG-mycVBf9k/)
+
+  ---
+  **002. 荣花与炎日之途**
+    - [第五章第一幕 荣花与炎日之途1 | 001](https://v.douyin.com/9qx08yEkbQA/)
+    - [第五章第一幕 荣花与炎日之途1 | 009](https://v.douyin.com/XuvpnUPYSsg/)
+
+  ---
+  **003. 跟着马拉妮学英语**
+    - [跟着玛拉妮学英语-初次见面 | 001](https://v.douyin.com/5om916TrOOY/)
+    - [跟着玛拉妮学英语-闲聊·逐浪 | 002](https://v.douyin.com/0TCGkUrqzks/)
+
+  ---
+  **004. 跟着散兵学英语**
+    - [跟着散兵学英语-初次见面 | 001](https://v.douyin.com/pakgZA-pxjQ/)
+    - [跟着散兵学英语-早上好 | 010](https://v.douyin.com/pMQ8SaHPl08/)
+
+  ---
+  **005. 跟着凝光学习英语**
+    - [跟着凝光学英语-闲聊·古玩 | 001](https://v.douyin.com/vJAJI2BwF6Q/)
+    - [跟着凝光学英语-下雪的时候 | 005](https://v.douyin.com/3CpNKozahbQ/)
+
+  ---
+  **006. 跟着万叶学英语**
+    - [跟着万叶学英语-初次见面 | 001](https://v.douyin.com/mtjHakV8RXI/)
+    - [跟着万叶学英语-关于我们·出海 | 014](https://v.douyin.com/l45fg0Zmblw/)
+
+  ---
+  **007. 跟着那位莱特学英语**
+    - [跟着那维莱特学英语-初次见面 | 001](https://v.douyin.com/NmMp3D86Lpw/)
+    - [跟着那维莱特学英语-阳光很好… | 008](https://v.douyin.com/y_X1Od-W2Zk/)
+
+  ---
+  **008. 跟着魈宝学英语**
+    - [跟着魈宝学英语-下雨的时候… | 001](https://v.douyin.com/91eNdnix2Lc/)
+    - [跟着魈宝学英语-关于魈自己·非人 | 014](https://v.douyin.com/A148GqXCX1M/)
+
+  ---
+  **009. 跟着原神主线学英语**
+    - [跟着原神主线学英语-开场 | 001](https://v.douyin.com/tNf4kiE0CGw/)
+    - [跟着原神主线学英语-为了背色的身影 | 030](https://v.douyin.com/1cig1tRYVxA/)
+
+  ---
+  **010. 跟着芙宁娜学英语**
+    - [跟着芙芙学英语-初次见面 | 001](https://v.douyin.com/PGT-98Ya_Po/)
+    - [跟着芙芙学英语-关于我们·同行](https://v.douyin.com/pExxmtTHtCQ/)
+
+  ---
+  **011. 跟着巴巴托斯学英语**
+    - [跟着巴巴托斯学英语-想要了解温迪 其五 | 001](https://v.douyin.com/MzOOy_Jw9Jw/)
+    - [跟着巴巴托斯学英语-下雪的时候 | 013](https://v.douyin.com/QtxltynvODA/)
+
+  ---
+  **012. 跟着雷神将军学英语**
+    - [跟着雷电将军学英语-有什么想要分享 | 001](https://v.douyin.com/caAUqvMb6EY/)
+    - [跟着雷电将军学英语-想要了解影·其四 | 021](https://v.douyin.com/mF3f7j_Qyl0/)
+
+  ---
+  **013. 跟着闲云学英语**
+    - [跟着那个女人学英语-闲聊·趣闻 | 001](https://v.douyin.com/bRGNMyJ8c54/)
+    - [跟着那个女人学英语-闲聊·趣闻 | 003](https://v.douyin.com/4ZLh5rMEFCw/)
+
+  ---
+  **014. 跟着小草神学英语**
+    - [跟着小草神学英语-闲聊·感受 | 001](https://v.douyin.com/OMTAyQ1k3q8/)
+    - [跟着纳西妲学英语-初次见面 | 004](https://v.douyin.com/MgHaMqn6-_4/)
+
+  ---
+  **015. 神里凌华带你学英语**
+    - [跟着神里绫华学英语-初次见面 | 001](https://v.douyin.com/67QVUTjD9Q4/)
+    - [跟着神里绫华学英语-早上好 | 012](https://v.douyin.com/9_v_mzdwsXI/)
+
+---
+* **[JustinEnglish | 欢迎 这个频道有着不一样的英语趣味教学 | 佰章 | Douyin](https://v.douyin.com/LKTZH1pGDvE/)**
+
+  ---
+  **001. 原神英语 启动**
+    - [如何通过二次元游戏学英语 | 001](https://v.douyin.com/g014VBsIffM/)
+    - [当英语老师开始用原神教英语 | 006](https://v.douyin.com/TIOPFuVP7-c/)
+
+---
 * **[尼克叔游戏英语 | 千星奇域《背单词有原神例句》| 伍佰章 | Douyin](https://v.douyin.com/KtsqY31hkFQ/)**
 
   ---
@@ -2158,6 +2251,29 @@
     - [048](https://v.douyin.com/3oY4NyqUpP8/)
     - [049](https://v.douyin.com/loR_aDJkYRM/)
     - [054](https://v.douyin.com/S1xawoj7vi0/)
+
+---
+* **[游戏英语爱好者 | 语言爱好者，学游戏，玩英语。| 貳佰章](https://v.douyin.com/S6Pk65RL4BU/)**
+
+---
+### 0033. 江湖英语 | AI生成
+* **[johnhuu江湖英语 | 佰章](https://v.douyin.com/psE-P_BZIPQ/)**
+  - [You can't make ten million in your lifetime on a cop's salary.](https://v.douyin.com/Q8YQsXpYq10/)
+  - [Smoking Aces | 最难英文翻译：五支烟](https://v.douyin.com/-TozHwC_KwI/)
+
+---
+### 0034. 简搜
+* **[Mia喜欢学英语 | 努力的英语老师， 街头采访可私信 | 佰章 | Douyin](https://v.douyin.com/Ep9nFp1ARj0/)**
+
+  ---
+  **001. 英文采访系列**
+    - [烤肠 excuse me | 001](https://v.douyin.com/wIrjiO9zAC8/)
+    - [街头采访 | 020](https://v.douyin.com/QBAAbUECyl0/)
+
+  ---
+  **002. solo系列**
+    - [pokerface | 001](https://v.douyin.com/IZwgkgKYhWY/)
+    - [命里有时终须有，命里无时莫强求 | 036](https://v.douyin.com/SNmX95H8nAQ/)
 
 ---
 ### 9999. Download

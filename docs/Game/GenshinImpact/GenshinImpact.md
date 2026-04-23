@@ -362,6 +362,30 @@
     - [当英语老师开始用原神教英语 | 006](https://v.douyin.com/TIOPFuVP7-c/)
 
 ---
+* **[尼克叔游戏英语 | 千星奇域《背单词有原神例句》| 伍佰章 | Douyin](https://v.douyin.com/KtsqY31hkFQ/)**
+
+  ---
+  **001. Genshin Impact | 千星奇域GUID: 6734 0060 303**
+    - **[我做的第一个游戏，上线原神千星奇域啦 | 001](https://v.douyin.com/-UD98eUONmM/)**
+    - **[原神千星奇域 | 002](https://v.douyin.com/WHWyHdzVwLA/)**
+
+  ---
+  **002. 玩游戏读外刊**
+    - [外网英文游戏资讯精读-尼克叔新系列全网首发 | 001](https://v.douyin.com/tbiFpWCw1sI/)
+    - [黑神话钟馗 | 002](https://v.douyin.com/SjeXl_YbvEg/)
+
+  ---
+  **003. 原神横扫四六级考研雅思**
+    - [001](https://v.douyin.com/0uevIvfbXdw/)
+    - [047](https://v.douyin.com/5PvzLKxYKbc/)
+    - [048](https://v.douyin.com/3oY4NyqUpP8/)
+    - [049](https://v.douyin.com/loR_aDJkYRM/)
+    - [054](https://v.douyin.com/S1xawoj7vi0/)
+
+---
+* **[游戏英语爱好者 | 语言爱好者，学游戏，玩英语。| 貳佰章](https://v.douyin.com/S6Pk65RL4BU/)**
+
+---
 ### 0005. miHAYO | GenshinImpact
 * Anuneko 米哈游AI软件 Github Search
 * **[World peace | 世界和平🕊️](https://v.douyin.com/TeSHYpQ3s0I/)**
