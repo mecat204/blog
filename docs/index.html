@@ -54,13 +54,13 @@
     function (hook) {
       hook.afterEach(function (html) {
         return html
+          // 普通文本
           .replace(/\[([^\]]+)\]\{r\}/g, '<span class="root">$1</span>')
           .replace(/\[([^\]]+)\]\{s\}/g, '<span class="suffix">$1</span>')
-          .replace(/\[([^\]]+)\]\{p\}/g, '<span class="prefix">$1</span>');
+          .replace(/\[([^\]]+)\]\{p\}/g, '<span class="prefix">$1</span>')
       });
     }
   );
-</script>
-</script>
+  </script>
 </body>
 </html>
