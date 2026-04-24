@@ -448,7 +448,7 @@
 
 ---
 ### 0046. peerlieee
-* **[Omen-- | So choose your struggles wisely, my friend. "所以，我的朋友，要明智地选择你的挣扎"](https://space.bilibili.com/60264041?spm_id_from=333.788.upinfo.head.click)**
+* **[Omen-- | So choose your struggles wisely, my friend. "所以，我的朋友，要明智地选择你的挣扎" | 2.3万](https://space.bilibili.com/60264041?spm_id_from=333.788.upinfo.head.click)**
   - **[You Don’t Want Love—You Want to Be Picked So You Feel Worthy | 你想要的不是爱——你想要被选中，这样你才会觉得自己有价值](https://www.bilibili.com/video/BV1iuZrYcEqU/?spm_id_from=333.337.search-card.all.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
 
 ---
@@ -458,9 +458,24 @@
 
 ---
 ### 0048. Tam Kaur
-* **[云是甜de吖 | 用爱发电 v：nlzqyxmm | 2.6万]()**
-  - **[Tam Kaur | 年中重置，六个月让2025成为最好的一年](https://www.bilibili.com/video/BV1SGgyzEEb2/?spm_id_from=333.337.search-card.all.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
+* **[云是甜de吖 | 用爱发电 v：nlzqyxmm | 2.6万](https://space.bilibili.com/320463781?spm_id_from=333.788.upinfo.head.click)**
+  - **[Tam Kaur | 年中重置，六个月让2025成为最好的一年](https://www.bilibili.com/video/BV1gV4113763/?spm_id_from=333.1387.0.0)**
 
+---
+### 0049. 头号个体
+* **[头号个体 | 关注大脑与思考、AI与科技，助力超级个体成长。甄选富有长期价值的视频，提供中文配音，方便您反复收听、收看。| 8094](https://space.bilibili.com/3546983010666913)**
+  - [黄仁勋：英伟达的竞争优势能持续下去吗](https://www.bilibili.com/video/BV1F9dRBcE5K/?spm_id_from=333.337.search-card.all.click)
+  - [英配](https://www.bilibili.com/video/BV1F9dRBcE5K?spm_id_from=333.788.videopod.sections&p=2)
+
+---
+### 0050. 一摩尔炸鸡翅
+* **[一摩尔炸鸡翅 | 杜曲梨花杯上雪，灞陵芳草梦中烟。不要关注我，只是刷到啥自动转到b站方便摸鱼看，功和过都是 AI 的 | 6.0万](https://space.bilibili.com/34842921?spm_id_from=333.337.search-card.all.click)**
+  - **[野草云云服务器](https://www.yecaoyun.com/)**
+
+---
+### 0051. KrillinAI小林
+* **[KrillinAI小林 | 12.4万](https://space.bilibili.com/242124650?spm_id_from=333.788.upinfo.detail.click)**
+  - **[AIGC](https://www.bilibili.com/video/BV1vgQ1YsEZk/?spm_id_from=333.1387.collection.video_card.click)**
 
 ---
 ### 9999. 开源项目

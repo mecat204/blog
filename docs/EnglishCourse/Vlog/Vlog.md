@@ -2595,9 +2595,14 @@
   ---
   - We are here, obsessed every single day, on how to make your life better.
   - 我们每天都在这里，痴迷于如何让你的生活变得更好。
+
+---
+* **[Dwarkesh Patel | 128万 | Youtube](https://www.youtube.com/@DwarkeshPatel/videos)**
+  - **[Jensen Huang – Will Nvidia’s moat persist | 黄仁森——英伟达的护城河会持续](https://www.youtube.com/watch?v=Hrbq66XqtCo)**
+
 ---
 ### 9999. Download
-* **[dlpanda](https://dlpanda.com)**
+* **[dlpanda](https://www.dlpanda.com)**
 
 ---
 * **English Rource**
