@@ -337,6 +337,7 @@
   - [青裙倚白马，曦光漫林梢 梅凝水墨风动态壁纸](https://v.douyin.com/M7MvzzX3824/)
   - [这些场景，是否曾在你的梦境中出现](https://v.douyin.com/fVJFcrNcPgw/)
 
+  **LUOYU AI | Seedance2.0 Painting**
   ---
   **001. 凡人修仙传静态图文壁纸**
     - [即梦5.0极致画质下的凡人中登们 | 001](https://v.douyin.com/TyRAX6NpNXM/)
@@ -369,7 +370,8 @@
     - [凡人女修4k壁纸合集 | 001](https://v.douyin.com/Ipq2Ds6UTPE/)
     - [将凡人世界重启色彩 | 079](https://v.douyin.com/MJnlKusnYx8/)
     - [将凡人世界重启色彩第二期 | 080](https://v.douyin.com/8wiMqFq0Rww/)
-    - [梅凝4K横版循环动态壁纸 | 086](https://v.douyin.com/Hs6HvlFZMAU/)
+    - **[梅凝4K横版循环动态壁纸 | 086](https://v.douyin.com/Hs6HvlFZMAU/)**
+    - **[紫灵竖屏壁纸](https://v.douyin.com/Hs6HvlFZMAU/)**
 
   ---
   **006. 凡人修仙传Ai手办合集**

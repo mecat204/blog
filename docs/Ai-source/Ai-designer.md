@@ -69,6 +69,15 @@
     - [AI 写代码老翻车？ 12 万人用的不是更强的模型，是这套纪律 | 001](https://v.douyin.com/6bByqGi-vPE/)
     - [ClaudeCode | 031](https://v.douyin.com/vz-aVrNrECM/)
 
+### 0005. 反思者
+* **[AI这样发展下去，普通人真的仅仅是失业这么简单吗 | 刘雯：九华黄精8年高货溯源](https://v.douyin.com/3Yn7oi7XglM/)**
+
+---
+### 0006. 孙嘉星
+* **[孙嘉星 | 奇点将至，未来已来！ 讨论最前沿科技资讯， 探索AI时代下的 | 伍拾章 | Douyin](https://v.douyin.com/VvQ8b0b2FIU/)**
+  - [030年或将只剩下5种工作，专注研究AI安全领域的罗曼·扬波尔斯基博士在最近的访谈中提到：AI界的军备竞赛已经开始，没有资本愿意率先让步！对权利的渴望贪婪将成为我们的噩梦。](https://v.douyin.com/tF0Zt9Q24-g/)
+  - [这才是孩子该上的AI启蒙课 Google联合斯坦福大学给全球中小学生做了一款免费AI启蒙游戏，名为AI Quests可以锻炼孩子决策思维，以及如何正确使用AI并下达指令。| **AI Quests**](https://v.douyin.com/MOEkZp8X_g8/)
+
 ---
 ### 9999. Download
 * **[必应 | bing.com](https://cn.bing.com/)**

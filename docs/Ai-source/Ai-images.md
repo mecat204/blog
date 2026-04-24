@@ -33,6 +33,7 @@
   - [青裙倚白马，曦光漫林梢 梅凝水墨风动态壁纸](https://v.douyin.com/M7MvzzX3824/)
   - [这些场景，是否曾在你的梦境中出现](https://v.douyin.com/fVJFcrNcPgw/)
 
+  **LUOYU AI | Seedance2.0 Painting**
   ---
   **001. 凡人修仙传静态图文壁纸**
     - [即梦5.0极致画质下的凡人中登们 | 001](https://v.douyin.com/TyRAX6NpNXM/)
@@ -74,6 +75,7 @@
 
 ### 0003. 小婷婷
 * **[原神 | 雷电将军 | 玛薇卡 | 纳西妲 | 300章](https://v.douyin.com/n2GN6zWIX_Y/)**
+
 
 ---
 ### 9999. Download

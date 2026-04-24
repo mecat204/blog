@@ -1183,6 +1183,7 @@
   ---
   - [8 TINY Habits to Become Financially Literate In 2026](https://www.youtube.com/watch?v=uXTREehuNFU)
 
+---
 * **[Bg2 Pod | 9.93万 | Youtube](https://www.youtube.com/@Bg2Pod)**
   - Open Source bi-weekly convo w @altcap & @bgurley on all things tech, markets, investing & capitalism
   - 开源双周一次的对话，内容涵盖科技、市场、投资与资本主义@altcap与@bgurley
@@ -2532,6 +2533,68 @@
   - Working class kid who spends her days fighting for better days. | 一个工人阶级的孩子，整天为更好的日子而战。
   - [China Is the Global It-Girl Now | 中国现在是全球的"潮人"](https://www.youtube.com/watch?v=hAM3QABIGFQ)
 
+---
+### 0019. Youtube && Bilibili
+* **[Caro Kowanz | 414万 | Youtube](https://www.youtube.com/@carokowanzenglish/shorts)**
+  - **[1 Hour of English conversations](http://youtube.com/watch?v=JEE6s4RyaX8)**
+
+---
+* **[inayah | 30.1万 | Youtube](https://www.youtube.com/@inayah0/videos)**
+
+---
+* **[Nischa | 216万 | Youtube](https://www.youtube.com/@nischa/videos)**
+  - I’m a former Investment Banker (with an accountancy qualification) and on this channel we explore all things personal finance, self development and business.
+  - 我曾是一名投资银行家（拥有会计学资格），在这个频道中我们探讨所有关于个人理财、自我发展和商业的话题。
+
+---
+* **[pearlieee | 60.8万 | Youtube](https://www.youtube.com/@pearlieee/videos)**
+  - Hi, I'm Pearlieee!
+  - 嗨，我是Pearlieee！
+
+  ---
+  - I’m a wild bird and a passionate babe.
+  - 我是一只野鸟，也是个充满激情的美女。
+
+  ---
+  - This is a space for thinkers, feelers, and anyone brave enough to become.
+  - 这是一个为思考者、感受者以及任何勇敢成为思考者的空间。
+
+  ---
+  - Expect magic, nuance, chaos… and loving bluntness x
+  - 期待魔法、细腻、混乱......还有充满爱意的直率 x
+
+---
+* **[BigDeal by Codie Sanchez | 55.9万 | Youtube](https://www.youtube.com/@PodcastBigDeal/videos)**
+  - 71% of you beautiful people aren’t subscribed -- please double check you're subbed, we are here to help you!
+  - 71%的美丽人士没有订阅——请再次确认你已订阅，我们随时准备帮助你！
+
+  ---
+  - All signal.
+  - 所有信号。
+
+  ---
+  - No noise.
+  - 没有声音。
+
+  ---
+  - This channel is about helping you grow and win in life.
+  - 这个频道旨在帮助你成长和赢得人生。
+
+  ---
+  - My plan is to bring you a no-nonsense playbook real builders use to build wealth, understand the world, create movements, and change your life.
+  - 我的计划是为你带来一套真实建筑师用来积累财富、理解世界、创造运动并改变生活的关键实用手册。
+
+  ---
+  - BigDeal by Codie Sanchez explores the real stories and hard-won lessons of entrepreneurs, builders, and creators.
+  - Codie Sanchez的《BigDeal》探讨了企业家、建设者和创作者的真实故事和艰难获得的教训。
+
+  ---
+  - A founder and CEO herself, host Codie Sanchez draws on her experience as an investor, award-winning journalist and best-selling author to lead conversations that celebrate the highs and humanize the lows of the builder’s journey.
+  - 作为创始人兼首席执行官，主持人科迪·桑切斯凭借她作为投资者、获奖记者和畅销书作家的经验，引领对话，庆祝建设者旅程中的高峰，同时展现人性化的低谷。
+
+  ---
+  - We are here, obsessed every single day, on how to make your life better.
+  - 我们每天都在这里，痴迷于如何让你的生活变得更好。
 ---
 ### 9999. Download
 * **[dlpanda](https://dlpanda.com)**
