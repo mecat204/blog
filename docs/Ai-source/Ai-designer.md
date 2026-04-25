@@ -101,7 +101,8 @@
   ---
   **001. 马斯克最新访谈精选**
     - [马斯克最新访谈认为2026年人类社会将被彻底重启，奇点已至 | 001](https://v.douyin.com/pQPTUauw9Ik/)
-    - [前谷歌高管死谏！二零二九年人类将沦为“猩猩” | 085](https://v.douyin.com/8lQFNvinDAE/)
+    - [前谷歌高管死谏！二零二九年人类将沦为"猩猩" | 085](https://v.douyin.com/8lQFNvinDAE/)
+    - [美国政客联手"强行断电"AI机房？你的电费正被硅谷巨头疯狂吸 | 82](https://v.douyin.com/GQPlCW5Q-Tc/)
     - [Ai影视解说自动生成工具，解说猫SmartAutoCut漫剪 | 105](https://v.douyin.com/g4d1cPtlHtA/)
 
 ---
