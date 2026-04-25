@@ -28,6 +28,8 @@
 
 ---
 ### 0002. Designer | 杨竹筠
+**[杨竹筠]{p}**
+
 * **[杨竹筠 | 前清华出版社数字运营总监 | 高教社生医数字分社长 | 国家级MOOC平台核心设计者 | 17年教育科技老兵 | G信部人工智能工程师 | 专注AI商业落地 | 伍佰章 | Douyin](https://v.douyin.com/yhKJneLkEIs/)**
 
   ---
@@ -74,9 +76,33 @@
 
 ---
 ### 0006. 孙嘉星
+**[孙嘉星]{s}**
+
 * **[孙嘉星 | 奇点将至，未来已来！ 讨论最前沿科技资讯， 探索AI时代下的 | 伍拾章 | Douyin](https://v.douyin.com/VvQ8b0b2FIU/)**
   - [030年或将只剩下5种工作，专注研究AI安全领域的罗曼·扬波尔斯基博士在最近的访谈中提到：AI界的军备竞赛已经开始，没有资本愿意率先让步！对权利的渴望贪婪将成为我们的噩梦。](https://v.douyin.com/tF0Zt9Q24-g/)
   - [这才是孩子该上的AI启蒙课 Google联合斯坦福大学给全球中小学生做了一款免费AI启蒙游戏，名为AI Quests可以锻炼孩子决策思维，以及如何正确使用AI并下达指令。| **AI Quests**](https://v.douyin.com/MOEkZp8X_g8/)
+
+---
+### 0007. Xuan酱
+**[Xuan酱]{p}**
+
+* **[Xuan酱 | 沉迷AI，无法自拔 | 贰佰章](https://v.douyin.com/TvtJ5k3PGQQ/)**
+  - [百万AI博主招人，待遇好，远程+旅居办。我是Xuan酱 全网已经累积了100万+粉丝啦！ 长期招文案，剪辑，也欢迎在校生来实习，表现好的欢迎转正哦 目前团队全远程办公，不定期旅居办公 团队2025年9月份已经旅居过大理 2026年1月旅居拉萨正在进行中 大家旅居的反馈都很好](https://v.douyin.com/mKXVd_HidAY/)
+  - [和总统合影！最强AI生图Banana玩法大全！太炸裂了.. 神秘的Nano Banana AI 生图模型玩法大全 超强的人物一致性，多图融合 平面转3D，多模态生图](https://v.douyin.com/T-6YkvegIMA/)
+  - [挤干水分，真正好用的12个AI工具是这些... 盘点了2025年各个类别里最强的最好用的AI工具，总共11个类目，超过20款工具 包括AI视频，图片，音乐，做PPT，大语言模型，编程等等 每个类目我都会给出最推荐的工具](https://v.douyin.com/DA1t9gQPjUc/)
+  - **[gpt-Image-2](https://v.douyin.com/k8hfS17kpKE/)**
+
+---
+### 0008. Ai 风向标
+**[Ai 风向标]{s}**
+<!-- * **[n]{r}[a]{s}[m]{p}[e]{s}** -->
+* **[Ai风向标 | Ai影视解说自动生成工具，解说猫SmartAutoCut漫剪 | 人工智能资深讲师 & 设计师 🎓 5年ai授课经验 | 叁佰章](https://v.douyin.com/dOPrekCCzwY/)**
+
+  ---
+  **001. 马斯克最新访谈精选**
+    - [马斯克最新访谈认为2026年人类社会将被彻底重启，奇点已至 | 001](https://v.douyin.com/pQPTUauw9Ik/)
+    - [前谷歌高管死谏！二零二九年人类将沦为“猩猩” | 085](https://v.douyin.com/8lQFNvinDAE/)
+    - [Ai影视解说自动生成工具，解说猫SmartAutoCut漫剪 | 105](https://v.douyin.com/g4d1cPtlHtA/)
 
 ---
 ### 9999. Download
