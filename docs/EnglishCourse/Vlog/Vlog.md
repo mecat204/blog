@@ -8,16 +8,16 @@
 ---
 ### 0001. Life Vlog
 * **[李子柒 Liziqi | 2970万 | Youtube](https://www.youtube.com/@cnliziqi)**
-  - 这里是李子柒YouTube官方频道哦～欢迎订阅：https://goo.gl/nkjpSx
-  - Please  subscribe to 【李子柒 Liziqi 】Liziqi Channel on YouTube if you like my videos
+  - [这里是李子柒YouTube官方频道哦～欢迎订阅: https://goo.gl/nkjpSx]{p}
+  - [Please  subscribe to 【李子柒 Liziqi 】Liziqi Channel on YouTube if you like my videos]{s}
 
   ---
-  - 本人未在中国大陆以外开设任何销售渠道
-  - So far Liziqi has not set up any distribution channels outside China mainland.
+  - [本人未在中国大陆以外开设任何销售渠道]{p}
+  - [So far Liziqi has not set up any distribution channels outside China mainland.]{s}
 
   ---
-  - 目前没有任何官方粉丝后援会哦~
-  - So far I don't have any official fan clubs~
+  - [目前没有任何官方粉丝后援会哦~]{p}
+  - [So far I don't have any official fan clubs~]{s}
 
 * **[李子柒 | 李家有女，人称子柒。| 千章 | Douyin](https://v.douyin.com/UzDy7CInEV4/)**
 
@@ -38,8 +38,8 @@
 
 ---
 * **[都靓 | 2250位 | Youtube](https://www.youtube.com/@duliangdushu/videos)**
-  - 阅读是一件最重要的小事。听都靓，讲述中华之美。
-  - Beauty of China, Presented by DuLiang
+  - [阅读是一件最重要的小事。听都靓，讲述中华之美。]{p}
+  - [Beauty of China, Presented by DuLiang]{s}
 
 * **[都靓读书 | 阅读是一件最重要的小事 | 千章 | Douyin](https://v.douyin.com/z4aLtYzUY2E/)**
   - [中文里每一个词都不是滥竽充数的](https://v.douyin.com/8EuHNH5Ihhw/)
@@ -104,16 +104,16 @@
 
 ---
 * **[江寻千_九月 | 3310 | Youtube](https://www.youtube.com/@JYjiuyue)**
-  - The smell of fireworks in the world is the most soothing to the hearts of ordinary people!
-  - 世界上烟花的气味是最能抚慰普通人心灵的！
+  - [The smell of fireworks in the world is the most soothing to the hearts of ordinary people!]{p}
+  - [世界上烟花的气味是最能抚慰普通人心灵的！]{s}
 
   ---
-  - Welcome to the official YouTube channel of "Jiang Xunqian (September)", mainly to share Chinese intangible cultural heritage with you, so that more people can understand Chinese culture.
-  - 欢迎来到"江巡谦"官方YouTube频道，主要是为了与大家分享中国非物质文化遗产，让更多人了解中国文化。
+  - [Welcome to the official YouTube channel of "Jiang Xunqian (September)", mainly to share Chinese intangible cultural heritage with you, so that more people can understand Chinese culture.]{p}
+  - [欢迎来到"江巡谦"官方YouTube频道，主要是为了与大家分享中国非物质文化遗产，让更多人了解中国文化。]{s}
 
   ---
-  - Thank you for your support and subscription
-  - 感谢您的支持和订阅
+  - [Thank you for your support and subscription]{p}
+  - [感谢您的支持和订阅]{s}
 
   ---
   - [曾经最极致的浪漫，千年绝技——打铁花。](https://www.youtube.com/watch?v=HiJiAcwe9pk)
@@ -2605,7 +2605,7 @@
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
-* **English Rource**
+* **[English Rource]{p}**
   - **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
   - **[英语学习资源导航 | 全网最全](https://en.knowledgefxg.com/)**
   - **[句乐部](https://julebu.co)**

@@ -521,12 +521,12 @@
 * **[莘莘云课堂 | 学科类英语知识归纳总结 ✍️原创英语时文及习题组每日更新 | 二千章 | Douyin](https://v.douyin.com/S9SpIxflWIo/)**
 
   ---
-  **001. 英语时文**
+  **[001. 英语时文]{p}**
     - [延迟退休英语怎么说 | 001](https://v.douyin.com/RvQqWiQTqBQ/)
     - [黑神话悟空获TGA年度最佳动作游戏 | 110](https://v.douyin.com/2aE4nCpiwR0/)
 
   ---
-  **002. China Travel**
+  **[002. China Travel]{p}**
     - [故宫博物院 | 001](https://v.douyin.com/BKExDVlwQCs/)
     - [六尺巷 | 020](https://v.douyin.com/nyNfwbv8vDQ/)
 
@@ -547,7 +547,7 @@
 * **[Boya松绑了 | 能松绑的 只有自己 刀就在你手里 | 伍佰章 | Douyin](https://v.douyin.com/S7sDJ3gSei0/)**
 
   ---
-  **001. 开窍变厉害合集**
+  **[001. 开窍变厉害合集]{p}**
   - [灵魂 | 人生 | 人间清醒 | 成长 | boya心里话 | 001](https://v.douyin.com/bDdBSJ_TU4U/)
   - [来着35岁大佬的人生建议 | 005](https://v.douyin.com/xXuSOHthFZo/)
   - [多学点东西，在社会上才能不吃亏 | 007](https://v.douyin.com/rGHiLBXuumM/)
@@ -581,12 +581,12 @@
   - [伴侣是不是命定？人死后去了哪里？世上真的有"魂"吗](https://v.douyin.com/9P71uxs3btQ/)
 
   ---
-  **001. 学习《周易》的不焦虑**
+  **[001. 学习《周易》的不焦虑]{p}**
     - [乾卦周易第一卦 初九爻"潜龙勿用"事以密成，言以泄败 | 001](https://v.douyin.com/QzzKknHIjeA/)
     - [有福之人无心插柳柳成荫 无福之人机关算尽尽成空 | 007](https://v.douyin.com/k3OT-g5PKR4/)
 
   ---
-  **002. 今天说个玄学**
+  **[002. 今天说个玄学]{p}**
     - [刷到这条视频说明老天在告诉你：往后的日子，我们松快儿的过 | 001](https://v.douyin.com/qFe1EfOsGvY/)
     - [突然意识到一个问题，如果此生只能爱一个人，那为什么不按照自己的理想型培养自己 | 028 ](https://v.douyin.com/rLpkm-Kk7Vg/)
 
@@ -776,27 +776,27 @@
 * **[Lisha学姐 | 雅思 | 叁佰章 | Douyin](https://v.douyin.com/USzPZ3I9MJ8/)**
 
   ---
-  **001. 雅思口语2026年1-4月**
+  **[001. 雅思口语2026年1-4月]{p}**
     - [雅思口语1-4月Part1——Pets and Animal | 001](https://v.douyin.com/T9z3ahDJfYE/)
     - [雅思口语1-4月Part1新题——Team Sports Sports team | 008](https://v.douyin.com/X-z-HTkpME4/)
 
   ---
-  **002. 雅思口语2025年9-12月话题示范合集**
+  **[002. 雅思口语2025年9-12月话题示范合集]{p}**
     - [雅思口语9-12月Part3——不喜欢快速做决定 | 001](https://v.douyin.com/HlhqTj_wueA/)
     - [雅思口语Part3——不要再'it depends'了 | 029](https://v.douyin.com/_hkoW5fy880/)
 
   ---
-  **003. 雅思口语2025年05-08月口语话题示范**
+  **[003. 雅思口语2025年05-08月口语话题示范]{p}**
     - [雅思口语5-8月Part1——Spending time | 001](https://v.douyin.com/waRscq8t44E/)
     - [雅思口语1-4月Part3新题——坦率的表达情感是好是坏 | 051](https://v.douyin.com/i8LeNDDV9IA/)
 
   ---
-  **003. 雅思口语2025年01-04月话题示范合集**
+  **[003. 雅思口语2025年01-04月话题示范合集]{p}**
     - [雅思口语1-4月Part3话题高分示范 | 001](https://v.douyin.com/3vIIKhrHI7U/)
     - [雅思口语1-4月换题季训练营来啦 | 035](https://v.douyin.com/-qCOAKpiUXI/)
 
   ---
-  **004. 雅思口语2025年09-12月口语话题示范**
+  **[004. 雅思口语2025年09-12月口语话题示范]{p}**
     - [雅思口语9-12月Part2新题——公园/花园 | 001](https://v.douyin.com/gvFn1IQakYs/)
     - [雅思口语11月Part2新题——重要的河流/湖泊 | 039](https://v.douyin.com/-yrTCGJ8KKY/)
 
@@ -812,50 +812,50 @@
       - 🔹 内啡肽：用"适度挑战"激活天然止痛剂，获得平静愉悦 我将此书与我十余年的生活习惯集合，分享具体可操作的"高能量体质"养成方案。从今天开始，让专注力和好状态成为自然而然的事！
     - [为什么我从小在中国生活，却把英语练到了母语水平？](https://v.douyin.com/CWwCplRLEK0/)
 
-  **001. 全英文Talk**
+  **[001. 全英文Talk]{p}**
     - [无用的爱好 | 001 | 全英Talk](https://v.douyin.com/Q3FwrJrJa1s/)
     - [你的朋友圈，是你最好的简历｜全英 Talk 越来越多人把朋友圈锁进 "3 天可见", 让主页变得一片空白, 但其实, 这方小小的空间, 正是你最低成本、最鲜活的个人简历与作品集](https://v.douyin.com/f0N5eVNdyaA/)
     - [无助是人的本能，自主需要刻意练习 | 016 | 全英Talk](https://v.douyin.com/QznrQH4D7JM/)
 
   ---
-  **002. 冰雹讲书 | Min: 10-20min**
+  **[002. 冰雹讲书 | Min: 10-20min]{p}**
     - [2024年09年 | 我是如何实现英文词汇量3年2万、6年3万的 | 001](https://v.douyin.com/EC0CmC7GcUs/)
     - [随他们去 | Author: Mel Robbins | 015 ](https://v.douyin.com/c9wQdbYk4XM/)
     - 冰雹讲书 《随他们去》是一本在北美广泛流行的成长类书籍，作者 **Author: Mel Robbins** Author: 用 13 年时间，从中年失业、负债 80 万美金的人生低谷，走到全球顶级播客与演讲者。 她总结出一个极其重要的认知：成年人最大的内耗，来自控制你无法控制的人和事。
     - 本期视频将系统拆解书中最有力量的 4 个心法，帮你在家庭、友情、亲密关系中，建立清晰的边界感，减少无谓消耗，把人生的主动权，重新握回自己手中。
 
   ---
-  **003. 冰雹个人成长故事**
+  **[003. 冰雹个人成长故事]{p}**
     - [我如何10年收获英语口语的蜕变？从小白到英语记者的训练方法 | 001](https://v.douyin.com/ZA_3bsy-DgY/)
     - [写日记20年：从人生错题本到人生启示录，我用它创造心仪人生 我坚持写了20年日记。| 029](https://v.douyin.com/vJwZyPpmYNc/)
 
   ---
-  **004. 学英语技巧**
+  **[004. 学英语技巧]{p}**
     - [突破英语听力口语瓶颈01｜**掌握连读，听懂老外说话，说得更流利** | 001](https://v.douyin.com/l6d1Vs4hktk/)
     - [1个神奇技巧，激活你的英语口语大脑，流利度翻倍 | 057](https://v.douyin.com/9DvphX3Pj9I/)
 
   ---
-  **005. 万能高效学习法 | Min: 4min**
+  **[005. 万能高效学习法 | Min: 4min]{p}**
     - [**短时集中的学习，让学习事半功倍** | 001](https://v.douyin.com/jgADHlrGyFM/)
     - [**30秒视觉聚焦训练，提升专注力** | 012](https://v.douyin.com/-V5afDLbvNs/)
 
   ---
-  **006. 变聪明秘籍**
+  **[006. 变聪明秘籍]{p}**
     - [智商是固定的吗？不，你可以变得更聪明 | 001](https://v.douyin.com/rhBeNvN_Gv4/)
     - [学习音乐，全面激发大脑潜能 | 007](https://v.douyin.com/_qrwgcGnQdU/)
 
   ---
-  **007. 抗焦虑秘籍 | Min: 4min**
+  **[007. 抗焦虑秘籍 | Min: 4min]{p}**
     - [如何停止脑海里的负面声音 | 励志演讲 | 001](https://v.douyin.com/CCKv-uFkmeU/)
     - [把千分之一的想法变成行动，就能打败焦虑 | 005](https://v.douyin.com/51WPuh3Sq54/)
 
   ---
-  **008. 三分钟英语美文 | Min: 4min**
+  **[008. 三分钟英语美文 | Min: 4min]{p}**
     - [人们永远不会忘记你带给他们的感受 | 美国作家: Maya Angelou | 001](https://v.douyin.com/Z5MZgleQMy4/)
     - [你是绝对独一无二的 | 018](https://v.douyin.com/VeY5vjyGn0Y/)
 
   ---
-  **009. 好口才养成秘籍 | Min: 5min**
+  **[009. 好口才养成秘籍 | Min: 5min]{p}**
     - [好口才养成秘籍 | 001](https://v.douyin.com/qHHuoJmgqU4/)
     - [好口才养成秘籍 | 005](https://v.douyin.com/Or7htLqWKC0/)
 
@@ -871,32 +871,32 @@
 
 ---
 * **[美国小学Sunny老师 | 口语星球创始人 | 英语原版娃家长必读 | 曾任教与美国蓝丝带公立小学 | 千章 | Douyin](https://v.douyin.com/tUM9U3-NVZ0/)**
-  **001. 口语星球培养的十万个英语牛娃**
+  **[001. 口语星球培养的十万个英语牛娃]{p}**
     - [学生合集 | 001](https://v.douyin.com/6P8kyOt8vrE/)
     - [用"听来带动读"，效果绝对翻倍 | 048](https://v.douyin.com/b7XMTfoKW_A/)
 
   ---
-  **002. 英语启蒙避坑指南**
+  **[002. 英语启蒙避坑指南]{p}**
     - [全网zui全英语教材改版解读-让语言回归本质 | 001](https://v.douyin.com/yVDaqDHoMDE/)
     - [自然拼读和分级阅读根本不是二选一⚠️而是拼读+解码+精读+ 泛读+写作基础多线条同步发展，最终才能衔接到学术阅读和学术写作 | 220](https://v.douyin.com/_Zha6kRj2mM/)
 
   ---
-  **003. 国际教育理念分享**
+  **[003. 国际教育理念分享]{p}**
     - [名校之UWC世界联合学院 | 001](https://v.douyin.com/qbpa9iEp4pA/)
     - [沉浸式体验美国小学阅读课:如何分析作者的中心思想 | 042](https://v.douyin.com/x7GYh2wRRUY/)
 
   ---
-  **004. 亲子英语(常见生活场景)**
+  **[004. 亲子英语(常见生活场景)]{p}**
     - [吃饭时可以和孩子说的英文 | 001 ](https://v.douyin.com/7muzcre0LbM/)
     - [赶紧收藏这些好玩的英语叠词，跟娃说起来吧 | 016](https://v.douyin.com/Ic5WCx1ydSM/)
 
   ---
-  **005. 口语星球背后的顶尖语言学家**
+  **[005. 口语星球背后的顶尖语言学家]{p}**
     - [快来上Steve老师推荐的口语星球吧 | 001](https://v.douyin.com/x0H8_H8GwmE/)
     - [Alex老师喊大家来参加一年一度的万人复述大赛了 | 017](https://v.douyin.com/DD-FBWPoyek/)
 
   ---
-  **006. Sunny老师的日常**
+  **[006. Sunny老师的日常]{p}**
     - [在亲妈滤镜下，我感觉老三四个月能听懂一点英语了 | 001](https://v.douyin.com/rRAKkwRt0Bo/)
     - [国庆节带美国朋友看中国🇨🇳她的一句话让我泪目 最让外国人惊叹的已经不仅仅是中国的高科技和美食了，而是 | 010](https://v.douyin.com/eqtaUmIoJCM/)
 
@@ -905,7 +905,7 @@
   - [布鲁伊 |  动画](https://v.douyin.com/sm5w17VCXnk/)
 
   ---
-  **001. 蓝色小考拉**
+  **[001. 蓝色小考拉]{p}**
     - [蓝色小考拉 | 动画 | 001](https://v.douyin.com/cAo-kNxRUc8/)
     - [小鸡彩虹 | 动画 | 011](https://v.douyin.com/UuQBXhphQjs/)
 
@@ -1312,16 +1312,16 @@
 ---
 ### 0004. College and University
 * **[Cambridge University | Youtube](https://www.youtube.com/@cambridgeuniversity)**
-  - Welcome to Cambridge University's YouTube Channel, where you can find out about some of the research, discoveries and innovations that take place here.
-  - 欢迎来到剑桥大学的YouTube频道，在这里你可以了解这里发生的一些研究、发现和创新。
+  - [Welcome to Cambridge University's YouTube Channel, where you can find out about some of the research, discoveries and innovations that take place here.]{p}
+  - [欢迎来到剑桥大学的YouTube频道，在这里你可以了解这里发生的一些研究、发现和创新。]{s}
 
   ---
-  - In particular, check out the Cambridge Ideas series, a collection of short films in which top researchers reveal some of their latest findings and discuss subjects ranging from energy to disappearing languages, and policing the streets to the future of robotics.
-  - 特别是，可以看看剑桥创意系列，这是一系列短片，顶尖研究人员在其中揭示了他们的最新发现，并讨论从能源到消失的语言、街头治安以及机器人未来的主题。
+  - [In particular, check out the Cambridge Ideas series, a collection of short films in which top researchers reveal some of their latest findings and discuss subjects ranging from energy to disappearing languages, and policing the streets to the future of robotics.]{p}
+  - [特别是，可以看看剑桥创意系列，这是一系列短片，顶尖研究人员在其中揭示了他们的最新发现，并讨论从能源到消失的语言、街头治安以及机器人未来的主题。]{s}
 
   ---
-  - Whether you are at Cambridge, thinking about applying, or just curious about what happens at this famous University, this channel gives you a chance to find out something you didn't already know about the world around you!
-  - 无论你是在剑桥大学，正在考虑申请，还是只是对这所著名大学的活动感到好奇，这个频道都让你有机会发现你之前不知道的关于周围世界的真相！
+  - [Whether you are at Cambridge, thinking about applying, or just curious about what happens at this famous University, this channel gives you a chance to find out something you didn't already know about the world around you!]{p}
+  - [无论你是在剑桥大学，正在考虑申请，还是只是对这所著名大学的活动感到好奇，这个频道都让你有机会发现你之前不知道的关于周围世界的真相！]{s}
 
 ---
 ### 0005. Novel
@@ -1387,42 +1387,42 @@
   - [Q&A-077、help的短语动词！ | 英语口语 | 英语没那么难 | 英语学习 | 老外教英语](https://v.douyin.com/XajhfXtaGaU/)
 
   ---
-  **001. Talk Show**
+  **[001. Talk Show]{p}**
     - [Talk show-001、最喜欢的英语 | 001](https://v.douyin.com/yau2CKxzknI/)
     - [show-005、英语绕口令 | 005](https://v.douyin.com/Hz0chbh96fA/)
 
   ---
-  **002. Questions & Answers**
+  **[002. Questions & Answers]{p}**
     - [Would&Will&Shall区别解析 | Q&A-001](https://v.douyin.com/G3WWZIk3VOs/)
     - [help的短语动词 | Q&A-077](https://v.douyin.com/Ujnw8jzKw9c/)
 
   ---
-  **003. English Grammar**
+  **[003. English Grammar]{p}**
     - [The Difference Between "Until" and "By" | Grammar-001](https://v.douyin.com/UzIHrVD-izw/)
     - [没有、不能、不会 | Grammar-210](https://v.douyin.com/3FtS2p4YK_c/)
 
   ---
-  **004. Monthly Review**
+  **[004. Monthly Review]{p}**
     - [保持学习动力 | Monthly-001](https://v.douyin.com/NOwHwMF_9q4/)
     - [日常匹配（七） | Monthly-030](https://v.douyin.com/6biZh_yzSPo/)
 
   ---
-  **005. 800 Words and Phrase**
+  **[005. 800 Words and Phrase]{p}**
     - [Core 800-01](https://v.douyin.com/TNkbPD561Ak/)
     - [Core 800-40](https://v.douyin.com/YoqduxAWmYc/)
 
   ---
-  **006. Learning Strategies**
+  **[006. Learning Strategies]{p}**
     - [Top 5 Shortcuts to Learning a Language | 学习英语有捷径 | Strategies-01](https://v.douyin.com/PLExJjkGnDY/)
     - [掌控词汇短语 | Strategies-60](https://v.douyin.com/JJTVr93KOio/)
 
   ---
-  **007. Know Your Verbs**
+  **[007. Know Your Verbs]{p}**
     - [你瞅啥？"see" 瞅你咋的 | 001](https://v.douyin.com/Rh1CXm6TWJM/)
     - [掩护我！Cover | 100](https://v.douyin.com/N-HN5p3qmzA/)
 
   ---
-  **008. English Beginner**
+  **[008. English Beginner]{p}**
     - [25个最常用单词短语 | Beginner-001](https://v.douyin.com/rusP9TNmg2Y/)
     - [看电影的表达 | Beginner-175](https://v.douyin.com/Nr6ntkvvHCM/)
 
@@ -1459,12 +1459,12 @@
   * **[韩国大集什么样 可理解性输入学英语 | Youtuber: volkaeagle](https://v.douyin.com/-G5XfX7KvRo/)**
 
   ---
-  **001. 超级英语 | 老师篇**
+  **[001. 超级英语 | 老师篇]{p}**
     - [跟着老师学习就餐实用英语 就餐英语 | 001](https://v.douyin.com/ThApI_ho-28/)
     - [这5个阻碍你自由开口说英语的原因你有吗 | 100](https://v.douyin.com/h8JYLz8PaAI/)
 
   ---
-  **002. 超级英语 | 听力篇**
+  **[002. 超级英语 | 听力篇]{p}**
    - [如何像孩子一样轻松掌握英语，像母语一样搞定英语 | 001](https://v.douyin.com/mKix9wPAxC4/)
    - [如何快速成为理想的自己 | 067](https://v.douyin.com/ZBorJmbQIjg/)
 
@@ -1472,7 +1472,7 @@
 * **[曼琳和妈妈 | 伍佰章 | Douyin](https://v.douyin.com/6ZuUzMS1Ehg/)**
 
   ---
-  **001. 英语**
+  **[001. 英语]{p}**
     - [001](https://v.douyin.com/8-_goI0zGWk/)
     - [It in English | 129](https://v.douyin.com/4sXuHzrtBO0/)
     - [Time is very important in our life | 130](https://v.douyin.com/6NETJ6lN_J0/)
@@ -1501,7 +1501,7 @@
   - **[男声英文朗读｜刺客信条：余烬](https://v.douyin.com/jaYXLppcQ1k/)**
 
   ---
-  **001. 新概念英语二**
+  **[001. 新概念英语二]{p}**
     - [A Private Conversation | 001](https://v.douyin.com/P71RPfF3FNk/)
     - [A slip fo the tongue | 089](https://v.douyin.com/IOnVunHCRcw/)
 
@@ -1515,22 +1515,22 @@
   - [He Got What He Deserved | 罪有应得](https://v.douyin.com/PyiK3og673s/)
 
   ---
-  **001. Love Me Bite Me**
+  **[001. Love Me Bite Me]{p}**
     - [001](https://v.douyin.com/XYImrO2L7cg/)
     - [008](https://v.douyin.com/xmxqz8YXQuQ/)
 
   ---
-  **002. 纯英文短剧**
+  **[002. 纯英文短剧]{p}**
     - [老外真会玩 | 001](https://v.douyin.com/q6DK6kgQ3-U/)
     - [Cancer or Evil Spirit | 144](https://v.douyin.com/gtyFsjHjIOI/)
 
   ---
-  **003. 外文经典名场面**
+  **[003. 外文经典名场面]{p}**
     - [001](https://v.douyin.com/AHSYnm0Z6gg/)
     - [I Keep Tabs On You 默默的关注你 | 047](https://v.douyin.com/vtqoqbjr_Wo/)
 
   ---
-  **004. 外文经典曲目 | Music**
+  **[004. 外文经典曲目 | Music]{p}**
     - [Aud Lang Syne | 友谊天长地久](https://v.douyin.com/DbDnB8NixJA/)
     - [杰克逊 - 迈克尔·杰克逊的《犯罪高手》，收录在他1987年的专辑《Bad》中，是专辑的第七支单曲。](https://v.douyin.com/nvKySJb-qSM/)
     - [Labour | 英国歌手 Paris Paloma 于 2023 年 3 月发行的单曲，是一首女权主义赞歌，批判女性在家庭中承担的无偿劳动，在全球范围内引发广泛关注。](https://v.douyin.com/XNLSXTFaewQ/)
@@ -1539,7 +1539,7 @@
     - **[All to Well | Taylor Swift](https://v.douyin.com/yCOk-HFCM10/)**
 
   ---
-  **005. 英语演讲TED**
+  **[005. 英语演讲TED]{p}**
     - [001](https://v.douyin.com/tB9hE1g_sog/ 复制此链接，打开Dou音搜索，直接观看视频！)
     - [Treat Yourself As Someone You Love | 把自己当成你爱的人 | 002](https://v.douyin.com/LqkXYvx6EB4/)
 
@@ -1611,43 +1611,43 @@
   - **[一首歌让你掌握48音标 | 国际音标](https://v.douyin.com/cX7EOaZEx6Y/)**
 
   ---
-  **001. 自然拼读**
+  **[001. 自然拼读]{p}**
     - [英文数字1-100的标准读音 | **启蒙早教** | 001](https://v.douyin.com/sQvfu1ZvphY/)
     - [**三步搞定长难单词**！告别死记硬背，词汇量暴涨其实很简单 | **元音: a e i o u** |**Kindergarten: 'Kin'der'gar'ten** | 147](https://v.douyin.com/6UfY6H-jmsE/)
 
   ---
-  **002. 音标学习**
+  **[002. 音标学习]{p}**
     - [口诀巧记48个音标 | 001](https://v.douyin.com/QQ4iilpt-a0/)
     - [一首歌让你掌握48音标 | 035](https://v.douyin.com/ytRnon0RPHE/)
 
   ---
-  **003. 语法口诀和大招**
+  **[003. 语法口诀和大招]{p}**
     - [超形象秒记英语介词里的4个过 | across: 表面经过 | through: 内部经过 | over: 上方经过 | past: 旁边经过 | 001](https://v.douyin.com/CdrG7XE3bjg/)
     - [从0数到10，搞定 **英语零冠词** | 209](https://v.douyin.com/dGFNbie3W74/)
 
   ---
-  **004. 启蒙儿歌+绘本**
+  **[004. 启蒙儿歌+绘本]{p}**
     - [Brown bear | 001](https://v.douyin.com/heTqg9Vdiuk/)
     - [Lemon Tree: 柠檬树 | 033 ](https://v.douyin.com/50KKZtHJ3v8/)
 
   ---
-  **005. 小学单词的标准读音大全**
+  **[005. 小学单词的标准读音大全]{p}**
     - [数字1-100的标准读音 | 001](https://v.douyin.com/GoblW3cdCfU/)
     - [最新人教版三年级英语上册 | 055](https://v.douyin.com/8QUKhtokh1Q/)
 
   ---
-  **006. 听英文歌学英语**
+  **[006. 听英文歌学英语]{p}**
     - [推荐7首英文歌](https://v.douyin.com/8grpfGsV-v0/)
     - [英语零基础暑假必听的三首神曲](https://v.douyin.com/KeOx4i12b2s/)
 
   ---
-  **007. 家长必看如何英语启蒙**
+  **[007. 家长必看如何英语启蒙]{p}**
     - [什么是英文思维？中英文思维的区别 | 001](https://v.douyin.com/OorJ8HSG1tw/)
     - [英语教材改版后，光靠学校是不够的，家长必看干货 | 007](https://v.douyin.com/4OKHawruTTA/)
     - [高考结束，英语命题和考查方向非常清晰，小学到高中都要看完， 未来的学习方向和方法。| 010](https://v.douyin.com/H3HeLJglFJ8/)
 
   ---
-  **008. 亲子口语**
+  **[008. 亲子口语]{p}**
     - [一分钟教你学会手部动作的英文 | 001](https://v.douyin.com/OfEf6lYJLXE/)
       * Slap    扇
       * point   指
@@ -1670,7 +1670,7 @@
       * Here you go | 给你
 
   ---
-  **009. 每天学5句日常口语**
+  **[009. 每天学5句日常口语]{p}**
     - [001](https://v.douyin.com/DpsZ4IVelHM/)
       * What do you think?
       * What do you have?
@@ -1685,7 +1685,7 @@
       * See you tomorrow.
 
   ---
-  **010.以一记十 秒记单词**
+  **[010.以一记十 秒记单词]{p}**
     - [以一记十 | **自然拼读巧记单词**](https://v.douyin.com/ltaPyXaNLsY/)
       * air
       * hair
@@ -1703,7 +1703,7 @@
       * cloud cloudy 多云的
 
   ---
-  **011. 99%的人都读错的英文**
+  **[011. 99%的人都读错的英文]{p}**
     - [001](https://v.douyin.com/cWs3fPbx6gI/)
       * queue | 排队
       * climb | 攀登
@@ -1729,12 +1729,12 @@
 * **[夏夏不温柔（学英语版）| 感恩相遇，如果能感染到你，我会倍感幸福 | 千章 | Douyin](https://v.douyin.com/iRGr_X0cxB4/)**
 
   ---
-  **001. 自我肯定**
+  **[001. 自我肯定]{p}**
     - [睡前做个自我肯定，然后安安稳稳做个好梦 | 001](https://v.douyin.com/W5KlxpSYwOk/)
     - [最近我一直在想，孩子的补课是不是应该暂停，学历不再那么重要了？但是学习的能力依旧重要 | 035](https://v.douyin.com/pvN_Ktx1Db8/)
 
   ---
-  **002. 日常碎碎念**
+  **[002. 日常碎碎念]{p}**
     - [录了100遍终于鼓足勇气发出来了，不卷女儿，卷自己 | 001](https://v.douyin.com/sSt96jT0-qg/)
     - [烧饭做菜真的不容易，感谢身边默默付出的那一位 | 064](https://v.douyin.com/uPlkOjxFmbk/)
 
@@ -1747,37 +1747,37 @@
   - [English Fluency Journey | Hanna Khoma](https://www.englishfluencyjourney.com/)
 
   ---
-  **001. 51talk英语外教一对一**
+  **[001. 51talk英语外教一对一]{p}**
     - [51talk外教一对一，外教一对一，母语者教你如何正确高效的学英语 | 001](https://v.douyin.com/sa-SjAcZloQ/)
     - [51talk英语外教一对一 在线授课，英语是用来说的，一定的语言环境对于英语的学成有非常帮助 | 011](https://v.douyin.com/flgq6-R01PM/)
 
   ---
-  **002. vipkid一对一口语外教**
+  **[002. vipkid一对一口语外教]{p}**
     - [vipkid的外教都是北美 | 001](https://v.douyin.com/kgPL0nCb2cI/)
     - [vipkid一对一口语外教 外教：发音相近但意义不同的单词 | 021](https://v.douyin.com/c3_UcMgSsEs/)
 
   ---
-  **003. 在线英语外教一对一口语免费课程**
+  **[003. 在线英语外教一对一口语免费课程]{p}**
     - [真人外教一对一在线英语课 | 001](https://v.douyin.com/ACTS2tIr7K0/)
     - [外教一对一英语口语课 外教：口语不好？别怪语法词汇没掌握 | 018](https://v.douyin.com/OIi4eUtf3jE/)
 
   ---
-  **004. 外教口语一对一**
+  **[004. 外教口语一对一]{p}**
     - [今日话题：在你工作的地方请假容易吗 | 001](https://v.douyin.com/198txVleeG8/)
     - [好可爱的描是你那只小描咪吗？| 007](https://v.douyin.com/i93pOHnUBng/)
 
   ---
-  **005. 商务英语从零开始学习**
+  **[005. 商务英语从零开始学习]{p}**
     - [商务英语口语成人速成班 | 001](https://v.douyin.com/opwot6T6iDU/)
     - [你去过现场演唱会吗 | 010](https://v.douyin.com/PsVN77nRTJk/)
 
   ---
-  **006. 欧美外教在线一对一口语**
+  **[006. 欧美外教在线一对一口语]{p}**
     - **[说三个你蕞想去的城市 | 001](https://v.douyin.com/CSkUMvvYy4w/)**
     - **[你为什么选择离开深圳 | 050](https://v.douyin.com/ulq9cnxbW9g/)**
 
   ---
-  **007. 外教一对一英语口语课**
+  **[007. 外教一对一英语口语课]{p}**
     - [你害怕当众演讲吗？ | 001](https://v.douyin.com/oCk1_To0A_U/)
     - [男人哭可以吗？ | 184](https://v.douyin.com/cns6ULzSGlE/)
 
@@ -1828,12 +1828,12 @@
 * **[搬运工小莯 | 分享动画片合集 不定期更新哦 | 三百章 | Douyin](https://v.douyin.com/mSgSsHWc-PQ/)**
 
   ---
-  **001. 布鲁伊第一季英文版**
+  **[001. 布鲁伊第一季英文版]{p}**
     - [01. magic xylophone | 神奇的木琴](https://v.douyin.com/YTMSs5oNNIM/)
     - [51.阳台圣诞老人](https://v.douyin.com/PSoMHLsGgSk/)
 
   ---
-  **002. 布鲁伊第二季英文版**
+  **[002. 布鲁伊第二季英文版]{p}**
     - [Dance Mode | 跳舞模式 | 001](https://v.douyin.com/7PhTIKAm6mM/)
     - [Favourite Thing | 最开心的事 | 007](https://v.douyin.com/oLhQWb2GuH4/)
 
@@ -1880,19 +1880,19 @@
 
 ---
 ### 0021. Prompt | FSI
-**你是我的FSI语言教练。用Pattern Drill的方式训练我。先从Substitution Drill开始, 给我一个基础句型,然后快速给我变体提示词, 我必须在3秒内回应。如果我超过3秒,提醒我加快速度。每个句型练习20词。练完替换换之后，切换到Transfromation Drill**
+**[你是我的FSI语言教练。用Pattern Drill的方式训练我。先从Substitution Drill开始, 给我一个基础句型,然后快速给我变体提示词, 我必须在3秒内回应。如果我超过3秒,提醒我加快速度。每个句型练习20词。练完替换换之后，切换到Transfromation Drill]{s}**
 
 ---
 ### 0022. New Concept English 01 | AI
 * **[枫娇鹤 | 寓教于乐，融学于趣，化教于心 | 二十章 | Douyin](https://v.douyin.com/J9KB5QS99lM/)**
-  **New Concept English 01**
+  **[001. New Concept English 01]{p}**
      * [New Concept English 01 | 第一册 | 01](https://v.douyin.com/-51n4SOiw_M/)
      * [New Concept English 01 | 第一册 | 19](https://v.douyin.com/RGol_7XQQSI/)
      * [New Concept English 01 | 第一册 | 35](https://v.douyin.com/qUP5pHQL5_0/)
 
 ---
 * **[颗星星 | 一名专注AI动画制作的个人玩家 | 寓教于乐 | 一直被抄袭, 从未被超越 | 坚持初心, 以质量回报粉丝 | 百章 | Douyin](https://v.douyin.com/jV_6t-XSSQw/)**
-  - **New Concept English 01**
+  - **[001. New Concept English 01]{p}**
      * **[New Concept English 01 | Lesson-001](https://v.douyin.com/sHfdwT_Xp8E/)**
      * **[New Concept English 01 | Lesson-020](https://v.douyin.com/ObtSflmNgps/)**
      * **[New Concept English 01 | Lesson-022](https://v.douyin.com/9indtu0nFOo/)**
@@ -1917,7 +1917,7 @@
 
 ---
 * **[AI造梦者 | AI续更狂徒 原创产品 | 4K | 新概念电影版 | 二十章 | Douyin ](https://v.douyin.com/jGev-2Po9mE/)**
-  **New Concept English 01**
+  **[001.New Concept English 01]{p}**
     - **[New Concept English 01 | Lesson-001](https://v.douyin.com/3XIUw3HIGrc/)**
     - **[New Concept English 01 | Lesson-002](https://v.douyin.com/FCjqDn34dyA/)**
     - **[New Concept English 01 | Lesson-003](https://v.douyin.com/RP9eToxmWJQ/)**
@@ -1926,13 +1926,13 @@
 
 ---
 * **[英语橙子老师 | 初中英语教师资格证，心理教师资格证 | 二百章 | Douyin](https://v.douyin.com/xQnItp_2Uy8/)**
-  - **New Concept English 01**
+  - **[001. New Concept English 01]{p}**
     * **[New Concept English 01 | Lesson-001](https://v.douyin.com/bLpKj_X6yzQ/)**
     * **[New Concept English 01 | Lesson-043](https://v.douyin.com/ZSy14MhMSBQ/)**
     * **[New Concept English 01 | Lesson-061](https://v.douyin.com/1Z3KrGUK-wE/)**
 
   ---
-  - **New Concept English 02**
+  - **[001. New Concept English 02]{p}**
     * **[New Concept English 02 | Lesson-001](https://v.douyin.com/DNoSvIFZuxs/)**
     * **[New Concept English 02 | Lesson-009](https://v.douyin.com/piasxBj00lM/)**
 
@@ -1943,19 +1943,19 @@
 
 ---
 * **[佘一鸣 | 发布原创短视频，欢迎关注。| 百章 | Douyin](https://v.douyin.com/xiKQE7P7iKU/)**
-  - **New Concept English 01·三国版**
+  - **[001. New Concept English 01·三国版]{p}**
     * **[New Concept English 01·三国版 | Lesson-001](https://v.douyin.com/ED_hh-uhlc4/)**
     * **[New Concept English 01·三国版 | Lesson-002](https://v.douyin.com/hjTzkaFkDhg/)**
     * **[New Concept English 01·三国版 | Lesson-003](https://v.douyin.com/evamg363dKY/)**
 
   ---
-  - **荒岛迷案**
+  - **[002. 荒岛迷案]{p}**
     * **[第01集 |  荒岛空难现场，年轻的女子离奇死亡，心脏被人剜走，尸检发现重要线索。](https://v.douyin.com/LKia1i_24WQ/)**
     * **[第13集 | 大结局 荒岛空难现场发生离奇命案，幸存者与世隔绝，救援遥遥无期。](https://v.douyin.com/g8fy0kzle9s/)**
 
 ---
 * **[柒柒学英语 | 985大学生 | 百章 | Douyin](https://v.douyin.com/VBesR-lD3yA/)**
-  - **New Concept English 01**
+  - **[001. New Concept English 01]{p}**
     * **[New Concept English 01 | Lesson-001](https://v.douyin.com/tw_MbOzNz4E/)**
     * **[New Concept English 01 | Lesson-018](https://v.douyin.com/xX1el4soG1o/)**
     * **[New Concept English 01 | Lesson-019](https://v.douyin.com/vKSbKD8JHqQ/)**
@@ -1966,23 +1966,25 @@
   - **[狮子王](https://v.douyin.com/erRH2wGf7ss/)**
     * **[狮子王 | 1994](https://www.libvio.mov/play/167-1-1.html)**
   - [疯狂原始人](https://v.douyin.com/6M9pCejaAZI/)
+
+  - [疯狂原始人]{p}
     * **[疯狂原始人01](https://www.libvio.mov/play/116-1-1.html)**
     * **[疯狂原始人02](https://kimivod.com/vod/42679/1-2.html)**
     * **[寻梦环游记](https://www.4kvm.net/movies/xunfhyj)**
 
   ---
-  - **40篇英语故事掌握小学1000词**
+  - **[40篇英语故事掌握小学1000词]{p}**
     * **[第001篇 | 龟兔赛跑](https://v.douyin.com/0-X_X7mE8XU/)**
     * **[第042篇 | 元宵节的传说](https://v.douyin.com/gF0vfLIQIhA/)**
 
   ---
-  - **奥斯卡经典动画绘本**
+  - **[奥斯卡经典动画绘本]{p}**
     * **[001.狮子王森巴](https://v.douyin.com/labFvQ_T10w/)**
     * **[007.冰雪奇缘](https://v.douyin.com/vmUlDpepE_Y/)**
       - [冰雪奇缘 | Frozen](https://www.bttwo.org/v_play/bXZfNTU5OC1ubV8wMQ==.html)
 
   ---
-  - **经典英文绘本故事**
+  - **[经典英文绘本故事]{p}**
     * **[001.巨人的花园](https://v.douyin.com/VNlVrO4TFTk/)**
     * **[027.丑小鸭](https://v.douyin.com/NGfF8E8eWl0/)**
 
@@ -1999,36 +2001,36 @@
   - **[美国千万粉博主摩旅中国启程。无地图无手机，开局逢人喊爹](https://v.douyin.com/Q29QpAgk_jI/)**
 
   ---
-  **001. 老外说中国**
+  **[001. 老外说中国]{p}**
     - [美国记者：中国已成全球顶流！美国年轻人正经历中国化转型？ | 油管博主: @jessicaburbankshow 粉丝数量: 2.8万 视频标题: China Is the Global It-Girl Now 发布日期: 2026/01/20 观看次数: 7,843 点赞数量: 811 评论总数: 303 | 001](https://v.douyin.com/JF_IwNNgGy8/)
     - [英国妹子初到上海激动到失语：当了十几年电脑壁纸，圆梦魔都 | 油管博主: @by.rheashanika 粉丝数量: 4.3万 | 060](https://v.douyin.com/gk-ioWG-SRs/)
     - [英国老哥：为啥中国没有零元购？油管评论区回复绝了！ | 油管博主: @tobylifecycles 粉丝数量: 210 | 021](https://v.douyin.com/ezFPPWLdu0s/)
 
   ---
-  **002. 老外看中国**
+  **[002. 老外看中国]{p}**
     - [内蒙人怎么看外蒙？韩国博主实地访谈，答案让韩国网友吵翻了 油管博主: @연포물개 粉丝数量: 4.6万 视频标题: 내몽골 사람들의 몽골에 대한 솔직한 이야기 发布日期: 2026/01/04 观看次数: 1.6万 点赞数量: 907 评论总数: 94 | 001](https://v.douyin.com/XMrs3qNyysI/)
     - [日本酒鬼妹子初到北京，中国很危险？我在凌晨街头喝醉 油管博主: @yukke_sakamura 粉丝数量: 109万 | 073](https://v.douyin.com/sqxzKjH8i9s/)
 
 ---
 ### 0025. 动画 | Ai
 * **[豆豆双语岛 | 原创英语故事视频 看寓言故事学英语 小故事大道理 | 三百章 | Douyin](https://v.douyin.com/s86SA_SrYFw/)**
-  **001. 英语童话小故事**
+  **[001. 英语童话小故事]{p}**
     - [英语童话故事，小学英语阅读 | 001](https://v.douyin.com/O8FDWuicu9M/)
 
   ---
-  **002. 小学英语阅读**
+  **[002. 小学英语阅读]{p}**
     - [初级英语阅读精选| 英语 | 001](https://v.douyin.com/ke_o4MF2dUk/)
     - [新年 用英语介绍中国传统节日 | 012](https://v.douyin.com/vEqIUmgK1O4/)
 
   ---
-  **003. 成语故事-英文版**
+  **[003. 成语故事-英文版]{p}**
     - [有趣的英语小故事，磨耳朵练习 | 001](https://v.douyin.com/Bsq8r_mRveQ/)
     - [守株待兔 | 002](https://v.douyin.com/8bJpvc1eEt8/)
     - [杞人忧天 | 003](https://v.douyin.com/qApxyTZ9FII/)
     - [南辕北辙 | 004](https://v.douyin.com/2NMDQ5p6VFQ/)
 
   ---
-  **004. 英语小故事-初级**
+  **[004. 英语小故事-初级]{p}**
     - [每日一集，看英语动画小故事 | 001](https://v.douyin.com/FDREjjWqHfk/)
     - [老人和死神 | 286](https://v.douyin.com/gXk1wT9WBN4/)
     - [聪明的大熊猫 | 295](https://v.douyin.com/s9qdaJDfc9w/)
@@ -2054,17 +2056,17 @@
   - **[你分得清正缘和孽缘吗？重塑感情观，分享5个正缘特征](https://v.douyin.com/VQSkxlrZzgQ/)**
 
   ---
-  **001. 感情里必须知道的事**
+  **[001. 感情里必须知道的事]{p}**
     - [你爱上的人，其实就是你的性格 | 001](https://v.douyin.com/5xmsxq3sui4/)
     - [让人疯狂上头背后的心理学原理 | 100](https://v.douyin.com/EyCKMwASyYc/)
 
   ---
-  **002. 个人成长**
+  **[002. 个人成长]{p}**
     - [改变自己，需要觉察和开放，然后才能行动 | 001](https://v.douyin.com/19QuisvotWg/)
     - [国外神经心理学家的精华7点 | 098](https://v.douyin.com/nDpDnFp5rFM/)
 
   ---
-  **003. 种下心中的福田**
+  **[003. 种下心中的福田]{p}**
     - [其实你所有的情绪问题其实源于不够爱自己 | 001](https://v.douyin.com/HceefGkt6Eg/)
     - [真正顶级的提升能量方法？身弱之人必看 | 019](https://v.douyin.com/65acSr4UArc/)
 
@@ -2083,22 +2085,22 @@
   - [英语配音 阿汤哥独白之《遗落战境》](https://v.douyin.com/4yyWgETSoTA/)
 
   ---
-  **001. 治愈系英语**
+  **[001. 治愈系英语]{p}**
     - [情人节❤️送给正在找对象的你 | 001](https://v.douyin.com/Djqu_Lwwyzs/)
     - [记住这句话，就没人能伤害你 | 084](https://v.douyin.com/wK8gu685Evg/)
 
   ---
-  **002. 英语发音**
+  **[002. 英语发音]{p}**
     - [秒懂干货|易混单词发音要领及音标解析：done,dawn,down的区别 | 001](https://v.douyin.com/CG6FMyK0_lI/)
     - [超长单词就这样读 | 070](https://v.douyin.com/gXq0ytJPNNc/)
 
   ---
-  **003. 英语配音**
+  **[003. 英语配音]{p}**
     - [游戏《生化危机4》艾达王 | 001 ](https://v.douyin.com/0XxMqOJ-gPs/)
     - [战锤40K荷鲁斯之乱》英语配音 | 326](https://v.douyin.com/wF94GwO5HUk/)
 
   ---
-  **004. 中文配音**
+  **[004. 中文配音]{p}**
     - [画皮](https://v.douyin.com/-exbqU59D_o/)
     - [蜡笔小新精分配音](https://v.douyin.com/qEB29-9OXGc/)
 
@@ -2107,26 +2109,26 @@
 * **[Journey Alone 一个人的旅行 ](https://v.douyin.com/o5bRx_amFOo/)**
 
   ---
-  **001. 读书变现Read More 读更多**
+  **[001. 读书变现Read More 读更多]{p}**
     - **[原子习惯 Atomic Habits | 001](https://v.douyin.com/W9wl5_KVQRg/)**
     - **[Secrets Millionair Mind · T.Harv Eker | THINK GROW RICH  · NAPOLEN HILL | A happy pocket Full of MONRY · DAVID CANRIN GIKANDI | 006](https://v.douyin.com/VN0iplqm1x0/)**
 
   ---
-  **002. 挑战百万富翁系列**
+  **[002. 挑战百万富翁系列]{p}**
     - [1美元到“1后面21个零”…这是什么概念 | 001](https://v.douyin.com/-y716cTaL2o/)
     - [搬过去给钱 如果一个国家愿意给你钱，你会考虑搬过去吗 | 043](https://v.douyin.com/EUwXeWVas9s/)
 
   ---
-  **003. Dan Martell**
+  **[003. Dan Martell]{p}**
     - [最容易毁掉成交的"口头禅" | 001](https://v.douyin.com/tZGkENt8IcU/)
     - [想让生意增长，你需要一个系统 | 008](https://v.douyin.com/Pb4E1ySnEg4/)
 
   ---
-  **004. 环球见闻志GeoGlobeTales**
+  **[004. 环球见闻志GeoGlobeTales]{p}**
     - [27年走完全球 **Karl Bushby 卡尔·布什比** | 001](https://v.douyin.com/9kcfgCVqKCE/)
 
   ---
-  **005. AI Claude编程**
+  **[005. AI Claude编程]{p}**
     - [How to use Claude 10x better How to use Claude 10x better  | 如何能更好地使用Claude | 001](https://v.douyin.com/uLvCLXYUxVM/)
     - [深度研究工具。 如果你还在普通搜索，那你可能没用对AI。Claude | 011](https://v.douyin.com/LB1utRIDz7A/)
 
@@ -2137,63 +2139,63 @@
   - [音标教学](https://v.douyin.com/IcKEzY1HY4M/)
 
   ---
-  **001. inmyfeeling**
+  **[001. inmyfeeling]{p}**
     - [**有些东西必须放弃，才会迎来新生** | 001](https://v.douyin.com/IU4KR366me8/)
     - [**人生就是一场马拉松，不在于跑多快，而在于跑多久** | 086](https://v.douyin.com/yPnnig7C8tM/)
 
   ---
-  **002. G·E·M | 邓紫棋**
+  **[002. G·E·M | 邓紫棋]{p}**
     - [活在别人眼里，就会死在别人嘴里 | **邓紫棋** | 001](https://v.douyin.com/sDMVbMYi4zo/)
     - [内心丰盈者 独行也如众 | 007](https://v.douyin.com/NQomaNOTk7w/)
 
 ---
 ### 0032. Genshin Impact | 跟着原神学英语
-**米哈游就该搞一个双语版的，支持世界网友学习中文，支持中国网友学习英文，打通美服和国服。加入Ai,支持人物Ai-NPC互相交流.打造一个真正的原神世界。**
+**[米哈游就该搞一个双语版的，支持世界网友学习中文，支持中国网友学习英文，打通美服和国服。加入Ai,支持人物Ai-NPC互相交流.打造一个真正的原神世界。]{p}**
 
 * **[永不认输的璃月人 | 原神佛系玩家，体验100种小游戏ing | 二百章 | Douyin](https://v.douyin.com/gwdtS6JSHz8/)**
 
   ---
-  **001. 跟着胡桃学英语**
+  **[001. 跟着胡桃学英语]{p}**
     - [跟着胡桃学英语-初次见面 | 001](https://v.douyin.com/AqYLmm1jqg0/)
     - [跟着胡桃学英语-闲聊·偷懒 | 004](https://v.douyin.com/MG-mycVBf9k/)
 
   ---
-  **002. 荣花与炎日之途**
+  **[002. 荣花与炎日之途]{p}**
     - [第五章第一幕 荣花与炎日之途1 | 001](https://v.douyin.com/9qx08yEkbQA/)
     - [第五章第一幕 荣花与炎日之途1 | 009](https://v.douyin.com/XuvpnUPYSsg/)
 
   ---
-  **003. 跟着马拉妮学英语**
+  **[003. 跟着马拉妮学英语]{p}**
     - [跟着玛拉妮学英语-初次见面 | 001](https://v.douyin.com/5om916TrOOY/)
     - [跟着玛拉妮学英语-闲聊·逐浪 | 002](https://v.douyin.com/0TCGkUrqzks/)
 
   ---
-  **004. 跟着散兵学英语**
+  **[004. 跟着散兵学英语]{p}**
     - [跟着散兵学英语-初次见面 | 001](https://v.douyin.com/pakgZA-pxjQ/)
     - [跟着散兵学英语-早上好 | 010](https://v.douyin.com/pMQ8SaHPl08/)
 
   ---
-  **005. 跟着凝光学习英语**
+  **[005. 跟着凝光学习英语]{p}**
     - [跟着凝光学英语-闲聊·古玩 | 001](https://v.douyin.com/vJAJI2BwF6Q/)
     - [跟着凝光学英语-下雪的时候 | 005](https://v.douyin.com/3CpNKozahbQ/)
 
   ---
-  **006. 跟着万叶学英语**
+  **[006. 跟着万叶学英语]{p}**
     - [跟着万叶学英语-初次见面 | 001](https://v.douyin.com/mtjHakV8RXI/)
     - [跟着万叶学英语-关于我们·出海 | 014](https://v.douyin.com/l45fg0Zmblw/)
 
   ---
-  **007. 跟着那位莱特学英语**
+  **[007. 跟着那位莱特学英语]{p}**
     - [跟着那维莱特学英语-初次见面 | 001](https://v.douyin.com/NmMp3D86Lpw/)
     - [跟着那维莱特学英语-阳光很好… | 008](https://v.douyin.com/y_X1Od-W2Zk/)
 
   ---
-  **008. 跟着魈宝学英语**
+  **[008. 跟着魈宝学英语]{p}**
     - [跟着魈宝学英语-下雨的时候… | 001](https://v.douyin.com/91eNdnix2Lc/)
     - [跟着魈宝学英语-关于魈自己·非人 | 014](https://v.douyin.com/A148GqXCX1M/)
 
   ---
-  **009. 跟着原神主线学英语**
+  **[009. 跟着原神主线学英语]{p}**
     - [跟着原神主线学英语-开场 | 001](https://v.douyin.com/tNf4kiE0CGw/)
     - [跟着原神主线学英语-为了背色的身影 | 030](https://v.douyin.com/1cig1tRYVxA/)
 
@@ -2231,7 +2233,7 @@
 * **[JustinEnglish | 欢迎 这个频道有着不一样的英语趣味教学 | 佰章 | Douyin](https://v.douyin.com/LKTZH1pGDvE/)**
 
   ---
-  **001. 原神英语 启动**
+  **[001. 原神英语 启动]{p}**
     - [如何通过二次元游戏学英语 | 001](https://v.douyin.com/g014VBsIffM/)
     - [当英语老师开始用原神教英语 | 006](https://v.douyin.com/TIOPFuVP7-c/)
 
@@ -2239,17 +2241,17 @@
 * **[尼克叔游戏英语 | 千星奇域《背单词有原神例句》| 伍佰章 | Douyin](https://v.douyin.com/KtsqY31hkFQ/)**
 
   ---
-  **001. Genshin Impact | 千星奇域GUID: 6734 0060 303**
+  **[001. Genshin Impact | 千星奇域GUID: 6734 0060 303]{p}**
     - **[我做的第一个游戏，上线原神千星奇域啦 | 001](https://v.douyin.com/-UD98eUONmM/)**
     - **[原神千星奇域 | 002](https://v.douyin.com/WHWyHdzVwLA/)**
 
   ---
-  **002. 玩游戏读外刊**
+  **[002. 玩游戏读外刊]{p}**
     - [外网英文游戏资讯精读-尼克叔新系列全网首发 | 001](https://v.douyin.com/tbiFpWCw1sI/)
     - [黑神话钟馗 | 002](https://v.douyin.com/SjeXl_YbvEg/)
 
   ---
-  **003. 原神横扫四六级考研雅思**
+  **[003. 原神横扫四六级考研雅思]{p}**
     - [001](https://v.douyin.com/0uevIvfbXdw/)
     - [047](https://v.douyin.com/5PvzLKxYKbc/)
     - [048](https://v.douyin.com/3oY4NyqUpP8/)
@@ -2270,12 +2272,12 @@
 * **[Mia喜欢学英语 | 努力的英语老师， 街头采访可私信 | 佰章 | Douyin](https://v.douyin.com/Ep9nFp1ARj0/)**
 
   ---
-  **001. 英文采访系列**
+  **[001. 英文采访系列]{p}]{p}**
     - [烤肠 excuse me | 001](https://v.douyin.com/wIrjiO9zAC8/)
     - [街头采访 | 020](https://v.douyin.com/QBAAbUECyl0/)
 
   ---
-  **002. solo系列**
+  **[002. solo系列]{p}]{p}**
     - [pokerface | 001](https://v.douyin.com/IZwgkgKYhWY/)
     - [命里有时终须有，命里无时莫强求 | 036](https://v.douyin.com/SNmX95H8nAQ/)
 
