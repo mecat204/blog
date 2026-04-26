@@ -8,7 +8,7 @@
 ---
 ### 0001. Life Vlog
 * **[李子柒 Liziqi | 2970万 | Youtube](https://www.youtube.com/@cnliziqi)**
-  - [这里是李子柒YouTube官方频道哦～欢迎订阅: https://goo.gl/nkjpSx]{p}
+  - [这里是李子柒YouTube官方频道哦]{p}
   - [Please  subscribe to 【李子柒 Liziqi 】Liziqi Channel on YouTube if you like my videos]{s}
 
   ---
@@ -128,12 +128,12 @@
 
 ---
 * **[studytee | 117万 | Youtube](https://www.youtube.com/@studytee/videos)**
-  - My name is Therese, and I'm a Norwegian 3rd year university student in applied mathematics!
-  - 我叫特蕾丝，是一名挪威应用数学三年级的学生！
+  - [My name is Therese, and I'm a Norwegian 3rd year university student in applied mathematics!]{p}
+  - [我叫特蕾丝，是一名挪威应用数学三年级的学生！]{s}
 
   ---
-  - Here you'll find study tips, recommendations and hopefully a bit of study motivation - all while bringing you along on my journey through university and life!
-  - 在这里，你会找到学习技巧、推荐，还能带来一些学习动力——同时带你一起踏上大学和人生的旅程！
+  - [Here you'll find study tips, recommendations and hopefully a bit of study motivation - all while bringing you along on my journey through university and life!]{p}
+  - [在这里，你会找到学习技巧、推荐，还能带来一些学习动力——同时带你一起踏上大学和人生的旅程！]{s}
 
   ---
   - [Youtuber是一位来自挪威的大一女生，专业是medical engineering | **参考: 2019年**](https://www.youtube.com/channel/UCc1QflC90Nkf_SDBZwJScDQ)
