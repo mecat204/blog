@@ -279,7 +279,7 @@
   - 你好，我是Adnan频道4k Films的Adnan。
 
   ---
-   At heart, I fall for nature callings from early morning bird chirpings, gentle breeze, and waterfalls… to tiny creek of insects natural landscapes and wonders worldwide.
+  - At heart, I fall for nature callings from early morning bird chirpings, gentle breeze, and waterfalls… to tiny creek of insects natural landscapes and wonders worldwide.
   - 内心深处，我喜欢大自然的呼唤，清晨的鸟鸣、轻柔的微风和瀑布......到昆虫的小溪，自然景观和世界各地的奇观。
 
   ---
