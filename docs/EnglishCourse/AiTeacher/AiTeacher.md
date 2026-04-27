@@ -154,7 +154,7 @@
   - [Cn: 今天就订阅他的YouTube频道，了解他如何帮助你实现目标。]{s}
 
 ---
-**AI enhances, refines, and inspires six-word stories. | AI增强、完善并激发六字故事。**
+**[AI enhances, refines, and inspires six-word stories. | AI增强、完善并激发六字故事。]{r}**
   - [En: Can a complete story be told in just six words? Writers have been captivated by this idea for decades, ever since the famous six-word tale "For sale: baby shoes, never worn." entered legend, allegedly penned on a bet by Ernest Hemingway. This ultra-short form of storytelling, known as the six-word story, packs emotion and imagination into a mere half-dozen words. It’s a creative challenge that forces every word to count. Now, a new question arises in the age of artificial intelligence: How can AI enhance the process of crafting these six-word narratives?]{p}
   - [Cn: 一个完整的故事能用六个字讲完吗？作家们几十年来一直被这个想法吸引，自从著名的六字故事"出售：婴儿鞋，从未穿过"进入传说，据说是欧内斯特·海明威在一次赌注中写下的。这种极短的叙事形式被称为"六字故事"，将情感和想象力浓缩在仅有六个字里。这是一种创意挑战，迫使每一句话都至关重要。现在，在人工智能时代出现了一个新问题：人工智能如何提升构建这些六字叙事的过程？]{s}
 
@@ -163,7 +163,7 @@
   - [Cn: 本文将探讨尖端人工智能与极简艺术的交汇。你将了解什么是六字故事，以及它们为何如此强大。随后，我们将深入探讨人工智能如何助力头脑风暴、完善用词选择，以及激发六个单词故事的创造力。在此过程中，我们将探讨案例，探讨人工智能参与的利弊，甚至解答一些常见问题。到最后，你会看到人类创造力与机器智能如何协作，创造出引人入胜的故事——哪怕只是几句话。]{s}
 
 ---
-**What Is Six-Word Storytelling? | 什么是六字讲故事？**
+**[What Is Six-Word Storytelling? | 什么是六字讲故事？]{r}**
   - [En: A six-word story is exactly what it sounds like: a story told in only six words. Despite its extreme brevity, a well-crafted six-word story can convey a whole world of meaning, emotion, and implication. The format rose to popularity largely thanks to a legendary example often attributed to Ernest Hemingway. As the story goes, Hemingway was challenged to write a full story in just six words. He allegedly scribbled "For sale: baby shoes, never worn." on a napkin — six simple words that imply a heartbreaking tale behind them. Whether or not Hemingway truly wrote it, the impact of those words is undeniable. In one short sentence, readers sense tragedy and loss, yet so much is left unsaid, engaging the reader’s imagination to fill in the blanks.]{p}
   - [Cn: 六字故事顾名思义：用六个字讲述的故事。尽管极其简短，一个精心构思的六字故事却能传达一个充满意义、情感和暗示的世界。这种格式之所以流行起来，很大程度上得益于一个常被归功于欧内斯特·海明威的传奇例子。据说，海明威被挑战用六个字写出完整的故事。据称他在餐巾纸上潦草写下"出售：婴儿鞋，从未穿过。"——这六个简单的字暗示着背后一个令人心碎的故事。无论海明威是否真的写下了这句话，这些话语的影响不可否认。一句话让读者感受到悲剧与失落，但许多内容未被提及，激发读者的想象力来填补空白。]{s}
 
@@ -176,7 +176,7 @@
   - [Cn: 本质上，六字叙事是优雅极简主义写作的艺术。而是用极少的话说很多。而且因为这极具挑战性，许多作家用它来练习语言的精准度，并激发他们的想象力。有了这样的理解，想象一下将人工智能引入这一画面——一个能够生成和测试无数词语组合的助手。这怎么可能？让我们来看看。]{s}
 
 ---
-**The Art and Challenge of Brevity | 简洁的艺术与挑战**
+**[The Art and Challenge of Brevity | 简洁的艺术与挑战]{r}**
   - "Brevity is the soul of wit," Shakespeare wrote, and in six-word stories, brevity is the soul of the entire narrative. Telling a story in just six words is both powerful and difficult. The power comes from restriction: when you only have six words, each one carries tremendous weight. The right word can speak volumes, and the wrong word can make the story fall flat. Readers often have to infer the larger context, which means a good six-word story invites the reader to become part of the storytelling process, interpreting and imagining the details that aren’t explicitly stated.
   - 莎士比亚曾写道："简洁是机智的灵魂"，而在六字故事中，简洁是整个叙事的灵魂。用六个字讲述一个故事既强大又困难。力量来自于限制：当你只有六个词时，每个词都承载着巨大的分量。一个合适的词语能胜过千言万语，错误的词语则可能让故事变得平淡无奇。读者常常需要推断更大的背景，这意味着一个好的六字故事邀请读者参与讲故事过程，去解读和想象那些未被明确陈述的细节。
 
@@ -193,7 +193,7 @@
   - 这种挑战有时会导致创作瓶颈。当你知道只有六个词可以写对时，你可能会卡在想一个"配得上"这个格式的想法上。这是你追求的终极灵感闪现，而这种压力可能会让人感到害怕。这时，AI助手就非常有帮助。AI不会疲惫或自我审查，它能轻松生成大量想法。借助一位不知疲倦的创意伙伴来克服简洁的挑战，令人心动。但机器真的能为像讲故事这样艺术性和人性化的东西做出贡献吗？在现代，答案越来越多地是肯定的。
 
 ---
-**AI’s Expanding Role in Storytelling | 人工智能在讲故事中日益扩展的角色**
+**[AI’s Expanding Role in Storytelling | 人工智能在讲故事中日益扩展的角色]{r}**
   - [En: Artificial intelligence has quickly moved from the pages of sci-fi novels to the notebooks of real writers. With the advent of advanced natural language processing (NLP) and large language models, AI systems can now generate human-like text on demand. We’ve seen AI write news articles, marketing copy, poetry, and even fiction. Major news outlets have used AI for writing tasks, demonstrating its ability to produce coherent narratives at scale.]{p}
   - [Cn: 人工智能迅速从科幻小说的书页转向了真实作家的笔记本。随着先进的自然语言处理（NLP）和大型语言模型的出现，人工智能系统现在可以按需生成类人文本。我们看到人工智能写新闻报道、营销文案、诗歌，甚至小说。主要新闻媒体已利用人工智能进行写作任务，展示了其大规模生成连贯叙事的能力。]{s}
 
