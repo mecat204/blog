@@ -170,37 +170,35 @@
      - < less Than
      - > Greator Than
 
-  - []()
-  - []()
 
 ---
 * **[linguamarina | 833万 | Youtube](https://www.youtube.com/@linguamarina)**
-  - Co-founder of a language-learning platform Linguatrip, passionate about learning languages.
-  - 语言学习平台Linguatrip的联合创始人，热衷于学习语言。
+  - [En: Co-founder of a language-learning platform Linguatrip, passionate about learning languages.]{p}
+  - [Cn: 语言学习平台Linguatrip的联合创始人，热衷于学习语言。]{s}
 
   ---
-  - I speak Russian, English, German, and a bit of Italian.
-  - 我会说俄语、英语、德语，还有一点意大利语。
+  - [En: I speak Russian, English, German, and a bit of Italian.]{p}
+  - [Cn: 我会说俄语、英语、德语，还有一点意大利语。]{s}
 
   ---
-  - If you represent a brand and want to collab, please reach out to partnerships@marinamogilko.co
-  - 如果你代表某个品牌并希望合作，请联系 partnerships@marinamogilko.co
+  - [En: If you represent a brand and want to collab, please reach out to partnerships@marinamogilko.co]{p}
+  - [Cn: 如果你代表某个品牌并希望合作，请联系 partnerships@marinamogilko.co]{s}
 
   ---
-  - Otherwise here is my assistant's email - marina@marinamogilko.co Download my English Workbook - https://bit.ly/3NTkLdC
-  - 否则这是我助理的邮箱 - marina@marinamogilko.co 下载我的英语练习册- https://bit.ly/3NTkLdC
+  - [En: Otherwise here is my assistant's email - marina@marinamogilko.co Download my English Workbook - bit.ly/3NTkLdC]{p}
+  - [Cn: 否则这是我助理的邮箱 - marina@marinamogilko.co 下载我的英语练习册- bit.ly/3NTkLdC]{s}
 
   ---
-  - My name is Marina Mogilko (or Марина Могилко in Russian, I am originally from Saint-Petersburg) I am an entrepreneur and YouTuber.
-  - 我叫玛丽娜·莫吉尔科（俄语称为Марина Могилко，我来自圣彼得堡）， 我是一名企业家和YouTuber。
+  - [En: My name is Marina Mogilko (or Марина Могилко in Russian, I am originally from Saint-Petersburg) I am an entrepreneur and YouTuber.]{p}
+  - [Cn: 我叫玛丽娜·莫吉尔科（俄语称为Марина Могилко，我来自圣彼得堡）， 我是一名企业家和YouTuber。]{s}
 
   ---
-  - One day, I realized I wanted to move to California.
-  - 有一天，我意识到我想搬到加州。
+  - [En: One day, I realized I wanted to move to California.]{p}
+  - [Cn: 有一天，我意识到我想搬到加州。]{s}
 
   ---
-  - My company, LinguaTrip, got into a top 500 Silicon Valley startup incubator and I got an O1 visa sticker in my passport.
-  - 我的公司LinguaTrip进入了硅谷前500名的初创孵化器，我的护照上还贴了O1签证贴纸。
+  - [En: My company, LinguaTrip, got into a top 500 Silicon Valley startup incubator and I got an O1 visa sticker in my passport.]{p}
+  - [Cn: 我的公司LinguaTrip进入了硅谷前500名的初创孵化器，我的护照上还贴了O1签证贴纸。]{s}
 
   ---
   - **[How I started speaking English without fear (as a non-native speaker) | 我如何无畏地开始说英语（作为非母语者）](https://www.youtube.com/watch?v=p9KWSh06Wuo)**
@@ -225,160 +223,160 @@
 
 ---
 * **[ETJ English | 113万 | Youtube](https://www.youtube.com/@etjenglish)**
-  - I’m Elliott, founder of ETJ English - a British pronunciation coach and communication mentor helping learners and professionals speak English clearly, naturally, and confidently.
-  - 我是Elliott，ETJ English的创始人——一位英国发音教练和沟通导师，帮助学习者和专业人士清晰、自然且自信地说英语。
+  - [En: I’m Elliott, founder of ETJ English - a British pronunciation coach and communication mentor helping learners and professionals speak English clearly, naturally, and confidently.]{p}
+  - [Cn: 我是Elliott，ETJ English的创始人——一位英国发音教练和沟通导师，帮助学习者和专业人士清晰、自然且自信地说英语。]{s}
 
   ---
-  - Whether your goal is reducing your accent, sounding more British, or simply feeling more confident in your everyday or professional communication, I’m here to help.
-  - 无论你的目标是减少口音、让自己听起来更有英国口音，还是单纯在日常或职业交流中感到更自信，我都在这里为你提供帮助。
+  - [En: Whether your goal is reducing your accent, sounding more British, or simply feeling more confident in your everyday or professional communication, I’m here to help.]{p}
+  - [Cn: 无论你的目标是减少口音、让自己听起来更有英国口音，还是单纯在日常或职业交流中感到更自信，我都在这里为你提供帮助。]{s}
 
   ---
-  - On this channel, you’ll find lessons on:
-	  *	Modern RP British pronunciation
-	  *	Connected speech, stress, and intonation
-	  *	Sounding natural in conversations and meetings (communication skills)
+  - [En: On this channel, you’ll find lessons on:]{p}
+	  *	[En: Modern RP British pronunciation]{p}
+	  *	[En: Connected speech, stress, and intonation]{p}
+	  *	[En: Sounding natural in conversations and meetings (communication skills)]{p}
 
-  - 在本频道，你会找到以下课程:
-    * 现代RP英式发音
-    * 连贯的言语、重音和语调
-    * 在对话和会议中听起来自然（沟通技巧）
-
-  ---
-  - Common British expressions and real speech habits Ready to take it further?
-  - 常见的英国表达和真实的说话习惯 准备好更进一步了吗？
+  - [Cn: 在本频道，你会找到以下课程:]{s}
+    * [Cn: 现代RP英式发音]{s}
+    * [Cn: 连贯的言语、重音和语调]{s}
+    * [Cn: 在对话和会议中听起来自然（沟通技巧）]{s}
 
   ---
-  - You can get personal feedback and daily support with my WhatsApp coaching and full pronunciation course at: https://www.etjenglish.com  For business enquiries or corporate coaching, feel free to contact me through email: elliott@etjenglish.com
-  - 您可以通过我的WhatsApp辅导和完整发音课程获得个人反馈和每日支持： https://www.etjenglish.com 如有商业咨询或企业辅导，欢迎通过电子邮件联系我：elliott@etjenglish.com
+  - [En: Common British expressions and real speech habits Ready to take it further?]{p}
+  - [Cn常见的英国表达和真实的说话习惯 准备好更进一步了吗？]{s}
+
+  ---
+  - [En: You can get personal feedback and daily support with my WhatsApp coaching and full pronunciation course at: www.etjenglish.com  For business enquiries or corporate coaching, feel free to contact me through email: elliott@etjenglish.com]{p}
+  - [Cn您可以通过我的WhatsApp辅导和完整发音课程获得个人反馈和每日支持： www.etjenglish.com 如有商业咨询或企业辅导，欢迎通过电子邮件联系我：elliott@etjenglish.com]{s}
 
   ---
   * **[How to Pronounce ALL British RP Diphthongs - Speak English Clearly | 如何发音所有英国RP双元音——清晰地说英语](https://www.youtube.com/watch?v=olq66C8pLw8)**
 
 ---
 * **[English with Lucy | 1310万 | Youtube](https://www.youtube.com/@EnglishwithLucy)**
-  - Click to download my FREE B1-C1
-  - 点击下载我的免费B1-C1
+  - [En: Click to download my FREE B1-C1]{p}
+  - [Cn: 点击下载我的免费B1-C1]{s}
 
   ---
-  - Ebook!👇
-  - 电子书！ 👇
+  - [En: Ebook!👇]{p}
+  - [Cn: 电子书！ 👇]{s}
 
   ---
-  - It contains ALL the vocab and grammar you need to learn to pass the B1, B2 & C1 levels of English!👇
-  - 它包含了你通过英语B1、B2和C1水平所需的所有词汇和语法！ 👇
+  - [En: It contains ALL the vocab and grammar you need to learn to pass the B1, B2 & C1 levels of English!👇]{p}
+  - [Cn: 它包含了你通过英语B1、B2和C1水平所需的所有词汇和语法！ 👇]{s}
 
   ---
   * **[If you know these, you're C2. | 如果你知道这些，你就是C2。](https://www.youtube.com/watch?v=NSycEAiPU3U)**
 
 ---
 * **[English in Comfort | 26.5万 | Youtube](https://www.youtube.com/@EnglishinComfort/videos)**
-  - Learn English the Comfortable Way!
-  - 舒适地学习英语！
+  - [En: Learn English the Comfortable Way!]{p}
+  - [Cn: 舒适地学习英语！]{s}
 
   ---
-  - At English in Comfort, we help you improve your English through listening and speaking practice.
-  - 在舒适英语中心，我们通过听力和口语练习帮助你提升英语水平。
+  - [En: At English in Comfort, we help you improve your English through listening and speaking practice.]{p}
+  - [Cn: 在舒适英语中心，我们通过听力和口语练习帮助你提升英语水平。]{s}
 
   ---
-  - Our relaxing podcasts make learning natural and enjoyable.
-  - 我们的轻松播客让学习变得自然且愉快。
+  - [En: Our relaxing podcasts make learning natural and enjoyable.]{p}
+  - [Cn: 我们的轻松播客让学习变得自然且愉快。]{s}
 
   ---
-  - No stress, just real progress!
-  - 没有压力，只有真正的进步！
+  - [En: No stress, just real progress!]{p}
+  - [Cn: 没有压力，只有真正的进步！]{s}
 
   ---
-  - What you’ll find here: ✔️
-  - 你会在这里找到： ✔️
+  - [En: What you’ll find here: ✔️]{p}
+  - [Cn: 你会在这里找到： ✔️]{s}
 
   ---
-  - Learn English through listening – absorb the language effortlessly ✔️
-  - 通过听力学习英语——轻松吸收语言 ✔️
+  - [En: Learn English through listening – absorb the language effortlessly ✔️]{p}
+  - [Cn: 通过听力学习英语——轻松吸收语言 ✔️]{s}
 
   ---
-  - Speaking practice – improve your pronunciation and confidence ✔️
-  - 口语练习——提升你的发音和自信 ✔️
+  - [En: Speaking practice – improve your pronunciation and confidence ✔️]{p}
+  - [Cn: 口语练习——提升你的发音和自信 ✔️]{s}
 
   ---
-  - Daily conversations & useful phrases – sound more natural in real life ✔️
-  - 日常对话和实用短语——在现实生活中 ✔️听起来更自然
+  - [En: Daily conversations & useful phrases – sound more natural in real life ✔️]{p}
+  - [Cn: 日常对话和实用短语——在现实生活中 ✔️听起来更自然]{s}
 
   ---
-  - Self-improvement topics – boost motivation and stay consistent Perfect for English learners who want to learn and improve at their own pace, comfortably, and in a cozy way.
-  - 自我提升主题——提升动力并保持坚持 非常适合希望以自己节奏、舒适且舒适地学习和提升的英语学习者。
+  - [En: Self-improvement topics – boost motivation and stay consistent Perfect for English learners who want to learn and improve at their own pace, comfortably, and in a cozy way.]{p}
+  - [Cn: 自我提升主题——提升动力并保持坚持 非常适合希望以自己节奏、舒适且舒适地学习和提升的英语学习者。]{s}
 
   ---
-  - Subscribe and start your journey today!
-  - 订阅，立即开始您的旅程！
+  - [En: Subscribe and start your journey today!]{p}
+  - [Cn: 订阅，立即开始您的旅程！]{s}
 
 
 
 ---
 * **[Learn English with Grace | 7560位 | Youtube](https://www.youtube.com/@LearnEnglishwithGrace24)**
-  - Hi there, I'm Grace.
-  - 你好，我是格蕾丝。
+  - [En: Hi there, I'm Grace.]{p}
+  - [Cn: 你好，我是格蕾丝。]{s}
 
   ---
-  - Welcome to my classroom!
-  - 欢迎来到我的教室！
+  - [En: Welcome to my classroom!]{p}
+  - [Cn: 欢迎来到我的教室！]{s}
 
   ---
-  - My goal is to help you have some fun while improving your English.
-  - 我的目标是帮助你在提升英语的同时享受乐趣。
+  - [En: My goal is to help you have some fun while improving your English.]{p}
+  - [Cn: 我的目标是帮助你在提升英语的同时享受乐趣。]{s}
 
   ---
-  - If you would like to book an online class with me, you can do this through Preply: https://preply.in/GRACE6EN19856962
-  - 如果你想预约我的在线课程，可以通过Preply： https://preply.in/GRACE6EN19856962
+  - [En: If you would like to book an online class with me, you can do this through Preply: preply.in/GRACE6EN19856962]{p}
+  - [Cn: 如果你想预约我的在线课程，可以通过Preply： preply.in/GRACE6EN19856962]{s}
 
   ---
   * **[How to Stay Motivated to Learn English in 2026! | 如何在2026年保持学习英语的动力！](https://www.youtube.com/watch?v=1knajL-wIjA)**
 
 ---
 * **[TED Archive | Youtube ](https://www.youtube.com/@TEDTalks)**
-  - Welcome to the TED Archive, a collection of all the talks from TED conferences from 1984 on.
-  - 欢迎来到TED档案馆，这里收录了自1984年以来所有TED会议的演讲。
+  - [En: Welcome to the TED Archive, a collection of all the talks from TED conferences from 1984 on.]{p}
+  - [Cn: 欢迎来到TED档案馆，这里收录了自1984年以来所有TED会议的演讲。]{s}
 
   ---
-  - This channel is arranged by conference and by session, featuring both talks that are already on TED.com along with newly posted, never-before-seen, unedited versions of archive talks.
-  - 该频道按会议和分会安排，包含已 TED.com 的两场演讲以及新发布、从未公开过、未经编辑的档案演讲版本。
+  - [En: This channel is arranged by conference and by session, featuring both talks that are already on TED.com along with newly posted, never-before-seen, unedited versions of archive talks.]{p}
+  - [Cn: 该频道按会议和分会安排，包含已 TED.com 的两场演讲以及新发布、从未公开过、未经编辑的档案演讲版本。]{s}
 
   ---
-  - Okay, not all the talks, because for various reasons we’ll never be able to publish them all.
-  - 好吧，不是所有演讲，因为各种原因我们永远无法全部发表。
+  - [En: Okay, not all the talks, because for various reasons we’ll never be able to publish them all.]{p}
+  - [Cn: 好吧，不是所有演讲，因为各种原因我们永远无法全部发表。]{s}
 
   ---
-  - But welcome to our as-comprehensive-as-possible work-in-progress; we’ll be working backward in time and adding talks from earlier conferences regularly, so check back often.
-  - 但欢迎来到我们尽可能全面的进行中;我们将倒推时间，定期添加早期会议的演讲，敬请经常回来查看。
+  - [En: But welcome to our as-comprehensive-as-possible work-in-progress; we’ll be working backward in time and adding talks from earlier conferences regularly, so check back often.]{p}
+  - [Cn: 但欢迎来到我们尽可能全面的进行中;我们将倒推时间，定期添加早期会议的演讲，敬请经常回来查看。]{s}
 
 ---
 * **[TEDx Talks | Youtube](https://www.youtube.com/@TEDx)**
-  - TEDx is an international community that organizes TED-style events anywhere and everywhere -- celebrating locally-driven ideas and elevating them to a global stage.
-  - TEDx是一个国际社区，组织类似TED的活动，地点和地点——庆祝本地驱动的理念，并将其提升到全球舞台。
+  - [En: TEDx is an international community that organizes TED-style events anywhere and everywhere -- celebrating locally-driven ideas and elevating them to a global stage.]{p}
+  - [Cn: TEDx是一个国际社区，组织类似TED的活动，地点和地点——庆祝本地驱动的理念，并将其提升到全球舞台。]{s}
 
   ---
-  - TEDx events are produced independently of TED conferences, each event curates speakers on their own, but based on TED's format and rules.
-  - TEDx活动独立于TED会议制作，每个活动都会根据TED的形式和规则单独策划演讲嘉宾。
+  - [En: TEDx events are produced independently of TED conferences, each event curates speakers on their own, but based on TED's format and rules.]{p}
+  - [Cn: TEDx活动独立于TED会议制作，每个活动都会根据TED的形式和规则单独策划演讲嘉宾。]{s}
 
   ---
-  - For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request here: https://media-requests.ted.com.
-  - 如需了解更多关于将TED用于商业目的的信息（例如员工学习、电影或在线课程），请在此提交媒体请求：https://media-requests.ted.com。
+  - [En: For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request here: media-requests.ted.com.]{p}
+  - [Cn: 如需了解更多关于将TED用于商业目的的信息（例如员工学习、电影或在线课程），请在此提交媒体请求：media-requests.ted.com。]{s}
 
 ---
 * **[Dr. Olivia Remes | Youtube](https://www.youtube.com/@dr.oliviaremes5962)**
-  - Hi!  I'm Dr. Olivia Remes and I'm a mental health researcher at the University of Cambridge.
-  - 你好！ 我是奥利维亚·雷梅斯博士，剑桥大学的心理健康研究员。
+  - [En: Hi!  I'm Dr. Olivia Remes and I'm a mental health researcher at the University of Cambridge.]{p}
+  - [Cn: 你好！ 我是奥利维亚·雷梅斯博士，剑桥大学的心理健康研究员。]{s}
 
   ---
-  - I have been researching anxiety, depression, and coping strategies for wellbeing and resilience for a long time, and I'm excited to share my content with you!
-  - 我一直在研究焦虑、抑郁以及关于健康和韧性的应对策略，现在很高兴能和大家分享我的内容！
+  - [En: I have been researching anxiety, depression, and coping strategies for wellbeing and resilience for a long time, and I'm excited to share my content with you!]{p}
+  - [Cn: 我一直在研究焦虑、抑郁以及关于健康和韧性的应对策略，现在很高兴能和大家分享我的内容！]{s}
 
   ---
-  - I am also a life coach working with people to help them achieve their goals in life.
-  - 我也是一名生活教练，帮助人们实现人生目标。
+  - [En: I am also a life coach working with people to help them achieve their goals in life.]{p}
+  - [Cn: 我也是一名生活教练，帮助人们实现人生目标。]{s}
 
   ---
-  - Stay tuned for videos on coping strategies, how to take back control of your life, how to become confident, and much more!
-  - 敬请关注关于应对策略、如何重新掌控生活、如何变得自信等更多内容的视频!
+  - [En: Stay tuned for videos on coping strategies, how to take back control of your life, how to become confident, and much more!]{p}
+  - [Cn: 敬请关注关于应对策略、如何重新掌控生活、如何变得自信等更多内容的视频!]{s}
 
   ---
   - [Feeling overwhelmed? Tips from Dr Olivia Remes ](https://www.youtube.com/watch?v=8-eUxk69r-I)
@@ -386,64 +384,64 @@
 
 ---
 * **[TED | Youtube](https://www.youtube.com/@TED)**
-  - The TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less).
-  - TED演讲频道汇集了TED大会上最精彩的演讲和表演，世界顶尖的思想家和实践者将在18分钟（或更短时间）内发表他们人生中最精彩的演讲。
+  - [En: The TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less).]{p}
+  - [Cn: TED演讲频道汇集了TED大会上最精彩的演讲和表演，世界顶尖的思想家和实践者将在18分钟（或更短时间）内发表他们人生中最精彩的演讲。]{s}
 
   ---
-  - Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more.
-  - 请关注关于科技、娱乐和设计的讲座——以及科学、商业、全球议题、艺术等。
+  - [En: Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more.]{p}
+  - [Cn: 请关注关于科技、娱乐和设计的讲座——以及科学、商业、全球议题、艺术等。]{s}
 
   ---
-  - You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know.
-  - 你可以链接或嵌入这些视频，转发给其他人，并与你认识的人分享这些想法。
+  - [En: You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know.]{p}
+  - [Cn: 你可以链接或嵌入这些视频，转发给其他人，并与你认识的人分享这些想法。]{s}
 
   ---
-  - TED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy.
-  - TED的视频可根据知识共享许可协议、署名-非商业-禁止衍生（或CC by – NC – ND 4.0 International）及我们的TED演讲使用政策：https://www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy 用于非商业目的。
+  - [En: TED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy.]{p}
+  - [Cn: TED的视频可根据知识共享许可协议、署名-非商业-禁止衍生（或CC by – NC – ND 4.0 International）及我们的TED演讲使用政策：www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy 用于非商业目的。]{s}
 
   ---
-  - For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at https://media-requests.ted.com
-  - 如需了解更多关于将TED用于商业目的（如员工学习、电影或在线课程）的信息，请提交媒体请求 https://media-requests.ted.com
+  - [En: For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at media-requests.ted.com]{p}
+  - [Cn: 如需了解更多关于将TED用于商业目的（如员工学习、电影或在线课程）的信息，请提交媒体请求 media-requests.ted.com]{s}
 
 ---
 * **[How the Fridge Changed Food | Nicola Twilley | TED](https://www.youtube.com/watch?v=Mz1ItbiNqxw)**
 
 ---
 * **[English Fluency Journey | 223万 | Youtube](https://www.youtube.com/@EnglishFluencyJourney)**
-  - I’m Anna and welcome to my channel.
-  - 我是安娜，欢迎来到我的频道。
+  - [En: I’m Anna and welcome to my channel.]{p}
+  - [Cn: 我是安娜，欢迎来到我的频道。]{s}
 
   ---
-  - Here, I post some useful information for English learners.
-  - 在这里，我发布了一些对英语学习者有用的信息。
+  - [En: Here, I post some useful information for English learners.]{p}
+  - [Cn: 在这里，我发布了一些对英语学习者有用的信息。]{s}
 
 
-  - I’m from Ukraine and I’ve worked on my English and accent, for the most part, on my own, but you can find out and trace my story by watching my videos.
-  - 我来自乌克兰，大部分时间都是自己努力练习英语和口音的，但你可以通过观看我的视频了解并追踪我的故事。
-
-  ---
-  - I’ve been studying American pronunciation for a long time, and I still do, and I guess I always will.
-  - 我研究美式发音已经很久了，现在依然如此，我想我永远都会继续。
+  - [En: I’m from Ukraine and I’ve worked on my English and accent, for the most part, on my own, but you can find out and trace my story by watching my videos.]{p}
+  - [Cn: 我来自乌克兰，大部分时间都是自己努力练习英语和口音的，但你可以通过观看我的视频了解并追踪我的故事。]{s}
 
   ---
-  - Learning a language, it’s a lifetime journey.
-  - 学习一门语言，是一段终身的旅程。
-
-
-  - I know exactly what it takes to become fluent and acquire an accent in a non-English speaking country.
-  - 我完全清楚在非英语国家要流利说话并学会口音需要什么。
+  - [En: I’ve been studying American pronunciation for a long time, and I still do, and I guess I always will.]{p}
+  - [Cn: 我研究美式发音已经很久了，现在依然如此，我想我永远都会继续。]{s}
 
   ---
-  - ♡Instagram page - https://www.instagram.com/englishfluencyjourney?igsh=cjgzZzQ2bzBla3dq
-  - ♡Facebook page - English Fluency Journey
-  - TikTok- www.tiktok.com/@englishfluencyjourney Amazon Wish List: https://www.amazon.com/hz/wishlist/ls/AWSROCO8IQ4N?ref_=wl_share
-  - Contact for collaboration: englishfluencyjourney@gmail.com
+  - [En: Learning a language, it’s a lifetime journey.]{p}
+  - [Cn: 学习一门语言，是一段终身的旅程。]{s}
+
+
+  - [En: I know exactly what it takes to become fluent and acquire an accent in a non-English speaking country.]{p}
+  - [Cn: 我完全清楚在非英语国家要流利说话并学会口音需要什么。]{s}
 
   ---
-  - ♡ Instagram主页 - https://www.instagram.com/englishfluencyjourney?igsh=cjgzZzQ2bzBla3dq ♡
-- Facebook主页 - 英语流利之旅 TikTok - www.tiktok.com/@englishfluencyjourney
-  - 亚马逊愿望单： https://www.amazon.com/hz/wishlist/ls/AWSROCO8IQ4N?ref_=wl_share
-  - 合作联系方式：englishfluencyjourney@gmail.com
+  - [En: ♡Instagram page - www.instagram.com/englishfluencyjourney?igsh=cjgzZzQ2bzBla3dq]{p}
+  - [En: ♡Facebook page - English Fluency Journey]{p}
+  - [En: TikTok- www.tiktok.com/@englishfluencyjourney Amazon Wish List: www.amazon.com/hz/wishlist/ls/AWSROCO8IQ4N?ref_=wl_share]{p}
+  - [En: Contact for collaboration: englishfluencyjourney@gmail.com]{p}
+
+  ---
+  - [Cn: ♡ Instagram主页 - www.instagram.com/englishfluencyjourney?igsh=cjgzZzQ2bzBla3dq ♡]{s}
+  - [Cn: Facebook主页 - 英语流利之旅 TikTok - www.tiktok.com/@englishfluencyjourney]{s}
+  - [Cn: 亚马逊愿望单： www.amazon.com/hz/wishlist/ls/AWSROCO8IQ4N?ref_=wl_share]{s}
+  - [Cn: 合作联系方式：englishfluencyjourney@gmail.com]{s}
 
 ---
 * **[English Fluency Journey | Hanna Khoma](https://www.englishfluencyjourney.com/)**
@@ -469,32 +467,32 @@
 
 ---
 * **[English Unleashed: The Podcast | 115万 | Youtube](https://www.youtube.com/@EnglishPodcastUnleashed/videos)**
-  - Welcome to English Unleashed: The Podcast.
-  - 欢迎收听《English Unleashed：播客》。
+  - [En: Welcome to English Unleashed: The Podcast.]{p}
+  - [Cn: 欢迎收听《English Unleashed：播客》。]{s}
 
   ---
-  - We are a group of language educators and researchers with more than 20 years of experience teaching English in Europe, the UK, Middle East and Austraila.
-  - 我们是一群拥有超过20年在欧洲、英国、中东和澳大利亚教授英语的语言教育者和研究人员。
+  - [En: We are a group of language educators and researchers with more than 20 years of experience teaching English in Europe, the UK, Middle East and Austraila.]{p}
+  - [Cn: 我们是一群拥有超过20年在欧洲、英国、中东和澳大利亚教授英语的语言教育者和研究人员。]{s}
 
   ---
-  - In every episode, we (Tom and Sarah) speak slowly and clearly, so you can listen, understand, and speak along with us.
-  - 在每一集中，我们（汤姆和莎拉）都说得慢而清晰，这样你可以倾听、理解并与我们一起交流。
+  - [En: In every episode, we (Tom and Sarah) speak slowly and clearly, so you can listen, understand, and speak along with us.]{p}
+  - [Cn: 在每一集中，我们（汤姆和莎拉）都说得慢而清晰，这样你可以倾听、理解并与我们一起交流。]{s}
 
   ---
-  - We share educational conversations, useful sentences, everyday expressions, and emotional language — all designed to help you sound more natural.
-  - 我们分享教育性对话、实用句子、日常表达和情感语言——所有这些都旨在帮助你听起来更自然。
+  - [En: We share educational conversations, useful sentences, everyday expressions, and emotional language — all designed to help you sound more natural.]{p}
+  - [Cn: 我们分享教育性对话、实用句子、日常表达和情感语言——所有这些都旨在帮助你听起来更自然。]{s}
 
   ---
-  - You’ll also get learning tips and simple strategies to improve your English faster and with more confidence 🎧
-  - 你还将获得学习技巧和简单的策略，帮助你更快、更有信心 🎧地提升英语水平
+  - [En: You’ll also get learning tips and simple strategies to improve your English faster and with more confidence 🎧]{p}
+  - [Cn: 你还将获得学习技巧和简单的策略，帮助你更快、更有信心 🎧地提升英语水平]{s}
 
   ---
-  - Learn the phrases native speakers use 🗣️ Practice with us — shadowing, speaking, understanding 💡 Get clear advice for building fluency Perfect for pre-intermediate to advanced learners who want to go beyond grammar — and truly speak English with feeling.
-  - 学习母语者常用 🗣️的短语 与我们一起练习——跟随学习、口语、理解 💡 获取清晰的流利度建设建议 非常适合想要超越语法的中高级学习者——并真正用感情表达英语。
+  - [En: Learn the phrases native speakers use 🗣️ Practice with us — shadowing, speaking, understanding 💡 Get clear advice for building fluency Perfect for pre-intermediate to advanced learners who want to go beyond grammar — and truly speak English with feeling.]{p}
+  - [Cn: 学习母语者常用 🗣️的短语 与我们一起练习——跟随学习、口语、理解 💡 获取清晰的流利度建设建议 非常适合想要超越语法的中高级学习者——并真正用感情表达英语。]{s}
 
   ---
-  - All rights reserved © Educational Video Productions.
-  - 版权所有，版权所有©：教育视频制作公司。
+  - [En: All rights reserved © Educational Video Productions.]{p}
+  - [Cn: 版权所有，版权所有©：教育视频制作公司。]{s}
 
 ---
 * **[高高Lindsey | 北京外国语大学英语口译硕士｜Polyglot | "语言的边界就是你世界的边界"  | 5.54万| Youtube](https://www.youtube.com/@lindseylingo/videos)**

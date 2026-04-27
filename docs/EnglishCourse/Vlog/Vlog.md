@@ -104,16 +104,16 @@
 
 ---
 * **[江寻千_九月 | 3310 | Youtube](https://www.youtube.com/@JYjiuyue)**
-  - [The smell of fireworks in the world is the most soothing to the hearts of ordinary people!]{p}
-  - [世界上烟花的气味是最能抚慰普通人心灵的！]{s}
+  - [En: The smell of fireworks in the world is the most soothing to the hearts of ordinary people!]{p}
+  - [Cn: 世界上烟花的气味是最能抚慰普通人心灵的！]{s}
 
   ---
-  - [Welcome to the official YouTube channel of "Jiang Xunqian (September)", mainly to share Chinese intangible cultural heritage with you, so that more people can understand Chinese culture.]{p}
-  - [欢迎来到"江巡谦"官方YouTube频道，主要是为了与大家分享中国非物质文化遗产，让更多人了解中国文化。]{s}
+  - [En: Welcome to the official YouTube channel of "Jiang Xunqian (September)", mainly to share Chinese intangible cultural heritage with you, so that more people can understand Chinese culture.]{p}
+  - [Cn: 欢迎来到"江巡谦"官方YouTube频道，主要是为了与大家分享中国非物质文化遗产，让更多人了解中国文化。]{s}
 
   ---
-  - [Thank you for your support and subscription]{p}
-  - [感谢您的支持和订阅]{s}
+  - [En: Thank you for your support and subscription]{p}
+  - [Cn: 感谢您的支持和订阅]{s}
 
   ---
   - [曾经最极致的浪漫，千年绝技——打铁花。](https://www.youtube.com/watch?v=HiJiAcwe9pk)
@@ -128,12 +128,12 @@
 
 ---
 * **[studytee | 117万 | Youtube](https://www.youtube.com/@studytee/videos)**
-  - [My name is Therese, and I'm a Norwegian 3rd year university student in applied mathematics!]{p}
-  - [我叫特蕾丝，是一名挪威应用数学三年级的学生！]{s}
+  - [En: My name is Therese, and I'm a Norwegian 3rd year university student in applied mathematics!]{p}
+  - [Cn: 我叫特蕾丝，是一名挪威应用数学三年级的学生！]{s}
 
   ---
-  - [Here you'll find study tips, recommendations and hopefully a bit of study motivation - all while bringing you along on my journey through university and life!]{p}
-  - [在这里，你会找到学习技巧、推荐，还能带来一些学习动力——同时带你一起踏上大学和人生的旅程！]{s}
+  - [En: En: Here you'll find study tips, recommendations and hopefully a bit of study motivation - all while bringing you along on my journey through university and life!]{p}
+  - [Cn: 在这里，你会找到学习技巧、推荐，还能带来一些学习动力——同时带你一起踏上大学和人生的旅程！]{s}
 
   ---
   - [Youtuber是一位来自挪威的大一女生，专业是medical engineering | **参考: 2019年**](https://www.youtube.com/channel/UCc1QflC90Nkf_SDBZwJScDQ)
@@ -159,24 +159,24 @@
 
 ---
 * **[English Fluency Journey | 223万 | Youtube](https://www.youtube.com/@EnglishFluencyJourney)**
-  - I’m Anna and welcome to my channel.
-  - 我是安娜，欢迎来到我的频道。
+  - [En: I’m Anna and welcome to my channel.]{p}
+  - [Cn: 我是安娜，欢迎来到我的频道。]{s}
 
   ---
-  - Here, I post some useful information for English learners.
-  - 在这里，我发布了一些对英语学习者有用的信息。
+  - [En: Here, I post some useful information for English learners.]{p}
+  - [Cn: 在这里，我发布了一些对英语学习者有用的信息。]{s}
 
 
-  - I’m from Ukraine and I’ve worked on my English and accent, for the most part, on my own, but you can find out and trace my story by watching my videos.
-  - 我来自乌克兰，大部分时间都是自己努力练习英语和口音的，但你可以通过观看我的视频了解并追踪我的故事。
-
-  ---
-  - I’ve been studying American pronunciation for a long time, and I still do, and I guess I always will.
-  - 我研究美式发音已经很久了，现在依然如此，我想我永远都会继续。
+  - [En: I’m from Ukraine and I’ve worked on my English and accent, for the most part, on my own, but you can find out and trace my story by watching my videos.]{p}
+  - [Cn: 我来自乌克兰，大部分时间都是自己努力练习英语和口音的，但你可以通过观看我的视频了解并追踪我的故事。]{s}
 
   ---
-  - Learning a language, it’s a lifetime journey.
-  - 学习一门语言，是一段终身的旅程。
+  - [En: I’ve been studying American pronunciation for a long time, and I still do, and I guess I always will.]{p}
+  - [Cn: 我研究美式发音已经很久了，现在依然如此，我想我永远都会继续。]{s}
+
+  ---
+  - [En: Learning a language, it’s a lifetime journey.]{p}
+  - [Cn: 学习一门语言，是一段终身的旅程。]{s}
 
 
   - I know exactly what it takes to become fluent and acquire an accent in a non-English speaking country.
@@ -222,24 +222,24 @@
 
 ---
 * **[Jonna Jinton | 526万 | Youtube](https://www.youtube.com/@jonnajinton)**
-  - My name is Jonna Jinton, I'm a Swedish artist, musician and filmmaker and I live in the beautiful woods in the North of Sweden.
-  - 我叫Jonna Jinton，是一名瑞典艺术家、音乐家和电影制作人，住在瑞典北部美丽的森林里。
+  - [En: My name is Jonna Jinton, I'm a Swedish artist, musician and filmmaker and I live in the beautiful woods in the North of Sweden.]{p}
+  - 我叫Jonna Jinton，是一名瑞典艺术家、音乐家和电影制作人，住在瑞典北部美丽的森林里。]{s}
 
   ---
-  - Here on my YouTube channel I share a mix of everything that I feel passionate about.
-  - 在我的YouTube频道上，我分享了我所有热爱的事情。
+  - [En: Here on my YouTube channel I share a mix of everything that I feel passionate about.]{p}
+  - 在我的YouTube频道上，我分享了我所有热爱的事情。]{s}
 
   ---
-  - From stories and glimpses of my everyday life to music, kulning (nordic herding calls), painting, ice baths, nature and inspirational films and much more.
-  - 从日常生活的故事和片段，到音乐、kulning（北欧牧歌）、绘画、冰浴、自然和励志电影等等。
+  - [En: From stories and glimpses of my everyday life to music, kulning (nordic herding calls), painting, ice baths, nature and inspirational films and much more.]{p}
+  - 从日常生活的故事和片段，到音乐、kulning（北欧牧歌）、绘画、冰浴、自然和励志电影等等。]{s}
 
   ---
-  - You are very welcome to my channel!
-  - 欢迎你来到我的频道！
+  - [En: You are very welcome to my channel!]{p}
+  - 欢迎你来到我的频道！]{s}
 
   ---
-  - I hope you will enjoy my videos! ♥
-  - 希望你会喜欢我的视频！♥
+  - [En: I hope you will enjoy my videos! ♥]{p}
+  - 希望你会喜欢我的视频！♥]{s}
 
   ---
   - **[Living with the Dark Winters in Sweden |Midnight sun & Polar night | 与瑞典的黑暗冬天共存 |午夜太阳与极夜](https://www.youtube.com/watch?v=3zTR4ayDG38)**
@@ -259,44 +259,44 @@
 
 ---
 * **[PRIMAL EARTH | 14.5万 |Youtube | 4K](https://www.youtube.com/@primalearth8951)**
-  - Our mother planet "Earth" and the vibrancy of life on it.
-  - 我们的母星"地球"以及它上生命的生机勃勃。
+  - [En: Our mother planet "Earth" and the vibrancy of life on it.]{p}
+  - [Cn: 我们的母星"地球"以及它上生命的生机勃勃。]{s}
 
   ---
-  - Feel the breath of "Earth" as you tour the great nature around the world.
-  - 在环游世界这片大自然时，感受"大地"的气息。
+  - [En: Feel the breath of "Earth" as you tour the great nature around the world.]{p}
+  - [Cn: 在环游世界这片大自然时，感受"大地"的气息。]{s}
 
   ---
-  - Beautiful and spectacular scenery and animals are still waiting for you!
-  - 美丽壮观的风景和动物们依然在等待你！
+  - [En: Beautiful and spectacular scenery and animals are still waiting for you!]{p}
+  - [Cn: 美丽壮观的风景和动物们依然在等待你！]{s}
 
   ---
   - **[National Parks of the World Amazing Views 4K](https://www.youtube.com/watch?v=cfbrsPKm_5k)**
 
 ---
 * **[4k Films by Adnan | 15.6万 | Youtube](https://www.youtube.com/@4kfilmsbyadnan)**
-  - Hi, I’m Adnan of the 4k Films by Adnan channel.
-  - 你好，我是Adnan频道4k Films的Adnan。
+  - [En: Hi, I’m Adnan of the 4k Films by Adnan channel.]{p}
+  - [Cn: 你好，我是Adnan频道4k Films的Adnan。]{s}
 
   ---
-  - At heart, I fall for nature callings from early morning bird chirpings, gentle breeze, and waterfalls… to tiny creek of insects natural landscapes and wonders worldwide.
-  - 内心深处，我喜欢大自然的呼唤，清晨的鸟鸣、轻柔的微风和瀑布......到昆虫的小溪，自然景观和世界各地的奇观。
+  - [En: At heart, I fall for nature callings from early morning bird chirpings, gentle breeze, and waterfalls… to tiny creek of insects natural landscapes and wonders worldwide.]{p}
+  - [Cn: 内心深处，我喜欢大自然的呼唤，清晨的鸟鸣、轻柔的微风和瀑布......到昆虫的小溪，自然景观和世界各地的奇观。]{s}
 
   ---
-  - We cannot find them easily in busy urban life.
-  - 在繁忙的城市生活中，我们很难找到它们。
+  - [En: We cannot find them easily in busy urban life.]{p}
+  - [Cn: 在繁忙的城市生活中，我们很难找到它们。]{s}
 
   ---
-  - My vision is to capture them into everyday accessible videos.
-  - 我的愿景是把他们拍成日常可访问的视频。
+  - [En: My vision is to capture them into everyday accessible videos.]{p}
+  - [Cn: 我的愿景是把他们拍成日常可访问的视频。]{s}
 
   ---
-  - Relax and enjoy the scenery of our beautiful world :)
-  - 放松身心，欣赏我们美丽世界的风景:)
+  - [En: Relax and enjoy the scenery of our beautiful world :)]{p}
+  - [Cn: 放松身心，欣赏我们美丽世界的风景:)]{s}
 
   ---
-  - Thank you so much.
-  - 非常感谢。
+  - [En: Thank you so much.]{p}
+  - [Cn: 非常感谢。]{s}
 
   ---
   - Adnan Email: 4kfilmsbyadnan@gmail.com
@@ -309,36 +309,36 @@
 
 ---
 * **[4K Relaxation Channel | 105万 | Youtube | 4K](https://www.youtube.com/@RelaxationChannel)**
-  - 4K Relaxation Channel in sensational 4K and 8K resolution features spectacular nature videos perfect for deep relaxation, meditation, study, sleep, healing, stress relief and more in the industry-leading, detail-oriented 4K quality that brings nature into your home.
-  - 4K放松频道以惊艳的4K和8K分辨率呈现壮观的自然视频，适合深度放松、冥想、学习、睡眠、疗愈、减压等，采用行业领先的细节导向4K画质，将大自然带入你的家中。
+  - [En: 4K Relaxation Channel in sensational 4K and 8K resolution features spectacular nature videos perfect for deep relaxation, meditation, study, sleep, healing, stress relief and more in the industry-leading, detail-oriented 4K quality that brings nature into your home.]{p}
+  - [Cn: 4K放松频道以惊艳的4K和8K分辨率呈现壮观的自然视频，适合深度放松、冥想、学习、睡眠、疗愈、减压等，采用行业领先的细节导向4K画质，将大自然带入你的家中。]{s}
 
   ---
-  - ProArtInc Company is the producer of all the content posted on this channel.
-  - ProArtInc公司是本频道所有内容的制作方。
+  - [En: ProArtInc Company is the producer of all the content posted on this channel.]{p}
+  - [Cn: ProArtInc公司是本频道所有内容的制作方。]{s}
 
   ---
-  - All the copyrights for all the videos belong to ProArtInc Company.
-  - 所有视频的版权均归ProArtInc公司所有。
+  - [En: All the copyrights for all the videos belong to ProArtInc Company.]{p}
+  - [Cn: 所有视频的版权均归ProArtInc公司所有。]{s}
 
   ---
-  - Every video you see here is filmed by real people in real places.
-  - 你在这里看到的每一段视频都是由真实的人在真实地点拍摄的。
+  - [En: Every video you see here is filmed by real people in real places.]{p}
+  - [Cn: 你在这里看到的每一段视频都是由真实的人在真实地点拍摄的。]{s}
 
   ---
-  - No AI, no fake scenes—just genuine nature, shared with you.
-  - 没有AI，没有假场景——只有真实的自然，与你共享。
+  - [En: No AI, no fake scenes—just genuine nature, shared with you.]{p}
+  - [Cn: 没有AI，没有假场景——只有真实的自然，与你共享。]{s}
 
   ---
-  - All financing of video projects (travel, shooting, editing costs) is done by ProArtInc.
-  - 所有视频项目的融资（差旅、拍摄、剪辑费用）均由ProArtInc.承担。
+  - [En: All financing of video projects (travel, shooting, editing costs) is done by ProArtInc.]{p}
+  - [Cn: 所有视频项目的融资（差旅、拍摄、剪辑费用）均由ProArtInc.承担。]{s}
 
   ---
-  - ALL THE VIDEOS HERE ARE FOR PRIVATE USE ONLY!
-  - 这里的所有视频仅供私人使用！
+  - [En: ALL THE VIDEOS HERE ARE FOR PRIVATE USE ONLY!]{p}
+  - [Cn: 这里的所有视频仅供私人使用！]{s}
 
   ---
-  - IF YOU WANT TO USE OUR VIDEOS IN ANY PROJECT, PLEASE, OBTAIN A LICENSE BY CONTACTING US AT proartinc1@gmail.com If you want to support our creative work, visit our online stores www.proartinc.net and www.beautifulwashington.com/shop/nature-relaxation-videos.html where you can shop to support us.
-  - 如果您想在任何项目中使用我们的视频，请通过联系我们获取许可 proartinc1@gmail.com 如果您想支持我们的创意工作，请访问我们的在线商店 www.proartinc.net 和 www.beautifulwashington.com/shop/nature-relaxation-videos.html ，您可以在那里购买支持我们的产品。
+  - [En: IF YOU WANT TO USE OUR VIDEOS IN ANY PROJECT, PLEASE, OBTAIN A LICENSE BY CONTACTING US AT proartinc1@gmail.com If you want to support our creative work, visit our online stores www.proartinc.net and www.beautifulwashington.com/shop/nature-relaxation-videos.html where you can shop to support us.]{p}
+  - [Cn: 如果您想在任何项目中使用我们的视频，请通过联系我们获取许可 proartinc1@gmail.com 如果您想支持我们的创意工作，请访问我们的在线商店 www.proartinc.net 和 www.beautifulwashington.com/shop/nature-relaxation-videos.html ，您可以在那里购买支持我们的产品。]{s}
 
   ---
   - **[无人机镜头 - 克罗地亚、欧洲的鸟瞰图 - 3 小时无人机环境电影 | 4K](https://www.youtube.com/watch?v=HSsqzzuGTPo&list=PL-_vMUSUXkyep9L7dxNjDKVZ2wJqtuzW3)**
@@ -350,16 +350,16 @@
 
 ---
 * **[Scenic Relaxation | 166万 |  Youtube | 4K](https://www.youtube.com/@ScenicRelaxationFilms)**
-  - The goal at Scenic Relaxation is to provide relaxing 4K films of the world's most incredible destinations.
-  - Scenic Relaxation的目标是提供世界上最不可思议目的地的放松4K影片。
+  - [En: The goal at Scenic Relaxation is to provide relaxing 4K films of the world's most incredible destinations.]{p}
+  - [Cn: Scenic Relaxation的目标是提供世界上最不可思议目的地的放松4K影片。]{s}
 
   ---
-  - From the Alps of Switzerland, to the exotic landscapes of Africa, Scenic Relaxation will show you our incredible planet.
-  - 从瑞士阿尔卑斯山到非洲的异域风光，Scenic Relaxation 将带你了解我们令人难以置信的星球。
+  - [En: From the Alps of Switzerland, to the exotic landscapes of Africa, Scenic Relaxation will show you our incredible planet.]{p}
+  - [Cn: 从瑞士阿尔卑斯山到非洲的异域风光，Scenic Relaxation 将带你了解我们令人难以置信的星球。]{s}
 
   ---
-  - Relax and enjoy the scenery of our beautiful world :)
-  - 放松，欣赏我们美丽世界的风景:)
+  - [En: Relax and enjoy the scenery of our beautiful world :)]{p}
+  - [Cn: 放松，欣赏我们美丽世界的风景:)]{s}
 
   - **[Kamchatka 4K - Scenic Relaxation Film With Calming Music](https://www.youtube.com/watch?v=aaflSqm2LLY)**
   - **[Japan 4K - Scenic Relaxation Film With Calming Music](https://www.youtube.com/watch?v=D48T0wNm96w)**
@@ -386,63 +386,63 @@
 
 ---
 * **[Learn English with Jessica | 274万 | 动画 | Youtube](https://www.youtube.com/channel/UCXtMjo8xJqjEhS4A9KUY8GA)**
-  - Learn English with Jessica is a FREE Channel for English learners.
-  - "与杰西卡一起学习英语"是一个免费的英语学习频道。
+  - [En: Learn English with Jessica is a FREE Channel for English learners.]{p}
+  - [Cn: "与杰西卡一起学习英语"是一个免费的英语学习频道。]{s}
 
   ---
-  - Our Channel will create a variety of videos about EVERYDAY conversations which are aimed at improving your general English knowledge and skills.
-  - 我们的频道将制作各种关于日常对话的视频，旨在提升你的英语基础知识和技能。
+  - [En: Our Channel will create a variety of videos about EVERYDAY conversations which are aimed at improving your general English knowledge and skills.]{p}
+  - [Cn: 我们的频道将制作各种关于日常对话的视频，旨在提升你的英语基础知识和技能。]{s}
 
   ---
-  - In particular, you will learn:
-    * Listening and Speaking Skills
-    * Vocabulary
-    * Tips
-    * Grammar
-  - We will upload new videos at 4:30 AM every Monday, Tuesday, Wednesday and Friday.
+  - [En: In particular, you will learn:]{p}
+    * [En: Listening and Speaking Skills]{p}
+    * [En: Vocabulary]{p}
+    * [En: Tips]{p}
+    * [En: Grammar]{p}
+  - [En: We will upload new videos at 4:30 AM every Monday, Tuesday, Wednesday and Friday.]{p}
 
-  - 特别是，您将学习：
-    * 听力与口语技能
-    * 词 汇
-    * 技巧
-    * 语法
-  - 我们将在每周一、二、三、五凌晨4：30上传新视频。
-
-  ---
-  - Thousands of English Videos are waiting for you.
-  - 成千上万的英文视频正等着你。
+  - [Cn: 特别是，您将学习：]{s}
+    * [Cn: 听力与口语技能]{s}
+    * [Cn: 词 汇]{s}
+    * [Cn: 技巧]{s}
+    * [Cn: 语法]{s}
+  - [Cn: 我们将在每周一、二、三、五凌晨4：30上传新视频。]{s}
 
   ---
-  - ☞ Please subscribe to our channel and turn on notifications to stay updated with our latest videos.❤️❤️❤️
-  - ☞ 请订阅我们的频道并开启通知，随时获取最新视频信息。 ❤️❤️❤️
+  - [En: Thousands of English Videos are waiting for you.]{p}
+  - [Cn: 成千上万的英文视频正等着你。]{s}
+
+  ---
+  - [En: ☞ Please subscribe to our channel and turn on notifications to stay updated with our latest videos.❤️❤️❤️]{p}
+  - [Cn: ☞ 请订阅我们的频道并开启通知，随时获取最新视频信息。 ❤️❤️❤️]{s}
 
   ---
   * **[30 Minutes of Daily English Conversations for Beginners (A2 Level) | Practice Listening and Speaking | 初学者每日英语会话30分钟（A2水平） | 练习听和说](https://www.youtube.com/watch?v=1lGynioT8B8)**
 
 ---
 * **[BBC Earth | 1420万 | Youtube](https://www.youtube.com/@bbcearth)**
-  - Bringing you face-to-face with heart-pounding action, mind-blowing ideas and the sheer wonder of being part of this amazing planet we call home.
-  - 带你面对令人心跳加速的动作、令人震撼的创意，以及成为这个我们称之为家的奇妙星球一部分的纯粹惊奇。
+  - [En: Bringing you face-to-face with heart-pounding action, mind-blowing ideas and the sheer wonder of being part of this amazing planet we call home.]{p}
+  - [Cn: 带你面对令人心跳加速的动作、令人震撼的创意，以及成为这个我们称之为家的奇妙星球一部分的纯粹惊奇。]{s}
 
   ---
-  - BBC Earth is the official channel of well-known Sir David Attenborough series such as Planet Earth, Frozen Planet and Blue Planet II.
-  - BBC地球频道是著名大卫·阿滕伯勒系列节目的官方频道，如《地球脉动》、《冰冻星球》和《蓝色星球II》。
+  - [En: BBC Earth is the official channel of well-known Sir David Attenborough series such as Planet Earth, Frozen Planet and Blue Planet II.]{p}
+  - [Cn: BBC地球频道是著名大卫·阿滕伯勒系列节目的官方频道，如《地球脉动》、《冰冻星球》和《蓝色星球II》。]{s}
 
   ---
-  - It's also where you can find fantastic nature and wildlife documentaries such as Life of Mammals and classics like Planet Dinosaur.
-  - 这里还能找到精彩的自然和野生动物纪录片，如《哺乳动物的生活》，以及经典作品如《恐龙星球》。
+  - [En: It's also where you can find fantastic nature and wildlife documentaries such as Life of Mammals and classics like Planet Dinosaur.]{p}
+  - [Cn: 这里还能找到精彩的自然和野生动物纪录片，如《哺乳动物的生活》，以及经典作品如《恐龙星球》。]{s}
 
   ---
-  - You can become part of the BBC community by checking out our BBC Earth Facebook, Instagram, TikTok, Snapchat and Twitter.
-  - 您可以通过查看我们的BBC Earth Facebook、Instagram、TikTok、Snapchat和Twitter，成为BBC社区的一员。
+  - [En: You can become part of the BBC community by checking out our BBC Earth Facebook, Instagram, TikTok, Snapchat and Twitter.]{p}
+  - [Cn: 您可以通过查看我们的BBC Earth Facebook、Instagram、TikTok、Snapchat和Twitter，成为BBC社区的一员。]{s}
 
   ---
-  - Here you'll find the best natural history content from the web, exclusive videos and images and a thriving, vibrant community.
-  - 在这里，您可以找到来自网络的最佳自然历史内容、独家视频和图片，以及一个充满活力的社区。
+  - [En: Here you'll find the best natural history content from the web, exclusive videos and images and a thriving, vibrant community.]{p}
+  - [Cn: 在这里，您可以找到来自网络的最佳自然历史内容、独家视频和图片，以及一个充满活力的社区。]{s}
 
   ----
-  - This is a commercial channel from BBC Studios.
-  - 这是BBC工作室的商业频道。
+  - [En: This is a commercial channel from BBC Studios.]{p}
+  - [Cn: 这是BBC工作室的商业频道。]{s}
 
   ---
   - Service information and feedback: https://www.bbcstudios.com/contact/contact-us/
@@ -456,32 +456,32 @@
 
 ---
 * **[SciShow Kids | 157万 | Youtube](https://www.youtube.com/@SciShowKids/videos)**
-  - From the team behind the YouTube series SciShow comes SciShow Kids!
-  - 由YouTube系列《SciShow》团队打造，推出了《SciShow Kids》！
+  - [En: From the team behind the YouTube series SciShow comes SciShow Kids!]{p}
+  - [Cn: 由YouTube系列《SciShow》团队打造，推出了《SciShow Kids》！]{s}
 
   ---
-  - Join host Jessi, her robot rat friend Squeaks, and all their friends at the Fort as they explain fun, complex science concepts for young, curious minds.
-  - 加入主持人Jessi、她的机器人老鼠朋友Squeaks以及所有朋友们在堡垒，向年轻好奇的孩子们讲解有趣且复杂的科学概念。
+  - [En: Join host Jessi, her robot rat friend Squeaks, and all their friends at the Fort as they explain fun, complex science concepts for young, curious minds.]{p}
+  - [Cn: 加入主持人Jessi、她的机器人老鼠朋友Squeaks以及所有朋友们在堡垒，向年轻好奇的孩子们讲解有趣且复杂的科学概念。]{s}
 
   ---
-  - Whether conducting experiments, researching new questions, or talking with experts, there’s always something new to discover with SciShow Kids, no matter what your age!
-  - 无论是进行实验、研究新问题，还是与专家交流，无论年龄多大，SciShow Kids总有新发现！
+  - [En: Whether conducting experiments, researching new questions, or talking with experts, there’s always something new to discover with SciShow Kids, no matter what your age!]{p}
+  - [Cn: 无论是进行实验、研究新问题，还是与专家交流，无论年龄多大，SciShow Kids总有新发现！]{s}
 
   ---
-  - SciShow Kids is streaming on Peacock and Roku!
-  - 《SciShow Kids》正在Peacock和Roku上线！
+  - [En: SciShow Kids is streaming on Peacock and Roku!]{p}
+  - [Cn: 《SciShow Kids》正在Peacock和Roku上线！]{s}
 
   ---
-  - Just search for SciShow Kids to watch a special selection of our favorite compilations.
-  - 只需搜索"SciShow Kids"，即可观看我们特别精选的喜爱合集。
+  - [En: Just search for SciShow Kids to watch a special selection of our favorite compilations.]{p}
+  - [Cn: 只需搜索"SciShow Kids"，即可观看我们特别精选的喜爱合集。]{s}
 
   ---
-  - New episodes of SciShow Kids will continue to be posted on YouTube.
-  - 《SciShow Kids》的新剧集将继续在YouTube上发布。
+  - [En: New episodes of SciShow Kids will continue to be posted on YouTube.]{p}
+  - [Cn: 《SciShow Kids》的新剧集将继续在YouTube上发布。]{s}
 
   ---
-  - SciShow Kids is ideal for early-elementary learners, Grades 1-3, and most episodes are structured around the Next Generation Science Standards (NGSS) curriculum.
-  -《SciShow Kids》非常适合1至3年级的初小学儿童，大多数节目围绕下一代科学标准（NGSS）课程展开。
+  - [En: SciShow Kids is ideal for early-elementary learners, Grades 1-3, and most episodes are structured around the Next Generation Science Standards (NGSS) curriculum.]{p}
+  - [Cn: 《SciShow Kids》非常适合1至3年级的初小学儿童，大多数节目围绕下一代科学标准（NGSS）课程展开。]{s}
 
 ---
 * **[Dan Koe | 124万 | Youtube](https://www.youtube.com/@DanKoeTalks)**
@@ -514,92 +514,92 @@
 
 ---
 * **[Tourist Walk Tours | 44.2万 | Youtube](https://www.youtube.com/@TouristWalkTours)**
-  - Welcome to Tourist Walk Tours — your passport to adventure!
-  - 欢迎来到旅游徒步游——你的冒险通行证！
+  - [En: Welcome to Tourist Walk Tours — your passport to adventure!]{p}
+  - [Cn: 欢迎来到旅游徒步游——你的冒险通行证！]{s}
 
   ---
-  - 👋 Hi, I’m Dan, a passionate travel videographer who loves capturing the world’s most amazing places — from bustling cities to beautiful villages that take your breath away.
-  - 👋 你好，我是丹，一名充满热情的旅行摄像师，热爱捕捉世界上最令人惊叹的地方——从繁忙的城市到令人屏息的美丽村庄。
+  - [En: 👋 Hi, I’m Dan, a passionate travel videographer who loves capturing the world’s most amazing places — from bustling cities to beautiful villages that take your breath away.]{p}
+  - [Cn: 👋 你好，我是丹，一名充满热情的旅行摄像师，热爱捕捉世界上最令人惊叹的地方——从繁忙的城市到令人屏息的美丽村庄。]{s}
 
   ---
-  - Join me on exciting journeys that inspire and connect us.
-  - 加入我，一起踏上激动人心、连接我们的旅程。
+  - [En: Join me on exciting journeys that inspire and connect us.]{p}
+  - [Cn: 加入我，一起踏上激动人心、连接我们的旅程。]{s}
 
   ---
-  - 🚶‍♂️ Let’s explore vibrant cultures, rich histories, and breathtaking scenery together.
-  - 🚶 ♂️ 让我们一起探索充满活力的文化、丰富的历史和令人惊叹的风景。
+  - [En: 🚶‍♂️ Let’s explore vibrant cultures, rich histories, and breathtaking scenery together.]{p}
+  - [Cn: 🚶 ♂️ 让我们一起探索充满活力的文化、丰富的历史和令人惊叹的风景。]{s}
 
   ---
-  - Every destination has a unique story, and I’m here to share it with you.📹
-  - 每个目的地都有独特的故事，我在这里与你分享。 📹
+  - [En: Every destination has a unique story, and I’m here to share it with you.📹]{p}
+  - [Cn: 每个目的地都有独特的故事，我在这里与你分享。 📹]{s}
 
   ---
-  - My immersive videos make you feel like you’re right there, walking beside me.
-  - 我的沉浸式视频让你仿佛就在我身边，走在我身边。
+  - [En: My immersive videos make you feel like you’re right there, walking beside me.]{p}
+  - [Cn: 我的沉浸式视频让你仿佛就在我身边，走在我身边。]{s}
 
   ---
-  - Whether you’re planning your next trip or simply dreaming, this channel is your perfect travel companion.🌆
-  - 无论你是在计划下一次旅行，还是只是做梦，这个频道都是你完美的旅行伙伴。 🌆
+  - [En: Whether you’re planning your next trip or simply dreaming, this channel is your perfect travel companion.🌆]{p}
+  - [Cn: 无论你是在计划下一次旅行，还是只是做梦，这个频道都是你完美的旅行伙伴。 🌆]{s}
 
   ---
-  - Discover iconic landmarks, delicious local cuisine, and insider tips for your adventures.
-  - 发现标志性地标、美味的本地美食以及冒险的内部小贴士。
+  - [En: Discover iconic landmarks, delicious local cuisine, and insider tips for your adventures.]{p}
+  - [Cn: 发现标志性地标、美味的本地美食以及冒险的内部小贴士。]{s}
 
   ---
-  - The world is huge — let’s explore it together!
-  - 世界很大——让我们一起探索吧！
+  - [En: The world is huge — let’s explore it together!]{p}
+  - [Cn: 世界很大——让我们一起探索吧！]{s}
 
   ---
   - **[**瑞士**最美的山村——你会想搬到这里来。](https://www.youtube.com/watch?v=o9esB3n-GAw)**
 
 ---
 * **[🇨🇭 SWISS - Most Beautiful Places & Walking Tours | 瑞士 | 8.69万 | Youtube](https://www.youtube.com/@SWISS_WalkingTours)**
-  - Welcome to our YouTube channel dedicated to the breathtaking beauty of Switzerland!
-  - 欢迎来到我们的YouTube频道，专注于瑞士令人叹为观止的美景！
+  - [En: Welcome to our YouTube channel dedicated to the breathtaking beauty of Switzerland!]{p}
+  - [Cn: 欢迎来到我们的YouTube频道，专注于瑞士令人叹为观止的美景！]{s}
 
   ---
-  - Join us on enchanting journeys through the most picturesque destinations in this Alpine wonderland.
-  - 加入我们，踏上穿越这片阿尔卑斯奇境中最美丽目的地的迷人旅程。
+  - [En: Join us on enchanting journeys through the most picturesque destinations in this Alpine wonderland.]{p}
+  - [Cn: 加入我们，踏上穿越这片阿尔卑斯奇境中最美丽目的地的迷人旅程。]{s}
 
   ---
-  - Explore the charm of Mürren, the awe-inspiring Jungfrau: Top of Europe, the mesmerizing Lauterbrunnen Valley with its cascading waterfalls, the scenic Allmendhubel, the idyllic town of Spiez, the crystal-clear waters of Blausee, the serene Brienz, the alpine wonders of Kandersteg, the captivating Grindelwald, and the majestic Swiss Alps.
-  - 探索穆伦的魅力、令人敬畏的少女峰：欧洲之巅、迷人的劳特布伦嫩谷及其瀑布、风景如画的奥尔门杜贝尔、田园诗般的斯皮茨镇、清澈见底的布劳西湖水、宁静的布里恩茨、坎德施泰格的高山奇观、迷人的格林德沃，以及雄伟的瑞士阿尔卑斯山。
+  - [En: Explore the charm of Mürren, the awe-inspiring Jungfrau: Top of Europe, the mesmerizing Lauterbrunnen Valley with its cascading waterfalls, the scenic Allmendhubel, the idyllic town of Spiez, the crystal-clear waters of Blausee, the serene Brienz, the alpine wonders of Kandersteg, the captivating Grindelwald, and the majestic Swiss Alps.]{p}
+  - [Cn: 探索穆伦的魅力、令人敬畏的少女峰：欧洲之巅、迷人的劳特布伦嫩谷及其瀑布、风景如画的奥尔门杜贝尔、田园诗般的斯皮茨镇、清澈见底的布劳西湖水、宁静的布里恩茨、坎德施泰格的高山奇观、迷人的格林德沃，以及雄伟的瑞士阿尔卑斯山。]{s}
 
   ---
-  - To our valued viewers, we extend our heartfelt gratitude for joining us on these adventures.
-  - 我们衷心感谢亲爱的观众们加入我们的这些冒险。
+  - [En: To our valued viewers, we extend our heartfelt gratitude for joining us on these adventures.]{p}
+  - [Cn: 我们衷心感谢亲爱的观众们加入我们的这些冒险。]{s}
 
   ---
-  - Your support means the world to us!
-  - 你们的支持对我们意义重大！
+  - [En: Your support means the world to us!]{p}
+  - [Cn: 你们的支持对我们意义重大！]{s}
 
   ---
-  - If you haven't already, please subscribe to our channel and hit the like button.
-  - 如果你还没订阅，请订阅我们的频道并点赞。
+  - [En: If you haven't already, please subscribe to our channel and hit the like button.]{p}
+  - [Cn: 如果你还没订阅，请订阅我们的频道并点赞。]{s}
 
   ---
-  - By doing so, you not only express your appreciation but also assist others in discovering the unparalleled beauty of Switzerland and relishing the wonders of its nature.
-  - 这样做不仅表达了你的欣赏，也帮助他人发现瑞士无与伦比的美丽，享受其自然的奇观。
+  - [En: By doing so, you not only express your appreciation but also assist others in discovering the unparalleled beauty of Switzerland and relishing the wonders of its nature.]{p}
+  - [Cn: 这样做不仅表达了你的欣赏，也帮助他人发现瑞士无与伦比的美丽，享受其自然的奇观。]{s}
 
   ---
   - **[**瑞士**的天堂：瑞士乡村美丽村庄的雨天](https://www.youtube.com/watch?v=-kenx1rQyZo)**
 
 ---
 * **[SoulEase Space | 音乐 | Youtube](https://www.youtube.com/@SoulEase_Space)**
-  - Welcome to SoulEase Space—a serene place to unwind, soothe your soul, and find harmony. 🎹🌿
-  - 欢迎来到SoulEase空间——一个宁静的地方，让你放松身心，抚慰心灵，找到和谐。🎹🌿
+  - [En: Welcome to SoulEase Space—a serene place to unwind, soothe your soul, and find harmony. 🎹🌿]{p}
+  - [Cn: 欢迎来到SoulEase空间——一个宁静的地方，让你放松身心，抚慰心灵，找到和谐。🎹🌿]{s}
 
   ---
-  - Here, every piano note flows softly, like a whisper of serenity, guiding you to inner peace and clarity.
-  - 这里，每一个钢琴音符都轻柔流淌，如同宁静的低语，引导你走向内心的平静与清晰。
+  - [En: Here, every piano note flows softly, like a whisper of serenity, guiding you to inner peace and clarity.]{p}
+  - [Cn: 这里，每一个钢琴音符都轻柔流淌，如同宁静的低语，引导你走向内心的平静与清晰。]{s}
 
   ---
-  - Let the soothing melodies help you drift off to deep sleep, focus easily, or simply unwind after a long day.
-  - 让舒缓的旋律帮助你进入深度睡眠，轻松集中注意力，或在漫长一天后放松身心。
+  - [En: Let the soothing melodies help you drift off to deep sleep, focus easily, or simply unwind after a long day.]{p}
+  - [Cn: 让舒缓的旋律帮助你进入深度睡眠，轻松集中注意力，或在漫长一天后放松身心。]{s}
 
   ---
-  - Close your eyes, take a deep breath, and allow your soul to find peace in this tranquil space.
-  - 闭上眼睛，深呼吸，让你的灵魂在这宁静的空间中找到平静。
+  - [En: Close your eyes, take a deep breath, and allow your soul to find peace in this tranquil space.]{p}
+  - [Cn: 闭上眼睛，深呼吸，让你的灵魂在这宁静的空间中找到平静。]{s}
 
   ---
   - **[音乐疗法🌿 修复神经系统，停止过度思考 | 舒缓压力的放松音乐](https://www.youtube.com/watch?v=ecrL5FHBmFA)**
