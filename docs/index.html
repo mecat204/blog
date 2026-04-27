@@ -11,7 +11,7 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css" />
   <link rel="stylesheet" href="https://unpkg.com/docsify-copy-code@2/styles.css" />
   <style>
-    .root, .suffix, .prefix {
+    .root, .suffix, .prefix, .end{
       display: inline-block;
       padding: 2px 6px;
       border-radius: 6px;
@@ -19,9 +19,10 @@
       font-weight: bold;
     }
 
-    .root   { background: #f1be19; }
+    .root   { background: #f4bc048b; }
     .suffix { background: #74b9ff; }
     .prefix { background: #92e908; }
+    .end    { background: #e908b84d; }
   </style>
 </head>
 <body>
@@ -54,13 +55,13 @@
     function (hook) {
       hook.afterEach(function (html) {
         return html
-          // 普通文本
-          .replace(/\[([^\]]+)\]\{r\}/g, '<span class="root">$1</span>')
-          .replace(/\[([^\]]+)\]\{s\}/g, '<span class="suffix">$1</span>')
-          .replace(/\[([^\]]+)\]\{p\}/g, '<span class="prefix">$1</span>')
+         // ===== 普通文本 =====
+         .replace(/\[([^\]]+)\]\{r\}/g, '<span class="root">$1</span>')
+         .replace(/\[([^\]]+)\]\{p\}/g, '<span class="prefix">$1</span>')
+         .replace(/\[([^\]]+)\]\{s\}/g, '<span class="suffix">$1</span>')
+         .replace(/\[([^\]]+)\]\{e\}/g, '<span class="end">$1</span>')
       });
-    }
-  );
+  });
   </script>
 </body>
 </html>
