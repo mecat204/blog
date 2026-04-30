@@ -18,6 +18,7 @@
 ---
 * **理想生活**
   - [理想的生活](理想生活/理想的生活)
+  - [旅居](理想生活/旅居)
   - [我要我的人生过的精彩](理想生活/我要我的人生过的精彩)
 
 ---
@@ -34,6 +35,7 @@
 ---
 * **Music**
   - [music](Music/music)
+  - [AiSinger](Music/AiSinger)
   - [BilibliYoutube](Music/BilibliYoutube)
   - [古琴](Music/古琴)
   - [钢琴](Music/钢琴)
@@ -54,6 +56,7 @@
   - **Vlog | Youtube**
     * [Vlog](EnglishCourse/Vlog/Vlog)
 
+  ---
   - **雪梨Teacher**
     * [小学 | 第一册 | 人与自我](EnglishCourse/雪梨Teacher/小学第一册·人与自我)
     * [小学 | 第二册 | 人与社会](EnglishCourse/雪梨Teacher/小学第二册·人与社会)
@@ -155,14 +158,15 @@
   - [认知](摘录集/认知)
 
 ---
-* **图文散频**
-  - [图文散频](图文散频/图文散拼)
+* **星海**
+  - **图文散频**
+    * [图文散频](图文散频/人间道)
+  - [星海](星海/凡人修仙)
 
 ---
 * **Collection**
   - [readme](Collection/readme)
   - [Todaytask](Collection/Todaytask)
-  - [凡人修仙](Collection/凡人修仙)
   - [传统武术·赛博武侠](Collection/传统武术·赛博武侠)
   - [时政](Collection/时政)
   - [信息生态](Collection/信息生态)

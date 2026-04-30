@@ -10,6 +10,8 @@
 
 ---
 ### 0001. AiWebsite
+* **[mmguo](https://mmguo.xyz)**
+
 * **[Dora: Start with AI, ship 3D animated websites without code](https://www.dora.run/)**
 
 ---
@@ -61,7 +63,7 @@
 * **[必应 | bing.com](https://cn.bing.com/)**
 
 ---
-* **[dlpanda](https://dlpanda.com)**
+* **[dlpanda](https://www.dlpanda.com)**
 
 ---
 * **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**

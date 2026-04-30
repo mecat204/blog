@@ -454,6 +454,16 @@
   - **[原神：高清重置—5周年](https://v.douyin.com/kbBTsPzkGdc/)**
 
 ---
+### 0009. R白哥
+* **[R白哥 | 伍佰章 | Douyin](https://v.douyin.com/WwqIgNW-dss/)**
+  - [六年了，终于来到开门的地方了](https://v.douyin.com/ardzuyS7RSE/)
+
+  ---
+  [001. 原神震撼场面]{p}
+    - [你们选的哥哥还是妹妹 | 流风眷堇庭 | 001](https://v.douyin.com/GDA74MH6_GQ/)
+    - [当应急食品的地位受到了威胁 | 虚空鼓动劫火高扬 | 012](https://v.douyin.com/PAJiIaoYqcc/)
+
+---
 ### 9999. Download
 * **[dlpanda](https://www.dlpanda.com)**
 

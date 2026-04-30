@@ -96,6 +96,13 @@
   - **[这是不是你想象中，自由的样子？| 小美真会玩](https://v.douyin.com/a6sfhXm8Tfs/)**
 
 ---
+* **[是阿君呀⁰⁶²⁰ | 贰佰章 | Douyin](https://v.douyin.com/Nymoib4fmlI/)**
+  - [对口型飙演技 | 搞笑](https://v.douyin.com/JOK-1mCALpo/)
+  - [A股来的](https://v.douyin.com/dh-Y0sybR2Y/)
+  - [纯属虚构 | 虚构演绎仅供娱乐  | 皮一下很开心](https://v.douyin.com/ljq-7NHxTdo/)
+  - [**希望疫情早点结束恢复正常生活** | 2022](https://v.douyin.com/D86mKBptKnA/)
+  - [**希望疫情早点结束恢复正常生活** | 2022.11.30](https://v.douyin.com/w-gP0IInkaw/)
+
 ### 0005. 2023
 * **[清植酱 | 百章 | Douyin](https://v.douyin.com/0sW4WCGSeQY/)**
   - [一朝入元婴，逼格直攀升！猫鼠身份转换，韩天尊压迫力拉满！](https://v.douyin.com/ft_f9dTYvJY/)
@@ -236,6 +243,7 @@
 ---
 * **[奶思兔咪鱿 | Nice to meet you | 五百章 | Douyin](https://v.douyin.com/yF1WG9-otuc/)**
   - [儿时不解 大人为何拼尽全力依然清贫 长大才知 光是活着养家便已是多数人的极限](https://v.douyin.com/shTHN-zbKIY/)
+  - [**有这精力干什么都会成功的** | vlog](https://v.douyin.com/ny9bMYVcOu8/)
 
 ---
 * **[鱿子 | 祝大家天天开心 |  百章 | Douyin](https://v.douyin.com/v4cURCRwMU4/)**
@@ -266,6 +274,10 @@
   - [凡人修仙传~道友~晚辈😄 | 凡人修仙传| 王婵| 韩立| 动漫国漫| 唐朝诡事录3](https://v.douyin.com/HvuwN05oJCQ/)
 
 ---
+* **[小Lin说 | 商业财经不无聊～ 毕业于北京大学经济学院｜前华尔街摩根大通分析师 | 千章](https://v.douyin.com/7Q4ZOSs6JaM/)**
+  - [对话多邻国创始人 | 大佬也要向华尔街低头](https://v.douyin.com/tWKiIWwysG8/)
+
+---
 * **[小藤 | 五百章 | Douyin](https://v.douyin.com/5mfsRf6MFrI/)**
   - [穿这么严 还说不是严党！ 翻拍| 大明王朝 | 严世藩 | 古风 | 汉服小姐姐](https://v.douyin.com/xvEAGc7-B-8/)
   - [心疼一秒 倒霉一年 | 成功人士| 商务 | 气质哥 | 古风 | 模仿](https://v.douyin.com/6M2STmFu0bk/)
@@ -291,7 +303,6 @@
 ---
 * **[傻白呀 | To see a bigger world | 千章 | Douyin](https://v.douyin.com/-pcXaJmmjN0/)**
   - [时间会把所有苦难变成笑谈，所以请一定保住狗命，去见证更精彩的世界 | 反焦虑 | 人生感悟 | 岩中花述](https://v.douyin.com/K0wrmNGOGRM/)
-
 
 ---
 * **[折玉风 | 千章 | Douyin](https://v.douyin.com/g2vkpwEo6-E/)**
@@ -382,7 +393,6 @@
 
 ---
 * **[乃炎英语 | 奈炎工作室 | 英语学习顾问, 专注成人零基础英语起步到提升 | 七年教龄 | 英语专八, 资深英语培训师 | 高级英语教师资格证 CATTI三级 | 一起快乐学英语 | Douyin | 五百章 | Douyin](https://v.douyin.com/pPqC74m3eTU/)**
-
 
 ---
 * **[古宇家办 | 国内首家一站式财富管理和家族综合服务家族办公室 | 五百章 | Douyin ](https://v.douyin.com/Bq2kUH60nkY/)**
