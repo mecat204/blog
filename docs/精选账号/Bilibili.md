@@ -83,6 +83,7 @@
 
 ---
 ### 0007. Veritasium | Bilibili
+**[Veritasium]{p}**
 * **[Veritasium真理元素 | 4K | Veritasium中国官方频道 探索科学及工程背后的真理 | 商务微信：origami-alice |  107.0万 | Bilibili](https://space.bilibili.com/94742590/lists)**
   - **[这是生物学中最具有歧义的话题](https://www.bilibili.com/video/BV1QtUEBdE4B/?spm_id_from=333.1387.collection.video_card.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
   - **[这个数学模型（几乎）能预测宇宙万物](https://www.bilibili.com/video/BV1Aj8DzzE42/?spm_id_from=333.1387.collection.video_card.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
@@ -95,11 +96,13 @@
 
 ---
 ### 0008. XDx_先进生产力 | Bilibili
+**[XDx_先进生产力]{p}**
 * **[XDx_先进生产力 | 世界的最前沿 | 1.6万 | Bilibili](https://space.bilibili.com/456284799?spm_id_from=333.1387.follow.user_card.click)**
   - **[杨安泽：先发钱还是先发房？AI抢工作背后的真相](https://www.bilibili.com/video/BV14BNGzCEfB/?spm_id_from=333.1387.homepage.video_card.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
 
 ---
 ### 0009. 阅词 | Bilibili
+**[阅词]{p}**
 * **[阅词 | 所有视频都有双语文稿 在置顶充电动态 | 1.1万 | Bilibili](https://space.bilibili.com/99455517?spm_id_from=333.1387.follow.user_card.click)**
   - [[双语]纳瓦尔：如何戒掉"月薪"这个毒瘾？ PowerfulJRE 2019-06-05](https://www.bilibili.com/video/BV1PPCHBGEbP/?spm_id_from=333.1387.homepage.video_card.click&vd_source=19beb856dede8620770a18feaaf13ae2)
 
@@ -108,6 +111,7 @@
 
 ---
 ### 0010. 美丽中国 | Bilibili
+**[美丽中国]{p}**
 * **[美丽中国 | 53全集 Amazing China | Bilibili](https://www.bilibili.com/video/BV1cxyZY7EjR/?spm_id_from=333.337.search-card.all.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
 
 ---
@@ -162,6 +166,7 @@
 
 ---
 ### 0016. KerryDowdle | 穿古装的美国博主 | Bilibili
+**[KerryDowdle]{p}**
 * **[KerryDowdle | 穿古装的美国博主 | 271.5万 | 你的英语听力伴侣 | Bilibili](https://space.bilibili.com/1711522882?spm_id_from=333.788.upinfo.head.click)**
   - [KerryDowdle | 听美国up轻读纯英《小王子》学英语~中英双字幕](https://www.bilibili.com/video/BV1we41197yK/?spm_id_from=333.337.search-card.all.click&vd_source=19beb856dede8620770a18feaaf13ae2)
   - [在人民大会堂过小年是什么体验？](https://www.bilibili.com/video/BV1ZWcvz2Ebr/?spm_id_from=333.1387.upload.video_card.click&vd_source=19beb856dede8620770a18feaaf13ae2)
@@ -175,12 +180,15 @@
 
 ---
 ### 0017b. Balance Theory | 平衡理论 | 英语百科 | Bilibili
+**[Balance Theory·Bilibili]{p}**
 * **[Balance Theory | 如何在2026年成为你想成为的人 Karen Mattar Person You | Youtuber: Balance Theory](https://www.bilibili.com/video/BV1succzFEcQ/?spm_id_from=333.1387.homepage.video_card.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
 
 ---
+**[Balance Theory·Bilibili]{p}**
 * **[Balance Theory | 新-如何跳出思维牢笼！20250303 | Youtuber: Balance Theory](https://www.bilibili.com/video/BV1dBcJekEpc?spm_id_from=333.788.recommend_more_video.1&trackid=web_related_0.router-related-2479604-qrth5.1773624116227.284&vd_source=19beb856dede8620770a18feaaf13ae2)**
 
 ---
+**[The Balance Theory Podcast]{p}**
 * **[The Balance Theory Podcast | 高阶 | 26.3万 | Youtube](https://www.youtube.com/@thebalancetheorypodcast)**
 
 ---
@@ -236,6 +244,9 @@
 ---
 ### 0023. Isabel Paige | Bilibili
 * **[叫我阿军就好呀 | 搬运区up主，本号没有任何收益，纯为爱发电，目前在做西语、韩语、俄语、日语和英语的翻译，工程量挺大的，SO 别 | 5.3万 | Bilibili](https://space.bilibili.com/36725118?spm_id_from=333.788.upinfo.head.click)**
+
+  ---
+  **[Isabel Paige | Bilibili]{p}**
   - **[Isabel Paige | Youtuber: Isabel Paige](https://www.bilibili.com/video/BV1YzyvYuEAZ?spm_id_from=333.788.videopod.episodes&vd_source=19beb856dede8620770a18feaaf13ae2&p=3)**
 
 ---
@@ -279,10 +290,14 @@
 ---
 ### 0029. TheCottageFairy | 乡村读书介绍 | Bilibili
 * **[叫我阿军就好呀 | 搬运区up主，本号没有任何收益，纯为爱发电，目前在做西语、韩语、俄语、日语和英语的翻译，工程量挺大的，SO 别再催更了。 |  Bilibili](https://space.bilibili.com/36725118?spm_id_from=333.788.upinfo.head.click)**
+
+  ---
+  **[TheCottageFairy]{p}**
   - **[TheCottageFairy](https://www.bilibili.com/video/BV1SM4m167ck/?spm_id_from=333.337.search-card.all.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
 
 ---
 ### 0030. Olga Loiek | 宾夕法尼亚大学认知科学与计算专业学生 | Bilibili
+**[Olga Loiek]{p}**
 * **[Olga Loiek | Youtuber: Olga Loiek](https://www.bilibili.com/video/BV1Zd45zsE3g/?spm_id_from=333.337.search-card.all.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
   - [001 why you lost your love for learning & how to get i]
   - [002 What My Gap Year Taught Me About Life and Success]
@@ -314,6 +329,7 @@
 
 ---
 ### 0031. 环球旅行 | Bilibili
+**[环球旅行]{p}**
 * **[Elena Taber | Youtuber: Elena Taber](https://www.bilibili.com/video/BV13Ps1eNEAP/?spm_id_from=333.337.search-card.all.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
 
 ---
@@ -321,6 +337,7 @@
 
 ---
 * **[Elena Taber | 86.5万 | Travel | 旅行者 | Youtube](https://www.youtube.com/@ElenaTaber/videos)**
+
 * **[Joel and Emilia | 8年环游世界旅行 | 53.9万 | Youtube](https://www.youtube.com/@Joel_Emilia/videos)**
 
 ---
