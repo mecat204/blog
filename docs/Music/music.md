@@ -25,6 +25,10 @@
   - **[极度专注模式 | 专注音乐 提高效率 | 深度心流 2026](https://www.youtube.com/watch?v=eo1gKGt6h9M)**
 
 ---
+* **[Deep Productivity | 5900 | Youtube](https://www.youtube.com/@DeepProductivity/videos)**
+  - **[极度专注模式 | 专注音乐 提高效率 | 深度心流 2026](https://www.youtube.com/watch?v=eo1gKGt6h9M)**
+
+---
 **[Chill Music Lab]{p}**
 * **[Chill Music Lab](https://www.youtube.com/@MusicLabChill)**
 
