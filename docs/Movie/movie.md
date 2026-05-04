@@ -873,6 +873,10 @@
 * **[疯狂动物城2](https://pan.quark.cn/s/017f19dcc305#/list/share/a747b46a7ee14515be0843008c7d941e)**
 
 ---
+* **[银翼杀手2049](https://www.youtube.com/watch?v=d2JZ4AG-u3w)**
+  - [银翼杀手2049](https://pan.quark.cn/s/b1b77b80e3bf#/list/share/20f7eadc1a8d458a9a73f5927853b8c6)
+
+---
 * **[双轨](https://pan.quark.cn/s/70469f387585#/list/share)**
 
 ---

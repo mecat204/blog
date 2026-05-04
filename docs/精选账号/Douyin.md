@@ -551,6 +551,13 @@
   - [假如历史人物看到了自己的野史 | 一人分饰多角](https://v.douyin.com/BzhtU7786sw/)
 
 ---
+**[抱节君]{p}**
+* **[抱节君 | 深夜写字人🥷 文字诉意 书法传情 一笔一画皆是心之所向](https://v.douyin.com/GL2fMReMdt4/)**
+  - [念头通达](https://v.douyin.com/TnIeF1pNBGQ/)
+  - [你愿意停留这一分十五秒吗](https://v.douyin.com/RkZEeQ_Fs_w/)
+  - [练字，是与孤独共处的修行 | 妙严寺碑](https://v.douyin.com/z3yFui8Wpn4/)
+
+---
 ### 0008. 2026
 **[蒹葭的碎碎念]{p}**
 * **[蒹葭的碎碎念 | 日常 | 文学 | 五十章 | Douyin](https://v.douyin.com/FArXTFpNTWc/)**
@@ -672,6 +679,23 @@
   - [嘿嘿(❁´ω`❁)好开心](https://v.douyin.com/YXMLjOF-50s/)
   - [我偶然发现抖音居然有这个功能 居然能自动记录我全程直播](https://v.douyin.com/NaJOVXfVGgA/)
   - **[电脑登录直播服务平台·主播版](https://anchor.douyin.com/anchor/review)**
+
+---
+**[配音主播]{s}**
+**[是二凤吖]{p}**
+* **[是二凤吖✨🐦⁰⁹²⁷（👑小七）](https://v.douyin.com/d4PqRdjgM8A/)**
+
+**[苏茉茉]{p}**
+* **[苏茉茉 | 与君初相识，恰似故人归](https://v.douyin.com/AZxjm0T8U18/)**
+
+---
+**[燕燕讲真话]{p}**
+* **[燕燕讲真话 | 山东菏泽姑娘 陪父抗癌3年，看透人性仍守善良 | 分享: 不内耗的人生智慧](https://v.douyin.com/dYL_52Czynw/)**
+  - [不要和欺负你的人掰扯对错，以果制人 | 生活感悟](https://v.douyin.com/vqiwUlNa1Pc/)
+  - [有问必答是人际交往中的大忌 | 认知觉醒](https://v.douyin.com/uXFgwWM6k5c/)
+  - [你知道为啥有人开始忽然嫉妒你吗 | 人性本恶](https://v.douyin.com/j7pWMYh8Bkw/)
+  - [当一个人发现，你愿意一直付出，却什么都不要的时候，他一定会欺负你，一定会 | 触及真心](https://v.douyin.com/kiadlj4_uTc/)
+  - [任何人找你借钱你都不要借，急也好，求也好，跪下也好，都不要借。| 借钱见人心还钱见人品](https://v.douyin.com/AXPFkuzX9p4/)
 
 ---
 ### 9999. Download

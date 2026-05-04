@@ -7,7 +7,7 @@
 * **[ Musicca | 在线免费学习乐理（音乐理论）和基础乐器/音乐知识 的平台。](https://musicca.com)**
 
 ---
-* **[dlpanda](https://dlpanda.com)**
+* **[dlpanda](https://www.dlpanda.com)**
 
 ---
 * **[桃李醉春风个人制谱园地_中国曲谱网](https://www.qupu123.com/space/6)**
@@ -18,17 +18,21 @@
 
 ---
 ### 0001. Music·Movie
-* **work**
+* **[work]{p}**
   - **[work && code](https://www.youtube.com/watch?v=mhNg55_IYiw&list=RDmhNg55_IYiw&start_radio=1)**
   - **[深度工作音乐](https://www.youtube.com/watch?v=TpBnbLT3Ki0)**
   - **[图书馆时间](https://www.youtube.com/watch?v=jp4xdxcc7WU)**
+  - **[极度专注模式 | 专注音乐 提高效率 | 深度心流 2026](https://www.youtube.com/watch?v=eo1gKGt6h9M)**
+
+---
+**[Chill Music Lab]{p}**
+* **[Chill Music Lab](https://www.youtube.com/@MusicLabChill)**
+
+---
 * **[Hans Zimmer - Time](https://www.youtube.com/watch?v=c56t7upa8Bk)**
 * **[INTERSTELLAR - Main Theme](https://www.youtube.com/watch?v=LFNjzUCgZPc)**
 * **[Lindsey Stirling - Crystallize](https://www.youtube.com/watch?v=C8md6yJkUY4)**
 * **[深度专注和鼓舞人心的混音](https://www.youtube.com/watch?v=-sZqtdT-GVw)**
-
----
-* **[Chill Music Lab](https://www.youtube.com/@MusicLabChill)**
 
 ---
 * **[银翼杀手2049](https://www.youtube.com/watch?v=d2JZ4AG-u3w)**

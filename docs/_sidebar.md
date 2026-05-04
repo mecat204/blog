@@ -159,15 +159,15 @@
 
 ---
 * **星海**
-  - **图文散频**
-    * [图文散频](图文散频/人间道)
-  - [星海](星海/凡人修仙)
+  - **图文散篇**
+    * [图文散篇](图文散篇/人间道)
+  - [凡人修仙](星海/凡人修仙)
+  - [传统武术·赛博武侠](星海/传统武术·赛博武侠)
 
 ---
 * **Collection**
   - [readme](Collection/readme)
   - [Todaytask](Collection/Todaytask)
-  - [传统武术·赛博武侠](Collection/传统武术·赛博武侠)
   - [时政](Collection/时政)
   - [信息生态](Collection/信息生态)
   - [tips](Collection/tips)
