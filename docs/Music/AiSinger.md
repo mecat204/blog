@@ -44,6 +44,21 @@
   - **[人生如戏，听一曲《落》 | 鱼幼薇](https://v.douyin.com/Q6hN7v1tw-k/)**
 
 ---
+### 0004. 极个别同学
+**[极个别同学]{p}**
+* **[极个别同学 | 通过自己对音乐的理解，进行娱乐创作 Ai只是创作的工具，每一个Ai背后的创作者都值得被尊重 | 佰章|  Douyin](https://v.douyin.com/3MO-Xjwj5Ng/)**
+
+  ---
+  **[001. 原创音乐]{s}**
+    - [金陵月 照尽闺中千千结朱楼描风月 繁花赴霜雪 | 001 ](https://v.douyin.com/auOuWwZU2LU/)
+    - [未见彩虹 | 002](https://v.douyin.com/Cg4MRGSTCBg/)
+
+  ---
+  **[002. 翻唱合集]{s}**
+    - [找一个承认失恋的方法，让心情好好放个假 | 001](https://v.douyin.com/ZAtBTOPPEZs/)
+    - [童话说雨后会有一道彩虹，却不曾说过它也会转瞬成空 | 047](https://v.douyin.com/fsa7a9oyeYs/)
+
+---
 ### 9999. Download
 * **[dlpanda](https://www.dlpanda.com)**
 
