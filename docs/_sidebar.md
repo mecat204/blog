@@ -146,7 +146,16 @@
 
 ---
 * **Genshin Impact E2C**
-  - [001-010](GenshinImpactE2C/001-010.md)
+  - [001-010](GenshinImpactE2C/001-010)
+  - [011-020](GenshinImpactE2C/011-020)
+  - [021-030](GenshinImpactE2C/021-030)
+  - [031-040](GenshinImpactE2C/031-040)
+  - [041-050](GenshinImpactE2C/041-050)
+  - [051-060](GenshinImpactE2C/051-060)
+  - [061-070](GenshinImpactE2C/061-070)
+  - [071-080](GenshinImpactE2C/071-080)
+  - [081-090](GenshinImpactE2C/081-090)
+  - [091-100](GenshinImpactE2C/091-100)
 
 ---
 * **Movie**
