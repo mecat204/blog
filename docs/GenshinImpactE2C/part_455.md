@@ -1,0 +1,1002 @@
+# Part 455
+
+- As for the "Gen" part of the name... Well, it's my name, actually. ｜ 至于「源」字…哈哈，是取自在下的名字，让您见笑了。
+- You must have a sharp mind if you managed to solve all three riddles. ｜ 你能把三个灯谜都猜对，看来你确实也算得上才思敏捷。
+- Finished gathering Quenepa Berries ｜ 已完成「青蜜莓」的采集
+- Let's catch up another time. ｜ 改天再聊。
+- Aw, it's completely empty. ｜ 唔，里面什么都没有呢…
+- Also, if researchers are here to give their brains a break, wouldn't that break their thought process from research, anyway? ｜ 而且…那些研究员来这里不就是暂时让头脑歇息吗？研究思路本来就是中断着的呀。
+- An ancient golden cup that is both marvelously and luxuriously wrought. Murmurings can be heard within its empty innards. ｜ 一尊古老的金杯，形制奇妙华丽，空空如也的腹内回响着呢喃之声。
+- Inactivated Fungal Nucleus ｜ 失活菌核
+- Investigate ｜ 调查
+- CD|{param3:F1}s ｜ 冷却时间|{param3:F1}秒
+- Can't do much even if she does. ｜ 我去了也没办法吧。
+- Ah, you're back. I was starting to wonder how much longer I'd have to wait. Found anything? ｜ 你回来了，我都要等不及了，你找到什么了？
+- Come over when I'm done with my research — you'll be the first to try my new dish, I promise. ｜ 等我研究出新菜之后，一定第一个请你来试吃。
+- 4-Hit DMG|{param5:F1P} ｜ 四段伤害|{param5:F1P}
+- I heard medical personnel were needed at the Stadium, so I followed a group of warriors back here. ｜ 听说竞技场很缺医生，我就跟着一支队伍过来了。
+- Here it is! Who would've thought it'd be hiding amidst the flowers? Well, since we don't want to trample over the flowers... we'll have to jump in from above, right? ｜ 在这里！它可真会藏啊，居然躲在花丛里。想不踩到花的话…只能从高处跳进去了吧？
+- What are you doing here? ｜ 你怎么在这儿？
+- You're completely mad, all of you... No more messing with crazy. I'm done! ｜ 你们可真是一群疯子…我惹不起，惹不起！
+- So your hobby is actually "quietness"? ｜ 所以你的爱好其实是「安静」？
+- ...Guilty. ｜ …有罪。
+- You've got the box, but Gorou seems to want to return to Watatsumi Island before opening it... ｜ 顺利拿回了盒子，不过五郎似乎想要到海祇岛再打开…
+- Defeating Narzissenkreuz? ｜ 战胜纳齐森科鲁兹？
+- Uh! I thought I was strong enough, but I couldn't even shake it. ｜ 喝！我自认力气够大，可还是拿它没有办法。
+- Diary of Roald the Adventurer: Dragonspine ｜ 冒险家罗尔德的日志·龙脊雪山
+- Scoreboard: Mallow Mauve ｜ 「计分灯架·锦葵」
+- Are these the paints that the artist is looking for? So many colors... Well, let's get them back to the artist and see what he says. ｜ 这就是那位画家要找的颜料吗？好多啊…我们快点带回去给他吧。
+- What's all this... Ah, it's a bunch of really cute things! ｜ 这里装了什么…欸，都是挺可爱的东西啊。
+- Oh? Well, if you're concerned about keeping things professional, maybe you can find more use for me on the front lines. How 'bout it, boss? Haha, just don't feel intimidated by what I can do. ｜ 哦？既然这么在意我们之间的雇佣关系，就多使唤我一点吧，老大？哼哼，可别被我的真正实力吓到哦。
+- Is it really okay...? That's great then, I'll finally get to fight side by side with you! ｜ #真的没问题吗…？那太好了，总算能和{NICKNAME}并肩作战了！
+- "What the... What happened to that rock?" ｜ 「那块礁石是怎么回事？」
+- Certain emotions surge forth.\nYou see an island blanketed by fog beneath you. You hear the voices of the tiny lives that dwell there with ease: boars, humans, squirrels, lizards, Wen Kamuy.\nAs you return to your nest, you hear an interesting tune through the curtain of falling rain. It is different from the war songs of the boars and the choruses of the fish. It is a clear song, and a moving one too... ｜ 涌现出了某种情绪。\n你的眼底下是沉没在雾海之中的小岛。但看穿迷雾，听见当中生活着的小生命，之于你自然不是问题。\n像是林猪、人、松鼠、蜥蜴和鹈猿之类的。\n归巢时，你透过雨幕听见了有趣的曲调。和林猪们的战歌、鱼儿们的合唱不同，是格外清澈的歌声，非常动听…
+- Challenge Objectives ｜ 挑战目标
+- So don't worry. Ordinary smugglers know better than to try anything cute here. ｜ 你可以放心，一般的走私犯都不敢在这里乱来。
+- Wakukau Shoal ｜ 惑饲滩
+- Aranakin ｜ 兰纳真
+- Five hundred years, and you're still not used to it? Sounds like you need more practice. ｜ 五百年了也没习惯啊？看来还得多多锻炼。
+- But catching them can still be pretty tough. Haven't caught too many, but the fish in the surrounding waters sure did get plumper — that's something, I guess? ｜ 虽然钓鱼还是很难，没有钓上来多少，但是至少周围水里的鱼有变得胖胖了一点，唔，也能算是成果吧。
+- Surging Blade DMG|{param3:F1P} ｜ 流涌之刃伤害|{param3:F1P}
+- Sacred Simulacrum ｜ 仙像
+- I agree. ｜ 我也这么觉得。
+- Oh, right... ｜ 哦…
+- Once this is done, do remind me once again... There is another step required to nourish the Spiritherb and ensure the efficacy of our divination. ｜ 在那之后，还请麻烦再提醒我一下…还有一个步骤滋养「灵草」，占卜才会灵验。
+- Oh, I've been very busy on that front. I'd long since drunk my fill by Windcoming Day. ｜ 嗯~趁着那么好的节日，我早就喝到喝不下了。
+- Just a few minor differences of opinion. He invited me to join him as well, but having no real reason to accept, I declined his offer. ｜ 只是些小矛盾。他也曾经邀请过我，不过我实在没有理由接受，就拒绝了。
+- Why is there only one of them? ｜ 怎么只有一个人？！
+- Intelligence Dept., Adventurers' Guild ｜ 冒险家协会情报员
+- When the Wind Is Blowing ｜ 刮大风了…
+- A valiant general of the resistance when the Vision Hunt Decree was in effect, Gorou is nicknamed the "ever-victorious pointy-eared general."\nIn his eyes, the people around him are not only his brave soldiers, they are also his beloved companions. They are like treasure to be cared for and protected.\nThe land that sustains them, his all-important comrades, the faith that keeps them going... These are the most precious things for Gorou, to whom he devotes his loyalty and courage. ｜ 在「眼狩令」期间带领反抗军英勇奋战的五郎，有着「常胜的尖耳将军」之美名。\n外人或许很难想象，战场上有着万夫莫开之姿的五郎，私下却像个知心哥哥，能与每位部下相处融洽。\n在五郎眼中，身边的人既是勇猛作战的兵士，也是自己认可的亲近伙伴，是自己必须守护的珍贵宝物。\n脚下的土地、重要的伙伴、高尚的信念…他的「忠」与「勇」，正是为这些宝贵的人事物而存在。
+- Paimon ｜ 派蒙
+- Quest Item ｜ 任务道具
+- No, why would I? What in this world could be so bad that it'd give me nightmares? ｜ 怎么会？这世界上什么东西能让人做噩梦？
+- Bane of the Soft ｜ 克柔
+- Lead the way. ｜ 带路吧。
+- Number of times you rescued teammates from the Surveillance Zone as a Rebel ｜ 扮演游侠时，从监控地中协助队友脱离的次数
+- Who wants to be like her? Overconfident, always making excuses when things go wrong... ｜ 谁要跟她一样，总是过度自信，一旦出了事，就会找原因。
+- Charging Tatankasaurus ｜ 突角龙疾驰
+- Let's return to the altar! ｜ 回去祭坛吧！
+- Plan has already been removed from favorites ｜ 已经取消收藏的方案
+- I thought it'd be a short and even bland trip into the desert. But we instead got ourselves into something so crazy. It was a little scary, but I can't say I dislike it. ｜ 原本以为这位雇主只会在沙漠里转一圈就回去，会很无聊。没想到遇到了这种事，虽然有点吓人，但我不讨厌这种感觉。
+- Which is to grant the brave journeying soul and their companions my blessing. ｜ 那就是为踏上旅程的勇者，和他的伙伴献上祝福。
+- Active Camouflage ｜ 废弃
+- Such great kids you are, really great kids... Oh, right! I noticed that you two really enjoyed the teacake. Why don't I teach you the recipe? Next time you come by some quality tea leaves, you'll be able to make some for yourselves. ｜ 好孩子，好孩子…对了，那茶糕我看你们吃得也挺有滋味的，我就把做法教给你们吧。以后要是遇上好茶叶，也能自己做着吃。
+- Not sure. I returned it after I was done reading it, and back then, there weren't as many markings inside as the rumors say there are. ｜ 目前还不清楚。我看完早就还了，而且那时书上也还没有传闻中说的那么多记号。
+- The ruins of the canals may yet hide your... fragments. ｜ 在那些废弃的水道之中，可能隐藏着您的…碎片。
+- Guard ｜ 守卫
+- I think... maybe we should just go home and do our homework? ｜ 我觉得…我们是不是，该回家写作业了？
+- Now it seems Lyney and Cowell did not conspire to break the flower vase to cover anything up, but it was smashed during the struggle between Liliane and Cowell... ｜ 现在看来花瓶里的水并不是林尼与考威尔合谋用来隐藏水迹，而是在莉莉安与考威尔的争斗中不小心撞破的…
+- No need. ｜ 不必了。
+- Got Up on the Wrongest Side of the Bed ｜ 无限大的起床气
+- Mona ｜ 莫娜
+- I'd say that if you just look at results, you'll miss out on a lot. ｜ 总之，只是看结果的话，可能会错过很多东西哦。
+- Complete Evermotion Mechanical Painting: Inazuma II ｜ 完成恒动械画·稻妻之二
+- Lots of things... ｜ 有很多事…
+- Heh heh... The Vanishing Fox, the Tanuki of the Chinju Forest, The Battles of the Onmyouji... These are all timeless tales. ｜ 呵呵…消失的狐大人、镇守之森的狸猫、阴阳师的斗法…这些故事啊双叶总是百听不厌。
+- Your clothes, hair, even the way you walk and talk... It's not just for the eyes of others. It's your style, so you should go with whatever you like. ｜ 头发衣服，甚至脸皮身段，可不是只给别人看的。自己喜欢什么样，就打扮成什么样。
+- I wonder if other mountaineering adventurers would get caught in such a sinister trap... ｜ 不知道会不会有登山的冒险家被邪恶陷阱坑害…
+- Ask Charles about the recent rumors ｜ 向查尔斯打听最近的传闻
+- Report back to Sister Victoria ｜ 向维多利亚修女回报
+- No worries, we can just start over again. Let me know when you're ready. ｜ 没关系，重新开始吧。准备好就告诉我。
+- Another Person's Message ｜ 另一人的留言
+- Has anyone other than me taken part? ｜ 除了我之外，还有人来玩吗…
+- How rude. Answer my question. ｜ 无礼。回答我的问题。
+- ??? ｜ ？？？
+- Collei ｜ 柯莱
+- Let me put it like this: I want my paper to get approved by the Akademiya's review... It's like love! ｜ 这么说吧，我希望自己的论文通过教令院的评审…就像爱情！
+- Honestly, even I think that fighting via card games is getting a bit tacky by this point. I'm now devising a plot where my characters play cards while racing on horses! ｜ 说实话，打牌变打架我都觉得有点俗气了，我都已经想让角色骑着马一边竞速一边打牌了。
+- 1-Hit DMG|{param1:F1P} ｜ 一段伤害|{param1:F1P}
+- But the real adventurer, the real Stanley — that was his partner. Not him. ｜ 只不过，那个和他一起探险的同伴，才是真正的「大冒险家斯坦利」。
+- In that case, let's just put the blueprint in and leave, shall we? ｜ 那我们就把图纸放进匣子里，然后离开这里吧。
+- Miss Yoimiya... We haven't had the chance to talk, but please accept my thanks for everything you've done over the past few days. ｜ 宵宫小姐，之前没找到机会说。这几天的事，我很感谢你。
+- Thank you so much for lending us a hand. I'm so glad no one got hurt. ｜ 谢谢你们来帮忙，没人受伤真是太好了。
+- Yaoyao: Trip to the Country ｜ 瑶瑶·郊游
+- Treasure... ｜ 宝藏…
+- Records of the Ancient Oases: Part VI ｜ 古绿洲记事·其六
+- ...Even if the truth is that their dreams are reaped by the Akasha. ｜ …但实际上，梦境只是被虚空「收割」走了。
+- Can you tell me? ｜ 可以和我说吗？
+- A Lil' Fungus based on Twirly-Whirly, who teamed up with Layla and won second runner-up in the first tournament. It specializes in using large AoE Anemo attacks, pulling opponents within a certain range, and decreasing their Elemental RES. ｜ 以首次大赛并列季军莱依拉选手的「转转悠悠兽」为原型的「小小灵蕈」，擅长利用风元素进行大范围攻击，牵引一定范围内的对手，并降低对手的元素抗性。
+- You're welcome! Well then... Fare thee well, Master Dugu. ｜ 不客气。那我们江湖再见？
+- Character Ascension Material ｜ 角色突破素材
+- Hey, speaking of — we haven't been anywhere fun since we arrived in Inazuma! ｜ 这么说来，我们来稻妻至今还没去过这种热闹好玩的场合呢！
+- Low/High Plunge DMG|{param9:P}/{param10:P} ｜ 低空/高空坠地冲击伤害|{param9:P}/{param10:P}
+- Guest Challenge: Collei ｜ 来客挑战：柯莱
+- Hmm? I don't think we know each other, friend. ｜ 嗯？朋友，我们好像不认识吧？
+- Can receive energy from Xenochromatic Ball Octopuses and convert it into <color=#FFE14BFF>stored</color> energy that can then be fired in the direction a character is facing when the energy flow is interrupted.\nThe Potential Energy Orb challenges usually exist alongside <color=#FFE14BFF>golden signs</color> that can detect the presence of characters. Only when a character stands next to the golden sign will the <color=#FFE14BFF>targeting reticle</color> for the Potential Energy Orb appear. ｜ 能够接收到异色球球章鱼的能量，转化为<color=#FFE14BFF>积蓄</color>的力量，并在能量中断时依据角色的朝向与其中积蓄的力量发射出去。\n势能球的挑战通常与能感应角色的<color=#FFE14BFF>金色标记</color>共存。角色在金色标记旁时，才会产生势能球的<color=#FFE14BFF>目标圈</color>。
+- Come on, bro! We bought this from your tribe... It's for bungee jumping! ｜ 大哥！那是我们从你们部族里买来玩蹦极的啊！
+- Uhh, hellooo? Miss shrine maiden...? Strange, she isn't here. ｜ 巫女姐姐——！！奇怪，巫女姐姐好像不在这里。
+- Purchased from Realm Depot: Furnishings ｜ 洞天百宝·摆设购买获取
+- Did everyone definitely have the same dream? And where exactly were they in the dream? These are the questions that we need answers to. ｜ 是不是所有人都有着共通的梦境？梦中他们身处什么地方？这些都很重要。
+- It's basically what happens when you starve. ｜ 就像派蒙没有饭吃。
+- Klee ｜ 可莉
+- Exchanged in the Gift Shop ｜ 礼包商城兑换
+- Complete the photo-taking quest ｜ 完成留影任务
+- Talk to Sania ｜ 与萨尼娅对话
+- Quest Item ｜ 任务道具
+- #As our predecessors once said, the prudent should foresee danger and take precautions. This is exactly what they meant! And {NICKNAME} would rather give up on the trial than betray this principle. Truly admirable! ｜ #古语有言，君子不行危途，不立险地，所说的正是这般情形！而{M#少侠}{F#女侠}宁可放弃通过试炼的机会，也不愿违背原则，属实令人敬佩！
+- Restaurant ｜ 餐馆
+- Launch Grenade ｜ 掷弹轰击
+- The corridor of a Refined Estate. Simply made, it is also intended to block the wind and rain.\nPerhaps this is due to their adopting low sitting stances for long periods of time when indoors, but when Inazumans go out on strolls, they do not do so in fits and starts, instead aiming to fully stretch out their limbs, only sitting down for brief chats with old friends. As such, these walkways have never been designed with seats for resting. ｜ 「雅练上邸」的游廊，结构简单，仅有遮风挡雨的功能。\n或许是因为在室内久坐时，长时间保持低身位姿态的缘故，稻妻人的散步就如字面意义，目的是充分舒展肢体，不会走走停停，偶尔坐下与熟人聊天。因此，这种游廊里并未设有为人们休息用的座椅。
+- What do you think? If you want to open these treasure chests, just hand me some conches. ｜ 怎么样，如果你想打开这些宝箱的话，就把那种海螺拿给我吧。
+- Character walking or running ｜ 角色处于行走或跑步状态
+- I think it's great. ｜ 我觉得特别好。
+- Play a game of pirates with Little Lulu, Little Fei, and Little Meng. ｜ 陪璐璐、阿飞与小蒙各玩一次海盗游戏。
+- Unlocks at Friendship Lv. 4 ｜ 好感等级达到4后开启
+- Silence! ｜ 肃静！
+- Shield Base Absorption|{param5:I} ｜ 护盾基础吸收量|{param5:I}
+- Is this series really that popular? ｜ 只有一本？——这套书都已经这么稀缺了吗？
+- Oh, see you. ｜ 哦，再见。
+- Huh? Look over there, seems like someone's in danger. Let's help them out, quick! ｜ 咦？看那边，好像有人遇到危险了，我们快过去帮忙吧！
+- Anyway — relax, enjoy your meal, and... please talk to her as much as possible. I know she'll appreciate it. ｜ 你们今天可要多吃点！可以的话，请多陪她聊聊天。
+- If you say so... But Paimon has a bad feeling about this... ｜ 好吧，总有种不太好的预感…
+- As the journey continues, the winding road unfolds before your eyes. As the Flower Carriage weaves back and forth, the passengers sway with it, as though rocking to the musical rhythm, and the thrilling challenges cease to be nerve-wracking... ｜ 旅途在继续，蜿蜒的道路在眼前展开，花车左右规避时，小乘客们随之晃动，就像伴着舞蹈和音乐的节奏摇摆，惊险的挑战也不再令人紧张…
+- Paimon's not sure what's going on here. How about we go see Amadhiah about it? ｜ 总之虽然搞不懂怎么回事，不过还是先去找阿玛兹亚爷爷问问看吧。
+- Puca, we're back! ｜ 芙佳，我们又来啦！
+- Ferdinand ｜ 费迪南德
+- Confident ｜ 自信
+- Evil Grin ｜ 坏笑
+- Energy Cost|{param8:I} ｜ 元素能量|{param8:I}
+- #*sigh* If only we knew where to find that Traveler... From what they say about {F#her}{M#him}, this seems like the kind of thing {M#he}{F#she}'d know about. ｜ #唉，要是能找到那位大名鼎鼎的旅行者就好了，听说{M#他}{F#她}见多识广，或许会知道些什么。
+- "Moon Carver, disciple of Rex Lapis. The kindest adeptus amongst all, in the manifestation of a stag." ｜ 「削月筑阳真君者，岩王帝君之弟子也。形化牡鹿，长持慈心。仙班之中，性最善者。」
+- Achieve 15% Exploration Progress in Chenyu Vale: Upper Vale or Chenyu Vale: Southern Mountain ｜ 沉玉谷·上谷或沉玉谷·南陵的探索度达到15%
+- Whoa, unbelievable! You can fight Marana. ｜ 喔，真是不可思议。你们居然有与「无留陀」抗衡的力量。
+- On festive occasions, one should offer words of blessing. ｜ 佳节应赠吉语。
+- It doesn't seem like a matter needing the archon's attention... ｜ 应该不用劳你大驾…
+- Cyno and Sethos engage in a fair and fierce duel witnessed by Hermanubis. Cyno emerges victorious. ｜ 赛诺与赛索斯在赫曼努比斯的见证下进行了公平而又激烈的决斗。最终，赛诺赢得了胜利。
+- Speaking of which, I've never been able to eat very much in one sitting. I thought I could try and see what my limits are this time. ｜ 说起来，我还没有一次性吃掉这么多东西呢，我也想试试看我的极限在哪里。
+- Hold on! Paimon needs some time to digest all of that! Did Paimon hear something about another Water Droplet? ｜ 等等，我没反应过来，好像提到了别的「小水珠」？
+- I've taken care of them for so many years. How could I not tell that something had gone wrong with the roots? ｜ 我啊，照看了「山王火榴」那么多年，哪能不知道，肯定是其下的根系出了问题…
+- That's reassuring. ｜ 那我放心了。
+- Thank you, noble warriors, you who have come forth to uphold the cause of justice. Why, had I arms as slender as yours, I would tip my hat to honor you. ｜ 感谢你，为了正义的事业前来相助的高贵战士。如果我有着与你一样手臂修长的身子，此刻的我一定会向你们脱帽致敬。
+- Changsheng ｜ 长生
+- I've told him before that he should take it easy and rest for a while, but he never seems to listen... He even told me not to let Guy know anything about it. ｜ 我之前和他说，让他一定要回去休息，但他似乎一直没听，还一个劲地要我别告诉盖伊…
+- Will you have some time in the next few days, Kazuha? ｜ 万叶，最近有空吗？
+- Hey! You're always like that! Paimon'll get mad if you don't cut it out! ｜ 哇，这种时候你总是这样，我也是会生气的哦！
+- If their efforts are unsuccessful, on the other hand, all will be held accountable, and the punishment will be severe. ｜ 否则，我会抓住正在干坏事的他们，让所有人受到严酷的惩罚。
+- That sounds amazing! ｜ 听起来很厉害哦！
+- Area is being used ｜ 区域被占用
+- The Road to Failure ｜ 失败之路
+- ...Wages? No need, Lady Guuji. I'm here today to make amends... ｜ …工资？我就不必了，宫司大人，我今天来是为了赔罪…
+- Did her novel turn out to be truer than fiction? ｜ 她写的小说不会成真了吧？
+- Mist Veiled Exploration Diary ｜ 雾海云间寻访记$HIDDEN
+- M—Mr. Albedo... but it is an objective truth... ｜ 阿、阿贝多先生，但我说的就是客观情况嘛…
+- CD|{param5:F1}s ｜ 冷却时间|{param5:F1}秒
+- Wouldn't it look great if we could incorporate <color=#f39000>stars</color> into the design? ｜ 在祝柬上放点<color=#f39000>星星</color>的图案吧！这样肯定好看！
+- Honestly, my husband doesn't lift a finger around the house... ｜ 我跟你说啊，我老公在家里一点家务都不做的…
+- Is it you who's in trouble, Miss? I would like to help, but... I don't know where my grandfather's research base is. ｜ 姑娘，是你遇到麻烦了吗？我很想帮助你，但…我也不知道祖父的研究基地在哪里。
+- When It Snows ｜ 下雪的时候…
+- Give a Chaos Device to Iron Tongue Tian ｜ 将「混沌装置」交给田铁嘴
+- I can't see it? Well, alright then. I mean, I'm sure it's good... ｜ 不能看？好吧，估计也就是些好吃的吧…
+- Recipe ｜ 食谱
+- Paimon ｜ 派蒙
+- I've prepared all the needed ingredients. They're over there, so you can start brewing any time. ｜ 需要用的材料我都帮你准备好了，就放在那边，快点开始调制吧。
+- A general of the Tenryou Commission. Bold, decisive, and skilled in battle. ｜ 「天领奉行」的大将，杀伐果断，骁勇善战。
+- But I think ghosts probably don't have very good memory, because she's never come to play with me again since then. ｜ 话说鬼的记性是不是不太好呢，怎么还没有来找我玩，明明每天晚上我都开着门睡觉的。
+- How could this be... ｜ 怎么还有这样的情况…
+- Gain a total of 12 stars in the Spiral Abyss ｜ 累计获得深境螺旋12星通关奖励
+- Defeat all opponents ｜ 打倒所有敌人
+- Perhaps the herbal soup made by the samachurls will come in handy... ｜ 果然，用那种丘丘人萨满熬制的草药汤，是最合适的…
+- ...! ｜ ——！
+- Goodbye. ｜ 再见。
+- Before you arrived, I went and knocked, but just as he came out, that scary son-in-law of his came and dragged him back inside. ｜ 你们来之前我去敲过门，他刚出来，那个凶凶的女婿叔叔就把他拉回去了。
+- ...Is it possible that we've entered into a chaotic space? ｜ …会不会，这片空间本就是混乱的？
+- My informants have to fulfill whatever requests I make of them, no questions asked. The question is, which kind of person do you want to be? ｜ 当了我的线人，我需要他帮忙，他就得做到。你想做哪种？
+- Scroll of the Fiery Firmament ｜ 「炽空的绘卷」
+- I don't know what you're looking for... ｜ 无论你想要什么…
+- I call this process the "Remelting Effect," the device the "Remelting Device," and the potion "Remelting Tablets." ｜ 我称这个过程为「重熔效应」，装置为「重熔装置」，药剂则叫「重熔片剂」。
+- Great! With both Detective Heizou and the Traveler on the case, I'm sure it'll be solved in no time. ｜ 太好了，平藏先生与旅行者的联手，我想不到有什么解决不了的案件。
+- Well, guess I had it coming... ｜ 终于有一天，轮到我了…
+- Anna's become less and less obedient. I turn around for one second, and she just slips away. ｜ 安娜是越来越不听话了，我一个不留神，她又溜出去了。
+- Look for Hatim at "Wealth Spots" ｜ 在「蓄财之地」寻找哈特姆
+- Alright then, if you insist. Let's get going now. ｜ 好吧，如果您坚持的话。咱们现在就出发。
+- The Adventurers' Guild has a public booth in every city. Becoming a legendary adventurer starts with understanding the ins and outs of the services they offer. ｜ 冒险家协会在每个城市都设有对外办公窗口。\n明白如何善用协会提供的服务，是优秀冒险家必备的能力。
+- Nargis turns around and jumps into a pile of things nearby... ｜ 纳尔吉斯掉过头，钻进了旁边的杂物堆里…
+- Alright then! ｜ 那就这样好了。
+- I... I don't understand, Mr. Roialte, this way... ｜ 我…我没明白，洛耶茨先生，这样做…
+- #{F#Miss}{M#Mr.} Honorary Knight! Paimon! ｜ #荣誉骑士{M#哥哥}{F#姐姐}！小派蒙！
+- Equipment Card ｜ 装备牌
+- Well, it is Sango. A case like this is no big deal to her, no doubt. ｜ 毕竟是珊瑚嘛，这种案件，怎么想也难不住她。
+- We need to find another solution. ｜ 看来，得找找方法了。
+- About the Gate of Terrain... ｜ 关于景门…
+- Go back to Initial Switch ｜ 回到初始换牌界面
+- Alright, then let's start by heading to where Ororon was seen last. ｜ 好，那我们先去目击者最后见到欧洛伦的地方。
+- So I won't fail anymore? ｜ 所以我不会再失败了？
+- (This obsessive-compulsive disorder is incurable in its late stages.) ｜ （这强迫症晚期是没法治疗了。）
+- Talk to Babel ｜ 与芭别尔对话
+- Hah! Hey! ｜ 哈！嘿！
+- Haha, so this is the Spiritway... That was quick. I wasn't expecting this experience. ｜ 哈哈，原来这就是「游隙灵道」…速度好快，没想到是这样的体验。
+- After a short while, the "Creative Milk" is finally ready. ｜ 一番等待之后，「创意牛奶」终于准备好了。
+- We'll try our best. ｜ 我们会努力学习的。
+- I reckon carbonation's for the best. ｜ 还是带气泡的好喝。
+- You're going to bring them to justice? ｜ 你想要用法律制裁他们？
+- Based on those clues, I went back out on the field and found out some shocking revelations. ｜ 根据那些线索，我又去实地调研，终于发现了一些惊人的事。
+- There's a few places the storm doesn't touch. ｜ 有几个不打雷的地方。
+- Shatterdark ｜ 「破邪游艺」
+- That's right, just like the story about the potioneer which you told me when I was young. ｜ 我小时候，你给我说的那个药剂师的故事就是啊。
+- Hiiragi Chisato is the sole remaining pillar of her clan, but now she plans to marry into the Kujou Clan. If I belonged to one of the assisting clans to the Hiiragis, I would not be feeling optimistic about the future. ｜ 柊家如今的支柱是柊千里，而她选择外嫁，若我是辅佐柊家的家族，一定会感到前途灰暗。
+- Then make Ioroi not stone. ｜ 把五百藏变成不是石头。
+- Deals $[D__KEY__DAMAGE] $[D__KEY__ELEMENT], summons 1 <color=#FFFFFFFF>$[C117051]</color>. ｜ 造成$[D__KEY__DAMAGE]点$[D__KEY__ELEMENT]，召唤<color=#FFFFFFFF>$[C117051]</color>。
+- Stone Tablet Compilations: Vol. I ｜ 石书辑录·卷一
+- Talk to Kasim ｜ 与卡西姆对话
+- Actually, it isn't over. I mean, the minimum requirement in the commission was to escort me safely back to Aaru Village, right? ｜ 准确来说，的确还没有结束。我的意思是，委托的要求是你们起码得把我安全送回阿如村吧？
+- ...Hah, look how far I've gone on this tangent. Guess I was too excited at having been able to repair these Pursina's Spikes. ｜ 费了不少功夫终于修好了「普尔希娜光钉」，我一时有点兴奋，哈哈，刚才有些扯远了。
+- Summons forth Balemoon Bloodfire, dealing <color=#FF9999FF>Pyro DMG</color> to multiple nearby opponents and performing a dash-cleave against one of them, dealing <color=#FF9999FF>AoE Pyro DMG</color>.\nOpponents hit by the aforementioned attack will have a Blood-Debt Directive applied to them.\n\n<color=#FFD780FF>Blood-Debt Directive</color>\n·Lasts 30s. Every 5s, it will deal 1 instance of <color=#FF9999FF>Pyro DMG</color> to the opponent. Max 2 instances. This DMG will be considered Elemental Skill DMG.\n·When Arlecchino uses a Charged Attack or her Elemental Burst, Balemoon Rising, she will absorb and clear nearby Blood-Debt Directives. Each Directive absorbed grants her a Bond of Life worth 65% of her Max HP.\n·The maximum value of the Bond of Life she can be granted through Blood-Debt Directives within 35s after using her Elemental Skill is 145% of her Max HP. Using the Elemental Skill again during this duration will restart the count on duration and the limit on the value of Bond of Life she may gain from Blood-Debt Directives.\n\n<i>As she sees it, not every grain of wheat that falls upon the earth will grow into an ear, while those who obstruct her, once burned to ashes, can certainly be used to nourish flowers.</i> ｜ 遣令厄月血火，对附近的多名敌人造成<color=#FF9999FF>火元素伤害</color>，并对其中一名敌人突进切斩，造成<color=#FF9999FF>火元素范围伤害</color>。\n上述攻击命中敌人时将对其施加血偿勒令。\n\n<color=#FFD780FF>血偿勒令</color>\n·血偿勒令持续30秒，每5秒，血偿勒令将对敌人造成一次<color=#FF9999FF>火元素伤害</color>，至多造成2次伤害。该伤害视为元素战技伤害；\n·阿蕾奇诺进行重击或施放元素爆发「厄月将升」时，将回收并清除周围的血偿勒令，每回收一枚血偿勒令，将为她赋予生命值上限65%的生命之契；\n·施放元素战技后的35秒内，至多通过血偿勒令为阿蕾奇诺赋予生命值上限145%的生命之契。持续期间再次施放元素战技将重新计算持续时间与血偿勒令能赋予的生命之契上限。\n\n<i>在她看来，孤独的麦粒落入大地中并不总会结出麦穗，有可能只是无声地腐败。而阻拦她的一切若是烧为灰烬，肯定能拿来滋养花朵。</i>
+- Dandy ｜ 丹迪
+- Ah, so you're already familiar with them. ｜ 喔，看来客人们也很熟悉他们嘛。
+- CD|{param6:F1}s ｜ 冷却时间|{param6:F1}秒
+- I just want to rescue someone... and Granny won't let me. ｜ 我只是想救人而已…是奶奶不让。
+- Verse of Unchained Happenings ｜ 自在叙事之诗
+- #What do you think, {NICKNAME}? ｜ #{NICKNAME}，你是怎么想的？
+- The friend you wanted to help is a great person... uh, a great Nara. Even if you forget her, Arana, she would still want to be your friend. ｜ 兰拉娜想要帮助的那个朋友，她是很好的人…很好的那菈。就算兰拉娜不记得她了，她也愿意重新当你的朋友。
+- When I left the Guhua Clan, there were barely any disciples left. ｜ 我离开古华派的时候，同门弟子已经寥寥无几了。
+- What Lies at the End of the Rainbow...? ｜ 彩虹的脚下是…？
+- Witch's End Time ｜ 魔女破灭之时
+- Manifest Gale Duration|{param4:F1}s ｜ 疾风示现持续时间|{param4:F1}秒
+- Unlocks the associated character ｜ 角色解锁
+- Bloom Times ｜ 荣花之期
+- Traveler? What a coincidence! I didn't expect you to be here... ｜ 旅行者？真是巧了，没想到能在这里遇见你…
+- A detailed step-by-step blueprint for making a Slumbering Dewlight.\nAfter using this item, you can view it in the Creation Screen. ｜ 步骤详实的图纸，记载着「『露眠之光』」的制作方法。\n使用后可进入制作界面查看。
+- Let's not digress further... ｜ 还是说正事吧…
+- Uh... What is it? ｜ 嗯？还有什么事情？
+- Hah, that's what I thought... Looks like the device earlier smoothed out its charging... uh, circuits? Looks like it's showing us the location of three other devices, too. ｜ 果然…看来刚刚的机关疏通了它的充能…呃，线路？而且它还为我们指示了另外三处机关的所在。
+- Skill DMG|{param1:F1P} ｜ 技能伤害|{param1:F1P}
+- Aimed Shot|{param6:F1P} ｜ 瞄准射击|{param6:F1P}
+- Except I'm afraid our journey will have to wait a teeny bit longer. Caterpillar did say that we would have a reunion, or something... ｜ 不过，旅程恐怕还得请先等等。卡特皮拉确实说过要聚聚什么的…
+- Huh? That silly dumb-dumb, why didn't he just come to look for us? We prepared a surprise gift for him. ｜ 咦？这个笨瓜，就不能来找我们吗！亏我们特地准备了惊喜给他。
+- (Is there really no future for Alchemical Divination?) ｜ （「炼金占卜」真的是死路一条吗？）
+- <color=#FFCC33FF>Is there anything you'd like to do?</color> ｜ <color=#FFCC33FF>有什么想做的吗？</color>
+- So you did know I was there. ｜ 你果然发现我了。
+- Kujou Sara ｜ 九条裟罗
+- We aren't fast enough. Habachi can definitely catch us... What do we do? ｜ 以这种速度，肯定还是会被哈巴奇哥哥赶上的，这可怎么办…
+- Quest Item ｜ 任务道具
+- Don't be scared, don't be scared! Penny's waiting for you to go back home. ｜ 别害怕，别难过，佩妮在等你们回家。
+- It's Chouji's mother's offering... ｜ 是长次妈妈的供品…
+- As for inspiration... I think I might have something in mind, but I'd need to visit the site to make sure. Where do you want this place to be built? Tell me the exact location. ｜ 灵感…稍微有一点。不过我需要去现场考察一趟。你的图书馆选址在哪里？给我具体位置。
+- Click anywhere in the blank area to continue ｜ 点击空白处继续
+- Wonderful! Since the two of you have agreed, I can go ahead and promote Fungus Mechanicus. ｜ 太好了，能得到你们两位的允许，我就可以放手推广「灵蕈棋阵」了。
+- Character Ascension Material ｜ 角色突破素材
+- Traveler ｜ 玩家
+- Freshly made bean product that has a silky-smooth tender texture. ｜ 鲜嫩的豆制品。口感如凝乳般细腻。
+- You needed to talk to me in private. Why? ｜ 是有什么话要避开她们吗？
+- Talk to Marjorie ｜ 与玛乔丽对话
+- That'll be really funny. Uh, I mean, a real pity. ｜ 那就太好笑了。我是说，可怜。
+- Ooh, Paimon knows! The last time we were here, you said "On the other hand, we'll be able to leave as long as we find the end of the road," didn't you? ｜ 我想起来了！上次你说过，「反过来看，能找到道路的尽头，就能离开」，对吧！
+- What's with the looks on your faces? I might have won, but I'm not Xbalanque. ｜ 你们那是什么表情？得第一名的就是希巴拉克？
+- Notice ｜ 公告
+- I didn't see any of you when I brought him here, so I took him to treat King Coconut first. ｜ 我带着医生回到营地时，发现你们都不在，就让医生先为「大椰子」疗伤。
+- #That's normal. Even if it's the same dish, the taste is different every time {NICKNAME} makes it... ｜ #那不是挺正常的嘛，就算是同一道菜，每次{NICKNAME}做出来的味道都不一样…
+- Can't hurt to lend you my ears. ｜ 听听也无妨。
+- I'm pretty good at this, huh? ｜ 我厉害吧？
+- Blessings from the Dendro Archon. May you be in good health. ｜ 草神保佑，祝你身体健康。
+- Show 5-star Artifacts in the order of when they were obtained ｜ 按获得时间顺序展示5星圣遗物
+- What? Did you leave it behind on your toy ship, then? Ah, truly do you burn your bridges! Do you mean to doom the rest of the world, too, with these reckless fantasies of yours? ｜ 什么？难不成你把它留在你那艘玩具船上了吗？真是自断后路，打算为了你的妄念让整个世界陪葬吗？
+- Obtained from Limited-Time Event ｜ 限时活动获取
+- #<color=#37FFFF>Paimon:</color> Free knowledge without having to study at all? Canned Knowledge is amazing!\n<color=#37FFFF>Paimon:</color> Could Sumeru have Canned Knowledge about the different customs of the seven nations, too?\n<color=#37FFFF>Paimon:</color> If so, Paimon could just open a can every time we get to a new place. Paimon wouldn't have to explain things ever again!\n<color=#37FFFF>{NICKNAME}:</color> Or we could just open them all here in Sumeru.\n<color=#37FFFF>Paimon:</color> But... but traveling wouldn't be any fun without surprises to look forward to!\n<color=#37FFFF>{NICKNAME}:</color> Plus, if we opened them all here, I wouldn't even need Paimon as a guide anymore.\n<color=#37FFFF>Paimon:</color> Okay scrap that idea! No more Canned Knowledge. Let's save our Mora for something else!\n<color=#37FFFF>Paimon:</color> Something like... Oh! Tipping Paimon for guide services! Heehee, seems fair, right? ｜ #<color=#37FFFF>派蒙：</color>不用读书就能知道好多东西，罐装知识真是太方便了！\n<color=#37FFFF>派蒙：</color>不知道须弥，有没有关于七国风土人情的罐装知识…\n<color=#37FFFF>派蒙：</color>要是有的话，每到一个新的地方，我就替你打开一个新罐头，就不用再多费口舌了！\n<color=#37FFFF>{NICKNAME}：</color>那也不用去新的地方，在须弥就能全都打开了吧。\n<color=#37FFFF>派蒙：</color>这、这是为了保持旅程的期待感嘛！\n<color=#37FFFF>{NICKNAME}：</color>而且这么一来，也不用派蒙来当向导了…\n<color=#37FFFF>派蒙：</color>不行不行，我们还是把买罐头的摩拉省下来吧！\n<color=#37FFFF>派蒙：</color>省下来…当我的小费！嘿嘿，合情合理。
+- I see... ｜ 原来如此。
+- Citlali ｜ 茜特菈莉
+- Oh right, I almost forgot... you're the good guys. You're into justice and all that. ｜ 噢对，差点忘了…你们是「正义」的一方，与我不同。
+- How lively! ｜ 热闹多了！
+- If you insist on becoming the enemy of our ancient realm and sealing me once more in a cage buried beneath the waves, then those Fontainians you wish to protect — yes, all of Petrichor — shall be buried as one. ｜ 倘若你执意要成为旧日国度的敌人，再度将我关进深水之下的牢笼，那么你所要守护的那些枫丹人，整个佩特莉可镇也会被一起埋葬。
+- You sold this, yes? ｜ 这是你这里卖的吧？
+- The lights aren't even on, and there's no one— woah!! ｜ 灯都没亮，没人在…哇啊？！
+- ... ｜ ……
+- Ah, you arrived quickly. Good, good. ｜ 啊呀，你来得很快啊，不错，不错。
+- During this Round, your current active character will deal +2 DMG for the next instance.\n(You must have at least 2{SPRITE_PRESET#2101} <color=#99FFFFFF>Cryo</color> characters in your deck to add this card to your deck.) ｜ 本回合中，我方当前出战角色下一次造成的伤害+2。\n（牌组包含至少2个{SPRITE_PRESET#2101}<color=#99FFFFFF>冰元素</color>角色，才能加入牌组）
+- Golem ｜ 魔像
+- Increases Normal and Charged Attack DMG by <color=#99FFFFFF>12%</color>. After a Normal or Charged Attack is fired, DMG dealt increases by a further <color=#99FFFFFF>8%</color> every 0.1s the arrow is in the air for up to 5 times. ｜ 普通攻击与重击造成的伤害提升<color=#99FFFFFF>12%</color>；普通攻击与重击的箭矢发射后每经过0.1秒，伤害还会提升<color=#99FFFFFF>8%</color>，至多提升5次。
+- Sumeru Remarkable Chest Reward ｜ 须弥地区奇馈宝箱奖励
+- Bonifaz ｜ 博尼法兹
+- Convert all your Elemental Dice to $[K411] and draw 4 cards.\n<color=#FFFFFFFF>After you $[K56] this card from your Hand or deck:</color> Place 1 "Countdown to the Show" card that costs 1 less Elemental Die than this one on the top of your deck. ｜ 将我方所有元素骰转换为$[K411]，抓4张牌。\n<color=#FFFFFFFF>此牌在手牌或牌库中被$[K56]后：</color>将1张元素骰费用比此牌少1个的「幻戏倒计时」放置到你的牌库顶。
+- Talk to the two researchers ｜ 与两位学者对话
+- "Up into the misty karst, down among the grassy marsh, all for Lotus Seed and Bird Egg Soup." ｜ 「上至华光雾海，下入水泽荻洲，只为一道莲子禽蛋羹。」
+- Ah... Sorry, but I've never seen these three before. ｜ 啊…抱歉，但是我并没有见过这三位。
+- Current Race Conditions ｜ 本赛道环境
+- After the active character triggers a Swirl reaction on an opponent, CRIT DMG increases by <color=#f39001>{0}%</color> for <color=#f39001>{1}</color>s. This effect can stack up to <color=#f39001>{2}</color> times. Each stack is independent, and this effect is removed when the character leaves the field ｜ 当前场上的角色对敌人触发扩散反应后，暴击伤害提升<color=#f39001>{0}%</color>，持续<color=#f39001>{1}</color>秒，此效果至多叠加<color=#f39001>{2}</color>层，每层独立计时，效果将在角色退场时移除
+- Oh... I know I was sent here for injuring him at a conference, and of course for other reasons, too... But I swear the part about his bad reputation is public knowledge. ｜ 啊…我的确是因为在发表会上把他打伤了才下来的，当然，还有一些其他原因…但是刚才说的他的风评不好是公开的事实。
+- Alright. Don't mind if we do! ｜ 好吧，那我们就不客气了。
+- "Our booth sells old books that the library regularly phases out. These books will not have missing pages and will not be torn, but they may show signs of age. Thanks for your understanding." ｜ 「本摊位出售物品为图书馆定期淘汰的旧书，书籍不存在缺页或破损，但可能存在老化痕迹，敬请理解。」
+- Right, it saves a lot of time that way. Efficiency first! So let's start by... ｜ 对呀，节约时间，效率第一嘛！那我们先把石头…
+- The character to which this is attached has their $[K100] dealt converted to $[K103].\n<color=#FFFFFFFF>$[K4]: 2</color> ｜ 所附属角色造成的$[K100]，变为$[K103]。\n<color=#FFFFFFFF>$[K4]：2</color>
+- Please adjust the camera angle to face the Cecilia's habitat ｜ 需要将镜头转至正确角度，对准塞西莉亚花的生长环境
+- {0} Currently Owned, Can Purchase {1} ｜ 当前拥有 {0}，限购 {1}
+- The two of you have given me such exotic flowers, and I too must repay you with things that are every bit as beautiful. ｜ #派蒙和{NICKNAME}送来了异国的花，柯莎要用花一样美丽的礼物来报答。
+- Covault, cut it with the drinking! ｜ 科沃，别喝了！
+- Plunge DMG|{param8:F1P} ｜ 下坠期间伤害|{param8:F1P}
+- Hey, loosen up a bit. Shouldn't you be the happiest man in Teyvat to hear that people would like to stay of their own free will? ｜ 别绷这么紧了，有人愿意留下来，你肯定特别开心吧。
+- Fires of Autumn Twilight (II) ｜ 秋暮之火·卷二
+- About that Bubble Formation... ｜ 关于那个「水泡阵地」…
+- About the Fortress of Meropide... ｜ 关于梅洛彼得堡…
+- Tap here to rotate the block ｜ 点击该区域旋转方块
+- "Yet Another Discussion" ｜ 「又一份雄辩」
+- But that reminds me... I need to make myself look like I'm always occupied, so I can avoid things I don't want to do and people I don't want to interact with. ｜ 不过你提醒我了，我要经常假装忙碌，这样就能避开不想做的事和不想接触的人。
+- Characters protected by a shield will deal either Electro or Cryo DMG to one nearby enemy once every 8s. The ATK of Characters not defended by shields is decreased by 30%. ｜ 处于护盾庇护下的角色，每8秒一次，会对身边一名随机敌人造成雷元素或冰元素伤害。此外，角色不处于护盾庇护下时，攻击力降低30%
+- Hold the character portrait to quickly configure the party ｜ 长按角色头像可以快速进行队伍配置
+- Of course, the contract did a great job of trying to obfuscate that fact. It only listed the amount that you'll have to repay every day, which gives the false impression that the amount hasn't actually increased by all that much. ｜ 合同上写的倒是隐晦，只说每天需要还多少，给人一种「还能接受」的错觉。
+- Wait, I'm telling the truth! We don't know anything, it was all him! ｜ 等等，我没有说谎！我们真的不知道，是他…
+- Dear Traveler,\n"The Almighty Arataki Great and Glorious Drumalong Festival" event will end soon. Please remember to take part and claim your rewards in time~ ｜ 亲爱的旅行者：\n「荒泷极上盛世豪鼓大祭典」活动即将结束，欢迎旅行者及时参与活动，获取活动奖励~
+- Some said they were borne of some great catastrophe that descended on Teyvat... But I think they probably came from outer space! ｜ 有人说是他们诞生于一场提瓦特的大灾难…可我更怀疑他们是从天空以外的地方来的…
+- ...Whatever disappointment I had left at that point, I certainly wasn't about to take out on you. ｜ …心里最后一点失落，也没有地方能放了。
+- Furnishing Blueprint ｜ 摆设图纸
+- Do you recall if I left any sheets on the ground when I ran off? ｜ 请您回忆一下，在我跑走之后，有账单被我落在地上吗？
+- Let the Desert Bloom ｜ 「若荒漠化为林野」
+- Talk to Thoma ｜ 与托马对话
+- Do you know why that happened? ｜ 这要作何解？
+- It's... It's Jialiang... ｜ 不…不好了…
+- Moment of Cessation ｜ 停摆之刻
+- B—But, wouldn't extracting memories like that hurt the person carrying the Blazegem Inscription? ｜ 可，可是。这么抽取记忆，对戴着「燃晶名刻」的人不会造成伤害吗？
+- Unhappy...? Nothing of the sort. ｜ 我吗…？我并没有不开心。
+- Many people often talk about how hard it is to get accepted into the Akademiya, let alone graduate. But those who finish their studies and go on to become full-time researchers at the Akademiya have it even harder. ｜ 我可没少听他们说，什么教令院入学和毕业就很难了，要想当上研究员留在那工作更是吃尽了苦。
+- Dream on! You'll never dodge my moves, 'cause I never miss! ｜ 想得美，我可不会给你们躲闪的机会！
+- Time for a change of surroundings, we should be going. There's research to do! ｜ 事不宜迟，我们先换个地方，赶紧开始研究吧。
+- After taking DMG, heal self for 1 HP. ｜ 受到伤害后治疗自身1点。
+- Achieve victory with characters defeated less than twice during the battle ｜ 胜利时，角色被击倒次数小于2
+- I'm willing to take that risk. ｜ 我愿意冒这个险。
+- Elderly Merchant ｜ 年长的行商
+- The Adventurers' Guild can give you Adventure Reports on the area surrounding Mondstadt. All reports are free! ｜ 冒险家协会会介绍给你蒙德周边的冒险情报。情报都是公开免费的哦~$UNRELEASED$HIDDEN
+- Maximize your resources and try to use all your Elemental Dice each Round ｜ 合理分配资源，尽量每回合用完元素骰
+- Echoing Conch ｜ 回声海螺
+- That's all for today. Yasnapati, do you or the Pale Floater wish to ask anything? ｜ 今日要讲的就是这些了，「谒颂主」和白飘飘还有什么想问的吗？
+- Forest Elder ｜ 森林的长老
+- A book mistakenly taken by Amber... about fables? ｜ 安柏拿错的…寓言书？
+- As I've mentioned before, the forms of Isshin Art convey the user's thoughts and feelings. ｜ 我之前说过，「一心传」的招式会传达使用者的心境与理念。
+- Someone's got to make the decisions when history is at a crossroads. ｜ 历史的岔路上，总要有人做决定。
+- Slashing DMG|{param2:P} ｜ 斩击伤害|{param2:P}
+- According to the journal, you can pierce through the fog in the middle of the day (10:00 – 14:00) ｜ 根据笔记内容，在正午时分（10点至14点）突破迷雾
+- Anatole ｜ 阿纳托尔
+- Emergency ｜ 临危受命
+- Ei ｜ 影
+- Seems like that worked... Let's keep searching for more mechanisms! ｜ 哦，看上去很有效…我们再找找有没有别的机关吧！
+- That seems a fair choice. Even with the skies as they are, the Silk Flowers still bloom as they always have. ｜ 嗯，倒也不错。现在天有异象，霓裳花倒一如往常地盛开。
+- Remaining growth time: {0} ｜ 尚需生长时间:{0}
+- Sacred Simulacrum ｜ 仙像
+- Yeah, it might be better to keep a low profile. As long as we're helping people, it doesn't matter who we are or what we're called. ｜ 嗯，低调一些吧，切实地帮到大家才是最重要的。
+- Guidance of the Land of Verdure ｜ 茵草的指引
+- However, I still do not understand what it means to become "the master of my own fate." Fate, you see, is a concept humans create to help them understand things. It is not real. ｜ 只不过我尚且无法理解「我希望你成为自己命运的主人」的意思。因为命运是人类试图对事件进行理解时创造的概念，而非实在。
+- This wondrous crystal contains a certain rhythm, like something beautiful woven from delicate silk. These items can be found throughout the mainland or from merchants who collect curios. The tune held within this crystal can be revivified in your Serenitea Pot using either "Euphonium Unbound: Winding" or "Euphonium Unbound: Soaring." The tune contained within this Radiant Spincrystal is "A Sweet Smile." ｜ 蕴含着韵律的奇妙结晶，宛如细腻丝绸编织而成的美玉。零星散布在大陆各地，或是寻觅珍奇的商人手中。通过「尘歌壶」中的「千籁至音·飖扬」或「千籁至音·缪绕」，可以还原记录在其中的旋律。当前「旋曜玉帛」中蕴含的旋律为「甜美的微笑」。
+- If only my perception wasn't so limited... Unfortunately, I cannot guarantee that my every attempt to attune with Irminsul will be successful, or that doing so will leave my consciousness intact. ｜ 可惜我的感知力有限，既没办法让自己每次都能找到世界树，也没办法保证自己的精神不会被它摧毁。
+- There is no need to be so hostile. ｜ 那也不必要有这么大的敌意。
+- Yeah, it's just another day doing business with people, but I can never get used to that... Those people never think of anyone other than themselves. ｜ 是啊，很正常。但就是正常得让人不爽，他们从不考虑自己以外的人。
+- I'm glad to be able to help. ｜ 也让我出一份力吧。
+- Sheikh Zubayr's Opinion ｜ 谢赫祖拜尔的看法
+- Oh, him... You would never guess, but he's busy over by the oven now. ｜ 他啊…你大概猜不到，他也在烤箱旁边忙活呢。
+- <color=#FFFFFFFF>End Phase:</color> Heal all your characters who have not been afflicted by the Frozen Status and have also used a Skill this Round for 2 HP. If your opponent has a character afflicted by the Frozen Status, then the opponent's active character will have <color=#FFFFFFFF>$[K1019]</color> attached at the start of the next Round's Action Phase. ｜ <color=#FFFFFFFF>结束阶段：</color>治疗所有未附属「冻结」状态且本回合使用过技能的我方角色2点；如果有敌方角色附属「冻结」状态，则在下回合行动阶段开始时对敌方出战角色附属<color=#FFFFFFFF>$[K1019]</color>。
+- Adonis ｜ 阿多尼斯
+- "Snappy Silhouette" Mark DMG|{param3:F1P} ｜ 「瞬时剪影」印记伤害|{param3:F1P}
+- #He'll be so sad if it got lost... Please help me find it, {NICKNAME}, please? ｜ 要是这本书真弄丢的话，九哥一定会很难过的…所以，你能帮我去找找那本书吗？
+- She'll live freely, take to the field to defeat evil personally, and defend the people and nation by her own hand... ｜ 过真正自由的生活，等邪恶势力来了就亲手打跑对方，用自己的力量保护人民与王国。
+- Tale of the King's Squire ｜ 关于王的侍从的故事
+- Um, well, The Alcor isn't made of mud. That's why it won't sink. ｜ 嗯…不过，北斗的死兆星号不是泥巴做的，所以不会沉。
+- Not to worry. This was never going to be easy anyway — but I shall not give up! ｜ 没关系，这本就是不容易的事情，但我不会放弃的！
+- What's the next step? ｜ 接下来要怎么做？
+- Little Liu ｜ 小六
+- "Haha, stop teasing me!" ｜ 「哈哈，不要戏弄我啦！」
+- And please be careful! ｜ 嗯，一定要当心！
+- Divine Retribution ｜ 代行裁判
+- A Nameless Adventurer's Notes ｜ 无名冒险家的笔记
+- Talk to Félix Yogue ｜ 与菲利斯·尤格对话
+- It starts with a young guy in Sumeru who finds an ancient "Casket of Tomes" in the attic. He opens it, and discovers that the soul of an ancient TCG player called the Crocodile King has been captured inside. ｜ 说是一个须弥少年在自家阁楼上找到了古老的「秘典之盒」，打开盒盖后却发现里面寄宿了远古牌手「鳄之王」的魂魄。
+- A piece of it has been burned away, and the remaining parts show signs of having been rescued from that same flame. ｜ 它被烧掉了一块，剩余部分看起来就像是从火堆里抢救出来的残渣。
+- Barbara is like a thorn in my side, always nagging me about mass and choir practice. I wouldn't be surprised if Sister Victoria specifically asked her to keep an eye on me. ｜ 芭芭拉总是缠着我，叫我参加礼拜和唱诗班。难道维多利亚给她下了监督我工作的命令？
+- #What do you mean, "{M#her}{F#him}"? ｜ #什么意思？你说的「{MATEAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}」是在说谁？
+- Well, look who we have here. Remember us? Your little trick got us disqualified! ｜ 真是冤家路窄。还记得我们吗？刚刚你趁我们两败俱伤时出手，导致我们失去了比赛资格。
+- Transcription from a stone tablet ｜ 从石碑上抄下来的文字
+- This one was made especially for you. ｜ 是特地为你准备的。
+- What's the matter? ｜ 发生什么事了？
+- Oh, you mean someone like Albedo? Hmm, that would explain why only some people understand the true value. ｜ 哦！就像阿贝多那样出名的画师吗？只有识货的人才知道这套牌背的价值什么的。
+- Many years passed before she finally composed a melody to her satisfaction. In celebration, she played the tune to the clouds. Regrettably, one has only ever heard her play that tune once. ｜ 不知过了多少年，她似乎终于编出一个满意的曲调来，便向云中奏乐，以示庆祝。可惜，我只听她弹过那一次。
+- <color=#0075de>Coldstream Wave</color> and <color=#2bb7d5>Frigidfloe Wave</color> DMG <color=#f39001>AoE is increased</color>, and their trigger interval is decreased by <color=#f39001>{0}</color>s ｜ <color=#0075de>寒水震波</color>和<color=#2bb7d5>冽冰震波</color>造成伤害的<color=#f39001>范围提升</color>，且触发间隔降低<color=#f39001>{0}</color>秒
+- ... ｜ ……
+- Use Elemental Sight to find the slimes ｜ 使用元素视野寻找史莱姆
+- Alright then. We'll be handing out pockets in some other districts later, so we'll get going now. Have a good day, you two! ｜ #好了，稍后还要去其他区域继续派发袋子，我们先走一步。{NICKNAME}，派蒙，祝你们拥有美好的一天。
+- Come. We'll continue our little chat over there. You need to listen and learn, young lady! ｜ 走，有话到边上讲，我得好好训训你！
+- Is it... dangerous? ｜ 有危险吗？
+- If that guy doesn't come up with some new stories soon, he won't be able to keep himself fed. ｜ 那家伙啊，要是不想出点新故事来，可是吃不饱饭的哦。
+- <color=#FFD780FF>Aromatic Explication</color>'s duration is increased by 2s. The interval between opponents being selected as the target for Scented Dew is decreased by 0.3s. ｜ <color=#FFD780FF>香氛演绎</color>的持续时间延长2秒，且每名敌人被香露选为目标的间隔降低0.3秒。
+- *sigh* Fine, I won't ask you to return home anymore. ｜ 呼…好吧。小姐，我不会再要求你跟我回家了。
+- ??? ｜ ？？？
+- Find the monster based on Jack's description ｜ 根据杰克的描述找到怪物
+- At the same time, our inventory is running a surplus to match... So I'm more than willing to exchange some of it for a little hand here and there. ｜ 与此同时，我这边清点的后勤物资又相对过剩…所以我是很乐意以报酬的形式用物资换些人力支持的。
+- Isn't that a good thing? ｜ 这不是挺好的？
+- Good Morning ｜ 早上好…
+- #{NICKNAME}! Take the "key" out and drink it! ｜ #{NICKNAME}，快把「密钥」拿出来喝掉吧！
+- Spiritvessel Skull DMG|{param2:F1P} ｜ 宿灵之髑伤害|{param2:F1P}
+- "We're not loafers! This is libel! If you fail to offer a satisfactory apology immediately, then I shall go to the Maison Gestion and apply to duel you!" ｜ 「我们才不是游手好闲的人！你这是诽谤！如果你不立刻道歉的话，我就去复律庭申请跟你决斗！」
+- Low/High Plunge DMG|{param8:P}/{param9:P} ｜ 低空/高空坠地冲击伤害|{param8:P}/{param9:P}
+- Ugh, who could it be...? ｜ 唔，到底是谁呢？
+- Paimon had a good time too! Thank you, Arama! ｜ 我也很开心！谢谢你，兰罗摩！
+- I only just got here, so I know very little about what has happened in the past. They seemed genuinely grateful for the houses, though, and said they were going to plan a welcome party. ｜ 我刚来没多久，还不知道这个世界发生过什么。但大家似乎挺感谢他们建的新房子，还说要办一场迎新会什么的。
+- I guess that's what they call aptitude. ｜ 这就是天赋吧。
+- Capable of driving away evil spirits and wicked people alike, this edgeless claymore seems to possess divine might. ｜ 能靖祛妖魔奸佞，仿佛有神威的无锋大剑。
+- 1-Hit DMG|{param1:F1P} ｜ 一段伤害|{param1:F1P}
+- Is everything alright? ｜ 你还好吗？
+- I don't think Dunyarzad knows anything about this, either. ｜ 感觉迪娜泽黛也不知情。
+- A circular jade ornament. Legend has it that it was once used somewhere as a symbol for rituals to begin. ｜ 圆形的玉佩。在某个传说中，它是何地之祭祀肇始的凭证。
+- Sure. ｜ 可以。
+- Ah. It would seem that this place has some new tenants. Please do get rid of them, my master. ｜ 哦…看来这里又被另一批住民占据了，除掉它们吧，我的大人。
+- Echoing Conch ｜ 回声海螺
+- How about a round of Akitsu Yuugei? ｜ 要来一场秋津游艺吗？
+- Auspicious Motif 56 ｜ 祝语纹样·之五十六
+- Uhh... We did, but we don't wanna interfere or anything... You're busy saving lives here... ｜ 啊…材料是找好了，但看你这么忙，我都不好意思提起这件事呢。
+- Guess all we can do is take it one step at a time. ｜ 走一步看一步吧。
+- You were unable to stop Shinobu from acting. Her temper cooled for now, she decides to go back to her proper business for the day... ｜ 你没有阻止久岐忍动手，暂时消气的久岐忍决定先去办正事…
+- 富田美憂 ｜ 富田美忧
+- Alright, alright. Let's not talk about this stuff... We'll have all the time in the world to talk nonsense once the stone slates have all been found. ｜ 好啦好啦，别说烦人的事啦…等找齐了石板，我们有的是时间扯闲天。
+- That is true. However, time is life to me. You saved me time, so you saved my life. ｜ 嗯，确实是这样。不过，时间就是生命，你们帮我节约了时间，所以确实是救命恩人！
+- Hopefully we'll see those seeds sprout soon. ｜ 希望能尽快看到这颗种子发芽。
+- Contracts of that magnitude — lifelong commitments... I've only ever signed one with my father. Uh... it's about living happily, I suppose. That's the kind of person he is. I'm proud of him for that. If he'd wanted me to sign a different contract, say... one about working myself into the ground, or stepping on others to achieve success... I would've ran away by now! ｜ 那种维系一生的严肃契约…我只和老爹订过。唔…就是那种「要快乐生活」什么的，他就是那种人啦。不过嘛，我还是挺为老爹的这份通透自豪的。要是他想跟我定那种「要吃苦中苦，要做人上人」之类的契约，我肯定逃都要逃走了。
+- Xudong came here... in a hurry? Something must've happened to him, huh. ｜ 旭东…匆匆忙忙的？有什么事会让他这么着急呀？
+- Wangshu Take-Away ｜ 望舒外送
+- Well... Klee's so young, so even if she'd heard this deep knowledge, she might not have understood. ｜ 所以…可莉年纪这么小，就算听了那些高深的知识，也听不懂吧。
+- A wonderful holiday... ｜ 美好的假日…
+- Hehe, not another step closer, Traveler. I'm warning you. ｜ 别过来，警告你，别过来。
+- <color=#f39001>After the above characters join your party, Max HP, ATK, and DEF are increased by 20%.</color> ｜ <color=#f39001>上述角色编入队伍后，生命值上限、攻击力与防御力提升20%。</color>
+- You once again discover a similar oddity... ｜ 你再次察觉到了相似的异状…
+- ...Ahhh! That's a good point! ｜ …啊！对哦！
+- You're right. Besides formal apologies and reprimands, I also probably need to head upstairs to have a talk about how best to manage the guards. ｜ 你说得对，不只是正式的道歉与追责，也需要再去和上面谈谈看守们的管理规则了。
+- Hahaha, are you here to have fun too? ｜ 哈哈哈，你也是来享受的吧？
+- Strange Stone Chronicle ｜ 奇石历险记
+- Huh? B—But Cyrus... I think I kinda made up for my mistakes this time, y'know... ｜ 欸？塞、塞琉斯会长…我不是都立功了吗！
+- Throne of the Primal Fire ｜ 源火之圣座
+- Elemental Skill: II ｜ 元素战技·其二
+- These are my pride and joy: Milky Natto Ramen, Colorful Spicy Dango... What do you think? Sounds delicious, no? ｜ 你看，这些都是我的得意之作：纳豆牛奶拉面、麻辣幻彩团子…怎么样，听起来不错吧？
+- Not so far. ｜ 暂时没有。
+- ...Anyway, listen... Only a few of us geezers are left. What do you plan to do after we stop testing those who may be destined to join us? Take those books with us to our graves? ｜ 行了，你听我说…就剩下咱们几个老家伙了，若不像这样试探有缘人的底细，总不能真让那些藏书陪着咱们进棺材吧？
+- About the books... ｜ 关于书…
+- And if they were starving, it's not impossible that they might end up charging into people... ｜ 饿昏了头时，冲撞到其他人也不是不可能…
+- Are we going back for Festival Utsava? ｜ 我们要回去过无忧节了吗？
+- A strange, powerful air current, bizarre ice, and odd plants... ｜ 奇怪的强气流、和奇怪的冰，还有奇怪的植物…
+- Should we also invite some prominent business leaders who frequently visit Ritou? ｜ 是不是也该邀请一些经常访问离岛的商会主管呢？
+- What are you two talking about, Anthony? ｜ 安东尼，你们在做什么？
+- A bountiful harbor that lies in the East. Mountains stand tall and proud alongside the stone forest, that together with the open plains and flowing rivers make up Liyue's breathtaking landscape. ｜ 大陆东方的富饶港湾。\n傲然矗立的山麓与石林、广袤的平原与生机勃勃的河滩共同构成了璃月的丰富地貌。
+- Ei ｜ 影
+- Charged Attack hits on weak points increase Movement SPD by 10% and ATK by <color=#99FFFFFF>54%</color> for 10s. ｜ 重击若命中要害，则提升10%移动速度与<color=#99FFFFFF>54%</color>攻击力，持续10秒。
+- The Bell <size=24>etc.</size> ｜ 钟剑<size=24>等</size>
+- *sigh* Forget it. It's about time for my training. I will take my leave! ｜ …呼，算了，差不多到了「修行」的时间了，我先走了。
+- And the thousand-and-one fairy folk who hide within the dreams of the night and the cries of the owl... ｜ 以及在夜梦与鸮鸣中藏身的一千零一种精灵…
+- Completed ｜ 已完成
+- ??? ｜ ？？？
+- Forging Billet(s) ｜ 锻造原胚
+- Oh, and Aurele, don't tell my father about this, or he'll lecture me again... ｜ 对了，奥雷勒哥哥，你可不能告诉我爸爸，不然他又要训我了…
+- Continue forward with Gesine ｜ 与格茜妮一起继续前进
+- The Mausoleum of King Deshret, Southwest Section: Underground Ruins ｜ 赤王陵西南·地下遗迹
+- Bard's Arrow Feather ｜ 琴师的箭羽
+- Oh... So that's your story... ｜ 哦哦…原来是这样的故事啊…
+- (Oh no, that was a bad word choice. Now Sucrose is using it and it's all my fault...) ｜ （总觉得我错误的用词把砂糖带跑了…怎么办…）
+- Well, why don't we go to Xinyue Kiosk? ｜ 要不我们也去新月轩？
+- There goes the stage, and the treasure with it... ｜ 这样一来挑战就失败了，呜呜，我的遗宝…
+- You and Dunyarzad wait nearby for a while... ｜ 你和迪娜泽黛在附近等候了一会儿…
+- Maximize your resources and try to use all your Elemental Dice each Round ｜ 合理分配资源，尽量每回合用完元素骰
+- What? We're just on guard duty. What do you mean, "shameless"? ｜ 什么…正常的守卫任务，怎么就无耻了？
+- Making a living... ｜ 新的谋生途径…
+- That was a real shocker! It was hard to tell that we were even in a dream. ｜ 作为惊喜，确实不容易被察觉到。
+- Goodbye, meow meow. ｜ 再见，喵喵。
+- As you well know, a Vision Hunt Decree is currently underway in Inazuma. ｜ 你们也知道，稻妻正在施行「眼狩令」。
+- Newest produce: Fresh Bulle Fruit, Rainbow Roses; Ajilenakh Nuts, Zaytun Peaches from Sumeru. Fresh Jueyun Chilis from Liyue will be arriving soon, watch this space! ｜ 最新到货：新鲜的泡泡桔、虹彩蔷薇；来自须弥的枣椰、墩墩桃；来自璃月的新鲜绝云椒椒也即将到货，敬请期待！
+- {0} has entered the world ｜ {0}进入了大世界
+- Since you're serious about this, I won't try and stop you... There's only one way to reach the end of the world, and that's by taking the Maritime Express. ｜ 既然这样，我也不再阻拦，去往世界尽头的路只有一条，那就是乘坐「海上列车」。
+- So that massive stash of Mora you let us burn through in a day — that was from your private vault!? ｜ 我们用的那哗啦啦点都点不清楚的摩拉，都是从你的金库——
+- True. Now let's save 'em, quick! ｜ 说的也是，我们这就救出被抓的龙吧！
+- Maybe he'll start missing the warmth of Mondstadt once he's had a bite, and he'll give up on going to Dragonspine! ｜ 说不定他吃了甜甜花酿鸡，就会想起蒙德的温暖，不会去雪山了！
+- Maybe they're trying to reproduce a talisman. ｜ 可能是想复制真品。
+- Unlocks at Friendship Lv. 4 ｜ 好感等级达到4后开启
+- Kanjou Notice ｜ 勘定公告
+- A woodcarving head decorated with leaves that can be used to assemble an "Aranara Carving." It's painted blue and reminds people of a forest stream.\nThe residents of Sumeru like to use leaves of various shapes to describe a person's beard. So naturally, there are two leaves on the lips of the Aranara Grandpas in the fairy tales. ｜ 用树叶装饰的木刻脑袋，可用于组装「兰那罗木刻」。以颜料涂制成蓝色，让人联想起林中的溪流。\n须弥的居民喜欢用各种形状树叶来形容人的胡子。于是顺理成章地，童话里兰那罗爷爷们的嘴边，也是两片树叶。
+- And Paimon's Paimon! Paiii...monnn...! ｜ 而我是派蒙！派——蒙——！
+- An adventurer? That does explain his obsession with mountain climbing! ｜ 冒险家？难怪这么想爬上雪山！
+- If you have not yet planned a final delivery destination, you can also register here to have them stored temporarily in one of our warehouses. ｜ 要是暂时还没规划好货物的去向，也可以在这里登记，将货物暂时存放在合辙驿名下的仓库。
+- #Ahaha, very funny... Anyway, {NICKNAME} and Paimon, what brings the two of you to Starsnatch Cliff? ｜ #啊哈哈…对了，{NICKNAME}和派蒙来摘星崖有什么事吗？
+- Look! Over there! ｜ 那个，那个！
+- Shabby Rack ｜ 破旧的架子
+- Alright, we'll get started on that order for you right away! ｜ 好，订单要求已经记下了！
+- Zhongli isn't concerned with the deicide itself, but with upholding Liyue's sacred traditions by giving a proper farewell to an archaic lord. Having selected a suitable batch of Noctilucous Jade, your next task is to prepare some perfumes as an offering to the Geo Archon. ｜ 钟离不关心谋杀神明的奇案，只关心璃月的传统：辞行久远之躯。挑完仪式所用的夜泊石后，你们又开始准备祭神用的香膏。
+- Huh. What happened? C'mon, tell us! ｜ 哇！发生了什么好事啊？也讲给我们听听！
+- Feather of Nascent Light ｜ 潜光片羽
+- Farrah's cart was damaged by monsters, gather materials to help him with the repairs. ｜ 法拉的货车被魔物破坏，搜集材料，帮助他修好货车。
+- I'll take this one. ｜ 老板，我要这枚。
+- Well, our paper plays may not be as exquisite as Liyue Operas, but we certainly have our own distinctive flavors. ｜ 您有所不知，我们这纸映剧虽不及璃月戏讲究，也自有一番特色。
+- Dandelion Wine from Mondstadt, Cor Lapis from Liyue Harbor... Hmm? These... are marked for delivery to the Yashiro Commission and Amenoma Smithy. ｜ 蒙德城的蒲公英酒、璃月港的石珀…咦？这份礼物…好像指名要送给社奉行和天目锻冶屋…
+- I'm barely acquainted with the daughter of the Kamisato Clan. I'm glad that I'm not from some sort of prestigious family like that... it's definitely not the kind of life for me. ｜ 我和神里家的大小姐，只能算点头之交吧。还好我的家族不是什么名门。那种生活，可不适合我呀。
+- Mondstadt is a pleasant place. I have been here for some time now, and I am reluctant to leave... It has definitely brought out my more, ahem, leisurely side... ｜ 蒙德是个令人感到惬意的地方，不知不觉已经留在这里不想走了，呵呵。还真是怠惰…
+- Oh? And you know this because you walk on your own two feet? ｜ 哦？你还用腿走路吗？
+- Sir, this traveler actually is... ｜ 长官，这位旅行者其实…
+- Continue searching for the Inscriptions of Remembrance ｜ 继续寻找「记忆的铭文」
+- Maximize your resources and try to use all your Elemental Dice each Round ｜ 合理分配资源，尽量每回合用完元素骰
+- The device used to capture the Fungi made them calm and approachable. ｜ 捕获装置使蕈兽温和。
+- How dare you threaten me, servant! I will haunt your nightmares! ｜ 区区仆从竟敢威胁我！你就等着噩梦缠身吧！
+- Mualani asked me to go into a cave with her tonight in a test of courage, and I—I—I'm... I'm so scared! What should I do? I didn't want to disappoint her, so I closed my eyes and said I'd go... No matter what happens, I should face it together with her! Ehh!? You're coming too? Th—Thank goodness! Phew... ｜ 玛拉妮邀请我晚上去山洞试胆，我我我，好紧张，怎么办？我不想拒绝朋友，就…就闭上眼睛答应了…不、不管发生什么事情，我都应该和她一起面对。欸？你也一起来吗？太、太好了！呜…
+- Come on, just have a bite. A little tiny bite, and then I'll leave you alone, how's that sound? ｜ 来，稍微吃一点。少吃两口，我今天就不来打扰你了，怎么样？
+- We adventurers live to conquer the stars and the abyss. Anyone who is put off their quest by a spot of bother is going to have a boring life! ｜ 我们冒险家都是为征服星空与深渊而生的人，为了区区危险而停下探索步伐，这样的人也太无聊了！
+- Given that I am the victor of this duel... As agreed, the punishment stands. ｜ 按照约定，作为这场决斗的胜者，我将继续完成处刑。
+- Energy Cost|{param5:I} ｜ 元素能量|{param5:I}
+- I don't mean to boast, but any chef of my caliber probably has their own restaurant to look after... It's not gonna be easy to find someone who's got the skills and has the time to help us out. ｜ 也不是我自夸，这种水平的厨师，应该都有自己的生意要照顾吧？能抽出空来客栈帮忙的，怕是不好找。
+- As you get closer to the island in the fog, a strange noise can be heard from it — what secret past lies hidden in its depths? ｜ 靠近迷雾中的海岛时，传来了奇怪的话语声，这海岛深处又隐藏着怎样的过往呢…
+- Stormbearer Mountains ｜ 望风山地
+- You really can eat a lot, huh... ｜ 你的胃口确实很好。
+- Just send it to the Tenryou Commission, please. ｜ 送到天领奉行府上就好。
+- That's becoz I gave Mister Fatooey lots of stuff to eat! That's why he sent me a gift! ｜ 因为窝，窝请那个蜀黍，吃了好次的！蜀黍才送礼物给窝！
+- No need to startle. This is a quiet and secure location, shielded from outside disturbances. It would make for a good backup base. ｜ 不必惊讶。这里安静隐秘，不受外界打扰，可以当做备用据点。
+- Then you should really hurry up, shouldn't you? You should let your members spend as much time as they can with your Fungi, right? ｜ 那你不是更应该抓紧时间，让小弟们和你的蕈兽多玩一会儿了吗？
+- You sure that's gonna work...? ｜ 这么说真的有用吗…？
+- Not time to relax yet... ｜ 还不到休息的时候…
+- Handoff ｜ 交接
+- After careful consideration, I've decided to invest in him. ｜ 我仔细思考之后还是决定给他投资了。
+- Are you here to look for inspiration today as well? ｜ 你今天还是来取材吗？
+- Well? Go on. ｜ 继续。
+- We should check with the students from her school. If we can confirm the technique exists, we can deduce certain things about the battle. ｜ 不如从她那些徒子徒孙入手，只要能确认这种秘术真的存在，就能依此反推，去调查那场战争。
+- Have you flown any kites lately? ｜ 你最近放过风筝了吗？
+- When she heard that we were traveling around looking for different cuisine, she joined us. ｜ 她听说我们想要四处旅行寻找美食之后，就也加入了我们。
+- Memory? But... isn't he a spirit? ｜ 记忆？可他…他不是鬼魂吗？
+- Oh! That's right... We actually only saw a bunch of huge crabs! ｜ 对哦…明明我们只看见了好多螃蟹呢！
+- That's amazing. ｜ 好神奇。
+- After we get back to camp, I'd appreciate it if you could teach me some more words and grammar. I've got to finish my copy of "500 Things You Need to Know When Organizing a Big Event." ｜ 回到营地后，要麻烦你再教我一些字词和语法了，我要把那本「大型活动筹备要点五百问」好好读完。
+- Delicious Lotus Flower Crisp ｜ 美味的莲花酥
+- Jueyun Guoba ｜ 绝云锅巴
+- Plunge DMG|{param10:F1P} ｜ 下坠期间伤害|{param10:F1P}
+- A detailed step-by-step blueprint for making "Stable Work Station in the Central Hub."\nAfter using this item, you can view it in the Creation Screen. ｜ 步骤详实的图纸，记载着「『中枢的安稳工位』」的制作方法。\n使用后可进入制作界面查看。
+- Xiao Lantern crafting instructions ｜ 霄灯合成配方
+- Ah, Paimon gets it now... Well, let's go talk with Debbi. ｜ 我明白了。我们去找黛比聊聊天吧。
+- Marechaussee Hunter ｜ 逐影猎人
+- Worksite Records ｜ 工地记录
+- Scholars... You don't know as much as I do... Need me to... ｜ 学者…你没我清楚…需要我…
+- Skill DMG|{param1:P} ｜ 技能伤害|{param1:P}
+- I believe that this will add at least a few new entries to my next anthology. ｜ 如此一来，我的下一部诗集中说不定又可以添几首新作。
+- Even the power of an adeptus has its limits. Had your condition continued to deteriorate, you would have forgotten your life as a human entirely. In the end, you would have turned into a creature lacking in the ability to even comprehend its own monstrousness. ｜ 本仙并非无所不能。再这样下去，你会连自己身为「人」的事情也一同忘记，彻底变成没有心智的怪物。
+- It's just that, because of their local customs, the native people choose not to leave. ｜ 只是因为民俗习惯，那里的人不会选择离开纳塔。
+- Doubting me? ｜ 质疑我？
+- "After perusing the Starlog by the great sage of Tabari, I finally realized whether it be the war of gods or downfall of ancient empires, it was all a microcosm of the celestial movements." ｜ 「在读过伟大的塔巴里贤者编制的『星表』之后，我才终于意识到，魔神的战争也好，古国的覆灭也罢，不过都是群星运行在大地上的投影。」
+- Good idea. We did our best, and that's what counts. ｜ 是啊，毕竟我们也…按照璃月的说法，「尽力而为」了呢。
+- A fabric band dyed indigo by the darkness of night. Can also double as a bandage in the event of an emergency. ｜ 被夜色染得靛青的织物。能在紧急时充当绷带。
+- A detailed step-by-step diagram for making a Wind Catcher. A Wind Catcher can absorb the energy of Anemograna and release it when needed to create a wind current. ｜ 步骤详实的图谱，记载着「捕风瓶」的制作方法。捕风瓶可以汲取「风种子」的力量，在需要的时候释放风场。
+- Voice from Downstairs ｜ 从楼下传来的声音
+- I must get to the bottom of this... ｜ 一定要弄清楚事情的真相…
+- #Ugh, don't get me started... Since {NICKNAME} solved the Stormterror crisis and became Mondstadt's hero, a whole load of young people got excited and decided to join the Adventurers' Guild... ｜ #嗨，别提了…自从{NICKNAME}解决风魔龙事件，成为拯救蒙德的英雄，有不少新人受到激励，也加入了冒险家协会…
+- You are a special person, with a unique and brilliant glow. I decided to communicate with you in this way because I'm really curious about you. ｜ 你是个特别的人，散发着别样色彩。我实在好奇，才以这种方式与你沟通。
+- A special slip of paper that can illuminate one's fortune. Also known to a certain someone as "strips of paper."\nYou can only get one of these per day, which will cause the previous day's fortune slip to lose meaning and disappear.\nThey say that slips that portend ill luck such as "Misfortune" and "Great Misfortune" can be tied to the Fortune Slip Hanger as a prayer for a turnaround.\nRegardless, "fate" and "destiny" are things best grasped and forged in one's own hands. ｜ 昭明今日运势的特制纸签，也被某人称为「纸片儿」。\n每天只能求得一次签文，昨日的签也会因为不再具有意义而消失。\n据说，「凶」和「大凶」这类不吉祥的签条，可以结在「御签挂」上，以求转运。\n但无论如何，「命」与「运」都应该自己掌握、自己开拓吧。
+- Now, where should we summon Stormterror? ｜ 那么，我们该在哪里呼唤风魔龙？
+- It's so pretty. Paimon's sure it's worth a ton of... ｜ 这么漂亮，肯定值不少钱…
+- Have any of you heard of Inazuma's "Onmyou Chamber"? ｜ 不知道你们有没有听说过稻妻的「阴阳寮」…
+- Mr. Jurieu, the lead engineer behind the Wingalet and a former researcher, recently declined an invitation from Fontaine Research Institute! ｜ 近日，「维恩歌莱号」幕后的首席工程师，前研究员朱里厄先生谢绝了枫丹科学院的聘调邀请——
+- I don't know some of these words... ｜ 有几个词，可莉不认识…
+- As expected, your return has caused quite the commotion. ｜ 希巴拉克大人的归来果然引起超乎想象的骚动了。
+- Morning, Nilou. ｜ 早啊，妮露。
+- A detailed step-by-step blueprint for making a "Kokutan" Thick-Walled Clay Water Tank.\nAfter using this item, you can view it in the Creation Screen. ｜ 步骤详实的图纸，记载着「厚壁『石胆』陶制水缸」的制作方法。\n使用后可进入制作界面查看。
+- Okay, okay, I need you to calm down a little, Miss Lepine-Pauline... ｜ 请你冷静一点，乐平波琳小姐…
+- The Fayz Potion is pretty amazing, huh? It's a shame that it only works in specific environments. ｜ 「溢神剂」的效果很神奇吧！不过很可惜的是「溢神剂」只能在搭建起来的特殊环境里有效。
+- See, what did I tell you... ｜ 你看，我说什么来着…
+- Hilichurls are building towers in the wilderness. Destroy them quickly. ｜ 丘丘人在野外修建了哨塔用于瞭望，快去将哨塔完全摧毁。
+- I didn't expect my teacher and others to remodel its Self-Repair function, upgrading it to "Self-Learning." ｜ 没想到，老师他们，居然能改造更生机关，在「自我修复」的基础上更进一步…给予了它「自我迭代」的机能。
+- "Vizier too. That man never keeps his word. He's only there when the Mahamata tries to shed responsibility." ｜ 「什么维齐尔，平常说话也不算，只有教令官要推卸责任的时候才会想起来。」
+- If our potion was enough to impress Master Diluc, Paimon's sure regular customers are gonna be even more amazed! ｜ 迪卢克老爷都点头了，一般的客人肯定会觉得超厉害！
+- Oh no! Haypasia! ｜ 糟了，是海芭夏！
+- Food ｜ 食物
+- Hey, you! Get up right now and explain yourself! ｜ 你快给我起来！起来！这究竟是怎么回事啊！
+- Ooh... So "Toclipho" became a real name. ｜ 哦…所以「托克里夫」，就成了真名。
+- Yes, Ma'am! What the lady wants, the lady gets. ｜ 恭敬不如从命。
+- What... is this place? ｜ 这里…这里是什么地方？
+- It looks like Granny Oni's about to get a few more oni to look after. ｜ 「鬼婆婆」照顾的鬼，又要变多咯。
+- Princess ｜ 公主
+- Is it to do with you? ｜ 是自己的原因吗？
+- *sigh* ...I suppose feeling down isn't gonna solve anything. I need to pick myself up and get back to my members... I'll see you guys around! ｜ 唉，垂头丧气也不是个事，还是要打起精神去面对小弟们啊…再见吧！
+- Defeat all opponents ｜ 打倒所有敌人
+- The Police Station is in charge of keeping order and peace. If you see anything out of order, you can come here and report it to us... ｜ 奉行所负责治安管理。如果看到什么违法乱纪的事件，可以来这里报案…
+- Vas... what now? ｜ 桓…桓什么？
+- Sprightly Harpastum Youkai ｜ 多动的羽球妖怪
+- #Hahaha, {M#he's just showing how much you mean to him, in his own way.}{F#she's just showing how much you mean to her, in her own way.} ｜ #哈哈哈，这是{M#他}{F#她}非常爱惜你的表现哦。
+- Marechaussee Hunter ｜ 逐影猎人
+- Complete Hard difficulty to obtain a Silver rating ｜ 完成困难难度可获得亮银评价
+- Archery contests are a Windblume Festival tradition that commemorate the early days of Mondstadt, an age of pioneering and hunting...\nChallenging archery competitions have also been prepared for this year's Windblume Festival.\nThose who are well-versed in these arts will, naturally, be able to win the prizes and wow the residents of Mondstadt. ｜ 弓箭挑战是风花节的传统游戏，旨在纪念蒙德建立之初，那段开拓与狩猎的历史…\n今年的风花节同样设置了极具挑战性的弓箭竞赛项目。\n精通个中玄妙的高超射手，自然能赢得赛事的奖励与蒙德居民的敬重。
+- That's right. My adventure here's been awesome! Everyone treats me well, especially the people at the Spina di Rosula. ｜ 嗯！这里的冒险好开心，大家都对我很好，特别是刺玫会的哥哥姐姐们。
+- Festival Booth - "Literary Talent" ｜ 祭典展位-「文彩」
+- 2-Hit DMG|{param2:P} ｜ 二段伤害|{param2:P}
+- They really do seem friendlier than your average hilichurl. ...How did Ella Musk manage to find them though!? ｜ 看上去真的脾气很好啊，不过，艾拉·马斯克到底是怎么找到它们的呢…
+- Someone's here! ｜ 有人在这里！
+- We'd like a bass head. ｜ 我们要一个鲈鱼头。
+- Want <color=#00E1FFFF>a Viparyas and a Kalpalata Lotus</color>. Please, Nara friend. ｜ 想要<color=#00E1FFFF>一个毗波耶，和一个劫波莲</color>，拜托那菈朋友。
+- Hey! It's the Abyss Order. Are these the "scurrying rats" that Tsuyuko was referring to? ｜ 啊，是深渊教团。他们就是露子提到的那些溜下来的家伙吗？
+- Head to the exit ｜ 前往出口
+- #<color=#37FFFF>Paimon:</color> Urrrrgh...\n<color=#37FFFF>{NICKNAME}:</color> Hmm? Are there pigeons around?\n<color=#37FFFF>Paimon:</color> No, Paimon's just hungry.\n<color=#37FFFF>Paimon:</color> What Paimon needs right now is a traveler who can whip up some delicious Sticky Honey Roast.\n<color=#37FFFF>Paimon:</color> So, who's going to be the lucky traveler? Hmm? ｜ #<color=#37FFFF>派蒙：</color>咕咕咕…\n<color=#37FFFF>{NICKNAME}：</color>嗯？有鸽子吗？\n<color=#37FFFF>派蒙：</color>不对啦，是我饿了。\n<color=#37FFFF>派蒙：</color>嗯…现在我要抽一位旅行者，来为我做一份蜜酱胡萝卜煎肉。\n<color=#37FFFF>派蒙：</color>到底是哪位旅行者这么幸运呢？
+- The judges and the officiator accept this explanation! Let the competition continue! ｜ 组委会与公证员均认可此番说明！比赛继续！
+- Low/High Plunge DMG|{param12:P}/{param13:P} ｜ 低空/高空坠地冲击伤害|{param12:P}/{param13:P}
+- Please do. Stay safe! ｜ 嗯。慢走。
+- Thank you. ｜ 多谢了。
+- Unlocks at Friendship Lv. 6 ｜ 好感等级达到6后开启
+- Abyss Lector: Fathomless Flames ｜ 深渊咏者·渊火
+- Mmm... Then we better get going and save the mushroom! ｜ 唔…那我们就赶快去吧！救人…不，救蘑菇要紧！
+- The bad bugs plaguing the Varuna Contraption have been removed! Finally! ｜ 祸害法留纳神机的坏虫…终于被清除了！
+- Oh, come on! A commission of this level was a piece of cake for us! ｜ 当然啦！这种程度的委托，对我们来说是小菜一碟！
+- Oh, Master Jean is also here. ｜ 琴团长也在啊。
+- Speaker's Chamber ｜ 「话事处」
+- A once-magnificent design left abandoned to time. This desolate site, hidden deep within the mountain's heart, casts but a flickering shadow of its former grandiose creation.\nThorough exploration may reveal treasures that those who long to reach beyond the heavens can only dream of obtaining. ｜ 一度宏伟的蓝图在此画下了中折的句点，如今只是深山之内早被废弃的荒凉场所，依稀得见从前巨大造物的影子。\n如果能在此处好好搜索，或许能寻得许多向天外祈望者梦寐所求之物吧。
+- Wait! You weren't supposed to drink that, Paimon. ｜ 不是吧？派蒙，你怎么直接喝呢？
+- Let's get going. Tlazolli lives pretty far from the tribe, so it'll take us some time to get there. ｜ 走吧，咱们还要赶路呢。特拉佐莉的住处离部族很远，要走好一会了。
+- Right right, and the cappy-cap guy looked half asleep the entire time. He kept talking nonsense! ｜ 对对，那个戴帽子的胖子看起来像没睡醒一样，老说胡话。
+- Fanwork Circle "Fantasy House" ｜ 同人社团「空想屋」
+- I've already requested the Tri-Commission to handle the matter. Although I am the head of the civil office, I don't have any actual power. All I can do is worry all day. ｜ 毕竟事情都让三奉行做了，我虽是文官首脑，但不握实权，也只能整天发愁度日。
+- Anatole ｜ 阿纳托尔
+- The Balladeer has caused a series of unexpected consequences within Irminsul, and you're the only one aware of that. In order to ascertain the situation, you visit various places in Inazuma and inquire about details related to The Balladeer and the Raiden Gokaden. However, it seems like nothing could be done about the people The Balladeer had wished to save... ｜ 散兵在世界树内部的作为引发了一连串意想不到的后果，而你是唯一见证人。为了确认变化情况，你动身前往稻妻各处，确认与散兵及「雷电五传」有关的细节。然而，散兵想要挽回的那些人似乎并没有得到拯救…
+- Aratani ｜ 荒谷
+- Sevigne ｜ 瑟维妮
+- La Signora ｜ 「女士」
+- A small flower-shaped insignia. If you listen carefully, you can almost hear a flute playing and voices singing. ｜ 小小的花形徽章。侧耳细听的话，仿佛能听到悠扬的笛声和清新的歌唱声。
+- Locked ｜ 未解锁
+- We'll report back to the tribe and get them to send backup. That should improve our efficiency, increase safety, and... ｜ 如果回去通报一下部族，派点人过来，效率会更高，更安全，也能更加…
+- Should be powerful enough, right? ｜ 应该足够强了吧？
+- ...Blitz! ｜ …Blitz！
+- Of Fading Flowers and Falling Feathers: Act I ｜ 花之归尘，羽之将坠 第一幕
+- Lectoure ｜ 莱克图尔
+- Phew, you and me both, Paimon, you and me both... At least it did the job, right? ｜ 呼，连我也差点被骗到了…好在效果不错，对吧？
+- I'll help. ｜ 我会帮忙的。
+- Sigewinne ｜ 希格雯
+- You're ready, aren't you, Lanoire? ｜ 莉诺尔应该做好准备了吧。
+- Uhh... ｜ 唔…
+- But getting away is far from easy. If we get caught, there will be... serious consequences. ｜ 但愚人众可不是那么好脱离的，如果被人知道了这件事，我们一定…不会有什么好下场。
+- Hehe, let's go! We'll show you where the culprit hid "Auguste"! ｜ 嘿嘿，现在就去指出，犯人藏「奥古斯都」的地方吧！
+- Saurian Switching on Cooldown ｜ 切换小龙正在冷却中
+- Paimon ｜ 派蒙
+- Achieve victory with characters defeated less than twice during the battle ｜ 胜利时，角色被击倒次数小于2
+- Paimon thinks the Vanarana Arana told us about should be nearby. ｜ 看来是在这附近了，兰拉娜所说的「桓那兰那」…
+- Locked ｜ 待解锁
+- Obtained from Limited-Time Event ｜ 限时活动获取
+- Oh yeah! Paimon remembers. When we first met, you were clearing out one of their camps... ｜ 啊，我还记得。我们第一次见面的时候，你正在清理其中一个营地…
+- Violet Arc ｜ 苍雷
+- Look at the decor here... it's like the inside of a grand mansion. I don't think this is a perilous maze — it's somebody's home. ｜ 这里的布置，让我有一种进入了豪宅的感觉…我想，或许这里不是危险的迷宫，而是某个人的家。
+- A dining chair made of special materials. After a sitting for a period of time, the chair will become quite cold. Margaret claimed that the chill will both allow guests to sober up faster and help players think more calmly. Hence, she had these chairs specially made for these two purposes. However, she neglected to consider what might happen if they were used on a cold day... ｜ 采用了某种特殊材料的餐椅，静置一段时间后，靠背和坐垫都会变得冰冰凉凉。这是因为玛格丽特听说，较低的温度能让客人们更快醒酒，对于牌手们冷静思考也有好处，一举两得，因此她特别订制了这些座椅，完全没有考虑过冷天的使用情景…
+- Only Koholasaurs or People of the Springs who have mastered the relevant techniques can use the Spiritways freely. When traveling along these, take note to <color=#FFCC33>avoid Flowlight Rifts and purple Orbs of Inspiration</color>.\nWhen you encounter Flowlight Targets, use <color=#FFCC33>attacks to destroy them</color> and obtain points.\nAdditionally, collecting <color=#FFCC33>Orbs of Technique</color> will <color=#FFCC33>greatly expand the range of Challenge Coin collection</color>, so make good use of their special abilities. ｜ 只有鳍游龙，或是「流泉之众」中掌握了个中技巧的达人，才能自如地使用「游隙灵道」。在「游隙灵道」中行进时，注意<color=#FFCC33>规避「游光裂口」和紫色灵感球</color>。\n遇见「游光标靶」时，可以通过<color=#FFCC33>攻击将其击破</color>，获取评分。\n此外，收集<color=#FFCC33>特技球</color>后还可以<color=#FFCC33>扩大收集挑战币的范围</color>，可以多多利用这一特性。
+- Rebel's Banner-Hymn ｜ 揭旗的叛逆之歌
+- 4-Hit DMG|{param4:F1P} ｜ 四段伤害|{param4:F1P}
+- Caught a Disguised Rebel ｜ 捕获了「伪装」状态下游侠
+- 2-Hit DMG|{param2:F1P} ｜ 二段伤害|{param2:F1P}
+- This military-style camp is filled with various goods. Defensive fortifications have been set up, and well-placed campfires lay the groundwork for night operations. In theory, at least, this type of encampment can withstand the assault from many foes, and can even form the fulcrum of a defensive line should there be sufficient manpower to do so.\nNo matter how bothersome the setup and transport of the materials might be, and no matter how the lack of tents that block the wind or rain may lead to rather tough conditions... Battle-hardened mercenaries need only a bed of straw to sleep soundly, and as such do not worry over-much about such small flaws.\nThis Furnishing Set is favored by the following companions: Dehya ｜ 布置着各式军械的营地，物资储备丰富，搭建了用于防御的工事，布置得当的营火还为夜间作战奠定了基础。理论上，这样的营地足以应对大量敌军的进攻，人手足够时，甚至能成为防线的支点。\n尽管布置和转移较为麻烦，也未曾搭建遮风挡雨的帐篷，条件较为艰苦…但善战的佣兵只需一张草席就能安稳入睡，并不在意这些小小的缺点。\n偏好这套摆设的同伴：迪希雅
+- It was quite tricky. After all, I could only help him if he opened up to me. ｜ 很难办呢，只有他自己把实情告诉我，我才能想办法帮助他。
+- Just think of me as another one of your friends. Just one who happens to have a flair for the dramatic. ｜ 还是把我当作一名，会唱几句戏的普通朋友吧。
+- "But by the next day... Really, Master Takatsukasa was so kind to me, I swear I wouldn't ever do that to him!" ｜ 「可结果第二天就…鹰司大人对我恩重如山，我发誓绝对不会对他做出这种事！」
+- A bake-danuki seems to be looking for help on Pudding Isle... ｜ 布丁岛上似乎有妖狸在寻求帮助…
+- Aeval ｜ 爱贝尔
+- If we used a small knife, we'd get them all in no time. ｜ 用小刀的话，一下子就能采走海草啦。
+- ...That is all I ask. ｜ 这样应该就可以了…
+- Where are we heading? ｜ 那我们要往哪里去…
+- No problem. By the way, we still don't know your name. ｜ 好喔。对了，说起来，我们还不知道你叫什么呢！
+- A map that records the location of treasure. ｜ 记载着宝藏线索的地图。
+- Ah, so you already know. ｜ 果然。
+- DoT|{param3:F1P} ｜ 持续伤害|{param3:F1P}
+- "Less important," you say!? *sigh* ... Well, so be it. ｜ 这才不是什么小事！唉…算了。
+- Fallen: I ｜ 倒下·其一
+- (A pile of dirty, empty wine bottles from which a strange smell wafts, like a sea filled with salty fish.) ｜ （脏兮兮的空酒瓶堆，散发着微妙的气味，像是装着咸鱼的大海。）
+- What were you mumbling about just now? ｜ 你们刚才叽里咕噜的说什么呀？
+- The call is yours. We still have time to re-shoot an ending if that's what you'd like. ｜ 想好了吗？重拍结尾还来得及。我交给你决定。
+- What will you do now? ｜ 你接下来要去做什么？
+- Th—That's awful... I guess he had a good reason for all that swatting earlier, then... If all that had happened to me, I would be afraid of new people and strange animals too... ｜ 好，好可怜…这样一想，被它打了，我也不觉得难过了…换成我，我也会害怕陌生的人和动物…
+- Vaguely-Readable Inscription ｜ 依稀可以辨认的铭文
+- There is still some time. Have a skim through, get a first impression of what each person's proposing. ｜ 还有点时间，你可以大致看一看，对他们有一个初步的印象。
+- Skill DMG|{param1:P} ｜ 技能伤害|{param1:P}
+- Low/High Plunge DMG|{param9:P}/{param10:P} ｜ 低空/高空坠地冲击伤害|{param9:P}/{param10:P}
+- ??? ｜ ？？？
+- What else? There's no negotiating with the Fatui. We go to the transaction site and steal the Capacitors from them! ｜ 还能怎么办，跟那群愚人众还有什么好话可说，当然是到了交易地点，把那些「充能转化容器」抢过来！
+- We'll shoot those fish up real good! ｜ 小菜一碟，随便炒炒！
+- Who in their right mind would do that!? ｜ 谁会那样做呀！
+- There was once a survivor of that race deep within the golden desert who was friends with the Lord of Verdure and the ruler of Valuka. Perhaps there are more stories to be found in the eternal oasis. ｜ 那个种族曾经有一位遗民，在金色的沙漠深处，与草木之主、巴螺迦的王交游。在永恒的绿洲当中，或许还有更多的故事吧。
+- If he went all out promoting the competition, there might've been other wealthy people interested in investing and sharing a piece of the pie. If that happened, the competition might have lost its original purpose. ｜ 如果他一开始就大张旗鼓地宣传这场比赛，说不定会有其他有钱人参和进来，想要分一杯羹，说不定比赛会因此失去原来的意义！
+- ... ｜ ……
+- Life inherently has many rules and restrictions, each with its own significance and reason to exist. They can't be broken on a whim. ｜ 生命本身具有的诸多规则和限制，都有其存在意义与理由，并不是仅靠自负就可以随便打破的。
+- The Gala is held annually. During this time, all six Darshans will set up booths throughout the city and host guests to showcase the most fascinating aspects of their school and thus increase their influence. ｜ 「学院游乐会」每年都会举办。庆典期间，六个学派会在城中摆好摊位、招待游客，宣传自家学派有趣的地方，借此提高影响力。
+- Ah, just a moment. How should I introduce you two? ｜ 等一下，我该怎么介绍你们？
+- Ah, you noticed... I've heard from the shrine maidens that more and more people wish to abolish the Sakoku Decree. ｜ 唔…听神社的巫女讲，最近到神社许愿废除「锁国令」的人越来越多了…
+- Dinner? If you're referring to the victory feast... it's not time yet. Anyway, I do have a request to make, and it's closely related to Lady Sorush... ｜ 饭？什么饭？如果两位说的是庆功宴…现在应该还没到时候吧。总之我的确有事相求，并且此事与斯露莎大人也有不浅的关系…
+- "Fellow countrymen who've forgotten their story." ｜ 「遗忘故事的同乡」。
+- Welcome, you two may enter now. Have fun! ｜ 欢迎二位入场，希望你们玩得开心。
+- As for the mortals and adepti of Liyue... what shape shall our relationship take from now on? ｜ 璃月的人与仙，我们之间的关系…在未来会以怎样的形式延续呢？
+- Irate Man From the Masters of the Night-Wind ｜ 暴躁的烟谜主男性
+- I don't know why I lose my temper so easily... I'm pretty messed up, right? ｜ 总是为这种事发脾气，我是不是不太正常？
+- Investigate the ambush point ｜ 去埋伏点探查
+- Kaeya! Are you also here for romantic guidance? ｜ 是凯亚啊，你也要请教感情问题吗？
+- That's everything. Let's go give it to the lady. ｜ 都收集完了，拿去交给那位婆婆吧。
+- Let me see... Those friends of mine gave me some suggestions that I've written in my notebook. ｜ 我看看…我的那些朋友给了我一些建议，我把它们都记录在本子上了。
+- Hot air balloon occupied by other passengers. Unable to proceed to this stop yet. ｜ 热气球上已有其他乘客，暂时无法前往此站点。
+- Use Elemental Tuning to use more Elemental Skills ｜ 进行元素调和，多使用元素战技
+- #{NICKNAME}, let's take a look at the nearby Choo-Choo Cart! ｜ #{NICKNAME}，我们去附近的「呼呼飞车」看看吧！
+- See you. ｜ 再见。
+- #Well, if {NICKNAME} is willing to coach me and Poiret to victory, I'd be more than happy to give you the trophy. ｜ #如果{NICKNAME}愿意指导我和布瓦列特，并且我们有幸胜出的话，我非常愿意将枫达奖杯让给两位。
+- Atoning for my sins, what else? ｜ 「将功补过」呗。
+- Sundial of Enduring Jade ｜ 星罗圭璧之晷
+- 4-Hit DMG|{param4:F1P} ｜ 四段伤害|{param4:F1P}
+- Caesareum Palace ｜ 切萨勒姆宫
+- Excuse me then. ｜ 不打扰你了。
+- Go inside ｜ 进入屋内
+- And don't worry, the money is earned by doing serious work. I can assure you! ｜ 这些报酬是我和普热瓦去正经工作赚来的钱，你也不用有什么顾虑的，真的！
+- Lavawalker's Salvation ｜ 渡火者的解脱
+- I only agreed to meet since we're both magicians. Do me a favor and cut to the chase — I have more important things to do than drinking. ｜ 看在同为魔术师的份上，我才勉强答应见你一面。有什么事快点说，我不想在酒桌上浪费时间。
+- Are you sure about this? ｜ 真的能做到吗？
+- "Where knowledge returns to the sea, treasure lies along the sails." ｜ 「有智归海处，宝藏侧帆间。」
+- An alchemical potion. ｜ 炼金药剂。
+- I won! But all this yang energy... doesn't feel so good. ｜ 赢了！胜利的喜悦…有些…不好。
+- Bring the completed dish back to Tang Wen ｜ 将准备好的菜品带给汤雯
+- Look for another three Strange Teeth ｜ 再寻找三枚奇异的「牙齿」
+- Eagleplume Healing Interval|{param5:F1}s ｜ 鹰翎治疗间隔|{param5:F1}秒
+- Well, since you're in a difficult position... ｜ 你不方便的话…
+- CD|{param5:F1}s ｜ 冷却时间|{param5:F1}秒
+- But you don't belong to this world. Perhaps you are just the company she needs. ｜ 但你，不属于此世之人，说不定是很好的选择呢。
+- Sacred Simulacrum ｜ 仙像
+- Liev ｜ 愚人众·列夫
+- #{M#Mr.}{F#Ms.} {NICKNAME}, if you think all this is just a kid's overactive imagination, and don't want to go yourself, then at least help me deliver a message. ｜ #要是{NICKNAME}{M#哥哥}{F#姐姐}觉得我说的这些都是小孩子的胡思乱想，不值得亲自去一次，那至少帮我带个信吧。
+- 2-Hit DMG|{param2:P} ｜ 二段伤害|{param2:P}
+- Since we have our own suspicions about Ann and Lyris's relationship, we have topics of discussion that can be used to refute or sustain those conjectures. ｜ 既然我们都有一些对于安小姐和莉利丝关系的猜想，我们就有话题可以互相驳斥或者互相支持。
+- There's no need to hide it so carefully — I think the truth's already out. You're such a lightweight that a few drinks at the tavern had you spilling all your beans. ｜ 我倒觉得你早就暴露了，没必要费心掩饰。凭你那几杯倒的酒量，去几次酒馆自然就把秘密全说出去了。
+- Uh well... not exactly. I've pretty much seen them argue every time they meet. But, Heizou might still consider her as an old friend. I heard that he used to work with Sango. ｜ 唔…不算好，我看他们每次见面讲话都夹枪带棒的。不过平藏前辈应该还是念及旧情吧，听说他以前和珊瑚一起工作的。
+- Shield DMG Absorption|{param1:P} Max HP+{param2:I} ｜ 护盾吸收量|{param1:P}生命值上限+{param2:I}
+- Follow Diona ｜ 跟随迪奥娜
+- Go on, give it a try. ｜ 来，请您试试吧。
+- The sky... ｜ 天怎么……
+- A detailed step-by-step blueprint for making a Tavern Carpet - "Duelist's Wisdom."\nAfter using this item, you can view it in the Creation Screen. ｜ 步骤详实的图纸，记载着「酒馆地毯-『理智牌局』」的制作方法。\n使用后可进入制作界面查看。
+- Iron hair ties!? You're telling me that your family used their one thousand years' worth of experience to make... hair ties? ｜ 铁发圈？！你千年的打铁世家，就打这个？
+- Nagaoka Hidemitsu ｜ 长冈秀满
+- Maximize your resources and try to use all your Elemental Dice each Round ｜ 合理分配资源，尽量每回合用完元素骰
+- Screamin' for an Encore ｜ 返场的高呼
+- What was that... ｜ 刚刚那是…
+- According to the Ministry of Civil Affairs, the number of guards on patrol has to be doubled and rotated continuously during Lantern Rite. ｜ 依照总务司的安排…海灯节期间，城内巡逻人手加倍，而且都是连班轮守…
+- A researcher from "one hundred years ago." She enjoys self-identifying as everyone's senior, and has significant knowledge of ancient scripts and machines of all kinds. ｜ 来自「一百年前」的学者，喜欢以前辈自居，对各类古老文字与古典机关都颇有研究。
+- Uh, I'm going to go stand as far as possible from this stuff. ｜ 我能不能离远点…
+- Trigger {param0} Vaporize reactions in total ｜ 累计触发{param0}次蒸发反应
+- Radiant Spincrystal 40 ｜ 旋曜玉帛·其四十
+- The routine hydrological surveys at the harbor have been suspended for a while now, so my charts haven't been updated for ages. ｜ 港口的例行水文勘探也暂停了那么久，我手里的水文图都好久没有更新了…
+- Since we're friends... ｜ 既然是朋友…
+- Items from the Jade Chamber have been scattered across the seas to the east of Liyue Harbor. The nearby Treasure Hoarders, smelling opportunities for loot, have made their move. Board your Waverider and wipe out any Treasure Hoarder interference to your salvaging operations! ｜ 群玉阁的藏品零星散落在璃月港以东的海面上，附近的盗宝团已闻风而动。尽快驾驭「浪船」，排除盗宝团的干扰，夺回群玉阁的藏品吧！
+- Before I start, I'm going to ask you a few questions. I want you to nod your head for yes and shake your head for no. Alright? ｜ 在探索正式开始之前，我要问一些问题，同意就点头，不同意就摇头，好不好？
+- If we truly allow him to obtain power that surpasses reality, he might even pull the entire surface world into this space. ｜ 如果真的让他获得了超越真实的力量，整个地上世界说不定都会被拉入这里。
+- Much better, thanks to you. He has enough energy to scold me for my lack of penmanship, that's for sure. ｜ 托你的福，太爷爷已经有劲头训斥我的字太丑，写祝柬写出一箩筐「鬼画符」了。
+- We will talk more next time. After you've recovered. ｜ 等你恢复了，我会再和你好好聊聊。
+- 70%! Isn't that a bit too much...? ｜ 七成！这未免也太多…
+- That sound came from near that big mushroom. Let's go have a look. ｜ 声音好像是从大蘑菇附近传来的，我们过去看看吧。
+- Emura Chuuya ｜ 江村中弥
+- Sure, but let's stick with something small. His Lordship has never been a fan of ostentation. ｜ 老太公不爱招摇，不用大型烧活。
+- A Human Drama ｜ 人间剧
+- Job Board ｜ 互助板
+- Gain <color=#f39001>{0}</color> chances to reroll selectable events ｜ 获得<color=#f39001>{0}</color>次待选事件重置次数
+- "Hidden Serpent" ｜ 「暗藏的游蛇」
+- Deals $[D__KEY__DAMAGE] $[D__KEY__ELEMENT]. ｜ 造成$[D__KEY__DAMAGE]点$[D__KEY__ELEMENT]。
+- Ah, you must be Hat Guy. I've heard Sethos talk about you recently. ｜ 嗯？这不是「阿帽」吗？赛索斯最近常提起你。
+- Sword Dance/Whirling Steps 2-Hit DMG|{param7:F2P}/{param3:F2P} Max HP ｜ 剑舞步/旋舞步二段伤害|{param7:F2P}/{param3:F2P}生命值上限
+- You saved the day. ｜ 帮大忙了。
+- I've had my heart set on getting hold of a copy of Legend of the Shattered Halberd volume six for the longest time now. ｜ 《神霄折戟录》第六卷，我对它心念已久了。
+- Heightened Verve ｜ 锐意
+- What did I say, eh? Real gentlemen — far better mannered than those ruffians near the Palais Mermonia. ｜ 怎么样？我说了这群紫金渔鸥都是绅士，绝不是沫芒宫旁边的那群粗鲁家伙。
+- Something to Share: Cycles ｜ 有什么想要分享·循环
+- As a local of Inazuma, I'm a faithful follower of the Almighty Shogun, just like everybody else. ｜ 身为稻妻人，我肯定是和大家一样，一直追随将军大人。
+- Stunning Stage Lighting ｜ 绚丽灯光
+- Forest Fairy ｜ 森林仙子
+- A card face that can be obtained from Genius Invokation TCG. For reasons unknown, the printing method used here allows you to see slightly different images on the card face when you view it from different angles... ｜ 「七圣召唤」中，可以获得的牌面，不知道利用了什么样的印刷方法，在不同的角度观看牌面的牌画时，似乎能够看到牌画中的内容也有些微的不同…
+- Phonia ｜ 方妮雅
+- *snore* ｜ 呼…呼…
+- Fireworks ｜ 烟花
+- Tenryou Commission Headquarters ｜ 天领奉行府
+- Den of Thieves ｜ 「调查点·匪贼之窝」
+- Hahaha ｜ 哈哈哈
+- I might still require your help from time to time, meow. Don't you decline when the time comes, now. ｜ 过段时间，说不定奴家还要请汝等帮忙，汝等可千万不要推辞啊，喵喵。
+- Played by Clorinde ｜ 克洛琳德饰
+- Is this the right area? Hello? Anyone there? ｜ 真的是这里吗？喂——有人吗——
+- An organization comprised of non-human monsters. They are the enemies of surface civilization, and thrive in many corners of the world. ｜ 由非人的魔物组成的团体，与地表的文明为敌，活跃在世界各处。
+- Wow, Kazuha's already lined up his next opponent! ｜ 哇，这就遇上下一位对手了！
+- Joining Party: I ｜ 加入队伍·其一
+- Go back to the crime scene ｜ 回「案发地点」看看
+- Illusory Passerby A ｜ 幻影路人A
+- "Mighty Meaty Fireball"! ｜ 「大炖肉火焰」！
+- Whoa, it's beautiful! ｜ 的确挺好看的！
+- Defeat all opponents ｜ 打倒所有敌人
+- Still, your steps are hurried. You seek to fix some problem or another, perhaps? ｜ 但你的脚步如此匆忙，想必是正在为解决某个问题而奔走。
+- It's working, we found a key. Let's keep looking for the next one. ｜ 这样就找到一把钥匙了，我们接着去找下一个。
+- The Instructor ｜ 御指南役
+- ...If they're not talking about Jean in the letter... then what are they talking about? ｜ 如果不是琴团长…那这封信上说的究竟是什么呢？
+- Unlocks at Friendship Lv. 6 ｜ 好感等级达到6后开启
+- About a Purbiruni researcher... ｜ 关于普尔比鲁尼一门的学者…
+- Alright, let's do that. ｜ 好吧，听你们的。
+- Haven't you heard the saying, "silence is golden"? Well, if silence is golden, quietness has to be silver at least? ｜ 你难道没听过「沉默是金」这句话吗，沉默是金，那小声儿说话怎么说也是银吧？
+- But in the end, I found that the answer I sought simply did not exist. ｜ 然后，我发现答案其实根本就不存在。
+- Hey, look! Over there! Another leaf! ｜ 欸！你们快看，那里那里！又一片树叶！
+- See what I told you? ｜ 我说的没错吧？
+- Defeat the opponents within %2% second(s) ｜ 在%2%秒内击败怪物
+- ... ｜ ……
+- I truly wish that they could stay here eternally, never to be forgotten by the passing of time. ｜ 真希望他们能永远留驻这里，不再被时间遗忘。
+- You just have too much of a calculating look in your eyes. ｜ 是你眼里的城府太深了。
+- But that also caused my spirit to be separated and rendered unable to rest. ｜ 也是因此而魂魄分离，致使灵魂难安。
+- Character Story 4 ｜ 角色故事4
+- Reward for inviting Thoma to a duel at The Cat's Tail and claiming victory in a Friendly Fracas with him ｜ 在猫尾酒馆中邀请托马进行对局，在友好对局难度中获得胜利后获取
+- The conches in various parts of the archipelago have been affected by the chaotic wavelengths present. This has caused them to film the scenery around. Touch them lightly to view an image of others projected from the mouth of the shell. ｜ 群岛各处的海螺亦受到纷乱波长的扰动，意外收摄了周围的景象。轻轻抚摸外壳，或可看到壳口映射出的，他人的幻影。
+- Obtain the "Wax and Wane" effect after an Elemental Reaction is triggered, gaining <color=#99FFFFFF>36</color> Elemental Mastery while losing 5% ATK. For every 0.3s, 1 stack of Wax and Wane can be gained. Max 5 stacks. For every 6s that go by without an Elemental Reaction being triggered, 1 stack will be lost. This effect can be triggered even when the character is off-field. ｜ 触发元素反应后，获得「盈缺」效果：元素精通提升<color=#99FFFFFF>36</color>点，攻击力降低5%。每0.3秒至多获得一层盈缺效果，至多叠加5层。未触发元素反应时将每6秒失去一层。角色处于队伍后台时也能触发效果。
+- Yes, the Ham's ready! ｜ 准备齐了。
+- #Nara {NICKNAME}! Paimon! ｜ #那菈{NICKNAME}、派蒙！
+- #Hmm... Let Paimon think for a moment. {NICKNAME}. There's so much for us to do. ｜ #嗯嗯…我想想，{NICKNAME}，我们有好多事情要做的样子。
+- Marechaussee Hunter ｜ 逐影猎人
+- About Kaeya's Eye Patch ｜ 关于凯亚的眼罩…
+- Unlocks at Friendship Lv. 3 ｜ 好感等级达到3后开启
+- Things could get quite hairy with a Harbinger involved. ｜ 涉及到执行官确实很危险。
+- Ousia Bubble DMG|{param1:F1P} Max HP ｜ 荒性泡沫伤害|{param1:F1P}生命值上限
+- There are plenty of architects in Sumeru who are inferior to him in skill, yet far more irascible in temperament. What's more, there are plenty of people who look up to such individuals as paragons of "staying true to one's principles." ｜ 须弥有的是水平不如他脾气还比他暴躁的建筑师，也有人愿意追捧那些人的独断为「坚持不渝」。
+- Tell me your purpose. ｜ 先告诉我你们的目的。
+- Paimon ｜ 派蒙
+- Lady Guuji has been kind to us in the Kamisato Clan, but she has never quite taken to me personally. I trust you'll have heard the way she refers to me... "the Yashiro rascal" and other such flattering monikers. We run into each other semi-regularly, given the overlap in our work, and despite whatever private thoughts we each may have, our working relationship is quite a harmonious one. I have no great objection to this state of affairs — working with intelligent people always makes things highly efficient. In any case... However objectionable she might find me, she would be forced to admit that without me, she would have no one to help execute her weird and wonderful ideas. ｜ 宫司大人于神里家有恩，可她却一直不太看得惯我，呵，恐怕你没少听她「那小子」「那小子」地称呼我吧。\n由于业务交集，我们偶有碰面，虽说大家各怀心思，但工作起来也称得上融洽。我并不讨厌这种感觉。嗯，与聪明人一起办事，效率就是会高得多。况且就算她再讨厌我，也不得不承认如果没有我，就没人能实现得了她那些「奇思妙想」了。
+- I'm just wondering if there will be an end to the days of fighting the evil organization. ｜ 我只是好奇，像现在这样与邪恶组织抗争的日子，真的有尽头吗？
+- Hmm, oh right... Can I ask you to help me with something? ｜ 唔…对了。请问可以拜托您帮个忙吗？
+- Tell me something. If I'm gonna stay around, what kind of person do you want me to be to you? Someone you work with? A competitor, who challenges you to sharpen your game? Just another name on your long list of acquaintances, or... somebody more important than that? Depending on what you're hoping for, I can either play that part or become that person. ｜ 说起来，你希望陪伴在你身边的我，是怎样的人？普通的合作对象？磨砺你的竞争对手？众多泛泛之交中的一位…还是说…重要的伙伴？依你的期望和态度，我可以「扮演」或「成为」他们中的任何人。
+- The other day, the innkeeper asked me to prepare a new dish that would attract more guests. ｜ 前几天掌柜的找我，说让我想点新菜色来招揽客人。
+- Ah, is that so... Good, good. Yes. Very good. ｜ 是吗，是这样…也好，也好，很不错啊。
+- A Nameless Adventurer's Notes ｜ 无名冒险家的笔记
+- Investigate the Elemental Monuments around the hospital ｜ 调查医院区域的元素方碑
+- My apologies. ｜ 抱歉。
+- #Oh brother. Come on then, {NICKNAME}, let's go find Mr. Ooshima. Sounds like he needs some help! ｜ #那{NICKNAME}，我们去找大岛先生吧！说不定我们能帮上什么忙！
+- #Oh, {NICKNAME}, you're back. Did you bring the crystals? ｜ #{NICKNAME},你回来啦。带回晶石了吗？
+- About Nahida ｜ 关于纳西妲…
+- Phew... Getting here sure was tiring! ｜ 呼…想来这个地方还真是有点费力气呀！
+- A Friend's Path ｜ 朋友之道
+- Wood from the Otogi Tree. It has just the right amount of moisture and oil, and as such has a great many uses.\nCan be used to create furnishings. ｜ 「御伽树」出产的木材，水分和油脂的含量恰到好处，因此有着各种用途。\n可用于制作摆设。
+- Open 300 chests ｜ 开启300个散落在各地的宝箱
+- Dragonspine: Crown ｜ 龙脊雪山·冠冕
+- Hey, have you two seen a brown-haired girl wearing a purple top and a long blue dress? We're lookin' for her. ｜ 喂，你们两个，刚才有没有看到一个棕色盘发，穿紫色上衣淡蓝色长裙的年轻女孩？我们正在找她。
+- Let's do this. ｜ 现在开始吧。
+- Could it be... that everything written in "The Book of Five Springs" is true...? ｜ 该不会，《烈泉道》里说的都是真的吧…
+- Let's go with the cool pose instead. ｜ 还是飒爽的姿势合适。
+- Mm? ｜ 呶？
+- Paimon ｜ 派蒙
+- Even Varesa, the strongest wrestler on our team, was trounced by her — but that's Coach "Power" Iansan for you. ｜ 就连我们队伍里最强的摔角手瓦雷莎小姐，也被轻松击败了——那可是那位「力量」的伊安珊教练啊，你明白的吧？
+- No wonder they say you're an experienced adventurer — You came back with new findings so soon. ｜ 该说真不愧是经验丰富的冒险家吗，这么快就有所发现了。
+- I wonder if that novel I read once is available to borrow here... ｜ 之前读过的那本小说，不知道还能不能在这借到…
+- Jonvelle ｜ 容韦勒
+- Ardravi Valley ｜ 阿陀河谷
+- Quest Item ｜ 任务道具
+- Enter ｜ 进入
+- Hmm... Master Jean? Or... Lisa? ｜ 唔…琴团长？或者…图书管理员丽莎？
+- Available right away ｜ 初始可用
+- Fairytale Figurine: 'Twas Meant to Be ｜ 童话巧像-「应当如此」
+- A Street Lamp? ｜ 「路灯？」
+- Use an Elemental Skill ｜ 使用「元素战技」
+- Obtained from Limited-Time Event ｜ 限时活动获取
+- We were referred by the one who caught you stealing the statues. ｜ 撞见你藏东西的那位。
+- Terrormask's Return ｜ 凶面归位
+- Naganohara Fireworks Bulletin Board ｜ 长野原烟花店告示牌
+- I shall... uh, wait for you on the shore. ｜ 我就…呃…在岸上等着您。
+- 1-Hit DMG|{param1:F1P} ｜ 一段伤害|{param1:F1P}
+- People get scared when they see it because they've subconsciously begun to associate it with the missing boxer. ｜ 第一次看到小瓶子中的液体时，会感到害怕，是因为不自觉地将它和那位失踪的拳手关联在了一起。
+- Pensive ｜ 沉思
+- Well, we're not exactly professional boatmen or anything... But hehe, such premiums are tough to refuse! ｜ 虽然想说我们也不是什么专门载客的船夫…可是居然接连接到报酬这么丰厚的委托，实在很难拒绝！
+- You failed to find the Cocogoat... but manage to repair a mechanism. ｜ 虽然无缘得见「椰羊」…但修好了古迹。
+- "Some strange black magma is oozing out of the depths of the earth. I'm not sure if calling it 'magma' is precise... But it looks very ominous. Best not to get near it..." ｜ 「…从地下深处渗上来了奇怪的黑色熔岩，也许不是熔岩。总之看起来很不妙，没有敢靠近…」
+- Least Favorite Food ｜ 讨厌的食物…
+- A top hat that has managed to retain its radiance despite braving the elements for time untold. An ancient tune still resonates within. ｜ 尽管饱经风霜，但依旧光彩照人的礼帽。其中似乎回荡着古老悠扬的乐声。
+- Ah, my apologies. My thoughts just kind of took off on their own. It's hard to get out of the mindset of a gemstone merchant. ｜ 哎呀，抱歉，思绪越跑越远了，要怪就怪我是个宝石商人吧。
+- Hold your Elemental Skill to toss summons into Vine Wreaths\nSummons can be tossed into High Score Wreaths <color=#FFCC33>repeatedly</color> ｜ 长按元素战技投入藤蔓花环\n高分花环<color=#FFCC33>可被多次投入</color>
+- ATK +18%. ｜ 攻击力提高18%。
+- Detect Aranara ｜ 监测看见兰那罗$HIDDEN
+- Wipeout! ｜ 涤荡吧！
+- Lisa ｜ 丽莎
+- 3-Hit DMG|{param4:F1P} ｜ 三段伤害|{param4:F1P}
+- #Normal Attack{SPACE} ｜ 普通攻击
+- Excuse me, Mr. Baptiste? Are you home? ｜ 巴蒂斯特先生，您在家吗？
+- Was never thrown into the Surveillance Zone and won this match ｜ 从未被投入监控地，本局游戏获胜
+- Favonius Lance ｜ 西风长枪
+- Player {0} invites you to join them to play "Shuyu's Baffling Beetle Battle Bowl" together. You will automatically refuse the invite in {1}s. ｜ 玩家{0}发起「漱玉工奇斗虫大玄境」游戏邀请，{1}秒内未确认将自动拒绝。
+- Akitsu Yuugei: Scoring and Combos ｜ 秋津游艺·积分与连击
+- Hello. Please wait while we perform a routine inspection. ｜ 你好，请接受检查。
+- Wow, I've never seen anything like this... ｜ 哇…我从来没见过这样的地方…
+- I've finished cleaning the place, and nobody needs my help right now... ｜ 打扫工作处理完毕，没有其他人需要我提供帮助…
+- Uh, I don't like the looks of this... Either way's gonna be a tough fight. Any ideas? ｜ 啧，这下难办了。两边看上去都不好对付…你有什么办法吗？
+- #Heh, although there's basically nothing we, the legendary adventurer duo, {NICKNAME} and Paimon, can't do, our time is quite valuable and carries a cost. ｜ #哼哼，传奇冒险家组合——{NICKNAME}与派蒙虽然无所不能，但我们的时间也很宝贵，而且要收费。
+- It's nothing of the sort! This is the deepening of understanding! *sigh* Your inability to realize that shows that you still have a long way to go. ｜ 才不是什么颠倒黑白，这叫认识的深化！唉，还没能意识到这一点，说明你们还有很长的路要走哇。
+- But, we have to keep pushing forward. Sibu and I were just about to head out, actually. My tribe is calling for messengers. ｜ 但还不能松懈，刚刚我和西布正打算出发，悬木人在召集讯使。
+- Fabric of the City of Wisdom ｜ 「智慧之城的丝缕」
+- Tea flavored Fonta? And you want it in different flavors...? Paimon can't imagine what those would taste like... ｜ 茶饮料？口味还要不同…呜哇，完全想象不出来是一种怎样的味道…
+- The search-and-rescue team hasn't had news of her yet. But please don't panic... This isn't the time to panic just yet. ｜ 搜救队还没有她的消息…但请不要着急，现在还不能着急。
+- There's no time for that. ｜ 没时间了。
+- But... I was so busy clearing out monsters in the area that I completely forgot to stoke the fires. By the time I realized it was too late, and they'd all gone out. ｜ 但是…我忙着去周围清除怪物，偏偏忘了给火把续上火，等我发现的时候，已经全都熄灭了。$UNRELEASED
+- Express delivery~! ｜ 快递到喽。
+- She said that every time we stopped at a new harbor, I'd be free to go and pick out some ancient books at the market and bring them back to Sumeru. ｜ ——每到一个新港口，都能上街淘点古籍带回去研究！
+- Go to collect ｜ 前往采集
+- Crucible of Death and Life Duration|{param2:F1}s ｜ 死生之炉持续时间|{param2:F1}秒
+- Hello there. ｜ 你好。
+- 1-Hit DMG|{param1:F1P} ｜ 一段伤害|{param1:F1P}
+- He does whatever he puts his mind to... He's sincere, brave, and determined. ｜ 想到什么就做什么，真诚，勇敢，坚定不移。
+- Annotations in Free-Spirited Handwriting ｜ 字迹豪迈的批注
+- Unlocks at Friendship Lv. 4 ｜ 好感等级达到4后开启
+- Energy Cost|{param4:I} ｜ 元素能量|{param4:I}
+- You're a Mondstadter? ｜ 你是蒙德人？
+- I'll go tell her... ｜ 我，我会和霖铃说…
+- To make some Chilibrew, Barbara has asked you to look for some fresh Jueyun Chilis near the Stone Gate. ｜ 为了制作辣味饮料，芭芭拉拜托你前往石门附近，寻找新鲜的绝云椒椒。
+- That was a cheap shot... ｜ 被你偷袭而已…
+- Your opponent has fought many rounds to get to the semi-finals. This makes him a seasoned warrior. ｜ 你的对手突破了重重考验闯入半决赛，已是身经百战之人。
+- Become friends with a little Yumkasaur. ｜ 与一只小匿叶龙成为了朋友。
+- In fact, the Mora I earned on my own has surpassed the "operational funds" my parents provide me with. At this point, I have enough to handle my daily expenses for a lifetime and then some. ｜ 我凭自己的脑袋赚到的摩拉，比我父母给我的「行动资金」还多，攒下了不少存款，只算日常开销的话，已经这辈子都花不完了。
+- 4-Hit DMG|{param4:F1P}+{param5:F1P} ｜ 四段伤害|{param4:F1P}+{param5:F1P}
+- Maximum Fanfare|{param4:I} ｜ 气氛值上限|{param4:I}
+- Unlocks at Friendship Lv. 4 ｜ 好感等级达到4后开启
+- But rather than suddenly embarking on some journey, I much prefer to stay in the office and read while I work. ｜ 不过，比起突然外出旅行，我还是选择坐在办公室边处理公务边看书。
+- If it weren't for that voice, I would have never grown curious about the outside world, nor would I have learned how to read and enjoy so many books. ｜ 如果不是那个声音，我绝不会对这个世界产生好奇，也不会学习认字，读各种各样的书。
+- Perhaps you could go and investigate the surrounding area while I'm packing up. These strange readings must have something to do with whatever's happening in the Mikage Furnace. ｜ 在我收拾的时候，请您去看看周围的情况吧。我总感觉，这些异常的读数…和「御影炉心」现在的情况有关。
+- I asked them a couple of questions and it quickly became clear that they had no permit to host the event, no proof of venue hire, and — surprise, surprise — no record of having registered the event with the Police Station. ｜ 结果稍微查问了两句，发现他们既没有活动举办许可，也没有场地租用凭证，更不用说事先应该去奉行所准备好的报批记录了。
+- What do you think he meant by saying that? That he might make more Mekafish using those ores? ... Ugh, he'd better not. The Mekafish population shouldn't be allowed to grow, no sir! ｜ 你说他是什么意思？难道是想用那些矿材再多做些机关鱼吗？…不要啊！机关鱼不能再变多了！
+- Prayers for Illumination ｜ 祭火之人
+- Activate the tower controller ｜ 启动虚界塔控制器
+- Synopsis (Shot 11):\nConclusion, advising everyone to carefully weigh up their options when choosing a focus, so that they won't end up feeling <color=#e5870a>regret</color>. ｜ 脚本规划（第11镜）：\n结语，劝告大家在选择方向时务必慎重，不要留下<color=#e5870a>遗憾</color>。
+- Okay, so he has an alibi... ｜ 也就是说，他有不在场证明。
+- Maybe he owes Kaeya money? ｜ 吴船长欠凯亚的钱？
+- Pyrrho ｜ 毕洛
+- Complete "Lionsblood" ｜ 完成「狮之血」剧情
+- Can be obtained from an event ｜ 可在活动中获取
+- I will owe you the world if you can help me complete my experiments! When I become a famous researcher, I will never forget what you've done for me! ｜ 如果你们帮我完成试验，就是我的大恩人！等我成为了知名的学者，我一定不会亏待你们的！
+- Paimon ｜ 派蒙
+- You are temporarily unable to play again due to leaving the previous game inappropriately.\nTime remaining: {0} ｜ 由于您违规退出上局游戏，暂时无法再次进行游戏\n剩余封禁时间：{0}
+- Do what you need to do. I must continue working. ｜ 您忙自己的事去吧，我要继续工作了。
+- Last time, Aoi no Okina's poem ended with a reference to Akahito. And sure enough, this is a story about him. ｜ 上次葵之翁的诗最后提到了「赤人」，果然这一篇就是赤人的故事了。
+- Check the treasure that your Saurian companion found ｜ 查看龙伙伴找到的「宝物」
+- Alchemists usually focus in on their own research areas. Take us for example — Timaeus, Albedo, and I all have very different research foci. ｜ 炼金术士一般都会有独属于自己的研究课题，举例来说，蒂玛乌斯、阿贝多先生和我，研究方向都不同。
+- Dear Traveler,\nThe "Spectral Secrets" event will end soon. Please remember to take part and claim your rewards in time~ ｜ 亲爱的旅行者：\n「飘浮秘灵」活动玩法即将结束，欢迎旅行者及时参与活动，获取活动奖励~
+- An ominous pinion with edges of unsurpassed keenness. Perhaps it represents an unnaturally uninhibited nature. ｜ 边缘无比锐利的不祥翎羽，或许象征着异类的不羁。
+- Hahahaha... So we're finally here, huh? ｜ 哈哈哈哈——总算到这一步了吗？
+- A two-story building with an attached workshop and separate balcony that uses an asymmetric layout. It exudes the distinctive Petrichor style.\nThis type of house is extremely spacious, and the attached workshop features its own entrance and a pipe through which to ventilate exhaust, cleverly ensuring that work and living areas are completely separated and neither will interfere with the other. It is said that even if you were to undertake the design of a "Teyvat Grand Cannon" within, it would not disturb those taking an afternoon nap elsewhere in the dwelling, showcasing the advantages offered by its incredible isolation of work from daily life. ｜ 设有附属工作间与独立阳台的双层建筑，采用了非对称的布局，展现出极为鲜明的佩特莉可镇风格。\n这种房屋的居住面积十分宽阔，附属工作间安装有通风排烟管道和独立的出入口，巧妙地将工作和生活区域切分开来，避免两区域之间相互干扰。据说，即使是在这种房屋中进行「提瓦特大炮」的设计制造工作，都不会影响到同屋中午睡的其他人，充分体现了这种建筑在隔绝效果上的优势。
+- Right. We still don't know why you need so much Crystal Marrow! ｜ 对呀，我们还不知道你为什么这么需要晶化骨髓呢！
+- Challenge VII ｜ 挑战 VII
+- Complete a total of 10 Open World Time Trial Challenges in Avidya Forest, Lokapala Jungle, Ardravi Valley, Ashavan Realm, Vissudha Field, Lost Nursery, and Vanarana. ｜ 在道成林、护世森、阿陀河谷、善见地、二净甸、失落的苗圃、桓那兰那完成10个大世界机关限时挑战。
+- "Oh? You want to go a few rounds with me? How interesting."\nHint: Kaeya's deck excels at using Combat Status effects caused by Elemental Bursts. He will use them to try to get the upper hand in the duel. ｜ 「哦？你想要和我打牌吗，那可真是有意思。」\n【提示】凯亚的牌组能够通过元素爆发生成强大的「出战状态」，然后充分发挥它们的效果来取得优势。
+- So this is the Rag and Bone Shop. ｜ 这里就是「破烂骨头商店」啊。
+- Sucrose & Collei ｜ 砂糖&柯莱
+- Student ｜ 学生
+- What's wrong with forever dwelling on dreams of the past? ｜ 永远沉湎于过去的梦难道不行吗？
+- Unlocks the associated character ｜ 角色解锁
+- CD|{param6:F1}s ｜ 冷却时间|{param6:F1}秒
+- Let me think... <color=#00E1FFFF>Apples</color> are my go-to when mixing drinks. Meet me at the Angel's Share when you've found some. ｜ 我想想，我的特调…果然还是<color=#00E1FFFF>苹果</color>，找到了之后就去「天使的馈赠」吧，我在那等你。
+- Quick, let's catch up with her before anyone sees! ｜ 要是被人发现就糟糕了…我们快跟上去看看！
+- "The children love to come visit, and I'm delighted to have company. No research goals, no meetings, and just eating what you grow... I'm really turning into a certified farmer." ｜ 「孩子们都很喜欢到我这里来，能有人陪伴我度过长日，我很快乐。没有研究指标，也不用开会，自食其力，彻彻底底变成种地的农民了啊。」
+- I just told him about Xbalanque's imminent return, and told him to be prepared. There was no need to mention anything else. ｜ 我只告诉他希巴拉克即将归来的事，让他做好准备。其他的嘛，就不用说了。
+- Recipe ｜ 食谱
+- Medium Shot ｜ 中景
+- The life of a Lawrence doesn't include much worth talking about... Basically, whatever you say, whatever you do, people will always despise you and treat you like a potential threat to society. It's nowhere near as bad as it used to be, though. Before I'd joined the Knights, good grief... I couldn't even buy groceries. Even Good Hunter and Mondstadt General Goods wouldn't take my money. I literally had to go out and hunt my own food and cook it over a campfire if I wanted to eat dinner. ｜ 罪人的经历，有什么好了解的？反正不管说什么做什么，都会被敌视，被当成潜在的危险分子吧。现在还算好了，没加入骑士团的时候，猎鹿人和蒙德百货都不愿意卖东西给我，吃饭都得去野外打猎生火自己做。
+- You have reached the current maximum Gathering Score you can attain. You will not be able to score any more from challenges. Continue? ｜ 当前获取的聚集评分已达上限，进行挑战将无法获得更多聚集评分，是否继续？
+- It seems you are no ordinary outlanders... To think that I lived to see one who might return from the Night Kingdom... My life has been worth it after all, haha! ｜ 看来你们也不是什么普通的异邦人啊，居然能够看见从夜神之国返还的人，我这辈子也算是值了，哈哈。
+- Go to the Institute of Clockwork Applications ｜ 前往「发条应用研究院」
+- And despite that... ｜ 可是最终…
+- Healing Effect ｜ 治疗效果
+- Grass Ring of Sanctification DMG|{param4:F1P} ｜ 越祓草轮伤害|{param4:F1P}
+- It's surprising that Maillardet's prototypes can still move, and that Sevigne is still working in such a dangerous environment. I'll talk to the administrative staff about arranging the recovery. ｜ 没想到梅雅德的试验机居然还能运作，瑟维妮居然在这样危险的环境中继续工作，我得去找事务员商量回收事宜了。
+- Opening Treasure Chest: II ｜ 打开宝箱·其二
+- Was because I am a Pari worthy of the Twin-Horned Chaplet. Hence, everything fell into place as it was meant to be. Perhaps I was fated to bear this crown from the day of my birth. ｜ 那是因为我是配得上「双角的花冠」的花灵，所以一切都顺理成章，就好像我从诞生之日起就拥有它…
+- About Kujou Sara... ｜ 关于九条裟罗…
+- She said she looked forward to seeing me all grown up... ｜ 她说她很期待我长大成人的样子…
+- Of course. It is right over there. ｜ 当然。就在那边。
+- Welcome. Every treasure here is unique, so we don't negotiate on the price, nor do we give refunds. ｜ 欢迎光临，这里宝物每个都独一无二，所以拒不还价，概不退换哦。
+- Eremite Mercenary ｜ 「镀金旅团」佣兵
+- Gameplay Tutorial ｜ 玩法教学
+- I wish to attain greatness like that of Guillotin and build something that can change Fontaine. ｜ 我希望能够像吉约丹那样，实现伟大，做出能够改变枫丹的东西。
+- This upholstered chair with a luxurious gold frame is a common sight in food establishments like the Café Lutece in the Vasari Passage. It is said to be one of Fontaine's first chair designs to utilize the concept of "ergonomics." It is specifically designed to alleviate strain on the back and neck, providing the users with a comfortable and relaxing sitting experience. However, it is not as comfortable for Melusines as it is for everyone else. Achieving optimal sitting posture for Melusines requires further study of "ergonomics" and designing a chair with adjustable backrest, headrest, and seat height. Developing such a specialized chair can be quite costly... ｜ 装有软质坐垫和靠背，饰有金色边框的靠背椅，常见于瓦萨里回廊的「咖啡厅·露泽」等餐饮店，据说是枫丹第一款引入「人机功效」概念的长椅，能够减轻使用者的腰部与颈部负担，让使用者享受一段悠然闲适的时光。然而，对于美露莘而言，这种座椅就未必那么舒服了。要想同时让美露莘保持最佳坐姿，就需要同时研究「美机功效」，设计一款靠背、头枕、椅面高度均高度可调的椅子，成本异常高昂…
+- Two lamp poles, a rope, and five lanterns hanging from it are often used in festivals held by the citizenry. Once you've crossed this boundary, you are stepping into the bright-lit, unforgettable world of the festival, where even the humblest of facilities are of great significance. ｜ 由两根灯杆，一条绳索，悬挂五枚灯笼构成的简易门关，常用于面向平民百姓的祭典。越过这道灯火明丽的界线，就能踏入令人流连忘返的祭典，看似简陋的设施也意义非凡。
+- <color=#00E1FFFF>Dusk</color> is the right time. Drink the <color=#00E1FFFF>key</color> then and enter through <color=#00E1FFFF>the hole above</color> Mr. Crucible to arrive at the world my brother is in... As for what to do after that... ｜ <color=#00E1FFFF>黄昏</color>是正确的时间，在那时喝下<color=#00E1FFFF>「密钥」</color>，然后进入坩埚大人<color=#00E1FFFF>顶上的口子</color>，就能抵达哥哥在的世界…至于之后…
+- For the next <color=#FFCC33>20</color>s, a <color=#FFCC33>Pyro</color> shockwave will be unleashed when you hit an opponent ｜ <color=#FFCC33>20</color>秒内命中敌人时释放<color=#FFCC33>火元素</color>冲击波
+- 2-Hit DMG|{param2:F1P} ｜ 二段伤害|{param2:F1P}
+- Restores 34% of Max HP and an additional 1,900 HP to the selected character. ｜ 为选中的角色恢复生命值上限的34%，并额外恢复1900点生命值。
+- Follow the bird phantasms ｜ 跟随飞鸟幻影
+- I see. As a god, the proof of your labor always lies beyond prying mortal eyes. ｜ 原来如此，不愧是神明，做出的努力我们凡人完全无从窥见。
+- Yeah, I told her as much too. ｜ 嗯，我和她说了我们应该会离开一段时间。
+- Clever Stratagems: Cycle Crisis ｜ 巧策进斗·轮替危机
+- I do occasionally hear anecdotes about the Knights of Favonius doing the rounds here in Liyue, but they're mostly unreliable rumors, with everyone telling a different story. Far better to find an actual knight and see for myself! ｜ 璃月坊间倒也有些关于西风骑士的消息，只可惜大都是捕风捉影，自相矛盾。总归不如找位骑士问问来得扎实…
+- Awesome! Anyway, so you're teaming up with Poiret again, huh? ...Uh-oh, are Rave and Darcy competing this time too? ｜ 话说回来，你这次也和布瓦列特组成一队吗？呜哇，该不会雷维和达希也来参赛了吧？
+- But even if they don't, getting all the way to the end isn't exactly gonna be a walk in the park. ｜ 无论是否会遇到更强大的敌人，光是抵达深处就已经耗费不少精力了。
+- I just have to wait a little longer... Just a little longer and it'll rise all the way up. I'll definitely get a higher offer when you return the next time, and the time after that! ｜ 只要再等等…再等等就会涨上去的。等你们下次，下下次来的时候，一定会带来更高的报价！
+- (Clorinde must have broke character for a second!) ｜ （那应该就是克洛琳德的心声吧！）
+- General's Ancient Helm ｜ 将帅兜鍪
+- #<color=#37FFFF>Paimon: </color>Fontaine's underwater world is so pretty! There's so many kinds of fish that Paimon's never seen before.\n<color=#37FFFF>{NICKNAME}: </color>If only we could swim underwater in other places too.\n<color=#37FFFF>Paimon: </color>Yeah, it's a real shame...\n<color=#37FFFF>Paimon: </color>If you could go diving anywhere you wanted, where would you choose?\n<color=#37FFFF>{NICKNAME}: </color>Hmm... Probably... either Liyue Harbor or Guyun Stone Forest.\n<color=#37FFFF>Paimon: </color>Ooh, great idea! There's gotta be some sunken ships around there full of treasure! We could make a fortune!\n<color=#37FFFF>{NICKNAME}: </color>Ooh, there's also Sangonomiya Shrine in Inazuma. The view underwater must be stunning around there. So, what about you, Paimon? Where would you go?\n<color=#37FFFF>Paimon: </color>Let Paimon think... Well, since you already chose places in Liyue and Inazuma, Paimon's gonna go for... Cider Lake!\n<color=#37FFFF>{NICKNAME}: </color>Not a bad choice. But you gotta be careful, because just when you're swimming along, minding your own business...\n<color=#37FFFF>Paimon: </color>Y—Yeah?\n<color=#37FFFF>{NICKNAME}: </color>Suddenly, you notice something slowly sinking in front of you...\n<color=#37FFFF>Paimon: </color>Huh!?\n<color=#37FFFF>{NICKNAME}: </color>It's round and chubby, with a red-and-white pattern on its surface. The moment you realize what it is, you know it's already too late...\n<color=#37FFFF>Paimon: </color>A Jumpy Dumpty!\n<color=#37FFFF>{NICKNAME}: </color>BOOM!\n<color=#37FFFF>Paimon: </color>Waaaaaah! And Paimon goes flying into the sky! ｜ #<color=#37FFFF>派蒙：</color>枫丹的水下世界好漂亮啊，有好多没见过的鱼呢！\n<color=#37FFFF>{NICKNAME}：</color>要是在其他地方也能潜水就好了。\n<color=#37FFFF>派蒙：</color>对哦，我也觉得挺可惜的…\n<color=#37FFFF>派蒙：</color>但如果可以的话，你想潜到哪里去看看呀？\n<color=#37FFFF>{NICKNAME}：</color>唔…璃月港或者孤云阁附近？\n<color=#37FFFF>派蒙：</color>哦！我懂！这些地方要是有沉船的话，一定会发现好多好多宝藏吧！\n<color=#37FFFF>{NICKNAME}：</color>还有稻妻的珊瑚宫，水下一定很漂亮。派蒙呢？\n<color=#37FFFF>派蒙：</color>我想想…你去了璃月和稻妻，那我就去蒙德的果酒湖吧！\n<color=#37FFFF>{NICKNAME}：</color>那也不错。但正当你游着游着的时候…\n<color=#37FFFF>派蒙：</color>怎…怎么啦？\n<color=#37FFFF>{NICKNAME}：</color>突然发现有什么东西慢慢沉到了你面前…\n<color=#37FFFF>派蒙：</color>欸？！\n<color=#37FFFF>{NICKNAME}：</color>那东西圆滚滚、胖嘟嘟的，身上花纹红白相间。你意识到了，这就是…\n<color=#37FFFF>派蒙：</color>蹦蹦炸弹！！\n<color=#37FFFF>{NICKNAME}：</color>嘣——！\n<color=#37FFFF>派蒙：</color>呜啊啊啊！被炸飞啦——！
+- Well, we have what we came here for. ｜ …算了，反正「神之心」已经到手了。
+- Lucky Dog's Hourglass ｜ 幸运儿沙漏
+- Originally designed to hold drinking water, this cup was stained black after a scholar used it to wash their paint brushes. ｜ 原本是饮水用的容器，因为常用来洗笔而被染黑。
+- Why!? I am a Harmost! The conductor of the symphony! How? How did you... ｜ 为什么？！我是调律师，「乐章」的指挥者是我，你怎么可能…
+- Teachings of Praxis ｜ 「笃行」的教导
+- CD|{param9:F1}s ｜ 冷却时间|{param9:F1}秒
+- CD|{param4:F1}s ｜ 冷却时间|{param4:F1}秒
+- Did you cause some kind of disaster? ｜ 你闯什么祸了吗？
+- This bears a striking resemblance to the Fountain of Lucine. Sadly, the water here comes from a different source, so there is, of course, no way to replicate the taste. ｜ 看得出来，这里的布景与露景泉广场类似。可惜根源不同，肯定无法品尝出与露景泉相仿的味道。
+- Night Raven Flight Attendant ｜ 夜鸦乘务员
+- Enter a rest area through glowing ruin pillars for the second time... ｜ 第二次通过发光的遗迹石柱进入歇息处…
+- Who knows? We might have already exactly what you're looking for by the time you come back around. ｜ 没准下次再来的时候，你想要的东西就会出现在这里了。
+- #Hmm... Seems like you've got a pretty good chance of winning this thing, {NICKNAME}! ｜ #唔…突然好想说，{NICKNAME}，你真的好厉害啊！
+- Ellin ｜ 艾琳
+- Do these churls just have it in for me or something? I mean, I'm all the way here in Sumeru now, you know? ｜ 这群家伙，不会是专门冲着我来的吧？我这都一路跑到须弥来了啊！
+- Sorry, these chests are one at a time, I'm afraid. ｜ 抱歉啦，这些宝箱，每次只能挑一个打开。
+- Mysterious Islands: Journey to the Unknown ｜ 迷境之岛！无法预测的旅行
+- The ship is tilting! What is going on? ｜ 船，船都歪了！怎么回事呀！
+- I dress like a Mondstadter because I once traveled there for a period of time. The clothes are comfortable and convenient. They conceal my identity too... ｜ 穿上蒙德平民的服装，只是因为我先前在蒙德游历过一段时间，发现这样的服装很轻便，还有利于隐藏身份…
+- Progress Archon Quest ｜ 推进魔神任务
