@@ -141,6 +141,7 @@
 * **Game**
   - **Genshin Impact**
     * [Genshin Impact](Game/GenshinImpact/GenshinImpact)
+    * [GenshinC2E](Game/GenshinImpact/GenshinC2E.md)
   - [Game](Game/game)
 
 ---
