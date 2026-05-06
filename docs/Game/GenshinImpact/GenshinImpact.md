@@ -464,6 +464,21 @@
     - [当应急食品的地位受到了威胁 | 虚空鼓动劫火高扬 | 012](https://v.douyin.com/PAJiIaoYqcc/)
 
 ---
+### 0010. Nixo
+* **[Nixo | 3.5万 | Youtube](https://www.youtube.com/@nixogenshin/videos)**
+  - [LootBar.gg - Pay Less. Play More. A Secure and Trusted Game Store](https://lootbar.gg/?utm_source=Affiliate&utm_medium=Affiliate&utm_campaign=Nixo)
+
+---
+### 0011. antonychenn
+* **[antonychenn | 165万 | Youtube](https://www.youtube.com/@antonychenn/videos)**
+  - [Can You Build a Genshin Character in 5 MINUTES](https://www.youtube.com/watch?v=AjrS6uxEAL4)
+
+---
+### 0012. Jadealy
+* **[Jadealy | 35万 | Youtube](https://www.youtube.com/@jadealy/videos)**
+  - [Farming Pulls for Linnea to Save My Bank Account - Map Maxxing (Ep.7)](https://www.youtube.com/watch?v=X090PExuMtI)
+
+---
 ### 9999. Download
 * **[dlpanda](https://www.dlpanda.com)**
 

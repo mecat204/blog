@@ -2598,6 +2598,10 @@
   - **[Jensen Huang – Will Nvidia’s moat persist | 黄仁森——英伟达的护城河会持续](https://www.youtube.com/watch?v=Hrbq66XqtCo)**
 
 ---
+* **[EmiMatcha | 1.2万 | Youtube](https://www.youtube.com/@EmiMatcha/videos)**
+  - [Smile... 4.2 Planarcadia FULL STORY REACTION | Honkai: Star Rail](https://www.youtube.com/watch?v=j1Ks_Y9IoSA)
+
+---
 ### 9999. Download
 * **[dlpanda](https://www.dlpanda.com)**
 

@@ -495,6 +495,18 @@
   - **[AIGC](https://www.bilibili.com/video/BV1vgQ1YsEZk/?spm_id_from=333.1387.collection.video_card.click)**
 
 ---
+### 0052. Jadealy |  _T钍h_
+* **[_T钍h_ | 剧情首要，美工其次，游戏性再次，环境最次 |搬工中最颠的那个 | 8650 | Bilibili](https://space.bilibili.com/507185588?spm_id_from=333.788.upinfo.detail.click)**
+  - [鸣潮 全程高燃，我都不舍得看互动 | **Youtuber: Jadealy**](https://www.bilibili.com/video/BV1CmyjBhEzT?spm_id_from=333.788.videopod.sections)
+  - [全程高燃，我都不舍得看互动 | **Youtuber: Jadealy**](https://www.bilibili.com/video/BV1CmyjBhEzT?spm_id_from=333.788.videopod.sections&p=2)
+  - [3.0剧情直播回放 | **Youtuber: EmiMatcha**](https://www.bilibili.com/video/BV1HaQ6B5Eks?spm_id_from=333.788.videopod.sections)
+
+---
+**[EmiMatcha]{p}**
+* **[EmiMatcha | 1.2万 | Youtube](https://www.youtube.com/@EmiMatcha/videos)**
+  - [Smile... 4.2 Planarcadia FULL STORY REACTION | Honkai: Star Rail](https://www.youtube.com/watch?v=j1Ks_Y9IoSA)
+
+---
 ### 9999. 开源项目
 * **[必应 | bing.com](https://cn.bing.com/)**
 
