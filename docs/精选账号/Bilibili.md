@@ -19,6 +19,11 @@
 * **[LingQ](https://www.lingq.com/en/)**
 
 ---
+**[叫我阿军就好呀]{p}**
+* **[叫我阿军就好呀 | 搬运区up主，本号没有任何收益，纯为爱发电，目前在做西语、韩语、俄语、日语和英语的翻译，工程量挺大的，SO 别再催更了 | 5.3万 | Bilibili](https://space.bilibili.com/36725118?spm_id_from=333.788.upinfo.head.click)**
+  - [**系列·Vloger**](https://space.bilibili.com/36725118/lists/4088320?type=series)
+
+---
 ### 0001. studytee | Bilibili
 * **Bilibi直接登录网页可以删除客户端无法删除的收藏夹**
 
@@ -52,6 +57,11 @@
 
 ---
 * **[Sydney Serena](https://www.bilibili.com/video/BV1BH4y1Y7Jh?spm_id_from=333.788.recommend_more_video.4&trackid=web_related_0.router-related-2479604-9kkcc.1773631314550.795&vd_source=19beb856dede8620770a18feaaf13ae2)**
+
+---
+### 0004a.  English Fluency Journey  | Bilibili
+**[English Fluency Journey]{p}**
+* **[油管顶级外教Anna外教频道 English Fluency Journey 跟外教学正宗口语发音 流利英语之路](https://www.bilibili.com/video/BV1p8oTBNEa5/?spm_id_from=333.1387.homepage.video_card.click)**
 
 ---
 ### 0005. YouTube英语课堂 | Bilibili
@@ -200,7 +210,7 @@
 * **[Girls Gone Bible | 85.9万 | Youtube](https://www.youtube.com/@GirlsGoneBible/videos)**
 
 ---
-### 0017d. Ariannita la Gringa | | 英语百科 | Bilibili
+### 0017d. Ariannita la Gringa | 英语百科 | Bilibili
   - **[Ariannita la Gringa | 如何在美国买房 | Youtuber: Ariannita la Gringa](https://www.bilibili.com/video/BV1hprKY2EZ3/?spm_id_from=333.337.search-card.all.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
 
 ---
@@ -209,7 +219,13 @@
 ---
 ### 0018.  Lana Blakely | 生活口语记录 | Bilibili
 * **[英语解锁 | 英语启蒙| 初级 | 中级 | 高级 | 四六级 | 考研 雅思托福 | 外教课程 | 纪录片 | 新闻访谈 | 1.8万 | Bilibli](https://space.bilibili.com/1417788134?spm_id_from=333.788.upinfo.detail.click)**
-  - **[生活口语记录 英语口语 |Youtuber: Lana Blakely](https://www.bilibili.com/video/BV1QzJazyEbK?spm_id_from=333.788.recommend_more_video.1&trackid=web_related_0.router-related-2479604-d9wfs.1773505363257.679&vd_source=19beb856dede8620770a18feaaf13ae2)**
+  - **[生活口语记录 英语口语 | Youtuber: Lana Blakely](https://www.bilibili.com/video/BV1QzJazyEbK?spm_id_from=333.788.recommend_more_video.1&trackid=web_related_0.router-related-2479604-d9wfs.1773505363257.679&vd_source=19beb856dede8620770a18feaaf13ae2)**
+
+---
+* **[Vlog博主 Lana Blakely 合集 | Youtuber: Lana Blakely](https://www.bilibili.com/video/BV1Ur421t79T/?spm_id_from=333.1387.collection.video_card.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
+
+---
+* **[Lana Blakeyly + Leyla_Tavas + Olga Loiek+ TheCottageFairy](https://www.bilibili.com/video/BV1xtvzBgEhf/?spm_id_from=333.1387.upload.video_card.click)**
 
 ---
 * **[Lana Blakely | 165万 | Youtube](https://www.youtube.com/@LanaBlakely/videos)**
@@ -231,6 +247,7 @@
 
 ---
 ### 0021. English with EnglishClass101.com | Bilibili
+**[English with EnglishClass101.com]{p}**
 * **[Learn English with EnglishClass101.com | Bilibili](https://www.bilibili.com/video/BV16SmwYPEza/?spm_id_from=333.337.search-card.all.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
 * **[KT英语 | Knowledge Transfer 开启记录，见证成长 拿捏心态不悔未来 告别emo 奋斗最青春 | 千章 | Douyin](https://v.douyin.com/u6Yboc0hzMY/)**
   - [Beginner-120、学习停止翻译](https://v.douyin.com/FC480Y4AbGY/)
@@ -243,7 +260,7 @@
 
 ---
 ### 0023. Isabel Paige | Bilibili
-* **[叫我阿军就好呀 | 搬运区up主，本号没有任何收益，纯为爱发电，目前在做西语、韩语、俄语、日语和英语的翻译，工程量挺大的，SO 别 | 5.3万 | Bilibili](https://space.bilibili.com/36725118?spm_id_from=333.788.upinfo.head.click)**
+* **[叫我阿军就好呀 | 搬运区up主，本号没有任何收益，纯为爱发电，目前在做西语、韩语、俄语、日语和英语的翻译，工程量挺大的，SO 别再催更了 | 5.3万 | Bilibili](https://space.bilibili.com/36725118?spm_id_from=333.788.upinfo.head.click)**
 
   ---
   **[Isabel Paige | Bilibili]{p}**
@@ -509,6 +526,15 @@
 ---
 ### 0053. 硅谷神奇
 * **[硅谷神奇 | 纳指科技持有者。| 1.6w万 | Bilibili](https://space.bilibili.com/7823885)**
+
+---
+### 0054. 英语学习小助理沐沐
+* **[英语学习小助理沐沐 | 让我们一起加油吧～ | 1938](https://space.bilibili.com/3494352961669397?spm_id_from=333.337.0.0)**
+
+---
+### 0054. 纪录片
+**[混沌之谜]{p}**
+* **[混沌之谜](https://www.bilibili.com/bangumi/play/ss25408?spm_id_from=333.1387.0.0)**
 
 ---
 ### 9999. 开源项目

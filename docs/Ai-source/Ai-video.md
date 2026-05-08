@@ -502,6 +502,16 @@
     - **[从剪辫到放足：斩断有形的铁链容易，如何重塑国民的灵魂 | 021](https://v.douyin.com/oF5endAiF48/)**
     - **[同样是"苛捐杂税"，为何大明收出天下大乱，大清却收了268年 | 022](https://v.douyin.com/A8O2I8d8t24/)**
     - **[清末的百姓被卖作猪仔既然是一种幸运 | 023 ](https://v.douyin.com/7NOHORrvXD4/)**
+    - **[你知道为什么林则徐禁烟之后，国产的鸦片却变得更多了 | 024](https://v.douyin.com/q6mr1x_h8d4/)**
+    - **[防民甚于防川：错失工业革命背后的满清社会控制逻辑 | 025](https://v.douyin.com/8I19-XFo_Wg/)**
+    - **[两亿白银砸醒的大清幻梦：谁在用假捷报给老百姓喂“精神鸦片” | 026 ](https://v.douyin.com/55tJ6ZEW1gk/)**
+    - **[在古代，为什么“私自赈灾”会被视为谋反大罪 | 027](https://v.douyin.com/siRrEDKxdFI/)**
+    - **[在古代当官有多难？这条“死刑红线”千万不能碰 | 028](https://v.douyin.com/d0OAbPGDmP0/)**
+    - **[日本为何抛弃千年儒学才变强？撕开传统文化维稳的遮羞布 | 029](https://v.douyin.com/XbneG_KNMfU/)**
+    - **[撕开“自愿遣返”的谎言：战俘营里的血肉角斗场 | 030](https://v.douyin.com/zQTcaU9OIKM/)**
+    - **[大清最狂热的“死忠粉”，为何死在了慈禧的铡刀下 | 031](https://v.douyin.com/qmHi2qwczpI/)**
+    - **[白人根本不敢进非洲内陆！黑奴贸易的真凶到底是谁 | 032](https://v.douyin.com/nxW6aZHpVXw/)**
+    - **[耗资90亿演一场戏：人类历史上最贵的“楚门的世界” | 033](https://v.douyin.com/H3wwIVd45CI/)**
 
 ---
 ### 0015. 生命的尽头 | Falsen
