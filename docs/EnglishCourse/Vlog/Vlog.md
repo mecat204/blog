@@ -143,9 +143,11 @@
   - [4-HOUR STUDY WITH ME 🌧️ Deep Focus on a Rainy Night | 🎧 Focus Music | Pomodoro 50/10](https://www.youtube.com/watch?v=a3gI2SBQaqM)
 
 ---
+**[Isabel Paige]{p}**
 * **[Isabel Paige | 95万 |  Youtube](https://www.youtube.com/@isabel_paige)**
   - **[The Hardest Days of Winter](https://www.youtube.com/watch?v=jNqhUIYZM8Q)**
   - **[Buried in Snow…Winter In The Mountains](https://www.youtube.com/watch?v=E_TEf57zBWQ)**
+  - **[How Isabel Paige Crafts a Larger-than-Life Fairytale](https://www.youtube.com/watch?v=vlQ6QVF2wBk)**
 
 * **[Tiny Pantry](https://isabelpaige.com/)**
 
@@ -158,6 +160,7 @@
   - [大家都在问我是怎么获得中国五星卡的? 中国五星卡 | 2026我的新春vlog](https://v.douyin.com/Ozn12rzT8Xs/)
 
 ---
+**[English Fluency Journey]{p}**
 * **[English Fluency Journey | 223万 | Youtube](https://www.youtube.com/@EnglishFluencyJourney)**
   - [En: I’m Anna and welcome to my channel.]{p}
   - [Cn: 我是安娜，欢迎来到我的频道。]{s}
@@ -179,20 +182,8 @@
   - [Cn: 学习一门语言，是一段终身的旅程。]{s}
 
 
-  - I know exactly what it takes to become fluent and acquire an accent in a non-English speaking country.
-  - 我完全清楚在非英语国家要流利说话并学会口音需要什么。
-
-  ---
-  - ♡Instagram page - https://www.instagram.com/englishfluencyjourney?igsh=cjgzZzQ2bzBla3dq
-  - ♡Facebook page - English Fluency Journey
-  - TikTok- www.tiktok.com/@englishfluencyjourney Amazon Wish List: https://www.amazon.com/hz/wishlist/ls/AWSROCO8IQ4N?ref_=wl_share
-  - Contact for collaboration: englishfluencyjourney@gmail.com
-
-  ---
-  - ♡ Instagram主页 - https://www.instagram.com/englishfluencyjourney?igsh=cjgzZzQ2bzBla3dq ♡
-- Facebook主页 - 英语流利之旅 TikTok - www.tiktok.com/@englishfluencyjourney
-  - 亚马逊愿望单： https://www.amazon.com/hz/wishlist/ls/AWSROCO8IQ4N?ref_=wl_share
-  - 合作联系方式：englishfluencyjourney@gmail.com
+  - [En: I know exactly what it takes to become fluent and acquire an accent in a non-English speaking country.]{p}
+  - [Cn: 我完全清楚在非英语国家要流利说话并学会口音需要什么。]{p}
 
 ---
 * **[English Fluency Journey | Hanna Khoma](https://www.englishfluencyjourney.com/)**
