@@ -570,6 +570,28 @@
 **[星晖小剧场 | 短剧合集]{p}**
 * **[星晖小剧场 | 短剧合集](https://v.douyin.com/nG2d6qsHk0c/)**
 
+---
+### 0022. 幻境Lab
+* **[幻境Lab | 描绘那些幻想世界的碎片 | 佰章](https://v.douyin.com/jV5Ny5cVejk/)**
+
+  ---
+  **[001. 幻境旅途]{p}**
+    - [满怀期待，就会遇见惊喜| 001](https://v.douyin.com/maTXmVu5k5g/)
+    - [启程的列车，带走了月台上的不舍 | 005](https://v.douyin.com/K7O0cKpWOes/)
+
+  ---
+  **[002. 色彩流动的集市]{p}**
+    - [午后的花市，正亮着 | 001](https://v.douyin.com/gMieRw1qT60/)
+    - [花与果香之间，藏着刚刚好的心情 | 005](https://v.douyin.com/x-VqwCDSxeY/)
+
+---
+### 0023. 嘤嘤英音
+* **[嘤嘤英音 | I魔法加持 👀 学好英语 📚 其实很简单 | 二十章 | Douyin](https://v.douyin.com/f3JgFrX8hYQ/)**
+  - [wolf down | 狼吞虎咽](https://v.douyin.com/l0WE6VRuR34/)
+  - [peanut | 像豌豆一个的坚果就是花生](https://v.douyin.com/J-4huVuQnL8/)
+  - [wet blanket | 扫兴的人](https://v.douyin.com/IXJHvjNk_HU/)
+  - [pickpocket | 扒手 小偷](https://v.douyin.com/zeYT3pu7MhA/)
+  - [firefly | 萤火虫](https://v.douyin.com/2Lwm9aHcpn4/)
 
 ---
 ### 9999. Download
