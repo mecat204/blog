@@ -512,6 +512,7 @@
     - **[大清最狂热的“死忠粉”，为何死在了慈禧的铡刀下 | 031](https://v.douyin.com/qmHi2qwczpI/)**
     - **[白人根本不敢进非洲内陆！黑奴贸易的真凶到底是谁 | 032](https://v.douyin.com/nxW6aZHpVXw/)**
     - **[耗资90亿演一场戏：人类历史上最贵的“楚门的世界” | 033](https://v.douyin.com/H3wwIVd45CI/)**
+    - **[39名人质的至暗时刻：圆明园大火前，清廷到底干了什么蠢事 | 034](https://v.douyin.com/ia4tjfbJwu0/)**
 
 ---
 ### 0015. 生命的尽头 | Falsen

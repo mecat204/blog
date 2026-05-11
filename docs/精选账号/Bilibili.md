@@ -537,6 +537,15 @@
 * **[混沌之谜](https://www.bilibili.com/bangumi/play/ss25408?spm_id_from=333.1387.0.0)**
 
 ---
+### 0055. 光明世界 | 97年少儿电视剧
+* **[光明世界 1-2季 ](https://www.bilibili.com/video/BV1pRUwBPEFr/?spm_id_from=333.337.search-card.all.click)**
+
+---
+### 0056. 童年动画商店
+**[童年童话商店]{p}**
+* **[童年童话商店 | 2.2万 | bilibili](https://space.bilibili.com/1420124479/lists)**
+
+---
 ### 9999. 开源项目
 * **[必应 | bing.com](https://cn.bing.com/)**
 
