@@ -18,8 +18,8 @@
 
 ---
 ### 0002. Movie
-* **movie·优质**
-  * **七味**
+**[movie·优质]{p}**
+**[七味]{p}**
   - [qmp4 | proxy](https://www.qmp4.com)
   - [gmp4 | proxy](https://www.gmp4.com)
   - [qwnull](https://www.qwnull.com)
@@ -43,21 +43,20 @@
   - **[腾讯视频 - Get the WeTV APP | 904万 | Youtube](https://www.youtube.com/@TencentVideo/videos)**
     - [ENG SUB【仙剑奇侠传三 Sword and Fairy 3】EP05](https://www.youtube.com/watch?v=SsZg2eYbG5c)
 
-  ---
-  * **libvio**
-  - **libvio.app**
-  - **[libvio.mov](https://libvio.mov/)**
+---
+**[libvio]{p}**
+* **[libvio.mov](https://libvio.mov/)**
     * **[剑来 | quark](https://pan.quark.cn/s/1783bc24dc32#/list/share)**
     * **[狮子王 | 1994](https://www.libvio.mov/play/167-1-1.html)**
-  - **[libvio.vip](https://libvio.vip/)**
+* **[libvio.vip](https://libvio.vip/)**
 
-  ---
-  * **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
-    - **[Kimivod | 電視劇 電影 動漫 綜藝 線上看](https://kimivod.com/)**
-      * [魔俠傳之唐吉可德](https://kimivod.com/vod/30393/1-1.html)
+---
+* **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
+  - **[Kimivod | 電視劇 電影 動漫 綜藝 線上看](https://kimivod.com/)**
+    * [魔俠傳之唐吉可德](https://kimivod.com/vod/30393/1-1.html)
 
-  ---
-  * **NetflixGC**
+---
+**[NetflixGC]{p}**
   - **[NetflixGC | 奈飞工厂-一个致力于免费提供Netflix影剧动漫的流媒体播放平台](https://www.netflixgc.com/)**
 
   ---
@@ -68,8 +67,8 @@
       - **[资源分享库](https://docs.qq.com/sheet/DUXR1VmtpVFR5bEpX?tab=44un5y)**
       - **[CCTV](https://tv.cctv.com/lm/index.shtml#datapd=EPGC1386744804340113&datafl=&dataszm=)**
 
-  ---
-  * **4kvm**
+---
+**[4kvm]{p}**
   - **[4kvm·A](https://4kvm.site/)**
   - **[4kvm·B](https://www.4kvm.net/)**
     * [怪奇物语: 第1季  | Stranger Things](https://www.4kvm.net/seasons/gqwy1)
@@ -82,36 +81,44 @@
     * [笑傲江湖96]
     * [苗翠花]
     * [刘仪伟-御前四宝]
-  ---
-  - **[Dailymotion](https://www.dailymotion.com/us)**
 
-  ---
-  * **AnFuns·动漫**
+---
+**[Dailymotion]{p}**
+* **[Dailymotion](https://www.dailymotion.com/us)**
+    - [光明世界](https://www.dailymotion.com/user/KidsPersonalTv)
+
+---
+**[AnFuns·动漫]{p}**
   - **[AnFuns.cc](https://www.anfuns.cc/)**
   - **[AnFuns·in](https://www.anfuns.in)**
 
-  ---
+---
+**[Novipnoad]{p}**
   - **[Novipnoad | NO视频为用户提供及时的海外热门剧集在线观看，友好无广告，致力于最轻松的追剧体验。](https://www.novipnoad.net/)**
 
-  ---
+
+---
+**[4K指南]{p}**
   - **[4K指南](https://xuexizhinan.com/)**
   - **[小宝影院](https://xiaoxintv.cc/)**
 
-  ---
-  * **金牌影院**
+---
+**[金牌影院]{p}**
   - **[hskjjglo](https://www.hskjjglo.com/)**
   - **[vv3nwjk](https://www.vv3nwjk.com/)**
 
-  ---
+---
+**[爱壹帆]{p}**
   - **[爱壹帆](https://www.iyf.tv/)**
 
-  ---
+---
+**[other]{p}**
   - **[多瑙影院](https://dnvod.org/)**
   - **[香菇影视](https://www.xiangguys.com/)**
   * **[时空影院](https://www.skwzt.com/)**
 
 ---
-* **Movie**
+**[Movie]{p}**
   - **[一糖导航](https://iitang.com/)**
   - **[网盘资源](https://t.me/s/Aliyun_4K_Movies?before=51753)**
   - **[32个网盘搜索](https://zhuanlan.zhihu.com/p/32753352416)**
@@ -264,12 +271,18 @@
   - [Binge Society-电影片段](https://www.youtube.com/@bingesociety/playlists)
 
 ---
-### 0003. Film-Note | Bttwo
+### 0003. Bttwo | Film-Note
+**[Bttwo]{p}**
+* **[bttwo](https://www.bttwo.org/)**
+
+---
 * **黑白-国外电影-精神-战斗 美少女特工队 大鹅 梦境制作models**
   - [Sucker Punch | 4K Trailer | Warner Bros. Entertainment](https://www.youtube.com/watch?v=vJ0xYZ5mVMc)
   - [异界-大鹅科幻作品](https://www.youtube.com/watch?v=AN1ffslY1cw)
-  - **[2020年 | 俄罗斯 | 异界](https://www.bttwo.org/v_play/bXZfMzM2NzQtbm1fMQ==.html)**
+  - **[2020年 | 俄罗斯 | 异界](https://www.bttwo.org/play/ch28a0aou)**
   - **[异界](https://www.4kvm.net/movies/yj)**
+  - [Lucy | 超体](https://www.bttwo.org/play/ch3d9uaz4)
+  - [哈利波特](https://www.bttwo.org/play/ch1j3j578)
 
 ---
 * **脑开发 100% 国外电影 超体 Lucy**
@@ -278,7 +291,7 @@
 
 
 ---
-* **Quark**
+**[Quark]{p}**
   - [逆世界](https://pan.quark.cn/s/fdf3e32f44ac#/list/share)
   - [可爱的骨头](https://pan.quark.cn/s/627222c2d675#/list/share)
   - [美少女特攻队](https://pan.quark.cn/s/edd7d256bc3b#/list/share)
@@ -293,22 +306,23 @@
   - [荒野生存](https://v.douyin.com/J_jP3V0t678/)
 
 ---
-### 0004. Bttwo | mvcat
-* **[Bttwo | hot](https://www.bttwo.org/hot-month)**
-  - [Lucy | 超体](https://www.bttwo.org/v_play/bXZfMTMyLW5tXzE=.html)
-  - [哈利波特](https://www.bttwo.org/xsssearch?q=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9)
-
----
+### 0004. mvcat
+**[mvcat]{p}**
 **[mvcat](https://www.mvcat.com/)**
   - **[在线电影](https://maohaha.com/n/2053/#https://maohaha.com/c/51845/)**
     * **[毒舍电影](https://www.dushe05.com/)**
-    * **[低端影视](https://maohaha.com/c/9417/)**
-      - **[ddys.run](https://www.ddys.run)**
-      - **[ddys.io](https://ddys.io/)**
-      - [ddys.la](https://www.ddys.la)
-      - [ddys.pw](https://www.ddys.pw)
-      - [ddys.ws](https://www.ddys.ws)
-      - [ddys.city](https://www.ddys.city)
+
+  ---
+  **[低端影视]{p}**
+  * **[低端影视](https://maohaha.com/c/9417/)**
+    - **[ddys.run](https://www.ddys.run)**
+    - **[ddys.io](https://ddys.io/)**
+    - [ddys.la](https://www.ddys.la)
+    - [ddys.pw](https://www.ddys.pw)
+    - [ddys.ws](https://www.ddys.ws)
+    - [ddys.city](https://www.ddys.city)
+
+    ---
     * **[注视影视](https://gaze.run/)**
     * **[磁力熊](https://www.cilixiong.org/)**
     * **[韩剧网](https://www.hanju7.com/)**
@@ -317,6 +331,7 @@
     * **[搜片 | 搜你想看的影片](https://soupian.one/)**
 
   ---
+  **[厂长资源]{p}**
   - **[厂长资源](https://www.czzy.site/)**
     * **[czzymovie](https://www.czzymovie.com/)**
       - **[2013年 | 美国 | 地心引力](https://www.czzymovie.com/v_play/bXZfMzQyNS1ubV8=.html)**
@@ -401,7 +416,11 @@
 * **[韩剧网 | 最新韩国电视剧, 电影, 综艺, 韩剧TV](https://www.thanju.com/)**
 
 ---
-### 0008. 动漫电影
+### 0008. kimivod | 动漫电影
+**[kimivod]{p}**
+  - [Kimivod | 電視劇 電影 動漫 綜藝 線上看](https://kimivod.org/)
+
+---
 * **[疯狂原始人01](https://www.libvio.mov/play/116-1-1.html)**
 * **[疯狂原始人02](https://kimivod.com/vod/42679/1-2.html)**
 
@@ -409,22 +428,35 @@
 * **[寻梦环游记](https://www.4kvm.net/movies/xunfhyj)**
 
 ---
+**[https://kimivod.com]{p}**
 * **[头脑特工队](https://kimivod.com/vod/42705/1-1.html)**
 * **[头脑特工队2](https://kimivod.com/vod/28308/1-1.html)**
 * **[人猿泰山 | 2013版](https://kimivod.com/vod/16758/1-1.html)**
 
----
 * **[辛普森一家](https://kimivod.com/vod/1523/1-1.html)**
   - [辛普森一家第一季](https://kimivod.com/vod/5868/1-1.html)
   - [辛普森一家第二季](https://kimivod.com/vod/5869/1-1.html)
 
 ---
 * **[童年时光的美好记忆 | 回顾40部欧美系译制动画片](https://www.douban.com/note/682870142/?_i=3801849Pu7UAEH)**
+
+  ---
+  **[Barbapapa]{p}**
   - [Barbapapa/1975年/法国/引进58集]
-  - [He-Man and the Masters of the Universe/1983/美国/引进50集]
-  - [忍者神龟 | Teenage Mutant Ninja Turtles/美国/1987年/首次引进120集）]
+
+  ---
+  **[He-Man and the Masters of the Universe | 宇宙的巨人希曼]{p}**
+    - [He-Man and the Masters of the Universe/1983/美国/引进50集]
+
+  ---
+  **[She-Ra: Princess of Power | 希瑞公主]{p}**
+
+  ---
+  **[忍者神龟 | Teenage Mutant Ninja Turtles]{p}**
+    - [忍者神龟 | Teenage Mutant Ninja Turtles/美国/1987年/首次引进120集）]
 
 ---
+**[神龙斗士 | 魔神英雄传2]{p}**
 * **[80、90年代大陆播放过的30部经典动画](https://kknews.cc/comic/39kz3zg.html)**
   - [神龙斗士 | 魔神英雄传2（又名神龙斗士）](https://kimivod.com/vod/25967/1-1.html)
 
@@ -433,9 +465,10 @@
 
 ---
 ### 0009. APTV
-* [APTV](https://github.com/Kimentanm/aptv)
-* [Kimentanm](https://github.com/Kimentanm?tab=repositories)
-* [网易UU远程](https://uuyc.163.com/download/)
+**APTV**
+  - [APTV](https://github.com/Kimentanm/aptv)
+  - [Kimentanm](https://github.com/Kimentanm?tab=repositories)
+  - [网易UU远程](https://uuyc.163.com/download/)
 
 ---
 ### 0010. 范苏木·圆明园
@@ -567,7 +600,7 @@
 * **阿甘正传 | 关于毅力和坚持**
 
 ---
-* **风雨哈佛路 | Homeless to Harvard | 关于自信**
+* **[风雨哈佛路 | Homeless to Harvard | 关于自信]{p}**
   - **[风雨哈佛路](https://www.qwnull.com/py/39174-2-1.html)**
   - **[Homeless to Harvard](https://pan.quark.cn/s/27a48ec76c56#/list/share)**
   - **[風雨哈佛路](https://kimivod.com/vod/34251/2-1.html)**
@@ -646,6 +679,7 @@
 * **[影视](https://www.youtube.com/channel/UCuVPpxrm2VAgpH3Ktln4HXg)**
 
 ---
+**[央视1979-2001引进的外国电影和电视剧]{p}**
 * **[央视1979-2001引进的外国电影和电视剧](https://mecat204.github.io/website/source/cctv.film/index.html)**
 
 ---
@@ -857,7 +891,7 @@
 
 ---
 ### 0025. Movie Source
-* **七味**
+**[七味]{p}**
   - [qmp4 | proxy](https://www.qmp4.com)
   - [gmp4 | proxy](https://www.gmp4.com)
   - [qwnull](https://www.qwnull.com)
@@ -865,7 +899,12 @@
   - [qwfilm](https://www.qwfilm.com)
   - [qnmp4](https://www.qnmp4.com)
 
+---
+**[天空影视]{p}**
+  - [天空影视](https://skyyyds.com/)
+
 ----
+**[夸克网盘资源]{p}**
 * **[夸克网盘资源](https://kuakes.com/)**
 * **[夸克4K资源](https://quark4k.com/)**
 
@@ -956,24 +995,40 @@
 * **青色杜马 | Blue Blink**
 
 ---
-### 0029. 童年回忆 | 动漫作品 | 美剧
-**边想边记，边记边想，慢慢挖吧**
+### 0029. 记忆考古学 | 童年回忆
+**[记忆考古学]{p}**
 
 ---
+**[The Twins of Destiny 《龙之子》|《命运双子》]{p}**
 * **[The Twins of Destiny | 1991年 | 《龙之子》/《命运双子》| 龙族双子对抗晚清政权](https://www.youtube.com/playlist?list=PLEFPOCymKSrc5F5PJoY35eLBDsSxlSpea)**
 
 ---
+**[叮当猫]{p}**
 * **[Arissa Chan | 148 | Youtube](https://www.youtube.com/@arissachan1975/videos)**
   - **[叮当猫 | Pokonyan | 1993-1996 | Japan | 1998年引进中国大陆](https://www.youtube.com/watch?v=m8U2YAdnD9U&list=PLMSO0uLrlUfqrNj3DJB2ZXaxi2Y3Laedc)**
 
 ---
+**[小蜜蜂寻亲记]{p}**
 * **[Chidab DDunder | 1080 | Youtube](https://www.youtube.com/@chidabddunder6463/videos)**
   - **[The Adventures of Hutch the Honeybee | 小蜜蜂寻亲记 | 1989–1990 | Japan](https://www.youtube.com/playlist?list=PLebfQz0qETrtTflSGPVBnrPvMWuK6sI7q)**
   - **[Download | Google云端硬盘](https://drive.google.com/drive/folders/1nxW_ee0FggEm9oczKbz2BtISNTwK13_y)**
 
 ---
+**[Blue Blink | 青色杜马]{p}**
 * **[Aya Brea | 32位 | Youtube](https://www.youtube.com/@ayabrea013/videos)**
   - [Aoi Blink Blue Blink Ep. 11-15 English Sub | **Blue Blink | 青色杜马**](https://www.youtube.com/watch?v=akbrTYqPEe0)
+
+---
+**[童年4K动画商店]{p}**
+* **[童年4K动画商店 | 童年动画定制4K修复 | 伍佰章 | Douyin](https://v.douyin.com/ZgVBVK1Dil0/)**
+
+---
+**[光明世界 | 1997 | 中澳合拍]{p}**
+* **[光明世界 | 深呼吸](https://v.douyin.com/_dW_JUdkNYA/)**
+* **[光明世界 大结局](https://v.douyin.com/3BeqyiihqgU/)**
+* **[Spellbinder: Land of the Dragon Lord | Season 2 | 光明世界](https://www.youtube.com/playlist?list=PLl48jMfth9b9P_qS0mZz71uWTgOtCF3ip)**
+* **[Spellbinder: Land of the Dragon Lord | Season 2 | 光明世界](https://www.dailymotion.com/user/KidsPersonalTv)**
+* **[All Spellbinder Of Season 2 Back-To-Back | Part 2](https://www.youtube.com/watch?v=P0uYtQV--Cs)**
 
 ---
 ### 0030. 欧美影视解说
