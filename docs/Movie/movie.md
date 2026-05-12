@@ -427,8 +427,6 @@
 ---
 * **[寻梦环游记](https://www.4kvm.net/movies/xunfhyj)**
 
----
-**[https://kimivod.com]{p}**
 * **[头脑特工队](https://kimivod.com/vod/42705/1-1.html)**
 * **[头脑特工队2](https://kimivod.com/vod/28308/1-1.html)**
 * **[人猿泰山 | 2013版](https://kimivod.com/vod/16758/1-1.html)**
@@ -440,8 +438,8 @@
 ---
 * **[童年时光的美好记忆 | 回顾40部欧美系译制动画片](https://www.douban.com/note/682870142/?_i=3801849Pu7UAEH)**
 
-  ---
-  **[Barbapapa]{p}**
+---
+**[Barbapapa]{p}**
   - [Barbapapa/1975年/法国/引进58集]
 
   ---
