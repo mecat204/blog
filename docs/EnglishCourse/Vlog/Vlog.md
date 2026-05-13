@@ -7,6 +7,7 @@
 
 ---
 ### 0001. Life Vlog
+**[李子柒 Liziqi]{p}**
 * **[李子柒 Liziqi | 2970万 | Youtube](https://www.youtube.com/@cnliziqi)**
   - [这里是李子柒YouTube官方频道哦]{p}
   - [Please  subscribe to 【李子柒 Liziqi 】Liziqi Channel on YouTube if you like my videos]{s}
@@ -22,10 +23,10 @@
 * **[李子柒 | 李家有女，人称子柒。| 千章 | Douyin](https://v.douyin.com/UzDy7CInEV4/)**
 
 ---
+**[敢敢烧琉璃]{p}**
 * **[敢敢烧琉璃 | 859位 | Youtube](https://www.youtube.com/@NB345/videos)**
   - [baby别叫我达芬奇](https://www.youtube.com/watch?v=K410JXv6iK4)
 
----
 * **[敢敢烧琉璃 | 已经在跟老师学习新的手艺啦～希望大家天天开心 | 五百章 | Douyin](https://v.douyin.com/slNExV4ogek/)**
   - [帮我看看头发上是什么？| 不要对我冷冰冰 | 最简单的手势舞来了](https://v.douyin.com/kSo9EsE91SM/)
   - [冒出来的不是烟，是我的灵魂 | 人生就是要充满passion](https://v.douyin.com/PDkNNtPzaYU/)
@@ -37,6 +38,7 @@
   - [战战战我杀杀杀 | 开心最重要啦](https://v.douyin.com/jxS-E6z5TsI/)
 
 ---
+**[都靓]{p}**
 * **[都靓 | 2250位 | Youtube](https://www.youtube.com/@duliangdushu/videos)**
   - [阅读是一件最重要的小事。听都靓，讲述中华之美。]{p}
   - [Beauty of China, Presented by DuLiang]{s}
@@ -53,6 +55,7 @@
   - [完美主义者不接受磨损。](https://v.douyin.com/VYesQelSQCI/)
 
 ---
+**[小美是个野孩纸]{p}**
 * **[小美是个野孩纸 | 1990位 | Youtube](https://www.youtube.com/@xiaomei_ski/videos)**
     - [【小美是个野孩子】 燃起来了！！一镜到底！是滑雪快还是骑摩托快？新疆阿勒泰三月的雪竟然这么好？](https://www.youtube.com/watch?v=baBhMPsgZUs&list=PLRLm2P7GB6et_Ac7WEIg7-PFZuHp1-IEQ)
 
@@ -63,6 +66,7 @@
   - **[这是不是你想象中，自由的样子？| 小美真会玩](https://v.douyin.com/a6sfhXm8Tfs/)**
 
 ---
+**[奶思兔咪鱿]{p}**
 * **[奶思兔咪鱿 | Nice to meet you | 五百章 | Douyin](https://v.douyin.com/yF1WG9-otuc/)**
   - [儿时不解 大人为何拼尽全力依然清贫 长大才知 光是活着养家便已是多数人的极限](https://v.douyin.com/shTHN-zbKIY/)
 * **[奶思兔 | 8位 | Youtube](https://www.youtube.com/@rabbitTwo23/shorts)**
@@ -72,6 +76,7 @@
   - [拥有什么就享受什么](https://v.douyin.com/WUkqEGeVf2s/)
 
 ---
+**[傻白在美国]{p}**
 * **[傻白呀 | To see a bigger world | 千章 | Douyin](https://v.douyin.com/-pcXaJmmjN0/)**
   - [时间会把所有苦难变成笑谈，所以请一定保住狗命，去见证更精彩的世界 | 反焦虑 | 人生感悟 | 岩中花述](https://v.douyin.com/K0wrmNGOGRM/)
 
@@ -79,6 +84,7 @@
   - [介绍一种致命的顶级吸引力](https://www.youtube.com/watch?v=9cn2ID9rKJA)
 
 ---
+**[木子AI研究所]{p}**
 * **[木子AI研究所 | 21.8万 | Youtube](https://www.youtube.com/@muziailab/videos)**
   - 擁有多年互聯網行業工作經驗，短視頻自媒體賬號孵化者。
   - 在這裏，我會與大家分享如何利用AI工具打造個人IP，將AI應用於各個行業。無論你是對AI充滿好奇，還是懷揣創業夢想，本頻道都將為你提供有價值的信息和實用的技巧。
@@ -88,6 +94,7 @@
   - X: https://x.com/muziailab
 
 ---
+**[Summer Hailstones 夏冰雹]{p}**
 * **[Summer Hailstones 夏冰雹 | 12.4万 | Youtube](https://www.youtube.com/@SummerHailstones)**
     - [拖延、焦虑、没动力？《DOSE 效应》神经科学方法，帮你养成高能量体质｜冰雹讲书｜英文原版](https://www.youtube.com/watch?v=X4hwczXIhbQ)
 
@@ -103,6 +110,7 @@
     - [为什么我从小在中国生活，却把英语练到了母语水平？](https://v.douyin.com/CWwCplRLEK0/)
 
 ---
+**[江寻千_九月]{p}**
 * **[江寻千_九月 | 3310 | Youtube](https://www.youtube.com/@JYjiuyue)**
   - [En: The smell of fireworks in the world is the most soothing to the hearts of ordinary people!]{p}
   - [Cn: 世界上烟花的气味是最能抚慰普通人心灵的！]{s}
@@ -127,6 +135,7 @@
   - [一千万粉丝了，今天带你们去看曾经最极致的浪漫，千年绝技 - 打铁花](https://v.douyin.com/rHdjP99rVo0/)
 
 ---
+**[studytee]{p}**
 * **[studytee | 117万 | Youtube](https://www.youtube.com/@studytee/videos)**
   - [En: My name is Therese, and I'm a Norwegian 3rd year university student in applied mathematics!]{p}
   - [Cn: 我叫特蕾丝，是一名挪威应用数学三年级的学生！]{s}
@@ -189,10 +198,10 @@
 * **[English Fluency Journey | Hanna Khoma](https://www.englishfluencyjourney.com/)**
 
 ---
-* **[欧美外教在线一对一口语 | 零基础英语 | 启蒙英语 | 雅思口语 | 零基础英语 | 商务英语 | 二千章 | Douyin](https://v.douyin.com/dtwC1ZGrWxQ/)**
+* **[欧美外教在线一对一口语-葡然蕴 | 零基础英语 | 启蒙英语 | 雅思口语 | 零基础英语 | 商务英语 | 二千章 | Douyin](https://v.douyin.com/dtwC1ZGrWxQ/)**
   - [北美外教一对一网课 外教：英语是一项改变人生的技能](https://v.douyin.com/Ix5dt7a8F-Q/)
   - [欧美外教英语课一对一网课](https://v.douyin.com/cNQsa9vj7nQ/)
-  - [在线英语外教一对一英语口语 外教：记忆单词的最佳方式是多读。|英语流利说](https://v.douyin.com/S_WuSgv0SEM/)
+  - [在线英语外教一对一英语口语 外教：记忆单词的最佳方式是多读。| 英语流利说](https://v.douyin.com/S_WuSgv0SEM/)
   - English Fluency Jounery
 
 ---
@@ -202,6 +211,7 @@
   - [阅读的提升口语最快的方法 | 英语外教](https://v.douyin.com/lxInWasAlj8/)
 
 ---
+**[高高Lindsey]{p}**
 * **[高高Lindsey | 北京外国语大学英语口译硕士｜Polyglot | "语言的边界就是你世界的边界" | 5.5万 | Youtube](https://www.youtube.com/@lindseylingo/videos)**
   - [AI Can Speak English Better Than You](https://www.youtube.com/watch?v=nILMlkHiVdM)
 
@@ -212,25 +222,26 @@
   - [新一年的英语学习计划启动！进来抄一份科学有效的口语进阶](https://v.douyin.com/kTFzHYBpbQI/)
 
 ---
-* **[Jonna Jinton | 526万 | Youtube](https://www.youtube.com/@jonnajinton)**
+**[瑞典]{p}**
+* **[Jonna Jinton | 526万 | 瑞典 | Youtube](https://www.youtube.com/@jonnajinton)**
   - [En: My name is Jonna Jinton, I'm a Swedish artist, musician and filmmaker and I live in the beautiful woods in the North of Sweden.]{p}
-  - 我叫Jonna Jinton，是一名瑞典艺术家、音乐家和电影制作人，住在瑞典北部美丽的森林里。]{s}
+  - [Cn: 我叫Jonna Jinton，是一名瑞典艺术家、音乐家和电影制作人，住在瑞典北部美丽的森林里。]{s}
 
   ---
   - [En: Here on my YouTube channel I share a mix of everything that I feel passionate about.]{p}
-  - 在我的YouTube频道上，我分享了我所有热爱的事情。]{s}
+  - [Cn: 在我的YouTube频道上，我分享了我所有热爱的事情。]{s}
 
   ---
   - [En: From stories and glimpses of my everyday life to music, kulning (nordic herding calls), painting, ice baths, nature and inspirational films and much more.]{p}
-  - 从日常生活的故事和片段，到音乐、kulning（北欧牧歌）、绘画、冰浴、自然和励志电影等等。]{s}
+  - [Cn: 从日常生活的故事和片段，到音乐、kulning（北欧牧歌）、绘画、冰浴、自然和励志电影等等。]{s}
 
   ---
   - [En: You are very welcome to my channel!]{p}
-  - 欢迎你来到我的频道！]{s}
+  - [Cn: 欢迎你来到我的频道！]{s}
 
   ---
   - [En: I hope you will enjoy my videos! ♥]{p}
-  - 希望你会喜欢我的视频！♥]{s}
+  - [Cn: 希望你会喜欢我的视频！♥]{s}
 
   ---
   - **[Living with the Dark Winters in Sweden |Midnight sun & Polar night | 与瑞典的黑暗冬天共存 |午夜太阳与极夜](https://www.youtube.com/watch?v=3zTR4ayDG38)**
