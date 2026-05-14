@@ -9,9 +9,11 @@
 
 ---
 ### 0001. proxy·book·website
+**[archive·互联网档案馆]{p}**
 * **[archive·互联网档案馆](https://archive.org/)**
 
 ---
+**[识典古籍]{p}**
 * **[识典古籍](https://www.shidianguji.com)**
 * **[识典古籍 | 关注古籍保护，让古籍下来，传下去](https://v.douyin.com/-ICApT_jRR8/)**
   - [字节跳动公益，用科技传承文化。| 识典古籍](https://v.douyin.com/cPS6ccLAkno/)
@@ -53,10 +55,14 @@
 * **[FreeMdict Forum](https://forum.freemdict.com/latest)**
 
 ---
-* **[Anna’s Archive | 安娜的档案](https://annas-archive.li/)**
-  - [zh.annas-archive.li](https://zh.annas-archive.li)
-  - [zh.annas-archive.se](https://zh.annas-archive.se)
-  - [zh.annas-archive.org](https://zh.annas-archive.org)
+**[Anna’s Archive | 安娜的档案]{p}**
+* **[Anna’s Archive | 安娜的档案](https://monoskop.org/Anna%27s_Archive)**
+  - [annas-archive.gl](https://annas-archive.gl/)
+  - [annas-archive.gd](https://annas-archive.gd/)
+  - [annas-archive.pk](https://annas-archive.pk/)
+  - [Anna’s Archive](https://annas-archive.gd/scidb)
+  - [annas-archive.gd/datasets](https://annas-archive.gd/datasets)
+
   - **[blog.520233 | 非鱼的回响笔记](https://blog.520233.best/)**
     * [	中国哲学书电子化计划](https://ctext.org/help-us/zhs)
     * [道德经](https://www.shidianguji.com/book/SBCK106/chapter/SBCK106_4?page_from=searching_page&version=27)
@@ -87,7 +93,7 @@
 * **[ikandou_books](https://gist.github.com/luw2007/5044268)**
 
 ---
-* **词典 | Dictionary | Dict**
+**[词典 | Dictionary | Dict]{p}**
   - **[MDict](https://www.mdict.cn/wp/?page_id=5227&lang=zh)**
   - **[freemdict](https://forum.freemdict.com/)**
   - **[cloud.freemdict](https://cloud.freemdict.com/index.php/s/pgKcDcbSDTCzXCs)**
