@@ -920,6 +920,7 @@
 * **[北美外教一对一口语 | 千章 | Douyin](https://v.douyin.com/5gy921EoPv0/)**
 
 ---
+**[来点思考]{p}**
 * **[来点思考 | Dan Koe | 三百章 | Douyin](https://v.douyin.com/OkNpJEuLTEg/)**
   - [你还在慢慢学吗？用AI加速学习，10倍提高效率 | AI加速学习 | Min: 27:56](https://v.douyin.com/dJUjAceOkEg/)
   - [两周就能学会任何技能，为什么你这么慢？ | Min: 27:56](https://v.douyin.com/uYLph2ZzDRA/)
@@ -928,6 +929,7 @@
   - [百万收入技能组合：赚钱必备的高价值技能——Dan Koe  | Min: 35:04](https://v.douyin.com/ldx-1Rz4jig/)
 
 ---
+**[dankoe]{p}**
 * **[dankoe | 大家好,让我们一起6个月改变人生 | Read my book, and you'll know the way. Become a member, and you'll be the way. Free,and you'll never. Choose. | 百章 | Douyin](https://v.douyin.com/tN4bvreV5vE/)**
   - [How To Make Progress 10X Faster In Life (Full Guide) | Min: 35:04](https://v.douyin.com/XyQq7MkQ4hI/)
   - [How I'd build a one-person business (if I started over in 2026) | Min: 31:02](https://v.douyin.com/nOUHvgiqFnU/)
@@ -972,11 +974,11 @@
 * **[久别辞 | 世界上任何书籍都不能带给你好运 但是它能让你悄悄成为自己 读过同一本书，就是我们最好的相逢。 | 二百章 | Douyin](https://v.douyin.com/-M5R0fs46Mo/)**
   - [5%改变 | 好书推荐| 成长必读| 书籍推荐|好书分享](https://v.douyin.com/UgBhNa-5yCk/)
   - [百年孤独](https://v.douyin.com/j6aAftBgV0Q/)
-  - 人生的本质就是一个人活着，不要对别人心存太多期待。我们是随手拂过的尘埃。比起有人左右情绪的日子，我更喜欢无人问津的时光。或许成年人的孤独就是悲喜自渡，而这也正是我们难得的自由，生命中曾经有过的所有灿烂，终究都需要用寂寞来偿还，人的精神寄托可以是音乐，可以是书籍，可以是工作，可以是山川湖海，唯独不可以是人。
+  - [人生的本质就是一个人活着，不要对别人心存太多期待。我们是随手拂过的尘埃。比起有人左右情绪的日子，我更喜欢无人问津的时光。或许成年人的孤独就是悲喜自渡，而这也正是我们难得的自由，生命中曾经有过的所有灿烂，终究都需要用寂寞来偿还，人的精神寄托可以是音乐，可以是书籍，可以是工作，可以是山川湖海，唯独不可以是人。]{g}
   - [自渡 | 人生感悟](https://v.douyin.com/V6y2Oo_jUMo/)
-  - 今天分享的是自渡，别去操心别人，哪怕是你的亲人，多年形成的认知，并非你只言片语就能唤醒的，人是难以被叫醒的。只有痛了他才会醒。管别人一分，对方就恨你一分，帮别人十分，最后可能落得埋怨十分，故而莫管他人多管好自己。这世上最难的两件事，一是把别人的钱装进自己口袋。二是把自己的思想塞进别人脑袋。成年人的世界只筛选不教育，只成全不改造人这一辈子呀，总是喜欢管东管西，尤其是当你看到别人陷入困境的时候，就想伸手去帮一把，去指点迷津。可是你再怎么费心，再怎么尽力，别人也未必领取。你以为的渡人在对方眼里可能是多管闲事。你眼中的善意指点，在别人心里，可能是居高临下。记住你的首要责任是经营好自己，别人的课题留给别人去解答。当你把自己活成一道光。你说千万句道理更有力量。
+  - [今天分享的是自渡，别去操心别人，哪怕是你的亲人，多年形成的认知，并非你只言片语就能唤醒的，人是难以被叫醒的。只有痛了他才会醒。管别人一分，对方就恨你一分，帮别人十分，最后可能落得埋怨十分，故而莫管他人多管好自己。这世上最难的两件事，一是把别人的钱装进自己口袋。二是把自己的思想塞进别人脑袋。成年人的世界只筛选不教育，只成全不改造人这一辈子呀，总是喜欢管东管西，尤其是当你看到别人陷入困境的时候，就想伸手去帮一把，去指点迷津。可是你再怎么费心，再怎么尽力，别人也未必领取。你以为的渡人在对方眼里可能是多管闲事。你眼中的善意指点，在别人心里，可能是居高临下。记住你的首要责任是经营好自己，别人的课题留给别人去解答。当你把自己活成一道光。你说千万句道理更有力量。]{g}
   - [杨绛传](https://v.douyin.com/ERfoaHfisgk/)
-  - 今天分享的是杨绛传，不要活得太明白看淡一切， 做一个快乐的中年少女，中年是年龄，少女是心态。当我们看淡了所有的人和事，你就会明白这样一个道理。惜我者我惜之，嫌我者我弃之，懂我者，我惜之，爱我者我必爱之，生活是自己的，千万别为难自己，有什么样的能力，就过什么样的生活，尽力而为量力而行。做个温暖的人，有自己的喜好，有自己的原则，有自己的信仰。用顺其自然的态度过随遇而安的生活。余生站在属于自己的高度，看该看的风景。记住一个女人最好的状态，莫过于眼里写满了故事，脸上却不见风霜，不羡慕谁不嘲笑谁，也不依赖谁，只是悄悄的努力吞下委屈，喂大格局，活成自己喜欢的样子，成为自己的光
+  - [今天分享的是杨绛传，不要活得太明白看淡一切， 做一个快乐的中年少女，中年是年龄，少女是心态。当我们看淡了所有的人和事，你就会明白这样一个道理。惜我者我惜之，嫌我者我弃之，懂我者，我惜之，爱我者我必爱之，生活是自己的，千万别为难自己，有什么样的能力，就过什么样的生活，尽力而为量力而行。做个温暖的人，有自己的喜好，有自己的原则，有自己的信仰。用顺其自然的态度过随遇而安的生活。余生站在属于自己的高度，看该看的风景。记住一个女人最好的状态，莫过于眼里写满了故事，脸上却不见风霜，不羡慕谁不嘲笑谁，也不依赖谁，只是悄悄的努力吞下委屈，喂大格局，活成自己喜欢的样子，成为自己的光]{g}
 
 ---
 * **[山雨书苑 | AI-video |  LYwh阳光下没有新鲜事， 每一个你困惑的问题， 都能在书中找到答案 | 三百章 | Douyin](https://v.douyin.com/YpcJu_MHGuI/)**
@@ -1090,6 +1092,7 @@
   - [低谷的时候请反复对自己说一万遍 | **相信自己** | **勇敢做自己** | **人已经要百分之二百的相信自己**](https://v.douyin.com/7E4ex4cDKm8/)
 
 ---
+**[Isabel Paige]{p}**
 * **[Isabel Paige | Youtube ](https://www.youtube.com/@isabel_paige)**
   - [The Hardest Days of Winter](https://www.youtube.com/watch?v=jNqhUIYZM8Q)
 * **[VENQUEN的英语日记 | Douyin](https://v.douyin.com/lGerZrVjzQs/)**
@@ -1175,6 +1178,7 @@
 * **[别再内耗, 只管去做 | 奇异博士](https://v.douyin.com/ykr2o0dfF0E/)**
 
 ---
+**[IAmKevinFeng]{p}**
 * **[IAmKevinFeng | KevinFeng 冯凯文](https://www.youtube.com/@IAmKevinFeng/videos)**
   - [用油管足不出户从0自学流利英文！20+个难度分级自学频道推荐！｜GDS 007](https://www.youtube.com/watch?v=0UY0bbE5I1w)
 
@@ -1342,6 +1346,7 @@
 
 ---
 ### 0006. 阅词
+**[阅词]{p}**
 * **[阅词 | Bilibili](https://space.bilibili.com/99455517?spm_id_from=333.337.0.0)**
 
 ---
@@ -1349,6 +1354,7 @@
 
 ---
 ### 0007. English 绘本
+**[松鼠联盟]{p}**
 * **[松鼠联盟 | 英文绘本原创作者 | 愿每个故事都是跨越时空的握手 | 百章 | Douyin](https://v.douyin.com/DJJPyBRIkvs/)**
   - [书和玫瑰 每天五分钟英语绘本 原创英语绘本动画 英语磨耳朵 | 看动画学英语  | 英语绘本  | 英语没那么难](https://v.douyin.com/HXRwmvhjQ4E/)
   - [卖火柴的小女孩 每天五分钟英语绘本 原创英语绘本动画 英语磨耳朵 | 看动画学英语  | 英语绘本](https://v.douyin.com/1ucbgFGNCfE/)
@@ -1356,12 +1362,14 @@
 
 ---
 ### 0008. 文本
+**[英语家园Airt]{p}**
 * **[英语家园Airt | 西安点亮网络科技有限公司 | Douyin | 千章 | Douyin](https://v.douyin.com/wqHYHhqA0zc/)**
   - [大家好！今天我们来聊聊冬天。去年冬天，我开始写日记，这是我以前从未做过的事。写下我的想法帮助我理解自己的情绪，并为未来做好准备。](https://v.douyin.com/yA1UCipGkxs/)
   - [大家好。今天我们来聊聊情绪。 情绪一天中会发生变化。 早上，你可能感到开心，准备好迎接新的一天。 下午，你可能觉得疲惫。 晚上，你会感到放松，准备睡觉。 不同的情绪都是正常的。](https://v.douyin.com/7h5af2ZTKPQ/)
   - [大家好，今天我们来聊聊幸福的真正含义。 我相信，幸福是我们通过与他人的联结、个人成长以及积极的人生态度，慢慢积累而成的](https://v.douyin.com/7DkCkD6oa-c/)
 
 ---
+**[黄皮果子]{p}**
 * **[黄皮果子 | 闲时喜欢逛逛，拍拍路过的风景，记录人间的回忆 | 关于英语: 因为喜欢, 所以坚持, 希望有一天可以脱口而出 | 梦虽遥, 追则能达。愿虽艰, 持则可圆 | 希望每天都有进步 | 千章 | Douyin](https://v.douyin.com/AQioH2TYsmc/)**
   - [落日余辉 时间会磨平无数个难言的瞬间 当执念慢慢消失 幸福就会悄悄贯穿每分每秒 愿在以后的日子里 把遗憾放下 把自己收好](https://v.douyin.com/xOseygrDRBw/)
   - [深圳的冬天像极了倒放的春天，公园里的紫花风铃木正开的灿烂夺目，不是春天胜似春天](https://v.douyin.com/INaRFumCcVc/)
@@ -1369,12 +1377,14 @@
   - **[英语口语练习](https://v.douyin.com/gYBkBi5Xl98/)**
 
 ---
+**[英语]{p}**
 * **[英语 | 英语分享 | 二百章 | Douyin](https://v.douyin.com/zCaOBj6zFh8/)**
   - [此刻的你，正在被无数人羡慕着，只是你不知道](https://v.douyin.com/AwQNbGLjjVQ/)
   - [我们的大脑天生就喜欢寻找模式，并把随机事件解读为因果关系，以此来理解世界](https://v.douyin.com/wKEnCzByXRc/)
   - [每件事到最后都会变好。如果还没变好，那说明还没到最后](https://v.douyin.com/bqzfAcdh6Gc/)
 
 ---
+**[Ivy趣英语]{p}**
 * **[Ivy趣英语 | 每日分享有趣的英语内容 | 五十章 | douyin](https://v.douyin.com/R-AY9ukX3qY/)**
   - [英语里的数字可不止one, two, three](https://v.douyin.com/auNDDN_C2HI/)
   - [16个常用数学符号的英文说法](https://v.douyin.com/pIYL5Zl-wA8/)
@@ -1429,6 +1439,7 @@
     - [看电影的表达 | Beginner-175](https://v.douyin.com/Nr6ntkvvHCM/)
 
 ---
+**[Emily英文绘本故事]{p}**
 * **[Emily英文绘本故事 | 北大本硕 | 15年 + 教育人 | 俩娃妈妈 | 把教育经验熬成原创英语绘本故事 | 用妈妈的视角, 讲孩子能听懂的英文内容, 每天5分钟磨耳朵,陪娃轻松爱上英语 | 百章 | Douyin](https://v.douyin.com/jkP_utJS_p8/)**
   - [守株待兔英文版](https://v.douyin.com/o-1mfFfzW4M/)
   - **[狮子王](https://v.douyin.com/erRH2wGf7ss/)**
@@ -1442,20 +1453,20 @@
 **[Socialtalk]{p}**
 * **[Socialtalk | 英语领域创作者，内容包含雅思口语，商务英语口语，日常生活口语. 英语词汇专栏 | 五百章 | Douyin](https://v.douyin.com/7OwkBb0SUBY/)**
 
-
   ---
-  **[001. 商务必备vs外贸英语]{s}**
-  - [001.外贸收藏：如何降低运输风险 | **商务英语vs外贸英语**](https://v.douyin.com/Mg4_VjzmRtg/)
-  - [222.FOB暗坑：面对指定货代乱收费，业务员硬刚刁钻客户 | **商务英语vs外贸英语**](https://v.douyin.com/hGfyqdcggsk/)
+  **[001. 商务必备vs外贸英语]{g}**
+    - [001.外贸收藏：如何降低运输风险 | **商务英语vs外贸英语**](https://v.douyin.com/Mg4_VjzmRtg/)
+    - [222.FOB暗坑：面对指定货代乱收费，业务员硬刚刁钻客户 | **商务英语vs外贸英语**](https://v.douyin.com/hGfyqdcggsk/)
 
 ---
+**[老李撩英语]{p}**
 * **[老李撩英语 | 前新东方教师 | 公立学校英语教师 | 英语短剧 | 五百章 | Douyin](https://v.douyin.com/p4pyAnZgIs4/)**
   - [英语短剧 | shortdrama | micro-drama | 丈夫空中"表演",落地如何受到惩罚？Min: 06:26](https://v.douyin.com/sIghTyvn9PY/)
 
 ---
 **[英语超级屋]{p}**
 * **[英语超级屋 | 感受世界，感受人文，遇见这个世界上美好的人和事 学好英语，感受语言，遇见这个时间里最好的自己... | 三百章 | Douyin](https://v.douyin.com/JLRyWueVrOE/)**
-  - 语言的边界, 就是世界的边界 --- 维特根斯坦
+  - [语言的边界, 就是世界的边界 --- 维特根斯坦]{s}
   - [张同完 | 韩国 | **Youtuber: _100ls**  | wan只用一部动画，重复100遍，做到年赚200万刀 谁说学好英语赚不到钱](https://v.douyin.com/dE8eIkNzQ28/)
   - **[旅行学英语](https://v.douyin.com/clZqESbHEF4/)**
   - **[全英播客通勤磨耳朵 | **Youtuber: English Learning Podcast**](https://v.douyin.com/qGQ7PDaJ7zY/)**
@@ -1467,12 +1478,12 @@
   * **[韩国大集什么样 可理解性输入学英语 | Youtuber: volkaeagle](https://v.douyin.com/-G5XfX7KvRo/)**
 
   ---
-  **[001. 超级英语 | 老师篇]{p}**
+  **[001. 超级英语 | 老师篇]{g}**
     - [跟着老师学习就餐实用英语 就餐英语 | 001](https://v.douyin.com/ThApI_ho-28/)
     - [这5个阻碍你自由开口说英语的原因你有吗 | 100](https://v.douyin.com/h8JYLz8PaAI/)
 
   ---
-  **[002. 超级英语 | 听力篇]{p}**
+  **[002. 超级英语 | 听力篇]{g}**
    - [如何像孩子一样轻松掌握英语，像母语一样搞定英语 | 001](https://v.douyin.com/mKix9wPAxC4/)
    - [如何快速成为理想的自己 | 067](https://v.douyin.com/ZBorJmbQIjg/)
 
@@ -1481,7 +1492,7 @@
 * **[曼琳和妈妈 | 伍佰章 | Douyin](https://v.douyin.com/6ZuUzMS1Ehg/)**
 
   ---
-  **[001. 英语]{s}**
+  **[001. 英语]{g}**
     - [001](https://v.douyin.com/8-_goI0zGWk/)
     - [It in English | 129](https://v.douyin.com/4sXuHzrtBO0/)
     - [Time is very important in our life | 130](https://v.douyin.com/6NETJ6lN_J0/)
@@ -1511,7 +1522,7 @@
   - **[男声英文朗读｜刺客信条：余烬](https://v.douyin.com/jaYXLppcQ1k/)**
 
   ---
-  **[001. 新概念英语二]{s}**
+  **[001. 新概念英语二]{g}**
     - [A Private Conversation | 001](https://v.douyin.com/P71RPfF3FNk/)
     - [A slip fo the tongue | 089](https://v.douyin.com/IOnVunHCRcw/)
 
@@ -1587,6 +1598,7 @@
 
 ---
 ### 0012. 手记
+**[一叶手记]{p}**
 * **[一叶手记 | 手写生活缝隙里的光 - 记录温暖，也治愈慌张。日子有烟火，笔下有远方。问绕前行，步履不停。百章 | Douyin](https://v.douyin.com/NjsN49u1frA/)**
   - [一切都是最好的安排，加油！| 人生感悟](https://v.douyin.com/3WwtO15sgTM/)
   - [只要我们持之以恒，我们追求的东西都会一一到来，二月，加油！ | **持之以恒**](https://v.douyin.com/I1H3DZH04sg/)
@@ -1595,6 +1607,7 @@
 
 ---
 ### 0013. 听力
+**[听语英语研习社]{p}**
 * **[听语英语研习社 | 听力 | 嗨，我是星晴 🌷【听语英语研习社】知识星球主理人 | 多年英语翻译经验，分享点滴英语知识，伴你成长 | 五百章 | Douyin](https://v.douyin.com/paNb0F2Vl0U/)**
   - [Important Terms and Ideas for Describing Artificial Intelligence](https://v.douyin.com/xGszsdPynX8/)
   - [Five Things to Know about Notre Dame Cathedral](https://v.douyin.com/aEQBD38i-fk/)
@@ -1745,12 +1758,12 @@
 * **[夏夏不温柔（学英语版）| 感恩相遇，如果能感染到你，我会倍感幸福 | 千章 | Douyin](https://v.douyin.com/iRGr_X0cxB4/)**
 
   ---
-  **[001. 自我肯定]{s}**
+  **[001. 自我肯定]{g}**
     - [睡前做个自我肯定，然后安安稳稳做个好梦 | 001](https://v.douyin.com/W5KlxpSYwOk/)
     - [最近我一直在想，孩子的补课是不是应该暂停，学历不再那么重要了？但是学习的能力依旧重要 | 035](https://v.douyin.com/pvN_Ktx1Db8/)
 
   ---
-  **[002. 日常碎碎念]{s}**
+  **[002. 日常碎碎念]{g}**
     - [录了100遍终于鼓足勇气发出来了，不卷女儿，卷自己 | 001](https://v.douyin.com/sSt96jT0-qg/)
     - [烧饭做菜真的不容易，感谢身边默默付出的那一位 | 064](https://v.douyin.com/uPlkOjxFmbk/)
 
@@ -1840,6 +1853,7 @@
 
 ---
 ### 0016. 英语启蒙动画
+**[快乐学英语]{p}**
 * **[快乐学英语 | 英语启蒙动画 | 听先行，读相伴🍀 持续更新原创少儿英语启蒙动画 | 百章 | Douyin](https://v.douyin.com/HhWVTPYMkuw/)**
   - [学会拒绝的小象](https://v.douyin.com/hDeQbrUmUxI/)
   - [小鸭子的怪物乌龙](https://v.douyin.com/VDFmLCQnau0/)
@@ -1879,6 +1893,7 @@
 
 ---
 ### 0018. 自动化工具屋
+**[Mia英语精读自动化工具屋]{p}**
 * **[Mia英语精读自动化工具屋 | 五百章 | Douyin](https://v.douyin.com/rrvuP1Vk04s/)**
   - [1分钟教你制作爆款单词速记视频](https://v.douyin.com/HxvOJ5y6BTI/)
   - [跟央视主持人邹韵学英语｜英语笔记精读](https://v.douyin.com/CbPGAONY3SA/)
@@ -1886,12 +1901,14 @@
 
 ---
 ### 0019. 翻译官
+**[Freelensia]{p}**
 * **[Freelensia | 7.33万 | Youtube](https://www.youtube.com/@Freelensia/videos)**
-  - Freelensia 翻译来自世界各地的政治演讲和其他富有洞察力的内容。我们还展示国际电影和电视剧，突显文化和语言的多样性。我们的影片通常提供字幕和配音，以提高可访问性。有些视频提供双语通译。请佩戴耳机，在左耳听一种语言，在右耳听另一种语言。
-  - 为了帮助你找到喜欢的内容，我们将视频整理成播放列表：Speeches by Country、Speeches by Speaker 和 Movie-Related Videos。浏览我们的播放列表，享受你喜欢的语言内容
+  - [Freelensia 翻译来自世界各地的政治演讲和其他富有洞察力的内容。我们还展示国际电影和电视剧，突显文化和语言的多样性。我们的影片通常提供字幕和配音，以提高可访问性。有些视频提供双语通译。请佩戴耳机，在左耳听一种语言，在右耳听另一种语言。]{s}
+  - [为了帮助你找到喜欢的内容，我们将视频整理成播放列表：Speeches by Country、Speeches by Speaker 和 Movie-Related Videos。浏览我们的播放列表，享受你喜欢的语言内容]{s}
 
 ---
 ### 0020. StudyEnglish英语口语 | Book
+**[StudyEnglish英语口语]{p}**
 * **[StudyEnglish英语口语 | 英专生，每日分享英语智慧语录， 英语美文，英语朗读，英语口语练习素材 | 教辅以及学习资料在橱窗 | 千章 | Douyin](https://v.douyin.com/1Tmc4q5oAgo/)**
   - [英语介绍: 长安的荔枝](https://v.douyin.com/1MWSIDoJKF8/)
   - [英语介绍中国系列书籍](https://v.douyin.com/fLuwkneW8NU/)
@@ -1899,7 +1916,6 @@
   - [英语阅读：时间是最公平的裁判](https://v.douyin.com/umdZEcUzo1k/)
   - [英语口语：眼界决定人生半径 你的眼界有多宽，人生就有多大舞台。](https://v.douyin.com/c3Px4nQCtyQ/)
   - [英语学习：敢于开始，才能不负未来。 别等完美时机，行动才是最好的开始。](https://v.douyin.com/w45zwFfNkbg/)
-
 
 ---
 ### 0021. Prompt | FSI
@@ -1911,7 +1927,7 @@
 * **[枫娇鹤 | 寓教于乐，融学于趣，化教于心 | 二十章 | Douyin](https://v.douyin.com/J9KB5QS99lM/)**
 
   ---
-  **[001. New Concept English 01]{s}**
+  **[001. New Concept English 01]{g}**
      * [New Concept English 01 | 第一册 | 01](https://v.douyin.com/-51n4SOiw_M/)
      * [New Concept English 01 | 第一册 | 19](https://v.douyin.com/RGol_7XQQSI/)
      * [New Concept English 01 | 第一册 | 35](https://v.douyin.com/qUP5pHQL5_0/)
@@ -1977,7 +1993,7 @@
 * **[Yuki的英语世界 | 英语语言文学硕士|专业八级 | 十年一线教龄 | 新概念英语1-4册电影版持续更新中... | 百章 | Douyin](https://v.douyin.com/0M-_4IujMEU/)**
 
   ---
-  **[New Concept English]{s}**
+  **[New Concept English]{g}**
   - **[New Concept English 01 | Lesson-001](https://v.douyin.com/bC9qQDSJFkI/)**
   - **[New Concept English 19 | Lesson-057](https://v.douyin.com/PrpuVIoCXKg/)**
 
@@ -2011,7 +2027,7 @@
     * **[狮子王 | 1994](https://www.libvio.mov/play/167-1-1.html)**
   - [疯狂原始人](https://v.douyin.com/6M9pCejaAZI/)
 
-  - [疯狂原始人]{g}
+  - **[疯狂原始人]{g}**
     * **[疯狂原始人01](https://www.libvio.mov/play/116-1-1.html)**
     * **[疯狂原始人02](https://kimivod.com/vod/42679/1-2.html)**
     * **[寻梦环游记](https://www.4kvm.net/movies/xunfhyj)**
@@ -2022,18 +2038,19 @@
     * **[第042篇 | 元宵节的传说](https://v.douyin.com/gF0vfLIQIhA/)**
 
   ---
-  - **[奥斯卡经典动画绘本]{p}**
+  - **[奥斯卡经典动画绘本]{g}**
     * **[001.狮子王森巴](https://v.douyin.com/labFvQ_T10w/)**
     * **[007.冰雪奇缘](https://v.douyin.com/vmUlDpepE_Y/)**
       - [冰雪奇缘 | Frozen](https://www.bttwo.org/v_play/bXZfNTU5OC1ubV8wMQ==.html)
 
   ---
-  - **[经典英文绘本故事]{p}**
+  - **[经典英文绘本故事]{g}**
     * **[001.巨人的花园](https://v.douyin.com/VNlVrO4TFTk/)**
     * **[027.丑小鸭](https://v.douyin.com/NGfF8E8eWl0/)**
 
 ---
 ### 0024. 长剧 | 油管
+**[English1314]{p}**
 * **[English1314 | YTB: English 1314 | 二十章 | Douyin](https://v.douyin.com/DzruFy_hhxw/)**
   - [Keep Your Brain Young | 如何让大脑保持年轻, 学英文是最好的抗 | Min: 40min](https://v.douyin.com/PJked0BWBuo/)
 
