@@ -5,7 +5,7 @@
 * **[abc2022](https://www.abc2022.cn)**
 
 ---
-* **Rename in English name. quark**
+* **[free.中国](https://free.xn--fiqs8s/)**
 
 ---
 ### 0001. IPTV
@@ -46,6 +46,7 @@
 ---
 **[libvio]{p}**
 * **[libvio.mov](https://libvio.mov/)**
+* **[libvio.run](https://www.libvio.run/)**
     * **[剑来 | quark](https://pan.quark.cn/s/1783bc24dc32#/list/share)**
     * **[狮子王 | 1994](https://www.libvio.mov/play/167-1-1.html)**
 * **[libvio.vip](https://libvio.vip/)**
@@ -212,6 +213,17 @@
   - [功夫 2004年]
 
 ---
+**[盲剪]{p}**
+* **[盲剪 | 伍佰章](https://v.douyin.com/wyJI82Q8juo/)**
+
+  ---
+  **[001. 外星 + 人]{s}**
+    - [高傲的外星人 被古代仙侠给暴揍了 | 001 ](https://v.douyin.com/uSQH7wCHO-s/)
+    - [高傲的外星人 | 002](https://v.douyin.com/YGzyzSvZJfc/)
+    - [高傲的外星人 被古代仙侠给暴揍了 | 005](https://v.douyin.com/ohNGCg_lbWA/)
+    - [外星+人2](https://www.bttwo.org/play/ch0ztbd3k)
+
+---
 * **[俗电影 | 正在做一部电影！ 专业剖析 | 百章 | Douyin](https://v.douyin.com/xWGXaElGdJs/)**
   - [2010年它横空出世，如今十六年过去还是没有一个能打的 | 猫屎一号](https://v.douyin.com/uIZ2w8EvRvs)
 
@@ -273,7 +285,20 @@
 ---
 ### 0003. Bttwo | Film-Note
 **[Bttwo]{p}**
-* **[bttwo](https://www.bttwo.org/)**
+  - **[bttwo.vip](https://bttwo.vip/)**
+  - **[bttwo.org](https://www.bttwo.org/)**
+  - **[bttwo.me](https://www.bttwo.me)**
+
+---
+**[麦田影院]{p}**
+  - [麦田影院TV](https://www.mtyy.tv/)
+  - [麦田影院](https://www.mtyy4.com/)
+
+**[嘀嗒影视]{p}**
+  - [嘀嗒影视](https://www.didahd.pro/)
+
+**[天空影视]{p}**
+  - [天空影视](https://skyyyds.com/)
 
 ---
 * **黑白-国外电影-精神-战斗 美少女特工队 大鹅 梦境制作models**
@@ -288,7 +313,6 @@
 * **脑开发 100% 国外电影 超体 Lucy**
   - [Lucy: Lucy meets Lucy](https://www.youtube.com/watch?v=UcDjWCEvZLM)
   - [LUCY 2 (2026)](https://www.youtube.com/watch?v=deMHi69NA1Q)
-
 
 ---
 **[Quark]{p}**
@@ -308,9 +332,9 @@
 ---
 ### 0004. mvcat
 **[mvcat]{p}**
-**[mvcat](https://www.mvcat.com/)**
-  - **[在线电影](https://maohaha.com/n/2053/#https://maohaha.com/c/51845/)**
-    * **[毒舍电影](https://www.dushe05.com/)**
+  * **[mvcat](https://www.mvcat.com/)**
+    - **[在线电影](https://maohaha.com/n/2053/#https://maohaha.com/c/51845/)**
+      * **[毒舍电影](https://www.dushe05.com/)**
 
   ---
   **[低端影视]{p}**
