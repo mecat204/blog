@@ -116,7 +116,7 @@
 
 ---
 **[小美是个野孩纸]{p}**
-* **[小美是个野孩纸 | 千章 | Douyin](https://v.douyin.com/2Yecf8ejux8/)**
+* **[小美是个野孩纸 | 新疆阿勒泰地区冰雪推广大使| 千章 | Douyin](https://v.douyin.com/2Yecf8ejux8/)**
   - [这是不是你想象中，自由的样子？](https://v.douyin.com/Acukcyz3F2s/)
   - [兄弟上号！今天够不够帅？ | 尔滨坐不住又整活儿了](https://v.douyin.com/QvA_79hKXwQ/)
   - [原来女生耍起帅来连自己都想嫁！| 滑雪 | 全民冰雪季 | 我的粉雪时刻](https://v.douyin.com/lKVsLvlowMg/)
@@ -203,7 +203,7 @@
 
 ---
 **[小锤]{p}**
-* **[小锤 | 苦尽甘来终有时，一路向阳待花期 | 百章 | Douyin](https://v.douyin.com/XLwqm_foXg8/)**
+* **[小锤 | 苦尽甘来终有时，一路向阳待花期 | 贰佰章 | Douyin](https://v.douyin.com/XLwqm_foXg8/)**
   - [香迷糊了 还是最爱的茄子辣子馅 | 陕西美食 | 乡村美食](https://v.douyin.com/_5pVQD9Ffu8/)
   - [陕西娃的浪漫 绿辣子**卷卷** 吃着真过瘾😋 | 好吃到停不下来 | 陕西美食 | 乡村生活 | 乡村美食 | 辣子花卷](https://v.douyin.com/MJosaJdMFyw/)
   - [搅团！陕西人的梦中情饭～😋 | 好吃到停不下来  | 陕西美食 | 日常生活 | **搅团** | 瓜子二手车](https://v.douyin.com/hqv-AcAke_Y/)
