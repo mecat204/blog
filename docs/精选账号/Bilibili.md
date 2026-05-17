@@ -92,7 +92,18 @@
   - [BEFORE YOU GO TO SCHOOL, WATCH THIS || WHAT IS SCHOOL FOR? (2023)](https://www.youtube.com/watch?v=_PsLRgEYf9E)
 
 ---
-### 0007. Veritasium | Bilibili
+### 0007a. 夏冰雹频道
+**[夏冰雹频道]{p}**
+* **[夏冰雹频道 | 书籍《绽放》作者 · 英语教育博主 · 中英双语主持人 · 前SCMP英文财经记者 · 波士顿大学新闻硕士 | 71万](https://space.bilibili.com/4324529/lists)**
+  - [焦虑是好事，恰恰因为现代社会流动性强、机会更多](https://www.bilibili.com/video/BV1bMRpBmEuB/?spm_id_from=333.1387.collection.video_card.click)
+
+---
+### 0007b. 木子AI研究所
+**[木子AI研究所]{p}**
+* **[木子AI研究所  |让我们一起利用AI打造超级个体，赚取被动收入吧！](https://space.bilibili.com/478527142)**
+
+---
+### 0007c. Veritasium | Bilibili
 **[Veritasium]{p}**
 * **[Veritasium真理元素 | 4K | Veritasium中国官方频道 探索科学及工程背后的真理 | 商务微信：origami-alice |  107.0万 | Bilibili](https://space.bilibili.com/94742590/lists)**
   - **[这是生物学中最具有歧义的话题](https://www.bilibili.com/video/BV1QtUEBdE4B/?spm_id_from=333.1387.collection.video_card.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
