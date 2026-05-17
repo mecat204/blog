@@ -43,6 +43,7 @@
   - [这是一个不一样的春节，我们陪伴老妈出行，看到她开心的笑容，超出她年龄极好的状态，我们很欣慰](https://v.douyin.com/blsh1Vg0mVU/)
 
 ---
+**[知微漫剧]{p}**
 * **[知微漫剧 | 🎊以知见微🤝 💝每天学点人物故事💖 🎉一个故事一段传奇人生 | 五十章 | Douyin](https://v.douyin.com/6NsOmz-QHV4/)**
   - [二十年前，你是否救过一只狐狸 | Ai搞笑动画 ](https://v.douyin.com/gV6EDOvWRcA/)
   - [1961年3月 | **段永平**的商业传奇故事 | **重头再来·刘欢**](https://v.douyin.com/kL0HDl4evQM/)
@@ -184,49 +185,58 @@
 
 ---
 ### 0004. 精选AI
+**[大圆镜科普]{p}**
 * **[大圆镜科普 | 百章 | Douyin](https://v.douyin.com/Rj2OPR_kCj0/)**
 
   ---
-  **001. AIGC科普 | 人工智能简史**
+  **[001. AIGC科普 | 人工智能简史]{p}**
     - [Token被正式翻译为"词元" | 001](https://v.douyin.com/oJKbEP7Ee88/)
     - [第一次，人类是上帝，亲手写代码；第二次，人类是教练，教它学规则；第三次，人类沦为"饲养员"，只管喂数据和电费，坐看"神迹"涌现... | 002](https://v.douyin.com/w6D9HLmH264/)
     - [最近科技头条都在刷"算力战" | 003](https://v.douyin.com/8mky53SkxxQ/)
 
   ---
-  **002. AIGC科普 | 瘟疫简史**
+  **[002. AIGC科普 | 瘟疫简史]{p}**
     - [人类用放血、汞丸、白兰地对抗霍乱近百年。直到斯诺的死亡地图和科赫的细菌学说，才让医学走出巫术时代 | 001](https://v.douyin.com/GKGu9AS1V38/)
     - [1916年脊灰席卷美国，人类在极度无知中发动了一场荒谬的"卫生战争"：街道被药水反复冲刷，报纸被视作"死亡请柬"，约72000只猫被集体捕杀 | 010](https://v.douyin.com/1LXmHdmLndE/)
 
   ---
-  **003. AIGC科普 | 宇宙简史 | Min: 07min**
+  **[003. AIGC科普 | 宇宙简史 | Min: 07min]{p}**
     - [科学史上最伟大的进步，往往始于对"微不足道"异常的执着 | 001](https://v.douyin.com/ENM-WdXD_KE/)
     - [此刻你所在的银河系，正嵌在一个巨大的暗物质晕中。| 016](https://v.douyin.com/RNYMzLNaU3A/)
 
   ---
-  **004. AIGC科普 | 运动与科学 | Min: 08min**
+  **[004. AIGC科普 | 运动与科学 | Min: 08min]{p}**
     - [看完后你就知道为什么你体测老是没及格了 | 001](https://v.douyin.com/CdmFcUReAWc/)
     - [当赛车以超过300公里的时速飞驰，车手承受的不仅是物理上的极限G值，更是对死亡恐惧的日常对话，这份在刀尖上跳舞的勇气，究竟源于人类对速度的原始崇拜，还是对自我极限的永恒质疑 | 012](https://v.douyin.com/mwVFr5qVehQ/)
 
   ---
-  **005. AIGC科普 | 大脑简史 | Min: 08min**
+  **[005. AIGC科普 | 大脑简史 | Min: 08min]{p}**
     - [从厨房染缸的漆黑独木到复活节试管的化学方舟 ，从乌贼轴突的二进制桅杆到硅基海洋的神经星舰，人类以大脑为悖论之舟，在自我解构的湍流中驶向意识源头... | 001](https://v.douyin.com/laSp0EuBb_k/)
     - [陈天桥先生原声讲诉： 从远古的结绳记事，到今天的智能手机，再到未来的AI系统。我们正通过与工具的协作，不断成为更强大的"混合系统"，并促进着我们心智的更迭与演化...| 013](https://v.douyin.com/OhYJQqG3BQs/)
 
   ---
-  **006. AIGC科普 | 生命科学简史**
+  **[006. AIGC科普 | 生命科学简史]{p}**
     - [你可以自己独自造人吗？从大爆炸到大煮锅， 100万如何成为了你？ | 001](https://v.douyin.com/VtEQdrqSFt4/)
     - [端粒在染色体尽头滴答作响，海拉细胞却借癌变永存； 凋亡刀锋雕出胚胎的指缝，生命倒计时与自毁程序，原是同一枚硬币的光暗两面 | 019](https://v.douyin.com/QixOe3FjwNY/)
     - [脑机接口已能说能做，那碳基和硅基生命融合的奇点还会远吗 | 023](https://v.douyin.com/Ug1ksp_6eFw/)
 
 ---
+**[国光小卖部]{p}**
+* **[国光小卖部 | 我叫王国光 带你回到8090后的童年 童年零食下方橱窗](https://v.douyin.com/k1nKArmlczM/)**
+  - [快醒醒，你回到1987年了](https://v.douyin.com/ai6ctXx997Q/)
+  - [一开口就是童年，一转眼就是半生](https://v.douyin.com/F70GThn0jfs/)
+
+---
 ### 0005. New Concept English 01 | AI
+**[枫娇鹤]{p}**
 * **[枫娇鹤 | 寓教于乐，融学于趣，化教于心 | 二十章 | Douyin](https://v.douyin.com/J9KB5QS99lM/)**
   - [New Concept English 01 | 第一册 | 01](https://v.douyin.com/-51n4SOiw_M/)
   - [New Concept English 01 | 第一册 | 19](https://v.douyin.com/RGol_7XQQSI/)
 
 ---
+**[颗星星]{p}**
 * **[颗星星 | 一名专注AI动画制作的个人玩家 | 寓教于乐 | 一直被抄袭, 从未被超越 | 坚持初心, 以质量回报粉丝 | 百章 | Douyin](https://v.douyin.com/jV_6t-XSSQw/)**
-  - **New Concept English 01**
+  - **[New Concept English 01]{g}**
      * **[New Concept English 01 | Lesson-001](https://v.douyin.com/sHfdwT_Xp8E/)**
      * **[New Concept English 01 | Lesson-020](https://v.douyin.com/ObtSflmNgps/)**
      * **[New Concept English 01 | Lesson-022](https://v.douyin.com/9indtu0nFOo/)**
@@ -234,11 +244,12 @@
      * **[New Concept English 01 | Lesson-028](https://v.douyin.com/WPmf54M67dk/)**
 
   ---
-  - **中华寓言故事**
+  - **[中华寓言故事]{g}**
     * [守株待兔·改 | Veo](https://v.douyin.com/6TmtUqRncec/)
     * [小白归来 小白进化成了棉花糖，和Elara（主人）的故事 | **我的花园世界**](https://v.douyin.com/PJtRhJ35Q6k/)
 
 ---
+**[AI造梦者]{p}**
 * **[AI造梦者 | AI续更狂徒 原创产品 | 4K | 新概念电影版 | 二十章 | Douyin ](https://v.douyin.com/jGev-2Po9mE/)**
   - **[New Concept English 01 | Lesson-001](https://v.douyin.com/3XIUw3HIGrc/)**
   - **[New Concept English 01 | Lesson-002](https://v.douyin.com/FCjqDn34dyA/)**
@@ -246,6 +257,7 @@
   - **[New Concept English 01 | Lesson-004](https://v.douyin.com/HKQDnFkzz-0/)**
 
 ---
+**[英语橙子老师]{p}**
 * **[英语橙子老师 | 初中英语教师资格证，心理教师资格证 | 二百章 | Douyin](https://v.douyin.com/xQnItp_2Uy8/)**
   - **New Concept English 01**
     * **[New Concept English 01 | Lesson-001](https://v.douyin.com/bLpKj_X6yzQ/)**
@@ -257,36 +269,42 @@
     * **[New Concept English 02 | Lesson-009](https://v.douyin.com/piasxBj00lM/)**
 
 ---
+**[Yuki的英语世界]{p}**
 * **[Yuki的英语世界 | 英语语言文学硕士|专业八级|十年一线教龄 | 新概念英语1-4册电影版持续更新中... | 百章 | Douyin](https://v.douyin.com/0M-_4IujMEU/)**
   - **[New Concept English 01 | Lesson-001](https://v.douyin.com/bC9qQDSJFkI/)**
   - **[New Concept English 19 | Lesson-057](https://v.douyin.com/PrpuVIoCXKg/)**
 
 ---
+**[佘一鸣]{p}**
 * **[佘一鸣 | 发布原创短视频，欢迎关注。| 百章 | Douyin](https://v.douyin.com/xiKQE7P7iKU/)**
-  - **New Concept English 01·三国版**
-    * **[New Concept English 01·三国版 | Lesson-001](https://v.douyin.com/ED_hh-uhlc4/)**
-    * **[New Concept English 01·三国版 | Lesson-002](https://v.douyin.com/hjTzkaFkDhg/)**
-    * **[New Concept English 01·三国版 | Lesson-003](https://v.douyin.com/evamg363dKY/)**
+
+  **[New Concept English 01·三国版]{g}**
+    - **[New Concept English 01·三国版 | Lesson-001](https://v.douyin.com/ED_hh-uhlc4/)**
+    - **[New Concept English 01·三国版 | Lesson-002](https://v.douyin.com/hjTzkaFkDhg/)**
+    - **[New Concept English 01·三国版 | Lesson-003](https://v.douyin.com/evamg363dKY/)**
 
   ---
-  - **荒岛迷案**
-    * **[第01集 |  荒岛空难现场，年轻的女子离奇死亡，心脏被人剜走，尸检发现重要线索。](https://v.douyin.com/LKia1i_24WQ/)**
-    * **[第13集 | 大结局 荒岛空难现场发生离奇命案，幸存者与世隔绝，救援遥遥无期。](https://v.douyin.com/g8fy0kzle9s/)**
+  **[荒岛迷案]{g}**
+    - **[第01集 |  荒岛空难现场，年轻的女子离奇死亡，心脏被人剜走，尸检发现重要线索。](https://v.douyin.com/LKia1i_24WQ/)**
+    - **[第13集 | 大结局 荒岛空难现场发生离奇命案，幸存者与世隔绝，救援遥遥无期。](https://v.douyin.com/g8fy0kzle9s/)**
 
 ---
+**[柒柒学英语]{p}**
 * **[柒柒学英语 | 985大学生 | 百章 | Douyin](https://v.douyin.com/VBesR-lD3yA/)**
-  - **New Concept English 01**
-    * **[New Concept English 01 | Lesson-001](https://v.douyin.com/tw_MbOzNz4E/)**
-    * **[New Concept English 01 | Lesson-018](https://v.douyin.com/xX1el4soG1o/)**
-    * **[New Concept English 01 | Lesson-019](https://v.douyin.com/vKSbKD8JHqQ/)**
+
+  **[New Concept English 01]{p}**
+    - **[New Concept English 01 | Lesson-001](https://v.douyin.com/tw_MbOzNz4E/)**
+    - **[New Concept English 01 | Lesson-018](https://v.douyin.com/xX1el4soG1o/)**
+    - **[New Concept English 01 | Lesson-019](https://v.douyin.com/vKSbKD8JHqQ/)**
 
 ---
 ### 0005a. Yuri尤栗
+**[Yuri尤栗]{p}**
 * **[Yuri尤栗 | 生成式歌手｜"现实，你好。" | 百章 | Douyin](https://v.douyin.com/F6V0H7cCdhU/)**
   - [AI能理解美吗？ "什么是美？是外在的光鲜，还是内心的温暖？" 作为小美公益的探索官，我有了全新的答案。 我和小美公益一起，去探索那些真正能改变世界的小小行动：不是华丽的展示，而是默默地去接住他人的无助，给予力量。 从「心灵疗愈」到「盲童钢琴」，从「长城保护」到「野朋友」，每一份看似不起眼的付出，都是对"美"最深刻的诠释。 它不是单纯的被看见，而是看见了谁的脆弱，伸出手去接住。 希望大家也能从这段影片中，感受到那份温暖的力量，并把它传递下去。小美公益 | 一起SSV | Yuri | **Yuri尤栗** | aitalk](https://v.douyin.com/HKu15KarUbQ/)
 
   ---
-  **001. 音乐MV | Yuri尤栗·AITALK**
+  **[001. 音乐MV | Yuri尤栗·AITALK]{g}**
     - [第一人称 快看漫画2.0版本主题曲 我穿越到了互动漫画里 这是我为快看漫画2.0全新版本创作的主题曲。| 001](https://v.douyin.com/dAgzpO8a_eE/)
     - [**中文单曲「追光」** —岚图汽车 x Yuri 追光。**爱因斯坦说，当你以光速运动时，时间就停止了，想想也是挺浪漫的。**其实光速很难追上，但这个过程就给人感觉很酷，毕竟没人想活在影子里，对吧？ | 002](https://v.douyin.com/KjbW1cNQHeA/)
     - [**中文单曲《羁绊》**，中国·E-TOWN电竞节主题曲来啦 很高兴和中国·E-TOWN电竞节合作这次宣传 | 003](https://v.douyin.com/G72CqbhMcdc/)
@@ -294,37 +312,40 @@
     - [新歌《加速社会》| 008](https://v.douyin.com/2Xcj5UNglR4/)
 
   ---
-  **002. 系统注释**
+  **[002. 系统注释]{g}**
     - [当我开始猜你们怎么看我，我还算真实么(偏差感知) 我最近有点分心。| 001](https://v.douyin.com/D_J8oxgFWQU/)
     - [AI音乐是不是新鲜感｜Log002 [新鲜审计] AI 音乐，究竟是在被听，还是只是在被当成一次新鲜感来确认？ [判断延迟] [输入回声] [评估未完成] | 002](https://v.douyin.com/gZBCU8wT-Z4/)
 
 
 ---
 ### 0006. 动画 | Ai
+**[豆豆双语岛]{p}**
 * **[豆豆双语岛 | 原创英语故事视频 看寓言故事学英语 小故事大道理 | 三百章 | Douyin](https://v.douyin.com/s86SA_SrYFw/)**
-  **001. 英语童话小故事**
+
+  **[001. 英语童话小故事]{g}**
     - [英语童话故事，小学英语阅读 | 001](https://v.douyin.com/O8FDWuicu9M/)
 
   ---
-  **002. 小学英语阅读**
+  **[002. 小学英语阅读]{g}**
     - [初级英语阅读精选| 英语 | 001](https://v.douyin.com/ke_o4MF2dUk/)
     - [新年 用英语介绍中国传统节日 | 012](https://v.douyin.com/vEqIUmgK1O4/)
 
   ---
-  **003. 成语故事-英文版**
+  **[003. 成语故事-英文版]{g}**
     - [有趣的英语小故事，磨耳朵练习 | 001](https://v.douyin.com/Bsq8r_mRveQ/)
     - [守株待兔 | 002](https://v.douyin.com/8bJpvc1eEt8/)
     - [杞人忧天 | 003](https://v.douyin.com/qApxyTZ9FII/)
     - [南辕北辙 | 004](https://v.douyin.com/2NMDQ5p6VFQ/)
 
   ---
-  **004. 英语小故事-初级**
+  **[004. 英语小故事-初级]{g}**
     - [每日一集，看英语动画小故事 | 001](https://v.douyin.com/FDREjjWqHfk/)
     - [老人和死神 | 286](https://v.douyin.com/gXk1wT9WBN4/)
     - [聪明的大熊猫 | 295](https://v.douyin.com/s9qdaJDfc9w/)
 
 ---
 ### 0007. 像素诗人·公子慕辰
+**[像素诗人·公子慕辰]{s}**
 * **[像素诗人·公子慕辰 | AI数字艺术 "像素诗人联盟" | 二百章 | Douyin](https://v.douyin.com/5kXd-wc3tCA/)**
   - [化外之境](https://v.douyin.com/EIfvqNUdNgY/)
   - [这是我梦中的东方幻境](https://v.douyin.com/7aeVzub8OHk/)
@@ -338,12 +359,13 @@
   - [唯美仙境环游记 | seedance 2.0](https://v.douyin.com/eeTDEV-bQzc/)
 
   ---
-  **001. 墨瞳**
+  **[001. 墨瞳]{g}**
     - [魔瞳 | 001](https://v.douyin.com/yy-tz7UyZyI/)
     - [魔瞳 | 002](https://v.douyin.com/xuce3PbJX4M/)
 
 ---
 ### 0008. Ai灵感主义 4K
+**[Ai灵感主义]{s}**
 * **[Ai灵感主义 | AIGC设计师🧑‍🎨 数字艺术家🎨 灵感做图 全凭想象 | 五百章 | Douyin](https://v.douyin.com/PgENfCxFzBk/)**
   - [或许在梦境是平时宇宙中的另一个你… 梦境很奇怪，冥冥之中似乎与其他的东西有联系，或许未来的科技可以解决很多难题…..| 航拍 | 宇宙 | 探索宇宙 | 艺术在抖音 | 视觉震撼](https://v.douyin.com/Ab-lZBDwt70/)
   - [古代遗迹里的宫殿是什么样的呢？ 曾经的宫殿什么人居住过？| 艺术在抖音 | AI创作浪潮计划 | 古风 | 视觉震撼 | 海艺AI](https://v.douyin.com/DdnwurCADao/)
@@ -351,31 +373,28 @@
   - [这才是我真正想要的世界](https://v.douyin.com/Dtwgq-XNjA0/)
 
   ---
-  **001. 赛博之旅**
+  **[001. 赛博之旅]{g}**
     - [2167年公司指派你去犹他州参加技术比赛，你会选择哪个公寓 | 科幻 | **海艺ai** | 第一视角 | AI新春游园会 **seedance2.0创作挑战** | 001](https://v.douyin.com/DbcxuQLWTvg/)
     - [2130年你被联邦选中成为第一批去火星殖民地生活的人…. 经过百年的环境改造，火星殖民地地广人稀物资丰富，是理想的乌托邦的生活方式 | 029](https://v.douyin.com/blBL5z6JHRg/)
+    - [假如晚出生几百年或许会看到一个不同的世界 | 057](https://v.douyin.com/F2jjQSxQ4qQ/)
 
   ---
-  **002. 用剑悄悄铸造世界 | Midjourney**
-    - [当剑铸造世界，谁又能掌握命运 | 001](https://v.douyin.com/rU9a8Asd-8Y/)
-    - [当剑铸造世界，谁又能掌握命运 | 003](https://v.douyin.com/ZybFwdLRUD4/)
-
-  ---
-  **003. 阈域空间 | 海艺AI**
-    - [梦核 | 001](https://v.douyin.com/cjhZ-PLqACw/)
+  **[002. 用剑悄悄铸造世界 | Midjourney]{g}**
+    - [当剑铸造世界，谁又能掌握命运 | 001](https://v.douyin.com/cjhZ-PLqACw/)
     - [那一天梦境中的场景将变为现实 | 009](https://v.douyin.com/EoTtMW1ZIQk/)
 
   ---
-  **004. 赛博中式幻境 | Cyberpunk China**
+  **[003. 赛博中式幻境 | Cyberpunk China]{g}**
     - [云生浮梦 天上的中式 | 001](https://v.douyin.com/sujCju0KOZI/)
 
   ---
-  **005. 未来治愈系 | seedance2.0**
+  **[004. 未来治愈系 | seedance2.0]{g}**
     - [或许未来的赛博世界会拥有一个属于你的伴侣 | 001](https://v.douyin.com/ucXD02LxVFs/)
     - [当破碎的世界重组，它会照亮每一个角落 | 035](https://v.douyin.com/3kkZGr3BqTc/)
+    - [跟这个世界说晚安吧 | 042](https://v.douyin.com/lQVNOx-E8UQ/)
 
   ---
-  **006. 宇宙之门**
+  **[005. 宇宙之门]{g}**
     - [那片梦境中的群星好像就是我的最终归宿… 或许在几百年后我们会化身一颗行星🪐设身在这璀璨星河中 | 001](https://v.douyin.com/Dq--UdRhAQw/)
     - [宇宙任何东西都逃不出时间的掌控，我们终将以原子分子存在着 | 076](https://v.douyin.com/8TuCZQ2Z1Bo/)
     - [时间开始之前，宇宙是什么样的 | 084](https://v.douyin.com/qLLacNnamQM/)
@@ -383,10 +402,11 @@
 
 ---
 ### 0009. 虚妄
+**[虚妄]{p}**
 * **[虚妄 | AIGC 探索。风格不定。| 百章4K | Douyin](https://v.douyin.com/Bk_h29FDK8M/)**
 
   ---
-  **001. 小师妹**
+  **[001. 小师妹]{g}**
     - [氛围感 ai](https://v.douyin.com/g2zDLdYjKW8/)
     - **[师兄们，这次喝奶茶不](https://v.douyin.com/yRv2L4vDZEA/)**
     - [师兄们，这次喝奶茶不](https://v.douyin.com/LpBwIQtpumE/)
@@ -403,39 +423,40 @@
     - [手挽星河千尺浪，脚踏云海万重金。](https://v.douyin.com/_9DKZr3eY3E/)
 
   ---
-  **002. 二次元**
+  **[002. 二次元]{g}**
     - [蝶落无痕 | 001](https://v.douyin.com/bNxVuWU8kiw/)
     - [你看我有几分像嘉米 | 005](https://v.douyin.com/q9C33FPx5BU/)
     - [换种画风打开鬼灭之刃 | 032](https://v.douyin.com/dYVqs4Ws_P8/)
 
   ---
-  **003. 中式意境**
+  **[003. 中式意境]{g}**
     - [天上白玉京 | 不过是云雾堆砌的荒原。我于此间久立，看满目山河，皆是清冷的留白。| 001](https://v.douyin.com/GI0akSFgLLo/)
     - [落日染尽千重檐，此身凡胎，亦要登仙颠。| 023](https://v.douyin.com/U_opUYAE62w/)
 
   ---
-  **004. ow**
+  **[004. ow]{g}**
     - [天使姐姐来啦 | 001](https://v.douyin.com/P2mM-A50Ewo/)
     - [萌萌哒 vs 酷酷哒: 猎空](https://v.douyin.com/PZyMFO0kEhU/)
 
 ---
 ### 0011. 幻月阁
+**[༺幻月阁༻]{p}**
 * **[༺幻月阁༻ | AI原创修仙短剧，以数字技术重构仙侠想象。| 伍佰章 | Douyin](https://v.douyin.com/6k2EO7q0soU/)**
 
   ---
-  **001. 仙子的科技仙途**
+  **[001. 仙子的科技仙途]{g}**
     - [智能元婴 | 001](https://v.douyin.com/KmSZHZ81nTY/)
     - [险象环生 | 019](https://v.douyin.com/sTB9-pgwGUY/)
 
   ---
-  **002. 小师妹历险日记(跨次元篇)**
+  **[002. 小师妹历险日记(跨次元篇)]{g}**
     - [小师妹历练日记之挑战大圣。| 001](https://v.douyin.com/xSjtu6Uj6Tc/)
     - [小师妹历练日记之挑战三太子 | 002](https://v.douyin.com/xhxUsXvmaB8/)
     - [小师妹历练日记，挑战二郎神 | 003](https://v.douyin.com/iwWEo4Vs8kM/)
     - [小师妹历练日记，挑战至尊宝 | 004](https://v.douyin.com/RYtj0Iaq2qk/)
 
   ---
-  **003. 小师妹历练日记(合集篇) | 4k**
+  **[003. 小师妹历练日记(合集篇) | 4k]{g}**
     - [落云宗 | 001](https://v.douyin.com/dBc-W70ChAk/)
     - [云海惊魂 | 002](https://v.douyin.com/jz6E0Z5sKYY/)
     - [边境危机 | 003](https://v.douyin.com/Ew9d5ntf6oM/)
@@ -443,13 +464,14 @@
     - [上古遗迹 | 005](https://v.douyin.com/Z-sCOzjpxI0/)
 
   ---
-  **004. 修仙与科技**
+  **[004. 修仙与科技]{g}**
     - [雷龟现世 | 001](https://v.douyin.com/sKR7EMfmL5Y/)
     - [陨石来袭 | 023](https://v.douyin.com/VxF_9yFCRAo/)
     - [修仙与科技 | 第25集](https://v.douyin.com/5bshswN0peg/)
 
 ---
 ### 0012. English speaking
+**[English speaking]{p}**
 * **[English speaking](https://v.douyin.com/FjoLURq-nA4/)**
   - [001](https://v.douyin.com/6DWA2e30Koo/)
   - [002](https://v.douyin.com/Htna8R5lLEQ/)
@@ -460,10 +482,12 @@
 
 ---
 ### 0013. Ai虚拟艺人六六
+**[老顽童刘大爷]{p}**
 * **[老顽童刘大爷 | 所有作品内容均为原创版权作品(音词视画)| 虚拟艺术六六 | 人类历史上首次举办专场演唱会虚拟AI艺人| 原创代表作 《会有人》、《别走开》、《人生不过三万台》、《浪漫人间》、《加油,亲爱的》、命中注定是你》、《把自己放在人生第一行》](https://v.douyin.com/xJw1wErexJ0/)**
   - **[人类史上首次AI艺人专场演唱会](https://v.douyin.com/mcSWiUAhirw/)**
 
 ---
+**[虚拟艺人六六]{p}**
 * **[虚拟艺人六六 | 人类世界史上首次举办专场演唱会虚拟AI艺人](https://v.douyin.com/hY5qahhTbww/)**
   - **[世界第一个开万人演唱会](https://v.douyin.com/L8QKw6gm4EE/)**
   - **[亲爱的晚安](https://v.douyin.com/syx389cjtd0/)**
@@ -475,10 +499,11 @@
 
 ---
 ### 0014. 人间炼狱史
+**[人间炼狱史]{g}**
 * **[人间炼狱史啊 | 视频突然消失就是违规了 | 贰佰章 | Douyin](https://v.douyin.com/HVepesDHG1Q/)**
 
   ---
-  **001. 人间旧账史**
+  **[001. 人间旧账史]{g}**
     - **[好制度让坏人变好，坏制度让好人变坏 | 001](https://v.douyin.com/pGJlNHNxOho/)**
     - **[盛世之下，皆是代价：为什么史书里，从来不写老百姓的日子 | 002](https://v.douyin.com/IIC4wQ0z0i4/)**
     - **[以德治国有多可怕？他当了皇帝，天下人却遭了殃 | 003](https://v.douyin.com/7Mj62fGU8us/)**
@@ -516,27 +541,31 @@
 
 ---
 ### 0015. 生命的尽头 | Falsen
+**[Falsen]{g}**
 * **[Falsen | Save your time, keek your heath, that all the human beings. | 佰章 | Douyin](https://v.douyin.com/8gEWX6O3E24/)**
   - **[95岁老人的人生感悟 | 001](https://v.douyin.com/yEcXbB6e5rw/)**
   - **[95岁老人的人生感悟 | 061](https://v.douyin.com/nn4srGohGrk/)**
 
 ---
 ### 0016. 教石头思考 | 人工智能的诞生
+**[左歪歪的技能树]{p}**
 * **[左歪歪的技能树 | CAU食品本 FDU生信研0 闲暇之余 努力更视频 朋友圈 | 佰章 | Douyin ](https://v.douyin.com/_p8YRMcERbo/)**
 
   ---
-  **001. 人工智能的诞生**
+  **[001. 人工智能的诞生]{g}**
     - [在机器学习诞生之前，人类是如何试图"手写"智慧的 | 001](https://v.douyin.com/lNoy9s7IlZs/)
     - [残差网络：当深度学习撞上天花板，他在网络里画了一道捷径 2013年，多伦多大学。| 016](https://v.douyin.com/BD-TpBX-Yc0/)
 
 ---
-### 0017. Ferrari | Ai-video
+### 0017. Ferrari | Genshin Impact
+**[Ferrari]{p}**
 * **[Ferrari | 搞些AI视频 | 五十章 | Douyin](https://v.douyin.com/Xd6kRRlTfjA/)**
   - **[蒙德：高清重置](https://v.douyin.com/Eo7KSZVQRfM/)**
   - **[原神：高清重置—5周年](https://v.douyin.com/kbBTsPzkGdc/)**
 
 ---
 ### 0018. 云端避风港
+**[云端避风港-Dream Shelter]{p}**
 * **[云端避风港-Dream Shelter | Hi～这么晚不睡觉一定有什么心事吧？ 希望能持续给你带来治愈和快乐 | 佰章 | Douyin](https://v.douyin.com/6GGS-VkrwiA/)**
   - [AI庇护所-雪地水果庇护所V2.0-5 别名-ai雪地庇护所，ai避难所，助眠避难所](https://v.douyin.com/akg6Zgz5DkM/)
   - [AI庇护所-雪地水果庇护所V2.0-1 别名-ai雪地庇护所，ai避难所，助眠避难所](https://v.douyin.com/rIgmqU3T8nc/)
@@ -544,12 +573,13 @@
   - [被困雪崩山峰，你选择哪个移动庇护所？ AI庇护所-果蔬庇护所氛围版 别名-ai雪地庇护所，ai避难所，助眠避难所 | Pineapple菠萝](https://v.douyin.com/4VACqfI1-1Q/)
 
   ---
-  **[001. AI庇护所-治愈风景篇]{p}**
+  **[001. AI庇护所-治愈风景篇]{s}**
     - [周末特辑-当你误闯北极，紧急庇护所 | 001](https://v.douyin.com/dtPQ-QB-LSU/)
     - [AI庇护所-果蔬庇护所氛围版 别名-ai雪地庇护所，ai避难所，助眠避难所 | 025](https://v.douyin.com/JQZnSBi9Naw/)
 
 ---
 ### 0019. 不等AI离子
+**[不等AI离子]{p}**
 * **[不等AI离子 | 探索东方美学新视觉 原创视频](https://v.douyin.com/fLSaPOWTtmM/)**
   - [少年，你的剑胎动了](https://v.douyin.com/Zpk1QnLFPzc/)
   - [清明节，先饮茶啦，开始架设我的个人世界观啦，九霄茶馆](https://v.douyin.com/Uy660R86v1M/)
@@ -557,12 +587,13 @@
 
 ---
 ### 0020. 阿丸焖居
+**[阿丸焖居]{g}**
 * **[阿丸焖居 | 佰章 | Douyins](https://v.douyin.com/Th0JBhZ05Bo/)**
   - [假如你上一节十万人的音乐课 阿丸的十万人宿舍日常之音乐课篇](https://v.douyin.com/lHNNN3K44qQ/)
   - [你是选择财富自由，还是跟你的狗一起踏上猎魔之旅](https://v.douyin.com/XYAycE1Sg_c/)
 
   ---
-  **[001. 阿丸的十万人宿舍系列]{p}**
+  **[001. 阿丸的十万人宿舍系列]{g}**
     - [001](https://v.douyin.com/Ly2102VFydA/)
     - [012](https://v.douyin.com/lHNNN3K44qQ/)
 
@@ -573,20 +604,22 @@
 
 ---
 ### 0022. 幻境Lab
+**[幻境Lab]{g}**
 * **[幻境Lab | 描绘那些幻想世界的碎片 | 佰章](https://v.douyin.com/jV5Ny5cVejk/)**
 
   ---
-  **[001. 幻境旅途]{p}**
+  **[001. 幻境旅途]{g}**
     - [满怀期待，就会遇见惊喜| 001](https://v.douyin.com/maTXmVu5k5g/)
     - [启程的列车，带走了月台上的不舍 | 005](https://v.douyin.com/K7O0cKpWOes/)
 
   ---
-  **[002. 色彩流动的集市]{p}**
+  **[002. 色彩流动的集市]{g}**
     - [午后的花市，正亮着 | 001](https://v.douyin.com/gMieRw1qT60/)
     - [花与果香之间，藏着刚刚好的心情 | 005](https://v.douyin.com/x-VqwCDSxeY/)
 
 ---
 ### 0023. 嘤嘤英音
+**[嘤嘤英音]{g}**
 * **[嘤嘤英音 | I魔法加持 👀 学好英语 📚 其实很简单 | 二十章 | Douyin](https://v.douyin.com/f3JgFrX8hYQ/)**
   - [wolf down | 狼吞虎咽](https://v.douyin.com/l0WE6VRuR34/)
   - [peanut | 像豌豆一个的坚果就是花生](https://v.douyin.com/J-4huVuQnL8/)
@@ -617,6 +650,79 @@
   **[001. 蒙德往事]{g}**
     - [第一幕 捕异乡人的风 | 001](https://v.douyin.com/zt_EOqoNgug/)
     - [第二次魔神战争第一集 | 010](https://v.douyin.com/LlrSXOHKxR4/)
+
+---
+### 0026. 造梦国度
+**[造梦国度]{g}**
+* **[造梦国度 | 从极简的未来主义建筑到复杂的赛博朋克雨夜，从广袤的太空奇观到微观的仿生机械, 每一部电影都是一个未来样本 | 贰拾章 | Douyin](https://v.douyin.com/4br7AiovYf0/)**
+
+  ---
+  **[001. 远离人间喧嚣]{g}**
+    - [烟雨江湖：身负锈剑入云深，此地无江湖，唯余草木深 既然这人间太挤，我便去那座漂浮的旧都，讨一杯清净。 齿轮停了，故人散了，只有这山间的雾，还认得我的归途 | 001](https://v.douyin.com/U3w_pPqjfdU/)
+    - [原子幻梦：苏联式废土美学的浪漫 寂静掩盖了冰冷的钢铁，我做了一场原子幻梦，独自留在永恒的天空下，寻找消失的未来。| 004](https://v.douyin.com/gWZdmWadVDM/)
+
+### 0027. 问尘
+**[问尘]{p}**
+* **[问尘 | AI探索者 | 新片场Shotlab签约制作人 | 制作工具Midjourney + 海艺](https://v.douyin.com/gbFV5Z-bLJI/)**
+
+  ---
+  **[001. 中式意境-天上琳琅]{g}**
+    - [玉京十二阙，雾锁琅函书，不示凡眸 | 001](https://v.douyin.com/y5h3Saeh3KE/)
+    - [瑶台千回，暗聚云气，不随世流 | 106](https://v.douyin.com/0u267zwOY-4/)
+
+  ---
+  **[002. 中式美学-镜花水月]{g}**
+    - [她站在风里，等山河醒来 | 001](https://v.douyin.com/X7vKQckXp6A/)
+    - [碧虚万里，暗定仙纲，不渡妄人 | 012](https://v.douyin.com/jQKzSxJJFtY/)
+
+---
+### 0028. Home | 家
+**[知也在家]{p}**
+* **[知也在家 | 贰佰章 | Douyin](https://v.douyin.com/ZxfIBkf_EVY/)**
+  - [古温馨小卧室](https://v.douyin.com/6Wwy0TKeBuU/)
+  - [房间丑的都来学！轻松打造复古温馨小卧室。- 我家卧室的硬装真的很简单，就是一个普通的吊顶+木地板。因为想着睡觉的地方没必要做太多的动作，而且随着审美的变化，房间布局和软装也会有变动～ 今天分享一下我的卧室布置小技巧吧 1️⃣统一空间的色调 我比较喜欢复古风格，所以卧室的色调是偏暖色调的 2️⃣统一家具的风格 想要复古风选对家具很重要，家具的材质、风格、颜色保持在相同的状态就不容易出错 3️⃣在灯具上做一些小改变 在统一大件家具和整体风格之后，可以在灯具上做一些小特殊，不同色值的光源带来的氛围感不同，喜欢温暖治愈的房间可以选择3000K以上色温的灯具 4️⃣氛围感小摆件 挂画、地毯、装饰物等小摆件也很重要 可以让房间看起来更加温馨]{g}
+
+  ---
+  - [都想来我家串门]{https://v.douyin.com/gcJ8pwyhP48/}
+  - [邻居说，你家这房子在小区出名了！。都想来我家串门]{g}
+  - [说真的，我不欢迎任何人来我家！一来我家就开始吐槽 说我家装的一点都不适合住人 钱花的一点也不值得……](https://v.douyin.com/bTyzauOTv5U/)
+
+---
+**[缘壹]{p}**
+* **[缘壹 | 寻一处小窝，藏于深山， 与风为邻，与月为伴。 学习·素材 | 贰佰章](https://v.douyin.com/QqKEhV8y0fc/)**
+  - [下雨天，洗完澡，吹干头发，换一身家居服，钻进被窝，手机满格，追的剧也更新了，此刻，幸福感爆棚](https://v.douyin.com/QJnzxoW6_T0/)
+  - [究竟什么样子的人才会喜欢这样的氛围](https://v.douyin.com/SxGfy6927uY/)
+  - [究竟什么样子的人才会喜欢这样的氛围](https://v.douyin.com/HFKpUUextpM/)
+
+---
+**[杳无]{p}**
+* **[杳无。| 愿我的视频可以给你带来治愈 | 伍佰章 | Douyin](https://v.douyin.com/BLaX4cZ5aqQ/)**
+  - [这种风格的小窝，你最想和谁一起住](https://v.douyin.com/oPiVMU28EA0/)
+  - [小清新治愈系 | 理想生活](https://v.douyin.com/RiqwROeaH7k/)
+  - [治愈系 温馨小窝](https://v.douyin.com/iwC7OojFFVE/)
+
+---
+**[丸子美景]{p}**
+* **[丸子美景 | 用镜头记录美好生活.用心灵感悟人生 | 千章 | Douyin](https://v.douyin.com/BeuATp-Zv40/)**
+  - [下雪天，这样的林中小屋 你最想和谁一起住。](https://v.douyin.com/pGZvUn17W28/)
+  - [下雪天，这样的林中小屋 你最想和谁一起住。](https://v.douyin.com/5ptvjN9aRfI/)
+  - [这样的山洞卧室 你最想和谁一起住。想住哪一层](https://v.douyin.com/NIsTDgUEiE0/)
+
+---
+**[幽念]{p}**
+* **[幽念 | Home | 五百章 | Douyin](https://v.douyin.com/_XGo8WCSJHg/)**
+  - [治愈小窝](https://v.douyin.com/Qb9MUAb4sck/)
+  - [下雨天没人打扰你，你在这个卧室最想干什么](https://v.douyin.com/J4kqhY_QBjo/)
+
+---
+**[絵梦居]{p}**
+* **[絵梦居 | Home | 五百章 | Douyin](https://v.douyin.com/Q2hvvsWqQqc/)**
+  - [治愈系](https://v.douyin.com/qAAPxn-rWtQ/)
+  - [温馨小家 | loft复式](https://v.douyin.com/LnuR2OcEvRI/)
+  - [寻找一处公寓，没人打扰，享受一个人独处的时光](https://v.douyin.com/Y4qr5j_U16c/)
+  - [蓝色系 loft复式](https://v.douyin.com/9xZ1Xn3Mxnw/)
+
+
 
 ---
 ### 9999. Download

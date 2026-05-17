@@ -719,6 +719,7 @@
 
 ---
 ### 0020. 电影美学 | 影视作品 | 回忆
+**[AC_Blue]{p}**
 * **[AC_Blue | 星光殷殷 其灿如言 | 千章 | Douyin](https://v.douyin.com/5TRXgPiNxz0/)**
   - [似乎一切事物的结局 都得由它收尾 | 眼泪](https://v.douyin.com/QxG7VMezsms/)
   - [两边都是我的亲人 也就觉着不害怕了 | 我们天上见](https://v.douyin.com/ThQvnhUp9hI/)
@@ -726,7 +727,10 @@
   - [子弹要飞多久 才能变成和平的白鸽](https://v.douyin.com/vjk62Wnqc_8/)
 
 ---
-* **[国光小卖部 | 我叫王国光 带你回到8090后的童年 童年零食下方橱窗 | 二百章 | Douyin](https://v.douyin.com/Z9ryh-5Qt0s/)**
+**[国光小卖部]{p}**
+* **[国光小卖部 | 我叫王国光 带你回到8090后的童年 童年零食下方橱窗 | 贰佰章](https://v.douyin.com/k1nKArmlczM/)**
+  - [快醒醒，你回到1987年了](https://v.douyin.com/ai6ctXx997Q/)
+  - [一开口就是童年，一转眼就是半生](https://v.douyin.com/F70GThn0jfs/)
   - [童年的小伙伴们都谢幕了，而我们，是他们永不散场的观众。](https://v.douyin.com/XhGqrEErHxQ/)
 
 ---

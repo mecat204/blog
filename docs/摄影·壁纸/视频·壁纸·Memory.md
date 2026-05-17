@@ -419,26 +419,26 @@
   - [青裙倚白马，曦光漫林梢 梅凝水墨风动态壁纸](https://v.douyin.com/M7MvzzX3824/)
   - [这些场景，是否曾在你的梦境中出现](https://v.douyin.com/fVJFcrNcPgw/)
 
-  **[LUOYU AI | Seedance2.0 Painting]{p}**
+  **[LUOYU AI | Seedance2.0 Painting]{g}**
 
   ---
-  **[001. 凡人修仙传静态图文壁纸]{p}**
+  **[001. 凡人修仙传静态图文壁纸]{g}**
     - [即梦5.0极致画质下的凡人中登们 | 001](https://v.douyin.com/TyRAX6NpNXM/)
     - [当色彩划过屏幕图文版 | 022](https://v.douyin.com/vLlUs6sIi6E/)
 
   ---
-  **[002. 凡人舞蹈系列]{p}**
+  **[002. 凡人舞蹈系列]{g}**
     - [妙音门女团 - 探故知 出镜选手: 紫灵 文思月 范静梅 卓如婷 周媛 | 002](https://v.douyin.com/a7xo7a3U4Cw/)
     - [落云宗四美一起跳伯虎说 出场选手: 南宫婉 慕沛灵 宋玉 柳玉](https://v.douyin.com/6B0csMg78qI/)
     - [依赖摇银月版，啼魂的拍摄技巧得提升下了 | 008](https://v.douyin.com/ECw4tSljuYg/)
 
   ---
-  **[003. 凡人Ai小剧场]{p}**
+  **[003. 凡人Ai小剧场]{g}**
     - [凡人小剧场-梅凝加入落云宗 | 001](https://v.douyin.com/rcntUvLjBXo/)
     - [手搓颜料转场 | 021](https://v.douyin.com/GvhRkA3smP4/)
 
   ---
-  **[004. 凡人修仙传音乐Ai系列图合集]{p}**
+  **[004. 凡人修仙传音乐Ai系列图合集]{g}**
     - [落英-凡人修仙传 | Music: 落英](https://v.douyin.com/wHibjJzJ-S8/)
     - [归期-凡人修仙传 | Music: 归期](https://v.douyin.com/5ToJ2xy6M-o/)
     - [归潮-凡人女角色 | Music: 归潮](https://v.douyin.com/sxWLKsS9RUY/)
@@ -449,7 +449,7 @@
     - [Music: 不凡-王铮亮](https://v.douyin.com/asOJqYUq5r4/)
 
   ---
-  **[005. 凡人修仙传高清AI动态壁纸合集]{p}**
+  **[005. 凡人修仙传高清AI动态壁纸合集]{g}**
     - [凡人女修4k壁纸合集 | 001](https://v.douyin.com/Ipq2Ds6UTPE/)
     - [将凡人世界重启色彩 | 079](https://v.douyin.com/MJnlKusnYx8/)
     - [将凡人世界重启色彩第二期 | 080](https://v.douyin.com/8wiMqFq0Rww/)
@@ -457,7 +457,7 @@
     - **[紫灵竖屏壁纸](https://v.douyin.com/Hs6HvlFZMAU/)**
 
   ---
-  **[006. 凡人修仙传Ai手办合集]{p}**
+  **[006. 凡人修仙传Ai手办合集]{g}**
     - [韩立头号小迷妹宋玉手办 | 001](https://v.douyin.com/xOYHQkwGJfg/)
     - [慕沛灵终究没能过了韩立这个心魔 | 038](https://v.douyin.com/boGRqOLjzN8/)
 
@@ -603,15 +603,51 @@
   - [微服务应用的九大组成部分](https://v.douyin.com/4yi_Zar75_Y/)
 
 ---
-### 0007. Home
+### 0007. Home | 家
+**[知也在家]{p}**
 * **[知也在家 | 贰佰章 | Douyin](https://v.douyin.com/ZxfIBkf_EVY/)**
   - [古温馨小卧室](https://v.douyin.com/6Wwy0TKeBuU/)
-  - [房间丑的都来学！轻松打造复古温馨小卧室。- 我家卧室的硬装真的很简单，就是一个普通的吊顶+木地板。因为想着睡觉的地方没必要做太多的动作，而且随着审美的变化，房间布局和软装也会有变动～ 今天分享一下我的卧室布置小技巧吧 1️⃣统一空间的色调 我比较喜欢复古风格，所以卧室的色调是偏暖色调的 2️⃣统一家具的风格 想要复古风选对家具很重要，家具的材质、风格、颜色保持在相同的状态就不容易出错 3️⃣在灯具上做一些小改变 在统一大件家具和整体风格之后，可以在灯具上做一些小特殊，不同色值的光源带来的氛围感不同，喜欢温暖治愈的房间可以选择3000K以上色温的灯具 4️⃣氛围感小摆件 挂画、地毯、装饰物等小摆件也很重要 可以让房间看起来更加温馨]{p}
+  - [房间丑的都来学！轻松打造复古温馨小卧室。- 我家卧室的硬装真的很简单，就是一个普通的吊顶+木地板。因为想着睡觉的地方没必要做太多的动作，而且随着审美的变化，房间布局和软装也会有变动～ 今天分享一下我的卧室布置小技巧吧 1️⃣统一空间的色调 我比较喜欢复古风格，所以卧室的色调是偏暖色调的 2️⃣统一家具的风格 想要复古风选对家具很重要，家具的材质、风格、颜色保持在相同的状态就不容易出错 3️⃣在灯具上做一些小改变 在统一大件家具和整体风格之后，可以在灯具上做一些小特殊，不同色值的光源带来的氛围感不同，喜欢温暖治愈的房间可以选择3000K以上色温的灯具 4️⃣氛围感小摆件 挂画、地毯、装饰物等小摆件也很重要 可以让房间看起来更加温馨]{g}
 
   ---
   - [都想来我家串门]{https://v.douyin.com/gcJ8pwyhP48/}
-  - [邻居说，你家这房子在小区出名了！。都想来我家串门]{p}
+  - [邻居说，你家这房子在小区出名了！。都想来我家串门]{g}
   - [说真的，我不欢迎任何人来我家！一来我家就开始吐槽 说我家装的一点都不适合住人 钱花的一点也不值得……](https://v.douyin.com/bTyzauOTv5U/)
+
+---
+**[缘壹]{p}**
+* **[缘壹 | 寻一处小窝，藏于深山， 与风为邻，与月为伴。 学习·素材 | 贰佰章](https://v.douyin.com/QqKEhV8y0fc/)**
+  - [下雨天，洗完澡，吹干头发，换一身家居服，钻进被窝，手机满格，追的剧也更新了，此刻，幸福感爆棚](https://v.douyin.com/QJnzxoW6_T0/)
+  - [究竟什么样子的人才会喜欢这样的氛围](https://v.douyin.com/SxGfy6927uY/)
+  - [究竟什么样子的人才会喜欢这样的氛围](https://v.douyin.com/HFKpUUextpM/)
+
+---
+**[杳无]{p}**
+* **[杳无。| 愿我的视频可以给你带来治愈 | 伍佰章 | Douyin](https://v.douyin.com/BLaX4cZ5aqQ/)**
+  - [这种风格的小窝，你最想和谁一起住](https://v.douyin.com/oPiVMU28EA0/)
+  - [小清新治愈系 | 理想生活](https://v.douyin.com/RiqwROeaH7k/)
+  - [治愈系 温馨小窝](https://v.douyin.com/iwC7OojFFVE/)
+
+---
+**[丸子美景]{p}**
+* **[丸子美景 | 用镜头记录美好生活.用心灵感悟人生 | 千章 | Douyin](https://v.douyin.com/BeuATp-Zv40/)**
+  - [下雪天，这样的林中小屋 你最想和谁一起住。](https://v.douyin.com/pGZvUn17W28/)
+  - [下雪天，这样的林中小屋 你最想和谁一起住。](https://v.douyin.com/5ptvjN9aRfI/)
+  - [这样的山洞卧室 你最想和谁一起住。想住哪一层](https://v.douyin.com/NIsTDgUEiE0/)
+
+---
+**[幽念]{p}**
+* **[幽念 | Home | 五百章 | Douyin](https://v.douyin.com/_XGo8WCSJHg/)**
+  - [治愈小窝](https://v.douyin.com/Qb9MUAb4sck/)
+  - [下雨天没人打扰你，你在这个卧室最想干什么](https://v.douyin.com/J4kqhY_QBjo/)
+
+---
+**[絵梦居]{p}**
+* **[絵梦居 | Home | 五百章 | Douyin](https://v.douyin.com/Q2hvvsWqQqc/)**
+  - [治愈系](https://v.douyin.com/qAAPxn-rWtQ/)
+  - [温馨小家 | loft复式](https://v.douyin.com/LnuR2OcEvRI/)
+  - [寻找一处公寓，没人打扰，享受一个人独处的时光](https://v.douyin.com/Y4qr5j_U16c/)
+  - [蓝色系 loft复式](https://v.douyin.com/9xZ1Xn3Mxnw/)
 
 ---
 ### 9999. Download
