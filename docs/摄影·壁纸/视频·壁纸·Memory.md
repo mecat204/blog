@@ -342,6 +342,7 @@
   - [一帘风月闲。| inmyfeeling | 古风 | 摄影 | 江南 | 真实生活分享计划](https://v.douyin.com/ZtBGouDYiRg/)
 
 ---
+**[清晨樂阳 | Genshin Impact]{p}**
 * **[清晨樂阳 | 二次元杂旅，AI绝赞学习中，欢迎灌注喵 | 百章 | Douyin](https://v.douyin.com/vk2zlkYnRgw/)**
   - [请选择你的提瓦特阵营](https://v.douyin.com/Xq2fDvx0ZLo/)
   - [好热啊啊啊啊啊](https://v.douyin.com/xPMWxIdA5Fc/)
@@ -350,6 +351,16 @@
   - [『孩子们，向着东方走吧～穿过绿华池，翻过天衡山，那里将是你们的安居之所。』](https://v.douyin.com/Dmxc-Qfr-uQ/)
   - [静下心来～享受宁静～](https://v.douyin.com/GwjzVr030-M/)
   - [『和刻晴出来玩啦～祝刻师傅生日快乐！』](https://v.douyin.com/nj7Glx0MmVk/)
+  - [『听我说：鸽子衔枝之年………』](https://v.douyin.com/2WVSjIy-TWo/)
+
+---
+**[URI]{p}**
+* **[URI | 𝗥𝗜 风格｜ 𝗔𝗜𝗚𝗖 治愈视觉｜音乐创作者. 每天活力充能 | 肆佰章 | Douyin](https://v.douyin.com/5AKFbS1vWBM/)**
+
+  ---
+  **[001. 天空壁纸]{g}**
+    - [粉是晨曦的初吻，白是云朵的独舞 蓝是天空的叹息，——温柔是另一种勇敢](https://v.douyin.com/7ix3ryHIZ8I/)
+    - [高清壁纸插画。](https://v.douyin.com/h2E0cm3FSXs/ )
 
 ---
 ### 0002. 动态壁纸

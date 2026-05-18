@@ -722,6 +722,36 @@
   - [寻找一处公寓，没人打扰，享受一个人独处的时光](https://v.douyin.com/Y4qr5j_U16c/)
   - [蓝色系 loft复式](https://v.douyin.com/9xZ1Xn3Mxnw/)
 
+---
+### 0029. URI
+**[URI]{p}**
+* **[URI | 𝗥𝗜 风格｜ 𝗔𝗜𝗚𝗖 治愈视觉｜音乐创作者. 每天活力充能 | 肆佰章 | Douyin](https://v.douyin.com/5AKFbS1vWBM/)**
+
+  ---
+  **[001. Sunny World]{g}**
+    - [Sunny World | 001](https://v.douyin.com/8plI7wJjtUs/)
+    - [夏日周末，让时光慢一点 | 068](https://v.douyin.com/QihH1U9QoEE/)
+
+  ---
+  **[002. 天空壁纸]{g}**
+    - [粉是晨曦的初吻，白是云朵的独舞 蓝是天空的叹息，——温柔是另一种勇敢](https://v.douyin.com/7ix3ryHIZ8I/)
+    - [高清壁纸插画。](https://v.douyin.com/h2E0cm3FSXs/ )
+
+  ---
+  **[003. 探索壁纸]{g}**
+    - [回望蔚蓝母星，人类在这无尽的幕布上，只是一掠而过。| 001](https://v.douyin.com/gxDIt6JktaM/)
+    - [怀旧经典 | 治愈系 | 氛围感 | 感觉至上 | 044](https://v.douyin.com/8qn2200r3nI/)
+
+---
+### 0030. 好奇喵果果 AI
+**[好奇喵果果 AI]{p}**
+* **[好奇喵果果 AI | 4A 广告公司创意团队｜红点奖作品创作者 不止助眠，更有脑洞与感官惊喜 | Douyin](https://v.douyin.com/CoG9xxFTUbs/)**
+
+  ---
+  **[001. 桌面奇幻系列]{g}**
+    - [桌面奇观：如果想象力有形状 | 001](https://v.douyin.com/DqoLMgX9OaQ/)
+    - [偷偷打开女巫的抽屉 | 016](https://v.douyin.com/CyRV-uXi2vE/)
+
 
 
 ---
