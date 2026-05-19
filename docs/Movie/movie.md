@@ -60,13 +60,30 @@
 **[NetflixGC]{p}**
   - **[NetflixGC | 奈飞工厂-一个致力于免费提供Netflix影剧动漫的流媒体播放平台](https://www.netflixgc.com/)**
 
-  ---
-  * **dalao.ru**
-  - **[iui.su](https://iui.su/link.html)**
-    * **[movie](https://movie.ley.best/)**
-    * **[b.dalao](https://b.dalao.ru/)**
-      - **[资源分享库](https://docs.qq.com/sheet/DUXR1VmtpVFR5bEpX?tab=44un5y)**
-      - **[CCTV](https://tv.cctv.com/lm/index.shtml#datapd=EPGC1386744804340113&datafl=&dataszm=)**
+---
+**[dalao.ru]{p}**
+  * [资源合集](https://b.oe.do/)
+  * **[iui.su](https://iui.su/link.html)**
+    - **[movie](https://movie.ley.best/)**
+    - **[b.dalao](https://b.dalao.ru/)**
+      * **[资源分享库](https://docs.qq.com/sheet/DUXR1VmtpVFR5bEpX?tab=44un5y)**
+      * **[CCTV](https://tv.cctv.com/lm/index.shtml#datapd=EPGC1386744804340113&datafl=&dataszm=)**
+
+---
+**[不死鸟]{p}**
+* **[iui.su](https://iui.su/531/)**
+
+**[pomo.mom]{s}**
+* **[pomo.mom](https://pomo.mom/)**
+
+**[注视影视]{s}**
+* **[注视影视](https://gaze.show/)**
+
+**[宅男影视]{s}**
+* **[宅男影视](https://znys.us/)**
+
+**[饭搭子影视]{s}**
+* **[饭搭子影视](https://fdzys.com/)**
 
 ---
 **[4kvm]{p}**
