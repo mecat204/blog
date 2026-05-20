@@ -120,10 +120,11 @@
     - [AI把"工作=收入"的逻辑打穿后，最诱人的方案就是"全民发钱"。但更狠的一步，是把钱做成可编程：限时花、限定地区花、甚至不符合规则直接失效。你以为是福利，可能是新型生存开关。](https://v.douyin.com/HWLFVU37DHU/ )
     - [2030不是科幻时间点，而是"分水岭"。有人在公开谈无限富足，有人却在疯狂囤地囤水、修地下城、准备无人机防线。最可怕的不是技术，而是他们已经在为"你进不去的未来"做演练。](https://v.douyin.com/LupXIwfjwVg/)
 
+---
 ### 0010. Gather | unproxy
 **[圆规Talk]{p}**
-* [waytoagi.com](https://v.douyin.com/__wVbaqBjJg/)
-* [AI proxy](https://waytoagi.com)
+* **[waytoagi.com](https://v.douyin.com/__wVbaqBjJg/)**
+  - **[Way To AGI | AI proxy](https://waytoagi.com)**
 
 ---
 ### 9999. Download
