@@ -104,6 +104,7 @@
     - [美国政客联手"强行断电"AI机房？你的电费正被硅谷巨头疯狂吸 | 082](https://v.douyin.com/GQPlCW5Q-Tc/)
     - [Ai影视解说自动生成工具，解说猫SmartAutoCut漫剪 | 105](https://v.douyin.com/g4d1cPtlHtA/)
 
+---
 ### 0009. GenAI动力
 **[GenAI动力]{p}**
 * **[GenAI动力 |  国际500强AI咨询专家，IT产品经理。AI先驱者，传道者 | 科技改变世界](https://v.douyin.com/GY_THS3wvhM/)**
@@ -118,6 +119,11 @@
     - [AI不只是在写代码，它开始"写生命"。从AlphaFold 3到AI设计的基因剪刀，再到细胞回春与胚胎筛选，人类可能迎来一次最危险也最诱人的"系统更新"。](https://v.douyin.com/ijQs5rLdy4M/)
     - [AI把"工作=收入"的逻辑打穿后，最诱人的方案就是"全民发钱"。但更狠的一步，是把钱做成可编程：限时花、限定地区花、甚至不符合规则直接失效。你以为是福利，可能是新型生存开关。](https://v.douyin.com/HWLFVU37DHU/ )
     - [2030不是科幻时间点，而是"分水岭"。有人在公开谈无限富足，有人却在疯狂囤地囤水、修地下城、准备无人机防线。最可怕的不是技术，而是他们已经在为"你进不去的未来"做演练。](https://v.douyin.com/LupXIwfjwVg/)
+
+### 0010. Gather | unproxy
+**[圆规Talk]{p}**
+* [waytoagi.com](https://v.douyin.com/__wVbaqBjJg/)
+* [AI proxy](https://waytoagi.com)
 
 ---
 ### 9999. Download
