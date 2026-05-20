@@ -19,6 +19,7 @@
 
 ---
 ### 0003. 终末地
+**[终末地]{p}**
 * **[础（原神）| 二百章 | Douyin](https://v.douyin.com/eUkUrmECxH4/)**
   - [钟离也挺配江南水乡风景 | 就用这个转场去溜达吧  | 沉玉谷  | 我推的钟离  | 游戏角色同好会](https://v.douyin.com/w7eBgwpQpW0/)
   - [父亲大人红色高跟鞋的魅力 | 仆人  | 原神空月之歌  | 和我一起玩原神吧  | 原神挪德卡莱  | 高跟鞋卡点](https://v.douyin.com/BhwUc6OlUNE/)
@@ -27,7 +28,8 @@
   - [终末地国风，简直美爆了 | 终末地三测实况  | 终末地三测  | 国风  | **终末地**  | **明日方舟终末地**](https://v.douyin.com/T_nssxI7nDg/)
 
 ---
-### 0004. 水子哥的综合游戏室| 对马岛之魂
+### 0004. 水子哥的综合游戏室 | 对马岛之魂
+**[水子哥的综合游戏室]{p}**
 * **[水子哥的综合游戏室 | B站游戏攻略UP主 | Steam和主机游戏的游戏攻略 游戏试玩推荐 游戏评测 | 已删](https://v.douyin.com/ZbfyxjbxtuM/)**
   - [**对马岛之魂PC**](https://v.douyin.com/uVMkB_JYvi8/)
   - [**黑神话：悟空**](https://v.douyin.com/jky6KjJ5nz4/)
@@ -39,6 +41,7 @@
 
 ---
 ### 0005. Tiny Glade | 林间小世界
+**[Tiny Glade | 林间小世界]{p}**
 * **[Z汐汐 | 你的治愈系伙伴～ 希望你能在这里感到轻松和快乐🎊 祝你们天天开心 | 感谢抖音平台 | 百章 | Douyin](https://v.douyin.com/lAzrBz9r3js/)**
   - [**Game: TinyGlade** | 房体搭建 | steam游戏 | 单机游戏 | 教学 | 林间小世界 | 治愈系风景](https://v.douyin.com/ypaonJYDN2s/)
   - [永恒的守护 | TinyGlade | 搭建游戏](https://v.douyin.com/-Fm7r7YmNyQ/)
@@ -73,6 +76,55 @@
 
   ---
   - [从0开始，沉浸式布置电竞房](https://v.douyin.com/m2MD5AzqlCA/)
+
+---
+### 0008. Large World Model | LWM, 大世界模型
+**[Large World Model | LWM, 大世界模型]{p}**
+* **[worldlabs.ai](https://www.worldlabs.ai/?utm_source=chatgpt.com)**
+
+---
+**[数字孪生 三维建模 高斯泼溅]{s}**
+* **[扎克力｜高斯泼溅 | 伍拾章 | Douyin](https://v.douyin.com/Yfq1G8ADjVc/)**
+  - [画面接近现实！用游戏的方式打开云南国家级传统村落 | 扎克力 | 高斯泼溅](https://v.douyin.com/VBMPqCA4RVU/)
+  - [用激光把成都古塔建模后，画面已经近乎现实](https://v.douyin.com/qFvl2GyEjSc/)
+  - [用激光雷达把青城山庭院建模后，用游戏的方式打开！可以直接在网页端运行](https://v.douyin.com/83EeMfqRVWk/)
+
+---
+**[特别好理解的区别]{s}**
+
+| 技术          | 本质    |
+| ----------- | ----- |
+| 三维建模        | 人工做世界 |
+| 高斯泼溅        | 扫描世界  |
+| 数字孪生        | 同步世界  |
+| World Model | 理解世界  |
+
+---
+**[科幻概念]{s}**
+
+| 科幻概念       | 现实对应                |
+| ---------- | ------------------- |
+| 西部世界       | Agent + World Model |
+| 黑客帝国       | 数字现实模拟              |
+| 头号玩家       | 空间互联网               |
+| 钢铁侠 Jarvis | 多模态 Agent           |
+| 底特律：变人     | 具身智能                |
+| 攻壳机动队      | 人机融合                |
+| Her        | 情感 AI               |
+
+---
+### 0009. Whispers From The Star
+**[《Whispers From The Star》是一款以人工智能交互叙事为核心的独立电子游戏，融合了文字冒险与科幻悬疑元素。玩家通过与人工智能系统的实时对话共同塑造故事，体验一个关于意识、孤独与未知宇宙的多结局剧情。]{p}**
+* **[anuttacon](https://www.anuttacon.com/)**
+
+---
+* **[Whispers from the star: Grok with Stella](https://www.youtube.com/watch?v=BUn3EFGsKb0)**
+
+---
+* **[whispers from the star](https://www.youtube.com/watch?v=DftdqHwDAPU)**
+
+---
+* **[Simping Over An Ai Chat Bot And More Gaslighting - Whispers From The Star](https://www.youtube.com/watch?v=UVSjVKdNaRs)**
 
 ---
 ### 9999. Download
