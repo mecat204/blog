@@ -759,6 +759,22 @@
   - [百岁奇缘](https://v.douyin.com/Kdpmh3yTxQg/)
 
 ---
+### 0032. 栖光
+**[栖光]{p}**
+* **[栖光 | 视频均为AI生成，Midjourney出图 | 百章 | Douyin](https://v.douyin.com/Fw6DOdVGfN8/)**
+  - [仙之巅傲世间 | 国风古韵  | 修仙者  | 古风摄影  | 太空步教学  | 仙侠](https://v.douyin.com/OgM-q7dlIKA/)
+  - [所有遇见，皆是注定 | 古装电视剧 | 古风清冷佳人 | 东方美 | 古风摄影 | 国风古韵](https://v.douyin.com/ZKSL8jnY21M/)
+  - [他日故里定逢春，你我山巅自相逢 | 仙境  | 古风  | 震撼开场  | AI创作浪潮计划  | 修仙](https://v.douyin.com/JQ_iL7nDax0/)
+  - [天上白玉京 十二楼五城 | 摄影  | 古风  | 仙侠剧  | 旅行  | 风景摄影](https://v.douyin.com/alUcbFbLL-A/)
+  - [诸位还不回来吗 | 海艺ai  | 修仙  | 古风  | AI创作浪潮计划  | 明天努力找工作](https://v.douyin.com/EjVvmbZOYCc/)
+  - [做失败了也要发，不然就浪费积分了| 视觉震撼 | 动画 | AI创作浪潮计划 | 原创动画 | 视觉冲击](https://v.douyin.com/lSBANbk8JIY/)
+
+  ---
+  **[001. 云阙仙踪]{g}**
+    - [云作海，亭为舟，我是这天地间，唯一的归人| 001](https://v.douyin.com/aqzz5bWDO1s/)
+    - [故人早已星散，唯余我，伴这长风 | 072](https://v.douyin.com/Ax9ccjZUxHI/)
+
+---
 ### 9999. Download
 * **[必应 | bing.com](https://cn.bing.com/)**
 

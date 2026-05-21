@@ -127,6 +127,11 @@
 * **[Simping Over An Ai Chat Bot And More Gaslighting - Whispers From The Star](https://www.youtube.com/watch?v=UVSjVKdNaRs)**
 
 ---
+### 0010. 其他
+**[cast n chil]{g}**
+  - [超爱像素风！ 人生确实没有意义，但人生很美](https://v.douyin.com/m-F84YAfb7U/)
+
+---
 ### 9999. Download
 * **[dlpanda](https://www.dlpanda.com)**
 

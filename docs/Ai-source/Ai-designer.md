@@ -127,6 +127,11 @@
   - **[Way To AGI | AI proxy](https://waytoagi.com)**
 
 ---
+**[小甜甜]{p}**
+* **即梦再见，这里无需会员，不用排队，不降智，不用魔法[](https://v.douyin.com/E1uSheZbsdA/)**
+  - **[Ai聚合站](https://caixiang.lk666.ai)**
+
+---
 ### 9999. Download
 * **[必应 | bing.com](https://cn.bing.com/)**
 
