@@ -2602,6 +2602,63 @@
   - [Smile... 4.2 Planarcadia FULL STORY REACTION | Honkai: Star Rail](https://www.youtube.com/watch?v=j1Ks_Y9IoSA)
 
 ---
+### 0020. 广告片
+* **[Adobe Acrobat | 5.51万 | Youtube](https://www.youtube.com/@AdobeAcrobat/videos)**
+  - [En: The PDF tools you trust, now enhanced with AI.]{p}
+  - [Cn: 您信赖的PDF工具，现在已经过AI增强。]{s}
+
+  ---
+  - [En: Adobe Acrobat gives you everything you need to move work faster, smarter, and all in one AI-powered workspace.]{p}
+  - [Cn: Adobe Acrobat 为你提供所有需要的，让你在一个由 AI 驱动的工作区中实现工作移动，更快、更智能。]{s}
+
+  ---
+  - [En: From creating and editing to sharing and e-signing, Acrobat helps you handle documents like a pro, whether you're at your desk or on-the-go.]{p}
+  - [Cn: 从创建、编辑到分享和电子签名，Acrobat 帮助您像专业人士一样处理文档，无论你是在办公桌前还是外出时。]{s}
+
+  ---
+  - [En: Scan it.]{p}
+  - [Cn: 扫描它。]{s}
+
+  ---
+  - [En: Edit it.]{p}
+  - [Cn: 编辑一下。]{s}
+
+  ---
+  - [En: Send it.]{p}
+  - [Cn: 发吧。]{s}
+
+  ---
+  - [En: Sign it.]{p}
+  - [Cn: 签字。]{s}
+
+  ---
+  - [En: All powered by AI.]{p}
+  - [Cn: 全部由人工智能驱动。]{s}
+
+  ---
+  - [En: Turn messy workflows into seamless ones and ideas into action.]{p}
+  - [Cn: 全部由人工智能驱动。 Turn混乱的工作流程转为无缝的流程，将想法转化为行动。]{s}
+
+  ---
+  - [En: With tools like Adobe Acrobat, Acrobat Sign, Adobe Scan, and Reader, plus built-in cloud storage and integrations with the apps you already use, your documents go wherever work happens.]{p}
+  - [Cn: 借助Adobe Acrobat、Acrobat Sign、Adobe Scan和Reader等工具，以及内置云存储和与你已使用应用的集成，你的文档无论工作地点都能随之流放。]{s}
+
+  ---
+  - [En: Less friction.]{p}
+  - [Cn: 摩擦更少。]{s}
+
+  ---
+  - [En: More doing.]{p}
+  - [Cn: 还有更多事情要做。]{s}
+
+  ---
+  - [En: Do that with Acrobat.]{p}
+  - [Cn: 用Acrobat来做这件事。]{s}
+
+  ---
+  - **[The Marketers S2 E4: Launching the Next Greatest Ever Campaign |《营销人员》第二季第四集：启动下一个最伟大的活动](https://www.youtube.com/watch?v=fxq2_4GiJPw)**
+
+---
 ### 9999. Download
 * **[dlpanda](https://www.dlpanda.com)**
 
