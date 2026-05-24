@@ -1869,6 +1869,13 @@
   - [每天15分钟 | English Exercise](https://v.douyin.com/RNHCBSpxCm0/)
 
 ---
+**[Aya听力站]{p}**
+* **[Aya听力站 | 每天分享实用英语听读！ 💪关注我一起学英语吧 | 叁佰章 | Douyin](https://v.douyin.com/5IMVqS1DJEg/)**
+  - [万能句型2000句第三集](https://v.douyin.com/LKbQ68t5zpw/)
+  - [【餐厅篇】初级短语2000句，每天10分钟，坚持听，两个月听懂美国人](https://v.douyin.com/DGyR5xDTDvY/)
+  - [【第4集】全球使用频率最高的1200句，每天10分钟，坚持听，两个月听懂美国人](https://v.douyin.com/xHJuHqGcGnU/)
+
+---
 ### 0016. 英语启蒙动画
 **[快乐学英语]{p}**
 * **[快乐学英语 | 英语启蒙动画 | 听先行，读相伴🍀 持续更新原创少儿英语启蒙动画 | 百章 | Douyin](https://v.douyin.com/HhWVTPYMkuw/)**
