@@ -2095,7 +2095,7 @@
   - [Keep Your Brain Young | 如何让大脑保持年轻, 学英文是最好的抗 | Min: 40min](https://v.douyin.com/PJked0BWBuo/)
 
 ---
-**[小道必可观](p)**
+**[小道必可观]{p}**
 * **[小道必可观(油管) | 关注我外网热门视频一网打尽，我的知识不够，你的评论来凑。| 千章 | Douyin](https://v.douyin.com/WdfoxIT8Wm4/)**
   - [荷兰女骑穿越中蒙边境，这落差绝了！画风秒变生存模式 油管博主: @itchyboots 粉丝数量: 326万  | 旅行vlog](https://v.douyin.com/frdiSe7hU30/)
   - [伊朗封锁海峡，外网疯传中国缺油？美国老哥：小丑竟是我们自己 油管博主: @mrglobalyoutube 粉丝数量: 14.5万](https://v.douyin.com/_Xg-AhFoa9I/)
@@ -2142,6 +2142,7 @@
 
 ---
 ### 0026. 速记单词
+**[薄荷速记单词]{p}**
 * **[薄荷速记单词 | 佰章 | Douyin](https://v.douyin.com/_wxEgIlzHts/)**
   - **[宇宙天文英语](https://v.douyin.com/-MBureIDs8c/)**
 
@@ -2178,6 +2179,7 @@
 
 ---
 ### 0028. yoyo的跨国生存 | English字幕
+**[yoyo的跨国生存]{p}**
 * **[yoyo的跨国生存 | 是yoyo 中医学本科却成了"跨国摆渡人" 曾历房产浮沉、情感变故、负债百万, 为儿子, 四赴美国, 从语言不通到终获工作转机。| 记录我真实的美国生存英语| 分享最一线的跨国资讯 | 我的弯路,你的捷径. | 贰佰章 | Douyin](https://v.douyin.com/wQZdIpaF0F4/)**
   - [出国最大的收获，要懂得更爱自己 见天地、见众生、见自己](https://v.douyin.com/mH90Pvg-YGw/)
   - [学好英语，犹如手握开启世界大门的钥匙🔑，命运的轨迹或将因此改写](https://v.douyin.com/7ho1aj41BtQ/)
@@ -2375,6 +2377,7 @@
 
 ---
 ### 0033. 江湖英语 | AI生成
+**[johnhuu江湖英语]{p}**
 * **[johnhuu江湖英语 | 佰章](https://v.douyin.com/psE-P_BZIPQ/)**
   - [You can't make ten million in your lifetime on a cop's salary.](https://v.douyin.com/Q8YQsXpYq10/)
   - [Smoking Aces | 最难英文翻译：五支烟](https://v.douyin.com/-TozHwC_KwI/)
@@ -2417,11 +2420,11 @@
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
-* **English Resource**
-  - **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
+**[English Resource]{g}**
+  - [EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)
 
   ---
-  - **[英语学习资源导航 | 全网最全](https://en.knowledgefxg.com/)**
+  - [英语学习资源导航 | 全网最全](https://en.knowledgefxg.com/)**
 
   ---
   - **[句乐部](https://julebu.co)**
@@ -2433,6 +2436,15 @@
 
   ---
   - **[Type Words 官网 - 词文记 | 单词跟打 · 文章跟打](https://typewords.cc/articles)**
+
+---
+**[新概念英语]{g}**
+  - [**西瓜英语** | **新概念英语学习**](https://learnenai.com/)
+  - [**新概念英语** | NCE.ICHOCHY](https://nce.ichochy.com/)
+
+---
+**[Ted]{g}**
+  - [Ted](https://www.ted.com/)
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
