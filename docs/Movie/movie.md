@@ -33,6 +33,7 @@
     * **[寻梦环游记](https://pan.quark.cn/s/743662b82b28#/list/share)**
     * **[地球脉动](https://pan.quark.cn/s/8241e64352ea#/list/share)**
     * **[地球脉动](https://pan.quark.cn/s/9a87169ebf29#/list/share)**
+    * **[雨霖铃 | 杨洋 章若楠](https://pan.quark.cn/s/6b59fa51fa53#/list/share)**
 
   ---
   - **[OWOTUBE影院](https://owotube.com/)**
@@ -296,8 +297,31 @@
   - **[国产凌凌漆](https://www.youtube.com/watch?v=kdilUANii6s)**
 
 ---
-* **proxy·movie**
+**[proxy·movie]{p}**
   - [Binge Society-电影片段](https://www.youtube.com/@bingesociety/playlists)
+
+---
+### 0002a. Englearner.site
+**[Englearner.site]{p}**
+* **[Englearner.site](https://www.englearner.site/cn/index.html)**
+
+  ---
+  **[001. 插件]{g}**
+    - [Language Reactor | chrome插件](https://www.languagereactor.com/)
+    - [Trancy | Chrome插件](https://www.trancy.org/zh-cn)
+
+  ---
+  **[002. English Flim]{g}**
+    - [ihavenotv·proxy](https://ihavenotv.com/)
+    - [voscreen·proxy](https://www.voscreen.com/)
+    - [teachertube·proxy](https://www.teachertube.com/)
+    - [Kimivod](https://kimivod.org/vod/show/id/8.html)
+    - [我爱ABC](https://www.oiabc.net/)
+    - [Cineby](https://www.cineby.sc/)
+    - [巴别英语](https://www.babelabc.cn/)
+    - [Bitcine](https://www.bitcine.tv/)
+    - [livezy](https://livezy.click/freek/)
+    - [nunflix](https://nunflix.org/)
 
 ---
 ### 0003. Bttwo | Film-Note

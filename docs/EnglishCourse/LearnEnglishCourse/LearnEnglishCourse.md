@@ -22,57 +22,63 @@
 * **[LingQ](https://www.lingq.com/en/)**
 
 ---
+**[新概念英语]{g}**
+    - [**西瓜英语** | **新概念英语学习**](https://learnenai.com/)
+    - [**新概念英语** | NCE.ICHOCHY](https://nce.ichochy.com/)
+
+---
 ### 0001. English Resource
+**[EngLearner]{p}**
 * **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
 
-  **movie**
-  - [巴别英语-看美剧学英语 | **巴别英语**](https://www.babelabc.com/)
-  - [**Let Me English**](https://letmeenglish.com/zh-hans/)
-    * [**听力训练**](https://letmeenglish.com/zh-hans/listening/)
-  - [BBC纪录片专题](https://pan.quark.cn/s/c857233e3cd5#/list/share)
+  **[001. movie]{g}**
+    - [巴别英语-看美剧学英语 | **巴别英语**](https://www.babelabc.com/)
+    - [**Let Me English**](https://letmeenglish.com/zh-hans/)
+      * [**听力训练**](https://letmeenglish.com/zh-hans/listening/)
+    - [BBC纪录片专题](https://pan.quark.cn/s/c857233e3cd5#/list/share)
 
   ---
-  **新概念英语:**
-  - [**西瓜英语** | **新概念英语学习**](https://learnenai.com/)
-  - [**新概念英语** | NCE.ICHOCHY](https://nce.ichochy.com/)
+  **[002. 新概念英语]{g}**
+    - [**西瓜英语** | **新概念英语学习**](https://learnenai.com/)
+    - [**新概念英语** | NCE.ICHOCHY](https://nce.ichochy.com/)
 
   ---
-  **语法:**
-  - [**英语语法**](https://hzpt-inet-club.github.io/english-note/)
-  - [**语法俱乐部**](https://llwslc.github.io/grammar-club/content/Preface.html)
-  - [极速英语提供【英语零基础自学教材】 | 详细的、完全免费的英语学习笔记_夸克英语笔记](https://www.ncego.com/)
+  **[003. 语法]{g}**
+    - [**英语语法**](https://hzpt-inet-club.github.io/english-note/)
+    - [**语法俱乐部**](https://llwslc.github.io/grammar-club/content/Preface.html)
+    - [极速英语提供【英语零基础自学教材】 | 详细的、完全免费的英语学习笔记_夸克英语笔记](https://www.ncego.com/)
 
   ---
-  **Book:**
-  - [**American Literature** | Short Stories & Classic Literature for Readers & Teachers](https://americanliterature.com/)
-  - [bilinguis.com | 免费双语读物](http://zh.bilinguis.com/)
-  - [爱丽丝梦游仙境 | **Trancy AI双语**](https://www.typelit.io/typing-console/Alice_in_Wonderland/0/11)
-  - [Obooko | Instantly download free eBooks, novels and textbooks online](https://www.obooko.com/)
-  - [AI教母论文 | English]()
+  **[004. Book]{g}**
+    - [**American Literature** | Short Stories & Classic Literature for Readers & Teachers](https://americanliterature.com/)
+    - [bilinguis.com | 免费双语读物](http://zh.bilinguis.com/)
+    - [爱丽丝梦游仙境 | **Trancy AI双语**](https://www.typelit.io/typing-console/Alice_in_Wonderland/0/11)
+    - [Obooko | Instantly download free eBooks, novels and textbooks online](https://www.obooko.com/)
+    - [AI教母论文 | English]()
 
   ---
-  **听力**
-  - **[爱听写](https://www.idictation.cn/home)**
+  **[005. 听力]{g}**
+    - **[爱听写](https://www.idictation.cn/home)**
 
   ---
   **[XXEnglish | 学习英语网,单词,英语单词,英语词典,单词词典,在线词典,单词查询](https://www.xxenglish.com/)**
 
   ---
-  **Speaking**
-  - **[Hi Speaking](https://hispeaking.com)**
+  **[006. Speaking]{g}**
+    - **[Hi Speaking](https://hispeaking.com)**
 
   ---
-  **News**
-  - [Buzzing | 用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读](https://www.buzzing.cc/)
-  - [English News In Levels | Daily News for ESL Learners at Every Level](https://englishnewsinlevels.com/)
+  **[007. News]{g}**
+    - [Buzzing | 用中文浏览国外社交媒体里的热门讨论，母语快速导读， 感兴趣再进原文深度阅读](https://www.buzzing.cc/)
+    - [English News In Levels | Daily News for ESL Learners at Every Level](https://englishnewsinlevels.com/)
 
   ---
-  **Ai-Website**
-  - [Home | Anthropic | 与人类有关的](https://www.anthropic.com/)
+  **[008. Ai-Website]{g}**
+    - [Home | Anthropic | 与人类有关的](https://www.anthropic.com/)
 
   ---
-  **Game**
-  - **[Games to learn English](https://www.gamestolearnenglish.com/)**
+  **[009. Game]{g}**
+    - [Games to learn English](https://www.gamestolearnenglish.com/)
 
 ---
 * **[英语学习资源导航 | 全网最全](https://en.knowledgefxg.com/)**

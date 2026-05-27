@@ -2,6 +2,15 @@
 * **[Download TikTok Videos Without Watermark | Free HD Video &amp; Photo Downloader - DLPanda.com](https://www.dlpanda.com/)**
 
 ---
+**[新概念英语]{g}**
+    - [**西瓜英语** | **新概念英语学习**](https://learnenai.com/)
+    - [**新概念英语** | NCE.ICHOCHY](https://nce.ichochy.com/)
+
+---
+**[Ted]{g}**
+  - [Ted](https://www.ted.com/)
+
+---
 ### 0001. 精选频道
 **[2020年前后Douyin]{p}**
 * **[之前整理 | 2020年前后Douyin](https://mecat204.github.io/douyin/content/people/index.html)**

@@ -116,6 +116,13 @@
   - [Snatoms Online Store - Magnetic Molecular Models for Education](https://snatoms.com/)
 
 ---
+### 0007d. 英语兔
+**[英语兔]{p}**
+* **[英语兔 | 轻松快速学习英语 | Bilibili](https://space.bilibili.com/483162496?spm_id_from=333.788.upinfo.detail.click)**
+  - [小王子](https://www.bilibili.com/video/BV1H64y1f73s/?spm_id_from=333.1387.homepage.video_card.click)
+  - [英语构词法](https://www.bilibili.com/video/BV1r5411w7TY/?share_source=copy_web&vd_source=21db7a1e1a32f5639712495925c1fe93)
+
+---
 ### 0008. XDx_先进生产力 | Bilibili
 **[XDx_先进生产力]{p}**
 * **[XDx_先进生产力 | 世界的最前沿 | 1.6万 | Bilibili](https://space.bilibili.com/456284799?spm_id_from=333.1387.follow.user_card.click)**
