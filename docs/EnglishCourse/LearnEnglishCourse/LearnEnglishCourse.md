@@ -81,42 +81,52 @@
     - [Games to learn English](https://www.gamestolearnenglish.com/)
 
 ---
+**[英语学习资源导航]{p}**
 * **[英语学习资源导航 | 全网最全](https://en.knowledgefxg.com/)**
 
 ---
+**[单词之风]{p}**
 * **[heygsc/word-wind | English | 单词](https://github.com/heygsc/word-wind)**
   - **[单词之风](https://word-wind.pages.dev/)**
 
 ---
+**[句乐部]{p}**
 * **[句乐部](https://julebu.co)**
 
 ---
+**[Qwerty Learnner]{p}**
 * **[Qwerty Learnner | 官网 — 为键盘工作者设计的单词与肌肉记忆锻炼软件](https://qwerty.liumingye.cn)**
 
 ---
+**[Type Words]{p}**
 * **[Type Words 官网 - 词文记 | 单词跟打 · 文章跟打](https://typewords.cc/articles)**
 
 ---
+**[英语学习]{p}**
 * **[英语学习 | GitCN](https://gitcn.org/collections/learning-english?utm_source=chatgpt.com)**
   * **[1000h](https://1000h.org/)**
 
 ---
+**[grammarly]{p}**
 * **[grammarly](https://www.grammarly.com/)**
 
 ---
+**[TED]{p}**
 * **[TED  | Ideas change everything](https://www.ted.com/)**
 
 ---
+**[etym online]{p}**
 * **[etym online | 在线词源词典 | 查询英语单词的词源、起源与历史演变](https://www.etymonline.com/)**
 
 ---
+**[Teco]{p}**
 * **[Teco](https://teco-lab.com)**
   - user: meca..
   - min
 
 ---
 ### 0002. Youtube
-* **English source**
+**[English source]{p}**
 
 | 类型               | 名称                            | 简介                                        | 网址/频道链接                                                                                                                                                                                                      |
 | ---------------- | ----------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -129,9 +139,11 @@
 | **YouTube英语学习**  | BBC Learning English          | BBC官方英语学习频道，包含新闻、电影、词汇等，适合提升听力和口语         | [点击访问](https://www.youtube.com/user/bbclearningenglish?utm_source=chatgpt.com)
 
 ---
+**[BBC Earth]{p}**
 * **[BBC Earth](https://www.youtube.com/@bbcearth)**
 
 ---
+**[English MasterClass]{p}**
 * **[English MasterClass | 35.9万 | Youtube](https://www.youtube.com/@EnglishMasterClass019/shorts)**
   - [Where To Use " For & Since " | English Grammar Learning](https://www.youtube.com/watch?v=2veCTtcQQqo)
     * For / Since
@@ -181,6 +193,7 @@
 
 
 ---
+**[linguamarina]{p}**
 * **[linguamarina | 833万 | Youtube](https://www.youtube.com/@linguamarina)**
   - [En: Co-founder of a language-learning platform Linguatrip, passionate about learning languages.]{p}
   - [Cn: 语言学习平台Linguatrip的联合创始人，热衷于学习语言。]{s}
@@ -213,6 +226,7 @@
   - **[How I started speaking English without fear (as a non-native speaker) | 我如何无畏地开始说英语（作为非母语者）](https://www.youtube.com/watch?v=p9KWSh06Wuo)**
 
 ---
+**[EnglishClass101.com]{p}**
 * **[EnglishClass101.com  | 863万 | Youtube](https://youtube.com/@EnglishClass101)**
   - [How to Score 9.0 on IELTS EXAM: best tips and strategies](https://www.youtube.com/watch?v=s2M1t-pHJcc&list=PLoDjs_CkjI64nuMBkse4y2zJitzeGlZxi)
   - [Fix Your English Speaking in 150 Minutes](https://www.youtube.com/watch?v=Xg0dZdphmUU)
@@ -231,6 +245,7 @@
 | **YouTube英语学习**  | BBC Learning English          | BBC官方英语学习频道，包含新闻、电影、词汇等，适合提升听力和口语         | [点击访问](https://www.youtube.com/user/bbclearningenglish?utm_source=chatgpt.com)
 
 ---
+**[ETJ English]{p}**
 * **[ETJ English | 113万 | Youtube](https://www.youtube.com/@etjenglish)**
   - [En: I’m Elliott, founder of ETJ English - a British pronunciation coach and communication mentor helping learners and professionals speak English clearly, naturally, and confidently.]{p}
   - [Cn: 我是Elliott，ETJ English的创始人——一位英国发音教练和沟通导师，帮助学习者和专业人士清晰、自然且自信地说英语。]{s}
@@ -262,6 +277,7 @@
   * **[How to Pronounce ALL British RP Diphthongs - Speak English Clearly | 如何发音所有英国RP双元音——清晰地说英语](https://www.youtube.com/watch?v=olq66C8pLw8)**
 
 ---
+**[English with Lucy]{p}**
 * **[English with Lucy | 1310万 | Youtube](https://www.youtube.com/@EnglishwithLucy)**
   - [En: Click to download my FREE B1-C1]{p}
   - [Cn: 点击下载我的免费B1-C1]{s}
@@ -278,6 +294,7 @@
   * **[If you know these, you're C2. | 如果你知道这些，你就是C2。](https://www.youtube.com/watch?v=NSycEAiPU3U)**
 
 ---
+**[English in Comfort]{p}**
 * **[English in Comfort | 26.5万 | Youtube](https://www.youtube.com/@EnglishinComfort/videos)**
   - [En: Learn English the Comfortable Way!]{p}
   - [Cn: 舒适地学习英语！]{s}
@@ -321,6 +338,7 @@
 
 
 ---
+**[Learn English with Grace]{p}**
 * **[Learn English with Grace | 7560位 | Youtube](https://www.youtube.com/@LearnEnglishwithGrace24)**
   - [En: Hi there, I'm Grace.]{p}
   - [Cn: 你好，我是格蕾丝。]{s}
@@ -341,6 +359,7 @@
   * **[How to Stay Motivated to Learn English in 2026! | 如何在2026年保持学习英语的动力！](https://www.youtube.com/watch?v=1knajL-wIjA)**
 
 ---
+**[TED Archive]{p}**
 * **[TED Archive | Youtube ](https://www.youtube.com/@TEDTalks)**
   - [En: Welcome to the TED Archive, a collection of all the talks from TED conferences from 1984 on.]{p}
   - [Cn: 欢迎来到TED档案馆，这里收录了自1984年以来所有TED会议的演讲。]{s}
@@ -358,6 +377,7 @@
   - [Cn: 但欢迎来到我们尽可能全面的进行中;我们将倒推时间，定期添加早期会议的演讲，敬请经常回来查看。]{s}
 
 ---
+**[TEDx Talks]{p}**
 * **[TEDx Talks | Youtube](https://www.youtube.com/@TEDx)**
   - [En: TEDx is an international community that organizes TED-style events anywhere and everywhere -- celebrating locally-driven ideas and elevating them to a global stage.]{p}
   - [Cn: TEDx是一个国际社区，组织类似TED的活动，地点和地点——庆祝本地驱动的理念，并将其提升到全球舞台。]{s}
@@ -371,6 +391,7 @@
   - [Cn: 如需了解更多关于将TED用于商业目的的信息（例如员工学习、电影或在线课程），请在此提交媒体请求：media-requests.ted.com。]{s}
 
 ---
+**[Dr. Olivia Remes]{p}**
 * **[Dr. Olivia Remes | Youtube](https://www.youtube.com/@dr.oliviaremes5962)**
   - [En: Hi!  I'm Dr. Olivia Remes and I'm a mental health researcher at the University of Cambridge.]{p}
   - [Cn: 你好！ 我是奥利维亚·雷梅斯博士，剑桥大学的心理健康研究员。]{s}
@@ -392,6 +413,7 @@
   - [How to manage exam stress by Dr Olivia Remes](https://www.youtube.com/watch?v=Ni3VEgbvuhU)
 
 ---
+**[TED]{p}**
 * **[TED | Youtube](https://www.youtube.com/@TED)**
   - [En: The TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less).]{p}
   - [Cn: TED演讲频道汇集了TED大会上最精彩的演讲和表演，世界顶尖的思想家和实践者将在18分钟（或更短时间）内发表他们人生中最精彩的演讲。]{s}
@@ -413,9 +435,11 @@
   - [Cn: 如需了解更多关于将TED用于商业目的（如员工学习、电影或在线课程）的信息，请提交媒体请求 media-requests.ted.com]{s}
 
 ---
+**[How the Fridge Changed Food]{p}**
 * **[How the Fridge Changed Food | Nicola Twilley | TED](https://www.youtube.com/watch?v=Mz1ItbiNqxw)**
 
 ---
+**[English Fluency Journey]{p}**
 * **[English Fluency Journey | 223万 | Youtube](https://www.youtube.com/@EnglishFluencyJourney)**
   - [En: I’m Anna and welcome to my channel.]{p}
   - [Cn: 我是安娜，欢迎来到我的频道。]{s}
@@ -453,28 +477,36 @@
   - [Cn: 合作联系方式：englishfluencyjourney@gmail.com]{s}
 
 ---
+**[English Fluency Journey]{p}**
 * **[English Fluency Journey | Hanna Khoma](https://www.englishfluencyjourney.com/)**
 
 ---
+**[ElenaLin_青青]{p}**
 * **[ElenaLin_青青 | Youtube](https://www.youtube.com/@ElenaLin)**
 
 ---
+**[英语能力突破]{p}**
 * **[英语能力突破 | Youtube](https://www.youtube.com/@stars2046/playlists)**
   - **[英语能力突破_100个句子记完7000个雅思单词](https://www.youtube.com/watch?v=lob44iOFNYE&list=PLH8j2mKj10K1G7XjDvaG2hMXwNv36CioN)**
 
 ---
+**[熊熊英语]{p}**
 * **[熊熊英语 | Youtube](https://www.youtube.com/@OneHourListen/videos)**
 
 ---
+**[零基础学习英语]{p}**
 * **[零基础学习英语 |  牛津书虫第一期 | Youtube](https://www.youtube.com/watch?v=LttbCdk_A1M&list=PLYHYHpYmp4ZHrhXn21ry3sb5qci13DtSa&index=1)**
 
 ---
+**[michelelepe]{p}**
 * **[michelelepe | Youtube](https://www.youtube.com/@michelelepe)**
 
 ---
+**[Little Reading Bug's Bilingual Channel]{p}**
 * **[Little Reading Bug's Bilingual Channel | 小书虫的双语频道 | Youtube](https://www.youtube.com/@littlereadingbugsbilingual539/videos)**
 
 ---
+**[English Unleashed: The Podcast]{p}**
 * **[English Unleashed: The Podcast | 115万 | Youtube](https://www.youtube.com/@EnglishPodcastUnleashed/videos)**
   - [En: Welcome to English Unleashed: The Podcast.]{p}
   - [Cn: 欢迎收听《English Unleashed：播客》。]{s}
@@ -504,27 +536,33 @@
   - [Cn: 版权所有，版权所有©：教育视频制作公司。]{s}
 
 ---
+**[高高Lindsey]{p}**
 * **[高高Lindsey | 北京外国语大学英语口译硕士｜Polyglot | "语言的边界就是你世界的边界"  | 5.54万| Youtube](https://www.youtube.com/@lindseylingo/videos)**
   - **[AI Can Speak English Better Than You](https://www.youtube.com/watch?v=nILMlkHiVdM)**
 
 * **[小红书](https://www.xiaohongshu.com/user/profile/62be5b34000000001b0294c4?xsec_token=YBupxFMeZgHrzNH29Lc8WknCW8FSqsFw05Rs8-2haM8ac=&xsec_source=app_share&xhsshare=CopyLink&shareRedId=ODhERThHNz02NzUyOTgwNjdFOTk9OUk9&apptime=1762249405&share_id=6b146a5e6305453780f4a4b797ee698c)**
 
 ---
+**[LOVEBUSTER]{p}**
 * **[LOVEBUSTER | 198万 | Youtube](https://www.youtube.com/@LoveBusterShow/videos)**
   - [I Broke The Law To Save Those I Love | SAVING HEARTS | Ep.10 | 我违法拯救我所爱的人 |拯救心灵 |第10集](https://www.youtube.com/watch?v=xxAknGzwPSw)
 
 ---
 ### 0003. Douyin
+**[Mona]{p}**
 * **[Mona | 热爱生活，享受生活，活在当下！ | 三千章 | Douyin](https://v.douyin.com/wOG6LH62MDw/)**
   - [开心就好 | 英文语录 | 生活很好，记得微笑，众口难调，开心就好](https://v.douyin.com/xDTD6DaYERo/)
   - [人生中的每一次选择，都是一种渡，有的人越过小溪，有的人越过海洋！ | 英文语录](https://v.douyin.com/x-fPjM64Q-g/)
 
 ---
+**[在线英语网课]{p}**
 * **[在线英语网课 | 课程涵盖: 零基础英语, 启蒙英语, 雅思口语, 商务英语 | 二千章 | Douyin](https://v.douyin.com/gp1CxFZ-ihY/)**
   - [英语流利说英语，英语流利说英语水平测试，流利说app学英语靠谱吗，外教一对一网课，来看看学生真人外教上课视频，比线下划算！ 跟着外教老师学英语，快速提高英语水平！六个月后进步非常大，轻松和外教交流，经验分享给大家，| 跟着外教老师提高英语口语 | 英语流利说app](https://v.douyin.com/37zdZhEhzJM/)
   - [新东方线上雅思网课，新东方线上雅思培训，雅思英语口语提升首选！外教1对1，25分钟纯英文对话+即时纠错，发音地道、自信开口。](https://v.douyin.com/5CVVaQZgPpM/)
   - [51talk英语课程，51talk](https://v.douyin.com/kNnZmFrMVzU/)
 
+---
+**[莘莘云课堂]{p}**
 * **[莘莘云课堂 | 学科类英语知识归纳总结 ✍️原创英语时文及习题组每日更新 | 二千章 | Douyin](https://v.douyin.com/S9SpIxflWIo/)**
 
   ---
@@ -538,6 +576,7 @@
     - [六尺巷 | 020](https://v.douyin.com/nyNfwbv8vDQ/)
 
 ---
+**[英语口语外教老师Lisa]{p}**
 * **[英语口语外教老师Lisa | 二千章 | ](https://v.douyin.com/EZW3DGFW1gc/)**
   - [ 7岁娃的第一次外教课 ，线上一对一外教，半个小时沉浸式的英文环境，有输入有输出，有实时互动，而且还是一对一](https://v.douyin.com/i5yqbkg2rJ4/)
   - [15岁初中生零基础学习英语口语，零基础外教英语，绝佳口语对话练习，与外教老师一对一练习英语，你会更快地进步，口语听力突飞猛进 |Teacher: Anna MaeA](https://v.douyin.com/QK9vQfesZ44/)
@@ -545,27 +584,31 @@
   - [大学生跟着外教真实上雅思课实况，外教一对一网课，来看看学生真人外教上课视频，比线下划算！ 跟着外教老师学英语，快速提高雅思英语水平](https://v.douyin.com/CJe4M0Wc_J0/)
 
 ---
+**[英语荷花老师]{p}**
 * **[英语荷花老师 | 剑桥大学认证英语培训师、高途优秀主讲老师 | 美国公立学校优秀教师、 10年三国英语教学经验、 跟我学方法 听口很简单 | 三百章 | Douyin](https://v.douyin.com/Vg-W1zrfwHM/)**
   - [成事者的两把钥匙：笑对麻烦，静避是非](https://v.douyin.com/fgSi9kHgwGo/)
   - [游泳队出国前狂练口语…原来冠军也怕尬聊](https://v.douyin.com/FnlhLmSd008/)
   - [6个让老外惊呆的地道表达](https://v.douyin.com/RGGHIDywfjQ/)
 
 ---
+**[Boya松绑了]{p}**
 * **[Boya松绑了 | 能松绑的 只有自己 刀就在你手里 | 伍佰章 | Douyin](https://v.douyin.com/S7sDJ3gSei0/)**
 
   ---
-  **[001. 开窍变厉害合集]{p}**
+  **[001. 开窍变厉害合集]{g}**
   - [灵魂 | 人生 | 人间清醒 | 成长 | boya心里话 | 001](https://v.douyin.com/bDdBSJ_TU4U/)
   - [来着35岁大佬的人生建议 | 005](https://v.douyin.com/xXuSOHthFZo/)
   - [多学点东西，在社会上才能不吃亏 | 007](https://v.douyin.com/rGHiLBXuumM/)
 
 ---
+**[CC英语听读]{p}**
 * **[CC英语听读 | 每日英语文章分享,一起来打卡学习 |  百章 | Douyin](https://v.douyin.com/VQVWqMakCdo/)**
   - [And i have learned that one important trait that distinguishes those who truly excel in life is hard work.](https://v.douyin.com/HL_dxJG0lUA/)
   - [放松美好的生活。](https://v.douyin.com/7h-65W0Gj8I/)
   - [付出才会有收获！](https://v.douyin.com/gkfcsJ1BGCA/)
 
 ---
+**[阿崔cxr]{p}**
 * **[阿崔cxr | 句乐部创始人 用游戏化的方式通过句子习得英语 谨慎体验 小心上瘾 | 百章 | Douyin](https://v.douyin.com/db2HKpQSCl4/)**
   - [句乐部的小高手 英语这么学就对了 重复重复再重复才是习得语言的秘诀 | 句乐部 | 认真学习的孩子 | 英语学习](https://v.douyin.com/peijB1BjDW0/)
   - [5分钟上手句乐部 | 新手不完全指北🚀 📱 今天给大家介绍句乐部的新手指北 🎯 这是一个专注于英语句型练习的在线学习平台,让我带你快速了解如何开始使用~
@@ -576,151 +619,182 @@
   - [再见，2025！ | 创始人故事 | 创业日记 | 句乐部 | 无痛学英语 | 学英语](https://v.douyin.com/LrW2fSHy77U/)
 
 ---
+**[思她说说]{p}**
 * **[思她说说 | 读书 | 诗词 | 慢生活 愿我分享的文字，能成为你疲惫生活里的温柔解药 | 先完成再完美, 做永远清醒且有温度的自己 | 二百章 | Douyin](https://v.douyin.com/xlJh-zfWtME/)**
   - [胡适说一个人愚昧的四大表现：第一：对从未见过的人恨之入骨。第二，对从未做过的事引以为豪。第三，对吹捧出来的神倒头就拜。第四，对画而未得的饼感恩戴德](https://v.douyin.com/5HVKAmv6d-s/)
   - [学来的都是术，悟道才是道。术可以学，道只能悟。从书上和别人那学来的，我们称之为知识。纸上得来终觉浅，绝知此事要躬行。只有自己在生活中、实践中领悟到的，才是真正的智慧。](https://v.douyin.com/OPBccatDBLY/)
   - [自由第一课，接受没有人爱你。自由第二课，任何人的爱都是负担。自由第三课，爱上任何人都无法自由。自由第四课，接受所有的关系都是阶段性的，活在缘分里而非关系里。自由第五课，释怀所有人的离开。自由第六课，允许一切发生。爱人之前先学会爱自己。](https://v.douyin.com/nEUnRmmg2zE/)
 
 ---
+**[福瑶]{p}**
 * **[福瑶 | 自由、无限、感恩、依心而活🍀 治愈 | 生活——读书修气质、写字养心性！希望这里可以给大家带来力量和温暖！以道养心, 以善陪伴. | 百章 | Douyin](https://v.douyin.com/j_rYzYfG3dg/)**
   - [来时的路，也还在路上，待，顶峰相见 | 无人扶我青云志我自踏雪至山巅](https://v.douyin.com/9C1wwoXd1SA/)
   - [苦尽甘来时，再讲来时路，每一步都算数，困卦是告诉我们当进退两难时，时机未到就先安心的养精蓄锐，人生除了生死，其他都是擦伤，好好把当下的每一天过好](https://v.douyin.com/G7UVVSo4SUg/)
   - [伴侣是不是命定？人死后去了哪里？世上真的有"魂"吗](https://v.douyin.com/9P71uxs3btQ/)
 
   ---
-  **[001. 学习《周易》的不焦虑]{p}**
+  **[001. 学习《周易》的不焦虑]{g}**
     - [乾卦周易第一卦 初九爻"潜龙勿用"事以密成，言以泄败 | 001](https://v.douyin.com/QzzKknHIjeA/)
     - [有福之人无心插柳柳成荫 无福之人机关算尽尽成空 | 007](https://v.douyin.com/k3OT-g5PKR4/)
 
   ---
-  **[002. 今天说个玄学]{p}**
+  **[002. 今天说个玄学]{g}**
     - [刷到这条视频说明老天在告诉你：往后的日子，我们松快儿的过 | 001](https://v.douyin.com/qFe1EfOsGvY/)
     - [突然意识到一个问题，如果此生只能爱一个人，那为什么不按照自己的理想型培养自己 | 028 ](https://v.douyin.com/rLpkm-Kk7Vg/)
 
 ---
+**[mily英文绘本故事]{p}**
 * **[Emily英文绘本故事 | 北大本硕 | 15年 + 教育人 | 俩娃妈妈 | 把教育经验熬成原创英语绘本故事 | 用妈妈的视角, 讲孩子能听懂的英文内容, 每天5分钟磨耳朵,陪娃轻松爱上英语 | 百章 | Douyin](https://v.douyin.com/jkP_utJS_p8/)**
   - [守株待兔英文版](https://v.douyin.com/o-1mfFfzW4M/)
   - [狮子王](https://v.douyin.com/erRH2wGf7ss/
   - [疯狂原始人](https://v.douyin.com/6M9pCejaAZI/)
 
 ---
+**[茵茵老师]{p}**
 * **[茵茵老师 | 一名一线英语教书匠 | 五百章 | Douyin](https://v.douyin.com/APnunC4tVXM/)**
   - [励志英语](https://v.douyin.com/FS3sz0uAsbs/)
 
 ---
+**[口语侠–Morgan教雅思]{p}**
 * **[口语侠–Morgan教雅思 | 二百章 | Douyin](https://v.douyin.com/8yNeQLjVlPs/)**
   - [口语练习](https://v.douyin.com/8NHv93dqy7w/)
 
 ---
+**[Mia英语精读自动化工具屋]{p}**
 * **[Mia英语精读自动化工具屋 | 五百章 | Douyin](https://v.douyin.com/IsPU3JHbfgE/)**
   - [世界新闻](https://v.douyin.com/fXTP_0hFVW8/)
 
 ---
+**[每日英语]{p}**
 * **[每日英语 | 五百章 | Douyin](https://v.douyin.com/GD4AG2UBaQU/)**
   - [英语 | 英语口语 | 英语跟读 | 英语合拍配音朗读](https://v.douyin.com/gIOKICHzYGo/)
   - [英语 | 英语口语 | 英语跟读 | 英语合拍](https://v.douyin.com/4VW0GkiC3dY/)
   - [英语 | 英语口语 | 英语跟读 | 英语合拍配音朗读](https://v.douyin.com/t-P1OJOU168/)
 
 ---
+**[Aileen琳琳]{p}**
 * **[Aileen琳琳 | 英语翻译研究生毕业/本硕211 上海高级口译/前省重点高中英语老师 | 五百章 | Douyin](https://v.douyin.com/NUoIHP865BE/)**
   - [学生的川渝妈妈好温柔哈哈哈 | 英语口语](https://v.douyin.com/76J8NKpbjTg/)
   - [谢谢，有被油到，哈哈哈哈 | 英语口语](https://v.douyin.com/-8r4FrtMjrc/)
 
 ---
+**[冯同学读英语]{p}**
 * **[冯同学读英语 | 冯同学💤 是我儿子本人的抖音号码，感兴趣的也可以关注一下 | 千章 | Douyin](https://v.douyin.com/j8P2OAq9Eps/)**
   - [点滴积累不慌不忙，温柔坚持，终会遇见更好的自己](https://v.douyin.com/Xs7FtSC4edc/)
   - [日常练英语，是给自己的温柔充电，也是奔赴远方的铺垫](https://v.douyin.com/5p_mjill2yo/)
   - [不必焦虑进度，认真对待每一次练习，英语自然会温柔回馈](https://v.douyin.com/SpEE-CvBs6I/)
 
 ---
+**[每日英语天天练]{p}**
 * **[每日英语天天练 | 百章 | Douyin](https://v.douyin.com/BWtb9hqpzkY/)**
   - [每日英语|海洋生物类单词 | 英语  | 英语没那么难  | 实用英语  | 小学英语  | 单词速记](https://v.douyin.com/MpWFz83OIDI/)
   - [每日英语|一图学完调味品类单词| 英语 | 英语没那么难 | 日常英语 | 实用英语 | 亲子英语](https://v.douyin.com/yqX9yXneiRw/)
   - [分类记单词|自然景观类 | 英语  | 英语没那么难  | 实用英语  | 日常英语  | 亲子英语](https://v.douyin.com/paBZ7B2LMWg/)
 
 ---
+**[Cleo的小世界]{p}**
 * **[Cleo的小世界 |  二百章 | Douyin](https://v.douyin.com/62TEDPrsx9k/)**
   - [Cleo讲科普-拿破仑真的很矮吗](https://v.douyin.com/OG1c7jv26RQ/)
 
 ---
+**[LearnAndRecord]{p}**
 * **[LearnAndRecord | 二百章 | Douyin](https://v.douyin.com/cytyFEYt_E0/)**
   - [第三十二集|A1 英语听力练习 用英语思考](https://v.douyin.com/4lsQ08Voybw/)
 
 ---
+**[超能英语听力]{p}**
 * **[超能英语听力 | 三百章 | Douyin](https://v.douyin.com/lX4sHA_1d7Q/)**
   - [生活英语](https://v.douyin.com/Z_iHRNFp-XI/)
 
 ---
+**[keke]{p}**
 * **[keke](https://kekenet.com)**
 
 ---
+**[英语学习Pie]{p}**
 * **[英语学习Pie | 整理了过往80期Vlog的900句 |从慢英语起步 和你一起沉浸式磨耳朵练口语 分享学习视频及地道口语素材 | 百章 | Douyin](https://v.douyin.com/lZB9XB_5XR0/)**
   - [全英VLOG｜宝藏博主解锁英语的时间表达 全英VLOG｜宝藏博主解锁英语的时间表达 视频来源｜**Youtuber: Miss Jean Teaches**](https://v.douyin.com/g_lCWolBqas/)
   - [要多久才能说一口流利英语 | **Youtuber: Miss Jean Teaches**](https://v.douyin.com/pfXTpJlJ3Pk/)
 
 ---
+**[轻松场景英语]{p}**
 * **[轻松场景英语 | 百章 | Douyin](https://v.douyin.com/6h1G6rk_EUQ/)**
   - [关于家庭|每日英语](https://v.douyin.com/MpGNreYwAQg/)
 
 ---
+**[英文分享]{p}**
 * **[英文分享 | 一百五十章 | Douyin](https://v.douyin.com/7-G0O3pffJE/)**
   - [生活会眷孤勇者，也会压倒犹豫不决的人。](https://v.douyin.com/kwfk-79Ern4/)
 
 ---
+**[英文学习]{p}**
 * **[英文学习 | 二百章 | Douyin](https://v.douyin.com/vBJ3ikPtYcw/)**
   - [每天进步一点](https://v.douyin.com/spLFlpZjC2o/)
 
 ---
+**[周六English]{p}**
 * **[周六English | 一百五十章 | Douyin](https://v.douyin.com/-t1NofrWDHU/)**
   - [美国母亲节的历史](https://v.douyin.com/8oQWIVf230o/)
 
 ---
+**[松鼠联盟]{p}**
 * **[松鼠联盟 | 英文绘本原创作者 | 愿每个故事都是跨越时空的握手 | 百章 | Douyin](https://v.douyin.com/DJJPyBRIkvs/)**
   - [书和玫瑰 每天五分钟英语绘本 原创英语绘本动画 英语磨耳朵 | 看动画学英语  | 英语绘本  | 英语没那么难](https://v.douyin.com/HXRwmvhjQ4E/)
   - [卖火柴的小女孩 每天五分钟英语绘本 原创英语绘本动画 英语磨耳朵 | 看动画学英语  | 英语绘本](https://v.douyin.com/1ucbgFGNCfE/)
 
 ---
+**[Daily Read]{p}**
 * **[Daily Read | 日读 | 百章 | 付费 | Douyin](https://v.douyin.com/eRqySSmpQ-U/)**
   - [精品英语磨耳朵：想英语流利？每天和它对话5分钟 高清音质 & 精品内容 & 双语字幕，高效激活英语潜能，沉浸式强化英语听力 | 英语 | 英语学习 | 英语听力 | 英语口语 | 英语磨耳朵](https://v.douyin.com/2cJcqd95DjU/)
   - [精品英语磨耳朵：5个简单测试，精准定位你的英语水平 高清音质 & 精品内容 & 双语字幕，高效激活英语潜能，沉浸式强化英语听力 | 英语 | 英语听力 | 英语口语 | 英语学习 | 英语磨耳朵](https://v.douyin.com/c_EtIkbNixE/)
 
 ---
+**[DL 英语听力]{p}**
 * **[DL 英语听力 | Daily English Listening 坚持100天 | Douyin | 十余章 | Douyin](https://v.douyin.com/3Msadks-DXo/)**
   - [第7集 Englishpod 电脑中病毒了 坚持100天，英语听力，突飞猛进 适合初学者英语实用听力素材 | 每日学习打卡 | 英语听力 | 日常英语 | 每日英语 | 英语没那么难](https://v.douyin.com/8yOp7ChuHyc/)
 
 ---
+**[Simon英语原著阅读]{p}**
 * **[Simon英语原著阅读 | 每本书都有整理全书单词及短语，橱窗购书附赠 | 半百 | Douyin](https://v.douyin.com/tn3aP_8WEWs/)**
   - [你所需要学习的点都在书里。评论区告诉我你最喜欢的书，我们一起来读 | 学英语 | 英语学习方法 | 英语阅读 | 让阅读成为一种习惯 | 英语](https://v.douyin.com/k7sJvR2oj4U/)
   - [怎样练好英语口语 英语口语到底该怎么去练？小子不才，学习十余载，愿与君共享，与君共勉！英语口语练习 | 英语口语 | 流利英语 | 纯正英语 | 让阅读成为一种习惯](https://v.douyin.com/P_mjGHn_U2U/)
 
 ---
+**[快听听力]{p}**
 * **[快听听力 | 二百章 | Douyin](https://v.douyin.com/06UXFkAWso0/)**
   - [考试神器](https://v.douyin.com/wHfY52mXcJU/)
 
 ---
+**[开源雅思]{p}**
 * **[开源雅思](https://www.ieltsday.com/)**
   - [雅思词汇真经.pdf](https://drive.google.com/drive/folders/1TzLOdRB6AnEylq8nTxUp1r6lNTeQ3fhb)
 
 ---
+**[FreeMdict Foru]{p}**
 * **[FreeMdict Foru - 自由 无门槛 免费](https://forum.freemdict.com/t/topic/9657)**
 
 ---
+**[FreeMdict Forum]{p}**
 * **[FreeMdict Forum](https://forum.freemdict.com/)**
   - [牛津高阶、韦氏高阶和剑桥在线完美版](https://forum.freemdict.com/t/topic/25795/1)
   - [downloads.freemdict](https://downloads.freemdict.com/Recommend/)
   - [英语学习资源导航](https://en.knowledgefxg.com/)
 
 ---
+**[BigShot英语]{p}**
 * **[BigShot英语 | 五百章 | Douyin](https://v.douyin.com/6Oo1jTjwdM0/)**
 
 ---
+**[Felix英语]{p}**
 * **[Felix英语 | 千章 | Douyin](https://v.douyin.com/LuaEhzr_HZc/)**
   - **[Youtuber: Ariannita]**
 
 ---
+**[甜甜教英语]{p}**
 * **[甜甜教英语 | 五百章 | Douyin](https://v.douyin.com/mpd3SzfNxI4/)**
 
 ---
+**[朱梓橦]{p}**
 * **[朱梓橦 | 凤凰卫视双语主持人、媒体人、导演、律师 | 分享自律健康生活、语言艺术、法律小常识 | 千章 | Douyin](https://v.douyin.com/nz8G2JiTgHI/)**
   - [主持凤凰卫视《风云对话》，专访芬兰驻华大使孟蓝](https://v.douyin.com/4xiRS0bhysM/)
   - [梦想本不会发光，发光的是追梦的你](https://v.douyin.com/AffVAd2qCpE/)
@@ -728,21 +802,26 @@
   - [把手机调成"灰度模式"，眼睛会感谢你](https://v.douyin.com/JCHuD2REfe8/)
 
 ---
+**[]{p}**
 * **[英语学习打卡 | 二百章 | Douyin](https://v.douyin.com/cYhcSTZIvYs/)**
   - [每天跟我学涨知识井英语](https://v.douyin.com/PhNArQe-h2o/)
 
 ---
+**[]{p}**
 * **[薛麦Max | 百章 | Douyin](https://v.douyin.com/B17fqLy_u_0/)**
 
 ---
+**[]{p}**
 * **[钱继東 | 百章 | Douyin](https://v.douyin.com/l2iXNfLhvdg/)**
 
 ---
+**[Steve Kaufmann]{p}**
 * **[Steve Kaufmann | 五十章 | Douyin](https://v.douyin.com/TxLEBUqeOUw/)**
   - [跨过心理障碍](https://v.douyin.com/MBMVC1WAaBI/)
-  - 学语言害怕开口？这招帮你轻松跨过心理障碍 很多人把说错一句话看得太严重，结果越想避免错误，心理负担就越重。反而，那些敢于多听、多读、多试的学习者，更快突破了心理障碍。 这也印证了心理语言学里的一个理论： 📖 Affective Filter Hypothesis（情感过滤假说） —— 当我们焦虑、紧张时，大脑对语言的吸收效率会下降；而在放松、愉快的状态下，我们更容易习得语言。
+  - [学语言害怕开口？这招帮你轻松跨过心理障碍 很多人把说错一句话看得太严重，结果越想避免错误，心理负担就越重。反而，那些敢于多听、多读、多试的学习者，更快突破了心理障碍。 这也印证了心理语言学里的一个理论： 📖 Affective Filter Hypothesis（情感过滤假说） —— 当我们焦虑、紧张时，大脑对语言的吸收效率会下降；而在放松、愉快的状态下，我们更容易习得语言。]{g}
 
 ---
+**[TED 视频精选]{p}**
 * **[TED 视频精选 | 千章 | Douyin](https://v.douyin.com/ww6tnRMHqKM/)**
   - [6个科学学习法](https://v.douyin.com/fVrslOuU-lQ/)
   - 情绪记忆法（越骂记得越牢）
@@ -753,9 +832,11 @@
   - 3遍循环记忆（永久刻进大脑）
 
 ---
+**[TED精选演讲]{p}**
 * **[TED精选演讲 | 五百章 | Douyin](https://v.douyin.com/QNPfTBHhKhU/)**
 
 ---
+**[TED今日演讲]{p}**
 * **[TED今日演讲 | 每日更新全球演讲，学习英语，聆听思想 | 百章 | Douyin](https://v.douyin.com/TTu5BG_zzbE/)**
   - **[泰勒纽约大学演讲：现在开始你要靠自己了](https://v.douyin.com/o0jHjUE0uLc/)**
   - **[奥巴马献给高中毕业生的演讲](https://v.douyin.com/BiX8jUQobFI/)**
@@ -783,146 +864,153 @@
 * **[Lisha学姐 | 雅思 | 叁佰章 | Douyin](https://v.douyin.com/USzPZ3I9MJ8/)**
 
   ---
-  **[001. 雅思口语2026年1-4月]{p}**
+  **[001. 雅思口语2026年1-4月]{g}**
     - [雅思口语1-4月Part1——Pets and Animal | 001](https://v.douyin.com/T9z3ahDJfYE/)
     - [雅思口语1-4月Part1新题——Team Sports Sports team | 008](https://v.douyin.com/X-z-HTkpME4/)
 
   ---
-  **[002. 雅思口语2025年9-12月话题示范合集]{p}**
+  **[002. 雅思口语2025年9-12月话题示范合集]{g}**
     - [雅思口语9-12月Part3——不喜欢快速做决定 | 001](https://v.douyin.com/HlhqTj_wueA/)
     - [雅思口语Part3——不要再'it depends'了 | 029](https://v.douyin.com/_hkoW5fy880/)
 
   ---
-  **[003. 雅思口语2025年05-08月口语话题示范]{p}**
+  **[003. 雅思口语2025年05-08月口语话题示范]{g}**
     - [雅思口语5-8月Part1——Spending time | 001](https://v.douyin.com/waRscq8t44E/)
     - [雅思口语1-4月Part3新题——坦率的表达情感是好是坏 | 051](https://v.douyin.com/i8LeNDDV9IA/)
 
   ---
-  **[003. 雅思口语2025年01-04月话题示范合集]{p}**
+  **[003. 雅思口语2025年01-04月话题示范合集]{g}**
     - [雅思口语1-4月Part3话题高分示范 | 001](https://v.douyin.com/3vIIKhrHI7U/)
     - [雅思口语1-4月换题季训练营来啦 | 035](https://v.douyin.com/-qCOAKpiUXI/)
 
   ---
-  **[004. 雅思口语2025年09-12月口语话题示范]{p}**
+  **[004. 雅思口语2025年09-12月口语话题示范]{g}**
     - [雅思口语9-12月Part2新题——公园/花园 | 001](https://v.douyin.com/gvFn1IQakYs/)
     - [雅思口语11月Part2新题——重要的河流/湖泊 | 039](https://v.douyin.com/-yrTCGJ8KKY/)
 
 ---
+**[夏冰雹频道]{p}**
 * **[夏冰雹频道 | 英语教育博主 专注英文教学五年 听力口语阅读理解好评如潮 | 书籍: 绽放作者 | 激发年轻人挖掘热爱与潜能, 活出想要的人生 | 千章 | Douyin](https://v.douyin.com/suT9hTmBYss/)**
     - [15年的好习惯](https://v.douyin.com/6Y8P2kxOQEU/)
-    - 30岁活成18岁的状态？我坚持了15年的好习惯，让我精力充沛 从青春期熬夜发胖的 "死肥宅" 到彻底改变：15 岁那年我靠调整生活习惯瘦了 35 斤，之后 15 年始终坚持不熬夜、每天运动、拒绝超加工食品，现在 30 岁仍保持着 15 岁般的高能量状态。这些习惯不仅让我精力充沛，更让学业事业一路稳步提升。 视频里会拆解我的规律睡眠技巧、随时随地能做的运动方案、简单易执行的饮食原则，以及如何利用每天黄金 4 小时放大成长效率。只要你跟着做就能养出持久高能量，越活越顺
+    - [30岁活成18岁的状态？我坚持了15年的好习惯，让我精力充沛 从青春期熬夜发胖的 "死肥宅" 到彻底改变：15 岁那年我靠调整生活习惯瘦了 35 斤，之后 15 年始终坚持不熬夜、每天运动、拒绝超加工食品，现在 30 岁仍保持着 15 岁般的高能量状态。这些习惯不仅让我精力充沛，更让学业事业一路稳步提升。 视频里会拆解我的规律睡眠技巧、随时随地能做的运动方案、简单易执行的饮食原则，以及如何利用每天黄金 4 小时放大成长效率。只要你跟着做就能养出持久高能量，越活越顺]{g}
     - [DOSE效应](https://v.douyin.com/2UCYS6KdXow/)
-    - 拖延症晚期、焦虑爆棚？这本书帮 5 万人找回精力｜冰雹讲书 拖延症晚期？焦虑内耗没动力？你不是懒，而是大脑的D.O.S.E系统失调了！多巴胺、催产素、血清素、内啡肽——这四种关键神经递质，正是掌控你动力、情绪和专注力的核心开关。 本期视频为你深度拆解TJ Power英文原版《DOSE效应》，这套已帮助5万人提升50%%专注力和精神能量的科学方法。无需痛苦自律，通过调节4个大脑开关：
+    - [拖延症晚期、焦虑爆棚？这本书帮 5 万人找回精力｜冰雹讲书 拖延症晚期？焦虑内耗没动力？你不是懒，而是大脑的D.O.S.E系统失调了！多巴胺、催产素、血清素、内啡肽——这四种关键神经递质，正是掌控你动力、情绪和专注力的核心开关。 本期视频为你深度拆解TJ Power英文原版《DOSE效应》，这套已帮助5万人提升50%%专注力和精神能量的科学方法。无需痛苦自律，通过调节4个大脑开关：]{g}
       - 🔹 多巴胺：戒断"快多巴胺"，重建持久内在驱动力
       - 🔹 催产素：改善社恐、孤独感，提升安全感与自信
       - 🔹 血清素：肠道健康直接影响情绪，简单饮食调理告别焦虑
-      - 🔹 内啡肽：用"适度挑战"激活天然止痛剂，获得平静愉悦 我将此书与我十余年的生活习惯集合，分享具体可操作的"高能量体质"养成方案。从今天开始，让专注力和好状态成为自然而然的事！
+      - 🔹 内啡肽：用"适度挑战"激活天然止痛剂，获得平静愉悦 我将此书与我十余年的生活习惯集合，分享具体可操作的"高能量体质"养成方案。从今天开始，让专注力和好状态成为自然而然的事！]{g}
     - [为什么我从小在中国生活，却把英语练到了母语水平？](https://v.douyin.com/CWwCplRLEK0/)
 
-  **[001. 全英文Talk]{p}**
+  **[001. 全英文Talk]{g}**
     - [无用的爱好 | 001 | 全英Talk](https://v.douyin.com/Q3FwrJrJa1s/)
     - [你的朋友圈，是你最好的简历｜全英 Talk 越来越多人把朋友圈锁进 "3 天可见", 让主页变得一片空白, 但其实, 这方小小的空间, 正是你最低成本、最鲜活的个人简历与作品集](https://v.douyin.com/f0N5eVNdyaA/)
     - [无助是人的本能，自主需要刻意练习 | 016 | 全英Talk](https://v.douyin.com/QznrQH4D7JM/)
 
   ---
-  **[002. 冰雹讲书 | Min: 10-20min]{p}**
+  **[002. 冰雹讲书 | Min: 10-20min]{g}**
     - [2024年09年 | 我是如何实现英文词汇量3年2万、6年3万的 | 001](https://v.douyin.com/EC0CmC7GcUs/)
     - [随他们去 | Author: Mel Robbins | 015 ](https://v.douyin.com/c9wQdbYk4XM/)
     - 冰雹讲书 《随他们去》是一本在北美广泛流行的成长类书籍，作者 **Author: Mel Robbins** Author: 用 13 年时间，从中年失业、负债 80 万美金的人生低谷，走到全球顶级播客与演讲者。 她总结出一个极其重要的认知：成年人最大的内耗，来自控制你无法控制的人和事。
     - 本期视频将系统拆解书中最有力量的 4 个心法，帮你在家庭、友情、亲密关系中，建立清晰的边界感，减少无谓消耗，把人生的主动权，重新握回自己手中。
 
   ---
-  **[003. 冰雹个人成长故事]{p}**
+  **[003. 冰雹个人成长故事]{g}**
     - [我如何10年收获英语口语的蜕变？从小白到英语记者的训练方法 | 001](https://v.douyin.com/ZA_3bsy-DgY/)
     - [写日记20年：从人生错题本到人生启示录，我用它创造心仪人生 我坚持写了20年日记。| 029](https://v.douyin.com/vJwZyPpmYNc/)
 
   ---
-  **[004. 学英语技巧]{p}**
+  **[004. 学英语技巧]{g}**
     - [突破英语听力口语瓶颈01｜**掌握连读，听懂老外说话，说得更流利** | 001](https://v.douyin.com/l6d1Vs4hktk/)
     - [1个神奇技巧，激活你的英语口语大脑，流利度翻倍 | 057](https://v.douyin.com/9DvphX3Pj9I/)
 
   ---
-  **[005. 万能高效学习法 | Min: 4min]{p}**
+  **[005. 万能高效学习法 | Min: 4min]{g}**
     - [**短时集中的学习，让学习事半功倍** | 001](https://v.douyin.com/jgADHlrGyFM/)
     - [**30秒视觉聚焦训练，提升专注力** | 012](https://v.douyin.com/-V5afDLbvNs/)
 
   ---
-  **[006. 变聪明秘籍]{p}**
+  **[006. 变聪明秘籍]{g}**
     - [智商是固定的吗？不，你可以变得更聪明 | 001](https://v.douyin.com/rhBeNvN_Gv4/)
     - [学习音乐，全面激发大脑潜能 | 007](https://v.douyin.com/_qrwgcGnQdU/)
 
   ---
-  **[007. 抗焦虑秘籍 | Min: 4min]{p}**
+  **[007. 抗焦虑秘籍 | Min: 4min]{g}**
     - [如何停止脑海里的负面声音 | 励志演讲 | 001](https://v.douyin.com/CCKv-uFkmeU/)
     - [把千分之一的想法变成行动，就能打败焦虑 | 005](https://v.douyin.com/51WPuh3Sq54/)
 
   ---
-  **[008. 三分钟英语美文 | Min: 4min]{p}**
+  **[008. 三分钟英语美文 | Min: 4min]{g}**
     - [人们永远不会忘记你带给他们的感受 | 美国作家: Maya Angelou | 001](https://v.douyin.com/Z5MZgleQMy4/)
     - [你是绝对独一无二的 | 018](https://v.douyin.com/VeY5vjyGn0Y/)
 
   ---
-  **[009. 好口才养成秘籍 | Min: 5min]{p}**
+  **[009. 好口才养成秘籍 | Min: 5min]{g}**
     - [好口才养成秘籍 | 001](https://v.douyin.com/qHHuoJmgqU4/)
     - [好口才养成秘籍 | 005](https://v.douyin.com/Or7htLqWKC0/)
 
   ---
-  **010. 学校不告诉你的事 | Min: 10min**
+  **[010. 学校不告诉你的事 | Min: 10min]{g}**
     - [告别普通，从挖掘相对优势开始 | 001](https://v.douyin.com/MmLDkI85IDI/)
     - [怎么找到优质的实习与工作 | 014](https://v.douyin.com/lH2NiHHIpI4/)
 
   ---
-  **011. 世界有理所见闻 | Min: 5min**
+  **[011. 世界有理所见闻 | Min: 5min]{g}**
     - [资本撑起的教培行业水太深，真正的教育是自我教育 | 001](https://v.douyin.com/hEPGf4kqY0k/)
     - [在印尼救助濒死的海龟，重新思考人与自然的关系 | 006](https://v.douyin.com/54RXe-SD97w/)
 
 ---
+**[美国小学Sunny老师]{p}**
 * **[美国小学Sunny老师 | 口语星球创始人 | 英语原版娃家长必读 | 曾任教与美国蓝丝带公立小学 | 千章 | Douyin](https://v.douyin.com/tUM9U3-NVZ0/)**
-  **[001. 口语星球培养的十万个英语牛娃]{p}**
+
+  ---
+  **[001. 口语星球培养的十万个英语牛娃]{g}**
     - [学生合集 | 001](https://v.douyin.com/6P8kyOt8vrE/)
     - [用"听来带动读"，效果绝对翻倍 | 048](https://v.douyin.com/b7XMTfoKW_A/)
 
   ---
-  **[002. 英语启蒙避坑指南]{p}**
+  **[002. 英语启蒙避坑指南]{g}**
     - [全网zui全英语教材改版解读-让语言回归本质 | 001](https://v.douyin.com/yVDaqDHoMDE/)
     - [自然拼读和分级阅读根本不是二选一⚠️而是拼读+解码+精读+ 泛读+写作基础多线条同步发展，最终才能衔接到学术阅读和学术写作 | 220](https://v.douyin.com/_Zha6kRj2mM/)
 
   ---
-  **[003. 国际教育理念分享]{p}**
+  **[003. 国际教育理念分享]{g}**
     - [名校之UWC世界联合学院 | 001](https://v.douyin.com/qbpa9iEp4pA/)
     - [沉浸式体验美国小学阅读课:如何分析作者的中心思想 | 042](https://v.douyin.com/x7GYh2wRRUY/)
 
   ---
-  **[004. 亲子英语(常见生活场景)]{p}**
+  **[004. 亲子英语(常见生活场景)]{g}**
     - [吃饭时可以和孩子说的英文 | 001 ](https://v.douyin.com/7muzcre0LbM/)
     - [赶紧收藏这些好玩的英语叠词，跟娃说起来吧 | 016](https://v.douyin.com/Ic5WCx1ydSM/)
 
   ---
-  **[005. 口语星球背后的顶尖语言学家]{p}**
+  **[005. 口语星球背后的顶尖语言学家]{g}**
     - [快来上Steve老师推荐的口语星球吧 | 001](https://v.douyin.com/x0H8_H8GwmE/)
     - [Alex老师喊大家来参加一年一度的万人复述大赛了 | 017](https://v.douyin.com/DD-FBWPoyek/)
 
   ---
-  **[006. Sunny老师的日常]{p}**
+  **[006. Sunny老师的日常]{g}**
     - [在亲妈滤镜下，我感觉老三四个月能听懂一点英语了 | 001](https://v.douyin.com/rRAKkwRt0Bo/)
     - [国庆节带美国朋友看中国🇨🇳她的一句话让我泪目 最让外国人惊叹的已经不仅仅是中国的高科技和美食了，而是 | 010](https://v.douyin.com/eqtaUmIoJCM/)
 
 ---
+**[橙爸情绪超稳定]{p}**
 * **[橙爸情绪超稳定 | 贰佰章 | Douyin](https://v.douyin.com/V4fGE6K1UnM/)**
   - [布鲁伊 |  动画](https://v.douyin.com/sm5w17VCXnk/)
 
   ---
-  **[001. 蓝色小考拉]{p}**
+  **[001. 蓝色小考拉]{g}**
     - [蓝色小考拉 | 动画 | 001](https://v.douyin.com/cAo-kNxRUc8/)
     - [小鸡彩虹 | 动画 | 011](https://v.douyin.com/UuQBXhphQjs/)
 
 ---
+**[ABC在路上- 突破英语]{p}**
 * **[ABC在路上- 突破英语 | 每个人都可以达到英语听力自由，分级大量听 | 二千章 | Douyin](https://v.douyin.com/lBdotnqjVYw/)**
   - [3个月突破英语](https://v.douyin.com/iIKcKoIhvKg/)
   - [HOW TO DEAL WITH DISRESPECTFUL PEOPLE](https://v.douyin.com/9bGOgE1-3rk/)
   - [How To Deal With a Narcissist](https://v.douyin.com/I0fqeWtg-zI/)
 
 ---
+**[北美外教一对一口语]{p}**
 * **[北美外教一对一口语 | 千章 | Douyin](https://v.douyin.com/5gy921EoPv0/)**
 
 ---
@@ -942,6 +1030,7 @@
   - [How to fix your entire life in 1 day](https://v.douyin.com/01ZnvXSZQdo/)
 
 ---
+**[跟着雅思考官即刻说]{p}**
 * **[跟着雅思考官即刻说 | 前任雅思考官Daniel 中国区写作 口语9年教学经验 | 三十章 | Douyin](https://v.douyin.com/gdn4JbcfBfU/)**
   - [雅思学习顺序](https://v.douyin.com/HXvsXOVgrN4/)
   - 雅思学习顺序很重要！ 千万别搞反顺序了。实际上，雅思备考只要摸准学习节奏，过程就会思路清晰、难度降低。靠谱的备考方法从无捷径可言，都是往届考生总结的实用经验，但大家也能依据自身基础灵活调整。
@@ -960,6 +1049,7 @@
       - 《雅思口语题库》：重要性无需多言，题库中的所有题目及对应答案，至少需完整练习两遍。 . 此外，所有推荐书籍均已整理完毕，可导入手机或 iPad 中随时学习。实际上，雅思备考只要摸准学习节奏，过程就会思路清晰、难度降低。靠谱的备考方法从无捷径可言，都是往届考生总结的实用经验，但大家也能依据自身基础灵活调整。
 
 ---
+**[LingQInChina]{p}**
 * **[LingQInChina | 欢迎大家关注LingQ语言学习平台 | 百章 | Douyin](https://v.douyin.com/jWFu-jYRcm0/)**
   - [Steve Kaufmann：欢迎中国朋友加入我的语言世界](https://v.douyin.com/306jXkMHjZM/)
   - **[LingQ](https://www.lingq.com/en/)**
@@ -967,16 +1057,19 @@
   - [语言学习到底需要做什么 语言不是靠背，是靠大量输入 + 自然吸收 | Min: 05:07](https://v.douyin.com/pNCcNTRFawc/)
 
 ---
+**[Linda老师英文故事]{p}**
 * **[Linda老师英文故事 | 知名IB国际学校一线老师 | 创动画片分级教学体系 | 英语启蒙 | 美式教育 | 同步IB国际学校课堂 | 三百章 | Douyin](https://v.douyin.com/1kltKx3OtS8/)**
   - [每天5分钟！用故事打造娃的"英语耳朵"，听说读能力全提升 | 英语启蒙](https://v.douyin.com/Dc6oAsuCwEg/)
 
 ---
+**[木木英语]{p}**
 * **[木木英语 | 📚英语爱好者 🧸努力学习英语中 ❤️好好吃饭💛好好睡觉 | 好好生活 | 二百章 | Douyin](https://v.douyin.com/QZzJk4kA2NE/)**
   - **[英语磨耳朵：如何寻找人生方向并明确自己的追求](https://v.douyin.com/PkE0mrjAIhc/)**
   - [英语磨耳朵：春节中国最重要的传统节日](https://v.douyin.com/bdWxc9528QA/)
   - [中国茶文化](https://v.douyin.com/puToofDaqWw/)
 
 ---
+**[久别辞]{p}**
 * **[久别辞 | 世界上任何书籍都不能带给你好运 但是它能让你悄悄成为自己 读过同一本书，就是我们最好的相逢。 | 二百章 | Douyin](https://v.douyin.com/-M5R0fs46Mo/)**
   - [5%改变 | 好书推荐| 成长必读| 书籍推荐|好书分享](https://v.douyin.com/UgBhNa-5yCk/)
 
@@ -993,6 +1086,7 @@
   - [今天分享的是杨绛传，不要活得太明白看淡一切， 做一个快乐的中年少女，中年是年龄，少女是心态。当我们看淡了所有的人和事，你就会明白这样一个道理。惜我者我惜之，嫌我者我弃之，懂我者，我惜之，爱我者我必爱之，生活是自己的，千万别为难自己，有什么样的能力，就过什么样的生活，尽力而为量力而行。做个温暖的人，有自己的喜好，有自己的原则，有自己的信仰。用顺其自然的态度过随遇而安的生活。余生站在属于自己的高度，看该看的风景。记住一个女人最好的状态，莫过于眼里写满了故事，脸上却不见风霜，不羡慕谁不嘲笑谁，也不依赖谁，只是悄悄的努力吞下委屈，喂大格局，活成自己喜欢的样子，成为自己的光]{g}
 
 ---
+**[山雨书苑]{p}**
 * **[山雨书苑 | AI-video |  LYwh阳光下没有新鲜事， 每一个你困惑的问题， 都能在书中找到答案 | 三百章 | Douyin](https://v.douyin.com/YpcJu_MHGuI/)**
   - [居里夫人 | 女性科学家 | 诺贝尔奖 | 辐射之母 | 一战英雄](https://v.douyin.com/kG0rG3dkMVc/)
   - [她发现的镭照亮了人类医学之路，也以辐射一寸寸焚烧着自己的生命。她是玛丽·居里——一位被教科书记载为"科学圣人"，却曾被骂为"波兰荡妇"、险被驱逐的受难者。 在停尸房改造的棚屋里熬煮4吨矿渣，用双手从酸雾与放射性尘埃中提炼出0.1克镭。丈夫车祸身亡后，她独自抚养女儿、成为法国首位女教授。 一纸与学生的情书却让她被举国唾骂，暴徒砸碎她家的窗户，诺贝尔委员会甚至劝她"别来领奖"。 然而一战爆发，这个被辱骂的女人却将私家车改成X光车，带着女儿驶入战壕，跪在血污中为士兵拍片，拯救了上百万生命。 她放弃镭的专利，说："它属于全人类。" 66岁，她死于长期辐射导致的骨髓衰竭，至今遗骸仍具放射性。 世界以痛吻她，她报之以歌——用一具千年后仍会"发光"的躯体，为人类换取了光明的未来。]{g}
