@@ -1378,6 +1378,16 @@
   - [英语原创绘本，磨耳朵每天五分钟 | 英语启蒙  | 亲子英语  | 治愈动画  | 每日英语](https://v.douyin.com/lqk3hDAjbhI/)
 
 ---
+**[繁花绘本屋]{p}**
+* **[繁花绘本屋 | 零基础英语启蒙，从绘本开始 | 📖英语启蒙＋情感启蒙＋表达提升 | 伍佰章 | Douyin](https://v.douyin.com/4vZx_cRbQB0/)**
+
+  ---
+  **[001.亲子对话启蒙绘本]{g}**
+    - [妈妈，你会做什么 | 001](https://v.douyin.com/xpusc1WfaCE/)
+    - [我们今天有什么课 | 077](https://v.douyin.com/W8mVhyWo3us/)
+
+
+---
 ### 0008. 文本
 **[英语家园Airt]{p}**
 * **[英语家园Airt | 西安点亮网络科技有限公司 | Douyin | 千章 | Douyin](https://v.douyin.com/wqHYHhqA0zc/)**
