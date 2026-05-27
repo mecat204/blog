@@ -1690,7 +1690,7 @@
 
   ---
   **[005. 英语演讲TED]{g}**
-    - [001](https://v.douyin.com/tB9hE1g_sog/ 复制此链接，打开Dou音搜索，直接观看视频！)
+    - [001](https://v.douyin.com/tB9hE1g_sog/)
     - [Treat Yourself As Someone You Love | 把自己当成你爱的人 | 002](https://v.douyin.com/LqkXYvx6EB4/)
 
 ---
