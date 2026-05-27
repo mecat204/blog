@@ -566,12 +566,12 @@
 * **[莘莘云课堂 | 学科类英语知识归纳总结 ✍️原创英语时文及习题组每日更新 | 二千章 | Douyin](https://v.douyin.com/S9SpIxflWIo/)**
 
   ---
-  **[001. 英语时文]{p}**
+  **[001. 英语时文]{g}**
     - [延迟退休英语怎么说 | 001](https://v.douyin.com/RvQqWiQTqBQ/)
     - [黑神话悟空获TGA年度最佳动作游戏 | 110](https://v.douyin.com/2aE4nCpiwR0/)
 
   ---
-  **[002. China Travel]{p}**
+  **[002. China Travel]{g}**
     - [故宫博物院 | 001](https://v.douyin.com/BKExDVlwQCs/)
     - [六尺巷 | 020](https://v.douyin.com/nyNfwbv8vDQ/)
 
