@@ -1694,6 +1694,7 @@
     - [Treat Yourself As Someone You Love | 把自己当成你爱的人 | 002](https://v.douyin.com/LqkXYvx6EB4/)
 
 ---
+**[英语大剧场]{p}**
 * **[英语大剧场 | 掌握一种语言，就是掌握一种看世界的方式 | 三百章 | Douyin](https://v.douyin.com/Sto8yPpvKCM/)**
   - [8岁的孩子一夜之间成为亿万富翁 | 短剧 | 原声 | 英语 | 英语没那么难 | 每天学习一点点]()
   - [Conversation for You丨 本期是朋友引荐初次见面的英文对话跟练，温柔语速，跟着开口，轻松搞定社交英语，告别初见尴尬](https://v.douyin.com/gqsmTK0Jmng/)
@@ -1705,6 +1706,7 @@
   - [藏在空气里的人类奇迹丨分级听读 本期带你深度了解每日相伴的 Wi-Fi：回溯马可尼开启无线时代、海蒂・拉玛助力技术研发的历史，拆解 Wi-Fi 的简单工作原理，讲述它如何改变学习、工作与情感连接，在温柔的英文讲述中，感受无形电波里的人类温暖与科技力量](https://v.douyin.com/NCt9DUAtRqk/)
 
 ---
+**[Mr.D标准美语频道]{p}**
 * **[Mr.D标准美语频道 | 标准美式发音领航者，敢说，会说，说的标准！| 五十章 | Douyin](https://v.douyin.com/DDC6bqfvd70/)**
   - [用简单的英语描述一天的生活，帮你轻松学会用英文介绍自己的日常。 | **Youtuber: LISTENING PRATICE**](https://v.douyin.com/anyxrtbstk4/)
 
