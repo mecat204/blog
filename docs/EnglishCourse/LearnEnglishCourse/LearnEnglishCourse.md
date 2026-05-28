@@ -23,8 +23,8 @@
 
 ---
 **[新概念英语]{g}**
-    - [**西瓜英语** | **新概念英语学习**](https://learnenai.com/)
-    - [**新概念英语** | NCE.ICHOCHY](https://nce.ichochy.com/)
+  - [**西瓜英语** | **新概念英语学习**](https://learnenai.com/)
+  - [**新概念英语** | NCE.ICHOCHY](https://nce.ichochy.com/)
 
 ---
 ### 0001. English Resource
