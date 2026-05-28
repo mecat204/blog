@@ -83,6 +83,12 @@
 * **[All Genshin Impact Cutscenes 1.0 - 6.4](https://www.youtube.com/watch?v=wqJXPkOMz4E)**
 
 ---
+**[IGNITE]{p}**
+* **[IGNITE | 3.41万 | Youtube](https://www.youtube.com/@IGNITE0911/videos)**
+  - [THE COMPLETE STORY OF GENSHIN IMPACT BEFORE SNEZHNAYA - FULL RECAP](https://www.youtube.com/watch?v=6Twj9J6v_Ws)
+  - [All Genshin Impact Cutscenes 1.0 - 6.4](https://www.youtube.com/watch?v=wqJXPkOMz4E)
+
+---
 ### 0003. Genshin Impact | miHoYo
 **[盛夏聆听深秋]{p}**
 * **[盛夏聆听深秋 | 千章 | Douyin](https://v.douyin.com/SYuVNWFyNaM/)**
