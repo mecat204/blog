@@ -564,6 +564,11 @@
 * **[童年童话商店 | 2.2万 | bilibili](https://space.bilibili.com/1420124479/lists)**
 
 ---
+### 0057. WowEnglish
+**[WowEnglish 第1季~第9季 648集]{p}**
+  - [WowEnglish 648集](https://www.bilibili.com/video/BV1tUakzaEyY?spm_id_from=333.788.player.switch&p=2)
+
+---
 ### 9999. 开源项目
 * **[必应 | bing.com](https://cn.bing.com/)**
 
