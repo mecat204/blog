@@ -49,7 +49,7 @@
 
 ---
 ### 0002. Genshin Impact | 大电影
-**[空空]{g}**
+**[空空]{p}**
 * **[空空 | 原神剧情整活 | 五百章 | Douyin](https://v.douyin.com/xZOlCE6uX34/)**
 
   ---
@@ -318,7 +318,7 @@
   - [**鸣潮** | 鸣潮弗洛洛](https://v.douyin.com/8QcxpolTiNw/)
 
 ---
-**[]{p}**
+**[原来是圆神]{p}**
 * **[原来是圆神 | 愿每个旅行者都能找到心中的神明 指引你的人生旅途 而我也会在分享我想表达的 | 百章 | Douyin](https://v.douyin.com/5AgqacfqR-M/)**
   - [冰神的“惨”从不是折损大将，而是全提瓦特无人懂的孤独](https://v.douyin.com/Vhu7xZUTLNM/)
   - [深渊五柱神全解析：对标天理四影却更胜一筹的坎瑞亚底牌](https://v.douyin.com/_ktYYCe0Cds/)
@@ -328,108 +328,112 @@
 
 ---
 ### 0004. 跟着原神学英语
-**米哈游就该搞一个双语版的，支持世界网友学习中文，支持中国网友学习英文，打通美服和国服。加入Ai,支持人物Ai-NPC互相交流.打造一个真正的原神世界。**
+**[米哈游就该搞一个双语版的，支持世界网友学习中文，支持中国网友学习英文，打通美服和国服。加入Ai,支持人物Ai-NPC互相交流.打造一个真正的原神世界。]{p}**
 
+---
+**[永不认输的璃月人]{p}**
 * **[永不认输的璃月人 | 原神佛系玩家，体验100种小游戏ing | 二百章 | Douyin](https://v.douyin.com/gwdtS6JSHz8/)**
 
   ---
-  **001. 跟着胡桃学英语**
+  **[001. 跟着胡桃学英语]{g}**
     - [跟着胡桃学英语-初次见面 | 001](https://v.douyin.com/AqYLmm1jqg0/)
     - [跟着胡桃学英语-闲聊·偷懒 | 004](https://v.douyin.com/MG-mycVBf9k/)
 
   ---
-  **002. 荣花与炎日之途**
+  **[002. 荣花与炎日之途]{g}**
     - [第五章第一幕 荣花与炎日之途1 | 001](https://v.douyin.com/9qx08yEkbQA/)
     - [第五章第一幕 荣花与炎日之途1 | 009](https://v.douyin.com/XuvpnUPYSsg/)
 
   ---
-  **003. 跟着马拉妮学英语**
+  **[003. 跟着马拉妮学英语]{g}**
     - [跟着玛拉妮学英语-初次见面 | 001](https://v.douyin.com/5om916TrOOY/)
     - [跟着玛拉妮学英语-闲聊·逐浪 | 002](https://v.douyin.com/0TCGkUrqzks/)
 
   ---
-  **004. 跟着散兵学英语**
+  **[004. 跟着散兵学英语]{g}**
     - [跟着散兵学英语-初次见面 | 001](https://v.douyin.com/pakgZA-pxjQ/)
     - [跟着散兵学英语-早上好 | 010](https://v.douyin.com/pMQ8SaHPl08/)
 
   ---
-  **005. 跟着凝光学习英语**
+  **[005. 跟着凝光学习英语]{g}**
     - [跟着凝光学英语-闲聊·古玩 | 001](https://v.douyin.com/vJAJI2BwF6Q/)
     - [跟着凝光学英语-下雪的时候 | 005](https://v.douyin.com/3CpNKozahbQ/)
 
   ---
-  **006. 跟着万叶学英语**
+  **[006. 跟着万叶学英语]{g}**
     - [跟着万叶学英语-初次见面 | 001](https://v.douyin.com/mtjHakV8RXI/)
     - [跟着万叶学英语-关于我们·出海 | 014](https://v.douyin.com/l45fg0Zmblw/)
 
   ---
-  **007. 跟着那位莱特学英语**
+  **[007. 跟着那位莱特学英语]{g}**
     - [跟着那维莱特学英语-初次见面 | 001](https://v.douyin.com/NmMp3D86Lpw/)
     - [跟着那维莱特学英语-阳光很好… | 008](https://v.douyin.com/y_X1Od-W2Zk/)
 
   ---
-  **008. 跟着魈宝学英语**
+  **[008. 跟着魈宝学英语]{g}**
     - [跟着魈宝学英语-下雨的时候… | 001](https://v.douyin.com/91eNdnix2Lc/)
     - [跟着魈宝学英语-关于魈自己·非人 | 014](https://v.douyin.com/A148GqXCX1M/)
 
   ---
-  **009. 跟着原神主线学英语**
+  **[009. 跟着原神主线学英语]{g}**
     - [跟着原神主线学英语-开场 | 001](https://v.douyin.com/tNf4kiE0CGw/)
     - [跟着原神主线学英语-为了背色的身影 | 030](https://v.douyin.com/1cig1tRYVxA/)
 
   ---
-  **010. 跟着芙宁娜学英语**
+  **[010. 跟着芙宁娜学英语]{g}**
     - [跟着芙芙学英语-初次见面 | 001](https://v.douyin.com/PGT-98Ya_Po/)
     - [跟着芙芙学英语-关于我们·同行](https://v.douyin.com/pExxmtTHtCQ/)
 
   ---
-  **011. 跟着巴巴托斯学英语**
+  **[011. 跟着巴巴托斯学英语]{g}**
     - [跟着巴巴托斯学英语-想要了解温迪 其五 | 001](https://v.douyin.com/MzOOy_Jw9Jw/)
     - [跟着巴巴托斯学英语-下雪的时候 | 013](https://v.douyin.com/QtxltynvODA/)
 
   ---
-  **012. 跟着雷神将军学英语**
+  **[012. 跟着雷神将军学英语]{g}**
     - [跟着雷电将军学英语-有什么想要分享 | 001](https://v.douyin.com/caAUqvMb6EY/)
     - [跟着雷电将军学英语-想要了解影·其四 | 021](https://v.douyin.com/mF3f7j_Qyl0/)
 
   ---
-  **013. 跟着闲云学英语**
+  **[013. 跟着闲云学英语]{g}**
     - [跟着那个女人学英语-闲聊·趣闻 | 001](https://v.douyin.com/bRGNMyJ8c54/)
     - [跟着那个女人学英语-闲聊·趣闻 | 003](https://v.douyin.com/4ZLh5rMEFCw/)
 
   ---
-  **014. 跟着小草神学英语**
+  **[014. 跟着小草神学英语]{g}**
     - [跟着小草神学英语-闲聊·感受 | 001](https://v.douyin.com/OMTAyQ1k3q8/)
     - [跟着纳西妲学英语-初次见面 | 004](https://v.douyin.com/MgHaMqn6-_4/)
 
   ---
-  **015. 神里凌华带你学英语**
+  **[015. 神里凌华带你学英语]{g}**
     - [跟着神里绫华学英语-初次见面 | 001](https://v.douyin.com/67QVUTjD9Q4/)
     - [跟着神里绫华学英语-早上好 | 012](https://v.douyin.com/9_v_mzdwsXI/)
 
 ---
+**[JustinEnglish]{p}**
 * **[JustinEnglish | 欢迎 这个频道有着不一样的英语趣味教学 | 佰章 | Douyin](https://v.douyin.com/LKTZH1pGDvE/)**
 
   ---
-  **001. 原神英语 启动**
+  **[001. 原神英语 启动]{g}**
     - [如何通过二次元游戏学英语 | 001](https://v.douyin.com/g014VBsIffM/)
     - [当英语老师开始用原神教英语 | 006](https://v.douyin.com/TIOPFuVP7-c/)
 
 ---
+**[尼克叔游戏英语]{p}**
 * **[尼克叔游戏英语 | 千星奇域《背单词有原神例句》| 伍佰章 | Douyin](https://v.douyin.com/KtsqY31hkFQ/)**
 
   ---
-  **001. Genshin Impact | 千星奇域GUID: 6734 0060 303**
+  **[001. Genshin Impact | 千星奇域GUID: 6734 0060 303]{g}**
     - **[我做的第一个游戏，上线原神千星奇域啦 | 001](https://v.douyin.com/-UD98eUONmM/)**
     - **[原神千星奇域 | 002](https://v.douyin.com/WHWyHdzVwLA/)**
 
   ---
-  **002. 玩游戏读外刊**
+  **[002. 玩游戏读外刊]{g}**
     - [外网英文游戏资讯精读-尼克叔新系列全网首发 | 001](https://v.douyin.com/tbiFpWCw1sI/)
     - [黑神话钟馗 | 002](https://v.douyin.com/SjeXl_YbvEg/)
 
   ---
-  **003. 原神横扫四六级考研雅思**
+  **[003. 原神横扫四六级考研雅思]{g}**
     - [001](https://v.douyin.com/0uevIvfbXdw/)
     - [047](https://v.douyin.com/5PvzLKxYKbc/)
     - [048](https://v.douyin.com/3oY4NyqUpP8/)
@@ -437,24 +441,28 @@
     - [054](https://v.douyin.com/S1xawoj7vi0/)
 
 ---
+**[游戏英语爱好者]{p}**
 * **[游戏英语爱好者 | 语言爱好者，学游戏，玩英语。| 貳佰章](https://v.douyin.com/S6Pk65RL4BU/)**
 
 ---
 ### 0005. miHAYO | GenshinImpact
-* Anuneko 米哈游AI软件 Github Search
+**[Anuneko 米哈游AI软件 Github Search]{g}**
 * **[World peace | 世界和平🕊️](https://v.douyin.com/TeSHYpQ3s0I/)**
 
 ---
 ### 0006. 原神 | GenshinImpact
+**[Teyvat Historia]{p}**
 * **[Teyvat Historia | 10.9万 | Youtube](https://www.youtube.com/@TeyvatHistoria/videos)**
   - A channel dedicated to Genshin Impact theories, characters, and lore.
   - 一个专注于原神理论、角色和背景故事的频道。
 
 ---
+**[Ashikai]{p}**
 * **[Ashikai | 28.3万 | Youtube](https://www.youtube.com/@Ashikai/videos)**
   - [[6.2] Teyvat's Celestial Hierarchy - A Genshin Impact Theory... thing](https://www.youtube.com/watch?v=qWDNVGNtpjc)
 
 ---
+**[bwaap]{p}**
 * **[bwaap | 73.8万 | Youtube](https://www.youtube.com/@bwaap/videos)**
   - I'm just doing what i do | 我只是做我该做的 事
 
@@ -462,25 +470,28 @@
   - [A Nostalgic Return to Mondstadt | 怀旧的蒙德归来](https://www.youtube.com/watch?v=IN4TqQihG20)
 
 ---
+**[MurderofBirds Impact]{p}**
 * **[MurderofBirds Impact | 8.39万 | Youtube](https://www.youtube.com/c/MurderofBirdsImpact)**
   - I livestream on Twitch and post my videos here!
 
 ---
+**[MurderofBirds VODs]{p}**
 * **[MurderofBirds VODs | 1.99万 | Youtube](https://www.youtube.com/@MurderofBirdsVODs)**
 
 
 ---
+**[sarahmillercrews]{p}**
 * **[sarahmillercrews | Sarah Miller-Crews | 6.94万 | Youtube](https://www.youtube.com/@sarahmillercrews/videos)**
-  - Hello!
-  - 你好！
+  - [En: Hello!]{s}
+  - [你好！]{g}
 
   ---
-  - My name is Sarah and I'm a voice actor.
-  - 我叫Sarah，是一名配音演员。
+  - [En: My name is Sarah and I'm a voice actor.]{s}
+  - [我叫Sarah，是一名配音演员。]{g}
 
   ---
-  - Some of the characters I've voiced include: Lumine in Genshin Impact, Angela in Trials of Mana, Roxanne & Caitlin in Pokemon Masters, Layla in Mobile Legends, and more!
-  - 我配过的一些角色包括：原神中的荧、《圣剑传说》中的安吉拉、《宝可梦大师》中的罗克珊和凯特琳、《移动传说》中的莱拉，等等！
+  - [En: Some of the characters I've voiced include: Lumine in Genshin Impact, Angela in Trials of Mana, Roxanne & Caitlin in Pokemon Masters, Layla in Mobile Legends, and more!]{s}
+  - [我配过的一些角色包括：原神中的荧、《圣剑传说》中的安吉拉、《宝可梦大师》中的罗克珊和凯特琳、《移动传说》中的莱拉，等等！]{g}
 
   ---
   - [ARLECCHINO ANIMATED SHORT REACTION - Ft. Lumine's English Voice Actor (Sarah Miller-Crews)| 阿尔勒奇诺动画短片 - 荧堡英文配音演员（莎拉·米勒-克鲁斯）](https://www.youtube.com/watch?v=G-tGCFrIb-Y)
@@ -488,47 +499,54 @@
 
 ---
 ### 0007. bwaap | GenshinImpact | Bilibili
+**[InverseZZ]{p}**
 * **[InverseZZ | 心若在，梦就在 | 粉丝数9204](https://space.bilibili.com/9429196/lists/1091065?type=series)**
 
   ---
-  **Bwaap | GenshinImpact**
+  **[Bwaap | GenshinImpact]{g}**
   - **[So I played the last archon mission](https://www.bilibili.com/video/BV1Fy4y167op/?spm_id_from=333.337.search-card.all.click)**
 
----
-  **MurderofBirds Impact**
+  ---
+  **[MurderofBirds Impact]{g}**
     - [MurderofBirds「折枝落梦」](https://www.bilibili.com/video/BV1Ht4y1N7Dg/?spm_id_from=333.1387.homepage.video_card.click)
 
 ---
+**[MurderofBirds Impact]{p}**
 * **[MurderofBirds Impact](https://www.youtube.com/c/MurderofBirdsImpact)**
 
 ---
 ### 0008. Ferrari | Ai-video
+**[Ferrari]{p}**
 * **[Ferrari | 搞些AI视频 | 五十章 | Douyin](https://v.douyin.com/Xd6kRRlTfjA/)**
   - **[蒙德：高清重置](https://v.douyin.com/Eo7KSZVQRfM/)**
   - **[原神：高清重置—5周年](https://v.douyin.com/kbBTsPzkGdc/)**
 
 ---
 ### 0009. R白哥
+**[R白哥]{p}**
 * **[R白哥 | 伍佰章 | Douyin](https://v.douyin.com/WwqIgNW-dss/)**
   - [六年了，终于来到开门的地方了](https://v.douyin.com/ardzuyS7RSE/)
 
   ---
-  [001. 原神震撼场面]{p}
+  **[001. 原神震撼场面]{g}**
     - [你们选的哥哥还是妹妹 | 流风眷堇庭 | 001](https://v.douyin.com/GDA74MH6_GQ/)
     - [当应急食品的地位受到了威胁 | 虚空鼓动劫火高扬 | 012](https://v.douyin.com/PAJiIaoYqcc/)
 
 ---
 ### 0010. Nixo
+**[]{p}**
 * **[Nixo | 3.5万 | Youtube](https://www.youtube.com/@nixogenshin/videos)**
   - [LootBar.gg - Pay Less. Play More. A Secure and Trusted Game Store](https://lootbar.gg/?utm_source=Affiliate&utm_medium=Affiliate&utm_campaign=Nixo)
 
 ---
 ### 0011. antonychenn
+**[antonychenn]{p}**
 * **[antonychenn | 165万 | Youtube](https://www.youtube.com/@antonychenn/videos)**
   - [Can You Build a Genshin Character in 5 MINUTES](https://www.youtube.com/watch?v=AjrS6uxEAL4)
 
 ---
 ### 0012. Jadealy
+**[Jadealy]{p}**
 * **[Jadealy | 35万 | Youtube](https://www.youtube.com/@jadealy/videos)**
   - [Farming Pulls for Linnea to Save My Bank Account - Map Maxxing (Ep.7)](https://www.youtube.com/watch?v=X090PExuMtI)
 
