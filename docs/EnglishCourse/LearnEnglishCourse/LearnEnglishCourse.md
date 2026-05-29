@@ -1,24 +1,31 @@
 ### 0000. 开源项目
+**[必应]{p}**
 * **[必应 | bing.com](https://cn.bing.com/)**
 
 ---
+**[[English Vocabulary Size Test]{p}**
 * **[English Vocabulary Size Test](https://www.vocabularytester.com/vocabulary-test)**
 
 ---
+**[WEIFENG2333]{p}**
 * **[WEIFENG2333 | VideoCaptioner | 翻译软件 ](https://github.com/WEIFENG2333/VideoCaptioner)**
   - [videocaptioner](https://www.videocaptioner.cn/)
 
 ---
+**[chidiwilliams]{p}**
 * **[chidiwilliams | buzz | 翻译软件 ](https://github.com/chidiwilliams/buzz)**
   - [buzz | zh](https://chidiwilliams.github.io/buzz/zh/docs)
 
 ---
+**[dlpanda]{p}**
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
+**[PlayPhrase.me]{p}**
 * **[PlayPhrase.me: Site for cinema archaeologists. | 台词搜索](https://www.playphrase.me/#/search?q=&language=en)**
 
 ---
+**[LingQ]{p}**
 * **[LingQ](https://www.lingq.com/en/)**
 
 ---
@@ -2537,33 +2544,37 @@
 
 ---
 ### 9999. Download
+**[dlpanda]{p}**
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
-**[English Resource]{g}**
+**[English Resource]{p}**
   - [EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)
 
   ---
   - [英语学习资源导航 | 全网最全](https://en.knowledgefxg.com/)**
 
   ---
+  **[句乐部]{g}**
   - **[句乐部](https://julebu.co)**
     * user: telphone
     * pwd: min-2 | + 5213
 
   ---
+  **[Qwerty Learnner]{g}**
   - **[Qwerty Learnner | 官网 — 为键盘工作者设计的单词与肌肉记忆锻炼软件](https://qwerty.liumingye.cn)**
 
   ---
+  **[Type Words 官网]{g}**
   - **[Type Words 官网 - 词文记 | 单词跟打 · 文章跟打](https://typewords.cc/articles)**
 
 ---
-**[新概念英语]{g}**
+**[新概念英语]{p}**
   - [**西瓜英语** | **新概念英语学习**](https://learnenai.com/)
   - [**新概念英语** | NCE.ICHOCHY](https://nce.ichochy.com/)
 
 ---
-**[Ted]{g}**
+**[Ted]{p}**
   - [Ted](https://www.ted.com/)
 
 ---
