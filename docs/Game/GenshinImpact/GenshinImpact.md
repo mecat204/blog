@@ -534,7 +534,7 @@
 
 ---
 ### 0010. Nixo
-**[]{p}**
+**[Nixo]{p}**
 * **[Nixo | 3.5万 | Youtube](https://www.youtube.com/@nixogenshin/videos)**
   - [LootBar.gg - Pay Less. Play More. A Secure and Trusted Game Store](https://lootbar.gg/?utm_source=Affiliate&utm_medium=Affiliate&utm_campaign=Nixo)
 
