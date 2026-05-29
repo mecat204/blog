@@ -3,7 +3,7 @@
 * **[必应 | bing.com](https://cn.bing.com/)**
 
 ---
-**[[English Vocabulary Size Test]{p}**
+**[English Vocabulary Size Test]{p}**
 * **[English Vocabulary Size Test](https://www.vocabularytester.com/vocabulary-test)**
 
 ---
