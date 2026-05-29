@@ -5,6 +5,10 @@
 * **[深渊灾变甚至整个提瓦特星球。从蒙德，璃玥，稻妻，须弥，枫丹，纳塔，以及将来的至冬，盖莫如是.从九重天到九重之地，都被深渊侵蚀。旅行者在路上，寻找至亲的路途上，也抵抗者深渊的灾难。剧情设定旅行者是可以净化深渊的。这是提瓦特所不具备的。旅行者该是一位拥有大智慧的人。]{g}**
 
 ---
+**[Genshin Impact | 原神国际服]{p}**
+  - [Genshin Impact](https://genshin.hoyoverse.com/en/home?af_adset=1)
+
+---
 ### 0001. Genshin Impact
 **[Genshin Impact]{p}**
 * **[Genshin Impact | Youtube](https://www.youtube.com/@GenshinImpact)**

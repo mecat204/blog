@@ -84,6 +84,29 @@
 **[英语学习资源导航]{p}**
 * **[英语学习资源导航 | 全网最全](https://en.knowledgefxg.com/)**
 
+  ---
+  **[001. 网站博客]{g}**
+    - [ncego](https://www.ncego.com/)
+      * [走遍美国](https://www.ncego.com/books/family-album-usa)
+    - [english-e-reader](https://english-e-reader.net/)
+    - [Voice Tube](https://www.voicetube.com/)
+    - [ESL Bits](https://esl-bits.eu/home.html)
+    - [character.ai](https://character.ai/)
+    - [kids.frontiersin.org](https://kids.frontiersin.org/)
+    - [Courses - Crash Course](https://thecrashcourse.com/courses/)
+    - [中华文化英文知识库](https://culturepedia.chinadaily.com.cn/#/homePage)
+    - [Fine Dictionary](https://www.finedictionary.com/)
+    - **[LanguageGuide.org](https://www.languageguide.org/cn/)**
+    - [免费英语学习网站 | LetMeEnglish.com](https://letmeenglish.com/zh-hans/)
+    - [BBC Learning English - Learn English with BBC Learning English - Homepage](https://www.bbc.co.uk/learningenglish)
+    - [Progressive Phonics - Home](https://www.progressivephonics.com/)
+    - [How to Pronounce English Like a Native | Youglish | 通过YouTube视频片段学习英语单词的真实发音](https://youglish.com/)
+    - [单词卡、学习工具和课本解答 | Quizlet](https://quizlet.com/cn)
+    - [旋元佑进阶文法](https://grammar.codeyu.com/)
+    - [Infinite Craft](https://neal.fun/infinite-craft/)
+    - **[English Learning Materials by Engoo](https://engoo.com/app/materials/en)**
+    - [Trivia Duel | 知识对决 | 问答对战 | 冷知识决斗 | 竞猜对战](https://www.triviaduel.com/)
+
 ---
 **[单词之风]{p}**
 * **[heygsc/word-wind | English | 单词](https://github.com/heygsc/word-wind)**
