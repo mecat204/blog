@@ -1497,7 +1497,7 @@
   - [世界第一个开万人演唱会](https://v.douyin.com/L8QKw6gm4EE/)
 
 ---
-### Chari xcx | Youtube
+### 0030. Chari xcx | Youtube
 * **[Charli xcx | 405万 | Youtube](https://www.youtube.com/@officialcharlixcx/videos)**
   - The official YouTube Channel of Charli xcx
   - 查理xcx 的官方YouTube频道
@@ -1517,6 +1517,16 @@
   ---
   - These have spawned hit singles such as Boom Clap, Break The Rules, Doing It, After The Afterparty, 1999, Blame It On Your Love , Gone, Good Ones and has seen Charli collaborate with global superstars such as BTS, Lizzo, Troye Sivan and HAIM as well as future game changers such as Kim Petras, Christine and the Queens, Yaeji and Clairo.
   - 这些作品催生了热门单曲如《Boom Clap》、《Break The Rules》、《Doing It》、《After The Afterparty》、《1999》、《Blame It On Your Love》、《Gone》、《Good Ones》，并与全球巨星如BTS、Lizzo、Troye Sivan和HAIM合作，也与未来的改变者如Kim Petras、Christine和The Queens合作。 八重治和克莱罗。
+
+---
+### 0031. Bobaya
+**[Bobaya]{p}**
+* **[Bobaya | 🎧是人类的避难所 🎵是心脏的救命丸 喜欢听的点一个免费的关注](https://v.douyin.com/wihrPDS9pI0/)**
+
+  ---
+  **[001. 45分钟音乐合集]{g}**
+    - [45分钟马思唯🎵合集 | 001](https://v.douyin.com/FlsV4uSbM40/)
+    - [ 45分钟杨丞琳🎵合集 | 164](https://v.douyin.com/TZV8rWKi5vU/)
 
 ---
 ### 9999. MusicCourse

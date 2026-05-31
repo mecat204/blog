@@ -2541,6 +2541,20 @@
     - [学英语三年，我才发现最可怕的变化 | 008](https://v.douyin.com/dlsHg_UE93E/)
     - [英语改变的，不只是成绩 很多人不敢说英语， 不是因为不会。 而是害怕 | 013](https://v.douyin.com/yD503NnAQ3Y/)
 
+---
+### 0037. 萌动英语 |
+**[萌动英语]{p}**
+* **[萌动英语 | Think in English 让孩子•见物就能脱口而出！| Douyin | 叁佰章](https://v.douyin.com/SnVk6D4NYq4/)**
+
+  ---
+  **[001. 见物就能说]{g}**
+    - [图画学单词丨沉浸式英语合集【卧室】| 001](https://v.douyin.com/-rlv0duXHdM/)
+    - [【在公园】可以说的英语单词+例句 | 114](https://v.douyin.com/uLQt2utz5KA/)
+
+  ---
+  **[002. 高频1000句]{g}**
+    - [职业 | 001](https://v.douyin.com/FTqihPvMK80/)
+    - [每天学一集 | 089 ](https://v.douyin.com/zsCghD3i5n8/)
 
 ---
 ### 9999. Download
