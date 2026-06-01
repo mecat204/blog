@@ -641,15 +641,18 @@
 
 ---
 ### 0002. Chinese Vlog
+**[山肆十四]{p}**
 * **[山肆十四 | 会一直折腾  谢谢观看 | 百章 | Douyin](https://v.douyin.com/xu9aAeeaEoY/)**
   - [大部分时候我们的不快乐，不是因为得不到，而是拥有的太多。| **旅行vlog** | **交换世界计划** | **做拓路者越万重山**](https://v.douyin.com/kSotN4KDXNM/)
 
 ---
 ### 0003. Notion
+**[自学流利英文·频道通关介绍]{p}**
 * **[自学流利英文·频道通关介绍](https://sincere-numeric-f39.notion.site/20a86f84b68d800ea7e6e70ab345a75a?v=20a86f84b68d80dfa81d000c894c2c0f)**
 
 ---
 ### 0004. Learn English Vlog
+**[Leah's English 莉雅老师]{p}**
 * **[Leah's English 莉雅老师 | 20万 | Youtube](https://www.youtube.com/@Leah%E7%9A%84%E5%B0%8F%E6%97%A5%E8%AE%B0/videos)**
   - [En: Welcome! Let's learn some authentic English!]{s}
   - [Cn: 欢迎大家跟我一起学习英语口语～]{g}
@@ -668,6 +671,7 @@
   - [How to become fluent in any language | 英语母语者也要背单词吗](https://www.youtube.com/watch?v=Qfnly99n1bY)
 
 ---
+**[Michelle Khare]{p}**
 * **[Michelle Khare | YouTube 的冒险家 | 534万 | 中阶 | Youtube](https://www.youtube.com/@MichelleKhare)**
   - [En: YouTube's Daredevil 😈 For business Inquiries: michellekhare+business@gmail.com Challenge Accepted follows Michelle Khare as she attempts the world's most difficult lifestyles, stunts, and professions.]{s}
   - [Cn: YouTube的《商业咨询夜魔😈侠 ： michellekhare+business@gmail.com 挑战接受》跟随米歇尔·卡尔尝试世界上最艰难的生活方式、特技和职业。]{g}
@@ -681,6 +685,7 @@
   - [Cn: Streamy获奖者 - 最佳无剧本剧集 - 挑战 接受 2022年 Streamy提名 - 年度节目 2019 短片提名 - 年度创作者 代表： Gersh - Keith Bielory 宣传： imPRint - Emily Rennert， Lauren Denker 演讲 嘉宾： Lavin - Charles Yao]{g}
 
 ---
+**[Max Amini]{p}**
 * **[Max Amini | 了解即将举行的活动和演出 | 高阶 | 396万 | Youtube](https://www.youtube.com/@MaxAmini)**
   - [En: 𝐓𝐈𝐂𝐊𝐄𝐓𝐒 𝐎𝐍 𝐒𝐀𝐋𝐄 𝐍𝐎𝐖!]{s}
   - [Cn: 门票现已开售！]{g}
@@ -690,6 +695,7 @@
   - [Cn: 关于即将到来的活动和演出！ 请访问 MAXAMINI.COM]{g}
 
 ---
+**[The Balance Theory Podcast]{p}**
 * **[The Balance Theory Podcast | 高阶 | 26.3万 | Youtube](https://www.youtube.com/@thebalancetheorypodcast)**
   - [En: The Balance Theory is a self development podcast for people looking to build confidence in themselves and the life they want to create.]{s}
   - [Cn:《平衡理论》是一档为那些希望建立自信和想要创造生活的人们打造的自我发展播客。]{g}
@@ -714,11 +720,13 @@
   - [Cn:《平衡理论》是一档个人成长播客，旨在帮助人们建立自信，打造理想生活。节目由艾丽卡·德·佩莱格林主持，她是一位律师，曾深陷倦怠、讨好他人和内疚的泥沼，如今已彻底重拾自信，并实现了梦想。本节目提供关于思维转变、时间优化、效率提升、自我发现和有意识生活的实用技巧。您将学习如何更深入地了解自己，如何让行动与梦想保持一致，以及如何创造真正属于自己的生活。无论您是想克服倦怠、提高效率，还是想设计自己热爱的生活，本播客都是您平衡成功与幸福的指南.]{g}
 
 ---
+**[Steve TV Show]{p}**
 * **[Steve TV Show | "STEVE"是喜剧演员、畅销书作家、艾美奖 | 高阶 | 828万 | Youtube](https://www.youtube.com/@SteveTVShow/featured)**
   - [En: "STEVE" is the destination for laughter and life lessons from comedian, bestselling author, and Emmy® Award-winning host Steve Harvey, whose distinctive comedic voice and inspiring, straight talk advice have earned him global recognition as a household name.]{s}
   - [Cn: "STEVE"是喜剧演员、畅销书作家及艾美®奖获奖主持人史蒂夫·哈维带来的欢笑与人生道理的目的地，他独特的喜剧嗓音和鼓舞人心、直率的建议使他成为全球家喻户晓的名字。]{g}
 
 ---
+**[Blondie in China]{p}**
 * **[Blondie in China | 嗨！我是来自澳大利亚的艾米！过去十年间，我断断续续地在中国旅行。今天来这里和大家分享我的奇遇，品尝美食，传递正能量  | 中阶 | 58.5万 | Youtube](https://www.youtube.com/@BlondieinChina)**
   - [En: Hey! I'm Amy from Australia!]{s}
   - [Cn: 嘿！我是来自澳大利亚的艾米！]{g}
@@ -732,6 +740,7 @@
   - [Cn: 我在这里分享一些疯狂的冒险，吃点美味的食物，传播正能量:)xx]{g}
 
 ---
+**[emma chamberlain]{p}**
 * **[emma chamberlain | 中阶 | 1200万 | Youtube](https://www.youtube.com/@emmachamberlain)**
   - [En: other stuff i do, listen to me talk on my podcast "Anything Goes," available for free anywhere you stream podcasts.]{s}
   - [Cn: 我还做的其他事情，比如 在我的播客《Anything Goes》上听我讲话，这个播客在你听播客的地方免费收听。]{g}
@@ -745,6 +754,7 @@
   - [Cn: 每周四和周日更新新剧集。 在 www.chamberlaincoffee.com、社交媒体@chamberlaincoffee，甚至你附近的超市找到我的咖啡公司......]{g}
 
 ---
+**[Girls Gone Bible]{p}**
 * **[Girls Gone Bible | 85.9万 | Youtube](https://www.youtube.com/@GirlsGoneBible/videos)**
   - [En: Podcast hosted by Angela Halili and Arielle Reitsma.]{s}
   - [Cn: 播客由安吉拉·哈利利和阿丽尔·雷茨玛主持。]{g}
@@ -766,15 +776,18 @@
   - [Cn: ——安和阿里]{g}
 
 ---
+**[Daniel Simmons]{p}**
 * **[Daniel Simmons | 更新时尚、生活方式、室内设计和糕点 | 中阶 | 78.4万 | Youtube](https://www.youtube.com/@imdanielsimmons)**
   - [En: Digital Diary 🤎 Weekly videos around fashion, lifestyle, interior design & pastries Daniel Simmons New York City, United States Contact: contact@danielsimmonsmedia.com]{s}
   - [Cn: 数字日记 🤎 每周视频，内容涵盖时尚、生活方式、室内设计和糕点 丹尼尔·西蒙斯 纽约市，美国 联系方式：contact@danielsimmonsmedia.com]{g}
 
 ---
+**[Life Of Riza]{p}**
 * **[Life Of Riza | 中阶 | Life lessons | 100万 | Youtube](https://www.youtube.com/@LifeOfRiza)**
   - [For those feeling behind in life](https://www.youtube.com/watch?v=4M6Ykqw26TI)
 
 ---
+**[Speak English with Bo's Slow English]{p}**
 * **[Speak English with Bo's Slow English | 初级 | 11.2万 | Youtube](https://www.youtube.com/@BoSlowEnglish)**
   - [En: Welcome to Bo’s Slow English!]{s}
   - [Cn: 欢迎来到Bo的慢英语！]{g}
@@ -804,6 +817,7 @@
   - [Cn: 谢谢你和我❤️一起学习]{g}
 
 ---
+**[Luke's English Podcast]{p}**
 * **[Luke's English Podcast | 初中级衔接 | 174万 | Youtube](https://www.youtube.com/@LukesEnglishPodcast)**
   - [En: An award-winning podcast for learners of English, since 2009.]{s}
   - 自2009年以来，这是一个获奖的英语学习者播客。]{g}
@@ -815,14 +829,17 @@
   - **[teacherluke | Luke’s ENGLISH Podcast | Learn British English with Luke Thompson](https://teacherluke.co.uk/)**
 
 ---
+**[Miss Honey]{p}**
 * **[Miss Honey | 初级 | 90.5万 | Youtube](https://www.youtube.com/@Slow_English_Podcast)**
   - [En: Learn COMPREHENSIBLE English New Posts EVERY Wednesday☀️]{s}
   - [Cn: 学习可理解的英语 🗣️ 每周三☀️ 新文章]{g}
 
 ---
+**[Jalin Siu]{p}**
 * **[Jalin Siu | 中级 |  亚裔女生，写实记录Vlog，类似ur mom ashley 的频道。 有个特色是时常出现多人场景，非常适合扩充社交英文、锻炼多人语境的听力能力。| 155万 | Youtube](https://www.youtube.com/@jalinsiu)**
 
 ---
+**[KerryDowdle in China]{p}**
 * **[KerryDowdle in China | 中级 | 一个在大陆的美国博主，拍一些旅游、文化相关的Vlogs， 写实风格。 除了拍大陆内容，也有美国以及其他国家的旅行内容。 | 8600 | Youtube](https://www.youtube.com/@KerryDowdleinChina)**
   - [En: Hi! I'm Kerry Dowdle from Florida! I've been traveling all over China. I'm here to share some of my amazing adventures, enjoy some great food, and spread some positive energy :) xx]{s}
   - [Cn: 大家好！我是来自佛罗里达的Kerry Dowdle！我一直在中国各地旅行，分享我的奇妙冒险，品尝美食，并传递满满的正能量 :) xx{g}
@@ -834,6 +851,7 @@
   - [你试过在夏天穿着汉服在西湖边读诗吗？](https://www.youtube.com/watch?v=_T5KzJgUxLQ)
 
 ---
+**[Doobydobap]{p}**
 * **[Doobydobap | 中级 | 非常幽默搞笑、旅行、食物内容 | 438万 | Youtube](https://www.youtube.com/@Doobydobap)**
   - **[美食博主](https://doobydobap.com)**
 
@@ -841,6 +859,7 @@
   - [100 种做方便面的方法](https://www.youtube.com/watch?v=UlafoXGyx6g)
 
 ---
+**[Tiny Home Tours]{p}**
 * **[Tiny Home Tours | 小户型设计 | 179万 | Youtube](https://www.youtube.com/@TinyHomeTours/videos)**
   - **[Tiny Home Tours | 小家旅游](https://tinyhometours.buzzsprout.com/)**
   - **[Home | Tiny Home Tours](https://www.tinyhometours.com/)**
@@ -887,6 +906,7 @@
   - [Her Tiny Home Will Change How You Think About Interior Design](https://www.youtube.com/watch?v=HSWOZdMA1n8)
 
 ---
+**[Mind the Game]{p}**
 * **[Mind the Game | 高阶 |  勒布朗·詹姆斯的播客频道 | 体育 | 86.8万 | Youtube](https://www.youtube.com/@MindTheGamePodcast)**
   - [En: Mind The Game is an entry into the heralded basketball minds of LeBron James and Steve Nash.]{s}
   - [Cn: 《Mind The Game》是勒布朗·詹姆斯和史蒂夫·纳什备受赞誉的篮球心灵之作。]{g}
@@ -900,6 +920,7 @@
   - [Cn: 由UNINTERRUPTED和Wondery呈现。]{g}
 
 ---
+**[The Diary Of A CEO]{p}**
 * **[The Diary Of A CEO | 高阶 | 嘉宾行业大牛，内容知识含金量超高。主持人英国人 | 1520万 |  Youtube](https://www.youtube.com/@TheDiaryOfACEO)**
   - [En: 64% of our viewers don't realise they don't subscribe, please double check, thank you!!]{s}
   - [Cn: 64%的观众不知道自己没订阅，请再确认一下，谢谢！！]{g}
@@ -910,6 +931,7 @@
   - [WW3 Threat Assessment_ World War III Has Quietly Started! | 第三次世界大战威胁评估：第三次世界大战已悄然开始！](https://www.youtube.com/watch?v=8qObdS-bhRM)
 
 ---
+**[The Diary Of A CEO Clips]{p}**
 * **[The Diary Of A CEO Clips | 精品节选 | 203万 | Youtube](https://www.youtube.com/@TheDiaryOfACEOClips/videos)**
   - [En: This Channel is where we showcase the best clips from The Diary Of A CEO, hosted by Steven Bartlett, this show is an invitation to rethink what’s possible.{s}
   - [Cn: 这个频道是我们展示《CEO日记》中最精彩片段的地方，由史蒂文·巴特利特主持，这个节目邀请大家重新思考可能性。]{g}
@@ -926,6 +948,7 @@
   - [Nuclear Expert WARNS: "You Have No Idea What's Coming" | 核专家警告："你根本不知道接下来发生的事"](https://www.youtube.com/watch?v=fnGw_mT1278)
 
 ---
+**[SMii7Y]{p}**
 * **[SMii7Y | 高阶 | 多人聊天、高效、调侃 | 847万 | Youtube](https://www.youtube.com/@SMii7Y/videos)**
   - [En: Pronounced "Smitty" -  Gameplay, Funny Moments, Hilarity & More!{g}
   - [Cn: 发音为"Smitty"——游戏玩法、搞笑时刻、搞笑元素等！]{g}
@@ -935,6 +958,7 @@
   - [Cn: 在Gamer Supps使用代码S7，订单享九折优惠！]{g}
 
 ---
+**[SeanDoesMagic]{p}**
 * **[SeanDoesMagic | 高阶 | 搞笑、调侃 | 1180万 | Youtube](https://www.youtube.com/@SeanDoesMagic/videos)**
   - [En: Just a lil magician ❤️📧]{s}
   - [Cn: 只是个小魔术师 ❤️ 📧]{g}
@@ -944,11 +968,13 @@
   - [Cn: 如需商业咨询，请联系我的经理Ronit Cohn，ronit@cohntalent.com]{g}
 
 ---
+**[The Late Late Show with James Corden]{p}**
 * **[The Late Late Show with James Corden | 高阶 | 主持人英音 | 2820万 | Youtube](https://www.youtube.com/@TheLateLateShow)**
   - [En: This is the official YouTube channel for The Late Late Show with James Corden on CBS.]{s}
   - [Cn: 这是CBS《詹姆斯·科登深夜秀》的官方YouTube频道。]{g}
 
 ---
+**[Jimmy Kimmel Live]{p}**
 * **[Jimmy Kimmel Live | 高阶 | 脱裤秀访谈 | 2200万 | Youtube](https://www.youtube.com/@JimmyKimmelLive)**
   - [En: The official Jimmy Kimmel Live!]{s}
   - [Cn: 官方吉米·金梅尔现场！]{g}
@@ -962,6 +988,7 @@
   - [Cn: 名人阅读"恶意推文"、"YouTube挑战"以及你最喜欢的深夜病毒视频的家园。]{g}
 
 ---
+**[The Tonight Show Starring Jimmy Fallon]{p}**
 * **[The Tonight Show Starring Jimmy Fallon | 中阶 | 脱裤秀访谈 | 3360万 | Youtube](https://www.youtube.com/@fallontonight)**
   - [En: The official home of The Tonight Show Starring Jimmy Fallon!]{s}
   - [Cn: 吉米·法伦主持的《今夜秀》官方主台！]{g}
@@ -990,6 +1017,7 @@
   - **[Alysa Liu Reacts to Historic U.S. Figure Skating Win, Quizzes Jimmy on His Figure Skating Knowledge | 刘艾丽莎对美国花样滑冰历史性胜利的回应，向吉米提问他的花样滑冰知识](https://www.youtube.com/watch?v=qYTYDm1IOQw)**
 
 ---
+**[Fred Liu]{p}**
 * **[Fred Liu | 中阶 | 男、生活记录、常有朋友出境多人聊天场景 | 81.2万 | Youtube](https://www.youtube.com/@Freddielooo/videos)**
   - [En: Hi friends, My name is Fred and I make skits and vlogs]{s}
   - [Cn: 大家好， 我叫弗雷德，我制作小品和视频日志]{g}
@@ -1002,11 +1030,15 @@
   - [I'm going to be a (foster) dad.](https://www.youtube.com/watch?v=8l7WbFn31jk)
 
 ---
+**[ur mom ashley]{p}**
 * **[ur mom ashley | 中阶 | 女、生活写实记录 | 192万 | Youtube](https://www.youtube.com/@urmomashley)**
 
+---
+**[Beautiful Twin Sisters]{p}**
 * **[Beautiful Twin Sisters | 8.32万 | Youtube](https://www.youtube.com/@BeautifulTwinSistersPod/videos)**
 
 ---
+**[Echo Browne]{p}**
 * **[Echo Browne | 中阶 | 女、美高中 | 20.6万 | Youtube](https://www.youtube.com/@echobrownevlogs/videos)**
   - [En: new uploads every week 👀 Welcome to the channel!]{s}
   - [Cn: 每周都有新上传👀 内容，欢迎来到频道！]{g}
@@ -1020,6 +1052,7 @@
   - [Cn: 🌷 商业咨询：contact@seralunestudios.com]{g}
 
 ---
+**[Max Reisinger]{p}**
 * **[Max Reisinger | 中阶 | 男、美高已毕业、拍摄剪辑很棒。 | 78.4万 | Youtube](https://www.youtube.com/@MaxReisinger/featured)**
   - [En: This channel was an optimistic experiment aimed at encapsulating what it means to grow up and find your place in this modern-day, fast-moving, and ever-changing world.]{s}
   - [Cn: 这个频道是一个乐观的实验，旨在概括成长和在这个现代、快速变化、不断变化的世界中找到归属感。]{g}
@@ -1029,14 +1062,17 @@
   - [Cn: ⊶ （把它当作成长电影，但分为小集和幕后故事） ꐕ 🛋 关注我的Instagram，了解这些视频之间的所有动态——https://instagram.com/maxbrsee 🪴在LinkedIn上联系——https://www.linkedin.com/in/maxreisinger 🏕 了解更多关于创作者营的信息 - https://creatorcamp.co 感谢你的到来！]{g}
 
 ---
+**[Elliot Choy]{p}**
 * **[Elliot Choy | 中阶 | 男、已毕业要往前翻大学生活Vlog。| 132万 | Youtube](https://www.youtube.com/@ELLIOTCHOY/videos)**
   - [En: Hi ~ I’m Elliot, based in NYC, making videos, living life.]{g}
   - [Cn: 嗨~我是Elliot，常驻纽约市，制作视频，过生活。]{g}
 
 ---
+**[Nayomique]{p}**
 * **[Nayomique | 初中阶 | 在大陆创业的美国人 | 1.13万 | Youtube](https://www.youtube.com/@NayomiqueOfficial)**
 
 ---
+**[Katherine's Journey to the East 阳离子东游记]{p}**
 * **[Katherine's Journey to the East 阳离子东游记 | 初中阶 | 一位同新疆人结婚生活在大陆沿海地区的美国人 | 15.4万 | Youtube](https://www.youtube.com/@kats_journey_east)**
   - [En: CHINA OFF THE BEATEN PATH 🚲🌻 Sharing my life in rural China 🐓🌾]{s}
   - [Cn: 中国 偏离人🚲🌻迹 分享我的生活 在中国🐓🌾 农村]{g}
@@ -1054,6 +1090,7 @@
   - [Cn: 跟随我踏上一段旅程，探索中国人民和其美丽风景的无尽故事，从海洋到山脉再到村庄，再到介于两者之间的一切——还有一些在中国非政府组织🏞工作的有趣片段]{g}
 
 ---
+**[This Is How We Bingham]{p}**
 * **[This Is How We Bingham | 中阶 | 小孩家庭 | 133万 | Youtube](https://www.youtube.com/@thisishowwebingham)**
   - [En: Life is for living and we LOVE living life!]{s}
   - [Cn: 生活就是为了活着，而我们热爱生活！]{g}
@@ -1087,10 +1124,12 @@
   - [Cn: 加入我们的冒险，让我们将生活中的日常乐趣发挥到极致！]{g}
 
 ---
+**[Us The Duo]{p}**
 * **[Us The Duo | 中阶 | 小孩家庭 | 音乐 | Music | 260万 | Youtube](https://www.youtube.com/@ustheduo/featured)**
   - [Top Hits of 2023 - Us The Duo](https://www.youtube.com/watch?v=sMChO6ex5lw)
 
 ---
+**[J House Vlogs]{p}**
 * **[J House Vlogs | 中阶 | 爸妈带着一群小孩世界各地旅居 | 353万 | Youtube](https://www.youtube.com/@jhousevlogs/featured)**
   - [En: Welcome to J House Vlogs.]{s}
   - [Cn: 欢迎来到J House Vlogs。]{g}
@@ -1112,25 +1151,31 @@
   - [Cn: 欢迎加入我们，共度家庭时光、旅行体验和日常生活。]{g}
 
 ---
+**[The LaBrant Fam]{p}**
 * **[The LaBrant Fam | 中阶 | God and family | 1270万 | Youtube](https://www.youtube.com/@ColeAndSav/featured)**
   - [OUR WEDDING VIDEO. Vows to 4 year old daughter](https://www.youtube.com/watch?v=MK5zVLYXzyg)
 
 ---
+**[The Crosbys]{p}**
 * **[The Crosbys | 初中阶段衔接 | 有一个很有意思的小孩口播列表 | Music | 466万 | Youtube](https://www.youtube.com/@TheCrosbys/videos)**
   - [Ocean Eyes - Billie Eilish (12-year-old Claire Crosby Live Cover)](https://www.youtube.com/watch?v=4cUuxGNY9D4)
 
 ---
+**[English with Brittany]{p}**
 * **[English with Brittany | 初中阶段衔接 | 小孩的日常生活记录 | 39.5万 | Youtube](https://www.youtube.com/@EnglishwithBrittany)**
   - [Teach English to Your Baby or Child! ✨ 30-Minute MASTERCLASS for Parents](https://www.youtube.com/watch?v=seKOJ2hhHL0)
 
 ---
+**[Speak English With Vanessa]{p}**
 * **[Speak English With Vanessa | 初级 | 初中级衔接 | 有吐字非常清晰、语速较慢的超长对话内容，有挺多雅思口语相关话题。| 717万 | Youtube](https://www.youtube.com/@SpeakEnglishWithVanessa)**
 
 ---
+**[Ariannita la Gringa]{p}**
 * **[Ariannita la Gringa | 初阶 | 生活实用英文 | English Teacher | 208万 | Youtube](https://www.youtube.com/@ariannitalagringa/videos)**
   - **Hey! I'm Ariannita, an English teacher. Let's boost your real-world English skills. Subscribe and learn!**
 
 ---
+**[Learn English with Bob the Canadian]{p}**
 * **[Learn English with Bob the Canadian | 0基础 | 内容量巨大，风格偏写实记录 | 244万 | Youtube](https://www.youtube.com/@LearnEnglishwithBobtheCanadian/videos)**
   - [En: Do you want to learn English?]{s}
   - [Cn: 你想学英语吗？]{g}
@@ -1152,15 +1197,18 @@
   - [Cn: 请在继续学习英语的过程中欣赏这些视频！]{g}
 
 ---
+**[English by Jay - Sprout]{p}**
 * **[English by Jay - Sprout | 0基础 | 剪辑很棒，比一般英文频道要更有意思 | 32.8万 | Youtube](https://www.youtube.com/@englishbyjay.official)**
   - [En: Watch more of my videos and learn English the natural way with Sprout 🌱 https://sproutlanguage.com/]{s}
   - [Cn: 多看我的视频，用Sprout 🌱自然学习英语 https://sproutlanguage.com/]{g}
 
 ---
+**[Volka English]{p}**
 * **[Volka English | 0基础 | 初阶 | 内容风格非常一致，画质很好 | 96.9万 | Youtube](https://www.youtube.com/@VolkaEnglish)**
 
 ---
 ### 0005. 播客资源
+**[Coffee Break English]{p}**
 * **[Coffee Break English  | 21.5万 | Youtube](https://www.youtube.com/@coffeebreakenglish)**
   - [En: Welcome to the Coffee Break English YouTube channel - start learning English on your coffee break!]{s}
   - [Cn: 欢迎来到Coffee Break English频道——在你的咖啡休息时间开始学习英语吧！]{g}
@@ -1182,10 +1230,12 @@
   - [Cn: 如果您想了解更多我们提供的课程，请访问：https://coffeebreaklanguages.com/english/ 关注我们的社交媒体！]{g}
 
 ---
+**[Coffee Break English]{p}**
 * **[Coffee Break English | 每集大约15分钟，为初学者和中级英语学习者设计](https://coffeebreaklanguages.com/english/)**
   - [How to use 'get' in English](https://www.youtube.com/watch?v=1zw2pTZ9U_I&t=41s)
 
 ---
+**[TheCottageFairy]{p}**
 * **[TheCottageFairy | 乡村小屋 | 分享书籍 | Youtube | 160万 | Youtube](https://www.youtube.com/@TheCottageFairy)**
   - [En: Salutations!]{s}
   - [Cn: 问候！]{g}
@@ -1204,6 +1254,7 @@
   - [Let's answer your questions (because I'm snowed in) - money, bullying, moving on from youtube | 让我们来回答你的问题（因为我被大雪困住了）——钱、欺凌、离开YouTube](https://www.youtube.com/watch?v=zJ2uPZfkYMk)
 
 ---
+**[Nischa]{p}**
 * **[Nischa | 投资 | 213万 |  Youtube](https://www.youtube.com/@nischa)**
   - I’m a former Investment Banker (with an accountancy qualification) and on this channel we explore all things personal finance, self development and business.
   - 我曾是一名投资银行家（拥有会计学资格），在这个频道中我们探讨所有关于个人理财、自我发展和商业的话题。
@@ -1216,6 +1267,7 @@
   - [8 TINY Habits to Become Financially Literate In 2026](https://www.youtube.com/watch?v=uXTREehuNFU)
 
 ---
+**[Bg2 Pod]{p}**
 * **[Bg2 Pod | 9.93万 | Youtube](https://www.youtube.com/@Bg2Pod)**
   - [En: Open Source bi-weekly convo w @altcap & @bgurley on all things tech, markets, investing & capitalism]{s}
   - [Cn: 开源双周一次的对话，内容涵盖科技、市场、投资与资本主义@altcap与@bgurley]{g}
@@ -1246,6 +1298,7 @@
     - [Cn: 祝大家继续享受《博德之门2》的精彩内容！]{g}
 
 ---
+**[All-In Podcast]{p}**
 * **[All-In Podcast | 104万 | Youtube](https://www.youtube.com/@allin)**
   - [En: Chamath Palihapitiya, Jason Calacanis, David Sacks & David Friedberg cover all things economic, tech, political, social & poker.]{s}
   - [Cn: Chamath Palihapitiya、Jason Calacanis、David Sacks 和 David Friedberg 涵盖经济、科技、政治、社会和扑克等所有相关内容。]{g}
@@ -1276,6 +1329,7 @@
   - [Massive Somali Fraud in Minnesota with Nick Shirley, California Asset Seizure, $20B Groq-Nvidia Deal | 明尼苏达州与尼克·雪莉的大规模索马里诈骗案，加州资产没收，200亿美元Groq-Nvidia交易](https://www.youtube.com/watch?v=bhpd4NeTbCI)
 
 ---
+**[Lex-Friedman]{p}**
 * **[Lex-Friedman | Math | 495万 | Youtube](https://www.youtube.com/@lexfridman/videos)**
   - [En: Lex Fridman Podcast and other videos.]{s}
   - [Cn: 莱克斯·弗里德曼播客及其他视频。]{g}
@@ -1284,6 +1338,7 @@
   - [Infinity, Paradoxes, Gödel Incompleteness & the Mathematical Multiverse | Lex Fridman Podcast #488 | 无限、悖论、哥德尔不完备性与数学多元宇宙 |莱克斯·弗里德曼播客 #488](https://www.youtube.com/watch?v=14OPT6CcsH4)
 
 ---
+**[Latent Space]{p}**
 * **[Latent Space | AI | Youtube](https://www.youtube.com/@LatentSpacePod/videos)**
   - [En: The first place where 90,000+ AI Engineers gather to talk models, tools and ideas.]{g}
   - 这是9万名AI工程师聚集讨论模型、工具和想法的第一个场所。]{g}
@@ -1301,6 +1356,7 @@
 
 ---
 ### 0006. 雅思 IELTS
+**[Learn English with EnglishClass101.com]{p}**
 * **[Learn English with EnglishClass101.com | English Teacher | 865万 | Youtube](https://www.youtube.com/@EnglishClass101/videos)**
   - [En: Learn English with EnglishClass101.com - The Fastest, Easiest and Most Fun Way to Learn English. Start speaking English in minutes with Audio and Video lessons.]{s}
   - [Cn: 与英语 EnglishClass101.com 学习——最快、最简单、最有趣的学习英语方式. 通过音频和视频课程几分钟内开始说英语。]{g}
@@ -1330,6 +1386,7 @@
   - [Cn: 点击上方红色框中的"订阅"，当新增视频时会收到通知。]{g}
 
 ---
+**[Arnel's Everyday English | English Teacher]{p}**
 * **[Arnel's Everyday English | English Teacher |  语法 | 134万 |  Youtube](https://www.youtube.com/@ArnelsEverydayEnglish)**
   - [En: Welcome to my channel!]{s}
   - [Cn: 欢迎来到我的频道！]{g}
@@ -1391,6 +1448,7 @@
   - [Cn: 阿内尔·:)]{g}
 
 ---
+**[BBC Learning English]{p}**
 * **[BBC Learning English | 980万 | 听力 | Youtube](https://www.youtube.com/@bbclearningenglish)**
   - [En: Learn English with the BBC.]{s}
   - [Cn: 跟BBC学英语。]{g}
@@ -1428,6 +1486,7 @@
   - [Cn: 祝你学习愉快！]{g}
 
 ---
+**[English Speaking Success]{p}**
 * **[English Speaking Success | 412万 | 口语 | Youtube](https://www.youtube.com/@EnglishSpeakingSuccess)**
   - [En: English Speaking Success will help you develop your English speaking skills so you can face the examiner with confidence and ace the IELTS Speaking test.]{s}
   - [Cn: 《英语口语成功》将帮助你提升英语口语能力，让你能够自信地面对考官，并在雅思口语测试中取得优异成绩。]{g}
@@ -1445,6 +1504,7 @@
   - [Cn: 我没有任何隶属关系、关系、认可或认可，也没有获得英国文化协会或任何官方雅思合作伙伴的认可。]{g}
 
 ---
+**[IELTS with Simon]{p}**
 * **[IELTS with Simon | 西蒙的雅思课程 | 2540位 |  写作 | Youtube](https://www.youtube.com/@IELTSSIMON1/videos)**
   - [En: My name is Simon  Corcoran, and this is my mission as an IELTS teacher: I aim to provide the best information about the IELTS test, from an ex examiner's perspective.]{s}
   - [Cn: 我叫西蒙·科科伦，作为一名雅思教师，我的使命是：我 致力于从一名前考官的角度，提供关于雅思考试的最佳信息。]{g}
@@ -1478,6 +1538,7 @@
   - [Cn: 爱你们所有人！]{g}
 
 ---
+**[E2 IELTS]{p}**
 * **[E2 IELTS | 阅读 | 285万 | Youtube](https://www.youtube.com/@E2IELTS)**
   - [En: Welcome to E2 IELTS, a place for mastering the IELTS General and Academic exams.]{g}
   - [Cn: 欢迎来到E2雅思，这是一个帮助精通雅思普通和学术考试的地方。]{g}
@@ -1512,6 +1573,7 @@
 
 ---
 ### 0007. Church
+**[2819 Church]{p}**
 * **[2819 Church | 165万| Youtube](https://www.youtube.com/@2819Church)**
   - [En: Welcome to the official Youtube channel for 2819 Church.]{s}
   - [Cn: 欢迎来到2819教会的官方YouTube频道。]{g}
@@ -1532,6 +1594,7 @@
 
 ---
 ### 0008. Music | Youtube
+**[Taylor Swift]{p}**
 * **[Taylor Swift |  6310万 | Youtube](https://www.youtube.com/@TaylorSwift/videos)**
   - [En: And, baby, that’s show business for you.]{s}
   - [Cn: 宝贝，这就是演艺圈的全部。]{g}
@@ -1549,11 +1612,16 @@
 
 ---
 ### 0009. 小元智谈 | Gather Youtube
+**[小元智谈]{p}**
 * **[小元智谈 | 每天听一听，提升自己 | 好书、TED、政策、前沿、生活 | 五百章 |  Douyin](https://v.douyin.com/LOyLVRhN5u0/)**
-  - [神经科学家：你的一生可能都是一个预测 本期聊聊神经科学家丽莎·费尔德曼·巴雷特 (Lisa Feldman Barrett) 博士的一次访谈。她在访谈中探讨了大脑如何构建我们的现实。她指出，大脑并非被动地对世界做出反应，而是一个预测器官，它结合过去的经验和当前的感官信号来预判行动并制造情绪。通过理解这一预测机制，人们可以意识到自己并非受过去或环境摆布的傀儡，从而在处理心理健康、创伤和日常感受时掌握更多的自主权。作者还通过分享治愈女儿抑郁症的经历，强调了代谢管理、社交支持和刻意练习新经验对重塑大脑预测的重要性。总之，这些内容揭示了人类拥有比想象中更强大的能力去架构自己的生命体验。大脑 | 人的一生 | 大脑重塑 | 预测人生](https://v.douyin.com/uMxs84mrK8c/)
-  - [谈前沿：英伟达首席执行官黄仁勋对未来的愿景 本期聊聊英伟达首席执行官黄仁勋2025年1月的一次访谈：NVIDIA CEO Jensen Huang's Vision for the Future（英伟达首席执行官黄仁勋对未来的愿景）。访谈中讨论了NVIDIA在计算领域的开创性工作，特别关注了图形处理器（GPU）的发展及其对游戏、人工智能和机器人技术等不同行业的影响。黄仁勋阐述了NVIDIA通过CUDA平台实现的并行处理的演变，以及AI如何从根本上重塑计算和日常生活。他还分享了公司未来在物理AI、数字生物学和气候科学方面的愿景，强调了能源效率和AI可及性的重要性，并鼓励观众学习如何利用AI来提升个人和职业能力。 | 英伟达  | 黄仁勋](https://v.douyin.com/qYr1qU4mMog/)
+  - [大脑 | 人的一生 | 大脑重塑 | 预测人生](https://v.douyin.com/uMxs84mrK8c/)
+  - [神经科学家：你的一生可能都是一个预测 本期聊聊神经科学家丽莎·费尔德曼·巴雷特 (Lisa Feldman Barrett) 博士的一次访谈。她在访谈中探讨了大脑如何构建我们的现实。她指出，大脑并非被动地对世界做出反应，而是一个预测器官，它结合过去的经验和当前的感官信号来预判行动并制造情绪。通过理解这一预测机制，人们可以意识到自己并非受过去或环境摆布的傀儡，从而在处理心理健康、创伤和日常感受时掌握更多的自主权。作者还通过分享治愈女儿抑郁症的经历，强调了代谢管理、社交支持和刻意练习新经验对重塑大脑预测的重要性。总之，这些内容揭示了人类拥有比想象中更强大的能力去架构自己的生命体验。]{g}
+
+  - [英伟达 | 黄仁勋](https://v.douyin.com/qYr1qU4mMog/)
+  - [谈前沿：英伟达首席执行官黄仁勋对未来的愿景 本期聊聊英伟达首席执行官黄仁勋2025年1月的一次访谈：NVIDIA CEO Jensen Huang's Vision for the Future（英伟达首席执行官黄仁勋对未来的愿景）。访谈中讨论了NVIDIA在计算领域的开创性工作，特别关注了图形处理器（GPU）的发展及其对游戏、人工智能和机器人技术等不同行业的影响。黄仁勋阐述了NVIDIA通过CUDA平台实现的并行处理的演变，以及AI如何从根本上重塑计算和日常生活。他还分享了公司未来在物理AI、数字生物学和气候科学方面的愿景，强调了能源效率和AI可及性的重要性，并鼓励观众学习如何利用AI来提升个人和职业能力。]{g}
 
 ---
+**[The Diary Of A CEO]{p}**
 * **[The Diary Of A CEO | 高阶 | 嘉宾行业大牛，内容知识含金量超高。主持人英国人 | Youtube](https://www.youtube.com/@TheDiaryOfACEO)**
   - [En: 64% of our viewers don't realise they don't subscribe, please double check, thank you!!]{s}
   - [Cn: 64%的观众不知道自己没订阅，请再确认一下，谢谢！！]{g}
@@ -1562,6 +1630,7 @@
   - [人工智能专家：（警告）2030年可能是无法回头的关键点！我们被告知的有关人工智能的信息是假的！](https://www.youtube.com/watch?v=P7Y-fynYsgE)
 
 ---
+**[Cleo Abram]{p}**
 * **[Cleo Abram | Youtube](https://www.youtube.com/@CleoAbram)**
   - Video journalist making optimistic tech explainers.
   - 视频记者制作乐观的科技解说。
@@ -1606,6 +1675,7 @@
   * **[Humanity’s Real Plan to Stop This Asteroid (Feat. Mark Rober)](https://www.youtube.com/watch?v=LOn-mmezykQ)**
 
 ---
+**[Dr. Arthur Brooks]{p}**
 * **[Dr. Arthur Brooks | 22.5万 | Youtube](https://www.youtube.com/@drarthurbrooks)**
   - [En: Arthur Brooks is a Harvard professor, PhD social scientist, bestselling author, and columnist who specializes in using the highest levels of science and philosophy to provide people with actionable strategies to live their best lives.]{s}
   - [Cn: 亚瑟·布鲁克斯是哈佛大学教授、社会科学家博士、畅销书作家和专栏作家，专注于运用最高层次的科学和哲学，为人们提供可行的策略，帮助他们过上最好的生活。]{g}
@@ -1622,6 +1692,7 @@
   - [The 3 Macronutrients of Happiness, and How to Measure Yours| 幸福的三大宏量营养素，以及如何衡量你的幸福](https://www.youtube.com/watch?v=6UAq3KAR2bc)
 
 ---
+**[Veritasium]{p}**
 * **[Veritasium | 科普 | 2040万 |  Youtube](https://www.youtube.com/@veritasium)**
   - [An element of truth - videos about science, education, and anything else we find interesting.]{s}
   - [Cn: 真理元素——关于科学、教育以及我们感兴趣的任何内容的视频。]{g}
@@ -1633,6 +1704,7 @@
   - [The Man Who Accidentally Discovered Antimatter | 意外发现反物质的人](https://www.youtube.com/watch?v=Y-W-w8yNiKU)
 
 ---
+**[Big Think]{p}**
 * **[Big Think | 859万 | Youtube](https://www.youtube.com/@bigthink/videos)**
   - [En: Big Think exists to make you smarter, faster.]{s}
   - [Cn: Big Think的存在是为了让你变得更聪明、更快。]{g}
@@ -1653,6 +1725,7 @@
   - [The terrifying ways that social media is altering teenage brains | Clare Morell: Full Interview社交媒体如何以令人恐惧的方式改变青少年的大脑 |克莱尔·莫雷尔：完整采访](https://www.youtube.com/watch?v=tk_Q4DyWY48)
 
 ---
+**[Nikhil Kamath]{p}**
 * **[Nikhil Kamath | 220万 | Youtube](http://youtube.com/@nikhil.kamath/videos)**
   - [En: "WTF is" is a podcast series where entrepreneur and Investor Nikhil Kamath hosts friends and industry experts and holds casual yet intellectually stimulating conversations.]{s}
   - [Cn: "WTF is"是一个播客系列，企业家兼投资人Nikhil Kamath邀请朋友和行业专家，进行轻松但富有启发性的对话。]{g}
