@@ -34,6 +34,10 @@
   - [**新概念英语** | NCE.ICHOCHY](https://nce.ichochy.com/)
 
 ---
+**[Ted]{p}**
+  - [Ted](https://www.ted.com/)
+
+---
 ### 0001. English Resource
 **[EngLearner]{p}**
 * **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
@@ -2095,9 +2099,9 @@
 
   ---
   **[001. New Concept English 01]{g}**
-     * [New Concept English 01 | 第一册 | 01](https://v.douyin.com/-51n4SOiw_M/)
-     * [New Concept English 01 | 第一册 | 19](https://v.douyin.com/RGol_7XQQSI/)
-     * [New Concept English 01 | 第一册 | 35](https://v.douyin.com/qUP5pHQL5_0/)
+    - [New Concept English 01 | 第一册 | 01](https://v.douyin.com/-51n4SOiw_M/)
+    - [New Concept English 01 | 第一册 | 19](https://v.douyin.com/RGol_7XQQSI/)
+    - [New Concept English 01 | 第一册 | 35](https://v.douyin.com/qUP5pHQL5_0/)
 
 ---
 **[颗星星]{p}**
@@ -2105,12 +2109,12 @@
 
   ---
   **[001. New Concept English 01]{g}**
-   - **[New Concept English 01 | Lesson-001](https://v.douyin.com/sHfdwT_Xp8E/)**
-   - **[New Concept English 01 | Lesson-020](https://v.douyin.com/ObtSflmNgps/)**
-   - **[New Concept English 01 | Lesson-022](https://v.douyin.com/9indtu0nFOo/)**
-   - **[New Concept English 01 | Lesson-027](https://v.douyin.com/AxiDncRagf8/)**
-   - **[New Concept English 01 | Lesson-028](https://v.douyin.com/WPmf54M67dk/)**
-   - **[New Concept English 01 | Lesson-030](https://v.douyin.com/rylgbDUKGkA/)**
+    - **[New Concept English 01 | Lesson-001](https://v.douyin.com/sHfdwT_Xp8E/)**
+    - **[New Concept English 01 | Lesson-020](https://v.douyin.com/ObtSflmNgps/)**
+    - **[New Concept English 01 | Lesson-022](https://v.douyin.com/9indtu0nFOo/)**
+    - **[New Concept English 01 | Lesson-027](https://v.douyin.com/AxiDncRagf8/)**
+    - **[New Concept English 01 | Lesson-028](https://v.douyin.com/WPmf54M67dk/)**
+    - **[New Concept English 01 | Lesson-030](https://v.douyin.com/rylgbDUKGkA/)**
 
   ---
   **[中华寓言故事]{g}**
@@ -2160,9 +2164,9 @@
 * **[Yuki的英语世界 | 英语语言文学硕士|专业八级 | 十年一线教龄 | 新概念英语1-4册电影版持续更新中... | 百章 | Douyin](https://v.douyin.com/0M-_4IujMEU/)**
 
   ---
-  **[New Concept English]{g}**
-  - **[New Concept English 01 | Lesson-001](https://v.douyin.com/bC9qQDSJFkI/)**
-  - **[New Concept English 19 | Lesson-057](https://v.douyin.com/PrpuVIoCXKg/)**
+  **[001. New Concept English]{g}**
+    - **[New Concept English 01 | Lesson-001](https://v.douyin.com/bC9qQDSJFkI/)**
+    - **[New Concept English 19 | Lesson-057](https://v.douyin.com/PrpuVIoCXKg/)**
 
 ---
 **[佘一鸣]{p}**
@@ -2175,16 +2179,17 @@
     - **[New Concept English 01·三国版 | Lesson-003](https://v.douyin.com/evamg363dKY/)**
 
   ---
-  - **[002. 荒岛迷案]{g}**
-    * **[第01集 |  荒岛空难现场，年轻的女子离奇死亡，心脏被人剜走，尸检发现重要线索。](https://v.douyin.com/LKia1i_24WQ/)**
-    * **[第13集 | 大结局 荒岛空难现场发生离奇命案，幸存者与世隔绝，救援遥遥无期。](https://v.douyin.com/g8fy0kzle9s/)**
+  **[002. 荒岛迷案]{g}**
+    - **[第01集 |  荒岛空难现场，年轻的女子离奇死亡，心脏被人剜走，尸检发现重要线索。](https://v.douyin.com/LKia1i_24WQ/)**
+    - **[第13集 | 大结局 荒岛空难现场发生离奇命案，幸存者与世隔绝，救援遥遥无期。](https://v.douyin.com/g8fy0kzle9s/)**
 
 ---
 * **[柒柒学英语 | 985大学生 | 百章 | Douyin](https://v.douyin.com/VBesR-lD3yA/)**
-  - **[001. New Concept English 01]{p}**
-    * **[New Concept English 01 | Lesson-001](https://v.douyin.com/tw_MbOzNz4E/)**
-    * **[New Concept English 01 | Lesson-018](https://v.douyin.com/xX1el4soG1o/)**
-    * **[New Concept English 01 | Lesson-019](https://v.douyin.com/vKSbKD8JHqQ/)**
+
+  **[001. New Concept English 01]{p}**
+    - **[New Concept English 01 | Lesson-001](https://v.douyin.com/tw_MbOzNz4E/)**
+    - **[New Concept English 01 | Lesson-018](https://v.douyin.com/xX1el4soG1o/)**
+    - **[New Concept English 01 | Lesson-019](https://v.douyin.com/vKSbKD8JHqQ/)**
 
 ---
 ### 0023. AI短剧
@@ -2194,21 +2199,21 @@
     * **[狮子王 | 1994](https://www.libvio.mov/play/167-1-1.html)**
   - [疯狂原始人](https://v.douyin.com/6M9pCejaAZI/)
 
-  - **[疯狂原始人]{g}**
-    * **[疯狂原始人01](https://www.libvio.mov/play/116-1-1.html)**
-    * **[疯狂原始人02](https://kimivod.com/vod/42679/1-2.html)**
-    * **[寻梦环游记](https://www.4kvm.net/movies/xunfhyj)**
+  **[疯狂原始人]{g}**
+    - **[疯狂原始人01](https://www.libvio.mov/play/116-1-1.html)**
+    - **[疯狂原始人02](https://kimivod.com/vod/42679/1-2.html)**
+    - **[寻梦环游记](https://www.4kvm.net/movies/xunfhyj)**
 
   ---
-  - **[40篇英语故事掌握小学1000词]{g}**
-    * **[第001篇 | 龟兔赛跑](https://v.douyin.com/0-X_X7mE8XU/)**
-    * **[第042篇 | 元宵节的传说](https://v.douyin.com/gF0vfLIQIhA/)**
+  **[40篇英语故事掌握小学1000词]{g}**
+    - **[第001篇 | 龟兔赛跑](https://v.douyin.com/0-X_X7mE8XU/)**
+    - **[第042篇 | 元宵节的传说](https://v.douyin.com/gF0vfLIQIhA/)**
 
   ---
-  - **[奥斯卡经典动画绘本]{g}**
-    * **[001.狮子王森巴](https://v.douyin.com/labFvQ_T10w/)**
-    * **[007.冰雪奇缘](https://v.douyin.com/vmUlDpepE_Y/)**
-      - [冰雪奇缘 | Frozen](https://www.bttwo.org/v_play/bXZfNTU5OC1ubV8wMQ==.html)
+  **[奥斯卡经典动画绘本]{g}**
+    - **[001.狮子王森巴](https://v.douyin.com/labFvQ_T10w/)**
+    - **[007.冰雪奇缘](https://v.douyin.com/vmUlDpepE_Y/)**
+    - [冰雪奇缘 | Frozen](https://www.bttwo.org/v_play/bXZfNTU5OC1ubV8wMQ==.html)
 
   ---
   - **[经典英文绘本故事]{g}**
@@ -2473,7 +2478,7 @@
 * **[JustinEnglish | 欢迎 这个频道有着不一样的英语趣味教学 | 佰章 | Douyin](https://v.douyin.com/LKTZH1pGDvE/)**
 
   ---
-  **[001. 原神英语 启动]{s}**
+  **[001. 原神英语 启动]{g}**
     - [如何通过二次元游戏学英语 | 001](https://v.douyin.com/g014VBsIffM/)
     - [当英语老师开始用原神教英语 | 006](https://v.douyin.com/TIOPFuVP7-c/)
 
@@ -2542,7 +2547,7 @@
     - [英语改变的，不只是成绩 很多人不敢说英语， 不是因为不会。 而是害怕 | 013](https://v.douyin.com/yD503NnAQ3Y/)
 
 ---
-### 0037. 萌动英语 |
+### 0037. 萌动英语
 **[萌动英语]{p}**
 * **[萌动英语 | Think in English 让孩子•见物就能脱口而出！| Douyin | 叁佰章](https://v.douyin.com/SnVk6D4NYq4/)**
 

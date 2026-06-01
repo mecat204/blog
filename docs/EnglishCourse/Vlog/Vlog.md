@@ -1,24 +1,26 @@
 ### 0000. Google
+**[Google]{p}**
 * **[Google |  1390万 | Youtube](https://www.youtube.com/@Google)**
   - **[Operation Aurora | HACKING GOOGLE | Documentary EP000](https://www.youtube.com/watch?v=przDcQe6n5o)**
 
 ---
+**[EngLearner]{p}**
 * **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
 
 ---
 ### 0001. Life Vlog
 **[李子柒 Liziqi]{p}**
 * **[李子柒 Liziqi | 2970万 | Youtube](https://www.youtube.com/@cnliziqi)**
-  - [这里是李子柒YouTube官方频道哦]{p}
-  - [Please  subscribe to 【李子柒 Liziqi 】Liziqi Channel on YouTube if you like my videos]{s}
+  - [这里是李子柒YouTube官方频道哦]{s}
+  - [Please  subscribe to 【李子柒 Liziqi 】Liziqi Channel on YouTube if you like my videos]{g}
 
   ---
-  - [本人未在中国大陆以外开设任何销售渠道]{p}
-  - [So far Liziqi has not set up any distribution channels outside China mainland.]{s}
+  - [本人未在中国大陆以外开设任何销售渠道]{s}
+  - [So far Liziqi has not set up any distribution channels outside China mainland.]{g}
 
   ---
-  - [目前没有任何官方粉丝后援会哦~]{p}
-  - [So far I don't have any official fan clubs~]{s}
+  - [目前没有任何官方粉丝后援会哦~]{s}
+  - [So far I don't have any official fan clubs~]{g}
 
 * **[李子柒 | 李家有女，人称子柒。| 千章 | Douyin](https://v.douyin.com/UzDy7CInEV4/)**
 
@@ -40,8 +42,8 @@
 ---
 **[都靓]{p}**
 * **[都靓 | 2250位 | Youtube](https://www.youtube.com/@duliangdushu/videos)**
-  - [阅读是一件最重要的小事。听都靓，讲述中华之美。]{p}
-  - [Beauty of China, Presented by DuLiang]{s}
+  - [阅读是一件最重要的小事。听都靓，讲述中华之美。]{s}
+  - [Beauty of China, Presented by DuLiang]{g}
 
 * **[都靓读书 | 阅读是一件最重要的小事 | 千章 | Douyin](https://v.douyin.com/z4aLtYzUY2E/)**
   - [中文里每一个词都不是滥竽充数的](https://v.douyin.com/8EuHNH5Ihhw/)
@@ -69,9 +71,10 @@
 **[奶思兔咪鱿]{p}**
 * **[奶思兔咪鱿 | Nice to meet you | 五百章 | Douyin](https://v.douyin.com/yF1WG9-otuc/)**
   - [儿时不解 大人为何拼尽全力依然清贫 长大才知 光是活着养家便已是多数人的极限](https://v.douyin.com/shTHN-zbKIY/)
+
 * **[奶思兔 | 8位 | Youtube](https://www.youtube.com/@rabbitTwo23/shorts)**
   - [今天吃西红柿炒鸡蛋](https://www.youtube.com/shorts/T0rFyyKiZBY)
----
+
 * **[鱿子 | 祝大家天天开心 |  百章 | Douyin](https://v.douyin.com/v4cURCRwMU4/)**
   - [拥有什么就享受什么](https://v.douyin.com/WUkqEGeVf2s/)
 
@@ -100,9 +103,10 @@
 
 * **[夏冰雹频道 | 英语教育博主 专注英文教学五年 听力口语阅读理解好评如潮 | 书籍: 绽放作者 | 激发年轻人挖掘热爱与潜能, 活出想要的人生 | 千章 | Douyin](https://v.douyin.com/suT9hTmBYss/)**
     - [15年的好习惯](https://v.douyin.com/6Y8P2kxOQEU/)
-    - 30岁活成18岁的状态？我坚持了15年的好习惯，让我精力充沛 从青春期熬夜发胖的 "死肥宅" 到彻底改变：15 岁那年我靠调整生活习惯瘦了 35 斤，之后 15 年始终坚持不熬夜、每天运动、拒绝超加工食品，现在 30 岁仍保持着 15 岁般的高能量状态。这些习惯不仅让我精力充沛，更让学业事业一路稳步提升。 视频里会拆解我的规律睡眠技巧、随时随地能做的运动方案、简单易执行的饮食原则，以及如何利用每天黄金 4 小时放大成长效率。只要你跟着做就能养出持久高能量，越活越顺
+    - [30岁活成18岁的状态？我坚持了15年的好习惯，让我精力充沛 从青春期熬夜发胖的 "死肥宅" 到彻底改变：15 岁那年我靠调整生活习惯瘦了 35 斤，之后 15 年始终坚持不熬夜、每天运动、拒绝超加工食品，现在 30 岁仍保持着 15 岁般的高能量状态。这些习惯不仅让我精力充沛，更让学业事业一路稳步提升。 视频里会拆解我的规律睡眠技巧、随时随地能做的运动方案、简单易执行的饮食原则，以及如何利用每天黄金 4 小时放大成长效率。只要你跟着做就能养出持久高能量，越活越顺]{g}
+
     - [DOSE效应](https://v.douyin.com/2UCYS6KdXow/)
-    - 拖延症晚期、焦虑爆棚？这本书帮 5 万人找回精力｜冰雹讲书 拖延症晚期？焦虑内耗没动力？你不是懒，而是大脑的D.O.S.E系统失调了！多巴胺、催产素、血清素、内啡肽——这四种关键神经递质，正是掌控你动力、情绪和专注力的核心开关。 本期视频为你深度拆解TJ Power英文原版《DOSE效应》，这套已帮助5万人提升50%%专注力和精神能量的科学方法。无需痛苦自律，通过调节4个大脑开关：
+    - [拖延症晚期、焦虑爆棚？这本书帮 5 万人找回精力｜冰雹讲书 拖延症晚期？焦虑内耗没动力？你不是懒，而是大脑的D.O.S.E系统失调了！多巴胺、催产素、血清素、内啡肽——这四种关键神经递质，正是掌控你动力、情绪和专注力的核心开关。 本期视频为你深度拆解TJ Power英文原版《DOSE效应》，这套已帮助5万人提升50%%专注力和精神能量的科学方法。无需痛苦自律，通过调节4个大脑开关:]{g}
       - 🔹 多巴胺：戒断"快多巴胺"，重建持久内在驱动力
       - 🔹 催产素：改善社恐、孤独感，提升安全感与自信
       - 🔹 血清素：肠道健康直接影响情绪，简单饮食调理告别焦虑
@@ -112,21 +116,22 @@
 ---
 **[江寻千_九月]{p}**
 * **[江寻千_九月 | 3310 | Youtube](https://www.youtube.com/@JYjiuyue)**
-  - [En: The smell of fireworks in the world is the most soothing to the hearts of ordinary people!]{p}
-  - [Cn: 世界上烟花的气味是最能抚慰普通人心灵的！]{s}
+  - [En: The smell of fireworks in the world is the most soothing to the hearts of ordinary people!]{s}
+  - [Cn: 世界上烟花的气味是最能抚慰普通人心灵的！]{g}
 
   ---
-  - [En: Welcome to the official YouTube channel of "Jiang Xunqian (September)", mainly to share Chinese intangible cultural heritage with you, so that more people can understand Chinese culture.]{p}
-  - [Cn: 欢迎来到"江巡谦"官方YouTube频道，主要是为了与大家分享中国非物质文化遗产，让更多人了解中国文化。]{s}
+  - [En: Welcome to the official YouTube channel of "Jiang Xunqian (September)", mainly to share Chinese intangible cultural heritage with you, so that more people can understand Chinese culture.]{s}
+  - [Cn: 欢迎来到"江巡谦"官方YouTube频道，主要是为了与大家分享中国非物质文化遗产，让更多人了解中国文化。]{g}
 
   ---
-  - [En: Thank you for your support and subscription]{p}
-  - [Cn: 感谢您的支持和订阅]{s}
+  - [En: Thank you for your support and subscription]{s}
+  - [Cn: 感谢您的支持和订阅]{g}
 
   ---
   - [曾经最极致的浪漫，千年绝技——打铁花。](https://www.youtube.com/watch?v=HiJiAcwe9pk)
 
 ---
+**[江寻千 (九月)]{p}**
 * **[江寻千 (九月) | 莫听穿林打叶声 何妨吟啸且徐行 | 三百章 | Douyin](https://v.douyin.com/S2ENUvEPBJQ/)**
   - [三书六聘十里红妆，带你去看一场真正的中式婚礼. 传世婚服 | 拼酷十里红妆| 拼酷大花轿 濮院时尚古镇 中式婚礼主持人张博](https://v.douyin.com/9NqrnTRJdpk/)
   - [耗时1年零4个月，我用云锦做了一件传世婚服。 | 滴露衣物消毒液 | 传世婚服 | 云锦](https://v.douyin.com/ZZx-30rhdw8/)
@@ -137,17 +142,18 @@
 ---
 **[studytee]{p}**
 * **[studytee | 117万 | Youtube](https://www.youtube.com/@studytee/videos)**
-  - [En: My name is Therese, and I'm a Norwegian 3rd year university student in applied mathematics!]{p}
-  - [Cn: 我叫特蕾丝，是一名挪威应用数学三年级的学生！]{s}
+  - [En: My name is Therese, and I'm a Norwegian 3rd year university student in applied mathematics!]{s}
+  - [Cn: 我叫特蕾丝，是一名挪威应用数学三年级的学生！]{g}
 
   ---
-  - [En: En: Here you'll find study tips, recommendations and hopefully a bit of study motivation - all while bringing you along on my journey through university and life!]{p}
-  - [Cn: 在这里，你会找到学习技巧、推荐，还能带来一些学习动力——同时带你一起踏上大学和人生的旅程！]{s}
+  - [En: En: Here you'll find study tips, recommendations and hopefully a bit of study motivation - all while bringing you along on my journey through university and life!]{s}
+  - [Cn: 在这里，你会找到学习技巧、推荐，还能带来一些学习动力——同时带你一起踏上大学和人生的旅程！]{g}
 
   ---
   - [Youtuber是一位来自挪威的大一女生，专业是medical engineering | **参考: 2019年**](https://www.youtube.com/channel/UCc1QflC90Nkf_SDBZwJScDQ)
 
 ---
+**[Celine]{p}**
 * **[Celine | Let’s study together! I make study with me videos so our studying is less lonely. Keep working hard! | 20.4万 | Youtube](https://www.youtube.com/@celinestudy/videos)**
   - [4-HOUR STUDY WITH ME 🌧️ Deep Focus on a Rainy Night | 🎧 Focus Music | Pomodoro 50/10](https://www.youtube.com/watch?v=a3gI2SBQaqM)
 
@@ -165,46 +171,47 @@
   - [雪花轻吻山巅，咖啡暖手 炉火旁，冬日的仙境悄然绽放 踏雪觅果，阳光洒落心间 这十一月的清晨，藏着治愈的温柔](https://v.douyin.com/PokajBVenxU/)
 
 ---
+**[Cav和Rose]{p}**
 * **[Cav和Rose | 二百章 | Douyin](https://v.douyin.com/uMQ0Bw2LjsU/)**
   - [大家都在问我是怎么获得中国五星卡的? 中国五星卡 | 2026我的新春vlog](https://v.douyin.com/Ozn12rzT8Xs/)
 
 ---
 **[English Fluency Journey]{p}**
 * **[English Fluency Journey | 223万 | Youtube](https://www.youtube.com/@EnglishFluencyJourney)**
-  - [En: I’m Anna and welcome to my channel.]{p}
-  - [Cn: 我是安娜，欢迎来到我的频道。]{s}
+  - [En: I’m Anna and welcome to my channel.]{s}
+  - [Cn: 我是安娜，欢迎来到我的频道。]{g}
 
   ---
-  - [En: Here, I post some useful information for English learners.]{p}
-  - [Cn: 在这里，我发布了一些对英语学习者有用的信息。]{s}
+  - [En: Here, I post some useful information for English learners.]{s}
+  - [Cn: 在这里，我发布了一些对英语学习者有用的信息。]{g}
 
 
-  - [En: I’m from Ukraine and I’ve worked on my English and accent, for the most part, on my own, but you can find out and trace my story by watching my videos.]{p}
-  - [Cn: 我来自乌克兰，大部分时间都是自己努力练习英语和口音的，但你可以通过观看我的视频了解并追踪我的故事。]{s}
-
-  ---
-  - [En: I’ve been studying American pronunciation for a long time, and I still do, and I guess I always will.]{p}
-  - [Cn: 我研究美式发音已经很久了，现在依然如此，我想我永远都会继续。]{s}
+  - [En: I’m from Ukraine and I’ve worked on my English and accent, for the most part, on my own, but you can find out and trace my story by watching my videos.]{s}
+  - [Cn: 我来自乌克兰，大部分时间都是自己努力练习英语和口音的，但你可以通过观看我的视频了解并追踪我的故事。]{g}
 
   ---
-  - [En: Learning a language, it’s a lifetime journey.]{p}
-  - [Cn: 学习一门语言，是一段终身的旅程。]{s}
+  - [En: I’ve been studying American pronunciation for a long time, and I still do, and I guess I always will.]{s}
+  - [Cn: 我研究美式发音已经很久了，现在依然如此，我想我永远都会继续。]{g}
+
+  ---
+  - [En: Learning a language, it’s a lifetime journey.]{s}
+  - [Cn: 学习一门语言，是一段终身的旅程。]{g}
 
 
-  - [En: I know exactly what it takes to become fluent and acquire an accent in a non-English speaking country.]{p}
-  - [Cn: 我完全清楚在非英语国家要流利说话并学会口音需要什么。]{p}
+  - [En: I know exactly what it takes to become fluent and acquire an accent in a non-English speaking country.]{s}
+  - [Cn: 我完全清楚在非英语国家要流利说话并学会口音需要什么。]{s}
 
 ---
 * **[English Fluency Journey | Hanna Khoma](https://www.englishfluencyjourney.com/)**
 
----
+**[欧美外教在线一对一口语-葡然蕴]{p}**
 * **[欧美外教在线一对一口语-葡然蕴 | 零基础英语 | 启蒙英语 | 雅思口语 | 零基础英语 | 商务英语 | 二千章 | Douyin](https://v.douyin.com/dtwC1ZGrWxQ/)**
   - [北美外教一对一网课 外教：英语是一项改变人生的技能](https://v.douyin.com/Ix5dt7a8F-Q/)
   - [欧美外教英语课一对一网课](https://v.douyin.com/cNQsa9vj7nQ/)
   - [在线英语外教一对一英语口语 外教：记忆单词的最佳方式是多读。| 英语流利说](https://v.douyin.com/S_WuSgv0SEM/)
-  - English Fluency Jounery
 
 ---
+**[菲教英语网课推荐]{p}**
 * **[菲教英语网课推荐 | 试听课咨询私信我呦 👉适合各年龄段的零基础，雅思托福 | 二千章 | Douyin](https://v.douyin.com/vVfQfoX9dYE/)**
   - [跟外教老师练口语，提升你的英语水平](https://v.douyin.com/MMgIQU9fmuo/)
   - [萌娃跟外教老师一对一学习英语，坚持2年，进步很大！ | 外教一对一  | 外教英语  | 英语启蒙](https://v.douyin.com/zK8HOOOrfIo/)
@@ -224,81 +231,85 @@
 ---
 **[瑞典]{p}**
 * **[Jonna Jinton | 526万 | 瑞典 | Youtube](https://www.youtube.com/@jonnajinton)**
-  - [En: My name is Jonna Jinton, I'm a Swedish artist, musician and filmmaker and I live in the beautiful woods in the North of Sweden.]{p}
-  - [Cn: 我叫Jonna Jinton，是一名瑞典艺术家、音乐家和电影制作人，住在瑞典北部美丽的森林里。]{s}
+  - [En: My name is Jonna Jinton, I'm a Swedish artist, musician and filmmaker and I live in the beautiful woods in the North of Sweden.]{s}
+  - [Cn: 我叫Jonna Jinton，是一名瑞典艺术家、音乐家和电影制作人，住在瑞典北部美丽的森林里。]{g}
 
   ---
-  - [En: Here on my YouTube channel I share a mix of everything that I feel passionate about.]{p}
-  - [Cn: 在我的YouTube频道上，我分享了我所有热爱的事情。]{s}
+  - [En: Here on my YouTube channel I share a mix of everything that I feel passionate about.]{s}
+  - [Cn: 在我的YouTube频道上，我分享了我所有热爱的事情。]{g}
 
   ---
-  - [En: From stories and glimpses of my everyday life to music, kulning (nordic herding calls), painting, ice baths, nature and inspirational films and much more.]{p}
-  - [Cn: 从日常生活的故事和片段，到音乐、kulning（北欧牧歌）、绘画、冰浴、自然和励志电影等等。]{s}
+  - [En: From stories and glimpses of my everyday life to music, kulning (nordic herding calls), painting, ice baths, nature and inspirational films and much more.]{s}
+  - [Cn: 从日常生活的故事和片段，到音乐、kulning（北欧牧歌）、绘画、冰浴、自然和励志电影等等。]{g}
 
   ---
-  - [En: You are very welcome to my channel!]{p}
-  - [Cn: 欢迎你来到我的频道！]{s}
+  - [En: You are very welcome to my channel!]{s}
+  - [Cn: 欢迎你来到我的频道！]{g}
 
   ---
-  - [En: I hope you will enjoy my videos! ♥]{p}
-  - [Cn: 希望你会喜欢我的视频！♥]{s}
+  - [En: I hope you will enjoy my videos! ♥]{s}
+  - [Cn: 希望你会喜欢我的视频！♥]{g}
 
   ---
   - **[Living with the Dark Winters in Sweden |Midnight sun & Polar night | 与瑞典的黑暗冬天共存 |午夜太阳与极夜](https://www.youtube.com/watch?v=3zTR4ayDG38)**
   - **[Winter Days in the North | Working Through the Darkest Time of the Year | 北方冬日 | 度过一年中 最黑暗的时刻](https://www.youtube.com/watch?v=j3iFHM3dcBI)**
 
 ---
+**[Miss Jean Teaches]{p}**
 * **[Miss Jean Teaches | 11万 | Youtube](https://www.youtube.com/@missjeanteaches)**
 * **[英语学习Pie | 百章 | Douyin](https://v.douyin.com/nBEOloJekdk/)**
   - **[全英VLOG｜学语言必须"从第一天就开口"？](https://v.douyin.com/o1MYbBcmiok/)**
-  - **全英VLOG｜学语言必须"从第一天就开口"？ 视频来源｜油管 Miss Jean Teaches 剪辑+字幕+资料整理｜本人原创 学语言时总被"从第一天就开口"的建议绑架？想开口却怕焦虑，不开口又怕落后？博主结合自身教学与学习经验，从正反两方拆解这一热门建议，帮你打破认知误区，找到更适配自己的语言学习节奏！无论你偏爱"沉默积累"还是"即时输出"，都能从中找到共鸣**
+  - [全英VLOG｜学语言必须"从第一天就开口"？ 视频来源｜油管 Miss Jean Teaches 剪辑+字幕+资料整理｜本人原创 学语言时总被"从第一天就开口"的建议绑架？想开口却怕焦虑，不开口又怕落后？博主结合自身教学与学习经验，从正反两方拆解这一热门建议，帮你打破认知误区，找到更适配自己的语言学习节奏！无论你偏爱"沉默积累"还是"即时输出"，都能从中找到共鸣]{g}
 
 ---
+**[KevinFeng 冯凯文]{p}**
 * **[KevinFeng 冯凯文 | 10.3万 | Youtube](https://www.youtube.com/@IAmKevinFeng)**
   - [1个习惯带你直接听懂英文，让你英文听力像母语一样强](https://www.youtube.com/watch?v=t-kOwCmtcmA)
   - [用油管足不出户从0自学流利英文！20+个难度分级自学频道推荐！｜GDS 007](https://www.youtube.com/watch?v=0UY0bbE5I1w)
   - [2本能让你逆袭人生的英文书，只要高中水平就能读懂！](https://www.youtube.com/watch?v=L2B1NhxfvIw)
 
 ---
+**[PRIMAL EARTH]{p}**
 * **[PRIMAL EARTH | 14.5万 |Youtube | 4K](https://www.youtube.com/@primalearth8951)**
-  - [En: Our mother planet "Earth" and the vibrancy of life on it.]{p}
-  - [Cn: 我们的母星"地球"以及它上生命的生机勃勃。]{s}
+  - [En: Our mother planet "Earth" and the vibrancy of life on it.]{s}
+  - [Cn: 我们的母星"地球"以及它上生命的生机勃勃。]{g}
 
   ---
-  - [En: Feel the breath of "Earth" as you tour the great nature around the world.]{p}
-  - [Cn: 在环游世界这片大自然时，感受"大地"的气息。]{s}
+  - [En: Feel the breath of "Earth" as you tour the great nature around the world.]{s}
+  - [Cn: 在环游世界这片大自然时，感受"大地"的气息。]{g}
 
   ---
-  - [En: Beautiful and spectacular scenery and animals are still waiting for you!]{p}
-  - [Cn: 美丽壮观的风景和动物们依然在等待你！]{s}
+  - [En: Beautiful and spectacular scenery and animals are still waiting for you!]{s}
+  - [Cn: 美丽壮观的风景和动物们依然在等待你！]{g}
 
   ---
   - **[National Parks of the World Amazing Views 4K](https://www.youtube.com/watch?v=cfbrsPKm_5k)**
 
 ---
+**[4k Films by Adnan]{p}**
 * **[4k Films by Adnan | 15.6万 | Youtube](https://www.youtube.com/@4kfilmsbyadnan)**
-  - [En: Hi, I’m Adnan of the 4k Films by Adnan channel.]{p}
-  - [Cn: 你好，我是Adnan频道4k Films的Adnan。]{s}
+  - [En: Hi, I’m Adnan of the 4k Films by Adnan channel.]{s}
+  - [Cn: 你好，我是Adnan频道4k Films的Adnan。]{g}
 
   ---
-  - [En: At heart, I fall for nature callings from early morning bird chirpings, gentle breeze, and waterfalls… to tiny creek of insects natural landscapes and wonders worldwide.]{p}
-  - [Cn: 内心深处，我喜欢大自然的呼唤，清晨的鸟鸣、轻柔的微风和瀑布......到昆虫的小溪，自然景观和世界各地的奇观。]{s}
+  - [En: At heart, I fall for nature callings from early morning bird chirpings, gentle breeze, and waterfalls… to tiny creek of insects natural landscapes and wonders worldwide.]{s}
+  - [Cn: 内心深处，我喜欢大自然的呼唤，清晨的鸟鸣、轻柔的微风和瀑布......到昆虫的小溪，自然景观和世界各地的奇观。]{g}
 
   ---
-  - [En: We cannot find them easily in busy urban life.]{p}
-  - [Cn: 在繁忙的城市生活中，我们很难找到它们。]{s}
+  - [En: We cannot find them easily in busy urban life.]{s}
+  - [Cn: 在繁忙的城市生活中，我们很难找到它们。]{g}
 
   ---
-  - [En: My vision is to capture them into everyday accessible videos.]{p}
-  - [Cn: 我的愿景是把他们拍成日常可访问的视频。]{s}
+  - [En: My vision is to capture them into everyday accessible videos.]{s}
+  - [Cn: 我的愿景是把他们拍成日常可访问的视频。]{g}
 
   ---
-  - [En: Relax and enjoy the scenery of our beautiful world :)]{p}
-  - [Cn: 放松身心，欣赏我们美丽世界的风景:)]{s}
+  - [En: Relax and enjoy the scenery of our beautiful world :)]{s}
+  - [Cn: 放松身心，欣赏我们美丽世界的风景:)]{g}
 
   ---
-  - [En: Thank you so much.]{p}
-  - [Cn: 非常感谢。]{s}
+  - [En: Thank you so much.]{s}
+  - [Cn: 非常感谢。]{g}
 
   ---
   - Adnan Email: 4kfilmsbyadnan@gmail.com
@@ -310,141 +321,150 @@
   - **[Patagonia in 4K - Incredible Scenes & Uncovering Hidden Gems](https://www.youtube.com/watch?v=z8Gw2p2vRr0)**
 
 ---
+**[4K Relaxation Channel]{p}**
 * **[4K Relaxation Channel | 105万 | Youtube | 4K](https://www.youtube.com/@RelaxationChannel)**
-  - [En: 4K Relaxation Channel in sensational 4K and 8K resolution features spectacular nature videos perfect for deep relaxation, meditation, study, sleep, healing, stress relief and more in the industry-leading, detail-oriented 4K quality that brings nature into your home.]{p}
-  - [Cn: 4K放松频道以惊艳的4K和8K分辨率呈现壮观的自然视频，适合深度放松、冥想、学习、睡眠、疗愈、减压等，采用行业领先的细节导向4K画质，将大自然带入你的家中。]{s}
+  - [En: 4K Relaxation Channel in sensational 4K and 8K resolution features spectacular nature videos perfect for deep relaxation, meditation, study, sleep, healing, stress relief and more in the industry-leading, detail-oriented 4K quality that brings nature into your home.]{s}
+  - [Cn: 4K放松频道以惊艳的4K和8K分辨率呈现壮观的自然视频，适合深度放松、冥想、学习、睡眠、疗愈、减压等，采用行业领先的细节导向4K画质，将大自然带入你的家中。]{g}
 
   ---
-  - [En: ProArtInc Company is the producer of all the content posted on this channel.]{p}
-  - [Cn: ProArtInc公司是本频道所有内容的制作方。]{s}
+  - [En: ProArtInc Company is the producer of all the content posted on this channel.]{s}
+  - [Cn: ProArtInc公司是本频道所有内容的制作方。]{g}
 
   ---
-  - [En: All the copyrights for all the videos belong to ProArtInc Company.]{p}
-  - [Cn: 所有视频的版权均归ProArtInc公司所有。]{s}
+  - [En: All the copyrights for all the videos belong to ProArtInc Company.]{s}
+  - [Cn: 所有视频的版权均归ProArtInc公司所有。]{g}
 
   ---
-  - [En: Every video you see here is filmed by real people in real places.]{p}
-  - [Cn: 你在这里看到的每一段视频都是由真实的人在真实地点拍摄的。]{s}
+  - [En: Every video you see here is filmed by real people in real places.]{s}
+  - [Cn: 你在这里看到的每一段视频都是由真实的人在真实地点拍摄的。]{g}
 
   ---
-  - [En: No AI, no fake scenes—just genuine nature, shared with you.]{p}
-  - [Cn: 没有AI，没有假场景——只有真实的自然，与你共享。]{s}
+  - [En: No AI, no fake scenes—just genuine nature, shared with you.]{s}
+  - [Cn: 没有AI，没有假场景——只有真实的自然，与你共享。]{g}
 
   ---
-  - [En: All financing of video projects (travel, shooting, editing costs) is done by ProArtInc.]{p}
-  - [Cn: 所有视频项目的融资（差旅、拍摄、剪辑费用）均由ProArtInc.承担。]{s}
+  - [En: All financing of video projects (travel, shooting, editing costs) is done by ProArtInc.]{s}
+  - [Cn: 所有视频项目的融资（差旅、拍摄、剪辑费用）均由ProArtInc.承担。]{g}
 
   ---
-  - [En: ALL THE VIDEOS HERE ARE FOR PRIVATE USE ONLY!]{p}
-  - [Cn: 这里的所有视频仅供私人使用！]{s}
+  - [En: ALL THE VIDEOS HERE ARE FOR PRIVATE USE ONLY!]{s}
+  - [Cn: 这里的所有视频仅供私人使用！]{g}
 
   ---
-  - [En: IF YOU WANT TO USE OUR VIDEOS IN ANY PROJECT, PLEASE, OBTAIN A LICENSE BY CONTACTING US AT proartinc1@gmail.com If you want to support our creative work, visit our online stores www.proartinc.net and www.beautifulwashington.com/shop/nature-relaxation-videos.html where you can shop to support us.]{p}
-  - [Cn: 如果您想在任何项目中使用我们的视频，请通过联系我们获取许可 proartinc1@gmail.com 如果您想支持我们的创意工作，请访问我们的在线商店 www.proartinc.net 和 www.beautifulwashington.com/shop/nature-relaxation-videos.html ，您可以在那里购买支持我们的产品。]{s}
+  - [En: IF YOU WANT TO USE OUR VIDEOS IN ANY PROJECT, PLEASE, OBTAIN A LICENSE BY CONTACTING US AT proartinc1@gmail.com If you want to support our creative work, visit our online stores www.proartinc.net and www.beautifulwashington.com/shop/nature-relaxation-videos.html where you can shop to support us.]{s}
+  - [Cn: 如果您想在任何项目中使用我们的视频，请通过联系我们获取许可 proartinc1@gmail.com 如果您想支持我们的创意工作，请访问我们的在线商店 www.proartinc.net 和 www.beautifulwashington.com/shop/nature-relaxation-videos.html ，您可以在那里购买支持我们的产品。]{g}
 
   ---
   - **[无人机镜头 - 克罗地亚、欧洲的鸟瞰图 - 3 小时无人机环境电影 | 4K](https://www.youtube.com/watch?v=HSsqzzuGTPo&list=PL-_vMUSUXkyep9L7dxNjDKVZ2wJqtuzW3)**
 
 ---
+**[4K休闲频道]{p}**
 * **[4K休闲频道 | ProArtInc | Douyin | 二百章](https://v.douyin.com/uuEFJKfRBsc/)**
   - [助眠 | 冥想](https://v.douyin.com/gF8j1U_F5qU/)
   - **[ProArtInc](https://proartinc.net/)**
 
 ---
+**[Scenic Relaxation]{p}**
 * **[Scenic Relaxation | 166万 |  Youtube | 4K](https://www.youtube.com/@ScenicRelaxationFilms)**
-  - [En: The goal at Scenic Relaxation is to provide relaxing 4K films of the world's most incredible destinations.]{p}
-  - [Cn: Scenic Relaxation的目标是提供世界上最不可思议目的地的放松4K影片。]{s}
+  - [En: The goal at Scenic Relaxation is to provide relaxing 4K films of the world's most incredible destinations.]{s}
+  - [Cn: Scenic Relaxation的目标是提供世界上最不可思议目的地的放松4K影片。]{g}
 
   ---
-  - [En: From the Alps of Switzerland, to the exotic landscapes of Africa, Scenic Relaxation will show you our incredible planet.]{p}
-  - [Cn: 从瑞士阿尔卑斯山到非洲的异域风光，Scenic Relaxation 将带你了解我们令人难以置信的星球。]{s}
+  - [En: From the Alps of Switzerland, to the exotic landscapes of Africa, Scenic Relaxation will show you our incredible planet.]{s}
+  - [Cn: 从瑞士阿尔卑斯山到非洲的异域风光，Scenic Relaxation 将带你了解我们令人难以置信的星球。]{g}
 
   ---
-  - [En: Relax and enjoy the scenery of our beautiful world :)]{p}
-  - [Cn: 放松，欣赏我们美丽世界的风景:)]{s}
+  - [En: Relax and enjoy the scenery of our beautiful world :)]{s}
+  - [Cn: 放松，欣赏我们美丽世界的风景:)]{g}
 
   - **[Kamchatka 4K - Scenic Relaxation Film With Calming Music](https://www.youtube.com/watch?v=aaflSqm2LLY)**
   - **[Japan 4K - Scenic Relaxation Film With Calming Music](https://www.youtube.com/watch?v=D48T0wNm96w)**
 
 ---
+**[Relaxation Film]{p}**
 * **[Relaxation Film | 五十章  |  Douyin](https://v.douyin.com/17pgl3YprfA/)**
   - [【4K 奥地利-哈尔施塔特】俯瞰恬静奥地利小镇，湖景峡湾宁静怡然   ](https://v.douyin.com/fUD3TSTWrkQ/)
 
 ---
+**[Ariannita la Gringa]{p}**
 * **[Ariannita la Gringa | 202万  | Youtube](https://www.youtube.com/@ariannitalagringa)**
   - [Religious Vocabulary in English](https://www.youtube.com/watch?v=Ae8odmRJNu0)
   - [購物中心英語詞彙](https://www.youtube.com/watch?v=VFe7Ap1kfk0)
   - [Visiting an International Market](https://www.youtube.com/watch?v=3VP8OZyr87A)
 
 ---
+**[Lana Blakely]{p}**
 * **[Lana Blakely | 165万 | Youtube](https://www.youtube.com/@LanaBlakely/videos)**
-  - **books, solo trips, vintage finds and thinking aloud**
-  - **书籍、独自旅行、复古发现和随声思考**
+  - [En: books, solo trips, vintage finds and thinking aloud]{s}
+  - [Cn: 书籍、独自旅行、复古发现和随声思考]{g}
 
 ---
+**[Mark学英语]{p}**
 * **[Mark学英语 | 为了给俩娃启蒙英语，37岁重学英语 | 百章 | Douyin](https://v.douyin.com/Fw8_g1qpMFk/)**
   - [高频英语缩略词，像母语者一样聊天 Most Common Acronyms In English](https://v.douyin.com/OylLt8yPs-w/)
   - [【英语易混词】Do vs Make：核心区别一次讲清 | 英语 | 英语口语 | 英语启蒙 | 英语学习 | 英语听力](https://v.douyin.com/THCKuOPQ_NQ/)
 
 ---
+**[Learn English with Jessica]{p}**
 * **[Learn English with Jessica | 274万 | 动画 | Youtube](https://www.youtube.com/channel/UCXtMjo8xJqjEhS4A9KUY8GA)**
-  - [En: Learn English with Jessica is a FREE Channel for English learners.]{p}
-  - [Cn: "与杰西卡一起学习英语"是一个免费的英语学习频道。]{s}
+  - [En: Learn English with Jessica is a FREE Channel for English learners.]{s}
+  - [Cn: "与杰西卡一起学习英语"是一个免费的英语学习频道。]{g}
 
   ---
-  - [En: Our Channel will create a variety of videos about EVERYDAY conversations which are aimed at improving your general English knowledge and skills.]{p}
-  - [Cn: 我们的频道将制作各种关于日常对话的视频，旨在提升你的英语基础知识和技能。]{s}
+  - [En: Our Channel will create a variety of videos about EVERYDAY conversations which are aimed at improving your general English knowledge and skills.]{s}
+  - [Cn: 我们的频道将制作各种关于日常对话的视频，旨在提升你的英语基础知识和技能。]{g}
 
   ---
-  - [En: In particular, you will learn:]{p}
-    * [En: Listening and Speaking Skills]{p}
-    * [En: Vocabulary]{p}
-    * [En: Tips]{p}
-    * [En: Grammar]{p}
-  - [En: We will upload new videos at 4:30 AM every Monday, Tuesday, Wednesday and Friday.]{p}
+  - [En: In particular, you will learn:]{s}
+    * [En: Listening and Speaking Skills]{s}
+    * [En: Vocabulary]{s}
+    * [En: Tips]{s}
+    * [En: Grammar]{s}
+  - [En: We will upload new videos at 4:30 AM every Monday, Tuesday, Wednesday and Friday.]{s}
 
-  - [Cn: 特别是，您将学习：]{s}
-    * [Cn: 听力与口语技能]{s}
-    * [Cn: 词 汇]{s}
-    * [Cn: 技巧]{s}
-    * [Cn: 语法]{s}
-  - [Cn: 我们将在每周一、二、三、五凌晨4：30上传新视频。]{s}
-
-  ---
-  - [En: Thousands of English Videos are waiting for you.]{p}
-  - [Cn: 成千上万的英文视频正等着你。]{s}
+  - [Cn: 特别是，您将学习：]{g}
+    * [Cn: 听力与口语技能]{g}
+    * [Cn: 词 汇]{g}
+    * [Cn: 技巧]{g}
+    * [Cn: 语法]{g}
+  - [Cn: 我们将在每周一、二、三、五凌晨4：30上传新视频。]{g}
 
   ---
-  - [En: ☞ Please subscribe to our channel and turn on notifications to stay updated with our latest videos.❤️❤️❤️]{p}
-  - [Cn: ☞ 请订阅我们的频道并开启通知，随时获取最新视频信息。 ❤️❤️❤️]{s}
+  - [En: Thousands of English Videos are waiting for you.]{s}
+  - [Cn: 成千上万的英文视频正等着你。]{g}
+
+  ---
+  - [En: ☞ Please subscribe to our channel and turn on notifications to stay updated with our latest videos.❤️❤️❤️]{s}
+  - [Cn: ☞ 请订阅我们的频道并开启通知，随时获取最新视频信息。 ❤️❤️❤️]{g}
 
   ---
   * **[30 Minutes of Daily English Conversations for Beginners (A2 Level) | Practice Listening and Speaking | 初学者每日英语会话30分钟（A2水平） | 练习听和说](https://www.youtube.com/watch?v=1lGynioT8B8)**
 
 ---
+**[BBC Earth]{p}**
 * **[BBC Earth | 1420万 | Youtube](https://www.youtube.com/@bbcearth)**
-  - [En: Bringing you face-to-face with heart-pounding action, mind-blowing ideas and the sheer wonder of being part of this amazing planet we call home.]{p}
-  - [Cn: 带你面对令人心跳加速的动作、令人震撼的创意，以及成为这个我们称之为家的奇妙星球一部分的纯粹惊奇。]{s}
+  - [En: Bringing you face-to-face with heart-pounding action, mind-blowing ideas and the sheer wonder of being part of this amazing planet we call home.]{s}
+  - [Cn: 带你面对令人心跳加速的动作、令人震撼的创意，以及成为这个我们称之为家的奇妙星球一部分的纯粹惊奇。]{g}
 
   ---
-  - [En: BBC Earth is the official channel of well-known Sir David Attenborough series such as Planet Earth, Frozen Planet and Blue Planet II.]{p}
-  - [Cn: BBC地球频道是著名大卫·阿滕伯勒系列节目的官方频道，如《地球脉动》、《冰冻星球》和《蓝色星球II》。]{s}
+  - [En: BBC Earth is the official channel of well-known Sir David Attenborough series such as Planet Earth, Frozen Planet and Blue Planet II.]{s}
+  - [Cn: BBC地球频道是著名大卫·阿滕伯勒系列节目的官方频道，如《地球脉动》、《冰冻星球》和《蓝色星球II》。]{g}
 
   ---
-  - [En: It's also where you can find fantastic nature and wildlife documentaries such as Life of Mammals and classics like Planet Dinosaur.]{p}
-  - [Cn: 这里还能找到精彩的自然和野生动物纪录片，如《哺乳动物的生活》，以及经典作品如《恐龙星球》。]{s}
+  - [En: It's also where you can find fantastic nature and wildlife documentaries such as Life of Mammals and classics like Planet Dinosaur.]{s}
+  - [Cn: 这里还能找到精彩的自然和野生动物纪录片，如《哺乳动物的生活》，以及经典作品如《恐龙星球》。]{g}
 
   ---
-  - [En: You can become part of the BBC community by checking out our BBC Earth Facebook, Instagram, TikTok, Snapchat and Twitter.]{p}
-  - [Cn: 您可以通过查看我们的BBC Earth Facebook、Instagram、TikTok、Snapchat和Twitter，成为BBC社区的一员。]{s}
+  - [En: You can become part of the BBC community by checking out our BBC Earth Facebook, Instagram, TikTok, Snapchat and Twitter.]{s}
+  - [Cn: 您可以通过查看我们的BBC Earth Facebook、Instagram、TikTok、Snapchat和Twitter，成为BBC社区的一员。]{g}
 
   ---
-  - [En: Here you'll find the best natural history content from the web, exclusive videos and images and a thriving, vibrant community.]{p}
-  - [Cn: 在这里，您可以找到来自网络的最佳自然历史内容、独家视频和图片，以及一个充满活力的社区。]{s}
+  - [En: Here you'll find the best natural history content from the web, exclusive videos and images and a thriving, vibrant community.]{s}
+  - [Cn: 在这里，您可以找到来自网络的最佳自然历史内容、独家视频和图片，以及一个充满活力的社区。]{g}
 
   ----
-  - [En: This is a commercial channel from BBC Studios.]{p}
-  - [Cn: 这是BBC工作室的商业频道。]{s}
+  - [En: This is a commercial channel from BBC Studios.]{s}
+  - [Cn: 这是BBC工作室的商业频道。]{g}
 
   ---
   - Service information and feedback: https://www.bbcstudios.com/contact/contact-us/
@@ -453,39 +473,43 @@
   ---
   - **[1 Hour of Magnificent Moments Narrated by Sir David Attenborough | BBC Earth | 1小时的壮丽时刻 由大卫·阿滕伯勒爵士旁白 |BBC地球](https://www.youtube.com/watch?v=Vd7iuPV_AF0)**
 
+---
+**[BBC英语纪录频道]{p}**
 * **[BBC英语纪录频道 | BBC英语官方记录片 | 百章 | Douyin](https://v.douyin.com/Kg7WEHuZnzo/)**
   - [神奇的植物 GREEN PLANET 1](https://v.douyin.com/AyWrh_p2L2U/)
 
 ---
+**[SciShow Kids]{p}**
 * **[SciShow Kids | 157万 | Youtube](https://www.youtube.com/@SciShowKids/videos)**
-  - [En: From the team behind the YouTube series SciShow comes SciShow Kids!]{p}
-  - [Cn: 由YouTube系列《SciShow》团队打造，推出了《SciShow Kids》！]{s}
+  - [En: From the team behind the YouTube series SciShow comes SciShow Kids!]{s}
+  - [Cn: 由YouTube系列《SciShow》团队打造，推出了《SciShow Kids》！]{g}
 
   ---
-  - [En: Join host Jessi, her robot rat friend Squeaks, and all their friends at the Fort as they explain fun, complex science concepts for young, curious minds.]{p}
-  - [Cn: 加入主持人Jessi、她的机器人老鼠朋友Squeaks以及所有朋友们在堡垒，向年轻好奇的孩子们讲解有趣且复杂的科学概念。]{s}
+  - [En: Join host Jessi, her robot rat friend Squeaks, and all their friends at the Fort as they explain fun, complex science concepts for young, curious minds.]{s}
+  - [Cn: 加入主持人Jessi、她的机器人老鼠朋友Squeaks以及所有朋友们在堡垒，向年轻好奇的孩子们讲解有趣且复杂的科学概念。]{g}
 
   ---
-  - [En: Whether conducting experiments, researching new questions, or talking with experts, there’s always something new to discover with SciShow Kids, no matter what your age!]{p}
-  - [Cn: 无论是进行实验、研究新问题，还是与专家交流，无论年龄多大，SciShow Kids总有新发现！]{s}
+  - [En: Whether conducting experiments, researching new questions, or talking with experts, there’s always something new to discover with SciShow Kids, no matter what your age!]{s}
+  - [Cn: 无论是进行实验、研究新问题，还是与专家交流，无论年龄多大，SciShow Kids总有新发现！]{g}
 
   ---
-  - [En: SciShow Kids is streaming on Peacock and Roku!]{p}
-  - [Cn: 《SciShow Kids》正在Peacock和Roku上线！]{s}
+  - [En: SciShow Kids is streaming on Peacock and Roku!]{s}
+  - [Cn: 《SciShow Kids》正在Peacock和Roku上线！]{g}
 
   ---
-  - [En: Just search for SciShow Kids to watch a special selection of our favorite compilations.]{p}
-  - [Cn: 只需搜索"SciShow Kids"，即可观看我们特别精选的喜爱合集。]{s}
+  - [En: Just search for SciShow Kids to watch a special selection of our favorite compilations.]{s}
+  - [Cn: 只需搜索"SciShow Kids"，即可观看我们特别精选的喜爱合集。]{g}
 
   ---
-  - [En: New episodes of SciShow Kids will continue to be posted on YouTube.]{p}
-  - [Cn: 《SciShow Kids》的新剧集将继续在YouTube上发布。]{s}
+  - [En: New episodes of SciShow Kids will continue to be posted on YouTube.]{s}
+  - [Cn: 《SciShow Kids》的新剧集将继续在YouTube上发布。]{g}
 
   ---
-  - [En: SciShow Kids is ideal for early-elementary learners, Grades 1-3, and most episodes are structured around the Next Generation Science Standards (NGSS) curriculum.]{p}
-  - [Cn: 《SciShow Kids》非常适合1至3年级的初小学儿童，大多数节目围绕下一代科学标准（NGSS）课程展开。]{s}
+  - [En: SciShow Kids is ideal for early-elementary learners, Grades 1-3, and most episodes are structured around the Next Generation Science Standards (NGSS) curriculum.]{s}
+  - [Cn: 《SciShow Kids》非常适合1至3年级的初小学儿童，大多数节目围绕下一代科学标准（NGSS）课程展开。]{g}
 
 ---
+**[Dan Koe]{p}**
 * **[Dan Koe | 124万 | Youtube](https://www.youtube.com/@DanKoeTalks)**
 
 * **[来点思考 | 一人公司→超级个体→自我实现 帮你把想不清楚的问题判断清楚 | 二百章 | Douyin](https://v.douyin.com/OkNpJEuLTEg/)**
@@ -497,111 +521,120 @@
   - [如何让人生进步十倍（完整指南） How To Make Progress 10X Faster In Life (Full Guide)](https://v.douyin.com/XyQq7MkQ4hI/)
 
 ---
+**[4kUrbanLife]{p}**
 * **[4kUrbanLife | 36.1万 | Youtube](https://www.youtube.com/@4kUrbanLife)**
   - **[4K Cities of The World: Krakow, Poland](https://www.youtube.com/watch?v=3CfLia_6TU0&list=PLQggNzW0_YA9OlYAoIS5Vp-gRp8kF3EcS)**
 
 ---
+**[The English Class]{p}**
 * **[The English Class | 33.7万 | Youtube](https://www.youtube.com/@TheEnglishClass2917)**
   - **[How to Speak English Fluently | 如何流利 地说英语](https://www.youtube.com/watch?v=dWmUsWorYh0)**
 
+---
+**[Biubiu仔仔]{p}**
 * **[Biubiu仔仔 | 沉浸式练习英语口语 | 百章 | Douyin](https://v.douyin.com/MUMd0LtI8WE/)**
   - [How to Speak English Fluently？](https://v.douyin.com/2bueQ6v6XVo/)
-  - How to Speak English Fluently？ Do you want to speak English fluently? Do you feel nervous when you try to speak? In this video, we will help you! We will teach you step by step, in very easy English. You will learn how to speak clearly, how to practice every day, and how to stop being afraid.
+  - [How to Speak English Fluently？ Do you want to speak English fluently? Do you feel nervous when you try to speak? In this video, we will help you! We will teach you step by step, in very easy English. You will learn how to speak clearly, how to practice every day, and how to stop being afraid.]{g}
 
 ---
+**[Links TV]{p}**
 * **[Links TV  | 76.8万 | Youtube](https://www.youtube.com/@linksphotograph)**
   - **[大西洋上只有300人的孤岛，却藏着地球最震撼的火山奇观松下！亚速尔群岛｜松下S1R2 ｜Linksphotograph](https://www.youtube.com/watch?v=1kCOblyiuxY)**
 
 * **[Linksphotograph | Bilibili](https://space.bilibili.com/3816626)**
 
 ---
+**[Tourist Walk Tours]{p}**
 * **[Tourist Walk Tours | 44.2万 | Youtube](https://www.youtube.com/@TouristWalkTours)**
-  - [En: Welcome to Tourist Walk Tours — your passport to adventure!]{p}
-  - [Cn: 欢迎来到旅游徒步游——你的冒险通行证！]{s}
+  - [En: Welcome to Tourist Walk Tours — your passport to adventure!]{s}
+  - [Cn: 欢迎来到旅游徒步游——你的冒险通行证！]{g}
 
   ---
-  - [En: 👋 Hi, I’m Dan, a passionate travel videographer who loves capturing the world’s most amazing places — from bustling cities to beautiful villages that take your breath away.]{p}
-  - [Cn: 👋 你好，我是丹，一名充满热情的旅行摄像师，热爱捕捉世界上最令人惊叹的地方——从繁忙的城市到令人屏息的美丽村庄。]{s}
+  - [En: 👋 Hi, I’m Dan, a passionate travel videographer who loves capturing the world’s most amazing places — from bustling cities to beautiful villages that take your breath away.]{s}
+  - [Cn: 👋 你好，我是丹，一名充满热情的旅行摄像师，热爱捕捉世界上最令人惊叹的地方——从繁忙的城市到令人屏息的美丽村庄。]{g}
 
   ---
-  - [En: Join me on exciting journeys that inspire and connect us.]{p}
-  - [Cn: 加入我，一起踏上激动人心、连接我们的旅程。]{s}
+  - [En: Join me on exciting journeys that inspire and connect us.]{s}
+  - [Cn: 加入我，一起踏上激动人心、连接我们的旅程。]{g}
 
   ---
-  - [En: 🚶‍♂️ Let’s explore vibrant cultures, rich histories, and breathtaking scenery together.]{p}
-  - [Cn: 🚶 ♂️ 让我们一起探索充满活力的文化、丰富的历史和令人惊叹的风景。]{s}
+  - [En: 🚶‍♂️ Let’s explore vibrant cultures, rich histories, and breathtaking scenery together.]{s}
+  - [Cn: 🚶 ♂️ 让我们一起探索充满活力的文化、丰富的历史和令人惊叹的风景。]{g}
 
   ---
-  - [En: Every destination has a unique story, and I’m here to share it with you.📹]{p}
-  - [Cn: 每个目的地都有独特的故事，我在这里与你分享。 📹]{s}
+  - [En: Every destination has a unique story, and I’m here to share it with you.📹]{s}
+  - [Cn: 每个目的地都有独特的故事，我在这里与你分享。 📹]{g}
 
   ---
-  - [En: My immersive videos make you feel like you’re right there, walking beside me.]{p}
-  - [Cn: 我的沉浸式视频让你仿佛就在我身边，走在我身边。]{s}
+  - [En: My immersive videos make you feel like you’re right there, walking beside me.]{s}
+  - [Cn: 我的沉浸式视频让你仿佛就在我身边，走在我身边。]{g}
 
   ---
-  - [En: Whether you’re planning your next trip or simply dreaming, this channel is your perfect travel companion.🌆]{p}
-  - [Cn: 无论你是在计划下一次旅行，还是只是做梦，这个频道都是你完美的旅行伙伴。 🌆]{s}
+  - [En: Whether you’re planning your next trip or simply dreaming, this channel is your perfect travel companion.🌆]{s}
+  - [Cn: 无论你是在计划下一次旅行，还是只是做梦，这个频道都是你完美的旅行伙伴。 🌆]{g}
 
   ---
-  - [En: Discover iconic landmarks, delicious local cuisine, and insider tips for your adventures.]{p}
-  - [Cn: 发现标志性地标、美味的本地美食以及冒险的内部小贴士。]{s}
+  - [En: Discover iconic landmarks, delicious local cuisine, and insider tips for your adventures.]{s}
+  - [Cn: 发现标志性地标、美味的本地美食以及冒险的内部小贴士。]{g}
 
   ---
-  - [En: The world is huge — let’s explore it together!]{p}
-  - [Cn: 世界很大——让我们一起探索吧！]{s}
+  - [En: The world is huge — let’s explore it together!]{s}
+  - [Cn: 世界很大——让我们一起探索吧！]{g}
 
   ---
   - **[**瑞士**最美的山村——你会想搬到这里来。](https://www.youtube.com/watch?v=o9esB3n-GAw)**
 
 ---
+**[🇨🇭 SWISS - Most Beautiful Places & Walking Tours]{p}**
 * **[🇨🇭 SWISS - Most Beautiful Places & Walking Tours | 瑞士 | 8.69万 | Youtube](https://www.youtube.com/@SWISS_WalkingTours)**
-  - [En: Welcome to our YouTube channel dedicated to the breathtaking beauty of Switzerland!]{p}
-  - [Cn: 欢迎来到我们的YouTube频道，专注于瑞士令人叹为观止的美景！]{s}
+  - [En: Welcome to our YouTube channel dedicated to the breathtaking beauty of Switzerland!]{s}
+  - [Cn: 欢迎来到我们的YouTube频道，专注于瑞士令人叹为观止的美景！]{g}
 
   ---
-  - [En: Join us on enchanting journeys through the most picturesque destinations in this Alpine wonderland.]{p}
-  - [Cn: 加入我们，踏上穿越这片阿尔卑斯奇境中最美丽目的地的迷人旅程。]{s}
+  - [En: Join us on enchanting journeys through the most picturesque destinations in this Alpine wonderland.]{s}
+  - [Cn: 加入我们，踏上穿越这片阿尔卑斯奇境中最美丽目的地的迷人旅程。]{g}
 
   ---
-  - [En: Explore the charm of Mürren, the awe-inspiring Jungfrau: Top of Europe, the mesmerizing Lauterbrunnen Valley with its cascading waterfalls, the scenic Allmendhubel, the idyllic town of Spiez, the crystal-clear waters of Blausee, the serene Brienz, the alpine wonders of Kandersteg, the captivating Grindelwald, and the majestic Swiss Alps.]{p}
-  - [Cn: 探索穆伦的魅力、令人敬畏的少女峰：欧洲之巅、迷人的劳特布伦嫩谷及其瀑布、风景如画的奥尔门杜贝尔、田园诗般的斯皮茨镇、清澈见底的布劳西湖水、宁静的布里恩茨、坎德施泰格的高山奇观、迷人的格林德沃，以及雄伟的瑞士阿尔卑斯山。]{s}
+  - [En: Explore the charm of Mürren, the awe-inspiring Jungfrau: Top of Europe, the mesmerizing Lauterbrunnen Valley with its cascading waterfalls, the scenic Allmendhubel, the idyllic town of Spiez, the crystal-clear waters of Blausee, the serene Brienz, the alpine wonders of Kandersteg, the captivating Grindelwald, and the majestic Swiss Alps.]{s}
+  - [Cn: 探索穆伦的魅力、令人敬畏的少女峰：欧洲之巅、迷人的劳特布伦嫩谷及其瀑布、风景如画的奥尔门杜贝尔、田园诗般的斯皮茨镇、清澈见底的布劳西湖水、宁静的布里恩茨、坎德施泰格的高山奇观、迷人的格林德沃，以及雄伟的瑞士阿尔卑斯山。]{g}
 
   ---
-  - [En: To our valued viewers, we extend our heartfelt gratitude for joining us on these adventures.]{p}
-  - [Cn: 我们衷心感谢亲爱的观众们加入我们的这些冒险。]{s}
+  - [En: To our valued viewers, we extend our heartfelt gratitude for joining us on these adventures.]{s}
+  - [Cn: 我们衷心感谢亲爱的观众们加入我们的这些冒险。]{g}
 
   ---
-  - [En: Your support means the world to us!]{p}
-  - [Cn: 你们的支持对我们意义重大！]{s}
+  - [En: Your support means the world to us!]{s}
+  - [Cn: 你们的支持对我们意义重大！]{g}
 
   ---
-  - [En: If you haven't already, please subscribe to our channel and hit the like button.]{p}
-  - [Cn: 如果你还没订阅，请订阅我们的频道并点赞。]{s}
+  - [En: If you haven't already, please subscribe to our channel and hit the like button.]{s}
+  - [Cn: 如果你还没订阅，请订阅我们的频道并点赞。]{g}
 
   ---
-  - [En: By doing so, you not only express your appreciation but also assist others in discovering the unparalleled beauty of Switzerland and relishing the wonders of its nature.]{p}
-  - [Cn: 这样做不仅表达了你的欣赏，也帮助他人发现瑞士无与伦比的美丽，享受其自然的奇观。]{s}
+  - [En: By doing so, you not only express your appreciation but also assist others in discovering the unparalleled beauty of Switzerland and relishing the wonders of its nature.]{s}
+  - [Cn: 这样做不仅表达了你的欣赏，也帮助他人发现瑞士无与伦比的美丽，享受其自然的奇观。]{g}
 
   ---
   - **[**瑞士**的天堂：瑞士乡村美丽村庄的雨天](https://www.youtube.com/watch?v=-kenx1rQyZo)**
 
 ---
+**[]{p}**
+
 * **[SoulEase Space | 音乐 | Youtube](https://www.youtube.com/@SoulEase_Space)**
-  - [En: Welcome to SoulEase Space—a serene place to unwind, soothe your soul, and find harmony. 🎹🌿]{p}
-  - [Cn: 欢迎来到SoulEase空间——一个宁静的地方，让你放松身心，抚慰心灵，找到和谐。🎹🌿]{s}
+  - [En: Welcome to SoulEase Space—a serene place to unwind, soothe your soul, and find harmony. 🎹🌿]{s}
+  - [Cn: 欢迎来到SoulEase空间——一个宁静的地方，让你放松身心，抚慰心灵，找到和谐。🎹🌿]{g}
 
   ---
-  - [En: Here, every piano note flows softly, like a whisper of serenity, guiding you to inner peace and clarity.]{p}
-  - [Cn: 这里，每一个钢琴音符都轻柔流淌，如同宁静的低语，引导你走向内心的平静与清晰。]{s}
+  - [En: Here, every piano note flows softly, like a whisper of serenity, guiding you to inner peace and clarity.]{s}
+  - [Cn: 这里，每一个钢琴音符都轻柔流淌，如同宁静的低语，引导你走向内心的平静与清晰。]{g}
 
   ---
-  - [En: Let the soothing melodies help you drift off to deep sleep, focus easily, or simply unwind after a long day.]{p}
-  - [Cn: 让舒缓的旋律帮助你进入深度睡眠，轻松集中注意力，或在漫长一天后放松身心。]{s}
+  - [En: Let the soothing melodies help you drift off to deep sleep, focus easily, or simply unwind after a long day.]{s}
+  - [Cn: 让舒缓的旋律帮助你进入深度睡眠，轻松集中注意力，或在漫长一天后放松身心。]{g}
 
   ---
-  - [En: Close your eyes, take a deep breath, and allow your soul to find peace in this tranquil space.]{p}
-  - [Cn: 闭上眼睛，深呼吸，让你的灵魂在这宁静的空间中找到平静。]{s}
+  - [En: Close your eyes, take a deep breath, and allow your soul to find peace in this tranquil space.]{s}
+  - [Cn: 闭上眼睛，深呼吸，让你的灵魂在这宁静的空间中找到平静。]{g}
 
   ---
   - **[音乐疗法🌿 修复神经系统，停止过度思考 | 舒缓压力的放松音乐](https://www.youtube.com/watch?v=ecrL5FHBmFA)**
@@ -618,16 +651,16 @@
 ---
 ### 0004. Learn English Vlog
 * **[Leah's English 莉雅老师 | 20万 | Youtube](https://www.youtube.com/@Leah%E7%9A%84%E5%B0%8F%E6%97%A5%E8%AE%B0/videos)**
-  - [En: Welcome! Let's learn some authentic English!]{p}
-  - [Cn: 欢迎大家跟我一起学习英语口语～]{s}
+  - [En: Welcome! Let's learn some authentic English!]{s}
+  - [Cn: 欢迎大家跟我一起学习英语口语～]{g}
 
-  - [En: I'm an American English teacher with a degree in Linguistics and a TESOL teaching certificate. I also like to share my daily life.]{p}
-  - [Cn: 我是一名美国英语教师，拥有语言学学位和TESOL教师证书。我也喜欢分享我的日常生活。]{s}
+  - [En: I'm an American English teacher with a degree in Linguistics and a TESOL teaching certificate. I also like to share my daily life.]{s}
+  - [Cn: 我是一名美国英语教师，拥有语言学学位和TESOL教师证书。我也喜欢分享我的日常生活。]{g}
 
   - Business inquiries only: liya427447@gmail.com
 
-  - [En: This is my only channel on this platform!]{p}
-  - [Cn: 本平台本人只有这一个英语教学账号]{s}
+  - [En: This is my only channel on this platform!]{s}
+  - [Cn: 本平台本人只有这一个英语教学账号]{g}
 
   ---
 
@@ -636,106 +669,106 @@
 
 ---
 * **[Michelle Khare | YouTube 的冒险家 | 534万 | 中阶 | Youtube](https://www.youtube.com/@MichelleKhare)**
-  - [En: YouTube's Daredevil 😈 For business Inquiries: michellekhare+business@gmail.com Challenge Accepted follows Michelle Khare as she attempts the world's most difficult lifestyles, stunts, and professions.]{p}
-  - [Cn: YouTube的《商业咨询夜魔😈侠 ： michellekhare+business@gmail.com 挑战接受》跟随米歇尔·卡尔尝试世界上最艰难的生活方式、特技和职业。]{s}
+  - [En: YouTube's Daredevil 😈 For business Inquiries: michellekhare+business@gmail.com Challenge Accepted follows Michelle Khare as she attempts the world's most difficult lifestyles, stunts, and professions.]{s}
+  - [Cn: YouTube的《商业咨询夜魔😈侠 ： michellekhare+business@gmail.com 挑战接受》跟随米歇尔·卡尔尝试世界上最艰难的生活方式、特技和职业。]{g}
 
   ---
-  - [En: AWARDS: 2023 Streamy WINNER - Show of the Year - Challenge Accepted 2022]{p}
-  - [Cn: 奖项： 2023年Streamy获奖者 - 年度节目 - 挑战接受 2022年]{s}
+  - [En: AWARDS: 2023 Streamy WINNER - Show of the Year - Challenge Accepted 2022]{s}
+  - [Cn: 奖项： 2023年Streamy获奖者 - 年度节目 - 挑战接受 2022年]{g}
 
   ---
-  - [En: Streamy WINNER - Best Unscripted Series - Challenge Accepted  2022 Streamy Nominee - Show of The Year  2019 Shorty Nominee - Creator of The Year REPRESENTATION: Gersh - Keith Bielory PUBLICITY:  imPRint - Emily Rennert, Lauren Denker  SPEAKING ENGAGEMENTS:  Lavin - Charles Yao]{p}
-  - [Cn: Streamy获奖者 - 最佳无剧本剧集 - 挑战 接受 2022年 Streamy提名 - 年度节目 2019 短片提名 - 年度创作者 代表： Gersh - Keith Bielory 宣传： imPRint - Emily Rennert， Lauren Denker 演讲 嘉宾： Lavin - Charles Yao]{s}
+  - [En: Streamy WINNER - Best Unscripted Series - Challenge Accepted  2022 Streamy Nominee - Show of The Year  2019 Shorty Nominee - Creator of The Year REPRESENTATION: Gersh - Keith Bielory PUBLICITY:  imPRint - Emily Rennert, Lauren Denker  SPEAKING ENGAGEMENTS:  Lavin - Charles Yao]{s}
+  - [Cn: Streamy获奖者 - 最佳无剧本剧集 - 挑战 接受 2022年 Streamy提名 - 年度节目 2019 短片提名 - 年度创作者 代表： Gersh - Keith Bielory 宣传： imPRint - Emily Rennert， Lauren Denker 演讲 嘉宾： Lavin - Charles Yao]{g}
 
 ---
 * **[Max Amini | 了解即将举行的活动和演出 | 高阶 | 396万 | Youtube](https://www.youtube.com/@MaxAmini)**
-  - [En: 𝐓𝐈𝐂𝐊𝐄𝐓𝐒 𝐎𝐍 𝐒𝐀𝐋𝐄 𝐍𝐎𝐖!]{p}
-  - [Cn: 门票现已开售！]{s}
+  - [En: 𝐓𝐈𝐂𝐊𝐄𝐓𝐒 𝐎𝐍 𝐒𝐀𝐋𝐄 𝐍𝐎𝐖!]{s}
+  - [Cn: 门票现已开售！]{g}
 
   ---
-  - [En: for upcoming events and shows! Please visit MAXAMINI.COM]{p}
-  - [Cn: 关于即将到来的活动和演出！ 请访问 MAXAMINI.COM]{s}
+  - [En: for upcoming events and shows! Please visit MAXAMINI.COM]{s}
+  - [Cn: 关于即将到来的活动和演出！ 请访问 MAXAMINI.COM]{g}
 
 ---
 * **[The Balance Theory Podcast | 高阶 | 26.3万 | Youtube](https://www.youtube.com/@thebalancetheorypodcast)**
-  - [En: The Balance Theory is a self development podcast for people looking to build confidence in themselves and the life they want to create.]{p}
-  - [Cn:《平衡理论》是一档为那些希望建立自信和想要创造生活的人们打造的自我发展播客。]{s}
+  - [En: The Balance Theory is a self development podcast for people looking to build confidence in themselves and the life they want to create.]{s}
+  - [Cn:《平衡理论》是一档为那些希望建立自信和想要创造生活的人们打造的自我发展播客。]{g}
 
   ---
-  - [En: Hosted by Erika De Pellegrin, a lawyer who’s been from the depths of burnout, people pleasing and guilt, and now to completely creating confidence in herself and built her dream life, this show delivers practical tips on mindset shifts, time optimisation, productivity, self-discovery, and intentional living.]{p}
-  - [Cn: 由律师Erika De Pellegrin主持，她经历过过身心俱疲、讨好他人和内疚的深渊，如今彻底建立自信并打造梦想生活，节目提供关于心态转变、时间优化、生产力、自我发现和有意义生活的实用建议 ]{s}
+  - [En: Hosted by Erika De Pellegrin, a lawyer who’s been from the depths of burnout, people pleasing and guilt, and now to completely creating confidence in herself and built her dream life, this show delivers practical tips on mindset shifts, time optimisation, productivity, self-discovery, and intentional living.]{s}
+  - [Cn: 由律师Erika De Pellegrin主持，她经历过过身心俱疲、讨好他人和内疚的深渊，如今彻底建立自信并打造梦想生活，节目提供关于心态转变、时间优化、生产力、自我发现和有意义生活的实用建议 ]{g}
 
   ---
-  - [En: You'll learn practical ways to understand yourself on a deeper level, align your actions with your dreams, and create a life that truly reflects who you are.]{p}
-  - [Cn: 你将学会更深入理解自己的实用方法，将行动与梦想对齐，创造真正反映自我的生活。]{s}
+  - [En: You'll learn practical ways to understand yourself on a deeper level, align your actions with your dreams, and create a life that truly reflects who you are.]{s}
+  - [Cn: 你将学会更深入理解自己的实用方法，将行动与梦想对齐，创造真正反映自我的生活。]{g}
 
   ---
-  - [En: Whether you're looking to overcome burnout, improve productivity, or design a life you love, this podcast is your guide to balancing success and well-being.]{p}
-  - [Cn: 无论你是想克服倦怠、提高生产力，还是设计你热爱的生活，这个播客都是你平衡成功与幸福的指南。]{s}
+  - [En: Whether you're looking to overcome burnout, improve productivity, or design a life you love, this podcast is your guide to balancing success and well-being.]{s}
+  - [Cn: 无论你是想克服倦怠、提高生产力，还是设计你热爱的生活，这个播客都是你平衡成功与幸福的指南。]{g}
 
   ---
-  - [En: Tune in for actionable advice on confidence, mindset, time management & personal growth.]{p}
-  - [Cn: 敬请收听关于自信、心态、时间管理和个人成长的切实建议。]{s}
+  - [En: Tune in for actionable advice on confidence, mindset, time management & personal growth.]{s}
+  - [Cn: 敬请收听关于自信、心态、时间管理和个人成长的切实建议。]{g}
 
   ---
-  - [Cn:《平衡理论》是一档个人成长播客，旨在帮助人们建立自信，打造理想生活。节目由艾丽卡·德·佩莱格林主持，她是一位律师，曾深陷倦怠、讨好他人和内疚的泥沼，如今已彻底重拾自信，并实现了梦想。本节目提供关于思维转变、时间优化、效率提升、自我发现和有意识生活的实用技巧。您将学习如何更深入地了解自己，如何让行动与梦想保持一致，以及如何创造真正属于自己的生活。无论您是想克服倦怠、提高效率，还是想设计自己热爱的生活，本播客都是您平衡成功与幸福的指南.]{s}
+  - [Cn:《平衡理论》是一档个人成长播客，旨在帮助人们建立自信，打造理想生活。节目由艾丽卡·德·佩莱格林主持，她是一位律师，曾深陷倦怠、讨好他人和内疚的泥沼，如今已彻底重拾自信，并实现了梦想。本节目提供关于思维转变、时间优化、效率提升、自我发现和有意识生活的实用技巧。您将学习如何更深入地了解自己，如何让行动与梦想保持一致，以及如何创造真正属于自己的生活。无论您是想克服倦怠、提高效率，还是想设计自己热爱的生活，本播客都是您平衡成功与幸福的指南.]{g}
 
 ---
 * **[Steve TV Show | "STEVE"是喜剧演员、畅销书作家、艾美奖 | 高阶 | 828万 | Youtube](https://www.youtube.com/@SteveTVShow/featured)**
-  - [En: "STEVE" is the destination for laughter and life lessons from comedian, bestselling author, and Emmy® Award-winning host Steve Harvey, whose distinctive comedic voice and inspiring, straight talk advice have earned him global recognition as a household name.]{p}
-  - [Cn: "STEVE"是喜剧演员、畅销书作家及艾美®奖获奖主持人史蒂夫·哈维带来的欢笑与人生道理的目的地，他独特的喜剧嗓音和鼓舞人心、直率的建议使他成为全球家喻户晓的名字。]{s}
+  - [En: "STEVE" is the destination for laughter and life lessons from comedian, bestselling author, and Emmy® Award-winning host Steve Harvey, whose distinctive comedic voice and inspiring, straight talk advice have earned him global recognition as a household name.]{s}
+  - [Cn: "STEVE"是喜剧演员、畅销书作家及艾美®奖获奖主持人史蒂夫·哈维带来的欢笑与人生道理的目的地，他独特的喜剧嗓音和鼓舞人心、直率的建议使他成为全球家喻户晓的名字。]{g}
 
 ---
 * **[Blondie in China | 嗨！我是来自澳大利亚的艾米！过去十年间，我断断续续地在中国旅行。今天来这里和大家分享我的奇遇，品尝美食，传递正能量  | 中阶 | 58.5万 | Youtube](https://www.youtube.com/@BlondieinChina)**
-  - [En: Hey! I'm Amy from Australia!]{p}
-  - [Cn: 嘿！我是来自澳大利亚的艾米！]{s}
+  - [En: Hey! I'm Amy from Australia!]{s}
+  - [Cn: 嘿！我是来自澳大利亚的艾米！]{g}
 
   ---
-  - [En: I've been travelling around China on and off for the last 10 years now.]{p}
-  - [Cn: 过去十年里，我断断续续地在中国各地旅行。]{s}
+  - [En: I've been travelling around China on and off for the last 10 years now.]{s}
+  - [Cn: 过去十年里，我断断续续地在中国各地旅行。]{g}
 
   ---
-  - [En: I'm here to share some of my crazy adventures, eat some yummy food, and spread positive vibes :) xx]{p}
-  - [Cn: 我在这里分享一些疯狂的冒险，吃点美味的食物，传播正能量:)xx]{s}
+  - [En: I'm here to share some of my crazy adventures, eat some yummy food, and spread positive vibes :) xx]{s}
+  - [Cn: 我在这里分享一些疯狂的冒险，吃点美味的食物，传播正能量:)xx]{g}
 
 ---
 * **[emma chamberlain | 中阶 | 1200万 | Youtube](https://www.youtube.com/@emmachamberlain)**
-  - [En: other stuff i do, listen to me talk on my podcast "Anything Goes," available for free anywhere you stream podcasts.]{p}
-  - [Cn: 我还做的其他事情，比如 在我的播客《Anything Goes》上听我讲话，这个播客在你听播客的地方免费收听。]{s}
+  - [En: other stuff i do, listen to me talk on my podcast "Anything Goes," available for free anywhere you stream podcasts.]{s}
+  - [Cn: 我还做的其他事情，比如 在我的播客《Anything Goes》上听我讲话，这个播客在你听播客的地方免费收听。]{g}
 
   ---
-  - [En: watch video episodes on spotify and youtube.]{p}
-  - [Cn: 在Spotify和YouTube上观看视频集。]{s}
+  - [En: watch video episodes on spotify and youtube.]{s}
+  - [Cn: 在Spotify和YouTube上观看视频集。]{g}
 
   ---
-  - [En: new episodes every thursday and sunday. find my coffee company online at www.chamberlaincoffee.com, on social media @chamberlaincoffee, and possibly at a grocery store near you...]{p}
-  - [Cn: 每周四和周日更新新剧集。 在 www.chamberlaincoffee.com、社交媒体@chamberlaincoffee，甚至你附近的超市找到我的咖啡公司......]{s}
+  - [En: new episodes every thursday and sunday. find my coffee company online at www.chamberlaincoffee.com, on social media @chamberlaincoffee, and possibly at a grocery store near you...]{s}
+  - [Cn: 每周四和周日更新新剧集。 在 www.chamberlaincoffee.com、社交媒体@chamberlaincoffee，甚至你附近的超市找到我的咖啡公司......]{g}
 
 ---
 * **[Girls Gone Bible | 85.9万 | Youtube](https://www.youtube.com/@GirlsGoneBible/videos)**
-  - [En: Podcast hosted by Angela Halili and Arielle Reitsma.]{p}
-  - [Cn: 播客由安吉拉·哈利利和阿丽尔·雷茨玛主持。]{s}
+  - [En: Podcast hosted by Angela Halili and Arielle Reitsma.]{s}
+  - [Cn: 播客由安吉拉·哈利利和阿丽尔·雷茨玛主持。]{g}
 
   ---
-  - [En: All things Jesus, all things life.]{p}
-  - [Cn: 一切关于耶稣，一切关于生命。]{s}
+  - [En: All things Jesus, all things life.]{s}
+  - [Cn: 一切关于耶稣，一切关于生命。]{g}
 
   ---
-  - [En: A couple of imperfect girls serving an absolutely perfect God.]{p}
-  - [Cn: 两个不完美的女孩侍奉着一个绝对完美的上帝。]{s}
+  - [En: A couple of imperfect girls serving an absolutely perfect God.]{s}
+  - [Cn: 两个不完美的女孩侍奉着一个绝对完美的上帝。]{g}
 
   ---
-  - [En: We love you!]{p}
-  - [Cn: -Ang & Ari]{s}
+  - [En: We love you!]{s}
+  - [Cn: -Ang & Ari]{g}
 
   ---
-  - [En: 我们爱你！]{p}
-  - [Cn: ——安和阿里]{s}
+  - [En: 我们爱你！]{s}
+  - [Cn: ——安和阿里]{g}
 
 ---
 * **[Daniel Simmons | 更新时尚、生活方式、室内设计和糕点 | 中阶 | 78.4万 | Youtube](https://www.youtube.com/@imdanielsimmons)**
-  - [En: Digital Diary 🤎 Weekly videos around fashion, lifestyle, interior design & pastries Daniel Simmons New York City, United States Contact: contact@danielsimmonsmedia.com]{p}
-  - [Cn: 数字日记 🤎 每周视频，内容涵盖时尚、生活方式、室内设计和糕点 丹尼尔·西蒙斯 纽约市，美国 联系方式：contact@danielsimmonsmedia.com]{s}
+  - [En: Digital Diary 🤎 Weekly videos around fashion, lifestyle, interior design & pastries Daniel Simmons New York City, United States Contact: contact@danielsimmonsmedia.com]{s}
+  - [Cn: 数字日记 🤎 每周视频，内容涵盖时尚、生活方式、室内设计和糕点 丹尼尔·西蒙斯 纽约市，美国 联系方式：contact@danielsimmonsmedia.com]{g}
 
 ---
 * **[Life Of Riza | 中阶 | Life lessons | 100万 | Youtube](https://www.youtube.com/@LifeOfRiza)**
@@ -743,60 +776,60 @@
 
 ---
 * **[Speak English with Bo's Slow English | 初级 | 11.2万 | Youtube](https://www.youtube.com/@BoSlowEnglish)**
-  - [En: Welcome to Bo’s Slow English!]{p}
-  - [Cn: 欢迎来到Bo的慢英语！]{s}
+  - [En: Welcome to Bo’s Slow English!]{s}
+  - [Cn: 欢迎来到Bo的慢英语！]{g}
 
   ---
-  - [En: Improve your English speaking, listening, and vocabulary with real-life vlogs, grammar tips, and pronunciation practice — all spoken in slow, clear English. 📘 Want to sound more like a native speaker?]{p}
-  - [Cn: 通过真实视频日志、语法技巧和发音练习，提升你的英语口语、听力和词汇量——全部用缓慢清晰的英语进行。 📘 想听起来更像母语者吗？]{s}
+  - [En: Improve your English speaking, listening, and vocabulary with real-life vlogs, grammar tips, and pronunciation practice — all spoken in slow, clear English. 📘 Want to sound more like a native speaker?]{s}
+  - [Cn: 通过真实视频日志、语法技巧和发音练习，提升你的英语口语、听力和词汇量——全部用缓慢清晰的英语进行。 📘 想听起来更像母语者吗？]{g}
 
   ---
-  - [En: Check out my e-books and video course to practice real English conversations — link to my shop is below!]{p}
-  - [Cn: 看看我的电子书和视频课程，练习真实的英语会话——我的商店链接在下面！]{s}
+  - [En: Check out my e-books and video course to practice real English conversations — link to my shop is below!]{s}
+  - [Cn: 看看我的电子书和视频课程，练习真实的英语会话——我的商店链接在下面！]{g}
 
   ---
-  - [En: 💛 Want to support my channel?]{p}
-  - [Cn: 💛 想支持我的频道吗？]{s}
+  - [En: 💛 Want to support my channel?]{s}
+  - [Cn: 💛 想支持我的频道吗？]{g}
 
   ---
-  - [En: You can buy me a coffee — link in bio!]{p}
-  - [Cn: 你可以请我喝咖啡——链接在简介里！]{s}
+  - [En: You can buy me a coffee — link in bio!]{s}
+  - [Cn: 你可以请我喝咖啡——链接在简介里！]{g}
 
   ---
-  - [En: 📱Follow me on Instagram and TikTok for daily tips: IG: @boslowenglish_ TikTok: @boslowenglish New videos every week!]{p}
-  - [Cn: 📱关注我的Instagram和TikTok，获取每日技巧： IG：@boslowenglish_ TikTok：@boslowenglish 每周都有新视频！]{s}
+  - [En: 📱Follow me on Instagram and TikTok for daily tips: IG: @boslowenglish_ TikTok: @boslowenglish New videos every week!]{s}
+  - [Cn: 📱关注我的Instagram和TikTok，获取每日技巧： IG：@boslowenglish_ TikTok：@boslowenglish 每周都有新视频！]{g}
 
   ---
-  - [En: Thank you for learning with me ❤️]{p}
-  - [Cn: 谢谢你和我❤️一起学习]{s}
+  - [En: Thank you for learning with me ❤️]{s}
+  - [Cn: 谢谢你和我❤️一起学习]{g}
 
 ---
 * **[Luke's English Podcast | 初中级衔接 | 174万 | Youtube](https://www.youtube.com/@LukesEnglishPodcast)**
-  - [En: An award-winning podcast for learners of English, since 2009.]{p}
-  - 自2009年以来，这是一个获奖的英语学习者播客。]{s}
+  - [En: An award-winning podcast for learners of English, since 2009.]{s}
+  - 自2009年以来，这是一个获奖的英语学习者播客。]{g}
 
   ---
-  - [En: 👉 More information about Luke's English Podcast https://teacherluke.co.uk/ 👉 More information about Luke https://teacherluke.co.uk/luke/]{p}
-  - 👉 关于卢克英语播客的更多信息 https://teacherluke.co.uk/ 👉 关于卢克·https://teacherluke.co.uk/luke/ 的更多信息]{s}
+  - [En: 👉 More information about Luke's English Podcast https://teacherluke.co.uk/ 👉 More information about Luke https://teacherluke.co.uk/luke/]{s}
+  - 👉 关于卢克英语播客的更多信息 https://teacherluke.co.uk/ 👉 关于卢克·https://teacherluke.co.uk/luke/ 的更多信息]{g}
 
   - **[teacherluke | Luke’s ENGLISH Podcast | Learn British English with Luke Thompson](https://teacherluke.co.uk/)**
 
 ---
 * **[Miss Honey | 初级 | 90.5万 | Youtube](https://www.youtube.com/@Slow_English_Podcast)**
-  - [En: Learn COMPREHENSIBLE English New Posts EVERY Wednesday☀️]{p}
-  - [Cn: 学习可理解的英语 🗣️ 每周三☀️ 新文章]{s}
+  - [En: Learn COMPREHENSIBLE English New Posts EVERY Wednesday☀️]{s}
+  - [Cn: 学习可理解的英语 🗣️ 每周三☀️ 新文章]{g}
 
 ---
 * **[Jalin Siu | 中级 |  亚裔女生，写实记录Vlog，类似ur mom ashley 的频道。 有个特色是时常出现多人场景，非常适合扩充社交英文、锻炼多人语境的听力能力。| 155万 | Youtube](https://www.youtube.com/@jalinsiu)**
 
 ---
 * **[KerryDowdle in China | 中级 | 一个在大陆的美国博主，拍一些旅游、文化相关的Vlogs， 写实风格。 除了拍大陆内容，也有美国以及其他国家的旅行内容。 | 8600 | Youtube](https://www.youtube.com/@KerryDowdleinChina)**
-  - [En: Hi! I'm Kerry Dowdle from Florida! I've been traveling all over China. I'm here to share some of my amazing adventures, enjoy some great food, and spread some positive energy :) xx]{p}
-  - [Cn: 大家好！我是来自佛罗里达的Kerry Dowdle！我一直在中国各地旅行，分享我的奇妙冒险，品尝美食，并传递满满的正能量 :) xx{s}
+  - [En: Hi! I'm Kerry Dowdle from Florida! I've been traveling all over China. I'm here to share some of my amazing adventures, enjoy some great food, and spread some positive energy :) xx]{s}
+  - [Cn: 大家好！我是来自佛罗里达的Kerry Dowdle！我一直在中国各地旅行，分享我的奇妙冒险，品尝美食，并传递满满的正能量 :) xx{g}
 
   ---
-  - [En: ⚡ If you enjoy my videos, don’t forget to hit the like button 👍, subscribe 🔔, and share with your friends so more people can experience the beauty of China!]{p}
-  - [Cn: ⚡如果你喜欢我的视频，请点个赞👍，订阅我的频道🔔，并把视频分享给你的朋友们，让更多人一起感受中国的美好！{s}
+  - [En: ⚡ If you enjoy my videos, don’t forget to hit the like button 👍, subscribe 🔔, and share with your friends so more people can experience the beauty of China!]{s}
+  - [Cn: ⚡如果你喜欢我的视频，请点个赞👍，订阅我的频道🔔，并把视频分享给你的朋友们，让更多人一起感受中国的美好！{g}
 
   - [你试过在夏天穿着汉服在西湖边读诗吗？](https://www.youtube.com/watch?v=_T5KzJgUxLQ)
 
@@ -813,63 +846,63 @@
   - **[Home | Tiny Home Tours](https://www.tinyhometours.com/)**
 
   ---
-  - [En: Welcome!]{p}
-  - [Cn: 欢迎！]{s}
+  - [En: Welcome!]{s}
+  - [Cn: 欢迎！]{g}
 
   ---
-  - [En: Here at Tiny Home Tours, we are passionate about all things tiny living.]{p}
-  - [Cn: 在微型住宅旅游，我们热衷于所有关于"微型住宅"生活的事物。]{s}
+  - [En: Here at Tiny Home Tours, we are passionate about all things tiny living.]{s}
+  - [Cn: 在微型住宅旅游，我们热衷于所有关于"微型住宅"生活的事物。]{g}
 
   ---
-  - [En: You’ll find tiny homes, school bus conversions, camper vans, ambulance and box truck conversions, RVs, shipping containers, and more.]{p}
-  - [Cn: 你会发现微型住宅、校车改装、露营车、救护车和箱式卡车改装、房车、集装箱等多种车型。]{s}
+  - [En: You’ll find tiny homes, school bus conversions, camper vans, ambulance and box truck conversions, RVs, shipping containers, and more.]{s}
+  - [Cn: 你会发现微型住宅、校车改装、露营车、救护车和箱式卡车改装、房车、集装箱等多种车型。]{g}
 
   ---
-  - [En: We’re excited about showcasing how people make this life work, whether that’s through multiple streams of income, remote work, seasonal work, or plain old ingenuity and creativity.]{p}
-  - [Cn: 我们很期待展示人们如何让这种生活运转起来，无论是通过多元收入来源、远程工作、季节性工作，还是单纯的创造力和创造力。]{s}
+  - [En: We’re excited about showcasing how people make this life work, whether that’s through multiple streams of income, remote work, seasonal work, or plain old ingenuity and creativity.]{s}
+  - [Cn: 我们很期待展示人们如何让这种生活运转起来，无论是通过多元收入来源、远程工作、季节性工作，还是单纯的创造力和创造力。]{g}
 
   ---
-  - [En: Living life outside of the four walls of a traditional home takes courage.]{p}
-  - [Cn: 生活在传统家庭的四面墙之外需要勇气。]{s}
+  - [En: Living life outside of the four walls of a traditional home takes courage.]{s}
+  - [Cn: 生活在传统家庭的四面墙之外需要勇气。]{g}
 
   ---
-  - [En: We’re eager to tour with anyone who has taken the plunge to minimize and live more intentionally.]{p}
-  - [Cn: 我们渴望与任何敢于减少和更有意识生活的人一起巡演。]{s}
+  - [En: We’re eager to tour with anyone who has taken the plunge to minimize and live more intentionally.]{s}
+  - [Cn: 我们渴望与任何敢于减少和更有意识生活的人一起巡演。]{g}
 
   ---
-  - [En: It doesn’t matter if your build costs $5K or $100K!]{p}
-  - [Cn: 无论你的建造成本是5000美元还是10万美元！]{s}
+  - [En: It doesn’t matter if your build costs $5K or $100K!]{s}
+  - [Cn: 无论你的建造成本是5000美元还是10万美元！]{g}
 
   ---
-  - [En: Below you’ll find links to our social channels, courses we’ve created on everything from turning a school bus into a tiny home on wheels to how to make money on the road, our podcast, and our newsletter subscription.]{p}
-  - [Cn: 下面你会看到我们的社交频道链接，我们创建的课程涵盖从将校车改造成移动微型住宅，到如何在路上赚钱，我们的播客，以及订阅通讯。]{s}
+  - [En: Below you’ll find links to our social channels, courses we’ve created on everything from turning a school bus into a tiny home on wheels to how to make money on the road, our podcast, and our newsletter subscription.]{s}
+  - [Cn: 下面你会看到我们的社交频道链接，我们创建的课程涵盖从将校车改造成移动微型住宅，到如何在路上赚钱，我们的播客，以及订阅通讯。]{g}
 
   ---
-  - [En: Our Podcast - https://tinyhometours.buzzsprout.com]{p}
-  - [En: Our Website - https://www.tinyhometours.com/]{p}
-  - [Cn: 我们的播客 - https://tinyhometours.buzzsprout.com]{s}
-  - [Cn: 我们的网站 - https://www.tinyhometours.com/]{s}
+  - [En: Our Podcast - https://tinyhometours.buzzsprout.com]{s}
+  - [En: Our Website - https://www.tinyhometours.com/]{s}
+  - [Cn: 我们的播客 - https://tinyhometours.buzzsprout.com]{g}
+  - [Cn: 我们的网站 - https://www.tinyhometours.com/]{g}
 
   ---
   - [Her Tiny Home Will Change How You Think About Interior Design](https://www.youtube.com/watch?v=HSWOZdMA1n8)
 
 ---
 * **[Mind the Game | 高阶 |  勒布朗·詹姆斯的播客频道 | 体育 | 86.8万 | Youtube](https://www.youtube.com/@MindTheGamePodcast)**
-  - [En: Mind The Game is an entry into the heralded basketball minds of LeBron James and Steve Nash.]{p}
-  - [Cn: 《Mind The Game》是勒布朗·詹姆斯和史蒂夫·纳什备受赞誉的篮球心灵之作。]{s}
+  - [En: Mind The Game is an entry into the heralded basketball minds of LeBron James and Steve Nash.]{s}
+  - [Cn: 《Mind The Game》是勒布朗·詹姆斯和史蒂夫·纳什备受赞誉的篮球心灵之作。]{g}
 
   ---
-  - [En: The two sit down every other Tuesday to discuss the state of the game, dissect X’s and O’s, and wax poetic about the game they love.]{p}
-  - [Cn: 两人每隔一个星期二坐下来讨论游戏现状，剖析各种细节，并对他们热爱的这项运动充满诗意。]{s}
+  - [En: The two sit down every other Tuesday to discuss the state of the game, dissect X’s and O’s, and wax poetic about the game they love.]{s}
+  - [Cn: 两人每隔一个星期二坐下来讨论游戏现状，剖析各种细节，并对他们热爱的这项运动充满诗意。]{g}
 
   ---
-  - [En: Presented by UNINTERRUPTED and Wondery.]{p}
-  - [Cn: 由UNINTERRUPTED和Wondery呈现。]{s}
+  - [En: Presented by UNINTERRUPTED and Wondery.]{s}
+  - [Cn: 由UNINTERRUPTED和Wondery呈现。]{g}
 
 ---
 * **[The Diary Of A CEO | 高阶 | 嘉宾行业大牛，内容知识含金量超高。主持人英国人 | 1520万 |  Youtube](https://www.youtube.com/@TheDiaryOfACEO)**
-  - [En: 64% of our viewers don't realise they don't subscribe, please double check, thank you!!]{p}
-  - [Cn: 64%的观众不知道自己没订阅，请再确认一下，谢谢！！]{s}
+  - [En: 64% of our viewers don't realise they don't subscribe, please double check, thank you!!]{s}
+  - [Cn: 64%的观众不知道自己没订阅，请再确认一下，谢谢！！]{g}
 
   ---
   - [An AI Expert Warning_ 6 People Are (Quietly) Deciding Humanity’s Future! We Must Act Now! | 人工智能专家：（警告）2030年可能是无法回头的关键点！我们被告知的有关人工智能的信息是假的！](https://www.youtube.com/watch?v=P7Y-fynYsgE)
@@ -878,92 +911,92 @@
 
 ---
 * **[The Diary Of A CEO Clips | 精品节选 | 203万 | Youtube](https://www.youtube.com/@TheDiaryOfACEOClips/videos)**
-  - [En: This Channel is where we showcase the best clips from The Diary Of A CEO, hosted by Steven Bartlett, this show is an invitation to rethink what’s possible.{p}
-  - [Cn: 这个频道是我们展示《CEO日记》中最精彩片段的地方，由史蒂文·巴特利特主持，这个节目邀请大家重新思考可能性。]{s}
+  - [En: This Channel is where we showcase the best clips from The Diary Of A CEO, hosted by Steven Bartlett, this show is an invitation to rethink what’s possible.{s}
+  - [Cn: 这个频道是我们展示《CEO日记》中最精彩片段的地方，由史蒂文·巴特利特主持，这个节目邀请大家重新思考可能性。]{g}
 
   ---
-  - [En: Through honest conversations with global experts, visionaries, and game-changers, we explore refreshing ideas and mindsets that shape our lives.{p}
-  - [Cn: 通过与全球专家、远见者和改变游戏规则者的坦诚对话，我们探索塑造我们生活的新鲜思想和思维方式。]{s}
+  - [En: Through honest conversations with global experts, visionaries, and game-changers, we explore refreshing ideas and mindsets that shape our lives.{s}
+  - [Cn: 通过与全球专家、远见者和改变游戏规则者的坦诚对话，我们探索塑造我们生活的新鲜思想和思维方式。]{g}
 
   ---
-  - [En: Whether you’re chasing a dream, navigating change, or simply looking for a new perspective, this is the space for curious, open minds and big ambitions.{p}
-  - [Cn: 无论你是在追逐梦想、应对变化，还是仅仅在寻找新的视角，这里都是好奇、开放心态和宏大抱负的空间。]{s}
+  - [En: Whether you’re chasing a dream, navigating change, or simply looking for a new perspective, this is the space for curious, open minds and big ambitions.{s}
+  - [Cn: 无论你是在追逐梦想、应对变化，还是仅仅在寻找新的视角，这里都是好奇、开放心态和宏大抱负的空间。]{g}
 
   ---
   - [Nuclear Expert WARNS: "You Have No Idea What's Coming" | 核专家警告："你根本不知道接下来发生的事"](https://www.youtube.com/watch?v=fnGw_mT1278)
 
 ---
 * **[SMii7Y | 高阶 | 多人聊天、高效、调侃 | 847万 | Youtube](https://www.youtube.com/@SMii7Y/videos)**
-  - [En: Pronounced "Smitty" -  Gameplay, Funny Moments, Hilarity & More!{s}
-  - [Cn: 发音为"Smitty"——游戏玩法、搞笑时刻、搞笑元素等！]{s}
+  - [En: Pronounced "Smitty" -  Gameplay, Funny Moments, Hilarity & More!{g}
+  - [Cn: 发音为"Smitty"——游戏玩法、搞笑时刻、搞笑元素等！]{g}
 
   ---
-  - [En: Use code S7 on Gamer Supps for 10% OFF your order!{s}
-  - [Cn: 在Gamer Supps使用代码S7，订单享九折优惠！]{s}
+  - [En: Use code S7 on Gamer Supps for 10% OFF your order!{g}
+  - [Cn: 在Gamer Supps使用代码S7，订单享九折优惠！]{g}
 
 ---
 * **[SeanDoesMagic | 高阶 | 搞笑、调侃 | 1180万 | Youtube](https://www.youtube.com/@SeanDoesMagic/videos)**
-  - [En: Just a lil magician ❤️📧]{p}
-  - [Cn: 只是个小魔术师 ❤️ 📧]{s}
+  - [En: Just a lil magician ❤️📧]{s}
+  - [Cn: 只是个小魔术师 ❤️ 📧]{g}
 
   ---
-  - [En: For business inquiries please contact my manager Ronit Cohn at ronit@cohntalent.com]{p}
-  - [Cn: 如需商业咨询，请联系我的经理Ronit Cohn，ronit@cohntalent.com]{s}
+  - [En: For business inquiries please contact my manager Ronit Cohn at ronit@cohntalent.com]{s}
+  - [Cn: 如需商业咨询，请联系我的经理Ronit Cohn，ronit@cohntalent.com]{g}
 
 ---
 * **[The Late Late Show with James Corden | 高阶 | 主持人英音 | 2820万 | Youtube](https://www.youtube.com/@TheLateLateShow)**
-  - [En: This is the official YouTube channel for The Late Late Show with James Corden on CBS.]{p}
-  - [Cn: 这是CBS《詹姆斯·科登深夜秀》的官方YouTube频道。]{s}
+  - [En: This is the official YouTube channel for The Late Late Show with James Corden on CBS.]{s}
+  - [Cn: 这是CBS《詹姆斯·科登深夜秀》的官方YouTube频道。]{g}
 
 ---
 * **[Jimmy Kimmel Live | 高阶 | 脱裤秀访谈 | 2200万 | Youtube](https://www.youtube.com/@JimmyKimmelLive)**
-  - [En: The official Jimmy Kimmel Live!]{p}
-  - [Cn: 官方吉米·金梅尔现场！]{s}
+  - [En: The official Jimmy Kimmel Live!]{s}
+  - [Cn: 官方吉米·金梅尔现场！]{g}
 
   ---
-  - [En: YouTube Channel.]{p}
-  - [Cn: YouTube频道。]{s}
+  - [En: YouTube Channel.]{s}
+  - [Cn: YouTube频道。]{g}
 
   ---
-  - [En: Home of Celebrities Read Mean Tweets, YouTube Challenges and the rest of your favorite viral late night videos.]{p}
-  - [Cn: 名人阅读"恶意推文"、"YouTube挑战"以及你最喜欢的深夜病毒视频的家园。]{s}
+  - [En: Home of Celebrities Read Mean Tweets, YouTube Challenges and the rest of your favorite viral late night videos.]{s}
+  - [Cn: 名人阅读"恶意推文"、"YouTube挑战"以及你最喜欢的深夜病毒视频的家园。]{g}
 
 ---
 * **[The Tonight Show Starring Jimmy Fallon | 中阶 | 脱裤秀访谈 | 3360万 | Youtube](https://www.youtube.com/@fallontonight)**
-  - [En: The official home of The Tonight Show Starring Jimmy Fallon!]{p}
-  - [Cn: 吉米·法伦主持的《今夜秀》官方主台！]{s}
+  - [En: The official home of The Tonight Show Starring Jimmy Fallon!]{s}
+  - [Cn: 吉米·法伦主持的《今夜秀》官方主台！]{g}
 
   ---
-  - [En: The Tonight Show is the longest-running talk show on television and the #1 late-night program on digital.]{p}
-  - [Cn: 《今夜秀》是电视上播出时间最长的脱口秀节目，也是数字频道的#1深夜节目。]{s}
+  - [En: The Tonight Show is the longest-running talk show on television and the #1 late-night program on digital.]{s}
+  - [Cn: 《今夜秀》是电视上播出时间最长的脱口秀节目，也是数字频道的#1深夜节目。]{g}
 
   ---
-  - [En: Watch extended celebrity guest interviews, comedy sketches, parodies, games, and, of course, Jimmy’s Monologue and Thank You Notes!]{p}
-  - [Cn: 观看加长版名人嘉宾访谈、喜剧小品、恶搞、游戏，当然还有吉米的独白和感谢信！]{s}
+  - [En: Watch extended celebrity guest interviews, comedy sketches, parodies, games, and, of course, Jimmy’s Monologue and Thank You Notes!]{s}
+  - [Cn: 观看加长版名人嘉宾访谈、喜剧小品、恶搞、游戏，当然还有吉米的独白和感谢信！]{g}
 
   ---
-  - [En: You’ll also find exclusive original content including digital shorts, behind the scenes series, and more.]{p}
-  - [Cn: 你还会发现独家原创内容，包括数字短片、幕后花絮等。]{s}
+  - [En: You’ll also find exclusive original content including digital shorts, behind the scenes series, and more.]{s}
+  - [Cn: 你还会发现独家原创内容，包括数字短片、幕后花絮等。]{g}
 
   ---
-  - [En: Taped in front of a live studio audience from Studio 6B at 30 Rockefeller Center in New York City, "The Tonight Show Starring Jimmy Fallon" airs weeknights at 11:35/10:35c on NBC and is available on demand on Peacock.]{p}
-  - [Cn: 《今夜秀主演吉米·法伦》在纽约市洛克菲勒中心30号6B演播室现场录制，NBC每周一至周五晚11：35/10：35c播出，并可在Peacock点播。]{s}
+  - [En: Taped in front of a live studio audience from Studio 6B at 30 Rockefeller Center in New York City, "The Tonight Show Starring Jimmy Fallon" airs weeknights at 11:35/10:35c on NBC and is available on demand on Peacock.]{s}
+  - [Cn: 《今夜秀主演吉米·法伦》在纽约市洛克菲勒中心30号6B演播室现场录制，NBC每周一至周五晚11：35/10：35c播出，并可在Peacock点播。]{g}
 
   ---
-  - [En: Stream now: https://bit.ly/2AYGd0x]{p}
-  - [Cn: 立即观看：https://bit.ly/2AYGd0x]]{s}
+  - [En: Stream now: https://bit.ly/2AYGd0x]{s}
+  - [Cn: 立即观看：https://bit.ly/2AYGd0x]]{g}
 
   ---
   - **[Alysa Liu Reacts to Historic U.S. Figure Skating Win, Quizzes Jimmy on His Figure Skating Knowledge | 刘艾丽莎对美国花样滑冰历史性胜利的回应，向吉米提问他的花样滑冰知识](https://www.youtube.com/watch?v=qYTYDm1IOQw)**
 
 ---
 * **[Fred Liu | 中阶 | 男、生活记录、常有朋友出境多人聊天场景 | 81.2万 | Youtube](https://www.youtube.com/@Freddielooo/videos)**
-  - [En: Hi friends, My name is Fred and I make skits and vlogs]{p}
-  - [Cn: 大家好， 我叫弗雷德，我制作小品和视频日志]{s}
+  - [En: Hi friends, My name is Fred and I make skits and vlogs]{s}
+  - [Cn: 大家好， 我叫弗雷德，我制作小品和视频日志]{g}
 
   ---
-  - [En: Maybe one day I can inspire you to do something great (but give me 50% equity) Instagram: @asxpliu contact: fred@lifeisajob.com]{p}
-  - [Cn: 也许有一天我能激励你做些伟大的事（但给我50%的股权） Instagram：@asxpliu 联系方式：fred@lifeisajob.com]{s}
+  - [En: Maybe one day I can inspire you to do something great (but give me 50% equity) Instagram: @asxpliu contact: fred@lifeisajob.com]{s}
+  - [Cn: 也许有一天我能激励你做些伟大的事（但给我50%的股权） Instagram：@asxpliu 联系方式：fred@lifeisajob.com]{g}
 
   ---
   - [I'm going to be a (foster) dad.](https://www.youtube.com/watch?v=8l7WbFn31jk)
@@ -975,83 +1008,83 @@
 
 ---
 * **[Echo Browne | 中阶 | 女、美高中 | 20.6万 | Youtube](https://www.youtube.com/@echobrownevlogs/videos)**
-  - [En: new uploads every week 👀 Welcome to the channel!]{p}
-  - [Cn: 每周都有新上传👀 内容，欢迎来到频道！]{s}
+  - [En: new uploads every week 👀 Welcome to the channel!]{s}
+  - [Cn: 每周都有新上传👀 内容，欢迎来到频道！]{g}
 
   ---
-  - [En: 💋 student life 📚| lifestyle ☀️| filmmaking 🎬| confidence & advice 💕 Subscribe and let's grow together!]{p}
-  - [Cn: 💋 学生生活 📚 | 生活方式 ☀️ | 电影制作 🎬 | 自信与建议 💕 订阅 吧，让我们一起成长！]{s}
+  - [En: 💋 student life 📚| lifestyle ☀️| filmmaking 🎬| confidence & advice 💕 Subscribe and let's grow together!]{s}
+  - [Cn: 💋 学生生活 📚 | 生活方式 ☀️ | 电影制作 🎬 | 自信与建议 💕 订阅 吧，让我们一起成长！]{g}
 
   ---
-  - [En: 🌷business inquires: contact@seralunestudios.com]{p}
-  - [Cn: 🌷 商业咨询：contact@seralunestudios.com]{s}
+  - [En: 🌷business inquires: contact@seralunestudios.com]{s}
+  - [Cn: 🌷 商业咨询：contact@seralunestudios.com]{g}
 
 ---
 * **[Max Reisinger | 中阶 | 男、美高已毕业、拍摄剪辑很棒。 | 78.4万 | Youtube](https://www.youtube.com/@MaxReisinger/featured)**
-  - [En: This channel was an optimistic experiment aimed at encapsulating what it means to grow up and find your place in this modern-day, fast-moving, and ever-changing world.]{p}
-  - [Cn: 这个频道是一个乐观的实验，旨在概括成长和在这个现代、快速变化、不断变化的世界中找到归属感。]{s}
+  - [En: This channel was an optimistic experiment aimed at encapsulating what it means to grow up and find your place in this modern-day, fast-moving, and ever-changing world.]{s}
+  - [Cn: 这个频道是一个乐观的实验，旨在概括成长和在这个现代、快速变化、不断变化的世界中找到归属感。]{g}
 
   ---
-  - [En: ⊶ (Consider it a coming-of-age movie, but broken up into mini episodes and behind-the-scenes looks into the story) ꐕ 🛋 Follow me on Instagram for everything that happens in between these videos - https://instagram.com/maxbrsee 🪴Connect on Linkedin - https://www.linkedin.com/in/maxreisinger 🏕 Learn more about Creator Camp - https://creatorcamp.co .Thanks for stopping by!]{p}
-  - [Cn: ⊶ （把它当作成长电影，但分为小集和幕后故事） ꐕ 🛋 关注我的Instagram，了解这些视频之间的所有动态——https://instagram.com/maxbrsee 🪴在LinkedIn上联系——https://www.linkedin.com/in/maxreisinger 🏕 了解更多关于创作者营的信息 - https://creatorcamp.co 感谢你的到来！]{s}
+  - [En: ⊶ (Consider it a coming-of-age movie, but broken up into mini episodes and behind-the-scenes looks into the story) ꐕ 🛋 Follow me on Instagram for everything that happens in between these videos - https://instagram.com/maxbrsee 🪴Connect on Linkedin - https://www.linkedin.com/in/maxreisinger 🏕 Learn more about Creator Camp - https://creatorcamp.co .Thanks for stopping by!]{s}
+  - [Cn: ⊶ （把它当作成长电影，但分为小集和幕后故事） ꐕ 🛋 关注我的Instagram，了解这些视频之间的所有动态——https://instagram.com/maxbrsee 🪴在LinkedIn上联系——https://www.linkedin.com/in/maxreisinger 🏕 了解更多关于创作者营的信息 - https://creatorcamp.co 感谢你的到来！]{g}
 
 ---
 * **[Elliot Choy | 中阶 | 男、已毕业要往前翻大学生活Vlog。| 132万 | Youtube](https://www.youtube.com/@ELLIOTCHOY/videos)**
-  - [En: Hi ~ I’m Elliot, based in NYC, making videos, living life.]{s}
-  - [Cn: 嗨~我是Elliot，常驻纽约市，制作视频，过生活。]{s}
+  - [En: Hi ~ I’m Elliot, based in NYC, making videos, living life.]{g}
+  - [Cn: 嗨~我是Elliot，常驻纽约市，制作视频，过生活。]{g}
 
 ---
 * **[Nayomique | 初中阶 | 在大陆创业的美国人 | 1.13万 | Youtube](https://www.youtube.com/@NayomiqueOfficial)**
 
 ---
 * **[Katherine's Journey to the East 阳离子东游记 | 初中阶 | 一位同新疆人结婚生活在大陆沿海地区的美国人 | 15.4万 | Youtube](https://www.youtube.com/@kats_journey_east)**
-  - [En: CHINA OFF THE BEATEN PATH 🚲🌻 Sharing my life in rural China 🐓🌾]{p}
-  - [Cn: 中国 偏离人🚲🌻迹 分享我的生活 在中国🐓🌾 农村]{s}
+  - [En: CHINA OFF THE BEATEN PATH 🚲🌻 Sharing my life in rural China 🐓🌾]{s}
+  - [Cn: 中国 偏离人🚲🌻迹 分享我的生活 在中国🐓🌾 农村]{g}
 
   ---
-  - [En: Hi everyone, I'm Katherine from the United States 🇺🇸 currently living in a mountain village in northern Zhejiang Province.]{p}
-  - [Cn: 大家好，我是来自美国🇺🇸的凯瑟琳，目前住在浙江省北部的一个山村。]{s}
+  - [En: Hi everyone, I'm Katherine from the United States 🇺🇸 currently living in a mountain village in northern Zhejiang Province.]{s}
+  - [Cn: 大家好，我是来自美国🇺🇸的凯瑟琳，目前住在浙江省北部的一个山村。]{g}
 
   ---
-  - [En: I got my masters in Environmental Engineering at Nanjing University and I am now working at an environmental organization called Green Zhejiang while also running this YouTube channel.]{p}
-  - [Cn: 我在南京大学获得环境工程硕士学位，现在在一个名为"绿色浙江"的环保组织工作，同时运营这个YouTube频道。]{s}
+  - [En: I got my masters in Environmental Engineering at Nanjing University and I am now working at an environmental organization called Green Zhejiang while also running this YouTube channel.]{s}
+  - [Cn: 我在南京大学获得环境工程硕士学位，现在在一个名为"绿色浙江"的环保组织工作，同时运营这个YouTube频道。]{g}
 
   ---
-  - [En: Come with me on a journey of discovering the endless stories of China's people and its beautiful scenery from oceans to mountains to villages to everything in between - and a few interesting snippets of working at a Chinese NGO 🏞]{p}
-  - [Cn: 跟随我踏上一段旅程，探索中国人民和其美丽风景的无尽故事，从海洋到山脉再到村庄，再到介于两者之间的一切——还有一些在中国非政府组织🏞工作的有趣片段]{s}
+  - [En: Come with me on a journey of discovering the endless stories of China's people and its beautiful scenery from oceans to mountains to villages to everything in between - and a few interesting snippets of working at a Chinese NGO 🏞]{s}
+  - [Cn: 跟随我踏上一段旅程，探索中国人民和其美丽风景的无尽故事，从海洋到山脉再到村庄，再到介于两者之间的一切——还有一些在中国非政府组织🏞工作的有趣片段]{g}
 
 ---
 * **[This Is How We Bingham | 中阶 | 小孩家庭 | 133万 | Youtube](https://www.youtube.com/@thisishowwebingham)**
-  - [En: Life is for living and we LOVE living life!]{p}
-  - [Cn: 生活就是为了活着，而我们热爱生活！]{s}
+  - [En: Life is for living and we LOVE living life!]{s}
+  - [Cn: 生活就是为了活着，而我们热爱生活！]{g}
 
   ---
-  - [En: Focused on finding the positive in every situation.]{p}
-  - [Cn: 专注于在每种情况下寻找积极的一面。]{s}
+  - [En: Focused on finding the positive in every situation.]{s}
+  - [Cn: 专注于在每种情况下寻找积极的一面。]{g}
 
   ---
-  - [En: We are a dynamic and energetic family of seven! 🤪]{p}
-  - [Cn: 我们是一个充满活力、充满活力的七口之家！🤪]{s}
+  - [En: We are a dynamic and energetic family of seven! 🤪]{s}
+  - [Cn: 我们是一个充满活力、充满活力的七口之家！🤪]{g}
 
   ---
-  - [En: We are the HAPPIEST family on YouTube!!]{p}
-  - [Cn: 我们是YouTube上最幸福的家庭！！]{s}
+  - [En: We are the HAPPIEST family on YouTube!!]{s}
+  - [Cn: 我们是YouTube上最幸福的家庭！！]{g}
 
   ---
-  - [En: (maybe even the world)]{p}
-  - [Cn: （甚至可能是全世界）]{s}
+  - [En: (maybe even the world)]{s}
+  - [Cn: （甚至可能是全世界）]{g}
 
   ---
-  - [En: We love SHARING our happiness with all of you!]{p}
-  - [Cn: 我们喜欢与大家分享我们的快乐！]{s}
+  - [En: We love SHARING our happiness with all of you!]{s}
+  - [Cn: 我们喜欢与大家分享我们的快乐！]{g}
 
   ---
-  - [En: This Is How We Bingham!]{p}
-  - [Cn: 这就是我们宾厄姆的做法！]{s}
+  - [En: This Is How We Bingham!]{s}
+  - [Cn: 这就是我们宾厄姆的做法！]{g}
 
   ---
-  - [En: Join us on this adventure and let's take life's everyday joy to the extreme!]{p}
-  - [Cn: 加入我们的冒险，让我们将生活中的日常乐趣发挥到极致！]{s}
+  - [En: Join us on this adventure and let's take life's everyday joy to the extreme!]{s}
+  - [Cn: 加入我们的冒险，让我们将生活中的日常乐趣发挥到极致！]{g}
 
 ---
 * **[Us The Duo | 中阶 | 小孩家庭 | 音乐 | Music | 260万 | Youtube](https://www.youtube.com/@ustheduo/featured)**
@@ -1059,24 +1092,24 @@
 
 ---
 * **[J House Vlogs | 中阶 | 爸妈带着一群小孩世界各地旅居 | 353万 | Youtube](https://www.youtube.com/@jhousevlogs/featured)**
-  - [En: Welcome to J House Vlogs.]{p}
-  - [Cn: 欢迎来到J House Vlogs。]{s}
+  - [En: Welcome to J House Vlogs.]{s}
+  - [Cn: 欢迎来到J House Vlogs。]{g}
 
   ---
-  - [En: We love sharing our life, adventures, and travels around the world.]{p}
-  - [Cn: 我们喜欢分享我们的生活、冒险和环游世界。]{s}
+  - [En: We love sharing our life, adventures, and travels around the world.]{s}
+  - [Cn: 我们喜欢分享我们的生活、冒险和环游世界。]{g}
 
   ---
-  - [En: We are Kendra and Jeremy with our kids Isaac, Elise, Caleb, Laura, and Janae.]{p}
-  - [Cn: 我们是肯德拉和杰里米，还有我们的孩子艾萨克、伊莉丝、凯勒布、劳拉和贾奈。]{s}
+  - [En: We are Kendra and Jeremy with our kids Isaac, Elise, Caleb, Laura, and Janae.]{s}
+  - [Cn: 我们是肯德拉和杰里米，还有我们的孩子艾萨克、伊莉丝、凯勒布、劳拉和贾奈。]{g}
 
   ---
-  - [En: We believe in learning, laughing, and growing together as a family.]{p}
-  - [Cn: 我们相信作为一个家庭一起学习、欢笑和成长。]{s}
+  - [En: We believe in learning, laughing, and growing together as a family.]{s}
+  - [Cn: 我们相信作为一个家庭一起学习、欢笑和成长。]{g}
 
   ---
-  - [En: Come join us for family moments, travel experiences, and everyday life.]{p}
-  - [Cn: 欢迎加入我们，共度家庭时光、旅行体验和日常生活。]{s}
+  - [En: Come join us for family moments, travel experiences, and everyday life.]{s}
+  - [Cn: 欢迎加入我们，共度家庭时光、旅行体验和日常生活。]{g}
 
 ---
 * **[The LaBrant Fam | 中阶 | God and family | 1270万 | Youtube](https://www.youtube.com/@ColeAndSav/featured)**
@@ -1099,29 +1132,29 @@
 
 ---
 * **[Learn English with Bob the Canadian | 0基础 | 内容量巨大，风格偏写实记录 | 244万 | Youtube](https://www.youtube.com/@LearnEnglishwithBobtheCanadian/videos)**
-  - [En: Do you want to learn English?]{p}
-  - [Cn: 你想学英语吗？]{s}
+  - [En: Do you want to learn English?]{s}
+  - [Cn: 你想学英语吗？]{g}
 
   ---
-  - [En: Then you have come to the right place.]{p}
-  - [Cn: 那么你来对地方了。]{s}
+  - [En: Then you have come to the right place.]{s}
+  - [Cn: 那么你来对地方了。]{g}
 
   ---
-  - [En: Each week I upload 2 to 3 videos to help you learn and improve your English.]{p}
-  - [Cn: 我每周上传2到3个视频，帮助你学习和提升英语水平。]{s}
+  - [En: Each week I upload 2 to 3 videos to help you learn and improve your English.]{s}
+  - [Cn: 我每周上传2到3个视频，帮助你学习和提升英语水平。]{g}
 
   ---
-  - [En: I upload videos that will help you improve your basic English vocabulary, videos that will help you understand and pronounce com]{p}
+  - [En: I upload videos that will help you improve your basic English vocabulary, videos that will help you understand and pronounce com]{s}
   - [Cn: 我上传的视频可以帮助你提升基础英语词汇，帮助你理解和发音常用英语短语的视频，以及一些旨在鼓励你学习英语的视频。
 
   ---
-  - [En: Please enjoy these videos as you continue to work on your English!]{p}
-  - [Cn: 请在继续学习英语的过程中欣赏这些视频！]{s}
+  - [En: Please enjoy these videos as you continue to work on your English!]{s}
+  - [Cn: 请在继续学习英语的过程中欣赏这些视频！]{g}
 
 ---
 * **[English by Jay - Sprout | 0基础 | 剪辑很棒，比一般英文频道要更有意思 | 32.8万 | Youtube](https://www.youtube.com/@englishbyjay.official)**
-  - [En: Watch more of my videos and learn English the natural way with Sprout 🌱 https://sproutlanguage.com/]{p}
-  - [Cn: 多看我的视频，用Sprout 🌱自然学习英语 https://sproutlanguage.com/]{s}
+  - [En: Watch more of my videos and learn English the natural way with Sprout 🌱 https://sproutlanguage.com/]{s}
+  - [Cn: 多看我的视频，用Sprout 🌱自然学习英语 https://sproutlanguage.com/]{g}
 
 ---
 * **[Volka English | 0基础 | 初阶 | 内容风格非常一致，画质很好 | 96.9万 | Youtube](https://www.youtube.com/@VolkaEnglish)**
@@ -1129,24 +1162,24 @@
 ---
 ### 0005. 播客资源
 * **[Coffee Break English  | 21.5万 | Youtube](https://www.youtube.com/@coffeebreakenglish)**
-  - [En: Welcome to the Coffee Break English YouTube channel - start learning English on your coffee break!]{p}
-  - [Cn: 欢迎来到Coffee Break English频道——在你的咖啡休息时间开始学习英语吧！]{s}
+  - [En: Welcome to the Coffee Break English YouTube channel - start learning English on your coffee break!]{s}
+  - [Cn: 欢迎来到Coffee Break English频道——在你的咖啡休息时间开始学习英语吧！]{g}
 
   ---
-  - [En: Hosted by experienced English teachers Mark and Josie, Coffee Break English is presented in slow English which is easy to understand.]{p}
-  - [Cn: 由经验丰富的英语教师Mark和Josie主持，《咖啡休息英语》以缓慢且易于理解的英语呈现。]{s}
+  - [En: Hosted by experienced English teachers Mark and Josie, Coffee Break English is presented in slow English which is easy to understand.]{s}
+  - [Cn: 由经验丰富的英语教师Mark和Josie主持，《咖啡休息英语》以缓慢且易于理解的英语呈现。]{g}
 
   ---
-  - [En: Join them as they help you to improve your accuracy and understanding of English, to prepare you for many situations like using English at work, visiting an English-speaking country, taking exams, or talking with English-speaking friends.]{p}
-  - [Cn: 加入他们，他们帮助你提高英语的准确性和理解力，为你在工作中使用英语、访问英语国家、参加考试或与英语朋友交流等多种场合做好准备。]{s}
+  - [En: Join them as they help you to improve your accuracy and understanding of English, to prepare you for many situations like using English at work, visiting an English-speaking country, taking exams, or talking with English-speaking friends.]{s}
+  - [Cn: 加入他们，他们帮助你提高英语的准确性和理解力，为你在工作中使用英语、访问英语国家、参加考试或与英语朋友交流等多种场合做好准备。]{g}
 
   ---
-  - [En: Our courses are designed to help you fit learning a language into your busy schedule; we want to make language learning the most enjoyable part of your day, so that you can turn your down time into your DO time!]{p}
-  - [Cn: 我们的课程旨在帮助您在繁忙的日程中安排学习语言;我们希望让学习语言成为您一天中最愉快的部分，这样您就可以把空闲时间变成真正的实践时间！]{s}
+  - [En: Our courses are designed to help you fit learning a language into your busy schedule; we want to make language learning the most enjoyable part of your day, so that you can turn your down time into your DO time!]{s}
+  - [Cn: 我们的课程旨在帮助您在繁忙的日程中安排学习语言;我们希望让学习语言成为您一天中最愉快的部分，这样您就可以把空闲时间变成真正的实践时间！]{g}
 
   ---
-  - [En: If you want to learn more about the courses that we offer, head over to: https://coffeebreaklanguages.com/english/ Follow us on social media!]{p}
-  - [Cn: 如果您想了解更多我们提供的课程，请访问：https://coffeebreaklanguages.com/english/ 关注我们的社交媒体！]{s}
+  - [En: If you want to learn more about the courses that we offer, head over to: https://coffeebreaklanguages.com/english/ Follow us on social media!]{s}
+  - [Cn: 如果您想了解更多我们提供的课程，请访问：https://coffeebreaklanguages.com/english/ 关注我们的社交媒体！]{g}
 
 ---
 * **[Coffee Break English | 每集大约15分钟，为初学者和中级英语学习者设计](https://coffeebreaklanguages.com/english/)**
@@ -1154,16 +1187,16 @@
 
 ---
 * **[TheCottageFairy | 乡村小屋 | 分享书籍 | Youtube | 160万 | Youtube](https://www.youtube.com/@TheCottageFairy)**
-  - [En: Salutations!]{p}
-  - [Cn: 问候！]{s}
+  - [En: Salutations!]{s}
+  - [Cn: 问候！]{g}
 
   ---
-  - [En: Welcome to my little country cottage.]{p}
-  - [Cn: 欢迎来到我的小乡村小屋。]{s}
+  - [En: Welcome to my little country cottage.]{s}
+  - [Cn: 欢迎来到我的小乡村小屋。]{g}
 
   ---
-  - [En: Here I share little artistic vignettes from my world living as an artist in rural Washington State.]{p}
-  - [Cn: 在这里，我分享了一些来自华盛顿州乡村艺术生活的小插曲。]{s}
+  - [En: Here I share little artistic vignettes from my world living as an artist in rural Washington State.]{s}
+  - [Cn: 在这里，我分享了一些来自华盛顿州乡村艺术生活的小插曲。]{g}
 
   ---
   - [I Bought a Bookstore](https://www.youtube.com/watch?v=-IO3rAurptA)
@@ -1184,38 +1217,38 @@
 
 ---
 * **[Bg2 Pod | 9.93万 | Youtube](https://www.youtube.com/@Bg2Pod)**
-  - [En: Open Source bi-weekly convo w @altcap & @bgurley on all things tech, markets, investing & capitalism]{p}
-  - [Cn: 开源双周一次的对话，内容涵盖科技、市场、投资与资本主义@altcap与@bgurley]{s}
+  - [En: Open Source bi-weekly convo w @altcap & @bgurley on all things tech, markets, investing & capitalism]{s}
+  - [Cn: 开源双周一次的对话，内容涵盖科技、市场、投资与资本主义@altcap与@bgurley]{g}
 
   ---
   - [All things AI w @altcap @sama & @satyanadella. A Halloween Special.](https://www.youtube.com/watch?v=Gnl833wXRz0)
-    - [En: Brad Gerstner sits down with Satya Nadella (Microsoft) and Sam Altman (OpenAI) to unpack the $3 trillion AI buildout transforming technology, business, and the global economy.]{p}
-    - [Cn: Brad Gerstner 与 Satya Nadella（Microsoft）和 Sam Altman（OpenAI）坐下来，剖析这场价值 3 万亿美元的人工智能建设，正在改变科技、商业和全球经济。]{s}
+    - [En: Brad Gerstner sits down with Satya Nadella (Microsoft) and Sam Altman (OpenAI) to unpack the $3 trillion AI buildout transforming technology, business, and the global economy.]{s}
+    - [Cn: Brad Gerstner 与 Satya Nadella（Microsoft）和 Sam Altman（OpenAI）坐下来，剖析这场价值 3 万亿美元的人工智能建设，正在改变科技、商业和全球经济。]{g}
 
     ---
-    - [En: They dive deep into the OpenAI–Microsoft partnership, how it unlocked massive scale in the cloud, and what it reveals about the future of intelligence and capital.]{p}
-    - [Cn: 他们深入探讨了OpenAI与Microsoft的合作，如何实现云端的大规模发展，以及它揭示了智能和资本的未来。]{s}
+    - [En: They dive deep into the OpenAI–Microsoft partnership, how it unlocked massive scale in the cloud, and what it reveals about the future of intelligence and capital.]{s}
+    - [Cn: 他们深入探讨了OpenAI与Microsoft的合作，如何实现云端的大规模发展，以及它揭示了智能和资本的未来。]{g}
 
     ---
-    - [En: Nadella breaks down how Microsoft is expanding Azure and Copilot to meet explosive demand.]{p}
-    - [Cn: Nadella 解析了 Microsoft 如何扩展 Azure 和 Copilot 以满足爆炸式增长的需求。]{s}
+    - [En: Nadella breaks down how Microsoft is expanding Azure and Copilot to meet explosive demand.]{s}
+    - [Cn: Nadella 解析了 Microsoft 如何扩展 Azure 和 Copilot 以满足爆炸式增长的需求。]{g}
 
     ---
-    - [En: Altman shares his view on progress, power, and the human drive to push boundaries.]{p}
-    - [Cn: 奥特曼分享了他对进步、权力以及人类突破界限驱动力的看法。]{s}
+    - [En: Altman shares his view on progress, power, and the human drive to push boundaries.]{s}
+    - [Cn: 奥特曼分享了他对进步、权力以及人类突破界限驱动力的看法。]{g}
 
     ---
-    - [En: A candid, energizing conversation about building the future at scale.]{p}
-    - [Cn: 一场坦率、充满活力的对话，讨论如何大规模建设未来。]{s}
+    - [En: A candid, energizing conversation about building the future at scale.]{s}
+    - [Cn: 一场坦率、充满活力的对话，讨论如何大规模建设未来。]{g}
 
     ---
-    - [En: Enjoy another episode of BG2!]{p}
-    - [Cn: 祝大家继续享受《博德之门2》的精彩内容！]{s}
+    - [En: Enjoy another episode of BG2!]{s}
+    - [Cn: 祝大家继续享受《博德之门2》的精彩内容！]{g}
 
 ---
 * **[All-In Podcast | 104万 | Youtube](https://www.youtube.com/@allin)**
-  - [En: Chamath Palihapitiya, Jason Calacanis, David Sacks & David Friedberg cover all things economic, tech, political, social & poker.]{p}
-  - [Cn: Chamath Palihapitiya、Jason Calacanis、David Sacks 和 David Friedberg 涵盖经济、科技、政治、社会和扑克等所有相关内容。]{s}
+  - [En: Chamath Palihapitiya, Jason Calacanis, David Sacks & David Friedberg cover all things economic, tech, political, social & poker.]{s}
+  - [Cn: Chamath Palihapitiya、Jason Calacanis、David Sacks 和 David Friedberg 涵盖经济、科技、政治、社会和扑克等所有相关内容。]{g}
 
   ---
   - Follow the besties:
@@ -1244,24 +1277,24 @@
 
 ---
 * **[Lex-Friedman | Math | 495万 | Youtube](https://www.youtube.com/@lexfridman/videos)**
-  - [En: Lex Fridman Podcast and other videos.]{p}
-  - [Cn: 莱克斯·弗里德曼播客及其他视频。]{s}
+  - [En: Lex Fridman Podcast and other videos.]{s}
+  - [Cn: 莱克斯·弗里德曼播客及其他视频。]{g}
 
   ---
   - [Infinity, Paradoxes, Gödel Incompleteness & the Mathematical Multiverse | Lex Fridman Podcast #488 | 无限、悖论、哥德尔不完备性与数学多元宇宙 |莱克斯·弗里德曼播客 #488](https://www.youtube.com/watch?v=14OPT6CcsH4)
 
 ---
 * **[Latent Space | AI | Youtube](https://www.youtube.com/@LatentSpacePod/videos)**
-  - [En: The first place where 90,000+ AI Engineers gather to talk models, tools and ideas.]{s}
-  - 这是9万名AI工程师聚集讨论模型、工具和想法的第一个场所。]{s}
+  - [En: The first place where 90,000+ AI Engineers gather to talk models, tools and ideas.]{g}
+  - 这是9万名AI工程师聚集讨论模型、工具和想法的第一个场所。]{g}
 
   ---
-  - [En: Breaking news today you will use at work tomorrow!]{s}
-  - 今天的突发新闻，明天你将在工作中使用！]{s}
+  - [En: Breaking news today you will use at work tomorrow!]{g}
+  - 今天的突发新闻，明天你将在工作中使用！]{g}
 
   ---
-  - [En: Full show notes and newsletter at https://latent.space]{s}
-  - 完整节目笔记和通讯请见 https://latent.space]{s}
+  - [En: Full show notes and newsletter at https://latent.space]{g}
+  - 完整节目笔记和通讯请见 https://latent.space]{g}
 
   ---
   - [[State of Research Funding] Beyond NSF, Slingshots, Open Frontiers — Andy Konwinski, Laude Institute](https://www.youtube.com/watch?v=ZagdY6UJYL4)
@@ -1269,245 +1302,245 @@
 ---
 ### 0006. 雅思 IELTS
 * **[Learn English with EnglishClass101.com | English Teacher | 865万 | Youtube](https://www.youtube.com/@EnglishClass101/videos)**
-  - [En: Learn English with EnglishClass101.com - The Fastest, Easiest and Most Fun Way to Learn English. Start speaking English in minutes with Audio and Video lessons.]{p}
-  - [Cn: 与英语 EnglishClass101.com 学习——最快、最简单、最有趣的学习英语方式. 通过音频和视频课程几分钟内开始说英语。]{s}
+  - [En: Learn English with EnglishClass101.com - The Fastest, Easiest and Most Fun Way to Learn English. Start speaking English in minutes with Audio and Video lessons.]{s}
+  - [Cn: 与英语 EnglishClass101.com 学习——最快、最简单、最有趣的学习英语方式. 通过音频和视频课程几分钟内开始说英语。]{g}
 
   ---
-  - [En: EnglishClass101.com is an online English language learning website.]{p}
-  - [Cn: EnglishClass101.com 是一个在线英语学习网站。]{s}
+  - [En: EnglishClass101.com is an online English language learning website.]{s}
+  - [Cn: EnglishClass101.com 是一个在线英语学习网站。]{g}
 
   ---
-  - [En: With us you'll learn to speak, read, and write English.]{p}
-  - [Cn: 和我们一起，你将学会说、读、写英语。]{s}
+  - [En: With us you'll learn to speak, read, and write English.]{s}
+  - [Cn: 和我们一起，你将学会说、读、写英语。]{g}
 
   ---
-  - [En: You'll have fun learning with listeners around the world.]{p}
-  - [Cn: 你会和世界各地的听众一起学习，玩得很开心。]{s}
+  - [En: You'll have fun learning with listeners around the world.]{s}
+  - [Cn: 你会和世界各地的听众一起学习，玩得很开心。]{g}
 
   ---
-  - [En: Get ready to "wow" your friends, family, teachers and colleagues with the English you'll learn with us! See higher quality videos and with your FREE Lifetime Account at EnglishClass101.com.]{p}
-  - [Cn: 准备好用我们学到的英语让你的朋友、家人、老师和同事们惊艳吧！ 在 EnglishClass101.com，观看更高质量的视频，并使用您的免费终身账户。]{s}
+  - [En: Get ready to "wow" your friends, family, teachers and colleagues with the English you'll learn with us! See higher quality videos and with your FREE Lifetime Account at EnglishClass101.com.]{s}
+  - [Cn: 准备好用我们学到的英语让你的朋友、家人、老师和同事们惊艳吧！ 在 EnglishClass101.com，观看更高质量的视频，并使用您的免费终身账户。]{g}
 
   ---
-  - [En: Want to stay informed?]{p}
-  - [Cn: 想保持信息畅通吗？]{s}
+  - [En: Want to stay informed?]{s}
+  - [Cn: 想保持信息畅通吗？]{g}
 
   ---
-  - [En: Click "Subscribe" in the red box above and get notifications when a new video is added.]{p}
-  - [Cn: 点击上方红色框中的"订阅"，当新增视频时会收到通知。]{s}
+  - [En: Click "Subscribe" in the red box above and get notifications when a new video is added.]{s}
+  - [Cn: 点击上方红色框中的"订阅"，当新增视频时会收到通知。]{g}
 
 ---
 * **[Arnel's Everyday English | English Teacher |  语法 | 134万 |  Youtube](https://www.youtube.com/@ArnelsEverydayEnglish)**
-  - [En: Welcome to my channel!]{p}
-  - [Cn: 欢迎来到我的频道！]{s}
+  - [En: Welcome to my channel!]{s}
+  - [Cn: 欢迎来到我的频道！]{g}
 
   ---
-  - [En: I create lessons for ESL/EFL students.]{p}
-  - [Cn: 我为ESL/EFL学生设计课程。]{s}
+  - [En: I create lessons for ESL/EFL students.]{s}
+  - [Cn: 我为ESL/EFL学生设计课程。]{g}
 
   ---
-  - I especially love helping students with grammar.]{p}
-  - [Cn: 我尤其喜欢帮助学生学习语法。]{s}
+  - I especially love helping students with grammar.]{s}
+  - [Cn: 我尤其喜欢帮助学生学习语法。]{g}
 
   ---
-  - [En: COMMON QUESTIONS: 1) Where are you from?]{p}
-  - [Cn: 常见问题： 1）你来自哪里？]{s}
+  - [En: COMMON QUESTIONS: 1) Where are you from?]{s}
+  - [Cn: 常见问题： 1）你来自哪里？]{g}
 
   ---
-  - [En: I’m American.]{p}
-  - [Cn: 我是美国人。]{s}
+  - [En: I’m American.]{s}
+  - [Cn: 我是美国人。]{g}
 
   ---
-  - [En: I’m a native English speaker.]{p}
-  - [Cn: 我是英语母语者。]{s}
+  - [En: I’m a native English speaker.]{s}
+  - [Cn: 我是英语母语者。]{g}
 
   ---
-  - [En: (But, to be more specific, I’m American /Chinese / Korean.)]{p}
-  - [Cn: （但更具体地说，我是美国/中国/韩国混血。）]{s}
+  - [En: (But, to be more specific, I’m American /Chinese / Korean.)]{s}
+  - [Cn: （但更具体地说，我是美国/中国/韩国混血。）]{g}
 
   ---
-  - [En: 2) Where do you live?]{p}
-  - [Cn: 2）你住在哪里？]{s}
+  - [En: 2) Where do you live?]{s}
+  - [Cn: 2）你住在哪里？]{g}
 
   ---
-  - [En: I’ve been living in the UK since 2011.]{p}
-  - [Cn: 我自2011年以来一直住在英国。]{s}
+  - [En: I’ve been living in the UK since 2011.]{s}
+  - [Cn: 我自2011年以来一直住在英国。]{g}
 
   ---
-  - [En: 3) How do you edit your videos?]{p}
-  - [Cn: 3）你是怎么剪辑视频的？]{s}
+  - [En: 3) How do you edit your videos?]{s}
+  - [Cn: 3）你是怎么剪辑视频的？]{g}
 
   ---
-  - [En: What software do you use?]{p}
-  - [Cn: 你用什么软件？]{s}
+  - [En: What software do you use?]{s}
+  - [Cn: 你用什么软件？]{g}
 
   ---
-  - [En: I love editing my videos.]{p}
-  - [Cn: 我喜欢剪辑我的视频。]{s}
+  - [En: I love editing my videos.]{s}
+  - [Cn: 我喜欢剪辑我的视频。]{g}
 
   ---
-  - [En:I  use a combination of these two tools:  ✅Camtasia https://techsmith.z6rjha.net/RyaDA9 ✅]{p}
-  - [Cn: 我结合使用这两个工具： ✅Camtasia https://techsmith.z6rjha.net/RyaDA9 ✅]{s}
+  - [En:I  use a combination of these two tools:  ✅Camtasia https://techsmith.z6rjha.net/RyaDA9 ✅]{s}
+  - [Cn: 我结合使用这两个工具： ✅Camtasia https://techsmith.z6rjha.net/RyaDA9 ✅]{g}
 
   ---
-  - [En: Canva Thank you so much for being here.]{p}
-  - [Cn: Canva ：非常感谢你来到这里。]{s}
+  - [En: Canva Thank you so much for being here.]{s}
+  - [Cn: Canva ：非常感谢你来到这里。]{g}
 
   ---
-  - [En: Arnel :)]{p}
-  - [Cn: 阿内尔·:)]{s}
+  - [En: Arnel :)]{s}
+  - [Cn: 阿内尔·:)]{g}
 
 ---
 * **[BBC Learning English | 980万 | 听力 | Youtube](https://www.youtube.com/@bbclearningenglish)**
-  - [En: Learn English with the BBC.]{p}
-  - [Cn: 跟BBC学英语。]{s}
+  - [En: Learn English with the BBC.]{s}
+  - [Cn: 跟BBC学英语。]{g}
 
   ---
-  - [En: We publish new videos, shorts, podcasts, tutorials and lessons every week to help you learn and improve your English speaking, listening, vocabulary and pronunciation.]{p}
-  - [Cn: 我们每周发布新的视频、短视频、播客、教程和课程，帮助你学习和提升英语口语、听力、词汇和发音。]{s}
+  - [En: We publish new videos, shorts, podcasts, tutorials and lessons every week to help you learn and improve your English speaking, listening, vocabulary and pronunciation.]{s}
+  - [Cn: 我们每周发布新的视频、短视频、播客、教程和课程，帮助你学习和提升英语口语、听力、词汇和发音。]{g}
 
   ---
-  - [En: Subscribe to our channel and hit the bell so you never miss our new videos!]{p}
-  - [Cn: 订阅我们的频道并按铃，这样你就不会错过我们的新视频！]{s}
+  - [En: Subscribe to our channel and hit the bell so you never miss our new videos!]{s}
+  - [Cn: 订阅我们的频道并按铃，这样你就不会错过我们的新视频！]{g}
 
   ---
-  - [En: We love receiving, reading, and responding to your comments!]{p}
-  - [Cn: 我们喜欢接收、阅读并回复您的评论！]{s}
+  - [En: We love receiving, reading, and responding to your comments!]{s}
+  - [Cn: 我们喜欢接收、阅读并回复您的评论！]{g}
 
   ---
-  - [En: We ask you all to please use English when you comment.]{p}
-  - [Cn: 我们请求大家评论时请使用英语。]{s}
+  - [En: We ask you all to please use English when you comment.]{s}
+  - [Cn: 我们请求大家评论时请使用英语。]{g}
 
   ---
-  - [En: Scroll down for a link to our house rules.]{p}
-  - [Cn: 往下滚动查看我们的家规链接。]{s}
+  - [En: Scroll down for a link to our house rules.]{s}
+  - [Cn: 往下滚动查看我们的家规链接。]{g}
 
   ---
-  - [En: For more videos and content to help you learn English, visit our website.]{p}
-  - [Cn: 想了解更多帮助你学习英语的视频和内容，请访问我们的网站。]{s}
+  - [En: For more videos and content to help you learn English, visit our website.]{s}
+  - [Cn: 想了解更多帮助你学习英语的视频和内容，请访问我们的网站。]{g}
 
   ---
-  - [En: We're also on TikTok, Facebook and Instagram!]{p}
-  - [Cn: 我们也活跃在TikTok、Facebook和Instagram上！]{s}
+  - [En: We're also on TikTok, Facebook and Instagram!]{s}
+  - [Cn: 我们也活跃在TikTok、Facebook和Instagram上！]{g}
 
   ---
-  - [En: Happy learning!]{p}
-  - [Cn: 祝你学习愉快！]{s}
+  - [En: Happy learning!]{s}
+  - [Cn: 祝你学习愉快！]{g}
 
 ---
 * **[English Speaking Success | 412万 | 口语 | Youtube](https://www.youtube.com/@EnglishSpeakingSuccess)**
-  - [En: English Speaking Success will help you develop your English speaking skills so you can face the examiner with confidence and ace the IELTS Speaking test.]{p}
-  - [Cn: 《英语口语成功》将帮助你提升英语口语能力，让你能够自信地面对考官，并在雅思口语测试中取得优异成绩。]{s}
+  - [En: English Speaking Success will help you develop your English speaking skills so you can face the examiner with confidence and ace the IELTS Speaking test.]{s}
+  - [Cn: 《英语口语成功》将帮助你提升英语口语能力，让你能够自信地面对考官，并在雅思口语测试中取得优异成绩。]{g}
 
   ---
-  - [En: It has IELTS Speaking tips, ideas and free monthly live lessons.]{p}
-  - [Cn: 它包含雅思口语技巧、创意和免费的每月直播课程。]{s}
+  - [En: It has IELTS Speaking tips, ideas and free monthly live lessons.]{s}
+  - [Cn: 它包含雅思口语技巧、创意和免费的每月直播课程。]{g}
 
   ---
-  - [En: It is run by me, Keith O'Hare, owner of the Keith Speaking Academy.]{p}
-  - [Cn: 它由我，基思·奥黑尔，基思口语学院的老板管理。]{s}
+  - [En: It is run by me, Keith O'Hare, owner of the Keith Speaking Academy.]{s}
+  - [Cn: 它由我，基思·奥黑尔，基思口语学院的老板管理。]{g}
 
   ---
-  - [En: I have no affiliation, connection, approval or endorsement from the British Council or any of the official IELTS partners.]{p}
-  - [Cn: 我没有任何隶属关系、关系、认可或认可，也没有获得英国文化协会或任何官方雅思合作伙伴的认可。]{s}
+  - [En: I have no affiliation, connection, approval or endorsement from the British Council or any of the official IELTS partners.]{s}
+  - [Cn: 我没有任何隶属关系、关系、认可或认可，也没有获得英国文化协会或任何官方雅思合作伙伴的认可。]{g}
 
 ---
 * **[IELTS with Simon | 西蒙的雅思课程 | 2540位 |  写作 | Youtube](https://www.youtube.com/@IELTSSIMON1/videos)**
-  - [En: My name is Simon  Corcoran, and this is my mission as an IELTS teacher: I aim to provide the best information about the IELTS test, from an ex examiner's perspective.]{p}
-  - [Cn: 我叫西蒙·科科伦，作为一名雅思教师，我的使命是：我 致力于从一名前考官的角度，提供关于雅思考试的最佳信息。]{s}
+  - [En: My name is Simon  Corcoran, and this is my mission as an IELTS teacher: I aim to provide the best information about the IELTS test, from an ex examiner's perspective.]{s}
+  - [Cn: 我叫西蒙·科科伦，作为一名雅思教师，我的使命是：我 致力于从一名前考官的角度，提供关于雅思考试的最佳信息。]{g}
 
   ---
-  - [En: Having been an examiner, l know exactly what IELTS examiners want and my advice is correct and reliable.]{p}
-  - [Cn: 作为考官，我非常清楚雅思考官想要什么，我的建议是正确且可靠的。]{s}
+  - [En: Having been an examiner, l know exactly what IELTS examiners want and my advice is correct and reliable.]{s}
+  - [Cn: 作为考官，我非常清楚雅思考官想要什么，我的建议是正确且可靠的。]{g}
 
   ---
-  - [En: There's a lot of bad information about IELTS on the internet, so it makes sense for you to check with an ex-examiner.]{p}
-  - [Cn: 网上关于雅思的信息很多，所以你最好咨询一下前考官。]{s}
+  - [En: There's a lot of bad information about IELTS on the internet, so it makes sense for you to check with an ex-examiner.]{s}
+  - [Cn: 网上关于雅思的信息很多，所以你最好咨询一下前考官。]{g}
 
   ---
-  - [En: I create materials for self-study.]{p}
-  - [Cn: 我会制作自学材料。]{s}
+  - [En: I create materials for self-study.]{s}
+  - [Cn: 我会制作自学材料。]{g}
 
   ---
-  - [En: I work alone,  so l can't offer face-to face lessons or a full  ' language  school ' service.]{p}
-  - [Cn: 我一个人工作，所以无法提供面对面课程或完整的"语言学校" 服务。]{s}
+  - [En: I work alone,  so l can't offer face-to face lessons or a full  ' language  school ' service.]{s}
+  - [Cn: 我一个人工作，所以无法提供面对面课程或完整的"语言学校" 服务。]{g}
 
   ---
-  - [En: My materials can be used by people who are studying alone, or by people who already attended a language school or IELTS course Many IELTS teacher use my materials with their students too.]{p}
-  - [Cn: 我的教材可以被独自学习的人使用，也可以供已经上过语言学校或雅思课程的人使用。许多雅思老师也会用我的教材来配合学生学习。]{s}
+  - [En: My materials can be used by people who are studying alone, or by people who already attended a language school or IELTS course Many IELTS teacher use my materials with their students too.]{s}
+  - [Cn: 我的教材可以被独自学习的人使用，也可以供已经上过语言学校或雅思课程的人使用。许多雅思老师也会用我的教材来配合学生学习。]{g}
 
   ---
-  - [En: Whatever your situation, l believe you'l find my resources useful.]{p}
-  - [Cn: 无论你的情况如何，我相信你会觉得我的资源很有用。]{s}
+  - [En: Whatever your situation, l believe you'l find my resources useful.]{s}
+  - [Cn: 无论你的情况如何，我相信你会觉得我的资源很有用。]{g}
 
   ---
-  - [En: LOVE you all!]{p}
-  - [Cn: 爱你们所有人！]{s}
+  - [En: LOVE you all!]{s}
+  - [Cn: 爱你们所有人！]{g}
 
 ---
 * **[E2 IELTS | 阅读 | 285万 | Youtube](https://www.youtube.com/@E2IELTS)**
-  - [En: Welcome to E2 IELTS, a place for mastering the IELTS General and Academic exams.]{s}
-  - [Cn: 欢迎来到E2雅思，这是一个帮助精通雅思普通和学术考试的地方。]{s}
+  - [En: Welcome to E2 IELTS, a place for mastering the IELTS General and Academic exams.]{g}
+  - [Cn: 欢迎来到E2雅思，这是一个帮助精通雅思普通和学术考试的地方。]{g}
 
   ---
-  - [En: Whether you need help with IELTS Writing, Reading, Listening, or Speaking, you’ve come to the right place.]{s}
-  - [Cn: 无论你需要雅思写作、阅读、听力还是口语方面的帮助，你来对地方了。]{s}
+  - [En: Whether you need help with IELTS Writing, Reading, Listening, or Speaking, you’ve come to the right place.]{g}
+  - [Cn: 无论你需要雅思写作、阅读、听力还是口语方面的帮助，你来对地方了。]{g}
 
   ---
-  - [En: We aim to help students and professionals achieve the English proficiency they need to study, work, or live in countries like the UK, Australia, Canada, New Zealand, and the US.]{s}
-  - [Cn: 我们的目标是帮助学生和专业人士达到他们在英国、澳大利亚、加拿大、新西兰和美国学习、工作或生活所需的英语水平。]{s}
+  - [En: We aim to help students and professionals achieve the English proficiency they need to study, work, or live in countries like the UK, Australia, Canada, New Zealand, and the US.]{g}
+  - [Cn: 我们的目标是帮助学生和专业人士达到他们在英国、澳大利亚、加拿大、新西兰和美国学习、工作或生活所需的英语水平。]{g}
 
   ---
-  - [En: With over 2 million subscribers worldwide, E2 Test Prep combines expert teaching with advanced learning technology and realistic test simulations to help you prepare smarter, not harder.]{s}
-  - [Cn: E2 Test Prep 拥有全球超过 200 万订阅者，结合了专业教学、先进的学习技术和逼真的考试模拟，帮助您更聪明地备考，而非更难。]{s}
+  - [En: With over 2 million subscribers worldwide, E2 Test Prep combines expert teaching with advanced learning technology and realistic test simulations to help you prepare smarter, not harder.]{g}
+  - [Cn: E2 Test Prep 拥有全球超过 200 万订阅者，结合了专业教学、先进的学习技术和逼真的考试模拟，帮助您更聪明地备考，而非更难。]{g}
 
   ---
-  - [En: Join thousands of successful IELTS candidates who have improved their scores and transformed their futures with our proven methods.]{s}
-  - [Cn: 加入成千上万通过我们经过验证的方法提升成绩、改变未来、成功晋升的雅思考生行列。]{s}
+  - [En: Join thousands of successful IELTS candidates who have improved their scores and transformed their futures with our proven methods.]{g}
+  - [Cn: 加入成千上万通过我们经过验证的方法提升成绩、改变未来、成功晋升的雅思考生行列。]{g}
 
   ---
-  - [En: Start your journey toward IELTS success with world-class English test preparation.]{s}
-  - [Cn: 用世界级的英语考试准备，开启你迈向雅思成功的旅程。]{s}
+  - [En: Start your journey toward IELTS success with world-class English test preparation.]{g}
+  - [Cn: 用世界级的英语考试准备，开启你迈向雅思成功的旅程。]{g}
 
   ---
-  - [En: 🔔 Ready to boost your IELTS score?]{s}
-  - [Cn: 🔔 准备好提升你的雅思分数了吗？]{s}
+  - [En: 🔔 Ready to boost your IELTS score?]{g}
+  - [Cn: 🔔 准备好提升你的雅思分数了吗？]{g}
 
   ---
-  - [En: Subscribe for expert IELTS coaching, top-notch test prep, proven techniques, & test simulations! https://www.youtube.com/@E2IELTS/?sub_confirmation=1]{s}
-  - [Cn: 订阅专家雅思辅导、顶级考试准备、经过验证的技巧和模拟考试！ https://www.youtube.com/@E2IELTS/?sub_confirmation=1]{s}
+  - [En: Subscribe for expert IELTS coaching, top-notch test prep, proven techniques, & test simulations! https://www.youtube.com/@E2IELTS/?sub_confirmation=1]{g}
+  - [Cn: 订阅专家雅思辅导、顶级考试准备、经过验证的技巧和模拟考试！ https://www.youtube.com/@E2IELTS/?sub_confirmation=1]{g}
 
 ---
 ### 0007. Church
 * **[2819 Church | 165万| Youtube](https://www.youtube.com/@2819Church)**
-  - [En: Welcome to the official Youtube channel for 2819 Church.]{p}
-  - [Cn: 欢迎来到2819教会的官方YouTube频道。]{s}
+  - [En: Welcome to the official Youtube channel for 2819 Church.]{s}
+  - [Cn: 欢迎来到2819教会的官方YouTube频道。]{g}
 
   ---
-  - [En: This channel features powerful and life-impacting messages from Philip Anthony Mitchell and guest communicators.]{p}
-  - [Cn: 该频道由菲利普·安东尼·米切尔和嘉宾传播者带来强有力且影响生活的信息。]{s}
+  - [En: This channel features powerful and life-impacting messages from Philip Anthony Mitchell and guest communicators.]{s}
+  - [Cn: 该频道由菲利普·安东尼·米切尔和嘉宾传播者带来强有力且影响生活的信息。]{g}
 
   ---
-  - [En: As you listen to these sound biblical messages you can expect to be challenged, stirred, matured and inspired in your faith and walk with God.]{p}
-  - [Cn: 当你聆听这些响亮的圣经信息时，你可以期待在信仰中受到挑战、激励、成熟和激励，与神同行。]{s}
+  - [En: As you listen to these sound biblical messages you can expect to be challenged, stirred, matured and inspired in your faith and walk with God.]{s}
+  - [Cn: 当你聆听这些响亮的圣经信息时，你可以期待在信仰中受到挑战、激励、成熟和激励，与神同行。]{g}
 
   ---
-  - [En: For more information about our church visit 2819church.org.]{p}
-  - [Cn: 欲了解更多关于我们教会的信息，请访问 2819church.org。]{s}
+  - [En: For more information about our church visit 2819church.org.]{s}
+  - [Cn: 欲了解更多关于我们教会的信息，请访问 2819church.org。]{g}
 
   - [NYE 2022 | All Things New | Matthew 28:18-20 | Philip Anthony Mitchell](https://www.youtube.com/watch?v=7R2fER5N7LI)
 
 ---
 ### 0008. Music | Youtube
 * **[Taylor Swift |  6310万 | Youtube](https://www.youtube.com/@TaylorSwift/videos)**
-  - [En: And, baby, that’s show business for you.]{p}
-  - [Cn: 宝贝，这就是演艺圈的全部。]{s}
+  - [En: And, baby, that’s show business for you.]{s}
+  - [Cn: 宝贝，这就是演艺圈的全部。]{g}
 
-  - [En: New album The Life of a Showgirl.]{p}
-  - [Cn: 新专辑《The Life of a Showgirl》。]{s}
+  - [En: New album The Life of a Showgirl.]{s}
+  - [Cn: 新专辑《The Life of a Showgirl》。]{g}
 
-  - [En: Available now]{p}
-  - [Cn: 现已上线]{s}
+  - [En: Available now]{s}
+  - [Cn: 现已上线]{g}
 
   ---
   - [Just 11 days until the final show of The Eras Tour is all yours ](https://www.youtube.com/watch?v=fHjxp-rpUGw)
@@ -1522,8 +1555,8 @@
 
 ---
 * **[The Diary Of A CEO | 高阶 | 嘉宾行业大牛，内容知识含金量超高。主持人英国人 | Youtube](https://www.youtube.com/@TheDiaryOfACEO)**
-  - [En: 64% of our viewers don't realise they don't subscribe, please double check, thank you!!]{p}
-  - [Cn: 64%的观众不知道自己没订阅，请再确认一下，谢谢！！]{s}
+  - [En: 64% of our viewers don't realise they don't subscribe, please double check, thank you!!]{s}
+  - [Cn: 64%的观众不知道自己没订阅，请再确认一下，谢谢！！]{g}
 
   ---
   - [人工智能专家：（警告）2030年可能是无法回头的关键点！我们被告知的有关人工智能的信息是假的！](https://www.youtube.com/watch?v=P7Y-fynYsgE)
@@ -1546,52 +1579,52 @@
   - 如果你想赞助《Huge If True》节目，请通过下方邮件联系我们。
 
   ---
-  - [En: If you're looking for my bio, here it is: Cleo Abram is a video journalist who produces Huge If True, an optimistic show about science and technology.]{s}
-  - [Cn: 如果你想找我的简介，这里有： 克利奥·亚伯拉罕是一名视频记者，制作《巨大如果真实》——一档关于科学与技术的乐观节目。]{s}
+  - [En: If you're looking for my bio, here it is: Cleo Abram is a video journalist who produces Huge If True, an optimistic show about science and technology.]{g}
+  - [Cn: 如果你想找我的简介，这里有： 克利奥·亚伯拉罕是一名视频记者，制作《巨大如果真实》——一档关于科学与技术的乐观节目。]{g}
 
   ---
-  - [En: Huge If True is an antidote to the doom and gloom, helping a wide audience see better futures they can help build.]{s}
-  - [Cn: 《Huge If True》是对阴霾的解药，帮助广大观众看到他们能够共同建设的更好未来。]{s}
+  - [En: Huge If True is an antidote to the doom and gloom, helping a wide audience see better futures they can help build.]{g}
+  - [Cn: 《Huge If True》是对阴霾的解药，帮助广大观众看到他们能够共同建设的更好未来。]{g}
 
   ---
-  - [En: In each episode, Cleo dives deep into one innovation that could shape the future.]{s}
-  - [Cn: 在每一集中，克莱奥都会深入探讨一项可能塑造未来的创新。]{s}
+  - [En: In each episode, Cleo dives deep into one innovation that could shape the future.]{g}
+  - [Cn: 在每一集中，克莱奥都会深入探讨一项可能塑造未来的创新。]{g}
 
   ---
-  - [En: She has explored humanoid robots at Boston Dynamics, supersonic planes at NASA, quantum computers at IBM, the Large Hadron Collider at CERN, and more.]{s}
-  - [Cn: 她曾在波士顿动力公司探索类人机器人、NASA的超音速飞机、IBM的量子计算机、CERN的大型强子对撞机等。]{s}
+  - [En: She has explored humanoid robots at Boston Dynamics, supersonic planes at NASA, quantum computers at IBM, the Large Hadron Collider at CERN, and more.]{g}
+  - [Cn: 她曾在波士顿动力公司探索类人机器人、NASA的超音速飞机、IBM的量子计算机、CERN的大型强子对撞机等。]{g}
 
   ---
-  - [En: Previously, Cleo was a video producer at Vox and directed for Explained on Netflix.]{s}
-  - [Cn: 此前，克莱奥曾是Vox的视频制片人，并执导了Netflix的《Explained》。]{s}
+  - [En: Previously, Cleo was a video producer at Vox and directed for Explained on Netflix.]{g}
+  - [Cn: 此前，克莱奥曾是Vox的视频制片人，并执导了Netflix的《Explained》。]{g}
 
   ---
-  - [En: She was the host of Vox’s first ever daily show, Answered, as well as co-host of Vox’s YouTube Originals show, Glad You Asked.]{s}
-  - [Cn: 她主持了Vox首个每日节目《Answered》，并共同主持了Vox的YouTube Originals节目《Glad You Asked》。]{s}
+  - [En: She was the host of Vox’s first ever daily show, Answered, as well as co-host of Vox’s YouTube Originals show, Glad You Asked.]{g}
+  - [Cn: 她主持了Vox首个每日节目《Answered》，并共同主持了Vox的YouTube Originals节目《Glad You Asked》。]{g}
 
   ---
   * **[Humanity’s Real Plan to Stop This Asteroid (Feat. Mark Rober)](https://www.youtube.com/watch?v=LOn-mmezykQ)**
 
 ---
 * **[Dr. Arthur Brooks | 22.5万 | Youtube](https://www.youtube.com/@drarthurbrooks)**
-  - [En: Arthur Brooks is a Harvard professor, PhD social scientist, bestselling author, and columnist who specializes in using the highest levels of science and philosophy to provide people with actionable strategies to live their best lives.]{p}
-  - [Cn: 亚瑟·布鲁克斯是哈佛大学教授、社会科学家博士、畅销书作家和专栏作家，专注于运用最高层次的科学和哲学，为人们提供可行的策略，帮助他们过上最好的生活。]{s}
+  - [En: Arthur Brooks is a Harvard professor, PhD social scientist, bestselling author, and columnist who specializes in using the highest levels of science and philosophy to provide people with actionable strategies to live their best lives.]{s}
+  - [Cn: 亚瑟·布鲁克斯是哈佛大学教授、社会科学家博士、畅销书作家和专栏作家，专注于运用最高层次的科学和哲学，为人们提供可行的策略，帮助他们过上最好的生活。]{g}
 
   ---
-  - [En: He travels around the world engaging audiences using a blend of cutting-edge science, ancient wisdom, philosophy, music, and art.]{p}
-  - [Cn: 他走遍世界各地，利用前沿科学、古代智慧、哲学、音乐和艺术的融合与观众互动。]{s}
+  - [En: He travels around the world engaging audiences using a blend of cutting-edge science, ancient wisdom, philosophy, music, and art.]{s}
+  - [Cn: 他走遍世界各地，利用前沿科学、古代智慧、哲学、音乐和艺术的融合与观众互动。]{g}
 
   ---
-  - [En: Check out his videos to see how he helps to bring people together and improve happiness for all.]{p}
-  - [Cn: 看看他的视频，了解他如何帮助人们团结起来，提升所有人的幸福感。]{s}
+  - [En: Check out his videos to see how he helps to bring people together and improve happiness for all.]{s}
+  - [Cn: 看看他的视频，了解他如何帮助人们团结起来，提升所有人的幸福感。]{g}
 
   ---
   - [The 3 Macronutrients of Happiness, and How to Measure Yours| 幸福的三大宏量营养素，以及如何衡量你的幸福](https://www.youtube.com/watch?v=6UAq3KAR2bc)
 
 ---
 * **[Veritasium | 科普 | 2040万 |  Youtube](https://www.youtube.com/@veritasium)**
-  - [An element of truth - videos about science, education, and anything else we find interesting.]{p}
-  - [Cn: 真理元素——关于科学、教育以及我们感兴趣的任何内容的视频。]{s}
+  - [An element of truth - videos about science, education, and anything else we find interesting.]{s}
+  - [Cn: 真理元素——关于科学、教育以及我们感兴趣的任何内容的视频。]{g}
 
   ---
   - **[The Ridiculous Engineering Of The World's Most Important Machine | 世界上最重要机器的荒谬工程 | 光刻机](https://www.youtube.com/watch?v=MiUHjLxm3V0)**
@@ -1601,32 +1634,32 @@
 
 ---
 * **[Big Think | 859万 | Youtube](https://www.youtube.com/@bigthink/videos)**
-  - [En: Big Think exists to make you smarter, faster.]{p}
-  - [Cn: Big Think的存在是为了让你变得更聪明、更快。]{s}
+  - [En: Big Think exists to make you smarter, faster.]{s}
+  - [Cn: Big Think的存在是为了让你变得更聪明、更快。]{g}
 
   ---
-  - [En: Through conversations with the world’s brightest thinkers, we bring you the ideas shaping the future of science, philosophy, culture, and the human mind.]{p}
-  - [Cn: 通过与世界上最聪明的思想家的对话，我们为您带来塑造科学、哲学、文化和人类心智未来的理念。]{s}
+  - [En: Through conversations with the world’s brightest thinkers, we bring you the ideas shaping the future of science, philosophy, culture, and the human mind.]{s}
+  - [Cn: 通过与世界上最聪明的思想家的对话，我们为您带来塑造科学、哲学、文化和人类心智未来的理念。]{g}
 
   ---
-  - [En: Our library of thousands of videos distills complex insight into clear, actionable wisdom for how to think, work, and live in a changing world.]{p}
-  - [Cn: 我们数千个视频库将复杂的见解提炼成清晰且可作的智慧，帮助人们在不断变化的世界中思考、工作和生活。]{s}
+  - [En: Our library of thousands of videos distills complex insight into clear, actionable wisdom for how to think, work, and live in a changing world.]{s}
+  - [Cn: 我们数千个视频库将复杂的见解提炼成清晰且可作的智慧，帮助人们在不断变化的世界中思考、工作和生活。]{g}
 
   ---
-  - [En: Meet legendary teachers like philosopher Daniel Dennett, physicist Brian Cox, classicist Mary Beard, psychiatrist Bessel van der Kolk, political scientist Ian Bremmer, anthropologist Helen Fisher, and hundreds more — all sharing the ideas that define our time and the questions that will shape our future.]{p}
-  - [Cn: 认识哲学家丹尼尔·丹尼特、物理学家布莱恩·考克斯、古典学家玛丽·比尔德、精神病学家贝塞尔·范德科尔克、政治学家伊恩·布雷默、人类学家海伦·费舍尔等数百位传奇教师——他们共同分享定义我们时代的思想和将塑造未来的问题。]{s}
+  - [En: Meet legendary teachers like philosopher Daniel Dennett, physicist Brian Cox, classicist Mary Beard, psychiatrist Bessel van der Kolk, political scientist Ian Bremmer, anthropologist Helen Fisher, and hundreds more — all sharing the ideas that define our time and the questions that will shape our future.]{s}
+  - [Cn: 认识哲学家丹尼尔·丹尼特、物理学家布莱恩·考克斯、古典学家玛丽·比尔德、精神病学家贝塞尔·范德科尔克、政治学家伊恩·布雷默、人类学家海伦·费舍尔等数百位传奇教师——他们共同分享定义我们时代的思想和将塑造未来的问题。]{g}
 
   ---
   - [The terrifying ways that social media is altering teenage brains | Clare Morell: Full Interview社交媒体如何以令人恐惧的方式改变青少年的大脑 |克莱尔·莫雷尔：完整采访](https://www.youtube.com/watch?v=tk_Q4DyWY48)
 
 ---
 * **[Nikhil Kamath | 220万 | Youtube](http://youtube.com/@nikhil.kamath/videos)**
-  - [En: "WTF is" is a podcast series where entrepreneur and Investor Nikhil Kamath hosts friends and industry experts and holds casual yet intellectually stimulating conversations.]{p}
-  - [Cn: "WTF is"是一个播客系列，企业家兼投资人Nikhil Kamath邀请朋友和行业专家，进行轻松但富有启发性的对话。]{s}
+  - [En: "WTF is" is a podcast series where entrepreneur and Investor Nikhil Kamath hosts friends and industry experts and holds casual yet intellectually stimulating conversations.]{s}
+  - [Cn: "WTF is"是一个播客系列，企业家兼投资人Nikhil Kamath邀请朋友和行业专家，进行轻松但富有启发性的对话。]{g}
 
   ---
-  - [En: The podcast covers a broad range of topics of particular current relevance, including technology, social media, renewable energy, electric vehicles, philosophy, gaming, psychology and more.]{p}
-  - [Cn: 该播客涵盖了许多特别相关的话题，包括科技、社交媒体、可再生能源、电动汽车、哲学、游戏、心理学等。]{s}
+  - [En: The podcast covers a broad range of topics of particular current relevance, including technology, social media, renewable energy, electric vehicles, philosophy, gaming, psychology and more.]{s}
+  - [Cn: 该播客涵盖了许多特别相关的话题，包括科技、社交媒体、可再生能源、电动汽车、哲学、游戏、心理学等。]{g}
 
   ---
   - [WTF Is Wealth? 财富到底是什么鬼？Ray Dalio Breaks It Down w/ Nikhil Kamath | WTF is Finance Ep 2雷·达里奥与尼基尔·卡马斯一起分析 |《金融》第二集到底是怎么回事](https://www.youtube.com/watch?v=0YKTsHr5bDE)
@@ -1634,6 +1667,7 @@
 
 ---
 ### 0010. 英语学习日记 | Search Youtuber
+**[LEIA英语]{p}**
 * **[LEIA英语 | 北师大硕士，多年教育经验 | 每日分享日常英语对话 | 五百章 | Douyin](https://v.douyin.com/J-8oISXP2eI/)**
   - [博主分享了做美甲的经历和即将参加的野餐活动的期待. | **Youtuber: Birta Hlin**](https://v.douyin.com/IIpbomrgTVo/)
   - [博主分享了自己生活中即将迎来宝宝的喜讯，以及随之而来的生活调整和未来规划。| **Youtuber: TheCottageFairy**](https://v.douyin.com/5rHbyt-RZLI/)
@@ -1643,10 +1677,12 @@
   - [博主讲解英语短语'better late than never'的发音技巧及美式英语中T变D的现象。**Youtuber: Speak English With Vanessa**](https://v.douyin.com/aUAvpM0V87Q/)
 
 ---
+**[Lucky英语宝藏屋]{p}**
 * **[Lucky英语宝藏屋 | 国际化学校 | 学英语是一生课题 | 英语只是工具，更重要是带你看世界 | 学习是转运的开始，欢迎跟我一起变幸运 | 三百章 | Douyin]( https://v.douyin.com/AC4snIs2G90/)**
   - [坚持每天跟着外国博主学英语，口语听力突飞猛进 英语是钥匙，但世界才是你要开的门， 学习是转运的开始！欢迎和我一起变幸运！| **Youtuber: Elena Taber**](https://v.douyin.com/g4wpYhTXXOI/)
 
 ---
+**[NaNa的英语宝藏]{p}**
 * **[NaNa的英语宝藏 | 你的英语定制食谱 📚知识如旷野 | 二百章 | Douyin](https://v.douyin.com/mbGUxTMzXDQ/)**
   - [今天分享给大家这套超实用的方法](https://v.douyin.com/zeyEt3eI1Ns/)
   - **今天分享给大家这套超实用的方法:**
@@ -1670,18 +1706,21 @@
   - [30岁油管千万富婆给20多岁年轻人的建议 | **Youtuber: Vanessa Lau**](https://v.douyin.com/77dXgDkenvs/)
 
 ---
+**[VENQUEN的英语日记]{p}**
 * **[VENQUEN的英语日记 | 二百章 | Douyin](https://v.douyin.com/lGerZrVjzQs/)**
   - [学习是方向，世界是目的地！Follow along！ 飞向未知，直面恐惧 旧金山的酸面包，藏着冒险的滋味 独处的时光，发现真实的自己 大桥下的夕阳，点燃成长的勇气 | **Youtuber: Isabel Paige**](https://v.douyin.com/ACS0U3zIC54/)
   - [雪花轻吻山巅，咖啡暖手 炉火旁，冬日的仙境悄然绽放 踏雪觅果，阳光洒落心间 这十一月的清晨，藏着治愈的温柔 | **Youtuber: Isabel Paige**](https://v.douyin.com/PokajBVenxU/)
   - [Burnedout in early20s 🌄学习是方向，世界是目的地！Follow along！ 雨丝低吟 炉火唤春暖 童梦琴弦断于规整牢 跌倒，起身，圆满 | **Youtuber: Poetry Of Slow Life**](https://v.douyin.com/gIaihnAQ4kw/)
 
 ---
+**[2255（日更版）]{p}**
 * **[2255（日更版）| YouTube Vlog推荐 | 二百章 | Douyin](https://v.douyin.com/F2-yC0zVmzE/)**
   - [**Birta Hlin** | what l eat in a week | simple & balanced recipes](https://v.douyin.com/XtI76K5zjRg/)
   - [**Birta Hlin** | days in sydney | dog sitting, moving apartments & new friends](https://v.douyin.com/P_gq_wnliic/)
   - [**clarisseintheclouds**｜5AM 日常英语 每天学习英语一点点](https://v.douyin.com/5vk_n5jG_V8/)
 
 ---
+**[NeverStop英语栈]{p}**
 * **[NeverStop英语栈 | 外刊跟读系列周更 | 英语博主vlog系列一周多更 | 百章 | Douyin](https://v.douyin.com/neCHbXtGwUo/)**
   - [《Don't Look Back In Anger》 丨my love mine all mine by mitskidont look back in anger - oasis (cover)丨 **Youtuber: Jasmine Nadya** | 吉他弹唱 | 英语 | oasis | 音乐](https://v.douyin.com/L7RKhq7wCDI/)
   - [机场英语课 丨**Youtuber: Ariannita la Gringa**](https://v.douyin.com/WIbb5JAgsCc/)
@@ -1691,46 +1730,52 @@
   - [无聊吗？这里有更充实的生活指南！| **Youtuber: Olga loiek**](https://v.douyin.com/Gxp9F5-weRg/)
 
 ---
+**[大脚柚子英语学习日记]{p}**
 * **[大脚柚子英语学习日记 | 百章 | Douyin](https://v.douyin.com/QMSHneHcLIo/)**
   - [**Youtuber: Sydney Serena** | 每日英语](https://v.douyin.com/7G6vvrFaWPI/)
 
 ---
+**[小维每日英语]{p}**
 * **[小维每日英语 | 百章 | Douyin](https://v.douyin.com/P2ZIoD1t_CA/)**
 
 ---
+**[英语学习播客]{p}**
 * **[英语学习播客 | 百章 | Douyin](https://v.douyin.com/suAtihn1uE0/)**
   - [**Youtuber: Taylor Hill** - How Many Taylors Does It Take - part14](https://v.douyin.com/ikbggWsPcos/)
 
 ---
+**[哆啦N梦爱英语]{p}**
 * **[哆啦N梦爱英语 | 百章 | Douyin](https://v.douyin.com/imI-y_Hedjg/)**
   - [分享一个我认为迄今为止在油管看到的最漂亮博主没有之一 | **Youtuber: Nil Sani**: 个人生活、时尚、美妆和生活方式](https://v.douyin.com/t4auaF8-RF4/)
   - [我们感觉一段关系，让我们不再快乐的时候，就是一段关系结束的时候 | **Youtuber: Lana Blakely**: 生活方式、人生体验、哲学思考、自我成长和社交话题讨论](https://v.douyin.com/yKQ1V1AlV2E/)
 
 ---
+**[Poetry Of Slow Life]{p}**
 * **[Poetry Of Slow Life | 21.1万 | Youtube](https://www.youtube.com/@IamDaria/videos)**
-  - [En: Hi, I'm Daria.]{p}
-  - [嗨，我是达莉娅。]{s}
+  - [En: Hi, I'm Daria.]{s}
+  - [嗨，我是达莉娅。]{g}
 
   ---
-  - [En: A daydreamer (also a filmmaker and photographer) living a quiet life in the English countryside.]{p}
-  - [一个爱做白日梦的人（同时也是电影制片人和摄影师），在英格兰乡村过着平静的生活。]{s}
+  - [En: A daydreamer (also a filmmaker and photographer) living a quiet life in the English countryside.]{s}
+  - [一个爱做白日梦的人（同时也是电影制片人和摄影师），在英格兰乡村过着平静的生活。]{g}
 
   ---
-  - [En: Welcome to my seasonal slow living country diaries!]{p}
-  - [欢迎来到我的季节性慢生活乡村日记！]{s}
+  - [En: Welcome to my seasonal slow living country diaries!]{s}
+  - [欢迎来到我的季节性慢生活乡村日记！]{g}
 
   ---
   - **[Alone In An Off-Grid Cabin - A Complete Social Media Detox | Rainy slow days in English countryside | 独自一人在离网小屋——彻底社交媒体戒断 |英格兰乡村 的雨天缓慢](https://www.youtube.com/watch?v=jLj6zk-Vs5E)**
   - **[Autumn in the mountains | Slow Travel In Scottish Highlands & Edinburgh | Cozy October Cabin Living | 山中的秋天 |慢速旅行 在苏格兰高地和爱丁堡 |温馨的十月小屋生活](https://www.youtube.com/watch?v=6rMFhIgBAn4)**
 
 ---
+**[Speak English With Vanessa]{p}**
 * **[Speak English With Vanessa | 初级 | 初中级衔接 | 有吐字非常清晰、语速较慢的超长对话内容，有挺多雅思口语相关话题。| 717万 | Youtube | Youtube](https://www.youtube.com/@SpeakEnglishWithVanessa/videos)**
-  - [En: Speak English naturally, confidently, and fluently with Vanessa.]{p}
-  - [Cn: 与Vanessa自然、自信且流利地交流英语。]{s}
+  - [En: Speak English naturally, confidently, and fluently with Vanessa.]{s}
+  - [Cn: 与Vanessa自然、自信且流利地交流英语。]{g}
 
   ---
-  - [En: Subscribe for free YouTube lessons every Friday.]{p}
-  - [Cn: 订阅每周五免费YouTube课程。]{s}
+  - [En: Subscribe for free YouTube lessons every Friday.]{s}
+  - [Cn: 订阅每周五免费YouTube课程。]{g}
 
   ---
   - Speak English by joining a fluency course: http://www.speakenglishwithvanessa.com
@@ -1740,9 +1785,10 @@
   * **[Daily Life Vocabulary You Need to Know | 你需要掌握 的日常生活词汇](https://www.youtube.com/watch?v=jwJqvuoY26o)**
 
 ---
+**[Vanessa Lau]{p}**
 * **[Vanessa Lau | 99.8万 | Youtube](https://www.youtube.com/@VanessaLau/videos)**
-  - [En: I make videos that help creators feel good, have fun, do less, and earn  ̶m̶o̶r̶e̶ enough.]{p}
-  - [Cn: 我制作的视频帮助创作者感觉良好、玩得开心、少做事，并赚取足够的"m̶o̶r̶e̶"。]{s}
+  - [En: I make videos that help creators feel good, have fun, do less, and earn  ̶m̶o̶r̶e̶ enough.]{s}
+  - [Cn: 我制作的视频帮助创作者感觉良好、玩得开心、少做事，并赚取足够的"m̶o̶r̶e̶"。]{g}
 
   ---
   - For business inquiries only: partnerships@vanessalau.co
@@ -1760,67 +1806,69 @@
   * **[The EASIEST Video Editing Guide for Beginners in 2026 (STEP-BY-STEP MASTERCLASS) | 2026年初学者最简单的视频剪辑指南（逐步大师班）](https://www.youtube.com/watch?v=GRO5GRx1y0A)**
 
 ---
+**[Michelle Choi]{p}**
 * **[Michelle Choi | 233万 | Youtube](https://www.youtube.com/@michellechoii/videos)**
-  - [En: Hi!]{p}
-  - [Cn: 你好。]{s}
+  - [En: Hi!]{s}
+  - [Cn: 你好。]{g}
 
   ---
-  - [En: My name is Michelle.]{p}
-  - [Cn: 我叫米歇尔。]{s}
+  - [En: My name is Michelle.]{s}
+  - [Cn: 我叫米歇尔。]{g}
 
   ---
-  - [En: I share my experiences on how I'm navigating my 20s through conversations about mental health, wellness, beauty, and life in New York.]{p}
-  - [Cn: 我通过关于心理健康、养生、美容和纽约生活的对话，分享我如何走过二十多岁的经历。]{s}
+  - [En: I share my experiences on how I'm navigating my 20s through conversations about mental health, wellness, beauty, and life in New York.]{s}
+  - [Cn: 我通过关于心理健康、养生、美容和纽约生活的对话，分享我如何走过二十多岁的经历。]{g}
 
   ---
-  - [En: I also have a brand called Little Puffy.]{p}
-  - [Cn: 我还有一个叫Little Puffy的品牌。]{s}
+  - [En: I also have a brand called Little Puffy.]{s}
+  - [Cn: 我还有一个叫Little Puffy的品牌。]{g}
 
   ---
-  - [En: You can check it out here: www.littlepuffy.com]{p}
-  - [En: Email: michellechoi@select.co]{p}
-  - [Cn: 你可以在这里查看：www.littlepuffy.co。]{s}
-  - [Cn: 电子邮件：michellechoi@select.c。]{s}
+  - [En: You can check it out here: www.littlepuffy.com]{s}
+  - [En: Email: michellechoi@select.co]{s}
+  - [Cn: 你可以在这里查看：www.littlepuffy.co。]{g}
+  - [Cn: 电子邮件：michellechoi@select.c。]{g}
 
   ---
   - **[Living Alone Diaries | What I Eat in a Day (simple and easy meals) | 独居日记 | 我一天吃什么（简单易吃的餐）](https://www.youtube.com/watch?v=ZACSFysf1nE)**
 
 ---
+**[English At The Ready]{p}**
 * **[English At The Ready | 67.7万 | Youtube](https://www.youtube.com/@englishattheready/videos)**
-  - [En: Apply to study English with us 👇 I’m Michael Anton — born in Canada, Cambrige CELTA-certified, and founder of English At The Ready.]{p}
-  - [Cn: 申请加入我们👇学习英语 ，我是Michael Anton——出生于加拿大，拥有Cambrige CELTA认证，也是English At The Ready的创始人。]{s}
+  - [En: Apply to study English with us 👇 I’m Michael Anton — born in Canada, Cambrige CELTA-certified, and founder of English At The Ready.]{s}
+  - [Cn: 申请加入我们👇学习英语 ，我是Michael Anton——出生于加拿大，拥有Cambrige CELTA认证，也是English At The Ready的创始人。]{g}
 
   ---
-  - [En: We’ve helped 4,000,000+ English learners worldwide.]{p}
-  - [Cn: 我们已帮助全球400万+名英语学习者。]{s}
+  - [En: We’ve helped 4,000,000+ English learners worldwide.]{s}
+  - [Cn: 我们已帮助全球400万+名英语学习者。]{g}
 
   ---
-  - [En: Over 1,000 trained inside our programs.]{p}
-  - [Cn: 超过1000人在我们的项目中接受培训。]{s}
+  - [En: Over 1,000 trained inside our programs.]{s}
+  - [Cn: 超过1000人在我们的项目中接受培训。]{g}
 
   ---
-  - [En: If you understand English but can’t speak it fluently — this channel is for you.]{p}
-  - [Cn: 如果你懂英语但说不流利——这个频道就是为你准备的。]{s}
+  - [En: If you understand English but can’t speak it fluently — this channel is for you.]{s}
+  - [Cn: 如果你懂英语但说不流利——这个频道就是为你准备的。]{g}
 
   ---
-  - [En: No boring textbooks.]{p}
-  - [Cn: 没有无聊的教科书。]{s}
+  - [En: No boring textbooks.]{s}
+  - [Cn: 没有无聊的教科书。]{g}
 
   ---
-  - [En: No useless theory.]{p}
-  - [Cn: 没有无用的理论。]{s}
+  - [En: No useless theory.]{s}
+  - [Cn: 没有无用的理论。]{g}
 
   ---
-  - [En: Just real results, fast.]{p}
-  - [Cn: 只有真正的效果，而且很快。]{s}
+  - [En: Just real results, fast.]{s}
+  - [Cn: 只有真正的效果，而且很快。]{g}
 
   ---
-  - [En: Welcome to the channel.]{p}
-  - [Cn: 欢迎收看频道。]{s}
+  - [En: Welcome to the channel.]{s}
+  - [Cn: 欢迎收看频道。]{g}
 
   ---
-  - [En: Let’s make you fluent.]{p}
-  - [Cn: 让我们让你流利。]{s}
+  - [En: Let’s make you fluent.]{s}
+  - [Cn: 让我们让你流利。]{g}
 
   - **[How to REALLY become fluent in English in 2026 | 如何在2026 年真正流利地掌握英语](https://www.youtube.com/watch?v=zxWEPWWmVio)**
 
@@ -1830,6 +1878,7 @@
   - **[This isn't a rut, it's a spiritual attack. | 这不是发情期，而是精神上的攻击。](https://www.youtube.com/watch?v=7XKd8T0UzBU)**
 
 ---
+**[Olga Loiek]{p}**
 * **[Olga Loiek | 宾夕法尼亚大学认知科学与计算专业学生 | Youtube](https://www.youtube.com/@olgaloiek/videos)**
   - 🇺🇦 Cognitive Science & Computation student at UPenn 📧Business email: loiekolga@gmail.com 💖 Join our community in supporting the channel:  https://www.paypal.com/paypalme/olgaloiek
   - 🇺🇦 宾夕法尼亚大学认知科学与计算专业学生 商业邮箱：loiekolga@gmail.com 加入我们的社区，支持频道：https://www.paypal.com/paypalme/olgaloiek📧 💖
@@ -1838,6 +1887,7 @@
   - **[why you lost your love for learning & how to get it back | 你为什么失去对学习的热爱以及如何找回它](https://www.youtube.com/watch?v=0rk9O8NUrCg)**
 
 ---
+**[Jasmine Nadya]{p}**
 * **[Jasmine Nadya  | 14.3万 | Youtube ](https://www.youtube.com/@JasmineNadya/videos)**
   - The Official YouTube Channel of Jasmine Nadya.
   - Jasmine Nadya的官方YouTube频道。
@@ -1875,6 +1925,7 @@
   - **[dont look back in anger - oasis (cover) | 别回头看怒——Oasis（封面）](https://www.youtube.com/watch?v=QmjrLljcYSw)**
 
 ---
+**[Elena Taber]{p}**
 * **[Elena Taber | 86.5万 | Travel | 旅行者 | Youtube](https://www.youtube.com/@ElenaTaber/videos)**
   - travel, outdoor adventures, city living, fashion, wellness, and my other 20 something misadventures in nyc, paris, and beyond 💌
   - 旅行、户外探险、城市生活、时尚、健康，以及我在纽约、巴黎和其他地方💌的其他二十多岁冒险
@@ -1883,6 +1934,7 @@
   - **[I travelled across the world to find WILD gorillas | this is Uganda 🇺🇬 | 我走遍了世界各地，去寻找野生大猩猩 | 这里是乌干达 🇺🇬](https://www.youtube.com/watch?v=7YjhswLfsAQ)**
 
 ---
+**[clarisseintheclouds]{p}**
 * **[clarisseintheclouds | 生活方式 | 自我关怀 内容创作者  | 28.5万 | Youtube](https://www.youtube.com/@clarisseintheclouds/videos)**
   - Lifestyle & Self-Care YouTuber — 日常生活与个人成长内容创作者
   - Vlogger — 以 vlog 形式记录日常与旅行体验
@@ -1892,6 +1944,7 @@
   - **[reading holiday books to get me out of a reading slump | vlogmas day 9 | 阅读节日书籍帮我摆脱阅读低谷 | Vlogmas第9 天](https://www.youtube.com/watch?v=M9GXs0Q_05k)**
 
 ---
+**[Lana Blakely]{p}**
 * **[Lana Blakely | 生活方式、人生体验、哲学思考、自我成长和社交话题讨论 | 166万 | Youtube](https://www.youtube.com/@LanaBlakely/videos)**
   - books, solo trips, vintage finds and thinking aloud | Email hello@lanablakely.com
   - 书籍、独自旅行、复古发现和随意思考 邮件 hello@lanablakely.com
@@ -1900,6 +1953,7 @@
   - **[it's NOT about romanticizing your life... it’s much simpler than that | 这不是美化你的生活...... 事情远比这 简单](https://www.youtube.com/watch?v=K_d6B58lCHM)**
 
 ---
+**[Ellison Scar]{p}**
 * **[Ellison Scar | 自由职业、品牌内容创作和社媒营销 | 1.82万 | Youtube](https://www.youtube.com/@ElliScar/videos)**
   - Live Better, For Longer
   - 活得更好，活得更久
@@ -1911,6 +1965,7 @@
   - **[10 Longevity Habits That Actually Work (Backed by Science) - 10个真正有效的长寿习惯（有科学依据）](https://www.youtube.com/watch?v=MIU8dvLZqIM)**
 
 ---
+**[Sydney Serena]{p}**
 * **[Sydney Serena | 20岁博主 | 博主 & 生活方式 / 美妆 时尚内容创作者 | 385万| Youtube](https://www.youtube.com/@SydneySerena)**
   - just a 20-something figuring it out (and filming it).
   - 只是一个二十多岁的人摸索（并拍摄）。
@@ -1932,12 +1987,14 @@
   - **[i haven't felt like myself lately...|  0：02 / 13：31 最近我感觉不像自己......](https://www.youtube.com/watch?v=TCa-Apn6y6g)**
 
 ---
+**[TheCottageFairy]{p}**
 * **[TheCottageFairy | 乡村 | 书籍分享 | 106万 | Youtube](https://www.youtube.com/@TheCottageFairy)**
   - **[A blessing and heartfelt message for the new year | 这是一份祝福和真挚的新年信息](https://www.youtube.com/watch?v=vAwRS1wx46Q)**
   - **[I have no ambition in life - but I feel fine | 我没有人生上的野心——但我感觉很好](https://www.youtube.com/watch?v=eAdhk8GkKhU)**
   - **[I Bought a Bookstore](https://www.youtube.com/watch?v=-IO3rAurptA)**
 
 ---
+**[Birta Hlin]{p}**
 * **[Birta Hlin | 时尚穿搭 | 47.4万 | Youtube](https://www.youtube.com/@birtahlin/videos)**
   - **[weekend in oslo | food spots, thrifting & exploring the city | 奥斯陆周末 | 美食店、二手店和城市探索](https://www.youtube.com/watch?v=re7W5w81Rq8)**
   - **[first december days | 十二月初日](https://www.youtube.com/watch?v=veY2jXSxpoo)**
@@ -1950,26 +2007,28 @@
   - **[day in my life in copenhagen | new books, my workout & delicious dinner recipe | 我在哥本哈根的一天 |新书、我的锻炼和美味晚餐食谱](https://www.youtube.com/watch?v=9qR0vkgd9Rg)**
 
 ---
+**[Nil Sani]{p}**
 * **[Nil Sani | 47.1万 | 个人生活、时尚、美妆和生活方式  | Youtube](https://www.youtube.com/@NilSani/videos)**
   - **[a week in miami: r&r, pilates, pottery, brand trip with alo | 迈阿密一周：休息、普拉提、陶艺、和Alo 的品牌之旅](https://www.youtube.com/watch?v=2M0WJkM-Rkk)**
 
 ---
+**[Phoebe Taylor]{p}**
 * **[Phoebe Taylor | 5.31万 | enjoys dressing & nesting | 喜欢穿衣和筑巢 | Youtube](https://www.youtube.com/@__phoebe.taylor/videos)**
   - **[new year's (fashion & home decor) resolutions | 新年（时尚与家居装饰）决心](https://www.youtube.com/watch?v=RR6MshB1Ads)**
 
 ---
 **[旅行]{p}**
 * **[Joel and Emilia | 8年环游世界旅行 | 53.9万 | Youtube](https://www.youtube.com/@Joel_Emilia/videos)**
-  - [En: Hi, we are Joel Friend and Emilia Beattie and we have been travelling the world together over the last 3 years!]{p}
-  - [Cn: 你好，我们是Joel Friend和Emilia Beattie，过去三年我们一起环游世界！]{s}
+  - [En: Hi, we are Joel Friend and Emilia Beattie and we have been travelling the world together over the last 3 years!]{s}
+  - [Cn: 你好，我们是Joel Friend和Emilia Beattie，过去三年我们一起环游世界！]{g}
 
   ---
-  - [En: We love crazy adventures and traveling to more remote places.]{p}
-  - [Cn: 我们喜欢疯狂的冒险和去更偏远的地方旅行。]{s}
+  - [En: We love crazy adventures and traveling to more remote places.]{s}
+  - [Cn: 我们喜欢疯狂的冒险和去更偏远的地方旅行。]{g}
 
   ---
-  - [En: Join us as we travel this beautiful world! :)]{p}
-  - [Cn: 加入我们，一起踏上这美丽的世界之旅！:)]{s}
+  - [En: Join us as we travel this beautiful world! :)]{s}
+  - [Cn: 加入我们，一起踏上这美丽的世界之旅！:)]{g}
 
   ---
   - **[The TRUTH of how we afford to TRAVEL full-time... | 我们如何负担得起全职旅行的真相......](https://www.youtube.com/watch?v=P5Ww4H6VyDA)**
@@ -1982,42 +2041,43 @@
   - **[The Middle East’s Best-Kept Secret | 中东最隐秘的秘密](https://www.youtube.com/watch?v=BzxI1pFzSxM)**
 
 ---
+**[Sanne Vloet]{p}**
 * **[Sanne Vloet | 国际模特身份起家，同时在社交媒体分享生活方式内容（生活、健身、旅行）| 187万 | Youtube](https://www.youtube.com/@SanneVloet/videos)**
   - Fashion Model & Lifestyle Influencer — 以国际模特身份起家，同时在社交媒体分享生活方式内容（生活、健身、旅行）
   - YouTuber & Wellness Content Creator — 在 YouTube 上发布关于健身、健康日常、旅途 vlog 等视频内容
   - Entrepreneur & Brand Founder — 参与创立食品/健康类品牌和在线健身平台
 
   ---
-  - [En: I’m Sanne Vloet—a wellness creator, entrepreneur, and  model.]{p}
-  - [Cn: 我是Sanne Vloet——一名健康创始人、企业家和模特。]{s}
+  - [En: I’m Sanne Vloet—a wellness creator, entrepreneur, and  model.]{s}
+  - [Cn: 我是Sanne Vloet——一名健康创始人、企业家和模特。]{g}
 
   ---
-  - [En: You might know me from the runways of Paris or the Victoria’s Secret Fashion Show, but these days, my passion is helping you live a healthier, more balanced life.]{p}
-  - [Cn: 你可能在巴黎的T台或维多利亚的秘密时装秀上认识我，但如今，我的热情是帮助你过上更健康、更平衡的生活。]{s}
+  - [En: You might know me from the runways of Paris or the Victoria’s Secret Fashion Show, but these days, my passion is helping you live a healthier, more balanced life.]{s}
+  - [Cn: 你可能在巴黎的T台或维多利亚的秘密时装秀上认识我，但如今，我的热情是帮助你过上更健康、更平衡的生活。]{g}
 
   ---
-  - [En: On this channel, I share my journey as the founder of Nekohama and Soul Sync Body, a wellness platform offering workouts, healthy recipes, and mindful routines.]{p}
-  - [Cn: 在这个频道上，我分享了作为猫滨和Soul Sync Body创始人的经历，这是一个提供锻炼、健康食谱和正念锻炼的健康平台。]{s}
+  - [En: On this channel, I share my journey as the founder of Nekohama and Soul Sync Body, a wellness platform offering workouts, healthy recipes, and mindful routines.]{s}
+  - [Cn: 在这个频道上，我分享了作为猫滨和Soul Sync Body创始人的经历，这是一个提供锻炼、健康食谱和正念锻炼的健康平台。]{g}
 
   ---
-  - [En: Expect videos that inspire and empower—from fitness routines and wellness challenges to my daily  life in LA and my personal take on self-care!]{p}
-  - [Cn: 期待那些激励和赋能的视频——从健身计划、健康挑战，到我在洛杉矶的日常生活和我个人的自我关怀看法！]{s}
+  - [En: Expect videos that inspire and empower—from fitness routines and wellness challenges to my daily  life in LA and my personal take on self-care!]{s}
+  - [Cn: 期待那些激励和赋能的视频——从健身计划、健康挑战，到我在洛杉矶的日常生活和我个人的自我关怀看法！]{g}
 
   ---
-  - [En: Whether you're looking for a fresh recipe, a quick workout, or a peek into how I balance life as a creator and entrepreneur, this is a space for community, connection, and growth.]{p}
-  - [Cn: 无论你是在寻找新鲜食谱、快速锻炼，还是想了解我如何平衡创作与创业，这里都是社区、连接与成长的空间。]{s}
+  - [En: Whether you're looking for a fresh recipe, a quick workout, or a peek into how I balance life as a creator and entrepreneur, this is a space for community, connection, and growth.]{s}
+  - [Cn: 无论你是在寻找新鲜食谱、快速锻炼，还是想了解我如何平衡创作与创业，这里都是社区、连接与成长的空间。]{g}
 
   ---
-  - [En: I am obsessed with matcha & love spending time with my dog Katsu!]{p}
-  - [Cn: 我迷恋抹茶，喜欢和我的狗Katsu共度时光！]{s}
+  - [En: I am obsessed with matcha & love spending time with my dog Katsu!]{s}
+  - [Cn: 我迷恋抹茶，喜欢和我的狗Katsu共度时光！]{g}
 
   ---
-  - [En: I post new videos every Saturday.]{p}
-  - [Cn: 我每个星期六都会发布新视频。]{s}
+  - [En: I post new videos every Saturday.]{s}
+  - [Cn: 我每个星期六都会发布新视频。]{g}
 
   ---
-  - [En: Don’t forget to hit subscribe and turn on notifications so you never miss a moment.]{p}
-  - [Cn: 别忘了点击订阅并开启通知，这样你就不会错过任何瞬间。]{s}
+  - [En: Don’t forget to hit subscribe and turn on notifications so you never miss a moment.]{s}
+  - [Cn: 别忘了点击订阅并开启通知，这样你就不会错过任何瞬间。]{g}
 
   ---
   - Email: management@sannevloet.co
@@ -2030,6 +2090,7 @@
   - **[Matcha Talks | Face Yoga Secrets for a Lifted & Sculpted Look | w/ Anastasia | 抹茶谈话 |面部瑜伽秘诀：提升与雕塑造型 | 与阿纳斯塔西娅 合作](https://www.youtube.com/watch?v=JRTih7Nr1zs)**
 
 ---
+**[Janice]{p}**
 * **[Janice | 52万 |  Youtube](https://www.youtube.com/@janicenicholee/videos)**
   - [Vlogmas 5/5 | Llegó Santa!🎅🎄 | Vlogmas 5/5 |圣诞莱戈！ 🎅🎄](https://www.youtube.com/watch?v=IkkMEUZtRYM)
   - [Vlogmas 4/5 🎄✨ | 视频视频 4/5 🎄✨](https://www.youtube.com/watch?v=M7zZaIAkxPY)
@@ -2038,58 +2099,60 @@
   - [Vlogmas 1/5 🎄✨| Christmas mood ON](https://www.youtube.com/watch?v=N4RbPWQ8kW8)
 
 ---
+**[The Squeeze]{p}**
 * **[The Squeeze  | 24.9万| Youtube](https://www.youtube.com/@thesqueeze/videos)**
-  - [En: When life gives you lemons, what do you do with them?]{p}
-  - [Cn: 当生活给你柠檬时，你会怎么处理它们？]{s}
+  - [En: When life gives you lemons, what do you do with them?]{s}
+  - [Cn: 当生活给你柠檬时，你会怎么处理它们？]{g}
 
   ---
-  - [En: Over here at The Squeeze—we talk about it—"it" being our mental health and well being.]{p}
-  - [Cn: 在The Squeeze——我们谈论它——"它"指的是我们的心理健康和幸福感。]{s}
+  - [En: Over here at The Squeeze—we talk about it—"it" being our mental health and well being.]{s}
+  - [Cn: 在The Squeeze——我们谈论它——"它"指的是我们的心理健康和幸福感。]{g}
 
   ---
-  - [En: Host Taylor Lautner's (no, not that guy, but she is married to that guy) introduction to mental health was at a young age, witnessing friends and family suffer in ways she couldn't fully understand.]{p}
-  - [Cn: 主持人泰勒·劳特纳（不是那个人，但她嫁给了那个人）在年幼时就开始接触心理健康，目睹朋友和家人以她无法完全理解的方式受苦。]{s}
+  - [En: Host Taylor Lautner's (no, not that guy, but she is married to that guy) introduction to mental health was at a young age, witnessing friends and family suffer in ways she couldn't fully understand.]{s}
+  - [Cn: 主持人泰勒·劳特纳（不是那个人，但她嫁给了那个人）在年幼时就开始接触心理健康，目睹朋友和家人以她无法完全理解的方式受苦。]{g}
 
   ---
-  - [En: She started a nursing career in the peak of the pandemic and has been struggling with her own mental health ever since.]{p}
-  - [Cn: 她在疫情高峰期开始了护理职业，从那以后一直在与自己的心理健康问题作斗争。]{s}
+  - [En: She started a nursing career in the peak of the pandemic and has been struggling with her own mental health ever since.]{s}
+  - [Cn: 她在疫情高峰期开始了护理职业，从那以后一直在与自己的心理健康问题作斗争。]{g}
 
   ---
-  - [En: Tay is joined by co-host, husband Taylor Lautner, in addition to celebrity and expert guests to further the conversation surrounding mental wellness.]{p}
-  - [Cn: 泰与联合主持人、丈夫泰勒·洛特纳，以及名人和专家嘉宾共同推进关于心理健康的讨论。]{s}
+  - [En: Tay is joined by co-host, husband Taylor Lautner, in addition to celebrity and expert guests to further the conversation surrounding mental wellness.]{s}
+  - [Cn: 泰与联合主持人、丈夫泰勒·洛特纳，以及名人和专家嘉宾共同推进关于心理健康的讨论。]{g}
 
   ---
-  - [En: At the end of the day, we're all pretty similar; even those living in the lime-est of lights can be weighed down by sour lemons.]{p}
-  - [Cn: 归根结底，我们都差不多;即使是生活在最光线强烈的环境中，也会被酸柠檬拖累。]{s}
+  - [En: At the end of the day, we're all pretty similar; even those living in the lime-est of lights can be weighed down by sour lemons.]{s}
+  - [Cn: 归根结底，我们都差不多;即使是生活在最光线强烈的环境中，也会被酸柠檬拖累。]{g}
 
   ---
-  - [En: In addition to sharing coping strategies and stories, we hope that above all, this podcast offers the comfort of knowing you are not alone.]{p}
-  - [Cn: 除了分享应对策略和故事外，我们希望最重要的是，这个播客能带来一种安慰，让你知道自己并不孤单。]{s}
+  - [En: In addition to sharing coping strategies and stories, we hope that above all, this podcast offers the comfort of knowing you are not alone.]{s}
+  - [Cn: 除了分享应对策略和故事外，我们希望最重要的是，这个播客能带来一种安慰，让你知道自己并不孤单。]{g}
 
   ---
   - **[Tay & Tay Lautner: Taylor’s Version | 泰与泰·洛特纳：泰勒版本](https://www.youtube.com/watch?v=62sEbPpX7bM)**
   - **[Chad Franke: Freed | 查德·弗兰克：获释](https://www.youtube.com/watch?v=KUOlYFjbYvk)**
 
 ---
-* **[Jay Shetty Podcast  | 538万 | Youtube](https://www.youtube.com/@JayShettyPodcast./videos)**
-  - [En: I’m Jay Shetty host of On Purpose the worlds #1 Mental Health podcast]{p}
-  - [Cn: 我是Jay Shetty，主持《On Purpose the worlds #1》心理健康播客]{s}
+**[Jay Shetty Podcast]{p}**
+* **[Jay Shetty Podcast | 538万 | Youtube](https://www.youtube.com/@JayShettyPodcast./videos)**
+  - [En: I’m Jay Shetty host of On Purpose the worlds #1 Mental Health podcast]{s}
+  - [Cn: 我是Jay Shetty，主持《On Purpose the worlds #1》心理健康播客]{g}
 
   ---
-  - [En: and I’m so grateful you found us.]{p}
-  - [Cn: 我非常感激你找到了我们。]{s}
+  - [En: and I’m so grateful you found us.]{s}
+  - [Cn: 我非常感激你找到了我们。]{g}
 
   ---
-  - [En: I started this podcast 5 years ago to invite you into conversations and workshops that are designed to help make you happier, healthier and more healed.]{p}
-  - [Cn: 我五年前开始这个播客，邀请你参与那些旨在帮助你更快乐、更健康、更治愈的对话和工作坊。]{s}
+  - [En: I started this podcast 5 years ago to invite you into conversations and workshops that are designed to help make you happier, healthier and more healed.]{s}
+  - [Cn: 我五年前开始这个播客，邀请你参与那些旨在帮助你更快乐、更健康、更治愈的对话和工作坊。]{g}
 
   ---
-  - [En: I interview experts, celebrities, thought leaders and athletes so that we can grow our mindset, build better habits and uncover a side of them we’ve never seen before.]{p}
-  - [Cn: 我采访专家、名人、思想领袖和运动员，帮助我们培养思维方式，养成更好的习惯，并发掘他们从未见过的一面。]{s}
+  - [En: I interview experts, celebrities, thought leaders and athletes so that we can grow our mindset, build better habits and uncover a side of them we’ve never seen before.]{s}
+  - [Cn: 我采访专家、名人、思想领袖和运动员，帮助我们培养思维方式，养成更好的习惯，并发掘他们从未见过的一面。]{g}
 
   ---
-  - [En: Click the Subscribe button to help us spread the love with On Purpose.]{p}
-  - [Cn: 点击订阅按钮，帮助我们通过《On Purpose》传播爱意。]{s}
+  - [En: Click the Subscribe button to help us spread the love with On Purpose.]{s}
+  - [Cn: 点击订阅按钮，帮助我们通过《On Purpose》传播爱意。]{g}
 
   ---
   - Sign Up For My Free Workshop re(NEW) You: https://www.renewyouworkshop.com/
@@ -2115,90 +2178,94 @@
 
 ---
 ### 0011. Travel on the World | 环球旅行
-* **[DJI | 大疆 | 595万| Youtube](https://www.youtube.com/@DJI/videos)**
-  - [En: DJI's official YouTube channel is home to everything DJI, showcasing the full and incredible capability of our latest aerial and handheld products including the Phantom, Mavic, Inspire, Ronin, and Osmo series.]{p}
-  - [Cn: 大疆官方YouTube频道汇聚了所有大疆相关内容，展示了我们最新空中和掌机产品的完整且令人难以置信的能力，包括Phantom、Mavic、Inspire、Ronin和Osmo系列。]{s}
+**[DJI]{p}**
+* **[DJI | 大疆 | 595万 | Youtube](https://www.youtube.com/@DJI/videos)**
+  - [En: DJI's official YouTube channel is home to everything DJI, showcasing the full and incredible capability of our latest aerial and handheld products including the Phantom, Mavic, Inspire, Ronin, and Osmo series.]{s}
+  - [Cn: 大疆官方YouTube频道汇聚了所有大疆相关内容，展示了我们最新空中和掌机产品的完整且令人难以置信的能力，包括Phantom、Mavic、Inspire、Ronin和Osmo系列。]{g}
 
   ---
-  - [En: See how both independent filmmakers and Hollywood cinematographers have adopted DJI systems in their productions, enabling them to fully realize their vision.]{p}
-  - [Cn: 看看独立电影制作人和好莱坞摄影师如何将DJI系统应用于他们的作品，使他们能够充分实现他们的愿景。]{s}
+  - [En: See how both independent filmmakers and Hollywood cinematographers have adopted DJI systems in their productions, enabling them to fully realize their vision.]{s}
+  - [Cn: 看看独立电影制作人和好莱坞摄影师如何将DJI系统应用于他们的作品，使他们能够充分实现他们的愿景。]{g}
 
   ---
-  - [En: Learn how groundbreaking DJI technology has been put to use to change the world for the better, and to document unique destinations and impactful events.]{p}
-  - [Cn: 了解大疆开创性技术如何被运用来改善世界，并记录独特的目的地和深远的事件。]{s}
+  - [En: Learn how groundbreaking DJI technology has been put to use to change the world for the better, and to document unique destinations and impactful events.]{s}
+  - [Cn: 了解大疆开创性技术如何被运用来改善世界，并记录独特的目的地和深远的事件。]{g}
 
   ---
-  - [En: Welcome to the Future of Possible.]{p}
-  - [Cn: 欢迎来到可能的未来。]{s}
+  - [En: Welcome to the Future of Possible.]{s}
+  - [Cn: 欢迎来到可能的未来。]{g}
 
   ---
-  - [En: Official Website: www.dji.com]{p}
-  - [Cn: 官方网站：www.dji.com]{s}
+  - [En: Official Website: www.dji.com]{s}
+  - [Cn: 官方网站：www.dji.com]{g}
 
   ---
   - **[SkyPixel 11th Annual Photo & Video Contest Starts Today | SkyPixel 第十一届年度摄影与视频比赛今天 开始](https://www.youtube.com/watch?v=XGsr7fsN5jIs)**
 
 ---
+**[Dustin Dunnill]{p}**
 * **[Dustin Dunnill | 31.4万 | Youtube](https://www.youtube.com/@DustinDunnill/videos)**
-  - [En: Great Stuff Here for Radio Control and Tech Enthusiasts!]{p}
-  - [Cn: 这里对遥控和科技爱好者来说非常棒！]{s}
+  - [En: Great Stuff Here for Radio Control and Tech Enthusiasts!]{s}
+  - [Cn: 这里对遥控和科技爱好者来说非常棒！]{g}
 
 ---
+**[traveler_HIRO]{p}**
 * **[traveler_HIRO | 6.98万 | Youtube](https://www.youtube.com/@traveler_HIRO/featured)**
-  - [En: Hey there, I’m Hiro, and welcome to traveler_HIRO!]{p}
-  - [Cn: 你好，我是广，欢迎来到traveler_HIRO！]{s}
+  - [En: Hey there, I’m Hiro, and welcome to traveler_HIRO!]{s}
+  - [Cn: 你好，我是广，欢迎来到traveler_HIRO！]{g}
 
   ---
-  - [En: Here, you’ll join me on 4K walking tours of cities all around the globe.]{p}
-  - [Cn: 在这里，你将和我一起参加全球城市的4K徒步游览。]{s}
+  - [En: Here, you’ll join me on 4K walking tours of cities all around the globe.]{s}
+  - [Cn: 在这里，你将和我一起参加全球城市的4K徒步游览。]{g}
 
   ---
-  - [En: I personally shoot and edit every video, most of which are filmed in HDR—so if you have a compatible big-screen TV, get ready for an even more immersive experience.]{p}
-  - [Cn: 我个人拍摄和剪辑每一个视频，大多数都是用HDR拍摄的——所以如果你有兼容的大屏电视，准备好迎接更沉浸的体验吧。]{s}
+  - [En: I personally shoot and edit every video, most of which are filmed in HDR—so if you have a compatible big-screen TV, get ready for an even more immersive experience.]{s}
+  - [Cn: 我个人拍摄和剪辑每一个视频，大多数都是用HDR拍摄的——所以如果你有兼容的大屏电视，准备好迎接更沉浸的体验吧。]{g}
 
   ---
-  - [En: Thanks so much for watching, and if you enjoy what you see, I’d love it if you subscribed and hit that like button!]{p}
-  - [Cn: 非常感谢观看，如果你喜欢所见内容，我很希望你订阅并点赞！]{s}
+  - [En: Thanks so much for watching, and if you enjoy what you see, I’d love it if you subscribed and hit that like button!]{s}
+  - [Cn: 非常感谢观看，如果你喜欢所见内容，我很希望你订阅并点赞！]{g}
 
   ---
-  - [En: If you have questions, please use the members-only community.]{p}
-  - [Cn: 如果你有问题，请使用会员专属社区。]{s}
+  - [En: If you have questions, please use the members-only community.]{s}
+  - [Cn: 如果你有问题，请使用会员专属社区。]{g}
 
   ---
   - **[火奴鲁鲁，夏威夷 - 4K 散步 | 畅享威基基海滩的日落漫步 | 美国 🇺🇸 2024年12月 | 4K HDR](https://www.youtube.com/watch?v=91RzZmn6jeI)**
 
 ---
+**[The Hawaii Vacation Guide]{p}**
 * **[The Hawaii Vacation Guide | 15.6万 | Youtube](https://www.youtube.com/@TheHawaiiVacationGuide/videoss)**
-  - [En: Welcome to our **Hawaii** adventures!]{p}
-  - [Cn: 欢迎来到我们的**夏威夷**冒险之旅！]{s}
+  - [En: Welcome to our **Hawaii** adventures!]{s}
+  - [Cn: 欢迎来到我们的**夏威夷**冒险之旅！]{g}
 
   ---
-  - [En: We're Erica and Jordan and we've lived on **Maui** and **Oahu**.]{p}
-  - [Cn: 我们是Erica和Jordan，我们曾在**茂宜岛**和**欧胡岛**生活过。]{s}
+  - [En: We're Erica and Jordan and we've lived on **Maui** and **Oahu**.]{s}
+  - [Cn: 我们是Erica和Jordan，我们曾在**茂宜岛**和**欧胡岛**生活过。]{g}
 
   ---
-  - [En: Now, with our son and daughter in tow, we continue learning as much as possible about traveling in Hawaii.]{p}
-  - [Cn: 现在，带着我们的儿子和女儿，我们继续尽可能多地学习夏威夷旅行的知识。]{s}
+  - [En: Now, with our son and daughter in tow, we continue learning as much as possible about traveling in Hawaii.]{s}
+  - [Cn: 现在，带着我们的儿子和女儿，我们继续尽可能多地学习夏威夷旅行的知识。]{g}
 
   ---
-  - [En: We share everything we learn to help you plan your best trip to Hawaii.]{p}
-  - [Cn: 我们分享所学，帮助你规划最佳的夏威夷之旅。]{s}
+  - [En: We share everything we learn to help you plan your best trip to Hawaii.]{s}
+  - [Cn: 我们分享所学，帮助你规划最佳的夏威夷之旅。]{g}
 
   ---
-  - [En: We share tips, activities, and reviews.]{p}
-  - [Cn: 我们分享技巧、活动和评测。]{s}
+  - [En: We share tips, activities, and reviews.]{s}
+  - [Cn: 我们分享技巧、活动和评测。]{g}
 
   ---
-  - [En: Sustainable travel starts with building love and respect for the islands.]{p}
-  - [Cn: 可持续旅行始于建立对岛屿的热爱与尊重。]{s}
+  - [En: Sustainable travel starts with building love and respect for the islands.]{s}
+  - [Cn: 可持续旅行始于建立对岛屿的热爱与尊重。]{g}
 
   ---
-  - [En: We hope these videos spread that message.]{p}
-  - [Cn: 我们希望这些视频能传达这个信息。]{s}
+  - [En: We hope these videos spread that message.]{s}
+  - [Cn: 我们希望这些视频能传达这个信息。]{g}
 
   ---
-  - [En: Mahalo for watching.]{p}
-  - [Cn: 谢谢你的观看。]{s}
+  - [En: Mahalo for watching.]{s}
+  - [Cn: 谢谢你的观看。]{g}
 
   ---
   - Website: https://thehawaiivacationguide.com/
@@ -2211,71 +2278,74 @@
   - **[Which Hawaiian Island Should You Visit | Start Here for Your Hawaii Vacation Planning | 你应该去哪个夏威夷岛屿 |从这里开始你的夏威夷度假规划](https://www.youtube.com/watch?v=2mIYF41vnhw)**
 
 ---
+**[Iceland with a View]{p}**
 * **[Iceland with a View | 11万 |  Youtube](https://www.youtube.com/@IcelandwithaView)**
-  - [En: Hi, I’m Jeannie — I sold everything I owned in the U.S. and moved to **Iceland**!]{p}
-  - [Cn: 你好，我是Jeannie——我卖掉了美国所有的东西，搬到了**冰岛**！]{s}
+  - [En: Hi, I’m Jeannie — I sold everything I owned in the U.S. and moved to **Iceland**!]{s}
+  - [Cn: 你好，我是Jeannie——我卖掉了美国所有的东西，搬到了**冰岛**！]{g}
 
   ---
-  - [En: Now I help travelers plan their dream trip to this incredible country with confidence and ease.]{p}
-  - [Cn: 现在，我帮助旅行者自信且轻松地规划他们对这个令人难以置信的国家的梦想之旅。]{s}
+  - [En: Now I help travelers plan their dream trip to this incredible country with confidence and ease.]{s}
+  - [Cn: 现在，我帮助旅行者自信且轻松地规划他们对这个令人难以置信的国家的梦想之旅。]{g}
 
   ---
-  - [En: On this channel, you’ll find everything you need to plan your Iceland adventure — from practical travel tips and itinerary ideas to hidden gems, weather advice, and cultural insights.]{p}
-  - [Cn: 在这个频道上，你将找到规划冰岛冒险所需的一切——从实用的旅行建议、行程点子，到隐藏的宝藏、天气建议和文化见解。]{s}
+  - [En: On this channel, you’ll find everything you need to plan your Iceland adventure — from practical travel tips and itinerary ideas to hidden gems, weather advice, and cultural insights.]{s}
+  - [Cn: 在这个频道上，你将找到规划冰岛冒险所需的一切——从实用的旅行建议、行程点子，到隐藏的宝藏、天气建议和文化见解。]{g}
 
   ---
-  - [En: Whether you’re renting a car, chasing waterfalls, or exploring Reykjavík, I’ll help you make the most of your time here.]{p}
-  - [Cn: 无论你是租车、追逐瀑布，还是探索雷克雅未克，我都会帮助你充分利用这里的时光。]{s}
+  - [En: Whether you’re renting a car, chasing waterfalls, or exploring Reykjavík, I’ll help you make the most of your time here.]{s}
+  - [Cn: 无论你是租车、追逐瀑布，还是探索雷克雅未克，我都会帮助你充分利用这里的时光。]{g}
 
   ---
-  - [En: 🎥 New videos every week with Iceland travel guides, trip-planning advice, and insider local tips.]{p}
-  - [Cn: 🎥 每周都有新视频，包含冰岛旅游指南、行程规划建议和本地内部小贴士。]{s}
+  - [En: 🎥 New videos every week with Iceland travel guides, trip-planning advice, and insider local tips.]{s}
+  - [Cn: 🎥 每周都有新视频，包含冰岛旅游指南、行程规划建议和本地内部小贴士。]{g}
 
   ---
-  - [En: 🗺️ Ready to start planning?]{p}
-  - [Cn: 🗺️ 准备好开始规划了吗？]{s}
+  - [En: 🗺️ Ready to start planning?]{s}
+  - [Cn: 🗺️ 准备好开始规划了吗？]{g}
 
   ---
-  - [En: Get my digital Iceland Map + Guidebooks → icelandwithaview.com/shop 🎒]{p}
-  - [Cn: 获取我的数字冰岛地图+指南→ icelandwithaview.com/shop 🎒]{s}
+  - [En: Get my digital Iceland Map + Guidebooks → icelandwithaview.com/shop 🎒]{s}
+  - [Cn: 获取我的数字冰岛地图+指南→ icelandwithaview.com/shop 🎒]{g}
 
   ---
-  - [En: Grab your free Iceland Packing Guide → bit.ly/icelandpackinglist Let’s plan the best trip ever!]{p}
-  - [Cn: 获取你的免费冰岛打包指南→ bit.ly/icelandpackinglist 让我们一起策划最棒的旅行！]{s}
+  - [En: Grab your free Iceland Packing Guide → bit.ly/icelandpackinglist Let’s plan the best trip ever!]{s}
+  - [Cn: 获取你的免费冰岛打包指南→ bit.ly/icelandpackinglist 让我们一起策划最棒的旅行！]{g}
 
   ---
   - **[STOP Driving Like a Tourist! 5 Must-Know Road Rules in Iceland | 别像游客一样开车！冰岛 必知的5条交通规则](https://www.youtube.com/watch?v=sF7Y6FDMLdk)**
   - **[How to Plan the Perfect Iceland Trip Without the Stress | 如何在无压力 的情况下规划完美的冰岛之旅](https://www.youtube.com/watch?v=yEbSCeNEN8A)**
   - **[Why the Ring Road is the Best Way to See Iceland | 为什么环城公路是游览冰岛 的最佳方式](https://www.youtube.com/watch?v=hgxETQBANb8s)**
   - **[Iceland Highlands: Top 5 Places to Visit | 冰岛高地：必访 五大景点](https://www.youtube.com/watch?v=y7S-aruFYis)**
+
 ---
+**[Emma Marie]{p}**
 * **[Emma Marie | 153万| Youtube](https://www.youtube.com/@EmmaMariesWorld/videos)**
-  - [En: Hi!]{p}
-  - [Cn: 你好！]{s}
+  - [En: Hi!]{s}
+  - [Cn: 你好！]{g}
 
   ---
-  - [En: Welcome to my life 💌]{p}
-  - [Cn: 欢迎来到我的生活 💌]{s}
+  - [En: Welcome to my life 💌]{s}
+  - [Cn: 欢迎来到我的生活 💌]{g}
 
   ---
-  - [En: I'm 21 years old and from Florida!]{p}
-  - [Cn: 我21岁，来自佛罗里达！]{s}
+  - [En: I'm 21 years old and from Florida!]{s}
+  - [Cn: 我21岁，来自佛罗里达！]{g}
 
   ---
-  - [En: Just doing what I love most!]{p}
-  - [Cn: 只是做我最热爱的事！]{s}
+  - [En: Just doing what I love most!]{s}
+  - [Cn: 只是做我最热爱的事！]{g}
 
   ---
-  - [En: I post every Saturday and Sunday!]{p}
-  - [Cn: 我每个周六和周日都会发帖！]{s}
+  - [En: I post every Saturday and Sunday!]{s}
+  - [Cn: 我每个周六和周日都会发帖！]{g}
 
   ---
-  - [En: Hope you love my channel!]{p}
-  - [Cn: 希望你喜欢我的频道！]{s}
+  - [En: Hope you love my channel!]{s}
+  - [Cn: 希望你喜欢我的频道！]{g}
 
   ---
-  - [En: XoXo.]{p}
-  - [Cn: XoXo。]{s}
+  - [En: XoXo.]{s}
+  - [Cn: XoXo。]{g}
 
   ---
   - BUSINESS INQUIRIES:
@@ -2291,21 +2361,22 @@
   - **[a GIRL WEEKEND in my life vlog: coffee, Anna Maria day trip, markets + sunsets | 我生命中的女孩周末视频日志：咖啡、安娜玛丽亚一日游、市场+日落](https://www.youtube.com/watch?v=p6ODDTaM990)**
 
 ---
+**[Tokyo Cheapos]{p}**
 * **[Tokyo Cheapos | 12.7万 | Youtube](https://www.youtube.com/@tokyocheapo)**
-  - [En: Our website has almost a million readers every month, making it one of the most popular English language websites about Tokyo.]{p}
-  - [Cn: 我们的网站每月有近一百万读者，是东京最受欢迎的英文网站之一。]{s}
+  - [En: Our website has almost a million readers every month, making it one of the most popular English language websites about Tokyo.]{s}
+  - [Cn: 我们的网站每月有近一百万读者，是东京最受欢迎的英文网站之一。]{g}
 
   ---
-  - [En: And now we're now on YouTube!]{p}
-  - [Cn: 现在我们已经在YouTube上了！]{s}
+  - [En: And now we're now on YouTube!]{s}
+  - [Cn: 现在我们已经在YouTube上了！]{g}
 
   ---
-  - [En: Subscribe to our channel for all our tips, hacks and regular insights on how to get more out of Tokyo on a pittance.]{p}
-  - [Cn: 订阅我们的频道，获取所有技巧、窍门和定期见解，帮助你用微薄的费用获得更多东京的乐趣。]{s}
+  - [En: Subscribe to our channel for all our tips, hacks and regular insights on how to get more out of Tokyo on a pittance.]{s}
+  - [Cn: 订阅我们的频道，获取所有技巧、窍门和定期见解，帮助你用微薄的费用获得更多东京的乐趣。]{g}
 
   ---
-  - [En: Everything from the basics - transport, accommodation, food and drink, stuff to do;And more niche topics - culture, art, sub culture; off the beaten path; plus a healthy dose of the wonderful and bizarre that one only finds in this sprawling far Eastern metropolis.]{p}
-  - [Cn: 从基本的交通、住宿、食物饮料、各种活动开始; 还有更多小众话题——文化、艺术、亚文化;偏僻的道路;以及只有在这座广阔远东大都市才能找到的奇妙与奇异元素。]{s}
+  - [En: Everything from the basics - transport, accommodation, food and drink, stuff to do;And more niche topics - culture, art, sub culture; off the beaten path; plus a healthy dose of the wonderful and bizarre that one only finds in this sprawling far Eastern metropolis.]{s}
+  - [Cn: 从基本的交通、住宿、食物饮料、各种活动开始; 还有更多小众话题——文化、艺术、亚文化;偏僻的道路;以及只有在这座广阔远东大都市才能找到的奇妙与奇异元素。]{g}
 
   ---
   - For business inquires please see our corporate website: https://fasttrainltd.com/ or if you're a talented creator see our careers page: https://fasttrainltd.com/careers/
@@ -2316,7 +2387,8 @@
 
 ---
 ### 0012. Universe | 宇宙
-* **宇宙**
+**[宇宙]{p}**
+
 | 中文        | 英语                      | 使用场景  |
 | --------- | ----------------------- | ----- |
 | 宇宙（整体）    | **universe**            | 科学、正式 |
@@ -2325,21 +2397,22 @@
 | 苍天        | **the heavens**         | 古典、宗教 |
 
 ---
+**[NASA]{p}**
 * **[NASA | 1270万 | Youtube](https://www.youtube.com/@NASA/featured)**
-  - [En: NASA's mission is to pioneer the future in space exploration, scientific discovery, and aeronautics research.]{p}
-  - [Cn: NASA的使命是开创太空探索、科学发现和航空研究的未来。]{s}
+  - [En: NASA's mission is to pioneer the future in space exploration, scientific discovery, and aeronautics research.]{s}
+  - [Cn: NASA的使命是开创太空探索、科学发现和航空研究的未来。]{g}
 
   ---
-  - [En: To do that, we have worked around the world—and off it—for more than 60 years, searching for answers to fundamental questions about our place in the universe.]{p}
-  - [Cn: 为此，我们在全球及海外工作了60多年，寻找关于我们在宇宙中地位的根本问题的答案。]{s}
+  - [En: To do that, we have worked around the world—and off it—for more than 60 years, searching for answers to fundamental questions about our place in the universe.]{s}
+  - [Cn: 为此，我们在全球及海外工作了60多年，寻找关于我们在宇宙中地位的根本问题的答案。]{g}
 
   ---
-  - [En: We're exploring space and discovering Earth.]{p}
-  - [Cn: 我们在探索太空，发现地球。]{s}
+  - [En: We're exploring space and discovering Earth.]{s}
+  - [Cn: 我们在探索太空，发现地球。]{g}
 
   ---
-  - [En: Join us on this exciting and important journey.]{p}
-  - [Cn: 加入我们，踏上这段激动人心且重要的旅程。]{s}
+  - [En: Join us on this exciting and important journey.]{s}
+  - [Cn: 加入我们，踏上这段激动人心且重要的旅程。]{g}
 
   ---
   - **[Step Inside the International Space Station (POV Tour) | 走进国际空间站（视角导览）](https://www.youtube.com/watch?v=nmBbcNTUkOg)**
@@ -2348,55 +2421,58 @@
 
 ---
 ### 0013. Books | Youtube
+**[bestbookbits]{p}**
 * **[bestbookbits  | 8.61万 | Youtube](https://www.youtube.com/@BestBookBits/videos)**
-  - [En: WORLD'S LARGEST FREE BOOK SUMMARY WEBSITE bestbookbits.com with over 1,000 free video, written and audio book summaries.]{p}
-  - [Cn: 全球最大的免费书籍摘要网站 bestbookbits.com 拥有超过1000个免费视频、书面和有声书摘要。]{s}
+  - [En: WORLD'S LARGEST FREE BOOK SUMMARY WEBSITE bestbookbits.com with over 1,000 free video, written and audio book summaries.]{s}
+  - [Cn: 全球最大的免费书籍摘要网站 bestbookbits.com 拥有超过1000个免费视频、书面和有声书摘要。]{g}
 
   ---
-  - [En: You can also browse and listen to our library of book summaries on Spotify, Google Podcast and Apple Podcast.]{p}
-  - [Cn: 你还可以浏览并收听我们在Spotify、Google Podcast和Apple Podcast上的书籍摘要库。]{s}
+  - [En: You can also browse and listen to our library of book summaries on Spotify, Google Podcast and Apple Podcast.]{s}
+  - [Cn: 你还可以浏览并收听我们在Spotify、Google Podcast和Apple Podcast上的书籍摘要库。]{g}
 
   ---
-  - [En: Follow Bestbookbits on Instagram, Facebook and LinkedIn.]{p}
-  - [Cn: 关注Bestbookbits的Instagram、Facebook和LinkedIn。]{s}
+  - [En: Follow Bestbookbits on Instagram, Facebook and LinkedIn.]{s}
+  - [Cn: 关注Bestbookbits的Instagram、Facebook和LinkedIn。]{g}
 
   ---
   - **[Secrets of the Wealthy Seminar | Robert Kiyosaki | 富裕研讨会的秘密 |罗伯特·清崎](https://www.youtube.com/watch?v=s0IV9EGtpx8)**
 
 ---
+**[Motivation Alchemists]{p}**
 * **[Motivation Alchemists | 2.28万 | Youtube](https://www.youtube.com/@Motivation-Alchemists/videos)**
-  - [En: Welcome to Motivation Alchemists, where we are dedicated to your personal development and success!]{p}
-  - [Cn: 欢迎来到Motivation Alchemists，我们致力于您的个人发展与成功！]{s}
+  - [En: Welcome to Motivation Alchemists, where we are dedicated to your personal development and success!]{s}
+  - [Cn: 欢迎来到Motivation Alchemists，我们致力于您的个人发展与成功！]{g}
 
   ---
-  - [En: You've just stumbled upon a rich source of life-changing content.]{p}
-  - [Cn: 你刚刚发现了一个丰富且改变人生的内容来源。]{s}
+  - [En: You've just stumbled upon a rich source of life-changing content.]{s}
+  - [Cn: 你刚刚发现了一个丰富且改变人生的内容来源。]{g}
 
   ---
-  - [En: We are your go-to destination for motivational and inspirational videos featuring the profound teachings of Jim Rohn, Brian Tracy, and Earl Nightingale.]{p}
-  - [Cn: 我们是获取吉姆·罗恩、布莱恩·特雷西和厄尔·南丁格尔深刻教导的励志和励志视频的首选。]{s}
+  - [En: We are your go-to destination for motivational and inspirational videos featuring the profound teachings of Jim Rohn, Brian Tracy, and Earl Nightingale.]{s}
+  - [Cn: 我们是获取吉姆·罗恩、布莱恩·特雷西和厄尔·南丁格尔深刻教导的励志和励志视频的首选。]{g}
 
   ---
-  - [En: Our goal is to inspire you, motivate you, and empower you to become the best version of yourself.]{p}
-  - [Cn: 我们的目标是激励你、激励你，并赋能你成为最好的自己。]{s}
+  - [En: Our goal is to inspire you, motivate you, and empower you to become the best version of yourself.]{s}
+  - [Cn: 我们的目标是激励你、激励你，并赋能你成为最好的自己。]{g}
 
   ---
-  - [En: Whether you're striving for personal growth, career success, effective time management, or mastery in goal-setting, Motivation Alchemists is your key tool.]{p}
-  - [Cn: 无论你是在追求个人成长、职业成功、有效的时间管理，还是精通目标设定，Motivation Alchemists 都是你的关键工具。]{s}
+  - [En: Whether you're striving for personal growth, career success, effective time management, or mastery in goal-setting, Motivation Alchemists is your key tool.]{s}
+  - [Cn: 无论你是在追求个人成长、职业成功、有效的时间管理，还是精通目标设定，Motivation Alchemists 都是你的关键工具。]{g}
 
   ---
-  - [En: Join us on this transformative journey as we share the wisdom that has personally touched our hearts and changed our lives.]{p}
-  - [Cn: 加入我们，踏上这段变革之旅，分享那些触动我们心灵、改变我们生活的智慧。]{s}
+  - [En: Join us on this transformative journey as we share the wisdom that has personally touched our hearts and changed our lives.]{s}
+  - [Cn: 加入我们，踏上这段变革之旅，分享那些触动我们心灵、改变我们生活的智慧。]{g}
 
   ---
-  - [En: arsus9]{p}
-  - [Cn: 阿尔苏斯9]{s}
+  - [En: arsus9]{s}
+  - [Cn: 阿尔苏斯9]{g}
 
   ---
   - **[Jim Rohn Life Lesson: The 7 Fundamentals Of Success | Jim Rohn Motivational Video 2024 | 吉姆·罗恩人生课题：成功的七大基本原理 |吉姆·罗恩2024年励志视频](https://www.youtube.com/watch?v=YXN72-14dJQ)**
 
 ---
 ### 0014. House
+**[Forlorn]{p}**
 * **[Forlorn | 影子是我唯一敢麻烦的同行者 | 二百章 | Douyin](https://v.douyin.com/3rpSVn56nQY/)**
   - [当美剧里的幸福小镇照进现实 | inmyfeelings](https://v.douyin.com/dtZdvS65Bro/)
   - [当美剧里的幸福小镇照进现实 | 美国 | 纽约 | inmyfeelings](https://v.douyin.com/wXLRO76doKo/)
@@ -2405,16 +2481,19 @@
 
 ---
 ### 0015. AI | 虚拟主播
+**[Neuro-sama]{p}**
 * **[Neuro-sama | neuro-sama (neurosama) the ai vtuber | Neuro-sama（Neurosama），AI 虚拟主播 | 88.9万 | Youtube](https://www.youtube.com/@Neurosama/videos)**
   - [Testing Neuro's 3D Capabilities | 测试Neuro的3D功能](https://www.youtube.com/watch?v=MiF3JiVCwkk)
 
 ---
 ### 0016. Coding
+**[Visually Explained]{p}**
 * **[Visually Explained | 直观地解释 | 9.54万 | Youtube](https://www.youtube.com/@VisuallyExplainedEducation/videos)**
   - [Python Decorators - Visually Explained](https://www.youtube.com/watch?v=3tyaO-OE0K0)
 
 ---
 ### 0017. 学爸加加油
+**[学爸加加油]{p}**
 * **[学爸加加油](https://xuebajiajiayou.com)**
   - [**英文科普，油管Youtube频道推荐(科普/教育/工程/奇趣/自然/手工等)**](https://xuebajiajiayou.com/english-science-popularization-youtube-channel/)
     **泛科普类**
@@ -2479,203 +2558,221 @@
 ---
 **[泛科普类]{p}**
 * **[Kurzgesagt – In a Nutshell | 2510万 | Youtube](https://www.youtube.com/@kurzgesagt/videos)**
-  - [En: Animation videos explaining things with optimistic nihilism since 12,013.]{p}
-  - [Cn: 自12,013年以来，动画视频以乐观虚无主义的方式解释事物。]{s}
+  - [En: Animation videos explaining things with optimistic nihilism since 12,013.]{s}
+  - [Cn: 自12,013年以来，动画视频以乐观虚无主义的方式解释事物。]{g}
 
   ---
-  - [En: We’re a team of illustrators, animators, number crunchers and one dog who aim to spark curiosity about science and the world we live in.]{p}
-  - [Cn: 我们是一支由插画师、动画师、数字计算者和一只狗组成的团队，旨在激发人们对科学和我们所处世界的好奇心。]{s}
+  - [En: We’re a team of illustrators, animators, number crunchers and one dog who aim to spark curiosity about science and the world we live in.]{s}
+  - [Cn: 我们是一支由插画师、动画师、数字计算者和一只狗组成的团队，旨在激发人们对科学和我们所处世界的好奇心。]{g}
 
   ---
-  - [En: To us nothing is boring if you tell a good story.]{p}
-  - [Cn: 对我们来说，只要讲好故事，什么都不会无聊。]{s}
+  - [En: To us nothing is boring if you tell a good story.]{s}
+  - [Cn: 对我们来说，只要讲好故事，什么都不会无聊。]{g}
 
   ---
-  - [En: For updates on our videos and other news from the kurzgesagt universe follow us on Twitter, Facebook, Instagram and LinkedIn.]{p}
-  - [Cn: 想了解我们的视频更新以及kurzgesagt宇宙的其他新闻，请关注我们的Twitter、Facebook、Instagram和LinkedIn]{s}
+  - [En: For updates on our videos and other news from the kurzgesagt universe follow us on Twitter, Facebook, Instagram and LinkedIn.]{s}
+  - [Cn: 想了解我们的视频更新以及kurzgesagt宇宙的其他新闻，请关注我们的Twitter、Facebook、Instagram和LinkedIn]{g}
 
+---
+**[Science Channel]{p}**
 * **[Science Channel | 530万 | Youtube](https://www.youtube.com/@sciencechannel/videos)**
-  - [En: Learn about outer space, leading scientific exploration, new technology, earth science basics, & more with science videos & news from Science Channel.]{p}
-  - [Cn: 通过科学视频和新闻，了解外太空、领先的科学探索、新技术、地球科学基础等内容。]{s}
+  - [En: Learn about outer space, leading scientific exploration, new technology, earth science basics, & more with science videos & news from Science Channel.]{s}
+  - [Cn: 通过科学视频和新闻，了解外太空、领先的科学探索、新技术、地球科学基础等内容。]{g}
 
+---
+**[minutephysics]{p}**
 * **[minutephysics | 595万 | Youtube](https://www.youtube.com/@MinutePhysics/videos)**
-  - [En: Simply put: cool physics and other sweet science.]{p}
-  - [Cn: 简单来说：很酷的物理学和其他精彩的科学。]{s}
+  - [En: Simply put: cool physics and other sweet science.]{s}
+  - [Cn: 简单来说：很酷的物理学和其他精彩的科学。]{g}
 
   ---
-  - [En: "If you can't explain it simply, you don't understand it well enough.]{p}
-  - [Cn: "如果你连简单解释都说不清楚，那你还不够了解."]{s}
+  - [En: "If you can't explain it simply, you don't understand it well enough.]{s}
+  - [Cn: "如果你连简单解释都说不清楚，那你还不够了解."]{g}
 
   ---
-  - [En: ~Rutherford via Einstein?]{p}
-  - [Cn: ~拉瑟福经爱因斯坦？]{s}
+  - [En: ~Rutherford via Einstein?]{s}
+  - [Cn: ~拉瑟福经爱因斯坦？]{g}
 
   ---
-  - [En: (wikiquote) Created by Henry Reich]{p}
-  - [Cn: (维基语录) 由亨利·赖希创作]{s}
+  - [En: (wikiquote) Created by Henry Reich]{s}
+  - [Cn: (维基语录) 由亨利·赖希创作]{g}
 
 ---
 ### 0018. 小道必可观(油管)
+**[小道必可观(油管)]{p}**
 * **[小道必可观(油管) | 关注我外网热门视频一网打尽，我的知识不够，你的评论来凑。| 千章 | Douyin](https://v.douyin.com/WdfoxIT8Wm4/)**
 
   ---
-  **001. 老外说中国**
+  **[001. 老外说中国]{g}**
     - [美国记者：中国已成全球顶流！美国年轻人正经历中国化转型？ | 油管博主: @jessicaburbankshow 粉丝数量: 2.8万 视频标题: China Is the Global It-Girl Now 发布日期: 2026/01/20 观看次数: 7,843 点赞数量: 811 评论总数: 303 | 001](https://v.douyin.com/JF_IwNNgGy8/)
     - [英国妹子初到上海激动到失语：当了十几年电脑壁纸，圆梦魔都 | 油管博主: @by.rheashanika 粉丝数量: 4.3万 | 060](https://v.douyin.com/gk-ioWG-SRs/)
     - [英国老哥：为啥中国没有零元购？油管评论区回复绝了！ | 油管博主: @tobylifecycles 粉丝数量: 210 | 021](https://v.douyin.com/ezFPPWLdu0s/)
 
   ---
-  **002. 老外看中国**
+  **[002. 老外看中国]{g}**
     - [内蒙人怎么看外蒙？韩国博主实地访谈，答案让韩国网友吵翻了 油管博主: @연포물개 粉丝数量: 4.6万 视频标题: 내몽골 사람들의 몽골에 대한 솔직한 이야기 发布日期: 2026/01/04 观看次数: 1.6万 点赞数量: 907 评论总数: 94 | 001](https://v.douyin.com/XMrs3qNyysI/)
     - [日本酒鬼妹子初到北京，中国很危险？我在凌晨街头喝醉 油管博主: @yukke_sakamura 粉丝数量: 109万 | 073](https://v.douyin.com/sqxzKjH8i9s/)
 
 ---
+**[Jessica Burbank]{p}**
 * **[Jessica Burbank | 3.88万 | Youtube](https://www.youtube.com/@JessicaBurbankShow/videos)**
   - Working class kid who spends her days fighting for better days. | 一个工人阶级的孩子，整天为更好的日子而战。
   - [China Is the Global It-Girl Now | 中国现在是全球的"潮人"](https://www.youtube.com/watch?v=hAM3QABIGFQ)
 
 ---
 ### 0019. Youtube && Bilibili
+**[Caro Kowanz]{p}**
 * **[Caro Kowanz | 414万 | Youtube](https://www.youtube.com/@carokowanzenglish/shorts)**
   - **[1 Hour of English conversations](http://youtube.com/watch?v=JEE6s4RyaX8)**
 
 ---
+**[nayah]{p}**
 * **[inayah | 30.1万 | Youtube](https://www.youtube.com/@inayah0/videos)**
 
 ---
+**[Nischa]{p}**
 * **[Nischa | 216万 | Youtube](https://www.youtube.com/@nischa/videos)**
-  - [En: I’m a former Investment Banker (with an accountancy qualification) and on this channel we explore all things personal finance, self development and business.]{p}
-  - [Cn: 我曾是一名投资银行家（拥有会计学资格），在这个频道中我们探讨所有关于个人理财、自我发展和商业的话题。]{s}
+  - [En: I’m a former Investment Banker (with an accountancy qualification) and on this channel we explore all things personal finance, self development and business.]{s}
+  - [Cn: 我曾是一名投资银行家（拥有会计学资格），在这个频道中我们探讨所有关于个人理财、自我发展和商业的话题。]{g}
 
 ---
+**[pearlieee]{p}**
 * **[pearlieee | 60.8万 | Youtube](https://www.youtube.com/@pearlieee/videos)**
-  - [En: Hi, I'm Pearlieee!]{p}
-  - [Cn: 嗨，我是Pearlieee！]{s}
+  - [En: Hi, I'm Pearlieee!]{s}
+  - [Cn: 嗨，我是Pearlieee！]{g}
 
   ---
-  - [En: I’m a wild bird and a passionate babe.]{p}
-  - [Cn: 我是一只野鸟，也是个充满激情的美女。]{s}
+  - [En: I’m a wild bird and a passionate babe.]{s}
+  - [Cn: 我是一只野鸟，也是个充满激情的美女。]{g}
 
   ---
-  - [En: This is a space for thinkers, feelers, and anyone brave enough to become.]{p}
-  - [Cn: 这是一个为思考者、感受者以及任何勇敢成为思考者的空间。]{s}
+  - [En: This is a space for thinkers, feelers, and anyone brave enough to become.]{s}
+  - [Cn: 这是一个为思考者、感受者以及任何勇敢成为思考者的空间。]{g}
 
   ---
-  - [En: Expect magic, nuance, chaos… and loving bluntness x]{p}
-  - [Cn: 期待魔法、细腻、混乱......还有充满爱意的直率 x]{s}
+  - [En: Expect magic, nuance, chaos… and loving bluntness x]{s}
+  - [Cn: 期待魔法、细腻、混乱......还有充满爱意的直率 x]{g}
 
 ---
+**[BigDeal by Codie Sanchez]{p}**
 * **[BigDeal by Codie Sanchez | 55.9万 | Youtube](https://www.youtube.com/@PodcastBigDeal/videos)**
-  - [En: 71% of you beautiful people aren’t subscribed -- please double check you're subbed, we are here to help you!]{p}
-  - [Cn: 71%的美丽人士没有订阅——请再次确认你已订阅，我们随时准备帮助你！]{s}
+  - [En: 71% of you beautiful people aren’t subscribed -- please double check you're subbed, we are here to help you!]{s}
+  - [Cn: 71%的美丽人士没有订阅——请再次确认你已订阅，我们随时准备帮助你！]{g}
 
   ---
-  - [En: All signal.]{p}
-  - [Cn: 所有信号。]{s}
+  - [En: All signal.]{s}
+  - [Cn: 所有信号。]{g}
 
   ---
-  - [En: No noise.]{p}
-  - [Cn: 没有声音。]{s}
+  - [En: No noise.]{s}
+  - [Cn: 没有声音。]{g}
 
   ---
-  - [En: This channel is about helping you grow and win in life.]{p}
-  - [Cn: 这个频道旨在帮助你成长和赢得人生。]{s}
+  - [En: This channel is about helping you grow and win in life.]{s}
+  - [Cn: 这个频道旨在帮助你成长和赢得人生。]{g}
 
   ---
-  - [En: My plan is to bring you a no-nonsense playbook real builders use to build wealth, understand the world, create movements, and change your life.]{p}
-  - [Cn: 我的计划是为你带来一套真实建筑师用来积累财富、理解世界、创造运动并改变生活的关键实用手册。]{s}
+  - [En: My plan is to bring you a no-nonsense playbook real builders use to build wealth, understand the world, create movements, and change your life.]{s}
+  - [Cn: 我的计划是为你带来一套真实建筑师用来积累财富、理解世界、创造运动并改变生活的关键实用手册。]{g}
 
   ---
-  - [En: BigDeal by Codie Sanchez explores the real stories and hard-won lessons of entrepreneurs, builders, and creators.]{p}
-  - [Cn: Codie Sanchez的《BigDeal》探讨了企业家、建设者和创作者的真实故事和艰难获得的教训。]{s}
+  - [En: BigDeal by Codie Sanchez explores the real stories and hard-won lessons of entrepreneurs, builders, and creators.]{s}
+  - [Cn: Codie Sanchez的《BigDeal》探讨了企业家、建设者和创作者的真实故事和艰难获得的教训。]{g}
 
   ---
-  - [En: A founder and CEO herself, host Codie Sanchez draws on her experience as an investor, award-winning journalist and best-selling author to lead conversations that celebrate the highs and humanize the lows of the builder’s journey.]{p}
-  - [Cn: 作为创始人兼首席执行官，主持人科迪·桑切斯凭借她作为投资者、获奖记者和畅销书作家的经验，引领对话，庆祝建设者旅程中的高峰，同时展现人性化的低谷。]{s}
+  - [En: A founder and CEO herself, host Codie Sanchez draws on her experience as an investor, award-winning journalist and best-selling author to lead conversations that celebrate the highs and humanize the lows of the builder’s journey.]{s}
+  - [Cn: 作为创始人兼首席执行官，主持人科迪·桑切斯凭借她作为投资者、获奖记者和畅销书作家的经验，引领对话，庆祝建设者旅程中的高峰，同时展现人性化的低谷。]{g}
 
   ---
-  - [En: We are here, obsessed every single day, on how to make your life better.]{p}
-  - [Cn: 我们每天都在这里，痴迷于如何让你的生活变得更好。]{s}
+  - [En: We are here, obsessed every single day, on how to make your life better.]{s}
+  - [Cn: 我们每天都在这里，痴迷于如何让你的生活变得更好。]{g}
 
 ---
+**[Dwarkesh Patel]{p}**
 * **[Dwarkesh Patel | 128万 | Youtube](https://www.youtube.com/@DwarkeshPatel/videos)**
   - **[Jensen Huang – Will Nvidia’s moat persist | 黄仁森——英伟达的护城河会持续](https://www.youtube.com/watch?v=Hrbq66XqtCo)**
 
 ---
 ### 0020. 广告片
+**[Adobe Acrobat]{p}**
 * **[Adobe Acrobat | 5.51万 | Youtube](https://www.youtube.com/@AdobeAcrobat/videos)**
-  - [En: The PDF tools you trust, now enhanced with AI.]{p}
-  - [Cn: 您信赖的PDF工具，现在已经过AI增强。]{s}
+  - [En: The PDF tools you trust, now enhanced with AI.]{s}
+  - [Cn: 您信赖的PDF工具，现在已经过AI增强。]{g}
 
   ---
-  - [En: Adobe Acrobat gives you everything you need to move work faster, smarter, and all in one AI-powered workspace.]{p}
-  - [Cn: Adobe Acrobat 为你提供所有需要的，让你在一个由 AI 驱动的工作区中实现工作移动，更快、更智能。]{s}
+  - [En: Adobe Acrobat gives you everything you need to move work faster, smarter, and all in one AI-powered workspace.]{s}
+  - [Cn: Adobe Acrobat 为你提供所有需要的，让你在一个由 AI 驱动的工作区中实现工作移动，更快、更智能。]{g}
 
   ---
-  - [En: From creating and editing to sharing and e-signing, Acrobat helps you handle documents like a pro, whether you're at your desk or on-the-go.]{p}
-  - [Cn: 从创建、编辑到分享和电子签名，Acrobat 帮助您像专业人士一样处理文档，无论你是在办公桌前还是外出时。]{s}
+  - [En: From creating and editing to sharing and e-signing, Acrobat helps you handle documents like a pro, whether you're at your desk or on-the-go.]{s}
+  - [Cn: 从创建、编辑到分享和电子签名，Acrobat 帮助您像专业人士一样处理文档，无论你是在办公桌前还是外出时。]{g}
 
   ---
-  - [En: Scan it.]{p}
-  - [Cn: 扫描它。]{s}
+  - [En: Scan it.]{s}
+  - [Cn: 扫描它。]{g}
 
   ---
-  - [En: Edit it.]{p}
-  - [Cn: 编辑一下。]{s}
+  - [En: Edit it.]{s}
+  - [Cn: 编辑一下。]{g}
 
   ---
-  - [En: Send it.]{p}
-  - [Cn: 发吧。]{s}
+  - [En: Send it.]{s}
+  - [Cn: 发吧。]{g}
 
   ---
-  - [En: Sign it.]{p}
-  - [Cn: 签字。]{s}
+  - [En: Sign it.]{s}
+  - [Cn: 签字。]{g}
 
   ---
-  - [En: All powered by AI.]{p}
-  - [Cn: 全部由人工智能驱动。]{s}
+  - [En: All powered by AI.]{s}
+  - [Cn: 全部由人工智能驱动。]{g}
 
   ---
-  - [En: Turn messy workflows into seamless ones and ideas into action.]{p}
-  - [Cn: 全部由人工智能驱动。 Turn混乱的工作流程转为无缝的流程，将想法转化为行动。]{s}
+  - [En: Turn messy workflows into seamless ones and ideas into action.]{s}
+  - [Cn: 全部由人工智能驱动。 Turn混乱的工作流程转为无缝的流程，将想法转化为行动。]{g}
 
   ---
-  - [En: With tools like Adobe Acrobat, Acrobat Sign, Adobe Scan, and Reader, plus built-in cloud storage and integrations with the apps you already use, your documents go wherever work happens.]{p}
-  - [Cn: 借助Adobe Acrobat、Acrobat Sign、Adobe Scan和Reader等工具，以及内置云存储和与你已使用应用的集成，你的文档无论工作地点都能随之流放。]{s}
+  - [En: With tools like Adobe Acrobat, Acrobat Sign, Adobe Scan, and Reader, plus built-in cloud storage and integrations with the apps you already use, your documents go wherever work happens.]{s}
+  - [Cn: 借助Adobe Acrobat、Acrobat Sign、Adobe Scan和Reader等工具，以及内置云存储和与你已使用应用的集成，你的文档无论工作地点都能随之流放。]{g}
 
   ---
-  - [En: Less friction.]{p}
-  - [Cn: 摩擦更少。]{s}
+  - [En: Less friction.]{s}
+  - [Cn: 摩擦更少。]{g}
 
   ---
-  - [En: More doing.]{p}
-  - [Cn: 还有更多事情要做。]{s}
+  - [En: More doing.]{s}
+  - [Cn: 还有更多事情要做。]{g}
 
   ---
-  - [En: Do that with Acrobat.]{p}
-  - [Cn: 用Acrobat来做这件事。]{s}
+  - [En: Do that with Acrobat.]{s}
+  - [Cn: 用Acrobat来做这件事。]{g}
 
   ---
   - **[The Marketers S2 E4: Launching the Next Greatest Ever Campaign |《营销人员》第二季第四集：启动下一个最伟大的活动](https://www.youtube.com/watch?v=fxq2_4GiJPw)**
 
 ---
 ### 0021. Travel the world
+**[National Geographic]{p}**
 * **[National Geographic | 2610万 | Youtube](https://www.youtube.com/@NatGeo/videos)**
   - **[Antarctica: Home at the End of the Earth (Full Episode) | Incredible Animal Journeys | 南极：地球尽头的家（完整版）| 不可思议的动物之旅](https://www.youtube.com/watch?v=eS6a6btDK8M)**
 
 ---
+**[Dots on a Map]{p}**
 * **[Dots on a Map | 19.1万 | Youtube](https://www.youtube.com/@DotsonaMap/videos)**
   - **[TRAVELING TO ANTARCTICA](https://www.youtube.com/watch?v=RhVN3COuXdQ)**
 
 ---
+**[Best Travel]{p}**
 * **[Best Travel | 6.55万 | Youtube](https://www.youtube.com/@BestTravel2/videos)**
   - **[Living in the Philippines | How People Live Across 7,000 Islands | 4K ](https://www.youtube.com/watch?v=0gB1P1g5IwE)**
 
 ---
+**[Where on Earth]{p}**
 * **[Where on Earth | 2.05万 | Youtube](https://www.youtube.com/@WhereonEarth4K/videos)**
   - **[BALI: The Real Indonesia Most Tourists Never Find | 4K Travel Documentary | 巴厘岛：大多数游客永远找不到的真实印度尼西亚 |4K旅行纪录片](https://www.youtube.com/watch?v=12AI0Mg-Ajo)**
 
 ---
+**[Allison Anderson]{p}**
 * **[Allison Anderson | 106万 | Youtube](https://www.youtube.com/@allisonanderson/videos)**
 
   ---
@@ -2687,6 +2784,7 @@
 
 ---
 ### 9999. Download
+**[dlpanda]{p}**
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
