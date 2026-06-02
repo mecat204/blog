@@ -677,10 +677,10 @@
     - [突然意识到一个问题，如果此生只能爱一个人，那为什么不按照自己的理想型培养自己 | 028 ](https://v.douyin.com/rLpkm-Kk7Vg/)
 
 ---
-**[mily英文绘本故事]{p}**
+**[Emily英文绘本故事]{p}**
 * **[Emily英文绘本故事 | 北大本硕 | 15年 + 教育人 | 俩娃妈妈 | 把教育经验熬成原创英语绘本故事 | 用妈妈的视角, 讲孩子能听懂的英文内容, 每天5分钟磨耳朵,陪娃轻松爱上英语 | 百章 | Douyin](https://v.douyin.com/jkP_utJS_p8/)**
   - [守株待兔英文版](https://v.douyin.com/o-1mfFfzW4M/)
-  - [狮子王](https://v.douyin.com/erRH2wGf7ss/
+  - [狮子王](https://v.douyin.com/erRH2wGf7ss/)
   - [疯狂原始人](https://v.douyin.com/6M9pCejaAZI/)
 
 ---
@@ -692,11 +692,6 @@
 **[口语侠–Morgan教雅思]{p}**
 * **[口语侠–Morgan教雅思 | 二百章 | Douyin](https://v.douyin.com/8yNeQLjVlPs/)**
   - [口语练习](https://v.douyin.com/8NHv93dqy7w/)
-
----
-**[Mia英语精读自动化工具屋]{p}**
-* **[Mia英语精读自动化工具屋 | 五百章 | Douyin](https://v.douyin.com/IsPU3JHbfgE/)**
-  - [世界新闻](https://v.douyin.com/fXTP_0hFVW8/)
 
 ---
 **[每日英语]{p}**
