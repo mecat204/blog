@@ -818,14 +818,81 @@
 **[BigShot英语]{p}**
 * **[BigShot英语 | 五百章 | Douyin](https://v.douyin.com/6Oo1jTjwdM0/)**
 
+  ---
+  **[001. Easy-初学者友好]{g}**
+    - [001](https://v.douyin.com/oVLPEMI6hoM/)
+    - [109](https://v.douyin.com/zqXWKEH-j_I/)
+
+  ---
+  **[002. Normal-有点挑战但能接受]{g}**
+    - [001](https://v.douyin.com/LbKed32N_-k/)
+    - [351](https://v.douyin.com/7wrwAZpDZ8I/)
+    - [357](https://v.douyin.com/nLB8t3KRK9M/)
+
+  ---
+  **[003. Hard-试试能听懂几个?]{g}**
+    - [001](https://v.douyin.com/PtAw14MeeKQ/)
+    - [032](https://v.douyin.com/h6vHZr7d5_o/)
+
 ---
-**[Felix英语]{p}**
+**[Felix英语 | Ariannita]{p}**
 * **[Felix英语 | 千章 | Douyin](https://v.douyin.com/LuaEhzr_HZc/)**
   - **[Youtuber: Ariannita]**
 
+**[Ariannita la Gringa]{p}**
+* **[Ariannita la Gringa | 202万  | Youtube](https://www.youtube.com/@ariannitalagringa)**
+  - [Religious Vocabulary in English](https://www.youtube.com/watch?v=Ae8odmRJNu0)
+  - [購物中心英語詞彙](https://www.youtube.com/watch?v=VFe7Ap1kfk0)
+  - [Visiting an International Market](https://www.youtube.com/watch?v=3VP8OZyr87A)
+
 ---
-**[甜甜教英语]{p}**
+**[AI | 甜甜教英语 ]{p}**
 * **[甜甜教英语 | 五百章 | Douyin](https://v.douyin.com/mpd3SzfNxI4/)**
+
+  ---
+  **[001. 老外教你记单词]{g}**
+    - [认识词根词缀 | 001](https://v.douyin.com/yKJoy0RbDzI/)
+    - [认识后缀-ous/-tive/-istic | 042](https://v.douyin.com/JiWN4LrAMoA/)
+    - [词缀拆解练习 | 050](https://v.douyin.com/tV0cvSGSuHs/)
+
+  ---
+  **[002. 单词篇]{g}**
+    - [001](https://v.douyin.com/dUGVQAiir9M/)
+    - [airbed 充气床垫 | airless 没有风的, 不通风的 | airline 航线 | airship 飞艇 | airshow 空中表演 | airspace 领空 | airsick 晕机 | airtight 密封的, 不透气的 | airdrop 空投 | airpor 航空港]{g}
+
+    - [002](https://v.douyin.com/c-Ih04MBI38/)
+    - [act 行动,行为 | act-or 演员 | en-act (使剧本成为行动) 表演 | en- 使合在一起 | re-act 回应 | counter-act 对抗, 抵消]{g}
+
+    - [003.英语描述食物的口感](https://v.douyin.com/mB6OlEEu-CY/)
+    - [The beef is tough | The tofu is tender | The chicken soup is thick 这个鸡汤很浓稠.| The porridge is so watery. 这个粥太稀了. | The fried chicken is crispy. 炸鸡是酥脆的. | The beef is very chewy. 牛肉很有嚼劲. | The bread is very fluffy. 这个面包很松软. | The apple is crunchy. 这个苹果是脆的. | The apple tastes grainty. 这个苹果吃起来沙沙的. | The banana tastes mushy. 这个香蕉吃起来烂烂的. | The orange is juicy. 这个橙子是多汁的. | Okra tastes slimy. 秋葵吃起来是黏滑的.]{g}
+    - [tough 老的 | fluffy 松软的 | tender 嫩的| cruchy硬脆的 | thick 浓稠的 | grainy 沙沙的 | watery | mushy 糊烂的 | crispy 酥脆的 | juicy 多汁的 | chewy 有嚼劲的 | slimy 黏滑的]{g}
+
+    - [004](https://v.douyin.com/3fIppAHe-KI/)
+    - [water-fall 瀑布 | water-proof | 防水的 |  water-way 船只的航道 | water-front | 滨水区,水滨 | water-tight 水密的, 不漏水的 | water-cycle 水循环 | water-melon 西瓜]{g}
+
+    - [005](https://v.douyin.com/A9wd0hdGl2g/)
+    - [THIS IS A SMOKE-FREE PARK FINE UP TO $2000 公园禁止吸烟 吸烟罚款2000美元 | clcohol-free不含酒精的 | sugar-free 不含糖的 ]{g}
+
+    - [013](https://v.douyin.com/6_idOK5iJnk/)
+    - [color 颜色 | dis-color 褪色 |  under-color 底色 | multi-color 多色的 | momo-color单色的 | re-color 重新上色 | over-color 过度着色 | auto-color 自动上色 | color-less 无色的 | color-ful 色彩丰富的 | color-able 可以着色的]{g}
+
+    - [014](https://v.douyin.com/OavKa8LR724/)
+    - [form 形式, 形状, 形成 | re-form 改革, 改良, 改造, 改进, 改过自新 | trans-form 转换, 变形 | con-form 遵守, 顺从 和...达成一致 | de-form 使...东西变形 使...东西扭曲 | form-less 没有固定形式 没有固定形状的事物 无形的]{g}
+
+    - [016](https://v.douyin.com/Zxzry2WM7p0/)
+    - [color 颜色 | un-color 褪色,漂白 | re-color 重新上色 | under-color 底色 | multi-color 多色的 | color-ful 色彩丰富的 | color-less 无色的, 苍白的 | color-ist 调色师]{g}
+
+    - [017](https://v.douyin.com/G_bhQAO_Mlk/)
+    - [nov = new  | re-nov-ation 翻新 | in-nov-ate 创新 | novel adj.新颖的 n.长篇小说 | nov-ice 新手 | nov-elty 新鲜感]{g}
+
+    - [018](https://v.douyin.com/tLeNAIoLyr4/)
+    - [inter 在...之间 | inter-city 城市间 | inter-act 互动(人与人之间的行为) | inter-marry 通婚(不同民族或国家之间的联姻)]{g}
+
+  ---
+  **[003. 语法篇]{g}**
+    - [英语里的否定疑问句: 肯否不混用 | 从后往前推。| 001](https://v.douyin.com/X_15PsbDup8/)
+    - [英语思维: 先说关键信息，再说其他成分 | 005](https://v.douyin.com/0fS1tJDD0-I/)
+    - [I like that flower by the window | I met my teacher on the street | I saw the red ship on the sea.]{g}
 
 ---
 **[朱梓橦]{p}**

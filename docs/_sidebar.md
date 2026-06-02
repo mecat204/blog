@@ -67,6 +67,10 @@
     * [初中 | 第三册 | 人与自然](EnglishCourse/雪梨Teacher/初中第三册·人与自然)
 
   ---
+  - **wind-word**
+    * [CET-4](EnglishCourse/word-wind/CET-4.md)
+
+  ---
   - **AiTeacher**
     * [AiTeacher](EnglishCourse/AiTeacher/AiTeacher)
 
