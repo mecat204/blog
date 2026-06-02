@@ -876,6 +876,71 @@
     - [远处的辉煌是底层人永远无法抵达的对岸 | 055](https://v.douyin.com/AbxI0W9HNe0/)
 
 ---
+### 0040. 一方净土
+**[一方净土 | AI]{p}**
+* **[一方净土 | 「一方一净土 · 一念一清静」「关注我·让这里成为你心灵的避风港」 | 叁仟章 | Douyin](https://v.douyin.com/GnEOQlpKdkM/)**
+  - [峰回路转，雾凇乍现，一缕阳光斜射，刹那间晶莹剔透，宛若仙境，美极了](https://v.douyin.com/RxAIqmVkkdU/)
+  - [秋是慢入的,但冷却是突然的,晴不知夏去,一雨方觉秋深](https://v.douyin.com/gn-5ciAoLuk/)
+  - [愿新年胜旧年，愿将来胜过往，愿你与旧事归于尽，来年依旧迎花开](https://v.douyin.com/LrdKHSl2PUo/)
+  - [西安钟楼的世纪晚霞杀疯了](https://v.douyin.com/SOq7KrrDoRc/)
+  - [我拍到了大概是中国人才懂的意境分享给你](https://v.douyin.com/aGWUHOp7pP0/)
+
+---
+### 0041. Other
+**[大长腿摄影]{p}**
+* **[大长腿摄影 | 因为喜欢，行摄天下，痴迷美景，与人分享，这么英俊美丽的你](https://v.douyin.com/czjWhv4_YXs/)**
+  - [山回路转不见君，雪上空留马行处 |  雪景山水画 万物皆有灵性](https://v.douyin.com/AnwW8W4Il4g/)
+  - [下半年，咸鱼翻身，成功上岸，见者好运连连，财源滚滚，万事如意，心想事成](https://v.douyin.com/z2Dnmtf5L4I/)
+  - [半池青绿，一抹孤鸿，身在喧嚣，心如闲云野鹤。](https://v.douyin.com/6SLHoyd6uCg/)
+
+---
+### 0042. 茗𝓓𝓮𝓫𝓾𝓼𝓼𝔂
+**[茗𝓓𝓮𝓫𝓾𝓼𝓼𝔂]{p}**
+* **[茗𝓓𝓮𝓫𝓾𝓼𝓼𝔂 | 恭喜你发现了宝藏👿 这里是梦的小作坊🤯 风格不定均为原创 | 伍佰章 | Douyin](https://v.douyin.com/fR0O6Wn_WqI/)**
+
+  ---
+  **[001. 庄园篇]{g}**
+    - [人生的剧本，你早在天堂就看过了。你之所以选择这个剧本，是因为这一生中有你认为值得的地方 | 001](https://v.douyin.com/o8IfwrnsUL0/)
+    - [云端の小堡 | 062](https://v.douyin.com/VSNjnCpeWIo/)
+
+  ---
+  **[002. 花核篇]{g}**
+    - [《清晨》 梦境&超现实 | 001](https://v.douyin.com/fW1yPWWxkJ4/)
+    - [静谧の地 | 105](https://v.douyin.com/qCfTO3zUAYE/)
+
+  ---
+  **[003. 怪异篇]{g}**
+    - [鲸 | 001](https://v.douyin.com/x6siKpxZAgE/)
+    - [千禧年の梦 | 你可以回去，但是那里已经没有人了](https://v.douyin.com/cdh_TcegVEM/)
+    - [奇怪の城市 | 109](https://v.douyin.com/OXGRtVMRtes/)
+
+---
+### 0043. 云里 | Genshin Impact
+**[云里 | AI]{p}**
+* **[云里 | 不定时更新视频，谢谢关注！努力成为ai大王中 | 千章 | Douyin](https://v.douyin.com/NL9jPNFzWyM/)**
+  - [尼可：今天艾莉丝怎么睡得这么死](https://v.douyin.com/hHa-9OHgQGQ/)
+
+  ---
+  **[001. 我要成为AI大王]{g}**
+    - [疑似师徒二人对练。| 001](https://v.douyin.com/z8GPH0l4epE/)
+    - [大舅哥，我承认刚刚我的声音有点大了 | 033](https://v.douyin.com/6KWu8P6BSYM/)
+    - [星际穿越-哥伦比娅 | 043](https://v.douyin.com/S8x9kg-YqnY/)
+    - [尼可：接下来该我操作了 | 尼可同人赛道 | 054](https://v.douyin.com/MAxC5WmfBRI/)
+
+  ---
+  **[002. 难忘的NPC]{g}**
+    - [我们还能看到蒂莱尔吗 | 001](https://v.douyin.com/BCWI53WjVgY/)
+    - [也许记得她的只有老玩家吧。羽生田千鹤 | 002](https://v.douyin.com/N8N7YGM7Hck/)
+    - [雷利尔到最后也没能救下索琳蒂丝 | 003](https://v.douyin.com/P0zMvj2U_40/)
+    - [孤单时，抬头看看星星吧 | 004](https://v.douyin.com/K63V-O3yloo/)
+
+  ---
+  **[003. 乱剪]{g}**
+    - [我还是忘不掉那个说要去看至冬极光的女孩 | 001](https://v.douyin.com/e0I6pgDQ6Co/)
+    - [第一次剪，还不太丝滑](https://v.douyin.com/whbZs9qOPX4/)
+    - [你才是能锁住我的红绳 | 009](https://v.douyin.com/tv44DGDg9BY/)
+
+---
 ### 9999. Download
 **[必应]{p}**
 * **[必应 | bing.com](https://cn.bing.com/)**
