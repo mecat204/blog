@@ -38,6 +38,7 @@
   - [AiSinger](Music/AiSinger)
   - [英文歌曲](Music/英文歌曲)
   - [BilibliYoutube](Music/BilibliYoutube)
+  - [二胡](Music/二胡)
   - [古琴](Music/古琴)
   - [钢琴](Music/钢琴)
   - [笛子](Music/笛子)
