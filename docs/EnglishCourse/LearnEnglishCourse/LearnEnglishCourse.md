@@ -810,26 +810,6 @@
   - [英语学习资源导航](https://en.knowledgefxg.com/)
 
 ---
-**[BigShot英语]{p}**
-* **[BigShot英语 | 五百章 | Douyin](https://v.douyin.com/6Oo1jTjwdM0/)**
-
-  ---
-  **[001. Easy-初学者友好]{g}**
-    - [001](https://v.douyin.com/oVLPEMI6hoM/)
-    - [109](https://v.douyin.com/zqXWKEH-j_I/)
-
-  ---
-  **[002. Normal-有点挑战但能接受]{g}**
-    - [001](https://v.douyin.com/LbKed32N_-k/)
-    - [351](https://v.douyin.com/7wrwAZpDZ8I/)
-    - [357](https://v.douyin.com/nLB8t3KRK9M/)
-
-  ---
-  **[003. Hard-试试能听懂几个?]{g}**
-    - [001](https://v.douyin.com/PtAw14MeeKQ/)
-    - [032](https://v.douyin.com/h6vHZr7d5_o/)
-
----
 **[Felix英语 | Ariannita]{p}**
 * **[Felix英语 | 千章 | Douyin](https://v.douyin.com/LuaEhzr_HZc/)**
   - **[Youtuber: Ariannita]**
@@ -1229,6 +1209,11 @@
   - [**摆脱翻译思维**](https://v.douyin.com/Vzw-c-EdW34/)
   - [**Learning English**](https://v.douyin.com/pQ7KS7jxT7s/)
   - [春联](https://v.douyin.com/13NcEASCWVY/)
+
+  ---
+  **[001. 英语小故事]{g}**
+    - [谁才是真正的罪犯  | 001](https://v.douyin.com/-n9z6ZXCMBw/)
+    - [拥抱自己的不完美，不要去羡慕别人的完美 | 084](https://v.douyin.com/vKoo_ErlmZ8/)
 
 ---
 * **[是萬萬啊 | 我在过我的第二个🎧18岁 13年资深电影美术.疗愈能量艺术创造者 | 分享美好 | 活成黑夜里的微光 | 每日三事: 修行, 感恩, 知足 | 百章 | Douyin](https://v.douyin.com/DisZuVgx3vY/)**
@@ -2573,6 +2558,31 @@
   **[002. 高频1000句]{g}**
     - [职业 | 001](https://v.douyin.com/FTqihPvMK80/)
     - [每天学一集 | 089 ](https://v.douyin.com/zsCghD3i5n8/)
+
+---
+### 0038. 美剧 | 拆析
+**[BigShot英语]{p}**
+* **[BigShot英语 | 五百章 | Douyin](https://v.douyin.com/6Oo1jTjwdM0/)**
+
+  ---
+  **[001. Easy-初学者友好]{g}**
+    - [001](https://v.douyin.com/oVLPEMI6hoM/)
+    - [109](https://v.douyin.com/zqXWKEH-j_I/)
+
+  ---
+  **[002. Normal-有点挑战但能接受]{g}**
+    - [001](https://v.douyin.com/LbKed32N_-k/)
+    - [351](https://v.douyin.com/7wrwAZpDZ8I/)
+    - [357](https://v.douyin.com/nLB8t3KRK9M/)
+
+  ---
+  **[003. Hard-试试能听懂几个?]{g}**
+    - [001](https://v.douyin.com/PtAw14MeeKQ/)
+    - [032](https://v.douyin.com/h6vHZr7d5_o/)
+
+---
+**[HotShot英语]{p}**
+* **[HotShot英语 | 分享最【原汁原味】的英语听力口语教学 | My teacher: BigShot英语](https://v.douyin.com/PjjQ2Mmn108/)**
 
 ---
 ### 9999. Download
