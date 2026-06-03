@@ -59,6 +59,11 @@
     * [Vlog](EnglishCourse/Vlog/Vlog)
 
   ---
+  - **词根-词缀记词法**
+    * [词根词缀记词法](EnglishCourse/词根-词缀记词法/词根-词缀记词法)
+    * [瞬间记单词](EnglishCourse/词根-词缀记词法/瞬间记单词)
+
+  ---
   - **雪梨Teacher**
     * [小学 | 第一册 | 人与自我](EnglishCourse/雪梨Teacher/小学第一册·人与自我)
     * [小学 | 第二册 | 人与社会](EnglishCourse/雪梨Teacher/小学第二册·人与社会)
@@ -95,7 +100,6 @@
 * **Book**
   - [BookSource](Book/BookSource)
   - [GatherEnglishBook](Book/GatherEnglishBook.md)
-  - [瞬间记单词](Book/瞬间记单词)
   - [超实用15000词分类速记](Book/超实用15000词分类速记)
   - [words](Book/words)
   - [构词法速查表](Book/构词法速查表)
@@ -200,7 +204,7 @@
   - [readme](Collection/readme)
   - [Todaytask](Collection/Todaytask)
   - [时政](Collection/时政)
-  - [信息生态](Collection/信息生态)
+  - [信息财经](Collection/信息财经)
   - [tips](Collection/tips)
   - [问小白](Collection/问小白)
   - [古今文学](Collection/古今文学)
