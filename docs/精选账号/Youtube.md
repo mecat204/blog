@@ -2871,7 +2871,7 @@
 
   ---
   **[001. 超级英语 | 老师篇]{g}**
-    - [跟着老师学习就餐实用英语 就餐英语 | 001](https://v.douyin.com/ThApI_ho-28/)
+    - [Youtuber: Rodica - The Foreign Sun | 跟着老师学习就餐实用英语 就餐英语 | 001](https://v.douyin.com/ThApI_ho-28/)
     - [Youtuber: Easy English With Cat | 哑巴英语 请停止学习 | 087](https://v.douyin.com/GJWVm31l6rs/)
     - [这5个阻碍你自由开口说英语的原因你有吗 | 92](https://v.douyin.com/h8JYLz8PaAI/)
     - [Youtuber: English by Jay |  英语时间表达 你会正确表达英语时间吗 | 100](https://v.douyin.com/MaP-cag6AM0/)
@@ -2895,6 +2895,11 @@
   **[002. 超级英语 | 听力篇]{g}**
    - [如何像孩子一样轻松掌握英语，像母语一样搞定英语 | 001](https://v.douyin.com/mKix9wPAxC4/)
    - [如何快速成为理想的自己 | 067](https://v.douyin.com/ZBorJmbQIjg/)
+
+---
+**[Rodica - The Foreign Sun]{p}**
+* **[Rodica - The Foreign Sun | 17.9万 | Youtube](https://www.youtube.com/@TheForeignSunEnglish)**
+* **[Rodica | English Teacher | TikTok](https://www.tiktok.com/@theforeignsun)**
 
 ---
 **[Easy English With Cat]{p}**
