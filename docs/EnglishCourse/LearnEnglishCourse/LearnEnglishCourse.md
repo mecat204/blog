@@ -1640,6 +1640,12 @@
   **[001. 超级英语 | 老师篇]{g}**
     - [跟着老师学习就餐实用英语 就餐英语 | 001](https://v.douyin.com/ThApI_ho-28/)
     - [这5个阻碍你自由开口说英语的原因你有吗 | 100](https://v.douyin.com/h8JYLz8PaAI/)
+    - [Youtuber: Massos world](https://v.douyin.com/yAiSpMQf5Z4/)
+    - [Youtuber: English by Jay | 125](https://v.douyin.com/MnxObFp06V0/)
+    - [English by Jay - Sprout | 49.1万 | Youtube](https://www.youtube.com/@englishbyjay.official/videos)
+    - [Learn English with Jay | bilibili](https://www.bilibili.com/video/BV1115464Ef4/?spm_id_from=333.337.search-card.all.click)
+    - [ReneeEnglish | YouTube，英语口语，英语听力 | Bilibili](https://space.bilibili.com/492383211?spm_id_from=333.337.search-card.all.click)
+
 
   ---
   **[002. 超级英语 | 听力篇]{g}**
@@ -2197,9 +2203,13 @@
 
   ---
   **[001. New Concept English 01·三国版]{g}**
-    - **[New Concept English 01·三国版 | Lesson-001](https://v.douyin.com/ED_hh-uhlc4/)**
-    - **[New Concept English 01·三国版 | Lesson-002](https://v.douyin.com/hjTzkaFkDhg/)**
-    - **[New Concept English 01·三国版 | Lesson-003](https://v.douyin.com/evamg363dKY/)**
+    - [001](https://v.douyin.com/ED_hh-uhlc4/)
+    - [002](https://v.douyin.com/hjTzkaFkDhg/)
+    - [功夫 | 003](https://v.douyin.com/evamg363dKY/)
+    - [高燃混剪《勇者无惧》| 016](https://v.douyin.com/majgBMqSdPI/)
+    - [021](https://v.douyin.com/SRsZplVCRXY/)
+    - [武大郎火拼西门庆 | 054](https://v.douyin.com/pEHi-cgz1Is/)
+    - [车祸 | 056](https://v.douyin.com/8ejlmtOk4Ds/)
 
   ---
   **[002. 荒岛迷案]{g}**

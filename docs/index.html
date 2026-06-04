@@ -12,7 +12,7 @@
   <link rel="stylesheet" href="https://unpkg.com/docsify-copy-code@2/styles.css" />
   <style>
     .root, .suffix, .prefix, .end, .gray, .lumegreen,
-    .titianred, .marrsgreen, .marrsgreen, .kleinblue{
+    .titianred, .marrsgreen, .marrsgreen, .kleinblue, .chinesered{
       display: inline-block;
       padding: 2px 6px;
       border-radius: 6px;
@@ -30,12 +30,11 @@
     .titianred { background: #D34947; }
     .marrsgreen { background: #018B8D; }
     .kleinblue { background: #002FA7; }
-
+    .chinesered {background: #C8161D;}
 
 /* 勃艮第红 | BURGUNDY RED | #470125
 申布伦黄 | SCHONBRUNNER GELB | #F9D46C
 蒂芙尼蓝 | TIFFANY BLUE | #71E2D1
-中国红 | CHINESE RED |#C8161D
 凡戴克棕 | VANDYKE BROWN | #492D22
 爱马仕橙 | HERMES ORANGE | #EB5C20
 普鲁士蓝| PRUSSIAN BLUE | #0D3A69 */
@@ -83,6 +82,7 @@
          .replace(/\[([^\]]+)\]\{t\}/g, '<span class="titianred">$1</span>')
          .replace(/\[([^\]]+)\]\{m\}/g, '<span class="marrsgreen">$1</span>')
          .replace(/\[([^\]]+)\]\{k\}/g, '<span class="kleinblue">$1</span>')
+         .replace(/\[([^\]]+)\]\{c\}/g, '<span class="chinesered">$1</span>')
       });
   });
   </script>

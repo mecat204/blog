@@ -618,6 +618,33 @@
 * **[Linksphotograph | Bilibili](https://space.bilibili.com/3816626)**
 
 ---
+### 0059. Learn English With Bob Canadian
+**[Learn English With Bob Canadian]{p}**
+* **[Learn English With Bob Canadian 2019-2023合集](https://www.bilibili.com/video/BV11aZ8Y1E8q/?spm_id_from=333.337.search-card.all.click)**
+
+---
+### 0060. 英语研习社
+**[英语研习社]{p}**
+* **[英语研习社 | 完整精品课沟通+维：ax36368987 | 16万 | Bibilibili](https://space.bilibili.com/1804709000?spm_id_from=333.337.search-card.all.click )**
+
+---
+### 0061. Learn English with Jay
+**[Learn English with Jay]{p}**
+* **[Learn English with Jay](http://bilibili.com/video/BV1115464Ef4/?spm_id_from=333.337.search-card.all.click)**
+
+---
+### 0062. ReneeEnglish
+**[ReneeEnglish]{p}**
+* **[ReneeEnglish | YouTube，英语口语，英语听力 | Bilibili](https://space.bilibili.com/492383211?spm_id_from=333.788.upinfo.detail.click)**
+  - [Learn English with Jay](https://www.bilibili.com/video/BV1115464Ef4/?spm_id_from=333.1387.homepage.video_card.click)
+  - [Learn English with Tyana](https://www.bilibili.com/video/BV1z9LM6AEhR/?spm_id_from=333.1387.homepage.video_card.click)
+
+---
+### 0063. 克雷兒Claire
+**[克雷兒Claire]{p}**
+* **[克雷兒Claire | 249](https://www.bilibili.com/video/BV15Z4y1m7kK/?spm_id_from=333.1387.homepage.video_card.click)**
+
+---
 ### 9999. 开源项目
 **[必应]{p}**
 * **[必应 | bing.com](https://cn.bing.com/)**

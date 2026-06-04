@@ -386,11 +386,12 @@
   - [【4K 奥地利-哈尔施塔特】俯瞰恬静奥地利小镇，湖景峡湾宁静怡然   ](https://v.douyin.com/fUD3TSTWrkQ/)
 
 ---
-**[Ariannita la Gringa]{p}**
+**[Ariannita la Gringa]{c}**
 * **[Ariannita la Gringa | 202万  | Youtube](https://www.youtube.com/@ariannitalagringa)**
   - [Religious Vocabulary in English](https://www.youtube.com/watch?v=Ae8odmRJNu0)
   - [購物中心英語詞彙](https://www.youtube.com/watch?v=VFe7Ap1kfk0)
   - [Visiting an International Market](https://www.youtube.com/watch?v=3VP8OZyr87A)
+  - [Learn English at the Farm](https://www.youtube.com/watch?v=VdbOX2Ee3lg)
 
 ---
 **[Lana Blakely]{p}**
@@ -618,8 +619,7 @@
   - **[**瑞士**的天堂：瑞士乡村美丽村庄的雨天](https://www.youtube.com/watch?v=-kenx1rQyZo)**
 
 ---
-**[]{p}**
-
+**[SoulEase Space | Music]{p}**
 * **[SoulEase Space | 音乐 | Youtube](https://www.youtube.com/@SoulEase_Space)**
   - [En: Welcome to SoulEase Space—a serene place to unwind, soothe your soul, and find harmony. 🎹🌿]{s}
   - [Cn: 欢迎来到SoulEase空间——一个宁静的地方，让你放松身心，抚慰心灵，找到和谐。🎹🌿]{g}
@@ -865,8 +865,8 @@
   - **[Home | Tiny Home Tours](https://www.tinyhometours.com/)**
 
   ---
-  - [En: Welcome!]{s}
-  - [Cn: 欢迎！]{g}
+  - [En: Welcome]{s}
+  - [Cn: 欢迎]{g}
 
   ---
   - [En: Here at Tiny Home Tours, we are passionate about all things tiny living.]{s}
@@ -1632,8 +1632,8 @@
 ---
 **[Cleo Abram]{p}**
 * **[Cleo Abram | Youtube](https://www.youtube.com/@CleoAbram)**
-  - Video journalist making optimistic tech explainers.
-  - 视频记者制作乐观的科技解说。
+  - [En: Video journalist making optimistic tech explainers.]{s}
+  - [Cn: 视频记者制作乐观的科技解说。]{g}
 
   ---
   - Huge If True.
@@ -1648,27 +1648,27 @@
   - 如果你想赞助《Huge If True》节目，请通过下方邮件联系我们。
 
   ---
-  - [En: If you're looking for my bio, here it is: Cleo Abram is a video journalist who produces Huge If True, an optimistic show about science and technology.]{g}
+  - [En: If you're looking for my bio, here it is: Cleo Abram is a video journalist who produces Huge If True, an optimistic show about science and technology.]{s}
   - [Cn: 如果你想找我的简介，这里有： 克利奥·亚伯拉罕是一名视频记者，制作《巨大如果真实》——一档关于科学与技术的乐观节目。]{g}
 
   ---
-  - [En: Huge If True is an antidote to the doom and gloom, helping a wide audience see better futures they can help build.]{g}
+  - [En: Huge If True is an antidote to the doom and gloom, helping a wide audience see better futures they can help build.]{s}
   - [Cn: 《Huge If True》是对阴霾的解药，帮助广大观众看到他们能够共同建设的更好未来。]{g}
 
   ---
-  - [En: In each episode, Cleo dives deep into one innovation that could shape the future.]{g}
+  - [En: In each episode, Cleo dives deep into one innovation that could shape the future.]{s}
   - [Cn: 在每一集中，克莱奥都会深入探讨一项可能塑造未来的创新。]{g}
 
   ---
-  - [En: She has explored humanoid robots at Boston Dynamics, supersonic planes at NASA, quantum computers at IBM, the Large Hadron Collider at CERN, and more.]{g}
+  - [En: She has explored humanoid robots at Boston Dynamics, supersonic planes at NASA, quantum computers at IBM, the Large Hadron Collider at CERN, and more.]{s}
   - [Cn: 她曾在波士顿动力公司探索类人机器人、NASA的超音速飞机、IBM的量子计算机、CERN的大型强子对撞机等。]{g}
 
   ---
-  - [En: Previously, Cleo was a video producer at Vox and directed for Explained on Netflix.]{g}
+  - [En: Previously, Cleo was a video producer at Vox and directed for Explained on Netflix.]{s}
   - [Cn: 此前，克莱奥曾是Vox的视频制片人，并执导了Netflix的《Explained》。]{g}
 
   ---
-  - [En: She was the host of Vox’s first ever daily show, Answered, as well as co-host of Vox’s YouTube Originals show, Glad You Asked.]{g}
+  - [En: She was the host of Vox’s first ever daily show, Answered, as well as co-host of Vox’s YouTube Originals show, Glad You Asked.]{s}
   - [Cn: 她主持了Vox首个每日节目《Answered》，并共同主持了Vox的YouTube Originals节目《Glad You Asked》。]{g}
 
   ---
@@ -2854,6 +2854,91 @@
 
   - **[My Solo Trip to Antarctica](https://www.youtube.com/watch?v=EDap9qxb96k)**
 
+---
+### 0022. 英语超级屋
+**[英语超级屋]{p}**
+* **[英语超级屋 | 感受世界，感受人文，遇见这个世界上美好的人和事 学好英语，感受语言，遇见这个时间里最好的自己... | 三百章 | Douyin](https://v.douyin.com/JLRyWueVrOE/)**
+  - [语言的边界, 就是世界的边界 --- 维特根斯坦]{s}
+  - [张同完 | 韩国 | **Youtuber: _100ls**  | wan只用一部动画，重复100遍，做到年赚200万刀 谁说学好英语赚不到钱](https://v.douyin.com/dE8eIkNzQ28/)
+  - **[旅行学英语](https://v.douyin.com/clZqESbHEF4/)**
+  - **[全英播客通勤磨耳朵 | **Youtuber: English Learning Podcast**](https://v.douyin.com/qGQ7PDaJ7zY/)**
+  - **[如何在一天彻底改变你的一生](https://v.douyin.com/YLiYarwLOxY/)**
+  - **[你学英语的时候为什么总是被短视频带跑](https://v.douyin.com/LANarnZ8pdM/)**
+  - **[English podcast 英语听力训练](https://v.douyin.com/-1JcIfq0xfg/)**
+  * **[英文磨耳朵 进入心流状态是什么感觉](https://v.douyin.com/c1AbObGV9xI/)**
+  * **[英式英语那个小调调是怎么来的](https://v.douyin.com/hxaGseoYJok/)**
+  * **[韩国大集什么样 可理解性输入学英语 | Youtuber: volkaeagle](https://v.douyin.com/-G5XfX7KvRo/)**
+
+  ---
+  **[001. 超级英语 | 老师篇]{g}**
+    - [跟着老师学习就餐实用英语 就餐英语 | 001](https://v.douyin.com/ThApI_ho-28/)
+    - [Youtuber: Easy English With Cat | 哑巴英语 请停止学习 | 087](https://v.douyin.com/GJWVm31l6rs/)
+    - [这5个阻碍你自由开口说英语的原因你有吗 | 92](https://v.douyin.com/h8JYLz8PaAI/)
+    - [Youtuber: English by Jay |  英语时间表达 你会正确表达英语时间吗 | 100](https://v.douyin.com/MaP-cag6AM0/)
+    - [Youtuber: Volka English | com-pre-hen-sible可理解性输入学习口语 | 104](https://v.douyin.com/88yLEGs-bao/)
+    - [Youtuber: Learn English with Bob the Canadian | 6个技巧记住学过的单词 | 111](https://v.douyin.com/wJqWS8fDae8/)
+    - [Youtuber: Learn English with Bob the Canadian | 超实用短语学习 | 112](https://v.douyin.com/CUFEYZDvfqk/)
+    - [Youtuber: 克雷兒 Claire | 一个人在家把英文练超溜的5大方法 | 113](https://v.douyin.com/uMeU0l7nH_I/)
+    - [Youtuber: 克雷兒 Claire | 后悔没有早看到老师的视频 | 114](https://v.douyin.com/H2ao2dDSOVY/)
+    - [Youtuber: English At The Ready | 我们从小学开始算，算学了十几年吗 | 115](https://v.douyin.com/Yl-nQCdRPzE/)
+    - [Youtuber: Massi's world | 这些词汇你说对了吗 | 116](https://v.douyin.com/yAiSpMQf5Z4/)
+    - [Youtuber: Rodica - The Foreign Sun | 117](https://v.douyin.com/qOq53jnYwD0/)
+    - [Youtuber: English by Jay | 保姆级影子跟读学习 | 121](https://v.douyin.com/rEWO2o6wLw0/)
+    - [Youtuber: Ariannita la Gringa | 农场欢乐学英语 | 122](https://v.douyin.com/x8G9V2Zz-KM/)
+    - [Youtuber: English by Jay | 125](https://v.douyin.com/MnxObFp06V0/)
+    - [English by Jay - Sprout | 49.1万 | Youtube](https://www.youtube.com/@englishbyjay.official/videos)
+    - [Learn English with Jay | bilibili](https://www.bilibili.com/video/BV1115464Ef4/?spm_id_from=333.337.search-card.all.click)
+    - [ReneeEnglish | YouTube，英语口语，英语听力 | Bilibili](https://space.bilibili.com/492383211?spm_id_from=333.337.search-card.all.click)
+
+
+  ---
+  **[002. 超级英语 | 听力篇]{g}**
+   - [如何像孩子一样轻松掌握英语，像母语一样搞定英语 | 001](https://v.douyin.com/mKix9wPAxC4/)
+   - [如何快速成为理想的自己 | 067](https://v.douyin.com/ZBorJmbQIjg/)
+
+---
+**[Easy English With Cat]{p}**
+* **[Easy English With Cat | 2.84万 | Youtube](https://www.youtube.com/@EasyEnglishWithCat/videos)**
+  - [speak English language easy.](https://www.youtube.com/watch?v=7coI6NkzEa8)
+  - [Why you can’t speak English](https://www.youtube.com/watch?v=7coI6NkzEa8)
+  - [How I’d Learn Any Language from 0](https://www.youtube.com/watch?v=DWLbUzrEPFo)
+
+---
+**[English by Jay - Sprout]{p}**
+* **[English by Jay - Sprout | 49.1万 | Youtube](https://www.youtube.com/@englishbyjay.official/videos)**
+  - [En: Speak with Jay-i on Sprout 🌱 Immerse yourself in English to become fluent.]{s}
+  - [Cn: 在Sprout 🌱上与Jay-i对话，沉浸在英语中，变得流利.]{g}
+
+---
+**[Massi's World]{p}**
+* **[Massi's World | 2.66万 | Youtube](https://www.youtube.com/@MassiWorld/videos)**
+  - [Don’t Make These Mistakes!– Vocabulary](https://www.youtube.com/watch?v=wu9-BM-SHQw)
+* **[Massi's World | tiktok](https://www.tiktok.com/@massiworld1)**
+
+---
+**[Rodica - The Foreign Sun]{p}**
+* **[Rodica - The Foreign Sun | 17.9万 | Youtube](https://www.youtube.com/@TheForeignSunEnglish)**
+  - [How to Practice English by Yourself](https://www.youtube.com/watch?v=bFwFwRuvw_M&list=PLfGkLjkgpXSDqJtFZALwMBgM5P25NEZvr)
+
+---
+**[Learn English with Bob the Canadian]{p}**
+* **[Learn English with Bob the Canadian | 251万 | Youtube](https://www.youtube.com/@LearnEnglishwithBobtheCanadian/videos)**
+  - [How to Remember New English Vocabulary](https://www.youtube.com/watch?v=NaXrzSjsMdI)
+
+---
+**[克雷兒 Claire]{p}**
+* **[克雷兒 Claire | 38.3万 | Youtube](https://www.youtube.com/@clairesenglish/videos)**
+  - [20分鐘一次學會！問路、交通、購物🛍️等獨旅英文](https://www.youtube.com/watch?v=CNg2645n-AE)
+
+---
+**[English At The Ready]{p}**
+* **[English At The Ready | 79.5万 | Youtube](https://www.youtube.com/@englishattheready/videos)**
+* **[englishattheready](https://www.englishattheready.com/start)**
+
+---
+**[Volka English]{p}**
+* **[Volka English | 117万 | Youtube](https://www.youtube.com/@VolkaEnglish/videos)**
+  - [Learn English in Nature With My Mom | Comprehensible Input Vlog](https://www.youtube.com/watch?v=9ledjiOXnvo)
 
 ---
 ### 9999. Download
