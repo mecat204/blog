@@ -773,27 +773,28 @@
 
 ---
 ### 0027. 全球地震数据
+**[全球地震数据]{p}**
 * **[全球地震数据](https://seismic-explorer.concord.org)**
 
 ---
 ### 0028. 全球气象数据
+**[ventusky]{p}**
+* **[ventusky | Ventusky - 天气预报、雷达和风力图](https://www.ventusky.com/)**
 
+---
+**[全球气象数据]{p}**
+* **[全球气象数据](https://earth.nullschool.net/)**
+
+---
+**[windy.com]{p}**
+* **[windy.com | proxy](https://windy.com)**
 
 ---
 ### 0029. 梵蒂冈教堂
 * [梵蒂冈教堂](https://virtual.basilicasanpietro.va/en/basilica-viewer/st-peters-square)
 
 ---
-### 0030. 宝藏网站 | 天气 | 维修 | 摄像头 | 游戏
-* **[ventusky | Ventusky - 天气预报、雷达和风力图](https://www.ventusky.com/)**
-
----
-* **[全球气象数据](https://earth.nullschool.net/)**
-
----
-* **[windy.com | proxy](https://windy.com)**
-
----
+### 0030. 宝藏网站 |  维修 | 摄像头 | 游戏
 * **[ifixit | 免费修理手册](https://zh.ifixit.com/)**
 
 ---
@@ -803,6 +804,7 @@
 * **[yikm | 小霸王，其乐无穷 。红白机，FC在线游戏，街机游戏，街机在线，NES games，NES games online，Super Mario](https://www.yikm.net/)**
 
 ---
+**[LINUX DO]{p}**
 * **[LINUX DO - 新的理想型社区](https://linux.do/)**
 
 ---
@@ -811,11 +813,13 @@
 
 ---
 * **[animagraffs](https://www.youtube.com/@animagraffs)**
+
 ---
 * **[AI教练·振轩 | 网站资源分享 | 五百章 | Douyin](https://v.douyin.com/Z85GoFIdT5k/)**
 
 ---
 ### 0031. 搜索引擎
+**[国内好用的搜索引擎]{p}**
 * **国内好用的搜索引擎**
 |name|title|
 |:---:|:---:|
@@ -826,6 +830,7 @@
 |[metaso](https://metaso.cn/) | 秘塔AI搜索                   |
 |[Retardphobia](https://retardphobia.moebh.org/ui/index.html) | 十号AI搜索 |
 |[tiangong](https://www.tiangong.cn/) | 天工AI—搜索、聊天、写作、速读、画画的全能AI助手 |
+
 ---
 - **搜索多个主流网盘资源**
 |name|title|

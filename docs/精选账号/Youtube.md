@@ -2872,6 +2872,16 @@
   ---
   **[001. 超级英语 | 老师篇]{g}**
     - [Youtuber: Rodica - The Foreign Sun | 跟着老师学习就餐实用英语 就餐英语 | 001](https://v.douyin.com/ThApI_ho-28/)
+    - [Youtuber: Rodica - The Foreign Sun | 如何通过看电影，学一口纯正发音 | 002](https://v.douyin.com/Cbq_0Gt4CLA/)
+    - [听力，你的英语什么水平 | 003](https://v.douyin.com/_9gBiwahvfM/)
+    - [Youtuber: Albina Sultanova | 全英文英语听力磨耳朵 找对学习方法才能事半功倍，你也能快速提高英语水平 | 016](https://v.douyin.com/LJd0YylfOr8/)
+    - [Youtuber: Albina Sultanova | 全英文听力 跟着老师学词句啦，听起来吧 | 017](https://v.douyin.com/L6C9bo8G92w/)
+    - [Youtuber: Rodica - The Foreign Sun | 原声听力磨耳朵，听老师讲经历，你也能说一口流利美国话。| 024](https://v.douyin.com/jPR3PVVYo30/)
+    - [Youtuber: Rodica - The Foreign Sun | 老师讲述如何变得自信，听完你会有收获 | 027](https://v.douyin.com/v6JPDCQ58Mk/)
+    - [可怕的沉没成本 人生最大的错误就是在错误的路上越走越远 | 035](https://v.douyin.com/lXi5i_y9Nus/)
+    - [超级好的听力材料 你也能自由说一口流利英语哦 | 036](https://v.douyin.com/-LbTDMbcT8w/)
+    - [你能听懂多少 老师分享如何学好一门外语 | 058](https://v.douyin.com/NeasrdGxNXs/)
+    - [起床开始学英语啦 | 061](https://v.douyin.com/1puALI9x5sw/)
     - [Youtuber: Easy English With Cat | 哑巴英语 请停止学习 | 087](https://v.douyin.com/GJWVm31l6rs/)
     - [这5个阻碍你自由开口说英语的原因你有吗 | 92](https://v.douyin.com/h8JYLz8PaAI/)
     - [Youtuber: English by Jay |  英语时间表达 你会正确表达英语时间吗 | 100](https://v.douyin.com/MaP-cag6AM0/)
@@ -2890,23 +2900,69 @@
     - [Learn English with Jay | bilibili](https://www.bilibili.com/video/BV1115464Ef4/?spm_id_from=333.337.search-card.all.click)
     - [ReneeEnglish | YouTube，英语口语，英语听力 | Bilibili](https://space.bilibili.com/492383211?spm_id_from=333.337.search-card.all.click)
 
-
   ---
   **[002. 超级英语 | 听力篇]{g}**
    - [如何像孩子一样轻松掌握英语，像母语一样搞定英语 | 001](https://v.douyin.com/mKix9wPAxC4/)
    - [如何快速成为理想的自己 | 067](https://v.douyin.com/ZBorJmbQIjg/)
 
+  ---
+  **[003. 超级英语 | 方法篇]{g}**
+    - [变强，真的有方法，你也可以轻松的提升 | 001](https://v.douyin.com/Gc_qWQOrjFQ/)
+    - [你学英语的时候为什么总是被短视频带跑 | 003](https://v.douyin.com/un0_lI9wjJk/)
+    - [这个一定要看 你知道语法和单词为什么说不流利 | 013](https://v.douyin.com/8Mv9gt5-O6c/)
+
+  ---
+  **[004. 超级英语 | 认知篇]{g}**
+    - [每天熬夜刷手机说的是你吗 | 001](https://v.douyin.com/vrd-h1uj-Js/)
+    - [Youtuber: Dr. Shadé Zahrai | 每天熬夜刷手机说的是你吗 | 007](https://v.douyin.com/vrd-h1uj-Js/)
+    - [开会总被打断怎么办 | 010](https://v.douyin.com/qv_EamNt3nc/)
+    - [韩国小姐姐辞职后全职自媒体如何一步步做起来FROM：博主Jumy | 020](https://v.douyin.com/WsM9_OKyQNc/)
+
+  ---
+  **[005. 超级英语 | 进阶篇]{p}**
+    - [Min: 01:36:39 | 001](https://v.douyin.com/f5jUljVit90/)
+    - [Min: 01:20:20 | 014](https://v.douyin.com/U8fwqtzPaJ8/)
+    - [Min: 15:14 | 024](https://v.douyin.com/56JvBLXJZHY/)
+
+
 ---
-**[Rodica - The Foreign Sun]{p}**
+**[Dr. Shadé Zahrai]{e}**
+* **[Dr. Shadé Zahrai | 144万 | Youtube](https://www.youtube.com/@Dr.ShadeZahrai/videos)**
+  - [5 Signs you're Struggling with Anxiety + 3 Ways to Overcome It](https://www.youtube.com/watch?v=Vv2tm_eVB4k)
+
+  ---
+  **[Career Growth]{s}**
+    - [Career Growth](https://www.youtube.com/watch?v=4vetoRA3WUA&list=PLy-p9tvzOsANPOJ9Xbn31y-soLxA2Nnhb)
+
+---
+**[The Savage Narrator]{g}**
+* **[The Savage Narrator | 16.5万 | Youtube](https://www.youtube.com/@TheSavageNarrator/videos)**
+  - [50 Money Secrets That Feels Illegal to Know](https://www.youtube.com/watch?v=kymwGHSEXAk)
+
+---
+**[Rodica - The Foreign Sun]{e}**
 * **[Rodica - The Foreign Sun | 17.9万 | Youtube](https://www.youtube.com/@TheForeignSunEnglish)**
+  - [My Mistakes & Failures as a 34-Year-Old](https://www.youtube.com/watch?v=t5-n1iSXKmw)
+  - [How I Got My American Accent](https://www.youtube.com/watch?v=Exc7nqVF9pU)
+  - [How to Practice English by Yourself](https://www.youtube.com/watch?v=bFwFwRuvw_M&list=PLfGkLjkgpXSDqJtFZALwMBgM5P25NEZvr)
 * **[Rodica | English Teacher | TikTok](https://www.tiktok.com/@theforeignsun)**
 
 ---
-**[Easy English With Cat]{p}**
+**[Albina Sultanova]{e}**
+* **[Albina Sultanova | 10.8万 | Youtube](https://www.youtube.com/@lovenglish_4u/videos)**
+  - [Do’s & Don’ts of Learning English](https://www.youtube.com/watch?v=Z3gqMqmO4MY)
+  - [Confusing Phrasal verbs with multiple meanings](https://www.youtube.com/watch?v=flgIMOxTFMo)
+
+---
+**[Easy English With Cat]{e}**
 * **[Easy English With Cat | 2.84万 | Youtube](https://www.youtube.com/@EasyEnglishWithCat/videos)**
   - [speak English language easy.](https://www.youtube.com/watch?v=7coI6NkzEa8)
   - [Why you can’t speak English](https://www.youtube.com/watch?v=7coI6NkzEa8)
   - [How I’d Learn Any Language from 0](https://www.youtube.com/watch?v=DWLbUzrEPFo)
+  - [How I Became More Confident](https://www.youtube.com/watch?v=nm4o6p4cMsM)
+  - [How I Learned German from Scratch: The Honest Truth No One Told Me](https://www.youtube.com/watch?v=Hi8-RaA8ldQ)
+  - [The TRUTH About Moving Abroad](https://www.youtube.com/watch?v=fM4BL_cztzI)
+* **[Easy English With Cat | easy.english.with701 | Titok](https://www.tiktok.com/@easy.english.with701)**
 
 ---
 **[English by Jay - Sprout]{p}**
@@ -2915,15 +2971,10 @@
   - [Cn: 在Sprout 🌱上与Jay-i对话，沉浸在英语中，变得流利.]{g}
 
 ---
-**[Massi's World]{p}**
+**[Massi's World]{e}**
 * **[Massi's World | 2.66万 | Youtube](https://www.youtube.com/@MassiWorld/videos)**
   - [Don’t Make These Mistakes!– Vocabulary](https://www.youtube.com/watch?v=wu9-BM-SHQw)
 * **[Massi's World | tiktok](https://www.tiktok.com/@massiworld1)**
-
----
-**[Rodica - The Foreign Sun]{p}**
-* **[Rodica - The Foreign Sun | 17.9万 | Youtube](https://www.youtube.com/@TheForeignSunEnglish)**
-  - [How to Practice English by Yourself](https://www.youtube.com/watch?v=bFwFwRuvw_M&list=PLfGkLjkgpXSDqJtFZALwMBgM5P25NEZvr)
 
 ---
 **[Learn English with Bob the Canadian]{p}**
@@ -2931,7 +2982,7 @@
   - [How to Remember New English Vocabulary](https://www.youtube.com/watch?v=NaXrzSjsMdI)
 
 ---
-**[克雷兒 Claire]{p}**
+**[克雷兒 Claire]{e}**
 * **[克雷兒 Claire | 38.3万 | Youtube](https://www.youtube.com/@clairesenglish/videos)**
   - [20分鐘一次學會！問路、交通、購物🛍️等獨旅英文](https://www.youtube.com/watch?v=CNg2645n-AE)
 
