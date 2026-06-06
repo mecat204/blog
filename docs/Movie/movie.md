@@ -317,8 +317,8 @@
     - [teachertube·proxy](https://www.teachertube.com/)
     - [Kimivod](https://kimivod.org/vod/show/id/8.html)
     - [我爱ABC](https://www.oiabc.net/)
-    - [Cineby](https://www.cineby.sc/)
-    - [巴别英语](https://www.babelabc.cn/)
+    - **[Cineby](https://www.cineby.sc/)**
+    - **[巴别英语](https://www.babelabc.cn/)**
     - [Bitcine](https://www.bitcine.tv/)
     - [livezy](https://livezy.click/freek/)
     - [nunflix](https://nunflix.org/)
