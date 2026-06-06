@@ -1,10 +1,13 @@
 ### 0000. Download
+**[dlpanda]{p}**
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
+**[abc2022]{p}**
 * **[abc2022](https://www.abc2022.cn)**
 
 ---
+**[free.中国]{p}**
 * **[free.中国](https://free.xn--fiqs8s/)**
 
 ---
@@ -88,6 +91,8 @@
 
 **[P.DOG | 永乐视频]{s}**
 * **[永乐视频](https://www.y6f.net/vodtype/4/)**
+  - [超级马力欧银河大电影](https://www.y6f.net/play/122937-1-1/)
+  - [你的名字](https://www.y6f.net/voddetail/66290/)
 
 **[清禾视频]{s}**
 * **[清禾视频](https://movie.qhdaohang.cn/vodtype/20.html)**
@@ -165,6 +170,122 @@
   - **[香菇影视](https://www.xiangguys.com/)**
 
 ---
+**[proxy·movie]{p}**
+  - [Binge Society-电影片段](https://www.youtube.com/@bingesociety/playlists)
+
+---
+### 0002a. Englearner.site
+**[Englearner.site]{p}**
+* **[Englearner.site](https://www.englearner.site/cn/index.html)**
+
+  ---
+  **[001. 插件]{g}**
+    - [Language Reactor | chrome插件](https://www.languagereactor.com/)
+    - [Trancy | Chrome插件](https://www.trancy.org/zh-cn)
+
+  ---
+  **[002. English Flim]{g}**
+    - [ihavenotv·proxy](https://ihavenotv.com/)
+    - [voscreen·proxy](https://www.voscreen.com/)
+    - [teachertube·proxy](https://www.teachertube.com/)
+    - **[Kimivod](https://kimivod.org/vod/show/id/8.html)**
+    - [我爱ABC](https://www.oiabc.net/)
+    - **[Cineby](https://www.cineby.sc/)**
+    - **[巴别英语](https://www.babelabc.cn/)**
+    - [Bitcine](https://www.bitcine.tv/)
+    - [livezy](https://livezy.click/freek/)
+    - [nunflix](https://nunflix.org/)
+
+---
+### 0003. Bttwo  | proxy | Film-Note
+**[Bttwo]{p}**
+  - **[bttwo.vip](https://bttwo.vip/)**
+  - **[bttwo.org](https://www.bttwo.org/)**
+  - **[bttwo.me](https://www.bttwo.me)**
+
+---
+**[麦田影院]{p}**
+  - [麦田影院TV](https://www.mtyy.tv/)
+  - [麦田影院](https://www.mtyy4.com/)
+
+**[嘀嗒影视]{p}**
+  - [嘀嗒影视](https://www.didahd.pro/)
+
+**[天空影视]{p}**
+  - [天空影视](https://skyyyds.com/)
+
+---
+**[黑白-国外电影-精神-战斗]{p}**
+* **黑白-国外电影-精神-战斗 美少女特工队 大鹅 梦境制作models**
+  - [Sucker Punch | 4K Trailer | Warner Bros. Entertainment](https://www.youtube.com/watch?v=vJ0xYZ5mVMc)
+  - [异界-大鹅科幻作品](https://www.youtube.com/watch?v=AN1ffslY1cw)
+  - **[2020年 | 俄罗斯 | 异界](https://www.bttwo.org/play/ch28a0aou)**
+  - **[异界](https://www.4kvm.net/movies/yj)**
+  - [Lucy | 超体](https://www.bttwo.org/play/ch3d9uaz4)
+  - [哈利波特](https://www.bttwo.org/play/ch1j3j578)
+
+---
+* **脑开发 100% 国外电影 超体 Lucy**
+  - [Lucy: Lucy meets Lucy](https://www.youtube.com/watch?v=UcDjWCEvZLM)
+  - [LUCY 2 (2026)](https://www.youtube.com/watch?v=deMHi69NA1Q)
+
+---
+**[Quark]{p}**
+  - [逆世界](https://pan.quark.cn/s/fdf3e32f44ac#/list/share)
+  - [可爱的骨头](https://pan.quark.cn/s/627222c2d675#/list/share)
+  - [美少女特攻队](https://pan.quark.cn/s/edd7d256bc3b#/list/share)
+
+---
+* **[腾讯视频 - 动漫 - Get the WeTV APP | 148万 | Youtube](https://www.youtube.com/@TencentVideoAnimation/videos)**
+  - **[画江湖之不良人第七季：九幽玄天](https://www.youtube.com/watch?v=yP16SeL5AzE)**
+
+---
+* **[Believer.67](https://v.douyin.com/sdprE26WI48/)**
+  - [共鸣叙事家·去找到你生命中的快乐！](https://v.douyin.com/kQjzqhUHk2k/)
+  - [荒野生存](https://v.douyin.com/J_jP3V0t678/)
+
+---
+### 0004. mvcat | 厂长资源
+**[mvcat]{p}**
+  * **[mvcat](https://www.mvcat.com/)**
+    - **[在线电影](https://maohaha.com/n/2053/#https://maohaha.com/c/51845/)**
+      * **[毒舍电影](https://www.dushe05.com/)**
+
+  ---
+  **[低端影视]{p}**
+  * **[低端影视](https://maohaha.com/c/9417/)**
+    - **[ddys.run](https://www.ddys.run)**
+    - **[ddys.io](https://ddys.io/)**
+    - [ddys.la](https://www.ddys.la)
+    - [ddys.pw](https://www.ddys.pw)
+    - [ddys.ws](https://www.ddys.ws)
+    - [ddys.city](https://www.ddys.city)
+
+    ---
+    * **[注视影视](https://gaze.run/)**
+    * **[磁力熊](https://www.cilixiong.org/)**
+    * **[韩剧网](https://www.hanju7.com/)**
+    * **[日本动漫 | 番剧尽在番茶屋 | 免费观看高清动漫_经典 | 新番全覆盖](https://www.fanchawu.cc/)**
+    * **[🍉西瓜卡通](https://cn.xgcartoon.com/)**
+    * **[搜片 | 搜你想看的影片](https://soupian.one/)**
+
+  ---
+  **[厂长资源]{p}**
+  - **[厂长资源](https://www.czzy.site/)**
+    * **[czzymovie](https://www.czzymovie.com/)**
+      - **[2013年 | 美国 | 地心引力](https://www.czzymovie.com/v_play/bXZfMzQyNS1ubV8=.html)**
+      - **[豆瓣电影Top250](https://www.czzymovie.com/dbtop250/)**
+        * **[1953年 | 美国 | 罗马假日 | 奥黛丽·赫本 |  格利高里·派克](https://www.czzymovie.com/v_play/bXZfNzMwNi1ubV8x.html)**
+    * **[cz4k](https://www.cz4k.com/)**
+      - [The Super Mario Bros. Movie | 超级马力欧兄弟大电影](https://www.cz4k.com/movie/5802.html)
+    * **[4kcz](https://www.4kcz.com/)**
+
+---
+### 0005. TV-小品
+* **[百家观察·相声小品](https://www.youtube.com/watch?v=tFcW-VJ_HR4&list=PLxD8kq6jJ87MAEhKQt0HNef0OxFiCdh4I)**
+
+---
+### 0005a. Douyin | 影视 | 云盘
 * **[Also | 绘梦 | 百章 | Douyin](https://v.douyin.com/ImjTwLpQbNE/)**
   - [云山之间，仿佛有人在悄悄**绘梦** | midjourney | ai视频 | 审美积累 | mj | 治愈系风景](https://v.douyin.com/F7LCYbgH5Po/)
     * **[剑与魔法的世界]()**
@@ -301,121 +422,6 @@
   - **[大遼太后 The Empress Dowager of Great Liao (1995)](https://www.youtube.com/watch?v=0Laq0cqKN20)**
   - **[新天龙八部之天山童姥](https://www.youtube.com/watch?v=v3LmGve2HRQ)**
   - **[国产凌凌漆](https://www.youtube.com/watch?v=kdilUANii6s)**
-
----
-**[proxy·movie]{p}**
-  - [Binge Society-电影片段](https://www.youtube.com/@bingesociety/playlists)
-
----
-### 0002a. Englearner.site
-**[Englearner.site]{p}**
-* **[Englearner.site](https://www.englearner.site/cn/index.html)**
-
-  ---
-  **[001. 插件]{g}**
-    - [Language Reactor | chrome插件](https://www.languagereactor.com/)
-    - [Trancy | Chrome插件](https://www.trancy.org/zh-cn)
-
-  ---
-  **[002. English Flim]{g}**
-    - [ihavenotv·proxy](https://ihavenotv.com/)
-    - [voscreen·proxy](https://www.voscreen.com/)
-    - [teachertube·proxy](https://www.teachertube.com/)
-    - [Kimivod](https://kimivod.org/vod/show/id/8.html)
-    - [我爱ABC](https://www.oiabc.net/)
-    - **[Cineby](https://www.cineby.sc/)**
-    - **[巴别英语](https://www.babelabc.cn/)**
-    - [Bitcine](https://www.bitcine.tv/)
-    - [livezy](https://livezy.click/freek/)
-    - [nunflix](https://nunflix.org/)
-
----
-### 0003. Bttwo  | proxy | Film-Note
-**[Bttwo]{p}**
-  - **[bttwo.vip](https://bttwo.vip/)**
-  - **[bttwo.org](https://www.bttwo.org/)**
-  - **[bttwo.me](https://www.bttwo.me)**
-
----
-**[麦田影院]{p}**
-  - [麦田影院TV](https://www.mtyy.tv/)
-  - [麦田影院](https://www.mtyy4.com/)
-
-**[嘀嗒影视]{p}**
-  - [嘀嗒影视](https://www.didahd.pro/)
-
-**[天空影视]{p}**
-  - [天空影视](https://skyyyds.com/)
-
----
-**[黑白-国外电影-精神-战斗]{p}**
-* **黑白-国外电影-精神-战斗 美少女特工队 大鹅 梦境制作models**
-  - [Sucker Punch | 4K Trailer | Warner Bros. Entertainment](https://www.youtube.com/watch?v=vJ0xYZ5mVMc)
-  - [异界-大鹅科幻作品](https://www.youtube.com/watch?v=AN1ffslY1cw)
-  - **[2020年 | 俄罗斯 | 异界](https://www.bttwo.org/play/ch28a0aou)**
-  - **[异界](https://www.4kvm.net/movies/yj)**
-  - [Lucy | 超体](https://www.bttwo.org/play/ch3d9uaz4)
-  - [哈利波特](https://www.bttwo.org/play/ch1j3j578)
-
----
-* **脑开发 100% 国外电影 超体 Lucy**
-  - [Lucy: Lucy meets Lucy](https://www.youtube.com/watch?v=UcDjWCEvZLM)
-  - [LUCY 2 (2026)](https://www.youtube.com/watch?v=deMHi69NA1Q)
-
----
-**[Quark]{p}**
-  - [逆世界](https://pan.quark.cn/s/fdf3e32f44ac#/list/share)
-  - [可爱的骨头](https://pan.quark.cn/s/627222c2d675#/list/share)
-  - [美少女特攻队](https://pan.quark.cn/s/edd7d256bc3b#/list/share)
-
----
-* **[腾讯视频 - 动漫 - Get the WeTV APP | 148万 | Youtube](https://www.youtube.com/@TencentVideoAnimation/videos)**
-  - **[画江湖之不良人第七季：九幽玄天](https://www.youtube.com/watch?v=yP16SeL5AzE)**
-
----
-* **[Believer.67](https://v.douyin.com/sdprE26WI48/)**
-  - [共鸣叙事家·去找到你生命中的快乐！](https://v.douyin.com/kQjzqhUHk2k/)
-  - [荒野生存](https://v.douyin.com/J_jP3V0t678/)
-
----
-### 0004. mvcat | 厂长资源
-**[mvcat]{p}**
-  * **[mvcat](https://www.mvcat.com/)**
-    - **[在线电影](https://maohaha.com/n/2053/#https://maohaha.com/c/51845/)**
-      * **[毒舍电影](https://www.dushe05.com/)**
-
-  ---
-  **[低端影视]{p}**
-  * **[低端影视](https://maohaha.com/c/9417/)**
-    - **[ddys.run](https://www.ddys.run)**
-    - **[ddys.io](https://ddys.io/)**
-    - [ddys.la](https://www.ddys.la)
-    - [ddys.pw](https://www.ddys.pw)
-    - [ddys.ws](https://www.ddys.ws)
-    - [ddys.city](https://www.ddys.city)
-
-    ---
-    * **[注视影视](https://gaze.run/)**
-    * **[磁力熊](https://www.cilixiong.org/)**
-    * **[韩剧网](https://www.hanju7.com/)**
-    * **[日本动漫 | 番剧尽在番茶屋 | 免费观看高清动漫_经典 | 新番全覆盖](https://www.fanchawu.cc/)**
-    * **[🍉西瓜卡通](https://cn.xgcartoon.com/)**
-    * **[搜片 | 搜你想看的影片](https://soupian.one/)**
-
-  ---
-  **[厂长资源]{p}**
-  - **[厂长资源](https://www.czzy.site/)**
-    * **[czzymovie](https://www.czzymovie.com/)**
-      - **[2013年 | 美国 | 地心引力](https://www.czzymovie.com/v_play/bXZfMzQyNS1ubV8=.html)**
-      - **[豆瓣电影Top250](https://www.czzymovie.com/dbtop250/)**
-        * **[1953年 | 美国 | 罗马假日 | 奥黛丽·赫本 |  格利高里·派克](https://www.czzymovie.com/v_play/bXZfNzMwNi1ubV8x.html)**
-    * **[cz4k](https://www.cz4k.com/)**
-      - [The Super Mario Bros. Movie | 超级马力欧兄弟大电影](https://www.cz4k.com/movie/5802.html)
-    * **[4kcz](https://www.4kcz.com/)**
-
----
-### 0005. TV-小品
-* **[百家观察·相声小品](https://www.youtube.com/watch?v=tFcW-VJ_HR4&list=PLxD8kq6jJ87MAEhKQt0HNef0OxFiCdh4I)**
 
 ---
 ### 0006. Movie | 介绍
@@ -1072,25 +1078,25 @@
 
 ---
 ### 0029. 记忆考古学 | 童年回忆
-**[记忆考古学]{p}**
+**[记忆考古学 | 童年回忆]{p}**
 
 ---
-**[The Twins of Destiny 《龙之子》|《命运双子》]{p}**
+**[The Twins of Destiny 《龙之子》|《命运双子》]{g}**
 * **[The Twins of Destiny | 1991年 | 《龙之子》/《命运双子》| 龙族双子对抗晚清政权](https://www.youtube.com/playlist?list=PLEFPOCymKSrc5F5PJoY35eLBDsSxlSpea)**
 
 ---
-**[叮当猫]{p}**
+**[叮当猫]{g}**
 * **[Arissa Chan | 148 | Youtube](https://www.youtube.com/@arissachan1975/videos)**
   - **[叮当猫 | Pokonyan | 1993-1996 | Japan | 1998年引进中国大陆](https://www.youtube.com/watch?v=m8U2YAdnD9U&list=PLMSO0uLrlUfqrNj3DJB2ZXaxi2Y3Laedc)**
 
 ---
-**[小蜜蜂寻亲记]{p}**
+**[小蜜蜂寻亲记]{g}**
 * **[Chidab DDunder | 1080 | Youtube](https://www.youtube.com/@chidabddunder6463/videos)**
   - **[The Adventures of Hutch the Honeybee | 小蜜蜂寻亲记 | 1989–1990 | Japan](https://www.youtube.com/playlist?list=PLebfQz0qETrtTflSGPVBnrPvMWuK6sI7q)**
   - **[Download | Google云端硬盘](https://drive.google.com/drive/folders/1nxW_ee0FggEm9oczKbz2BtISNTwK13_y)**
 
 ---
-**[Blue Blink | 青色杜马]{p}**
+**[Blue Blink | 青色杜马]{g}**
 * **[Aya Brea | 32位 | Youtube](https://www.youtube.com/@ayabrea013/videos)**
   - [Aoi Blink Blue Blink Ep. 11-15 English Sub | **Blue Blink | 青色杜马**](https://www.youtube.com/watch?v=akbrTYqPEe0)
 
@@ -1099,7 +1105,7 @@
 * **[童年4K动画商店 | 童年动画定制4K修复 | 伍佰章 | Douyin](https://v.douyin.com/ZgVBVK1Dil0/)**
 
 ---
-**[光明世界 | 1997 | 中澳合拍]{p}**
+**[光明世界 | 1997 | 中澳合拍]{g}**
 * **[光明世界 | 深呼吸](https://v.douyin.com/_dW_JUdkNYA/)**
 * **[光明世界 大结局](https://v.douyin.com/3BeqyiihqgU/)**
 * **[Spellbinder: Land of the Dragon Lord | Season 2 | 光明世界](https://www.youtube.com/playlist?list=PLl48jMfth9b9P_qS0mZz71uWTgOtCF3ip)**
@@ -1111,7 +1117,7 @@
 * **[太守 | 三日不观影便觉灵台蒙尘」 下一期《冰雪奇缘 2》| 佰章 | Douyin](https://v.douyin.com/o1oi8hBHtaI/)**
 
   ---
-  **001. 名著重映**
+  **[001. 名著重映]{g}**
     - [唯有在爱与责任中学会成长，幸福才会真正稳固而长久。 **爱玛** | 001](https://v.douyin.com/wRIWO6FMom4/)
     - [爱，是摒弃傲慢与偏见之后的曙光。**傲慢与偏见** | 005](https://v.douyin.com/mA_8IKEG5iE/)
     - [不折不扣的传奇：**彼得兔的作者波特小姐** | 012](https://v.douyin.com/GeF8h4TUoxA/)
@@ -1123,7 +1129,16 @@
 
 ---
 ### 9999. Download
+**[dlpanda]{p}**
 * **[dlpanda](https://www.dlpanda.com)**
+
+---
+**[abc2022]{p}**
+* **[abc2022](https://www.abc2022.cn)**
+
+---
+**[free.中国]{p}**
+* **[free.中国](https://free.xn--fiqs8s/)**
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
