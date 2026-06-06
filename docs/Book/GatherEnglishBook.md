@@ -22,6 +22,10 @@
 * **[读享不独享 - 海外华人的中文阅读网站](https://readershare.org/)**
 
 ---
+**[雅书 - 免费PDF电子书下载网站]{p}**
+* **[雅书](https://yabook.org/)**
+
+---
 ### 0001. Wow English 台词本
 **[Wow English 台词本]{p}**
   - [Wow English](https://v.douyin.com/8h3axmcalqc/)
@@ -42,6 +46,24 @@
 **[纳瓦尔宝典]{p}**
   - [马斯克推崇的男人，纳瓦尔智慧的宝典，我提炼了3个改变认知的观点 | 杨竹筠](https://v.douyin.com/Vych2jLfxgQ/)
   - [读享不独享](https://readershare.org/?p=2565)
+
+---
+**[1200 key English Words | seed learning出版社]{p}**
+  - [1200 key English Words  | 三套教材一共涵盖了1200、4500、7200三个词汇量级](https://v.douyin.com/Apk99QNZ854/)
+  - **[seed-learning](https://www.seed-learning.com/pages/books/book_list.asp#searchAfter)**
+
+---
+**[中国历代状元文章精选]{p}**
+  - [中国历代状元文章精选](https://v.douyin.com/i_pQ-liAiuw/)
+  - [中国历代状元文章精选](https://s.zhangyue.com/read?bid=13184473&cid=11&anchorId=&rentId=100983&appId=748ab574)
+
+---
+**[地图上的中国通史]{p}**
+  - [地图上的中国通史](https://v.douyin.com/4jDhC9aaTJE/)
+
+**[这个词是怎么来的 英语单词起源趣谈]{p}**
+  - [这个单词怎么来的 flour | 英法双语的易冰](https://v.douyin.com/yR7P4xKqKFg/)
+  - [这个词是怎么来的 英语单词起源趣谈](https://s.zhangyue.com/read?bid=10159309&cid=26&anchorId=&rentId=108040&appId=2a9d9424)
 
 ---
 ### 9999. Download
@@ -66,6 +88,10 @@
 ---
 **[读享不独享 - 海外华人的中文阅读网站]{p}**
 * **[读享不独享 - 海外华人的中文阅读网站](https://readershare.org/)**
+
+---
+**[雅书 - 免费PDF电子书下载网站]{p}**
+* **[雅书](https://yabook.org/)**
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
