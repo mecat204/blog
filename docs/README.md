@@ -12,18 +12,18 @@
 
 ---
 ## 📘 学习体系
-### 英语学习
-- EnglishCourse（完整课程体系）
-- 同义词辨析词典
-- 构词法速查表
-- 瞬间记单词
-
 ### 技术学习
 - 技术栈
 - CodeSnippet
 - TechnicalGuide
 - Markdown 语法
 - Bash / Git
+
+### 英语学习
+- EnglishCourse（完整课程体系）
+- 同义词辨析词典
+- 构词法速查表
+- 瞬间记单词
 
 ---
 ## 📖 人文与思想

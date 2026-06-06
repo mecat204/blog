@@ -73,6 +73,10 @@
 **[English Fluency Journey]{p}**
 * **[油管顶级外教Anna外教频道 English Fluency Journey 跟外教学正宗口语发音 流利英语之路](https://www.bilibili.com/video/BV1p8oTBNEa5/?spm_id_from=333.1387.homepage.video_card.click)**
 
+* **[English Fluency Journey 安娜流利口语](https://www.bilibili.com/video/BV1iPLe6aEte/?spm_id_from=333.1387.homepage.video_card.click)**
+
+* **[English Fluency Journey 最全合计](https://www.bilibili.com/video/BV1UC9mY4EdJ/?spm_id_from=333.1387.upload.video_card.click)**
+
 ---
 ### 0005. YouTube英语课堂 | Bilibili
 **[YouTube英语课堂]{p}**
@@ -194,7 +198,7 @@
   - **[SciShow Kids | 美国科学秀](https://www.bilibili.com/video/BV1BUL7zqEZ9/?spm_id_from=333.1387.homepage.video_card.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
 
 ---
-### 0014. 哈佛学霸圈 | Family Album U.S.A. | SciShow Kids | Bilibili
+### 0014. 哈佛学霸圈 | Family Album U.S.A. | SciShow Kids  | 61.1万 | Bilibili
 **[哈佛学霸圈 | SciShow Kids | 海量科学知识 培养孩子好奇心 | Family Album U.S.A. | 走遍美国]{p}**
 * **[哈佛学霸圈 | 61.1万 | Bilibili ](https://space.bilibili.com/389158539?spm_id_from=333.788.upinfo.head.click)**
   - **[SciShow Kids | 海量科学知识 培养孩子好奇心](https://www.bilibili.com/video/BV1miVuzdEnh/?spm_id_from=333.337.search-card.all.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
@@ -277,6 +281,11 @@
 ### 0021. English with EnglishClass101.com | Bilibili
 **[English with EnglishClass101.com]{p}**
 * **[Learn English with EnglishClass101.com | Bilibili](https://www.bilibili.com/video/BV16SmwYPEza/?spm_id_from=333.337.search-card.all.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
+
+* **[English Class 101 | Alisha](https://www.bilibili.com/video/BV16e411R7nT?spm_id_from=333.788.videopod.episodes&p=6)**
+
+**[Learn Basic English Vocabulary | Alisha·101com]{g}**
+  - [Learn Basic English Vocabulary | Alisha·101com](https://www.bilibili.com/video/BV1fuiKBTEPQ/?spm_id_from=333.1387.homepage.video_card.click)
 
 ---
 ### 0021a. KT英语
@@ -476,7 +485,7 @@
 * **[Learn English LIVE with Alisha | Every Thursday](https://www.bilibili.com/video/BV137411b7Fu/?spm_id_from=333.788.recommend_more_video.0&trackid=web_related_0.router-related-2479604-5tzfh.1776877608686.356)**
 
 ---
-* **[ Learn English LIVE with Alisha Every Thursday](https://www.bilibili.com/video/BV1ghsAe2Ewu/?spm_id_from=333.337.search-card.all.click)**
+* **[Learn English LIVE with Alisha Every Thursday](https://www.bilibili.com/video/BV1ghsAe2Ewu/?spm_id_from=333.337.search-card.all.click)**
 
 ---
 * **[Alisha保姆级教程](https://www.bilibili.com/video/BV1S7411K7K7/?spm_id_from=333.337.search-card.all.click)**
@@ -643,6 +652,19 @@
 ### 0063. 克雷兒Claire
 **[克雷兒Claire]{p}**
 * **[克雷兒Claire | 249](https://www.bilibili.com/video/BV15Z4y1m7kK/?spm_id_from=333.1387.homepage.video_card.click)**
+
+---
+### 0064. 红雕学堂
+**[红雕学堂]{p}**
+* **[红雕学堂 | 守正归零, 自强不息! 少年得志一帆船, 大器晚成方为道; 寒门起家无良方, 一生输赢全靠拼; 时机未到,  莫怨莫念莫急躁; 要忍要容要归零](https://space.bilibili.com/3546664117734035?spm_id_from=333.337.0.0)**
+
+**[Learn Basic English Vocabulary | Alisha·101com]{g}**
+  - [Learn Basic English Vocabulary | Alisha·101com](https://www.bilibili.com/video/BV1fuiKBTEPQ/?spm_id_from=333.1387.homepage.video_card.click)
+
+---
+**[English fluency journey]{g}**
+  - [How to Learn English | English fluency journey | 001](https://www.bilibili.com/video/BV1qhH2zPEs6/?spm_id_from=333.1387.homepage.video_card.click)
+  - [How to Learn English | English fluency journey | 002](https://www.bilibili.com/video/BV17aHZzAEzM/?spm_id_from=333.1387.homepage.video_card.click)
 
 ---
 ### 9999. 开源项目

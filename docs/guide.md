@@ -9,6 +9,25 @@
 - 精选账号
 
 ---
+## 🛠 技术
+- 技术栈
+- CodeSnippet
+- TechnicalGuide
+- Markdown
+- Bash
+- VS Code
+
+---
+## 📘 英语学习
+- LearnEnglishCourse
+- Bilibili
+- Vlog
+- 小学 / 初中体系
+- AiTeacher
+- EnglishLearn
+- 翻译 / 小说 / ML Systems
+
+---
 ## 📖 文学
 - 古诗文（唐诗·宋词）
 - 当代文学
@@ -27,29 +46,10 @@
 - 动漫
 
 ---
-## 📘 英语学习
-- LearnEnglishCourse
-- Bilibili
-- Vlog
-- 小学 / 初中体系
-- AiTeacher
-- EnglishLearn
-- 翻译 / 小说 / ML Systems
-
----
 ## 🧠 思考与人文
 - 千集录
 - 哲学（道家）
 - 心理学
-
----
-## 🛠 技术
-- 技术栈
-- CodeSnippet
-- TechnicalGuide
-- Markdown
-- Bash
-- VS Code
 
 ---
 ## 📚 词汇与语言
@@ -61,4 +61,5 @@
 - Collection
 - CommonSense
 - Work
+- Genshin Impact
 

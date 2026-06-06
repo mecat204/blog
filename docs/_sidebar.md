@@ -9,44 +9,15 @@
   - [Bilibili](精选账号/Bilibili)
 
 ---
-* **文学**
-  - **古代文学**
-    * [古诗文 | 唐诗·宋词为主](文学/古代文学/001.古诗文)
-  - **当代文学**
-    * [当代文学](文学/当代文学/001.当代)
-
----
-* **理想生活**
-  - [理想的生活](理想生活/理想的生活)
-  - [旅居](理想生活/旅居)
-  - [我要我的人生过的精彩](理想生活/我要我的人生过的精彩)
-
----
-* **摄影·壁纸**
-  - [视频·壁纸·Memory](摄影·壁纸/视频·壁纸·Memory)
-
----
-* **如梦令**
-  - [助眠](如梦令/助眠)
-  - [思绪](如梦令/思绪)
-  - [国风·艺术·古风](如梦令/国风·艺术·古风)
-  - [健康养生](如梦令/健康养生)
-
----
-* **Music**
-  - [music](Music/music)
-  - [AiSinger](Music/AiSinger)
-  - [英文歌曲](Music/英文歌曲)
-  - [BilibliYoutube](Music/BilibliYoutube)
-  - [二胡](Music/二胡)
-  - [古琴](Music/古琴)
-  - [钢琴](Music/钢琴)
-  - [笛子](Music/笛子)
-  - [小提琴](Music/小提琴)
-  - [流行歌手](Music/流行歌手)
-  - [歌词](Music/歌词)
-  - [轻音乐](Music/轻音乐)
-  - [华语乐坛](Music/华语乐坛)
+* **技术栈**
+  - [OpenSource](技术栈/0000.OpenSource)
+  - [技术栈](技术栈/0001.技术栈)
+  - [关于iPhone联网](技术栈/0002.关于iPhone联网)
+  - [技术网站](技术栈/0003.技术网站)
+  - [AI创客](技术栈/0004.AI创客)
+  - [星空](技术栈/0005.星空)
+  - [短链接风险与对策](技术栈/0006.bit.ly-短链接风险与对策)
+  - [GPT推荐站点](技术栈/0007.GPT推荐站点)
 
 ---
 * **EnglishCourse**
@@ -109,6 +80,46 @@
   - [构词法速查表](Book/构词法速查表)
 
 ---
+* **文学**
+  - **古代文学**
+    * [古诗文 | 唐诗·宋词为主](文学/古代文学/001.古诗文)
+  - **当代文学**
+    * [当代文学](文学/当代文学/001.当代)
+
+---
+* **理想生活**
+  - [理想的生活](理想生活/理想的生活)
+  - [旅居](理想生活/旅居)
+  - [我要我的人生过的精彩](理想生活/我要我的人生过的精彩)
+
+---
+* **摄影·壁纸**
+  - [视频·壁纸·Memory](摄影·壁纸/视频·壁纸·Memory)
+
+---
+* **如梦令**
+  - [助眠](如梦令/助眠)
+  - [思绪](如梦令/思绪)
+  - [国风·艺术·古风](如梦令/国风·艺术·古风)
+  - [健康养生](如梦令/健康养生)
+
+---
+* **Music**
+  - [music](Music/music)
+  - [AiSinger](Music/AiSinger)
+  - [英文歌曲](Music/英文歌曲)
+  - [BilibliYoutube](Music/BilibliYoutube)
+  - [二胡](Music/二胡)
+  - [古琴](Music/古琴)
+  - [钢琴](Music/钢琴)
+  - [笛子](Music/笛子)
+  - [小提琴](Music/小提琴)
+  - [流行歌手](Music/流行歌手)
+  - [歌词](Music/歌词)
+  - [轻音乐](Music/轻音乐)
+  - [华语乐坛](Music/华语乐坛)
+
+---
 * **千集录**
   - [哲思](千集录/001.哲思)
   - [千思集](千集录/002.千思集)
@@ -127,17 +138,6 @@
 ---
 * **心理学**
   - [情感心理学](心理学/情感心理学)
-
----
-* **技术栈**
-  - [OpenSource](技术栈/0000.OpenSource)
-  - [技术栈](技术栈/0001.技术栈)
-  - [关于iPhone联网](技术栈/0002.关于iPhone联网)
-  - [技术网站](技术栈/0003.技术网站)
-  - [AI创客](技术栈/0004.AI创客)
-  - [星空](技术栈/0005.星空)
-  - [短链接风险与对策](技术栈/0006.bit.ly-短链接风险与对策)
-  - [GPT推荐站点](技术栈/0007.GPT推荐站点)
 
 ---
 * **动漫**
@@ -160,29 +160,6 @@
   - [Game](Game/game)
 
 ---
-* **Genshin Impact E2C**
-  - [001-010](GenshinImpactE2C/001-010)
-  - [011-020](GenshinImpactE2C/011-020)
-  - [021-030](GenshinImpactE2C/021-030)
-  - [031-040](GenshinImpactE2C/031-040)
-  - [041-050](GenshinImpactE2C/041-050)
-  - [051-060](GenshinImpactE2C/051-060)
-  - [061-070](GenshinImpactE2C/061-070)
-  - [071-080](GenshinImpactE2C/071-080)
-  - [081-090](GenshinImpactE2C/081-090)
-  - [091-100](GenshinImpactE2C/091-100)
-  - [101-110](GenshinImpactE2C/101-110)
-  - [111-120](GenshinImpactE2C/111-120)
-  - [121-130](GenshinImpactE2C/121-130)
-  - [131-140](GenshinImpactE2C/131-140)
-  - [141-150](GenshinImpactE2C/141-150)
-  - [151-160](GenshinImpactE2C/151-160)
-  - [161-170](GenshinImpactE2C/161-170)
-  - [171-180](GenshinImpactE2C/171-180)
-  - [181-190](GenshinImpactE2C/181-190)
-  - [191-200](GenshinImpactE2C/191-200)
-
----
 * **Movie**
   - [Movie](Movie/movie)
   - [Online](Movie/online)
@@ -202,43 +179,6 @@
     * [图文散篇](星海/图文散篇/人间道)
   - [凡人修仙](星海/凡人修仙)
   - [传统武术·赛博武侠](星海/传统武术·赛博武侠)
-
----
-* **Collection**
-  - [readme](Collection/readme)
-  - [Todaytask](Collection/Todaytask)
-  - [时政](Collection/时政)
-  - [信息财经](Collection/信息财经)
-  - [tips](Collection/tips)
-  - [问小白](Collection/问小白)
-  - [古今文学](Collection/古今文学)
-  - [备忘录](Collection/备忘录)
-  - [名人录](Collection/名人录)
-  - [原神·人物志](Collection/原神·人物志)
-  - [码农](Collection/码农)
-  - [中外艺人简介](Collection/中外艺人简介)
-  - [中外剧作史学](Collection/中外剧作史学)
-  - [网络新闻](Collection/网络新闻)
-  - [环球户外风光](Collection/环球户外风光)
-  - [江湖侠客](Collection/江湖侠客)
-  - [地理志](Collection/地理志)
-  - [创业&&财经](Collection/创业&&财经)
-  - [牛马三部曲](Collection/牛马三部曲)
-  - [心理学·思想史](Collection/心理学·思想史)
-  - [哲学史](Collection/哲学史)
-  - [世界树](Collection/世界树)
-  - [道法自然](Collection/道法自然)
-  - [综艺](Collection/综艺)
-  - [战情简报](Collection/战情简报)
-  - [AI实战派](Collection/AI实战派)
-  - [AI+VR+XR+AR眼镜发展](Collection/AI+VR+XR+AR眼镜发展)
-  - [CollegeCourse](Collection/CollegeCourse)
-  - [CodingSource](Collection/CodingSource)
-  - [Download](Collection/Download)
-  - [Douyin](Collection/Douyin)
-  - [影视剧介绍](Collection/影视剧介绍)
-  - [ChatGPT.q&w](Collection/ChatGPT.q&w)
-  - [TranslationVault](Collection/TranslationVault)
 
 ---
 * **CodeSnippet**
@@ -288,6 +228,66 @@
 * **Work**
   - [Work](Work/work.md)
   - [ChatGPT](Work/chatpgt)
+
+---
+* **Collection**
+  - [readme](Collection/readme)
+  - [Todaytask](Collection/Todaytask)
+  - [时政](Collection/时政)
+  - [信息财经](Collection/信息财经)
+  - [tips](Collection/tips)
+  - [问小白](Collection/问小白)
+  - [古今文学](Collection/古今文学)
+  - [备忘录](Collection/备忘录)
+  - [名人录](Collection/名人录)
+  - [原神·人物志](Collection/原神·人物志)
+  - [码农](Collection/码农)
+  - [中外艺人简介](Collection/中外艺人简介)
+  - [中外剧作史学](Collection/中外剧作史学)
+  - [网络新闻](Collection/网络新闻)
+  - [环球户外风光](Collection/环球户外风光)
+  - [江湖侠客](Collection/江湖侠客)
+  - [地理志](Collection/地理志)
+  - [创业&&财经](Collection/创业&&财经)
+  - [牛马三部曲](Collection/牛马三部曲)
+  - [心理学·思想史](Collection/心理学·思想史)
+  - [哲学史](Collection/哲学史)
+  - [世界树](Collection/世界树)
+  - [道法自然](Collection/道法自然)
+  - [综艺](Collection/综艺)
+  - [战情简报](Collection/战情简报)
+  - [AI实战派](Collection/AI实战派)
+  - [AI+VR+XR+AR眼镜发展](Collection/AI+VR+XR+AR眼镜发展)
+  - [CollegeCourse](Collection/CollegeCourse)
+  - [CodingSource](Collection/CodingSource)
+  - [Download](Collection/Download)
+  - [Douyin](Collection/Douyin)
+  - [影视剧介绍](Collection/影视剧介绍)
+  - [ChatGPT.q&w](Collection/ChatGPT.q&w)
+  - [TranslationVault](Collection/TranslationVault)
+
+---
+* **Genshin Impact E2C**
+  - [001-010](GenshinImpactE2C/001-010)
+  - [011-020](GenshinImpactE2C/011-020)
+  - [021-030](GenshinImpactE2C/021-030)
+  - [031-040](GenshinImpactE2C/031-040)
+  - [041-050](GenshinImpactE2C/041-050)
+  - [051-060](GenshinImpactE2C/051-060)
+  - [061-070](GenshinImpactE2C/061-070)
+  - [071-080](GenshinImpactE2C/071-080)
+  - [081-090](GenshinImpactE2C/081-090)
+  - [091-100](GenshinImpactE2C/091-100)
+  - [101-110](GenshinImpactE2C/101-110)
+  - [111-120](GenshinImpactE2C/111-120)
+  - [121-130](GenshinImpactE2C/121-130)
+  - [131-140](GenshinImpactE2C/131-140)
+  - [141-150](GenshinImpactE2C/141-150)
+  - [151-160](GenshinImpactE2C/151-160)
+  - [161-170](GenshinImpactE2C/161-170)
+  - [171-180](GenshinImpactE2C/171-180)
+  - [181-190](GenshinImpactE2C/181-190)
+  - [191-200](GenshinImpactE2C/191-200)
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)

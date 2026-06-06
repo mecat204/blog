@@ -83,8 +83,14 @@
 **[宅男影视]{s}**
 * **[宅男影视](https://znys.us/)**
 
-**[饭搭子影视]{s}**
+**[饭搭子影视 | proxy]{g}**
 * **[饭搭子影视](https://fdzys.com/)**
+
+**[永乐视频]{s}**
+* **[永乐视频](https://www.y6f.net/vodtype/4/)**
+
+**[清禾视频]{s}**
+* **[清禾视频](https://movie.qhdaohang.cn/vodtype/20.html)**
 
 ---
 **[4kvm]{p}**
@@ -113,8 +119,8 @@
 
 ---
 **[Novipnoad]{p}**
-  - **[Novipnoad | NO视频为用户提供及时的海外热门剧集在线观看，友好无广告，致力于最轻松的追剧体验。](https://www.novipnoad.net/)**
-
+* **[NO视频 - 网址导航](https://findno.tv/)**
+* **[Novipnoad | NO视频为用户提供及时的海外热门剧集在线观看，友好无广告，致力于最轻松的追剧体验。](https://www.novipnoad.net/)**
 
 ---
 **[4K指南]{p}**
@@ -324,7 +330,7 @@
     - [nunflix](https://nunflix.org/)
 
 ---
-### 0003. Bttwo | Film-Note
+### 0003. Bttwo  | proxy | Film-Note
 **[Bttwo]{p}**
   - **[bttwo.vip](https://bttwo.vip/)**
   - **[bttwo.org](https://www.bttwo.org/)**
@@ -372,7 +378,7 @@
   - [荒野生存](https://v.douyin.com/J_jP3V0t678/)
 
 ---
-### 0004. mvcat
+### 0004. mvcat | 厂长资源
 **[mvcat]{p}**
   * **[mvcat](https://www.mvcat.com/)**
     - **[在线电影](https://maohaha.com/n/2053/#https://maohaha.com/c/51845/)**
@@ -404,6 +410,8 @@
       - **[豆瓣电影Top250](https://www.czzymovie.com/dbtop250/)**
         * **[1953年 | 美国 | 罗马假日 | 奥黛丽·赫本 |  格利高里·派克](https://www.czzymovie.com/v_play/bXZfNzMwNi1ubV8x.html)**
     * **[cz4k](https://www.cz4k.com/)**
+      - [The Super Mario Bros. Movie | 超级马力欧兄弟大电影](https://www.cz4k.com/movie/5802.html)
+    * **[4kcz](https://www.4kcz.com/)**
 
 ---
 ### 0005. TV-小品
