@@ -1,7 +1,9 @@
 ### 0000. Download
+**[dlpanda]{p}**
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
+**[Genshin Impact]{s}**
 * **[深渊灾变甚至整个提瓦特星球。从蒙德，璃玥，稻妻，须弥，枫丹，纳塔，以及将来的至冬，盖莫如是.从九重天到九重之地，都被深渊侵蚀。旅行者在路上，寻找至亲的路途上，也抵抗者深渊的灾难。剧情设定旅行者是可以净化深渊的。这是提瓦特所不具备的。旅行者该是一位拥有大智慧的人。]{g}**
 
 ---
@@ -22,8 +24,8 @@
   ---
   - [《原神》「月之三」版本PV：「终北的夜行诗」](https://www.youtube.com/watch?v=fU6nElrxNRs)
   - [《原神》「月之三」版本特别节目 ](https://www.youtube.com/watch?v=LxT7S7TDd-s)
-  - [《原神》沉玉沐芳 - Disc 1：春风几度醉翘英 ](https://www.youtube.com/watch?v=UM7F_WM1Vhk&list=PLqWr7dyJNgLJCVtbW0yz_CpwpwyVwPJNX&index=1)
-  - [《原神》沉玉沐芳 - Disc 2：翠羽云深隐灵濛](https://www.youtube.com/watch?v=roHkAJvAt9s&list=PLqWr7dyJNgLJCVtbW0yz_CpwpwyVwPJNX&index=2)
+  - [《原神》沉玉沐芳 - Disc 1: 春风几度醉翘英 ](https://www.youtube.com/watch?v=UM7F_WM1Vhk&list=PLqWr7dyJNgLJCVtbW0yz_CpwpwyVwPJNX&index=1)
+  - [《原神》沉玉沐芳 - Disc 2: 翠羽云深隐灵濛](https://www.youtube.com/watch?v=roHkAJvAt9s&list=PLqWr7dyJNgLJCVtbW0yz_CpwpwyVwPJNX&index=2)
 
   ---
   - [《原神》剧情PV-「沙中遗事」](https://www.youtube.com/watch?v=EEGh9J0TH2E)
@@ -91,6 +93,26 @@
 * **[IGNITE | 3.41万 | Youtube](https://www.youtube.com/@IGNITE0911/videos)**
   - [THE COMPLETE STORY OF GENSHIN IMPACT BEFORE SNEZHNAYA - FULL RECAP](https://www.youtube.com/watch?v=6Twj9J6v_Ws)
   - [All Genshin Impact Cutscenes 1.0 - 6.4](https://www.youtube.com/watch?v=wqJXPkOMz4E)
+
+---
+**[The Game Archivist]{p}**
+* **[GENSHIN IMPACT | Full Game Walkthrough | Min: 02:05:49:28](https://www.youtube.com/watch?v=P6p0xxKuwf4)**
+
+---
+**[元素战争·proxy]{p}**
+* **[Genshin: Elemental Warfare - The Series so far](https://www.youtube.com/watch?v=b2eL70orpMo&list=PLeTsdXm4WfIk6grfrYTVqFgsD5v_2A-gs&index=15)**
+* **[Genshin Impact HoYoFair | No_Tables](https://www.youtube.com/watch?v=LhJ6PR7d3bM)**
+* **[博物馆遭遇战 | 原神：元素战争 | Subutai](https://www.youtube.com/watch?v=5EooOdfvCs0)**
+* **[我们终将重逢 | No_Tables](https://www.youtube.com/watch?v=QNvXu7vOi8Y)**
+* **[元素战争：险棋 | No_Tables](https://www.youtube.com/watch?v=EppP7rNHG84)**
+
+---
+**[原神二创]{p}**
+* **[原神与你同行 | 藍色地帶/aiq](https://v.douyin.com/b9J0xgy-JOM/)**
+* **[可莉七七放霄灯 | 藍色地帶/aiq](https://v.douyin.com/BL3jh54fzUc/)**
+* **[枪战 | 藍色地帶/aiq](https://v.douyin.com/gMrvRaYqSSw/)**
+* **[原神：元素战争 | 孤影菠萝](https://v.douyin.com/kf4L66jJ_YI/)**
+* **[原神元素战争系列全集回顾 No_Tables授权 | 游戏策划作家耳东](https://v.douyin.com/jLZLUj06U2I/)**
 
 ---
 ### 0003. Genshin Impact | miHoYo

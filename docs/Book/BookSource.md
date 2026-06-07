@@ -1,10 +1,13 @@
 ### 0000. Download
+**[必应]{p}**
 * **[必应 | bing.com](https://cn.bing.com/)**
 
 ---
-* **[dlpanda](https://dlpanda.com)**
+**[dlpanda]{p}**
+* **[dlpanda](https://www.dlpanda.com)**
 
 ---
+**[24H搜书]{p}**
 * **[24H搜书 | AI驱动的24小时搜书平台](https://24hbook.com/)**
 
 ---
@@ -2489,16 +2492,20 @@
 
 ---
 ### 0037. Coding Book
+**[编程书籍]{p}**
 * **[编程书籍](https://tool.lu/book?page=1)**
 
 ---
 ### 9999. Download
+**[必应]{p}**
 * **[必应 | bing.com](https://cn.bing.com/)**
 
 ---
+**[dlpanda]{p}**
 * **[dlpanda](https://dlpanda.com)**
 
 ---
+**[24H搜书]{p}**
 * **[24H搜书 | AI驱动的24小时搜书平台](https://24hbook.com/)**
 
 ---
