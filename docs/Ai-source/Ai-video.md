@@ -16,6 +16,7 @@
 * **[AI小宝 | 小宝带你穿越千年 · 直击历史名场面现场 | AI短剧导演 | 历史复原研究者 | 学术交流· AI造梦师小宝 | 百章 | 小宝](https://v.douyin.com/G82OlqoQzHc/)**
   - [AI复原张择端《清明上河图》](https://v.douyin.com/-V300tIKciY/)
   - [AI穿越实录｜重返北宋，亲历苏轼《承天寺夜游》现场](https://v.douyin.com/Bz3lQ6o6FZo/)
+  - [AI还原林徽因的一生](https://v.douyin.com/SJv-GuR3KH4/ )
 
   ---
   **[001. 林徽因]{g}**
@@ -35,6 +36,7 @@
 **[AI造梦师小宝]{p}**
 * **[AI造梦师小宝 | 小宝带你穿越千年 · 直击历史名场面现场 | 2440位 | Youtube](https://www.youtube.com/@aixiaobao/videos)**
   - **[邹忌讽齐王纳谏](https://www.youtube.com/watch?v=DCBw5KolJh4)**
+  - **[AI还原林徽因的一生](https://www.youtube.com/watch?v=TjkyyI4U2Lk)**
 
 ---
 **[✨青儿✨]{p}**

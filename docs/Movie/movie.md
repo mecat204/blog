@@ -56,6 +56,7 @@
 * **[libvio.vip](https://libvio.vip/)**
 
 ---
+**[EngLearner]{p}**
 * **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
   - **[Kimivod | 電視劇 電影 動漫 綜藝 線上看](https://kimivod.com/)**
     * [魔俠傳之唐吉可德](https://kimivod.com/vod/30393/1-1.html)
@@ -279,6 +280,15 @@
     * **[cz4k](https://www.cz4k.com/)**
       - [The Super Mario Bros. Movie | 超级马力欧兄弟大电影](https://www.cz4k.com/movie/5802.html)
     * **[4kcz](https://www.4kcz.com/)**
+
+---
+### 0004. zeuis
+**[zeuis]{p}**
+* **[zeuis 工具导航](https://www.zeuis.com/)**
+  - [西瓜影院](https://sszzyy.com/)
+  - [LibreTV](https://libretv.liumingye.cn/)
+  - [影猫の仓库](https://www.ymck.pro/)
+  - [布布追剧](https://asd123sx23xdacsx.top/)
 
 ---
 ### 0005. TV-小品

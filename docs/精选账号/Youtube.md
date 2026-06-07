@@ -2931,7 +2931,7 @@
   - [5 Signs you're Struggling with Anxiety + 3 Ways to Overcome It](https://www.youtube.com/watch?v=Vv2tm_eVB4k)
 
   ---
-  **[Career Growth]{s}**
+  **[Career Growth]{g}**
     - [Career Growth](https://www.youtube.com/watch?v=4vetoRA3WUA&list=PLy-p9tvzOsANPOJ9Xbn31y-soLxA2Nnhb)
 
 ---
