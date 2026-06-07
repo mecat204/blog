@@ -145,7 +145,7 @@
 ---
 **[other]{p}**
   - **[多瑙影院](https://dnvod.org/)**
-  - **[香菇影视](https://www.xiangguys.com/)**
+  - **[香菇影视 | proxy](https://www.xiangguys.com/)**
   * **[时空影院](https://www.skwzt.com/)**
 
 ---

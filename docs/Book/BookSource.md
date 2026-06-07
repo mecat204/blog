@@ -11,6 +11,10 @@
 * **[24H搜书 | AI驱动的24小时搜书平台](https://24hbook.com/)**
 
 ---
+**[zeuis]{p}**
+* **[资源集 | 书格](https://www.shuge.org/collections/)**
+
+---
 ### 0001. proxy·book·website
 **[archive·互联网档案馆]{p}**
 * **[archive·互联网档案馆](https://archive.org/)**
@@ -2507,6 +2511,10 @@
 ---
 **[24H搜书]{p}**
 * **[24H搜书 | AI驱动的24小时搜书平台](https://24hbook.com/)**
+
+---
+**[zeuis]{p}**
+* **[资源集 | 书格](https://www.shuge.org/collections/)**
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
