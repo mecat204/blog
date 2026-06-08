@@ -3024,15 +3024,17 @@
 **[Amber Alexander]{p}**
 * **[Amber Alexander | Youtube | 42.9万](https://www.youtube.com/@amberalexander/videos)**
 
+
+
+
 ---
-### 0024. Amy Natalie
-**[Amy Natalie]{p}**
+### 0024. Gather
+**[Amy Natalie]{e}**
 * **[Amy Natalie | 2.14万 | Youtube](https://www.youtube.com/@amy.natalie/videos)**
   - [living a "boring" life | a quiet life in the countryside](https://www.youtube.com/watch?v=8ma_MSmqd2c)
 
 ---
-### 0025. Gather
-**[Elena Taber]{p}**
+**[Elena Taber]{e}**
 * **[Elena Taber | 86.5万 | Travel | 旅行者 | Youtube](https://www.youtube.com/@ElenaTaber/videos)**
 
 ---
@@ -3062,6 +3064,11 @@
 ---
 **[English by Jay]{s}**
 * **[English by Jay - Sprout | 49.1万 | Youtube](https://www.youtube.com/@englishbyjay.official/videos)**
+
+---
+**[Kyle Kotajarvi | 风景]{s}**
+* **[Kyle Kotajarvi | trying to capture a feeling | 6.66万 | Youtube](https://www.youtube.com/@kyle_kotajarvi/videos)**
+* **[kylekotajarvi](https://kylekotajarvi.com)**
 
 ---
 **[Isabel Paige]{e}**
@@ -3107,7 +3114,7 @@
 * **[Taylor Swift |  6310万 | Youtube](https://www.youtube.com/@TaylorSwift/videos)**
 
 ---
-### 0026. Bloger Gather | TEco Lab
+### 0025. Bloger Gather | TEco Lab
 **[Bloger Gather]{g}**
 * **[Jay Shetty Podcast]{g}**
 * **[Ethan Travels]{g}**
