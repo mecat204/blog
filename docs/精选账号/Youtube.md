@@ -9,7 +9,7 @@
 
 ---
 ### 0001. Life Vlog
-**[李子柒 Liziqi]{p}**
+**[李子柒 Liziqi]{e}**
 * **[李子柒 Liziqi | 2970万 | Youtube](https://www.youtube.com/@cnliziqi)**
   - [这里是李子柒YouTube官方频道哦]{s}
   - [Please  subscribe to 【李子柒 Liziqi 】Liziqi Channel on YouTube if you like my videos]{g}
@@ -25,7 +25,7 @@
 * **[李子柒 | 李家有女，人称子柒。| 千章 | Douyin](https://v.douyin.com/UzDy7CInEV4/)**
 
 ---
-**[敢敢烧琉璃]{p}**
+**[敢敢烧琉璃]{e}**
 * **[敢敢烧琉璃 | 859位 | Youtube](https://www.youtube.com/@NB345/videos)**
   - [baby别叫我达芬奇](https://www.youtube.com/watch?v=K410JXv6iK4)
 
@@ -40,7 +40,7 @@
   - [战战战我杀杀杀 | 开心最重要啦](https://v.douyin.com/jxS-E6z5TsI/)
 
 ---
-**[都靓]{p}**
+**[都靓]{e}**
 * **[都靓 | 2250位 | Youtube](https://www.youtube.com/@duliangdushu/videos)**
   - [阅读是一件最重要的小事。听都靓，讲述中华之美。]{s}
   - [Beauty of China, Presented by DuLiang]{g}
@@ -57,7 +57,7 @@
   - [完美主义者不接受磨损。](https://v.douyin.com/VYesQelSQCI/)
 
 ---
-**[小美是个野孩纸]{p}**
+**[小美是个野孩纸]{e}**
 * **[小美是个野孩纸 | 1990位 | Youtube](https://www.youtube.com/@xiaomei_ski/videos)**
     - [【小美是个野孩子】 燃起来了！！一镜到底！是滑雪快还是骑摩托快？新疆阿勒泰三月的雪竟然这么好？](https://www.youtube.com/watch?v=baBhMPsgZUs&list=PLRLm2P7GB6et_Ac7WEIg7-PFZuHp1-IEQ)
 
@@ -68,7 +68,7 @@
   - **[这是不是你想象中，自由的样子？| 小美真会玩](https://v.douyin.com/a6sfhXm8Tfs/)**
 
 ---
-**[奶思兔咪鱿]{p}**
+**[奶思兔咪鱿]{e}**
 * **[奶思兔咪鱿 | Nice to meet you | 五百章 | Douyin](https://v.douyin.com/yF1WG9-otuc/)**
   - [儿时不解 大人为何拼尽全力依然清贫 长大才知 光是活着养家便已是多数人的极限](https://v.douyin.com/shTHN-zbKIY/)
 
@@ -79,7 +79,7 @@
   - [拥有什么就享受什么](https://v.douyin.com/WUkqEGeVf2s/)
 
 ---
-**[傻白在美国]{p}**
+**[傻白在美国]{s}**
 * **[傻白呀 | To see a bigger world | 千章 | Douyin](https://v.douyin.com/-pcXaJmmjN0/)**
   - [时间会把所有苦难变成笑谈，所以请一定保住狗命，去见证更精彩的世界 | 反焦虑 | 人生感悟 | 岩中花述](https://v.douyin.com/K0wrmNGOGRM/)
 
@@ -97,7 +97,7 @@
   - X: https://x.com/muziailab
 
 ---
-**[Summer Hailstones 夏冰雹]{p}**
+**[Summer Hailstones 夏冰雹]{e}**
 * **[Summer Hailstones 夏冰雹 | 12.4万 | Youtube](https://www.youtube.com/@SummerHailstones)**
     - [拖延、焦虑、没动力？《DOSE 效应》神经科学方法，帮你养成高能量体质｜冰雹讲书｜英文原版](https://www.youtube.com/watch?v=X4hwczXIhbQ)
 
@@ -114,7 +114,7 @@
     - [为什么我从小在中国生活，却把英语练到了母语水平？](https://v.douyin.com/CWwCplRLEK0/)
 
 ---
-**[江寻千_九月]{p}**
+**[江寻千_九月]{e}**
 * **[江寻千_九月 | 3310 | Youtube](https://www.youtube.com/@JYjiuyue)**
   - [En: The smell of fireworks in the world is the most soothing to the hearts of ordinary people!]{s}
   - [Cn: 世界上烟花的气味是最能抚慰普通人心灵的！]{g}
@@ -131,7 +131,7 @@
   - [曾经最极致的浪漫，千年绝技——打铁花。](https://www.youtube.com/watch?v=HiJiAcwe9pk)
 
 ---
-**[江寻千 (九月)]{p}**
+**[江寻千 (九月)]{e}**
 * **[江寻千 (九月) | 莫听穿林打叶声 何妨吟啸且徐行 | 三百章 | Douyin](https://v.douyin.com/S2ENUvEPBJQ/)**
   - [三书六聘十里红妆，带你去看一场真正的中式婚礼. 传世婚服 | 拼酷十里红妆| 拼酷大花轿 濮院时尚古镇 中式婚礼主持人张博](https://v.douyin.com/9NqrnTRJdpk/)
   - [耗时1年零4个月，我用云锦做了一件传世婚服。 | 滴露衣物消毒液 | 传世婚服 | 云锦](https://v.douyin.com/ZZx-30rhdw8/)
@@ -158,7 +158,7 @@
   - [4-HOUR STUDY WITH ME 🌧️ Deep Focus on a Rainy Night | 🎧 Focus Music | Pomodoro 50/10](https://www.youtube.com/watch?v=a3gI2SBQaqM)
 
 ---
-**[Isabel Paige]{p}**
+**[Isabel Paige]{e}**
 * **[Isabel Paige | 95万 |  Youtube](https://www.youtube.com/@isabel_paige)**
   - **[The Hardest Days of Winter](https://www.youtube.com/watch?v=jNqhUIYZM8Q)**
   - **[Buried in Snow…Winter In The Mountains](https://www.youtube.com/watch?v=E_TEf57zBWQ)**
@@ -176,7 +176,7 @@
   - [大家都在问我是怎么获得中国五星卡的? 中国五星卡 | 2026我的新春vlog](https://v.douyin.com/Ozn12rzT8Xs/)
 
 ---
-**[English Fluency Journey]{p}**
+**[English Fluency Journey]{e}**
 * **[English Fluency Journey | 223万 | Youtube](https://www.youtube.com/@EnglishFluencyJourney)**
   - [En: I’m Anna and welcome to my channel.]{s}
   - [Cn: 我是安娜，欢迎来到我的频道。]{g}
@@ -185,7 +185,7 @@
   - [En: Here, I post some useful information for English learners.]{s}
   - [Cn: 在这里，我发布了一些对英语学习者有用的信息。]{g}
 
-
+  ---
   - [En: I’m from Ukraine and I’ve worked on my English and accent, for the most part, on my own, but you can find out and trace my story by watching my videos.]{s}
   - [Cn: 我来自乌克兰，大部分时间都是自己努力练习英语和口音的，但你可以通过观看我的视频了解并追踪我的故事。]{g}
 
@@ -199,12 +199,11 @@
 
 
   - [En: I know exactly what it takes to become fluent and acquire an accent in a non-English speaking country.]{s}
-  - [Cn: 我完全清楚在非英语国家要流利说话并学会口音需要什么。]{s}
+  - [Cn: 我完全清楚在非英语国家要流利说话并学会口音需要什么。]{g}
 
----
 * **[English Fluency Journey | Hanna Khoma](https://www.englishfluencyjourney.com/)**
 
-**[欧美外教在线一对一口语-葡然蕴]{p}**
+**[欧美外教在线一对一口语-葡然蕴]{e}**
 * **[欧美外教在线一对一口语-葡然蕴 | 零基础英语 | 启蒙英语 | 雅思口语 | 零基础英语 | 商务英语 | 二千章 | Douyin](https://v.douyin.com/dtwC1ZGrWxQ/)**
   - [北美外教一对一网课 外教：英语是一项改变人生的技能](https://v.douyin.com/Ix5dt7a8F-Q/)
   - [欧美外教英语课一对一网课](https://v.douyin.com/cNQsa9vj7nQ/)
@@ -218,7 +217,7 @@
   - [阅读的提升口语最快的方法 | 英语外教](https://v.douyin.com/lxInWasAlj8/)
 
 ---
-**[高高Lindsey]{p}**
+**[高高Lindsey]{e}**
 * **[高高Lindsey | 北京外国语大学英语口译硕士｜Polyglot | "语言的边界就是你世界的边界" | 5.5万 | Youtube](https://www.youtube.com/@lindseylingo/videos)**
   - [AI Can Speak English Better Than You](https://www.youtube.com/watch?v=nILMlkHiVdM)
 
@@ -386,7 +385,7 @@
   - [【4K 奥地利-哈尔施塔特】俯瞰恬静奥地利小镇，湖景峡湾宁静怡然   ](https://v.douyin.com/fUD3TSTWrkQ/)
 
 ---
-**[Ariannita la Gringa]{c}**
+**[Ariannita la Gringa]{e}**
 * **[Ariannita la Gringa | 202万  | Youtube](https://www.youtube.com/@ariannitalagringa)**
   - [Religious Vocabulary in English](https://www.youtube.com/watch?v=Ae8odmRJNu0)
   - [購物中心英語詞彙](https://www.youtube.com/watch?v=VFe7Ap1kfk0)
@@ -394,7 +393,7 @@
   - [Learn English at the Farm](https://www.youtube.com/watch?v=VdbOX2Ee3lg)
 
 ---
-**[Lana Blakely]{p}**
+**[Lana Blakely]{e}**
 * **[Lana Blakely | 165万 | Youtube](https://www.youtube.com/@LanaBlakely/videos)**
   - [En: books, solo trips, vintage finds and thinking aloud]{s}
   - [Cn: 书籍、独自旅行、复古发现和随声思考]{g}
@@ -510,7 +509,7 @@
   - [Cn: 《SciShow Kids》非常适合1至3年级的初小学儿童，大多数节目围绕下一代科学标准（NGSS）课程展开。]{g}
 
 ---
-**[Dan Koe]{p}**
+**[Dan Koe]{s}**
 * **[Dan Koe | 124万 | Youtube](https://www.youtube.com/@DanKoeTalks)**
 
 * **[来点思考 | 一人公司→超级个体→自我实现 帮你把想不清楚的问题判断清楚 | 二百章 | Douyin](https://v.douyin.com/OkNpJEuLTEg/)**
@@ -652,8 +651,9 @@
 
 ---
 ### 0004. Learn English Vlog
-**[Leah's English 莉雅老师]{p}**
+**[Leah's English 莉雅老师]{e}**
 * **[Leah's English 莉雅老师 | 20万 | Youtube](https://www.youtube.com/@Leah%E7%9A%84%E5%B0%8F%E6%97%A5%E8%AE%B0/videos)**
+
   - [En: Welcome! Let's learn some authentic English!]{s}
   - [Cn: 欢迎大家跟我一起学习英语口语～]{g}
 
@@ -666,7 +666,6 @@
   - [Cn: 本平台本人只有这一个英语教学账号]{g}
 
   ---
-
   - [My experience as an American traveling in China！| 一个美国人在中国旅行的真实感受！](https://www.youtube.com/watch?v=yagAdzdxmvI)
   - [How to become fluent in any language | 英语母语者也要背单词吗](https://www.youtube.com/watch?v=Qfnly99n1bY)
 
@@ -695,7 +694,7 @@
   - [Cn: 关于即将到来的活动和演出！ 请访问 MAXAMINI.COM]{g}
 
 ---
-**[The Balance Theory Podcast]{p}**
+**[The Balance Theory Podcast]{e}**
 * **[The Balance Theory Podcast | 高阶 | 26.3万 | Youtube](https://www.youtube.com/@thebalancetheorypodcast)**
   - [En: The Balance Theory is a self development podcast for people looking to build confidence in themselves and the life they want to create.]{s}
   - [Cn:《平衡理论》是一档为那些希望建立自信和想要创造生活的人们打造的自我发展播客。]{g}
@@ -754,8 +753,9 @@
   - [Cn: 每周四和周日更新新剧集。 在 www.chamberlaincoffee.com、社交媒体@chamberlaincoffee，甚至你附近的超市找到我的咖啡公司......]{g}
 
 ---
-**[Girls Gone Bible]{p}**
-* **[Girls Gone Bible | 85.9万 | Youtube](https://www.youtube.com/@GirlsGoneBible/videos)**
+**[Girls Gone Bible]{e}**
+* **[Girls Gone Bible | 86.5万 | Youtube](https://www.youtube.com/@GirlsGoneBible/videos)**
+
   - [En: Podcast hosted by Angela Halili and Arielle Reitsma.]{s}
   - [Cn: 播客由安吉拉·哈利利和阿丽尔·雷茨玛主持。]{g}
 
@@ -1170,7 +1170,7 @@
 * **[Speak English With Vanessa | 初级 | 初中级衔接 | 有吐字非常清晰、语速较慢的超长对话内容，有挺多雅思口语相关话题。| 717万 | Youtube](https://www.youtube.com/@SpeakEnglishWithVanessa)**
 
 ---
-**[Ariannita la Gringa]{p}**
+**[Ariannita la Gringa]{e}**
 * **[Ariannita la Gringa | 初阶 | 生活实用英文 | English Teacher | 208万 | Youtube](https://www.youtube.com/@ariannitalagringa/videos)**
   - **Hey! I'm Ariannita, an English teacher. Let's boost your real-world English skills. Subscribe and learn!**
 
@@ -1235,8 +1235,9 @@
   - [How to use 'get' in English](https://www.youtube.com/watch?v=1zw2pTZ9U_I&t=41s)
 
 ---
-**[TheCottageFairy]{p}**
+**[TheCottageFairy]{e}**
 * **[TheCottageFairy | 乡村小屋 | 分享书籍 | Youtube | 160万 | Youtube](https://www.youtube.com/@TheCottageFairy)**
+
   - [En: Salutations!]{s}
   - [Cn: 问候！]{g}
 
@@ -1388,6 +1389,7 @@
 ---
 **[Arnel's Everyday English | English Teacher]{p}**
 * **[Arnel's Everyday English | English Teacher |  语法 | 134万 |  Youtube](https://www.youtube.com/@ArnelsEverydayEnglish)**
+
   - [En: Welcome to my channel!]{s}
   - [Cn: 欢迎来到我的频道！]{g}
 
@@ -1396,7 +1398,7 @@
   - [Cn: 我为ESL/EFL学生设计课程。]{g}
 
   ---
-  - I especially love helping students with grammar.]{s}
+  - [En: I especially love helping students with grammar.]{s}
   - [Cn: 我尤其喜欢帮助学生学习语法。]{g}
 
   ---
@@ -1540,35 +1542,36 @@
 ---
 **[E2 IELTS]{p}**
 * **[E2 IELTS | 阅读 | 285万 | Youtube](https://www.youtube.com/@E2IELTS)**
-  - [En: Welcome to E2 IELTS, a place for mastering the IELTS General and Academic exams.]{g}
+
+  - [En: Welcome to E2 IELTS, a place for mastering the IELTS General and Academic exams.]{s}
   - [Cn: 欢迎来到E2雅思，这是一个帮助精通雅思普通和学术考试的地方。]{g}
 
   ---
-  - [En: Whether you need help with IELTS Writing, Reading, Listening, or Speaking, you’ve come to the right place.]{g}
+  - [En: Whether you need help with IELTS Writing, Reading, Listening, or Speaking, you’ve come to the right place.]{s}
   - [Cn: 无论你需要雅思写作、阅读、听力还是口语方面的帮助，你来对地方了。]{g}
 
   ---
-  - [En: We aim to help students and professionals achieve the English proficiency they need to study, work, or live in countries like the UK, Australia, Canada, New Zealand, and the US.]{g}
+  - [En: We aim to help students and professionals achieve the English proficiency they need to study, work, or live in countries like the UK, Australia, Canada, New Zealand, and the US.]{s}
   - [Cn: 我们的目标是帮助学生和专业人士达到他们在英国、澳大利亚、加拿大、新西兰和美国学习、工作或生活所需的英语水平。]{g}
 
   ---
-  - [En: With over 2 million subscribers worldwide, E2 Test Prep combines expert teaching with advanced learning technology and realistic test simulations to help you prepare smarter, not harder.]{g}
+  - [En: With over 2 million subscribers worldwide, E2 Test Prep combines expert teaching with advanced learning technology and realistic test simulations to help you prepare smarter, not harder.]{s}
   - [Cn: E2 Test Prep 拥有全球超过 200 万订阅者，结合了专业教学、先进的学习技术和逼真的考试模拟，帮助您更聪明地备考，而非更难。]{g}
 
   ---
-  - [En: Join thousands of successful IELTS candidates who have improved their scores and transformed their futures with our proven methods.]{g}
+  - [En: Join thousands of successful IELTS candidates who have improved their scores and transformed their futures with our proven methods.]{s}
   - [Cn: 加入成千上万通过我们经过验证的方法提升成绩、改变未来、成功晋升的雅思考生行列。]{g}
 
   ---
-  - [En: Start your journey toward IELTS success with world-class English test preparation.]{g}
+  - [En: Start your journey toward IELTS success with world-class English test preparation.]{s}
   - [Cn: 用世界级的英语考试准备，开启你迈向雅思成功的旅程。]{g}
 
   ---
-  - [En: 🔔 Ready to boost your IELTS score?]{g}
+  - [En: 🔔 Ready to boost your IELTS score?]{s}
   - [Cn: 🔔 准备好提升你的雅思分数了吗？]{g}
 
   ---
-  - [En: Subscribe for expert IELTS coaching, top-notch test prep, proven techniques, & test simulations! https://www.youtube.com/@E2IELTS/?sub_confirmation=1]{g}
+  - [En: Subscribe for expert IELTS coaching, top-notch test prep, proven techniques, & test simulations! https://www.youtube.com/@E2IELTS/?sub_confirmation=1]{s}
   - [Cn: 订阅专家雅思辅导、顶级考试准备、经过验证的技巧和模拟考试！ https://www.youtube.com/@E2IELTS/?sub_confirmation=1]{g}
 
 ---
@@ -1594,7 +1597,7 @@
 
 ---
 ### 0008. Music | Youtube
-**[Taylor Swift]{p}**
+**[Taylor Swift]{e}**
 * **[Taylor Swift |  6310万 | Youtube](https://www.youtube.com/@TaylorSwift/videos)**
   - [En: And, baby, that’s show business for you.]{s}
   - [Cn: 宝贝，这就是演艺圈的全部。]{g}
@@ -1962,24 +1965,21 @@
 ---
 **[Jasmine Nadya]{p}**
 * **[Jasmine Nadya  | 14.3万 | Youtube ](https://www.youtube.com/@JasmineNadya/videos)**
-  - The Official YouTube Channel of Jasmine Nadya.
-  - Jasmine Nadya的官方YouTube频道。
+
+  - [En: The Official YouTube Channel of Jasmine Nadya.]{s}
+  - [Cn: Jasmine Nadya的官方YouTube频道。]{g}
 
   ---
-  - Hi guys!
-  - 大家好！
+  - [En: Hi guys!]{s}
+  - [Cn: 大家好！]{g}
 
   ---
-  - I'm Jasmine Nadya, aku suka sekali dengan dunia entertainment yaitu musik dan film.
-  - 我是贾思敏·纳迪娅，我会在娱乐中获得音乐和电影。
+  - [En: I'm Jasmine Nadya, aku suka sekali dengan dunia entertainment yaitu musik dan film.]{s}
+  - [Cn: 我是贾思敏·纳迪娅，我会在娱乐中获得音乐和电影。]{g}
 
   ---
-  - Nggak bisa pilih salah satu, aku pribadi ngerasa kalau main film udah jadi pekerjaan yang ngasih aku banyak pengalaman unik dan aku jadi belajar buat ngenal diri aku lebih jauh.
-  - 我们要有更多人，我们要有主片，但主片是我们，我会看到一个故事，但他们能看到一个故事，但他们能在一个地方看到他们。
-
-  ---
-  - Tapi untuk saat ini, aku lagi suka main musik karena ngerasa aku sangat dibebaskan berkarya dalam musik.
-  - Tapi untuk saat ini， aku lagi suka main musik karena ngerasa aku sangat dibebaskan berkarya dalam musik.
+  - [En: Nggak bisa pilih salah satu, aku pribadi ngerasa kalau main film udah jadi pekerjaan yang ngasih aku banyak pengalaman unik dan aku jadi belajar buat ngenal diri aku lebih jauh.]{s}
+  - [Cn: 我们要有更多人，我们要有主片，但主片是我们，我会看到一个故事，但他们能看到一个故事，但他们能在一个地方看到他们。]{g}
 
   ---
   - Subscribe for more exclusive, original, and official content of music from Jasmine Nadya For more info, Follow me on:
@@ -2017,7 +2017,7 @@
   - **[reading holiday books to get me out of a reading slump | vlogmas day 9 | 阅读节日书籍帮我摆脱阅读低谷 | Vlogmas第9 天](https://www.youtube.com/watch?v=M9GXs0Q_05k)**
 
 ---
-**[Lana Blakely]{p}**
+**[Lana Blakely]{e}**
 * **[Lana Blakely | 生活方式、人生体验、哲学思考、自我成长和社交话题讨论 | 166万 | Youtube](https://www.youtube.com/@LanaBlakely/videos)**
   - books, solo trips, vintage finds and thinking aloud | Email hello@lanablakely.com
   - 书籍、独自旅行、复古发现和随意思考 邮件 hello@lanablakely.com
@@ -2038,10 +2038,10 @@
   - **[10 Longevity Habits That Actually Work (Backed by Science) - 10个真正有效的长寿习惯（有科学依据）](https://www.youtube.com/watch?v=MIU8dvLZqIM)**
 
 ---
-**[Sydney Serena]{p}**
-* **[Sydney Serena | 20岁博主 | 博主 & 生活方式 / 美妆 时尚内容创作者 | 385万| Youtube](https://www.youtube.com/@SydneySerena)**
-  - just a 20-something figuring it out (and filming it).
-  - 只是一个二十多岁的人摸索（并拍摄）。
+**[Sydney Serena]{e}**
+* **[Sydney Serena | 20岁博主 | 博主 & 生活方式 / 美妆 时尚内容创作者 | 385万 | Youtube](https://www.youtube.com/@SydneySerena)**
+  - [En: just a 20-something figuring it out (and filming it).]{s}
+  - [Cn: 只是一个二十多岁的人摸索（并拍摄）。]{g}
 
   ---
   - follow me:
@@ -2060,14 +2060,14 @@
   - **[i haven't felt like myself lately...|  0：02 / 13：31 最近我感觉不像自己......](https://www.youtube.com/watch?v=TCa-Apn6y6g)**
 
 ---
-**[TheCottageFairy]{p}**
+**[TheCottageFairy]{e}**
 * **[TheCottageFairy | 乡村 | 书籍分享 | 106万 | Youtube](https://www.youtube.com/@TheCottageFairy)**
   - **[A blessing and heartfelt message for the new year | 这是一份祝福和真挚的新年信息](https://www.youtube.com/watch?v=vAwRS1wx46Q)**
   - **[I have no ambition in life - but I feel fine | 我没有人生上的野心——但我感觉很好](https://www.youtube.com/watch?v=eAdhk8GkKhU)**
   - **[I Bought a Bookstore](https://www.youtube.com/watch?v=-IO3rAurptA)**
 
 ---
-**[Birta Hlin]{p}**
+**[Birta Hlin]{e}**
 * **[Birta Hlin | 时尚穿搭 | 47.4万 | Youtube](https://www.youtube.com/@birtahlin/videos)**
   - **[weekend in oslo | food spots, thrifting & exploring the city | 奥斯陆周末 | 美食店、二手店和城市探索](https://www.youtube.com/watch?v=re7W5w81Rq8)**
   - **[first december days | 十二月初日](https://www.youtube.com/watch?v=veY2jXSxpoo)**
@@ -2699,7 +2699,7 @@
   - **[1 Hour of English conversations](http://youtube.com/watch?v=JEE6s4RyaX8)**
 
 ---
-**[nayah]{p}**
+**[iayah]{p}**
 * **[inayah | 30.1万 | Youtube](https://www.youtube.com/@inayah0/videos)**
 
 ---
@@ -2995,6 +2995,199 @@
 **[Volka English]{p}**
 * **[Volka English | 117万 | Youtube](https://www.youtube.com/@VolkaEnglish/videos)**
   - [Learn English in Nature With My Mom | Comprehensible Input Vlog](https://www.youtube.com/watch?v=9ledjiOXnvo)
+
+---
+### 0023. TEco Lab
+**[TEco Lab]{p}**
+* **[TEco Lab](https://www.teco-lab.com/)**
+
+---
+**[17learn.top]{s}**
+* **[17learn.top](https://17learn.top/)**
+
+---
+**[Alanna & Ivor]{p}**
+* **[Alanna & Ivor | Youtube | 195万](https://www.youtube.com/@AlannaandIvor/videos)**
+  - [Furniture Shopping for the new house](https://www.youtube.com/watch?v=toy0Tdrk3Ok)
+
+---
+**[Zhirelle]{p}**
+* **[Zhirelle | Youtube | 127万](https://www.youtube.com/@Zhirelle/videos)**
+  - [ultimate PREP & PACK for traveling! | essentials, shopping, packing tips, aesthetic travel days](https://www.youtube.com/watch?v=X7OcpUyHQUg)
+
+---
+**[Taylor Bell]{e}**
+* **[Taylor Bell | Youtube | 88.6万](https://www.youtube.com/@TaylorBell/videos)**
+  - [New Zealand VLOG: 2 Weeks Roadtripping the South Island | Queenstown, Milford Sound, Wānaka & Mor](https://www.youtube.com/watch?v=nqmrFegVTEA)
+
+---
+**[Amber Alexander]{p}**
+* **[Amber Alexander | Youtube | 42.9万](https://www.youtube.com/@amberalexander/videos)**
+
+---
+### 0024. Amy Natalie
+**[Amy Natalie]{p}**
+* **[Amy Natalie | 2.14万 | Youtube](https://www.youtube.com/@amy.natalie/videos)**
+  - [living a "boring" life | a quiet life in the countryside](https://www.youtube.com/watch?v=8ma_MSmqd2c)
+
+---
+### 0025. Gather
+**[Elena Taber]{p}**
+* **[Elena Taber | 86.5万 | Travel | 旅行者 | Youtube](https://www.youtube.com/@ElenaTaber/videos)**
+
+---
+**[Sydney Serena]{e}**
+* **[Sydney Serena | 20岁博主 | 博主 & 生活方式 / 美妆 时尚内容创作者 | 385万 | Youtube](https://www.youtube.com/@SydneySerena)**
+
+---
+**[Lana Blakely]{e}**
+* **[Lana Blakely | 生活方式、人生体验、哲学思考、自我成长和社交话题讨论 | 166万 | Youtube](https://www.youtube.com/@LanaBlakely/videos)**
+
+---
+**[Taylor Bell]{e}**
+* **[Taylor Bell | Youtube | 88.6万](https://www.youtube.com/@TaylorBell/videos)**
+
+---
+**[inayah]{e}**
+* **[inayah | 30.1万 | Youtube](https://www.youtube.com/@inayah0/videos)**
+
+---
+**[Birta Hlin]{e}**
+* **[Birta Hlin | 时尚穿搭 | 47.4万 | Youtube](https://www.youtube.com/@birtahlin/videos)**
+
+---
+**[Volka English]{g}**
+* **[Volka English | 117万 | Youtube](https://www.youtube.com/@VolkaEnglish/videos)**
+
+---
+**[English by Jay]{s}**
+* **[English by Jay - Sprout | 49.1万 | Youtube](https://www.youtube.com/@englishbyjay.official/videos)**
+
+---
+**[Isabel Paige]{e}**
+* **[Isabel Paige | 95.3万 | Youtube](https://www.youtube.com/@isabel_paige/videos)**
+
+---
+**[TheCottageFairy]{e}**
+* **[TheCottageFairy | 乡村 | 书籍分享 | 106万 | Youtube](https://www.youtube.com/@TheCottageFairy)**
+
+---
+**[Ariannita la Gringa]{e}**
+* **[Ariannita la Gringa | 202万  | Youtube](https://www.youtube.com/@ariannitalagringa)**
+
+---
+**[Leah's English 莉雅老师]{e}**
+* **[Leah's English 莉雅老师 | 20万 | Youtube](https://www.youtube.com/@Leah%E7%9A%84%E5%B0%8F%E6%97%A5%E8%AE%B0/videos)**
+
+---
+**[Girls Gone Bible]{e}**
+* **[Girls Gone Bible | 86.5万 | Youtube](https://www.youtube.com/@GirlsGoneBible/videos)**
+
+---
+**[Apple]{g}**
+* **[Apple | 2060万 | Youtube](https://www.youtube.com/@Apple/videos)**
+
+---
+* **[Zhirelle]{g}**
+* **[Zhirelle | Youtube | 127万](https://www.youtube.com/@Zhirelle/videos)**
+
+---
+**[The Balance Theory Podcast]{e}**
+* **[The Balance Theory Podcast | 高阶 | 26.3万 | Youtube](https://www.youtube.com/@thebalancetheorypodcast)**
+
+---
+**[The Diary Of A CEO]{p}**
+* **[The Diary Of A CEO | 高阶 | 嘉宾行业大牛，内容知识含金量超高。主持人英国人 | 1520万 |  Youtube](https://www.youtube.com/@TheDiaryOfACEO)**
+
+**[The Diary Of A CEO Clips]{p}**
+* **[The Diary Of A CEO Clips | 精品节选 | 203万 | Youtube](https://www.youtube.com/@TheDiaryOfACEOClips/videos)**
+
+---
+**[Taylor Swift]{e}**
+* **[Taylor Swift |  6310万 | Youtube](https://www.youtube.com/@TaylorSwift/videos)**
+
+---
+### 0026. Bloger Gather | TEco Lab
+**[Bloger Gather]{g}**
+* **[Jay Shetty Podcast]{g}**
+* **[Ethan Travels]{g}**
+* **[Tom Dickinson]{g}**
+* **[Jasmine Le]{g}**
+* **[Adela]{g}**
+* **[Santiago Weppler]{g}**
+* **[Juan Marcel &amp; Rhylan]{g}**
+* **[Hannah Ricketts]{g}**
+* **[Noah Anderson]{g}**
+* **[Fred Liu]{g}**
+* **[Shaun Andersen]{g}**
+* **[Alanna &amp; Ivor]{g}**
+* **[Hannah Ricketts]{g}**
+* **[Maxíme]{g}**
+* **[Ashley Alexander]{g}**
+* **[Sara Maika]{g}**
+* **[Phillip Linnik]{g}**
+* **[Sanne Vloet]{g}**
+* **[Madeline Argy]{g}**
+* **[Zeliha Akpinar]{g}**
+* **[Phillip Linnik]{g}**
+* **[Niamh Mackinnon]{g}**
+* **[Tom Dickinson]{g}**
+* **[Alex Collins]{g}**
+* **[Abhi Verma]{g}**
+* **[Stevi]{g}**
+* **[Ethan Gaskill]{g}**
+* **[Garrett]{g}**
+* **[Jordan Bauth]{g}**
+* **[Stella Forman]{g}**
+* **[Pax]{g}**
+* **[London Eats]{g}**
+* **[Beautiful Twin Sisters]{g}**
+* **[Bobby Parrish]{g}**
+* **[Benji Le]{g}**
+* **[Harrison Webb]{g}**
+* **[Will Tennyson]{g}**
+* **[Joseph Everett]{g}**
+* **[George Mavrakis]{g}**
+* **[Leah Halton]{g}**
+* **[Jacob Feder]{g}**
+* **[Theo Alston]{g}**
+* **[Jaylen]{g}**
+* **[Savvy Wheels]{g}**
+* **[More Than Farmers]{g}**
+* **[Back 2 Basics Homesteading]{g}**
+* **[UF]{g}**
+* **[Emma Chamberlain]{g}**
+* **[Ellie-Jean Royden]{g}**
+* **[Michael Anton]{g}**
+* **[Connor Kerswell]{g}**
+* **[James Edward]{g}**
+* **[Tate Harris]{g}**
+* **[Tyson Liberto]{g}**
+* **[Vanessa Wachtmeister]{g}**
+* **[English with Edward]{g}**
+* **[Prof. Arthur C. Brooks]{g}**
+* **[Kristin Neff]{g}**
+* **[Cleo Abram]{g}**
+* **[Leonardo Dreyer]{g}**
+* **[Sophie DiLoreto]{g}**
+* **[Reflections of Life]{g}**
+* **[Preppy Kitchen]{g}**
+* **[Timofey]{g}**
+* **[Sticky Academy]{g}**
+* **[Matt James]{g}**
+* **[Kathleen Morrill Pirovich]{g}**
+* **[Noah Anderson]{g}**
+* **[Phillip Linnik]{g}**
+* **[New York Post]{g}**
+* **[Dr. Jane Goodall]{g}**
+* **[Michael Anton]{g}**
+* **[Kyle Kotajarvi]{g}**
+* **[Elane]{g}**
+* **[British Education]{g}**
+* **[Sarah Crawford-Bohl]{g}**
+* **[Allison Anderson]{g}**
+* **[Savvy Wheels]{g}**
+* **[Sam]{g}**
 
 ---
 ### 9999. Download
