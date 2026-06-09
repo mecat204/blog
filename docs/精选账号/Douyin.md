@@ -247,6 +247,13 @@
   - [对不起，总让你咽下许多莫名其妙的小情绪](https://v.douyin.com/7Nd1OE8mK6s/)
 
 ---
+**[会飞的兔子呀]{p}**
+* **[会飞的兔子呀 | 分享陕西家常便饭 | 贰佰章 |  Douyin](https://v.douyin.com/QidikyOtspw/)**
+  - [可惜你不是陕西人，不懂这一碗蘸水面的含金量有多高](https://v.douyin.com/XwPvLZe8ti4/)
+  - [可惜你不是陕西人，不知道这碗搅团的含金量有多高](https://v.douyin.com/EHItU31qne0/)
+  - [可惜你不是陕西人，又怎会知道我们这里的蒸滋卷有多香](https://v.douyin.com/fatMookDLjk/)
+
+---
 **[你好我是一个社恐]{p}**
 * **[一个社恐在北京的日子](https://v.douyin.com/b4ib3G86US0/)**
 * **[一个社恐在北京的日子](https://v.douyin.com/AYXmXwVsOEg/)**

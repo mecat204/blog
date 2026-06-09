@@ -2377,7 +2377,7 @@
   - **[Which Hawaiian Island Should You Visit | Start Here for Your Hawaii Vacation Planning | 你应该去哪个夏威夷岛屿 |从这里开始你的夏威夷度假规划](https://www.youtube.com/watch?v=2mIYF41vnhw)**
 
 ---
-**[Iceland with a View]{p}**
+**[Iceland with a View | 冰岛]{p}**
 * **[Iceland with a View | 11万 |  Youtube](https://www.youtube.com/@IcelandwithaView)**
   - [En: Hi, I’m Jeannie — I sold everything I owned in the U.S. and moved to **Iceland**!]{s}
   - [Cn: 你好，我是Jeannie——我卖掉了美国所有的东西，搬到了**冰岛**！]{g}
@@ -2498,6 +2498,7 @@
 ---
 **[NASA]{p}**
 * **[NASA | 1270万 | Youtube](https://www.youtube.com/@NASA/featured)**
+
   - [En: NASA's mission is to pioneer the future in space exploration, scientific discovery, and aeronautics research.]{s}
   - [Cn: NASA的使命是开创太空探索、科学发现和航空研究的未来。]{g}
 
@@ -3118,7 +3119,7 @@
 * **[Apple | 2060万 | Youtube](https://www.youtube.com/@Apple/videos)**
 
 ---
-* **[Zhirelle]{g}**
+**[Zhirelle]{g}**
 * **[Zhirelle | Youtube | 127万](https://www.youtube.com/@Zhirelle/videos)**
 
 ---
@@ -3141,14 +3142,26 @@
 * **[Miki Rai | 142万 | Youtube](https://www.youtube.com/@mikirai/videos)**
 
 ---
+**[NASA]{p}**
+* **[NASA | 1270万 | Youtube](https://www.youtube.com/@NASA/featured)**
+
+---
 **[martine skaret]{e}**
 * **[martine skaret | 2.12万 | Youtube](https://www.youtube.com/@martinejskaret/videos)**
 
 ---
 ### 0025. Bloger Gather | TEco Lab
 **[Bloger Gather]{g}**
-* **[Jay Shetty Podcast]{g}**
-* **[Ethan Travels]{g}**
+
+---
+**[Jay Shetty Podcast]{s}**
+* **[Jay Shetty Podcast | 564万 | Youtube](https://www.youtube.com/@JayShettyPodcast./videos)**
+
+---
+**[Ethan Travels | Travels]{s}**
+* **[Ethan Travels | 17.6万 | Youtube](https://www.youtube.com/@ethantravels/videos)**
+
+---
 * **[Tom Dickinson]{g}**
 * **[Jasmine Le]{g}**
 * **[Adela]{g}**

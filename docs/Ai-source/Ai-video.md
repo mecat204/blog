@@ -7,12 +7,13 @@
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
-**[[EngLearner]{p}**
+**[EngLearner]{p}**
 * **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
   - [americanliterature](https://americanliterature.com/)
 
 ---
 ### 0001. AI小宝
+**[AI小宝]{p}**
 * **[AI小宝 | 小宝带你穿越千年 · 直击历史名场面现场 | AI短剧导演 | 历史复原研究者 | 学术交流· AI造梦师小宝 | 百章 | 小宝](https://v.douyin.com/G82OlqoQzHc/)**
   - [AI复原张择端《清明上河图》](https://v.douyin.com/-V300tIKciY/)
   - [AI穿越实录｜重返北宋，亲历苏轼《承天寺夜游》现场](https://v.douyin.com/Bz3lQ6o6FZo/)
@@ -201,43 +202,7 @@
   - [Claude code泄漏背后真相 Claude Code真正暴露的，并非Anthropic的根本（护城河），而是顶级Coding Agent的工程实现思路。在Vibe Coding时代，核心竞争力已从单一模型能力，转向"模型+工程+产品"的系统性集成。这是技术人最好的学习方式。下次分享，我会基于我学到的cc这种思维方式，开源一个小型项目。](https://v.douyin.com/r5miHCbCfCQ/)
 
 ---
-### 0004. 精选AI
-**[大圆镜科普]{p}**
-* **[大圆镜科普 | 百章 | Douyin](https://v.douyin.com/Rj2OPR_kCj0/)**
-
-  ---
-  **[001. AIGC科普 | 人工智能简史]{g}**
-    - [Token被正式翻译为"词元" | 001](https://v.douyin.com/oJKbEP7Ee88/)
-    - [第一次，人类是上帝，亲手写代码；第二次，人类是教练，教它学规则；第三次，人类沦为"饲养员"，只管喂数据和电费，坐看"神迹"涌现... | 002](https://v.douyin.com/w6D9HLmH264/)
-    - [最近科技头条都在刷"算力战" | 003](https://v.douyin.com/8mky53SkxxQ/)
-
-  ---
-  **[002. AIGC科普 | 瘟疫简史]{g}**
-    - [人类用放血、汞丸、白兰地对抗霍乱近百年。直到斯诺的死亡地图和科赫的细菌学说，才让医学走出巫术时代 | 001](https://v.douyin.com/GKGu9AS1V38/)
-    - [1916年脊灰席卷美国，人类在极度无知中发动了一场荒谬的"卫生战争"：街道被药水反复冲刷，报纸被视作"死亡请柬"，约72000只猫被集体捕杀 | 010](https://v.douyin.com/1LXmHdmLndE/)
-
-  ---
-  **[003. AIGC科普 | 宇宙简史 | Min: 07min]{g}**
-    - [科学史上最伟大的进步，往往始于对"微不足道"异常的执着 | 001](https://v.douyin.com/ENM-WdXD_KE/)
-    - [此刻你所在的银河系，正嵌在一个巨大的暗物质晕中。| 016](https://v.douyin.com/RNYMzLNaU3A/)
-
-  ---
-  **[004. AIGC科普 | 运动与科学 | Min: 08min]{g}**
-    - [看完后你就知道为什么你体测老是没及格了 | 001](https://v.douyin.com/CdmFcUReAWc/)
-    - [当赛车以超过300公里的时速飞驰，车手承受的不仅是物理上的极限G值，更是对死亡恐惧的日常对话，这份在刀尖上跳舞的勇气，究竟源于人类对速度的原始崇拜，还是对自我极限的永恒质疑 | 012](https://v.douyin.com/mwVFr5qVehQ/)
-
-  ---
-  **[005. AIGC科普 | 大脑简史 | Min: 08min]{g}**
-    - [从厨房染缸的漆黑独木到复活节试管的化学方舟 ，从乌贼轴突的二进制桅杆到硅基海洋的神经星舰，人类以大脑为悖论之舟，在自我解构的湍流中驶向意识源头... | 001](https://v.douyin.com/laSp0EuBb_k/)
-    - [陈天桥先生原声讲诉： 从远古的结绳记事，到今天的智能手机，再到未来的AI系统。我们正通过与工具的协作，不断成为更强大的"混合系统"，并促进着我们心智的更迭与演化...| 013](https://v.douyin.com/OhYJQqG3BQs/)
-
-  ---
-  **[006. AIGC科普 | 生命科学简史]{g}**
-    - [你可以自己独自造人吗？从大爆炸到大煮锅， 100万如何成为了你？ | 001](https://v.douyin.com/VtEQdrqSFt4/)
-    - [端粒在染色体尽头滴答作响，海拉细胞却借癌变永存； 凋亡刀锋雕出胚胎的指缝，生命倒计时与自毁程序，原是同一枚硬币的光暗两面 | 019](https://v.douyin.com/QixOe3FjwNY/)
-    - [脑机接口已能说能做，那碳基和硅基生命融合的奇点还会远吗 | 023](https://v.douyin.com/Ug1ksp_6eFw/)
-
----
+### 0004. 国光小卖部 | 回忆
 **[国光小卖部]{g}**
 * **[国光小卖部 | 我叫王国光 带你回到8090后的童年 童年零食下方橱窗](https://v.douyin.com/k1nKArmlczM/)**
   - [快醒醒，你回到1987年了](https://v.douyin.com/ai6ctXx997Q/)
@@ -297,13 +262,18 @@
 **[佘一鸣]{p}**
 * **[佘一鸣 | 发布原创短视频，欢迎关注。| 百章 | Douyin](https://v.douyin.com/xiKQE7P7iKU/)**
 
-  **[New Concept English 01·三国版]{g}**
-    - **[New Concept English 01·三国版 | Lesson-001](https://v.douyin.com/ED_hh-uhlc4/)**
-    - **[New Concept English 01·三国版 | Lesson-002](https://v.douyin.com/hjTzkaFkDhg/)**
-    - **[New Concept English 01·三国版 | Lesson-003](https://v.douyin.com/evamg363dKY/)**
+  ---
+  **[001. New Concept English 01·三国版]{g}**
+    - [001](https://v.douyin.com/ED_hh-uhlc4/)
+    - [002](https://v.douyin.com/hjTzkaFkDhg/)
+    - [功夫 | 003](https://v.douyin.com/evamg363dKY/)
+    - [高燃混剪《勇者无惧》| 016](https://v.douyin.com/majgBMqSdPI/)
+    - [021](https://v.douyin.com/SRsZplVCRXY/)
+    - [武大郎火拼西门庆 | 054](https://v.douyin.com/pEHi-cgz1Is/)
+    - [车祸 | 056](https://v.douyin.com/8ejlmtOk4Ds/)
 
   ---
-  **[荒岛迷案]{g}**
+  **[002. 荒岛迷案]{g}**
     - **[第01集 |  荒岛空难现场，年轻的女子离奇死亡，心脏被人剜走，尸检发现重要线索。](https://v.douyin.com/LKia1i_24WQ/)**
     - **[第13集 | 大结局 荒岛空难现场发生离奇命案，幸存者与世隔绝，救援遥遥无期。](https://v.douyin.com/g8fy0kzle9s/)**
 
@@ -582,8 +552,19 @@
   - **[蒙德：高清重置](https://v.douyin.com/Eo7KSZVQRfM/)**
   - **[原神：高清重置—5周年](https://v.douyin.com/kbBTsPzkGdc/)**
 
+  ---
+  **[001. 原神AI重置系列]{g}**
+    - [枫丹：高清重置 | 001](https://v.douyin.com/0AaY_OuQxKs/)
+    - [蒙德：高清重置 | 003](https://v.douyin.com/K9rcR0ypXyw/)
+    - [璃月：高清重置 | 004](https://v.douyin.com/3xOls4lXRwQ/)
+    - [稻妻：高清重置 | 005](https://v.douyin.com/JivVuiz9h-Q/)
+    - [须弥：高清重置 | 006](https://v.douyin.com/MDPlEkBokJA/)
+    - [纳塔：高清重置 | 008](https://v.douyin.com/j58gi4znyVk/)
+    - [原神：高清重置—5周年 | 009](https://v.douyin.com/huByY51RF6g/)
+    - [空之神殿：高清重置 | 010](https://v.douyin.com/wW71LwKwDtg/)
+
 ---
-### 0018. 云端避风港
+### 0018. 云端避风港-Dream Shelter
 **[云端避风港-Dream Shelter]{p}**
 * **[云端避风港-Dream Shelter | Hi～这么晚不睡觉一定有什么心事吧？ 希望能持续给你带来治愈和快乐 | 佰章 | Douyin](https://v.douyin.com/6GGS-VkrwiA/)**
   - [AI庇护所-雪地水果庇护所V2.0-5 别名-ai雪地庇护所，ai避难所，助眠避难所](https://v.douyin.com/akg6Zgz5DkM/)
@@ -592,9 +573,14 @@
   - [被困雪崩山峰，你选择哪个移动庇护所？ AI庇护所-果蔬庇护所氛围版 别名-ai雪地庇护所，ai避难所，助眠避难所 | Pineapple菠萝](https://v.douyin.com/4VACqfI1-1Q/)
 
   ---
-  **[001. AI庇护所-治愈风景篇]{s}**
+  **[001. AI庇护所-治愈风景篇]{g}**
     - [周末特辑-当你误闯北极，紧急庇护所 | 001](https://v.douyin.com/dtPQ-QB-LSU/)
     - [AI庇护所-果蔬庇护所氛围版 别名-ai雪地庇护所，ai避难所，助眠避难所 | 025](https://v.douyin.com/JQZnSBi9Naw/)
+
+  ---
+  **[002. AI庇护所-荒野求生系列]{g}**
+    - [雪原荒野求生 | 001](https://v.douyin.com/EodwOrOefZk/)
+    - [AI庇护所-荒野求生系列19 别名-ai庇护所 | 011](https://v.douyin.com/hPwZAhVkG1Y/)
 
 ---
 ### 0019. 不等AI离子
@@ -622,8 +608,8 @@
 * **[星晖小剧场 | 短剧合集](https://v.douyin.com/nG2d6qsHk0c/)**
 
 ---
-### 0022. 幻境Lab
-**[幻境Lab]{g}**
+### 0022. 幻境Lab | 彩绘AI
+**[幻境Lab]{p}**
 * **[幻境Lab | 描绘那些幻想世界的碎片 | 佰章](https://v.douyin.com/jV5Ny5cVejk/)**
 
   ---
@@ -638,7 +624,7 @@
 
 ---
 ### 0023. 嘤嘤英音
-**[嘤嘤英音]{g}**
+**[嘤嘤英音]{p}**
 * **[嘤嘤英音 | I魔法加持 👀 学好英语 📚 其实很简单 | 二十章 | Douyin](https://v.douyin.com/f3JgFrX8hYQ/)**
   - [wolf down | 狼吞虎咽](https://v.douyin.com/l0WE6VRuR34/)
   - [peanut | 像豌豆一个的坚果就是花生](https://v.douyin.com/J-4huVuQnL8/)
@@ -702,7 +688,7 @@
   - [房间丑的都来学！轻松打造复古温馨小卧室。- 我家卧室的硬装真的很简单，就是一个普通的吊顶+木地板。因为想着睡觉的地方没必要做太多的动作，而且随着审美的变化，房间布局和软装也会有变动～ 今天分享一下我的卧室布置小技巧吧 1️⃣统一空间的色调 我比较喜欢复古风格，所以卧室的色调是偏暖色调的 2️⃣统一家具的风格 想要复古风选对家具很重要，家具的材质、风格、颜色保持在相同的状态就不容易出错 3️⃣在灯具上做一些小改变 在统一大件家具和整体风格之后，可以在灯具上做一些小特殊，不同色值的光源带来的氛围感不同，喜欢温暖治愈的房间可以选择3000K以上色温的灯具 4️⃣氛围感小摆件 挂画、地毯、装饰物等小摆件也很重要 可以让房间看起来更加温馨]{g}
 
   ---
-  - [都想来我家串门]{https://v.douyin.com/gcJ8pwyhP48/}
+  - [都想来我家串门](https://v.douyin.com/gcJ8pwyhP48/)
   - [邻居说，你家这房子在小区出名了！。都想来我家串门]{g}
   - [说真的，我不欢迎任何人来我家！一来我家就开始吐槽 说我家装的一点都不适合住人 钱花的一点也不值得……](https://v.douyin.com/bTyzauOTv5U/)
 
@@ -742,6 +728,16 @@
   - [蓝色系 loft复式](https://v.douyin.com/9xZ1Xn3Mxnw/)
 
 ---
+**[设计师-扶苏 | 宋式美学]{p}**
+* **[设计师-扶苏 | 15年私宅设计经验 擅长宋式 | 中古风 | 侘寂风 | 纯中式风格 |  二百章 | Douyin](https://v.douyin.com/EjG7zggsskI/)**
+  - [宋氏美学](https://v.douyin.com/mJGhiI1UC9w/)
+
+---
+**[媛姐美景]{p}**
+* **[媛姐美景 | 按照大自然的规律，你该遇见我了。| 三百章 | Douyin](https://v.douyin.com/q1xSNYyXIsM/)**
+  - [林中小屋](https://v.douyin.com/I4yKGk3KlR8/)
+
+---
 ### 0029. URI
 **[URI]{p}**
 * **[URI | 𝗥𝗜 风格｜ 𝗔𝗜𝗚𝗖 治愈视觉｜音乐创作者. 每天活力充能 | 肆佰章 | Douyin](https://v.douyin.com/5AKFbS1vWBM/)**
@@ -771,6 +767,16 @@
     - [桌面奇观：如果想象力有形状 | 001](https://v.douyin.com/DqoLMgX9OaQ/)
     - [偷偷打开女巫的抽屉 | 016](https://v.douyin.com/CyRV-uXi2vE/)
 
+  ---
+  **[002. 上帝之手治愈世界]{g}**
+    - [假如你有一双上帝之手 | 001](https://v.douyin.com/ox93KYdJLjY/)
+    - [上帝之手 | 005](https://v.douyin.com/lBMkEpZrMS8/)
+
+  ---
+  **[003. 霍格沃兹的明信片]{g}**
+    - [七彩云朵 | 001](https://v.douyin.com/MOePJgl6zc4/)
+    - [我用"星月夜"做了一顿早餐 | 040](https://v.douyin.com/fWlhv0tXm8o/)
+
 ---
 ### 0031. 集蒙葫芦
 **[集蒙葫芦]{p}**
@@ -797,7 +803,7 @@
 ### 0034. 大圆镜科普
 **[大圆镜科普]{p}**
 * **[大圆镜科普 | 百章 | Douyin](https://v.douyin.com/Rj2OPR_kCj0/)**
-  - [科普·痛风](https://v.douyin.com/XfqEpxB4qzs/)
+- [科普·痛风](https://v.douyin.com/XfqEpxB4qzs/)
   - [能让生物至死方休的快乐按钮，究竟是什么？](https://v.douyin.com/9ErfXea01Qg/)
   - [第一个选项为100%%稳拿100万； 第二个选项为10%%得500万，89%%得100万，1%%一无所获；](https://v.douyin.com/EZ5-xSDbr7k/)
   - [刘慈欣在《三体》中描绘的混沌世界，早在一个世纪前就被庞加莱数学证明。三体文明面临的绝望，正是人类在混沌宇宙中的真实处境，确定性只是幻觉，不可预测才是常态...](https://v.douyin.com/BrJiOnuCzC4/)
@@ -806,6 +812,38 @@
   - [从厨房染缸的漆黑独木到复活节试管的化学方舟 ，从乌贼轴突的二进制桅杆到硅基海洋的神经星舰，人类以大脑为悖论之舟，在自我解构的湍流中驶向意识源头](https://v.douyin.com/TXbuhArnmD8/)
   - [人类用放血、汞丸、白兰地对抗**霍乱**近百年。直到斯诺的死亡地图和科赫的细菌学说，才让医学走出巫术时代](https://v.douyin.com/TDy3XRl8YVY/)
   - [大圆镜用影游融合的视角带你去看"**鼠疫**"，这个连续杀害欧洲半数人口却从未被定罪的"完美杀手"，它用1400年时间证明：最致命的刺客不需要意志，只需要耐心等待文明出现裂缝](https://v.douyin.com/_s46kvUvSxo/)
+
+  ---
+  **[001. AIGC科普 | 人工智能简史]{g}**
+    - [Token被正式翻译为"词元" | 001](https://v.douyin.com/oJKbEP7Ee88/)
+    - [第一次，人类是上帝，亲手写代码；第二次，人类是教练，教它学规则；第三次，人类沦为"饲养员"，只管喂数据和电费，坐看"神迹"涌现... | 002](https://v.douyin.com/w6D9HLmH264/)
+    - [最近科技头条都在刷"算力战" | 003](https://v.douyin.com/8mky53SkxxQ/)
+
+  ---
+  **[002. AIGC科普 | 瘟疫简史]{g}**
+    - [人类用放血、汞丸、白兰地对抗霍乱近百年。直到斯诺的死亡地图和科赫的细菌学说，才让医学走出巫术时代 | 001](https://v.douyin.com/GKGu9AS1V38/)
+    - [1916年脊灰席卷美国，人类在极度无知中发动了一场荒谬的"卫生战争"：街道被药水反复冲刷，报纸被视作"死亡请柬"，约72000只猫被集体捕杀 | 010](https://v.douyin.com/1LXmHdmLndE/)
+
+  ---
+  **[003. AIGC科普 | 宇宙简史 | Min: 07min]{g}**
+    - [科学史上最伟大的进步，往往始于对"微不足道"异常的执着 | 001](https://v.douyin.com/ENM-WdXD_KE/)
+    - [此刻你所在的银河系，正嵌在一个巨大的暗物质晕中。| 016](https://v.douyin.com/RNYMzLNaU3A/)
+
+  ---
+  **[004. AIGC科普 | 运动与科学 | Min: 08min]{g}**
+    - [看完后你就知道为什么你体测老是没及格了 | 001](https://v.douyin.com/CdmFcUReAWc/)
+    - [当赛车以超过300公里的时速飞驰，车手承受的不仅是物理上的极限G值，更是对死亡恐惧的日常对话，这份在刀尖上跳舞的勇气，究竟源于人类对速度的原始崇拜，还是对自我极限的永恒质疑 | 012](https://v.douyin.com/mwVFr5qVehQ/)
+
+  ---
+  **[005. AIGC科普 | 大脑简史 | Min: 08min]{g}**
+    - [从厨房染缸的漆黑独木到复活节试管的化学方舟 ，从乌贼轴突的二进制桅杆到硅基海洋的神经星舰，人类以大脑为悖论之舟，在自我解构的湍流中驶向意识源头... | 001](https://v.douyin.com/laSp0EuBb_k/)
+    - [陈天桥先生原声讲诉： 从远古的结绳记事，到今天的智能手机，再到未来的AI系统。我们正通过与工具的协作，不断成为更强大的"混合系统"，并促进着我们心智的更迭与演化...| 013](https://v.douyin.com/OhYJQqG3BQs/)
+
+  ---
+  **[006. AIGC科普 | 生命科学简史]{g}**
+    - [你可以自己独自造人吗？从大爆炸到大煮锅， 100万如何成为了你？ | 001](https://v.douyin.com/VtEQdrqSFt4/)
+    - [端粒在染色体尽头滴答作响，海拉细胞却借癌变永存； 凋亡刀锋雕出胚胎的指缝，生命倒计时与自毁程序，原是同一枚硬币的光暗两面 | 019](https://v.douyin.com/QixOe3FjwNY/)
+    - [脑机接口已能说能做，那碳基和硅基生命融合的奇点还会远吗 | 023](https://v.douyin.com/Ug1ksp_6eFw/)
 
 ---
 ### 0035. 老头们的快乐生活
@@ -952,7 +990,7 @@
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
-**[[EngLearner]{p}**
+**[EngLearner]{p}**
 * **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
   - [americanliterature](https://americanliterature.com/)
 

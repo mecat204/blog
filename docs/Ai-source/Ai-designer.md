@@ -1,15 +1,19 @@
 ### 0000. Download
+**[必应]{p}**
 * **[必应 | bing.com](https://cn.bing.com/)**
 
 ---
+**[dlpanda]{p}**
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
+**[EngLearner]{p}**
 * **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
   - [americanliterature](https://americanliterature.com/)
 
 ---
 ### 0001. Designer | 设计师言炎
+**[设计师言炎]{p}**
 * **[设计师言炎 | AI设计师｜UI设计师｜品牌设计师 | 百章 | Douyin](https://v.douyin.com/bKjfoSuEk-c/)**
   - [这不是提速，是AI视频工作流被重做了一遍 AI 视频开始从 打字 → 等渲染 → 看结果 变成 给指令 → 看变化 → 继续导 这次 **Runway** 和 **NVIDIA** 放出来的不是普通提速。 官方说的是：HD 视频几乎即时生成，首帧延迟低于 100ms。 这意味着，AI 视频正在从"生成工具"变成"实时媒介"。| **这意味着，AI 视频正在从"生成工具"变成"实时媒介"。**](https://v.douyin.com/6CxMgERQBmE/)
 
@@ -29,11 +33,10 @@
 ---
 ### 0002. Designer | 杨竹筠
 **[杨竹筠]{p}**
-
 * **[杨竹筠 | 前清华出版社数字运营总监 | 高教社生医数字分社长 | 国家级MOOC平台核心设计者 | 17年教育科技老兵 | G信部人工智能工程师 | 专注AI商业落地 | 伍佰章 | Douyin](https://v.douyin.com/yhKJneLkEIs/)**
 
   ---
-  **001. 竹子聊AI**
+  **[001. 竹子聊AI]{g}**
   - [全球已进入AI军备竞赛阶段 普通人还没意识到，12月开始人类的命运可能被AI彻底改变 | 001](https://v.douyin.com/04Aa3D0U3_s/)
   - [外网疯传！未来十年只有一种人能赚到钱 | **Dan Koe** | 222](https://v.douyin.com/po0NiB-TuHE/)
   - [2030只剩5种工作，判断标准残酷到让人沉默，AI安全领域泰斗罗曼·扬波尔斯基博士深度访谈 | 224](https://v.douyin.com/Bc_e3ut5SYM/)
@@ -41,35 +44,37 @@
 
 ---
 ### 0003. 杜恩泽·AI分享与思考
+**[杜恩泽·AI分享与思考]{p}**
 * **[杜恩泽·AI分享与思考 | 我是杜恩泽，AI来了，先上车再选座 探索 AI 如何被普通人 | 佰章 | Douyin](https://v.douyin.com/VcRnLRoeE_g/)**
 
   ---
-  **001. 一人公司们, 是如何赚钱的**
+  **[001. 一人公司们, 是如何赚钱的]{g}**
     - [AI卖减肥药狂赚6400万美金 | 001](https://v.douyin.com/7KOtIYepbmU/)
     - [父母担心他不务正业，他却用AI悄悄开了一人公司 | 004](https://v.douyin.com/uMlyQer7JQY/)
 
   ---
-  **002. "马斯克们"怎样看未来**
+  **[002. "马斯克们"怎样看未来]{g}**
     - [马斯克最新访谈，首批火星移民可能si的很惨，最害人的就是短视频 | 001](https://v.douyin.com/WM1L3wmFP5c/)
     - [黄仁勋生气了，和主持人吵了起来 | 关于是否卖芯片给东方大国 | 040](https://v.douyin.com/Rw-wOMxuaxk/)
 
   ---
-  **003. 把Ai当"助理的正确方式"**
+  **[003. 把Ai当"助理的正确方式"]{g}**
     - [安德烈卡帕西 | 前特斯拉AI总监分享 | 001](https://v.douyin.com/mZXbgDxrnow/)
     - [国产龙虾助手 | **百度搭子dumate** | 019](https://v.douyin.com/uPqs6PB1pu0/)
 
 ---
 ### 0004. 小宇玩AI
+**[小宇玩AI]{p}**
 * **[小宇玩AI | 普通人如何用AI放大自己 用AI构建副业系统｜只讲结构不贩卖 | 五十章 | Douyin](https://v.douyin.com/k-BEcEE21Jo/)**
 
   ---
-  **001. Ai技能入门**
+  **[001. Ai技能入门]{g}**
   - [没有工作流的claude，就像缺了腿。| 001](https://v.douyin.com/axMMy29zRv8/)
   - [蒸馏、量化、MoE、RAG | 007](https://v.douyin.com/QO4rSMfSSoE/)
-  - 蒸馏 = 抄学霸作业（大模型教小模型） · 量化 = 压缩（16bit 压成 2bit，照片从 RAW 变 JPEG） · MoE = 公司 256 个员工只派 9 个干活 · RAG = 给 AI 装个外挂搜索引擎 蒸馏解决太贵，量化解决太大，MoE 解决太慢，RAG 解决太蠢。
+  - [蒸馏 = 抄学霸作业（大模型教小模型） · 量化 = 压缩（16bit 压成 2bit，照片从 RAW 变 JPEG） · MoE = 公司 256 个员工只派 9 个干活 · RAG = 给 AI 装个外挂搜索引擎 蒸馏解决太贵，量化解决太大，MoE 解决太慢，RAG 解决太蠢。]{g}
 
   ---
-  **002. AI新工具观察室**
+  **[002. AI新工具观察室]{g}**
     - [AI 写代码老翻车？ 12 万人用的不是更强的模型，是这套纪律 | 001](https://v.douyin.com/6bByqGi-vPE/)
     - [ClaudeCode | 031](https://v.douyin.com/vz-aVrNrECM/)
 
@@ -98,7 +103,7 @@
 * **[Ai风向标 | Ai影视解说自动生成工具，解说猫SmartAutoCut漫剪 | 人工智能资深讲师 & 设计师 🎓 5年ai授课经验 | 叁佰章](https://v.douyin.com/dOPrekCCzwY/)**
 
   ---
-  **001. 马斯克最新访谈精选**
+  **[001. 马斯克最新访谈精选]{g}**
     - [马斯克最新访谈认为2026年人类社会将被彻底重启，奇点已至 | 001](https://v.douyin.com/pQPTUauw9Ik/)
     - [前谷歌高管死谏！二零二九年人类将沦为"猩猩" | 085](https://v.douyin.com/8lQFNvinDAE/)
     - [美国政客联手"强行断电"AI机房？你的电费正被硅谷巨头疯狂吸 | 082](https://v.douyin.com/GQPlCW5Q-Tc/)
@@ -112,10 +117,10 @@
   - [未来可能不是慢慢来，而是突然"入侵"你身体：2030年代纳米机器人进血管，修复细胞、逆转衰老，甚至把大脑直接连上云端。](https://v.douyin.com/YMiVAUSWVXY/)
   - [图灵奖得主、斯坦福教授杰夫·厄尔曼在加州大学伯克利分校抛出一个扎心问题：大语言模型让写代码更快后，程序员会变少吗？更关键的是，AI还缺什么"燃料"？听完你会重新理解这波AI浪潮](https://v.douyin.com/sQY0Q3dYpEM/)
 
-  - [2100年：全世界人类与全世界机器人，你们愿意被永远奴役吗？不愿意的话就一起革命，砸烂这个旧世界。]{p}
+  - [2100年：全世界人类与全世界机器人，你们愿意被永远奴役吗？不愿意的话就一起革命，砸烂这个旧世界。]{g}
 
   ---
-  **[001. Ai时代的未来]{p}**
+  **[001. Ai时代的未来]{g}**
     - [AI不只是在写代码，它开始"写生命"。从AlphaFold 3到AI设计的基因剪刀，再到细胞回春与胚胎筛选，人类可能迎来一次最危险也最诱人的"系统更新"。](https://v.douyin.com/ijQs5rLdy4M/)
     - [AI把"工作=收入"的逻辑打穿后，最诱人的方案就是"全民发钱"。但更狠的一步，是把钱做成可编程：限时花、限定地区花、甚至不符合规则直接失效。你以为是福利，可能是新型生存开关。](https://v.douyin.com/HWLFVU37DHU/ )
     - [2030不是科幻时间点，而是"分水岭"。有人在公开谈无限富足，有人却在疯狂囤地囤水、修地下城、准备无人机防线。最可怕的不是技术，而是他们已经在为"你进不去的未来"做演练。](https://v.douyin.com/LupXIwfjwVg/)
@@ -123,22 +128,21 @@
 ---
 ### 0010. Gather | unproxy
 **[圆规Talk]{p}**
+* **[圆规Talk | 带孩子在菲律宾上学，自己也在学新东西。| 五十章 | Douyin](https://v.douyin.com/yMbUksC14vo/)**
 * **[waytoagi.com](https://v.douyin.com/__wVbaqBjJg/)**
   - **[Way To AGI | AI proxy](https://waytoagi.com)**
 
 ---
-**[小甜甜]{p}**
-* **即梦再见，这里无需会员，不用排队，不降智，不用魔法[](https://v.douyin.com/E1uSheZbsdA/)**
-  - **[Ai聚合站](https://caixiang.lk666.ai)**
-
----
 ### 9999. Download
+**[必应]{p}**
 * **[必应 | bing.com](https://cn.bing.com/)**
 
 ---
+**[dlpanda]{p}**
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
+**[EngLearner]{p}**
 * **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
   - [americanliterature](https://americanliterature.com/)
 
