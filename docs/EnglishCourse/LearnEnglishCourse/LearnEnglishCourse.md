@@ -44,7 +44,7 @@
   - pwd: min
 
 ---
-**[English learn | GPT]**
+**[English learn | GPT]{p}**
 * **[DashPlayer](https://dash-player.solidspoon.xyz/)**
 * **[ESLDesk](https://esldesk.com/)**
 * **[USA Learns Homepage](https://www.usalearns.org/)**
@@ -2678,7 +2678,7 @@
   - pwd: min
 
 ---
-**[English learn | GPT]**
+**[English learn | GPT]{p}**
 * **[DashPlayer](https://dash-player.solidspoon.xyz/)**
 * **[ESLDesk](https://esldesk.com/)**
 * **[USA Learns Homepage](https://www.usalearns.org/)**
