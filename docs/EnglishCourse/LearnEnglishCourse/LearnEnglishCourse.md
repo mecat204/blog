@@ -44,6 +44,17 @@
   - pwd: min
 
 ---
+**[English learn | GPT]**
+* **[DashPlayer](https://dash-player.solidspoon.xyz/)**
+* **[ESLDesk](https://esldesk.com/)**
+* **[USA Learns Homepage](https://www.usalearns.org/)**
+* **[Lessons Worth Sharing | TED-Ed](https://ed.ted.com/)**
+* **[YouGlish](https://youglish.com/)**
+* **[Study English, Stay Informed - Engoo Daily News](https://engoo.com/)**
+* **[elllo](https://elllo.org/)**
+* **[Cockroaches - ESL Lesson Plan - Breaking News English Lesson](https://breakingnewsenglish.com/)**
+
+---
 ### 0001. English Resource
 **[EngLearner]{p}**
 * **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
@@ -2665,6 +2676,17 @@
 * **[Teco-lab](https://teco-lab.com)**
   - user: meca..
   - pwd: min
+
+---
+**[English learn | GPT]**
+* **[DashPlayer](https://dash-player.solidspoon.xyz/)**
+* **[ESLDesk](https://esldesk.com/)**
+* **[USA Learns Homepage](https://www.usalearns.org/)**
+* **[Lessons Worth Sharing | TED-Ed](https://ed.ted.com/)**
+* **[YouGlish](https://youglish.com/)**
+* **[Study English, Stay Informed - Engoo Daily News](https://engoo.com/)**
+* **[elllo](https://elllo.org/)**
+* **[Cockroaches - ESL Lesson Plan - Breaking News English Lesson](https://breakingnewsenglish.com/)**
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
