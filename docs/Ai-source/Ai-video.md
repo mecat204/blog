@@ -573,9 +573,11 @@
   - [被困雪崩山峰，你选择哪个移动庇护所？ AI庇护所-果蔬庇护所氛围版 别名-ai雪地庇护所，ai避难所，助眠避难所 | Pineapple菠萝](https://v.douyin.com/4VACqfI1-1Q/)
 
   ---
-  **[001. AI庇护所-治愈风景篇]{g}**
+  **[001. AI庇护所-治愈风景篇 | 层叠嵌套]{g}**
     - [周末特辑-当你误闯北极，紧急庇护所 | 001](https://v.douyin.com/dtPQ-QB-LSU/)
+    - [AI庇护所-雪地水果庇护所V2.0-4 别名-ai雪地庇护所，ai避难所，助眠避难所 | 022](https://v.douyin.com/JTIZVpqg3-0/)
     - [AI庇护所-果蔬庇护所氛围版 别名-ai雪地庇护所，ai避难所，助眠避难所 | 025](https://v.douyin.com/JQZnSBi9Naw/)
+    - [被困海上孤岛，你选择哪个海鲜庇护所 | 027](https://v.douyin.com/GGf-K71glOc/)
 
   ---
   **[002. AI庇护所-荒野求生系列]{g}**
@@ -800,6 +802,32 @@
     - [故人早已星散，唯余我，伴这长风 | 072](https://v.douyin.com/Ax9ccjZUxHI/)
 
 ---
+### 0033. 云里 | Genshin Impact
+**[云里 | AI]{p}**
+* **[云里 | 不定时更新视频，谢谢关注！努力成为ai大王中 | 千章 | Douyin](https://v.douyin.com/NL9jPNFzWyM/)**
+  - [尼可：今天艾莉丝怎么睡得这么死](https://v.douyin.com/hHa-9OHgQGQ/)
+
+  ---
+  **[001. 我要成为AI大王]{g}**
+    - [疑似师徒二人对练。| 001](https://v.douyin.com/z8GPH0l4epE/)
+    - [大舅哥，我承认刚刚我的声音有点大了 | 033](https://v.douyin.com/6KWu8P6BSYM/)
+    - [星际穿越-哥伦比娅 | 043](https://v.douyin.com/S8x9kg-YqnY/)
+    - [尼可：接下来该我操作了 | 尼可同人赛道 | 054](https://v.douyin.com/MAxC5WmfBRI/)
+
+  ---
+  **[002. 难忘的NPC]{g}**
+    - [我们还能看到蒂莱尔吗 | 001](https://v.douyin.com/BCWI53WjVgY/)
+    - [也许记得她的只有老玩家吧。羽生田千鹤 | 002](https://v.douyin.com/N8N7YGM7Hck/)
+    - [雷利尔到最后也没能救下索琳蒂丝 | 003](https://v.douyin.com/P0zMvj2U_40/)
+    - [孤单时，抬头看看星星吧 | 004](https://v.douyin.com/K63V-O3yloo/)
+
+  ---
+  **[003. 乱剪]{g}**
+    - [我还是忘不掉那个说要去看至冬极光的女孩 | 001](https://v.douyin.com/e0I6pgDQ6Co/)
+    - [第一次剪，还不太丝滑](https://v.douyin.com/whbZs9qOPX4/)
+    - [你才是能锁住我的红绳 | 009](https://v.douyin.com/tv44DGDg9BY/)
+
+---
 ### 0034. 大圆镜科普
 **[大圆镜科普]{p}**
 * **[大圆镜科普 | 百章 | Douyin](https://v.douyin.com/Rj2OPR_kCj0/)**
@@ -953,32 +981,6 @@
     - [鲸 | 001](https://v.douyin.com/x6siKpxZAgE/)
     - [千禧年の梦 | 你可以回去，但是那里已经没有人了](https://v.douyin.com/cdh_TcegVEM/)
     - [奇怪の城市 | 109](https://v.douyin.com/OXGRtVMRtes/)
-
----
-### 0043. 云里 | Genshin Impact
-**[云里 | AI]{p}**
-* **[云里 | 不定时更新视频，谢谢关注！努力成为ai大王中 | 千章 | Douyin](https://v.douyin.com/NL9jPNFzWyM/)**
-  - [尼可：今天艾莉丝怎么睡得这么死](https://v.douyin.com/hHa-9OHgQGQ/)
-
-  ---
-  **[001. 我要成为AI大王]{g}**
-    - [疑似师徒二人对练。| 001](https://v.douyin.com/z8GPH0l4epE/)
-    - [大舅哥，我承认刚刚我的声音有点大了 | 033](https://v.douyin.com/6KWu8P6BSYM/)
-    - [星际穿越-哥伦比娅 | 043](https://v.douyin.com/S8x9kg-YqnY/)
-    - [尼可：接下来该我操作了 | 尼可同人赛道 | 054](https://v.douyin.com/MAxC5WmfBRI/)
-
-  ---
-  **[002. 难忘的NPC]{g}**
-    - [我们还能看到蒂莱尔吗 | 001](https://v.douyin.com/BCWI53WjVgY/)
-    - [也许记得她的只有老玩家吧。羽生田千鹤 | 002](https://v.douyin.com/N8N7YGM7Hck/)
-    - [雷利尔到最后也没能救下索琳蒂丝 | 003](https://v.douyin.com/P0zMvj2U_40/)
-    - [孤单时，抬头看看星星吧 | 004](https://v.douyin.com/K63V-O3yloo/)
-
-  ---
-  **[003. 乱剪]{g}**
-    - [我还是忘不掉那个说要去看至冬极光的女孩 | 001](https://v.douyin.com/e0I6pgDQ6Co/)
-    - [第一次剪，还不太丝滑](https://v.douyin.com/whbZs9qOPX4/)
-    - [你才是能锁住我的红绳 | 009](https://v.douyin.com/tv44DGDg9BY/)
 
 ---
 ### 9999. Download
