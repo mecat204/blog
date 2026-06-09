@@ -1255,6 +1255,32 @@
   - [Let's answer your questions (because I'm snowed in) - money, bullying, moving on from youtube | 让我们来回答你的问题（因为我被大雪困住了）——钱、欺凌、离开YouTube](https://www.youtube.com/watch?v=zJ2uPZfkYMk)
 
 ---
+**[Miki Rai]{e}**
+* **[Miki Rai | 142万 | Youtube](https://www.youtube.com/@mikirai/videos)**
+
+  ---
+  - [En: Welcome to life, unfiltered ft. my cat Lily, dog Lucky and husband Kevin.]{s}
+  - [Cn: 欢迎来到生活，毫无过滤地与我的猫莉莉、狗拉基以及丈夫凯文一起。]{g}
+
+  ---
+  - [En: Follow us through our everyday adventures, surgical residency and the highs and lows of life in Seattle.]{s}
+  - [Cn: 跟随我们一起经历日常冒险、外科住院医师培训以及西雅图生活的起伏。]{g}
+
+---
+**[martine skaret | 挪威]{e}**
+* **[martine skaret | 2.12万 | Youtube](https://www.youtube.com/@martinejskaret/videos)**
+
+  ---
+  - [En: hi, I'm martine, a norwegian in england on a mission to make the most of my 20s.]{s}
+  - [Cn: 你好，我是Martine，一个在英国的挪威人，正致力于充分利用我的二十多岁。]{g}
+
+  ---
+  - [En: on this channel we're trying to juggle working in london, exploring the world, and also slow, cosy days at home in the english countryside, all with a touch of scandi fashion, of course x]{s}
+  - [Cn: 在这个频道上，我们试图平衡在伦敦工作、探索世界，以及在英国乡村家中悠闲舒适的时光，当然还带有一点斯堪的纳维亚时尚元素 x]{g}
+
+  - [idyllic days in stockholm & the archipelago](https://www.youtube.com/watch?v=c8yYEzg17YU)
+
+---
 **[Nischa]{p}**
 * **[Nischa | 投资 | 213万 |  Youtube](https://www.youtube.com/@nischa)**
   - I’m a former Investment Banker (with an accountancy qualification) and on this channel we explore all things personal finance, self development and business.
@@ -3108,7 +3134,15 @@
 
 ---
 **[Taylor Swift]{e}**
-* **[Taylor Swift |  6310万 | Youtube](https://www.youtube.com/@TaylorSwift/videos)**
+* **[Taylor Swift | 6310万 | Youtube](https://www.youtube.com/@TaylorSwift/videos)**
+
+---
+**[Miki Rai | 挪威]{e}**
+* **[Miki Rai | 142万 | Youtube](https://www.youtube.com/@mikirai/videos)**
+
+---
+**[martine skaret]{e}**
+* **[martine skaret | 2.12万 | Youtube](https://www.youtube.com/@martinejskaret/videos)**
 
 ---
 ### 0025. Bloger Gather | TEco Lab
