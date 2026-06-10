@@ -607,8 +607,12 @@
 ---
 **[底色 REAL]{p}**
 * **[底色 REAL | 浮华终将散尽，底色自有声音 | 佰章 | Douyin](https://v.douyin.com/aphcnkdEM_M/)**
+
+  ---
   - [隐世之光](https://v.douyin.com/4K_FV6Aza-A/)
   - [岩壁挡住了冷冽的山风，却挡不住洞外如金似火的暮色 正如梭罗在《瓦尔登湖》中所写：“我步入丛林，因为我希望活得深刻。” 在最接近自然的地方，剥离掉所有不必要的繁杂与喧嚣 借着微弱的烛光熬煮生活，在柴米油盐中找回生命的本真 世界很大，而属于自己的静谧，不过眼前这一方小小天地]{g}
+
+  ---
   - [长夜](https://v.douyin.com/003DEYDfEJ0/)
   - [月光落在潮湿的石板路上 风吹过空荡的村庄 只有一盏旧灯 陪她慢慢走过深夜 人总会有一段路 要独自穿过黑暗 当你熬过去这段黑暗 也未必等来的是光亮 只是学会沉默独行 不再期待谁的回响]{g}
 
@@ -681,6 +685,17 @@
   - [人生不过三万次落日](https://v.douyin.com/BPaplZ6nOys/)
   - [荷塘月色](https://v.douyin.com/1fBJCz46dGM/)
   - [我拍过的治愈风景色](https://v.douyin.com/ajVn5V--pM0/)
+
+---
+**[Nature99]{p}**
+* **[Nature99 | 让我们一起遇见最好的自己。| 伍拾章 | Douyin](https://v.douyin.com/6jp49D1dRPk/)**
+  - [牵手。大海、帆船、村庄、小路、牵手](https://v.douyin.com/0kY4fzCjGjc/)
+  - [宁静、辽阔、温暖，淡淡的诗意与乡愁](https://v.douyin.com/qA7lyUaNMyk/)
+  - [暮色，孤灯、孤影、宠物](https://v.douyin.com/oEylNm5DzPA/)
+
+  ---
+  - [高山流水](https://v.douyin.com/WHpPa_byvwE/)
+  - [深山幽谷，参天古松与老柏，溪水蜿蜒流淌。简陋的茅草小屋前，一人弹琴，数人围桌旁听。云雾缭绕的远山, 瀑布从高处跌落，传达出古典的隐逸情怀。]{g}
 
 ---
 ### 9999. Download

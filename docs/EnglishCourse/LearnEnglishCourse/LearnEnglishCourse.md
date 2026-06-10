@@ -2637,6 +2637,37 @@
 * **[HotShot英语 | 分享最【原汁原味】的英语听力口语教学 | My teacher: BigShot英语](https://v.douyin.com/PjjQ2Mmn108/)**
 
 ---
+### 0038. 周泰哥(外语邪修派掌门人)
+**[周泰哥(外语邪修派掌门人)]{p}**
+* **[周泰哥(外语邪修派掌门人) | 伍佰章 | Douyin](https://v.douyin.com/FHIhINGaySc/)**
+
+  ---
+  **[001. 零基础英语邪修]{g}**
+    - [适合零基础英语学习者 | 001](https://v.douyin.com/uAhD-5cmzs4/)
+    - [机场安检英语 | 007](https://v.douyin.com/6F4WqtdNsOc/)
+
+  ---
+  **[002. 人生智慧]{g}**
+    - [找到你的高光点，你的人生就开挂了 | 001](https://v.douyin.com/_XM1UGmfRUs/)
+    - [省钱信息在此 | 境外汇款 | 019](https://v.douyin.com/8NJaWwdvx2w/)
+
+---
+### 0039. 7788 | Write word | Game
+**[7788]{p}**
+* **[7788 | 二百章 | Douyin](https://v.douyin.com/7eLEjLQxLPc/)**
+  - [这英语得学呀 | 实用英语 | 学英语 | 日常英语 | 生活英语 | 趣味英语](https://v.douyin.com/jVZrkl3FobI/)
+
+  ---
+  **[001. 和我一起背单词吧]{g}**
+    - [002](https://v.douyin.com/GwWbLNofphc/)
+    - [跟着逐玉学英语 | 081](https://v.douyin.com/ubKurXBhXpM/)
+
+  ---
+  **[002. 真的很有趣]{g}**
+    - [这个话题要不就讲到这里吧 | 001](https://v.douyin.com/xJcvrnLUrIg/)
+    - [高雅人士博览中 | 029](https://v.douyin.com/DT4dBLa5BII/)
+
+---
 ### 9999. Download
 **[dlpanda]{p}**
 * **[dlpanda](https://www.dlpanda.com)**

@@ -625,6 +625,10 @@
   - [练字，是与孤独共处的修行 | 妙严寺碑](https://v.douyin.com/z3yFui8Wpn4/)
 
 ---
+**[周泰哥(外语邪修派掌门人)]{p}**
+* **[周泰哥(外语邪修派掌门人) | 伍佰章 | Douyin](https://v.douyin.com/FHIhINGaySc/)**
+
+---
 ### 0008. 2026
 **[蒹葭的碎碎念]{p}**
 * **[蒹葭的碎碎念 | 日常 | 文学 | 五十章 | Douyin](https://v.douyin.com/FArXTFpNTWc/)**

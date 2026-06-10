@@ -7,11 +7,17 @@
 * **[zeuis](https://www.zeuis.com/)**
 
 ---
+**[LINUX DO]{p}**
+* **[LINUX DO](https://linux.do/)**
+
+---
 ### 0001. Game
+**[宅亿点]{p}**
 * **[宅亿点 | 爱宅，也爱美好的世界！ 遇见是缘分，感谢每一个友好的你！ 祝大家好运！| 百章 | Douyin](https://v.douyin.com/8kU4tgScm4w/)**
   - [小宅夜晚 | 一人一猫一世界](https://v.douyin.com/Y86iVrs7ccw/)
 
 ---
+**[ManMan@CC]{p}**
 * **[ManMan@CC | 千章 | Douyin](https://v.douyin.com/oF1TQmJ_Auk/)**
   - [说出你玩过觉得最好玩的双人游戏……情侣好友双人游戏推荐🥇TOP10……想和谁玩就艾特谁# 适合情侣玩的游戏推荐](https://v.douyin.com/Fs8GLS4gbeQ/)
   - [10款双人游戏｜快@TA和你一起玩 别再让你的switch吃灰了](https://v.douyin.com/Kw7Q_sEFPOw/)
@@ -19,6 +25,7 @@
 
 ---
 ### 0002. Game translate
+**[7788]{p}**
 * **[7788 | 二百章 | Douyin](https://v.douyin.com/7eLEjLQxLPc/)**
   - [这英语得学呀 | 实用英语 | 学英语 | 日常英语 | 生活英语 | 趣味英语](https://v.douyin.com/jVZrkl3FobI/)
 
@@ -57,10 +64,11 @@
 
 ---
 ### 0006. SunShine | 自建云游戏串流
+**[SunShine | 自建云游戏串流]{p}**
 * **[SunShine](https://app.lizardbyte.dev/Sunshine/?lng=en#Download)**
 
 ---
-* **[sunshine+moonlight](https://pan.quark.cn/s/294ebe0e4535)**
+* **[Sunshine + Moonlight | 夸克](https://pan.quark.cn/s/294ebe0e4535)**
 
 ---
 * **[Sunshine documentation](https://docs.lizardbyte.dev/projects/sunshine/en/latest/)**
@@ -132,13 +140,26 @@
 * **[Simping Over An Ai Chat Bot And More Gaslighting - Whispers From The Star](https://www.youtube.com/watch?v=UVSjVKdNaRs)**
 
 ---
-### 0010. 其他
+### 0010. cast n chil
 **[cast n chil]{g}**
   - [超爱像素风！ 人生确实没有意义，但人生很美](https://v.douyin.com/m-F84YAfb7U/)
 
 ---
-### 0011. crazy games
-* **[crazy games](https://www.crazygames.com/)**
+### 0011. Free Online Games on CrazyGames
+**[Free Online Games on CrazyGames]{s}**
+* **[Free Online Games on CrazyGames | Play Now!](https://www.crazygames.com/)**
+
+---
+### 0012. 我的世界 | Game
+**[颜夕]{g}**
+* **[仿佛在这里才能找到一丝宁静](https://v.douyin.com/pAiEhkLIKf0/)**
+* **[我的世界](https://v.douyin.com/BaB7eO8oF6U/)**
+
+---
+### 0013. Wombat Brawler | Wild n Chill
+**[Wabat Brwaler]{p}**
+* **[Wombat Brawler](https://www.youtube.com/@WombatBrawler/videos)**
+  - [Wild n Chill - First Look Gameplay Trailer](https://www.youtube.com/watch?v=qEcpW2GPOvA)
 
 ---
 ### 9999. Download
@@ -148,6 +169,10 @@
 ---
 **[zeuis]{p}**
 * **[zeuis](https://www.zeuis.com/)**
+
+---
+**[LINUX DO]{p}**
+* **[LINUX DO](https://linux.do/)**
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
