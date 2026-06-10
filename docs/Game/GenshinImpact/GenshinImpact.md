@@ -541,11 +541,22 @@
 * **[MurderofBirds Impact](https://www.youtube.com/c/MurderofBirdsImpact)**
 
 ---
-### 0008. Ferrari | Ai-video
+### 0008. Ferrari | Genshin Impact
 **[Ferrari]{p}**
 * **[Ferrari | 搞些AI视频 | 五十章 | Douyin](https://v.douyin.com/Xd6kRRlTfjA/)**
   - **[蒙德：高清重置](https://v.douyin.com/Eo7KSZVQRfM/)**
   - **[原神：高清重置—5周年](https://v.douyin.com/kbBTsPzkGdc/)**
+
+  ---
+  **[001. 原神AI重置系列]{g}**
+    - [枫丹：高清重置 | 001](https://v.douyin.com/0AaY_OuQxKs/)
+    - [蒙德：高清重置 | 003](https://v.douyin.com/K9rcR0ypXyw/)
+    - [璃月：高清重置 | 004](https://v.douyin.com/3xOls4lXRwQ/)
+    - [稻妻：高清重置 | 005](https://v.douyin.com/JivVuiz9h-Q/)
+    - [须弥：高清重置 | 006](https://v.douyin.com/MDPlEkBokJA/)
+    - [纳塔：高清重置 | 008](https://v.douyin.com/j58gi4znyVk/)
+    - [原神：高清重置—5周年 | 009](https://v.douyin.com/huByY51RF6g/)
+    - [空之神殿：高清重置 | 010](https://v.douyin.com/wW71LwKwDtg/)
 
 ---
 ### 0009. R白哥

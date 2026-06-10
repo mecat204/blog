@@ -3,150 +3,109 @@
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
+**[站酷]{p}**
+* **[站酷](https://www.zcool.com.cn/)**
+  - **[站酷插画师](https://www.zcool.com.cn/search/image?album=ZMjM4MDU1OTA4_2)**
+
+---
 ### 0001. 视频·壁纸
+**[视频·壁纸]{p}**
 * **[wallpapers](https://wallpapers.com/)**
 * **[壁纸下载](https://www.bizhi99.com/s/8748/)**
 * **[China Travel Curriculum | WildChina](https://wildchina.com/travel-curriculum-china/)**
 
 ---
-* **[方块十AI | 系列图集获取/定制图片 | 千章 | Douyin](https://v.douyin.com/l-KxnOqop5Q/)**
-  - [夜兰师姐说的对~ | 原神  | 八重神子  | 刻晴  | 申鹤  | 芙宁娜 ](https://v.douyin.com/Q-8mtt-0nTU/)
-  - [黄泉师姐说要提防女人~ 崩坏星穹铁道 | 于长夜重返大地 | 黄泉 | 遐蝶 | 符玄](https://v.douyin.com/NpIVnL9dp0Y/)
-  - [星铁运动少女第二期。崩坏星穹铁道 | 走过安眠地的花丛 | 飞霄 | 花火 | 黄泉](https://v.douyin.com/r1QKkZrRFJI/)
-  - [运动时间到~！| 原神 | 茜特菈莉 | 玛薇卡 | 优菈 | 阿蕾奇诺](https://v.douyin.com/HeRuNWk35Cw/)
-
----
+**[绪儿已成精]{p}**
 * **[绪儿已成精 | 绪儿系列AI模型和LORA作者 | 千章](https://v.douyin.com/U0x39tp3JM0/)**
   - [绘画师](https://v.douyin.com/N9WFnsPFbhI/)
 
 ---
-* **[画一画(群内取图) | ai绘画爱好者，带原神全角色玩。| 五百章 | Douyin](https://v.douyin.com/bcwLNKgt2Ow/)**
-  - [原神壁纸](https://v.douyin.com/kk81ZuBfK24/)
-
----
-* **[凌齐 | 胸中一点浩然气，何处不是倒悬山 | 五十章 | Douyin](https://v.douyin.com/cBPYuzTzfPs/)**
-  - [原神日常](https://v.douyin.com/mng6tKYxEFo/)
-
----
+**[威廉君]{p}**
   * **[威廉君 | 百章 |Douyin](https://v.douyin.com/_rkMKSjEYts/)**
     - **[AIGC生成虚拟形象｜绫波丽2K壁纸](https://v.douyin.com/nTTps7_jq8E/)**
 
 ---
-* **[佳艺 | 五百章](https://v.douyin.com/KwRgQYKQ-hI/)**
-  - [李慕婉](https://v.douyin.com/DrfIe-G4T8Y/)
-
----
-* **[鱿子 | 祝大家天天开心 | 二百章 | Douyin](https://v.douyin.com/NGV0ljZC2Mw/)**
-  - [没有什么能够阻挡我吃的步伐](https://v.douyin.com/D4D-isXU6wo/)
-  - [青春是本仓促的书，我们含着泪，一读再读](https://v.douyin.com/NZKay8MAdcM/)
-  - [那我宁愿对你从没认真过](https://v.douyin.com/eN7oM0igU9A/)
-  - [嗯](https://v.douyin.com/OXLp1Eppq0w/)
-  - [让我们都变成幸福大王](https://v.douyin.com/I0QN-IOXmmA/)
-  - [马上又要跨年喽 去年陪你跨年的人今年还在身边吗](https://v.douyin.com/7vQhEVVBOt0/)
-
----
+**[默言]{p}**
 * **[默言](https://v.douyin.com/qyWU7R_LbPI/)**
   - [江南春色](https://v.douyin.com/H5Iw9qDhOls/)
   - [山水人家](https://v.douyin.com/erZ99OEINNY/)
 
 ---
-* **[绘梦工坊](https://v.douyin.com/-wzIGjSkePw/)**
-
----
-* **[wallpaper Engine](https://v.douyin.com/MBwD5CD0vO8/)**
-  - [动态壁纸](https://v.douyin.com/wvYBBcLqIL0/)
-
----
-* **[百晓松](https://v.douyin.com/ZPNVvygJZgk/)**
+**[百晓松]{p}**
+* **[百晓松 | 我的武侠世界 擅长风格：水墨插画风 —— 南宁摄影师 | Douyin](https://v.douyin.com/ZPNVvygJZgk/)**
   - [白月梵星](https://v.douyin.com/PZsRpy5PF34/)
 
 ---
-* **[AI绘画超市](https://v.douyin.com/V2Ri-y6u5gU/)**
+**[有画好说AIGC]{p}**
+* **[有画好说AIGC](https://v.douyin.com/V2Ri-y6u5gU/)**
   - [李慕婉](https://v.douyin.com/619qOx8ShGs/)
 
 ---
-* **[放手](https://v.douyin.com/0x3V5-bFCd0/)**
+**[放手]{p}**
+* **[放手 | 🎨插画 壁纸 AiCG | 佰章 | Douyin](https://v.douyin.com/0x3V5-bFCd0/)**
   - [自然与遗迹](https://v.douyin.com/VUAzplJZb5Y/)
 
----
-* **[春夏秋冬都很想你 | AI创作｜4k超清壁纸 百章 | Douyin](https://v.douyin.com/aG2XqDV_QTc/)**
-  - [奇幻美学](https://v.douyin.com/eUQYwDh2FBc/)
-  - [视觉震撼 | 梦中的世界 | 心灵奇旅 | 异世界探秘 | ios26壁纸](https://v.douyin.com/mTeNNY2E8RY/)
+  ---
+  **[001. 视觉 震撼 | 手机壁纸]{g}**
+    - [插画天空壁纸。人总是向往天空 | 001](https://v.douyin.com/nGfnF3XKvcs/)
+    - [高清壁纸 平淡的日子也有它独特都韵味 | 008](https://v.douyin.com/trLwnupc6YM/)
 
 ---
-* **[语堂天天啃土 | 游戏摄影博主，长期更新中... 带大家发现美是一件令人愉悦的事情 | 百章 | Douyin](https://v.douyin.com/1-kbDx8jAaQ/)**
-  - [当我在游戏里为"狙击手"拍照...【绝区零sp委托】 | 绝区零 | 绝区零创作激励计划| 扳机](https://v.douyin.com/Fw2sUno1LwA/)
-  - [我们要拍希诺宁，不能只拍希诺宁... | 原神纳塔](https://v.douyin.com/n3GoGv5e2rs/)
-  - [绝区零在骗色鬼参军... 【绝区零SP委托】 | 绝区零sp委托 | 绝区零春日摄影展 | 绝区零雨果 | 绝区零摄影](https://v.douyin.com/CLrEx7kFScg/)
-  - [我集齐了14朵花，可以召唤少女吗？ | 原神空月之歌 | 原神剧情混剪| 哥伦比娅 | 魔女会 | 月之少女](https://v.douyin.com/b6tt06xMHgE/)
-  - [哥伦比娅...| 月之少女 | 原神摄 | 原神空月之歌](https://v.douyin.com/VrMxOpGYkQs/)
-
----
+**[金刚离去]{g}**
 * **[金刚离去 | 脑洞大开 | 五十章 | Douyin](https://v.douyin.com/R1Yy_Cq7Txw/)**
+
   - [奇幻冒险 | 治愈系风景](https://v.douyin.com/lyAvf1DXzog/)
-  - [云阔河长接远城,马蹄踏遍草山青。浮洲欲坠天边梦,孤客平临岭上晴。一脉虹光穿海雾,半川炊火隐云汀。回头人世如棋局，只向天涯问此行.]{s}
+  - [云阔河长接远城,马蹄踏遍草山青。浮洲欲坠天边梦,孤客平临岭上晴。一脉虹光穿海雾,半川炊火隐云汀。回头人世如棋局，只向天涯问此行.]{g}
 
 ---
 **[泠溪先生]{p}**
 * **[泠溪先生 | 新作将启，君来可期。作品图集，不定期发布，若需可关注。原创专属 | 五十章 | Douyin](https://v.douyin.com/r3kOFD0psSI/)**
   - [带你走进画里](https://v.douyin.com/NiquFWaWZio/)
-  - [云迷古寺钟声隐，雪压空山梵语稀。带你走进画里]{s}
+  - [云迷古寺钟声隐，雪压空山梵语稀。带你走进画里]{g}
 
   ---
   - [带你走进画里](https://v.douyin.com/vMQSzkOkehU/)
-  - [寒山拾得一片雪，静夜烹来半盏茶。寒林雪影，静夜茶烟。]{s}
+  - [寒山拾得一片雪，静夜烹来半盏茶。寒林雪影，静夜茶烟。]{g}
 
   ---
   - [东方美学 国风古韵，竹林，禅意，意境](https://v.douyin.com/fg1qMsbMpKU/ )
-  - [静坐松林风满袖，闲观云起寄相思。时风入怀，闲云翻涌。坐观之，岁已慢]{s}
+  - [静坐松林风满袖，闲观云起寄相思。时风入怀，闲云翻涌。坐观之，岁已慢]{g}
 
   ---
   - [人间忽晚、山河已秋 | 秋天 秋景、落叶、秋色](https://v.douyin.com/h4kC0F1NPDY/)
-  - [忽有故人心上过，回首山河已是秋。]{s}
+  - [忽有故人心上过，回首山河已是秋。]{g}
 
   ---
   - [诗词 田园生活、归隐山林](https://v.douyin.com/Vzq85p7zOas/)
-  - [云深不见来时路，风清犹有落花飞]{s}
+  - [云深不见来时路，风清犹有落花飞]{g}
 
   ---
   - [烛窗半掩邀明月，厅堂自静听夜鸣。| 古风国画、山水画](https://v.douyin.com/G1OutUhfkw0/)
-  - [烛火映窗，邀得一轮明月入户，清辉漫洒。厅堂寂寂，在无人叨扰的静谧里，唯有夜虫的鸣唱轻轻流淌。]{s}
+  - [烛火映窗，邀得一轮明月入户，清辉漫洒。厅堂寂寂，在无人叨扰的静谧里，唯有夜虫的鸣唱轻轻流淌。]{g}
 
   ---
   - [国风古韵、古建筑、寺庙、老房子 | 美术鉴赏东方美学、国画](https://v.douyin.com/VbYvARcttaA/)
-  - [何须更问人间事，山自青青水自流。松声落盏，云脚栖檐，偶有山雀叩门，衔来半片朝霞。]{s}
+  - [何须更问人间事，山自青青水自流。松声落盏，云脚栖檐，偶有山雀叩门，衔来半片朝霞。]{g}
 
   ---
   - [田园生活、深山老林 、寺庙 、老房子、古树](https://v.douyin.com/AUOllDPNWdU/)
-  - [云隐远岫三分翠，雨洗苍岩几处青。远山隐在云霭里，翠色被藏起大半，只剩三分写意的淡；雨脚轻叩苍岩，洗出的青，是点在古朴岩壁上的灵动。]{s}
+  - [云隐远岫三分翠，雨洗苍岩几处青。远山隐在云霭里，翠色被藏起大半，只剩三分写意的淡；雨脚轻叩苍岩，洗出的青，是点在古朴岩壁上的灵动。]{g}
 
   ---
   - [诗词 年代感](https://v.douyin.com/bpYXTjoDw9Q/)
-  - [草堂无灯凭月照，山门不锁待云封。此间无喧嚣，唯有月与云的私语，在静默中织就一幅淡墨山水，把尘俗隔在风外。]{s}
+  - [草堂无灯凭月照，山门不锁待云封。此间无喧嚣，唯有月与云的私语，在静默中织就一幅淡墨山水，把尘俗隔在风外。]{g}
 
 ---
-* **[AI造梦师_橙子·原神](https://v.douyin.com/vZXWU2cnB8E/)**
-  - [神里凌华](https://v.douyin.com/Hx6KMemJYUc/)
-  - [芙宁娜](https://v.douyin.com/fqArK1hNP7k/)
-  - [七七](https://v.douyin.com/dlMGK8AuN_8/)
-  - [可莉](https://v.douyin.com/eC7dd1eLN54/)
-
----
-* **[毫克](https://v.douyin.com/knpbcND_laY/)**
+**[毫克]{p}**
+* **[毫克 | 设计师，签约数字艺术家](https://v.douyin.com/knpbcND_laY/)**
   - [麦田](https://v.douyin.com/X0feu2dy_J4/)
+  - [春天就要来了](https://v.douyin.com/rN_004Xf7XY/)
 
 ---
-* **[Sunklion](https://v.douyin.com/SO8fyN9ApsY/)**
+**[Sunklion]{p}**
+* **[Sunklion | 千章 | Douyin](https://v.douyin.com/SO8fyN9ApsY/)**
   - [色彩](https://v.douyin.com/mPJbd-wsx3w/)
   - [情绪](https://v.douyin.com/WSLXbkViX68/)
-
----
-* **[舟云溪](https://v.douyin.com/T3ZKVmwxvX8/)**
-  - [芙芙](https://v.douyin.com/QtiMUHBMHTo/)
-
----
-* **[无关紧要](https://v.douyin.com/VXPHI-L2teg/)**
-  - [原神壁纸](https://v.douyin.com/9ZmlOg6OalI/)
 
 ---
 * **[Verdant](https://v.douyin.com/mEklgTZ8dJw/)**
@@ -190,28 +149,33 @@
   - [繁花之境](https://v.douyin.com/IjyHkh5aW8I/)
 
 ---
-* **[天一（野生款）](https://v.douyin.com/mSv_7yiG6y0/)**
-  - [爱尔兰哨笛·凉凉](https://v.douyin.com/YqDB4TvjWYQ/)
-* [Enzo](https://v.douyin.com/k5uJHqMcVbs/)
+* **[人生逆旅 | 凡人修仙传 && 原神 | 叁佰章 | Douyin](https://v.douyin.com/SCAD7FesQxg/)**
 
----
-* **[人生逆旅 | 凡人修仙传 && 原神 ](https://v.douyin.com/SCAD7FesQxg/)**
-  * **凡人修仙传**
+  **[001. 凡人修仙传]{p}**
     - [悲身不由己 慕沛灵 慕师叔和陈师姐从始至终追求的都是自由吧](https://v.douyin.com/9y9Z0uk88cU/)
     - [梅凝 落雪惨殿寒纱客 很喜欢梅凝建模，单独做了套剑客风，离开韩大哥，梅姑凉开始独自闯档江湖](https://v.douyin.com/_gFoyPhCq9k/)
     - [韩立的修炼时刻 平平无奇](https://v.douyin.com/1_PpRy2a8fQ/)
     - [韩立大弟子柳玉 | 虚假的落云宗结丹长老 真正的元婴之下第一人 极阴岛四代目](https://v.douyin.com/xqnV8NZGgCo/)
-  * **原神**
+
+
+  **[002. 原神]{p}**
     - [为了追求永恒闭关锁国愿化作修罗的的将军](https://v.douyin.com/S-DbMb-krO4/)
 
 ---
-* **[田甜](https://v.douyin.com/U9zu7_drvWw/)**
+**[田甜]{p}**
+* **[田甜 | 千章 | Douyin](https://v.douyin.com/U9zu7_drvWw/)**
   - [AI古风绝美写真](https://v.douyin.com/5g3Nyg2p9Os/)
 
 ---
+**[Spica]{p}**
 * **[Spica | 4k 壁纸分享](https://v.douyin.com/ZES3Qt5RYlg/)**
   - [凡人女团黑色系壁纸来啦](https://v.douyin.com/n30NkNO3wcQ/)
   - [凡人女团](https://v.douyin.com/BmmTss0o24M/)
+
+  ---
+  **[001. 凡人女团美照]{g}**
+    - [凡人女团 | 001](https://v.douyin.com/tIeODvt_FLo/)
+    - [南宫婉新建模壁纸来啦 | 009](https://v.douyin.com/NWAEp8jyXqU/)
 
 ---
 * **[阿录 | 摄影📷 坐标昆明 | 五百章 | Douyin](https://v.douyin.com/zWbXWDg2T14/)**
@@ -259,12 +223,6 @@
   - [**中国当代实力名家-潘文良** | 字画  | 国画  | 潘文良](https://v.douyin.com/NtdI_b8hzU4/)
   - [赵永夫作品多少钱一平尺？ | 赵永夫花鸟画](https://v.douyin.com/Nxhfu4453uU/)
   - [李长田老师斗方山水 | 国画  | 水墨画  | 国画艺术](https://v.douyin.com/769k6Vd3ws4/)
-
----
-* **[暖风藏腐朽 | Genshin Impact | 百章 | Douyin](https://v.douyin.com/FSO6Au4FFok/)**
-  - [年狐狸 万年"尸魈"合集 那些凡人修仙传散落人界的绝色仙子 29 | 二次元动漫  | 古风  | 高清壁纸  | 国漫推荐  | 凡人修仙传](https://v.douyin.com/uXbKPgyNqHU/)
-  - [墨彩环。一遇韩立误终身"墨彩环"合集 那些凡人修仙传散落人界的绝色仙子 48 | 二次元  | 高清壁纸  | 古风  | 动漫推荐  | 凡人修仙传](https://v.douyin.com/7NL36oUjh5U/)
-  - [细腻版 "陈巧倩"合集 （不定时更新）那些凡人修仙传散落人界的绝色仙子 | 二次元  | 古风  | 高清壁纸  | 国漫推荐  | 凡人修仙传](https://v.douyin.com/8K7B92rDQLQ/)
 
 ---
 * **[wallspic](https://wallspic.com/)**
@@ -321,6 +279,7 @@
   - [四姑娘山日照金山。| 川西美景 | 日落金山 | 雪山美景 | 幺妹峰](https://v.douyin.com/aS9eTMU0cLM/)
 
 ---
+**[淮上行]{p}**
 * **[淮上行 | 【慢跑】志若坚定，步之所丈终抵星辰。【随拍】心若向善，目之所及皆成画 | 千章 | Douyin](https://v.douyin.com/cw0-csH0XUA/)**
   - [南通映山湖，四九寒天里，红梅枝头俏。雪未到，梅先艳，傲骨迎冬风。](https://v.douyin.com/0p_kum5TsNc/)
   - [美不美你说了算 | 枫叶荻花秋瑟瑟](https://v.douyin.com/g1d89_l6PU4/)
@@ -344,18 +303,6 @@
   - [一帘风月闲。| inmyfeeling | 古风 | 摄影 | 江南 | 真实生活分享计划](https://v.douyin.com/ZtBGouDYiRg/)
 
 ---
-**[清晨樂阳 | Genshin Impact]{p}**
-* **[清晨樂阳 | 二次元杂旅，AI绝赞学习中，欢迎灌注喵 | 百章 | Douyin](https://v.douyin.com/vk2zlkYnRgw/)**
-  - [请选择你的提瓦特阵营](https://v.douyin.com/Xq2fDvx0ZLo/)
-  - [好热啊啊啊啊啊](https://v.douyin.com/xPMWxIdA5Fc/)
-  - [海灯节快乐！原神角色红包第二弹](https://v.douyin.com/blnk7BiMuys/)
-  - [海灯节快乐呀！做了几个原神角色的红包封面](https://v.douyin.com/k-LCe0Y9F8Y/)
-  - [『孩子们，向着东方走吧～穿过绿华池，翻过天衡山，那里将是你们的安居之所。』](https://v.douyin.com/Dmxc-Qfr-uQ/)
-  - [静下心来～享受宁静～](https://v.douyin.com/GwjzVr030-M/)
-  - [『和刻晴出来玩啦～祝刻师傅生日快乐！』](https://v.douyin.com/nj7Glx0MmVk/)
-  - [『听我说：鸽子衔枝之年………』](https://v.douyin.com/2WVSjIy-TWo/)
-
----
 **[URI]{p}**
 * **[URI | 𝗥𝗜 风格｜ 𝗔𝗜𝗚𝗖 治愈视觉｜音乐创作者. 每天活力充能 | 肆佰章 | Douyin](https://v.douyin.com/5AKFbS1vWBM/)**
 
@@ -363,14 +310,6 @@
   **[001. 天空壁纸]{g}**
     - [粉是晨曦的初吻，白是云朵的独舞 蓝是天空的叹息，——温柔是另一种勇敢](https://v.douyin.com/7ix3ryHIZ8I/)
     - [高清壁纸插画。](https://v.douyin.com/h2E0cm3FSXs/ )
-
----
-**[底色 REAL]{p}**
-* **[底色 REAL | 浮华终将散尽，底色自有声音 | 佰章 | Douyin](https://v.douyin.com/aphcnkdEM_M/)**
-  - [隐世之光](https://v.douyin.com/4K_FV6Aza-A/)
-  - [岩壁挡住了冷冽的山风，却挡不住洞外如金似火的暮色 正如梭罗在《瓦尔登湖》中所写：“我步入丛林，因为我希望活得深刻。” 在最接近自然的地方，剥离掉所有不必要的繁杂与喧嚣 借着微弱的烛光熬煮生活，在柴米油盐中找回生命的本真 世界很大，而属于自己的静谧，不过眼前这一方小小天地]{g}
-  - [长夜](https://v.douyin.com/003DEYDfEJ0/)
-  - [月光落在潮湿的石板路上 风吹过空荡的村庄 只有一盏旧灯 陪她慢慢走过深夜 人总会有一段路 要独自穿过黑暗 当你熬过去这段黑暗 也未必等来的是光亮 只是学会沉默独行 不再期待谁的回响]{g}
 
 ---
 ### 0002. 动态壁纸
@@ -420,67 +359,7 @@
   - [Animetrics](https://animetrics.com/)
   - [Animetrics 是一个可以帮助你将视频或动画转换成动态壁纸的在线平台。它提供了简单的工具让你上传文件并转换成壁纸格式，适合那些希望快速实现动态壁纸的用户。]{g}
 
----
-**[灵境墨语]{p}**
-* **[灵境墨语 | 4k视频 | 百章 | Douyin](https://v.douyin.com/SloA0Wrqmf8/)**
-  - [今日我仙殿下雪了！ 今日仙殿下雪了，不知人间是否有雪!](https://v.douyin.com/3Zz_ZJNYNkg/)
-  - [今日我仙殿下雪了！ 今日仙殿下雪了，不知人间是否有雪！快加入我仙殿，一起修仙吧！]{g}
 
----
-**[落雨无声]{p}**
-* **[落雨无声 | 4K | 凡人 |日常分享自己的AI绘画壁纸和动画 | 二百章 | Douyin](https://v.douyin.com/ZZ4DOVwC8Kg/)**
-  - [水墨思君-慕沛灵 凡人修仙传动态壁纸 | 凡人修仙传 | 慕沛灵 | 水墨 | 4k60帧 | 动态壁纸](https://v.douyin.com/Y-rmbEfBChs/)
-  - [雪夜孤巷另一个音乐版本 其实我更喜欢这个BGM多一点 | 国风古韵 | 凡人修仙传 | 汉服雪景 | 超清壁纸 壁纸 | 慕沛灵](https://v.douyin.com/xlcVPZmGvTk/)
-  - [沧海飞尘-凡人修仙传女角色AI图集第二期 全网最全凡人修仙传女角色AI图集，认不全没关系，答案在最后 | 凡人修仙传 | 沧海飞尘 | 紫灵 | 手机壁纸 | 即梦AI](https://v.douyin.com/CcKNv7UzJpU/ )
-  - [看看这版极阴仙子飒不飒 | 凡人修仙传 | **柳玉** | 极阴岛 | 动态壁纸 | **四代目**](https://v.douyin.com/DoIF9trZsLk/)
-  - [双剑侍女-凡人修仙传动态壁纸 估计很多人都不知道她叫啥名字 | 凡人修仙传  | **双剑侍女**  | 绿袍  | 动态壁纸  | 温天仁侍女](https://v.douyin.com/HPwQSdTudkY/)
-  - [忘忧仙子-陈巧倩动态壁纸 | 凡人修仙传 | 陈巧倩 | 韩立 | 陈师姐 | 动态壁纸](https://v.douyin.com/-H7cyc8_Mgg/)
-  - [凡人小剧场-蛐蛐仙子柳玉 蛐蛐完就跑，真刺激](https://v.douyin.com/-6kabApA0r4/)
-  - [凡人修仙传-元瑶动态](https://v.douyin.com/KR9YntjSBVo/)
-  - [青裙倚白马，曦光漫林梢 梅凝水墨风动态壁纸](https://v.douyin.com/M7MvzzX3824/)
-  - [这些场景，是否曾在你的梦境中出现](https://v.douyin.com/fVJFcrNcPgw/)
-
-  **[LUOYU AI | Seedance2.0 Painting]{g}**
-
-  ---
-  **[001. 凡人修仙传静态图文壁纸]{g}**
-    - [即梦5.0极致画质下的凡人中登们 | 001](https://v.douyin.com/TyRAX6NpNXM/)
-    - [当色彩划过屏幕图文版 | 022](https://v.douyin.com/vLlUs6sIi6E/)
-
-  ---
-  **[002. 凡人舞蹈系列]{g}**
-    - [妙音门女团 - 探故知 出镜选手: 紫灵 文思月 范静梅 卓如婷 周媛 | 002](https://v.douyin.com/a7xo7a3U4Cw/)
-    - [落云宗四美一起跳伯虎说 出场选手: 南宫婉 慕沛灵 宋玉 柳玉](https://v.douyin.com/6B0csMg78qI/)
-    - [依赖摇银月版，啼魂的拍摄技巧得提升下了 | 008](https://v.douyin.com/ECw4tSljuYg/)
-
-  ---
-  **[003. 凡人Ai小剧场]{g}**
-    - [凡人小剧场-梅凝加入落云宗 | 001](https://v.douyin.com/rcntUvLjBXo/)
-    - [手搓颜料转场 | 021](https://v.douyin.com/GvhRkA3smP4/)
-
-  ---
-  **[004. 凡人修仙传音乐Ai系列图合集]{g}**
-    - [落英-凡人修仙传 | Music: 落英](https://v.douyin.com/wHibjJzJ-S8/)
-    - [归期-凡人修仙传 | Music: 归期](https://v.douyin.com/5ToJ2xy6M-o/)
-    - [归潮-凡人女角色 | Music: 归潮](https://v.douyin.com/sxWLKsS9RUY/)
-    - [沧海飞尘-凡人修仙传 | Music: 沧海飞尘](https://v.douyin.com/LT9XrcZqEOo/)
-    - [少年不凡-韩立AI情侣图鉴 | Music: 少年不凡](https://v.douyin.com/FKg2BvQpl-E/)
-    - [旅人-韩立服饰套装合集AI写实版 | Music: 旅人-王铮亮](https://v.douyin.com/8kz8YZo39xo/)
-    - [Music: 旅人-王铮亮](https://v.douyin.com/SP0wBxyuPZQ/)
-    - [Music: 不凡-王铮亮](https://v.douyin.com/asOJqYUq5r4/)
-
-  ---
-  **[005. 凡人修仙传高清AI动态壁纸合集]{g}**
-    - [凡人女修4k壁纸合集 | 001](https://v.douyin.com/Ipq2Ds6UTPE/)
-    - [将凡人世界重启色彩 | 079](https://v.douyin.com/MJnlKusnYx8/)
-    - [将凡人世界重启色彩第二期 | 080](https://v.douyin.com/8wiMqFq0Rww/)
-    - **[梅凝4K横版循环动态壁纸 | 086](https://v.douyin.com/Hs6HvlFZMAU/)**
-    - **[紫灵竖屏壁纸](https://v.douyin.com/Hs6HvlFZMAU/)**
-
-  ---
-  **[006. 凡人修仙传Ai手办合集]{g}**
-    - [韩立头号小迷妹宋玉手办 | 001](https://v.douyin.com/xOYHQkwGJfg/)
-    - [慕沛灵终究没能过了韩立这个心魔 | 038](https://v.douyin.com/boGRqOLjzN8/)
 
 
 ---
@@ -671,8 +550,147 @@
   - [蓝色系 loft复式](https://v.douyin.com/9xZ1Xn3Mxnw/)
 
 ---
+### 0008. Genshin Impact
+**[AI造梦师_橙子 | Genshin Impact]{p}**
+* **[AI造梦师_橙子 | 佰章 | Douyin](https://v.douyin.com/vZXWU2cnB8E/)**
+  - [神里凌华](https://v.douyin.com/Hx6KMemJYUc/)
+  - [芙宁娜](https://v.douyin.com/fqArK1hNP7k/)
+  - [七七](https://v.douyin.com/dlMGK8AuN_8/)
+  - [可莉](https://v.douyin.com/eC7dd1eLN54/)
+
+---
+**[方块十AI]{p}**
+* **[方块十AI | 系列图集获取/定制图片 | 千章 | Douyin](https://v.douyin.com/l-KxnOqop5Q/)**
+  - [夜兰师姐说的对~ | 原神  | 八重神子  | 刻晴  | 申鹤  | 芙宁娜 ](https://v.douyin.com/Q-8mtt-0nTU/)
+  - [黄泉师姐说要提防女人~ 崩坏星穹铁道 | 于长夜重返大地 | 黄泉 | 遐蝶 | 符玄](https://v.douyin.com/NpIVnL9dp0Y/)
+  - [星铁运动少女第二期。崩坏星穹铁道 | 走过安眠地的花丛 | 飞霄 | 花火 | 黄泉](https://v.douyin.com/r1QKkZrRFJI/)
+  - [运动时间到~！| 原神 | 茜特菈莉 | 玛薇卡 | 优菈 | 阿蕾奇诺](https://v.douyin.com/HeRuNWk35Cw/)
+
+---
+**[清晨樂阳 | Genshin Impact]{p}**
+* **[清晨樂阳 | 二次元杂旅，AI绝赞学习中，欢迎灌注喵 | 百章 | Douyin](https://v.douyin.com/vk2zlkYnRgw/)**
+  - [请选择你的提瓦特阵营](https://v.douyin.com/Xq2fDvx0ZLo/)
+  - [好热啊啊啊啊啊](https://v.douyin.com/xPMWxIdA5Fc/)
+  - [海灯节快乐！原神角色红包第二弹](https://v.douyin.com/blnk7BiMuys/)
+  - [海灯节快乐呀！做了几个原神角色的红包封面](https://v.douyin.com/k-LCe0Y9F8Y/)
+  - [『孩子们，向着东方走吧～穿过绿华池，翻过天衡山，那里将是你们的安居之所。』](https://v.douyin.com/Dmxc-Qfr-uQ/)
+  - [静下心来～享受宁静～](https://v.douyin.com/GwjzVr030-M/)
+  - [『和刻晴出来玩啦～祝刻师傅生日快乐！』](https://v.douyin.com/nj7Glx0MmVk/)
+  - [『听我说：鸽子衔枝之年………』](https://v.douyin.com/2WVSjIy-TWo/)
+
+---
+* **[暖风藏腐朽 | Genshin Impact | 百章 | Douyin](https://v.douyin.com/FSO6Au4FFok/)**
+  - [年狐狸 万年"尸魈"合集 那些凡人修仙传散落人界的绝色仙子 29 | 二次元动漫  | 古风  | 高清壁纸  | 国漫推荐  | 凡人修仙传](https://v.douyin.com/uXbKPgyNqHU/)
+  - [墨彩环。一遇韩立误终身"墨彩环"合集 那些凡人修仙传散落人界的绝色仙子 48 | 二次元  | 高清壁纸  | 古风  | 动漫推荐  | 凡人修仙传](https://v.douyin.com/7NL36oUjh5U/)
+  - [细腻版 "陈巧倩"合集 （不定时更新）那些凡人修仙传散落人界的绝色仙子 | 二次元  | 古风  | 高清壁纸  | 国漫推荐  | 凡人修仙传](https://v.douyin.com/8K7B92rDQLQ/)
+
+---
+**[语堂天天啃土 | Genshin Impact]{p}**
+* **[语堂天天啃土 | 游戏摄影博主，长期更新中... 带大家发现美是一件令人愉悦的事情 | 百章 | Douyin](https://v.douyin.com/1-kbDx8jAaQ/)**
+  - [当我在游戏里为"狙击手"拍照...【绝区零sp委托】 | 绝区零 | 绝区零创作激励计划| 扳机](https://v.douyin.com/Fw2sUno1LwA/)
+  - [我们要拍希诺宁，不能只拍希诺宁... | 原神纳塔](https://v.douyin.com/n3GoGv5e2rs/)
+  - [绝区零在骗色鬼参军... 【绝区零SP委托】 | 绝区零sp委托 | 绝区零春日摄影展 | 绝区零雨果 | 绝区零摄影](https://v.douyin.com/CLrEx7kFScg/)
+  - [我集齐了14朵花，可以召唤少女吗？ | 原神空月之歌 | 原神剧情混剪| 哥伦比娅 | 魔女会 | 月之少女](https://v.douyin.com/b6tt06xMHgE/)
+  - [哥伦比娅...| 月之少女 | 原神摄 | 原神空月之歌](https://v.douyin.com/VrMxOpGYkQs/)
+
+---
+**[鲸昀数创 | AI绘画内容创作 |  Genshin Impact]{p}**
+* **[鲸昀数创 | AI绘画内容创作 | 佰章 | Douyin](https://v.douyin.com/_R5g7ydROtE/)**
+
+---
+### 0009. 4K壁纸
+**[灵境墨语]{p}**
+* **[灵境墨语 | 4k视频 | 百章 | Douyin](https://v.douyin.com/SloA0Wrqmf8/)**
+  - [今日我仙殿下雪了！ 今日仙殿下雪了，不知人间是否有雪!](https://v.douyin.com/3Zz_ZJNYNkg/)
+  - [今日我仙殿下雪了！ 今日仙殿下雪了，不知人间是否有雪！快加入我仙殿，一起修仙吧！]{g}
+
+---
+**[底色 REAL]{p}**
+* **[底色 REAL | 浮华终将散尽，底色自有声音 | 佰章 | Douyin](https://v.douyin.com/aphcnkdEM_M/)**
+  - [隐世之光](https://v.douyin.com/4K_FV6Aza-A/)
+  - [岩壁挡住了冷冽的山风，却挡不住洞外如金似火的暮色 正如梭罗在《瓦尔登湖》中所写：“我步入丛林，因为我希望活得深刻。” 在最接近自然的地方，剥离掉所有不必要的繁杂与喧嚣 借着微弱的烛光熬煮生活，在柴米油盐中找回生命的本真 世界很大，而属于自己的静谧，不过眼前这一方小小天地]{g}
+  - [长夜](https://v.douyin.com/003DEYDfEJ0/)
+  - [月光落在潮湿的石板路上 风吹过空荡的村庄 只有一盏旧灯 陪她慢慢走过深夜 人总会有一段路 要独自穿过黑暗 当你熬过去这段黑暗 也未必等来的是光亮 只是学会沉默独行 不再期待谁的回响]{g}
+
+---
+**[落雨无声]{p}**
+* **[落雨无声 | 4K | 凡人 |日常分享自己的AI绘画壁纸和动画 | 二百章 | Douyin](https://v.douyin.com/ZZ4DOVwC8Kg/)**
+  - [水墨思君-慕沛灵 凡人修仙传动态壁纸 | 凡人修仙传 | 慕沛灵 | 水墨 | 4k60帧 | 动态壁纸](https://v.douyin.com/Y-rmbEfBChs/)
+  - [雪夜孤巷另一个音乐版本 其实我更喜欢这个BGM多一点 | 国风古韵 | 凡人修仙传 | 汉服雪景 | 超清壁纸 壁纸 | 慕沛灵](https://v.douyin.com/xlcVPZmGvTk/)
+  - [沧海飞尘-凡人修仙传女角色AI图集第二期 全网最全凡人修仙传女角色AI图集，认不全没关系，答案在最后 | 凡人修仙传 | 沧海飞尘 | 紫灵 | 手机壁纸 | 即梦AI](https://v.douyin.com/CcKNv7UzJpU/ )
+  - [看看这版极阴仙子飒不飒 | 凡人修仙传 | **柳玉** | 极阴岛 | 动态壁纸 | **四代目**](https://v.douyin.com/DoIF9trZsLk/)
+  - [双剑侍女-凡人修仙传动态壁纸 估计很多人都不知道她叫啥名字 | 凡人修仙传  | **双剑侍女**  | 绿袍  | 动态壁纸  | 温天仁侍女](https://v.douyin.com/HPwQSdTudkY/)
+  - [忘忧仙子-陈巧倩动态壁纸 | 凡人修仙传 | 陈巧倩 | 韩立 | 陈师姐 | 动态壁纸](https://v.douyin.com/-H7cyc8_Mgg/)
+  - [凡人小剧场-蛐蛐仙子柳玉 蛐蛐完就跑，真刺激](https://v.douyin.com/-6kabApA0r4/)
+  - [凡人修仙传-元瑶动态](https://v.douyin.com/KR9YntjSBVo/)
+  - [青裙倚白马，曦光漫林梢 梅凝水墨风动态壁纸](https://v.douyin.com/M7MvzzX3824/)
+  - [这些场景，是否曾在你的梦境中出现](https://v.douyin.com/fVJFcrNcPgw/)
+
+  **[LUOYU AI | Seedance2.0 Painting]{g}**
+
+  ---
+  **[001. 凡人修仙传静态图文壁纸]{g}**
+    - [即梦5.0极致画质下的凡人中登们 | 001](https://v.douyin.com/TyRAX6NpNXM/)
+    - [当色彩划过屏幕图文版 | 022](https://v.douyin.com/vLlUs6sIi6E/)
+
+  ---
+  **[002. 凡人舞蹈系列]{g}**
+    - [妙音门女团 - 探故知 出镜选手: 紫灵 文思月 范静梅 卓如婷 周媛 | 002](https://v.douyin.com/a7xo7a3U4Cw/)
+    - [落云宗四美一起跳伯虎说 出场选手: 南宫婉 慕沛灵 宋玉 柳玉](https://v.douyin.com/6B0csMg78qI/)
+    - [依赖摇银月版，啼魂的拍摄技巧得提升下了 | 008](https://v.douyin.com/ECw4tSljuYg/)
+
+  ---
+  **[003. 凡人Ai小剧场]{g}**
+    - [凡人小剧场-梅凝加入落云宗 | 001](https://v.douyin.com/rcntUvLjBXo/)
+    - [手搓颜料转场 | 021](https://v.douyin.com/GvhRkA3smP4/)
+
+  ---
+  **[004. 凡人修仙传音乐Ai系列图合集]{g}**
+    - [落英-凡人修仙传 | Music: 落英](https://v.douyin.com/wHibjJzJ-S8/)
+    - [归期-凡人修仙传 | Music: 归期](https://v.douyin.com/5ToJ2xy6M-o/)
+    - [归潮-凡人女角色 | Music: 归潮](https://v.douyin.com/sxWLKsS9RUY/)
+    - [沧海飞尘-凡人修仙传 | Music: 沧海飞尘](https://v.douyin.com/LT9XrcZqEOo/)
+    - [少年不凡-韩立AI情侣图鉴 | Music: 少年不凡](https://v.douyin.com/FKg2BvQpl-E/)
+    - [旅人-韩立服饰套装合集AI写实版 | Music: 旅人-王铮亮](https://v.douyin.com/8kz8YZo39xo/)
+    - [Music: 旅人-王铮亮](https://v.douyin.com/SP0wBxyuPZQ/)
+    - [Music: 不凡-王铮亮](https://v.douyin.com/asOJqYUq5r4/)
+
+  ---
+  **[005. 凡人修仙传高清AI动态壁纸合集]{g}**
+    - [凡人女修4k壁纸合集 | 001](https://v.douyin.com/Ipq2Ds6UTPE/)
+    - [将凡人世界重启色彩 | 079](https://v.douyin.com/MJnlKusnYx8/)
+    - [将凡人世界重启色彩第二期 | 080](https://v.douyin.com/8wiMqFq0Rww/)
+    - **[梅凝4K横版循环动态壁纸 | 086](https://v.douyin.com/Hs6HvlFZMAU/)**
+    - **[紫灵竖屏壁纸](https://v.douyin.com/Hs6HvlFZMAU/)**
+
+  ---
+  **[006. 凡人修仙传Ai手办合集]{g}**
+    - [韩立头号小迷妹宋玉手办 | 001](https://v.douyin.com/xOYHQkwGJfg/)
+    - [慕沛灵终究没能过了韩立这个心魔 | 038](https://v.douyin.com/boGRqOLjzN8/)
+
+---
+**[春夏秋冬都很想你]{p}**
+* **[春夏秋冬都很想你 | AI创作｜4k超清壁纸 百章 | Douyin](https://v.douyin.com/aG2XqDV_QTc/)**
+  - [奇幻美学](https://v.douyin.com/eUQYwDh2FBc/)
+  - [视觉震撼 | 梦中的世界 | 心灵奇旅 | 异世界探秘 | ios26壁纸](https://v.douyin.com/mTeNNY2E8RY/)
+  - [科幻美学](https://v.douyin.com/fw7g9-k8nAQ/)
+
+---
+**[Enzo]{p}**
+* **[Enzo | 喜欢摄影 喜欢调色 记录旅途和生活中的美景 4 K | 贰佰章 | Douyin](https://v.douyin.com/k5uJHqMcVbs/)**
+  - [人生不过三万次落日](https://v.douyin.com/BPaplZ6nOys/)
+  - [荷塘月色](https://v.douyin.com/1fBJCz46dGM/)
+  - [我拍过的治愈风景色](https://v.douyin.com/ajVn5V--pM0/)
+
+---
 ### 9999. Download
+**[dlpanda]{p}**
 * **[dlpanda](https://www.dlpanda.com)**
+
+---
+**[站酷]{p}**
+* **[站酷](https://www.zcool.com.cn/)**
+  - **[站酷插画师](https://www.zcool.com.cn/search/image?album=ZMjM4MDU1OTA4_2)**
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
