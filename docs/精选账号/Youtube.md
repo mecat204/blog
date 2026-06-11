@@ -3150,6 +3150,16 @@
 * **[martine skaret | 2.12万 | Youtube](https://www.youtube.com/@martinejskaret/videos)**
 
 ---
+**[English 1314]{s}**
+* **[English 1314 | 9.51万 | Youtube](https://www.youtube.com/@English1314_%E5%AD%B8%E8%8B%B1%E8%AA%9E/videos)**
+  - [逛超市別再只會指！購物、問路、結帳英文一次學會｜B1-B2](https://www.youtube.com/watch?v=l3gAhRtGIA0)
+
+---
+**[VibeEnglish]{s}**
+* **[ | 65.4万 | Youtube](https://www.youtube.com/@vibeenglishlearning/videos)**
+  - **[学英文最有效的方法？跟读就对了！美国人每天在说的300句｜零基础到进阶｜Shadowing 影子跟读｜英语听力训练｜Learn English with Podcast｜Episode 4](https://www.youtube.com/watch?v=5a1Ok3-dLmI)**
+
+---
 ### 0025. Bloger Gather | TEco Lab
 **[Bloger Gather]{g}**
 
