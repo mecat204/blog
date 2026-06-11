@@ -674,7 +674,7 @@
 
 ---
 ### 0066. VolkaEnglish | 异世相逢
-**[VolkaEnglish | VolkaEnglish]{s}**
+**[VolkaEnglish]{s}**
 * **[VolkaEnglish | 我只想让学英语变得有趣 | 37.8万 | Bilibili](https://space.bilibili.com/3546896268266167?spm_id_from=333.337.search-card.all.click)**
   - [Learn English in Nature w/ comprehensible Input | 在大自然中学英语｜沉浸式输入超简单！](https://www.bilibili.com/video/BV1vRJMzjEpf?spm_id_from=333.788.videopod.sections)
 
