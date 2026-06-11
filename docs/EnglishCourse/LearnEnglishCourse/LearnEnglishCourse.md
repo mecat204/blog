@@ -2668,6 +2668,12 @@
     - [高雅人士博览中 | 029](https://v.douyin.com/DT4dBLa5BII/)
 
 ---
+### 0040. Y先生英语
+**[Y先生英语]{p}**
+* **[Y先生英语 | 千章 | Douyin](https://v.douyin.com/Q_T0hAc5lvw/)**
+  - [能听懂这段英文，你的听力不会差 | 921](https://v.douyin.com/ASk035JTzJ8/！)
+
+---
 ### 9999. Download
 **[dlpanda]{p}**
 * **[dlpanda](https://www.dlpanda.com)**

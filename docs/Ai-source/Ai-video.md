@@ -740,6 +740,14 @@
   - [林中小屋](https://v.douyin.com/I4yKGk3KlR8/)
 
 ---
+**[忘忧境]{p}**
+* **[忘忧境 | 今天辛苦啦，愿我的视频能够给你带来治愈。| 千章 | Douyin](https://v.douyin.com/8qxdSsz7BbE/)**
+  - [loft复式](https://v.douyin.com/T9CH2o1cGlA/)
+  - [温馨小窝](https://v.douyin.com/PuDySC0M4Bo/)
+  - [林中小屋](https://v.douyin.com/YMr_dil1hiA/)
+  - [独居生活](https://v.douyin.com/T8jx1HKScdI/)
+
+---
 ### 0029. URI
 **[URI]{p}**
 * **[URI | 𝗥𝗜 风格｜ 𝗔𝗜𝗚𝗖 治愈视觉｜音乐创作者. 每天活力充能 | 肆佰章 | Douyin](https://v.douyin.com/5AKFbS1vWBM/)**
@@ -954,9 +962,9 @@
   - [我拍到了大概是中国人才懂的意境分享给你](https://v.douyin.com/aGWUHOp7pP0/)
 
 ---
-### 0041. Other
+### 0041. 大长腿摄影
 **[大长腿摄影]{p}**
-* **[大长腿摄影 | 因为喜欢，行摄天下，痴迷美景，与人分享，这么英俊美丽的你](https://v.douyin.com/czjWhv4_YXs/)**
+* **[大长腿摄影 | 因为喜欢，行摄天下，痴迷美景，与人分享，这么英俊美丽的你 | 佰章 | Douyin](https://v.douyin.com/czjWhv4_YXs/)**
   - [山回路转不见君，雪上空留马行处 |  雪景山水画 万物皆有灵性](https://v.douyin.com/AnwW8W4Il4g/)
   - [下半年，咸鱼翻身，成功上岸，见者好运连连，财源滚滚，万事如意，心想事成](https://v.douyin.com/z2Dnmtf5L4I/)
   - [半池青绿，一抹孤鸿，身在喧嚣，心如闲云野鹤。](https://v.douyin.com/6SLHoyd6uCg/)
@@ -981,6 +989,32 @@
     - [鲸 | 001](https://v.douyin.com/x6siKpxZAgE/)
     - [千禧年の梦 | 你可以回去，但是那里已经没有人了](https://v.douyin.com/cdh_TcegVEM/)
     - [奇怪の城市 | 109](https://v.douyin.com/OXGRtVMRtes/)
+
+---
+### 0043. 忆昨日
+**[忆昨日]{p}**
+* **[忆昨日 | 喜欢AI绘画 | 叁佰章 | Douyin](https://v.douyin.com/876C0IwYFvM/)**
+  - [凡胎入道三千劫，半步天梯九万弯。](https://v.douyin.com/BKmaZkJB1n0/)
+  - [不胜人生一场醉 天龙八音](https://v.douyin.com/YlxPc8arGMk/)
+  - [人生路 美梦似路长](https://v.douyin.com/TVsLUxZS9_Y/)
+  - [凡人武侠篇 佛光初现](https://v.douyin.com/HPJ1pwpmr6s/)
+  - [山海寻龙 胡金铨](https://v.douyin.com/3DTWo4p_kjs/)
+
+---
+### 0044. 白茶荼葵 | GenshinImpact
+**[白茶荼葵]{p}**
+* **[白茶荼葵 | 日更博主，观众老爷们点个关注再走呗QwQ | Douyin](https://v.douyin.com/wlEy3ExMfSA/)**
+
+  ---
+  **[001. 小木偶猫的日常]{g}**
+    - [小木偶猫来道早安啦 | 001](https://v.douyin.com/14OAtDiW59c/)
+    - [小木偶猫搭城堡 | 93](https://v.douyin.com/tPuS-To7WcY/)
+    - [小木偶猫拔萝卜 | 哥伦比娅 | 桑多涅 | 117](https://v.douyin.com/xbzz8mJa6Mo/)
+
+  ---
+  **[002. 真颂月人偶]{g}**
+    - [【少女 x 木偶】我在5:20睡觉5:21被吵醒 | 001](https://v.douyin.com/F7VeGl422Mo/)
+    - [【原神】哥伦比娅帮桑多涅看手相 | 014](https://v.douyin.com/jz6shjgYaJE/)
 
 ---
 ### 9999. Download

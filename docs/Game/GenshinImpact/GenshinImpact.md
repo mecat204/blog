@@ -588,6 +588,22 @@
   - [Farming Pulls for Linnea to Save My Bank Account - Map Maxxing (Ep.7)](https://www.youtube.com/watch?v=X090PExuMtI)
 
 ---
+### 0013. 白茶荼葵 | GenshinImpact
+**[白茶荼葵]{p}**
+* **[白茶荼葵 | 日更博主，观众老爷们点个关注再走呗QwQ | Douyin](https://v.douyin.com/wlEy3ExMfSA/)**
+
+  ---
+  **[001. 小木偶猫的日常]{g}**
+    - [小木偶猫来道早安啦 | 001](https://v.douyin.com/14OAtDiW59c/)
+    - [小木偶猫搭城堡 | 93](https://v.douyin.com/tPuS-To7WcY/)
+    - [小木偶猫拔萝卜 | 哥伦比娅 | 桑多涅 | 117](https://v.douyin.com/xbzz8mJa6Mo/)
+
+  ---
+  **[002. 真颂月人偶]{g}**
+    - [【少女 x 木偶】我在5:20睡觉5:21被吵醒 | 001](https://v.douyin.com/F7VeGl422Mo/)
+    - [【原神】哥伦比娅帮桑多涅看手相 | 014](https://v.douyin.com/jz6shjgYaJE/)
+
+---
 ### 9999. Download
 * **[dlpanda](https://www.dlpanda.com)**
 

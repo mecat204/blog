@@ -698,6 +698,13 @@
   - [深山幽谷，参天古松与老柏，溪水蜿蜒流淌。简陋的茅草小屋前，一人弹琴，数人围桌旁听。云雾缭绕的远山, 瀑布从高处跌落，传达出古典的隐逸情怀。]{g}
 
 ---
+### 0010. 异界图鉴
+**[异界图鉴]{g}**
+* **[异界图鉴 | 画一本你能走进去的奇幻图鉴 关注我，带你进入幻想世界 | 伍拾章 | Douyin](https://v.douyin.com/bLhax2dnjwY/)**
+  - [天空之城王国漫游图鉴](https://v.douyin.com/gPERjtuKPtI/)
+  - [剑与魔法](https://v.douyin.com/AKL77iCh6vQ/)
+
+---
 ### 9999. Download
 **[dlpanda]{p}**
 * **[dlpanda](https://www.dlpanda.com)**
