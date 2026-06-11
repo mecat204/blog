@@ -66,6 +66,7 @@
   - **[NetflixGC | 奈飞工厂-一个致力于免费提供Netflix影剧动漫的流媒体播放平台](https://www.netflixgc.com/)**
 
 ---
+### 0002a. dalao.ru
 **[dalao.ru]{p}**
   * [资源合集](https://b.oe.do/)
   * **[iui.su](https://iui.su/link.html)**
@@ -75,30 +76,37 @@
       * **[CCTV](https://tv.cctv.com/lm/index.shtml#datapd=EPGC1386744804340113&datafl=&dataszm=)**
 
 ---
-**[不死鸟]{p}**
-* **[iui.su](https://iui.su/531/)**
-
-**[pomo.mom]{s}**
-* **[pomo.mom](https://pomo.mom/)**
-
-**[注视影视]{s}**
-* **[注视影视](https://gaze.show/)**
-
-**[宅男影视]{s}**
-* **[宅男影视](https://znys.us/)**
-
 **[饭搭子影视 | proxy]{g}**
 * **[饭搭子影视](https://fdzys.com/)**
 
+**[清禾视频 | proxy]{g}**
+* **[清禾视频](https://movie.qhdaohang.cn/vodtype/20.html)**
+
+---
 **[P.DOG | 永乐视频]{s}**
 * **[永乐视频](https://www.y6f.net/vodtype/4/)**
   - [超级马力欧银河大电影](https://www.y6f.net/play/122937-1-1/)
   - [你的名字](https://www.y6f.net/voddetail/66290/)
 
-**[清禾视频]{s}**
-* **[清禾视频](https://movie.qhdaohang.cn/vodtype/20.html)**
+**[pomo.mom]{s}**
+* **[pomo.mom](https://pomo.mom/)**
+
+**[icedespair | 注视影视]{s}**
+* **[icedespair](https://icedespair.github.io/)**
+  - **[注视影视](https://gaze.show/)**
+
+**[宅男影视]{s}**
+* **[宅男影视](https://znys.us/)**
+
+**[影巢]{s}**
+* **[影巢](https://tv.movie1080.online/)**
+
+**[Novipnoad]{s}**
+* **[NO视频 - 网址导航](https://findno.tv/)**
+* **[Novipnoad | NO视频为用户提供及时的海外热门剧集在线观看，友好无广告，致力于最轻松的追剧体验。](https://www.novipnoad.net/)**
 
 ---
+### 0002b. 4kvm
 **[4kvm]{p}**
   - **[4kvm·A](https://4kvm.site/)**
   - **[4kvm·B](https://www.4kvm.net/)**
@@ -122,11 +130,6 @@
 **[AnFuns·动漫]{p}**
   - **[AnFuns.cc](https://www.anfuns.cc/)**
   - **[AnFuns·in](https://www.anfuns.in)**
-
----
-**[Novipnoad]{p}**
-* **[NO视频 - 网址导航](https://findno.tv/)**
-* **[Novipnoad | NO视频为用户提供及时的海外热门剧集在线观看，友好无广告，致力于最轻松的追剧体验。](https://www.novipnoad.net/)**
 
 ---
 **[4K指南]{p}**
@@ -175,7 +178,7 @@
   - [Binge Society-电影片段](https://www.youtube.com/@bingesociety/playlists)
 
 ---
-### 0002a. Englearner.site
+### 0003. Englearner.site
 **[Englearner.site]{p}**
 * **[Englearner.site](https://www.englearner.site/cn/index.html)**
 
@@ -198,7 +201,7 @@
     - [nunflix](https://nunflix.org/)
 
 ---
-### 0003. Bttwo  | proxy | Film-Note
+### 0003a. Bttwo | proxy | Film-Note
 **[Bttwo]{p}**
   - **[bttwo.vip](https://bttwo.vip/)**
   - **[bttwo.org](https://www.bttwo.org/)**

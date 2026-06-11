@@ -667,6 +667,12 @@
   - [How to Learn English | English fluency journey | 002](https://www.bilibili.com/video/BV17aHZzAEzM/?spm_id_from=333.1387.homepage.video_card.click)
 
 ---
+### 0065. 脑洞乌托邦
+**[脑洞乌托邦]{e}**
+* **[脑洞乌托邦 | 这里有奇闻案件、未解之谜、历史禁书、外星文明、心理学、人类起源、宗教传说，神秘預言以及一切能让你脑洞大开的话题 | 74.3万 | Bilibili](https://space.bilibili.com/368229902?spm_id_from=333.999.0.0)**
+  - [1400万人被困在3元的工作里](https://www.bilibili.com/video/BV1DWRdB1E2s/?spm_id_from=333.1387.homepage.video_card.click)
+
+---
 ### 9999. 开源项目
 **[必应]{p}**
 * **[必应 | bing.com](https://cn.bing.com/)**
