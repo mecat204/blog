@@ -1,19 +1,31 @@
 ### 0000. MusicCourse
+**[AlgerMusicPlayer]{p}**
 * **[AlgerMusicPlayer | music | software](https://github.com/algerkong/AlgerMusicPlayer)**
   - [music.alger.fun](http://music.alger.fun/#/)
   - [donate.alger.fun](https://donate.alger.fun/)
 
 ---
-* **[ Musicca | 在线免费学习乐理（音乐理论）和基础乐器/音乐知识 的平台。](https://musicca.com)**
+**[iui.su | music]{p}**
+* **[iui.su/2217](https://iui.su/2217/)**
+  - **[全平台音乐搜索](https://music.zyfx6.xyz/)**
+  - [music.gdstudio](https://music.gdstudio.org/)
+  - [无损音乐下载](https://flac.music.hi.cn/)
 
 ---
+**[Musicca]{p}**
+* **[Musicca | 在线免费学习乐理（音乐理论）和基础乐器/音乐知识 的平台。](https://musicca.com)**
+
+---
+**[dlpanda]{p}**
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
+**[桃李醉春风个人制谱园地_中国曲谱网]{p}**
 * **[桃李醉春风个人制谱园地_中国曲谱网](https://www.qupu123.com/space/6)**
   - [舍得](https://www.qupu123.com/jipu/p294759.html)
 
 ---
+**[音乐魔石]{p}**
 * **[音乐魔石 | 音乐魔石-无损音乐免费下载网站](https://yym4.net)**
 
 ---
@@ -1530,21 +1542,33 @@
 
 ---
 ### 9999. MusicCourse
+**[AlgerMusicPlayer]{p}**
 * **[AlgerMusicPlayer | music | software](https://github.com/algerkong/AlgerMusicPlayer)**
   - [music.alger.fun](http://music.alger.fun/#/)
   - [donate.alger.fun](https://donate.alger.fun/)
 
 ---
-* **[ Musicca | 在线免费学习乐理（音乐理论）和基础乐器/音乐知识 的平台。](https://musicca.com)**
+**[iui.su | music]{p}**
+* **[iui.su/2217](https://iui.su/2217/)**
+  - **[全平台音乐搜索](https://music.zyfx6.xyz/)**
+  - [music.gdstudio](https://music.gdstudio.org/)
+  - [无损音乐下载](https://flac.music.hi.cn/)
 
 ---
+**[Musicca]{p}**
+* **[Musicca | 在线免费学习乐理（音乐理论）和基础乐器/音乐知识 的平台。](https://musicca.com)**
+
+---
+**[dlpanda]{p}**
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
+**[桃李醉春风个人制谱园地_中国曲谱网]{p}**
 * **[桃李醉春风个人制谱园地_中国曲谱网](https://www.qupu123.com/space/6)**
   - [舍得](https://www.qupu123.com/jipu/p294759.html)
 
 ---
+**[音乐魔石]{p}**
 * **[音乐魔石 | 音乐魔石-无损音乐免费下载网站](https://yym4.net)**
 
 ---

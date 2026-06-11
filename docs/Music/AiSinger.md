@@ -1,5 +1,29 @@
-### 0000. Download
+### 0000. MusicCourse
+**[AlgerMusicPlayer]{p}**
+* **[AlgerMusicPlayer | music | software](https://github.com/algerkong/AlgerMusicPlayer)**
+  - [music.alger.fun](http://music.alger.fun/#/)
+  - [donate.alger.fun](https://donate.alger.fun/)
+
+---
+**[全平台音乐搜索]{p}**
+* **[全平台音乐搜索](https://music.zyfx6.xyz/)**
+
+---
+**[Musicca]{p}**
+* **[Musicca | 在线免费学习乐理（音乐理论）和基础乐器/音乐知识 的平台。](https://musicca.com)**
+
+---
+**[dlpanda]{p}**
 * **[dlpanda](https://www.dlpanda.com)**
+
+---
+**[桃李醉春风个人制谱园地_中国曲谱网]{p}**
+* **[桃李醉春风个人制谱园地_中国曲谱网](https://www.qupu123.com/space/6)**
+  - [舍得](https://www.qupu123.com/jipu/p294759.html)
+
+---
+**[音乐魔石]{p}**
+* **[音乐魔石 | 音乐魔石-无损音乐免费下载网站](https://yym4.net)**
 
 ---
 ### 0001. Yuri尤栗
@@ -59,8 +83,32 @@
     - [童话说雨后会有一道彩虹，却不曾说过它也会转瞬成空 | 047](https://v.douyin.com/fsa7a9oyeYs/)
 
 ---
-### 9999. Download
+### 9999. MusicCourse
+**[AlgerMusicPlayer]{p}**
+* **[AlgerMusicPlayer | music | software](https://github.com/algerkong/AlgerMusicPlayer)**
+  - [music.alger.fun](http://music.alger.fun/#/)
+  - [donate.alger.fun](https://donate.alger.fun/)
+
+---
+**[全平台音乐搜索]{p}**
+* **[全平台音乐搜索](https://music.zyfx6.xyz/)**
+
+---
+**[Musicca]{p}**
+* **[Musicca | 在线免费学习乐理（音乐理论）和基础乐器/音乐知识 的平台。](https://musicca.com)**
+
+---
+**[dlpanda]{p}**
 * **[dlpanda](https://www.dlpanda.com)**
+
+---
+**[桃李醉春风个人制谱园地_中国曲谱网]{p}**
+* **[桃李醉春风个人制谱园地_中国曲谱网](https://www.qupu123.com/space/6)**
+  - [舍得](https://www.qupu123.com/jipu/p294759.html)
+
+---
+**[音乐魔石]{p}**
+* **[音乐魔石 | 音乐魔石-无损音乐免费下载网站](https://yym4.net)**
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
