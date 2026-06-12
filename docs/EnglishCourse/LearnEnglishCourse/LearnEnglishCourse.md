@@ -1760,6 +1760,43 @@
   - [你的成长,不必和别人一样｜挑战全英播客100期 67期](https://v.douyin.com/8VmLFqM_Xsw/)
   - [藏在空气里的人类奇迹丨分级听读 本期带你深度了解每日相伴的 Wi-Fi：回溯马可尼开启无线时代、海蒂・拉玛助力技术研发的历史，拆解 Wi-Fi 的简单工作原理，讲述它如何改变学习、工作与情感连接，在温柔的英文讲述中，感受无形电波里的人类温暖与科技力量](https://v.douyin.com/NCt9DUAtRqk/)
 
+  ---
+  **[001. 英语百科 | 高阶精进]{g}**
+    - [从无标到统一: 校车黄色的色彩密码 | 001](https://v.douyin.com/ji2IQpacRPs/)
+    - [College 和 University 的差异究竟是什么 | 010](https://v.douyin.com/oDfzhqM_Guo/)
+    - [沙漠里的呼吸，藏着顶级生存技巧 | 014](https://v.douyin.com/M9_miv-TWRs/)
+
+  ---
+  **[002. 英语博客 | 听力专属]{g}**
+    - [通勤,碎片时间都能听,拒绝独自坚持的孤单 | 001](https://v.douyin.com/1fARgK99N7Q/)
+    - [Min: 13:34 | 013](https://v.douyin.com/T1yOn_LHn5U/)
+    - [Min: 59:35 | 019](https://v.douyin.com/GL_YKCB5Ang/)
+    - [只用核心词就能搞定日常口语 | 075](https://v.douyin.com/QMbBU1ClrKI/)
+
+  ---
+  **[003. 分级听读 | 文明密码]{g}**
+    - [2026英语翻身计划-打破失败循环 | 001](https://v.douyin.com/mM_6MoqeskA/)
+    - [越南河粉 | 026](https://v.douyin.com/YYTF5nsX_ak/)
+    - [一球跨山海,热爱共千秋-世界杯的百年岁月。| 034](https://v.douyin.com/gkkSlIoLozM/)
+
+  ---
+  **[004. 英语秘籍 | 少走弯路]{g}**
+    - [循序渐进搭建语言储备 | 001](https://v.douyin.com/vkXyfbr_F6Y/)
+    - [拒绝逐句翻译🙅‍ 重塑双语表达思维 | 002](https://v.douyin.com/xh7ragXrIPY/)
+    - [测一测你的英语水平，初级？中级？高级？| 025](https://v.douyin.com/dZgLGyyNpR0/)
+    - [真正练好口语的底层逻辑丨少走弯路 | 029](https://v.douyin.com/n_W9FWfczqA/)
+    - [我学的英语单词都去哪儿了 | 033](https://v.douyin.com/o7lnWqiT0-Y/)
+
+  ---
+  **[005. 全英Vlog | 绝佳载体]{g}**
+    - [全英Vlog揭秘:老外高中生英语这么基础 | 001](https://v.douyin.com/5U5deA7jWIA/)
+    - [Taylor Swift 73 Questions With Taylor Swift | 009](https://v.douyin.com/lPZWbpXil_o/)
+    - [穿越西北航道！北极之旅的冰与熊 | 012](https://v.douyin.com/4ylQ_THNfY8/)
+    - [分手后，我闯进了世界最空旷的国家 | 时间不语却回答了所有问题 你的坚持终将美好 | 015](https://v.douyin.com/VcE9Dpv20WQ/)
+    - [地球之肺的野性：亚马逊雨林野生动物 | 027](https://v.douyin.com/xhss0Jh3gco/)
+    - [Grocery Shopping in Melbourne丨 跟着实景镜头逛墨尔本市场和超市，一边感受澳洲本地生活，一边轻松学地道日常英语。| 032](https://v.douyin.com/wtyY2uE9Dpo/)
+    - [生活化英语,原来家里这些东西，英文是这么说 | 035](https://v.douyin.com/MJCFAbOKBAI/)
+
 ---
 **[Mr.D标准美语频道]{p}**
 * **[Mr.D标准美语频道 | 标准美式发音领航者，敢说，会说，说的标准！| 五十章 | Douyin](https://v.douyin.com/DDC6bqfvd70/)**
