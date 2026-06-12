@@ -3156,8 +3156,26 @@
 
 ---
 **[VibeEnglish]{s}**
-* **[ | 65.4万 | Youtube](https://www.youtube.com/@vibeenglishlearning/videos)**
+* **[VibeEnglish | 65.4万 | Youtube](https://www.youtube.com/@vibeenglishlearning/videos)**
   - **[学英文最有效的方法？跟读就对了！美国人每天在说的300句｜零基础到进阶｜Shadowing 影子跟读｜英语听力训练｜Learn English with Podcast｜Episode 4](https://www.youtube.com/watch?v=5a1Ok3-dLmI)**
+
+
+**[Squarespace | website]{s}**
+* **[Squarespace | 10.7万 | Youtube](https://www.youtube.com/@squarespace/videos)**
+
+  - [En: Squarespace empowers millions of dreamers, makers, and doers by providing them with the tools they need to bring their creative ideas to life.]{s}
+  - [Cn: Squarespace通过提供实现创意的工具，赋能数百万梦想家、创作者和实践者。]{g}
+
+  ---
+  - [En: On Squarespace’s dynamic all-in-one platforms, customers can claim a domain, build a website, sell online, and market a brand.]{s}
+  - [Cn: 在Squarespace动态的一站式平台上，客户可以申领域名、搭建网站、在线销售和品牌营销。]{g}
+
+  ---
+  - [En: Our suite of products combines cutting-edge design and world-class engineering, making it easier than ever to establish and own your online presence.]{s}
+  - [Cn: 我们的产品套件结合了尖端设计和世界级工程技术，使建立和拥有您的线上形象比以往任何时候都更容易。]{g}
+
+---
+* **[Website Builder – Easily Create Your Own Website — Squarespace](https://www.squarespace.com/)**
 
 ---
 ### 0025. Bloger Gather | TEco Lab
