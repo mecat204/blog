@@ -1017,6 +1017,22 @@
     - [【原神】哥伦比娅帮桑多涅看手相 | 014](https://v.douyin.com/jz6shjgYaJE/)
 
 ---
+### 0045. 用AI养活自己
+**[用AI养活自己]{p}**
+* **[用AI养活自己 | 感谢《凡人修仙传》感谢AI，让我收获一万+粉丝 | 佰章 | Douyin](https://v.douyin.com/OjrSVLtC8uk/)**
+
+  ---
+  **[001. 凡人修仙传(高光时刻)]{g}**
+    - [云梦格局大变 | 001](https://v.douyin.com/s1d519Rh07w/)
+    - [南宫婉结婴和心魔劫 | 014](https://v.douyin.com/V7wwiYSwA64/)
+    - [乾某与韩道友有些旧事需要了断一下 | 017](https://v.douyin.com/mhzvbewK1NA/)
+
+  ---
+  **[002. 凡人搞笑传]{g}**
+    - [博主修仙传 所谓元婴以下第一人，说到底，也不过是个结丹修士 魔军压境，仙门危急 | 001](https://v.douyin.com/KW_DiMpZbMw/)
+    - [银月小话本-南宫婉抢婚爽剧版本 | 013](https://v.douyin.com/Rvx8N1sn60c/)
+
+---
 ### 9999. Download
 **[必应]{p}**
 * **[必应 | bing.com](https://cn.bing.com/)**

@@ -66,6 +66,10 @@
   - [这个词是怎么来的 英语单词起源趣谈](https://s.zhangyue.com/read?bid=10159309&cid=26&anchorId=&rentId=108040&appId=2a9d9424)
 
 ---
+**[结绳技巧图鉴]{g}**
+  - [结绳技巧图鉴](https://v.douyin.com/G1GCpaGNCJQ/)
+
+---
 ### 9999. Download
 **[Anna’s Archive | 安娜的档案]{p}**
 * **[Anna’s Archive | 安娜的档案](https://monoskop.org/Anna%27s_Archive)**
