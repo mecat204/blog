@@ -865,8 +865,8 @@
   - **[Home | Tiny Home Tours](https://www.tinyhometours.com/)**
 
   ---
-  - [En: Welcome]{s}
-  - [Cn: 欢迎]{g}
+  - [En: Welcome.]{s}
+  - [Cn: 欢迎.]{g}
 
   ---
   - [En: Here at Tiny Home Tours, we are passionate about all things tiny living.]{s}
@@ -897,10 +897,10 @@
   - [Cn: 下面你会看到我们的社交频道链接，我们创建的课程涵盖从将校车改造成移动微型住宅，到如何在路上赚钱，我们的播客，以及订阅通讯。]{g}
 
   ---
-  - [En: Our Podcast - https://tinyhometours.buzzsprout.com]{s}
-  - [En: Our Website - https://www.tinyhometours.com/]{s}
-  - [Cn: 我们的播客 - https://tinyhometours.buzzsprout.com]{g}
-  - [Cn: 我们的网站 - https://www.tinyhometours.com/]{g}
+  - [En: Our Podcast - tinyhometours.buzzsprout.com]{s}
+  - [En: Our Website - tinyhometours.com]{s}
+  - [Cn: 我们的播客 - tinyhometours.buzzsprout.com]{g}
+  - [Cn: 我们的网站 - tinyhometours.com]{g}
 
   ---
   - [Her Tiny Home Will Change How You Think About Interior Design](https://www.youtube.com/watch?v=HSWOZdMA1n8)
@@ -933,15 +933,17 @@
 ---
 **[The Diary Of A CEO Clips]{p}**
 * **[The Diary Of A CEO Clips | 精品节选 | 203万 | Youtube](https://www.youtube.com/@TheDiaryOfACEOClips/videos)**
-  - [En: This Channel is where we showcase the best clips from The Diary Of A CEO, hosted by Steven Bartlett, this show is an invitation to rethink what’s possible.{s}
+
+  ---
+  - [En: This Channel is where we showcase the best clips from The Diary Of A CEO, hosted by Steven Bartlett, this show is an invitation to rethink what’s possible.]{s}
   - [Cn: 这个频道是我们展示《CEO日记》中最精彩片段的地方，由史蒂文·巴特利特主持，这个节目邀请大家重新思考可能性。]{g}
 
   ---
-  - [En: Through honest conversations with global experts, visionaries, and game-changers, we explore refreshing ideas and mindsets that shape our lives.{s}
+  - [En: Through honest conversations with global experts, visionaries, and game-changers, we explore refreshing ideas and mindsets that shape our lives.]{s}
   - [Cn: 通过与全球专家、远见者和改变游戏规则者的坦诚对话，我们探索塑造我们生活的新鲜思想和思维方式。]{g}
 
   ---
-  - [En: Whether you’re chasing a dream, navigating change, or simply looking for a new perspective, this is the space for curious, open minds and big ambitions.{s}
+  - [En: Whether you’re chasing a dream, navigating change, or simply looking for a new perspective, this is the space for curious, open minds and big ambitions.]{s}
   - [Cn: 无论你是在追逐梦想、应对变化，还是仅仅在寻找新的视角，这里都是好奇、开放心态和宏大抱负的空间。]{g}
 
   ---
@@ -950,11 +952,11 @@
 ---
 **[SMii7Y]{p}**
 * **[SMii7Y | 高阶 | 多人聊天、高效、调侃 | 847万 | Youtube](https://www.youtube.com/@SMii7Y/videos)**
-  - [En: Pronounced "Smitty" -  Gameplay, Funny Moments, Hilarity & More!{g}
+  - [En: Pronounced "Smitty" -  Gameplay, Funny Moments, Hilarity & More!]{s}
   - [Cn: 发音为"Smitty"——游戏玩法、搞笑时刻、搞笑元素等！]{g}
 
   ---
-  - [En: Use code S7 on Gamer Supps for 10% OFF your order!{g}
+  - [En: Use code S7 on Gamer Supps for 10% OFF your order!]{s}
   - [Cn: 在Gamer Supps使用代码S7，订单享九折优惠！]{g}
 
 ---
@@ -1193,14 +1195,14 @@
   - [Cn: 我上传的视频可以帮助你提升基础英语词汇，帮助你理解和发音常用英语短语的视频，以及一些旨在鼓励你学习英语的视频。
 
   ---
-  - [En: Please enjoy these videos as you continue to work on your English!]{s}
-  - [Cn: 请在继续学习英语的过程中欣赏这些视频！]{g}
+  - [En: Please enjoy these videos as you continue to work on your English]{s}
+  - [Cn: 请在继续学习英语的过程中欣赏这些视频]{g}
 
 ---
 **[English by Jay - Sprout]{p}**
 * **[English by Jay - Sprout | 0基础 | 剪辑很棒，比一般英文频道要更有意思 | 32.8万 | Youtube](https://www.youtube.com/@englishbyjay.official)**
   - [En: Watch more of my videos and learn English the natural way with Sprout 🌱 https://sproutlanguage.com/]{s}
-  - [Cn: 多看我的视频，用Sprout 🌱自然学习英语 https://sproutlanguage.com/]{g}
+  - [Cn: 多看我的视频，用Sprout 🌱自然学习英语 sproutlanguage.com]{g}
 
 ---
 **[Volka English]{p}**
@@ -1283,8 +1285,8 @@
 ---
 **[Nischa]{p}**
 * **[Nischa | 投资 | 213万 |  Youtube](https://www.youtube.com/@nischa)**
-  - I’m a former Investment Banker (with an accountancy qualification) and on this channel we explore all things personal finance, self development and business.
-  - 我曾是一名投资银行家（拥有会计学资格），在这个频道中我们探讨所有关于个人理财、自我发展和商业的话题。
+  - [En: I’m a former Investment Banker (with an accountancy qualification) and on this channel we explore all things personal finance, self development and business.]{s}
+  - [Cn: 我曾是一名投资银行家（拥有会计学资格），在这个频道中我们探讨所有关于个人理财、自我发展和商业的话题。]{g}
 
   ---
   - Get my free spending tracker: https://nischa.me/ist/
@@ -2672,6 +2674,11 @@
   ---
   - [En: For updates on our videos and other news from the kurzgesagt universe follow us on Twitter, Facebook, Instagram and LinkedIn.]{s}
   - [Cn: 想了解我们的视频更新以及kurzgesagt宇宙的其他新闻，请关注我们的Twitter、Facebook、Instagram和LinkedIn]{g}
+
+  ---
+  - [Tree Are So Weird | 树木真奇怪](https://www.youtube.com/watch?v=ZSch_NgZpQs)
+  - [Why Earth Sucks Compared to the Planet Hestia | 为什么地球比赫斯提亚星球糟糕](https://www.youtube.com/watch?v=8qQW4LTWgtc)
+  - [Brilliant](https://www.brilliant.org/nutshell)
 
 ---
 **[Science Channel]{p}**

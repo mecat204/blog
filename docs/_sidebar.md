@@ -7,6 +7,7 @@
   - [Douyin](精选账号/Douyin)
   - [Youtube](精选账号/Youtube)
   - [Bilibili](精选账号/Bilibili)
+  - [Future](精选账号/Future.md)
 
 ---
 * **技术栈**
