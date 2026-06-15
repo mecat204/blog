@@ -2679,6 +2679,7 @@
   - [Tree Are So Weird | 树木真奇怪](https://www.youtube.com/watch?v=ZSch_NgZpQs)
   - [Why Earth Sucks Compared to the Planet Hestia | 为什么地球比赫斯提亚星球糟糕](https://www.youtube.com/watch?v=8qQW4LTWgtc)
   - [Brilliant](https://www.brilliant.org/nutshell)
+  - [Why Earth Sucks Compared to the Planet Hestia](https://www.youtube.com/watch?v=8qQW4LTWgtc)
 
 ---
 **[Science Channel]{p}**

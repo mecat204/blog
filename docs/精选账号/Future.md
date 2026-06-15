@@ -12,7 +12,7 @@
   - [Ted](https://www.ted.com/)
 
 ---
-### 0001. Futher
+### 0001. Future
 **[Brilliant]{p}**
 * **[Brilliant](https://brilliant.org/)**
 
