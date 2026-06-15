@@ -2711,6 +2711,17 @@
   - [能听懂这段英文，你的听力不会差 | 921](https://v.douyin.com/ASk035JTzJ8/！)
 
 ---
+### 0041. 安陆 | English字幕
+**[安陆 | English字幕]{e}**
+* **[低谷期要善待自己 | 安陆](https://v.douyin.com/pGq0P9D9zk8/)**
+
+  ---
+  **[001. 自动播放]{g}**
+    - [我们好像都没有意识到一件事 | 001](https://v.douyin.com/gdT86KhU4q0/)
+    - [心慈貌美 | 055](https://v.douyin.com/-xv0hcrcO9g/)
+    - [这9种诡计 你经历过几个 | 065](https://v.douyin.com/3izNhcgJ3ok/)
+
+---
 ### 9999. Download
 **[dlpanda]{p}**
 * **[dlpanda](https://www.dlpanda.com)**
