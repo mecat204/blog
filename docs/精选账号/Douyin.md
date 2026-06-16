@@ -812,6 +812,19 @@
 * **[予希 | 人与人之间的滤镜 不过是一双偏爱的眼睛 | Douyin](https://v.douyin.com/XwbL5EseOy8/)**
 
 ---
+**[Aileen琳琳]{e}**
+* **[Aileen琳琳 | 英语翻译研究生毕业/本硕211 上海高级口译/前省重点高中英语老师 | 大学开始英语教学, 6年英语教学经验 | 伍佰章 | Douyin](https://v.douyin.com/KkudBR4eBcs/)**
+
+  ---
+  **001. Newbee合集**
+    - [分手后前任又来找Newbee竟然是为了 | 001](https://v.douyin.com/udn4xk5csRo/)
+    - [撸起袖子加油学英语 | 024](https://v.douyin.com/SapeBOC01LY/)
+    - [这几句英文秀在我的心巴上了 | 028](https://v.douyin.com/YoI8xQkvBmo/)
+
+* **[DouYinLiveShow | 3.11万订阅者 | 5.1万粉丝 | 油管](https://www.youtube.com/@DouYinLiveShow/videos)**
+  - [柳颜🔥打两份工攒嫁妆](https://www.youtube.com/watch?v=fUOxEAm69mQ)
+
+---
 ### 9999. Download
 **[dlpanda]{p}**
 * **[Download TikTok Videos Without Watermark | Free HD Video &amp; Photo Downloader - DLPanda.com](https://www.dlpanda.com/)**

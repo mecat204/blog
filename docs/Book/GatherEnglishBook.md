@@ -69,6 +69,9 @@
 **[结绳技巧图鉴]{g}**
   - [结绳技巧图鉴](https://v.douyin.com/G1GCpaGNCJQ/)
 
+**[正版老友记台词全考点词汇指南中英对照双语剧本人教版英语单词书]{g}**
+  - [老友记台词本](https://v.douyin.com/bVavs8-GjB4/)
+
 ---
 ### 9999. Download
 **[Anna’s Archive | 安娜的档案]{p}**
