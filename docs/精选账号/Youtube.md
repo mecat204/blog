@@ -1032,7 +1032,7 @@
   - [I'm going to be a (foster) dad.](https://www.youtube.com/watch?v=8l7WbFn31jk)
 
 ---
-**[ur mom ashley]{p}**
+**[ur mom ashley]{e}**
 * **[ur mom ashley | 中阶 | 女、生活写实记录 | 192万 | Youtube](https://www.youtube.com/@urmomashley)**
 
 ---
@@ -2142,11 +2142,8 @@
   - **[The Middle East’s Best-Kept Secret | 中东最隐秘的秘密](https://www.youtube.com/watch?v=BzxI1pFzSxM)**
 
 ---
-**[Sanne Vloet]{p}**
+**[Sanne Vloet]{e}**
 * **[Sanne Vloet | 国际模特身份起家，同时在社交媒体分享生活方式内容（生活、健身、旅行）| 187万 | Youtube](https://www.youtube.com/@SanneVloet/videos)**
-  - Fashion Model & Lifestyle Influencer — 以国际模特身份起家，同时在社交媒体分享生活方式内容（生活、健身、旅行）
-  - YouTuber & Wellness Content Creator — 在 YouTube 上发布关于健身、健康日常、旅途 vlog 等视频内容
-  - Entrepreneur & Brand Founder — 参与创立食品/健康类品牌和在线健身平台
 
   ---
   - [En: I’m Sanne Vloet—a wellness creator, entrepreneur, and  model.]{s}
@@ -2179,10 +2176,6 @@
   ---
   - [En: Don’t forget to hit subscribe and turn on notifications so you never miss a moment.]{s}
   - [Cn: 别忘了点击订阅并开启通知，这样你就不会错过任何瞬间。]{g}
-
-  ---
-  - Email: management@sannevloet.co
-  - 电子邮件：management@sannevloet.co
 
   ---
   - **[My January Reset | How to Rebuild Your Body & Mind | A Morning in Miami | 我的一月重置 |如何重建你的身心 | 迈阿密 的早晨](https://www.youtube.com/watch?v=gxl0L_rhwPg)**
@@ -3056,8 +3049,9 @@
   - [New Zealand VLOG: 2 Weeks Roadtripping the South Island | Queenstown, Milford Sound, Wānaka & Mor](https://www.youtube.com/watch?v=nqmrFegVTEA)
 
 ---
-**[Amber Alexander]{p}**
-* **[Amber Alexander | Youtube | 42.9万](https://www.youtube.com/@amberalexander/videos)**
+**[Amber Alexander]{e}**
+* **[Amber Alexander | Youtube | 43万](https://www.youtube.com/@amberalexander/videos)**
+  - [IRELAND GIRLS TRIP](https://www.youtube.com/watch?v=OT816vE9eaM)
 
 ---
 ### 0024. Gather
@@ -3202,24 +3196,117 @@
 * **[Jasmine Le]{g}**
 * **[Adela]{g}**
 * **[Santiago Weppler]{g}**
-* **[Juan Marcel &amp; Rhylan]{g}**
-* **[Hannah Ricketts]{g}**
-* **[Noah Anderson]{g}**
-* **[Fred Liu]{g}**
-* **[Shaun Andersen]{g}**
-* **[Alanna &amp; Ivor]{g}**
-* **[Hannah Ricketts]{g}**
-* **[Maxíme]{g}**
-* **[Ashley Alexander]{g}**
-* **[Sara Maika]{g}**
-* **[Phillip Linnik]{g}**
-* **[Sanne Vloet]{g}**
-* **[Madeline Argy]{g}**
-* **[Zeliha Akpinar]{g}**
-* **[Phillip Linnik]{g}**
-* **[Niamh Mackinnon]{g}**
-* **[Tom Dickinson]{g}**
-* **[Alex Collins]{g}**
+
+---
+**[Juan Marcel &amp; Rhylan]{s}**
+* **[Juan Marcel & Rhylan](https://www.youtube.com/@juanmarcelandrhylan/videos)**
+* **[dulcedo](https://dulcedo.com/)**
+
+---
+**[Hannah Ricketts]{s}**
+* **[Hannah Ricketts | 48.5万 | Youtube](https://www.youtube.com/@HannahRicketts/videos)**
+
+---
+**[Noah Anderson]{s}**
+* **[Noah Anderson | 43.7万 | Youtube](https://www.youtube.com/@noahanderson14/videos)**
+  - [En: I document my growth and hope to inspire you along the way. ]{s}
+  - [Cn: 我记录我的成长，希望能在过程中激励你们。]{g}
+
+  ---
+  - [En: Currently building toward the Ironman 70.3 World Championships in 2026.]{s}
+  - [Cn: 目前正在为2026年铁人三项70.3世界锦标赛做准备。]{g}
+
+---
+**[Fred Liu]{s}**
+* **[Fred Liu | 81.5万 | Youtube](https://www.youtube.com/@Freddielooo/videos)**
+  - [En: Hi friends, My name is Fred and I make skits and vlogs]{s}
+  - [Cn: 大家好， My叫弗雷德，我会做小品和vlogs]{g}
+
+  ---
+  - [En: Maybe one day I can inspire you to do something great (but give me 50% equity)]{s}
+  - [Cn: 也许有一天我能激励你做些伟大的事（但给我50%的股权）]{g}
+
+---
+**[Shaun Andersen]{g}**
+* **[Shaun Andersen | 9.15万 | Youtube](https://www.youtube.com/@ShaunAndersen/videos)**
+
+  - [En: Hey there!]{s}
+  - [Cn: 你好！]{g}
+
+  ---
+  - [En: My name is Shaun and I am a second-year resident physician!]{s}
+  - [Cn: 我叫Shaun，是一名二年级住院医师！]{g}
+
+  ---
+  - [En: Join me on my journey! Disclaimer: The information shared in this channel is for educational and entertainment purposes only.]{s}
+  - [Cn: 加入我的旅程！ Disclaimer：本频道分享的信息仅供教育和娱乐用途。]{g}
+
+  ---
+  - [En: I am a resident physician, but this content does not constitute medical advice, diagnosis, or treatment.]{s}
+  - [Cn: 我是一名住院医师，但本内容不构成医疗建议、诊断或治疗。]{g}
+
+  ---
+  - [En: Always consult your own healthcare provider for medical guidance.]{s}
+  - [Cn: 医疗guidance. 务必咨询您自己的医疗提供者]{g}
+
+  ---
+  - [En: All opinions, views, and actions expressed through my videos and channel are my own and do not reflect or represent those of my employer, residency program, or any affiliated institutions.]{s}
+  - [Cn: 通过我的视频和频道表达的所有观点、观点和行为均为我个人观点，不代表或反映我的雇主、住院医师项目或任何关联institutions.]{g}
+
+  ---
+  - [En: Patient information and identities are protected or fictionalized in compliance with privacy regulations (including HIPAA).]{s}
+  - [Cn: 患者信息和身份会根据隐私法规（包括HIPAA）受到保护或虚构.]{g}
+
+  ---
+  - [En: This channel may contain affiliate links or sponsored content, which will always be clearly disclosed]{s}
+  - [Cn: 本频道可能包含联盟链接或赞助内容，这些内容将始终明确披露]{g}
+
+  ---
+  - [24 Hours On-Call As A Resident Doctor](https://www.youtube.com/watch?v=XXcbph3iIgE)
+
+  ---
+  **[Quince | uince | High Quality Essentials, Radically Low Prices]{s}**
+  * **[Quince | 服饰 家装网站](https://www.quince.com/)**
+
+---
+**[Maxíme]{s}**
+* **[maxíme | 4.63万 | Youtube](https://www.youtube.com/@smthrndmm)**
+  - [beijing vlog: food, places, shopping spots](https://www.youtube.com/watch?v=l4YmGH-Ztxk)
+
+---
+**[Sanne Vloet]{e}**
+* **[Sanne Vloet | 国际模特身份起家，同时在社交媒体分享生活方式内容（生活、健身、旅行）| 187万 | Youtube](https://www.youtube.com/@SanneVloet/videos)**
+
+---
+**[Madeline Argy]{e}**
+* **[madeline argy | 117万 | Youtube](https://www.youtube.com/@madelineargy/videos)**
+  - [chase your fears | 追逐你的恐惧 | Min: 40:22](https://www.youtube.com/watch?v=MHHqHfgR4YU)
+
+---
+**[Zeliha Akpinar]{e}**
+* **[Zeliha Akpinar | 144万 | Youtube](https://www.youtube.com/@zelihaakpinar/videos)**
+  - [I Went Out for Food with my Doctor Coworker | I和我的医生同事一起出去吃饭](https://www.youtube.com/watch?v=3xH1Tc9vY8U)
+  - [My Last Day at Work and Escaping to Oxford](https://www.youtube.com/watch?v=a-Jmcp_hdJs)
+
+---
+**[Niamh Mackinnon]{e}**
+* **[Niamh Mackinnon | 17.3万 | Youtube](https://www.youtube.com/@NiamhMackinnon/videos)**
+  - [YOUR LOCAL GUIDE TO THE ISLE OF SKYE, SCOTLAND](https://www.youtube.com/watch?v=064ge79-CqE&t=8s)
+
+---
+**[Alex]{e}**
+* **[Alex | 23.8万 | Youtube](https://www.youtube.com/@alexxcoll/videos)**
+
+  - [En: Fashion, lifestyle & equestrian content focused on intentional living in the English countryside.]{s}
+  - [Cn: 时尚、生活方式和马术内容，聚焦于在英格兰乡村有意识地生活。]{g}
+
+  - [En: I share practical style principles, countryside life, and a grounded approach to building a considered life.]{s}
+  - [Cn: 我分享实用的风格原则、乡村生活以及一种扎实的构建深思熟虑生活的态度。]{g}
+
+  ---
+  - [SUMMER HAUL ☀️ Wedding Planning, Wimbledon Dresses & We Created Our Wedding Fragrance | SUMMER HAUL ☀️ 婚礼策划、温布尔登礼服 以及我们打造的婚礼香氛](https://www.youtube.com/watch?v=HT2dmpqB93k)
+
+---
 * **[Abhi Verma]{g}**
 * **[Stevi]{g}**
 * **[Ethan Gaskill]{g}**

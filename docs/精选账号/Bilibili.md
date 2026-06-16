@@ -696,6 +696,10 @@
 ---
 * **[诺瓦小站 | 专注AI软件下载、有趣的网站推荐、实用软件推荐下载及羊毛福利分享](https://nuowa.net)**
 
+---
+### 0070. lex Polizzi Chef for Hire | 亚力克斯·波利齐 待聘大厨
+**[Alex Polizzi Chef for Hire]{s}**
+* **[Alex Polizzi Chef for Hire | 亚力克斯·波利齐 待聘大厨](https://www.bilibili.com/bangumi/play/ss20613?spm_id_from=333.337.0.0)**
 
 ---
 ### 9999. 开源项目
