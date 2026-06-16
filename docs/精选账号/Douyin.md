@@ -816,7 +816,7 @@
 * **[Aileen琳琳 | 英语翻译研究生毕业/本硕211 上海高级口译/前省重点高中英语老师 | 大学开始英语教学, 6年英语教学经验 | 伍佰章 | Douyin](https://v.douyin.com/KkudBR4eBcs/)**
 
   ---
-  **001. Newbee合集**
+  **[001. Newbee合集]{g}**
     - [分手后前任又来找Newbee竟然是为了 | 001](https://v.douyin.com/udn4xk5csRo/)
     - [撸起袖子加油学英语 | 024](https://v.douyin.com/SapeBOC01LY/)
     - [这几句英文秀在我的心巴上了 | 028](https://v.douyin.com/YoI8xQkvBmo/)
