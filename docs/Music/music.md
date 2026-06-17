@@ -30,7 +30,7 @@
 
 ---
 ### 0001. Music·Movie
-* **[work]{p}**
+* **[work]{s}**
   - **[work && code](https://www.youtube.com/watch?v=mhNg55_IYiw&list=RDmhNg55_IYiw&start_radio=1)**
   - **[深度工作音乐](https://www.youtube.com/watch?v=TpBnbLT3Ki0)**
   - **[图书馆时间](https://www.youtube.com/watch?v=jp4xdxcc7WU)**
@@ -51,6 +51,7 @@
 * **[深度专注和鼓舞人心的混音](https://www.youtube.com/watch?v=-sZqtdT-GVw)**
 
 ---
+**[银翼杀手2049]{s}**
 * **[银翼杀手2049](https://www.youtube.com/watch?v=d2JZ4AG-u3w)**
   - [银翼杀手2049](https://pan.quark.cn/s/b1b77b80e3bf#/list/share/20f7eadc1a8d458a9a73f5927853b8c6)
 * **[RelaxingRainSleepMusic](https://www.youtube.com/@RelaxingRainSleepMusic)**
@@ -71,102 +72,133 @@
   - 13:19 Whispers of the Tide
 
 ---
+**[情丝万缕·主题曲]{s}**
 * **情丝万缕·主题曲**
   - [辛曉琪 Winnie Hsin【倆倆相忘 Try to forget】| 1994年台視「倚天屠龍記」片尾曲 Official Music Video](https://www.youtube.com/watch?v=CR_JvOHcN5E&list=RDCR_JvOHcN5E&start_radio=1)
 
 ---
+**[人在旅途·云菲菲]{s}**
 * **[新加坡電視劇《人在旅途》主題曲 | 云菲菲 | 人在旅途](https://www.youtube.com/watch?v=Ycpbva8Vct4&list=RDYcpbva8Vct4&start_radio=1)**
 
 ---
 ### 0002. Music·website
-* [Free Premium Music | **Unminus**](https://www.unminus.com/)
+**[Free Premium Music]{s}**
+* **[Free Premium Music | **Unminus**](https://www.unminus.com/)**
 
 ---
 ### 0003. 战歌 | Bilibili | Youtube
+**[墨韵Moyun]{s}**
 * **[墨韵Moyun | 筝人，愿拆曲成诗 | 233.7万 | Bilibili](https://space.bilibili.com/2374194?spm_id_from=333.788.upinfo.detail.click)**
   - **[十二镇魂歌](https://www.bilibili.com/video/av18200802/)**
 
 ---
+**[中华战歌的压迫感]{s}**
 * **[中华战歌的压迫感 | 玉盘](https://www.youtube.com/watch?v=k0JUs1O3Wac&list=RDk0JUs1O3Wac&start_radio=1)**
 
 ---
+**[战歌]{s}**
 * **[战歌](https://www.youtube.com/playlist?list=PLUIMdYwR3qjrqrVa2xt9-NaAFIx4ZvF4d)**
 
 ---
+**[Immortals]{s}**
 * **[Immortals](https://www.youtube.com/watch?v=SyouAJU5yfs&list=RDSyouAJU5yfs&start_radio=1)**
 
 ---
+**[Ashina deva | 中东战歌]{s}**
 * **[Ashina deva | 中东战歌](https://www.youtube.com/shorts/pgEudoV3FOg)**
 
 ---
+**[Nijamena]{s}**
 * **[Nijamena | 印度](https://www.youtube.com/watch?v=rM-oxZHOBr0)**
 
 ---
+**[ERA]{s}**
 * **[ERA | 101万 | Youtube](https://www.youtube.com/@ERAMusicOfficial/videos)**
   - **[The Mass](https://www.youtube.com/watch?v=qMa1kTobETc)**
 
 ---
+**[袁莉媛]{s}**
 * **[袁莉媛 | 4.89万 | Youtube](https://www.youtube.com/@%E8%A2%81%E8%8E%89%E5%AA%9B/videos)**
   - **[star sky](https://www.youtube.com/watch?v=s-0ganwG284)**
 
 ---
+**[Jim_Kirk1]{s}**
 * **[Jim_Kirk1 | 3.73万 | Youtube](https://www.youtube.com/@JimKirk1/videos)**
   - **[Victory](https://www.youtube.com/watch?v=H6EceDF5ltc)**
 
 ---
+**[Hardigun]{s}**
 * **[Hardigun | 60.6万 | Youtube](https://www.youtube.com/@Hardigun/videos)**
   - **[Victory](https://www.youtube.com/watch?v=7ayeex93u6o)**
 
 ---
+**[亡灵序曲]{s}**
 * **[七剑战歌](https://www.youtube.com/watch?v=pszSdvdwgDY&list=RDpszSdvdwgDY&start_radio=1)**
 
+---
+**[Ei Dorado]{s}**
 * **[Ei Dorado](https://www.youtube.com/watch?v=qiB98Wbsdlo)**
 
 ---
+**[The Dawn | 亡灵序曲]{s}**
 * **[The Dawn | 亡灵序曲](https://www.youtube.com/watch?v=sVVu5zXOVhE)**
 
 ---
+**[Breath and life]{s}**
 * **[Breath and life](https://www.youtube.com/watch?v=C0xZ-H2KYWw)**
 
 ---
+**[Hall in mig]{s}**
 * **[Hall in mig  | 霍尔·奥姆·米格 - 叶卡捷琳娜王后](https://www.youtube.com/watch?v=cQU93yrp41o)**
 
 ---
+**[ERA - Divano]{s}**
 * **[ERA - Divano | ERA - 迪瓦诺](https://www.youtube.com/watch?v=QllvHZW33dE)**
 
 ---
+**[Gravity]{s}**
 * **[Gravity | 2013-地心引力](https://www.youtube.com/watch?v=BzPYvrGWJgA)**
 
 ---
 ### 0004. Youtube·music
+**[Lord Of The Rings]{s}**
 * **[Lord Of The Rings - Arwen - One With The Truth | 指环王 - 阿尔文 - 与真相合一](https://www.youtube.com/watch?v=q4lRukMEI6Y&list=RDq4lRukMEI6Y&start_radio=1)**
 
 ---
+**[Deep]{s}**
 * **[Deep](https://www.youtube.com/watch?v=9fmeVo70dvs)**
 
 ---
+**[Melodies of comfort]{s}**
 * **[Melodies of comfort | Piano Playlist](https://www.youtube.com/watch?v=unI_mm1UBbQ)**
 
 ---
+**[星际穿越·Interstellar]{s}**
 * **[星际穿越·Interstellar](https://www.youtube.com/watch?v=8kooIgKESYE)**
 
 ---
+**[星际穿越·对接]{s}**
 * **[星际穿越·对接](https://www.youtube.com/watch?v=QIumIjSpC3Q)**
 
 ---
+**[Hans Zimmer-Interstellar]{s}**
 * **[Hans Zimmer-Interstellar](https://www.youtube.com/watch?v=5gO0xpY_Y3E)**
 
 ---
+**[雁回时-原声带]{s}**
 * **[雁回时-原声带](https://www.youtube.com/watch?v=JGUKxkR5cRQ)**
 
 ---
+**[浮光]{s}**
 * **[浮光](https://www.youtube.com/watch?v=cYNXh9AkvMg)**
 
 ---
+**[Kim Zhang -主题]{s}**
 * **[Kim Zhang -主题](https://www.youtube.com/channel/UCLKWPLjHRL5UD8-Gngm46ew)**
   - [心之火(宿命版) 张鑫](https://www.youtube.com/watch?v=98upJDuxNZI)
 
 ---
+**[古典音乐]{s}**
 * **古典音乐**
   - [Classical Stars](https://www.youtube.com/@classicalstars88)
   - [贝多芬、莫扎特、肖邦、巴赫、维瓦尔第](https://www.youtube.com/watch?v=IYd1-cPwQCk)
@@ -182,6 +214,7 @@
   - [Star Sky](https://www.youtube.com/watch?v=s-0ganwG284)
 
 ---
+**[Summer Wind Music]{s}**
 * **[Summer Wind Music](https://www.youtube.com/@summerwindmusic2314/playlists)**
   - [Nijamena](https://www.youtube.com/watch?v=rM-oxZHOBr0)
   - [2021抖音歌曲](https://www.youtube.com/watch?v=pTM8a7kQIAY)
@@ -199,36 +232,45 @@
   - [Let Me Down Slowly - 米小怂kelly ( Cover)](https://www.youtube.com/watch?v=EQYMk8a4Ceo&list=PL7MBpdD11UonZ5k2rYHYah4LsOt-dkfbY&index=8)
 
 ---
+**[华策音乐 HUACE MUSIC]{s}**
 * **[华策音乐 HUACE MUSIC | Youtube](https://www.youtube.com/@huacemusic1283)**
   - [长歌行](https://www.youtube.com/watch?v=4fnEXD-TGyE&list=RDBUCrWnWo4H4&index=3)
 
 ---
+**[长歌行]{s}**
 * **[长歌行](https://www.youtube.com/watch?v=4fnEXD-TGyE&list=RDBUCrWnWo4H4&index=3)**
 
 ---
+**[SNH48 China]{s}**
 * **[SNH48 China](https://www.youtube.com/watch?v=6gFUB9eDFD0&list=RD6gFUB9eDFD0&start_radio=1&rv=6gFUB9eDFD0)**
 
 ---
+**[Classical Stars]{s}**
 * **[Classical Stars](https://www.youtube.com/watch?v=IYd1-cPwQCk)**
 
 ---
+**[仙鹤情缘]{s}**
 * **[仙鹤情缘](https://www.youtube.com/watch?v=2plhbkGv5qw)**
 
 ---
+**[80,90歌曲]{s}**
 * **[80,90歌曲](https://www.youtube.com/watch?v=he_VdjWUiWQ)**
   - [1987-2007年华语乐坛20年](https://mecat204.github.io/website/music/netease-80.html)
 
 ---
+**[我的歌单]{s}**
 * **我的歌单**
 * **[华语乐坛20年](https://mecat204.github.io/website/music/netease-80.html)**
 * **[轻音乐-看书学习](https://mecat204.github.io/website/music/music.html)**
 * **[音乐集](https://mecat204.github.io/website/music/index.html)**
 
 ---
+**[Little V]{s}**
 * **[Little V | 240位 | Youtube](https://www.youtube.com/@little.v/videos)**
   - [一千年以后](https://www.youtube.com/watch?v=2BcWlT8F7eE&list=RD2BcWlT8F7eE&start_radio=1)
 
 ---
+**[YOYOROCK 滾石移動]{s}**
 * **[YOYOROCK 滾石移動 | 45.4万 | Youtube](https://www.youtube.com/@YOYOROCK/videos)**
   - **[落笔成殇-张紫宁](https://www.youtube.com/watch?v=Kfd49eOq8-4)**
 
@@ -436,6 +478,7 @@
 ---
 **[Hans Zimmer - Time]{s}**
   - **[Hans Zimmer - Time (Inception Main Theme)](https://www.youtube.com/watch?v=_8dRNULr6rE)**
+  - **[The Dark Knight Rises Ending + Credits](https://www.youtube.com/watch?v=-NVlstVkE-U)**
   - **[合辑 - Interstellar theme song - video](https://www.youtube.com/watch?v=8kooIgKESYE&list=RD8kooIgKESYE&start_radio=1)**
 
 ---
