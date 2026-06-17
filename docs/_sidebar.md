@@ -79,7 +79,7 @@
 ---
 * **Book**
   - [BookSource](Book/BookSource)
-  - [SearchBook](Book/SearchBookBook.md)
+  - [SearchBook](Book/SearchBook)
   - [超实用15000词分类速记](Book/超实用15000词分类速记)
   - [words](Book/words)
   - [构词法速查表](Book/构词法速查表)
