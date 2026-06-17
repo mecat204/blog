@@ -79,7 +79,7 @@
 ---
 * **Book**
   - [BookSource](Book/BookSource)
-  - [GatherEnglishBook](Book/GatherEnglishBook.md)
+  - [SearchBook](Book/SearchBookBook.md)
   - [超实用15000词分类速记](Book/超实用15000词分类速记)
   - [words](Book/words)
   - [构词法速查表](Book/构词法速查表)
@@ -182,6 +182,8 @@
 * **星海**
   - **图文散篇**
     * [图文散篇](星海/图文散篇/人间道)
+  - **星海集**
+    * [星海集](星海/星海集/星海集)
   - [凡人修仙](星海/凡人修仙)
   - [传统武术·赛博武侠](星海/传统武术·赛博武侠)
 

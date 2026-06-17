@@ -227,7 +227,7 @@
   - [找到比你优秀的人，去临摹去拆解，找到那个最简单朴素的模式，看看可以给你带来什么样的帮助](https://v.douyin.com/GOQ1LZjXaec/)
 
 ---
-**[小锤]{p}**
+**[小锤·美食]{e}**
 * **[小锤 | 苦尽甘来终有时，一路向阳待花期 | 贰佰章 | Douyin](https://v.douyin.com/XLwqm_foXg8/)**
   - [香迷糊了 还是最爱的茄子辣子馅 | 陕西美食 | 乡村美食](https://v.douyin.com/_5pVQD9Ffu8/)
   - [陕西娃的浪漫 绿辣子**卷卷** 吃着真过瘾😋 | 好吃到停不下来 | 陕西美食 | 乡村生活 | 乡村美食 | 辣子花卷](https://v.douyin.com/MJosaJdMFyw/)
@@ -237,7 +237,7 @@
   - **[驴蹄子面](https://v.douyin.com/0GxwE3x5ra0/)**
 
 ---
-**[张美丽]{p}**
+**[张美丽·美食]{e}**
 * **[张美丽 | 美食博主 | 佰章](https://v.douyin.com/r2yIHqD49LM/)**
   - [他看不到我的眼泪 老天爷 你也看不到吗](https://v.douyin.com/q9mseUu3644/)
   - [一百顿饭换两颗渐渐靠近的心](https://v.douyin.com/Jpde8CMApqw/)
@@ -245,6 +245,14 @@
   - **[没关系 其实有关系 不过现在也没关系了 | 吃面](https://v.douyin.com/MVX2zmJ_dsc/)**
   - [我们跳过讲狠话这个环节吧 人和人之间不是非要把人逼到角落才能证明爱过的](https://v.douyin.com/x2ofoUGugO0/)
   - [对不起，总让你咽下许多莫名其妙的小情绪](https://v.douyin.com/7Nd1OE8mK6s/)
+
+---
+**[余味·美食]{e}**
+* **[余味 | 好吃的东西，都是有余味的 时间酿酒，余味成花 记录余下的味道, 寻找街道巷尾的烟火味 | 佰章 | Douyin](https://v.douyin.com/gOyoFhDFOcg/)**
+  - [我为我的家乡美食代言，浆水煮馍还是第一次吃](https://v.douyin.com/kujSl_ivt8E/)
+  - [最近的事情多，一件事接着一件事，一座山又是一座山，只有平静的接纳，面对，跨越。 吃碗面，此刻，好踏实，很放松。 所以，累了就回家吃碗面吧](https://v.douyin.com/Qetr3xNWQ30/)
+  - [有人辞官归故里，有人星夜赶科场。 少年不知愁滋味，老来方知行路难。](https://v.douyin.com/HpS6zIM88bo/)
+  - [有人辞官归故里，有人星夜赶科场 少年不知愁滋味，老来方知行路难](https://v.douyin.com/_dwvYt2sgtE/)
 
 ---
 **[会飞的兔子呀]{p}**
@@ -272,7 +280,7 @@
   - [带我回到19岁吧 第一次来到英国的时候](https://v.douyin.com/HTS3-hSjvgY/)
 
 ---
-**[果果和小乔]{p}**
+**[果果和小乔·美食]{p}**
 * **[果果和小乔 | 柴米油盐 晨起幕落☀️ 一生追寻的味道 其实是故乡的味道 | 愿替所有漂泊的人存一份乡愁 | 庆阳 | 百章 | Douyin](https://v.douyin.com/ZkBSMNwKQ0c/)**
   - [秋冬的田间地头长满了荠荠菜，摘回来做个搓搓面吃，太鲜美了 | 甘肃老家 | 和姐妹的快乐时光 | 农村生活](https://v.douyin.com/FGrNAqnBqXU/)
   - [你们有多久没有吃村里的大席了，快回来我带你去吃席 | 庆阳彩礼12.8万 | 2026年01年17日](https://v.douyin.com/plkbpkxQBkM/)

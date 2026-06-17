@@ -26,7 +26,11 @@
 * **[雅书](https://yabook.org/)**
 
 ---
-### 0001. Wow English 台词本
+**[识典古籍-古籍在线阅读平台]{s}**
+* **[识典古籍-古籍在线阅读平台](https://www.shidianguji.com/)**
+
+---
+### 0001. 搜书
 **[Wow English 台词本]{p}**
   - [Wow English](https://v.douyin.com/8h3axmcalqc/)
 
@@ -69,8 +73,15 @@
 **[结绳技巧图鉴]{g}**
   - [结绳技巧图鉴](https://v.douyin.com/G1GCpaGNCJQ/)
 
+---
 **[正版老友记台词全考点词汇指南中英对照双语剧本人教版英语单词书]{g}**
   - [老友记台词本](https://v.douyin.com/bVavs8-GjB4/)
+
+---
+**[先知文化]{s}**
+**[先知文化 | 千章 | Douyin](https://v.douyin.com/T6GcOrlCb6k/)**
+  - [夜航船：一本能让你变得博学而有趣的奇书 | **夜航船·张岱** | 先知文化](https://v.douyin.com/TEO1wwWP6O4/)
+  - [夜航船·识典古籍](https://www.shidianguji.com/book/SDZJ0751/chapter/1kf9m01s5oqb6?version=25)
 
 ---
 ### 9999. Download
@@ -99,6 +110,10 @@
 ---
 **[雅书 - 免费PDF电子书下载网站]{p}**
 * **[雅书](https://yabook.org/)**
+
+---
+**[识典古籍-古籍在线阅读平台]{s}**
+* **[识典古籍-古籍在线阅读平台](https://www.shidianguji.com/)**
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
