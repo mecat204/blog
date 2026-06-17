@@ -286,58 +286,83 @@
 
 ---
 ### 0009. Douyin
+**[房东的猫]{s}**
 * **[房东的猫 | 仟章 | Douyin](https://v.douyin.com/eQ3OWkAF9yA/)**
   - [把贵阳的风、烟火与旋律，都放进时光里慢慢发酵。山地有回响，歌声有归处。希望所有的美好，全都留在你身边。](https://v.douyin.com/UeXtbVJDfEY/)
 
 ---
+**[你的歌单]{s}**
 * **[你的歌单 | 仟章 | Douyin](https://v.douyin.com/I3cagT5BM90/)**
   - **[时间的摇晃·窝窝](https://v.douyin.com/UhUtkRYmSf8/)**
   - **[房东的猫 | 遇见](https://www.youtube.com/watch?v=EeQLBLQb074)**
   - **[房东的猫 | 合唱集](https://www.youtube.com/watch?v=x8RZofVCw0k&list=RDx8RZofVCw0k&index=1)**
 
+  ---
+  **[001. 完整版歌曲第一期]{g}**
+    - [别让我一个人醉完整版花姐 | Min: 04:15 | 0001](https://v.douyin.com/1W8-FSEnZnc/)
+    - [人生参半完整版张萨 | Min: 01:11 | 0100](https://v.douyin.com/JGUITyAhesM/)
+    - [我困于荒野你去往远方完整版沈小晔 | Min: 02:51 | 0200](https://v.douyin.com/SMsD-R3OgYs/)
+    - [绝杀完整版粘了咕叽 | Min: 03:08 | 0300](https://v.douyin.com/BRRUBN0kmnY/)
+    - [有你无你皆烂漫完整版卢润泽 | Min: 03:18 | 0400](https://v.douyin.com/R78rfDkG07E/)
+    - [突然就想家完整版光婷散人TR | Min: 02:23 | 0500](https://v.douyin.com/OsxcK_SD6Yc/)
+    - [故人戏完整版 故人戏原唱完整版王鑫鑫 | Min: 03:23 | 0600](https://v.douyin.com/EVdZCPTR3Jw/)
+    - [成见的山完整版 | Min: 03:21 | 0700](https://v.douyin.com/ejnbazf0ivo/)
+    - [破碎的梦完整版 | Min: 03:55 | 0800](https://v.douyin.com/KvewVKujWjI/)
+    - [如果你不经意想起wilson生 | Min: 03:47 | 0887](https://v.douyin.com/0NRxuA_l1HQ/)
+
 ---
+**[窝窝_WOWO]{e}**
 * **[窝窝_WOWO | 音乐人 | SMEConnor | 月亮照山川 | 远山少年 | 星斗照高楼 | 花开满山岗 | 佰章 | Douyin](https://v.douyin.com/xkw5q4AAbyU/)**
   - [熬过岁月的冷眼 前路终璀璨" 希望所有喜欢月亮照山川的朋友们熬过艰难岁月后，前路一帆风顺 璀璨无比 | Music: **月亮照山川**](https://v.douyin.com/aKHAMJmisrk/)
   - ["再也找不到当年的月亮" | 终不似少年游 | **时光的摇晃** | 岁月不声不响却让人慌慌张张 | 窝窝](https://v.douyin.com/vY29_x-6cE4/)
 
 ---
+**[比奇小羊堡]{s}**
 * **[比奇小羊堡 | 我回来啦～中午11点和晚上8点半 | 伍佰章 | Douyin](https://v.douyin.com/56mqVVJwMz4/)**
   - [咚哒哒咚 前奏一响 狗都遗憾 | 安和桥](https://v.douyin.com/_WGclxG6G8k/)
 
 ---
+**[𝐆𝐍𝐀𝐑]{s}**
 * **[𝐆𝐍𝐀𝐑 | 伍佰章 | Douyin](https://v.douyin.com/r-NztBNUTsI/)**
   - [励志](https://v.douyin.com/-jFJFrPSS3M/)
 
 ---
+**[Mr.凌晨]{s}**
 * **[Mr.凌晨 | 总有一段旋律，能精准击中你的心弦。我用钢琴，找到它。| 钢琴 |  仟章 | Douyin](https://v.douyin.com/V8ZLG9XP87A/)**
   - [回忆是一条没有尽头的路 | **钢琴**](https://v.douyin.com/1V9x-FlyqvY/)
   - [这个世界是残酷的，但同时也很美。| **钢琴**](https://v.douyin.com/UglODQ1fxaQ/)
   - [或许伍佰年前 我们就曾相遇. | **Music: 相逢时**](https://v.douyin.com/xg065tjbEgE/)
 
 ---
+**[养有术]{s}**
 * **[养有术 | 愿大家都有个好身体 | 叁佰章 | 养心曲 | Douyin](https://v.douyin.com/Lw6iMZsbUjM/)**
   - [五音疗愈](https://v.douyin.com/tEfGHPZsoy8/)
 
 ---
+**[羊阿宝的空灵鼓]{s}**
 * **[羊阿宝的空灵鼓 | 空灵鼓双股创新演奏 | 大量实战演奏教学、曲谱编配 | 仟章 | Douyin](https://v.douyin.com/FCan7tFzndI/)**
   - [昨天的太阳，晒不干今天的衣裳，昨天的雨，淋不湿今天的自己。让心归零，微笑前行。 | **风居住的街道**](https://v.douyin.com/FbLFxxBv3tY/)
 
 ---
+**[瑛与抱月]{s}**
 * **[瑛与抱月 | 心理委员抱月喵，不得劲可以@我，我可以喂你喝奶奶，不哭不哭 | 贰佰章 | Douyin](https://v.douyin.com/scHP-mc9Uv0/)**
   - [故事的结局重要吗](https://v.douyin.com/MvNujxQ_Pqs/)
   - **[病变·鞠文娴](https://v.douyin.com/m0nTg47vKxs/)**
   - [阿拉斯加海湾·蓝心羽](https://v.douyin.com/teAPl4ZtAXo/)
 
 ---
+**[初秋]{s}**
 * **[初秋 | 愿你出走半生，归来仍是少年。 | 拾章 | Douyin](https://v.douyin.com/xA5v1d9Tv4k/)**
   - **[相思无解，悲秋望雨！ 相遇相知，已是上签。 心怀山河，缓步前行， 见山见水，独不见你。 似见非见，了无遗憾！ 接下来的日子渐寒，添衣，无病，安好!](https://v.douyin.com/BlXHteKlCpE/)**
 
 ---
+**[马悠悠🇨🇳（回族）]{s}**
 * **[马悠悠🇨🇳（回族） | 佰章 | Douyin](https://v.douyin.com/gaN093nLMIk/)**
   - [东方青苍和小兰花 | 苍兰诀 王鹤棣 虞书欣](https://v.douyin.com/Tn7pYlG9_zM/)
 
 ---
 ### 0010. 奇幻世界
+**[山野漫步者]{s}**
 * **[山野漫步者 | 山野万里，藏着所有的浪漫与诗意。| 贰佰章 | Douyin](https://v.douyin.com/VLDy4FyOKEg/)**
   - **[乌蒙蒙的海岸线，仿佛是世界尽头的神秘画卷，让人心生敬畏。| 朦胧美 | 海岸| 浪 | 奇幻世界](https://v.douyin.com/GhGCXGPvl58/)**
   - [每一次呼吸，都能感受到大自然的清新和瀑布的磅礴](https://v.douyin.com/EHIfGsyiiGQ/)
@@ -346,87 +371,98 @@
 
 ---
 ### 0011. Youtube
+**[NoCopyrightSounds]{s}**
 * **[NoCopyrightSounds | 3430万 | Youtube](https://www.youtube.com/@NoCopyrightSounds)**
-  - NCS is on a mission to soundtrack the internet.
-  - NCS致力于为互联网配乐。
+  - [En: NCS is on a mission to soundtrack the internet.]{s}
+  - [Cn: NCS致力于为互联网配乐。]{g}
 
   ---
-  - 🚀For over a decade, NCS has been home to some of the most iconic tracks in online culture—from YouTube intros to viral TikTok moments.
-  - 🚀 十多年来，NCS一直是网络文化中最具标志性的曲目之一的发源地——从YouTube开场到病毒式的TikTok瞬间。
+  - [En: 🚀For over a decade, NCS has been home to some of the most iconic tracks in online culture—from YouTube intros to viral TikTok moments.]{s}
+  - [Cn: 🚀 十多年来，NCS一直是网络文化中最具标志性的曲目之一的发源地——从YouTube开场到病毒式的TikTok瞬间。]{g}
 
   ---
-  - We work with artists from around the world, covering everything from House and Drum & Bass to Dubstep, Phonk, Pop, and beyond.
-  - 我们与来自世界各地的艺术家合作，涵盖从浩室、鼓打贝斯到Dubstep、Phonk、流行等各种风格。
+  - [En: We work with artists from around the world, covering everything from House and Drum & Bass to Dubstep, Phonk, Pop, and beyond.]{s}
+  - [Cn: 我们与来自世界各地的艺术家合作，涵盖从浩室、鼓打贝斯到Dubstep、Phonk、流行等各种风格。]{g}
 
   ---
-  - We’re still copyright free and stream safe for creators.
-  - 我们依然无版权，创作者可以安全直播。
+  - [En: We’re still copyright free and stream safe for creators.]{s}
+  - [Cn: 我们依然无版权，创作者可以安全直播。]{g}
 
   ---
-  - NCS music is free to use for independent creators and their UGC (User Generated Content) on YouTube & Twitch—just remember to credit the artist, track, and NCS, and link back to our original upload.
-  - NCS音乐免费供独立创作者及其用户生成内容（UGC）在YouTube和Twitch上使用——只需记得注明艺术家、曲目和NCS，并链接回我们最初上传的链接。
+  - [En: NCS music is free to use for independent creators and their UGC (User Generated Content) on YouTube & Twitch—just remember to credit the artist, track, and NCS, and link back to our original upload.]{s}
+  - [Cn: NCS音乐免费供独立创作者及其用户生成内容（UGC）在YouTube和Twitch上使用——只需记得注明艺术家、曲目和NCS，并链接回我们最初上传的链接。]{g}
 
   * **[Aeden & Um41K - Ain't Nobody Perfect](https://www.youtube.com/watch?v=qcayt_B8868)**
 
 ---
+**[菲道尔 Firdhaus]{s}**
 * **[菲道尔 Firdhaus | 马来西亚 | 21万 | Youtube](https://www.youtube.com/@fffirdhaus/videos)**
   - **[在加納共和國離婚](https://www.youtube.com/watch?v=eACpNen3ZcI)**
   - **[友谊长存](https://www.youtube.com/watch?v=xFKZTvNwS70)**
 
 ---
+**[CentralRecord]{s}**
 * **[CentralRecord | Music  | 12.3万 | Youtube](https://www.youtube.com/@CentralRecord/videos)**
-  - Elevate your worship experience: instrumentals, lyrics video, and multitracks.
-  - 提升你的敬拜体验：器乐、歌词视频和多轨录音。
+  - [En: Elevate your worship experience: instrumentals, lyrics video, and multitracks.]{s}
+  - [Cn: 提升你的敬拜体验：器乐、歌词视频和多轨录音。]{g}
 
   ---
-  - If you are a musician or band looking for a producer, I help artists craft their sound and bring their vision to life - contact me at cr@centralrecord.pro.
-
-  ---
-  - 如果你是音乐人或乐队正在寻找制作人，我帮助艺术家打造他们的声音，实现他们的愿景——联系我，cr@centralrecord.pro。
+  - [En: If you are a musician or band looking for a producer, I help artists craft their sound and bring their vision to life - contact me at cr@centralrecord.pro.]{s}
+  - [Cn: 如果你是音乐人或乐队正在寻找制作人，我帮助艺术家打造他们的声音，实现他们的愿景——联系我，cr@centralrecord.pro。]{g}
 
 ---
-### 0012. music-bgmusic
+### 0012. BG-Music
+**[Daniel Deluxe - Star Eater]{s}**
 * **[Daniel Deluxe - Star Eater](https://www.youtube.com/watch?v=QHNakk1oM7g&list=RDQHNakk1oM7g&start_radio=1)**
 
 ---
+**[佚洛迁忘之岛]{s}**
 * **[佚洛迁忘之岛·music-原神](https://www.youtube.com/watch?v=IZ_7KSDKLIo&list=RDIZ_7KSDKLIo&start_radio=1)**
 
 ---
+**[Yiruma - River Flows in You]{s}**
 * **[Yiruma - River Flows in You](https://www.youtube.com/watch?v=NPBCbTZWnq0&list=RDNPBCbTZWnq0&start_radio=1)**
 
 ---
+**[KomiTheFish]{s}**
 * **[KomiTheFish](https://www.youtube.com/@KomiTheFish)**
   - [1 Hour Somnias a Luna - Lullaby of the New Moon | Columbina Lullaby](https://www.youtube.com/watch?v=4-ziMM0ojYY&list=RD4-ziMM0ojYY&start_radio=1)
 
 ---
-* **[tintilinic1912](https://www.youtube.com/@tintilinic1912)**
+**[Tintilinic1912]{s}**
+* **[Tintilinic1912 | 2760位 | 油管](https://www.youtube.com/@tintilinic1912)**
   - [1+ Hour of Relaxing Genshin Impact Music | OST All Regions Mix](https://www.youtube.com/watch?v=MLesvVMUEbs&list=RDMLesvVMUEbs&start_radio=1)
 
 ---
-* **[justmontages](https://www.youtube.com/@justmontages)**
+**[Hans Zimmer - Time]{s}**
   - **[Hans Zimmer - Time (Inception Main Theme)](https://www.youtube.com/watch?v=_8dRNULr6rE)**
   - **[合辑 - Interstellar theme song - video](https://www.youtube.com/watch?v=8kooIgKESYE&list=RD8kooIgKESYE&start_radio=1)**
 
 ---
+**[红昭愿·合集]{s}**
 * **红昭愿·合集**
   - **[国风MV](https://www.youtube.com/watch?v=Rflz7mdY2_Y&list=RDRflz7mdY2_Y&start_radio=1)**
 
 ---
 ### 0013. 日语·声优
+**[芯如 shirol]{s}**
 * **[芯如 shirol](https://v.douyin.com/YGEQzStkUcM/)**
   - [我做了一个很长的梦日语·爱情·离别](https://v.douyin.com/_N_kxqj8_UY/)
 
 ---
 ### 0014. 古琴 | 古筝 |  笛子 | 钢琴 | 小提琴
+**[浅影阿]{p}**
 * **[浅影阿 | 仟章 | Douyin](https://v.douyin.com/j9R790aOI3M/)**
   - [谪居](https://v.douyin.com/BTeGOKmQ89M/)
   - [我走在长街中！](https://v.douyin.com/2vkb2aZVXfo/)
 
 ---
+**[李佳古琴]{p}**
 * **[李佳古琴 | 伍佰章 | Douyin](https://v.douyin.com/dDpm7lvE3GM/)**
   - [国风古韵](https://v.douyin.com/QDCnNuEQZig/)
 
 ---
+**[佟谣]{p}**
 * **[佟谣 | 佰章 | Douyin](https://v.douyin.com/dQenqUTMUU0/)**
   - [天地缓缓 | 青丝绾 情思晚](https://v.douyin.com/JckyKyfaVwA/)
   - [此生何用声声叹 | 秦时明月](https://v.douyin.com/B-23jqZBReg/)
@@ -434,10 +470,12 @@
   - [无所逃于天地之间 辨此心自由 | 无所逃于天地间](https://v.douyin.com/voZKnRVWDVY/)
 
 ---
+**[一禅小者]{p}**
 * **[一禅小者 | 佰章 | Douyin](https://v.douyin.com/bhXPdBPdNWQ/)**
   - [鸳鸯戏｜谁识曲中意 断弦等你系](https://v.douyin.com/cTyZJ1u5agw/)
 
 ---
+**[沧月神明]{p}**
 * **[沧月神明 | 自学笛子 | 佰章 | Douyin](https://v.douyin.com/MUQQ3_2ktJw/)**
   - [不愿染是与非，怎料事与愿违 | 不染 | 香蜜沉沉烬如霜](https://v.douyin.com/KLUopNP12KM/)
   - [能不能为你再跳一支舞，我是你千佰年前放生的白狐 | 白狐](https://v.douyin.com/ldwf0A2QGrU/)
@@ -447,6 +485,7 @@
   - [跟着红尘跟随我浪迹一生 | 跟着红尘跟随我浪迹一生  | 烟花易冷  | 笛子](https://v.douyin.com/oq7VwlOfkzA/)
 
 ---
+**[沉沉沉吟]{p}**
 * **[沉沉沉吟 | 不定期更新自扒古筝作品，使用谱子注明出处 | 佰章 | Douyin](https://v.douyin.com/CtR8XRHLk0c/)**
   - [《不凡》变奏无人声版 | 古筝  | 不凡 | 凡人修仙传  | 韩立结婴  | 王铮亮](https://v.douyin.com/c4FuIVMFH6I/)
   - [古筝《不凡》完整版](https://v.douyin.com/p9c1_qFe2Fs/)
@@ -457,47 +496,53 @@
   - [踏破这轨迹，逆行在天地](https://v.douyin.com/EIoQXPZoXao/)
 
 ---
+**[穿越而過]{p}**
 * **[穿越而過 | 1.95万 | Youtube](https://www.youtube.com/@pass.through/videos)**
-  - The primary artist of this channel is Guang (Light), creating in collaboration with his teacher.
-  - 该频道的主要艺术家是光（光），他 与老师合作创作。
+  - [En: The primary artist of this channel is Guang (Light), creating in collaboration with his teacher.]{s}
+  - [Cn: 该频道的主要艺术家是光（光），他 与老师合作创作。]{g}
 
   ---
-  - Inspired by the quiet corners of the Himalayas,this channel seeks spiritual clarity and inner stillness, and shares this state of mind with the world.
-  - 灵感来自喜马拉雅山的宁静角落， 这个频道追求精神的清晰与内心的宁静， 并将这种心境分享给世界。
+  - [En: Inspired by the quiet corners of the Himalayas,this channel seeks spiritual clarity and inner stillness, and shares this state of mind with the world.]{s}
+  - [Cn: 灵感来自喜马拉雅山的宁静角落， 这个频道追求精神的清晰与内心的宁静， 并将这种心境分享给世界。]{g}
 
   ---
-  - The works are rooted in the minimalist beauty of ancient Chinese instruments, and gradually expand to include Tibetan flute, singing bowls, and bell tones—carrying a sense of Zen, meditation, healing, and poetic atmosphere.
-  - 这些作品根植于古代中国乐器的极简美感， 逐渐扩展到藏笛、歌碗和钟声—— 承载禅意、冥想、疗愈和诗意氛围。
+  - [En: The works are rooted in the minimalist beauty of ancient Chinese instruments, and gradually expand to include Tibetan flute, singing bowls, and bell tones—carrying a sense of Zen, meditation, healing, and poetic atmosphere.]{s}
+  - [Cn: 这些作品根植于古代中国乐器的极简美感， 逐渐扩展到藏笛、歌碗和钟声—— 承载禅意、冥想、疗愈和诗意氛围。]{g}
 
   ---
-  - Here, you are invited to listen to sounds that pass through time, from ancient to present, and to experience a deep sense of calm and serenity within.
-  - 在这里，你被邀请聆听穿越时光的声音，从 古至今， 体验内心深处的宁静与宁静。
+  - [En: Here, you are invited to listen to sounds that pass through time, from ancient to present, and to experience a deep sense of calm and serenity within.]{s}
+  - [Cn: 在这里，你被邀请聆听穿越时光的声音，从 古至今， 体验内心深处的宁静与宁静。]{g}
 
   ---
-  - We invite you to listen slowly, and to walk with us into the quiet world within
-  - 我们邀请你慢慢倾听， 与我们一同走进内心的宁静世界
+  - [En: We invite you to listen slowly, and to walk with us into the quiet world within]{s}
+  - [Cn: 我们邀请你慢慢倾听， 与我们一同走进内心的宁静世界]{g}
 
   - **[空月｜古琴 古箏 簫 | Empty Moon | Chinese Guqin, Guzheng & Xiao Flute | Relaxation Music & Zen Meditation](https://www.youtube.com/watch?v=VSwK13Amq2Q)**
 
 ---
+**[HOYO-MiX]{p}**
 * **[HOYO-MiX | 52.4万 | Youtube](https://www.youtube.com/@HOYOMiX/videos)**
-  - HOYO-MiX is a music studio by miHoYo.
-  - HOYO-MiX 是 miHoYo 的音乐工作室。
+  - [En: HOYO-MiX is a music studio by miHoYo.]{s}
+  - [Cn: HOYO-MiX 是 miHoYo 的音乐工作室。]{g}
 
-  - Lead by Cai "Zoe" Jinhan, our team composes and produces original music, including "Rubia," "Starfall," and others.
-  - 由蔡"佐伊"金汉领导，我们的团队创作并制作原创音乐，包括《Rubia》、《Starfall》等。
+  ---
+  - [En: Lead by Cai "Zoe" Jinhan, our team composes and produces original music, including "Rubia," "Starfall," and others.]{s}
+  - [Cn: 由蔡"佐伊"金汉领导，我们的团队创作并制作原创音乐，包括《Rubia》、《Starfall》等。]{g}
 
   - **浮光摇日月 | 原神 | AlgerMusicPlayer**
 
 ---
+**[笛子～小柔]{p}**
 * **[笛子～小柔 | 笛子 | 佰章 | Douyin](https://v.douyin.com/7ZMhqrKiU5Q/)**
   - ["笛声一响，雪落满肩头…吹一曲《落了白》，愿人间清净，山河无恙。🌨️"|笛子 |乐器演奏 |落了白](https://v.douyin.com/-su-aaPrnvs/)
 
 ---
+**[晓乐的钢琴札记]{p}**
 * **[晓乐的钢琴札记 | 佰章 | Douyin](https://v.douyin.com/22gFoRVOSts/)**
   - [每一首歌都是一个记忆U盘 | 钢琴](https://v.douyin.com/_ety9MDtOdk/)
 
 ---
+**[觉庐]{p}**
 * **[觉庐 | 学琴/曲谱/交流 | 国风古韵 | 佰章 | Douyin](https://v.douyin.com/4cZFPkS230o/)**
   - [古琴「精卫」你与我先谈养心殿，后拜瀑淋身](https://v.douyin.com/0lRpuTuSjoc/)
   - [古琴右手指法跟练示范，快快收藏起来](https://v.douyin.com/Agn6Q37zTww/)
@@ -508,13 +553,16 @@
   - [古琴「西厢寻他」"听西厢月落乌啼声声唱罢" 演奏：楠欣 移植：东韵 | 古琴](https://v.douyin.com/BqkpiT-QHgA/)
 
 ---
+**[银幕诗人]{p}**
 * **[银幕诗人 | 苏州园林 ｜江南水乡｜中式美学 | 佰章 | Douyin | 佰章 | Douyin](https://v.douyin.com/b2blAPgkIlE/)**
   - [真的有人喜欢这种安静的感觉吗](https://v.douyin.com/Zqt54YHlzjA/)
 
 ---
+**[崔江卉古筝]{p}**
 * **[崔江卉古筝 |  曲谱集 | 2019年出版 朝云间 | 2024年出版 流行古筝独奏教程](https://v.douyin.com/l-_NyS7JlX4/)**
 
 ---
+**[惊枝]{p}**
 * **[惊枝 | 海压竹枝低复举，风吹山角晦还明 | 佰章 | Douyin](https://v.douyin.com/AEIx2NG45Pc/)**
   - [情思晚，暂留天地缓缓" 原唱：伦桑 移植：东韵Dongyun 演奏：我 小小的变了一下调 这个旋律还是太权威了，东韵老师移植也是太权威了 古琴 **天地缓缓**](https://v.douyin.com/znD-CUN6yGQ/)
   - [追剧上头，真的好配 | 古琴 | 九重紫 | 戏文说 | 国风古韵 | **听说戏文说和九重紫很配**](https://v.douyin.com/UocoL3KGojE/)
@@ -523,6 +571,7 @@
   - [闪动如蝴蝶在双颊，那是眼泪吗。 **古琴 | 同花顺**](https://v.douyin.com/Jh650wbWrnY/)
 
 ---
+**[今也_古琴]{p}**
 * **[今也_古琴 | 我欲醉眠卿且去 明朝有意抱琴来 | 佰章 | Douyin](https://v.douyin.com/ciILFWons1E/)**
   - [愁生天际，雨落时又想起撑伞过桥底·古琴](https://v.douyin.com/NH3waO-hmQ4/)
   - [回头看，不曾走远 | **Music: 此生不换**](https://v.douyin.com/Wi4C1xvHEMg/)
@@ -530,6 +579,7 @@
   - [春知晓梦不觉 恰似你我当年](https://v.douyin.com/yXBi47ZhWZw/)
 
 ---
+**[东韵Dongyun]{p}**
 * **[东韵Dongyun | 佛系更新 | 佰章 | Douyin](https://v.douyin.com/qjkJKUwKgFs/)**
   - [天地缓缓｜纯阳 天地缓缓 剑网3](https://v.douyin.com/cP65gAUmB3c/)
   - [知晓 梦不觉 恰似你我那年～](https://v.douyin.com/do0lJ9I8gU8/)
@@ -537,12 +587,14 @@
   - [一微尘里三千界，半刹那间八万春 "何须待逢春，此刻即芳辰" | 光与夜之恋]( https://v.douyin.com/xu54BlQUl3c/)
 
 ---
+**[澜杉古琴]{p}**
 * **[澜杉古琴 | 学琴 | 曲谱 | 购琴 | 合作lansguqin](https://v.douyin.com/W8Gb5zdmCmo/)**
   - [若如初见 为谁而归](https://v.douyin.com/rPDcjmLhOa0/)
   - [雨下一整晚神仙间奏 | **Music: 雨下一整晚**](https://v.douyin.com/Tsk5Iwn81XQ/)
   - [春庭雪也太适合古琴了吧，这一世太，漫长却止步咫尺天涯间 | **Music: 春庭雪**](https://v.douyin.com/MuK4-kNF4SM/)
 
 ---
+**[爱纹身的古琴师(琴癫大圣)]{p}**
 * **[爱纹身的古琴师(琴癫大圣) | 宓旋律/古琴资深私教 法系…有蓝条 | 灵魂工程师 | 古琴勾魂师 | 摄魂怪 | 伍佰章 | Douyin](https://v.douyin.com/viDf_wTQT9U/)**
   - [古琴的泛音不愧是"天音" 听了真上头](https://v.douyin.com/u-2PlCGc8H0/ )
   - [奏尽人间别离意 雪落琴弦，我寻了千遍 | **Music:雪千寻·东方不败**](https://v.douyin.com/Ug5Z1KEb6_k/)
@@ -550,24 +602,29 @@
   - [古琴不语，曲终人未还。琴落，人散，白未休 | **Music: 落了白**](https://v.douyin.com/Gf5DT3bFze0/)
 
 ---
+**[之云]{p}**
 * **[之云 | 名雪茹 字之雲 | 叁佰章 | Douyin](https://v.douyin.com/rpVkYBh6MEg/)**
   - [《琵琶语》古琴版，林海作曲。"月光飞入林前屋。风策策，度庭竹。夜半江城击柝声，动寒梢栖宿。" | **琵琶语 | 林海**](https://v.douyin.com/QT8XFBPdiDQ/)
   - ["你是前世为止的心跳，你是来世胸前的记号" | 古琴  | 古风 | 国风古韵 | **千年**](https://v.douyin.com/yJmVZZ80QbE/)
   - [电视剧《清平乐》晏殊弹唱的那段琴歌，宋词真的超美呀。今日立夏，西安依旧在下雨。| **清平乐**](https://v.douyin.com/4luu6wEDv4M/)
 
 ---
+**[古琴拓荒人卢玉平]{p}**
 * **[古琴拓荒人卢玉平 | 扬州琴筝之父 中国高级工艺美术师  | 1982年斫制新中国第一床古琴 | 1983年创办全国第一家古琴厂 | 1985年为挽救"有谱无琴, 有师无徒"危局, 助力打谱会, 被称为古琴掌灯人 | 2022年,亲斫古琴高价拍卖, 龙琴专利持有者 | 叁佰章 | Douyin](https://v.douyin.com/StWkZmqXOT8/)**
   - [悬溺一响，古琴登场。](https://v.douyin.com/kdnpGdGSSIQ/)
 
 ---
+**[北山书斋]{p}**
 * **[北山书斋 | 佰章 | Douyin](https://v.douyin.com/ydKbGLznnUs/)**
   - [东韵老师这谱子，真的太懂古琴了！ | 天地缓缓 | 古琴  | 北山书斋](https://v.douyin.com/3SV1jzvFfjg/)
 
 ---
+**[肚鸭梨]{p}**
 * **[肚鸭梨 | 小提琴 | 贰佰章](https://v.douyin.com/sKKHvRlNODQ/)**
   - [**青城山下白素贞**](https://v.douyin.com/9OQBPo4tQlM/)
 
 ---
+**[Free Life]{p}**
 * **[Free Life | 自然会治愈一切 摄影 徒步 发呆 | 贰佰章 | Douyin](https://v.douyin.com/1Z-2gaTju9w/)**
   - [人生海海，山山而川，不过尔尔](https://v.douyin.com/ES6pjU5Z6j8/)
   - 雨后的广西是最美的，树木被洗涤后焕然一新，翠绿翠绿的，这个时候我很喜欢深深呼吸，肺腑充满清新的空气
@@ -575,6 +632,7 @@
   - [天地缓缓，浮生漫漫 | 桂林临桂状元桥](https://v.douyin.com/TTCGQEFVJj4/)
 
 ---
+**[枝叶扶苏]{p}**
 * **[枝叶扶苏 | 集贤宾古琴主理人 福建省非遗协会古琴文化推广大使  | 佰章 | Douyin](https://v.douyin.com/wQnEvfe__SE/)**
   - [**天地缓缓** 停云霭霭 时雨濛濛 | 古琴](https://v.douyin.com/niWsacG2xnQ/)
   - ["当恩怨各一半，我怎么圈揽" | 古琴 | 天龙八部之宿敌  | 许嵩  | 古风](https://v.douyin.com/0I-rqbw4Lp0/)
@@ -582,6 +640,7 @@
   - [古琴 | 飞雪玉花 是猫猫陪着听了一晚上的曲～| 古琴 | 飞雪玉花 | 秦时明月](https://v.douyin.com/bSo8M1rxRgw/)
 
 ---
+**[与千与琴]{p}**
 * **[与千与琴 | 以琴韵化导人心 | 佰章 | Douyin](https://v.douyin.com/VR9s1SImBVc/)**
   - [古琴｜「念念不敢念，偏落指弦间」](https://v.douyin.com/YMQv2RKgn8Y/)
   - [古琴｜「古琴养人，必不会叫你香消玉殒」| 古琴 |演奏 |深宫曲 |国风古韵 |传统音乐](https://v.douyin.com/ubNbheAo-2s/)
@@ -593,42 +652,50 @@
   - [古琴｜「以最清之声写最清之物」](https://v.douyin.com/guug_0VUzHQ/)
 
 ---
+**[小澄拾光]{p}**
 * **[小澄拾光 | 仟章 | Douyin](https://v.douyin.com/_vwkYSiSmig/)**
   - [有些人天生就喜欢这种氛围](https://v.douyin.com/c_ypjMctcDk/)
   - [风是透明的河流](https://v.douyin.com/iTnWz8PmQng/)
 
 ---
+**[莱瓦特]{p}**
 * **[莱瓦特 | 壁纸 | 一个infj索尼佬，无固定风格 | 佰章 | Douyin](https://v.douyin.com/Of-5n5C8Nbs/)**
   - [缘生。一期一会，会者定离，难得一面，世当珍惜。摄影 | 慢节奏 | infj | 江南 | 调色](https://v.douyin.com/CZByzk0PAoA/)
   - [杨柳堤。| 真实生活分享计划 | 调色 | 抖音推广 | 古风 | inmyfeeling](https://v.douyin.com/lVi07kYEfT4/)
   - [一帘风月闲。| inmyfeeling | 古风 | 摄影 | 江南 | 真实生活分享计划](https://v.douyin.com/ZtBGouDYiRg/)
 
 ---
+**[一颗枣的独白]{p}**
 * **[一颗枣的独白 | 自幼学笛十七载， 师从著名笛箫演奏家 国家一级演奏员吴樟华教授 | 佰章 | Douyin](https://v.douyin.com/GLWBWZYCrjM/)**
   - [就这个大A太爽了！| 笛子 | 看我跃马扬鞭 | 民乐 | 新手笛子](https://v.douyin.com/HTXoV33AHKY/)
   - [笛子 | **弱水三千** | **民乐 | **古风歌曲](https://v.douyin.com/ezhMTEqzoX4/)
   - [凌晨四点的西湖，是蓝调，是雨下一整晚。笛子 | **雨下一整晚** | 民乐 | 神仙间奏](https://v.douyin.com/CVtswf7iSkc/)
 
 ---
+**[海洋洋古琴]{p}**
 * **[海洋洋古琴 | 佰章 | Douyin](https://v.douyin.com/rOZ_RKF4hYY/)**
   - [听说安和桥一响，路边的狗都有遗憾 | 音乐就要这么玩 | 抖音音乐新风向 | 古琴 | **安和桥**](https://v.douyin.com/KTxKjjkJkqg/)
   - [多情最是春庭雪 我心匪石不可转 | 古琴 | **春庭雪** | 国风古韵](https://v.douyin.com/n-qRYHwTW_o/)
 
 ---
+**[弹钢琴的余鱼]{p}**
 * **[弹钢琴的余鱼 | 喜欢弹琴的超级i人，祝你天天开心 | 仟章 | Douyin](https://v.douyin.com/i7xemqTer2I/)**
   - [如何一眼识别弹钢琴的人？ | 孤身dj版 | 特伦斯智慧钢琴 | 特伦斯电钢琴 | 自学钢琴](https://v.douyin.com/4U1aQCJKe3o/)
 
 ---
+**[温温Piano]{p}**
 * **[温温Piano | 随便弹些自己喜欢的 | 佰章 | Douyin](https://v.douyin.com/1mno8-2oQdI/)**
   - [传说这里是仙家之地，是理水叠山真君和留云借风真君的住处。 | 钢琴 | 原神 | **GenshinImpact** | **云海之上** | **庆云顶**](https://v.douyin.com/zs4rm8yqHwY/)
   - [闭上眼睛，向着风吹来的方向……怎么样，很舒服吧? | 钢琴 | **白鹭归庭** | **白鹭之舞**](https://v.douyin.com/XAEvCYqrXP0/)
   - [海的那边是什么 | 钢琴 | **Call Of Silence**](https://v.douyin.com/V6MzGB9e26s/)
 
 ---
+**[孙一天本人]{p}**
 * **[孙一天本人 | 音乐人 ☁️&🍠：孙一天本人 | 仟章 | Douyin](https://v.douyin.com/XjssI0c1DX0/)**
   - [有些音乐，正常人听到的是抑郁，而抑郁的人听到的是温暖。| 钢琴 | 施坦威 | 西村由纪江 孙一天本人的施坦威共享琴房](https://v.douyin.com/O4pftyl1oog/)
 
 ---
+**[南南的琴🎹]{p}**
 * **[南南的琴🎹 | 🎵欢迎来到南南的琴🎹 网抑☁️南南的琴🎶 | 仟章 | Douyin](https://v.douyin.com/vj4ZgW0CJEE/)**
   - [要听多少遍偏爱 才能真的被偏爱 | **钢琴**  | **偏爱** | **emo** | **仙剑奇侠传**](https://v.douyin.com/uUelzL5joR4/)
   - [下次见面就会下雪了 骗你的 我们根本不会再见面了 | **钢琴** | **farewell** | **emo**](https://v.douyin.com/rRqqGLOYy-k/)
@@ -763,8 +830,14 @@
 **[收音HiFi]{p}**
 * **[收音HiFi | 本人喜欢音响最爱收音机，听听广播电台的声音，听听新闻除却一天的疲劳，何尝不是一种惬意。| 仟章 | Douyin](https://v.douyin.com/n3lGlAiON2g/)**
   - [熟悉的声音传来，瞬间清醒睡不着觉，有朋友知道这是哪期的节目吗？ | 收音机](https://v.douyin.com/TonN4WDJ1q8/)
-  - [在深圳拼搏过的朋友还记得这个节目吗？当时来到深圳摸不清方向很迷茫晚上下了班回到宿舍打开收音机听听可以让人放松的广播，特别是胡晓梅的《夜空不寂寞》令人难以忘怀基本都是听她的节目入睡，讲的也是很多身同感受的故事，很是励志共鸣，第二天又打满鸡血似的去富士康工厂工作，这就是广播的能量，我还记得这个节目播出的频率是97.1MHz，现在这个频率电台还在，但是这个节目却没有了。特意把之前的一段录音分享出来。朋友你还记得这个节目吗？收音机| 怀旧经典 | 胡晓梅的夜空不寂寞 | 8090后](https://v.douyin.com/1HgeXikIopI/)
-  - [聆听你的欢乐和忧伤，也怀着感激被你聆听。1999年入学，在衡阳经常藏被窝听经南岳塔转播的节目《心灵之约》，罗刚主持，熟悉的开场曲，熟悉的开场白。我相信在长沙的，也听过。一段尘封的记忆就此打开，那个夜晚一个冒充小日子的人你还好吗？从那时起就没有这个节目了，但一直有个恋想就是哪一天这个节目又回来了，可是20251010后再也不会有这个节目了，最后的念想彻底结束。| 怀旧经典 | 一代人的回忆 | 80年代 | 收音机](https://v.douyin.com/JHNJNvTb9Aw/)
+
+  ---
+  - [朋友你还记得这个节目吗？](https://v.douyin.com/1HgeXikIopI/)
+  - [在深圳拼搏过的朋友还记得这个节目吗？当时来到深圳摸不清方向很迷茫晚上下了班回到宿舍打开收音机听听可以让人放松的广播，特别是胡晓梅的《夜空不寂寞》令人难以忘怀基本都是听她的节目入睡，讲的也是很多身同感受的故事，很是励志共鸣，第二天又打满鸡血似的去富士康工厂工作，这就是广播的能量，我还记得这个节目播出的频率是97.1MHz，现在这个频率电台还在，但是这个节目却没有了。特意把之前的一段录音分享出来。]{g}
+
+  ---
+  - [心灵之约](https://v.douyin.com/JHNJNvTb9Aw/)
+  - [聆听你的欢乐和忧伤，也怀着感激被你聆听。1999年入学，在衡阳经常藏被窝听经南岳塔转播的节目《心灵之约》，罗刚主持，熟悉的开场曲，熟悉的开场白。我相信在长沙的，也听过。一段尘封的记忆就此打开，那个夜晚一个冒充小日子的人你还好吗？从那时起就没有这个节目了，但一直有个恋想就是哪一天这个节目又回来了，可是20251010后再也不会有这个节目了，最后的念想彻底结束]{g}
 
 ---
 **[北纬21度收音机]{p}**
@@ -924,72 +997,75 @@
   - [雨声和雷暴声，自然声和雨声，可以放松、冥想、学习和入睡](https://www.youtube.com/watch?v=R0NME9W3cR4)
 
 ---
+**[Stardust Vibes - Relaxing Sounds]{s}**
 * **[Stardust Vibes - Relaxing Sounds | Youtube](https://www.youtube.com/@StardustVibes)**
-  - Our channel helps provide relief from stress & anxiety.
-  - 我们的频道帮助缓解压力和焦虑。
+  - [En: Our channel helps provide relief from stress & anxiety.]{s}
+  - [Cn: 我们的频道帮助缓解压力和焦虑。]{g}
 
   ---
-  - We have a large variety of relaxing videos to choose from ranging from nature sounds, relaxing music, and guided meditations.
-  - 我们有丰富的放松视频可供选择，包括自然声音、放松音乐和引导冥想。
+  - [En: We have a large variety of relaxing videos to choose from ranging from nature sounds, relaxing music, and guided meditations.]{s}
+  - [Cn: 我们有丰富的放松视频可供选择，包括自然声音、放松音乐和引导冥想。]{g}
 
   ---
-  - Sean has an Adv Dip in Music, a Bachelor's Degree in Psychology, & a Masters in Social Work.
-  - 肖恩拥有音乐高级文凭、心理学学士学位和社会工作硕士学位。
+  - [En: Sean has an Adv Dip in Music, a Bachelor's Degree in Psychology, & a Masters in Social Work.]{s}
+  - [Cn: 肖恩拥有音乐高级文凭、心理学学士学位和社会工作硕士学位。]{g}
 
   ---
-  - He is also a certified Yoga Instructor & Reiki Practitioner.
-  - 他还是一名认证的瑜伽教练和灵气练习者。
+  - [En: He is also a certified Yoga Instructor & Reiki Practitioner.]{s}
+  - [Cn: 他还是一名认证的瑜伽教练和灵气练习者。]{g}
 
   ---
-  - Elita is a Certified Hypnotherapist, Life Coach, Mindfulness Practitioner, Law of Attraction Counsellor, Yoga Instructor, Sound Healer, & a Masters Degree student in Transpersonal Psychology & Consciousness Studies.
-  - Elita是一名认证催眠治疗师、生活教练、正念实践者、吸引力法则咨询师、瑜伽教练、声音疗愈师，同时也是超个人心理学与意识研究硕士学位学生。
+  - [En: Elita is a Certified Hypnotherapist, Life Coach, Mindfulness Practitioner, Law of Attraction Counsellor, Yoga Instructor, Sound Healer, & a Masters Degree student in Transpersonal Psychology & Consciousness Studies.]{s}
+  - [Cn: Elita是一名认证催眠治疗师、生活教练、正念实践者、吸引力法则咨询师、瑜伽教练、声音疗愈师，同时也是超个人心理学与意识研究硕士学位学生。]{g}
 
   ---
-  - The music/audio is produced by us.
-  - 音乐和音频由我们制作。
+  - [En: The music/audio is produced by us.]{s}
+  - [Cn: 音乐和音频由我们制作。]{g}
 
   ---
-  - Images/video are either filmed by us or we've collaborated with another creator, which is always transformed into something new & unique.
-  - 图片/视频要么由我们拍摄，要么与其他创作者合作，这些作品总会被转化为全新且独特的作品。
+  - [En: Images/video are either filmed by us or we've collaborated with another creator, which is always transformed into something new & unique.]{s}
+  - [Cn: 图片/视频要么由我们拍摄，要么与其他创作者合作，这些作品总会被转化为全新且独特的作品。]{g}
 
   ---
-  - For more information about how we create our videos please check out our behind the scenes playlist below.
-  - 想了解更多关于我们如何制作视频的信息，请查看下面的幕后播放列表。
+  - [En: For more information about how we create our videos please check out our behind the scenes playlist below.]{s}
+  - [Cn: 想了解更多关于我们如何制作视频的信息，请查看下面的幕后播放列表。]{g}
 
   ---
-  - 🎥 Our videos are currently filmed with a GoPro, DJI, Lumix & iPhone 15 Pro Max.
-  - 🎥 我们的视频目前使用GoPro、DJI、Lumix和iPhone 15 Pro Max拍摄。
+  - [En: 🎥 Our videos are currently filmed with a GoPro, DJI, Lumix & iPhone 15 Pro Max.]{s}
+  - [Cn: 🎥 我们的视频目前使用GoPro、DJI、Lumix和iPhone 15 Pro Max拍摄。]{g}
 
   ---
-  - We edit, mix, & master the audio in Protools & create the video in Premiere Pro.
-  - 我们在Protools中编辑、混音和母带处理音频，在Premiere Pro中制作视频。
+  - [En: We edit, mix, & master the audio in Protools & create the video in Premiere Pro.]{s}
+  - [Cn: 我们在Protools中编辑、混音和母带处理音频，在Premiere Pro中制作视频。]{g}
 
   - [重雷声！放松的雨，雷电和闪电的睡眠环境|自然视频](https://www.youtube.com/watch?v=gVKEM4K8J8A)
 
 ---
+**[下雨的傢伙]{s}**
 * **[下雨的傢伙 | 27.5万 | Youtube](https://www.youtube.com/@RainyGuy)**
   - [在舒适的冬季小屋中深度睡眠| 令人放松的壁炉噼啪声、暴风雪声、风声和降雪声](https://www.youtube.com/watch?v=Rm-4JUivLcE)
 
 ---
+**[Praise Oasis]{s}**
 * **[Praise Oasis | 1.06万 | Youtube](https://www.youtube.com/@praiseoasis)**
-  - At Praise Oasis, we offer a calming space for anyone feeling anxious, facing challenges, or seeking music to connect with God through prayer.
-  - 在Praise Oasis，我们为任何感到焦虑、面临挑战或通过祈祷寻求音乐与上帝连接的人提供一个平静的空间。
+  - [En: At Praise Oasis, we offer a calming space for anyone feeling anxious, facing challenges, or seeking music to connect with God through prayer.]{s}
+  - [Cn: 在Praise Oasis，我们为任何感到焦虑、面临挑战或通过祈祷寻求音乐与上帝连接的人提供一个平静的空间。]{g}
 
   ---
-  - Our content is designed to uplift your spirit, quiet your mind, and help you draw closer to God.
-  - 我们的内容旨在提升你的心灵，平静你的心灵，帮助你更亲近上帝。
+  - [En: Our content is designed to uplift your spirit, quiet your mind, and help you draw closer to God.]{s}
+  - [Cn: 我们的内容旨在提升你的心灵，平静你的心灵，帮助你更亲近上帝。]{g}
 
   ---
-  - Whether you’re looking for rest for your soul or a moment of worship, we’re here to guide you toward God’s peace.
-  - 无论你是在寻求灵魂的安息，还是寻求敬拜片刻，我们都在这里引导你走向上帝的平安。
+  - [En: Whether you’re looking for rest for your soul or a moment of worship, we’re here to guide you toward God’s peace.]{s}
+  - [Cn: 无论你是在寻求灵魂的安息，还是寻求敬拜片刻，我们都在这里引导你走向上帝的平安。]{g}
 
   ---
-  - Subscribe and let’s walk this journey of faith and serenity together.
-  - 订阅，让我们一起踏上这段信仰与宁静的旅程。
+  - [En: Subscribe and let’s walk this journey of faith and serenity together.]{s}
+  - [Cn: 订阅，让我们一起踏上这段信仰与宁静的旅程。]{g}
 
   ---
-  - "Come to me, all you who are weary and burdened, and I will give you rest." – Matthew 11:28
-  - "凡疲惫负重担的人，到我这里来，我必赐你们安息。"——马太福音11：28
+  - [En: "Come to me, all you who are weary and burdened, and I will give you rest." – Matthew 11:28]{s}
+  - [Cn: "凡疲惫负重担的人，到我这里来，我必赐你们安息。"——马太福音11：28]{g}
 
   ---
   * **[GOD IS WITH ME - Soaking worship instrumental | Prayer and Devotional 神与我同在 - 浸湿敬拜器乐 | 祈祷与灵修](https://www.youtube.com/watch?v=uaaIM0YJATo)**
@@ -1167,6 +1243,7 @@
   - [Top Hits of 2023 - Us The Duo](https://www.youtube.com/watch?v=sMChO6ex5lw)
 
 ---
+**[The Crosbys]{s}**
 * **[The Crosbys | 初中阶段衔接 | 有一个很有意思的小孩口播列表 | music | Youtube](https://www.youtube.com/@TheCrosbys/videos)**
   - [Ocean Eyes - Billie Eilish (12-year-old Claire Crosby Live Cover)](https://www.youtube.com/watch?v=4cUuxGNY9D4)
 
@@ -1341,7 +1418,7 @@
 
 ---
 **[Deep Fade Music]{s}**
-* **[Deep Fade Music | Youtube](https://www.youtube.com/@DeepFadeMusic-1)**
+* **[Deep Fade Music | 252位 | Youtube](https://www.youtube.com/@DeepFadeMusic-1)**
   - [En: Welcome to Deep Fade Music — Music for calm minds and atmospheric nights.]{s}
   - [Cn: 欢迎来到Deep Fade Music—— 为平静心灵和氛围夜晚带来音乐。]{g}
 
