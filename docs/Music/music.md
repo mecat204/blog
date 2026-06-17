@@ -443,14 +443,17 @@
   - **[友谊长存](https://www.youtube.com/watch?v=xFKZTvNwS70)**
 
 ---
-**[CentralRecord]{s}**
-* **[CentralRecord | Music  | 12.3万 | Youtube](https://www.youtube.com/@CentralRecord/videos)**
+**[Central Record]{s}**
+* **[Central Record | Music  | 12.3万 | Youtube](https://www.youtube.com/@CentralRecord/videos)**
   - [En: Elevate your worship experience: instrumentals, lyrics video, and multitracks.]{s}
   - [Cn: 提升你的敬拜体验：器乐、歌词视频和多轨录音。]{g}
 
   ---
   - [En: If you are a musician or band looking for a producer, I help artists craft their sound and bring their vision to life - contact me at cr@centralrecord.pro.]{s}
   - [Cn: 如果你是音乐人或乐队正在寻找制作人，我帮助艺术家打造他们的声音，实现他们的愿景——联系我，cr@centralrecord.pro。]{g}
+
+  ---
+  - [JESUS I KNOW - Soaking worship instrumental | Prayer and Devotional 耶稣我知道——浸湿敬拜器乐 | 祈祷与灵修](https://www.youtube.com/watch?v=p5PKY0njHJM)
 
 ---
 ### 0012. BG-Music
