@@ -34,8 +34,11 @@
   - [**新概念英语** | NCE.ICHOCHY](https://nce.ichochy.com/)
 
 ---
-**[Ted]{p}**
-  - [Ted](https://www.ted.com/)
+**[TED & TEDEd]{s}**
+* **[TED](https://www.ted.com/)**
+  - [Sarah Crawford-Bohl](https://www.ted.com/talks/sarah_crawford_bohl_how_to_speak_up_even_when_you_don_t_want_to)
+
+* **[TED-Ed](https://ed.ted.com/)**
 
 ---
 **[Teco-lab]{p}**
@@ -2756,6 +2759,13 @@
 **[Ted]{p}**
 * **[Ted](https://www.ted.com/)**
   - [Sarah Crawford-Bohl](https://www.ted.com/talks/sarah_crawford_bohl_how_to_speak_up_even_when_you_don_t_want_to)
+
+---
+**[TED & TEDEd]{s}**
+* **[TED](https://www.ted.com/)**
+  - [Sarah Crawford-Bohl](https://www.ted.com/talks/sarah_crawford_bohl_how_to_speak_up_even_when_you_don_t_want_to)
+
+* **[TED-Ed](https://ed.ted.com/)**
 
 ---
 **[Teco-lab]{p}**

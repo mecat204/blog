@@ -3326,7 +3326,6 @@
 * **[Jacob Feder]{g}**
 * **[Theo Alston]{g}**
 * **[Jaylen]{g}**
-* **[Savvy Wheels]{g}**
 * **[More Than Farmers]{g}**
 * **[Back 2 Basics Homesteading]{g}**
 * **[UF]{g}**
@@ -3349,9 +3348,10 @@
 * **[Sticky Academy]{g}**
 * **[Matt James]{g}**
 * **[Kathleen Morrill Pirovich]{g}**
-* **[Noah Anderson]{g}**
-* **[Phillip Linnik]{g}**
-* **[New York Post]{g}**
+
+---
+**[New York Post]{g}**
+* **[New York Post | 249万 | 油管](https://www.youtube.com/@nypost/videos)**
 
 ---
 **[Dr. Jane Goodall]{g}**
@@ -3401,7 +3401,13 @@
   - [How to Speak Up — Even When You Don’t Want To | Sarah Crawford-Bohl | TED 如何发声——即使你不想说 |莎拉·克劳福德-博尔 |特德](https://www.youtube.com/watch?v=fkOMupkw5D8&list=PLOGi5-fAu8bEXEZ8WBtgjruWlyNB0yZj8)
 
 * **[TED | Ideas change everything](https://www.ted.com)**
-  - [Sarah Crawford-Bohl](https://www.ted.com/talks/sarah_crawford_bohl_how_to_speak_up_even_when_you_don_t_want_to)**
+  - [Sarah Crawford-Bohl](https://www.ted.com/talks/sarah_crawford_bohl_how_to_speak_up_even_when_you_don_t_want_to)
+
+---
+**[TEDEd]{s}**
+* **[TED-Ed | 2270万 | 油管](https://www.youtube.com/@TEDEd/videos)**
+
+* **[TED-Ed](https://ed.ted.com/)**
 
 ---
 **[Savvy Wheels]{g}**

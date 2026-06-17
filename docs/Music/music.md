@@ -916,23 +916,23 @@
 **[Relaxing Ambience ASMR]{s}**
 * **[Relaxing Ambience ASMR | 45.8万 | Youtube](https://www.youtube.com/@RelaxingAmbienceASMR)**
   - [En: Relaxing Ambience is a team of creative videographers around the world.]{s}
-  - [Cn: Relaxing Ambience 是一支遍布全球的创意摄像团队。]{s}
+  - [Cn: Relaxing Ambience 是一支遍布全球的创意摄像团队。]{g}
 
   ---
   - [En: We do not add commentary throughout our calming nature videos as it can detract from the relaxation experience.]{s}
-  - [Cn: 我们在平静自然视频中不添加评论，因为这可能会影响放松体验。]{s}
+  - [Cn: 我们在平静自然视频中不添加评论，因为这可能会影响放松体验。]{g}
 
   ---
   - [En: We create all our own content.]{s}
-  - [Cn: 我们自己创作所有内容。]{s}
+  - [Cn: 我们自己创作所有内容。]{g}
 
   ---
   - [En: All audio/video is produced by us.]{s}
-  - [Cn: 所有音频/视频均由我们制作。]{s}
+  - [Cn: 所有音频/视频均由我们制作。]{g}
 
   ---
   - [En: Video footage is either filmed by ourselves or we have collaborated with other nature videographers, but we always own exclusive rights.]{s}
-  - [Cn: 视频素材要么由我们自己拍摄，要么与其他自然摄像师合作拍摄，但我们始终拥有独家权利。]{s}
+  - [Cn: 视频素材要么由我们自己拍摄，要么与其他自然摄像师合作拍摄，但我们始终拥有独家权利。]{g}
 
   ---
   - [En: We edit & master audio in Adobe Audition, and edit final videos in After Effects and Premier Pro]{s}
