@@ -3181,7 +3181,7 @@
 
 ---
 ### 0025. Bloger Gather | TEco Lab
-**[Bloger Gather]{g}**
+**[Bloger Gather]{s}**
 
 ---
 **[Jay Shetty Podcast]{s}**
@@ -3307,20 +3307,149 @@
   - [SUMMER HAUL ☀️ Wedding Planning, Wimbledon Dresses & We Created Our Wedding Fragrance | SUMMER HAUL ☀️ 婚礼策划、温布尔登礼服 以及我们打造的婚礼香氛](https://www.youtube.com/watch?v=HT2dmpqB93k)
 
 ---
-* **[Abhi Verma]{g}**
-* **[Stevi]{g}**
-* **[Ethan Gaskill]{g}**
-* **[Garrett]{g}**
-* **[Jordan Bauth]{g}**
-* **[Stella Forman]{g}**
-* **[Pax]{g}**
-* **[London Eats]{g}**
-* **[Beautiful Twin Sisters]{g}**
-* **[Bobby Parrish]{g}**
-* **[Benji Le]{g}**
-* **[Harrison Webb]{g}**
-* **[Will Tennyson]{g}**
-* **[Joseph Everett]{g}**
+**[Ethan Gaskill]{s}**
+* **[Ethan Gaskill | 7.99万 | 油管](https://www.youtube.com/@ethangaskill/videos)**
+  - [WHAT MY DREAM HOME WILL LOOK LIKE | design style, architectural details, must-have features | 我的梦想之家会是什么样子 |设计风格、建筑细节、必备功能](https://www.youtube.com/watch?v=XnHtmSXeFOc)
+
+---
+**[Architectural Digest]{s}**
+* **[Architectural Digest | 792万 | 油管](https://www.youtube.com/@Archdigest/videos)**
+  - [En: AD is the international authority on design and architecture.]{s}
+  - [Cn: AD是设计和建筑领域的国际权威。]{g}
+
+  ---
+  - [En: AD provides exclusive access to the world’s most beautiful homes and the fascinating people who live in them, bringing its audience a wealth of information on architecture and interior design, art and antiques, travel destinations, and extraordinary product.]{s}
+  - [Cn: AD为观众提供全球最美丽住宅及其迷人人物的独家访问，为观众带来丰富的建筑与室内设计、艺术与古董、旅游目的地及非凡产品的资讯。]{g}
+
+  - [Inside Kendall Jenner’s Cozy Mountain Home | Open Door | Architectural Digest | Inside 肯达尔·詹纳的《温馨山中别墅》 |敞开的门 |建筑文摘](https://www.youtube.com/watch?v=mmMG_56bEFQ)
+
+---
+**[Garrett]{s}**
+* **[Garrett | 2.72万 | 油管](https://www.youtube.com/@GxTradez/videos)**
+  - [GxT | Community Back-Testing Stream(Hard Price Action) | GxT |社区回测流程（硬价格行动）](https://www.youtube.com/watch?v=6YW3KNQ8smE)
+
+---
+**[Jordan Bauth]{e}**
+* **[Jordan Bauth | 12.4万 | 油管](https://www.youtube.com/@jbauth/videos)**
+  - [En: I am a professional figure skater and full-time travel & lifestyle creator sharing my adventures on and off the ice.]{s}
+  - [Cn: 我是一名职业花样滑冰选手，同时也是全职旅行与生活方式创作者，分享我在冰上和冰下的冒险经历。]{g}
+
+  ---
+  - [En: From life working on cruise ships to traveling the world, I bring you a mix of lifestyle, fitness, productivity, and behind-the-scenes skating content.]{s}
+  - [Cn: 从邮轮工作到环游世界，我为你带来生活方式、健身、生产力以及幕后滑板的混合content.]{g}
+
+  ---
+  - [En: subscribe for:]{s}
+  - [En: ✩ life as a pro skater & performer]{s}
+  - [En: ✩ travel vlogs & cruise ship adventures]{s}
+  - [En: ✩ productivity & lifestyle content]{s}
+  - [En: ✩ health inspo & figure skating]{s}
+  - [Cn: 订阅内容： ✩ 职业滑冰者生活 & performer ✩ 旅游博客与邮轮 adventures ✩ 生产力与生活方式 content ✩ 健康灵感与花样滑冰]{g}
+
+  ---
+  - [I’M OFF AGAIN?!  summer in buffalo, packing for a weekend in vegas + an exciting opportunity👀 | I又要走了？！ 布法罗的夏天，准备周末拉斯维加斯 + 激动人心的机会👀](https://www.youtube.com/watch?v=D98qmqij6ew)
+
+---
+**[Stella Forman]{e}**
+* **[Stella Forman | 5630位 | 油管](https://www.youtube.com/@stellaforman/videos)**
+  - [recharging in miami](https://www.youtube.com/watch?v=rRc3PuhquG8)
+
+---
+**[Pax]{s}**
+* **[PAX | 16.3万 | Music: 电吉他 | 油管](https://www.youtube.com/@PAXmusicgearlifestyle/videos)**
+  - [Why Working Musicians Love Tagima Guitars | The Story of Tagima | 为什么职业音乐人喜欢Tagima吉他 | 塔吉玛的故事](https://www.youtube.com/watch?v=hkCx3JkQI_4)
+
+* **[London Eats]{s}**
+* **[London Eats | 34.5万 | 油管](https://www.youtube.com/@LondonEats/videos)**
+  - [En: Welcome to London Eats!]{s}
+  - [Cn: 欢迎来到伦敦美食！
+
+  ---
+  - [En: This channel shows the real, behind-the-scenes life of a courier delivering for Uber Eats, Deliveroo, Just Eat, and Gophr — the stuff customers never see.]{s}
+  - [Cn: 这个频道展示了一名为Uber Eats、Deliveroo、Just Eat和Gophr送餐的快递员的真实幕后生活——那些顾客永远不会see. 接触到的东西
+
+  ---
+  - [En: I cover the good, the bad, and everything in between.]{s}
+  - [Cn: 我报道好的、坏的，以及介于中间的一切。
+
+  ---
+  - [En: From tips to tech, food to gear, it’s all here to help couriers work smarter and earn more.]{s}
+  - [Cn: 从技巧到科技，从食物到装备，一切都帮助快递员更聪明地工作并赚取收入more.
+
+  ---
+  - [En: What you’ll find:]{s}
+  - [En: 🚴‍♂️ Ride-alongs through the streets of London & cities around the world]{s}
+  - [En: 💡 Tips to boost efficiency and earnings]{s}
+  - [En: 🍔 Food spots you’ll want to try]{s}
+  - [En: ⚙️ Gear and tech that actually help on the job]{s}
+  - [En: Electric transport powers everything I do, and with new tools and apps always dropping, there’s plenty to test and share.]{s}
+  - [Cn: 你会发现： 🚴 ♂️ 伦敦及世界各地城市的随行骑行 💡 提升效率的小贴士，earnings 你想try 🍔 ⚙️的美食点 装备和真正有助于job Electric运输的科技驱动着我所做的一切，而且新工具和应用不断推出， 有很多值得测试和share.
+
+  ---
+  - [En: Whether you're already delivering or just curious about how it all works you're in the right place!
+  - [Cn: 无论你是已经在配送，还是只是对流程感到好奇，你来对地方了！
+
+  ---
+  - [Friday Night Deliveroo Shift Starting At 7PM – Busy Streets, Bad Drivers & Non-Stop Orders!](https://www.youtube.com/watch?v=5gUefF0LZsg)
+
+---
+**[Beautiful Twin Sisters]{e}**
+* **[Beautiful Twin Sisters | 8.46万 | 油管](https://www.youtube.com/@BeautifulTwinSistersPod/videos)**
+  - [Ballet Trauma + our AAPI goats - BTSP #89](https://www.youtube.com/watch?v=VURCIxpNq5Y)
+
+---
+**[Bobby Parrish]{s}**
+* **[Bobby Parrish | 1080万 | 油管](https://www.youtube.com/@BobbyParrish/videos)**
+  - [En: On my channel you will : - Learn how to shop for the best quality items at the grocery store.]{s}
+  - [Cn: 在我的频道里你会 ： - 学习如何在超市购买最优质的商品。]{g}
+
+  ---
+  - [I Tried Every 'Healthy' Trader Joe's Meal](https://www.youtube.com/watch?v=91ZTWHCNl28)
+
+---
+**[benjiplant]{s}**
+* **[benjiplant | 60.8万 | 油管](https://www.youtube.com/@benjiplant/videos)**
+  - [Settling Into our Home | First days and empty apartment](https://www.youtube.com/watch?v=GCVyR3Xl3Oo)
+  - [Apartment Tour LA | Inside our cozy and peaceful home](https://www.youtube.com/watch?v=y33V-RWxos8)
+
+---
+**[Harrison Webb]{s}**
+* **[Harrison Webb | 134万 | 美食 | 油管](https://www.youtube.com/@HarrisonWebb97/videos)**
+  - [I Tried Paris's Most Overrated Food](https://www.youtube.com/watch?v=-KaG6-SgqHI)
+
+---
+**[Homeworthy]{e}**
+* **[Homeworthy | 82.9万 | 油管](https://www.youtube.com/@Homeworthy/videos)**
+  - **[HOUSE TOUR | Traditional Meets Coastal Charm in This Timeless Montreal Home](https://www.youtube.com/watch?v=EVc1nBRqomc)**
+
+---
+**[Will Tennyson]{s}**
+* **[Will Tennyson | 500万 | 油管](https://www.youtube.com/@WillTennyson/videos)**
+  - [Investigated The World's Skinniest vs Fattest City](https://www.youtube.com/watch?v=HQ_7noX-2Qg)
+
+---
+**[Joseph Everett]{g}**
+* **[Joseph Everett - WIL | 238万 | 油管](https://www.youtube.com/@WhatIveLearned/videos)**
+  - [En: This is about connecting the dots, making conclusions and weighing that against modern dogma. ]{s}
+  - [Cn: 这是关于连接点、得出结论，并与现代教条进行权衡。]{g}
+
+  ---
+  - [En: Lately I'm focusing a lot on health since it's so important ]{s}
+  - [Cn: 最近我非常关注健康，因为它非常重要]{g}
+
+  ---
+  - [En: yet there's so much conflicting information about it; I am also keen on enhancing productivity, enhancing cognitive capability and general self improvement. ]{s}
+  - [Cn: 然而关于它的信息却有太多相互矛盾的信息;我也热衷于提升生产力、认知能力和个人提升。]{g}
+
+  ---
+  - [En: My general goal is for each video to provide some takeaway that's applicable in your daily life. ]{s}
+  - [Cn: 我的总体目标是让每个视频都能提供一些适用于你日常生活的启示。]{g}
+
+  ---
+  - [The $10,000,000 Trauma Scam | The 一千万美元创伤诈骗](https://www.youtube.com/watch?v=obv9zeKzdx4)
+
+---
+
 * **[George Mavrakis]{g}**
 * **[Leah Halton]{g}**
 * **[Jacob Feder]{g}**
