@@ -3359,35 +3359,36 @@
 * **[PAX | 16.3万 | Music: 电吉他 | 油管](https://www.youtube.com/@PAXmusicgearlifestyle/videos)**
   - [Why Working Musicians Love Tagima Guitars | The Story of Tagima | 为什么职业音乐人喜欢Tagima吉他 | 塔吉玛的故事](https://www.youtube.com/watch?v=hkCx3JkQI_4)
 
-* **[London Eats]{s}**
+---
+**[London Eats]{s}**
 * **[London Eats | 34.5万 | 油管](https://www.youtube.com/@LondonEats/videos)**
   - [En: Welcome to London Eats!]{s}
-  - [Cn: 欢迎来到伦敦美食！
+  - [Cn: 欢迎来到伦敦美食]{g}
 
   ---
   - [En: This channel shows the real, behind-the-scenes life of a courier delivering for Uber Eats, Deliveroo, Just Eat, and Gophr — the stuff customers never see.]{s}
-  - [Cn: 这个频道展示了一名为Uber Eats、Deliveroo、Just Eat和Gophr送餐的快递员的真实幕后生活——那些顾客永远不会see. 接触到的东西
+  - [Cn: 这个频道展示了一名为Uber Eats、Deliveroo、Just Eat和Gophr送餐的快递员的真实幕后生活——那些顾客永远不会see. 接触到的东西]{g}
 
   ---
   - [En: I cover the good, the bad, and everything in between.]{s}
-  - [Cn: 我报道好的、坏的，以及介于中间的一切。
+  - [Cn: 我报道好的、坏的，以及介于中间的一切。]{g}
 
   ---
   - [En: From tips to tech, food to gear, it’s all here to help couriers work smarter and earn more.]{s}
-  - [Cn: 从技巧到科技，从食物到装备，一切都帮助快递员更聪明地工作并赚取收入more.
+  - [Cn: 从技巧到科技，从食物到装备，一切都帮助快递员更聪明地工作并赚取收入more.]{g}
 
   ---
-  - [En: What you’ll find:]{s}
-  - [En: 🚴‍♂️ Ride-alongs through the streets of London & cities around the world]{s}
-  - [En: 💡 Tips to boost efficiency and earnings]{s}
-  - [En: 🍔 Food spots you’ll want to try]{s}
-  - [En: ⚙️ Gear and tech that actually help on the job]{s}
+  - [En: What you’ll find]{s}
+  - [En: Ride-alongs through the streets of London & cities around the world]{s}
+  - [En: Tips to boost efficiency and earnings]{s}
+  - [En: Food spots you’ll want to try]{s}
+  - [En: Gear and tech that actually help on the job]{s}
   - [En: Electric transport powers everything I do, and with new tools and apps always dropping, there’s plenty to test and share.]{s}
-  - [Cn: 你会发现： 🚴 ♂️ 伦敦及世界各地城市的随行骑行 💡 提升效率的小贴士，earnings 你想try 🍔 ⚙️的美食点 装备和真正有助于job Electric运输的科技驱动着我所做的一切，而且新工具和应用不断推出， 有很多值得测试和share.
+  - [Cn: 你会发现: 伦敦及世界各地城市的随行骑行 提升效率的小贴士，earnings 你想try的美食点 装备和真正有助于job Electric运输的科技驱动着我所做的一切，而且新工具和应用不断推出， 有很多值得测试和share]{g}
 
   ---
-  - [En: Whether you're already delivering or just curious about how it all works you're in the right place!
-  - [Cn: 无论你是已经在配送，还是只是对流程感到好奇，你来对地方了！
+  - [En: Whether you're already delivering or just curious about how it all works you're in the right place]{s}
+  - [Cn: 无论你是已经在配送，还是只是对流程感到好奇，你来对地方了]{g}
 
   ---
   - [Friday Night Deliveroo Shift Starting At 7PM – Busy Streets, Bad Drivers & Non-Stop Orders!](https://www.youtube.com/watch?v=5gUefF0LZsg)
