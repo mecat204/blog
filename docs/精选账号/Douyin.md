@@ -820,6 +820,10 @@
 * **[彩环想成为修仙者，只因想和他在一起](https://v.douyin.com/dcTUJwdU8WI/)**
 
 ---
+**[林筱🎤魔音三斤]{e}**
+* **[林筱🎤魔音三斤 | 抬杠学能耐（无团队） 实话不好听，但我说了解恨，大伙开心就好 | 贰仟章 | Douyin](https://v.douyin.com/oPHZMyBl5xQ/)**
+
+---
 ### 0009. 直播
 **[予希]{e}**
 * **[予希 | 人与人之间的滤镜 不过是一双偏爱的眼睛 | Douyin](https://v.douyin.com/XwbL5EseOy8/)**
