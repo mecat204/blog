@@ -2768,10 +2768,14 @@
 * **[TED-Ed](https://ed.ted.com/)**
 
 ---
-**[Teco-lab]{p}**
+**[Teco-lab·unproxy]{s}**
 * **[Teco-lab](https://teco-lab.com)**
   - user: meca..
   - pwd: min
+
+---
+**[SpokenDaVinci·unproxy]{s}**
+* **[SpokenDaVinci](https://www.spokendavinci.com/login.html)**
 
 ---
 **[English learn | GPT]{p}**

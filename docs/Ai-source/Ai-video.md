@@ -1033,6 +1033,34 @@
     - [银月小话本-南宫婉抢婚爽剧版本 | 013](https://v.douyin.com/Rvx8N1sn60c/)
 
 ---
+### 0046. 章小杰
+**[章小杰]{s}**
+* **[章小杰 | AIGC创作者 每天发布梦幻创意视频 作品均为原创🈲搬运 | 佰章 | Douyin](https://v.douyin.com/Rt4N6lwQx-U/)**
+
+  ---
+  **[001. 星座幻想]{g}**
+    - [穿越武侠世界之星座决定你的门派 | 001](https://v.douyin.com/xHP4NKTnP_o/)
+    - [十二星座的国风卧室，你会住进哪一间 | 002](https://v.douyin.com/BkVs-CaQe6Q/)
+    - [十二星座的国风卧室 | 004](https://v.douyin.com/cad9GIEcmmU/)
+    - [十二星座，认领你的专属修仙网文场景 | 016](https://v.douyin.com/DVlVc898tp0/ 复制此链接，打开Dou音搜索，直接观看视频)
+
+  ---
+  **[002. 中世纪浪漫]{g}**
+    - [我在玫瑰尽头，看见世界的另一层 | 001](https://v.douyin.com/EpZuv37BX5s/)
+    - [在记忆的废墟里，有些花永远学不会凋谢 | 021](https://v.douyin.com/hpzrYTbjg0g/)
+    - [如果梦境有形状，大概就是这样 | 022](https://v.douyin.com/41_QyMMv6bs/)
+    - [皇权退场，繁花加冕 | 024](https://v.douyin.com/I7RsFCjyRA0/)
+    - [倒塌的时间缝隙中，仍有玫瑰在悄悄呼吸 | 027](https://v.douyin.com/t89ppgHd4Ck/)
+
+  ---
+  **[003. 中式浪漫]{g}**
+    - [如果东方神话世界真实存在 | 001](https://v.douyin.com/FR8qMztNlk0/)
+    - [如果东方神话世界真实存在 在云海之上，有通往天庭的巨门； 在群山之间，有盘踞天地的龙脉； 巨龙隐于山河，神山直入苍穹。 而人类只是这片神话世界里渺小的旅人。 当你站在山巅向远方望去， 或许会看到—— 那条沉睡在大地中的龙]{g}
+
+    ---
+    - [若能远离人间，我愿住进这座天宫 | 040](https://v.douyin.com/IUvCgEusa1c/)
+
+---
 ### 9999. Download
 **[必应]{p}**
 * **[必应 | bing.com](https://cn.bing.com/)**
