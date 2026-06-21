@@ -1985,7 +1985,7 @@
 **[Olga Loiek]{p}**
 * **[Olga Loiek | 宾夕法尼亚大学认知科学与计算专业学生 | 油管](https://www.youtube.com/@olgaloiek/videos)**
   - 🇺🇦 Cognitive Science & Computation student at UPenn 📧Business email: loiekolga@gmail.com 💖 Join our community in supporting the channel:  https://www.paypal.com/paypalme/olgaloiek
-  - 🇺🇦 宾夕法尼亚大学认知科学与计算专业学生 商业邮箱：loiekolga@gmail.com 加入我们的社区，支持频道：https://www.paypal.com/paypalme/olgaloiek📧 💖
+  - 🇺🇦 宾夕法尼亚大学认知科学与计算专业学生 商业邮箱：loiekolga@gmail.com 加入我们的社区，支持频道：www.paypal.com/paypalme/olgaloiek📧 💖
 
   ---
   - **[why you lost your love for learning & how to get it back | 你为什么失去对学习的热爱以及如何找回它](https://www.youtube.com/watch?v=0rk9O8NUrCg)**
@@ -2028,8 +2028,8 @@
 ---
 **[Elena Taber]{p}**
 * **[Elena Taber | 86.5万 | Travel | 旅行者 | 油管](https://www.youtube.com/@ElenaTaber/videos)**
-  - travel, outdoor adventures, city living, fashion, wellness, and my other 20 something misadventures in nyc, paris, and beyond 💌
-  - 旅行、户外探险、城市生活、时尚、健康，以及我在纽约、巴黎和其他地方💌的其他二十多岁冒险
+  - [En: travel, outdoor adventures, city living, fashion, wellness, and my other 20 something misadventures in nyc, paris, and beyond 💌]{s}
+  - [Cn: 旅行、户外探险、城市生活、时尚、健康，以及我在纽约、巴黎和其他地方💌的其他二十多岁冒险]{g}
 
   ---
   - **[I travelled across the world to find WILD gorillas | this is Uganda 🇺🇬 | 我走遍了世界各地，去寻找野生大猩猩 | 这里是乌干达 🇺🇬](https://www.youtube.com/watch?v=7YjhswLfsAQ)**
@@ -2047,8 +2047,8 @@
 ---
 **[Lana Blakely]{e}**
 * **[Lana Blakely | 生活方式、人生体验、哲学思考、自我成长和社交话题讨论 | 166万 | 油管](https://www.youtube.com/@LanaBlakely/videos)**
-  - books, solo trips, vintage finds and thinking aloud | Email hello@lanablakely.com
-  - 书籍、独自旅行、复古发现和随意思考 邮件 hello@lanablakely.com
+  - [En: books, solo trips, vintage finds and thinking aloud | Email hello@lanablakely.com]{s}
+  - [Cn: 书籍、独自旅行、复古发现和随意思考 邮件 hello@lanablakely.com]{g}
 
   ---
   - **[it's NOT about romanticizing your life... it’s much simpler than that | 这不是美化你的生活...... 事情远比这 简单](https://www.youtube.com/watch?v=K_d6B58lCHM)**
@@ -2056,8 +2056,8 @@
 ---
 **[Ellison Scar]{p}**
 * **[Ellison Scar | 自由职业、品牌内容创作和社媒营销 | 1.82万 | 油管](https://www.youtube.com/@ElliScar/videos)**
-  - Live Better, For Longer
-  - 活得更好，活得更久
+  - [En: Live Better, For Longer]{s}
+  - [Cn: 活得更好，活得更久]{g}
 
   ---
   - **[I Ate a Scientifically 'Perfect' Diet for 365 Days — Here’s What Happened | 我连续365天都遵循科学上"完美"的饮食——事情是这样的](https://www.youtube.com/watch?v=D-vspBISbXQ)**
@@ -3450,23 +3450,108 @@
   - [The $10,000,000 Trauma Scam | The 一千万美元创伤诈骗](https://www.youtube.com/watch?v=obv9zeKzdx4)
 
 ---
+**[George Mavrakis]{s}**
+* **[George Mavrakis | 197万 | 油管](https://www.youtube.com/@coralfish12g/videos)**
 
-* **[George Mavrakis]{g}**
-* **[Leah Halton]{g}**
-* **[Jacob Feder]{g}**
-* **[Theo Alston]{g}**
-* **[Jaylen]{g}**
-* **[More Than Farmers]{g}**
-* **[Back 2 Basics Homesteading]{g}**
-* **[UF]{g}**
-* **[Emma Chamberlain]{g}**
-* **[Ellie-Jean Royden]{g}**
-* **[Connor Kerswell]{g}**
-* **[James Edward]{g}**
-* **[Tate Harris]{g}**
-* **[Tyson Liberto]{g}**
-* **[Vanessa Wachtmeister]{g}**
-* **[English with Edward]{g}**
+  - [En: Hi, I'm George!]{s}
+  - [Cn: 嗨，我是乔治！]{g}
+
+  ---
+  - [En: I make videos about aquariums!]{s}
+  - [Cn: 我做关于水族箱的视频！]{g}
+
+  ---
+  - [En: I started this adventure almost 20 years ago when I set up my first saltwater tank.]{s}
+  - [Cn: I这段冒险是在将近20年前开始的，当时我搭建了第一个海水缸。]{g}
+
+  ---
+  - [En: My mission is to educate and inspire people getting into the aquarium hobby.]{s}
+  - [Cn: 我的使命是教育和激励那些开始接触水族爱好者的人。]{g}
+
+---
+**[Jacob Feder]{s}**
+* **[Jacob Feder](https://www.youtube.com/@JacobFeder/videos)**
+
+  - [En: What's up everyone, I'm Jacob and this is my channel.]{s}
+  - [Cn: 大家好，我是雅各布，这是我的频道。]{g}
+
+  ---
+  - [En: Giving you guys a first hand account of all of my animal adventures right here in sunny South Florida]{s}
+  - [Cn: 为大家讲述我在阳光明媚的南佛罗里达所有动物冒险的第一手经历]{g}
+
+---
+**[More Than Farmers]{g}**
+* **[More Than Farmers | 49.8万 | 油管](https://www.youtube.com/@morethanfarmers/videos)**
+
+  - [En: We want to share our passion for efficient, sustainable homesteading that brings the family together.]{s}
+  - [Cn: 我们希望分享对高效、可持续自给自足生活的热情，这种生活方式能让家庭更加团结。]{g}
+
+  ---
+  - [En: On our homestead we do chemical-free gardening, grass-fed beef, pastured eggs and broiler chickens, and free range children :)]{s}
+  - [Cn: 在我们的农场里，我们会进行无化学品的园艺、草饲牛肉、放养鸡蛋和肉鸡，以及放养的儿童:)]{g}
+
+  ---
+  - [En: We love to go on adventures as a family, so if we're not workin on the farm, we're probably hiking or out getting ice cream.]{s}
+  - [Cn: 我们喜欢全家一起冒险，所以如果不在农场工作，我们大概就是徒步或外出买冰淇淋。]{g}
+
+  ---
+  - [En: We're all into DIY, and being inventive and creative.]{s}
+  - [Cn: 我们都喜欢DIY，喜欢创造力和创造力。]{g}
+
+  ---
+  - [En: We believe in homesteading that's sustainable, not just sustainable homesteading.]{s}
+  - [Cn: 我们相信可持续的自给自足，而不仅仅是可持续的自给自足。]{g}
+
+  ---
+  - [En: In other words, we want to show you that homesteading doesn't have to wear you out to the point that you give it up.]{s}
+  - [Cn: 换句话说，我们想让你看到，自给自足不必让你疲惫到放弃。]{g}
+
+  ---
+  - [En: We've seen it happen, and almost came to that point ourselves.]{s}
+  - [Cn: 我们亲眼见证了这种情况，差点也达到了那个地步。]{g}
+
+  ---
+  - [En: So go ahead and take a whack at that subscribe button if you'd like to join us on this crazy ride.]{s}
+  - [Cn: 所以如果你想加入这场疯狂的旅程，快去试试订阅按钮吧。]{g}
+
+  ---
+  - [En: Get ready to learn and be inspired! Stay in touch in the video comments and over on Instagram]{s}
+  - [Cn: 准备好学习并获得灵感吧！ Stay在视频评论区和Instagram上保持联系]{g}
+
+  ---
+  - [How We Raise Our Own PROTEIN on Our Homestead](https://www.youtube.com/@morethanfarmers/videos)
+
+---
+**[Back 2 Basics Homesteading]{g}**
+* **[Back 2 Basics Homesteading | 3.8万 | 油管](https://www.youtube.com/@b2bhomesteading/videos)**
+  - [En: On a mission to be self sufficient]{s}
+  - [Cn: 使命是实现自给自足]{g}
+
+  ---
+  - [En: Behind the scenes; seeds, cuttings and help support grow this channel]{s}
+  - [Cn: 幕后工作;种子、插枝并帮助支持该通道的生长]{g}
+
+---
+**[Back 2 Basics Adventures]{g}**
+* **[Back 2 Basics Adventures | 144万 | 油管](https://www.youtube.com/@BacktoBasics/videos)**
+  - [En: Strick and Az, two Aussie best mates are all about remote and wild adventures.]{s}
+  - [Cn: 斯特里克和阿兹，两位澳大利亚最好的朋友，专注于偏远而狂野的冒险。]{g}
+
+  ---
+  - [En: Surviving from the ocean, living from the land and getting 'Back 2 Basics'.]{s}
+  - [Cn: 从海洋中生存，陆地生活，并获得“回归两项基础知识”。]{g}
+
+---
+**[Ellie-Jean Royden | Body & Style]{e}**
+* **[Ellie-Jean Royden | Body & Style | 39.3万 | 油管](https://www.youtube.com/@elliejeanroyden/videos)**
+  - [Find The Perfect Haircut For Your Face Type in 10 Minutes](https://www.youtube.com/watch?v=GWWdTVJWeUg)
+
+---
+**[English with Edward]{s}**
+* **[English with Edwards | 9930 | 油管](https://www.youtube.com/@engwithed/videos)**
+  - [How to Speak a Foreign Language Like an FBI Agent](https://www.youtube.com/watch?v=jNryyPz57zk)
+
+
 * **[Prof. Arthur C. Brooks]{g}**
 * **[Kristin Neff]{g}**
 * **[Cleo Abram]{g}**
@@ -3508,7 +3593,7 @@
 
 ---
 **[Still Watching Netflix]{e}**
-* **[Still Watching Netflix | 1090万 | Youtube](https://www.youtube.com/@stillwatchingnetflix/videos)**
+* **[Still Watching Netflix | 1090万 | 油管](https://www.youtube.com/@stillwatchingnetflix/videos)**
   - [En: Netflix is one of the world’s leading entertainment services, offering series, films, games and live programming across a wide variety of genres and languages.]{s}
   - [Cn: Netflix是全球领先的娱乐服务之一，提供涵盖多种类型和语言的剧集、电影、游戏和现场节目。]{g}
 
