@@ -14,7 +14,7 @@
 ---
 ### 0001. Future
 **[Brilliant]{p}**
-* **[Brilliant](https://brilliant.org/)**
+* **[Brilliant | Learn by doing](https://brilliant.org/)**
 
 ---
 ### 9999. Download

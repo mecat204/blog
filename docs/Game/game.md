@@ -162,6 +162,11 @@
   - [Wild n Chill - First Look Gameplay Trailer](https://www.youtube.com/watch?v=qEcpW2GPOvA)
 
 ---
+### 0014. 油管推广广告
+**[Foundation: Galactic Frontier]{s}**
+* **[Foundation: Galactic Frontier](https://www.foundation.game/en)**
+
+---
 ### 9999. Download
 **[dlpanda]{p}**
 * **[dlpanda](https://www.dlpanda.com)**

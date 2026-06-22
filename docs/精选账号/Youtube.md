@@ -1706,8 +1706,9 @@
   * **[Humanity’s Real Plan to Stop This Asteroid (Feat. Mark Rober)](https://www.youtube.com/watch?v=LOn-mmezykQ)**
 
 ---
-**[Dr. Arthur Brooks]{p}**
+**[Dr. Arthur Brooks]{s}**
 * **[Dr. Arthur Brooks | 22.5万 | 油管](https://www.youtube.com/@drarthurbrooks)**
+
   - [En: Arthur Brooks is a Harvard professor, PhD social scientist, bestselling author, and columnist who specializes in using the highest levels of science and philosophy to provide people with actionable strategies to live their best lives.]{s}
   - [Cn: 亚瑟·布鲁克斯是哈佛大学教授、社会科学家博士、畅销书作家和专栏作家，专注于运用最高层次的科学和哲学，为人们提供可行的策略，帮助他们过上最好的生活。]{g}
 
@@ -3551,8 +3552,12 @@
 * **[English with Edwards | 9930 | 油管](https://www.youtube.com/@engwithed/videos)**
   - [How to Speak a Foreign Language Like an FBI Agent](https://www.youtube.com/watch?v=jNryyPz57zk)
 
+---
+**[Dr. Arthur Brooks]{s}**
+* **[Dr. Arthur Brooks | 30.8万 | 油管](https://www.youtube.com/@drarthurbrooks/videos)**
 
-* **[Prof. Arthur C. Brooks]{g}**
+---
+
 * **[Kristin Neff]{g}**
 * **[Cleo Abram]{g}**
 * **[Leonardo Dreyer]{g}**
