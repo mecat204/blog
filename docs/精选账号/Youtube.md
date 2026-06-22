@@ -1661,7 +1661,7 @@
   - [人工智能专家：（警告）2030年可能是无法回头的关键点！我们被告知的有关人工智能的信息是假的！](https://www.youtube.com/watch?v=P7Y-fynYsgE)
 
 ---
-**[Cleo Abram]{p}**
+**[Cleo Abram]{e}**
 * **[Cleo Abram | 油管](https://www.youtube.com/@CleoAbram)**
   - [En: Video journalist making optimistic tech explainers.]{s}
   - [Cn: 视频记者制作乐观的科技解说。]{g}
@@ -3192,11 +3192,7 @@
 **[Ethan Travels | Travels]{s}**
 * **[Ethan Travels | 17.6万 | 油管](https://www.youtube.com/@ethantravels/videos)**
 
----
-* **[Tom Dickinson]{g}**
-* **[Jasmine Le]{g}**
-* **[Adela]{g}**
-* **[Santiago Weppler]{g}**
+
 
 ---
 **[Juan Marcel &amp; Rhylan]{s}**
@@ -3557,17 +3553,95 @@
 * **[Dr. Arthur Brooks | 30.8万 | 油管](https://www.youtube.com/@drarthurbrooks/videos)**
 
 ---
+**[Cleo Abram]{e}**
+* **[Cleo Abram | 827万 | 油管](https://www.youtube.com/@CleoAbram/videos)**
 
-* **[Kristin Neff]{g}**
-* **[Cleo Abram]{g}**
-* **[Leonardo Dreyer]{g}**
-* **[Sophie DiLoreto]{g}**
-* **[Reflections of Life]{g}**
-* **[Preppy Kitchen]{g}**
-* **[Timofey]{g}**
-* **[Sticky Academy]{g}**
-* **[Matt James]{g}**
-* **[Kathleen Morrill Pirovich]{g}**
+  - [En: If you're looking for my bio, here it is: Cleo Abram is a video journalist who produces Huge If True, an optimistic show about science and technology. ]{s}
+  - [Cn: 如果你想找我的简介，这里就是： Cleo Abram 是一名视频记者，制作《Huge If True》，这是一档关于科学与技术的乐观节目。]{g}
+
+  ---
+  - [En: Huge If True is an antidote to the doom and gloom, helping a wide audience see better futures they can help build. ]{s}
+  - [Cn: 《Huge If True》是对阴霾的解药，帮助广大观众看到他们能够共同建设的更好未来。]{g}
+
+  ---
+  - [En: In each episode, Cleo dives deep into one innovation that could shape the future. ]{s}
+  - [Cn: 在每一集中，克莱奥都会深入探讨一项可能塑造未来的创新。]{g}
+
+  ---
+  - [En: She has explored humanoid robots at Boston Dynamics, supersonic planes at NASA, quantum computers at IBM, the Large Hadron Collider at CERN, and more. ]{s}
+  - [Cn: 她曾在波士顿动力公司探索类人机器人、NASA的超音速飞机、IBM的量子计算机、CERN的大型强子对撞机等。]{g}
+
+  ---
+  - [En: Previously, Cleo was a video producer at Vox and directed for Explained on Netflix. ]{s}
+  - [Cn: 此前，克莱奥曾是Vox的视频制片人，并执导了Netflix的《Explained》。]{g}
+
+  ---
+  - [En: She was the host of Vox’s first ever daily show, Answered, as well as co-host of Vox’s YouTube Originals show, Glad You Asked.]{s}
+  - [Cn: 她主持了Vox首个每日节目《Answered》，并共同主持了Vox的YouTube Originals节目《Glad You Asked》。]{g}
+
+  ---
+  - [Jony Ive Shows The Real Process Behind the Ferrari Luce](https://www.youtube.com/watch?v=K-o0r2zSgCE)
+
+---
+**[Sophie DiLoreto]{e}**
+* **[Sophie DiLoreto | 化妆 | 32.7万 | 油管](https://www.youtube.com/@sophiediloreto/videos)**
+
+---
+**[Reflections of Life]{g}**
+* **[Reflections of Life | 生活的思考 | ](Reflections of Life)**
+  - [What Happens When You Stop Forcing Life](https://www.youtube.com/watch?v=qqMpOSBsjDI)
+
+  ---
+  **[Reflections of Life]{g}**
+    - [Reflections of Life — Authentic Stories that explore our Shared Humanity | Patreon](https://www.patreon.com/cw/reflectionsoflife)
+    - [There Are No Secrets](https://vimeo.com/1167798736)
+
+---
+**[Preppy Kitchen]{s}**
+* **[Preppy Kitchen | 611万 | 制作美食 | 油管](https://www.youtube.com/@PreppyKitchen/videos)**
+
+  - [En: Hi and welcome to Preppy Kitchen]{s}
+  - [Cn: 大家好，欢迎来到Preppy Kitchen]{g}
+
+  ---
+  - [En: This channel is for people who love food and enjoy learning new recipes and techniques so you can make delicious dishes to share with your family and friends]{s}
+  - [Cn: 这个频道是为热爱美食、喜欢学习新食谱和技巧的人准备的，这样你就能做出美味佳肴，与家人朋友分享]{g}
+
+  ---
+  - [En: You'll find new videos every Tuesday and Thursday with step-by-step instructions so you can make anything with confidence]{s}
+  - [Cn: 每周二和周四你都会看到新的视频，带有逐步指导，让你能自信地制作任何东西]{g}
+
+  ---
+  - [En: I’m John Kanell, a husband, dad to twins Lachlan and George, Los Angeles native, and an avid baker and cooker of all things delicious thanks to a life long education from my mother]{s}
+  - [Cn: 我是约翰·卡内尔，一位丈夫，双胞胎拉克兰和乔治的父亲，洛杉矶本地人，同时也是一名热衷烘焙和烹饪各种美味食材的爱好者，这都要归功于母亲的终身教育]{g}
+
+  ---
+  - [En: My mom cooked every meal we had and I loved spending time with her in the kitchen watching, helping, and learning as she made everything from scratch]{s}
+  - [Cn: 妈妈做了我们吃的每一顿饭，我很喜欢和她一起在厨房里看着、帮忙、学习，看她从头做起所有东西]{g}
+
+  ---
+  - [En: After finishing my degree in fine arts at UCLA I spent just over a decade teaching math and science to wonderful 6th, 7th, and 8th graders]{s}
+  - [Cn: 在UCLA完成美术学位后，我花了十多年时间教数学和科学，教了很棒的六、七、八年级学生]{g}
+
+  ---
+  - [En: A few years ago I decided to get back to my roots and Preppy Kitchen was born]{s}
+  - [Cn: 几年前，我决定回归本源，于是《Preppy Kitchen》诞生了]{g}
+
+  ---
+  - [En: For me the most satisfying part of making any dish is sharing it, so I started blogging to bring what I make to all of you]{s}
+  - [Cn: 对我来说，做任何菜最有成就感的就是分享它，所以我开始写博客，把我做的东西带给大家]{g}
+
+  ---
+  * **[Soft Brioche Buns Recipe](https://www.youtube.com/watch?v=v78R8NKE--g)**
+
+---
+**[Timofey]{s}**
+* **[Timofey | 17.2万 | 油管](https://www.youtube.com/@Timofey41/videos)**
+
+---
+**[MinuteEarth]{s}**
+* **[MinuteEarth | 329万 | 油管](https://www.youtube.com/@MinuteEarth/videos)**
+  - [How High Can Birds Fly?](https://www.youtube.com/watch?v=fPHVuxOsvI8)
 
 ---
 **[New York Post]{g}**
@@ -3647,6 +3721,9 @@
   ---
   **[theaptstudios]{g}**
   * **[theaptstudios](https://www.theaptstudios.com/)**
+
+---
+* **[Kathleen Morrill Pirovich]{g}**
 
 ---
 ### 0026. Ads of the World

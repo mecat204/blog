@@ -12,6 +12,11 @@
   - [Ted](https://www.ted.com/)
 
 ---
+**[vimeo.com | 区别于油管 | 专业性]{s}**
+* **[vimeo.com](https://vimeo.com)**
+    - [There Are No Secrets](https://vimeo.com/1167798736)
+
+---
 ### 0001. Future
 **[Brilliant]{p}**
 * **[Brilliant | Learn by doing](https://brilliant.org/)**

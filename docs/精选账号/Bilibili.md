@@ -772,6 +772,26 @@
 * **[YouTube访谈实录 | 硬核干货 智慧迭代 | B站](https://space.bilibili.com/1104053532?spm_id_from=333.788.upinfo.detail.click)**
 
 ---
+### 0077. Cleo Abram
+**[Cleo Abram]{e}**
+* **[Jony Ive Shows Me The Most Controversial Ferrari Ever](https://www.bilibili.com/video/BV1h6Vp6HEPc/?spm_id_from=333.337.search-card.all.click)**
+
+---
+### 0078. 海王子Eric
+**[海王子Eric]{s}**
+* **[海王子Eric | 69位 | B站](https://space.bilibili.com/43246937?spm_id_from=333.788.upinfo.head.click)**
+
+---
+### 0079. MinuteEarth
+**[MinuteEarth]{s}**
+* **[MinuteEarth双语精讲](https://www.bilibili.com/video/BV1Y2V66gEC3/?spm_id_from=333.337.search-card.all.click)**
+
+---
+### 0080. YouTube知识宝藏区
+**[YouTube知识宝藏区]{s}**
+* **[YouTube知识宝藏区 | 致力于成为每一位求知者成长路上的坚实伙伴 | 34.3万](https://space.bilibili.com/3494369487227121?spm_id_from=333.788.upinfo.detail.click)**
+
+---
 ### 9999. 开源项目
 **[必应]{p}**
 * **[必应 | bing.com](https://cn.bing.com/)**
