@@ -150,7 +150,7 @@
   - [Cn: 在这里，你会找到学习技巧、推荐，还能带来一些学习动力——同时带你一起踏上大学和人生的旅程！]{g}
 
   ---
-  - [油管r是一位来自挪威的大一女生，专业是medical engineering | **参考: 2019年**](https://www.youtube.com/channel/UCc1QflC90Nkf_SDBZwJScDQ)
+  - [油管是一位来自挪威的大一女生，专业是medical engineering | **参考: 2019年**](https://www.youtube.com/channel/UCc1QflC90Nkf_SDBZwJScDQ)
 
 ---
 **[Celine]{p}**
@@ -1770,20 +1770,20 @@
   - [Elon Musk: A Different Conversation w/ Nikhil Kamath | Full Episode | People by WTF Ep.  埃隆·马斯克：与尼基尔·卡马斯的不同对话 | 完整剧集 |WTF Ep. 的《People by People》](https://www.youtube.com/watch?v=Rni7Fz7208c)
 
 ---
-### 0010. 英语学习日记 | Search 油管r
+### 0010. 英语学习日记 | Search 油管
 **[LEIA英语]{p}**
 * **[LEIA英语 | 北师大硕士，多年教育经验 | 每日分享日常英语对话 | 五百章 | Douyin](https://v.douyin.com/J-8oISXP2eI/)**
-  - [博主分享了做美甲的经历和即将参加的野餐活动的期待. | **油管r: Birta Hlin**](https://v.douyin.com/IIpbomrgTVo/)
-  - [博主分享了自己生活中即将迎来宝宝的喜讯，以及随之而来的生活调整和未来规划。| **油管r: TheCottageFairy**](https://v.douyin.com/5rHbyt-RZLI/)
-  - [讲述了一次咖啡洒在包包上后送去清洗，最终包包颜色变深但污渍消失的经历。| **油管r: Michelle Choi**](https://v.douyin.com/i91TfsNO-6I/)
-  - [博主讨论了独处时感到舒适的重要性，并建议面对内心恐惧作为自我提升的动力。| **油管r: Tyson Liberto**](https://v.douyin.com/N7QpqDjU9Sc/)
-  - [博主讲解了英语中常见的发音错误，特别是静音字母和单词comfortable、vegetable的正确发音。| **油管r: English At The Ready**](https://v.douyin.com/S9eXlyJHJG8/)
-  - [博主讲解英语短语'better late than never'的发音技巧及美式英语中T变D的现象。**油管r: Speak English With Vanessa**](https://v.douyin.com/aUAvpM0V87Q/)
+  - [博主分享了做美甲的经历和即将参加的野餐活动的期待. | **油管: Birta Hlin**](https://v.douyin.com/IIpbomrgTVo/)
+  - [博主分享了自己生活中即将迎来宝宝的喜讯，以及随之而来的生活调整和未来规划。| **油管: TheCottageFairy**](https://v.douyin.com/5rHbyt-RZLI/)
+  - [讲述了一次咖啡洒在包包上后送去清洗，最终包包颜色变深但污渍消失的经历。| **油管: Michelle Choi**](https://v.douyin.com/i91TfsNO-6I/)
+  - [博主讨论了独处时感到舒适的重要性，并建议面对内心恐惧作为自我提升的动力。| **油管: Tyson Liberto**](https://v.douyin.com/N7QpqDjU9Sc/)
+  - [博主讲解了英语中常见的发音错误，特别是静音字母和单词comfortable、vegetable的正确发音。| **油管: English At The Ready**](https://v.douyin.com/S9eXlyJHJG8/)
+  - [博主讲解英语短语'better late than never'的发音技巧及美式英语中T变D的现象。**油管: Speak English With Vanessa**](https://v.douyin.com/aUAvpM0V87Q/)
 
 ---
 **[Lucky英语宝藏屋]{p}**
 * **[Lucky英语宝藏屋 | 国际化学校 | 学英语是一生课题 | 英语只是工具，更重要是带你看世界 | 学习是转运的开始，欢迎跟我一起变幸运 | 三百章 | Douyin]( https://v.douyin.com/AC4snIs2G90/)**
-  - [坚持每天跟着外国博主学英语，口语听力突飞猛进 英语是钥匙，但世界才是你要开的门， 学习是转运的开始！欢迎和我一起变幸运！| **油管r: Elena Taber**](https://v.douyin.com/g4wpYhTXXOI/)
+  - [坚持每天跟着外国博主学英语，口语听力突飞猛进 英语是钥匙，但世界才是你要开的门， 学习是转运的开始！欢迎和我一起变幸运！| **油管: Elena Taber**](https://v.douyin.com/g4wpYhTXXOI/)
 
 ---
 **[NaNa的英语宝藏]{p}**
@@ -1807,14 +1807,14 @@
         * 看中英对照文本，巩固复习，融会贯通
         * 朗读纯英文本，培养语感增强自信
       **英语学习是一件长期复利的事情，胜利是给坚持不懈者最好的奖赏，赶快加入我们吧！**
-  - [30岁油管千万富婆给20多岁年轻人的建议 | **油管r: Vanessa Lau**](https://v.douyin.com/77dXgDkenvs/)
+  - [30岁油管千万富婆给20多岁年轻人的建议 | **油管: Vanessa Lau**](https://v.douyin.com/77dXgDkenvs/)
 
 ---
 **[VENQUEN的英语日记]{p}**
 * **[VENQUEN的英语日记 | 二百章 | Douyin](https://v.douyin.com/lGerZrVjzQs/)**
-  - [学习是方向，世界是目的地！Follow along！ 飞向未知，直面恐惧 旧金山的酸面包，藏着冒险的滋味 独处的时光，发现真实的自己 大桥下的夕阳，点燃成长的勇气 | **油管r: Isabel Paige**](https://v.douyin.com/ACS0U3zIC54/)
-  - [雪花轻吻山巅，咖啡暖手 炉火旁，冬日的仙境悄然绽放 踏雪觅果，阳光洒落心间 这十一月的清晨，藏着治愈的温柔 | **油管r: Isabel Paige**](https://v.douyin.com/PokajBVenxU/)
-  - [Burnedout in early20s 🌄学习是方向，世界是目的地！Follow along！ 雨丝低吟 炉火唤春暖 童梦琴弦断于规整牢 跌倒，起身，圆满 | **油管r: Poetry Of Slow Life**](https://v.douyin.com/gIaihnAQ4kw/)
+  - [学习是方向，世界是目的地！Follow along！ 飞向未知，直面恐惧 旧金山的酸面包，藏着冒险的滋味 独处的时光，发现真实的自己 大桥下的夕阳，点燃成长的勇气 | **油管: Isabel Paige**](https://v.douyin.com/ACS0U3zIC54/)
+  - [雪花轻吻山巅，咖啡暖手 炉火旁，冬日的仙境悄然绽放 踏雪觅果，阳光洒落心间 这十一月的清晨，藏着治愈的温柔 | **油管: Isabel Paige**](https://v.douyin.com/PokajBVenxU/)
+  - [Burnedout in early20s 🌄学习是方向，世界是目的地！Follow along！ 雨丝低吟 炉火唤春暖 童梦琴弦断于规整牢 跌倒，起身，圆满 | **油管: Poetry Of Slow Life**](https://v.douyin.com/gIaihnAQ4kw/)
 
 ---
 **[2255（日更版）]{p}**
@@ -1826,17 +1826,17 @@
 ---
 **[NeverStop英语栈]{p}**
 * **[NeverStop英语栈 | 外刊跟读系列周更 | 英语博主vlog系列一周多更 | 百章 | Douyin](https://v.douyin.com/neCHbXtGwUo/)**
-  - [《Don't Look Back In Anger》 丨my love mine all mine by mitskidont look back in anger - oasis (cover)丨 **油管r: Jasmine Nadya** | 吉他弹唱 | 英语 | oasis | 音乐](https://v.douyin.com/L7RKhq7wCDI/)
-  - [机场英语课 丨**油管r: Ariannita la Gringa**](https://v.douyin.com/WIbb5JAgsCc/)
-  - [How to Order Fast Food in English丨**油管r: Ariannita la Gringa**](https://v.douyin.com/KO726RslzIA/)
-  - [a thousand years -christina perri (cover)丨**油管r: chika clarissa**](https://v.douyin.com/cKS4ZpqLtP8/)
-  - [你为何失去了对学习的热爱，以及如何重新找回这份热爱 丨why you lost your love for learning & how to get it back丨**油管r: Olga loiek**](https://v.douyin.com/MEslJ5tjAkI/)
-  - [无聊吗？这里有更充实的生活指南！| **油管r: Olga loiek**](https://v.douyin.com/Gxp9F5-weRg/)
+  - [《Don't Look Back In Anger》 丨my love mine all mine by mitskidont look back in anger - oasis (cover)丨 **油管: Jasmine Nadya** | 吉他弹唱 | 英语 | oasis | 音乐](https://v.douyin.com/L7RKhq7wCDI/)
+  - [机场英语课 丨**油管: Ariannita la Gringa**](https://v.douyin.com/WIbb5JAgsCc/)
+  - [How to Order Fast Food in English丨**油管: Ariannita la Gringa**](https://v.douyin.com/KO726RslzIA/)
+  - [a thousand years -christina perri (cover)丨**油管: chika clarissa**](https://v.douyin.com/cKS4ZpqLtP8/)
+  - [你为何失去了对学习的热爱，以及如何重新找回这份热爱 丨why you lost your love for learning & how to get it back丨**油管: Olga loiek**](https://v.douyin.com/MEslJ5tjAkI/)
+  - [无聊吗？这里有更充实的生活指南！| **油管: Olga loiek**](https://v.douyin.com/Gxp9F5-weRg/)
 
 ---
 **[大脚柚子英语学习日记]{p}**
 * **[大脚柚子英语学习日记 | 百章 | Douyin](https://v.douyin.com/QMSHneHcLIo/)**
-  - [**油管r: Sydney Serena** | 每日英语](https://v.douyin.com/7G6vvrFaWPI/)
+  - [**油管: Sydney Serena** | 每日英语](https://v.douyin.com/7G6vvrFaWPI/)
 
 ---
 **[小维每日英语]{p}**
@@ -1845,13 +1845,13 @@
 ---
 **[英语学习播客]{p}**
 * **[英语学习播客 | 百章 | Douyin](https://v.douyin.com/suAtihn1uE0/)**
-  - [**油管r: Taylor Hill** - How Many Taylors Does It Take - part14](https://v.douyin.com/ikbggWsPcos/)
+  - [**油管: Taylor Hill** - How Many Taylors Does It Take - part14](https://v.douyin.com/ikbggWsPcos/)
 
 ---
 **[哆啦N梦爱英语]{p}**
 * **[哆啦N梦爱英语 | 百章 | Douyin](https://v.douyin.com/imI-y_Hedjg/)**
-  - [分享一个我认为迄今为止在油管看到的最漂亮博主没有之一 | **油管r: Nil Sani**: 个人生活、时尚、美妆和生活方式](https://v.douyin.com/t4auaF8-RF4/)
-  - [我们感觉一段关系，让我们不再快乐的时候，就是一段关系结束的时候 | **油管r: Lana Blakely**: 生活方式、人生体验、哲学思考、自我成长和社交话题讨论](https://v.douyin.com/yKQ1V1AlV2E/)
+  - [分享一个我认为迄今为止在油管看到的最漂亮博主没有之一 | **油管: Nil Sani**: 个人生活、时尚、美妆和生活方式](https://v.douyin.com/t4auaF8-RF4/)
+  - [我们感觉一段关系，让我们不再快乐的时候，就是一段关系结束的时候 | **油管: Lana Blakely**: 生活方式、人生体验、哲学思考、自我成长和社交话题讨论](https://v.douyin.com/yKQ1V1AlV2E/)
 
 ---
 **[Poetry Of Slow Life]{p}**
@@ -2887,43 +2887,43 @@
 **[英语超级屋]{p}**
 * **[英语超级屋 | 感受世界，感受人文，遇见这个世界上美好的人和事 学好英语，感受语言，遇见这个时间里最好的自己... | 三百章 | Douyin](https://v.douyin.com/JLRyWueVrOE/)**
   - [语言的边界, 就是世界的边界 --- 维特根斯坦]{s}
-  - [张同完 | 韩国 | **油管r: _100ls**  | wan只用一部动画，重复100遍，做到年赚200万刀 谁说学好英语赚不到钱](https://v.douyin.com/dE8eIkNzQ28/)
+  - [张同完 | 韩国 | **油管: _100ls**  | wan只用一部动画，重复100遍，做到年赚200万刀 谁说学好英语赚不到钱](https://v.douyin.com/dE8eIkNzQ28/)
   - **[旅行学英语](https://v.douyin.com/clZqESbHEF4/)**
-  - **[全英播客通勤磨耳朵 | **油管r: English Learning Podcast**](https://v.douyin.com/qGQ7PDaJ7zY/)**
+  - **[全英播客通勤磨耳朵 | **油管: English Learning Podcast**](https://v.douyin.com/qGQ7PDaJ7zY/)**
   - **[如何在一天彻底改变你的一生](https://v.douyin.com/YLiYarwLOxY/)**
   - **[你学英语的时候为什么总是被短视频带跑](https://v.douyin.com/LANarnZ8pdM/)**
   - **[English podcast 英语听力训练](https://v.douyin.com/-1JcIfq0xfg/)**
   * **[英文磨耳朵 进入心流状态是什么感觉](https://v.douyin.com/c1AbObGV9xI/)**
   * **[英式英语那个小调调是怎么来的](https://v.douyin.com/hxaGseoYJok/)**
-  * **[韩国大集什么样 可理解性输入学英语 | 油管r: volkaeagle](https://v.douyin.com/-G5XfX7KvRo/)**
+  * **[韩国大集什么样 可理解性输入学英语 | 油管: volkaeagle](https://v.douyin.com/-G5XfX7KvRo/)**
 
   ---
   **[001. 超级英语 | 老师篇]{g}**
-    - [油管r: Rodica - The Foreign Sun | 跟着老师学习就餐实用英语 就餐英语 | 001](https://v.douyin.com/ThApI_ho-28/)
-    - [油管r: Rodica - The Foreign Sun | 如何通过看电影，学一口纯正发音 | 002](https://v.douyin.com/Cbq_0Gt4CLA/)
+    - [油管: Rodica - The Foreign Sun | 跟着老师学习就餐实用英语 就餐英语 | 001](https://v.douyin.com/ThApI_ho-28/)
+    - [油管: Rodica - The Foreign Sun | 如何通过看电影，学一口纯正发音 | 002](https://v.douyin.com/Cbq_0Gt4CLA/)
     - [听力，你的英语什么水平 | 003](https://v.douyin.com/_9gBiwahvfM/)
-    - [油管r: Albina Sultanova | 全英文英语听力磨耳朵 找对学习方法才能事半功倍，你也能快速提高英语水平 | 016](https://v.douyin.com/LJd0YylfOr8/)
-    - [油管r: Albina Sultanova | 全英文听力 跟着老师学词句啦，听起来吧 | 017](https://v.douyin.com/L6C9bo8G92w/)
-    - [油管r: Rodica - The Foreign Sun | 原声听力磨耳朵，听老师讲经历，你也能说一口流利美国话。| 024](https://v.douyin.com/jPR3PVVYo30/)
-    - [油管r: Rodica - The Foreign Sun | 老师讲述如何变得自信，听完你会有收获 | 027](https://v.douyin.com/v6JPDCQ58Mk/)
+    - [油管: Albina Sultanova | 全英文英语听力磨耳朵 找对学习方法才能事半功倍，你也能快速提高英语水平 | 016](https://v.douyin.com/LJd0YylfOr8/)
+    - [油管: Albina Sultanova | 全英文听力 跟着老师学词句啦，听起来吧 | 017](https://v.douyin.com/L6C9bo8G92w/)
+    - [油管: Rodica - The Foreign Sun | 原声听力磨耳朵，听老师讲经历，你也能说一口流利美国话。| 024](https://v.douyin.com/jPR3PVVYo30/)
+    - [油管: Rodica - The Foreign Sun | 老师讲述如何变得自信，听完你会有收获 | 027](https://v.douyin.com/v6JPDCQ58Mk/)
     - [可怕的沉没成本 人生最大的错误就是在错误的路上越走越远 | 035](https://v.douyin.com/lXi5i_y9Nus/)
     - [超级好的听力材料 你也能自由说一口流利英语哦 | 036](https://v.douyin.com/-LbTDMbcT8w/)
     - [你能听懂多少 老师分享如何学好一门外语 | 058](https://v.douyin.com/NeasrdGxNXs/)
     - [起床开始学英语啦 | 061](https://v.douyin.com/1puALI9x5sw/)
-    - [油管r: Easy English With Cat | 哑巴英语 请停止学习 | 087](https://v.douyin.com/GJWVm31l6rs/)
+    - [油管: Easy English With Cat | 哑巴英语 请停止学习 | 087](https://v.douyin.com/GJWVm31l6rs/)
     - [这5个阻碍你自由开口说英语的原因你有吗 | 92](https://v.douyin.com/h8JYLz8PaAI/)
-    - [油管r: English by Jay |  英语时间表达 你会正确表达英语时间吗 | 100](https://v.douyin.com/MaP-cag6AM0/)
-    - [油管r: Volka English | com-pre-hen-sible可理解性输入学习口语 | 104](https://v.douyin.com/88yLEGs-bao/)
-    - [油管r: Learn English with Bob the Canadian | 6个技巧记住学过的单词 | 111](https://v.douyin.com/wJqWS8fDae8/)
-    - [油管r: Learn English with Bob the Canadian | 超实用短语学习 | 112](https://v.douyin.com/CUFEYZDvfqk/)
-    - [油管r: 克雷兒 Claire | 一个人在家把英文练超溜的5大方法 | 113](https://v.douyin.com/uMeU0l7nH_I/)
-    - [油管r: 克雷兒 Claire | 后悔没有早看到老师的视频 | 114](https://v.douyin.com/H2ao2dDSOVY/)
-    - [油管r: English At The Ready | 我们从小学开始算，算学了十几年吗 | 115](https://v.douyin.com/Yl-nQCdRPzE/)
-    - [油管r: Massi's world | 这些词汇你说对了吗 | 116](https://v.douyin.com/yAiSpMQf5Z4/)
-    - [油管r: Rodica - The Foreign Sun | 117](https://v.douyin.com/qOq53jnYwD0/)
-    - [油管r: English by Jay | 保姆级影子跟读学习 | 121](https://v.douyin.com/rEWO2o6wLw0/)
-    - [油管r: Ariannita la Gringa | 农场欢乐学英语 | 122](https://v.douyin.com/x8G9V2Zz-KM/)
-    - [油管r: English by Jay | 125](https://v.douyin.com/MnxObFp06V0/)
+    - [油管: English by Jay |  英语时间表达 你会正确表达英语时间吗 | 100](https://v.douyin.com/MaP-cag6AM0/)
+    - [油管: Volka English | com-pre-hen-sible可理解性输入学习口语 | 104](https://v.douyin.com/88yLEGs-bao/)
+    - [油管: Learn English with Bob the Canadian | 6个技巧记住学过的单词 | 111](https://v.douyin.com/wJqWS8fDae8/)
+    - [油管: Learn English with Bob the Canadian | 超实用短语学习 | 112](https://v.douyin.com/CUFEYZDvfqk/)
+    - [油管: 克雷兒 Claire | 一个人在家把英文练超溜的5大方法 | 113](https://v.douyin.com/uMeU0l7nH_I/)
+    - [油管: 克雷兒 Claire | 后悔没有早看到老师的视频 | 114](https://v.douyin.com/H2ao2dDSOVY/)
+    - [油管: English At The Ready | 我们从小学开始算，算学了十几年吗 | 115](https://v.douyin.com/Yl-nQCdRPzE/)
+    - [油管: Massi's world | 这些词汇你说对了吗 | 116](https://v.douyin.com/yAiSpMQf5Z4/)
+    - [油管: Rodica - The Foreign Sun | 117](https://v.douyin.com/qOq53jnYwD0/)
+    - [油管: English by Jay | 保姆级影子跟读学习 | 121](https://v.douyin.com/rEWO2o6wLw0/)
+    - [油管: Ariannita la Gringa | 农场欢乐学英语 | 122](https://v.douyin.com/x8G9V2Zz-KM/)
+    - [油管: English by Jay | 125](https://v.douyin.com/MnxObFp06V0/)
     - [English by Jay - Sprout | 49.1万 | 油管](https://www.youtube.com/@englishbyjay.official/videos)
     - [Learn English with Jay | bilibili](https://www.bilibili.com/video/BV1115464Ef4/?spm_id_from=333.337.search-card.all.click)
     - [ReneeEnglish | YouTube，英语口语，英语听力 | Bilibili](https://space.bilibili.com/492383211?spm_id_from=333.337.search-card.all.click)
@@ -2942,7 +2942,7 @@
   ---
   **[004. 超级英语 | 认知篇]{g}**
     - [每天熬夜刷手机说的是你吗 | 001](https://v.douyin.com/vrd-h1uj-Js/)
-    - [油管r: Dr. Shadé Zahrai | 每天熬夜刷手机说的是你吗 | 007](https://v.douyin.com/vrd-h1uj-Js/)
+    - [油管: Dr. Shadé Zahrai | 每天熬夜刷手机说的是你吗 | 007](https://v.douyin.com/vrd-h1uj-Js/)
     - [开会总被打断怎么办 | 010](https://v.douyin.com/qv_EamNt3nc/)
     - [韩国小姐姐辞职后全职自媒体如何一步步做起来FROM：博主Jumy | 020](https://v.douyin.com/WsM9_OKyQNc/)
 
