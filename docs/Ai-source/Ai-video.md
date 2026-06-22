@@ -527,6 +527,9 @@
     - **[白人根本不敢进非洲内陆！黑奴贸易的真凶到底是谁 | 032](https://v.douyin.com/nxW6aZHpVXw/)**
     - **[耗资90亿演一场戏：人类历史上最贵的“楚门的世界” | 033](https://v.douyin.com/H3wwIVd45CI/)**
     - **[39名人质的至暗时刻：圆明园大火前，清廷到底干了什么蠢事 | 034](https://v.douyin.com/ia4tjfbJwu0/)**
+    - **[乾隆年间的文字狱到底有多可怕 | 035](https://v.douyin.com/5-Bo4DvPdKg/)**
+    - **[鸦片战争前，清朝其实是有机会改变国运的 | 036](https://v.douyin.com/tpnfOIyJhMc/)**
+    - **[大清的纯阴阵如何被打破的 | Min: 04:45 | 037](https://v.douyin.com/EYgbLDVHjeA/)**
 
 ---
 ### 0015. 生命的尽头 | Falsen

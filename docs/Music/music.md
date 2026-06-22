@@ -37,7 +37,7 @@
   - **[极度专注模式 | 专注音乐 提高效率 | 深度心流 2026](https://www.youtube.com/watch?v=eo1gKGt6h9M)**
 
 ---
-* **[Deep Productivity | 5900 | Youtube](https://www.youtube.com/@DeepProductivity/videos)**
+* **[Deep Productivity | 5900 | 油管](https://www.youtube.com/@DeepProductivity/videos)**
   - **[极度专注模式 | 专注音乐 提高效率 | 深度心流 2026](https://www.youtube.com/watch?v=eo1gKGt6h9M)**
 
 ---
@@ -86,7 +86,7 @@
 * **[Free Premium Music | **Unminus**](https://www.unminus.com/)**
 
 ---
-### 0003. 战歌 | Bilibili | Youtube
+### 0003. 战歌 | Bilibili | 油管
 **[墨韵Moyun]{s}**
 * **[墨韵Moyun | 筝人，愿拆曲成诗 | 233.7万 | Bilibili](https://space.bilibili.com/2374194?spm_id_from=333.788.upinfo.detail.click)**
   - **[十二镇魂歌](https://www.bilibili.com/video/av18200802/)**
@@ -113,22 +113,22 @@
 
 ---
 **[ERA]{s}**
-* **[ERA | 101万 | Youtube](https://www.youtube.com/@ERAMusicOfficial/videos)**
+* **[ERA | 101万 | 油管](https://www.youtube.com/@ERAMusicOfficial/videos)**
   - **[The Mass](https://www.youtube.com/watch?v=qMa1kTobETc)**
 
 ---
 **[袁莉媛]{s}**
-* **[袁莉媛 | 4.89万 | Youtube](https://www.youtube.com/@%E8%A2%81%E8%8E%89%E5%AA%9B/videos)**
+* **[袁莉媛 | 4.89万 | 油管](https://www.youtube.com/@%E8%A2%81%E8%8E%89%E5%AA%9B/videos)**
   - **[star sky](https://www.youtube.com/watch?v=s-0ganwG284)**
 
 ---
 **[Jim_Kirk1]{s}**
-* **[Jim_Kirk1 | 3.73万 | Youtube](https://www.youtube.com/@JimKirk1/videos)**
+* **[Jim_Kirk1 | 3.73万 | 油管](https://www.youtube.com/@JimKirk1/videos)**
   - **[Victory](https://www.youtube.com/watch?v=H6EceDF5ltc)**
 
 ---
 **[Hardigun]{s}**
-* **[Hardigun | 60.6万 | Youtube](https://www.youtube.com/@Hardigun/videos)**
+* **[Hardigun | 60.6万 | 油管](https://www.youtube.com/@Hardigun/videos)**
   - **[Victory](https://www.youtube.com/watch?v=7ayeex93u6o)**
 
 ---
@@ -160,7 +160,7 @@
 * **[Gravity | 2013-地心引力](https://www.youtube.com/watch?v=BzPYvrGWJgA)**
 
 ---
-### 0004. Youtube·music
+### 0004. 油管·music
 **[Lord Of The Rings]{s}**
 * **[Lord Of The Rings - Arwen - One With The Truth | 指环王 - 阿尔文 - 与真相合一](https://www.youtube.com/watch?v=q4lRukMEI6Y&list=RDq4lRukMEI6Y&start_radio=1)**
 
@@ -233,7 +233,7 @@
 
 ---
 **[华策音乐 HUACE MUSIC]{s}**
-* **[华策音乐 HUACE MUSIC | Youtube](https://www.youtube.com/@huacemusic1283)**
+* **[华策音乐 HUACE MUSIC | 油管](https://www.youtube.com/@huacemusic1283)**
   - [长歌行](https://www.youtube.com/watch?v=4fnEXD-TGyE&list=RDBUCrWnWo4H4&index=3)
 
 ---
@@ -266,27 +266,27 @@
 
 ---
 **[Little V]{s}**
-* **[Little V | 240位 | Youtube](https://www.youtube.com/@little.v/videos)**
+* **[Little V | 240位 | 油管](https://www.youtube.com/@little.v/videos)**
   - [一千年以后](https://www.youtube.com/watch?v=2BcWlT8F7eE&list=RD2BcWlT8F7eE&start_radio=1)
 
 ---
 **[YOYOROCK 滾石移動]{s}**
-* **[YOYOROCK 滾石移動 | 45.4万 | Youtube](https://www.youtube.com/@YOYOROCK/videos)**
+* **[YOYOROCK 滾石移動 | 45.4万 | 油管](https://www.youtube.com/@YOYOROCK/videos)**
   - **[落笔成殇-张紫宁](https://www.youtube.com/watch?v=Kfd49eOq8-4)**
 
 ---
 ### 0005. TV·music
-* **[华策影视官方频道 China Huace TV Official Channel | 201万 | Youtube](https://www.youtube.com/@huace/videos)**
+* **[华策影视官方频道 China Huace TV Official Channel | 201万 | 油管](https://www.youtube.com/@huace/videos)**
   - **[光的方向-张碧晨 | 长歌行](https://www.youtube.com/watch?v=cwdmC6mqO1w)**
   - **[【太平年】周深献唱主题曲《万里》MV | 白宇、周雨彤、朱亚文主演五代十国历史剧 | Swords into Plowshares - OST](https://www.youtube.com/watch?v=YQmhkgCbRno)**
 
 ---
-* **[Cannibal Turtle | 1.63万 | Youtube](https://www.youtube.com/@cannibal_turtle/videos)**
+* **[Cannibal Turtle | 1.63万 | 油管](https://www.youtube.com/@cannibal_turtle/videos)**
   - **[OST合集 | 长月烬明](https://www.youtube.com/watch?v=xcFpsXzV6jo)**
   - **[『精选中国电视剧OST 第二辑』2022-2025古装剧合集 | 《影視原声带》](https://www.youtube.com/watch?v=MNIsdz7syFA)**
 
 ---
-* **[Summer Cheong | 584位 | Youtube](https://www.youtube.com/@summercheong7996/videos)**
+* **[Summer Cheong | 584位 | 油管](https://www.youtube.com/@summercheong7996/videos)**
   - **[芳菲落尽梨花白 | 墨雨云间](https://www.youtube.com/watch?v=QiwvWNMhPb4)**
   - **[原声带专辑](https://www.youtube.com/watch?v=m7At3pnTb80&t=247s)**
   - **[当归](https://www.youtube.com/watch?v=Hnyb-PqAiNQ)**
@@ -304,7 +304,7 @@
 * **[窩窩 - 月亮照山川『月光它落屋檐，落在遠方的山川。』【高音質|動態歌詞Lyrics】](https://www.youtube.com/watch?v=a92AXDEwibg&list=RDa92AXDEwibg&start_radio=1)**
 
 ---
-* **[4K Music Make | Youtube](https://www.youtube.com/4KMusicMake)**
+* **[4K Music Make | 油管](https://www.youtube.com/4KMusicMake)**
   - [窩窩 - 月亮照山川『月光它落屋檐，落在遠方的山川。』【高音質|動態歌詞Lyrics】](https://www.youtube.com/watch?v=a92AXDEwibg&list=RDa92AXDEwibg&start_radio=1)
 
 ---
@@ -318,7 +318,7 @@
 
 ---
 ### 0007. Genshin Impact
-* **[Genshin Impact | Youtube](https://www.youtube.com/@GenshinImpact)**
+* **[Genshin Impact | 油管](https://www.youtube.com/@GenshinImpact)**
   - [《原神》沉玉沐芳 - Disc 1：春风几度醉翘英 ](https://www.youtube.com/watch?v=UM7F_WM1Vhk&list=PLqWr7dyJNgLJCVtbW0yz_CpwpwyVwPJNX&index=1)
   - [《原神》沉玉沐芳 - Disc 2：翠羽云深隐灵濛](https://www.youtube.com/watch?v=roHkAJvAt9s&list=PLqWr7dyJNgLJCVtbW0yz_CpwpwyVwPJNX&index=2)
 
@@ -412,9 +412,9 @@
   - [不要把秘密告诉风，风会把它传遍整个森林 | 感受大自然 | 瀑布](https://v.douyin.com/C2Kr1ix1I-0/)
 
 ---
-### 0011. Youtube
+### 0011. 油管
 **[NoCopyrightSounds]{s}**
-* **[NoCopyrightSounds | 3430万 | Youtube](https://www.youtube.com/@NoCopyrightSounds)**
+* **[NoCopyrightSounds | 3430万 | 油管](https://www.youtube.com/@NoCopyrightSounds)**
   - [En: NCS is on a mission to soundtrack the internet.]{s}
   - [Cn: NCS致力于为互联网配乐。]{g}
 
@@ -438,13 +438,13 @@
 
 ---
 **[菲道尔 Firdhaus]{s}**
-* **[菲道尔 Firdhaus | 马来西亚 | 21万 | Youtube](https://www.youtube.com/@fffirdhaus/videos)**
+* **[菲道尔 Firdhaus | 马来西亚 | 21万 | 油管](https://www.youtube.com/@fffirdhaus/videos)**
   - **[在加納共和國離婚](https://www.youtube.com/watch?v=eACpNen3ZcI)**
   - **[友谊长存](https://www.youtube.com/watch?v=xFKZTvNwS70)**
 
 ---
 **[Central Record]{s}**
-* **[Central Record | Music  | 12.3万 | Youtube](https://www.youtube.com/@CentralRecord/videos)**
+* **[Central Record | Music  | 12.3万 | 油管](https://www.youtube.com/@CentralRecord/videos)**
   - [En: Elevate your worship experience: instrumentals, lyrics video, and multitracks.]{s}
   - [Cn: 提升你的敬拜体验：器乐、歌词视频和多轨录音。]{g}
 
@@ -543,7 +543,7 @@
 
 ---
 **[穿越而過]{p}**
-* **[穿越而過 | 1.95万 | Youtube](https://www.youtube.com/@pass.through/videos)**
+* **[穿越而過 | 1.95万 | 油管](https://www.youtube.com/@pass.through/videos)**
   - [En: The primary artist of this channel is Guang (Light), creating in collaboration with his teacher.]{s}
   - [Cn: 该频道的主要艺术家是光（光），他 与老师合作创作。]{g}
 
@@ -567,7 +567,7 @@
 
 ---
 **[HOYO-MiX]{p}**
-* **[HOYO-MiX | 52.4万 | Youtube](https://www.youtube.com/@HOYOMiX/videos)**
+* **[HOYO-MiX | 52.4万 | 油管](https://www.youtube.com/@HOYOMiX/videos)**
   - [En: HOYO-MiX is a music studio by miHoYo.]{s}
   - [Cn: HOYO-MiX 是 miHoYo 的音乐工作室。]{g}
 
@@ -914,7 +914,7 @@
 
 ---
 **[Relaxing Ambience ASMR]{s}**
-* **[Relaxing Ambience ASMR | 45.8万 | Youtube](https://www.youtube.com/@RelaxingAmbienceASMR)**
+* **[Relaxing Ambience ASMR | 45.8万 | 油管](https://www.youtube.com/@RelaxingAmbienceASMR)**
   - [En: Relaxing Ambience is a team of creative videographers around the world.]{s}
   - [Cn: Relaxing Ambience 是一支遍布全球的创意摄像团队。]{g}
 
@@ -949,7 +949,7 @@
 
 ---
 **[睡觉的雨声]{s}**
-* **[睡觉的雨声 | 28.1万 | Youtube](https://www.youtube.com/@rainandthundersounds/videos)**
+* **[睡觉的雨声 | 28.1万 | 油管](https://www.youtube.com/@rainandthundersounds/videos)**
   * 该通道使用双耳降雨记录技术来准确模拟人耳被设计用来聆听世界的方式。嗨，我的名字是 Drew，我是一个团队的一员，该团队记录来自世界各地的降雨和雷暴。当我们找不到任何包含视频的降雨和氛围频道时，我们的旅程就开始了。我们决定着手满足这一需求。令我们惊讶的是，许多其他人都在寻找同样的东西，我们的团队从那时起就不断壮大。
   * 音频和视频编辑：
   * Adobe After Effects、Logic Pro、Final Cut Pro 和 iMovie。
@@ -973,35 +973,35 @@
   - [户外白噪音的设备和拍摄制作过程，助眠类大自然声音幕后拍摄花絮 | 白噪音 | 大自然声音 | 雨声 | 流水声 | 拍摄花絮](https://v.douyin.com/-Bzu5Zk3u9k/)
   - [下雨天拍摄花絮，日常拍摄VLOG，幕后雨声录制 拍摄录音：Canon R10 Gopor11 DJI mini3pro zoomH5 拍摄时间：2025.06.21 拍摄地点：贵州省黔东南州天柱县邦洞镇 视频编辑：DaVinci Resolve 大家好，本频道专门为大家收集各类自然声音，以帮助大家助眠，解压，学习和冥想等场所用，本频道所有的视频和声音，都是本人在贵州实地取景录制， 如果您喜欢这类视频，欢迎点赞订阅分享 | 下雨天 | 雨声助眠 | 日常vlog | 拍摄花絮 | 放松解压](https://v.douyin.com/Hngt5oxI0Cc/)
 
-* **[貴州唐生 Mr. Tang of Guizhou | China | Youtube](https://www.youtube.com/@Guizhou-countryside/videos)**
+* **[貴州唐生 Mr. Tang of Guizhou | China | 油管](https://www.youtube.com/@Guizhou-countryside/videos)**
   - [深山溪流声，潺潺流水声，治愈系水声，在炎炎夏日感受一丝清凉](https://www.youtube.com/watch?v=GsmmbM_B0GA)
 
 ---
 **[自然音樂]{s}**
-* **[自然音樂 | China | Youtube](https://www.youtube.com/@whitenoiseforsleeping/videos)**
+* **[自然音樂 | China | 油管](https://www.youtube.com/@whitenoiseforsleeping/videos)**
   - [rain sounds for sleeping](https://www.youtube.com/watch?v=-ERFwSSqg1Y)
 
 * **[自然音樂 | 实拍实录原创频道！创造一个平静的放松的环境氛围，放松你的大脑，让您助眠，治愈，舒缓，减压，工作，冥想或学习。| Bilibli](https://space.bilibili.com/431457159)**
 
 ---
 **[Healing Compass]{s}**
-* **[Healing Compass | Youtube](https://www.youtube.com/@HealingCompass)**
+* **[Healing Compass | 油管](https://www.youtube.com/@HealingCompass)**
   - [令人入睡的雨声是由大雨发出的。 帮助您放松、减轻压力。](https://www.youtube.com/watch?v=nzn3X9iEdTs)
 
 ---
 **[Soothing Relaxation]{s}**
-* **[Soothing Relaxation | Youtube](https://www.youtube.com/@SoothingRelaxation)**
+* **[Soothing Relaxation | 油管](https://www.youtube.com/@SoothingRelaxation)**
   - [令人放松的音乐和雨声 - 动听的钢琴乐、背景音乐、催眠音乐](https://www.youtube.com/watch?v=o8GrqUSdzi0)
   - [Top 5 Most Beautiful Tracks by Peder B. Helland in 2025](https://www.youtube.com/watch?v=tHsmufMcCqY)
 
 ---
 **[Rainy_Bedroom]{s}**
-* **[Rainy_Bedroom | 下雨的卧室 | Youtube](https://www.youtube.com/@Rainy_Bedroom)**
+* **[Rainy_Bedroom | 下雨的卧室 | 油管](https://www.youtube.com/@Rainy_Bedroom)**
   - [【4M】Best Rain in the Forest at Night 🌲 | Sleep Deeply with Heavy Rain Sounds](https://www.youtube.com/watch?v=4yjfQ90CFk0)
 
 ---
 **[Nature SFX]{s}**
-* **[Nature SFX | Youtube](https://www.youtube.com/@NatureSFX)**
+* **[Nature SFX | 油管](https://www.youtube.com/@NatureSFX)**
   - [En: Welcome to NatureSFX 🌿]{s}
   - [Cn: 欢迎来到NatureSFX 🌿]{g}
 
@@ -1047,7 +1047,7 @@
 
 ---
 **[Stardust Vibes - Relaxing Sounds]{s}**
-* **[Stardust Vibes - Relaxing Sounds | Youtube](https://www.youtube.com/@StardustVibes)**
+* **[Stardust Vibes - Relaxing Sounds | 油管](https://www.youtube.com/@StardustVibes)**
   - [En: Our channel helps provide relief from stress & anxiety.]{s}
   - [Cn: 我们的频道帮助缓解压力和焦虑。]{g}
 
@@ -1091,12 +1091,12 @@
 
 ---
 **[下雨的傢伙]{s}**
-* **[下雨的傢伙 | 27.5万 | Youtube](https://www.youtube.com/@RainyGuy)**
+* **[下雨的傢伙 | 27.5万 | 油管](https://www.youtube.com/@RainyGuy)**
   - [在舒适的冬季小屋中深度睡眠| 令人放松的壁炉噼啪声、暴风雪声、风声和降雪声](https://www.youtube.com/watch?v=Rm-4JUivLcE)
 
 ---
 **[Praise Oasis]{s}**
-* **[Praise Oasis | 1.06万 | Youtube](https://www.youtube.com/@praiseoasis)**
+* **[Praise Oasis | 1.06万 | 油管](https://www.youtube.com/@praiseoasis)**
   - [En: At Praise Oasis, we offer a calming space for anyone feeling anxious, facing challenges, or seeking music to connect with God through prayer.]{s}
   - [Cn: 在Praise Oasis，我们为任何感到焦虑、面临挑战或通过祈祷寻求音乐与上帝连接的人提供一个平静的空间。]{g}
 
@@ -1201,12 +1201,12 @@
 
 ---
 **[滾石唱片 ROCK RECORDS]{s}**
-* **[滾石唱片 ROCK RECORDS | Youtube](https://www.youtube.com/@RockRecordsTaipei/videos)**
+* **[滾石唱片 ROCK RECORDS | 油管](https://www.youtube.com/@RockRecordsTaipei/videos)**
   - [妮妮NINI【冬季戀歌 A Song Of Winter Love】歌詞版MV Lyrics Video](https://www.youtube.com/watch?v=rlqnudVK2CA)
 
 ---
 **[Home Music]{s}**
-* **[Home Music | Youtube](https://www.youtube.com/@ChineseOldiesChaCha)**
+* **[Home Music | 油管](https://www.youtube.com/@ChineseOldiesChaCha)**
   - [70、80、90年代 懷舊經典老歌【 经典老歌500首大全 】:单身情歌 , 最真的梦, 黄昏 , 选择 , 一千个伤心的理由 , 忘了你忘了我 , 容易受伤的女人](https://www.youtube.com/watch?v=SoMqEIvp2VU)
 
 ---
@@ -1272,7 +1272,7 @@
 ---
 ### 0023. English song
 **[Us The Duo]{s}**
-* **[Us The Duo | 中阶 | 小孩家庭  | music | Youtube](https://www.youtube.com/@ustheduo/featured)**
+* **[Us The Duo | 中阶 | 小孩家庭  | music | 油管](https://www.youtube.com/@ustheduo/featured)**
   - [En: Our brand new album "Covers from Home" is out now!]{s}
   - [Cn: 我们的全新专辑《Covers from Home》现已发行！]{g}
 
@@ -1293,7 +1293,7 @@
 
 ---
 **[The Crosbys]{s}**
-* **[The Crosbys | 初中阶段衔接 | 有一个很有意思的小孩口播列表 | music | Youtube](https://www.youtube.com/@TheCrosbys/videos)**
+* **[The Crosbys | 初中阶段衔接 | 有一个很有意思的小孩口播列表 | music | 油管](https://www.youtube.com/@TheCrosbys/videos)**
   - [Ocean Eyes - Billie Eilish (12-year-old Claire Crosby Live Cover)](https://www.youtube.com/watch?v=4cUuxGNY9D4)
 
 ---
@@ -1384,7 +1384,7 @@
 
 ---
 **[Lycoris Music Channel]{p}**
-* **[Lycoris Music Channel | 3900位 | Youtube](https://www.youtube.com/@LycorisMusicChannel/videos)**
+* **[Lycoris Music Channel | 3900位 | 油管](https://www.youtube.com/@LycorisMusicChannel/videos)**
   - [**寻常歌 - 不才**（电视剧《长月烬明》插曲）「桃花都吹落，春秋都吹落，最懂竟是梦中那一刻」【动态歌词Lyrics】](https://www.youtube.com/watch?v=7ctRCspF6Mg)
 
 ---
@@ -1436,7 +1436,7 @@
 
 ---
 **[Taylor Swift]{e}**
-* **[Taylor Swift | Youtube](https://www.youtube.com/@TaylorSwift/videos)**
+* **[Taylor Swift | 油管](https://www.youtube.com/@TaylorSwift/videos)**
   - [En: And, baby, that’s show business for you.]{s}
   - [Cn: 宝贝，这就是演艺圈的全部。]{g}
 
@@ -1455,7 +1455,7 @@
 
 ---
 **[Exclusive Sound]{s}**
-* **[Exclusive Sound | Youtube](https://www.youtube.com/@exclusive-sound)**
+* **[Exclusive Sound | 油管](https://www.youtube.com/@exclusive-sound)**
   - [En: Welcome to "Exclusive Music".]{s}
   - [Cn: 欢迎来到"独家音乐"。]{g}
 
@@ -1476,7 +1476,7 @@
 
 ---
 **[Deep Fade Music]{s}**
-* **[Deep Fade Music | 252位 | Youtube](https://www.youtube.com/@DeepFadeMusic-1)**
+* **[Deep Fade Music | 252位 | 油管](https://www.youtube.com/@DeepFadeMusic-1)**
   - [En: Welcome to Deep Fade Music — Music for calm minds and atmospheric nights.]{s}
   - [Cn: 欢迎来到Deep Fade Music—— 为平静心灵和氛围夜晚带来音乐。]{g}
 
@@ -1501,12 +1501,12 @@
 
 ---
 **[chika clarissa]{s}**
-* **[chika clarissa  | Youtube](https://www.youtube.com/@chikaclarissa)**
+* **[chika clarissa  | 油管](https://www.youtube.com/@chikaclarissa)**
   - [a thousand years-christina perri (cover) | 《千年》——克里斯蒂娜·佩里（封面）](https://www.youtube.com/watch?v=7mvVxZkZQH8)
 
 ---
 **[Jasmine Nadya]{s}**
-* **[Jasmine Nadya  | Youtube ](https://www.youtube.com/@JasmineNadya/videos)**
+* **[Jasmine Nadya  | 油管 ](https://www.youtube.com/@JasmineNadya/videos)**
   - [En: The Official YouTube Channel of Jasmine Nadya.]{s}
   - [Cn: Jasmine Nadya的官方YouTube频道。]{g}
 
@@ -1527,7 +1527,7 @@
 
 ---
 **[Echofy Max]{s}**
-* **[Echofy Max | Youtube](https://www.youtube.com/@EchofyMax)**
+* **[Echofy Max | 油管](https://www.youtube.com/@EchofyMax)**
   - [En: This is the official channel of Echofy Max .]{s}
   - [Cn: 这是Echofy Max的官方频道。]{g}
 
@@ -1556,7 +1556,7 @@
 
 ---
 **[愛的低語]{s}**
-* **[愛的低語 | Youtube](https://www.youtube.com/@%E6%84%9B%E7%9A%84%E4%BD%8E%E8%AA%9E)**
+* **[愛的低語 | 油管](https://www.youtube.com/@%E6%84%9B%E7%9A%84%E4%BD%8E%E8%AA%9E)**
   - [R&B抒情歌單｜英文經典對唱歌單｜2小時深夜放鬆音樂｜療癒英文歌｜R&B Classic Love Songs Playlist](https://www.youtube.com/watch?v=pT9McoRtyjc&list=RDpT9McoRtyjc&start_radio=1)
 
   ---
@@ -1584,11 +1584,11 @@
   - [inmyfeeling](https://v.douyin.com/7Qjt17ApFFo/)
 
 ---
-* **[Rosebush music | 1730位 | Youtube](https://www.youtube.com/@RosebushMusic-0223)**
+* **[Rosebush music | 1730位 | 油管](https://www.youtube.com/@RosebushMusic-0223)**
   - [周深 - 一生一瞬 (《七夜雪》電視劇雪落無憾主題曲)『聚散悲歡 人世萬般，回首望來去風雪匆然 也無憾。』【動態歌詞MV】](https://www.youtube.com/watch?v=4x66asVdR3Q&list=RD4x66asVdR3Q&start_radio=1)
 
 ---
-* **[SoulEase Space | 5900位 | Youtube](https://www.youtube.com/@SoulEase_Space)**
+* **[SoulEase Space | 5900位 | 油管](https://www.youtube.com/@SoulEase_Space)**
   - [En: Welcome to SoulEase Space—a serene place to unwind, soothe your soul, and find harmony. 🎹🌿]{s}
   - [Cn: 欢迎来到SoulEase空间——一个宁静的地方，让你放松身心，抚慰心灵，找到和谐。🎹🌿]{g}
 
@@ -1608,7 +1608,7 @@
   - **[音乐疗法🌿 修复神经系统，停止过度思考 | 舒缓压力的放松音乐](https://www.youtube.com/watch?v=ecrL5FHBmFA)**
 
 ---
-* **[Secret Garden - Official | 21.6万  | Youtube](https://www.youtube.com/@SecretGardenOfficial/videos)**
+* **[Secret Garden - Official | 21.6万  | 油管](https://www.youtube.com/@SecretGardenOfficial/videos)**
   - [Secret Garden - Chaconne (Remastered 2025/ Visualizer) | 秘密花园 - 恰空舞曲（2025年重制版/可视化版）](https://www.youtube.com/watch?v=TlzCdLR-Trw)
   - [Secret Garden - Nocturne (Remastered 2025/Visualizer) | 秘密花园 - 夜曲（2025年重制/可视化版）](https://www.youtube.com/watch?v=yxuM2Leigyw)
 
@@ -1672,8 +1672,8 @@
   - [世界第一个开万人演唱会](https://v.douyin.com/L8QKw6gm4EE/)
 
 ---
-### 0030. Chari xcx | Youtube
-* **[Charli xcx | 405万 | Youtube](https://www.youtube.com/@officialcharlixcx/videos)**
+### 0030. Chari xcx | 油管
+* **[Charli xcx | 405万 | 油管](https://www.youtube.com/@officialcharlixcx/videos)**
   - [En: The official YouTube Channel of Charli xcx]{s}
   - [Cn: 查理xcx 的官方YouTube频道]{g}
 
@@ -1716,6 +1716,24 @@
     - [2026年寒假全网爆火的歌曲 | Min: 38:38 | 003](https://v.douyin.com/aVneflTzZps/)
     - [那些治愈心灵的顶级纯音乐 | Min: 28:36 | 004](https://v.douyin.com/6C5v52O42L4/)
     - [乌鸦在头顶盘旋 跟随谁的糜烂过往 | Min: 35:37 | 060](https://v.douyin.com/Oaehq_sdCU8/)
+
+---
+### 0033. Eleven弦音
+**[Eleven弦音]{s}**
+* **[Eleven弦音 | 音乐仅作学习交流，无商业性质 #混音和压缩请多多指教 | 佰章 | Douyin](https://v.douyin.com/z8Ws5MfR_YE/)**
+
+  ---
+  **[001. Yuki合集]{g}**
+    - [青城山下白素贞 | 001](https://v.douyin.com/WEruHCKCqhU/)
+    - [天龙八部之宿敌 | 005](https://v.douyin.com/vfn-4GvE3dM/)
+
+  ---
+  **[002. 古风合辑]{g}**
+    - [《精卫》【旧梦云起版】 | Min: 02:34 | 001](https://v.douyin.com/RV-8fIerrFg/)
+    - [《知我》【剑来】 | Min: 04:30 | 005](https://v.douyin.com/TKjuwG3mA7A/)
+    - [《盗将行》“枕边风雪多年” | Min: 04:21 | 020](https://v.douyin.com/XiG5Z_agO60/)
+    - [《落了白》| Min: 03:13 | 028](https://v.douyin.com/d7Hg2kUUbn8/)
+    - [《游京》| Min: 03:26 | 060](https://v.douyin.com/_VoKeL0vOo8/)
 
 ---
 ### 9999. MusicCourse
