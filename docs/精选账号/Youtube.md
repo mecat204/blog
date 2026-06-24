@@ -3723,13 +3723,56 @@
   * **[theaptstudios](https://www.theaptstudios.com/)**
 
 ---
+**[Amazon Prime Video France | 亚马逊Prime Video频道 France]{s}**
+* **[Amazon Prime Video France](https://www.youtube.com/@PrimeVideoFR/videos)**
+
+---
+**[SparkTV]{s}**
+* **[SparkTV | 257万 | 油管](https://www.youtube.com/@SparkTVMovies/videos)**
+
+  - [En: SparkTV is a wholesome, family friendly, entertainment provider.]{s}
+  - [Cn: SparkTV 是一家健康、适合家庭的娱乐平台。]{g}
+
+  ---
+  - [En: Fine entertainment, family values!]{s}
+  - [Cn: 精彩的娱乐，家庭价值观！]{g}
+
+  ---
+  - [En: We pride ourselves in offering only the best family movies and entertainment.]{s}
+  - [Cn: 我们以只提供最优质的家庭电影和娱乐节目为傲。]{g}
+
+  ---
+  - [En: SparkTV distributes select quality films.]{s}
+  - [Cn: SparkTV发行精选优质影片。]{g}
+
+  ---
+  - [En: Because of our high standards in products, we have many loyal customers and retail outlets that trust and appreciate our judgment and suggestions.]{s}
+  - [Cn: 由于我们产品标准高，我们拥有许多忠实客户和零售商，他们信任并欣赏我们的判断和建议。]{g}
+
+  ---
+  - [En: We treat the films we distribute as if they were our own in-house productions.]{s}
+  - [Cn: 我们把发行的电影当作自家制作的作品来对待。]{g}
+
+  ---
+  - [En: With our national and international partnerships, we can take a movie to retail stores, rental locations, broadcasters, and more.]{s}
+  - [Cn: 通过我们的国内外合作伙伴关系，我们可以将电影带到零售店、租赁场所、广播机构等。]{g}
+
+  ---
+  - [Hot Chocolate Holiday | A Sweet Christmas Rivalry Turns into Love](https://www.youtube.com/watch?v=Fl9Kf4G4Uhs)
+
+---
 * **[Kathleen Morrill Pirovich]{g}**
+
+---
+**[Veronika Mark]{e}**
+* **[Veronika Mark | 14万 | 油管](https://www.youtube.com/@veronika_mark/videos)**
 
 ---
 ### 0026. Ads of the World
 **[Ads of the World]{s}**
 * **[Professional Campaigns • Ads of the World™ | Part of The Clio Network](https://www.adsoftheworld.com/professional)**
 
+---
 **[Base44]{s}**
 * **[Base44 | 7720位 | 油管](https://www.youtube.com/@Base44App)**
   - [Introducing Base44’s Big Game Ad “It’s App to You”](https://www.youtube.com/watch?v=iKEUWtqvsis)
