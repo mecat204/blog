@@ -1,41 +1,41 @@
 ### 0001. 收藏网址
-**[mecat]{p}**
+**[mecat]{s}**
 * **[mecat](https://mecat204.github.io/website)**
 
 ---
-**[书栈网]{p}**
+**[书栈网]{s}**
 * **[书栈网 · BookStack_程序员IT互联网开源编程书籍免费阅读，助您【码】力十足！](https://www.bookstack.cn/)**
 
 ---
-**[问小白]{p}**
+**[问小白]{s}**
 * **[问小白 | 探索世界的AI搭子](https://www.wenxiaobai.com/)**
 
 ---
-**[Linux命令大全(手册)]{p}**
+**[Linux命令大全(手册)]{s}**
 * **[Linux命令大全(手册) | 真正好用的Linux命令在线查询网站](https://www.linuxcool.com/)**
 
 ---
-**[Linux就该这么学]{p}**
+**[Linux就该这么学]{s}**
 * **[Linux就该这么学](https://www.linuxprobe.com/)**
   - [Linux命令大全](https://www.linuxcool.com/)
   - [LinuxProbe.com](https://www.linuxprobe.com/tools/)
 
 ---
-**[爱纯净]{p}**
+**[爱纯净]{s}**
 * **[爱纯净](https://aichunjing.com)**
 * [阿酷杂货铺](https://coolexe.com)
 * [MacWk - 精品mac软件下载](https://macwk.cn/)
 * [国产操作系统、麒麟操作系统——麒麟软件官方网站](https://www.kylinos.cn/)
 
 ---
-**[果壳剥壳]{p}**
+**[果壳剥壳]{s}**
 * **[果壳剥壳 | 互联网的净土](https://www.ghxi.com)**
 
 ---
 * **[夏普官网 | 扫描至共享文件夹](http://www.sharp.cn/node/1306)**
 
 ---
-**[CMDPE]{p}**
+**[CMDPE]{s}**
 * **[CMDPE | cmdpe网络版-可以上网、远程、下载的网络版PE系统。](https://cmdpe.com/)**
 
 ---
@@ -56,93 +56,93 @@
 * [简书](https://www.jianshu.com)
 
 ---
-**[Ventoy]{p}**
+**[Ventoy]{s}**
 * **[Ventoy | 新一代多系统启动U盘解决方案](https://www.ventoy.net/cn/download.html)**
 
 ---
-**[系统极客]{p}**
+**[系统极客]{s}**
 * **[系统极客 | 掌握软件技能](https://www.sysgeek.cn/)**
 
 ---
-**[系统总裁]{p}**
+**[系统总裁]{s}**
 * **[系统总裁 | 驱动总裁官网_驱动在线安装_离线驱动_系统封装_封装系统_Windows系统封装工具_封装软件推广联盟-系统总裁](https://www.sysceo.com/)**
   - [系统总裁·U盘魔术师](http://www.usbrun.com/)
 
 ---
-**[IT天空]{p}**
+**[IT天空]{s}**
 * **[IT天空 | IT天空 - 新的十年, 新的天空](https://www.itsk.com/)**
 
 ---
-**[驱动人生]{p}**
+**[驱动人生]{s}**
 * **[驱动人生 | 驱动人生官网-显卡驱动_打印机驱动_网卡驱动_声卡驱动等驱动程序下载及检测平台](https://www.160.com/)**
 
 ---
-**[向日葵]{p}**
+**[向日葵]{s}**
 * **[向日葵 | 向日葵远程控制软件_远程控制电脑手机_远程桌面连接_远程办公|游戏|运维-贝锐向日葵官网](https://sunlogin.oray.com/)**
 
 ---
-**[DiskGenius]{p}**
+**[DiskGenius]{s}**
 * **[DiskGenius | 数据恢复软件，硬盘分区工具，系统备份软件 - DiskGenius官方网站](https://www.diskgenius.cn/)**
 
 ---
-**[Other]{p}**
+**[Other]{s}**
 * [佳佳数据恢复](http://www.jjhuifu.com/)
 * [亦是美网络 - 致力于操作系统应用与计算机网络技术的IT网站](http://www.yishimei.cn/)
 * [论坛- 远景论坛 - 前沿科技与智慧生态的极客社区](https://bbs.pcbeta.com/)
 * [U启大师](https://www.uqidashi.com/)
 
 ---
-**[傲梅分区助手]{p}**
+**[傲梅分区助手]{s}**
 * **[傲梅分区助手](https://www.disktool.cn/)**
 
 ---
-**[麒麟生态网站]{p}**
+**[麒麟生态网站]{s}**
 * **[麒麟生态网站](https://eco.kylinos.cn)**
 
 ---
-**[蓝点网]{p}**
+**[蓝点网]{s}**
 * **[蓝点网 | 给你感兴趣的内容](https://www.landiannews.com/)**
 
 ---
-**[海棠网]{p}**
+**[海棠网]{s}**
 * **[海棠网  | 海棠网 - 海棠应用网专注黑科技软件,绿色无毒互联网资源分享](https://www.haitangw.cc/)**
   - [海棠网| 导航 | 其它综合 | 壁纸](https://www.haitangw.cc/daohang)
 
 ---
-**[CPU Rank List]{p}**
+**[CPU Rank List]{s}**
 * **[CPU Rank List | CPU天梯图](https://cpuranklist.com/)**
 
 ---
 ### 0002. WebsiteComputer
-**[CMDPE]{p}**
+**[CMDPE]{s}**
 * **[CMDPE | ChatGPT中文调教指南](https://www.cmdpe.com/post/542.html)**
 
 ---
-**[羽兔-software]{p}**
+**[羽兔-software]{s}**
 * **[羽兔-software | 常见软件免费下载-羽兔网](https://www.yutu.cn/popsoft.html)**
 
 ---
-**[傲梅科技]{p}**
+**[傲梅科技]{s}**
 * **[傲梅科技 | 傲梅分区助手、轻松备份、数据恢复(恢复之星)、远程控制（AnyViewer）等软件免费下载官网](https://www.disktool.cn/)**
 
 ---
-**[下载易数一键还原]{p}**
+**[下载易数一键还原]{s}**
 * **[下载易数一键还原](https://www.onekeyrestore.cn/download.php)**
 
 ---
-**[写作猫]{p}**
+**[写作猫]{s}**
 * **[写作猫 | 秘塔写作猫](https://xiezuocat.com)**
 
 ---
-**[笨鸟工具]{p}**
+**[笨鸟工具]{s}**
 * **[笨鸟工具 | 璞玉天成, 大器晚成](http://x1y1z1.com/)**
 
 ---
-**[PE8]{p}**
+**[PE8]{s}**
 * **[PE8 | 安装系统_系统安装_一键重装系统_重装系统软件_PE吧装机助理-pe8网文分享](https://www.pe8.com/)**
 
 ---
-**[Other]{p}**
+**[Other]{s}**
 * [MSDN_PE8](https://msdn.pe8.com/)
 * [ExcelHome](https://www.excelhome.net/419.html)
 * [For的参数/L](http://www.360doc.com/content/10/0706/05/1438974_37156506.shtml)
@@ -152,7 +152,7 @@
 
 ---
 ### 0003. WorkSource
-**[WorkSource]{p}**
+**[WorkSource]{s}**
 * **[Ubuntu Releases](https://releases.ubuntu.com/)**
 
 * **[统信UOS生态社区](https://www.chinauos.com/)**
@@ -168,7 +168,7 @@
 
 ---
 ### 0004. 常用查询命令
-**[常用查询命令]{p}**
+**[常用查询命令]{s}**
 * nslookup          查询网络IP
 * ipconfig/all      查询本地IP
 * services.msc      打开服务
@@ -190,7 +190,7 @@
 
 ---
 ### 0005. 命令
-**[跳过联网]{p}**
+**[跳过联网]{s}**
 * **跳过联网**
   - shift + F10,输入 oobe\bypassnro.cmd
   - shift + F10,输入 start ms-cxh:localonly
@@ -253,39 +253,39 @@ OOBE\BYPASSNRO
 
 ---
 ### 0006. CN.AI
-**[椒图AI]{p}**
+**[椒图AI]{s}**
 * **[椒图AI - 中文AI修图神器，一句话搞定复杂修图、电商设计、宣传海报、虚拟试衣、抠图扩图、照片修复！](https://www.jiaotuai.cn/?ref=htw)**
 
 ---
 ### 0007. Software Download
-**[TZ素材网]{p}**
+**[TZ素材网]{s}**
 * **[TZ素材网 | 全套设计软件免费下载-带安装方法-[TZ素材网]](https://www.tzsucai.com/soft.html)**
 
 ---
-**[trae.cn | 字节IDE]{p}**
+**[trae.cn | 字节IDE]{s}**
 * **[trae.cn | 字节IDE | TRAE - The Real AI Engineer | TRAE - The Real AI Engineer](https://www.trae.cn/)**
 
 ---
-**[羽兔网]{p}**
+**[羽兔网]{s}**
 * **[羽兔网 | 年轻人都在用的自学设计平台](https://www.yutu.cn/)**
 
 ---
-**[3D溜溜网(3d66.com)]{p}**
+**[3D溜溜网(3d66.com)]{s}**
 * **[3D溜溜网(3d66.com) |-全网设计素材首选平台](https://www.3d66.com/)**
 
 ---
-**[一糖导航]{p}**
+**[一糖导航]{s}**
 * **[一糖导航丨实用的上网导航资源网址导航](https://iitang.com/)**
 
 ---
 ### 0008. 制作ISO
-**[制作ISO]{p}**
+**[制作ISO]{s}**
 * 利用UltraISO,制作ISO文件
 * 利用Ventory制作U盘,把USM的ISO,wePE的ISO,Ubuntu,linux,麒麟等各种ISO镜像文件放入其中,形成一个多集合的启动项文件集成系统。
 
 ---
 ### 0009. Acer保护卡安装步骤:
-**[Acer保护卡安装步骤]{p}**
+**[Acer保护卡安装步骤]{s}**
 01. Windows防火墙和Window更新关闭, 账户控制调到最低。
 02. 安装Acer保护卡 V2.7.2 版本。
 03. 选择双盘, 选择双盘, 选择双盘

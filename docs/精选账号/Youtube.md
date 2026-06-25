@@ -2195,7 +2195,7 @@
 
 ---
 **[The Squeeze]{p}**
-* **[The Squeeze  | 24.9万| 油管](https://www.youtube.com/@thesqueeze/videos)**
+* **[The Squeeze  | 24.9万 | 油管](https://www.youtube.com/@thesqueeze/videos)**
   - [En: When life gives you lemons, what do you do with them?]{s}
   - [Cn: 当生活给你柠檬时，你会怎么处理它们？]{g}
 
