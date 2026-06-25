@@ -8,6 +8,7 @@
   - [Youtube](精选账号/Youtube)
   - [Bilibili](精选账号/Bilibili)
   - [全域](精选账号/全域)
+  - [GPT](精选账号/GPT)
   - [Future](精选账号/Future.md)
 
 ---
