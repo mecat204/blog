@@ -393,16 +393,24 @@
   - [Learn English at the Farm](https://www.youtube.com/watch?v=VdbOX2Ee3lg)
 
 ---
+**[Mark学英语 · Ariannita la Gringa]{e}**
+* **[Mark学英语 | 为了给俩娃启蒙英语，37岁重学英语 | 百章 | Douyin](https://v.douyin.com/Fw8_g1qpMFk/)**
+  - [高频英语缩略词，像母语者一样聊天 Most Common Acronyms In English](https://v.douyin.com/OylLt8yPs-w/)
+  - [【英语易混词】Do vs Make：核心区别一次讲清 | 英语 | 英语口语 | 英语启蒙 | 英语学习 | 英语听力](https://v.douyin.com/THCKuOPQ_NQ/)
+
+  ---
+  **[001. 情景英语]{g}**
+    - [在美国哪些场合需要给小费？| Min: 14:37 | 001](https://v.douyin.com/FjfEfoL13Fw/)
+    - [在瑞典购物 🇸🇪 慢速英式英语 欢迎来到我们的慢速英式英语系列 | Min: 15:03 | 105](https://v.douyin.com/CNc9aFtTOtY/)
+    - [在瑞典购物 🇸🇪 慢速英式英语 欢迎来到我们的慢速英式英语系列！本期视频带您走进瑞典的商店与市场，学习实用的购物词汇和地道表达。从询问价格到挑选纪念品，每一步都配上清晰、缓慢的英式发音，适合英语初学者和中级学习者。您不仅可以了解瑞典独特的购物文化，还能在真实场景中提升听力与口语能力。放慢节奏，轻松跟读，让英语学习变得更自然、更有趣。]{g}
+
+---
 **[Lana Blakely]{e}**
 * **[Lana Blakely | 165万 | 油管](https://www.youtube.com/@LanaBlakely/videos)**
   - [En: books, solo trips, vintage finds and thinking aloud]{s}
   - [Cn: 书籍、独自旅行、复古发现和随声思考]{g}
 
----
-**[Mark学英语]{p}**
-* **[Mark学英语 | 为了给俩娃启蒙英语，37岁重学英语 | 百章 | Douyin](https://v.douyin.com/Fw8_g1qpMFk/)**
-  - [高频英语缩略词，像母语者一样聊天 Most Common Acronyms In English](https://v.douyin.com/OylLt8yPs-w/)
-  - [【英语易混词】Do vs Make：核心区别一次讲清 | 英语 | 英语口语 | 英语启蒙 | 英语学习 | 英语听力](https://v.douyin.com/THCKuOPQ_NQ/)
+
 
 ---
 **[Learn English with Jessica]{p}**

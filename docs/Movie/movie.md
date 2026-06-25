@@ -28,6 +28,7 @@
     - [OK01](https://ok213.top/tv)
     - [OK02](https://ok213.top/oks)
     - [讴歌](http://tv.nxog.top/m/)
+    - [xhztv](http://xhztv.top/xhz)
 
 ---
 ### 0001. IPTV
