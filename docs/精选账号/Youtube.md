@@ -3189,6 +3189,12 @@
 * **[Website Builder – Easily Create Your Own Website — Squarespace](https://www.squarespace.com/)**
 
 ---
+**[Kristin 英语老师 | 星海·人间道]{e}**
+* **[Kristin 英语老师 | 14.6万 | 油管](https://www.youtube.com/@Kristin-Laoshi/videos)**
+  - [Ordering food in English compilation | 001](https://www.youtube.com/watch?v=td4-y5cLyT0)
+  - [Funny restaurant English compilation](https://www.youtube.com/watch?v=1JFayrFb4Dk)
+
+---
 ### 0025. Bloger Gather | TEco Lab
 **[Bloger Gather]{s}**
 

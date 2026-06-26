@@ -530,19 +530,19 @@
   - [张雅倩 失眠熊 暖似阳 哪个是傻子 共赴拈花湾十周年庆典](https://v.douyin.com/-nEfIxPpphc/)
 
 ---
-**[星班长和洛同学]{p}**
+**[星班长和洛同学]{e}**
 * **[星班长和洛同学 | 千章 | Douyin](https://v.douyin.com/WRtft6eVLnA/)**
   - [说着说着又打起来了！那这个貂不得可长女先穿嘛！哈哈哈一听这话！妹妹就生气！双胞胎 | 长幼有序 | 抽象](https://v.douyin.com/a619Pb9tH_8/)
   - [今天下雪啦！本来和和美美的 但是双胞胎真是说不好因为什么打起来！双胞胎| 打架 | 下雪啦](https://v.douyin.com/sebpU_dvIRw/)
 
 ---
-**[嘉鹅]{p}**
+**[嘉鹅]{e}**
 * **[嘉鹅 | 这里是你的情感榨菜 | 五百章 | Douyin](https://v.douyin.com/KVYyrvI0fUQ/)**
   - [你们喝完爱说啥故事 说给我听听😂 | 酒后故事 | 鹅嘉 | 嘉鹅的朋友圈](https://v.douyin.com/5-3iv4rCASY/)
   - [不要拿自己的幕后生活去和别人的精彩片段比较 | **张雪峰离开的思考**](https://v.douyin.com/hQt3P9IWh4k/)
 
 ---
-**[钵钵江]{p}**
+**[钵钵江]{e}**
 * **[钵钵江 | 承蒙厚爱，感谢关注˵¯̴͒ꇴ¯̴͒˵ 每天笑一笑，烦恼少又少 | 千章 | Douyin](https://v.douyin.com/yIn7I4bwUMc/)**
   - [填补了我国无法在短时间内把正常人变成脑血栓的空白～哈哈哈哈哈](https://v.douyin.com/ZNe9vKuO1_U/)
   - [让你压声，没让你叛国～哈哈哈哈哈](https://v.douyin.com/Dj9j0xWWTLw/)
@@ -566,11 +566,11 @@
 
 
 ---
-**[乃炎英语]{p}**
+**[乃炎英语]{e}**
 * **[乃炎英语 | 奈炎工作室 | 英语学习顾问, 专注成人零基础英语起步到提升 | 七年教龄 | 英语专八, 资深英语培训师 | 高级英语教师资格证 CATTI三级 | 一起快乐学英语 | Douyin | 五百章 | Douyin](https://v.douyin.com/pPqC74m3eTU/)**
 
 ---
-**[古宇家办]{p}**
+**[古宇家办]{e}**
 * **[古宇家办 | 国内首家一站式财富管理和家族综合服务家族办公室 | 五百章 | Douyin ](https://v.douyin.com/Bq2kUH60nkY/)**
   - [AI救不了人形机器人泡沫？产能又过剩了？](https://v.douyin.com/41oJYK4IKq4/)
   - [突袭委内瑞拉！特朗普的公私账与全球影响](https://v.douyin.com/IXBmyx5Osbk/)
@@ -590,7 +590,7 @@
   - [意想不到的结局哈哈哈](https://v.douyin.com/n1Sk1Wp461I/)
 
 ---
-**[凡凡很可爱]{p}**
+**[凡凡很可爱]{e}**
 * **[凡凡很可爱 | 烤红薯 送外卖 励志女生 | 二百章 | Douyin](https://v.douyin.com/Iv4fw5nWe4o/)**
   - [卖烤红薯，不是为了体验生活。而是为了改变生活，靠自己的双手挣钱，流自己的汗，吃自己的饭，干什么都不丢人。| 摆摊 | 记录真实生活 | 强烈推荐 | 情感共鸣 | 摆摊创业](https://v.douyin.com/hrlBDwr96ik/)
 
@@ -844,9 +844,13 @@
     - [撸起袖子加油学英语 | 024](https://v.douyin.com/SapeBOC01LY/)
     - [这几句英文秀在我的心巴上了 | 028](https://v.douyin.com/YoI8xQkvBmo/)
 
----
+
 * **[DouYinLiveShow | 3.11万订阅者 | 5.1万粉丝 | 油管](https://www.youtube.com/@DouYinLiveShow/videos)**
   - [柳颜🔥打两份工攒嫁妆](https://www.youtube.com/watch?v=fUOxEAm69mQ)
+
+---
+**[Yakumi | 每晚9:30全英直播 | 佰章 | Douyin](https://v.douyin.com/RSd8tv6rl-k/)**
+  - [全英直播 | 学英语](https://v.douyin.com/AaRj3neSqdY/)
 
 ---
 ### 9999. Download

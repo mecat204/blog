@@ -1076,6 +1076,19 @@
     - [若能远离人间，我愿住进这座天宫 | 040](https://v.douyin.com/IUvCgEusa1c/)
 
 ---
+### 0047. 英语口语 | AIGC
+**[英语口语]{s}**
+* **[英语口语 | ❤️关注我 每天分享日常英语口语 | 佰章 | Douyin](https://v.douyin.com/Wikvor4dZmU/)**
+
+  ---
+  **[实用英语1000例]{g}**
+    - [我受不了了，我现在立刻就要下去 | 001](https://v.douyin.com/7fopVIXJX0M/)
+    - [没有一粒米能逃过我的嘴 | 010](https://v.douyin.com/szcR05HWmaQ/)
+    - [你给我小心点整，否则我跟你没完 | 020](https://v.douyin.com/RmZuN7kUctI/)
+    - [我不上班了！我要出去玩 | 030](https://v.douyin.com/nrBSxapvNCI/)
+    - [我的妈耶，也是遇到好人了 | 043](https://v.douyin.com/NCSNxJiGw0w/)
+
+---
 ### 9999. Download
 **[必应]{p}**
 * **[必应 | bing.com](https://cn.bing.com/)**
