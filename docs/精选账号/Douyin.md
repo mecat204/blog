@@ -608,7 +608,7 @@
   - [生活哲学 | 攀比](https://v.douyin.com/JAOEgn7jiIs/)
 
 ---
-**[三三SHOWROOM]{p}**
+**[三三SHOWROOM]{e}**
 * **[三三SHOWROOM | 嘿～我是三三 华东一带相当有文凭的一个人 | 千章 | Douyin](https://v.douyin.com/usHvcMTzhAo/)**
   - [人参果树被推倒了，为什么只有观音菩萨能救活](https://v.douyin.com/zIj5JSvmYQM/)
   - [于北辰看到我们055大驱排到18艘了，会怎么说](https://v.douyin.com/D2e6sMxMfN8/)
@@ -626,18 +626,18 @@
   - [假如历史人物看到了自己的野史 | 一人分饰多角](https://v.douyin.com/BzhtU7786sw/)
 
 ---
-**[抱节君]{p}**
+**[抱节君]{e}**
 * **[抱节君 | 深夜写字人🥷 文字诉意 书法传情 一笔一画皆是心之所向](https://v.douyin.com/GL2fMReMdt4/)**
   - [念头通达](https://v.douyin.com/TnIeF1pNBGQ/)
   - [你愿意停留这一分十五秒吗](https://v.douyin.com/RkZEeQ_Fs_w/)
   - [练字，是与孤独共处的修行 | 妙严寺碑](https://v.douyin.com/z3yFui8Wpn4/)
 
 ---
-**[周泰哥(外语邪修派掌门人)]{p}**
+**[周泰哥(外语邪修派掌门人)]{e}**
 * **[周泰哥(外语邪修派掌门人) | 伍佰章 | Douyin](https://v.douyin.com/FHIhINGaySc/)**
 
 ---
-**[比奇小羊堡]{s}**
+**[比奇小羊堡]{e}**
 * **[比奇小羊堡 | 我回来啦～中午11点和晚上8点半 | 伍佰章 | Douyin](https://v.douyin.com/56mqVVJwMz4/)**
   - [咚哒哒咚 前奏一响 狗都遗憾 | 安和桥](https://v.douyin.com/_WGclxG6G8k/)
 
@@ -823,6 +823,12 @@
 **[林筱🎤魔音三斤]{e}**
 * **[林筱🎤魔音三斤 | 抬杠学能耐（无团队） 实话不好听，但我说了解恨，大伙开心就好 | 贰仟章 | Douyin](https://v.douyin.com/oPHZMyBl5xQ/)**
 
+
+---
+**[徐大鹰]{e}**
+* **[徐大鹰 | 不着急 不害怕 不要脸 喜欢说真话，喜欢唠嗑 | 贰仟章 | Douyin](https://v.douyin.com/FcpKa6zGgPs/)**
+* **[过好自己的小日子](https://v.douyin.com/Dd55B38L5zY/)**
+
 ---
 ### 0009. 直播
 **[予希]{e}**
@@ -838,6 +844,7 @@
     - [撸起袖子加油学英语 | 024](https://v.douyin.com/SapeBOC01LY/)
     - [这几句英文秀在我的心巴上了 | 028](https://v.douyin.com/YoI8xQkvBmo/)
 
+---
 * **[DouYinLiveShow | 3.11万订阅者 | 5.1万粉丝 | 油管](https://www.youtube.com/@DouYinLiveShow/videos)**
   - [柳颜🔥打两份工攒嫁妆](https://www.youtube.com/watch?v=fUOxEAm69mQ)
 

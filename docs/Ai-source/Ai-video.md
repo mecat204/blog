@@ -973,7 +973,7 @@
   - [半池青绿，一抹孤鸿，身在喧嚣，心如闲云野鹤。](https://v.douyin.com/6SLHoyd6uCg/)
 
 ---
-### 0042. 茗𝓓𝓮𝓫𝓾𝓼𝓼𝔂
+### 0042. 茗𝓓𝓮𝓫𝓾𝓼𝓼𝔂 | 梦境
 **[茗𝓓𝓮𝓫𝓾𝓼𝓼𝔂]{p}**
 * **[茗𝓓𝓮𝓫𝓾𝓼𝓼𝔂 | 恭喜你发现了宝藏👿 这里是梦的小作坊🤯 风格不定均为原创 | 伍佰章 | Douyin](https://v.douyin.com/fR0O6Wn_WqI/)**
 
@@ -992,6 +992,18 @@
     - [鲸 | 001](https://v.douyin.com/x6siKpxZAgE/)
     - [千禧年の梦 | 你可以回去，但是那里已经没有人了](https://v.douyin.com/cdh_TcegVEM/)
     - [奇怪の城市 | 109](https://v.douyin.com/OXGRtVMRtes/)
+
+  ---
+  **[004. 深海篇]{g}**
+    - [他们想把我埋了，却不知道我是一颗种子 | 001](https://v.douyin.com/uJW0IFgcnj4/)
+    - [小众的爱好不用在意大众的眼光 | 020](https://v.douyin.com/QIB4wNCT3CY/)
+    - [怪异の海域 “待在光里......” | 030](https://v.douyin.com/JQWrpCD2fFU/)
+    - [你曾梦到过这里吗 | 040](https://v.douyin.com/ZSGtEv6e5QA/)
+
+  ---
+  **[005. 水房篇]{g}**
+    - [有些人，走着走着就散了，连回忆都淡了；有些梦，做着做着就醒了，连枕头都湿了 | 001](https://v.douyin.com/Hft6vIlZc8A/)
+    - [沉溺于片刻也期待过永恒 | 096](https://v.douyin.com/NY3W1jVMJjo/)
 
 ---
 ### 0043. 忆昨日
