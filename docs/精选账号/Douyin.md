@@ -395,10 +395,29 @@
 * **[夏冰雹频道 | 英语教育博主 专注英文教学五年 听力口语阅读理解好评如潮 | 书籍: 绽放作者 | 激发年轻人挖掘热爱与潜能, 活出想要的人生 | 千章 | Douyin](https://v.douyin.com/suT9hTmBYss/)**
 
 ---
-**[路人甲国漫日记]{p}**
+**[路人甲国漫日记·道友]{e}**
 * **[路人甲国漫日记 | 千章 | Douyin](https://v.douyin.com/sFPj7sMCTiY/)**
   - [剑来](https://v.douyin.com/ra5xsTDVdaQ/)
   - [凡人修仙传~道友~晚辈😄 | 凡人修仙传| 王婵| 韩立| 动漫国漫| 唐朝诡事录3](https://v.douyin.com/HvuwN05oJCQ/)
+
+---
+**[雨亭动漫情报·道友]{e}**
+* **[雨亭动漫情报 | 动漫观后感叭叭瞎扯人员 业余动漫过期情报 国服第二梗王 | 千章 | Douyin](https://v.douyin.com/4juqlDMB8jg/)**
+
+  ---
+  **[001. 凡人修仙]{g}**
+    - [韩立让柱 | 001](https://v.douyin.com/FkhYnl6UwoI/)
+    - [心魔劫 | 100](https://v.douyin.com/8I3s5irIbtA/)
+    - [凡人修仙传180集 | 180](https://v.douyin.com/081UC1zoFb0/)
+
+---
+**[潇子萱]{e}**
+* **[潇子萱 | 喜欢聊天交流的可加入我的粉丝群 只爱《凡人修仙传》| 贰佰章 | Douyin](https://v.douyin.com/CQG7uELW2ug/)**
+
+  ---
+  **[001. 凡人2026年番剧浅谈]{g}**
+    - [韩立与南宫婉正式见面太有趣了 | 001](https://v.douyin.com/laIOnrSEeyA/)
+    - [凡人181集预告燃炸了 | 008](https://v.douyin.com/-DZWUKUG2cM/)
 
 ---
 **[小Lin说]{p}**
@@ -534,6 +553,13 @@
 * **[星班长和洛同学 | 千章 | Douyin](https://v.douyin.com/WRtft6eVLnA/)**
   - [说着说着又打起来了！那这个貂不得可长女先穿嘛！哈哈哈一听这话！妹妹就生气！双胞胎 | 长幼有序 | 抽象](https://v.douyin.com/a619Pb9tH_8/)
   - [今天下雪啦！本来和和美美的 但是双胞胎真是说不好因为什么打起来！双胞胎| 打架 | 下雪啦](https://v.douyin.com/sebpU_dvIRw/)
+
+---
+**[三胞胎四姐妹]{e}**
+* **[三胞胎四姐妹 | 千章 | Douyin](https://v.douyin.com/bwT8qmKx__U/)**
+  - [你说这可咋养😭 | 记录真实生活](https://v.douyin.com/fy8Stju-mis/)
+  - [养不起根本养不起😭 | 记录真实生活](https://v.douyin.com/t4Mrh3eyKdE/)
+  - [如果你们有四个女儿是会高兴还是难过呢](https://v.douyin.com/63kRUS9A3RU/)
 
 ---
 **[嘉鹅]{e}**

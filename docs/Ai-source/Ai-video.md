@@ -814,9 +814,10 @@
 
 ---
 ### 0033. 云里 | Genshin Impact
-**[云里 | AI]{p}**
+**[云里 | AIGC]{s}**
 * **[云里 | 不定时更新视频，谢谢关注！努力成为ai大王中 | 千章 | Douyin](https://v.douyin.com/NL9jPNFzWyM/)**
   - [尼可：今天艾莉丝怎么睡得这么死](https://v.douyin.com/hHa-9OHgQGQ/)
+  - [原神冰之女皇](https://v.douyin.com/d6N-XQ_74Jc/)
 
   ---
   **[001. 我要成为AI大王]{g}**
@@ -837,6 +838,12 @@
     - [我还是忘不掉那个说要去看至冬极光的女孩 | 001](https://v.douyin.com/e0I6pgDQ6Co/)
     - [第一次剪，还不太丝滑](https://v.douyin.com/whbZs9qOPX4/)
     - [你才是能锁住我的红绳 | 009](https://v.douyin.com/tv44DGDg9BY/)
+
+---
+### 0033a. 记往生堂帐上 | Genshin Impact
+**[记往生堂帐上]{s}**
+* **[记往生堂账上 | 客卿，你这账单没记错吗？ | 佰章 | Douyin](https://v.douyin.com/tKYHoCp0dQg/)**
+* **[钟离：都开挂是吧](https://v.douyin.com/z-EshgtkNfY/)**
 
 ---
 ### 0034. 大圆镜科普
