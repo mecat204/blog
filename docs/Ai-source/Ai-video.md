@@ -1096,6 +1096,16 @@
     - [我的妈耶，也是遇到好人了 | 043](https://v.douyin.com/NCSNxJiGw0w/)
 
 ---
+### 0048. 异界文旅
+**[异界文旅]{s}**
+* **[异界文旅 | AIGC原创影像创作者 用画面讲故事｜作品即简介 持续更新 | 伍佰章 | Douyin](https://v.douyin.com/v6TNKA1KIC8/)**
+
+  ---
+  **[001. 庇护所系列]{g}**
+    - [还好你在末日来临之前找到了自己心仪的庇护所 | 001](https://v.douyin.com/TGAy_MDL-Ho/)
+    - [还好这个地方足够安全，入口挺隐秘的。 | 036](https://v.douyin.com/ogddM55yqS4/)
+
+---
 ### 9999. Download
 **[必应]{p}**
 * **[必应 | bing.com](https://cn.bing.com/)**
