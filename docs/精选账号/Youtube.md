@@ -3796,6 +3796,20 @@
   - [Introducing Base44’s Big Game Ad “It’s App to You”](https://www.youtube.com/watch?v=iKEUWtqvsis)
 
 ---
+### 0027. Coding
+**[Sam Witteveen]{s}**
+* **[Sam Witteveen | 12.3万 | 油管](https://www.youtube.com/@samwitteveenai/videos)**
+  - [En: HI my name is Sam Witteveen, I have worked with Deep Learning for 11 years and with Transformers and LLM for 5+ years.  ]{s}
+  - [Cn: 你好，我叫Sam Witteveen，我从事深度学习已有11年，并且在Transformers和大型语言模型领域工作了5+年。]{g}
+
+  ---
+  - [En: I was appointed a Google Developer Expert for Machine Learning in 2017 and I currently work on LLMs and and since earlier in 2023 on Autonomous Agents.]{s}
+  - [Cn: 2017年我被任命为谷歌机器学习开发专家，目前从事大型语言模型（LLM）相关工作，2023年初开始从事自主代理（Autonomous Agents）相关工作。]{g}
+
+  ---
+  - **[Kokoro Local TTS + Custom Voices](https://www.youtube.com/watch?v=tl1wvZXlj0I)**
+
+---
 ### 9999. Download
 **[dlpanda]{p}**
 * **[dlpanda](https://www.dlpanda.com)**
