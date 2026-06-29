@@ -1,14 +1,51 @@
-### 0000. Google
-**[Google]{p}**
+### 0000. Navigate the website
+**[自学流利英文·频道通关介绍]{s}**
+* **[自学流利英文·频道通关介绍](https://sincere-numeric-f39.notion.site/20a86f84b68d800ea7e6e70ab345a75a?v=20a86f84b68d80dfa81d000c894c2c0f)**
+
+---
+**[Google]{s}**
 * **[Google |  1390万 | 油管](https://www.youtube.com/@Google)**
   - **[Operation Aurora | HACKING GOOGLE | Documentary EP000](https://www.youtube.com/watch?v=przDcQe6n5o)**
 
 ---
-**[EngLearner]{p}**
+**[EngLearner]{s}**
 * **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
 
 ---
-### 0001. Life Vlog
+### 0001. Digital Spaghetti
+**[Digital Spaghetti]{s}**
+* **[Digital Spaghetti | 油管](https://www.youtube.com/@digspaghetti/featured)**
+  - **[How Isabel Paige Crafts a Larger-than-Life Fairytale](https://www.youtube.com/watch?v=vlQ6QVF2wBk)**
+  - **[Natalie Lynn Makes Cinematic Videos that Feel Like Journal Entries](https://www.youtube.com/watch?v=T1Mf8j44kIk)**
+  - **[What It Means to be the Chief Creative Officer for Rhett & Link](https://www.youtube.com/watch?v=Go9c4I9cG_U)**
+  - **[Natalie Lynn Breaks Down Her Most Iconic Shots](https://www.youtube.com/watch?v=hx2Qkn-vPVU)**
+  - **[How to edit like Natalie Lynn](https://www.youtube.com/watch?v=HAWUnGAUalc)**
+  - **[These 3 Rules Reinvented the Vlog | Ft. LifeOfRiza](https://www.youtube.com/watch?v=zO9AuCxV4Jg)**
+
+---
+**[Isabel Paige]{e}**
+* **[Isabel Paige | 95万 |  油管](https://www.youtube.com/@isabel_paige)**
+  - **[The Hardest Days of Winter](https://www.youtube.com/watch?v=jNqhUIYZM8Q)**
+  - **[Buried in Snow…Winter In The Mountains](https://www.youtube.com/watch?v=E_TEf57zBWQ)**
+  - **[How Isabel Paige Crafts a Larger-than-Life Fairytale](https://www.youtube.com/watch?v=vlQ6QVF2wBk)**
+
+* **[Tiny Pantry](https://isabelpaige.com/)**
+
+* **[VENQUEN的英语日记 | 二百章 | Douyin](https://v.douyin.com/lGerZrVjzQs/)**
+  - [学习是方向，世界是目的地！Follow along！ 飞向未知，直面恐惧 旧金山的酸面包，藏着冒险的滋味 独处的时光，发现真实的自己 大桥下的夕阳，点燃成长的勇气 | Isabel Paige](https://v.douyin.com/ACS0U3zIC54/)
+  - [雪花轻吻山巅，咖啡暖手 炉火旁，冬日的仙境悄然绽放 踏雪觅果，阳光洒落心间 这十一月的清晨，藏着治愈的温柔](https://v.douyin.com/PokajBVenxU/)
+
+---
+**[Natalie Lynn]{e}**
+* **[Natalie Lynn | making movies out of my life experiences | 油管](https://www.youtube.com/@nataliexlynn/videos)**
+
+---
+**[Life Of Riza]{e}**
+* **[Life Of Riza | 中阶 | Life lessons | 104万 | 油管](https://www.youtube.com/@LifeOfRiza)**
+  - [For those feeling behind in life](https://www.youtube.com/watch?v=4M6Ykqw26TI)
+
+---
+### 0002. Chinese Vlog
 **[李子柒 Liziqi]{e}**
 * **[李子柒 Liziqi | 2970万 | 油管](https://www.youtube.com/@cnliziqi)**
   - [这里是李子柒YouTube官方频道哦]{s}
@@ -139,7 +176,22 @@
   - [长春冰雪世界 - 冰龙](https://v.douyin.com/7m9XdKFZU6c/)
   - [一千万粉丝了，今天带你们去看曾经最极致的浪漫，千年绝技 - 打铁花](https://v.douyin.com/rHdjP99rVo0/)
 
+**[山肆十四]{p}**
+* **[山肆十四 | 会一直折腾  谢谢观看 | 百章 | Douyin](https://v.douyin.com/xu9aAeeaEoY/)**
+  - [大部分时候我们的不快乐，不是因为得不到，而是拥有的太多。| **旅行vlog** | **交换世界计划** | **做拓路者越万重山**](https://v.douyin.com/kSotN4KDXNM/)
+
 ---
+**[高高Lindsey]{e}**
+* **[高高Lindsey | 北京外国语大学英语口译硕士｜Polyglot | "语言的边界就是你世界的边界" | 5.5万 | 油管](https://www.youtube.com/@lindseylingo/videos)**
+  - [AI Can Speak English Better Than You](https://www.youtube.com/watch?v=nILMlkHiVdM)
+
+* **[高高Lindsey | 语言的极限就是我世界的极限 | 北外口译硕士 | 4K |  百章 | Douyin](https://v.douyin.com/Km65NtSiWqA/)**
+  - [没有语言环境如何学好英语？这3个习惯一定要养成 避免踩坑](https://v.douyin.com/kVvrsm8ERo0/)
+  - [如何快速获得语感？并停止在大脑中把中文译为英文 | Min: 04:50](https://v.douyin.com/vdy3qZoFl0Q/)
+  - [分级美音播客&频道推荐｜磨耳朵👂给大脑注入养分 | Min: 04:58](https://v.douyin.com/YG8zsgmXKr8/)
+  - [新一年的英语学习计划启动！进来抄一份科学有效的口语进阶](https://v.douyin.com/kTFzHYBpbQI/)
+
+### 0003. Life Vlog
 **[studytee]{p}**
 * **[studytee | 117万 | 油管](https://www.youtube.com/@studytee/videos)**
   - [En: My name is Therese, and I'm a Norwegian 3rd year university student in applied mathematics!]{s}
@@ -156,32 +208,6 @@
 **[Celine]{p}**
 * **[Celine | Let’s study together! I make study with me videos so our studying is less lonely. Keep working hard! | 20.4万 | 油管](https://www.youtube.com/@celinestudy/videos)**
   - [4-HOUR STUDY WITH ME 🌧️ Deep Focus on a Rainy Night | 🎧 Focus Music | Pomodoro 50/10](https://www.youtube.com/watch?v=a3gI2SBQaqM)
-
----
-**[Digital Spaghetti]{s}**
-* **[Digital Spaghetti | 油管](https://www.youtube.com/@digspaghetti/featured)**
-  - **[How Isabel Paige Crafts a Larger-than-Life Fairytale](https://www.youtube.com/watch?v=vlQ6QVF2wBk)**
-  - **[Natalie Lynn Makes Cinematic Videos that Feel Like Journal Entries](https://www.youtube.com/watch?v=T1Mf8j44kIk)**
-  - **[What It Means to be the Chief Creative Officer for Rhett & Link](https://www.youtube.com/watch?v=Go9c4I9cG_U)**
-  - **[Natalie Lynn Breaks Down Her Most Iconic Shots](https://www.youtube.com/watch?v=hx2Qkn-vPVU)**
-  - **[How to edit like Natalie Lynn](https://www.youtube.com/watch?v=HAWUnGAUalc)**
-
----
-**[Isabel Paige]{e}**
-* **[Isabel Paige | 95万 |  油管](https://www.youtube.com/@isabel_paige)**
-  - **[The Hardest Days of Winter](https://www.youtube.com/watch?v=jNqhUIYZM8Q)**
-  - **[Buried in Snow…Winter In The Mountains](https://www.youtube.com/watch?v=E_TEf57zBWQ)**
-  - **[How Isabel Paige Crafts a Larger-than-Life Fairytale](https://www.youtube.com/watch?v=vlQ6QVF2wBk)**
-
-* **[Tiny Pantry](https://isabelpaige.com/)**
-
-* **[VENQUEN的英语日记 | 二百章 | Douyin](https://v.douyin.com/lGerZrVjzQs/)**
-  - [学习是方向，世界是目的地！Follow along！ 飞向未知，直面恐惧 旧金山的酸面包，藏着冒险的滋味 独处的时光，发现真实的自己 大桥下的夕阳，点燃成长的勇气 | Isabel Paige](https://v.douyin.com/ACS0U3zIC54/)
-  - [雪花轻吻山巅，咖啡暖手 炉火旁，冬日的仙境悄然绽放 踏雪觅果，阳光洒落心间 这十一月的清晨，藏着治愈的温柔](https://v.douyin.com/PokajBVenxU/)
-
----
-**[Natalie Lynn]{e}**
-* **[Natalie Lynn | making movies out of my life experiences | 油管](https://www.youtube.com/@nataliexlynn/videos)**
 
 ---
 **[Cav和Rose]{p}**
@@ -210,10 +236,11 @@
   - [En: Learning a language, it’s a lifetime journey.]{s}
   - [Cn: 学习一门语言，是一段终身的旅程。]{g}
 
-
+  ---
   - [En: I know exactly what it takes to become fluent and acquire an accent in a non-English speaking country.]{s}
   - [Cn: 我完全清楚在非英语国家要流利说话并学会口音需要什么。]{g}
 
+**[website]{s}**
 * **[English Fluency Journey | Hanna Khoma](https://www.englishfluencyjourney.com/)**
 
 **[欧美外教在线一对一口语-葡然蕴]{e}**
@@ -230,18 +257,7 @@
   - [阅读的提升口语最快的方法 | 英语外教](https://v.douyin.com/lxInWasAlj8/)
 
 ---
-**[高高Lindsey]{e}**
-* **[高高Lindsey | 北京外国语大学英语口译硕士｜Polyglot | "语言的边界就是你世界的边界" | 5.5万 | 油管](https://www.youtube.com/@lindseylingo/videos)**
-  - [AI Can Speak English Better Than You](https://www.youtube.com/watch?v=nILMlkHiVdM)
-
-* **[高高Lindsey | 语言的极限就是我世界的极限 | 北外口译硕士 | 4K |  百章 | Douyin](https://v.douyin.com/Km65NtSiWqA/)**
-  - [没有语言环境如何学好英语？这3个习惯一定要养成 避免踩坑](https://v.douyin.com/kVvrsm8ERo0/)
-  - [如何快速获得语感？并停止在大脑中把中文译为英文 | Min: 04:50](https://v.douyin.com/vdy3qZoFl0Q/)
-  - [分级美音播客&频道推荐｜磨耳朵👂给大脑注入养分 | Min: 04:58](https://v.douyin.com/YG8zsgmXKr8/)
-  - [新一年的英语学习计划启动！进来抄一份科学有效的口语进阶](https://v.douyin.com/kTFzHYBpbQI/)
-
----
-**[瑞典]{p}**
+**[瑞典]{s}**
 * **[Jonna Jinton | 526万 | 瑞典 | 油管](https://www.youtube.com/@jonnajinton)**
   - [En: My name is Jonna Jinton, I'm a Swedish artist, musician and filmmaker and I live in the beautiful woods in the North of Sweden.]{s}
   - [Cn: 我叫Jonna Jinton，是一名瑞典艺术家、音乐家和电影制作人，住在瑞典北部美丽的森林里。]{g}
@@ -267,21 +283,21 @@
   - **[Winter Days in the North | Working Through the Darkest Time of the Year | 北方冬日 | 度过一年中 最黑暗的时刻](https://www.youtube.com/watch?v=j3iFHM3dcBI)**
 
 ---
-**[Miss Jean Teaches]{p}**
-* **[Miss Jean Teaches | 11万 | 油管](https://www.youtube.com/@missjeanteaches)**
+**[Miss Jean Teaches]{e}**
+* **[Miss Jean Teaches | 12.3万 | 油管](https://www.youtube.com/@missjeanteaches)**
 * **[英语学习Pie | 百章 | Douyin](https://v.douyin.com/nBEOloJekdk/)**
   - **[全英VLOG｜学语言必须"从第一天就开口"？](https://v.douyin.com/o1MYbBcmiok/)**
   - [全英VLOG｜学语言必须"从第一天就开口"？ 视频来源｜油管 Miss Jean Teaches 剪辑+字幕+资料整理｜本人原创 学语言时总被"从第一天就开口"的建议绑架？想开口却怕焦虑，不开口又怕落后？博主结合自身教学与学习经验，从正反两方拆解这一热门建议，帮你打破认知误区，找到更适配自己的语言学习节奏！无论你偏爱"沉默积累"还是"即时输出"，都能从中找到共鸣]{g}
 
 ---
-**[KevinFeng 冯凯文]{p}**
+**[KevinFeng 冯凯文]{s}**
 * **[KevinFeng 冯凯文 | 10.3万 | 油管](https://www.youtube.com/@IAmKevinFeng)**
   - [1个习惯带你直接听懂英文，让你英文听力像母语一样强](https://www.youtube.com/watch?v=t-kOwCmtcmA)
   - [用油管足不出户从0自学流利英文！20+个难度分级自学频道推荐！｜GDS 007](https://www.youtube.com/watch?v=0UY0bbE5I1w)
   - [2本能让你逆袭人生的英文书，只要高中水平就能读懂！](https://www.youtube.com/watch?v=L2B1NhxfvIw)
 
 ---
-**[PRIMAL EARTH]{p}**
+**[PRIMAL EARTH]{s}**
 * **[PRIMAL EARTH | 14.5万 |油管 | 4K](https://www.youtube.com/@primalearth8951)**
   - [En: Our mother planet "Earth" and the vibrancy of life on it.]{s}
   - [Cn: 我们的母星"地球"以及它上生命的生机勃勃。]{g}
@@ -393,7 +409,7 @@
   - **[Japan 4K - Scenic Relaxation Film With Calming Music](https://www.youtube.com/watch?v=D48T0wNm96w)**
 
 ---
-**[Relaxation Film]{p}**
+**[Relaxation Film]{s}**
 * **[Relaxation Film | 五十章  |  Douyin](https://v.douyin.com/17pgl3YprfA/)**
   - [【4K 奥地利-哈尔施塔特】俯瞰恬静奥地利小镇，湖景峡湾宁静怡然   ](https://v.douyin.com/fUD3TSTWrkQ/)
 
@@ -423,11 +439,9 @@
   - [En: books, solo trips, vintage finds and thinking aloud]{s}
   - [Cn: 书籍、独自旅行、复古发现和随声思考]{g}
 
-
-
 ---
-**[Learn English with Jessica]{p}**
-* **[Learn English with Jessica | 274万 | 动画 | 油管](https://www.youtube.com/channel/UCXtMjo8xJqjEhS4A9KUY8GA)**
+**[Learn English with Jessica]{s}**
+* **[Learn English with Jessica | 281万 | 动画 | 油管](https://www.youtube.com/channel/UCXtMjo8xJqjEhS4A9KUY8GA)**
   - [En: Learn English with Jessica is a FREE Channel for English learners.]{s}
   - [Cn: "与杰西卡一起学习英语"是一个免费的英语学习频道。]{g}
 
@@ -660,17 +674,6 @@
   - **[音乐疗法🌿 修复神经系统，停止过度思考 | 舒缓压力的放松音乐](https://www.youtube.com/watch?v=ecrL5FHBmFA)**
 
 ---
-### 0002. Chinese Vlog
-**[山肆十四]{p}**
-* **[山肆十四 | 会一直折腾  谢谢观看 | 百章 | Douyin](https://v.douyin.com/xu9aAeeaEoY/)**
-  - [大部分时候我们的不快乐，不是因为得不到，而是拥有的太多。| **旅行vlog** | **交换世界计划** | **做拓路者越万重山**](https://v.douyin.com/kSotN4KDXNM/)
-
----
-### 0003. Notion
-**[自学流利英文·频道通关介绍]{p}**
-* **[自学流利英文·频道通关介绍](https://sincere-numeric-f39.notion.site/20a86f84b68d800ea7e6e70ab345a75a?v=20a86f84b68d80dfa81d000c894c2c0f)**
-
----
 ### 0004. Learn English Vlog
 **[Leah's English 莉雅老师]{e}**
 * **[Leah's English 莉雅老师 | 20万 | 油管](https://www.youtube.com/@Leah%E7%9A%84%E5%B0%8F%E6%97%A5%E8%AE%B0/videos)**
@@ -801,11 +804,6 @@
 * **[Daniel Simmons | 更新时尚、生活方式、室内设计和糕点 | 中阶 | 78.4万 | 油管](https://www.youtube.com/@imdanielsimmons)**
   - [En: Digital Diary 🤎 Weekly videos around fashion, lifestyle, interior design & pastries Daniel Simmons New York City, United States Contact: contact@danielsimmonsmedia.com]{s}
   - [Cn: 数字日记 🤎 每周视频，内容涵盖时尚、生活方式、室内设计和糕点 丹尼尔·西蒙斯 纽约市，美国 联系方式：contact@danielsimmonsmedia.com]{g}
-
----
-**[Life Of Riza]{p}**
-* **[Life Of Riza | 中阶 | Life lessons | 100万 | 油管](https://www.youtube.com/@LifeOfRiza)**
-  - [For those feeling behind in life](https://www.youtube.com/watch?v=4M6Ykqw26TI)
 
 ---
 **[Speak English with Bo's Slow English]{p}**
@@ -1395,14 +1393,14 @@
 
   ---
   - [En: Breaking news today you will use at work tomorrow!]{g}
-  - 今天的突发新闻，明天你将在工作中使用！]{g}
+  - [今天的突发新闻，明天你将在工作中使用]{g}
 
   ---
   - [En: Full show notes and newsletter at https://latent.space]{g}
-  - 完整节目笔记和通讯请见 https://latent.space]{g}
+  - [完整节目笔记和通讯请见 https://latent.space]{g}
 
   ---
-  - [[State of Research Funding] Beyond NSF, Slingshots, Open Frontiers — Andy Konwinski, Laude Institute](https://www.youtube.com/watch?v=ZagdY6UJYL4)
+  - [State of Research Funding Beyond NSF, Slingshots, Open Frontiers — Andy Konwinski, Laude Institute](https://www.youtube.com/watch?v=ZagdY6UJYL4)
 
 ---
 ### 0006. 雅思 IELTS
@@ -1663,6 +1661,13 @@
   - [Taylor Swift - Mine](https://www.youtube.com/watch?v=oxNLRqMJMZk&list=OLAK5uy_n8xJHj0rL3zyol9oYHsVTBHm-L_eY-3gY)
 
 ---
+* **[Eliott Tordo Erhu Player 二胡 | 47.5万 | Youtube](https://www.youtube.com/@EliottTordo_Erhu/videos)**
+  - [World of Warcraft covers | total: 22](https://www.youtube.com/watch?v=fkV9ThVvfLA&list=PLRJMyiugYfVJWxVSleW4cX0-BzUdnKhMx)
+  - [Avatar : The last Airbender | The Legend of Korra Erhu Covers by Eliott Tordo | total: 22](https://www.youtube.com/watch?v=v2A5aKW9lFg&list=PLRJMyiugYfVLOfWnKVMGid-VXEz7n6Uq0)
+  - [Erhu covers | total: 153](https://www.youtube.com/watch?v=cXJ8976qrMM&list=PLRJMyiugYfVJ7vNIiMdez-3E-YkblaXLy)
+  - [Naruto covers | total: 23](https://www.youtube.com/watch?v=cXJ8976qrMM&list=PLRJMyiugYfVK__D2gsAMg7auoErUqr0qH)
+
+---
 ### 0009. 小元智谈 | Gather 油管
 **[小元智谈]{p}**
 * **[小元智谈 | 每天听一听，提升自己 | 好书、TED、政策、前沿、生活 | 五百章 |  Douyin](https://v.douyin.com/LOyLVRhN5u0/)**
@@ -1673,7 +1678,7 @@
   - [谈前沿：英伟达首席执行官黄仁勋对未来的愿景 本期聊聊英伟达首席执行官黄仁勋2025年1月的一次访谈：NVIDIA CEO Jensen Huang's Vision for the Future（英伟达首席执行官黄仁勋对未来的愿景）。访谈中讨论了NVIDIA在计算领域的开创性工作，特别关注了图形处理器（GPU）的发展及其对游戏、人工智能和机器人技术等不同行业的影响。黄仁勋阐述了NVIDIA通过CUDA平台实现的并行处理的演变，以及AI如何从根本上重塑计算和日常生活。他还分享了公司未来在物理AI、数字生物学和气候科学方面的愿景，强调了能源效率和AI可及性的重要性，并鼓励观众学习如何利用AI来提升个人和职业能力。]{g}
 
 ---
-**[The Diary Of A CEO]{p}**
+**[The Diary Of A CEO]{s}**
 * **[The Diary Of A CEO | 高阶 | 嘉宾行业大牛，内容知识含金量超高。主持人英国人 | 油管](https://www.youtube.com/@TheDiaryOfACEO)**
   - [En: 64% of our viewers don't realise they don't subscribe, please double check, thank you!!]{s}
   - [Cn: 64%的观众不知道自己没订阅，请再确认一下，谢谢！！]{g}
@@ -1686,18 +1691,6 @@
 * **[Cleo Abram | 油管](https://www.youtube.com/@CleoAbram)**
   - [En: Video journalist making optimistic tech explainers.]{s}
   - [Cn: 视频记者制作乐观的科技解说。]{g}
-
-  ---
-  - Huge If True.
-  - Instagram: https://www.instagram.com/cleoabram
-  - TikTok: https://www.tiktok.com/@cleoabram
-  - Twitter: https://twitter.com/cleoabram
-  - If you'd like to sponsor a Huge If True episode, reach out at the email below.
-  - 如果是真的，那就太棒了。
-  - Instagram：https://www.instagram.com/cleoabram
-  - TikTok：https://www.tiktok.com/@cleoabram
-  - Twitter：https://twitter.com/cleoabram
-  - 如果你想赞助《Huge If True》节目，请通过下方邮件联系我们。
 
   ---
   - [En: If you're looking for my bio, here it is: Cleo Abram is a video journalist who produces Huge If True, an optimistic show about science and technology.]{s}
@@ -2249,7 +2242,7 @@
   - **[Chad Franke: Freed | 查德·弗兰克：获释](https://www.youtube.com/watch?v=KUOlYFjbYvk)**
 
 ---
-**[Jay Shetty Podcast]{p}**
+**[Jay Shetty Podcast | 心理健康]{p}**
 * **[Jay Shetty Podcast | 538万 | 油管](https://www.youtube.com/@JayShettyPodcast./videos)**
   - [En: I’m Jay Shetty host of On Purpose the worlds #1 Mental Health podcast]{s}
   - [Cn: 我是Jay Shetty，主持《On Purpose the worlds #1》心理健康播客]{g}
@@ -2294,7 +2287,7 @@
 
 ---
 ### 0011. Travel on the World | 环球旅行
-**[DJI]{p}**
+**[DJI]{s}**
 * **[DJI | 大疆 | 595万 | 油管](https://www.youtube.com/@DJI/videos)**
   - [En: DJI's official YouTube channel is home to everything DJI, showcasing the full and incredible capability of our latest aerial and handheld products including the Phantom, Mavic, Inspire, Ronin, and Osmo series.]{s}
   - [Cn: 大疆官方YouTube频道汇聚了所有大疆相关内容，展示了我们最新空中和掌机产品的完整且令人难以置信的能力，包括Phantom、Mavic、Inspire、Ronin和Osmo系列。]{g}
@@ -2743,13 +2736,13 @@
   - [China Is the Global It-Girl Now | 中国现在是全球的"潮人"](https://www.youtube.com/watch?v=hAM3QABIGFQ)
 
 ---
-### 0019. 油管 && Bilibili
-**[Caro Kowanz]{p}**
+### 0019. 油管 && B站
+**[Caro Kowanz]{e}**
 * **[Caro Kowanz | 414万 | 油管](https://www.youtube.com/@carokowanzenglish/shorts)**
   - **[1 Hour of English conversations](http://youtube.com/watch?v=JEE6s4RyaX8)**
 
 ---
-**[iayah]{p}**
+**[iayah]{e}**
 * **[inayah | 30.1万 | 油管](https://www.youtube.com/@inayah0/videos)**
 
 ---
@@ -3216,7 +3209,7 @@
 **[Bloger Gather]{s}**
 
 ---
-**[Jay Shetty Podcast]{s}**
+**[Jay Shetty Podcast·心理健康]{s}**
 * **[Jay Shetty Podcast | 564万 | 油管](https://www.youtube.com/@JayShettyPodcast./videos)**
 
 ---
@@ -3427,7 +3420,7 @@
   - [Ballet Trauma + our AAPI goats - BTSP #89](https://www.youtube.com/watch?v=VURCIxpNq5Y)
 
 ---
-**[Bobby Parrish]{s}**
+**[Bobby Parrish·美食博主]{s}**
 * **[Bobby Parrish | 1080万 | 油管](https://www.youtube.com/@BobbyParrish/videos)**
   - [En: On my channel you will : - Learn how to shop for the best quality items at the grocery store.]{s}
   - [Cn: 在我的频道里你会 ： - 学习如何在超市购买最优质的商品。]{g}
