@@ -3786,6 +3786,10 @@
 * **[Veronika Mark | 14万 | 油管](https://www.youtube.com/@veronika_mark/videos)**
 
 ---
+**[English Teacher Claire]{e}**
+* **[English Teacher Claire | 74.9万 | 油管](https://www.youtube.com/@EnglishTeacherClaire/videos)**
+
+---
 ### 0026. Ads of the World
 **[Ads of the World]{s}**
 * **[Professional Campaigns • Ads of the World™ | Part of The Clio Network](https://www.adsoftheworld.com/professional)**

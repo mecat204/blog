@@ -797,6 +797,11 @@
 * **[Kristin老师 | 这是我唯一的b站账号 加拿大女孩 首都师范大学毕业 INS: KristinLaoshi | 45.8万 | B站](https://space.bilibili.com/3493094276205367?spm_id_from=333.337.search-card.all.click)**
 
 ---
+### 0082. English Teacher Claire
+**[English Teacher Claire]{e}**
+* **[English Teacher Claire | B站: Author-学不会英语不改昵称 | 只搬运美音，字幕大部分是机翻，欢迎催更 | B站](https://www.bilibili.com/video/BV12H4y1y79B/?spm_id_from=333.337.search-card.all.click)**
+
+---
 ### 9999. 开源项目
 **[必应]{p}**
 * **[必应 | bing.com](https://cn.bing.com/)**
