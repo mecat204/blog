@@ -866,9 +866,21 @@
 * **[过好自己的小日子](https://v.douyin.com/Dd55B38L5zY/)**
 
 ---
+**[张南枝]{e}**
+* **[一起吃烤冷面啊](https://v.douyin.com/0HNGgP9j_Eg/)**
+
+---
 ### 0009. 直播
+**[Shane教授]{s}**
+* **[Shane教授 | 作者: Daily English Dictation | 12:00 ](https://v.douyin.com/fSGwEZhJN3c/)**
+
+---
+**[场景英语屋]{s}**
+* **[场景英语屋 | 场景英语，天天练习 | 早九点 | 拾章 | Douyin](https://v.douyin.com/AzhihVYVlUc/)**
+
+---
 **[BY白吖白]{e}**
-* **[BY白吖白 | 灵活的欲望是命运的先知 早9:30午13.30 | 贰拾章 | Douyin](https://v.douyin.com/ne5mCgYMXTM/)**
+* **[BY白吖白 | 灵活的欲望是命运的先知 早9:30 午13:30 | 贰拾章 | Douyin](https://v.douyin.com/ne5mCgYMXTM/)**
   - [万事只求半称心 让花是花 让树是树](https://v.douyin.com/T3qkt70Rpoo/)
 
 ---
