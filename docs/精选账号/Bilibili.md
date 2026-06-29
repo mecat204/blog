@@ -109,7 +109,7 @@
 
 ---
 ### 0007a. 夏冰雹频道 | 异世相逢
-**[夏冰雹频道]{p}**
+**[夏冰雹频道]{e}**
 * **[夏冰雹频道 | 书籍《绽放》作者 · 英语教育博主 · 中英双语主持人 · 前SCMP英文财经记者 · 波士顿大学新闻硕士 | 71万](https://space.bilibili.com/4324529/lists)**
   - [焦虑是好事，恰恰因为现代社会流动性强、机会更多](https://www.bilibili.com/video/BV1bMRpBmEuB/?spm_id_from=333.1387.collection.video_card.click)
 
@@ -120,7 +120,7 @@
 
 ---
 ### 0007c. Veritasium | 异世相逢
-**[Veritasium]{p}**
+**[Veritasium]{s}**
 * **[Veritasium真理元素 | 4K | Veritasium中国官方频道 探索科学及工程背后的真理 | 商务微信：origami-alice |  107.0万 | B站](https://space.bilibili.com/94742590/lists)**
   - **[这是生物学中最具有歧义的话题](https://www.bilibili.com/video/BV1QtUEBdE4B/?spm_id_from=333.1387.collection.video_card.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
   - **[这个数学模型（几乎）能预测宇宙万物](https://www.bilibili.com/video/BV1Aj8DzzE42/?spm_id_from=333.1387.collection.video_card.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
@@ -140,15 +140,15 @@
 
 ---
 ### 0008. XDx_先进生产力 | 异世相逢
-**[XDx_先进生产力]{p}**
+**[XDx_先进生产力]{s}**
 * **[XDx_先进生产力 | 世界的最前沿 | 1.6万 | B站](https://space.bilibili.com/456284799?spm_id_from=333.1387.follow.user_card.click)**
   - **[杨安泽：先发钱还是先发房？AI抢工作背后的真相](https://www.bilibili.com/video/BV14BNGzCEfB/?spm_id_from=333.1387.homepage.video_card.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
 
 ---
 ### 0009. 阅词 | 异世相逢
-**[阅词]{p}**
-* **[阅词 | 所有视频都有双语文稿 在置顶充电动态 | 1.1万 | B站](https://space.bilibili.com/99455517?spm_id_from=333.1387.follow.user_card.click)**
-  - [[双语]纳瓦尔：如何戒掉"月薪"这个毒瘾？ PowerfulJRE 2019-06-05](https://www.bilibili.com/video/BV1PPCHBGEbP/?spm_id_from=333.1387.homepage.video_card.click&vd_source=19beb856dede8620770a18feaaf13ae2)
+**[阅词]{s}**
+* **[阅词 | 所有视频都有双语文稿 在置顶充电动态 | 1.5万 | B站](https://space.bilibili.com/99455517?spm_id_from=333.1387.follow.user_card.click)**
+  - [双语· 纳瓦尔：如何戒掉"月薪"这个毒瘾？ PowerfulJRE 2019-06-05](https://www.bilibili.com/video/BV1PPCHBGEbP/?spm_id_from=333.1387.homepage.video_card.click&vd_source=19beb856dede8620770a18feaaf13ae2)
 
 ---
 * **[Doobydobap | B站](https://www.bilibili.com/video/BV1QZCxY3EB1/?spm_id_from=333.337.search-card.all.click&vd_source=19beb856dede8620770a18feaaf13ae2)**

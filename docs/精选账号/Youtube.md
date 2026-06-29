@@ -158,6 +158,15 @@
   - [4-HOUR STUDY WITH ME 🌧️ Deep Focus on a Rainy Night | 🎧 Focus Music | Pomodoro 50/10](https://www.youtube.com/watch?v=a3gI2SBQaqM)
 
 ---
+**[Digital Spaghetti]{s}**
+* **[Digital Spaghetti | 油管](https://www.youtube.com/@digspaghetti/featured)**
+  - **[How Isabel Paige Crafts a Larger-than-Life Fairytale](https://www.youtube.com/watch?v=vlQ6QVF2wBk)**
+  - **[Natalie Lynn Makes Cinematic Videos that Feel Like Journal Entries](https://www.youtube.com/watch?v=T1Mf8j44kIk)**
+  - **[What It Means to be the Chief Creative Officer for Rhett & Link](https://www.youtube.com/watch?v=Go9c4I9cG_U)**
+  - **[Natalie Lynn Breaks Down Her Most Iconic Shots](https://www.youtube.com/watch?v=hx2Qkn-vPVU)**
+  - **[How to edit like Natalie Lynn](https://www.youtube.com/watch?v=HAWUnGAUalc)**
+
+---
 **[Isabel Paige]{e}**
 * **[Isabel Paige | 95万 |  油管](https://www.youtube.com/@isabel_paige)**
   - **[The Hardest Days of Winter](https://www.youtube.com/watch?v=jNqhUIYZM8Q)**
@@ -169,6 +178,10 @@
 * **[VENQUEN的英语日记 | 二百章 | Douyin](https://v.douyin.com/lGerZrVjzQs/)**
   - [学习是方向，世界是目的地！Follow along！ 飞向未知，直面恐惧 旧金山的酸面包，藏着冒险的滋味 独处的时光，发现真实的自己 大桥下的夕阳，点燃成长的勇气 | Isabel Paige](https://v.douyin.com/ACS0U3zIC54/)
   - [雪花轻吻山巅，咖啡暖手 炉火旁，冬日的仙境悄然绽放 踏雪觅果，阳光洒落心间 这十一月的清晨，藏着治愈的温柔](https://v.douyin.com/PokajBVenxU/)
+
+---
+**[Natalie Lynn]{e}**
+* **[Natalie Lynn | making movies out of my life experiences | 油管](https://www.youtube.com/@nataliexlynn/videos)**
 
 ---
 **[Cav和Rose]{p}**
