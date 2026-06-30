@@ -214,4 +214,96 @@
   - 英语：BBC Learning English、English with Lucy
 
 ---
+### 0017. 人物微雕
+**[North of the Border]{s}**
+  - 用聚合物黏土（Polymer Clay）制作动漫、游戏、电影角色。
+  - 经常做《原神》《Minecraft》《宝可梦》《艾尔登法环》等。
+  - 视频节奏很好，非常适合入门观看。
+
+---
+**[Ace of Clay]{s}**
+  - 偏怪物、幻想生物。
+  - 会详细展示从骨架到上色的全过程。
+
+---
+**[Tom Mason]{s}**
+  - 微雕教学非常系统。
+  - 从零开始讲人体比例、骨架、细节塑形。
+  - 很多桌游模型作者都推荐他的教程。
+
+---
+### 0018. 3D 数字雕刻
+**[如果你想学 Blender、ZBrush]{g}**
+
+---
+**[MW Sculpts]{s}**
+  - Blender 微雕大神。
+  - 专门讲如何做 3D 打印模型。
+  - 从雕刻到打印一整套流程都有。
+
+---
+**[YanSculpts]{s}**
+  - 偏角色雕刻。
+  - 很多人体结构和角色设计技巧。
+
+---
+**[SpeedChar]{s}**
+  - 人物雕刻。
+  - 偏职业流程。
+
+---
+### 0019. 微缩场景（Miniature Diorama）
+**[如果你喜欢那种"造一个小世界"：]{s}**
+
+**[Luke Towan]{g}****
+  - 火车模型、自然景观。
+  - 可以说是微缩场景里的天花板之一。
+
+**[Boylei Hobby Time]{g}****
+  - 经常制作电影、动漫、游戏场景。
+  - 创意非常强。
+
+**[Black Magic Craft]{g}****
+  - 教桌游地形制作。
+  - 泡沫板、石墙、城堡等。
+
+---
+### 0020. 微缩美食
+**[如果喜欢"假食物"：]{s}**
+
+**[Miniature Space]{s}**
+  - 用真正食材制作可以吃的迷你料理。
+  - 厨具都是缩小版。
+
+---
+### 0021. 微雕上色（Painting）
+**[做好模型后必学：]{s}**
+  - Squidmar Miniatures
+  - Miniac
+  - Trovarion Miniatures
+  - MarcoFrisoniNJM
+  - Duncan Rhodes Painting Academy
+
+**[这些频道几乎代表了欧美微缩模型上色教学的一流水平。]{g}**
+
+---
+### 0020. Genshin Impact 微雕
+**[很多创作者都会从骨架、塑形到上色完整记录制作过程。]**
+  - Genshin Impact clay sculpture
+  - Genshin miniature
+  - Nahida clay sculpture
+  - Furina polymer clay
+  - Mavuika sculpture
+  - Genshin figure making
+
+---
+### 0021. 订阅的频道
+**[如果让我只推荐 5 个一定要订阅的频道：]{s}**
+  - North of the Border（综合第一）
+  - Ace of Clay（怪物、生物）
+  - MW Sculpts（3D 微雕）
+  - Luke Towan（微缩场景）
+  - Tom Mason（系统教学）
+
+---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
