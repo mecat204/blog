@@ -3806,6 +3806,9 @@
   - [Introducing Base44’s Big Game Ad “It’s App to You”](https://www.youtube.com/watch?v=iKEUWtqvsis)
 
 ---
+**[niec.edu.sg]{s}**
+* **[niec.edu.sg | Home | National Institute of Early Childhood Development](https://niec.edu.sg/)**
+---
 ### 0027. Coding
 **[Sam Witteveen]{s}**
 * **[Sam Witteveen | 12.3万 | 油管](https://www.youtube.com/@samwitteveenai/videos)**
