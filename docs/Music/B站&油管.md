@@ -158,6 +158,13 @@
 * **[真实雨声】10小时！躺在湖边木屋里听雨吧~治愈助眠](https://www.bilibili.com/video/BV1oS4y197tX/?spm_id_from=333.1387.favlist.content.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
 
 ---
+### 0002. 流行古风曲
+**[流行古风曲]{e}**
+* **[2026 破百万古风歌曲](https://www.youtube.com/watch?v=dwaGrOyLSto)**
+
+
+
+---
 ### 9999. music·course
 * **[AlgerMusicPlayer | music | software](https://github.com/algerkong/AlgerMusicPlayer)**
   - [music.alger.fun](http://music.alger.fun/#/)

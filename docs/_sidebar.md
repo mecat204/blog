@@ -118,7 +118,7 @@
   - [music](Music/music)
   - [AiSinger](Music/AiSinger)
   - [英文歌曲](Music/英文歌曲)
-  - [BilibliYoutube](Music/BilibliYoutube)
+  - [B站&油管](Music/B站&油管)
   - [二胡](Music/二胡)
   - [古琴](Music/古琴)
   - [钢琴](Music/钢琴)

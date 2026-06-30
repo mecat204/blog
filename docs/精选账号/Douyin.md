@@ -870,6 +870,10 @@
 * **[一起吃烤冷面啊](https://v.douyin.com/0HNGgP9j_Eg/)**
 
 ---
+**[小书子·music]{e}**
+* **[嘿朋友，压力大了就来听听这首歌吧 | 你会翻过山看到万丈晴天 · 亲爱的你啊 · 吉他弹唱 · 川西美景 · 木格措](https://v.douyin.com/64B3ijekIR4/)**
+
+---
 ### 0009. 直播
 **[Shane教授]{s}**
 * **[Shane教授 | 作者: Daily English Dictation | 12:00 ](https://v.douyin.com/fSGwEZhJN3c/)**
@@ -914,6 +918,11 @@
   **[001. 一起来联系吧]{g}**
     - [001](https://v.douyin.com/w_FKhpbq27o/)
     - [025](https://v.douyin.com/hkiChqS1dmM/)
+
+---
+### 0010. 逆天改命
+**[诗童]{e}**
+* **[我想活着。住院的日子 · 布加综合征](https://v.douyin.com/UFNYkfpTERE/)**
 
 ---
 ### 9999. Download
