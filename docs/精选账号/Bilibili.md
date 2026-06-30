@@ -896,6 +896,12 @@
   - **[MinuteEarth双语精讲](https://www.bilibili.com/video/BV1Y2V66gEC3/?spm_id_from=333.337.search-card.all.click)**
 
 ---
+### 0077. Adam’s English Lessons · engVid
+**[Adam’s English Lessons · engVid]{s}**
+* **[学不会英语不改昵称 | 只搬运美音，字幕大部分是机翻，欢迎催更 | 4.5万 | B站](https://space.bilibili.com/22095156/lists)**
+  - [Adam’s English Lessons · engVid](https://www.bilibili.com/video/BV1qb4y1L7uf/?spm_id_from=333.337.search-card.all.click)
+
+---
 ### 9999. 开源项目
 **[必应]{s}**
 * **[必应 | bing.com](https://cn.bing.com/)**

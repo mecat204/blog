@@ -161,6 +161,7 @@
 ### 0002. 流行古风曲
 **[流行古风曲]{e}**
 * **[2026 破百万古风歌曲](https://www.youtube.com/watch?v=dwaGrOyLSto)**
+* **[2026 破百万古风歌曲](https://www.youtube.com/watch?v=UrHOjRKyOIU&list=RDUrHOjRKyOIU&start_radio=1)**
 
 
 
