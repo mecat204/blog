@@ -875,6 +875,11 @@
 
 ---
 ### 0009. 直播
+**[月野·GenshinImpact]{e}**
+* **[月野 | 个人发疯号 自己开心才是天大的事 | 佰章 | Douyin](https://v.douyin.com/JJo3_K23WlI/)**
+  - [原神怎么五年了你还是这么好玩啊。](https://v.douyin.com/OtFH3w6bUA0/)
+
+---
 **[Shane教授]{s}**
 * **[Shane教授 | 作者: Daily English Dictation | 12:00 ](https://v.douyin.com/fSGwEZhJN3c/)**
 
@@ -923,6 +928,10 @@
 ### 0010. 逆天改命
 **[诗童]{e}**
 * **[我想活着。住院的日子 · 布加综合征](https://v.douyin.com/UFNYkfpTERE/)**
+
+---
+**[程霜]{e}**
+* **[行万里路也要读万卷书](https://v.douyin.com/kQ-OzeEm4j8/)**
 
 ---
 ### 9999. Download

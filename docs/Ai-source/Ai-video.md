@@ -565,6 +565,7 @@
     - [纳塔：高清重置 | 008](https://v.douyin.com/j58gi4znyVk/)
     - [原神：高清重置—5周年 | 009](https://v.douyin.com/huByY51RF6g/)
     - [空之神殿：高清重置 | 010](https://v.douyin.com/wW71LwKwDtg/)
+    - [霜月：高清重置 。眼前月是天上月，月上人是心中人 | 011](https://v.douyin.com/gdJsUfrxP-g/ )
 
 ---
 ### 0018. 云端避风港-Dream Shelter
@@ -1104,6 +1105,25 @@
   **[001. 庇护所系列]{g}**
     - [还好你在末日来临之前找到了自己心仪的庇护所 | 001](https://v.douyin.com/TGAy_MDL-Ho/)
     - [还好这个地方足够安全，入口挺隐秘的。 | 036](https://v.douyin.com/ogddM55yqS4/)
+
+---
+### 0049. 萌猫Cg | Genshin Impact
+**[萌猫Cg]{s}**
+* **[萌猫Cg | 🍁 AI拯救世界 🍁 🌷励志用AI给人带来欢乐🌷 | 叁佰章 | Douyin](https://v.douyin.com/Ged9jmTTKqs/)**
+  - [我Chovy！多托雷你做实验给我做好了啊](https://v.douyin.com/aj6LgPu60B4/)
+  - [如果是这样的凯瑟琳，你还会跳过吗](https://v.douyin.com/hM9jS-4TfTA/)
+
+  ---
+  **[可莉毛茸茸的日常]{g}**
+    - [蒙德魔丸互助行动 | 001](https://v.douyin.com/ifPcbZL8WLc/)
+    - [小魔女卡齐娜就位 | 040](https://v.douyin.com/nym8hIMePCc/)
+
+### 0050. HandsMini | AIGC
+**[HandsMini]{s}**
+* **[HandsMini | AIGC创作者，视频及原图为本人制作 | Douyin](https://v.douyin.com/sOSTbYQwRG0/)**
+  - [并非零胜率·桑多涅·原神·木偶](https://v.douyin.com/m7gsKyvL2dc/)
+  - [冰之女皇vs死之执政。](https://v.douyin.com/fLpPGhMv9cY/)
+  - [八重神子](https://v.douyin.com/NcBsaoyx_1o/)
 
 ---
 ### 9999. Download
