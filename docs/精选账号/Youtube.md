@@ -3832,20 +3832,23 @@
 ---
 ### 0029. University
 **[New York University]{s}**
+* **[New York University | 11.8万 | 油管](https://www.youtube.com/@newyorkuniversity/videos)**
   - [NYU's 2022 Commencement Speaker Taylor Swift](https://www.youtube.com/watch?v=OBG50aoUwlI)
 
 ---
 **[Harvard Unviersity]{s}**
+* **[Harvard University | 284万 | 油管](https://www.youtube.com/@harvard/videos)**
   - [Oprah Winfrey Harvard Commencement speech | Harvard Commencement 2013](https://www.youtube.com/watch?v=GMWFieBGR7c)
 
 ---
 **[Stanford]{s}**
+* **[Stanford | 218万 | 油管](https://www.youtube.com/@stanford/videos)**
   - [Steve Jobs' 2005 Stanford Commencement Address](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
 
 ---
 ### 0030. Organization
 **[United Nations]{s}**
-* **[联合国](https://www.youtube.com/unitednations)**
+* **[联合国 | 331万 | 油管](https://www.youtube.com/unitednations)**
   - [Emma Watson at the HeForShe Campaign 2014 - Official UN Video](https://www.youtube.com/watch?v=gkjW9PZBRfk)
 
 ---
