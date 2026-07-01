@@ -1646,6 +1646,7 @@
 ### 0008. Music | 油管
 **[Taylor Swift]{e}**
 * **[Taylor Swift |  6310万 | 油管](https://www.youtube.com/@TaylorSwift/videos)**
+
   - [En: And, baby, that’s show business for you.]{s}
   - [Cn: 宝贝，这就是演艺圈的全部。]{g}
 
@@ -1659,6 +1660,7 @@
   - [Just 11 days until the final show of The Eras Tour is all yours ](https://www.youtube.com/watch?v=fHjxp-rpUGw)
   - [Taylor Swift - Father Figure](https://www.youtube.com/watch?v=98SmlWOKuME)
   - [Taylor Swift - Mine](https://www.youtube.com/watch?v=oxNLRqMJMZk&list=OLAK5uy_n8xJHj0rL3zyol9oYHsVTBHm-L_eY-3gY)
+  - [Taylor Swift - New York University](https://www.youtube.com/watch?v=Q8NYdZYQsgY)
 
 ---
 * **[Eliott Tordo Erhu Player 二胡 | 47.5万 | Youtube](https://www.youtube.com/@EliottTordo_Erhu/videos)**
@@ -3821,6 +3823,42 @@
 
   ---
   - **[Kokoro Local TTS + Custom Voices](https://www.youtube.com/watch?v=tl1wvZXlj0I)**
+
+---
+### 0028. PhD | 博士
+* **[Megan Teng]{s}**
+  - [026柏克萊工學院博士畢業典禮致詞](https://www.youtube.com/watch?v=3g5LK02wCGA)
+
+---
+### 0029. University
+**[New York University]{s}**
+  - [NYU's 2022 Commencement Speaker Taylor Swift](https://www.youtube.com/watch?v=OBG50aoUwlI)
+
+---
+**[Harvard Unviersity]{s}**
+  - [Oprah Winfrey Harvard Commencement speech | Harvard Commencement 2013](https://www.youtube.com/watch?v=GMWFieBGR7c)
+
+---
+**[Stanford]{s}**
+  - [Steve Jobs' 2005 Stanford Commencement Address](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
+
+---
+### 0030. Organization
+**[United Nations]{s}**
+* **[联合国](https://www.youtube.com/unitednations)**
+  - [Emma Watson at the HeForShe Campaign 2014 - Official UN Video](https://www.youtube.com/watch?v=gkjW9PZBRfk)
+
+---
+### 0031. International film star
+**[Totally Emma Watson | 赫敏 | Harry Potter and the Philosopher's Stone]{e}**
+* **[Totally Emma Watson | 44.3万 | 油管](https://www.youtube.com/@TotallyEmmaWatson/videos)**
+  - [Emma Watson - One Young World 2016](https://www.youtube.com/watch?v=elbqER_ZrLQ)
+
+---
+### 0032. English Speeches
+**[English Speeches]{s}**
+* **[English Speeches | 643万 | 油管](https://www.youtube.com/@EnglishSpeeches/videos)**
+
 
 ---
 ### 9999. Download
