@@ -3835,15 +3835,22 @@
 * **[New York University | 11.8万 | 油管](https://www.youtube.com/@newyorkuniversity/videos)**
   - [NYU's 2022 Commencement Speaker Taylor Swift](https://www.youtube.com/watch?v=OBG50aoUwlI)
 
+* **[New York University](https://www.nyu.edu/)**
+
 ---
 **[Harvard Unviersity]{s}**
 * **[Harvard University | 284万 | 油管](https://www.youtube.com/@harvard/videos)**
   - [Oprah Winfrey Harvard Commencement speech | Harvard Commencement 2013](https://www.youtube.com/watch?v=GMWFieBGR7c)
+  - [Harvard Thinking: The secret lives of super-agers](https://www.youtube.com/watch?v=P7-nshMUJms)
+
+* **[Harvard](https://www.harvard.edu/)**
 
 ---
 **[Stanford]{s}**
 * **[Stanford | 218万 | 油管](https://www.youtube.com/@stanford/videos)**
   - [Steve Jobs' 2005 Stanford Commencement Address](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
+
+* **[Stanford](https://www.stanford.edu/)**
 
 ---
 ### 0030. Organization
