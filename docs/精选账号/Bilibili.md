@@ -245,8 +245,12 @@
 * **[YouTube知识宝藏区 | 致力于成为每一位求知者成长路上的坚实伙伴 | 34.3万](https://space.bilibili.com/3494369487227121?spm_id_from=333.788.upinfo.detail.click)**
 
 ---
+**[黯殇As_ · GenshinImpact]{s}**
+* **[黯殇As_ | 5.2万 | B站](https://space.bilibili.com/98717318?spm_id_from=333.788.upinfo.detail.click)** | 5.2万 | B站](https://space.bilibili.com/98717318?spm_id_from=333.788.upinfo.detail.click)**
+
+---
 ### 0003. studytee | B站
-**[studytee]{p}**
+**[studytee]{s}**
 * **[XRay-猎豹 | 只有一次的人生，当然要好好过 | 2.7万 | B站](https://space.bilibili.com/408296955?spm_id_from=333.788.upinfo.detail.click)**
   - **[我是如何做笔记的 | 看挪威的大一女生如何做整洁高效的笔记](https://www.bilibili.com/video/BV1vb411W778/?spm_id_from=333.1387.search.video_card.click)**
 
@@ -265,7 +269,7 @@
 
 ---
 ### 0005.  English Fluency Journey  | B站
-**[English Fluency Journey]{p}**
+**[English Fluency Journey]{e}**
 * **[油管顶级外教Anna外教频道 English Fluency Journey 跟外教学正宗口语发音 流利英语之路](https://www.bilibili.com/video/BV1p8oTBNEa5/?spm_id_from=333.1387.homepage.video_card.click)**
 
 * **[English Fluency Journey 安娜流利口语](https://www.bilibili.com/video/BV1iPLe6aEte/?spm_id_from=333.1387.homepage.video_card.click)**
@@ -900,6 +904,12 @@
 **[Adam’s English Lessons · engVid]{s}**
 * **[学不会英语不改昵称 | 只搬运美音，字幕大部分是机翻，欢迎催更 | 4.5万 | B站](https://space.bilibili.com/22095156/lists)**
   - [Adam’s English Lessons · engVid](https://www.bilibili.com/video/BV1qb4y1L7uf/?spm_id_from=333.337.search-card.all.click)
+
+---
+### 0078. Thejonathan | Genshin Impact
+**[Thejonathan]{s}**
+* **[黯殇As_ | 5.2万 | B站](https://space.bilibili.com/98717318?spm_id_from=333.788.upinfo.detail.click)**
+  - [Thejonathan | Genshin](https://www.bilibili.com/video/BV1hLTj6QEf8/?spm_id_from=333.1387.collection.video_card.click)
 
 ---
 ### 9999. 开源项目

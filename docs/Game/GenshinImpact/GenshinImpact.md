@@ -83,13 +83,13 @@
     - [「虚空劫灰往事书」 | 004](https://v.douyin.com/T3ay5cG0PKs/)
 
 ---
-**[Genshin Impact Full Story]{p}**
+**[Genshin Impact Full Story]{s}**
 * **[Genshin Impact Full Story](https://www.youtube.com/playlist?list=PLw0ry7t3NLChNv_LOQGYJlbiSxPbTEWsd)**
 
 * **[All Genshin Impact Cutscenes 1.0 - 6.4](https://www.youtube.com/watch?v=wqJXPkOMz4E)**
 
 ---
-**[IGNITE]{p}**
+**[IGNITE]{s}**
 * **[IGNITE | 3.41万 | Youtube](https://www.youtube.com/@IGNITE0911/videos)**
   - [THE COMPLETE STORY OF GENSHIN IMPACT BEFORE SNEZHNAYA - FULL RECAP](https://www.youtube.com/watch?v=6Twj9J6v_Ws)
   - [All Genshin Impact Cutscenes 1.0 - 6.4](https://www.youtube.com/watch?v=wqJXPkOMz4E)
@@ -571,7 +571,7 @@
 
 ---
 ### 0010. Nixo
-**[Nixo]{p}**
+**[Nixo]{s}**
 * **[Nixo | 3.5万 | Youtube](https://www.youtube.com/@nixogenshin/videos)**
   - [LootBar.gg - Pay Less. Play More. A Secure and Trusted Game Store](https://lootbar.gg/?utm_source=Affiliate&utm_medium=Affiliate&utm_campaign=Nixo)
 
@@ -634,7 +634,24 @@
   - [八重神子](https://v.douyin.com/NcBsaoyx_1o/)
 
 ---
+### 0018. Thejonathon | GenshinImpact
+**[Thejonathon·GenshinImpact]{s}**
+* **[Thejonathon | 71.5万 | 油管](https://www.youtube.com/@Thejonathon/videos)**
+  - [THE MOON ARCHON QUEST IS INSANE... Genshin Impact Moon Gazing 6.7 world quest full reaction | Min: 04H:06M:55S](https://www.youtube.com/watch?v=K8UZ3xK4xow)
+
+---
+**[黯殇As_ · GenshinImpact]{s}**
+* **[黯殇As_ | 5.2万 | B站](https://space.bilibili.com/98717318?spm_id_from=333.788.upinfo.detail.click)**
+
+---
+### 0019. BranOnline | GenshinImpact
+**[BranOnline·GenshinImpact]{s}**
+* **[BranOnline | 41.1 | 油管](https://www.youtube.com/@BranOnline/videos)**
+  - [6.7 - The Truth About Teyvat’s Moon Is Insane | Min: 05H:41M:31S ](https://www.youtube.com/watch?v=mUjol3LBzuc)
+
+---
 ### 9999. Download
+**[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
