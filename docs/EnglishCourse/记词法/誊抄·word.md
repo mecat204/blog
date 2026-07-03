@@ -25,7 +25,7 @@
 ### 0003. JH
 **[JH]{e}**
 * **[JH | 拥有的从来都是侥幸，无常才是人生的常态，所有的成熟都是从失去开始。| 千章](https://v.douyin.com/gPq5wDayQ4U/)**
-  - [英语人生感悟 # 英文语录经典治愈系](https://v.douyin.com/WxSHLc_ucrI/)
+  - [英语人生感悟 英文语录经典治愈系](https://v.douyin.com/WxSHLc_ucrI/)
   - [Solve the problem, or leave the problem. Do not live with the proble]{g}
   - [You make a decision](https://v.douyin.com/TNlT6y2htnA/)
   - [If you want to make the wrong desision, ask everyone. The more people you ask, the less you hear yourself.]{g}
