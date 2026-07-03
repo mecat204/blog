@@ -12,7 +12,7 @@
   - [Ted](https://www.ted.com/)
 
 ---
-**[vimeo.com | 区别于油管 | 专业性]{s}**
+**[vimeo.com | 区别于YTB | 专业性]{s}**
 * **[vimeo.com](https://vimeo.com)**
     - [There Are No Secrets](https://vimeo.com/1167798736)
 
@@ -23,7 +23,7 @@
 
 ---
 ### 9999. Download
-**[dlpanda]{p}**
+**[dlpanda]{s}**
 * **[Download TikTok Videos Without Watermark | Free HD Video &amp; Photo Downloader - DLPanda.com](https://www.dlpanda.com/)**
 
 ---

@@ -1,13 +1,13 @@
 ### 0000. Download
-**[dlpanda]{p}**
+**[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
-**[abc2022]{p}**
+**[abc2022]{s}**
 * **[abc2022](https://www.abc2022.cn)**
 
 ---
-**[free.中国]{p}**
+**[free.中国]{s}**
 * **[free.中国](https://free.xn--fiqs8s/)**
 
 ---
@@ -41,8 +41,8 @@
 
 ---
 ### 0002. Movie
-**[movie·优质]{p}**
-**[七味]{p}**
+**[movie·优质]{s}**
+**[七味]{s}**
   - [qmp4 | proxy](https://www.qmp4.com)
   - [gmp4 | proxy](https://www.gmp4.com)
   - [qwnull](https://www.qwnull.com)
@@ -58,17 +58,22 @@
     * **[地球脉动](https://pan.quark.cn/s/9a87169ebf29#/list/share)**
     * **[雨霖铃 | 杨洋 章若楠](https://pan.quark.cn/s/6b59fa51fa53#/list/share)**
 
-  ---
-  - **[OWOTUBE影院](https://owotube.com/)**
-  - **[laodifang.cc](https://www.laodifang.cc/)**
-  * **[laodifang.tv](https://www.laodifang.tv/)**
-
-  ---
-  - **[腾讯视频 - Get the WeTV APP | 904万 | Youtube](https://www.youtube.com/@TencentVideo/videos)**
-    - [ENG SUB【仙剑奇侠传三 Sword and Fairy 3】EP05](https://www.youtube.com/watch?v=SsZg2eYbG5c)
+---
+**[OWOTUBE影院]{s}**
+* **[OWOTUBE影院](https://owotube.com/)**
 
 ---
-**[libvio]{p}**
+**[laodifang]{s}**
+* [laodifang.cc](https://www.laodifang.cc/)
+* [laodifang.tv](https://www.laodifang.tv/)
+
+---
+**[腾讯视频·ytb]{s}**
+* **[腾讯视频 - Get the WeTV APP | 904万 | Youtube](https://www.youtube.com/@TencentVideo/videos)**
+  - [ENG SUB【仙剑奇侠传三 Sword and Fairy 3】EP05](https://www.youtube.com/watch?v=SsZg2eYbG5c)
+
+---
+**[libvio]{s}**
 * **[libvio.mov](https://libvio.mov/)**
 * **[libvio.run](https://www.libvio.run/)**
     * **[剑来 | quark](https://pan.quark.cn/s/1783bc24dc32#/list/share)**
@@ -76,18 +81,18 @@
 * **[libvio.vip](https://libvio.vip/)**
 
 ---
-**[EngLearner]{p}**
+**[EngLearner]{s}**
 * **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
   - **[Kimivod | 電視劇 電影 動漫 綜藝 線上看](https://kimivod.com/)**
     * [魔俠傳之唐吉可德](https://kimivod.com/vod/30393/1-1.html)
 
 ---
-**[NetflixGC]{p}**
+**[NetflixGC]{s}**
   - **[NetflixGC | 奈飞工厂-一个致力于免费提供Netflix影剧动漫的流媒体播放平台](https://www.netflixgc.com/)**
 
 ---
-### 0002a. dalao.ru
-**[dalao.ru]{p}**
+### 0003. dalao.ru
+**[dalao.ru]{s}**
   * [资源合集](https://b.oe.do/)
   * **[iui.su](https://iui.su/link.html)**
     - **[movie](https://movie.ley.best/)**
@@ -99,11 +104,12 @@
 **[饭搭子影视 | proxy]{g}**
 * **[饭搭子影视](https://fdzys.com/)**
 
-**[清禾视频 | proxy]{g}**
+---
+**[清禾视频]{s}**
 * **[清禾视频](https://movie.qhdaohang.cn/vodtype/20.html)**
 
 ---
-**[P.DOG | 永乐视频]{s}**
+**[P.DOG · 永乐视频]{s}**
 * **[永乐视频](https://www.y6f.net/vodtype/4/)**
   - [超级马力欧银河大电影](https://www.y6f.net/play/122937-1-1/)
   - [你的名字](https://www.y6f.net/voddetail/66290/)
@@ -126,53 +132,53 @@
 * **[Novipnoad | NO视频为用户提供及时的海外热门剧集在线观看，友好无广告，致力于最轻松的追剧体验。](https://www.novipnoad.net/)**
 
 ---
-### 0002b. 4kvm
-**[4kvm]{p}**
-  - **[4kvm·A](https://4kvm.site/)**
-  - **[4kvm·B](https://www.4kvm.net/)**
-    * [怪奇物语: 第1季  | Stranger Things](https://www.4kvm.net/seasons/gqwy1)
-    * [遗落战境 Oblivion | 汤姆·克鲁斯 Tom Cruise](https://www.4kvm.net/movies/ylzj)
-  - **[4kvm·C](https://www.4kvm.pro)**
-  - **[4kvm·D](https://www.4kvm.org)**
-
-  ---
-  * **怀旧港片**
-    * [笑傲江湖96]
-    * [苗翠花]
-    * [刘仪伟-御前四宝]
+### 0004. 4KVM
+**[4kvm]{s}**
+* [4kvm.site](https://4kvm.site/)
+* [4kvm.net](https://www.4kvm.net/)
+  - [怪奇物语: 第1季  | Stranger Things](https://www.4kvm.net/seasons/gqwy1)
+  - [遗落战境 Oblivion | 汤姆·克鲁斯 Tom Cruise](https://www.4kvm.net/movies/ylzj)
+* [4kvm.pro](https://www.4kvm.pro)
+* [4kvm.org](https://www.4kvm.org)
 
 ---
-**[Dailymotion]{p}**
+**[怀旧港片]{g}**
+ - [笑傲江湖96]
+ - [苗翠花]
+ - [刘仪伟-御前四宝]
+
+---
+**[Dailymotion]{s}**
 * **[Dailymotion](https://www.dailymotion.com/us)**
     - [光明世界](https://www.dailymotion.com/user/KidsPersonalTv)
 
 ---
-**[AnFuns·动漫]{p}**
+**[AnFuns·动漫]{s}**
   - **[AnFuns.cc](https://www.anfuns.cc/)**
   - **[AnFuns·in](https://www.anfuns.in)**
 
 ---
-**[4K指南]{p}**
+**[4K指南]{s}**
   - **[4K指南](https://xuexizhinan.com/)**
   - **[小宝影院](https://xiaoxintv.cc/)**
 
 ---
-**[金牌影院]{p}**
+**[金牌影院]{s}**
   - **[hskjjglo](https://www.hskjjglo.com/)**
   - **[vv3nwjk](https://www.vv3nwjk.com/)**
 
 ---
-**[爱壹帆]{p}**
+**[爱壹帆]{s}**
   - **[爱壹帆](https://www.iyf.tv/)**
 
 ---
-**[other]{p}**
+**[other]{s}**
   - **[多瑙影院](https://dnvod.org/)**
   - **[香菇影视 | proxy](https://www.xiangguys.com/)**
   * **[时空影院](https://www.skwzt.com/)**
 
 ---
-**[Movie]{p}**
+**[Movie]{s}**
   - **[一糖导航](https://iitang.com/)**
   - **[网盘资源](https://t.me/s/Aliyun_4K_Movies?before=51753)**
   - **[32个网盘搜索](https://zhuanlan.zhihu.com/p/32753352416)**
@@ -194,12 +200,12 @@
   - **[香菇影视](https://www.xiangguys.com/)**
 
 ---
-**[proxy·movie]{p}**
+**[proxy·movie]{s}**
   - [Binge Society-电影片段](https://www.youtube.com/@bingesociety/playlists)
 
 ---
-### 0003. Englearner.site
-**[Englearner.site]{p}**
+### 0005. Englearner.site
+**[Englearner.site]{s}**
 * **[Englearner.site](https://www.englearner.site/cn/index.html)**
 
   ---
@@ -221,25 +227,25 @@
     - [nunflix](https://nunflix.org/)
 
 ---
-### 0003a. Bttwo | proxy | Film-Note
-**[Bttwo]{p}**
+### 0006. Bttwo | proxy | Film-Note
+**[Bttwo]{s}**
   - **[bttwo.vip](https://bttwo.vip/)**
   - **[bttwo.org](https://www.bttwo.org/)**
   - **[bttwo.me](https://www.bttwo.me)**
 
 ---
-**[麦田影院]{p}**
+**[麦田影院]{s}**
   - [麦田影院TV](https://www.mtyy.tv/)
   - [麦田影院](https://www.mtyy4.com/)
 
-**[嘀嗒影视]{p}**
+**[嘀嗒影视]{s}**
   - [嘀嗒影视](https://www.didahd.pro/)
 
-**[天空影视]{p}**
+**[天空影视]{s}**
   - [天空影视](https://skyyyds.com/)
 
 ---
-**[黑白-国外电影-精神-战斗]{p}**
+**[黑白-国外电影-精神-战斗]{s}**
 * **黑白-国外电影-精神-战斗 美少女特工队 大鹅 梦境制作models**
   - [Sucker Punch | 4K Trailer | Warner Bros. Entertainment](https://www.youtube.com/watch?v=vJ0xYZ5mVMc)
   - [异界-大鹅科幻作品](https://www.youtube.com/watch?v=AN1ffslY1cw)
@@ -254,7 +260,7 @@
   - [LUCY 2 (2026)](https://www.youtube.com/watch?v=deMHi69NA1Q)
 
 ---
-**[Quark]{p}**
+**[Quark]{s}**
   - [逆世界](https://pan.quark.cn/s/fdf3e32f44ac#/list/share)
   - [可爱的骨头](https://pan.quark.cn/s/627222c2d675#/list/share)
   - [美少女特攻队](https://pan.quark.cn/s/edd7d256bc3b#/list/share)
@@ -269,14 +275,14 @@
   - [荒野生存](https://v.douyin.com/J_jP3V0t678/)
 
 ---
-### 0004. mvcat | 厂长资源
-**[mvcat]{p}**
+### 0007. mvcat | 厂长资源
+**[mvcat]{s}**
   * **[mvcat](https://www.mvcat.com/)**
     - **[在线电影](https://maohaha.com/n/2053/#https://maohaha.com/c/51845/)**
       * **[毒舍电影](https://www.dushe05.com/)**
 
   ---
-  **[低端影视]{p}**
+  **[低端影视]{s}**
   * **[低端影视](https://maohaha.com/c/9417/)**
     - **[ddys.run](https://www.ddys.run)**
     - **[ddys.io](https://ddys.io/)**
@@ -294,7 +300,7 @@
     * **[搜片 | 搜你想看的影片](https://soupian.one/)**
 
   ---
-  **[厂长资源]{p}**
+  **[厂长资源]{s}**
   - **[厂长资源](https://www.czzy.site/)**
     * **[czzymovie](https://www.czzymovie.com/)**
       - **[2013年 | 美国 | 地心引力](https://www.czzymovie.com/v_play/bXZfMzQyNS1ubV8=.html)**
@@ -305,8 +311,8 @@
     * **[4kcz](https://www.4kcz.com/)**
 
 ---
-### 0004a. zeuis
-**[zeuis]{p}**
+### 0008. zeuis
+**[zeuis]{s}**
 * **[zeuis 工具导航](https://www.zeuis.com/)**
   - [西瓜影院](https://sszzyy.com/)
   - [LibreTV](https://libretv.liumingye.cn/)
@@ -314,11 +320,16 @@
   - [布布追剧](https://asd123sx23xdacsx.top/)
 
 ---
-### 0005. TV-小品
+**[清禾视频]{s}**
+* **[清禾视频](https://movie.qhdaohang.cn/vodtype/20.html)**
+
+---
+### 0009. TV-小品
 * **[百家观察·相声小品](https://www.youtube.com/watch?v=tFcW-VJ_HR4&list=PLxD8kq6jJ87MAEhKQt0HNef0OxFiCdh4I)**
 
 ---
-### 0005a. Douyin | 影视 | 云盘
+### 0010. Douyin | 影视 | 云盘
+**[Also]{s}**
 * **[Also | 绘梦 | 百章 | Douyin](https://v.douyin.com/ImjTwLpQbNE/)**
   - [云山之间，仿佛有人在悄悄**绘梦** | midjourney | ai视频 | 审美积累 | mj | 治愈系风景](https://v.douyin.com/F7LCYbgH5Po/)
     * **[剑与魔法的世界]()**
@@ -330,6 +341,7 @@
   - [这个世界像是走错了一步，却刚好](https://v.douyin.com/RwnMlFH8y14/)
 
 ---
+**[雪谷]{s}**
 * **[雪谷 | 二次元创造者 | 国漫 新番 CG | 千章 | Douyin](https://v.douyin.com/zFmHa2Bs1Q8/)**
   - [十三境以下关我阿良十三境巅峰什么事](https://v.douyin.com/bzO6QzQ3eNo/)
   - [宁姑娘，下次见面便是告白了](https://v.douyin.com/wqONccfOmvo/)
@@ -338,6 +350,7 @@
   - [去迎 去追 去梦 去战天涯](https://v.douyin.com/2lZO4acj9TQ/)
 
 ---
+**[油条]{s}**
 * **[油条 | 就是为了一口醋才包的这盘饺子 | 百章 | Douyin](https://v.douyin.com/-XNcSkBl_pw/)**
   - [臣本布衣，躬耕南阳，苟全性命于乱世，不求闻达于诸侯](https://v.douyin.com/1ETZ6_BbNIo/)
   - **[日月蹉跎，人已将老，而功业未建](https://v.douyin.com/rOb8oV5FTMQ/)**
@@ -379,6 +392,7 @@
   - **[电影教会我们：哪怕生活满是荆棘，笑着向前就会遇见花期。](https://v.douyin.com/InpLaXlf2mA/)**
 
 ---
+**[初代风华]{s}**
 * **[初代风华 | 二百章 | Douyin](https://v.douyin.com/4bP-iJ_VmqA/)**
   - [人生如白驹过隙，转眼即逝](https://v.douyin.com/MpmfQO2QLLw/)
   - [岂不闻光阴如骏马加鞭，日月如落花流水，哪有不倒的道理](https://v.douyin.com/an31Xx55zNU/)
@@ -391,7 +405,8 @@
   - [功夫 2004年]
 
 ---
-**[盲剪]{p}**
+**[盲剪]{s}**
+**[盲剪]{s}**
 * **[盲剪 | 伍佰章](https://v.douyin.com/wyJI82Q8juo/)**
 
   ---
@@ -402,10 +417,12 @@
     - [外星+人2](https://www.bttwo.org/play/ch0ztbd3k)
 
 ---
+**[俗电影]{s}**
 * **[俗电影 | 正在做一部电影！ 专业剖析 | 百章 | Douyin](https://v.douyin.com/xWGXaElGdJs/)**
   - [2010年它横空出世，如今十六年过去还是没有一个能打的 | 猫屎一号](https://v.douyin.com/uIZ2w8EvRvs)
 
 ---
+**[木七说]{s}**
 * **[木七说 | 没事讲点故事 更多好片等你解锁 | 百章 | Douyin](https://v.douyin.com/IVdUx_ywN3A/)**
   - [先点炸药后点烟，不敢想象这一口到底有多爽 | 卡洛斯 | **生化危机3**](https://v.douyin.com/lHwLmY1PyGY/)
   - [为什么仅凭这一个画面，就能让无数人血液沸腾 |**爱死机 | 秘密战争**](https://v.douyin.com/IScebduFYAg/)
@@ -419,6 +436,7 @@
   - [直面恐惧才是打破死亡规则的唯一方式 | 电影解说 | **安雅泰勒乔伊** | 菜单](https://v.douyin.com/FK3muxZcJQQ/)
 
 ---
+**[2025]{s}**
 * **[2025 | 热爱生活。传递正能量 | 二十章 | Douyin](https://v.douyin.com/9rXyRh16xF4/)**
   - [谈判高手的精彩瞬间](https://v.douyin.com/UvvL1q-B_c4/)
   - [想改变世界 从叠被子开始](https://v.douyin.com/Yd7WhfxmH_o/)
@@ -428,6 +446,7 @@
   - [**泰坦尼克号 | quark**](https://pan.quark.cn/s/c111ed1377b1#/list/share)
 
 ---
+**[挑灯夜剪]{s}**
 * **[挑灯夜剪 | 抖音解说'过江之鲫 我心所向' | Spartacus | 权游 | 龙族 | 七国王的骑士 | 二百章 | Douyin](https://v.douyin.com/oMY4gmPw3gs/)**
   - [身形虽小气场万丈，以勇毅为刃凭底气护北境的精神领袖-小熊女 | 了不起的精讲团](https://v.douyin.com/EnKz7KZd-n4/)
   - [不辜负每一份信任与支持。失去是常态，失败也是常态， 这便是人生。因为生命的韧性程度，要靠精神来反复打磨 | **七王国的骑士**](https://v.douyin.com/dImgWgku43U/)
@@ -436,6 +455,7 @@
   - [伊耿《二世》降临，国王优柔寡断，储位摇摆不定， 红堡分裂为公主与王后两派](https://v.douyin.com/G5QsMbpO-VY/)
 
 ---
+**[英语雪梨老师]{s}**
 * **[英语雪梨老师 | 香港中文大学翻译硕士 | 二千章 | Douyin](https://v.douyin.com/KBw5U92lhwc/)**
   - [年兽的故事](https://v.douyin.com/Pp6E5207qkg/)
   - [春节一定要给孩子读这本～ Maisy’s Chinese New Year](https://v.douyin.com/OvBhfqii2KA/)
@@ -450,14 +470,14 @@
     * [Little Human Planet | 小小人类星球]()
 
 ---
-* **电影**
+**[电影·ytb]{s}**
   - **[新龙门客栈](https://www.youtube.com/watch?v=eCy1YvYGsi0)**
   - **[大遼太后 The Empress Dowager of Great Liao (1995)](https://www.youtube.com/watch?v=0Laq0cqKN20)**
   - **[新天龙八部之天山童姥](https://www.youtube.com/watch?v=v3LmGve2HRQ)**
   - **[国产凌凌漆](https://www.youtube.com/watch?v=kdilUANii6s)**
 
 ---
-### 0006. Movie | 介绍
+### 0011. Movie | 介绍
 * **现实与虚幻的边界消解**
 | 电影 | 剧情简述 | 关联点 |
 |------|----------|--------|
@@ -506,7 +526,7 @@
 - 这些电影均以**意识、记忆或空间异化**为核心，适合沉浸式思考存在与虚幻的边界。
 
 ---
-### 0007. 电影资源
+### 0012. 电影资源
 * **[蓝点网](https://www.landiannews.com/)**
   - [海棠网  | 海棠应用网专注黑科技软件, 绿色无毒互联网资源分享](https://www.haitangw.cc/)
 
@@ -529,8 +549,8 @@
 * **[韩剧网 | 最新韩国电视剧, 电影, 综艺, 韩剧TV](https://www.thanju.com/)**
 
 ---
-### 0008. kimivod | 动漫电影
-**[kimivod]{p}**
+### 0013. kimivod | 动漫电影
+**[kimivod]{s}**
   - [Kimivod | 電視劇 電影 動漫 綜藝 線上看](https://kimivod.org/)
 
 ---
@@ -552,22 +572,22 @@
 * **[童年时光的美好记忆 | 回顾40部欧美系译制动画片](https://www.douban.com/note/682870142/?_i=3801849Pu7UAEH)**
 
 ---
-**[Barbapapa]{p}**
+**[Barbapapa]{s}**
   - [Barbapapa/1975年/法国/引进58集]
 
   ---
-  **[He-Man and the Masters of the Universe | 宇宙的巨人希曼]{p}**
+  **[He-Man and the Masters of the Universe | 宇宙的巨人希曼]{s}**
     - [He-Man and the Masters of the Universe/1983/美国/引进50集]
 
   ---
-  **[She-Ra: Princess of Power | 希瑞公主]{p}**
+  **[She-Ra: Princess of Power | 希瑞公主]{s}**
 
   ---
-  **[忍者神龟 | Teenage Mutant Ninja Turtles]{p}**
+  **[忍者神龟 | Teenage Mutant Ninja Turtles]{s}**
     - [忍者神龟 | Teenage Mutant Ninja Turtles/美国/1987年/首次引进120集）]
 
 ---
-**[神龙斗士 | 魔神英雄传2]{p}**
+**[神龙斗士 | 魔神英雄传2]{s}**
 * **[80、90年代大陆播放过的30部经典动画](https://kknews.cc/comic/39kz3zg.html)**
   - [神龙斗士 | 魔神英雄传2（又名神龙斗士）](https://kimivod.com/vod/25967/1-1.html)
 
@@ -575,33 +595,33 @@
 * **[30部童年的动画片](https://kknews.cc/comic/ynozvk.html)**
 
 ---
-### 0009. APTV
-**[APTV]{p}**
+### 0014. APTV
+**[APTV]{s}**
   - [APTV](https://github.com/Kimentanm/aptv)
   - [Kimentanm](https://github.com/Kimentanm?tab=repositories)
   - [网易UU远程](https://uuyc.163.com/download/)
 
 ---
-### 0010. 范苏木·圆明园
+### 0015. 范苏木·圆明园
 * [范苏木·圆明园](https://v.douyin.com/M_GFBUY0N44/)
 
 ---
-### 0011. 纪录片 Chinese Documentary Film
+### 0016. 纪录片 Chinese Documentary Film
 * [中国纪录片 Chinese Documentary Film](https://www.youtube.com/playlist?list=PLAiqj3QY5CU3LiqVDiUYR8Lfhff6mn8UQ)
 * [圆明园](https://www.youtube.com/watch?v=87vdfRJleMo)
 * [Palace_Museum](https://commons.wikimedia.org/wiki/Category:Album_of_engravings_depicting_Yuanmingyuan_(Palace_Museum))
 
 ---
-### 0012. 博物院
+### 0017. 博物院
 * **[故宫博物馆](https://www.dpm.org.cn/)**
 
 ---
-### 0013. 影视解说 | Youtube&&Bilibili
+### 0018. 影视解说 | Youtube&&Bilibili
 * **[WasabiDrama](https://www.youtube.com/@WasabiDrama)**
   - [哇萨比抓马 | 哇是猫，男声萨比，女声抓马 影视系毕业生/又细又长 | 111.8万](https://space.bilibili.com/68412710)
 
 ---
-### 0014. 国漫 | 凡人 | 遮天
+### 0019. 国漫 | 凡人 | 遮天
 * **[遮天](https://www.youtube.com/watch?v=_TyUkS1DOwc)**
 
 ---
@@ -616,7 +636,7 @@
   - [剑来](https://v.douyin.com/ra5xsTDVdaQ/)
 
 ---
-### 0015. 美剧
+### 0020. 美剧
 * **[The Thrifty Typewriter](https://www.youtube.com/@thethriftytypewriter)**
   - **[Westworld: HBO's Biggest Failure (Part 1)](https://www.youtube.com/watch?v=myTXD8EGg7Y)**
 
@@ -624,7 +644,7 @@
 * **[tubitv](https://tubitv.com/)**
 
 ---
-### 0016. 雅思人必刷60部英文电影
+### 0021. 雅思人必刷60部英文电影
 * **寻梦环游记**
 * **绿皮书**
 * **当幸福来敲门**
@@ -686,11 +706,11 @@
 * **天使爱美丽**
 
 ---
-### 0017. Youtube 剧集讲解
+### 0022. Youtube 剧集讲解
 * **[TVWorld001](https://www.youtube.com/@TVWorld001)**
 
 ---
-### 0018. Film
+### 0023. Film
 * **再次出发之纽约遇见你**
 * **樱花庄的宠物女孩**
 * **秒速五厘米**
@@ -711,7 +731,7 @@
 * **阿甘正传 | 关于毅力和坚持**
 
 ---
-* **[风雨哈佛路 | Homeless to Harvard | 关于自信]{p}**
+* **[风雨哈佛路 | Homeless to Harvard | 关于自信]{s}**
   - **[风雨哈佛路](https://www.qwnull.com/py/39174-2-1.html)**
   - **[Homeless to Harvard](https://pan.quark.cn/s/27a48ec76c56#/list/share)**
   - **[風雨哈佛路](https://kimivod.com/vod/34251/2-1.html)**
@@ -786,11 +806,11 @@
 * **创：战神 Tron: Ares**
 
 ---
-### 0019. 8090年代中国引进的海外剧
+### 0024. 8090年代中国引进的海外剧
 * **[影视](https://www.youtube.com/channel/UCuVPpxrm2VAgpH3Ktln4HXg)**
 
 ---
-**[央视1979-2001引进的外国电影和电视剧]{p}**
+**[央视1979-2001引进的外国电影和电视剧]{s}**
 * **[央视1979-2001引进的外国电影和电视剧](https://mecat204.github.io/website/source/cctv.film/index.html)**
 
 ---
@@ -807,8 +827,8 @@
   - [90年代的英美剧新剧](https://www.douban.com/doulist/46250658/)
 
 ---
-### 0020. 电影美学 | 影视作品 | 回忆
-**[AC_Blue]{p}**
+### 0025. 电影美学 | 影视作品 | 回忆
+**[AC_Blue]{s}**
 * **[AC_Blue | 星光殷殷 其灿如言 | 千章 | Douyin](https://v.douyin.com/5TRXgPiNxz0/)**
   - [似乎一切事物的结局 都得由它收尾 | 眼泪](https://v.douyin.com/QxG7VMezsms/)
   - [两边都是我的亲人 也就觉着不害怕了 | 我们天上见](https://v.douyin.com/ThQvnhUp9hI/)
@@ -816,13 +836,14 @@
   - [子弹要飞多久 才能变成和平的白鸽](https://v.douyin.com/vjk62Wnqc_8/)
 
 ---
-**[国光小卖部]{p}**
+**[国光小卖部]{s}**
 * **[国光小卖部 | 我叫王国光 带你回到8090后的童年 童年零食下方橱窗 | 贰佰章](https://v.douyin.com/k1nKArmlczM/)**
   - [快醒醒，你回到1987年了](https://v.douyin.com/ai6ctXx997Q/)
   - [一开口就是童年，一转眼就是半生](https://v.douyin.com/F70GThn0jfs/)
   - [童年的小伙伴们都谢幕了，而我们，是他们永不散场的观众。](https://v.douyin.com/XhGqrEErHxQ/)
 
 ---
+**[ilysol]{s}**
 * **[ilysol | 二百章 | Douyin](https://v.douyin.com/LFSJ0pMRDiA/)**
   - ["行了 大家聪明人 了解" | **鹿鼎记**](https://v.douyin.com/nxLF-YVOZPQ/)
   - [**柳如是**](https://v.douyin.com/xvmlq-tn-fQ/)
@@ -831,25 +852,29 @@
   - [给你钱 也买不回失去的东西  | **武状元苏乞儿**](https://v.douyin.com/ukVDxCl1H2o/)
 
 ---
+**[阿智解说]{s}**
 * **[阿智解说 | 电影是生活的切片，透过镜头与表演 可以窥探到人性的幽徽和世界的广袤](https://v.douyin.com/Lb23hExLPcM/)**
   - [《画魂》：从底层女性到一代画师，从青楼到画坛的传奇逆袭 | 画魂 | 巩俐](https://v.douyin.com/Pa0KTQRm6nU/)
 
 ---
+**[況明潔]{s}**
 * **[況明潔 | 中国台湾演员况明洁，城市少女组合成员。](https://v.douyin.com/XEfM5nxs0PU/)**
   - [相爱要全身全意，不能…半点心… | 况明洁 | 杨庆煌 | 再世情缘 | 因为一个片段看了整部剧](https://v.douyin.com/5IrNI-NU1CU/)
   - [人与人之间最美好的回忆是初相遇，俩俩目相望，俩俩不相忘。人生若只如初见，他她称心如意。 | 况明洁 | 再世情缘](https://v.douyin.com/R_mbwN77pyk/)
 
 ---
+**[艾里逊]{s}**
 * **[艾里逊. | 电影艺术🎬 用电影思考人生 感悟艺术之美](https://v.douyin.com/i-BZpk31qRk/)**
   - ["中国神话一直都是文化与人心的碰撞"  | 电影美学  | 了不起的混剪团  | 美学放大镜  | 黑神话悟空  | 中国奇谭](https://v.douyin.com/8zO9URcV4B0/)
 
 ---
-### 0021. 电影对白
+### 0026. 电影对白
+**[发财小y]{s}**
 * **[发财小y | 分享一点喜欢的](https://v.douyin.com/-ZkMY7SucPs/)**
   - [简爱 | 电影对白](https://v.douyin.com/1cFoxN6_IAs/)
 
 ---
-### 0022. 奥斯卡电影列表
+### 0027. 奥斯卡电影列表
 * **翼**
 * **西线无战事**
 * **壮志千秋**
@@ -904,7 +929,7 @@
 * **拆弹部队**
 
 ---
-### 0023. 电影解说 | 长剧
+### 0028. 电影解说 | 长剧
 * **[风行浮生影院 | 正版授权，感谢关注 | 千章 | Douyin](https://v.douyin.com/EdOquCmLiyQ/)**
   - [04.算计半生掌乾坤，一代妖后慈禧，一手遮天覆大清 | 一代妖后 | 巩俐 | 刘晓庆 | 剧情片 | 慈溪](https://v.douyin.com/Y3A_IWfH-ew/)
 
@@ -998,15 +1023,15 @@
   - [05. 一部看懂就能开悟的电影"禅" | 佛教文化 | 佛教故事](https://v.douyin.com/7OAqTeFu_G0/)
 
 ---
-### 0024. 电视剧
+### 0029. 电视剧
 * **[Croton MEGA HIT 克頓傳媒 史詩傑作 | Youtube](https://www.youtube.com/@CrotonMEGAHIT)**
   - [境· 双城](https://www.youtube.com/playlist?list=PLpOa-OrneXm2yBlLKNWL9qLCDfLxuSWal)
   - [七月雪](https://www.youtube.com/playlist?list=PLpOa-OrneXm0x5o2A-Bi7AVyrG8y1i_39)
   - [【七夜雪】主题曲MV：周深《一生一瞬》| 李沁、曾舜晞主演 | Snowy Night Timeless Love - OST](https://www.youtube.com/watch?v=RD1mFNAvWs0&list=PLpOa-OrneXm0x5o2A-Bi7AVyrG8y1i_39&index=3)
 
 ---
-### 0025. Movie Source
-**[七味]{p}**
+### 0030. Movie Source
+**[七味]{s}**
   - [qmp4 | proxy](https://www.qmp4.com)
   - [gmp4 | proxy](https://www.gmp4.com)
   - [qwnull](https://www.qwnull.com)
@@ -1015,15 +1040,16 @@
   - [qnmp4](https://www.qnmp4.com)
 
 ---
-**[天空影视]{p}**
+**[天空影视]{s}**
   - [天空影视](https://skyyyds.com/)
 
 ----
-**[夸克网盘资源]{p}**
+**[夸克网盘资源]{s}**
 * **[夸克网盘资源](https://kuakes.com/)**
 * **[夸克4K资源](https://quark4k.com/)**
 
 ---
+**[疯狂动物城2]{s}**
 * **[疯狂动物城2](https://pan.quark.cn/s/017f19dcc305#/list/share/a747b46a7ee14515be0843008c7d941e)**
 
 ---
@@ -1031,32 +1057,41 @@
   - [银翼杀手2049](https://pan.quark.cn/s/b1b77b80e3bf#/list/share/20f7eadc1a8d458a9a73f5927853b8c6)
 
 ---
+**[双轨]{s}**
 * **[双轨](https://pan.quark.cn/s/70469f387585#/list/share)**
 
 ---
+**[芸汐传.2018.4K]{s}**
 * **[芸汐传.2018.4K](https://pan.quark.cn/s/777d2b9683c5#/list/share)**
 
 ---
+**[新白娘子传奇]{s}**
 * **[新白娘子传奇](https://www.youtube.com/playlist?list=PLlCrV9TCfzMZv3PVDZ37D8sNnccM6LoGa)**
 * **[新白娘子传奇 | Quark](https://pan.quark.cn/s/0491cb23e09f#/list/share)**
 
 ---
+**[千朵桃花一世开]{s}**
 * **[千朵桃花一世开 | 孙珍妮 张彬彬](https://pan.quark.cn/s/0bee3e40e65b#/list/share)**
-  - 宿命轮回
+  - [宿命轮回]{g}
 
 ---
+**[长月烬明]{s}**
 * **[长月烬明 | 白鹿 ](https://pan.quark.cn/s/530779bddc51#/list/share)**
 
 ---
+**[白月梵星]{s}**
 * **[白月梵星 | 白鹿 熬瑞鹏](https://pan.quark.cn/s/23f16da392f9#/list/share)**
 
 ---
-* **[月鳞绮纪 | 鞠婧祎 曾舜晞 陈都灵](https://www.4kvm.net/play/ch43cs5ab)**
+**[月鳞绮纪]{s}**
+* **[月鳞绮纪 | 鞠婧祎 曾舜晞 陈都灵](https://www.4kvm.org/play/ch43cs5ab)**
 
 ---
+**[仙剑四]{s}**
 * **[仙剑四 | 4kvm.net](https://www.4kvm.net/seasons/xjs)**
 
 ---
+**[汉武大帝]{s}**
 * **[汉武大帝](https://pan.quark.cn/s/2c92f5604b29#/list/share)**
 
 ---
@@ -1070,6 +1105,7 @@
   - **[魅者无疆 | quark](https://pan.quark.cn/s/1a359f5ee3b7#/list/share)**
 
 ---
+**[苏西糖]{s}**
 * **[苏西糖 | 百章 | Douyin](https://v.douyin.com/-Mta9ZITJVE/)**
   - [一些我画的女孩子们。整一个合集这里发发 | 原创插画 | 古风插画 艺术 | 画画 | 汉服](https://v.douyin.com/GKInQnzgJiU/)
   - [断断续续画了一年了 纪念一下 |邱饼 |**大理寺少卿游** | 邱庆之李饼 |被大理寺少卿游刀麻了 | 画画](https://v.douyin.com/qeunJaXQ82M/)
@@ -1111,7 +1147,7 @@
 
 ---
 ### 0029. 记忆考古学 | 童年回忆
-**[记忆考古学 | 童年回忆]{p}**
+**[记忆考古学 | 童年回忆]{g}**
 
 ---
 **[The Twins of Destiny 《龙之子》|《命运双子》]{g}**
@@ -1134,7 +1170,7 @@
   - [Aoi Blink Blue Blink Ep. 11-15 English Sub | **Blue Blink | 青色杜马**](https://www.youtube.com/watch?v=akbrTYqPEe0)
 
 ---
-**[童年4K动画商店]{p}**
+**[童年4K动画商店]{s}**
 * **[童年4K动画商店 | 童年动画定制4K修复 | 伍佰章 | Douyin](https://v.douyin.com/ZgVBVK1Dil0/)**
 
 ---
@@ -1162,15 +1198,15 @@
 
 ---
 ### 9999. Download
-**[dlpanda]{p}**
+**[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
-**[abc2022]{p}**
+**[abc2022]{s}**
 * **[abc2022](https://www.abc2022.cn)**
 
 ---
-**[free.中国]{p}**
+**[free.中国]{s}**
 * **[free.中国](https://free.xn--fiqs8s/)**
 
 ---

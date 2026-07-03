@@ -28,7 +28,7 @@
     * [LearnEnglishCourse](EnglishCourse/LearnEnglishCourse/LearnEnglishCourse)
     * [Images](EnglishCourse/LearnEnglishCourse/Images)
   - **Bilibili**
-    * [Bilibili](EnglishCourse/Bilibili/收藏集)
+    * [Bilibili](EnglishCourse/Bilibili/收藏)
   - **Vlog | Youtube**
     * [Vlog](EnglishCourse/Vlog/Vlog)
 
@@ -120,7 +120,7 @@
   - [music](Music/music)
   - [AiSinger](Music/AiSinger)
   - [英文歌曲](Music/英文歌曲)
-  - [B站&油管](Music/B站&油管)
+  - [B站&YTB](Music/B站&YTB)
   - [二胡](Music/二胡)
   - [古琴](Music/古琴)
   - [钢琴](Music/钢琴)

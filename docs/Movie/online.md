@@ -1,61 +1,75 @@
-### 000. Download
-* **[dlpanda](https://dlpanda.com)**
+### 0000. Download
+**[dlpanda]{s}**
+* **[dlpanda](https://www.dlpanda.com)**
 
-### 001. TV-Online
-* **[CCTV | 447万 | 我们致力于更好展现真实、立体、全面的中国，成为中国走向世界、世界读懂中国的重要窗口。| Youtube](https://www.youtube.com/@CCTV/featured)**
+---
+### 0001. TV-Online
+**[CCTV]{s}**
+* **[CCTV | 447万 | 我们致力于更好展现真实、立体、全面的中国，成为中国走向世界、世界读懂中国的重要窗口。| YTB](https://www.youtube.com/@CCTV/featured)**
   - [CCTV纪录](https://www.youtube.com/@CCTVDocumentary)
   - [海外频道_央视网(cctv.com)](https://global.cctv.com/)
 
 ---
-* **[LiveNow24H | 57.8万 | 传承中华文明、服务全球华人，为海内外用户提供新闻、文化类的资讯、互动与服务 | Youtube](https://www.youtube.com/@LiveNow24H)**
+**[LiveNow24H]{s}**
+* **[LiveNow24H | 57.8万 | 传承中华文明、服务全球华人，为海内外用户提供新闻、文化类的资讯、互动与服务 | YTB](https://www.youtube.com/@LiveNow24H)**
   - [中文国际](https://www.youtube.com/watch?v=7j92Myu2wzg)
   - [中文国际 | 美洲](https://www.youtube.com/watch?v=f6Kq93wnaZ8)
 
 ---
-* **[CCTV中文 | 155万 | 聚焦全球动态，传递真实声音，以权威视角解读重大国际事件。| Youtube](https://www.youtube.com/@CCTVCH/videos)**
+**[CCTV中文]{s}**
+* **[CCTV中文 | 155万 | 聚焦全球动态，传递真实声音，以权威视角解读重大国际事件。| YTB](https://www.youtube.com/@CCTVCH/videos)**
 
 ---
-* **[8world | 32.8万 | 最即时的全面报道，全天聚焦新闻热点，关注社会动态！新加坡、东南亚、中港台和国际时事热闻，掌握最前线的新闻观点。| Youtube](https://www.youtube.com/@8worldSG/videos)**
+**[8world]{s}**
+* **[8world | 32.8万 | 最即时的全面报道，全天聚焦新闻热点，关注社会动态！新加坡、东南亚、中港台和国际时事热闻，掌握最前线的新闻观点。| YTB](https://www.youtube.com/@8worldSG/videos)**
   - [资讯不停播！《8视界》 24/7 直播](https://www.youtube.com/watch?v=RvSOIM620bA)
 
 ---
-* **[Bloomberg Television | 306万 | Youtube](https://www.youtube.com/@markets)**
-  - The latest financial news and market analysis, direct from Bloomberg TV.
-  - 最新的财经新闻和市场分析，直接来自彭博电视台。
+**[Bloomberg Television]{s}**
+* **[Bloomberg Television | 306万 | YTB](https://www.youtube.com/@markets)**
+  - [En: The latest financial news and market analysis, direct from Bloomberg TV.]{s}
+  - [Cn: 最新的财经新闻和市场分析，直接来自彭博电视台。]{g}
 
   ---
   - [China Stocks Drop as Trade War Drags On |The China Show 10/13/2025 | 中国股市下跌，贸易战持续拖延 | 中国展 2025年10月13日](https://www.youtube.com/watch?v=4hDbZ_12zic)
 
 
 ---
-* **[鳳凰衛視PhoenixTV Official | 102万 | Youtube](https://www.youtube.com/@phoenixtvglobal/videos)**
+**[鳳凰衛視]{s}**
+* **[鳳凰衛視PhoenixTV Official | 102万 | YTB](https://www.youtube.com/@phoenixtvglobal/videos)**
   - **[鳳凰衛視特別節目](https://www.youtube.com/watch?v=fN9uYWCjQaw)**
 
 ---
-* **[寰宇新聞 頻道 | 108万 | CN-tw | Youtube](https://www.youtube.com/8worldSG)**
+**[寰宇新聞]{s}**
+* **[寰宇新聞 頻道 | 108万 | CN-tw | YTB](https://www.youtube.com/8worldSG)**
   - **[寰宇新闻台](https://www.youtube.com/watch?v=6IquAgfvYmc)**
 
 ---
-* **[天下雜誌 video | 79.1万 | 天下，不只是一本雜誌，我們經營的是「信任」| Youtube](https://www.youtube.com/@cwvideo)**
+**[天下雜誌 video]{s}**
+* **[天下雜誌 video | 79.1万 | 天下，不只是一本雜誌，我們經營的是「信任」| YTB](https://www.youtube.com/@cwvideo)**
   - [飛機、海上、深山都能用手機！6G為何厲害？實現網路「無所不在」【8分鐘看懂天下】](https://www.youtube.com/watch?v=wQsdz8UkQ-I)
   - [三兆美元AI狂潮下的隱憂，多數投資人恐怕血本無歸，甚至衝擊美國經濟](https://www.youtube.com/watch?v=h-gyWgxJ-7w)
 
 ---
-* **[华语纪实大咖说 | 12万 | Youtube](https://www.youtube.com/@Hot-ChinaDocumentary)**
+**[华语纪实大咖说]{s}**
+* **[华语纪实大咖说 | 12万 | YTB](https://www.youtube.com/@Hot-ChinaDocumentary)**
   - [《芳華》解說爆紅後瞬間下架！文革都只是冰山一角？](https://www.youtube.com/watch?v=MfEe_koaUyM)
 
 ---
-* **[柴静Chai Jing | 111万 | Youtube](https://www.youtube.com/@chaijing2023/videos)**
+**[柴静Chai Jing]{s}**
+* **[柴静Chai Jing | 111万 | YTB](https://www.youtube.com/@chaijing2023/videos)**
   - **[柴静专访梁中堂：挑战计划生育40年----历史会纪录，我们这个民族反抗过，反思过](https://www.youtube.com/watch?v=Mros72lMndo)**
 
 ---
-### 002. movie
+### 0002. movie
+**[OWOTUBE影院]{s}**
 * **[OWOTUBE影院](https://owotube.com/)**
   - [靑檸](https://www.youtube.com/@heyao1997)
   - [牧马人](https://www.youtube.com/watch?v=tsBbcaKd2Zg)
 
 ---
-* **[电影大剧院 1905 Movie Theater | 128万 | ](https://www.youtube.com/@CCTV6-MovieTheater)**
+**[电影大剧院 1905 Movie Theater]{s}**
+* **[电影大剧院 1905 Movie Theater | 128万](https://www.youtube.com/@CCTV6-MovieTheater)**
   - **[动作电影 | 动作题材佳作--热血燃爆肾上激素](https://www.youtube.com/playlist?list=PLSmkdyVkfosdCZDaO0uwBDOzYsI9YGkbg)**
   - **[爱情电影 | 跟着角色去感受爱恨纠葛](https://www.youtube.com/playlist?list=PLSmkdyVkfosfZYsYgS_0JmepgOF1q5Ytf)**
   - **[剧情类电影 | 剧情环环相扣令人上瘾](https://www.youtube.com/playlist?list=PLSmkdyVkfosfq4J8Fyd4Xi_VuSDKy6uCR)**
@@ -65,7 +79,8 @@
   - [水浒传之英雄本色](https://www.youtube.com/watch?v=2j3KFNTEPNM)
 
 ---
-* **[經典華語老電影 | 61.5万 | Youtube](https://www.youtube.com/@chnclassic)**
+**[經典華語老電影]{s}**
+* **[經典華語老電影 | 61.5万 | YTB](https://www.youtube.com/@chnclassic)**
   - 經典華語老電影頻道專注在YouTube發行華語經典電影，擁有海量正版授權，歡迎訂閱!
   - Classic Chinese Old Movies Channel focuses on distributing Chinese classic movies on YouTube, with a large number of genuine licenses, welcome to subscribe
 
@@ -73,46 +88,56 @@
   - **[新天龙八部之天山童姥 (1994)](https://www.youtube.com/watch?v=hWjcf8ln_Rs)**
 
 ---
+**[邵氏放映厅]{s}**
 * **[邵氏放映厅 | 896位 | youtube](https://www.youtube.com/@%E9%82%B5%E6%B0%8F%E6%94%BE%E6%98%A0%E5%8E%85)**
 
 ---
-* **[中国精品电视剧 | 6万 | Youtube](https://www.youtube.com/@BestC-Drama/featured)**
+**[中国精品电视剧]{s}**
+* **[中国精品电视剧 | 6万 | YTB](https://www.youtube.com/@BestC-Drama/featured)**
   - [一代枭雄](https://www.youtube.com/watch?v=piPubw47K_8&list=PLRWT6lKXUm2mzZoHbQUBwlsNDsvCICQrF)
 
 ---
-* **[优优经典剧场——YoYo Television Series Classic | 41.5万 | Youtube](https://www.youtube.com/@YoYoTVClassic)**
+**[优优经典剧场——YoYo Television Series Classic]{s}**
+* **[优优经典剧场——YoYo Television Series Classic | 41.5万 | YTB](https://www.youtube.com/@YoYoTVClassic)**
   - [一代枭雄](https://www.youtube.com/watch?v=piPubw47K_8&list=PLRWT6lKXUm2mzZoHbQUBwlsNDsvCICQrF)
 
 ---
-* **[TVB Drama 国语剧场 | 39.5万 | Youtube](https://www.youtube.com/@TVBDrama)**
+**[TVB Drama 国语剧场]{s}**
+* **[TVB Drama 国语剧场 | 39.5万 | YTB](https://www.youtube.com/@TVBDrama)**
   - [射雕英雄传 | 神雕侠侣| 天龙八部 老版](https://www.youtube.com/watch?v=aOXXW1KCnOU&list=PL9K8ksI6u303WctTcb19ja24jPQD2nWWB)
 
 ---
-* **[酷看青春剧场 | 53.3万 | Youtube](https://www.youtube.com/@kukandramaromance)**
+**[酷看青春剧场]{s}**
+* **[酷看青春剧场 | 53.3万 | YTB](https://www.youtube.com/@kukandramaromance)**
   - [大生意人](https://www.youtube.com/watch?v=AoZg9sdMTX8&list=PLkMtr4Yvj1xKKAVaLbCr3m6o8R098z7dD&index=1)
 
 ---
-### 003. 娱乐节目
-* **[CCTV春晚 | 107万 | Youtube](https://www.youtube.com/@CCTVGala)**
+### 0003. 娱乐节目
+**[CCTV春晚]{s}**
+* **[CCTV春晚 | 107万 | YTB](https://www.youtube.com/@CCTVGala)**
   - [2025年中央广播电视总台中秋晚会 2025 Mid-Autumn Festival Gala | CCTV春晚](https://www.youtube.com/watch?v=WF8LhUhyJDw)
 
 ---
-### 004. 纪录片
-* **[芒果TV纪录片 MangoTV EDU | 1.02万 | Youtube](https://www.youtube.com/@MangoTVEDU)**
+### 0004. 纪录片
+**[芒果TV纪录片 MangoTV EDU]{s}**
+* **[芒果TV纪录片 MangoTV EDU | 1.02万 | YTB](https://www.youtube.com/@MangoTVEDU)**
   - [《中国》第一季合集：从春秋到盛唐 再现中国历史上"群星"闪耀时刻 展现悠悠千年古国的精神图腾](https://www.youtube.com/watch?v=K4YI0TwiSxM)
   - [中国》第二季合集：从盛唐到近代 讲述中国自盛唐拐点至辛亥革命的思想源变 呈现有血有肉的中华文明演进史](https://www.youtube.com/watch?v=CG22y9KTCsI)
   - [中国》第三季合集：从神话到历史 上溯尧舜禹 时跨夏商周 以当代视角与中西视野剖析"何以中国"](https://www.youtube.com/watch?v=kqWWKurJVXY)
 
 ---
-* **[湖南卫视芒果TV官方频道  China HunanTV Official Channel | 547万 | Youtube](https://www.youtube.com/@MangoTV-Official)**
+**[湖南卫视芒果TV官方频道]{s}**
+* **[湖南卫视芒果TV官方频道  China HunanTV Official Channel | 547万 | YTB](https://www.youtube.com/@MangoTV-Official)**
   - [《中国第二季 China S2》 第1集：惊变——跟随诗仙李白与诗圣杜甫 感受巍巍大唐的飞扬与沉潜](https://www.youtube.com/watch?v=-ybZh9RMUEw&list=PLUM8x224JrX-EF3FLZ8_7YsKO2mviA_1P)
 
 ---
-### 005. voachinese
+### 0005. voachinese
+**[voachinese]{s}**
 * **[原声带·严歌苓：出走半生，我的觉醒与幻灭](https://www.youtube.com/watch?v=QqrjsAbFekk)**
 
 ---
-### 006. AI
+### 0006. Vimeo eq YTB
+**[Vimeo]{s}**
 * **[Vimeo | All-in-One Video Platform](https://vimeo.com/)**
 
 ---
