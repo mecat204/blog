@@ -507,7 +507,7 @@
 
 ---
 ### 0034. Olga Loiek | 宾夕法尼亚大学认知科学与计算专业学生 | B站
-**[Olga Loiek]{s}**
+**[Olga Loiek]{e}**
 * **[Olga Loiek | 油管: Olga Loiek](https://www.bilibili.com/video/BV1Zd45zsE3g/?spm_id_from=333.337.search-card.all.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
   - [001 why you lost your love for learning & how to get i]
   - [002 What My Gap Year Taught Me About Life and Success]

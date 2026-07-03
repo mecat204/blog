@@ -220,11 +220,12 @@
 
 ---
 ### 0007. 2025
-**[周大人]{p}**
-* **[周大人 | 普通人升级打怪实录 - 认知→实践 | AI 学习 | 从赚点小钱开始 | 生活很难 | 但仍然想保持着那股劲儿 | 五百章 | Douyin](https://v.douyin.com/rnDt8nF3Spg/)**
+**[周大人]{e}**
+* **[周大人 | 想做什么，就直接做 想成为什么，就直接成为。 | 伍佰章 | Douyin](https://v.douyin.com/rnDt8nF3Spg/)**
   - [当你开始站在自己的位置上 再去看信息 你就不会被带着走 也不会急着否定一切](https://v.douyin.com/sWZXaKVqSTY/)
   - [呀！今天看到生财亦仁发的「赚钱咒语」](https://v.douyin.com/HseKrv2x6SQ/)
   - [找到比你优秀的人，去临摹去拆解，找到那个最简单朴素的模式，看看可以给你带来什么样的帮助](https://v.douyin.com/GOQ1LZjXaec/)
+  - [人一旦自我定义，就开始自我限制](https://v.douyin.com/eEQpsIu881E/)
 
 ---
 **[小锤·美食]{e}**
@@ -260,6 +261,18 @@
   - [可惜你不是陕西人，不懂这一碗蘸水面的含金量有多高](https://v.douyin.com/XwPvLZe8ti4/)
   - [可惜你不是陕西人，不知道这碗搅团的含金量有多高](https://v.douyin.com/EHItU31qne0/)
   - [可惜你不是陕西人，又怎会知道我们这里的蒸滋卷有多香](https://v.douyin.com/fatMookDLjk/)
+
+---
+**[我是你的徐律吖]{e}**
+* **[我是你的徐律吖 | 专注于婚姻与家庭事务 | 千章](https://v.douyin.com/OcgUY_aCago/)**
+  - [高危行为不仅伤身，隐瞒HIV传播还要负刑责](https://v.douyin.com/Ab9CrwfXYxg/)
+  - [婚姻律师给男生婚前五个建议，越清醒越幸运](https://v.douyin.com/o57RpUJ3obc/)
+  - [高额彩礼的真相：越贵的婚姻，越容易算计](https://v.douyin.com/3EP9Vunh4iQ/)
+
+---
+**[姐艺大人]{e}**
+* **[姐艺大人 . |  幼儿园抢饭第一 | 护士 | 佰章](https://v.douyin.com/tyDZw5B-aTQ/)**
+  - [说走咱就走 谁不走谁](https://v.douyin.com/1GIw-zdZaEE/)
 
 ---
 **[你好我是一个社恐]{p}**
@@ -347,7 +360,7 @@
   - [依旧驯服上嘴唇 | 有何不可 | 明日方舟终末地 | 终末地三测](https://v.douyin.com/xpW2_7KUOuk/)
 
 ---
-**[失眠看月亮]{p}**
+**[失眠看月亮]{e}**
 * **[失眠看月亮 | 陕西甜妹  | 五十章 | Douyin](https://v.douyin.com/LpVKslT8CFY/)**
   - [我将拥护西安为"mó dū"](https://v.douyin.com/OaSPxZObmMo/)
   - [谈陕西女娃 享幸福人生](https://v.douyin.com/CF7t2mnqF1Y/)
@@ -358,6 +371,7 @@
   - [陕西话一出 这恋爱还咋谈？？？](https://v.douyin.com/NdQLXoU04Ec/)
   - [你恋爱不跟西安女娃谈有撒意思 安？](https://v.douyin.com/m7cEta6WDog/)
   - [信我是甜妹还是信钟楼能发射 | 我是真没招了](https://v.douyin.com/stghsxvKtfY/)
+  - [我们陕西人就是这么有意思](https://v.douyin.com/fbLA6kf8Jrc/)
 
 ---
 **[奶思兔咪鱿]{p}**
@@ -872,6 +886,14 @@
 ---
 **[小书子·music]{e}**
 * **[嘿朋友，压力大了就来听听这首歌吧 | 你会翻过山看到万丈晴天 · 亲爱的你啊 · 吉他弹唱 · 川西美景 · 木格措](https://v.douyin.com/64B3ijekIR4/)**
+
+---
+**[麦子.. · 花海]{e}**
+* **[麦子.. | 我留一束花在海边，托海水帮我寄给你 | 仟章 | Douyin](https://v.douyin.com/iOt4F3dUGGE/)**
+  - [好浪漫的海棠花](https://v.douyin.com/ArgZsZpf6dg/)
+  - [好看的水上玫瑰](https://v.douyin.com/qvIlhAcJfDg/)
+  - [我很喜欢你，像椿去湫来海棠花开](https://v.douyin.com/0FSs0WTjhCU/)
+  - [苍月草是我留给你的第一封情书](https://v.douyin.com/8ATvtRoA5KE/)
 
 ---
 ### 0009. 直播

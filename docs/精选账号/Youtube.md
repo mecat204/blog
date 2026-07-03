@@ -1999,7 +1999,7 @@
   - **[This isn't a rut, it's a spiritual attack. | 这不是发情期，而是精神上的攻击。](https://www.youtube.com/watch?v=7XKd8T0UzBU)**
 
 ---
-**[Olga Loiek]{p}**
+**[Olga Loiek]{e}**
 * **[Olga Loiek | 宾夕法尼亚大学认知科学与计算专业学生 | 油管](https://www.youtube.com/@olgaloiek/videos)**
   - 🇺🇦 Cognitive Science & Computation student at UPenn 📧Business email: loiekolga@gmail.com 💖 Join our community in supporting the channel:  https://www.paypal.com/paypalme/olgaloiek
   - 🇺🇦 宾夕法尼亚大学认知科学与计算专业学生 商业邮箱：loiekolga@gmail.com 加入我们的社区，支持频道：www.paypal.com/paypalme/olgaloiek📧 💖
@@ -2244,7 +2244,7 @@
   - **[Chad Franke: Freed | 查德·弗兰克：获释](https://www.youtube.com/watch?v=KUOlYFjbYvk)**
 
 ---
-**[Jay Shetty Podcast | 心理健康]{p}**
+**[Jay Shetty Podcast | 心理健康]{s}**
 * **[Jay Shetty Podcast | 538万 | 油管](https://www.youtube.com/@JayShettyPodcast./videos)**
   - [En: I’m Jay Shetty host of On Purpose the worlds #1 Mental Health podcast]{s}
   - [Cn: 我是Jay Shetty，主持《On Purpose the worlds #1》心理健康播客]{g}
@@ -2345,7 +2345,7 @@
   - **[火奴鲁鲁，夏威夷 - 4K 散步 | 畅享威基基海滩的日落漫步 | 美国 🇺🇸 2024年12月 | 4K HDR](https://www.youtube.com/watch?v=91RzZmn6jeI)**
 
 ---
-**[The Hawaii Vacation Guide]{p}**
+**[The Hawaii Vacation Guide]{s}**
 * **[The Hawaii Vacation Guide | 15.6万 | 油管](https://www.youtube.com/@TheHawaiiVacationGuide/videoss)**
   - [En: Welcome to our **Hawaii** adventures!]{s}
   - [Cn: 欢迎来到我们的**夏威夷**冒险之旅！]{g}
@@ -2389,7 +2389,7 @@
   - **[Which Hawaiian Island Should You Visit | Start Here for Your Hawaii Vacation Planning | 你应该去哪个夏威夷岛屿 |从这里开始你的夏威夷度假规划](https://www.youtube.com/watch?v=2mIYF41vnhw)**
 
 ---
-**[Iceland with a View | 冰岛]{p}**
+**[Iceland with a View | 冰岛]{s}**
 * **[Iceland with a View | 11万 |  油管](https://www.youtube.com/@IcelandwithaView)**
   - [En: Hi, I’m Jeannie — I sold everything I owned in the U.S. and moved to **Iceland**!]{s}
   - [Cn: 你好，我是Jeannie——我卖掉了美国所有的东西，搬到了**冰岛**！]{g}
