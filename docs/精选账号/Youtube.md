@@ -3854,7 +3854,10 @@
 * **[Stanford](https://www.stanford.edu/)**
 
 ---
-**[Combridge | 剑桥大学]{s}**
+**[Cambridge]{s}**
+* **[Cambridge | 54.5万 | 油管](https://www.youtube.com/@cambridgeuniversity/videos)**
+  - [The future of Novels and Generative AI](https://www.youtube.com/watch?v=P3kDEfIYSBU)
+
 * **[Prof.Alan Macfarlane | 二十章 | Douyin](https://v.douyin.com/7DXMG4_o2pk/)**
 
   ---
