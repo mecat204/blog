@@ -35,7 +35,7 @@
   ---
   - **记词法**
     * [词根-词缀](EnglishCourse/记词法/词根-词缀)
-    * [word](EnglishCourse/记词法/word)
+    * [誊抄·word](EnglishCourse/记词法/誊抄·word)
     * [瞬间记单词](EnglishCourse/记词法/瞬间记单词)
 
   ---

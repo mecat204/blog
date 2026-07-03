@@ -720,10 +720,11 @@
   - [这样的山洞卧室 你最想和谁一起住。想住哪一层](https://v.douyin.com/NIsTDgUEiE0/)
 
 ---
-**[幽念]{p}**
+**[幽念]{s}**
 * **[幽念 | Home | 五百章 | Douyin](https://v.douyin.com/_XGo8WCSJHg/)**
   - [治愈小窝](https://v.douyin.com/Qb9MUAb4sck/)
   - [下雨天没人打扰你，你在这个卧室最想干什么](https://v.douyin.com/J4kqhY_QBjo/)
+  - [被困山林险境，你选择哪个庇护所](https://v.douyin.com/RhDk3Ph72B4/)
 
 ---
 **[絵梦居]{p}**
