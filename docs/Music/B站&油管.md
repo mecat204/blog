@@ -11,19 +11,19 @@
 
 ---
 ### 0001. 轻音乐 | 学习用作业用背景音乐
-* **[XRay-猎豹 |只有一次的人生，当然要好好过。| 2.7万 | Bilibili](https://space.bilibili.com/408296955?spm_id_from=333.788.upinfo.head.click)**
-  - **[学习用、作业用背景音乐 | 轻音乐 | Youtube搬运 | 伴随式学习 | 3h15min | BGM | The Soul of Wind](https://www.bilibili.com/video/BV1NMfnByENQ/?spm_id_from=333.1387.homepage.video_card.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
-  - **[学习用背景音乐 | 钢琴曲 | Youtube搬运 | 伴随式学习 | 2h12min | BGM | KPop相关](https://www.bilibili.com/video/BV1UE411q7BV/?spm_id_from=333.1387.homepage.video_card.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
-  - **[学习用、作业用白噪声 | 雨声 | Youtube搬运 | 伴随式学习 | 3h12min | 白噪音 | Youtuber: Cozy Rain](https://www.bilibili.com/video/BV11ScGzhEUd/?spm_id_from=333.1387.upload.video_card.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
-  - **[学习用、作业用背景音乐 | 轻音乐 | Youtube搬运 | 伴随式学习 | 3h05min | BGM | Youtuber:The Soul of Wind](https://www.bilibili.com/video/BV1KAFfzxEak/?spm_id_from=333.1387.upload.video_card.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
-  - **[学习用、作业用白噪声 | 雷声 | Youtube搬运 | 伴随式学习 | 3h08min | 白噪音 | Youtuber: Cozy Rain](https://www.bilibili.com/video/BV13R6PBYE21/?spm_id_from=333.1387.upload.video_card.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
-  - **[学习用、作业用背景音乐 | 轻音乐 | Youtube搬运 | 伴随式学习 | 3h06min | BGM | Youtuber: The Soul of Wind](https://www.bilibili.com/video/BV1Qu411g721/?spm_id_from=333.1387.favlist.content.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
-  - **[学习用、作业用背景音乐 | 轻音乐 | Youtube搬运 | 伴随式学习 | 3h20min | BGM | Youtuber: The Soul of Wind](https://www.bilibili.com/video/BV1Jf4y1o7Qw/?spm_id_from=333.1387.favlist.content.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
-  - **[学习用、作业用背景音乐 | 轻音乐 | Youtube搬运 | 伴随式学习 | 3h14min | BGM | Youtuber: The Soul of Wind](https://www.bilibili.com/video/BV1Up4y197cy/?spm_id_from=333.1387.favlist.content.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
+* **[XRay-猎豹 |只有一次的人生，当然要好好过。| 2.7万 | B站](https://space.bilibili.com/408296955?spm_id_from=333.788.upinfo.head.click)**
+  - **[学习用、作业用背景音乐 | 轻音乐 | YTB搬运 | 伴随式学习 | 3h15min | BGM | The Soul of Wind](https://www.bilibili.com/video/BV1NMfnByENQ/?spm_id_from=333.1387.homepage.video_card.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
+  - **[学习用背景音乐 | 钢琴曲 | YTB搬运 | 伴随式学习 | 2h12min | BGM | KPop相关](https://www.bilibili.com/video/BV1UE411q7BV/?spm_id_from=333.1387.homepage.video_card.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
+  - **[学习用、作业用白噪声 | 雨声 | YTB搬运 | 伴随式学习 | 3h12min | 白噪音 | YTBr: Cozy Rain](https://www.bilibili.com/video/BV11ScGzhEUd/?spm_id_from=333.1387.upload.video_card.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
+  - **[学习用、作业用背景音乐 | 轻音乐 | YTB搬运 | 伴随式学习 | 3h05min | BGM | YTBr:The Soul of Wind](https://www.bilibili.com/video/BV1KAFfzxEak/?spm_id_from=333.1387.upload.video_card.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
+  - **[学习用、作业用白噪声 | 雷声 | YTB搬运 | 伴随式学习 | 3h08min | 白噪音 | YTBr: Cozy Rain](https://www.bilibili.com/video/BV13R6PBYE21/?spm_id_from=333.1387.upload.video_card.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
+  - **[学习用、作业用背景音乐 | 轻音乐 | YTB搬运 | 伴随式学习 | 3h06min | BGM | YTBr: The Soul of Wind](https://www.bilibili.com/video/BV1Qu411g721/?spm_id_from=333.1387.favlist.content.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
+  - **[学习用、作业用背景音乐 | 轻音乐 | YTB搬运 | 伴随式学习 | 3h20min | BGM | YTBr: The Soul of Wind](https://www.bilibili.com/video/BV1Jf4y1o7Qw/?spm_id_from=333.1387.favlist.content.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
+  - **[学习用、作业用背景音乐 | 轻音乐 | YTB搬运 | 伴随式学习 | 3h14min | BGM | YTBr: The Soul of Wind](https://www.bilibili.com/video/BV1Up4y197cy/?spm_id_from=333.1387.favlist.content.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
 
 
 ---
-* **[DooPiano | 141万 | Youtube](https://www.youtube.com/@DooPiano/videos)**
+* **[DooPiano | 141万 | YTB](https://www.youtube.com/@DooPiano/videos)**
   - Feel free to use my covers as instrumental/background music for your YouTube videos.
   - 欢迎大家把我的翻唱曲作为你的YouTube视频的伴奏或背景音乐。
 
@@ -47,7 +47,7 @@
   * **[KPOP Girl Group Piano Collection | 2 Hour Study Music](https://www.youtube.com/watch?v=acCaSBWyG1A)**
 
 ---
-* **[Cozy Rain | 73.4万 | Cozy Nook Ambience  | Youtube](https://www.youtube.com/@CozyRain/videos)**
+* **[Cozy Rain | 73.4万 | Cozy Nook Ambience  | YTB](https://www.youtube.com/@CozyRain/videos)**
   - Cozy Rain produces unique ambient soundscapes, original music, and captivating digital animations designed to immerse and inspire.
   - Cozy Rain 制作独特的环境音景、原创音乐和引人入胜的数字动画，旨在沉浸并激发灵感。
 
@@ -68,12 +68,12 @@
   - **[Thunderstorm | Supercell Ambience | 3 hours | 雷暴 |超级单体氛围 | 3小时](https://www.youtube.com/watch?v=OaRgz9uZuUQ&list=PLkrqMyUZBhff3cOhIr10FqsmnPfcmRpvo&index=7)**
 
 ---
-* **[Relaxing Ambience ASMR | 46.2万 | Youtube](https://www.youtube.com/@RelaxingAmbienceASMR/videos)**
+* **[Relaxing Ambience ASMR | 46.2万 | YTB](https://www.youtube.com/@RelaxingAmbienceASMR/videos)**
   - [Rain Sound On Window with Thunder SoundsㅣHeavy Rain for Sleep, Study and Relaxation, Meditation | 窗 外雨声伴雷声——大雨助眠、学习、放松、冥想](https://www.youtube.com/watch?v=mPZkdNFkNps)
 
 
 ---
-* **[The Soul of Wind | 284万 | Youtube](https://www.youtube.com/@TheSoulofWindLabel/videos)**
+* **[The Soul of Wind | 284万 | YTB](https://www.youtube.com/@TheSoulofWindLabel/videos)**
   - The Soul of Wind is Music Label for a large variety of Music.
   - 风之魂是一个涵盖多种音乐的音乐厂牌。
   - We provide the best services to the pianist, musician, artist.
@@ -134,48 +134,62 @@
   - [Waiting for someone in the rain? 🌧️Piano Rain & Sakura](https://www.youtube.com/watch?v=C_j5HQC5ypo&list=PLkrqMyUZBhff3cOhIr10FqsmnPfcmRpvo&index=5)
   - [Peaceful Piano & Soft Rain - Relaxing Sleep Music, A Bitter Rain](https://www.youtube.com/watch?v=hj83cwfOF3Y&list=PL8oDDHZLvtJJPiu95dMAEqCOBGcI81GEl&index=2)
   - [Relaxing Sleep Music for Insomnia - Deep Sleep Music, Piano Music for Stress Relief, Relaxing Music](https://www.youtube.com/watch?v=BVF5LDAQiXs)
-  - [Youtuber - The Soul of Wind](https://www.youtube.com/watch?v=Ex1RWBVZWpk&list=PL8oDDHZLvtJJPiu95dMAEqCOBGcI81GEl&index=38)
+  - [YTBr - The Soul of Wind](https://www.youtube.com/watch?v=Ex1RWBVZWpk&list=PL8oDDHZLvtJJPiu95dMAEqCOBGcI81GEl&index=38)
 
 ---
-**[mayu326- | 3.2万 | Bilibili](https://space.bilibili.com/273143615?spm_id_from=333.788.upinfo.detail.click)**
-  - **[3小时背景音 | 助眠 | 学习 | 😴 Beautiful Youtuber: Relaxing Sleep Music](https://www.bilibili.com/video/BV13h411q7j2/?spm_id_from=333.1387.favlist.content.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
+**[mayu326- | 3.2万 | B站](https://space.bilibili.com/273143615?spm_id_from=333.788.upinfo.detail.click)**
+  - **[3小时背景音 | 助眠 | 学习 | 😴 Beautiful YTBr: Relaxing Sleep Music](https://www.bilibili.com/video/BV13h411q7j2/?spm_id_from=333.1387.favlist.content.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
 
 ---
-* **[场景采集 | 1.7万 | 场景采集制作，偶尔转载好听的音乐 | Bilibili](https://space.bilibili.com/3249785?spm_id_from=333.788.upinfo.detail.click)**
+* **[场景采集 | 1.7万 | 场景采集制作，偶尔转载好听的音乐 | B站](https://space.bilibili.com/3249785?spm_id_from=333.788.upinfo.detail.click)**
   - **[下雨天的山洞庇护所 壁炉火光 雨声雷声白噪音助眠](https://www.bilibili.com/video/BV1gV4y1b7x7/?spm_id_from=333.1387.favlist.content.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
 
 ---
-* **[心音HS | 喜欢听就好！这就是我的初衷为爱发电不喜勿关！我只想安静的给喜欢我的童靴制作不同的声音 | 1.3万 | Bilibili](https://space.bilibili.com/502605843?spm_id_from=333.788.upinfo.detail.click)**
+* **[心音HS | 喜欢听就好！这就是我的初衷为爱发电不喜勿关！我只想安静的给喜欢我的童靴制作不同的声音 | 1.3万 | B站](https://space.bilibili.com/502605843?spm_id_from=333.788.upinfo.detail.click)**
   - **[这个频率的雷雨声，是全球公认最放松自然森林雨声雷声睡眠音乐，雷暴，小雨，雨天，真实雨声，白噪音，PTSD,学习，工作，冥想，失眠，催眠，雨声入睡](https://www.bilibili.com/video/BV1g54y1T7B8/?spm_id_from=333.1387.favlist.content.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
   - **[【真下雪啦】能让你感受到温暖的房间，失眠者的福音，睡眠失眠白噪音，助眠白噪音，雪声白噪音，PTSD，缓解焦虑，专注，学习，自习，阅读](https://www.bilibili.com/video/BV1zKHozwEZK/?spm_id_from=333.1387.homepage.video_card.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
   - **[【真是雨声】3小时，躺在出租屋听雨吧~治愈助眠白噪音！PTSD，睡眠，下雨，雨天，真实雨声，学习，工作，冥想，失眠，催眠，生活记录](https://www.bilibili.com/video/BV1zb4y1T7HB/?spm_id_from=333.1387.favlist.content.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
 
 ---
-* **[自然音乐 | 34.3万 | 实拍实录原创频道！创造一个平静的放松的环境氛围，放松你的大脑，让您助眠，治愈，舒缓，减压，工作，冥想或学习。| Bilibili & Youtube](https://space.bilibili.com/431457159?spm_id_from=333.788.upinfo.detail.click)**
+* **[自然音乐 | 34.3万 | 实拍实录原创频道！创造一个平静的放松的环境氛围，放松你的大脑，让您助眠，治愈，舒缓，减压，工作，冥想或学习。| B站 & YTB](https://space.bilibili.com/431457159?spm_id_from=333.788.upinfo.detail.click)**
   - [世界公认最佳放松雷雨声⚡树林自然雨声睡眠音乐 | 中国 湖南省 株洲市 炎陵县 炎帝陵景区](https://www.bilibili.com/video/BV1d3411t7dV/?spm_id_from=333.1387.favlist.content.click&vd_source=19beb856dede8620770a18feaaf13ae2)
 
 ---
 * **[真实雨声】10小时！躺在湖边木屋里听雨吧~治愈助眠](https://www.bilibili.com/video/BV1oS4y197tX/?spm_id_from=333.1387.favlist.content.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
 
 ---
-### 0002. 流行古风曲
+### 0002. 流行古风曲 | YTB
 **[流行古风曲]{e}**
 * **[2026 破百万古风歌曲](https://www.youtube.com/watch?v=dwaGrOyLSto)**
-* **[2026 破百万古风歌曲](https://www.youtube.com/watch?v=UrHOjRKyOIU&list=RDUrHOjRKyOIU&start_radio=1)**
+* **[2025 破百万古风歌曲](https://www.youtube.com/watch?v=UrHOjRKyOIU&list=RDUrHOjRKyOIU&start_radio=1)**
 
+---
+### 0003. SmoothAcoustic | YTB
+**[SmoothAcoustic]{s}**
+* **[SmoothAcoustic | 4.66万 | YTB](https://www.youtube.com/@SmoothAcoustic-n6b/videos)**
+  - [Best Chill Vibes Playlist 2026](https://www.youtube.com/watch?v=_ecjXVgVtYY&list=RD_ecjXVgVtYY&start_radio=1)
+
+---
+### 0004. Work Pulse | YTB
+**[Work Pulse]{s}**
+* **[Work Pulse | 72 | YTB](https://www.youtube.com/@WorkPulse95/videos)**
+  - [心流状态音乐与深层专注音效 ~ 释放巅峰专注力与效率](https://www.youtube.com/watch?v=ZrPkDGJivnE)
 
 
 ---
-### 9999. music·course
+### 9999. Music · Course
+**[AlgerMusicPlayer]{s}**
 * **[AlgerMusicPlayer | music | software](https://github.com/algerkong/AlgerMusicPlayer)**
   - [music.alger.fun](http://music.alger.fun/#/)
   - [donate.alger.fun](https://donate.alger.fun/)
 
 ---
-* **[ Musicca | 在线免费学习乐理（音乐理论）和基础乐器/音乐知识 的平台。](https://musicca.com)**
+**[Musicca]{s}**
+* **[Musicca | 在线免费学习乐理（音乐理论）和基础乐器/音乐知识 的平台。](https://musicca.com)**
 
 ---
-* **[dlpanda](https://dlpanda.com)**
+**[dlpanda]{s}**
+* **[dlpanda](https://www.dlpanda.com)**
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/8a4e0f1bd9c9d18fbf59a25067d88c17_6123688207744398733.jpg?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,jpg)
