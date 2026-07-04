@@ -4099,27 +4099,6 @@
   - [En: For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request here: media-requests.ted.com.]{s}
   - [Cn: 如需了解更多关于将TED用于商业目的的信息（例如员工学习、电影或在线课程），请在此提交媒体请求：media-requests.ted.com。]{g}
 
----
-**[Dr. Olivia Remes]{p}**
-* **[Dr. Olivia Remes | YTB](https://www.youtube.com/@dr.oliviaremes5962)**
-  - [En: Hi!  I'm Dr. Olivia Remes and I'm a mental health researcher at the University of Cambridge.]{s}
-  - [Cn: 你好！ 我是奥利维亚·雷梅斯博士，剑桥大学的心理健康研究员。]{g}
-
-  ---
-  - [En: I have been researching anxiety, depression, and coping strategies for wellbeing and resilience for a long time, and I'm excited to share my content with you!]{s}
-  - [Cn: 我一直在研究焦虑、抑郁以及关于健康和韧性的应对策略，现在很高兴能和大家分享我的内容！]{g}
-
-  ---
-  - [En: I am also a life coach working with people to help them achieve their goals in life.]{s}
-  - [Cn: 我也是一名生活教练，帮助人们实现人生目标。]{g}
-
-  ---
-  - [En: Stay tuned for videos on coping strategies, how to take back control of your life, how to become confident, and much more!]{s}
-  - [Cn: 敬请关注关于应对策略、如何重新掌控生活、如何变得自信等更多内容的视频!]{g}
-
-  ---
-  - [Feeling overwhelmed? Tips from Dr Olivia Remes ](https://www.youtube.com/watch?v=8-eUxk69r-I)
-  - [How to manage exam stress by Dr Olivia Remes](https://www.youtube.com/watch?v=Ni3VEgbvuhU)
 
 ---
 **[How the Fridge Changed Food]{s}**

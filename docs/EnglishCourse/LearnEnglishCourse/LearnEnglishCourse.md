@@ -923,7 +923,7 @@
   - [How to fix your entire life in 1 day](https://v.douyin.com/01ZnvXSZQdo/)
 
 ---
-**[跟着雅思考官即刻说]{p}**
+**[跟着雅思考官即刻说]{s}**
 * **[跟着雅思考官即刻说 | 前任雅思考官Daniel 中国区写作 口语9年教学经验 | 三十章 | Douyin](https://v.douyin.com/gdn4JbcfBfU/)**
   - [雅思学习顺序](https://v.douyin.com/HXvsXOVgrN4/)
   - 雅思学习顺序很重要！ 千万别搞反顺序了。实际上，雅思备考只要摸准学习节奏，过程就会思路清晰、难度降低。靠谱的备考方法从无捷径可言，都是往届考生总结的实用经验，但大家也能依据自身基础灵活调整。
@@ -999,10 +999,11 @@
   - [1921年，饱受抑郁折磨的作家黑塞，在第72次心理治疗后偶遇了一位即将入住养老院的老太太。她唯一的请求，是绕城再看一眼曾生活过的街道、老房子与河流。 黑塞与司机陪她缓缓行驶了大半个下午。临别时，老太太拥抱他说："谢谢你让一个走到尽头的人感到幸福。" 那一刻黑塞突然醒悟：自己长久陷在痛苦中，只因从未抬头看看世界的风景。这次相遇治愈了他，也催生出了伟大作品《悉达多》——一本关于放下执念、接纳自我、活在当下的生命之书。 有时候，走出深渊的第一步，或许是先伸手温暖他人。]{g}
 
 ---
-* **[Winnie | 佰章  |Douyin](https://v.douyin.com/_YUxZNAW4_s/)**
+* **[Winnie | 佰章  | Douyin](https://v.douyin.com/_YUxZNAW4_s/)**
   - [复试自我介绍英语口语练习](https://v.douyin.com/oLcX0TTW040/)
 
 ---
+**[[elain/mybooks]{s}**
 * **[elain/mybooks](https://github.com/elain/mybooks)**
   - [mybook](https://github.com/elain/mybooks/blob/main/5%25%E7%9A%84%E6%94%B9%E5%8F%98.mobi)
 
@@ -1018,6 +1019,7 @@
   - [A股食物链](https://v.douyin.com/Ts5juZkaFCk/)
 
 ---
+**[晨菲chenfei]{e}**
 * **[晨菲chenfei | 凡是发生皆有利于我。 It's okay to make a mistake but don't make it twice. | 百章 | Douyin](https://v.douyin.com/8Dhbmktl-7g/)**
   - [moishine老师说真的很好吃 | 留学 | 悉尼大学](https://v.douyin.com/U2INdfwojUo/)
   - [外国人用英文吵架](https://v.douyin.com/DhhaaKhGd4M/)
@@ -1025,6 +1027,7 @@
   - [外国同学用中文吵架belike | 留学生精神状态belike](https://v.douyin.com/raYtftsMbCU/)
 
 ---
+**[杰瑞姐姐]{e}**
 * **[杰瑞姐姐 | 如果所有人都理解你，那你得普通成什么样 | 五百章 | Douyin](https://v.douyin.com/O36gRkr4zi4/)**
   - [各种量词英语表达](https://v.douyin.com/sXwQMmvcr_c/)
   - [和跟着蛙蛙学英语-认各国国旗](https://v.douyin.com/QwFPgBWFxrk/)
@@ -1107,9 +1110,10 @@
   - [低谷的时候请反复对自己说一万遍 | **相信自己** | **勇敢做自己** | **人已经要百分之二百的相信自己**](https://v.douyin.com/7E4ex4cDKm8/)
 
 ---
-**[Isabel Paige]{p}**
+**[Isabel Paige]{e}**
 * **[Isabel Paige | Youtube ](https://www.youtube.com/@isabel_paige)**
   - [The Hardest Days of Winter](https://www.youtube.com/watch?v=jNqhUIYZM8Q)
+
 * **[VENQUEN的英语日记 | Douyin](https://v.douyin.com/lGerZrVjzQs/)**
   - [学习是方向，世界是目的地！Follow along！ 飞向未知，直面恐惧 旧金山的酸面包，藏着冒险的滋味 独处的时光，发现真实的自己 大桥下的夕阳，点燃成长的勇气 | Isabel Paige](https://v.douyin.com/ACS0U3zIC54/)
   - [雪花轻吻山巅，咖啡暖手 炉火旁，冬日的仙境悄然绽放 踏雪觅果，阳光洒落心间 这十一月的清晨，藏着治愈的温柔](https://v.douyin.com/PokajBVenxU/)
@@ -1132,6 +1136,7 @@
   - [今日单词：# persist；风雨无阻persist学英语](https://v.douyin.com/dT4VjUdgYn4/)
 
 ---
+**[学习啦在线学习网]{s}**
 * **[学习啦在线学习网 | 免费的技能、特长、知识学习网站_学习.励志.成长!](https://www.xuexila.com/)**
 
 ---
@@ -1193,7 +1198,7 @@
 * **[别再内耗, 只管去做 | 奇异博士](https://v.douyin.com/ykr2o0dfF0E/)**
 
 ---
-**[IAmKevinFeng]{p}**
+**[IAmKevinFeng]{s}**
 * **[IAmKevinFeng | KevinFeng 冯凯文](https://www.youtube.com/@IAmKevinFeng/videos)**
   - [用油管足不出户从0自学流利英文！20+个难度分级自学频道推荐！｜GDS 007](https://www.youtube.com/watch?v=0UY0bbE5I1w)
 
@@ -1330,53 +1335,59 @@
   - [英语短剧 | shortdrama | micro-drama | 丈夫空中"表演",落地如何受到惩罚？Min: 06:26](https://v.douyin.com/sIghTyvn9PY/)
 
 ---
-### 0004. College and University
-* **[Cambridge University | Youtube](https://www.youtube.com/@cambridgeuniversity)**
-  - [Welcome to Cambridge University's YouTube Channel, where you can find out about some of the research, discoveries and innovations that take place here.]{s}
-  - [欢迎来到剑桥大学的YouTube频道，在这里你可以了解这里发生的一些研究、发现和创新。]{g}
+### 0004. University
+**[New York University]{s}**
+* **[New York University | 11.8万 | YTB](https://www.youtube.com/@newyorkuniversity/videos)**
+  - [NYU's 2022 Commencement Speaker Taylor Swift](https://www.youtube.com/watch?v=OBG50aoUwlI)
+
+* **[New York University](https://www.nyu.edu/)**
+
+---
+**[Harvard Unviersity]{s}**
+* **[Harvard University | 284万 | YTB](https://www.youtube.com/@harvard/videos)**
+  - [Oprah Winfrey Harvard Commencement speech | Harvard Commencement 2013](https://www.youtube.com/watch?v=GMWFieBGR7c)
+  - [Harvard Thinking: The secret lives of super-agers](https://www.youtube.com/watch?v=P7-nshMUJms)
+  - [瑞思Ruisi](https://v.douyin.com/gN7MH_3RrAs/)
+
+* **[Harvard](https://www.harvard.edu/)**
+
+---
+**[Stanford]{s}**
+* **[Stanford | 218万 | YTB](https://www.youtube.com/@stanford/videos)**
+  - [Steve Jobs' 2005 Stanford Commencement Address](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
+
+* **[Stanford](https://www.stanford.edu/)**
+
+---
+**[Cambridge]{s}**
+* **[Cambridge | 54.5万 | YTB](https://www.youtube.com/@cambridgeuniversity/videos)**
+  - [The future of Novels and Generative AI](https://www.youtube.com/watch?v=P3kDEfIYSBU)
+
+* **[Prof.Alan Macfarlane | 二十章 | Douyin](https://v.douyin.com/7DXMG4_o2pk/)**
 
   ---
-  - [In particular, check out the Cambridge Ideas series, a collection of short films in which top researchers reveal some of their latest findings and discuss subjects ranging from energy to disappearing languages, and policing the streets to the future of robotics.]{s}
-  - [特别是，可以看看剑桥创意系列，这是一系列短片，顶尖研究人员在其中揭示了他们的最新发现，并讨论从能源到消失的语言、街头治安以及机器人未来的主题。]{g}
+  **[001. 剑桥来信]{g}**
+    - [如何度过20岁出头的迷茫时光 | 001](https://v.douyin.com/7uw_yBvgiF0/)
+    - [剑桥来信 | 如何度过20岁出头的迷茫时光？ 大家好，我是艾伦·麦克法兰，剑桥大学人类学教授。 今天来回答一位网友的提问：我是一名大四学生，就读公共管理专业。一个人应当如何度过那些迷茫的20岁出头的时光呢？我不知道自己该做什么，能做什么，也不知道自己该往哪儿去。我的生活一直都是在学校打转，我害怕离开学校，但又不想永远困在这里。 我的答案是：每个人都有过这样的迷茫，你不是一个人。 几乎所有人在快结束学业的时候，都会感到困惑。因为你们长期待在比较封闭、有规矩的学校环境里，这里的一切规则、模式、期望都是别人给你安排好的。然后突然间，你要面对一个更加广阔、更加自由，但也更具挑战的世界。 我十八岁离开寄宿学校的时候，也经历过类似的过渡期。我曾在一艘往返于挪威和英国之间的船上当厨师助理，那会儿晕船、想家，还恋爱脑，挺想回学校的。但渐渐地，我开始感受到越来越多的自由。虽然我知道自己会去上大学，但未来的道路完全笼罩在迷雾之中。这种"不知道该去哪儿"的感觉，大家或多或少都会经历。大概就是我的笔记的封面照片里的这个岁数。 在中国，这种情况可能尤其明显。中国的教育更为制度化、规范化，纪律要求也更严格。许多中国年轻人告诉我，他们觉得大学是一次冲击——从前在学校里很少被鼓励与异性建立深厚的友谊，一到大学，父母和周围的人就希望他们开始建立可能走向婚姻的关系。而且要亲自掌控生活、财务、时间、学习，这种自由也需要时间适应。 但你会慢慢适应的，每个人都是如此。不用太担心自己该去往哪里。你就像走在一条旅途上，像《西游记》里的取经之路一样，你也不知道下一步会发生什么。但如果你精心地、努力地、认真地滋养友情，你会沿着这条路走到一些真正值得的地方，然后在那里停留一阵，再继续前行。 我认为，中国年轻人的未来是充满希望的。你们有持续发展的经济，有政府的支持体系，有很多积极因素。相比之下，英国很多年轻人对未来感到非常焦虑，心理问题的发生率相当高，多半集中在高中晚期和大学初期这个年龄段。 所以，你只是众多迷茫中的一个。我的建议是：把你的困惑和问题写下来，然后放一边，一两年后再回头看看。你会发现，其中大多数问题其实都能轻松克服。 记住，对未来保持积极的期待，将会帮助你度过任何困难。 欢迎在评论区留言分享你的故事和感受]{g}
 
   ---
-  - [Whether you are at Cambridge, thinking about applying, or just curious about what happens at this famous University, this channel gives you a chance to find out something you didn't already know about the world around you!]{s}
-  - [无论你是在剑桥大学，正在考虑申请，还是只是对这所著名大学的活动感到好奇，这个频道都让你有机会发现你之前不知道的关于周围世界的真相！]{g}
+  **[002. 和艾伦教授一起散步]{g}**
+    - [剑桥大学国王学院的起源 | 001](https://v.douyin.com/msf0YmTYzTQ/)
+    - [剑桥大学国王学院的起源 | 与艾伦教授一起散步 # 大家好，我是艾伦·麦克法兰，剑桥大学人类学教授。 今天想和大家分享“一起散步”系列剑桥篇的新一集，我带大家走进我所在的国王学院,聊聊它一段充满悖论的身世。 我是国王学院的院士，现在我们眼前的庭院很像一座修道院——其实剑桥所有学院最初都是。当年的学者就像中国寺院里的僧侣一样聚居在此,在房间和图书馆里研究、授课,在礼拜堂里祷告。这座礼拜堂虽然名叫"小堂",规模却堪比一座大教堂,许多人认为它是英国建筑史上最美的建筑。 学院由亨利六世在1441年创建,次年他又办了著名的伊顿公学。两者深度绑定——此后三四百年间,只有伊顿的毕业生才能进入国王学院。 最耐人寻味的是它的设计。我把它叫作一片"受保护"的飞地:大学校长、城镇市长、当地主教,甚至坎特伯雷大主教,都对它没有管辖权。学生不参加大学统考,毕业证由学院自己颁发。亨利六世是位非常保守的基督徒,他想用这片与世隔绝的"绿洲"守护住自己的旧信仰。 可历史和他开了个玩笑。当马丁·路德的著作传遍欧洲、在各地被镇压时,它们却沿着康河漂进了剑桥,在一家叫"白鹭客栈"的啤酒屋里被人摊开、研读、译成英文。1525年,英国第一次新教布道在附近的小圣爱德华兹教堂响起。这里,成了宗教改革真正的摇篮。 八年后,亨利六世的孙子亨利八世为迎娶安妮·博林向教皇求离婚遭拒,索性带着整个英国教会脱离了罗马。这就是宗教改革。 而后来的科学革命等一切现代变革,都从这次决裂中生长出来。 所以请大家跟我一起散步，一座本想守护旧世界的学院,最终亲手推开了新世界的门。接下里，我会带大家看这片草坪上藏着的人：徐志摩的柳树,和图灵的那扇窗。 本系列视频“与人类学家艾伦·麦克法兰一起散步”（Walk with Alan Macfarlane）由Cam Rivers Publishing团队剑桥康河书店 拍摄和制作。]{g}
+
+    - [剑桥大学国王学院的草坪 | 与艾伦教授一起散步 | 002](https://v.douyin.com/f1FOLS9wD1o/)
+    - [剑桥大学国王学院的草坪| 与艾伦教授一起散步 跟我一起在剑桥大学国王学院散步（二） 大家好，我是艾伦·麦克法兰,剑桥大学人类学教授。 今天继续“一起散步”系列剑桥篇的新一集。上一集我们聊了国王学院的身世,这一次,我带大家看看脚下这片草坪藏着的人和故事。 我们接着往前走。你脚下这片草坪,其实并不简单。1446年我们扩建学院时,亨利六世买下了剑桥市中心一整座小镇：教堂、商店、房屋,他全都拆了,再用土盖上。所以这片草坪底下,是英国保存最完好的中世纪城镇遗迹:五百年来,上面什么都没有再建过,只留下青草。这也是世界上最大的一片学术草坪。 我喜欢用中国的朝代来给这里的建筑断代:礼拜堂是15世纪的,克莱尔学院是17世纪的,相当于明代;这一栋是18世纪,清代;那一栋是19世纪,晚清。英国人不像法国人或中国人那样追求统一,而是任由各个世纪的建筑自在地混在一起。 这里和中国的缘分很深。徐志摩曾躺在靠河的草坪上,看星星,看流云;萧乾住过那扇大窗上方的房间。我还想告诉大家一个很少有人知道的细节:《再别康桥》里那棵"河畔的金柳",原本就长在这里。后来老柳树空了心、枯死被砍,我们又在对岸补种了一棵。河上往来的平底船,徐志摩在诗里也写过。 最后,请大家随我抬头,看角落塔楼的那扇窗。1936年,一位刚满22岁、刚成为学院研究员的年轻数学家,在那个房间里写下了一篇只有六八页的论文,题为《论数的可计算性》。他凭想象描绘了两样这世上从未存在过的东西:一台会运算的电子计算机,和一台能"思考"的机器——人工智能。他叫艾伦·图灵。后来,他设计的破译机帮助英国赢得了第二次世界大战。 本系列视频"与人类学家艾伦·麦克法兰一起散步"(Walk with Alan Macfarlane)由Cam Rivers Publishing团队 拍摄和制作]{g}
 
 ---
-### 0005. Novel
-* **翻译**
-| 中文     | 英文              |
-| ------ | --------------- |
-| 小说（总称） | **novel**       |
-| 长篇小说   | novel           |
-| 短篇小说   | **short story** |
-| 中篇小说   | novella         |
-| 虚构作品   | fiction         |
-| 网络小说   | web novel       |
-| 轻小说    | light novel     |
-
----
-* **[英语小说](https://yingyuxiaoshuo.com/)**
-
----
-### 0006. 阅词
-**[阅词]{p}**
-* **[阅词 | Bilibili](https://space.bilibili.com/99455517?spm_id_from=333.337.0.0)**
-
----
-* **[猫猫走天下 | Douyin](https://v.douyin.com/ibTBHaQOfkI/)**
-
----
-### 0007. English 绘本
-**[松鼠联盟]{p}**
+### 0005. English 绘本
+**[松鼠联盟]{s}**
 * **[松鼠联盟 | 英文绘本原创作者 | 愿每个故事都是跨越时空的握手 | 百章 | Douyin](https://v.douyin.com/DJJPyBRIkvs/)**
   - [书和玫瑰 每天五分钟英语绘本 原创英语绘本动画 英语磨耳朵 | 看动画学英语  | 英语绘本  | 英语没那么难](https://v.douyin.com/HXRwmvhjQ4E/)
   - [卖火柴的小女孩 每天五分钟英语绘本 原创英语绘本动画 英语磨耳朵 | 看动画学英语  | 英语绘本](https://v.douyin.com/1ucbgFGNCfE/)
   - [英语原创绘本，磨耳朵每天五分钟 | 英语启蒙  | 亲子英语  | 治愈动画  | 每日英语](https://v.douyin.com/lqk3hDAjbhI/)
 
 ---
-**[繁花绘本屋]{p}**
+**[繁花绘本屋]{s}**
 * **[繁花绘本屋 | 零基础英语启蒙，从绘本开始 | 📖英语启蒙＋情感启蒙＋表达提升 | 伍佰章 | Douyin](https://v.douyin.com/4vZx_cRbQB0/)**
 
   ---
@@ -1386,15 +1397,15 @@
 
 
 ---
-### 0008. 文本
-**[英语家园Airt]{p}**
+### 0006. 文本
+**[英语家园Airt]{s}**
 * **[英语家园Airt | 西安点亮网络科技有限公司 | Douyin | 千章 | Douyin](https://v.douyin.com/wqHYHhqA0zc/)**
   - [大家好！今天我们来聊聊冬天。去年冬天，我开始写日记，这是我以前从未做过的事。写下我的想法帮助我理解自己的情绪，并为未来做好准备。](https://v.douyin.com/yA1UCipGkxs/)
   - [大家好。今天我们来聊聊情绪。 情绪一天中会发生变化。 早上，你可能感到开心，准备好迎接新的一天。 下午，你可能觉得疲惫。 晚上，你会感到放松，准备睡觉。 不同的情绪都是正常的。](https://v.douyin.com/7h5af2ZTKPQ/)
   - [大家好，今天我们来聊聊幸福的真正含义。 我相信，幸福是我们通过与他人的联结、个人成长以及积极的人生态度，慢慢积累而成的](https://v.douyin.com/7DkCkD6oa-c/)
 
 ---
-**[黄皮果子]{p}**
+**[黄皮果子]{s}**
 * **[黄皮果子 | 闲时喜欢逛逛，拍拍路过的风景，记录人间的回忆 | 关于英语: 因为喜欢, 所以坚持, 希望有一天可以脱口而出 | 梦虽遥, 追则能达。愿虽艰, 持则可圆 | 希望每天都有进步 | 千章 | Douyin](https://v.douyin.com/AQioH2TYsmc/)**
   - [落日余辉 时间会磨平无数个难言的瞬间 当执念慢慢消失 幸福就会悄悄贯穿每分每秒 愿在以后的日子里 把遗憾放下 把自己收好](https://v.douyin.com/xOseygrDRBw/)
   - [深圳的冬天像极了倒放的春天，公园里的紫花风铃木正开的灿烂夺目，不是春天胜似春天](https://v.douyin.com/INaRFumCcVc/)
@@ -1402,14 +1413,14 @@
   - **[英语口语练习](https://v.douyin.com/gYBkBi5Xl98/)**
 
 ---
-**[英语]{p}**
+**[英语]{s}**
 * **[英语 | 英语分享 | 二百章 | Douyin](https://v.douyin.com/zCaOBj6zFh8/)**
   - [此刻的你，正在被无数人羡慕着，只是你不知道](https://v.douyin.com/AwQNbGLjjVQ/)
   - [我们的大脑天生就喜欢寻找模式，并把随机事件解读为因果关系，以此来理解世界](https://v.douyin.com/wKEnCzByXRc/)
   - [每件事到最后都会变好。如果还没变好，那说明还没到最后](https://v.douyin.com/bqzfAcdh6Gc/)
 
 ---
-**[Ivy趣英语]{p}**
+**[Ivy趣英语]{s}**
 * **[Ivy趣英语 | 每日分享有趣的英语内容 | 五十章 | douyin](https://v.douyin.com/R-AY9ukX3qY/)**
   - [英语里的数字可不止one, two, three](https://v.douyin.com/auNDDN_C2HI/)
   - [16个常用数学符号的英文说法](https://v.douyin.com/pIYL5Zl-wA8/)
@@ -1417,8 +1428,8 @@
   - [如果用「绿色」来记英文单词 | 绿色植物](https://v.douyin.com/JopzneS_yzw/)
 
 ---
-### 0009. 短剧 | English Course
-**[KT英语]{p}**
+### 0007. Podcast 播客 | Drama 短剧
+**[KT英语]{s}**
 * **[KT英语 | Knowledge Transfer 开启记录，见证成长 拿捏心态不悔未来 告别emo 奋斗最青春 | 千章 | Douyin](https://v.douyin.com/u6Yboc0hzMY/)**
   - [Beginner-120、学习停止翻译](https://v.douyin.com/FC480Y4AbGY/)
   - [Q&A-077、help的短语动词！ | 英语口语 | 英语没那么难 | 英语学习 | 老外教英语](https://v.douyin.com/XajhfXtaGaU/)
@@ -1464,7 +1475,7 @@
     - [看电影的表达 | Beginner-175](https://v.douyin.com/Nr6ntkvvHCM/)
 
 ---
-**[Emily英文绘本故事]{p}**
+**[Emily英文绘本故事]{e}**
 * **[Emily英文绘本故事 | 北大本硕 | 15年 + 教育人 | 俩娃妈妈 | 把教育经验熬成原创英语绘本故事 | 用妈妈的视角, 讲孩子能听懂的英文内容, 每天5分钟磨耳朵,陪娃轻松爱上英语 | 百章 | Douyin](https://v.douyin.com/jkP_utJS_p8/)**
   - [守株待兔英文版](https://v.douyin.com/o-1mfFfzW4M/)
   - **[狮子王](https://v.douyin.com/erRH2wGf7ss/)**
@@ -1475,7 +1486,7 @@
     * **[寻梦环游记](https://www.4kvm.net/movies/xunfhyj)**
 
 ---
-**[Socialtalk]{p}**
+**[Socialtalk]{s}**
 * **[Socialtalk | 英语领域创作者，内容包含雅思口语，商务英语口语，日常生活口语. 英语词汇专栏 | 五百章 | Douyin](https://v.douyin.com/7OwkBb0SUBY/)**
 
   ---
@@ -1484,12 +1495,12 @@
     - [222.FOB暗坑：面对指定货代乱收费，业务员硬刚刁钻客户 | **商务英语vs外贸英语**](https://v.douyin.com/hGfyqdcggsk/)
 
 ---
-**[老李撩英语]{p}**
+**[老李撩英语]{s}**
 * **[老李撩英语 | 前新东方教师 | 公立学校英语教师 | 英语短剧 | 五百章 | Douyin](https://v.douyin.com/p4pyAnZgIs4/)**
   - [英语短剧 | shortdrama | micro-drama | 丈夫空中"表演",落地如何受到惩罚？Min: 06:26](https://v.douyin.com/sIghTyvn9PY/)
 
 ---
-**[英语超级屋]{p}**
+**[英语超级屋]{s}**
 * **[英语超级屋 | 感受世界，感受人文，遇见这个世界上美好的人和事 学好英语，感受语言，遇见这个时间里最好的自己... | 三百章 | Douyin](https://v.douyin.com/JLRyWueVrOE/)**
   - [语言的边界, 就是世界的边界 --- 维特根斯坦]{g}
   - [张同完 | 韩国 | **Youtuber: _100ls**  | wan只用一部动画，重复100遍，做到年赚200万刀 谁说学好英语赚不到钱](https://v.douyin.com/dE8eIkNzQ28/)
@@ -1519,7 +1530,7 @@
    - [如何快速成为理想的自己 | 067](https://v.douyin.com/ZBorJmbQIjg/)
 
 ---
-**[曼琳和妈妈]{p}**
+**[曼琳和妈妈]{e}**
 * **[曼琳和妈妈 | 伍佰章 | Douyin](https://v.douyin.com/6ZuUzMS1Ehg/)**
 
   ---
@@ -1546,7 +1557,7 @@
   - [不要温顺地走进那个良夜 | Do not go gentle into that good night | 这首诗是写于1951年，狄兰·托马斯用以鼓励病重的父亲。 诗人对于死神将可爱的人们带离这个世界表达了愤怒，他要"怒斥光明的消逝"](https://v.douyin.com/xJAsLsQLHjM/)
 
 ---
-**[Harper.L]{p}**
+**[Harper.L]{s}**
 * **[Harper.L（男声）| 每日英语美文、电影台词朗读（欢迎投稿） 英语专八｜CATTI | 外研社全国金奖 | 翻译硕士在读 | 看书、英语翻译、唱歌、游戏 | 贰佰章 | Douyin](https://v.douyin.com/ptEJEYKi-F4/)**
   - **[男声英文朗读｜绿皮书：亲爱的德洛丽丝](https://v.douyin.com/6RJN36RA7zA/)**
   - **[男声英文朗读｜阿甘正传](https://v.douyin.com/ghMPT4A7SE0/)**
@@ -1558,7 +1569,7 @@
     - [A slip fo the tongue | 089](https://v.douyin.com/IOnVunHCRcw/)
 
 ---
-**[Keep Seeking]{p}**
+**[Keep Seeking]{s}**
 * **[Keep Seeking | 英语短剧 | 纯英文练语感｜无中文字幕｜高频词标注 每日更新，陪你日进一寸 | 二百章 | Douyin](https://v.douyin.com/x-ukTvoLyBg/)**
   - [Trapping the Pervert | 智擒变态](https://v.douyin.com/V9jN6gS9rV4/)
   - [The Forgetful Aunt |  健忘的姑妈](https://v.douyin.com/fr4fXzjBcUw/)
@@ -1598,7 +1609,7 @@
     - [Treat Yourself As Someone You Love | 把自己当成你爱的人 | 002](https://v.douyin.com/LqkXYvx6EB4/)
 
 ---
-**[英语大剧场]{p}**
+**[英语大剧场]{s}**
 * **[英语大剧场 | 掌握一种语言，就是掌握一种看世界的方式 | 三百章 | Douyin](https://v.douyin.com/Sto8yPpvKCM/)**
   - [8岁的孩子一夜之间成为亿万富翁 | 短剧 | 原声 | 英语 | 英语没那么难 | 每天学习一点点]()
   - [Conversation for You丨 本期是朋友引荐初次见面的英文对话跟练，温柔语速，跟着开口，轻松搞定社交英语，告别初见尴尬](https://v.douyin.com/gqsmTK0Jmng/)
@@ -1652,13 +1663,13 @@
   - [用简单的英语描述一天的生活，帮你轻松学会用英文介绍自己的日常。 | **Youtuber: LISTENING PRATICE**](https://v.douyin.com/anyxrtbstk4/)
 
 ---
-### 0010. 4K电子书籍
+### 0008. 4K电子书籍
 **[姜姜的英语书屋]{p}**
 * **[姜姜的英语书屋 | 电子书籍 | 4K电子书籍阅读 |  天文学科普 | 科技改变生活 | 艺术科普 | 古代古代历史 | 商业启蒙 | 金融如何运转 | 五百章 | Douyin](https://v.douyin.com/ZyctINMF2NQ/)**
   - [揭秘发电站](https://v.douyin.com/vLXDtN5i648/)
 
 ---
-### 0011. 英语纪录片
+### 0009. 英语纪录片
 **[BBC英语纪录频道]{p}**
 * **[BBC英语纪录频道 | 4K纪录片 | 二百章 | Douyin](https://v.douyin.com/mot89bKXk8A/)**
   - [神奇的动物 第一篇 ADVENTURE 1 神奇的动物 第一篇](https://v.douyin.com/FbF_buesFZw/)
@@ -1668,8 +1679,8 @@
   - [神奇的动物 40](https://v.douyin.com/ftFa61pV-6c/)
 
 ---
-### 0012. 手记
-**[一叶手记]{p}**
+### 0010. 手记
+**[一叶手记]{s}**
 * **[一叶手记 | 手写生活缝隙里的光 - 记录温暖，也治愈慌张。日子有烟火，笔下有远方。问绕前行，步履不停。百章 | Douyin](https://v.douyin.com/NjsN49u1frA/)**
   - [一切都是最好的安排，加油！| 人生感悟](https://v.douyin.com/3WwtO15sgTM/)
   - [只要我们持之以恒，我们追求的东西都会一一到来，二月，加油！ | **持之以恒**](https://v.douyin.com/I1H3DZH04sg/)
@@ -1677,8 +1688,8 @@
   - [那一刻，泪水涌上我的眼眶，我才真正意识到，成功并非终点，失败也非末日，最重要的是继续前进的勇气。](https://v.douyin.com/XQhIM2JZZt0/)
 
 ---
-### 0013. 听力
-**[听语英语研习社]{p}**
+### 0011. 听力
+**[听语英语研习社]{s}**
 * **[听语英语研习社 | 听力 | 嗨，我是星晴 🌷【听语英语研习社】知识星球主理人 | 多年英语翻译经验，分享点滴英语知识，伴你成长 | 五百章 | Douyin](https://v.douyin.com/paNb0F2Vl0U/)**
   - [Important Terms and Ideas for Describing Artificial Intelligence](https://v.douyin.com/xGszsdPynX8/)
   - [Five Things to Know about Notre Dame Cathedral](https://v.douyin.com/aEQBD38i-fk/)
@@ -1686,17 +1697,14 @@
   - [Experts Provide Tips for Avoiding Computer-linked Vision Trouble | Min: 07:37](https://v.douyin.com/ISTTPxEQ7NQ/)
 
 ---
-### 0014. 新鲜事 | 猎奇
-**[列国漫游]{p}**
+### 0012. 新鲜事 | 猎奇
+**[列国漫游]{s}**
 * **[列国漫游 | 全世界的新鲜事 由于平台规则变更，中英双语视频在其他平台更新 | 二千章 | Douyin](https://v.douyin.com/qauh3aXv8CY/)**
   - [川普调侃富豪朋友 失去财富老婆分分钟会跑](https://v.douyin.com/Pd9wVcfB2cc/)
   - [特朗普：鸦片曾经摧毁了中国 美国可不能犯同样的错误](https://v.douyin.com/0GQKHqpPVVI/)
 
 ---
-
-
----
-### 0016. 英语启蒙动画
+### 0013. 英语启蒙动画
 **[快乐学英语]{s}**
 * **[快乐学英语 | 英语启蒙动画 | 听先行，读相伴🍀 持续更新原创少儿英语启蒙动画 | 百章 | Douyin](https://v.douyin.com/HhWVTPYMkuw/)**
   - [学会拒绝的小象](https://v.douyin.com/hDeQbrUmUxI/)
@@ -1718,7 +1726,7 @@
     - [Favourite Thing | 最开心的事 | 007](https://v.douyin.com/oLhQWb2GuH4/)
 
 ---
-### 0017. 高端访谈 | CCTV
+### 0014. 高端访谈 | CCTV
 **[高端访谈 | CCTV]{s}**
 * **[高端访谈小制片 | 总台央视新闻频道 CCTV-13《高端访谈》](https://v.douyin.com/a5HyNbsjUiI/)**
   - [高端访谈｜非洲53个建交国享100%%税目产品0关税，塞舌尔总统畅谈合作机遇](https://v.douyin.com/tIe7xVRlk9E/)
@@ -1736,7 +1744,7 @@
   - [专访新加坡前常驻联合国代表马凯硕 | Min:24:12](https://v.douyin.com/jLfUlt1156A/)
 
 ---
-### 0018. 自动化工具屋
+### 0015. 自动化工具屋
 **[Mia英语精读自动化工具屋]{s}**
 * **[Mia英语精读自动化工具屋 | 五百章 | Douyin](https://v.douyin.com/rrvuP1Vk04s/)**
   - [1分钟教你制作爆款单词速记视频](https://v.douyin.com/HxvOJ5y6BTI/)
@@ -1744,14 +1752,14 @@
   - [英语老师英语副业备课工具教程](https://v.douyin.com/a9TQL8cpdWs/)
 
 ---
-### 0019. 翻译官 | YTB
+### 0016. 翻译官 | YTB
 **[Freelensia]{s}**
 * **[Freelensia | 7.33万 | Youtube](https://www.youtube.com/@Freelensia/videos)**
   - [Freelensia 翻译来自世界各地的政治演讲和其他富有洞察力的内容。我们还展示国际电影和电视剧，突显文化和语言的多样性。我们的影片通常提供字幕和配音，以提高可访问性。有些视频提供双语通译。请佩戴耳机，在左耳听一种语言，在右耳听另一种语言。]{g}
   - [为了帮助你找到喜欢的内容，我们将视频整理成播放列表：Speeches by Country、Speeches by Speaker 和 Movie-Related Videos。浏览我们的播放列表，享受你喜欢的语言内容]{g}
 
 ---
-### 0020. StudyEnglish英语口语 | Book
+### 0017. StudyEnglish英语口语 | Book
 **[StudyEnglish英语口语]{s}**
 * **[StudyEnglish英语口语 | 英专生，每日分享英语智慧语录， 英语美文，英语朗读，英语口语练习素材 | 教辅以及学习资料在橱窗 | 千章 | Douyin](https://v.douyin.com/1Tmc4q5oAgo/)**
   - [英语介绍: 长安的荔枝](https://v.douyin.com/1MWSIDoJKF8/)
@@ -1762,11 +1770,7 @@
   - [英语学习：敢于开始，才能不负未来。 别等完美时机，行动才是最好的开始。](https://v.douyin.com/w45zwFfNkbg/)
 
 ---
-### 0021. Prompt | FSI
-**[你是我的FSI语言教练。用Pattern Drill的方式训练我。先从Substitution Drill开始, 给我一个基础句型,然后快速给我变体提示词, 我必须在3秒内回应。如果我超过3秒,提醒我加快速度。每个句型练习20词。练完替换换之后，切换到Transfromation Drill]{g}**
-
----
-### 0022. New Concept English 01 | AI
+### 0018. 新概念 | AIGC
 **[枫娇鹤]{s}**
 * **[枫娇鹤 | 寓教于乐，融学于趣，化教于心 | 二十章 | Douyin](https://v.douyin.com/J9KB5QS99lM/)**
 
@@ -1793,17 +1797,6 @@
   **[中华寓言故事]{g}**
     - [守株待兔·改 | Veo](https://v.douyin.com/6TmtUqRncec/)
     - [小白归来 小白进化成了棉花糖，和Elara（主人）的故事 | **我的花园世界**](https://v.douyin.com/PJtRhJ35Q6k/)
-
----
-* **[颗星星 | 8位 | Youtube](https://www.youtube.com/@%E9%A2%97%E6%98%9F%E6%98%9F/videos)**
-  - 🛠️Independent AI Creator
-  - 🤖 AI Explorer | English Animation Creator
-  - 📺 Witnessing the magical collision of AI tech and language education
-
-  ---
-  - 🛠️独立人工智能创作者
-  - 🤖 人工智能探索者 |英语动画创作
-  - 📺者 见证人工智能技术与语言教育的神奇碰撞
 
 ---
 **[AI造梦者]{s}**
@@ -1861,6 +1854,7 @@
     - **[第13集 | 大结局 荒岛空难现场发生离奇命案，幸存者与世隔绝，救援遥遥无期。](https://v.douyin.com/g8fy0kzle9s/)**
 
 ---
+**[柒柒学英语]{s}**
 * **[柒柒学英语 | 985大学生 | 百章 | Douyin](https://v.douyin.com/VBesR-lD3yA/)**
 
   **[001. New Concept English 01]{s}**
@@ -1869,7 +1863,7 @@
     - **[New Concept English 01 | Lesson-019](https://v.douyin.com/vKSbKD8JHqQ/)**
 
 ---
-### 0023. AI短剧
+### 0019. Drama 短剧
 **[Emily英文绘本故事]{s}**
 * **[Emily英文绘本故事 | 北大本硕 | 15年 + 教育人 | 俩娃妈妈 | 把教育经验熬成原创英语绘本故事 | 用妈妈的视角, 讲孩子能听懂的英文内容, 每天5分钟磨耳朵,陪娃轻松爱上英语 | 百章 | Douyin](https://v.douyin.com/jkP_utJS_p8/)**
   - **[狮子王](https://v.douyin.com/erRH2wGf7ss/)**
@@ -1898,14 +1892,14 @@
     * **[027.丑小鸭](https://v.douyin.com/NGfF8E8eWl0/)**
 
 ---
-### 0024. 长剧 | YTB
+### 0020. 长剧 | YTB
 **[English1314]{s}**
 * **[English1314 | YTB: English 1314 | 二十章 | Douyin](https://v.douyin.com/DzruFy_hhxw/)**
   - [Keep Your Brain Young | 如何让大脑保持年轻, 学英文是最好的抗 | Min: 40min](https://v.douyin.com/PJked0BWBuo/)
   - [英文思考 | Min: 19:48](https://v.douyin.com/INVQPvC5k3A/)
 
 ---
-**[小道必可观]{s}**
+**[小道必可观·YTB]{s}**
 * **[小道必可观](https://v.douyin.com/WdfoxIT8Wm4/)**
   - [荷兰女骑穿越中蒙边境，这落差绝了！画风秒变生存模式 油管博主: @itchyboots 粉丝数量: 326万  | 旅行vlog](https://v.douyin.com/frdiSe7hU30/)
   - [伊朗封锁海峡，外网疯传中国缺油？美国老哥：小丑竟是我们自己 油管博主: @mrglobalyoutube 粉丝数量: 14.5万](https://v.douyin.com/_Xg-AhFoa9I/)
@@ -1924,7 +1918,7 @@
     - [日本酒鬼妹子初到北京，中国很危险？我在凌晨街头喝醉 油管博主: @yukke_sakamura 粉丝数量: 109万 | 073](https://v.douyin.com/sqxzKjH8i9s/)
 
 ---
-### 0025. 动画 | Ai
+### 0021. AI animation
 **[豆豆双语岛]{s}**
 * **[豆豆双语岛 | 原创英语故事视频 看寓言故事学英语 小故事大道理 | 三百章 | Douyin](https://v.douyin.com/s86SA_SrYFw/)**
 
@@ -1951,7 +1945,7 @@
     - [聪明的大熊猫 | 295](https://v.douyin.com/s9qdaJDfc9w/)
 
 ---
-### 0026. 速记单词
+### 0022. 速记单词
 **[薄荷速记单词]{s}**
 * **[薄荷速记单词 | 佰章 | Douyin](https://v.douyin.com/_wxEgIlzHts/)**
   - **[宇宙天文英语](https://v.douyin.com/-MBureIDs8c/)**
@@ -1965,7 +1959,7 @@
   - [This American Life]()
 
 ---
-### 0027. 心理学 | English字幕
+### 0023. 心理学 | English字幕
 **[治愈果（kakki在说啥）]{p}**
 * **[治愈果（kakki在说啥）| 🐳90万粉丝心理创作者｜心理师 🐳累计500+小时个案 | 亲密关系终身成长](https://v.douyin.com/KcHp3-7eID4/)**
   - **[啥样的人是不可错过的好伴侣？心理学的角度揭秘好伴侣的三个特质](https://v.douyin.com/gb-EP3_R0ZQ/)**
@@ -1988,7 +1982,7 @@
     - [真正顶级的提升能量方法？身弱之人必看 | 019](https://v.douyin.com/65acSr4UArc/)
 
 ---
-### 0028. yoyo的跨国生存 | English字幕
+### 0024. yoyo的跨国生存 | English字幕
 **[yoyo的跨国生存]{e}**
 * **[yoyo的跨国生存 | 是yoyo 中医学本科却成了"跨国摆渡人" 曾历房产浮沉、情感变故、负债百万, 为儿子, 四赴美国, 从语言不通到终获工作转机。| 记录我真实的美国生存英语| 分享最一线的跨国资讯 | 我的弯路,你的捷径. | 贰佰章 | Douyin](https://v.douyin.com/wQZdIpaF0F4/)**
   - [出国最大的收获，要懂得更爱自己 见天地、见众生、见自己](https://v.douyin.com/mH90Pvg-YGw/)
@@ -1996,7 +1990,7 @@
   - [学好英语 背上🎒 直接飞行12000公里](https://v.douyin.com/kc3WOrRMijI/)
 
 ---
-### 0029. 苗儿老师Joyce | 配音演员
+### 0025. 苗儿老师Joyce | 配音演员
 **[苗儿老师Joyce]{e}**
 * **[苗儿老师Joyce | 2009年开始教英语l央视主持人纠音老师 英语配音员l全平台同名 | 千章 | Douyin](https://v.douyin.com/LnvQ8mC5TvA/)**
   - [当有人说讨厌你时，你就这么说](https://v.douyin.com/qssuvjyFStY/)
@@ -2024,7 +2018,7 @@
     - [蜡笔小新精分配音](https://v.douyin.com/qEB29-9OXGc/)
 
 ---
-### 0030. Journey Alone 一个人的旅行 | Books
+### 0026. Journey Alone 一个人的旅行 | Books
 **[Journey Alone 一个人的旅行]{s}**
 * **[Journey Alone 一个人的旅行 ](https://v.douyin.com/o5bRx_amFOo/)**
 
@@ -2053,7 +2047,7 @@
     - [深度研究工具。 如果你还在普通搜索，那你可能没用对AI。Claude | 011](https://v.douyin.com/LB1utRIDz7A/)
 
 ---
-### 0031. 让柠檬更酸，让苹果更甜
+### 0027. 让柠檬更酸，让苹果更甜
 **[让柠檬更酸，让苹果更甜]{s}**
 * **[让柠檬更酸，让苹果更甜 | 重拾英语，开启英语成长之路～ 🌻莫道桑榆晚，为霞尚满天 | 佰章 | Douyin](https://v.douyin.com/9JQSyeWeHrc/)**
   - [**Never give up** | 永不言弃](https://v.douyin.com/0CoENzDYnz4/)
@@ -2070,7 +2064,7 @@
     - [内心丰盈者 独行也如众 | 007](https://v.douyin.com/NQomaNOTk7w/)
 
 ---
-### 0032. Genshin Impact | 跟着原神学英语
+### 0028. Genshin Impact | 跟着原神学英语
 **[米哈游就该搞一个双语版的，支持世界网友学习中文，支持中国网友学习英文，打通美服和国服。加入Ai,支持人物Ai-NPC互相交流.打造一个真正的原神世界。]{g}**
 
 **[永不认输的璃月人]{s}**
@@ -2186,15 +2180,15 @@
 * **[游戏英语爱好者 | 语言爱好者，学游戏，玩英语。| 貳佰章](https://v.douyin.com/S6Pk65RL4BU/)**
 
 ---
-### 0033. 江湖英语 | AI生成
+### 0029. 江湖英语 | AI生成
 **[johnhuu江湖英语]{p}**
 * **[johnhuu江湖英语 | 佰章](https://v.douyin.com/psE-P_BZIPQ/)**
   - [You can't make ten million in your lifetime on a cop's salary.](https://v.douyin.com/Q8YQsXpYq10/)
   - [Smoking Aces | 最难英文翻译：五支烟](https://v.douyin.com/-TozHwC_KwI/)
 
 ---
-### 0034. 简搜
-**[Mia喜欢学英语]{p}**
+### 0030. 简搜
+**[Mia喜欢学英语]{s}**
 * **[Mia喜欢学英语 | 努力的英语老师， 街头采访可私信 | 佰章 | Douyin](https://v.douyin.com/Ep9nFp1ARj0/)**
 
   ---
@@ -2208,13 +2202,13 @@
     - [命里有时终须有，命里无时莫强求 | 036](https://v.douyin.com/SNmX95H8nAQ/)
 
 ---
-### 0035. 仙女露~
+### 0031. 仙女露~
 **[仙女露~]{p}**
 * **[你的小说搭子 泉寨 | 交流学习: 露露工具箱 | 佰章 | Douyin](https://v.douyin.com/uxMhMWwxGEQ/)**
   - **[凡人修仙传](https://v.douyin.com/C_z9hJFPeyU/)**
 
 ---
-### 0036. Lily
+### 0032. Lily
 **[Lilly]{p}**
 * **[Lilly | 工作请联系微信excellentjasmineli | Douyin](https://v.douyin.com/6eI3ceJaV_Q/)**
 
@@ -2225,9 +2219,9 @@
     - [英语改变的，不只是成绩 很多人不敢说英语， 不是因为不会。 而是害怕 | 013](https://v.douyin.com/yD503NnAQ3Y/)
 
 ---
-### 0037. 萌动英语
-**[萌动英语]{p}**
-* **[萌动英语 | Think in English 让孩子•见物就能脱口而出！| Douyin | 叁佰章](https://v.douyin.com/SnVk6D4NYq4/)**
+### 0033. 萌动英语
+**[萌动英语]{s}**
+* **[萌动英语 | Think in English 让孩子·见物就能脱口而出！| Douyin | 叁佰章](https://v.douyin.com/SnVk6D4NYq4/)**
 
   ---
   **[001. 见物就能说]{g}**
@@ -2240,7 +2234,7 @@
     - [每天学一集 | 089 ](https://v.douyin.com/zsCghD3i5n8/)
 
 ---
-### 0038. 美剧 | 拆析
+### 0034. 美剧 | 拆析
 **[BigShot英语]{s}**
 * **[BigShot英语 | 五百章 | Douyin](https://v.douyin.com/6Oo1jTjwdM0/)**
 
@@ -2261,12 +2255,12 @@
     - [032](https://v.douyin.com/h6vHZr7d5_o/)
 
 ---
-**[HotShot英语]{p}**
+**[HotShot英语]{s}**
 * **[HotShot英语 | 分享最【原汁原味】的英语听力口语教学 | My teacher: BigShot英语](https://v.douyin.com/PjjQ2Mmn108/)**
 
 ---
-### 0038. 周泰哥(外语邪修派掌门人)
-**[周泰哥(外语邪修派掌门人)]{p}**
+### 0035. 周泰哥(外语邪修派掌门人)
+**[周泰哥(外语邪修派掌门人)]{e}**
 * **[周泰哥(外语邪修派掌门人) | 伍佰章 | Douyin](https://v.douyin.com/FHIhINGaySc/)**
 
   ---
@@ -2280,7 +2274,7 @@
     - [省钱信息在此 | 境外汇款 | 019](https://v.douyin.com/8NJaWwdvx2w/)
 
 ---
-### 0039. 7788 | Write word | Game
+### 0036. 7788 | Write word | Game
 **[7788]{s}**
 * **[7788 | 二百章 | Douyin](https://v.douyin.com/7eLEjLQxLPc/)**
   - [这英语得学呀 | 实用英语 | 学英语 | 日常英语 | 生活英语 | 趣味英语](https://v.douyin.com/jVZrkl3FobI/)
@@ -2296,13 +2290,13 @@
     - [高雅人士博览中 | 029](https://v.douyin.com/DT4dBLa5BII/)
 
 ---
-### 0040. Y先生英语
+### 0037. Y先生英语
 **[Y先生英语]{s}**
 * **[Y先生英语 | 千章 | Douyin](https://v.douyin.com/Q_T0hAc5lvw/)**
   - [能听懂这段英文，你的听力不会差 | 921](https://v.douyin.com/ASk035JTzJ8/！)
 
 ---
-### 0041. 安陆 | English字幕
+### 0038. 安陆 | English字幕
 **[安陆 | English字幕]{e}**
 * **[低谷期要善待自己 | 安陆](https://v.douyin.com/pGq0P9D9zk8/)**
 
@@ -2313,7 +2307,7 @@
     - [这9种诡计 你经历过几个 | 065](https://v.douyin.com/3izNhcgJ3ok/)
 
 ---
-### 0042. 大嘴狐Omi趣味英语
+### 0039. 大嘴狐Omi趣味英语
 **[大嘴狐Omi趣味英语]{s}**
 * **[大嘴狐Omi趣味英语 | ✨ 兴趣是最好的老师 🎬 用趣味小动画，带娃轻松学英语 | 佰章 | Douyin](https://v.douyin.com/4ZboSRQw9Bg/)**
 
