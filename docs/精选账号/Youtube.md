@@ -191,8 +191,23 @@
   - [分级美音播客&频道推荐｜磨耳朵👂给大脑注入养分 | Min: 04:58](https://v.douyin.com/YG8zsgmXKr8/)
   - [新一年的英语学习计划启动！进来抄一份科学有效的口语进阶](https://v.douyin.com/kTFzHYBpbQI/)
 
+---
+**[ElenaLin_青青]{e}**
+* **[ElenaLin_青青 | 46.1万| YTB](https://www.youtube.com/@ElenaLin)**
+
+---
+**[英语能力突破]{s}**
+* **[英语能力突破 | YTB](https://www.youtube.com/@stars2046/playlists)**
+  - **[何纲·英语能力突破_100个句子记完7000个雅思单词](https://www.youtube.com/watch?v=lob44iOFNYE&list=PLH8j2mKj10K1G7XjDvaG2hMXwNv36CioN)**
+
+---
+**[熊熊英语]{s}**
+* **[熊熊英语 | YTB](https://www.youtube.com/@OneHourListen/videos)**
+* **[听一小时英语 (熊熊英语)](https://www.onehourlisten.com/)**
+
+---
 ### 0003. Life Vlog
-**[studytee]{p}**
+**[studytee]{s}**
 * **[studytee | 117万 | YTB](https://www.youtube.com/@studytee/videos)**
   - [En: My name is Therese, and I'm a Norwegian 3rd year university student in applied mathematics!]{s}
   - [Cn: 我叫特蕾丝，是一名挪威应用数学三年级的学生！]{g}
@@ -240,21 +255,9 @@
   - [En: I know exactly what it takes to become fluent and acquire an accent in a non-English speaking country.]{s}
   - [Cn: 我完全清楚在非英语国家要流利说话并学会口音需要什么。]{g}
 
+---
 **[website]{s}**
 * **[English Fluency Journey | Hanna Khoma](https://www.englishfluencyjourney.com/)**
-
-**[欧美外教在线一对一口语-葡然蕴]{e}**
-* **[欧美外教在线一对一口语-葡然蕴 | 零基础英语 | 启蒙英语 | 雅思口语 | 零基础英语 | 商务英语 | 二千章 | Douyin](https://v.douyin.com/dtwC1ZGrWxQ/)**
-  - [北美外教一对一网课 外教：英语是一项改变人生的技能](https://v.douyin.com/Ix5dt7a8F-Q/)
-  - [欧美外教英语课一对一网课](https://v.douyin.com/cNQsa9vj7nQ/)
-  - [在线英语外教一对一英语口语 外教：记忆单词的最佳方式是多读。| 英语流利说](https://v.douyin.com/S_WuSgv0SEM/)
-
----
-**[菲教英语网课推荐]{p}**
-* **[菲教英语网课推荐 | 试听课咨询私信我呦 👉适合各年龄段的零基础，雅思托福 | 二千章 | Douyin](https://v.douyin.com/vVfQfoX9dYE/)**
-  - [跟外教老师练口语，提升你的英语水平](https://v.douyin.com/MMgIQU9fmuo/)
-  - [萌娃跟外教老师一对一学习英语，坚持2年，进步很大！ | 外教一对一  | 外教英语  | 英语启蒙](https://v.douyin.com/zK8HOOOrfIo/)
-  - [阅读的提升口语最快的方法 | 英语外教](https://v.douyin.com/lxInWasAlj8/)
 
 ---
 **[瑞典]{s}**
@@ -476,7 +479,7 @@
   * **[30 Minutes of Daily English Conversations for Beginners (A2 Level) | Practice Listening and Speaking | 初学者每日英语会话30分钟（A2水平） | 练习听和说](https://www.youtube.com/watch?v=1lGynioT8B8)**
 
 ---
-**[BBC Earth]{p}**
+**[BBC Earth]{s}**
 * **[BBC Earth | 1420万 | YTB](https://www.youtube.com/@bbcearth)**
   - [En: Bringing you face-to-face with heart-pounding action, mind-blowing ideas and the sheer wonder of being part of this amazing planet we call home.]{s}
   - [Cn: 带你面对令人心跳加速的动作、令人震撼的创意，以及成为这个我们称之为家的奇妙星球一部分的纯粹惊奇。]{g}
@@ -1404,7 +1407,7 @@
 
 ---
 ### 0006. 雅思 IELTS
-**[Learn English with EnglishClass101.com]{p}**
+**[Learn English with EnglishClass101.com]{s}**
 * **[Learn English with EnglishClass101.com | English Teacher | 865万 | YTB](https://www.youtube.com/@EnglishClass101/videos)**
   - [En: Learn English with EnglishClass101.com - The Fastest, Easiest and Most Fun Way to Learn English. Start speaking English in minutes with Audio and Video lessons.]{s}
   - [Cn: 与英语 EnglishClass101.com 学习——最快、最简单、最有趣的学习英语方式. 通过音频和视频课程几分钟内开始说英语。]{g}
@@ -1497,8 +1500,9 @@
   - [Cn: 阿内尔·:)]{g}
 
 ---
-**[BBC Learning English]{p}**
+**[BBC Learning English]{s}**
 * **[BBC Learning English | 980万 | 听力 | YTB](https://www.youtube.com/@bbclearningenglish)**
+
   - [En: Learn English with the BBC.]{s}
   - [Cn: 跟BBC学英语。]{g}
 
@@ -1663,7 +1667,7 @@
   - [Taylor Swift - New York University](https://www.youtube.com/watch?v=Q8NYdZYQsgY)
 
 ---
-* **[Eliott Tordo Erhu Player 二胡 | 47.5万 | Youtube](https://www.youtube.com/@EliottTordo_Erhu/videos)**
+* **[Eliott Tordo Erhu Player 二胡 | 47.5万 | YTB](https://www.youtube.com/@EliottTordo_Erhu/videos)**
   - [World of Warcraft covers | total: 22](https://www.youtube.com/watch?v=fkV9ThVvfLA&list=PLRJMyiugYfVJWxVSleW4cX0-BzUdnKhMx)
   - [Avatar : The last Airbender | The Legend of Korra Erhu Covers by Eliott Tordo | total: 22](https://www.youtube.com/watch?v=v2A5aKW9lFg&list=PLRJMyiugYfVLOfWnKVMGid-VXEz7n6Uq0)
   - [Erhu covers | total: 153](https://www.youtube.com/watch?v=cXJ8976qrMM&list=PLRJMyiugYfVJ7vNIiMdez-3E-YkblaXLy)
@@ -1740,7 +1744,7 @@
   - [The 3 Macronutrients of Happiness, and How to Measure Yours| 幸福的三大宏量营养素，以及如何衡量你的幸福](https://www.youtube.com/watch?v=6UAq3KAR2bc)
 
 ---
-**[Veritasium]{p}**
+**[Veritasium]{s}**
 * **[Veritasium | 科普 | 2040万 |  YTB](https://www.youtube.com/@veritasium)**
   - [An element of truth - videos about science, education, and anything else we find interesting.]{s}
   - [Cn: 真理元素——关于科学、教育以及我们感兴趣的任何内容的视频。]{g}
@@ -1752,7 +1756,7 @@
   - [The Man Who Accidentally Discovered Antimatter | 意外发现反物质的人](https://www.youtube.com/watch?v=Y-W-w8yNiKU)
 
 ---
-**[Big Think]{p}**
+**[Big Think]{s}**
 * **[Big Think | 859万 | YTB](https://www.youtube.com/@bigthink/videos)**
   - [En: Big Think exists to make you smarter, faster.]{s}
   - [Cn: Big Think的存在是为了让你变得更聪明、更快。]{g}
@@ -1784,7 +1788,7 @@
 
   ---
   - [WTF Is Wealth? 财富到底是什么鬼？Ray Dalio Breaks It Down w/ Nikhil Kamath | WTF is Finance Ep 2雷·达里奥与尼基尔·卡马斯一起分析 |《金融》第二集到底是怎么回事](https://www.youtube.com/watch?v=0YKTsHr5bDE)
-  - [Elon Musk: A Different Conversation w/ Nikhil Kamath | Full Episode | People by WTF Ep.  埃隆·马斯克：与尼基尔·卡马斯的不同对话 | 完整剧集 |WTF Ep. 的《People by People》](https://www.youtube.com/watch?v=Rni7Fz7208c)
+  - [Elon Musk: A Different Conversation w/ Nikhil Kamath | Full Episode | People by WTF Ep.  埃隆·马斯克：与尼基尔·卡马斯的不同对话 | 完整剧集  | WTF Ep. 的《People by People》](https://www.youtube.com/watch?v=Rni7Fz7208c)
 
 ---
 ### 0010. 英语学习日记 | Search YTB
@@ -3906,12 +3910,315 @@
   - [6.7 - The Truth About Teyvat’s Moon Is Insane | Min: 05H:41M:31S ](https://www.youtube.com/watch?v=mUjol3LBzuc)
 
 ---
+### 0035. English Book Source
+**[English source]{s}**
+
+**[OXFORD]{s}**
+* **[English Language Teaching Home Page | Oxford University Press](https://elt.oup.com/?cc=global&selLanguage=en)**
+
+---
+**[Penguin Readers]{s}**
+* **[Penguin Readers](https://www.penguinreaders.co.uk/)**
+
+---
+**[Cambridge English Readers]{s}**
+* **[English learning products](https://www.cambridge.org/sg/cambridgeenglish?__cf_chl_f_tk=UZkiNUJzi9RFiuQPmXuY.vsLGZ75z5Otqij7mk95T6U-1783186053-1.0.1.1-7QVncxsNAjlnxyyv6wwJV9i001L5a9RkUwkFsggIels)**
+
+---
+### 0036. English Source
+**[BBC Learning English]{s}**
+* **[BBC Learning English | 1040万 | YTB](https://www.youtube.com/@bbclearningenglish/videos)**
+
+* **[BBC](https://www.bbc.co.uk/learningenglish)**
+
+---
+**[English MasterClass]{s}**
+* **[English MasterClass | 35.9万 | YTB](https://www.youtube.com/@EnglishMasterClass019/shorts)**
+  - [Where To Use " For & Since " | English Grammar Learning](https://www.youtube.com/watch?v=2veCTtcQQqo)
+    * For / Since
+      - For -> duration of time
+      - Since -> point of time
+    * Examples:
+      - I Lived here for 2 years. I
+      - She slept since morining.
+      - He waited since monday.
+      - We studied for 3 hours.
+      - The stayed since January.
+      - I worked for 3 days.
+      - He drove for an hour.
+      - She ran since morning.
+      - They played for 2 hours.
+      - We talked for a while.
+
+    ---
+    * At : Time | Night | Specific | Location
+    * On : Days | Date | Part of day
+    * In:  Seasons |  Months | Years |  Mor/Aft Evening
+    * Examples:
+      - At 10 '0'clock
+      - At night
+      - On Wednesday
+      - In Summer
+      - At the office
+      - In September
+      - On 9th June
+      - In 2025
+      - On Monday morning
+   ---
+
+   * MATHEMATICAL SYMBOLS
+     - Plus +
+     - Minus -
+     - Division /
+     - Multiply *
+     - Percent %
+     - Equal =
+     - big bracket []
+     - Square Root √
+     - Colon :
+     - Semi colon ;
+     - < less Than
+     - > Greator Than
+
+
+---
+**[linguamarina]{e}**
+* **[linguamarina | 833万 | YTB](https://www.youtube.com/@linguamarina)**
+  - [En: Co-founder of a language-learning platform Linguatrip, passionate about learning languages.]{s}
+  - [Cn: 语言学习平台Linguatrip的联合创始人，热衷于学习语言。]{g}
+
+  ---
+  - [En: I speak Russian, English, German, and a bit of Italian.]{s}
+  - [Cn: 我会说俄语、英语、德语，还有一点意大利语。]{g}
+
+  ---
+  - [En: If you represent a brand and want to collab, please reach out to partnerships@marinamogilko.co]{s}
+  - [Cn: 如果你代表某个品牌并希望合作，请联系 partnerships@marinamogilko.co]{g}
+
+  ---
+  - [En: Otherwise here is my assistant's email - marina@marinamogilko.co Download my English Workbook - bit.ly/3NTkLdC]{s}
+  - [Cn: 否则这是我助理的邮箱 - marina@marinamogilko.co 下载我的英语练习册- bit.ly/3NTkLdC]{g}
+
+  ---
+  - [En: My name is Marina Mogilko (or Марина Могилко in Russian, I am originally from Saint-Petersburg) I am an entrepreneur and YouTuber.]{s}
+  - [Cn: 我叫玛丽娜·莫吉尔科（俄语称为Марина Могилко，我来自圣彼得堡）， 我是一名企业家和YouTuber。]{g}
+
+  ---
+  - [En: One day, I realized I wanted to move to California.]{s}
+  - [Cn: 有一天，我意识到我想搬到加州。]{g}
+
+  ---
+  - [En: My company, LinguaTrip, got into a top 500 Silicon Valley startup incubator and I got an O1 visa sticker in my passport.]{s}
+  - [Cn: 我的公司LinguaTrip进入了硅谷前500名的初创孵化器，我的护照上还贴了O1签证贴纸。]{g}
+
+  ---
+  - **[How I started speaking English without fear (as a non-native speaker) | 我如何无畏地开始说英语（作为非母语者）](https://www.youtube.com/watch?v=p9KWSh06Wuo)**
+
+---
+**[ETJ English]{s}**
+* **[ETJ English | 114万 | YTB](https://www.youtube.com/@etjenglish)**
+  - [En: I’m Elliott, founder of ETJ English - a British pronunciation coach and communication mentor helping learners and professionals speak English clearly, naturally, and confidently.]{s}
+  - [Cn: 我是Elliott，ETJ English的创始人——一位英国发音教练和沟通导师，帮助学习者和专业人士清晰、自然且自信地说英语。]{g}
+
+  ---
+  - [En: Whether your goal is reducing your accent, sounding more British, or simply feeling more confident in your everyday or professional communication, I’m here to help.]{s}
+  - [Cn: 无论你的目标是减少口音、让自己听起来更有英国口音，还是单纯在日常或职业交流中感到更自信，我都在这里为你提供帮助。]{g}
+
+  ---
+  - [En: On this channel, you’ll find lessons on:]{s}
+	  *	[En: Modern RP British pronunciation]{s}
+	  *	[En: Connected speech, stress, and intonation]{s}
+	  *	[En: Sounding natural in conversations and meetings (communication skills)]{s}
+
+  - [Cn: 在本频道，你会找到以下课程:]{g}
+    * [Cn: 现代RP英式发音]{g}
+    * [Cn: 连贯的言语、重音和语调]{g}
+    * [Cn: 在对话和会议中听起来自然（沟通技巧）]{g}
+
+  ---
+  - [En: Common British expressions and real speech habits Ready to take it further?]{s}
+  - [Cn常见的英国表达和真实的说话习惯 准备好更进一步了吗？]{g}
+
+  ---
+  - [En: You can get personal feedback and daily support with my WhatsApp coaching and full pronunciation course at: www.etjenglish.com  For business enquiries or corporate coaching, feel free to contact me through email: elliott@etjenglish.com]{s}
+  - [Cn您可以通过我的WhatsApp辅导和完整发音课程获得个人反馈和每日支持： www.etjenglish.com 如有商业咨询或企业辅导，欢迎通过电子邮件联系我：elliott@etjenglish.com]{g}
+
+  ---
+  * **[How to Pronounce ALL British RP Diphthongs - Speak English Clearly | 如何发音所有英国RP双元音——清晰地说英语](https://www.youtube.com/watch?v=olq66C8pLw8)**
+
+---
+**[English with Lucy]{e}**
+* **[English with Lucy | 1380万 | YTB](https://www.youtube.com/@EnglishwithLucy)**
+  - [En: Click to download my FREE B1-C1]{s}
+  - [Cn: 点击下载我的免费B1-C1]{g}
+
+  ---
+  - [En: Ebook!👇]{s}
+  - [Cn: 电子书！ 👇]{g}
+
+  ---
+  - [En: It contains ALL the vocab and grammar you need to learn to pass the B1, B2 & C1 levels of English!👇]{s}
+  - [Cn: 它包含了你通过英语B1、B2和C1水平所需的所有词汇和语法！ 👇]{g}
+
+  ---
+  * **[If you know these, you're C2. | 如果你知道这些，你就是C2。](https://www.youtube.com/watch?v=NSycEAiPU3U)**
+
+---
+**[Learn English with Grace]{e}**
+* **[Learn English with Grace | 7560位 | YTB](https://www.youtube.com/@LearnEnglishwithGrace24)**
+
+  - [En: Hi there, I'm Grace.]{s}
+  - [Cn: 你好，我是格蕾丝。]{g}
+
+  ---
+  - [En: Welcome to my classroom!]{s}
+  - [Cn: 欢迎来到我的教室！]{g}
+
+  ---
+  - [En: My goal is to help you have some fun while improving your English.]{s}
+  - [Cn: 我的目标是帮助你在提升英语的同时享受乐趣。]{g}
+
+  ---
+  - [En: If you would like to book an online class with me, you can do this through Preply: preply.in/GRACE6EN19856962]{s}
+  - [Cn: 如果你想预约我的在线课程，可以通过Preply： preply.in/GRACE6EN19856962]{g}
+
+  ---
+  * **[How to Stay Motivated to Learn English in 2026! | 如何在2026年保持学习英语的动力！](https://www.youtube.com/watch?v=1knajL-wIjA)**
+
+---
+**[TEDx Talks]{p}**
+* **[TEDx Talks | YTB](https://www.youtube.com/@TEDx)**
+  - [En: TEDx is an international community that organizes TED-style events anywhere and everywhere -- celebrating locally-driven ideas and elevating them to a global stage.]{s}
+  - [Cn: TEDx是一个国际社区，组织类似TED的活动，地点和地点——庆祝本地驱动的理念，并将其提升到全球舞台。]{g}
+
+  ---
+  - [En: TEDx events are produced independently of TED conferences, each event curates speakers on their own, but based on TED's format and rules.]{s}
+  - [Cn: TEDx活动独立于TED会议制作，每个活动都会根据TED的形式和规则单独策划演讲嘉宾。]{g}
+
+  ---
+  - [En: For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request here: media-requests.ted.com.]{s}
+  - [Cn: 如需了解更多关于将TED用于商业目的的信息（例如员工学习、电影或在线课程），请在此提交媒体请求：media-requests.ted.com。]{g}
+
+---
+**[Dr. Olivia Remes]{p}**
+* **[Dr. Olivia Remes | YTB](https://www.youtube.com/@dr.oliviaremes5962)**
+  - [En: Hi!  I'm Dr. Olivia Remes and I'm a mental health researcher at the University of Cambridge.]{s}
+  - [Cn: 你好！ 我是奥利维亚·雷梅斯博士，剑桥大学的心理健康研究员。]{g}
+
+  ---
+  - [En: I have been researching anxiety, depression, and coping strategies for wellbeing and resilience for a long time, and I'm excited to share my content with you!]{s}
+  - [Cn: 我一直在研究焦虑、抑郁以及关于健康和韧性的应对策略，现在很高兴能和大家分享我的内容！]{g}
+
+  ---
+  - [En: I am also a life coach working with people to help them achieve their goals in life.]{s}
+  - [Cn: 我也是一名生活教练，帮助人们实现人生目标。]{g}
+
+  ---
+  - [En: Stay tuned for videos on coping strategies, how to take back control of your life, how to become confident, and much more!]{s}
+  - [Cn: 敬请关注关于应对策略、如何重新掌控生活、如何变得自信等更多内容的视频!]{g}
+
+  ---
+  - [Feeling overwhelmed? Tips from Dr Olivia Remes ](https://www.youtube.com/watch?v=8-eUxk69r-I)
+  - [How to manage exam stress by Dr Olivia Remes](https://www.youtube.com/watch?v=Ni3VEgbvuhU)
+
+---
+**[How the Fridge Changed Food]{s}**
+* **[How the Fridge Changed Food | Nicola Twilley | TED](https://www.youtube.com/watch?v=Mz1ItbiNqxw)**
+
+---
+**[Michele Lepe - Story Time]{s}**
+* **[Michele Lepe - Story Time | Kid | YTB](https://www.youtube.com/@michelelepe)**
+
+---
+### 0037. Podcast 播客 | Drama 短剧
+**[LOVEBUSTER]{s}**
+* **[LOVEBUSTER | 204万 | YTB](https://www.youtube.com/@LoveBusterShow/videos)**
+  - [I Broke The Law To Save Those I Love | SAVING HEARTS | Ep.10 | 我违法拯救我所爱的人 |拯救心灵 |第10集](https://www.youtube.com/watch?v=xxAknGzwPSw)
+
+---
+**[English Unleashed: The Podcast]{s}**
+* **[English Unleashed: The Podcast | 115万 | YTB](https://www.youtube.com/@EnglishPodcastUnleashed/videos)**
+  - [En: Welcome to English Unleashed: The Podcast.]{s}
+  - [Cn: 欢迎收听《English Unleashed：播客》。]{g}
+
+  ---
+  - [En: We are a group of language educators and researchers with more than 20 years of experience teaching English in Europe, the UK, Middle East and Austraila.]{s}
+  - [Cn: 我们是一群拥有超过20年在欧洲、英国、中东和澳大利亚教授英语的语言教育者和研究人员。]{g}
+
+  ---
+  - [En: In every episode, we (Tom and Sarah) speak slowly and clearly, so you can listen, understand, and speak along with us.]{s}
+  - [Cn: 在每一集中，我们（汤姆和莎拉）都说得慢而清晰，这样你可以倾听、理解并与我们一起交流。]{g}
+
+  ---
+  - [En: We share educational conversations, useful sentences, everyday expressions, and emotional language — all designed to help you sound more natural.]{s}
+  - [Cn: 我们分享教育性对话、实用句子、日常表达和情感语言——所有这些都旨在帮助你听起来更自然。]{g}
+
+  ---
+  - [En: You’ll also get learning tips and simple strategies to improve your English faster and with more confidence 🎧]{s}
+  - [Cn: 你还将获得学习技巧和简单的策略，帮助你更快、更有信心 🎧地提升英语水平]{g}
+
+  ---
+  - [En: Learn the phrases native speakers use 🗣️ Practice with us — shadowing, speaking, understanding 💡 Get clear advice for building fluency Perfect for pre-intermediate to advanced learners who want to go beyond grammar — and truly speak English with feeling.]{s}
+  - [Cn: 学习母语者常用 🗣️的短语 与我们一起练习——跟随学习、口语、理解 💡 获取清晰的流利度建设建议 非常适合想要超越语法的中高级学习者——并真正用感情表达英语。]{g}
+
+  ---
+  - [En: All rights reserved © Educational Video Productions.]{s}
+  - [Cn: 版权所有，版权所有©：教育视频制作公司。]{g}
+
+---
+**[Little Reading Bug's Bilingual Channel]{s}**
+* **[Little Reading Bug's Bilingual Channel | 小书虫的双语频道 | YTB](https://www.youtube.com/@littlereadingbugsbilingual539/videos)**
+
+---
+**[English in Comfort]{s}**
+* **[English in Comfort | 26.5万 | YTB](https://www.youtube.com/@EnglishinComfort/videos)**
+
+  - [En: Learn English the Comfortable Way!]{s}
+  - [Cn: 舒适地学习英语！]{g}
+
+  ---
+  - [En: At English in Comfort, we help you improve your English through listening and speaking practice.]{s}
+  - [Cn: 在舒适英语中心，我们通过听力和口语练习帮助你提升英语水平。]{g}
+
+  ---
+  - [En: Our relaxing podcasts make learning natural and enjoyable.]{s}
+  - [Cn: 我们的轻松播客让学习变得自然且愉快。]{g}
+
+  ---
+  - [En: No stress, just real progress!]{s}
+  - [Cn: 没有压力，只有真正的进步！]{g}
+
+  ---
+  - [En: What you’ll find here: ✔️]{s}
+  - [Cn: 你会在这里找到： ✔️]{g}
+
+  ---
+  - [En: Learn English through listening – absorb the language effortlessly ✔️]{s}
+  - [Cn: 通过听力学习英语——轻松吸收语言 ✔️]{g}
+
+  ---
+  - [En: Speaking practice – improve your pronunciation and confidence ✔️]{s}
+  - [Cn: 口语练习——提升你的发音和自信 ✔️]{g}
+
+  ---
+  - [En: Daily conversations & useful phrases – sound more natural in real life ✔️]{s}
+  - [Cn: 日常对话和实用短语——在现实生活中 ✔️听起来更自然]{g}
+
+  ---
+  - [En: Self-improvement topics – boost motivation and stay consistent Perfect for English learners who want to learn and improve at their own pace, comfortably, and in a cozy way.]{s}
+  - [Cn: 自我提升主题——提升动力并保持坚持 非常适合希望以自己节奏、舒适且舒适地学习和提升的英语学习者。]{g}
+
+  ---
+  - [En: Subscribe and start your journey today!]{s}
+  - [Cn: 订阅，立即开始您的旅程！]{g}
+
+---
 ### 9999. Download
 **[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
-* **[English Rource]{p}**
+* **[English Rource]{s}**
   - **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
   - **[英语学习资源导航 | 全网最全](https://en.knowledgefxg.com/)**
   - **[句乐部](https://julebu.co)**

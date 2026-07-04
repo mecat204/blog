@@ -1,31 +1,31 @@
 ### 0000. 开源项目
-**[必应]{p}**
+**[必应]{s}**
 * **[必应 | bing.com](https://cn.bing.com/)**
 
 ---
-**[English Vocabulary Size Test]{p}**
+**[English Vocabulary Size Test]{s}**
 * **[English Vocabulary Size Test](https://www.vocabularytester.com/vocabulary-test)**
 
 ---
-**[WEIFENG2333]{p}**
+**[WEIFENG2333]{s}**
 * **[WEIFENG2333 | VideoCaptioner | 翻译软件 ](https://github.com/WEIFENG2333/VideoCaptioner)**
   - [videocaptioner](https://www.videocaptioner.cn/)
 
 ---
-**[chidiwilliams]{p}**
+**[chidiwilliams]{s}**
 * **[chidiwilliams | buzz | 翻译软件 ](https://github.com/chidiwilliams/buzz)**
   - [buzz | zh](https://chidiwilliams.github.io/buzz/zh/docs)
 
 ---
-**[dlpanda]{p}**
+**[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
-**[PlayPhrase.me]{p}**
+**[PlayPhrase.me]{s}**
 * **[PlayPhrase.me: Site for cinema archaeologists. | 台词搜索](https://www.playphrase.me/#/search?q=&language=en)**
 
 ---
-**[LingQ]{p}**
+**[LingQ]{s}**
 * **[LingQ](https://www.lingq.com/en/)**
 
 ---
@@ -41,13 +41,13 @@
 * **[TED-Ed](https://ed.ted.com/)**
 
 ---
-**[Teco-lab]{p}**
+**[Teco-lab]{s}**
 * **[Teco-lab](https://teco-lab.com)**
   - user: meca..
   - pwd: min
 
 ---
-**[English learn | GPT]{p}**
+**[English learn | GPT]{s}**
 * **[DashPlayer](https://dash-player.solidspoon.xyz/)**
 * **[ESLDesk](https://esldesk.com/)**
 * **[USA Learns Homepage](https://www.usalearns.org/)**
@@ -59,7 +59,7 @@
 
 ---
 ### 0001. English Resource
-**[EngLearner]{p}**
+**[EngLearner]{s}**
 * **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
 
   **[001. movie]{g}**
@@ -112,7 +112,7 @@
     - [Games to learn English](https://www.gamestolearnenglish.com/)
 
 ---
-**[英语学习资源导航]{p}**
+**[英语学习资源导航]{s}**
 * **[英语学习资源导航 | 全网最全](https://en.knowledgefxg.com/)**
 
   ---
@@ -139,470 +139,316 @@
     - [Trivia Duel | 知识对决 | 问答对战 | 冷知识决斗 | 竞猜对战](https://www.triviaduel.com/)
 
 ---
-**[单词之风]{p}**
+**[单词之风]{s}**
 * **[heygsc/word-wind | English | 单词](https://github.com/heygsc/word-wind)**
   - **[单词之风](https://word-wind.pages.dev/)**
 
 ---
-**[句乐部]{p}**
+**[句乐部]{s}**
 * **[句乐部](https://julebu.co)**
 
 ---
-**[Qwerty Learnner]{p}**
+**[Qwerty Learnner]{s}**
 * **[Qwerty Learnner | 官网 — 为键盘工作者设计的单词与肌肉记忆锻炼软件](https://qwerty.liumingye.cn)**
 
 ---
-**[Type Words]{p}**
+**[Type Words]{s}**
 * **[Type Words 官网 - 词文记 | 单词跟打 · 文章跟打](https://typewords.cc/articles)**
 
 ---
-**[英语学习]{p}**
+**[英语学习]{s}**
 * **[英语学习 | GitCN](https://gitcn.org/collections/learning-english?utm_source=chatgpt.com)**
   * **[1000h](https://1000h.org/)**
 
 ---
-**[grammarly]{p}**
+**[grammarly]{s}**
 * **[grammarly](https://www.grammarly.com/)**
 
 ---
-**[TED]{p}**
+**[TED]{s}**
 * **[TED  | Ideas change everything](https://www.ted.com/)**
 
 ---
-**[etym online]{p}**
+**[etym online]{s}**
 * **[etym online | 在线词源词典 | 查询英语单词的词源、起源与历史演变](https://www.etymonline.com/)**
 
 ---
-**[Teco-lab]{p}**
+**[Teco-lab]{s}**
 * **[Teco-lab](https://teco-lab.com)**
   - user: meca..
   - pwd: min
 
 ---
-### 0002. Youtube
-**[English source]{p}**
+### 0002. English 精品
+**[英语雪梨老师]{e}**
+* **[英语雪梨老师 | 香港中文大学翻译硕士 | 二千章 | Douyin](https://v.douyin.com/KBw5U92lhwc/)**
+  - [年兽的故事](https://v.douyin.com/Pp6E5207qkg/)
+  - [春节一定要给孩子读这本～ Maisy’s Chinese New Year](https://v.douyin.com/OvBhfqii2KA/)
+  - **[原音: a e i o u | 英语启蒙](https://v.douyin.com/L9j_bLhPiFk/**)**
+  - **[开闭音节](https://v.douyin.com/zbLyVGZOd-I/)**
+  - **[用一首歌搞定最常用的26字母自然拼读](https://v.douyin.com/5QC4IoIci9w/)**
+  - **[寒假就看这5部英语纪录片](https://v.douyin.com/hKwyNh1W62k/)**
+    * [Plant Earth | 地球脉动](https://pan.quark.cn/s/9a87169ebf29#/list/share)
+    * [Too Cute | 萌宠成长记]()
+    * [Wild China | 美丽中国]()
+    * [Andy's Adventures | 安迪的冒险]()
+    * [Little Human Planet | 小小人类星球]()
+  - **[一首歌让你掌握48音标 | 国际音标](https://v.douyin.com/cX7EOaZEx6Y/)**
 
-| 类型               | 名称                            | 简介                                        | 网址/频道链接                                                                                                                                                                                                      |
-| ---------------- | ----------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **分级阅读书籍**       | Oxford Bookworms Library      | 牛津大学出版社分级读物，从 A1 到 C1，共 270+ 部作品，适合不同英语水平 | [点击访问](https://elt.oup.com/catalogue/items/global/graded_readers/oxford_bookworms_library/?cc=global&selLanguage=en&srsltid=AfmBOopYutFr6NmJQC012PJDDm8Wnm76p9s7Mtm7klGxPsyvryTKzdtc&utm_source=chatgpt.com) |
-| **分级阅读书籍**       | Penguin Readers               | 企鹅出版社分级读物，涵盖小说、经典文学及非小说作品                 | [点击访问](https://www.penguinreaders.co.uk/?utm_source=chatgpt.com)                                                                                                                                             |
-| **分级阅读书籍**       | Cambridge English Readers     | 剑桥大学出版社出版的分级读物，多题材故事，适合兴趣和水平不同的学习者        | [点击访问](https://www.cambridge.org/elt/readers/default.asp?utm_source=chatgpt.com)                                                                                                                             |
-| **YouTube阅读/听力** | Brightly Storytime            | 儿童图画书朗读，每周更新，适合初学者听力和词汇积累                 | [点击访问](https://www.youtube.com/channel/UCvQagFNHMrGgQpYunk4rHXg?utm_source=chatgpt.com)                                                                                                                      |
-| **YouTube阅读/听力** | Storyline Online              | SAG-AFTRA基金会制作，知名演员朗读儿童图画书，提高听力理解         | [点击访问](https://www.youtube.com/storylineonline?utm_source=chatgpt.com)                                                                                                                                       |
-| **YouTube英语学习**  | English Addict with Mr Duncan | 覆盖语法、发音、拼写等内容，适合中级学习者                     | [点击访问](https://www.youtube.com/channel/UC8pPDhxSn1nee70LRKJ0p3g?utm_source=chatgpt.com)                                                                                                                      |
-| **YouTube英语学习**  | BBC Learning English          | BBC官方英语学习频道，包含新闻、电影、词汇等，适合提升听力和口语         | [点击访问](https://www.youtube.com/user/bbclearningenglish?utm_source=chatgpt.com)
+  ---
+  **[001. 自然拼读]{g}**
+    - [英文数字1-100的标准读音 | **启蒙早教** | 001](https://v.douyin.com/sQvfu1ZvphY/)
+    - [**三步搞定长难单词**！告别死记硬背，词汇量暴涨其实很简单 | **元音: a e i o u** |**Kindergarten: 'Kin'der'gar'ten** | 147](https://v.douyin.com/6UfY6H-jmsE/)
 
----
-**[BBC Earth]{p}**
-* **[BBC Earth](https://www.youtube.com/@bbcearth)**
+  ---
+  **[002. 音标学习]{g}**
+    - [口诀巧记48个音标 | 001](https://v.douyin.com/QQ4iilpt-a0/)
+    - [一首歌让你掌握48音标 | 035](https://v.douyin.com/ytRnon0RPHE/)
 
----
-**[English MasterClass]{p}**
-* **[English MasterClass | 35.9万 | Youtube](https://www.youtube.com/@EnglishMasterClass019/shorts)**
-  - [Where To Use " For & Since " | English Grammar Learning](https://www.youtube.com/watch?v=2veCTtcQQqo)
-    * For / Since
-      - For -> duration of time
-      - Since -> point of time
-    * Examples:
-      - I Lived here for 2 years. I
-      - She slept since morining.
-      - He waited since monday.
-      - We studied for 3 hours.
-      - The stayed since January.
-      - I worked for 3 days.
-      - He drove for an hour.
-      - She ran since morning.
-      - They played for 2 hours.
-      - We talked for a while.
+  ---
+  **[003. 语法口诀和大招]{g}**
+    - [超形象秒记英语介词里的4个过 | across: 表面经过 | through: 内部经过 | over: 上方经过 | past: 旁边经过 | 001](https://v.douyin.com/CdrG7XE3bjg/)
+    - [从0数到10，搞定 **英语零冠词** | 209](https://v.douyin.com/dGFNbie3W74/)
+
+  ---
+  **[004. 启蒙儿歌+绘本]{g}**
+    - [Brown bear | 001](https://v.douyin.com/heTqg9Vdiuk/)
+    - [Lemon Tree: 柠檬树 | 033 ](https://v.douyin.com/50KKZtHJ3v8/)
+
+  ---
+  **[005. 小学单词的标准读音大全]{g}**
+    - [数字1-100的标准读音 | 001](https://v.douyin.com/GoblW3cdCfU/)
+    - [最新人教版三年级英语上册 | 055](https://v.douyin.com/8QUKhtokh1Q/)
+
+  ---
+  **[006. 听英文歌学英语]{g}**
+    - [推荐7首英文歌](https://v.douyin.com/8grpfGsV-v0/)
+    - [英语零基础暑假必听的三首神曲](https://v.douyin.com/KeOx4i12b2s/)
+
+  ---
+  **[007. 家长必看如何英语启蒙]{g}**
+    - [什么是英文思维？中英文思维的区别 | 001](https://v.douyin.com/OorJ8HSG1tw/)
+    - [英语教材改版后，光靠学校是不够的，家长必看干货 | 007](https://v.douyin.com/4OKHawruTTA/)
+    - [高考结束，英语命题和考查方向非常清晰，小学到高中都要看完， 未来的学习方向和方法。| 010](https://v.douyin.com/H3HeLJglFJ8/)
+
+  ---
+  **[008. 亲子口语]{g}**
+    - [一分钟教你学会手部动作的英文 | 001](https://v.douyin.com/OfEf6lYJLXE/)
+      * Slap    扇
+      * point   指
+      * push    推
+      * poke    戳
+      * punch   拳打
+      * lift    举起
+      * hold    握住
+      * grab    抓取
+      * flick   轻弹
+      * scratch 挠
+      * pull    拉
 
     ---
-    * At : Time | Night | Specific | Location
-    * On : Days | Date | Part of day
-    * In:  Seasons |  Months | Years |  Mor/Aft Evening
-    * Examples:
-      - At 10 '0'clock
-      - At night
-      - On Wednesday
-      - In Summer
-      - At the office
-      - In September
-      - On 9th June
-      - In 2025
-      - On Monday morning
-   ---
+    - [口头禅换成英语 | 025](https://v.douyin.com/yjZPOUvBjck/)
+      * See you later | 待会见
+      * I got it | 我知道了
+      * Let me try | 让我试试
+      * No way | 不可能
+      * Here you go | 给你
 
-   * MATHEMATICAL SYMBOLS
-     - Plus +
-     - Minus -
-     - Division /
-     - Multiply *
-     - Percent %
-     - Equal =
-     - big bracket []
-     - Square Root √
-     - Colon :
-     - Semi colon ;
-     - < less Than
-     - > Greator Than
+  ---
+  **[009. 每天学5句日常口语]{g}**
+    - [001](https://v.douyin.com/DpsZ4IVelHM/)
+      * What do you think?
+      * What do you have?
+      * What do you mean?
+      * What do you want?
+      * What do you know?
+    - [005](https://v.douyin.com/I5cTiXSsalY/)
+      * See you.
+      * See you soon. | 待会见
+      * See you later. | 晚点见
+      * See you around. | 后会有期
+      * See you tomorrow.
 
+  ---
+  **[010.以一记十 秒记单词]{g}**
+    - [以一记十 | **自然拼读巧记单词**](https://v.douyin.com/ltaPyXaNLsY/)
+      * air
+      * hair
+      * chair
+      * pair | 一对
+      * stair | 楼梯
+      * fair  | 公平
+      * repair | 修理
+    - [秒记天气单词](https://v.douyin.com/LcIuWmZdN1c/)
+      * sun sunny
+      * rain rainy
+      * wind windy
+      * fog foggy 有雾的
+      * snow snowy
+      * cloud cloudy 多云的
+
+  ---
+  **[011. 99%的人都读错的英文]{g}**
+    - [001](https://v.douyin.com/cWs3fPbx6gI/)
+      * queue | 排队
+      * climb | 攀登
+      * iron
+      * sword
+      * suite | 套房
+      * obvious | 明显
+    - [002](https://v.douyin.com/nmG6ewz3aCs/)
+      * dress warm.
+      * My English is not very good.
+      * eat soup.
+
+  ---
+  **[012. 雪梨老师的口语干货]{g}**
+    - [001](https://v.douyin.com/TO9kELi1-B8/)
+      * Same here       | 我也是
+      * Good idea
+      * It makes sense. | 很有道理
+      * Couldn't  agree more. | 非常同意
+    - [连读 | 011](https://v.douyin.com/veTV9XYCX-E/)
 
 ---
-**[linguamarina]{p}**
-* **[linguamarina | 833万 | Youtube](https://www.youtube.com/@linguamarina)**
-  - [En: Co-founder of a language-learning platform Linguatrip, passionate about learning languages.]{s}
-  - [Cn: 语言学习平台Linguatrip的联合创始人，热衷于学习语言。]{g}
+**[夏夏不温柔（学英语版）]{p}**
+* **[夏夏不温柔（学英语版）| 感恩相遇，如果能感染到你，我会倍感幸福 | 千章 | Douyin](https://v.douyin.com/iRGr_X0cxB4/)**
 
   ---
-  - [En: I speak Russian, English, German, and a bit of Italian.]{s}
-  - [Cn: 我会说俄语、英语、德语，还有一点意大利语。]{g}
+  **[001. 自我肯定]{g}**
+    - [睡前做个自我肯定，然后安安稳稳做个好梦 | 001](https://v.douyin.com/W5KlxpSYwOk/)
+    - [最近我一直在想，孩子的补课是不是应该暂停，学历不再那么重要了？但是学习的能力依旧重要 | 035](https://v.douyin.com/pvN_Ktx1Db8/)
 
   ---
-  - [En: If you represent a brand and want to collab, please reach out to partnerships@marinamogilko.co]{s}
-  - [Cn: 如果你代表某个品牌并希望合作，请联系 partnerships@marinamogilko.co]{g}
-
-  ---
-  - [En: Otherwise here is my assistant's email - marina@marinamogilko.co Download my English Workbook - bit.ly/3NTkLdC]{s}
-  - [Cn: 否则这是我助理的邮箱 - marina@marinamogilko.co 下载我的英语练习册- bit.ly/3NTkLdC]{g}
-
-  ---
-  - [En: My name is Marina Mogilko (or Марина Могилко in Russian, I am originally from Saint-Petersburg) I am an entrepreneur and YouTuber.]{s}
-  - [Cn: 我叫玛丽娜·莫吉尔科（俄语称为Марина Могилко，我来自圣彼得堡）， 我是一名企业家和YouTuber。]{g}
-
-  ---
-  - [En: One day, I realized I wanted to move to California.]{s}
-  - [Cn: 有一天，我意识到我想搬到加州。]{g}
-
-  ---
-  - [En: My company, LinguaTrip, got into a top 500 Silicon Valley startup incubator and I got an O1 visa sticker in my passport.]{s}
-  - [Cn: 我的公司LinguaTrip进入了硅谷前500名的初创孵化器，我的护照上还贴了O1签证贴纸。]{g}
-
-  ---
-  - **[How I started speaking English without fear (as a non-native speaker) | 我如何无畏地开始说英语（作为非母语者）](https://www.youtube.com/watch?v=p9KWSh06Wuo)**
+  **[002. 日常碎碎念]{g}**
+    - [录了100遍终于鼓足勇气发出来了，不卷女儿，卷自己 | 001](https://v.douyin.com/sSt96jT0-qg/)
+    - [烧饭做菜真的不容易，感谢身边默默付出的那一位 | 064](https://v.douyin.com/uPlkOjxFmbk/)
 
 ---
-**[EnglishClass101.com]{p}**
-* **[EnglishClass101.com  | 863万 | Youtube](https://youtube.com/@EnglishClass101)**
-  - [How to Score 9.0 on IELTS EXAM: best tips and strategies](https://www.youtube.com/watch?v=s2M1t-pHJcc&list=PLoDjs_CkjI64nuMBkse4y2zJitzeGlZxi)
-  - [Fix Your English Speaking in 150 Minutes](https://www.youtube.com/watch?v=Xg0dZdphmUU)
-  - [120 Minutes of Real-World English Listening & Speaking Training](https://youtube.com/watch?v=1-kJsy_B4T4)
+**[欧美外教在线一对一口语-葡然蕴]{e}**
+* **[欧美外教在线一对一口语-葡然蕴 | 零基础英语 | 启蒙英语 | 雅思口语 | 零基础英语 | 商务英语 | 二千章 | Douyin](https://v.douyin.com/dtwC1ZGrWxQ/)**
+  - [北美外教一对一网课 外教：英语是一项改变人生的技能](https://v.douyin.com/Ix5dt7a8F-Q/)
+  - [欧美外教英语课一对一网课](https://v.douyin.com/cNQsa9vj7nQ/)
+  - [在线英语外教一对一英语口语 外教：记忆单词的最佳方式是多读。|英语流利说](https://v.douyin.com/S_WuSgv0SEM/)
+  - **[English Fluency Jounery | 223万 | Youtube](https://www.youtube.com/@EnglishFluencyJourney/videos)**
+  - [English Fluency Journey | Hanna Khoma](https://www.englishfluencyjourney.com/)
 
-* **OTHER**
+  ---
+  **[001. 51talk英语外教一对一]{g}**
+    - [51talk外教一对一，外教一对一，母语者教你如何正确高效的学英语 | 001](https://v.douyin.com/sa-SjAcZloQ/)
+    - [51talk英语外教一对一 在线授课，英语是用来说的，一定的语言环境对于英语的学成有非常帮助 | 011](https://v.douyin.com/flgq6-R01PM/)
 
-| 类型               | 名称                            | 简介                                        | 网址/频道链接                                                                                                                                                                                                      |
-| ---------------- | ----------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **分级阅读书籍**       | Oxford Bookworms Library      | 牛津大学出版社分级读物，从 A1 到 C1，共 270+ 部作品，适合不同英语水平 | [点击访问](https://elt.oup.com/catalogue/items/global/graded_readers/oxford_bookworms_library/?cc=global&selLanguage=en&srsltid=AfmBOopYutFr6NmJQC012PJDDm8Wnm76p9s7Mtm7klGxPsyvryTKzdtc&utm_source=chatgpt.com) |
-| **分级阅读书籍**       | Penguin Readers               | 企鹅出版社分级读物，涵盖小说、经典文学及非小说作品                 | [点击访问](https://www.penguinreaders.co.uk/?utm_source=chatgpt.com)                                                                                                                                             |
-| **分级阅读书籍**       | Cambridge English Readers     | 剑桥大学出版社出版的分级读物，多题材故事，适合兴趣和水平不同的学习者        | [点击访问](https://www.cambridge.org/elt/readers/default.asp?utm_source=chatgpt.com)                                                                                                                             |
-| **YouTube阅读/听力** | Brightly Storytime            | 儿童图画书朗读，每周更新，适合初学者听力和词汇积累                 | [点击访问](https://www.youtube.com/channel/UCvQagFNHMrGgQpYunk4rHXg?utm_source=chatgpt.com)                                                                                                                      |
-| **YouTube阅读/听力** | Storyline Online              | SAG-AFTRA基金会制作，知名演员朗读儿童图画书，提高听力理解         | [点击访问](https://www.youtube.com/storylineonline?utm_source=chatgpt.com)                                                                                                                                       |
-| **YouTube英语学习**  | English Addict with Mr Duncan | 覆盖语法、发音、拼写等内容，适合中级学习者                     | [点击访问](https://www.youtube.com/channel/UC8pPDhxSn1nee70LRKJ0p3g?utm_source=chatgpt.com)                                                                                                                      |
-| **YouTube英语学习**  | BBC Learning English          | BBC官方英语学习频道，包含新闻、电影、词汇等，适合提升听力和口语         | [点击访问](https://www.youtube.com/user/bbclearningenglish?utm_source=chatgpt.com)
+  ---
+  **[002. vipkid一对一口语外教]{g}**
+    - [vipkid的外教都是北美 | 001](https://v.douyin.com/kgPL0nCb2cI/)
+    - [vipkid一对一口语外教 外教：发音相近但意义不同的单词 | 021](https://v.douyin.com/c3_UcMgSsEs/)
+
+  ---
+  **[003. 在线英语外教一对一口语免费课程]{g}**
+    - [真人外教一对一在线英语课 | 001](https://v.douyin.com/ACTS2tIr7K0/)
+    - [外教一对一英语口语课 外教：口语不好？别怪语法词汇没掌握 | 018](https://v.douyin.com/OIi4eUtf3jE/)
+
+  ---
+  **[004. 外教口语一对一]{g}**
+    - [今日话题：在你工作的地方请假容易吗 | 001](https://v.douyin.com/198txVleeG8/)
+    - [好可爱的描是你那只小描咪吗？| 007](https://v.douyin.com/i93pOHnUBng/)
+
+  ---
+  **[005. 商务英语从零开始学习]{g}**
+    - [商务英语口语成人速成班 | 001](https://v.douyin.com/opwot6T6iDU/)
+    - [你去过现场演唱会吗 | 010](https://v.douyin.com/PsVN77nRTJk/)
+
+  ---
+  **[006. 欧美外教在线一对一口语]{g}**
+    - **[说三个你蕞想去的城市 | 001](https://v.douyin.com/CSkUMvvYy4w/)**
+    - **[你为什么选择离开深圳 | 050](https://v.douyin.com/ulq9cnxbW9g/)**
+
+  ---
+  **[007. 外教一对一英语口语课]{g}**
+    - [你害怕当众演讲吗？ | 001](https://v.douyin.com/oCk1_To0A_U/)
+    - [男人哭可以吗？ | 184](https://v.douyin.com/cns6ULzSGlE/)
 
 ---
-**[ETJ English]{p}**
-* **[ETJ English | 113万 | Youtube](https://www.youtube.com/@etjenglish)**
-  - [En: I’m Elliott, founder of ETJ English - a British pronunciation coach and communication mentor helping learners and professionals speak English clearly, naturally, and confidently.]{s}
-  - [Cn: 我是Elliott，ETJ English的创始人——一位英国发音教练和沟通导师，帮助学习者和专业人士清晰、自然且自信地说英语。]{g}
-
-  ---
-  - [En: Whether your goal is reducing your accent, sounding more British, or simply feeling more confident in your everyday or professional communication, I’m here to help.]{s}
-  - [Cn: 无论你的目标是减少口音、让自己听起来更有英国口音，还是单纯在日常或职业交流中感到更自信，我都在这里为你提供帮助。]{g}
-
-  ---
-  - [En: On this channel, you’ll find lessons on:]{s}
-	  *	[En: Modern RP British pronunciation]{s}
-	  *	[En: Connected speech, stress, and intonation]{s}
-	  *	[En: Sounding natural in conversations and meetings (communication skills)]{s}
-
-  - [Cn: 在本频道，你会找到以下课程:]{g}
-    * [Cn: 现代RP英式发音]{g}
-    * [Cn: 连贯的言语、重音和语调]{g}
-    * [Cn: 在对话和会议中听起来自然（沟通技巧）]{g}
-
-  ---
-  - [En: Common British expressions and real speech habits Ready to take it further?]{s}
-  - [Cn常见的英国表达和真实的说话习惯 准备好更进一步了吗？]{g}
-
-  ---
-  - [En: You can get personal feedback and daily support with my WhatsApp coaching and full pronunciation course at: www.etjenglish.com  For business enquiries or corporate coaching, feel free to contact me through email: elliott@etjenglish.com]{s}
-  - [Cn您可以通过我的WhatsApp辅导和完整发音课程获得个人反馈和每日支持： www.etjenglish.com 如有商业咨询或企业辅导，欢迎通过电子邮件联系我：elliott@etjenglish.com]{g}
-
-  ---
-  * **[How to Pronounce ALL British RP Diphthongs - Speak English Clearly | 如何发音所有英国RP双元音——清晰地说英语](https://www.youtube.com/watch?v=olq66C8pLw8)**
+**[乃炎英语]{e}**
+* **[乃炎英语 | 奈炎工作室 | 英语学习顾问, 专注成人零基础英语起步到提升 | 七年教龄 | 英语专八, 资深英语培训师 | 高级英语教师资格证 CATTI三级 | 一起快乐学英语 | Douyin | 五百章 | Douyin](https://v.douyin.com/pPqC74m3eTU/)**
+  - **[日常口语](https://v.douyin.com/D8Wk9TkC14Y/)**
+  - [每天学习五句实用地道英语表达](https://v.douyin.com/__4RppvgmSE/)
+  - [马上学了就可以使用的日常口语](https://v.douyin.com/dR3AdukO5Dw/)
+  - [学完这80个短语，口语进步立竿见影](https://v.douyin.com/rAvZzpnXdy0/)
+  - **[坚持做自己 答案会出现在自己的节奏里](https://v.douyin.com/sfKwkKVTQXI/)**
+  - **[30句学完就能用的地道英语口语和我一起来学习吧](https://v.douyin.com/wB1zD3qrgtw/)**
+  - **["加减乘除"的英语表达你知道吗？和我一起来学习吧 | 等加减乘除- Equal,Plus,minus,Divided,Times](https://v.douyin.com/97TeaLAhQAk/)**
+  - **[7首英语神曲，搞定常见英语时态一起来学习吧](https://v.douyin.com/qEaDHxMyM4U/)**
+    * [一般现在时 | You Are My Sunshine]{g}
+    * [一般过去时 | Yesterday Once More]{g}
+    * [现在进行时 | Lemon Tree]{g}
+    * [现在完成时 | Seasons In The Sun]{g}
+    * [一般将来时 | Monsters]{g}
+    * [过去进行时 | Love Story  | Taylor Swift]{g}
+    * [过去完成时&虚拟语气 | If I were A Boy]{g}
 
 ---
-**[English with Lucy]{p}**
-* **[English with Lucy | 1310万 | Youtube](https://www.youtube.com/@EnglishwithLucy)**
-  - [En: Click to download my FREE B1-C1]{s}
-  - [Cn: 点击下载我的免费B1-C1]{g}
-
-  ---
-  - [En: Ebook!👇]{s}
-  - [Cn: 电子书！ 👇]{g}
-
-  ---
-  - [En: It contains ALL the vocab and grammar you need to learn to pass the B1, B2 & C1 levels of English!👇]{s}
-  - [Cn: 它包含了你通过英语B1、B2和C1水平所需的所有词汇和语法！ 👇]{g}
-
-  ---
-  * **[If you know these, you're C2. | 如果你知道这些，你就是C2。](https://www.youtube.com/watch?v=NSycEAiPU3U)**
+**[高高Lindsey]{e}**
+* **[高高Lindsey | 语言的极限就是我世界的极限 | 北外口译硕士 | 4K |  百章 | Douyin](https://v.douyin.com/Km65NtSiWqA/)**
+  - [没有语言环境如何学好英语？这3个习惯一定要养成 避免踩坑](https://v.douyin.com/kVvrsm8ERo0/)
+  - [如何快速获得语感？并停止在大脑中把中文译为英文 | Min: 04:50](https://v.douyin.com/vdy3qZoFl0Q/)
+  - [分级美音播客&频道推荐｜磨耳朵👂给大脑注入养分 | Min: 04:58](https://v.douyin.com/YG8zsgmXKr8/)
+  - [新一年的英语学习计划启动！进来抄一份科学有效的口语进阶](https://v.douyin.com/kTFzHYBpbQI/)
+  - [语言不是知识而是肌肉 - 英语脑如何真正建立](https://v.douyin.com/3WWtrtae2dc/)
 
 ---
-**[English in Comfort]{p}**
-* **[English in Comfort | 26.5万 | Youtube](https://www.youtube.com/@EnglishinComfort/videos)**
-  - [En: Learn English the Comfortable Way!]{s}
-  - [Cn: 舒适地学习英语！]{g}
-
-  ---
-  - [En: At English in Comfort, we help you improve your English through listening and speaking practice.]{s}
-  - [Cn: 在舒适英语中心，我们通过听力和口语练习帮助你提升英语水平。]{g}
-
-  ---
-  - [En: Our relaxing podcasts make learning natural and enjoyable.]{s}
-  - [Cn: 我们的轻松播客让学习变得自然且愉快。]{g}
-
-  ---
-  - [En: No stress, just real progress!]{s}
-  - [Cn: 没有压力，只有真正的进步！]{g}
-
-  ---
-  - [En: What you’ll find here: ✔️]{s}
-  - [Cn: 你会在这里找到： ✔️]{g}
-
-  ---
-  - [En: Learn English through listening – absorb the language effortlessly ✔️]{s}
-  - [Cn: 通过听力学习英语——轻松吸收语言 ✔️]{g}
-
-  ---
-  - [En: Speaking practice – improve your pronunciation and confidence ✔️]{s}
-  - [Cn: 口语练习——提升你的发音和自信 ✔️]{g}
-
-  ---
-  - [En: Daily conversations & useful phrases – sound more natural in real life ✔️]{s}
-  - [Cn: 日常对话和实用短语——在现实生活中 ✔️听起来更自然]{g}
-
-  ---
-  - [En: Self-improvement topics – boost motivation and stay consistent Perfect for English learners who want to learn and improve at their own pace, comfortably, and in a cozy way.]{s}
-  - [Cn: 自我提升主题——提升动力并保持坚持 非常适合希望以自己节奏、舒适且舒适地学习和提升的英语学习者。]{g}
-
-  ---
-  - [En: Subscribe and start your journey today!]{s}
-  - [Cn: 订阅，立即开始您的旅程！]{g}
-
-
+**[Leah的小日记]{e}**
+* **[Leah的小日记 | 好好生活 跟我学习英语 | 莉雅老师教英语 | 百章 | Douyin](https://v.douyin.com/zLRSwv2ARHc/)**
+  - [全英vlog｜跟着我的vlog学点英语吧](https://v.douyin.com/TPiSv2S-qXQ/)
+  - [可抄作业｜我的春季英文书单](https://v.douyin.com/4j_AyhrL4AA/)
 
 ---
-**[Learn English with Grace]{p}**
-* **[Learn English with Grace | 7560位 | Youtube](https://www.youtube.com/@LearnEnglishwithGrace24)**
-  - [En: Hi there, I'm Grace.]{s}
-  - [Cn: 你好，我是格蕾丝。]{g}
+**[莉雅老师]{e}**
+* **[莉雅老师 | 自由英语老师 | 英语教育学毕业 ✌️英语母语者 | TESOL 国际英语教师资格证 | 伍佰章](https://v.douyin.com/cl4e-WOHyQE/)**
 
   ---
-  - [En: Welcome to my classroom!]{s}
-  - [Cn: 欢迎来到我的教室！]{g}
+  **[001. 日常英语]{g}**
+    - ["追求"用英语怎么说 | 001](https://v.douyin.com/DRnPb9slPYg/)
+    - [外国人说的 "burnt out" 累了 | 217](https://v.douyin.com/ddegxTgbe6s/)
 
   ---
-  - [En: My goal is to help you have some fun while improving your English.]{s}
-  - [Cn: 我的目标是帮助你在提升英语的同时享受乐趣。]{g}
+  **[002. 英语发音]{g}**
+    - [li-ter-al-ly | 001](https://v.douyin.com/T2-iCjOKL9M/)
+    - [the | 032](https://v.douyin.com/_TF06H8Ys18/)
 
   ---
-  - [En: If you would like to book an online class with me, you can do this through Preply: preply.in/GRACE6EN19856962]{s}
-  - [Cn: 如果你想预约我的在线课程，可以通过Preply： preply.in/GRACE6EN19856962]{g}
+  **[003. 学习灵感]{g}**
+    - [你是不是觉得英语太难了！我来告诉你最重要的是坚持 | 001](https://v.douyin.com/bA99WSdVF6Y/)
+    - [想练好英语就大胆说出来吧 | 009](https://v.douyin.com/5EkWyYkcKsw/)
 
   ---
-  * **[How to Stay Motivated to Learn English in 2026! | 如何在2026年保持学习英语的动力！](https://www.youtube.com/watch?v=1knajL-wIjA)**
+  **[004. 英文歌]{g}**
+    - [bewhatyouwannabe | 001](https://v.douyin.com/5fGs_0eZpvo/)
+    - [今天来学一首英语歌吧 | 005](https://v.douyin.com/5AiJ3Krdb7M/)
+    - [这首字母歌你们都会唱吗 | 006](https://v.douyin.com/feSOcPjsmcE/)
 
 ---
-**[TED Archive]{p}**
-* **[TED Archive | Youtube ](https://www.youtube.com/@TEDTalks)**
-  - [En: Welcome to the TED Archive, a collection of all the talks from TED conferences from 1984 on.]{s}
-  - [Cn: 欢迎来到TED档案馆，这里收录了自1984年以来所有TED会议的演讲。]{g}
-
-  ---
-  - [En: This channel is arranged by conference and by session, featuring both talks that are already on TED.com along with newly posted, never-before-seen, unedited versions of archive talks.]{s}
-  - [Cn: 该频道按会议和分会安排，包含已 TED.com 的两场演讲以及新发布、从未公开过、未经编辑的档案演讲版本。]{g}
-
-  ---
-  - [En: Okay, not all the talks, because for various reasons we’ll never be able to publish them all.]{s}
-  - [Cn: 好吧，不是所有演讲，因为各种原因我们永远无法全部发表。]{g}
-
-  ---
-  - [En: But welcome to our as-comprehensive-as-possible work-in-progress; we’ll be working backward in time and adding talks from earlier conferences regularly, so check back often.]{s}
-  - [Cn: 但欢迎来到我们尽可能全面的进行中;我们将倒推时间，定期添加早期会议的演讲，敬请经常回来查看。]{g}
+**[Erin姜姜来]{e}**
+* **[Erin姜姜来 | 27fall 国际生 intj + 大白羊 | Email: erinjiangmuxuan@outlook.com](https://v.douyin.com/Tx6dyFgb0_M/)**
+  - [允许自己不完美](https://v.douyin.com/xT1kOy5BQ84/)
+  - [每天15分钟 | English Exercise](https://v.douyin.com/RNHCBSpxCm0/)
 
 ---
-**[TEDx Talks]{p}**
-* **[TEDx Talks | Youtube](https://www.youtube.com/@TEDx)**
-  - [En: TEDx is an international community that organizes TED-style events anywhere and everywhere -- celebrating locally-driven ideas and elevating them to a global stage.]{s}
-  - [Cn: TEDx是一个国际社区，组织类似TED的活动，地点和地点——庆祝本地驱动的理念，并将其提升到全球舞台。]{g}
-
-  ---
-  - [En: TEDx events are produced independently of TED conferences, each event curates speakers on their own, but based on TED's format and rules.]{s}
-  - [Cn: TEDx活动独立于TED会议制作，每个活动都会根据TED的形式和规则单独策划演讲嘉宾。]{g}
-
-  ---
-  - [En: For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request here: media-requests.ted.com.]{s}
-  - [Cn: 如需了解更多关于将TED用于商业目的的信息（例如员工学习、电影或在线课程），请在此提交媒体请求：media-requests.ted.com。]{g}
-
----
-**[Dr. Olivia Remes]{p}**
-* **[Dr. Olivia Remes | Youtube](https://www.youtube.com/@dr.oliviaremes5962)**
-  - [En: Hi!  I'm Dr. Olivia Remes and I'm a mental health researcher at the University of Cambridge.]{s}
-  - [Cn: 你好！ 我是奥利维亚·雷梅斯博士，剑桥大学的心理健康研究员。]{g}
-
-  ---
-  - [En: I have been researching anxiety, depression, and coping strategies for wellbeing and resilience for a long time, and I'm excited to share my content with you!]{s}
-  - [Cn: 我一直在研究焦虑、抑郁以及关于健康和韧性的应对策略，现在很高兴能和大家分享我的内容！]{g}
-
-  ---
-  - [En: I am also a life coach working with people to help them achieve their goals in life.]{s}
-  - [Cn: 我也是一名生活教练，帮助人们实现人生目标。]{g}
-
-  ---
-  - [En: Stay tuned for videos on coping strategies, how to take back control of your life, how to become confident, and much more!]{s}
-  - [Cn: 敬请关注关于应对策略、如何重新掌控生活、如何变得自信等更多内容的视频!]{g}
-
-  ---
-  - [Feeling overwhelmed? Tips from Dr Olivia Remes ](https://www.youtube.com/watch?v=8-eUxk69r-I)
-  - [How to manage exam stress by Dr Olivia Remes](https://www.youtube.com/watch?v=Ni3VEgbvuhU)
-
----
-**[TED]{p}**
-* **[TED | Youtube](https://www.youtube.com/@TED)**
-  - [En: The TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less).]{s}
-  - [Cn: TED演讲频道汇集了TED大会上最精彩的演讲和表演，世界顶尖的思想家和实践者将在18分钟（或更短时间）内发表他们人生中最精彩的演讲。]{g}
-
-  ---
-  - [En: Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more.]{s}
-  - [Cn: 请关注关于科技、娱乐和设计的讲座——以及科学、商业、全球议题、艺术等。]{g}
-
-  ---
-  - [En: You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know.]{s}
-  - [Cn: 你可以链接或嵌入这些视频，转发给其他人，并与你认识的人分享这些想法。]{g}
-
-  ---
-  - [En: TED's videos may be used for non-commercial purposes under a Creative Commons License, Attribution–Non Commercial–No Derivatives (or the CC BY – NC – ND 4.0 International) and in accordance with our TED Talks Usage Policy: www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy.]{s}
-  - [Cn: TED的视频可根据知识共享许可协议、署名-非商业-禁止衍生（或CC by – NC – ND 4.0 International）及我们的TED演讲使用政策：www.ted.com/about/our-organization/our-policies-terms/ted-talks-usage-policy 用于非商业目的。]{g}
-
-  ---
-  - [En: For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), please submit a Media Request at media-requests.ted.com]{s}
-  - [Cn: 如需了解更多关于将TED用于商业目的（如员工学习、电影或在线课程）的信息，请提交媒体请求 media-requests.ted.com]{g}
-
----
-**[How the Fridge Changed Food]{p}**
-* **[How the Fridge Changed Food | Nicola Twilley | TED](https://www.youtube.com/watch?v=Mz1ItbiNqxw)**
-
----
-**[English Fluency Journey]{p}**
-* **[English Fluency Journey | 223万 | Youtube](https://www.youtube.com/@EnglishFluencyJourney)**
-  - [En: I’m Anna and welcome to my channel.]{s}
-  - [Cn: 我是安娜，欢迎来到我的频道。]{g}
-
-  ---
-  - [En: Here, I post some useful information for English learners.]{s}
-  - [Cn: 在这里，我发布了一些对英语学习者有用的信息。]{g}
-
-
-  - [En: I’m from Ukraine and I’ve worked on my English and accent, for the most part, on my own, but you can find out and trace my story by watching my videos.]{s}
-  - [Cn: 我来自乌克兰，大部分时间都是自己努力练习英语和口音的，但你可以通过观看我的视频了解并追踪我的故事。]{g}
-
-  ---
-  - [En: I’ve been studying American pronunciation for a long time, and I still do, and I guess I always will.]{s}
-  - [Cn: 我研究美式发音已经很久了，现在依然如此，我想我永远都会继续。]{g}
-
-  ---
-  - [En: Learning a language, it’s a lifetime journey.]{s}
-  - [Cn: 学习一门语言，是一段终身的旅程。]{g}
-
-
-  - [En: I know exactly what it takes to become fluent and acquire an accent in a non-English speaking country.]{s}
-  - [Cn: 我完全清楚在非英语国家要流利说话并学会口音需要什么。]{g}
-
-  ---
-  - [En: ♡Instagram page - www.instagram.com/englishfluencyjourney?igsh=cjgzZzQ2bzBla3dq]{s}
-  - [En: ♡Facebook page - English Fluency Journey]{s}
-  - [En: TikTok- www.tiktok.com/@englishfluencyjourney Amazon Wish List: www.amazon.com/hz/wishlist/ls/AWSROCO8IQ4N?ref_=wl_share]{s}
-  - [En: Contact for collaboration: englishfluencyjourney@gmail.com]{s}
-
-  ---
-  - [Cn: ♡ Instagram主页 - www.instagram.com/englishfluencyjourney?igsh=cjgzZzQ2bzBla3dq ♡]{g}
-  - [Cn: Facebook主页 - 英语流利之旅 TikTok - www.tiktok.com/@englishfluencyjourney]{g}
-  - [Cn: 亚马逊愿望单： www.amazon.com/hz/wishlist/ls/AWSROCO8IQ4N?ref_=wl_share]{g}
-  - [Cn: 合作联系方式：englishfluencyjourney@gmail.com]{g}
-
----
-**[English Fluency Journey]{p}**
-* **[English Fluency Journey | Hanna Khoma](https://www.englishfluencyjourney.com/)**
-
----
-**[ElenaLin_青青]{p}**
-* **[ElenaLin_青青 | Youtube](https://www.youtube.com/@ElenaLin)**
-
----
-**[英语能力突破]{p}**
-* **[英语能力突破 | Youtube](https://www.youtube.com/@stars2046/playlists)**
-  - **[英语能力突破_100个句子记完7000个雅思单词](https://www.youtube.com/watch?v=lob44iOFNYE&list=PLH8j2mKj10K1G7XjDvaG2hMXwNv36CioN)**
-
----
-**[熊熊英语]{p}**
-* **[熊熊英语 | Youtube](https://www.youtube.com/@OneHourListen/videos)**
-
----
-**[零基础学习英语]{p}**
-* **[零基础学习英语 |  牛津书虫第一期 | Youtube](https://www.youtube.com/watch?v=LttbCdk_A1M&list=PLYHYHpYmp4ZHrhXn21ry3sb5qci13DtSa&index=1)**
-
----
-**[michelelepe]{p}**
-* **[michelelepe | Youtube](https://www.youtube.com/@michelelepe)**
-
----
-**[Little Reading Bug's Bilingual Channel]{p}**
-* **[Little Reading Bug's Bilingual Channel | 小书虫的双语频道 | Youtube](https://www.youtube.com/@littlereadingbugsbilingual539/videos)**
-
----
-**[English Unleashed: The Podcast]{p}**
-* **[English Unleashed: The Podcast | 115万 | Youtube](https://www.youtube.com/@EnglishPodcastUnleashed/videos)**
-  - [En: Welcome to English Unleashed: The Podcast.]{s}
-  - [Cn: 欢迎收听《English Unleashed：播客》。]{g}
-
-  ---
-  - [En: We are a group of language educators and researchers with more than 20 years of experience teaching English in Europe, the UK, Middle East and Austraila.]{s}
-  - [Cn: 我们是一群拥有超过20年在欧洲、英国、中东和澳大利亚教授英语的语言教育者和研究人员。]{g}
-
-  ---
-  - [En: In every episode, we (Tom and Sarah) speak slowly and clearly, so you can listen, understand, and speak along with us.]{s}
-  - [Cn: 在每一集中，我们（汤姆和莎拉）都说得慢而清晰，这样你可以倾听、理解并与我们一起交流。]{g}
-
-  ---
-  - [En: We share educational conversations, useful sentences, everyday expressions, and emotional language — all designed to help you sound more natural.]{s}
-  - [Cn: 我们分享教育性对话、实用句子、日常表达和情感语言——所有这些都旨在帮助你听起来更自然。]{g}
-
-  ---
-  - [En: You’ll also get learning tips and simple strategies to improve your English faster and with more confidence 🎧]{s}
-  - [Cn: 你还将获得学习技巧和简单的策略，帮助你更快、更有信心 🎧地提升英语水平]{g}
-
-  ---
-  - [En: Learn the phrases native speakers use 🗣️ Practice with us — shadowing, speaking, understanding 💡 Get clear advice for building fluency Perfect for pre-intermediate to advanced learners who want to go beyond grammar — and truly speak English with feeling.]{s}
-  - [Cn: 学习母语者常用 🗣️的短语 与我们一起练习——跟随学习、口语、理解 💡 获取清晰的流利度建设建议 非常适合想要超越语法的中高级学习者——并真正用感情表达英语。]{g}
-
-  ---
-  - [En: All rights reserved © Educational Video Productions.]{s}
-  - [Cn: 版权所有，版权所有©：教育视频制作公司。]{g}
-
----
-**[高高Lindsey]{p}**
-* **[高高Lindsey | 北京外国语大学英语口译硕士｜Polyglot | "语言的边界就是你世界的边界"  | 5.54万| Youtube](https://www.youtube.com/@lindseylingo/videos)**
-  - **[AI Can Speak English Better Than You](https://www.youtube.com/watch?v=nILMlkHiVdM)**
-
-* **[小红书](https://www.xiaohongshu.com/user/profile/62be5b34000000001b0294c4?xsec_token=YBupxFMeZgHrzNH29Lc8WknCW8FSqsFw05Rs8-2haM8ac=&xsec_source=app_share&xhsshare=CopyLink&shareRedId=ODhERThHNz02NzUyOTgwNjdFOTk9OUk9&apptime=1762249405&share_id=6b146a5e6305453780f4a4b797ee698c)**
-
----
-**[LOVEBUSTER]{p}**
-* **[LOVEBUSTER | 198万 | Youtube](https://www.youtube.com/@LoveBusterShow/videos)**
-  - [I Broke The Law To Save Those I Love | SAVING HEARTS | Ep.10 | 我违法拯救我所爱的人 |拯救心灵 |第10集](https://www.youtube.com/watch?v=xxAknGzwPSw)
+**[Aya听力站]{s}**
+* **[Aya听力站 | 每天分享实用英语听读！ 💪关注我一起学英语吧 | 叁佰章 | Douyin](https://v.douyin.com/5IMVqS1DJEg/)**
+  - [万能句型2000句第三集](https://v.douyin.com/LKbQ68t5zpw/)
+  - [【餐厅篇】初级短语2000句，每天10分钟，坚持听，两个月听懂美国人](https://v.douyin.com/DGyR5xDTDvY/)
+  - [【第4集】全球使用频率最高的1200句，每天10分钟，坚持听，两个月听懂美国人](https://v.douyin.com/xHJuHqGcGnU/)
 
 ---
 ### 0003. Douyin
+**[菲教英语网课推荐]{s}**
+* **[菲教英语网课推荐 | 试听课咨询私信我呦 👉适合各年龄段的零基础，雅思托福 | 二千章 | Douyin](https://v.douyin.com/vVfQfoX9dYE/)**
+  - [跟外教老师练口语，提升你的英语水平](https://v.douyin.com/MMgIQU9fmuo/)
+  - [萌娃跟外教老师一对一学习英语，坚持2年，进步很大！ | 外教一对一  | 外教英语  | 英语启蒙](https://v.douyin.com/zK8HOOOrfIo/)
+  - [阅读的提升口语最快的方法 | 英语外教](https://v.douyin.com/lxInWasAlj8/)
+
+---
 **[Mona]{p}**
 * **[Mona | 热爱生活，享受生活，活在当下！ | 三千章 | Douyin](https://v.douyin.com/wOG6LH62MDw/)**
   - [开心就好 | 英文语录 | 生活很好，记得微笑，众口难调，开心就好](https://v.douyin.com/xDTD6DaYERo/)
@@ -630,7 +476,7 @@
     - [六尺巷 | 020](https://v.douyin.com/nyNfwbv8vDQ/)
 
 ---
-**[英语口语外教老师Lisa]{p}**
+**[英语口语外教老师Lisa]{s}**
 * **[英语口语外教老师Lisa | 二千章 | ](https://v.douyin.com/EZW3DGFW1gc/)**
   - [ 7岁娃的第一次外教课 ，线上一对一外教，半个小时沉浸式的英文环境，有输入有输出，有实时互动，而且还是一对一](https://v.douyin.com/i5yqbkg2rJ4/)
   - [15岁初中生零基础学习英语口语，零基础外教英语，绝佳口语对话练习，与外教老师一对一练习英语，你会更快地进步，口语听力突飞猛进 |Teacher: Anna MaeA](https://v.douyin.com/QK9vQfesZ44/)
@@ -1847,277 +1693,18 @@
   - [特朗普：鸦片曾经摧毁了中国 美国可不能犯同样的错误](https://v.douyin.com/0GQKHqpPVVI/)
 
 ---
-### 0015. English 精品
-**[英语雪梨老师]{p}**
-* **[英语雪梨老师 | 香港中文大学翻译硕士 | 二千章 | Douyin](https://v.douyin.com/KBw5U92lhwc/)**
-  - [年兽的故事](https://v.douyin.com/Pp6E5207qkg/)
-  - [春节一定要给孩子读这本～ Maisy’s Chinese New Year](https://v.douyin.com/OvBhfqii2KA/)
-  - **[原音: a e i o u | 英语启蒙](https://v.douyin.com/L9j_bLhPiFk/**)**
-  - **[开闭音节](https://v.douyin.com/zbLyVGZOd-I/)**
-  - **[用一首歌搞定最常用的26字母自然拼读](https://v.douyin.com/5QC4IoIci9w/)**
-  - **[寒假就看这5部英语纪录片](https://v.douyin.com/hKwyNh1W62k/)**
-    * [Plant Earth | 地球脉动](https://pan.quark.cn/s/9a87169ebf29#/list/share)
-    * [Too Cute | 萌宠成长记]()
-    * [Wild China | 美丽中国]()
-    * [Andy's Adventures | 安迪的冒险]()
-    * [Little Human Planet | 小小人类星球]()
-  - **[一首歌让你掌握48音标 | 国际音标](https://v.douyin.com/cX7EOaZEx6Y/)**
 
-  ---
-  **[001. 自然拼读]{g}**
-    - [英文数字1-100的标准读音 | **启蒙早教** | 001](https://v.douyin.com/sQvfu1ZvphY/)
-    - [**三步搞定长难单词**！告别死记硬背，词汇量暴涨其实很简单 | **元音: a e i o u** |**Kindergarten: 'Kin'der'gar'ten** | 147](https://v.douyin.com/6UfY6H-jmsE/)
-
-  ---
-  **[002. 音标学习]{g}**
-    - [口诀巧记48个音标 | 001](https://v.douyin.com/QQ4iilpt-a0/)
-    - [一首歌让你掌握48音标 | 035](https://v.douyin.com/ytRnon0RPHE/)
-
-  ---
-  **[003. 语法口诀和大招]{g}**
-    - [超形象秒记英语介词里的4个过 | across: 表面经过 | through: 内部经过 | over: 上方经过 | past: 旁边经过 | 001](https://v.douyin.com/CdrG7XE3bjg/)
-    - [从0数到10，搞定 **英语零冠词** | 209](https://v.douyin.com/dGFNbie3W74/)
-
-  ---
-  **[004. 启蒙儿歌+绘本]{g}**
-    - [Brown bear | 001](https://v.douyin.com/heTqg9Vdiuk/)
-    - [Lemon Tree: 柠檬树 | 033 ](https://v.douyin.com/50KKZtHJ3v8/)
-
-  ---
-  **[005. 小学单词的标准读音大全]{g}**
-    - [数字1-100的标准读音 | 001](https://v.douyin.com/GoblW3cdCfU/)
-    - [最新人教版三年级英语上册 | 055](https://v.douyin.com/8QUKhtokh1Q/)
-
-  ---
-  **[006. 听英文歌学英语]{g}**
-    - [推荐7首英文歌](https://v.douyin.com/8grpfGsV-v0/)
-    - [英语零基础暑假必听的三首神曲](https://v.douyin.com/KeOx4i12b2s/)
-
-  ---
-  **[007. 家长必看如何英语启蒙]{g}**
-    - [什么是英文思维？中英文思维的区别 | 001](https://v.douyin.com/OorJ8HSG1tw/)
-    - [英语教材改版后，光靠学校是不够的，家长必看干货 | 007](https://v.douyin.com/4OKHawruTTA/)
-    - [高考结束，英语命题和考查方向非常清晰，小学到高中都要看完， 未来的学习方向和方法。| 010](https://v.douyin.com/H3HeLJglFJ8/)
-
-  ---
-  **[008. 亲子口语]{g}**
-    - [一分钟教你学会手部动作的英文 | 001](https://v.douyin.com/OfEf6lYJLXE/)
-      * Slap    扇
-      * point   指
-      * push    推
-      * poke    戳
-      * punch   拳打
-      * lift    举起
-      * hold    握住
-      * grab    抓取
-      * flick   轻弹
-      * scratch 挠
-      * pull    拉
-
-    ---
-    - [口头禅换成英语 | 025](https://v.douyin.com/yjZPOUvBjck/)
-      * See you later | 待会见
-      * I got it | 我知道了
-      * Let me try | 让我试试
-      * No way | 不可能
-      * Here you go | 给你
-
-  ---
-  **[009. 每天学5句日常口语]{g}**
-    - [001](https://v.douyin.com/DpsZ4IVelHM/)
-      * What do you think?
-      * What do you have?
-      * What do you mean?
-      * What do you want?
-      * What do you know?
-    - [005](https://v.douyin.com/I5cTiXSsalY/)
-      * See you.
-      * See you soon. | 待会见
-      * See you later. | 晚点见
-      * See you around. | 后会有期
-      * See you tomorrow.
-
-  ---
-  **[010.以一记十 秒记单词]{g}**
-    - [以一记十 | **自然拼读巧记单词**](https://v.douyin.com/ltaPyXaNLsY/)
-      * air
-      * hair
-      * chair
-      * pair | 一对
-      * stair | 楼梯
-      * fair  | 公平
-      * repair | 修理
-    - [秒记天气单词](https://v.douyin.com/LcIuWmZdN1c/)
-      * sun sunny
-      * rain rainy
-      * wind windy
-      * fog foggy 有雾的
-      * snow snowy
-      * cloud cloudy 多云的
-
-  ---
-  **[011. 99%的人都读错的英文]{g}**
-    - [001](https://v.douyin.com/cWs3fPbx6gI/)
-      * queue | 排队
-      * climb | 攀登
-      * iron
-      * sword
-      * suite | 套房
-      * obvious | 明显
-    - [002](https://v.douyin.com/nmG6ewz3aCs/)
-      * dress warm.
-      * My English is not very good.
-      * eat soup.
-
-  ---
-  **[012. 雪梨老师的口语干货]{g}**
-    - [001](https://v.douyin.com/TO9kELi1-B8/)
-      * Same here       | 我也是
-      * Good idea
-      * It makes sense. | 很有道理
-      * Couldn't  agree more. | 非常同意
-    - [连读 | 011](https://v.douyin.com/veTV9XYCX-E/)
-
----
-**[夏夏不温柔（学英语版）]{p}**
-* **[夏夏不温柔（学英语版）| 感恩相遇，如果能感染到你，我会倍感幸福 | 千章 | Douyin](https://v.douyin.com/iRGr_X0cxB4/)**
-
-  ---
-  **[001. 自我肯定]{g}**
-    - [睡前做个自我肯定，然后安安稳稳做个好梦 | 001](https://v.douyin.com/W5KlxpSYwOk/)
-    - [最近我一直在想，孩子的补课是不是应该暂停，学历不再那么重要了？但是学习的能力依旧重要 | 035](https://v.douyin.com/pvN_Ktx1Db8/)
-
-  ---
-  **[002. 日常碎碎念]{g}**
-    - [录了100遍终于鼓足勇气发出来了，不卷女儿，卷自己 | 001](https://v.douyin.com/sSt96jT0-qg/)
-    - [烧饭做菜真的不容易，感谢身边默默付出的那一位 | 064](https://v.douyin.com/uPlkOjxFmbk/)
-
----
-**[欧美外教在线一对一口语 - 葡然蕴]{p}**
-* **[欧美外教在线一对一口语 - 葡然蕴 | 零基础英语 | 启蒙英语 | 雅思口语 | 零基础英语 | 商务英语 | 二千章 | Douyin](https://v.douyin.com/dtwC1ZGrWxQ/)**
-  - [北美外教一对一网课 外教：英语是一项改变人生的技能](https://v.douyin.com/Ix5dt7a8F-Q/)
-  - [欧美外教英语课一对一网课](https://v.douyin.com/cNQsa9vj7nQ/)
-  - [在线英语外教一对一英语口语 外教：记忆单词的最佳方式是多读。|英语流利说](https://v.douyin.com/S_WuSgv0SEM/)
-  - **[English Fluency Jounery | 223万 | Youtube](https://www.youtube.com/@EnglishFluencyJourney/videos)**
-  - [English Fluency Journey | Hanna Khoma](https://www.englishfluencyjourney.com/)
-
-  ---
-  **[001. 51talk英语外教一对一]{g}**
-    - [51talk外教一对一，外教一对一，母语者教你如何正确高效的学英语 | 001](https://v.douyin.com/sa-SjAcZloQ/)
-    - [51talk英语外教一对一 在线授课，英语是用来说的，一定的语言环境对于英语的学成有非常帮助 | 011](https://v.douyin.com/flgq6-R01PM/)
-
-  ---
-  **[002. vipkid一对一口语外教]{g}**
-    - [vipkid的外教都是北美 | 001](https://v.douyin.com/kgPL0nCb2cI/)
-    - [vipkid一对一口语外教 外教：发音相近但意义不同的单词 | 021](https://v.douyin.com/c3_UcMgSsEs/)
-
-  ---
-  **[003. 在线英语外教一对一口语免费课程]{g}**
-    - [真人外教一对一在线英语课 | 001](https://v.douyin.com/ACTS2tIr7K0/)
-    - [外教一对一英语口语课 外教：口语不好？别怪语法词汇没掌握 | 018](https://v.douyin.com/OIi4eUtf3jE/)
-
-  ---
-  **[004. 外教口语一对一]{g}**
-    - [今日话题：在你工作的地方请假容易吗 | 001](https://v.douyin.com/198txVleeG8/)
-    - [好可爱的描是你那只小描咪吗？| 007](https://v.douyin.com/i93pOHnUBng/)
-
-  ---
-  **[005. 商务英语从零开始学习]{g}**
-    - [商务英语口语成人速成班 | 001](https://v.douyin.com/opwot6T6iDU/)
-    - [你去过现场演唱会吗 | 010](https://v.douyin.com/PsVN77nRTJk/)
-
-  ---
-  **[006. 欧美外教在线一对一口语]{g}**
-    - **[说三个你蕞想去的城市 | 001](https://v.douyin.com/CSkUMvvYy4w/)**
-    - **[你为什么选择离开深圳 | 050](https://v.douyin.com/ulq9cnxbW9g/)**
-
-  ---
-  **[007. 外教一对一英语口语课]{g}**
-    - [你害怕当众演讲吗？ | 001](https://v.douyin.com/oCk1_To0A_U/)
-    - [男人哭可以吗？ | 184](https://v.douyin.com/cns6ULzSGlE/)
-
----
-**[乃炎英语]{p}**
-* **[乃炎英语 | 奈炎工作室 | 英语学习顾问, 专注成人零基础英语起步到提升 | 七年教龄 | 英语专八, 资深英语培训师 | 高级英语教师资格证 CATTI三级 | 一起快乐学英语 | Douyin | 五百章 | Douyin](https://v.douyin.com/pPqC74m3eTU/)**
-  - **[日常口语](https://v.douyin.com/D8Wk9TkC14Y/)**
-  - [每天学习五句实用地道英语表达](https://v.douyin.com/__4RppvgmSE/)
-  - [马上学了就可以使用的日常口语](https://v.douyin.com/dR3AdukO5Dw/)
-  - [学完这80个短语，口语进步立竿见影](https://v.douyin.com/rAvZzpnXdy0/)
-  - **[坚持做自己 答案会出现在自己的节奏里](https://v.douyin.com/sfKwkKVTQXI/)**
-  - **[30句学完就能用的地道英语口语和我一起来学习吧](https://v.douyin.com/wB1zD3qrgtw/)**
-  - **["加减乘除"的英语表达你知道吗？和我一起来学习吧 | 等加减乘除- Equal,Plus,minus,Divided,Times](https://v.douyin.com/97TeaLAhQAk/)**
-  - **[7首英语神曲，搞定常见英语时态一起来学习吧](https://v.douyin.com/qEaDHxMyM4U/)**
-    * **一般现在时 | You Are My Sunshine**
-    * **一般过去时 | Yesterday Once More**
-    * **现在进行时 | Lemon Tree**
-    * **现在完成时 | Seasons In The Sun**
-    * **一般将来时 | Monsters**
-    * **过去进行时 | Love Story  | Taylor Swift**
-    * **过去完成时&虚拟语气 | If I were A Boy**
-
----
-**[高高Lindsey]{p}**
-* **[高高Lindsey | 语言的极限就是我世界的极限 | 北外口译硕士 | 4K |  百章 | Douyin](https://v.douyin.com/Km65NtSiWqA/)**
-  - [没有语言环境如何学好英语？这3个习惯一定要养成 避免踩坑](https://v.douyin.com/kVvrsm8ERo0/)
-  - [如何快速获得语感？并停止在大脑中把中文译为英文 | Min: 04:50](https://v.douyin.com/vdy3qZoFl0Q/)
-  - [分级美音播客&频道推荐｜磨耳朵👂给大脑注入养分 | Min: 04:58](https://v.douyin.com/YG8zsgmXKr8/)
-  - [新一年的英语学习计划启动！进来抄一份科学有效的口语进阶](https://v.douyin.com/kTFzHYBpbQI/)
-  - [语言不是知识而是肌肉 - 英语脑如何真正建立](https://v.douyin.com/3WWtrtae2dc/)
-
----
-**[Leah的小日记]{p}**
-* **[Leah的小日记 | 好好生活 跟我学习英语 | 莉雅老师教英语 | 百章 | Douyin](https://v.douyin.com/zLRSwv2ARHc/)**
-  - [全英vlog｜跟着我的vlog学点英语吧](https://v.douyin.com/TPiSv2S-qXQ/)
-  - [可抄作业｜我的春季英文书单](https://v.douyin.com/4j_AyhrL4AA/)
-
----
-**[莉雅老师]{p}**
-* **[莉雅老师 | 自由英语老师 | 英语教育学毕业 ✌️英语母语者 | TESOL 国际英语教师资格证 | 伍佰章](https://v.douyin.com/cl4e-WOHyQE/)**
-
-  ---
-  **[001. 日常英语]{g}**
-    - ["追求"用英语怎么说 | 001](https://v.douyin.com/DRnPb9slPYg/)
-    - [外国人说的 "burnt out" 累了 | 217](https://v.douyin.com/ddegxTgbe6s/)
-
-  ---
-  **[002. 英语发音]{g}**
-    - [li-ter-al-ly | 001](https://v.douyin.com/T2-iCjOKL9M/)
-    - [the | 032](https://v.douyin.com/_TF06H8Ys18/)
-
-  ---
-  **[003. 学习灵感]{g}**
-    - [你是不是觉得英语太难了！我来告诉你最重要的是坚持 | 001](https://v.douyin.com/bA99WSdVF6Y/)
-    - [想练好英语就大胆说出来吧 | 009](https://v.douyin.com/5EkWyYkcKsw/)
-
-  ---
-  **[004. 英文歌]{g}**
-    - [bewhatyouwannabe | 001](https://v.douyin.com/5fGs_0eZpvo/)
-    - [今天来学一首英语歌吧 | 005](https://v.douyin.com/5AiJ3Krdb7M/)
-    - [这首字母歌你们都会唱吗 | 006](https://v.douyin.com/feSOcPjsmcE/)
-
----
-**[Erin姜姜来]{p}**
-* **[Erin姜姜来 | 27fall 国际生 intj + 大白羊 | Email: erinjiangmuxuan@outlook.com](https://v.douyin.com/Tx6dyFgb0_M/)**
-  - [允许自己不完美](https://v.douyin.com/xT1kOy5BQ84/)
-  - [每天15分钟 | English Exercise](https://v.douyin.com/RNHCBSpxCm0/)
-
----
-**[Aya听力站]{p}**
-* **[Aya听力站 | 每天分享实用英语听读！ 💪关注我一起学英语吧 | 叁佰章 | Douyin](https://v.douyin.com/5IMVqS1DJEg/)**
-  - [万能句型2000句第三集](https://v.douyin.com/LKbQ68t5zpw/)
-  - [【餐厅篇】初级短语2000句，每天10分钟，坚持听，两个月听懂美国人](https://v.douyin.com/DGyR5xDTDvY/)
-  - [【第4集】全球使用频率最高的1200句，每天10分钟，坚持听，两个月听懂美国人](https://v.douyin.com/xHJuHqGcGnU/)
 
 ---
 ### 0016. 英语启蒙动画
-**[快乐学英语]{p}**
+**[快乐学英语]{s}**
 * **[快乐学英语 | 英语启蒙动画 | 听先行，读相伴🍀 持续更新原创少儿英语启蒙动画 | 百章 | Douyin](https://v.douyin.com/HhWVTPYMkuw/)**
   - [学会拒绝的小象](https://v.douyin.com/hDeQbrUmUxI/)
   - [小鸭子的怪物乌龙](https://v.douyin.com/VDFmLCQnau0/)
   - [小狐狸的彩虹尾巴](https://v.douyin.com/IsrQ0SHI-Aw/)
 
 ---
-**[搬运工小莯]{p}**
+**[搬运工小莯]{e}**
 * **[搬运工小莯 | 分享动画片合集 不定期更新哦 | 三百章 | Douyin](https://v.douyin.com/mSgSsHWc-PQ/)**
 
   ---
@@ -2132,7 +1719,7 @@
 
 ---
 ### 0017. 高端访谈 | CCTV
-**[高端访谈 | CCTV]{p}**
+**[高端访谈 | CCTV]{s}**
 * **[高端访谈小制片 | 总台央视新闻频道 CCTV-13《高端访谈》](https://v.douyin.com/a5HyNbsjUiI/)**
   - [高端访谈｜非洲53个建交国享100%%税目产品0关税，塞舌尔总统畅谈合作机遇](https://v.douyin.com/tIe7xVRlk9E/)
   - [今天（2026年02月26日），德国总理默茨参观故宫](https://v.douyin.com/OOkBB5W6GXA/)
@@ -2150,22 +1737,22 @@
 
 ---
 ### 0018. 自动化工具屋
-**[Mia英语精读自动化工具屋]{p}**
+**[Mia英语精读自动化工具屋]{s}**
 * **[Mia英语精读自动化工具屋 | 五百章 | Douyin](https://v.douyin.com/rrvuP1Vk04s/)**
   - [1分钟教你制作爆款单词速记视频](https://v.douyin.com/HxvOJ5y6BTI/)
   - [跟央视主持人邹韵学英语｜英语笔记精读](https://v.douyin.com/CbPGAONY3SA/)
   - [英语老师英语副业备课工具教程](https://v.douyin.com/a9TQL8cpdWs/)
 
 ---
-### 0019. 翻译官
-**[Freelensia]{p}**
+### 0019. 翻译官 | YTB
+**[Freelensia]{s}**
 * **[Freelensia | 7.33万 | Youtube](https://www.youtube.com/@Freelensia/videos)**
   - [Freelensia 翻译来自世界各地的政治演讲和其他富有洞察力的内容。我们还展示国际电影和电视剧，突显文化和语言的多样性。我们的影片通常提供字幕和配音，以提高可访问性。有些视频提供双语通译。请佩戴耳机，在左耳听一种语言，在右耳听另一种语言。]{g}
   - [为了帮助你找到喜欢的内容，我们将视频整理成播放列表：Speeches by Country、Speeches by Speaker 和 Movie-Related Videos。浏览我们的播放列表，享受你喜欢的语言内容]{g}
 
 ---
 ### 0020. StudyEnglish英语口语 | Book
-**[StudyEnglish英语口语]{p}**
+**[StudyEnglish英语口语]{s}**
 * **[StudyEnglish英语口语 | 英专生，每日分享英语智慧语录， 英语美文，英语朗读，英语口语练习素材 | 教辅以及学习资料在橱窗 | 千章 | Douyin](https://v.douyin.com/1Tmc4q5oAgo/)**
   - [英语介绍: 长安的荔枝](https://v.douyin.com/1MWSIDoJKF8/)
   - [英语介绍中国系列书籍](https://v.douyin.com/fLuwkneW8NU/)
@@ -2180,7 +1767,7 @@
 
 ---
 ### 0022. New Concept English 01 | AI
-**[枫娇鹤]{p}**
+**[枫娇鹤]{s}**
 * **[枫娇鹤 | 寓教于乐，融学于趣，化教于心 | 二十章 | Douyin](https://v.douyin.com/J9KB5QS99lM/)**
 
   ---
@@ -2190,7 +1777,7 @@
     - [New Concept English 01 | 第一册 | 35](https://v.douyin.com/qUP5pHQL5_0/)
 
 ---
-**[颗星星]{p}**
+**[颗星星]{s}**
 * **[颗星星 | 一名专注AI动画制作的个人玩家 | 寓教于乐 | 一直被抄袭, 从未被超越 | 坚持初心, 以质量回报粉丝 | 百章 | Douyin](https://v.douyin.com/jV_6t-XSSQw/)**
 
   ---
@@ -2219,7 +1806,7 @@
   - 📺者 见证人工智能技术与语言教育的神奇碰撞
 
 ---
-**[AI造梦者]{p}**
+**[AI造梦者]{s}**
 * **[AI造梦者 | AI续更狂徒 原创产品 | 4K | 新概念电影版 | 二十章 | Douyin ](https://v.douyin.com/jGev-2Po9mE/)**
 
   ---
@@ -2231,7 +1818,7 @@
     - **[New Concept English 01 | Lesson-017](https://v.douyin.com/pMiI7iwadCw/)**
 
 ---
-**[英语橙子老师]{p}**
+**[英语橙子老师]{s}**
 * **[英语橙子老师 | 初中英语教师资格证，心理教师资格证 | 二百章 | Douyin](https://v.douyin.com/xQnItp_2Uy8/)**
 
   ---
@@ -2246,7 +1833,7 @@
     * **[New Concept English 02 | Lesson-009](https://v.douyin.com/piasxBj00lM/)**
 
 ---
-**[Yuki的英语世界]{p}**
+**[Yuki的英语世界]{s}**
 * **[Yuki的英语世界 | 英语语言文学硕士|专业八级 | 十年一线教龄 | 新概念英语1-4册电影版持续更新中... | 百章 | Douyin](https://v.douyin.com/0M-_4IujMEU/)**
 
   ---
@@ -2255,7 +1842,7 @@
     - **[New Concept English 19 | Lesson-057](https://v.douyin.com/PrpuVIoCXKg/)**
 
 ---
-**[佘一鸣]{p}**
+**[佘一鸣]{s}**
 * **[佘一鸣 | 发布原创短视频，欢迎关注。| 百章 | Douyin](https://v.douyin.com/xiKQE7P7iKU/)**
 
   ---
@@ -2276,14 +1863,14 @@
 ---
 * **[柒柒学英语 | 985大学生 | 百章 | Douyin](https://v.douyin.com/VBesR-lD3yA/)**
 
-  **[001. New Concept English 01]{p}**
+  **[001. New Concept English 01]{s}**
     - **[New Concept English 01 | Lesson-001](https://v.douyin.com/tw_MbOzNz4E/)**
     - **[New Concept English 01 | Lesson-018](https://v.douyin.com/xX1el4soG1o/)**
     - **[New Concept English 01 | Lesson-019](https://v.douyin.com/vKSbKD8JHqQ/)**
 
 ---
 ### 0023. AI短剧
-**[Emily英文绘本故事]{p}**
+**[Emily英文绘本故事]{s}**
 * **[Emily英文绘本故事 | 北大本硕 | 15年 + 教育人 | 俩娃妈妈 | 把教育经验熬成原创英语绘本故事 | 用妈妈的视角, 讲孩子能听懂的英文内容, 每天5分钟磨耳朵,陪娃轻松爱上英语 | 百章 | Douyin](https://v.douyin.com/jkP_utJS_p8/)**
   - **[狮子王](https://v.douyin.com/erRH2wGf7ss/)**
     * **[狮子王 | 1994](https://www.libvio.mov/play/167-1-1.html)**
@@ -2311,15 +1898,15 @@
     * **[027.丑小鸭](https://v.douyin.com/NGfF8E8eWl0/)**
 
 ---
-### 0024. 长剧 | 油管
-**[English1314]{p}**
+### 0024. 长剧 | YTB
+**[English1314]{s}**
 * **[English1314 | YTB: English 1314 | 二十章 | Douyin](https://v.douyin.com/DzruFy_hhxw/)**
   - [Keep Your Brain Young | 如何让大脑保持年轻, 学英文是最好的抗 | Min: 40min](https://v.douyin.com/PJked0BWBuo/)
   - [英文思考 | Min: 19:48](https://v.douyin.com/INVQPvC5k3A/)
 
 ---
-**[小道必可观]{p}**
-* **[小道必可观(油管) | 关注我外网热门视频一网打尽，我的知识不够，你的评论来凑。| 千章 | Douyin](https://v.douyin.com/WdfoxIT8Wm4/)**
+**[小道必可观]{s}**
+* **[小道必可观](https://v.douyin.com/WdfoxIT8Wm4/)**
   - [荷兰女骑穿越中蒙边境，这落差绝了！画风秒变生存模式 油管博主: @itchyboots 粉丝数量: 326万  | 旅行vlog](https://v.douyin.com/frdiSe7hU30/)
   - [伊朗封锁海峡，外网疯传中国缺油？美国老哥：小丑竟是我们自己 油管博主: @mrglobalyoutube 粉丝数量: 14.5万](https://v.douyin.com/_Xg-AhFoa9I/)
   - [美国老哥一家游南京意外受伤，医院账单一出，外网评论区炸了 油管博主: @chrisheretoday 粉丝数量: 13.4万](https://v.douyin.com/qNvdqkSo2u8/)
@@ -2338,7 +1925,7 @@
 
 ---
 ### 0025. 动画 | Ai
-**[豆豆双语岛]{p}**
+**[豆豆双语岛]{s}**
 * **[豆豆双语岛 | 原创英语故事视频 看寓言故事学英语 小故事大道理 | 三百章 | Douyin](https://v.douyin.com/s86SA_SrYFw/)**
 
   ---
@@ -2365,7 +1952,7 @@
 
 ---
 ### 0026. 速记单词
-**[薄荷速记单词]{p}**
+**[薄荷速记单词]{s}**
 * **[薄荷速记单词 | 佰章 | Douyin](https://v.douyin.com/_wxEgIlzHts/)**
   - **[宇宙天文英语](https://v.douyin.com/-MBureIDs8c/)**
 
@@ -2402,7 +1989,7 @@
 
 ---
 ### 0028. yoyo的跨国生存 | English字幕
-**[yoyo的跨国生存]{p}**
+**[yoyo的跨国生存]{e}**
 * **[yoyo的跨国生存 | 是yoyo 中医学本科却成了"跨国摆渡人" 曾历房产浮沉、情感变故、负债百万, 为儿子, 四赴美国, 从语言不通到终获工作转机。| 记录我真实的美国生存英语| 分享最一线的跨国资讯 | 我的弯路,你的捷径. | 贰佰章 | Douyin](https://v.douyin.com/wQZdIpaF0F4/)**
   - [出国最大的收获，要懂得更爱自己 见天地、见众生、见自己](https://v.douyin.com/mH90Pvg-YGw/)
   - [学好英语，犹如手握开启世界大门的钥匙🔑，命运的轨迹或将因此改写](https://v.douyin.com/7ho1aj41BtQ/)
@@ -2410,7 +1997,7 @@
 
 ---
 ### 0029. 苗儿老师Joyce | 配音演员
-**[苗儿老师Joyce]{p}**
+**[苗儿老师Joyce]{e}**
 * **[苗儿老师Joyce | 2009年开始教英语l央视主持人纠音老师 英语配音员l全平台同名 | 千章 | Douyin](https://v.douyin.com/LnvQ8mC5TvA/)**
   - [当有人说讨厌你时，你就这么说](https://v.douyin.com/qssuvjyFStY/)
   - [英语配音 一段有质感的电影独白](https://v.douyin.com/1eYDsPOSk9E/)
@@ -2438,7 +2025,7 @@
 
 ---
 ### 0030. Journey Alone 一个人的旅行 | Books
-**[Journey Alone 一个人的旅行]{p}**
+**[Journey Alone 一个人的旅行]{s}**
 * **[Journey Alone 一个人的旅行 ](https://v.douyin.com/o5bRx_amFOo/)**
 
   ---
@@ -2467,7 +2054,7 @@
 
 ---
 ### 0031. 让柠檬更酸，让苹果更甜
-**[让柠檬更酸，让苹果更甜]{p}**
+**[让柠檬更酸，让苹果更甜]{s}**
 * **[让柠檬更酸，让苹果更甜 | 重拾英语，开启英语成长之路～ 🌻莫道桑榆晚，为霞尚满天 | 佰章 | Douyin](https://v.douyin.com/9JQSyeWeHrc/)**
   - [**Never give up** | 永不言弃](https://v.douyin.com/0CoENzDYnz4/)
   - [音标教学](https://v.douyin.com/IcKEzY1HY4M/)
@@ -2486,7 +2073,7 @@
 ### 0032. Genshin Impact | 跟着原神学英语
 **[米哈游就该搞一个双语版的，支持世界网友学习中文，支持中国网友学习英文，打通美服和国服。加入Ai,支持人物Ai-NPC互相交流.打造一个真正的原神世界。]{g}**
 
-**[永不认输的璃月人]{p}**
+**[永不认输的璃月人]{s}**
 * **[永不认输的璃月人 | 原神佛系玩家，体验100种小游戏ing | 二百章 | Douyin](https://v.douyin.com/gwdtS6JSHz8/)**
 
   ---
@@ -2565,7 +2152,7 @@
     - [跟着神里绫华学英语-早上好 | 012](https://v.douyin.com/9_v_mzdwsXI/)
 
 ---
-**[JustinEnglish]{p}**
+**[JustinEnglish]{s}**
 * **[JustinEnglish | 欢迎 这个频道有着不一样的英语趣味教学 | 佰章 | Douyin](https://v.douyin.com/LKTZH1pGDvE/)**
 
   ---
@@ -2574,7 +2161,7 @@
     - [当英语老师开始用原神教英语 | 006](https://v.douyin.com/TIOPFuVP7-c/)
 
 ---
-**[尼克叔游戏英语]{p}**
+**[尼克叔游戏英语]{s}**
 * **[尼克叔游戏英语 | 千星奇域《背单词有原神例句》| 伍佰章 | Douyin](https://v.douyin.com/KtsqY31hkFQ/)**
 
   ---
@@ -2654,7 +2241,7 @@
 
 ---
 ### 0038. 美剧 | 拆析
-**[BigShot英语]{p}**
+**[BigShot英语]{s}**
 * **[BigShot英语 | 五百章 | Douyin](https://v.douyin.com/6Oo1jTjwdM0/)**
 
   ---
@@ -2694,7 +2281,7 @@
 
 ---
 ### 0039. 7788 | Write word | Game
-**[7788]{p}**
+**[7788]{s}**
 * **[7788 | 二百章 | Douyin](https://v.douyin.com/7eLEjLQxLPc/)**
   - [这英语得学呀 | 实用英语 | 学英语 | 日常英语 | 生活英语 | 趣味英语](https://v.douyin.com/jVZrkl3FobI/)
 
@@ -2710,7 +2297,7 @@
 
 ---
 ### 0040. Y先生英语
-**[Y先生英语]{p}**
+**[Y先生英语]{s}**
 * **[Y先生英语 | 千章 | Douyin](https://v.douyin.com/Q_T0hAc5lvw/)**
   - [能听懂这段英文，你的听力不会差 | 921](https://v.douyin.com/ASk035JTzJ8/！)
 
@@ -2726,12 +2313,23 @@
     - [这9种诡计 你经历过几个 | 065](https://v.douyin.com/3izNhcgJ3ok/)
 
 ---
+### 0042. 大嘴狐Omi趣味英语
+**[大嘴狐Omi趣味英语]{s}**
+* **[大嘴狐Omi趣味英语 | ✨ 兴趣是最好的老师 🎬 用趣味小动画，带娃轻松学英语 | 佰章 | Douyin](https://v.douyin.com/4ZboSRQw9Bg/)**
+
+  ---
+  **[001. 小禾和奶奶的英语小故事]{g}**
+    - [英语启蒙｜和奶奶一起捡鸡蛋的快乐早晨 | Min: 01:53 | 001](https://v.douyin.com/DgRrvnw2T6k/)
+    - [和奶奶逛菜园学英语 | Min: 01:19](https://v.douyin.com/GQde9nfCn34/)
+    - [陪孩子骑单车在爱中勇敢放手 | Min: 01:19 | 013](https://v.douyin.com/MK2R6cBKnAg/)
+
+---
 ### 9999. Download
-**[dlpanda]{p}**
+**[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
-**[English Resource]{p}**
+**[English Resource]{s}**
   - [EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)
 
   ---
@@ -2779,7 +2377,7 @@
 * **[SpokenDaVinci](https://www.spokendavinci.com/login.html)**
 
 ---
-**[English learn | GPT]{p}**
+**[English learn | GPT]{s}**
 * **[DashPlayer](https://dash-player.solidspoon.xyz/)**
 * **[ESLDesk](https://esldesk.com/)**
 * **[USA Learns Homepage](https://www.usalearns.org/)**

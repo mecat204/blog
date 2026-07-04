@@ -688,7 +688,7 @@
 
 ---
 ### 0028. Home | 家
-**[知也在家]{p}**
+**[知也在家]{s}**
 * **[知也在家 | 贰佰章 | Douyin](https://v.douyin.com/ZxfIBkf_EVY/)**
   - [古温馨小卧室](https://v.douyin.com/6Wwy0TKeBuU/)
   - [房间丑的都来学！轻松打造复古温馨小卧室。- 我家卧室的硬装真的很简单，就是一个普通的吊顶+木地板。因为想着睡觉的地方没必要做太多的动作，而且随着审美的变化，房间布局和软装也会有变动～ 今天分享一下我的卧室布置小技巧吧 1️⃣统一空间的色调 我比较喜欢复古风格，所以卧室的色调是偏暖色调的 2️⃣统一家具的风格 想要复古风选对家具很重要，家具的材质、风格、颜色保持在相同的状态就不容易出错 3️⃣在灯具上做一些小改变 在统一大件家具和整体风格之后，可以在灯具上做一些小特殊，不同色值的光源带来的氛围感不同，喜欢温暖治愈的房间可以选择3000K以上色温的灯具 4️⃣氛围感小摆件 挂画、地毯、装饰物等小摆件也很重要 可以让房间看起来更加温馨]{g}
@@ -699,21 +699,21 @@
   - [说真的，我不欢迎任何人来我家！一来我家就开始吐槽 说我家装的一点都不适合住人 钱花的一点也不值得……](https://v.douyin.com/bTyzauOTv5U/)
 
 ---
-**[缘壹]{p}**
+**[缘壹]{s}**
 * **[缘壹 | 寻一处小窝，藏于深山， 与风为邻，与月为伴。 学习·素材 | 贰佰章](https://v.douyin.com/QqKEhV8y0fc/)**
   - [下雨天，洗完澡，吹干头发，换一身家居服，钻进被窝，手机满格，追的剧也更新了，此刻，幸福感爆棚](https://v.douyin.com/QJnzxoW6_T0/)
   - [究竟什么样子的人才会喜欢这样的氛围](https://v.douyin.com/SxGfy6927uY/)
   - [究竟什么样子的人才会喜欢这样的氛围](https://v.douyin.com/HFKpUUextpM/)
 
 ---
-**[杳无]{p}**
+**[杳无]{s}**
 * **[杳无。| 愿我的视频可以给你带来治愈 | 伍佰章 | Douyin](https://v.douyin.com/BLaX4cZ5aqQ/)**
   - [这种风格的小窝，你最想和谁一起住](https://v.douyin.com/oPiVMU28EA0/)
   - [小清新治愈系 | 理想生活](https://v.douyin.com/RiqwROeaH7k/)
   - [治愈系 温馨小窝](https://v.douyin.com/iwC7OojFFVE/)
 
 ---
-**[丸子美景]{p}**
+**[丸子美景]{s}**
 * **[丸子美景 | 用镜头记录美好生活.用心灵感悟人生 | 千章 | Douyin](https://v.douyin.com/BeuATp-Zv40/)**
   - [下雪天，这样的林中小屋 你最想和谁一起住。](https://v.douyin.com/pGZvUn17W28/)
   - [下雪天，这样的林中小屋 你最想和谁一起住。](https://v.douyin.com/5ptvjN9aRfI/)
@@ -727,7 +727,7 @@
   - [被困山林险境，你选择哪个庇护所](https://v.douyin.com/RhDk3Ph72B4/)
 
 ---
-**[絵梦居]{p}**
+**[絵梦居]{s}**
 * **[絵梦居 | Home | 五百章 | Douyin](https://v.douyin.com/Q2hvvsWqQqc/)**
   - [治愈系](https://v.douyin.com/qAAPxn-rWtQ/)
   - [温馨小家 | loft复式](https://v.douyin.com/LnuR2OcEvRI/)
@@ -735,17 +735,17 @@
   - [蓝色系 loft复式](https://v.douyin.com/9xZ1Xn3Mxnw/)
 
 ---
-**[设计师-扶苏 | 宋式美学]{p}**
+**[设计师-扶苏 | 宋式美学]{s}**
 * **[设计师-扶苏 | 15年私宅设计经验 擅长宋式 | 中古风 | 侘寂风 | 纯中式风格 |  二百章 | Douyin](https://v.douyin.com/EjG7zggsskI/)**
   - [宋氏美学](https://v.douyin.com/mJGhiI1UC9w/)
 
 ---
-**[媛姐美景]{p}**
+**[媛姐美景]{s}**
 * **[媛姐美景 | 按照大自然的规律，你该遇见我了。| 三百章 | Douyin](https://v.douyin.com/q1xSNYyXIsM/)**
   - [林中小屋](https://v.douyin.com/I4yKGk3KlR8/)
 
 ---
-**[忘忧境]{p}**
+**[忘忧境]{s}**
 * **[忘忧境 | 今天辛苦啦，愿我的视频能够给你带来治愈。| 千章 | Douyin](https://v.douyin.com/8qxdSsz7BbE/)**
   - [loft复式](https://v.douyin.com/T9CH2o1cGlA/)
   - [温馨小窝](https://v.douyin.com/PuDySC0M4Bo/)
@@ -800,7 +800,7 @@
 
 ---
 ### 0032. 栖光
-**[栖光]{p}**
+**[栖光]{s}**
 * **[栖光 | 视频均为AI生成，Midjourney出图 | 百章 | Douyin](https://v.douyin.com/Fw6DOdVGfN8/)**
   - [仙之巅傲世间 | 国风古韵  | 修仙者  | 古风摄影  | 太空步教学  | 仙侠](https://v.douyin.com/OgM-q7dlIKA/)
   - [所有遇见，皆是注定 | 古装电视剧 | 古风清冷佳人 | 东方美 | 古风摄影 | 国风古韵](https://v.douyin.com/ZKSL8jnY21M/)
@@ -849,7 +849,7 @@
 
 ---
 ### 0034. 大圆镜科普
-**[大圆镜科普]{p}**
+**[大圆镜科普]{s}**
 * **[大圆镜科普 | 百章 | Douyin](https://v.douyin.com/Rj2OPR_kCj0/)**
 - [科普·痛风](https://v.douyin.com/XfqEpxB4qzs/)
   - [能让生物至死方休的快乐按钮，究竟是什么？](https://v.douyin.com/9ErfXea01Qg/)
@@ -933,8 +933,9 @@
     - [顺为人，逆为仙 何为逆 | 021](https://v.douyin.com/u-wwJhv0rVw/)
     - [凡人看山是山，修者看山，是天体运转的阵。 牌匾上写着“观未场”，观的是未见之局，逆的是既定之命。 一半红袍惹红尘，一半蓝衫冷如冰。水火既济，阴阳颠倒，方能悬浮于这天地之上。 顺，是人在树下看花，花落随流水； 逆，是身在云端俯瞰，万物皆我盘中棋。 满城的赛博霓虹与古风楼阁，不过是大道演化的一场幻梦。顺从幻象，即是凡人；勘破虚妄，方为真仙。 一朝悟道见真我，你我，皆在这梦醒的边缘。]{g}
 
+---
 ### 0038. 阿星瞎剪
-**[阿星瞎剪]{p}**
+**[阿星瞎剪]{s}**
 * **[阿星瞎剪 | 原创AI，仅供娱乐！ 随缘更新「Flova ai超创 | 五十章](https://v.douyin.com/Ihcvi78bMFI/)**
 
   ---
@@ -1153,15 +1154,15 @@
 
 ---
 ### 9999. Download
-**[必应]{p}**
+**[必应]{s}**
 * **[必应 | bing.com](https://cn.bing.com/)**
 
 ---
-**[dlpanda]{p}**
+**[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
-**[EngLearner]{p}**
+**[EngLearner]{s}**
 * **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
   - [americanliterature](https://americanliterature.com/)
 
