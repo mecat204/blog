@@ -2344,12 +2344,12 @@
   - **[Type Words 官网 - 词文记 | 单词跟打 · 文章跟打](https://typewords.cc/articles)**
 
 ---
-**[新概念英语]{p}**
+**[新概念英语]{s}**
   - [**西瓜英语** | **新概念英语学习**](https://learnenai.com/)
   - [**新概念英语** | NCE.ICHOCHY](https://nce.ichochy.com/)
 
 ---
-**[Ted]{p}**
+**[Ted]{s}**
 * **[Ted](https://www.ted.com/)**
   - [Sarah Crawford-Bohl](https://www.ted.com/talks/sarah_crawford_bohl_how_to_speak_up_even_when_you_don_t_want_to)
 
