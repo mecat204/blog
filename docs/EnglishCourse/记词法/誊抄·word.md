@@ -31,6 +31,33 @@
   - [If you want to make the wrong desision, ask everyone. The more people you ask, the less you hear yourself.]{g}
 
 ---
+### 0004. E³
+**[E³]{s}**
+* **[E³ | 国际学校老师及线上老师，200/class | Douyin](https://v.douyin.com/iItHhLVSB3U/)**
+
+  - [Acronyms | 首字母缩写词](https://v.douyin.com/7_PB8uOPm_A/)
+  - [IDK: I don't know | FYI: For your information | ILY: I Love You. | NVM: Never mind | OMW: On My way |  XOXO: Hugs and Kisses | GR8: Great |  TBH: To Be Honest | NP: No problem |  BRB: Be right back | G2G: Got TO Go | SMH : Shaking My head]{g}
+
+  ---
+  - [A piece of information](https://v.douyin.com/MQXTH4CdgE4/)
+  - [A clove of gralic(大蒜). | A grain of rice(米). | A bunch of grapes(葡萄). | A carton of milk. | A cube of sugar. | A loaf of bread. | A slice of pizza. | A deck of cards. | A tube(管) of toothpaste(牙膏). | A bar of soap(肥皂).]{g}
+
+---
+### 0005. Liyiang | Book
+**[Liyiang]{e}**
+* **[Liyiang | 31岁重新开始学习英语，夯实基础中 每日一句经典语录，学好英看世界](https://v.douyin.com/uJ_PxYUVKT8/)**
+
+  ---
+  **[誊抄]{g}**
+    - **[001](https://v.douyin.com/XGw9GbodDhM/)**
+    - [How many undervalue the power of simplicity! But it is the real key to the heart. ·William Wordsworth 太多人低估朴素的力量， 可唯有质朴， 才是直抵人心的真正密钥。——威廉·华兹华斯 威廉·华兹华斯，英国浪漫主义诗人，曾当上桂冠诗人。其诗歌理论推动了英国诗歌的革新和浪漫主义运动的发展。其诗句“朴素生活，高尚思考（plain living and high thinking）”被作为牛津大学基布尔学院的格言 。代表作品有《她住在人迹罕至的地方》、《水仙花》等。]{g}
+
+---
+### 0006. 罐头人
+**[罐头人]{s}**
+* **[罐头人 | 食烟火，也觅闲情 🍃🍃 落俗不可避免，浪漫至死不渝 | 贰仟章 | Douyin](https://v.douyin.com/bbWwSfVCX1U/)**
+
+---
 ### 9999. Download
 **[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**
