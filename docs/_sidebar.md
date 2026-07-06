@@ -43,7 +43,8 @@
     * [合集](EnglishCourse/合集/合集)
   - **播客短剧**
     * [播客短剧](EnglishCourse/播客短剧/播客短剧)
-
+  - **News**
+    * [News](EnglishCourse/News/News)
   ---
   - **SlowEnglish**
     * [SlowEnglish](EnglishCourse/SlowEnglish/SlowEnglish)
