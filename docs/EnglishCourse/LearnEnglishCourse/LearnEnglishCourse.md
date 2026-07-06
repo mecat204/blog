@@ -2181,7 +2181,7 @@
 
 ---
 ### 0029. 江湖英语 | AI生成
-**[johnhuu江湖英语]{p}**
+**[johnhuu江湖英语]{s}**
 * **[johnhuu江湖英语 | 佰章](https://v.douyin.com/psE-P_BZIPQ/)**
   - [You can't make ten million in your lifetime on a cop's salary.](https://v.douyin.com/Q8YQsXpYq10/)
   - [Smoking Aces | 最难英文翻译：五支烟](https://v.douyin.com/-TozHwC_KwI/)
@@ -2203,13 +2203,13 @@
 
 ---
 ### 0031. 仙女露~
-**[仙女露~]{p}**
+**[仙女露~]{s}**
 * **[你的小说搭子 泉寨 | 交流学习: 露露工具箱 | 佰章 | Douyin](https://v.douyin.com/uxMhMWwxGEQ/)**
   - **[凡人修仙传](https://v.douyin.com/C_z9hJFPeyU/)**
 
 ---
 ### 0032. Lily
-**[Lilly]{p}**
+**[Lilly]{s}**
 * **[Lilly | 工作请联系微信excellentjasmineli | Douyin](https://v.douyin.com/6eI3ceJaV_Q/)**
 
   ---

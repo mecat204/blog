@@ -58,6 +58,34 @@
 * **[罐头人 | 食烟火，也觅闲情 🍃🍃 落俗不可避免，浪漫至死不渝 | 贰仟章 | Douyin](https://v.douyin.com/bbWwSfVCX1U/)**
 
 ---
+### 0007. yyyhz
+**[yyyhz]{s}**
+* **[yyyhz | stop expecting everyone to have the same heart as you do | 伍拾章 | Douyin](https://v.douyin.com/eg1Oofc55OE/)**
+
+  ---
+  **[001. music · 誊抄]{g}**
+    - [make money | 001](https://v.douyin.com/xs1_M8hbqVY/)
+    - [You don't have to be everyone's butterfly. Be a bee. Mind your business, make your honey, and sting people when necessary.]{g}
+
+    ---
+    - [妆容是微笑，首饰是谦逊，穿搭是自信，良药是积极的心态 | 002](https://v.douyin.com/P9nkjsHkIww/)
+    - [The best makeup is a smile. The best jewelry is modest. The best outfit is confidence. And the best medicine is a positive mindset.]{g}
+
+    ---
+    - [命运自有安排 有时候，命运会带你踏上一段你未曾知晓自己需要的旅程，最终把你梦寐以求的一切都带到你身边。相信冥冥之中的安排。| 003](https://v.douyin.com/ZjNz1loKIWk/)
+    - [Sometimes the universe takes you in a journey you didn't know you needed, to bring you everyting you ever wanted. Trust the plan.]{g}
+
+---
+### 0008. TracyGogogo
+**[TracyGogogo]{e}**
+* **[TracyGogogo | 全英输出｜洞察人性与思维 ✨带你换个视角，修一颗通透的心 | ENTJ | 温柔有力量的姐姐 | 佰章 | Douyin](https://v.douyin.com/wczuTB5e3FM/)**
+
+---
+### 0009. 每日英语单词本
+**[每日英语单词本]{s}**
+* **[每日英语单词本 | 📖英语专业八级 ✨高级英语教师资格证 🤟每日无痛学英语 jidanci101 | 千章 | Douyin](https://v.douyin.com/g5TWiNm8Tsw/)**
+
+---
 ### 9999. Download
 **[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**
