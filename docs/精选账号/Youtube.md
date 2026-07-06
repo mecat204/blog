@@ -389,13 +389,13 @@
   - **[无人机镜头 - 克罗地亚、欧洲的鸟瞰图 - 3 小时无人机环境电影 | 4K](https://www.youtube.com/watch?v=HSsqzzuGTPo&list=PL-_vMUSUXkyep9L7dxNjDKVZ2wJqtuzW3)**
 
 ---
-**[4K休闲频道]{p}**
+**[4K休闲频道]{s}**
 * **[4K休闲频道 | ProArtInc | Douyin | 二百章](https://v.douyin.com/uuEFJKfRBsc/)**
   - [助眠 | 冥想](https://v.douyin.com/gF8j1U_F5qU/)
   - **[ProArtInc](https://proartinc.net/)**
 
 ---
-**[Scenic Relaxation]{p}**
+**[Scenic Relaxation]{s}**
 * **[Scenic Relaxation | 166万 |  YTB | 4K](https://www.youtube.com/@ScenicRelaxationFilms)**
   - [En: The goal at Scenic Relaxation is to provide relaxing 4K films of the world's most incredible destinations.]{s}
   - [Cn: Scenic Relaxation的目标是提供世界上最不可思议目的地的放松4K影片。]{g}
@@ -426,15 +426,49 @@
 
 ---
 **[Mark学英语 · Ariannita la Gringa]{e}**
-* **[Mark学英语 | 为了给俩娃启蒙英语，37岁重学英语 | 百章 | Douyin](https://v.douyin.com/Fw8_g1qpMFk/)**
+* **[Mark学英语 | 为了给俩娃启蒙英语，37岁重学英语 | 叁佰章 | Douyin](https://v.douyin.com/Fw8_g1qpMFk/)**
   - [高频英语缩略词，像母语者一样聊天 Most Common Acronyms In English](https://v.douyin.com/OylLt8yPs-w/)
   - [【英语易混词】Do vs Make：核心区别一次讲清 | 英语 | 英语口语 | 英语启蒙 | 英语学习 | 英语听力](https://v.douyin.com/THCKuOPQ_NQ/)
 
   ---
   **[001. 情景英语]{g}**
     - [在美国哪些场合需要给小费？| Min: 14:37 | 001](https://v.douyin.com/FjfEfoL13Fw/)
+    - [前台到客房！美式酒店英语全场景词汇 | Min: 15:56 | 010](https://v.douyin.com/zuw-by3qkK8/)
+    - [和英语老师一起逛超市：实用购物口语大全 | Min: 12:58 | 020](https://v.douyin.com/yD58H-htICI/)
+    - [英语量词辨析 | Min: 11:23 | 030](https://v.douyin.com/x3CsQ_zBHio/)
+    - [苹果商店里的免费英语课 Learn English at the Apple Store | Min: 15:10 | 040](https://v.douyin.com/J_536U_spDM/)
+    - [家务活的英文表达 Household Chores In English | Min: 19:12 | 050](https://v.douyin.com/bD4qeKzfw_A/)
+    - [万圣节英语 Halloween vocabulary in EnglishHalloween vocabulary in English | Min: 16:00 | 060](https://v.douyin.com/KElzTZ8RJAE/)
+    - [How to Order Fast Food in English | Min: 13:27 | 070](https://v.douyin.com/_rh7Ci9VJdg/ )
+    - [Gym Vocabulary - REAL ENGLISH LESSON | Min: 06:40 | 080](https://v.douyin.com/YLD11VD3nRI/)
+    - [和我的狗狗一起学英语！ 可理解性输入 | Learning English with my Dog 🐶 Comprehensible Input | Min: 06:18 | 090](https://v.douyin.com/Uhwp1v3-TUs/)
+    - [英语救命短语 Survival Phrases in English | Min: 08:19 | 100](https://v.douyin.com/iCFkAAdRBzQ/)
     - [在瑞典购物 🇸🇪 慢速英式英语 欢迎来到我们的慢速英式英语系列 | Min: 15:03 | 105](https://v.douyin.com/CNc9aFtTOtY/)
     - [在瑞典购物 🇸🇪 慢速英式英语 欢迎来到我们的慢速英式英语系列！本期视频带您走进瑞典的商店与市场，学习实用的购物词汇和地道表达。从询问价格到挑选纪念品，每一步都配上清晰、缓慢的英式发音，适合英语初学者和中级学习者。您不仅可以了解瑞典独特的购物文化，还能在真实场景中提升听力与口语能力。放慢节奏，轻松跟读，让英语学习变得更自然、更有趣。]{g}
+
+  ---
+  **[002. 英语学习方法]{g}**
+    - [为什么你的大脑正在删除你学的英语？1个方法阻止它 | Why Your Brain Is Deleting the English You Learn - One Simple Method | Min: 05:18 | 001](https://v.douyin.com/z5v-YlqLolQ/)
+    - [Listening is The Only Skill You Need to Become Fluent Here's How | Min: 11:15 | 010](https://v.douyin.com/t3aBM46Zub4/)
+    - [每日20分钟英语学习计划 | English Study Plan 20-Minute daily English Learning Routine | Min: 09:55  | 020](https://v.douyin.com/q79Y9bZ1jFw/)
+    - [每日20分钟英语学习计划 English Study Plan 20-Minute daily English Learning Routine | Min: 09:38 | 030](https://v.douyin.com/q79Y9bZ1jFw)
+    - [如何快速学会任何一门语言 How to learn ANY language fast (in 5 minutes | Min: 04:36 | 036)](https://v.douyin.com/vbufzIATQz8/)
+
+  ---
+  **[003. 英语旅行]{g}**
+    - [曼谷秘境街区！ I Found Bangkok's COOLEST Neighbourhoods 🇹🇭 SO Underrated | Min: 21:01 | 001](https://v.douyin.com/daltF6l1eyg/)
+    - [跟我一起沉浸式漫步圣基尔达海滩​ English Listening Practice Walk along St Kilda beach on a hot day in Melbourne, Australia | Min: 10:29 | 010](https://v.douyin.com/EZqJ9ztjDa0/)
+    - [游旧金山学英语|可理解性输入 Comprehensible Input English - Learn English Fast | Min: 16:18 | 020](https://v.douyin.com/JuPO9cpddhM/)
+    - [阔别15载，不一样的香港 Something Feels Different About Hong Kong... (first impressions after 15 years) | Min: 18:45 | 030](https://v.douyin.com/baKLxL1LvrA/)
+    - [🇦🇶 慢速英式英语 南极洲的冰层厚达数千米，但冰下隐藏着怎样的秘密？本期视频带您探索这片神秘大陆的地下世界——从远古的冰下湖泊到未知的山脉，甚至可能存在的古老生命。通过清晰、缓慢的英式英语，您将学习与地理、探险、科学相关的实用词汇，提升听力理解力。放慢节奏，边听边学，在震撼的自然奇观中拓展英语知识。| Min: 18:49 | 039](https://v.douyin.com/ZTkrm-Tk4j0/)
+
+  ---
+  **[004. 口语对话]{g}**
+    - [魔法书店学英语 Learn Real English in a Magical Bookshop Tour | Min: 31:47 | 001](https://v.douyin.com/ZLW0sHbisUs/)
+    - [小镇地道英式聊天 Real British English Conversations in a Small Town (with Subtitles) | Min: 23:49 | 002](https://v.douyin.com/2q2UGqvoatc/)
+    - [地道英伦腔｜沉浸式20分钟听力：和母语者聊聊美食那些事儿 British English Listening Practice Podcast - Native Speakers Talk About Food for 20 Minutes | Min: 20:28 | 003](https://v.douyin.com/EVdeQWYGcQI/)
+    - [真实英语听力练习：听母语者聊汽车 Real English Listening Practice - Native Speakers Conversation About Cars | Min: 20:59 | 004](https://v.douyin.com/Vze-_sU_iV4/)
+    - [购物英语会话 English Conversations for Shopping | Min: 10:54 | 005](https://v.douyin.com/fT4ea5d6OTQ/)
 
 ---
 **[Lana Blakely]{e}**
@@ -1232,7 +1266,7 @@
 
 ---
 ### 0005. 播客资源
-**[Coffee Break English]{p}**
+**[Coffee Break English]{s}**
 * **[Coffee Break English  | 21.5万 | YTB](https://www.youtube.com/@coffeebreakenglish)**
   - [En: Welcome to the Coffee Break English YouTube channel - start learning English on your coffee break!]{s}
   - [Cn: 欢迎来到Coffee Break English频道——在你的咖啡休息时间开始学习英语吧！]{g}
@@ -3814,6 +3848,14 @@
 ---
 **[niec.edu.sg]{s}**
 * **[niec.edu.sg | Home | National Institute of Early Childhood Development](https://niec.edu.sg/)**
+
+---
+**[NLB Singapore: 新加坡国家图书馆管理局]{s}**
+* **[NLB Singapore | National Library Board（新加坡国家图书馆管理局） | 1.28万 | YTB](https://www.youtube.com/@NLBsg/videos)**
+  - [Exploring the Use of AI in Our Daily Lives](https://www.youtube.com/watch?v=fmhJNZ2NP3A)
+
+* **[nlb.gov.sg](https://www.nlb.gov.sg/main/home)**
+
 ---
 ### 0027. Coding
 **[Sam Witteveen]{s}**
