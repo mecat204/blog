@@ -885,18 +885,19 @@
   - **[teacherluke | Luke’s ENGLISH Podcast | Learn British English with Luke Thompson](https://teacherluke.co.uk/)**
 
 ---
-**[Miss Honey]{p}**
-* **[Miss Honey | 初级 | 90.5万 | YTB](https://www.youtube.com/@Slow_English_Podcast)**
+**[Miss Honey]{e}**
+* **[Miss Honey | 初级 | 119万 | YTB](https://www.youtube.com/@Slow_English_Podcast)**
   - [En: Learn COMPREHENSIBLE English New Posts EVERY Wednesday☀️]{s}
   - [Cn: 学习可理解的英语 🗣️ 每周三☀️ 新文章]{g}
 
 ---
-**[Jalin Siu]{p}**
+**[Jalin Siu]{e}**
 * **[Jalin Siu | 中级 |  亚裔女生，写实记录Vlog，类似ur mom ashley 的频道。 有个特色是时常出现多人场景，非常适合扩充社交英文、锻炼多人语境的听力能力。| 155万 | YTB](https://www.youtube.com/@jalinsiu)**
 
 ---
-**[KerryDowdle in China]{p}**
+**[KerryDowdle in China]{e}**
 * **[KerryDowdle in China | 中级 | 一个在大陆的美国博主，拍一些旅游、文化相关的Vlogs， 写实风格。 除了拍大陆内容，也有美国以及其他国家的旅行内容。 | 8600 | YTB](https://www.youtube.com/@KerryDowdleinChina)**
+
   - [En: Hi! I'm Kerry Dowdle from Florida! I've been traveling all over China. I'm here to share some of my amazing adventures, enjoy some great food, and spread some positive energy :) xx]{s}
   - [Cn: 大家好！我是来自佛罗里达的Kerry Dowdle！我一直在中国各地旅行，分享我的奇妙冒险，品尝美食，并传递满满的正能量 :) xx{g}
 
@@ -907,16 +908,18 @@
   - [你试过在夏天穿着汉服在西湖边读诗吗？](https://www.youtube.com/watch?v=_T5KzJgUxLQ)
 
 ---
-**[Doobydobap]{p}**
-* **[Doobydobap | 中级 | 非常幽默搞笑、旅行、食物内容 | 438万 | YTB](https://www.youtube.com/@Doobydobap)**
-  - **[美食博主](https://doobydobap.com)**
+**[Doobydobap · 美食博主]{e}**
+* **[Doobydobap | 中级 | 非常幽默搞笑、旅行、食物内容 | 484万 | YTB](https://www.youtube.com/@Doobydobap)**
+
+  - **[美食博主 | url](https://doobydobap.com)**
 
   ---
   - [100 种做方便面的方法](https://www.youtube.com/watch?v=UlafoXGyx6g)
 
 ---
-**[Tiny Home Tours]{p}**
+**[Tiny Home Tours · 小户型设计]{s}**
 * **[Tiny Home Tours | 小户型设计 | 179万 | YTB](https://www.youtube.com/@TinyHomeTours/videos)**
+
   - **[Tiny Home Tours | 小家旅游](https://tinyhometours.buzzsprout.com/)**
   - **[Home | Tiny Home Tours](https://www.tinyhometours.com/)**
 
@@ -960,6 +963,16 @@
 
   ---
   - [Her Tiny Home Will Change How You Think About Interior Design](https://www.youtube.com/watch?v=HSWOZdMA1n8)
+
+---
+**[Living Big In A Tiny House]{s}**
+* **[Living Big In A Tiny House | 477万 | YTB](https://www.youtube.com/@livingbig/videos)**
+  - [This Stunning Tiny Home Gave Them a Huge Head Start in Life](https://www.youtube.com/watch?v=UaQqgl78JNE)
+
+---
+**[Bus Off with Josie · 2026.07.08]{e}**
+* **[Bus Off with Josie | 38万 | YTB](http://youtube.com/@BusOffwithJosie/videos)**
+  - [I Cant Afford a House... so I Live in a Cottage-Core Bus by the Sea instead](https://www.youtube.com/watch?v=nS-O2cMaupo)
 
 ---
 **[Mind the Game]{p}**

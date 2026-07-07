@@ -38,9 +38,15 @@
   ---
   **[001. 竹子聊AI]{g}**
   - [全球已进入AI军备竞赛阶段 普通人还没意识到，12月开始人类的命运可能被AI彻底改变 | 001](https://v.douyin.com/04Aa3D0U3_s/)
+  - [国产AI谁赢了 阿里千问3和即将发布的DeepSeek R2，到底谁能赢？真正的竞争从来就不在表面 | 050](https://v.douyin.com/wygrwfWdUrU/)
+  - [尊湃剽窃华为芯片技术 14人被判 尊湃侵犯华为商业秘密案件一审宣判 | 100](https://v.douyin.com/0gW50g_f17w/)
+  - [52.7%%的豪车选择华为乾崑智驾 | 150](https://v.douyin.com/qbiNc8L-ykE/)
+  - [2026脑机接口大爆发：如果意念真的能重连肉身 | 200](https://v.douyin.com/FJQ9EL7PW14/)
   - [外网疯传！未来十年只有一种人能赚到钱 | **Dan Koe** | 222](https://v.douyin.com/po0NiB-TuHE/)
   - [2030只剩5种工作，判断标准残酷到让人沉默，AI安全领域泰斗罗曼·扬波尔斯基博士深度访谈 | 224](https://v.douyin.com/Bc_e3ut5SYM/)
   - [诺奖得主**哈萨比斯**: 人类将活到150岁！人工智能最大的影响，不在手机里，用AI治愈所有疾病又进一步 | 230](https://v.douyin.com/e8-AY8XMX6M/)
+  - [马斯克本人认可推荐，纳瓦尔作序 | 250](https://v.douyin.com/ELadzxXasbA/)
+  - [到2030年，有99.9%%的概率超级智能会消灭人类，这是AI安全领域泰斗罗曼·扬波尔斯基最新深度访谈的原话，但是，我却看到了AI时代，三个重要的保命法则 | 280](https://v.douyin.com/v72FI8o1VA0/)
 
 ---
 ### 0003. 杜恩泽·AI分享与思考
