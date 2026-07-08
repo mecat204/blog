@@ -85,6 +85,21 @@
 **[每日英语单词本]{s}**
 * **[每日英语单词本 | 📖英语专业八级 ✨高级英语教师资格证 🤟每日无痛学英语 jidanci101 | 千章 | Douyin](https://v.douyin.com/g5TWiNm8Tsw/)**
 
+
+---
+### 0010. 馨宝儿学英语
+**[馨宝儿学英语]{s}**
+* **[馨宝儿学英语 | 学英语是意识到语言的学习要趁早, 主要是为了和孩子共同进步 | 佰章 | Douyin](https://v.douyin.com/-s0HPA_m2qQ/)**
+
+  ---
+  **[001. 誊抄集]{g}**
+    - [001](https://v.douyin.com/VvqD2zgCznw/)
+    - [没有哪个家庭是完美的, 我们争吵, 我们打架, 我们有分歧, 有时甚至彼此不说话, 但这就是人类的现实, 任何关系都难免有挣扎, 然而最终, 家人始终是家人。 No family is perfect, we argue, we fight, we have our disagreements, and sometimes we even stop talking to each other but that's the reality of being human, no relationship is without its struggles, yet in the end, family is family. | 无论经历高峰还是低估, 无论面对艰难时刻还是平静时刻, 爱始终都在。它存在于我们共享的纽带中, 存在于我们共同创造的记忆中。 Through all the highs and lows, the tough moments and the quiet ones, the love will always be there. It's in the bonds we share, the memories we build.  |  它在于我们明白, 无论我们可能走得多远, 我们始终相连, 家庭不是追求完美, 而是彼此陪伴, 在必要时相互原谅, 接受彼此真实的模样。 它在于学习, 在于成长。 And the understanding that no matter how far apart we may drift, we are always connected, family isn't about perfection, it's about showing up for each other, forgiving when neccssary and accepting each other for who we truly are. It's about leaning, growing.]{g}
+
+    ---
+    - [002](https://v.douyin.com/ltkPiHrM2lM/)
+    - [我认为我们花太多时间害怕自己的平庸。我们不想唱的太大声,以免被人发现我们的嗓音并不如玻璃般清脆。I think we spend too much time being afraid of our own mediocrity. We don't want to sing too loudly in case anyone finds out we don't have a voice like glass. | 我们不写音乐, 因为我们不是莫扎特; 我们不画画, 因为我们不是毕加索; 我们不告诉别人我们爱他们, 因为说出来时我们的声音可能会颤抖; 我们努力成为出色的哭泣者, 却不去跳舞, 因为我们没那么好。 We don't write music because we aren't Mozart, we don't paint because we aren't Picasso, we don't tell people we love them because our voice might shake when we say it, we try to pretty criers and we don't dance because we aren't good. | 我们人性的现实是, 我们在很多事情上都很平庸, 事实是, 我们都不那么出色, 所以别再因为不是万事通而束缚自己, 不去享受自己喜欢的事情。The reality of our hummanity is that we are all a little bit averaged at a lot of things, the truth is that we're all not that good so stop holding yourself back from enjoying the things that you love because you're not a prodigy at everything. | 放声高歌, 大声表白, 让你的声音颤抖, 哭泣, 流下又大又丑的眼泪, 尽情地跳舞吧, 因为生命短暂, 我们不应害怕成为人类。Scream the song at the top of your lungs and confess your love and let your voice be shaky, cry, big, ugly tears and dance really badly because life is too short to be scared of being human.]{g}
+
 ---
 ### 9999. Download
 **[dlpanda]{s}**
