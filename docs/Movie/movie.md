@@ -157,11 +157,6 @@
     - [光明世界](https://www.dailymotion.com/user/KidsPersonalTv)
 
 ---
-**[AnFuns·动漫]{s}**
-  - **[AnFuns.cc](https://www.anfuns.cc/)**
-  - **[AnFuns·in](https://www.anfuns.in)**
-
----
 **[4K指南]{s}**
   - **[4K指南](https://xuexizhinan.com/)**
   - **[小宝影院](https://xiaoxintv.cc/)**
@@ -170,6 +165,7 @@
 **[金牌影院]{s}**
   - **[hskjjglo](https://www.hskjjglo.com/)**
   - **[vv3nwjk](https://www.vv3nwjk.com/)**
+  - **[jpyy2](https://jpyy2.com)**
 
 ---
 **[爱壹帆]{s}**
@@ -178,7 +174,7 @@
 ---
 **[other]{s}**
   - **[多瑙影院](https://dnvod.org/)**
-  - **[香菇影视 | proxy](https://www.xiangguys.com/)**
+  - **[香菇影视 · Proxy](https://www.xiangguys.com/)**
   * **[时空影院](https://www.skwzt.com/)**
 
 ---
@@ -231,11 +227,12 @@
     - [nunflix](https://nunflix.org/)
 
 ---
-### 0006. Bttwo | proxy | Film-Note
+### 0006. Bttwo | Proxy | Film-Note
 **[Bttwo]{s}**
-  - **[bttwo.vip](https://bttwo.vip/)**
-  - **[bttwo.org](https://www.bttwo.org/)**
-  - **[bttwo.me](https://www.bttwo.me)**
+  - [bttwo.vip](https://bttwo.vip/)
+  - [bttwo.org](https://www.bttwo.org/)
+  - [bttwo.me](https://www.bttwo.me)
+  - [bttwoo.com](https://www.bttwoo.com)
 
 ---
 **[麦田影院]{s}**
@@ -315,7 +312,7 @@
     * **[4kcz](https://www.4kcz.com/)**
 
 ---
-### 0008. zeuis
+### 0008. zeuis 工作导航
 **[zeuis]{s}**
 * **[zeuis 工具导航](https://www.zeuis.com/)**
   - [西瓜影院](https://sszzyy.com/)
