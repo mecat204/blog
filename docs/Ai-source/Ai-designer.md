@@ -142,10 +142,20 @@
 
 ---
 ### 0010. Gather | unproxy
-**[圆规Talk]{p}**
+**[圆规Talk]{s}**
 * **[圆规Talk | 带孩子在菲律宾上学，自己也在学新东西。| 五十章 | Douyin](https://v.douyin.com/yMbUksC14vo/)**
 * **[waytoagi.com](https://v.douyin.com/__wVbaqBjJg/)**
   - **[Way To AGI | AI proxy](https://waytoagi.com)**
+
+---
+### 0011. 晓得了
+**[晓得了]{s}**
+* **[晓得了 | 你看到的不一定是真相，但 是一个视角👀 你听到的不一定是事实, 但它是种观点 | 贰佰章 | Douyin](https://v.douyin.com/ZZF_JwAtovU/)**
+
+  ---
+  **[001. 知识晓得了]{g}**
+    - [AI之父 | Min: 46:43 | 001](https://v.douyin.com/xesYBBOIlMs/)
+    - [没人会为了你的脆弱鼓掌 | Min: 01:05 | 033](https://v.douyin.com/__x3U7vduCI/)
 
 ---
 ### 9999. Download

@@ -101,6 +101,55 @@
     - [我认为我们花太多时间害怕自己的平庸。我们不想唱的太大声,以免被人发现我们的嗓音并不如玻璃般清脆。I think we spend too much time being afraid of our own mediocrity. We don't want to sing too loudly in case anyone finds out we don't have a voice like glass. | 我们不写音乐, 因为我们不是莫扎特; 我们不画画, 因为我们不是毕加索; 我们不告诉别人我们爱他们, 因为说出来时我们的声音可能会颤抖; 我们努力成为出色的哭泣者, 却不去跳舞, 因为我们没那么好。 We don't write music because we aren't Mozart, we don't paint because we aren't Picasso, we don't tell people we love them because our voice might shake when we say it, we try to pretty criers and we don't dance because we aren't good. | 我们人性的现实是, 我们在很多事情上都很平庸, 事实是, 我们都不那么出色, 所以别再因为不是万事通而束缚自己, 不去享受自己喜欢的事情。The reality of our hummanity is that we are all a little bit averaged at a lot of things, the truth is that we're all not that good so stop holding yourself back from enjoying the things that you love because you're not a prodigy at everything. | 放声高歌, 大声表白, 让你的声音颤抖, 哭泣, 流下又大又丑的眼泪, 尽情地跳舞吧, 因为生命短暂, 我们不应害怕成为人类。Scream the song at the top of your lungs and confess your love and let your voice be shaky, cry, big, ugly tears and dance really badly because life is too short to be scared of being human.]{g}
 
 ---
+### 0012. summer
+**[summer]{s}**
+* **[]()**
+
+  ---
+  **[001. 英语口语天天练]{g}**
+    - [一群 | 001](https://v.douyin.com/7Sbj3XcIdKM/)
+    - [a school of fish 一群鱼. a pride of lions 一群狮子. a troop of monkeys 一群猴子. a herd of cows 一群牛. a flock of bird 一群鸟. a pod of whales 一群鲸鱼. a nest of snakes 一群蛇. a swarm of bees 一群蜜蜂. a pack of wolves 一群狼. a colony of ants 一群蚂蚁.]{g}
+
+    ---
+    - [秒懂with的五种核心用法 | 002](https://v.douyin.com/mA-hD-532IQ/)
+    - [I play with my friend. The bag with a cat is my sister's. I cut the apple with a knige. With the snow, the school was closed. With time going by, we grow up.]{g}
+
+    ---
+    - [物主代词: 形容词性物主代词; 名词性物主代词| 003](https://v.douyin.com/md3wajaV-cI/)
+    - [This is my desk. This is your desk. This is his desk. This is her desk. This is its desk. This is their desk. | This desk is mine. This desk is yours. This desk is his. This desk is hers. This desk is its. This desk is their.]{g}
+
+    ---
+    - [频率副词](https://v.douyin.com/lM5kjO7pif8/)
+    - [always 总是. generally 通常. usually 经常. often 时常. sometimes 有时. occasionally 偶尔. sealom 很少. rarelly 极少的. never 从来没有.]{g}
+
+    ---
+    - [20个疑问词](https://v.douyin.com/JPPGoqJPWZk/)
+    - [what . when . why . where . which .  who . whose .  what time . what day. what color. how. how old . how many. how much. how tall. how big. how long . how often . how soon. how heavy.]
+
+    ---
+    - [英语时态](https://v.douyin.com/50y7ndADD0Y/)
+
+    ---
+    - [英语天天练习](https://v.douyin.com/5fkQ-3iKXyE/)
+    - [important difficult easy convenient beautiful comfortable necessary different]{g}
+
+    ---
+    - [英语核心句型](https://v.douyin.com/zrXyvSKiyOQ/)
+    - [what do you {do, like, want, think, need, see, mean, have, know , prefer} ?]{g}
+
+    ---
+    - [一串单词](https://v.douyin.com/h3LqZqiPMlg/)
+    - [一瓶水 a bottle of water. 一杯咖啡 a cup of coffee. 一杯牛奶 a glass of milk. 一罐可乐 a can of cola. 一罐蜂蜜 a jar of honey. 一块蛋糕 a piece of cake. 一袋米 a bag of rice. 一片面包 a slice of bread. 一串葡萄 a bunch of grapes. 一碗面条 a bowl of noodles. 一串钥匙 a set of keys. 一双袜子 a pair of socks.]{g}
+
+    ---
+    - [英语语法](https://v.douyin.com/Hz-Sj-yqZXs/)
+    - [be动词有三宝. { am, is, are } 要记牢. 我用  {am } , 你用 { are }, { is } 连着他, 她, 它. 单数主语用{ is }. 复数主语全用 { are }, 一般现在经常性, 主语单三要看清. 动词末尾{ 加s }, 变化规律要记牢. 否定疑问用{ does }, 动词马上回原形. 我你多人用{ have }. 固定搭配别忘记. 他,她,它单数词. 三单固定用{ has }. 感叹句先分清, 名前{ what }形副{ How }数量多少{ How }来守, { many, much, little, few } 修饰多少别含糊. 过去时态加{ ed }, 否定疑问用{ did }. { did }出场大变样, 动词立刻变原形. 进行时态最简单, { be }加动词{ ing } ]{g}
+
+
+
+
+
+---
 ### 9999. Download
 **[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**
