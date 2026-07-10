@@ -111,8 +111,15 @@
 * **[电影侠](https://www.dyx00.com/)**
 
 ---
+**[好好看]{s}**
+* **[好好看](https://www.hhkan0.com/)**
+
+---
 **[清禾视频]{s}**
 * **[清禾视频](https://movie.qhdaohang.cn/vodtype/20.html)**
+  - [qinghedaohang](https://www.qinghedaohang.com/)
+  - [inavs](https://www.inavs.cn/qh)
+  - [qhdaohang](https://1.qhdaohang.cn/)
 
 ---
 **[P.DOG · 永乐视频]{s}**
