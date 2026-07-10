@@ -3848,26 +3848,87 @@
 **[English Teacher Claire]{e}**
 * **[English Teacher Claire | 74.9万 | YTB](https://www.youtube.com/@EnglishTeacherClaire/videos)**
 
----
-### 0026. Ads of the World
-**[Ads of the World]{s}**
-* **[Professional Campaigns • Ads of the World™ | Part of The Clio Network](https://www.adsoftheworld.com/professional)**
+### 0026. Podcast 播客 | Drama 短剧
+**[LOVEBUSTER]{s}**
+* **[LOVEBUSTER | 204万 | YTB](https://www.youtube.com/@LoveBusterShow/videos)**
+  - [I Broke The Law To Save Those I Love | SAVING HEARTS | Ep.10 | 我违法拯救我所爱的人 |拯救心灵 |第10集](https://www.youtube.com/watch?v=xxAknGzwPSw)
 
 ---
-**[Base44]{s}**
-* **[Base44 | 7720位 | YTB](https://www.youtube.com/@Base44App)**
-  - [Introducing Base44’s Big Game Ad “It’s App to You”](https://www.youtube.com/watch?v=iKEUWtqvsis)
+**[English Unleashed: The Podcast]{s}**
+* **[English Unleashed: The Podcast | 115万 | YTB](https://www.youtube.com/@EnglishPodcastUnleashed/videos)**
+  - [En: Welcome to English Unleashed: The Podcast.]{s}
+  - [Cn: 欢迎收听《English Unleashed：播客》。]{g}
+
+  ---
+  - [En: We are a group of language educators and researchers with more than 20 years of experience teaching English in Europe, the UK, Middle East and Austraila.]{s}
+  - [Cn: 我们是一群拥有超过20年在欧洲、英国、中东和澳大利亚教授英语的语言教育者和研究人员。]{g}
+
+  ---
+  - [En: In every episode, we (Tom and Sarah) speak slowly and clearly, so you can listen, understand, and speak along with us.]{s}
+  - [Cn: 在每一集中，我们（汤姆和莎拉）都说得慢而清晰，这样你可以倾听、理解并与我们一起交流。]{g}
+
+  ---
+  - [En: We share educational conversations, useful sentences, everyday expressions, and emotional language — all designed to help you sound more natural.]{s}
+  - [Cn: 我们分享教育性对话、实用句子、日常表达和情感语言——所有这些都旨在帮助你听起来更自然。]{g}
+
+  ---
+  - [En: You’ll also get learning tips and simple strategies to improve your English faster and with more confidence 🎧]{s}
+  - [Cn: 你还将获得学习技巧和简单的策略，帮助你更快、更有信心 🎧地提升英语水平]{g}
+
+  ---
+  - [En: Learn the phrases native speakers use 🗣️ Practice with us — shadowing, speaking, understanding 💡 Get clear advice for building fluency Perfect for pre-intermediate to advanced learners who want to go beyond grammar — and truly speak English with feeling.]{s}
+  - [Cn: 学习母语者常用 🗣️的短语 与我们一起练习——跟随学习、口语、理解 💡 获取清晰的流利度建设建议 非常适合想要超越语法的中高级学习者——并真正用感情表达英语。]{g}
+
+  ---
+  - [En: All rights reserved © Educational Video Productions.]{s}
+  - [Cn: 版权所有，版权所有©：教育视频制作公司。]{g}
 
 ---
-**[niec.edu.sg]{s}**
-* **[niec.edu.sg | Home | National Institute of Early Childhood Development](https://niec.edu.sg/)**
+**[Little Reading Bug's Bilingual Channel]{s}**
+* **[Little Reading Bug's Bilingual Channel | 小书虫的双语频道 | YTB](https://www.youtube.com/@littlereadingbugsbilingual539/videos)**
 
 ---
-**[NLB Singapore: 新加坡国家图书馆管理局]{s}**
-* **[NLB Singapore | National Library Board（新加坡国家图书馆管理局） | 1.28万 | YTB](https://www.youtube.com/@NLBsg/videos)**
-  - [Exploring the Use of AI in Our Daily Lives](https://www.youtube.com/watch?v=fmhJNZ2NP3A)
+**[English in Comfort]{s}**
+* **[English in Comfort | 26.5万 | YTB](https://www.youtube.com/@EnglishinComfort/videos)**
 
-* **[nlb.gov.sg](https://www.nlb.gov.sg/main/home)**
+  - [En: Learn English the Comfortable Way!]{s}
+  - [Cn: 舒适地学习英语！]{g}
+
+  ---
+  - [En: At English in Comfort, we help you improve your English through listening and speaking practice.]{s}
+  - [Cn: 在舒适英语中心，我们通过听力和口语练习帮助你提升英语水平。]{g}
+
+  ---
+  - [En: Our relaxing podcasts make learning natural and enjoyable.]{s}
+  - [Cn: 我们的轻松播客让学习变得自然且愉快。]{g}
+
+  ---
+  - [En: No stress, just real progress!]{s}
+  - [Cn: 没有压力，只有真正的进步！]{g}
+
+  ---
+  - [En: What you’ll find here: ✔️]{s}
+  - [Cn: 你会在这里找到： ✔️]{g}
+
+  ---
+  - [En: Learn English through listening – absorb the language effortlessly ✔️]{s}
+  - [Cn: 通过听力学习英语——轻松吸收语言 ✔️]{g}
+
+  ---
+  - [En: Speaking practice – improve your pronunciation and confidence ✔️]{s}
+  - [Cn: 口语练习——提升你的发音和自信 ✔️]{g}
+
+  ---
+  - [En: Daily conversations & useful phrases – sound more natural in real life ✔️]{s}
+  - [Cn: 日常对话和实用短语——在现实生活中 ✔️听起来更自然]{g}
+
+  ---
+  - [En: Self-improvement topics – boost motivation and stay consistent Perfect for English learners who want to learn and improve at their own pace, comfortably, and in a cozy way.]{s}
+  - [Cn: 自我提升主题——提升动力并保持坚持 非常适合希望以自己节奏、舒适且舒适地学习和提升的英语学习者。]{g}
+
+  ---
+  - [En: Subscribe and start your journey today!]{s}
+  - [Cn: 订阅，立即开始您的旅程！]{g}
 
 ---
 ### 0027. Coding
@@ -4164,87 +4225,25 @@
 * **[Michele Lepe - Story Time | Kid | YTB](https://www.youtube.com/@michelelepe)**
 
 ---
-### 0037. Podcast 播客 | Drama 短剧
-**[LOVEBUSTER]{s}**
-* **[LOVEBUSTER | 204万 | YTB](https://www.youtube.com/@LoveBusterShow/videos)**
-  - [I Broke The Law To Save Those I Love | SAVING HEARTS | Ep.10 | 我违法拯救我所爱的人 |拯救心灵 |第10集](https://www.youtube.com/watch?v=xxAknGzwPSw)
+### 0100. Ads of the World
+**[Ads of the World]{s}**
+* **[Professional Campaigns • Ads of the World™ | Part of The Clio Network](https://www.adsoftheworld.com/professional)**
 
 ---
-**[English Unleashed: The Podcast]{s}**
-* **[English Unleashed: The Podcast | 115万 | YTB](https://www.youtube.com/@EnglishPodcastUnleashed/videos)**
-  - [En: Welcome to English Unleashed: The Podcast.]{s}
-  - [Cn: 欢迎收听《English Unleashed：播客》。]{g}
-
-  ---
-  - [En: We are a group of language educators and researchers with more than 20 years of experience teaching English in Europe, the UK, Middle East and Austraila.]{s}
-  - [Cn: 我们是一群拥有超过20年在欧洲、英国、中东和澳大利亚教授英语的语言教育者和研究人员。]{g}
-
-  ---
-  - [En: In every episode, we (Tom and Sarah) speak slowly and clearly, so you can listen, understand, and speak along with us.]{s}
-  - [Cn: 在每一集中，我们（汤姆和莎拉）都说得慢而清晰，这样你可以倾听、理解并与我们一起交流。]{g}
-
-  ---
-  - [En: We share educational conversations, useful sentences, everyday expressions, and emotional language — all designed to help you sound more natural.]{s}
-  - [Cn: 我们分享教育性对话、实用句子、日常表达和情感语言——所有这些都旨在帮助你听起来更自然。]{g}
-
-  ---
-  - [En: You’ll also get learning tips and simple strategies to improve your English faster and with more confidence 🎧]{s}
-  - [Cn: 你还将获得学习技巧和简单的策略，帮助你更快、更有信心 🎧地提升英语水平]{g}
-
-  ---
-  - [En: Learn the phrases native speakers use 🗣️ Practice with us — shadowing, speaking, understanding 💡 Get clear advice for building fluency Perfect for pre-intermediate to advanced learners who want to go beyond grammar — and truly speak English with feeling.]{s}
-  - [Cn: 学习母语者常用 🗣️的短语 与我们一起练习——跟随学习、口语、理解 💡 获取清晰的流利度建设建议 非常适合想要超越语法的中高级学习者——并真正用感情表达英语。]{g}
-
-  ---
-  - [En: All rights reserved © Educational Video Productions.]{s}
-  - [Cn: 版权所有，版权所有©：教育视频制作公司。]{g}
+**[Base44]{s}**
+* **[Base44 | 7720位 | YTB](https://www.youtube.com/@Base44App)**
+  - [Introducing Base44’s Big Game Ad “It’s App to You”](https://www.youtube.com/watch?v=iKEUWtqvsis)
 
 ---
-**[Little Reading Bug's Bilingual Channel]{s}**
-* **[Little Reading Bug's Bilingual Channel | 小书虫的双语频道 | YTB](https://www.youtube.com/@littlereadingbugsbilingual539/videos)**
+**[niec.edu.sg]{s}**
+* **[niec.edu.sg | Home | National Institute of Early Childhood Development](https://niec.edu.sg/)**
 
 ---
-**[English in Comfort]{s}**
-* **[English in Comfort | 26.5万 | YTB](https://www.youtube.com/@EnglishinComfort/videos)**
+**[NLB Singapore: 新加坡国家图书馆管理局]{s}**
+* **[NLB Singapore | National Library Board（新加坡国家图书馆管理局） | 1.28万 | YTB](https://www.youtube.com/@NLBsg/videos)**
+  - [Exploring the Use of AI in Our Daily Lives](https://www.youtube.com/watch?v=fmhJNZ2NP3A)
 
-  - [En: Learn English the Comfortable Way!]{s}
-  - [Cn: 舒适地学习英语！]{g}
-
-  ---
-  - [En: At English in Comfort, we help you improve your English through listening and speaking practice.]{s}
-  - [Cn: 在舒适英语中心，我们通过听力和口语练习帮助你提升英语水平。]{g}
-
-  ---
-  - [En: Our relaxing podcasts make learning natural and enjoyable.]{s}
-  - [Cn: 我们的轻松播客让学习变得自然且愉快。]{g}
-
-  ---
-  - [En: No stress, just real progress!]{s}
-  - [Cn: 没有压力，只有真正的进步！]{g}
-
-  ---
-  - [En: What you’ll find here: ✔️]{s}
-  - [Cn: 你会在这里找到： ✔️]{g}
-
-  ---
-  - [En: Learn English through listening – absorb the language effortlessly ✔️]{s}
-  - [Cn: 通过听力学习英语——轻松吸收语言 ✔️]{g}
-
-  ---
-  - [En: Speaking practice – improve your pronunciation and confidence ✔️]{s}
-  - [Cn: 口语练习——提升你的发音和自信 ✔️]{g}
-
-  ---
-  - [En: Daily conversations & useful phrases – sound more natural in real life ✔️]{s}
-  - [Cn: 日常对话和实用短语——在现实生活中 ✔️听起来更自然]{g}
-
-  ---
-  - [En: Self-improvement topics – boost motivation and stay consistent Perfect for English learners who want to learn and improve at their own pace, comfortably, and in a cozy way.]{s}
-  - [Cn: 自我提升主题——提升动力并保持坚持 非常适合希望以自己节奏、舒适且舒适地学习和提升的英语学习者。]{g}
-
-  ---
-  - [En: Subscribe and start your journey today!]{s}
-  - [Cn: 订阅，立即开始您的旅程！]{g}
+* **[nlb.gov.sg](https://www.nlb.gov.sg/main/home)**
 
 ---
 ### 9999. Download
