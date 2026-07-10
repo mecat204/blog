@@ -99,6 +99,8 @@
     - **[b.dalao](https://b.dalao.ru/)**
       * **[资源分享库](https://docs.qq.com/sheet/DUXR1VmtpVFR5bEpX?tab=44un5y)**
       * **[CCTV](https://tv.cctv.com/lm/index.shtml#datapd=EPGC1386744804340113&datafl=&dataszm=)**
+      * **[淘IPTV](https://taoiptv.com/)**
+      * **[在线TXT转M3U格式](http://117.72.68.25:9230/)**
 
 ---
 **[饭搭子影视 · proxy]{g}**
@@ -131,6 +133,11 @@
 **[影巢]{s}**
 * **[影巢](https://tv.movie1080.online/)**
 
+---
+**[xiaoyakankan]{s}**
+* **[xiaoyakankan](https://nz.xiaoyakankan.tv/)**
+
+---
 **[Novipnoad]{s}**
 * **[NO视频 - 网址导航](https://findno.tv/)**
 * **[Novipnoad | NO视频为用户提供及时的海外热门剧集在线观看，友好无广告，致力于最轻松的追剧体验。](https://www.novipnoad.net/)**
