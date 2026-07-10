@@ -3775,10 +3775,12 @@
   - [Sarah Crawford-Bohl](https://www.ted.com/talks/sarah_crawford_bohl_how_to_speak_up_even_when_you_don_t_want_to)
 
 ---
-**[TEDEd]{s}**
+**[TED-Ed]{s}**
 * **[TED-Ed | 2270万 | YTB](https://www.youtube.com/@TEDEd/videos)**
+  - [The Mysteries of Vernacular | 神秘的词源](https://www.youtube.com/playlist?list=PLJicmE8fK0EjR_iVOzgiJfvRuDPqKlPQt)
 
 * **[TED-Ed](https://ed.ted.com/)**
+  - [Mysteries of vernacular: Odd - Jessica Oreck and Rachael Teel](https://ed.ted.com/lessons/mysteries-of-vernacular-odd-jessica-oreck-and-rachael-teel?lesson_collection=mysteries-of-vernacular)
 
 ---
 **[Savvy Wheels]{g}**
@@ -4223,6 +4225,46 @@
 ---
 **[Michele Lepe - Story Time]{s}**
 * **[Michele Lepe - Story Time | Kid | YTB](https://www.youtube.com/@michelelepe)**
+
+---
+### 0037. Terence Fung - My Small Library in 3D
+**[Terence Fung - My Small Library in 3D]{s}**
+* **[Terence Fung - My Small Library in 3D | 1.15万 | YTB](https://www.youtube.com/@libraryofterence/videos)**
+  - [The Little Prince — 3D Animated Movie](https://www.youtube.com/watch?v=Yo47Hjj5lcQ)
+  - [cbeebies](https://www.cbeebies.com/)
+  - [voicetube](https://www.voicetube.com/)
+
+---
+### 0038. AI - video
+**[Serene Video AI · music]{s}**
+* **[Serene Video AI | 2.89万 | YTB](https://www.youtube.com/@SereneVideoAI)**
+  - [Fantasy | Dreamlike | Daughters of the Pearlspire Palace](https://www.youtube.com/watch?v=6bOklwBi8Ek&list=RD6bOklwBi8Ek&start_radio=1)
+  - [viralshortcut·price](https://viralshortcut.com/fantasy-palace-creator/)
+
+---
+**[Aether Sound Lab]{e}**
+* **[Aether Sound Lab | 5170位 | YTB](https://www.youtube.com/@AetherSoundLab-x7q)**
+  - [Relaxing Ambient Music in the Celestial Garden of Dancing Flowers and Light](https://www.youtube.com/watch?v=wu6rnHy14E8)
+
+---
+**[AI Luxury Aesthetic]{s}**
+* **[AI Luxury Aesthetic | 1290位 | YTB](https://www.youtube.com/@AILuxuryAesthetic/videos)**
+  - [踏入水晶花园之旅 | 4K 奇幻花园、梦境世界与史诗级音景](https://www.youtube.com/watch?v=O86biUZq--A)
+
+---
+**[Retrofutura]{s}**
+* **[Retrofutura | 复古未来 / 未来复古 / 回望未来 | 3.67万 | YTB](https://www.youtube.com/@RetrofuturaAI/videos)**
+  - [The Night Trains to Mountain Nation: A Steampunk Journey | AI 4K — Retrofutura](https://www.youtube.com/watch?v=Oxeqp62SC_M&list=RDOxeqp62SC_M&start_radio=1)
+
+---
+**[Three-Quarter Town]{s}**
+* **[Three-Quarter Town | 2.31万 | YTB](https://www.youtube.com/@ThreeQuarterTown)**
+  - [The Dog Who Waited at the Closed Door | Three-Quarter Town](https://www.youtube.com/watch?v=uqHkxgZjqrY)
+
+---
+**[Studio Imagine AI]{s}**
+* **[Studio Imagine AI | 2600位 | YTB](https://www.youtube.com/@StudioImagineAI)**
+  - [he Rainlit Canals of Bellario Laguna: A Steampunk City Odyssey](https://www.youtube.com/watch?v=F64sKMuaxEE&list=RDF64sKMuaxEE&start_radio=1)
 
 ---
 ### 0100. Ads of the World
