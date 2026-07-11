@@ -4231,11 +4231,28 @@
 **[Terence Fung - My Small Library in 3D]{s}**
 * **[Terence Fung - My Small Library in 3D | 1.15万 | YTB](https://www.youtube.com/@libraryofterence/videos)**
   - [The Little Prince — 3D Animated Movie](https://www.youtube.com/watch?v=Yo47Hjj5lcQ)
+  - [The Man Who Planted Trees — 3D Animated Movie | Jean Giono](https://www.youtube.com/watch?v=iyO5W70eN8k)
+  - [Alice In Wonderland — Animated 3D Movie | Lewis Carroll](https://www.youtube.com/watch?v=YZhicr-Xf-Y)
+  - [Animal Farm and 1984 — 3D Animated Movie | George Orwell](https://www.youtube.com/watch?v=n0Lce3N97rc)
+
   - [cbeebies](https://www.cbeebies.com/)
   - [voicetube](https://www.voicetube.com/)
 
 ---
-### 0038. AI - video
+### 0038. Dan Kieft | AI enthusiast
+**[Dan Kieft]{s}**
+* **[Dan Kieft | AI enthusiast 人工智能爱好者；对人工智能充满热情的人 | 26.8万 | YTB](https://www.youtube.com/@Dankieft/videos)**
+  - [How Nano Banana Pro & Kling Changed AI FIlmmaking](https://www.youtube.com/watch?v=dA_jfm38ejw)
+
+---
+### 0039. Ben Kaluza - Tutorials & Workflows
+**[Ben Kaluza - Tutorials & Workflows]{s}**
+* **[Ben Kaluza - Tutorials & Workflows | 5400位 | YTB](https://www.youtube.com/@BenKaluzaTech)**
+  - [How to Turn Storyboards into Consistent Videos using Seedance 2.0](https://www.youtube.com/watch?v=DosWo7GplD4)
+
+
+---
+### 0099. AI - video
 **[Serene Video AI · music]{s}**
 * **[Serene Video AI | 2.89万 | YTB](https://www.youtube.com/@SereneVideoAI)**
   - [Fantasy | Dreamlike | Daughters of the Pearlspire Palace](https://www.youtube.com/watch?v=6bOklwBi8Ek&list=RD6bOklwBi8Ek&start_radio=1)
