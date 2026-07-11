@@ -897,6 +897,29 @@
 
 ---
 ### 0009. 直播
+**[Amber2.0 · 英辩]{e}**
+* **[Amber2.0](https://v.douyin.com/4i54v962uko/)**
+
+---
+**[Echo.Y · 英辩]{e}**
+* **[Echo.Y | We trade pipe dreams for reality 我们曾怀抱幻想，最终换来了现实。 | 佰章 | Douyin ](https://v.douyin.com/Wb3GnP6A2Ko/)**
+  - [pipe dream：不切实际的梦想、幻想、空想]{g}
+
+---
+**[藤校学姐Ivy说 · 英辩]{e}**
+* **[藤校学姐Ivy说 | 🎓范德堡大学本/宾夕法尼亚大学硕 | Jewelry Business | 佰章 | Douyin](https://v.douyin.com/BRa92Byrnlo/)**
+
+  ---
+  **[001. 英语辩论竞技场]{g}**
+    - [英语辩论：生育孩子的条件是否应该基于父母的经济实力 should the right to have a child be contingent upon would be parents’ financial capability | Min: 02:48 | 001](https://v.douyin.com/6IfY1j0-oF8/)
+    - [“喜欢”能否正当化任何消费 | Min: 03:17 | 010](https://v.douyin.com/YN0GbpNxMhM/)
+    -[年轻人应该听劝还是有主见 | Min: 03:41 | 020](https://v.douyin.com/Sh6kPQBPONg/)
+    - [女士优先是不是社会偏见❓英语辩论复盘 Is LADIES FIRST a form of BIAS | Min: 03:33 | 030](https://v.douyin.com/6VLtNoocTMk/)
+    - [学历羞耻是社会偏见还是自我反思 | Min: 03:42 | 040](https://v.douyin.com/EFYXudOZJRo/)
+    - [娱乐主播的苦难能否被正当化 | Min: 06:43 | 050](https://v.douyin.com/VZTw7tqMRV4/)
+    - [只筛选不改变有利于找到正确的那个TA吗 | 03:43 | 054](https://v.douyin.com/LLfAyYGFxqw/)
+
+---
 **[月野·GenshinImpact]{e}**
 * **[月野 | 个人发疯号 自己开心才是天大的事 | 佰章 | Douyin](https://v.douyin.com/JJo3_K23WlI/)**
   - [原神怎么五年了你还是这么好玩啊。](https://v.douyin.com/OtFH3w6bUA0/)
