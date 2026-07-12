@@ -1163,6 +1163,42 @@
     - [面朝大海，云卷云舒 | 882](https://v.douyin.com/nc7MEYzT6g8/)
 
 ---
+### 0053. 木鱼AI吃鱼头
+**[木鱼AI吃鱼头]{s}**
+* **[木鱼AI吃鱼头 | AI视频创作，古风场景设计—— 交流学习 | muyuaichiyutou | 叁佰章 | Douyin](https://v.douyin.com/OArHgPEtink/)**
+
+  ---
+  **[001. 中式科幻, 中式美学]{g}**
+    - [科技修仙，空间站 | 001](https://v.douyin.com/ZKSghYXVZm0/)
+    - [每当我仰望星空时，便会想起你 | 010](https://v.douyin.com/7g6BZ7ccjtE/)
+    - [若你身在这座空城 | 020](https://v.douyin.com/u7bTrtUmTVw/)
+    - [如果修仙必须忍受这孤独感，你还会选择修仙吗 | 030](https://v.douyin.com/JmuTV5gFuNo/)
+    - [什么样的人，对这种辽阔又孤寂的场景没有抵抗力 | 040](https://v.douyin.com/K0cihv_Obhs/)
+    - [星河滚烫，人间寻常，你还愿意为谁奔赴一场山海 | 050](https://v.douyin.com/yu4RMykRkrM/)
+    - [红桥渡星河，一步入仙阙 | 060](https://v.douyin.com/XO1rGHQVVMY/)
+    - [星空古城 假比所有星球都适合人类居住 | 070](https://v.douyin.com/xwKhPOj0Cow/)
+    - [什么样的人才喜欢这种孤寂氛围 | 078](https://v.douyin.com/skIRj7Fld_U/)
+
+  ---
+  **[002. 古风意境]{g}**
+    - [仙子日常巡山，但她貌似不太高兴 | 001](https://v.douyin.com/ifJG9dM33MA/)
+    - [粉丝要求来一期上山的，感觉还不错 | 010](https://v.douyin.com/af0GsaKpacs/)
+    - [这是一个网友的梦境，不知做得像不像。 | 020](https://v.douyin.com/r220x17SLB4/)
+    - [以天地为画布，筑仙府于虚空。| 029](https://v.douyin.com/NgVSQNrZj-k/)
+
+  ---
+  **[003. 侠女下天山]{g}**
+    - [高处不胜寒，一览众山小 | 001](https://v.douyin.com/kFXYp9iRj-U/)
+    - [看见那颗蓝色的星球了吗 | 010](https://v.douyin.com/sw-oyby-diQ/)
+    - [仙子下山买好吃的去了 | 020](https://v.douyin.com/XgKqbL5TZ0c/)
+    - [有恐高的请谨慎观看 | 022](https://v.douyin.com/iQX8mBLW59c/)
+
+  ---
+  **[004. 天宫合集]{g}**
+    - [仙子观望云海日常 | 001](https://v.douyin.com/41wQssWlVfY/)
+    - [一袭仙裙随风舞，踏云逐梦向天宫 | 009](https://v.douyin.com/M62yzFQBwMs/)
+
+---
 ### 9999. Download
 **[必应]{s}**
 * **[必应 | bing.com](https://cn.bing.com/)**

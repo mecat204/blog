@@ -103,8 +103,16 @@
       * **[在线TXT转M3U格式](http://117.72.68.25:9230/)**
 
 ---
+**[影视]{s}**
+* **[在线影视](https://iui.su/531/)**
+
+---
 **[饭搭子影视 · proxy]{g}**
-* **[饭搭子影视](https://fdzys.com/)**
+  - [fdzys.com](https://fdzys.com/)
+  - [fdzys.net](https://fdzys.net/)
+  - [fdzys666.xyz](https://fdzys666.xyz)
+  - [fff666.site](https://fff666.site)
+  - [fff666.xyz](https://fff666.xyz)
 
 ---
 **[电影侠]{s}**
