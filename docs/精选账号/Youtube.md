@@ -4250,6 +4250,16 @@
 * **[Ben Kaluza - Tutorials & Workflows | 5400位 | YTB](https://www.youtube.com/@BenKaluzaTech)**
   - [How to Turn Storyboards into Consistent Videos using Seedance 2.0](https://www.youtube.com/watch?v=DosWo7GplD4)
 
+---
+### 0040. Aaron - AI-native builder
+**[Aaron - AI-native builder]{s}**
+* **[aron - AI-native builder | 10位 | YTB](https://www.youtube.com/@ai-native-builder/videos)**
+  - [Expensive Tokens Won't Save Enterprise AI](https://www.youtube.com/watch?v=BhwSZpb6ag8)
+
+  ---
+  **[Website]{g}**
+    - [Expensive Tokens Won't Save Enterprise(企业级) AI | Aaron Guo](https://www.aaronguo.com/)
+
 
 ---
 ### 0099. AI - video
