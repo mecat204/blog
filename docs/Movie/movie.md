@@ -150,6 +150,10 @@
 * **[Novipnoad | NO视频为用户提供及时的海外热门剧集在线观看，友好无广告，致力于最轻松的追剧体验。](https://www.novipnoad.net/)**
 
 ---
+**[日漫]{s}**
+* **[omofun](https://omofun.in/vod/type/movie.html)**
+
+---
 ### 0004. 4KVM
 **[4kvm]{s}**
 * [4kvm.site](https://4kvm.site/)

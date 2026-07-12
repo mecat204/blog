@@ -222,10 +222,17 @@
 ### 0007. 2025
 **[周大人]{e}**
 * **[周大人 | 想做什么，就直接做 想成为什么，就直接成为。 | 伍佰章 | Douyin](https://v.douyin.com/rnDt8nF3Spg/)**
+
+  - **[个人网站 · AI协作 · obsidian](https://www.kayayaozhou.com)**
+    * **[xiaoer's 私人弹药库](https://tools.xiaoerai.xyz/)**
+
+  ---
   - [当你开始站在自己的位置上 再去看信息 你就不会被带着走 也不会急着否定一切](https://v.douyin.com/sWZXaKVqSTY/)
   - [呀！今天看到生财亦仁发的「赚钱咒语」](https://v.douyin.com/HseKrv2x6SQ/)
   - [找到比你优秀的人，去临摹去拆解，找到那个最简单朴素的模式，看看可以给你带来什么样的帮助](https://v.douyin.com/GOQ1LZjXaec/)
   - [人一旦自我定义，就开始自我限制](https://v.douyin.com/eEQpsIu881E/)
+  - [知识库不要等，做了就会长 很多人想建知识库，但总觉得没内容。 我的方法：先搭建，边用边完善。 不要等准备好，先做起来，做了就会长](https://v.douyin.com/gXp2LbO3gFo/)
+
 
 ---
 **[小锤·美食]{e}**

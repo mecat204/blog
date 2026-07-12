@@ -45,10 +45,10 @@
 * [commons.wikimedia](https://commons.wikimedia.org/wiki/%E9%A6%96%E9%A1%B5?uselang=zh-cn)以繁体字搜索。县志等资料
 
 ---
-* **[zh.z-library | proxy | 官网](https://zh.z-library.sk/)**
-
----
-* **[zz-library | proxy](https://zh.z-library.sk/)**
+**[z-library]{s}**
+  - [zh.z-library | proxy | 官网](https://zh.z-library.sk/)
+  - [备用 | 官网](https://zlib.bz/)
+  - [zz-library | proxy](https://zh.z-library.sk/)
 
 ---
 * **[孔夫子旧书网](https://www.kongfz.com/)**
