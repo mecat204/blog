@@ -148,8 +148,8 @@
 * **[英语喵Bella | 英语学习UP主，专注听力口语口译~ | 20.4万](https://space.bilibili.com/86635269?spm_id_from=333.788.upinfo.detail.click)**
 
 ---
-**[YTB口语精选]{s}**
-* **[YouTube口语精选 | 577.9万](https://space.bilibili.com/454755309)**
+**[YouTube口语精选]{s}**
+* **[YouTube口语精选 | 580.4万](https://space.bilibili.com/454755309)**
 
 ---
 **[英语百科]{s}**
@@ -176,19 +176,19 @@
 
 ---
 **[清北学习社区]{s}**
-* **[清北学习社区 | 更新全网最硬核的学习课程 | 4.6万 | B站](https://space.bilibili.com/3546856908917049?spm_id_from=333.788.upinfo.detail.click)**
+* **[清北学习社区 | 更新全网最硬核的学习课程 | 4.7万 | B站](https://space.bilibili.com/3546856908917049?spm_id_from=333.788.upinfo.detail.click)**
 
 ---
 **[大海英语看世界]{s}**
-* **[大海英语看世界 | 跟随大海英语频道，畅游英语的浩瀚海洋。以英语为翼，飞向更广阔的世界，领略不同文化的魅力。面朝大海，春暖花开, 开启属于你的无限可能](https://space.bilibili.com/1476827523?spm_id_from=333.788.upinfo.head.click)**
+* **[大海英语看世界 | 跟随大海英语频道，畅游英语的浩瀚海洋。以英语为翼，飞向更广阔的世界，领略不同文化的魅力。面朝大海，春暖花开, 开启属于你的无限可能 | 49.8万](https://space.bilibili.com/1476827523?spm_id_from=333.788.upinfo.head.click)**
 
 ---
 **[i英语corner]{s}**
-* **[i英语corner | 量大管饱，关注我一起学英语！| 10.2万](https://space.bilibili.com/389152360?spm_id_from=333.788.upinfo.detail.click)**
+* **[i英语corner | 量大管饱，关注我一起学英语！| 10.3万](https://space.bilibili.com/389152360?spm_id_from=333.788.upinfo.detail.click)**
 
 ---
 **[YouTube英语听说]{s}**
-* **[YouTube英语听说 | 大学前/专升本/四六级/考研/雅思/托福 | 67.5万 | B站](https://space.bilibili.com/183751118?spm_id_from=333.788.upinfo.head.click)**
+* **[YouTube英语听说 | 大学前/专升本/四六级/考研/雅思/托福 | 68.6万 | B站](https://space.bilibili.com/183751118?spm_id_from=333.788.upinfo.head.click)**
 
 ---
 **[YouTube财富译见]{s}**
@@ -200,10 +200,11 @@
 
 ---
 **[思维漫游馆]{s}**
-* **[思维漫游馆 | 所有视频都有中英文稿，在主页置顶动态 | 1.6万](https://space.bilibili.com/3546654221273630?spm_id_from=333.788.upinfo.head.click)**
+* **[思维漫游馆 | 所有视频都有中英文稿，在主页置顶动态 | 2.4万](https://space.bilibili.com/3546654221273630?spm_id_from=333.788.upinfo.head.click)**
 
+---
 **[头号个体]{s}**
-* **[头号个体 | 关注大脑与思考、AI与科技，助力超级个体成长。甄选富有长期价值的视频，提供中文配音，方便您反复收听、收看。| 8094](https://space.bilibili.com/3546983010666913)**
+* **[头号个体 | 关注大脑与思考、AI与科技，助力超级个体成长。甄选富有长期价值的视频，提供中文配音，方便您反复收听、收看。| 2.5万](https://space.bilibili.com/3546983010666913)**
   - [黄仁勋：英伟达的竞争优势能持续下去吗](https://www.bilibili.com/video/BV1F9dRBcE5K/?spm_id_from=333.337.search-card.all.click)
   - [英配](https://www.bilibili.com/video/BV1F9dRBcE5K?spm_id_from=333.788.videopod.sections&p=2)
 
@@ -247,6 +248,10 @@
 ---
 **[黯殇As_ · GenshinImpact]{s}**
 * **[黯殇As_ | 5.2万 | B站](https://space.bilibili.com/98717318?spm_id_from=333.788.upinfo.detail.click)** | 5.2万 | B站](https://space.bilibili.com/98717318?spm_id_from=333.788.upinfo.detail.click)**
+
+---
+**[全球播客频道]{s}**
+* **[全球播客频道 | 汇集全球顶尖博客频道, 吸收顶尖大脑智慧 | B站 | 9868](https://space.bilibili.com/3690984718207817?spm_id_from=333.788.upinfo.detail.click)**
 
 ---
 ### 0003. studytee | B站

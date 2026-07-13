@@ -4262,6 +4262,12 @@
   **[Website]{g}**
     - [Expensive Tokens Won't Save Enterprise(企业级) AI | Aaron Guo](https://www.aaronguo.com/)
 
+---
+### 0041. Silicon Valley Girl
+**[Silicon Valley Girl]{e}**
+* **[Silicon Valley Girl | 155万 | YTB](https://www.youtube.com/@SiliconValleyGirl/videos)**
+  - [Godmother of AI: In 10 Years There Will Be Only 2 Kinds of Workers | Fei-Fei Li](https://www.youtube.com/watch?v=subu-xHrp1w)
+  - [李飞飞对话MasterClass创始人：AI时代最大的秘密 | B站](https://www.bilibili.com/video/BV1ZUMi69E9T/?spm_id_from=333.337.search-card.all.click)
 
 ---
 ### 0099. AI - video
