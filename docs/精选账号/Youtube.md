@@ -262,8 +262,9 @@
   * **[English Fluency Journey | Hanna Khoma](https://www.englishfluencyjourney.com/)**
 
 ---
-**[瑞典]{s}**
+**[Jonna Jinton·瑞典]{e}**
 * **[Jonna Jinton | 526万 | 瑞典 | YTB](https://www.youtube.com/@jonnajinton)**
+
   - [En: My name is Jonna Jinton, I'm a Swedish artist, musician and filmmaker and I live in the beautiful woods in the North of Sweden.]{s}
   - [Cn: 我叫Jonna Jinton，是一名瑞典艺术家、音乐家和电影制作人，住在瑞典北部美丽的森林里。]{g}
 
@@ -284,7 +285,7 @@
   - [Cn: 希望你会喜欢我的视频！♥]{g}
 
   ---
-  - **[Living with the Dark Winters in Sweden |Midnight sun & Polar night | 与瑞典的黑暗冬天共存 |午夜太阳与极夜](https://www.youtube.com/watch?v=3zTR4ayDG38)**
+  - **[Living with the Dark Winters in Sweden |Midnight sun & Polar night | 与瑞典的黑暗冬天共存 | 午夜太阳与极夜](https://www.youtube.com/watch?v=3zTR4ayDG38)**
   - **[Winter Days in the North | Working Through the Darkest Time of the Year | 北方冬日 | 度过一年中 最黑暗的时刻](https://www.youtube.com/watch?v=j3iFHM3dcBI)**
 
 ---
@@ -296,14 +297,15 @@
 
 ---
 **[KevinFeng 冯凯文]{s}**
-* **[KevinFeng 冯凯文 | 10.3万 | YTB](https://www.youtube.com/@IAmKevinFeng)**
+* **[KevinFeng 冯凯文 | 11.1万 | YTB](https://www.youtube.com/@IAmKevinFeng)**
   - [1个习惯带你直接听懂英文，让你英文听力像母语一样强](https://www.youtube.com/watch?v=t-kOwCmtcmA)
   - [用YTB足不出户从0自学流利英文！20+个难度分级自学频道推荐！｜GDS 007](https://www.youtube.com/watch?v=0UY0bbE5I1w)
   - [2本能让你逆袭人生的英文书，只要高中水平就能读懂！](https://www.youtube.com/watch?v=L2B1NhxfvIw)
 
 ---
-**[PRIMAL EARTH]{s}**
+**[PRIMAL EARTH · 4K]{s}**
 * **[PRIMAL EARTH | 14.5万 |YTB | 4K](https://www.youtube.com/@primalearth8951)**
+
   - [En: Our mother planet "Earth" and the vibrancy of life on it.]{s}
   - [Cn: 我们的母星"地球"以及它上生命的生机勃勃。]{g}
 
@@ -319,8 +321,9 @@
   - **[National Parks of the World Amazing Views 4K](https://www.youtube.com/watch?v=cfbrsPKm_5k)**
 
 ---
-**[4k Films by Adnan]{p}**
+**[4k Films by Adnan]{s}**
 * **[4k Films by Adnan | 15.6万 | YTB](https://www.youtube.com/@4kfilmsbyadnan)**
+
   - [En: Hi, I’m Adnan of the 4k Films by Adnan channel.]{s}
   - [Cn: 你好，我是Adnan频道4k Films的Adnan。]{g}
 
@@ -354,8 +357,9 @@
   - **[Patagonia in 4K - Incredible Scenes & Uncovering Hidden Gems](https://www.youtube.com/watch?v=z8Gw2p2vRr0)**
 
 ---
-**[4K Relaxation Channel]{p}**
+**[4K Relaxation Channel]{s}**
 * **[4K Relaxation Channel | 105万 | YTB | 4K](https://www.youtube.com/@RelaxationChannel)**
+
   - [En: 4K Relaxation Channel in sensational 4K and 8K resolution features spectacular nature videos perfect for deep relaxation, meditation, study, sleep, healing, stress relief and more in the industry-leading, detail-oriented 4K quality that brings nature into your home.]{s}
   - [Cn: 4K放松频道以惊艳的4K和8K分辨率呈现壮观的自然视频，适合深度放松、冥想、学习、睡眠、疗愈、减压等，采用行业领先的细节导向4K画质，将大自然带入你的家中。]{g}
 
@@ -399,6 +403,7 @@
 ---
 **[Scenic Relaxation]{s}**
 * **[Scenic Relaxation | 166万 |  YTB | 4K](https://www.youtube.com/@ScenicRelaxationFilms)**
+
   - [En: The goal at Scenic Relaxation is to provide relaxing 4K films of the world's most incredible destinations.]{s}
   - [Cn: Scenic Relaxation的目标是提供世界上最不可思议目的地的放松4K影片。]{g}
 
@@ -475,12 +480,14 @@
 ---
 **[Lana Blakely]{e}**
 * **[Lana Blakely | 165万 | YTB](https://www.youtube.com/@LanaBlakely/videos)**
+
   - [En: books, solo trips, vintage finds and thinking aloud]{s}
   - [Cn: 书籍、独自旅行、复古发现和随声思考]{g}
 
 ---
 **[Learn English with Jessica]{s}**
 * **[Learn English with Jessica | 281万 | 动画 | YTB](https://www.youtube.com/channel/UCXtMjo8xJqjEhS4A9KUY8GA)**
+
   - [En: Learn English with Jessica is a FREE Channel for English learners.]{s}
   - [Cn: "与杰西卡一起学习英语"是一个免费的英语学习频道。]{g}
 
@@ -490,17 +497,17 @@
 
   ---
   - [En: In particular, you will learn:]{s}
-    * [En: Listening and Speaking Skills]{s}
-    * [En: Vocabulary]{s}
-    * [En: Tips]{s}
-    * [En: Grammar]{s}
+  - [En: Listening and Speaking Skills]{s}
+  - [En: Vocabulary]{s}
+  - [En: Tips]{s}
+  - [En: Grammar]{s}
   - [En: We will upload new videos at 4:30 AM every Monday, Tuesday, Wednesday and Friday.]{s}
 
   - [Cn: 特别是，您将学习：]{g}
-    * [Cn: 听力与口语技能]{g}
-    * [Cn: 词 汇]{g}
-    * [Cn: 技巧]{g}
-    * [Cn: 语法]{g}
+  - [Cn: 听力与口语技能]{g}
+  - [Cn: 词 汇]{g}
+  - [Cn: 技巧]{g}
+  - [Cn: 语法]{g}
   - [Cn: 我们将在每周一、二、三、五凌晨4：30上传新视频。]{g}
 
   ---
@@ -517,6 +524,7 @@
 ---
 **[BBC Earth]{s}**
 * **[BBC Earth | 1420万 | YTB](https://www.youtube.com/@bbcearth)**
+
   - [En: Bringing you face-to-face with heart-pounding action, mind-blowing ideas and the sheer wonder of being part of this amazing planet we call home.]{s}
   - [Cn: 带你面对令人心跳加速的动作、令人震撼的创意，以及成为这个我们称之为家的奇妙星球一部分的纯粹惊奇。]{g}
 
@@ -548,13 +556,14 @@
   - **[1 Hour of Magnificent Moments Narrated by Sir David Attenborough | BBC Earth | 1小时的壮丽时刻 由大卫·阿滕伯勒爵士旁白 |BBC地球](https://www.youtube.com/watch?v=Vd7iuPV_AF0)**
 
 ---
-**[BBC英语纪录频道]{p}**
+**[BBC英语纪录频道]{s}**
 * **[BBC英语纪录频道 | BBC英语官方记录片 | 百章 | Douyin](https://v.douyin.com/Kg7WEHuZnzo/)**
   - [神奇的植物 GREEN PLANET 1](https://v.douyin.com/AyWrh_p2L2U/)
 
 ---
-**[SciShow Kids]{p}**
+**[SciShow Kids]{s}**
 * **[SciShow Kids | 157万 | YTB](https://www.youtube.com/@SciShowKids/videos)**
+
   - [En: From the team behind the YouTube series SciShow comes SciShow Kids!]{s}
   - [Cn: 由YouTube系列《SciShow》团队打造，推出了《SciShow Kids》！]{g}
 
@@ -611,15 +620,16 @@
   - [How to Speak English Fluently？ Do you want to speak English fluently? Do you feel nervous when you try to speak? In this video, we will help you! We will teach you step by step, in very easy English. You will learn how to speak clearly, how to practice every day, and how to stop being afraid.]{g}
 
 ---
-**[Links TV]{p}**
+**[Links TV]{s}**
 * **[Links TV  | 76.8万 | YTB](https://www.youtube.com/@linksphotograph)**
   - **[大西洋上只有300人的孤岛，却藏着地球最震撼的火山奇观松下！亚速尔群岛｜松下S1R2 ｜Linksphotograph](https://www.youtube.com/watch?v=1kCOblyiuxY)**
 
 * **[Linksphotograph | Bilibili](https://space.bilibili.com/3816626)**
 
 ---
-**[Tourist Walk Tours]{p}**
-* **[Tourist Walk Tours | 44.2万 | YTB](https://www.youtube.com/@TouristWalkTours)**
+**[Tourist Walk Tours]{s}**
+* **[Tourist Walk Tours | 52.5万 | YTB](https://www.youtube.com/@TouristWalkTours)**
+
   - [En: Welcome to Tourist Walk Tours — your passport to adventure!]{s}
   - [Cn: 欢迎来到旅游徒步游——你的冒险通行证！]{g}
 
@@ -692,7 +702,7 @@
   - **[**瑞士**的天堂：瑞士乡村美丽村庄的雨天](https://www.youtube.com/watch?v=-kenx1rQyZo)**
 
 ---
-**[SoulEase Space | Music]{p}**
+**[SoulEase Space | Music]{s}**
 * **[SoulEase Space | 音乐 | YTB](https://www.youtube.com/@SoulEase_Space)**
   - [En: Welcome to SoulEase Space—a serene place to unwind, soothe your soul, and find harmony. 🎹🌿]{s}
   - [Cn: 欢迎来到SoulEase空间——一个宁静的地方，让你放松身心，抚慰心灵，找到和谐。🎹🌿]{g}
@@ -733,7 +743,7 @@
   - [How to become fluent in any language | 英语母语者也要背单词吗](https://www.youtube.com/watch?v=Qfnly99n1bY)
 
 ---
-**[Michelle Khare]{p}**
+**[Michelle Khare]{s}**
 * **[Michelle Khare | YouTube 的冒险家 | 534万 | 中阶 | YTB](https://www.youtube.com/@MichelleKhare)**
   - [En: YouTube's Daredevil 😈 For business Inquiries: michellekhare+business@gmail.com Challenge Accepted follows Michelle Khare as she attempts the world's most difficult lifestyles, stunts, and professions.]{s}
   - [Cn: YouTube的《商业咨询夜魔😈侠 ： michellekhare+business@gmail.com 挑战接受》跟随米歇尔·卡尔尝试世界上最艰难的生活方式、特技和职业。]{g}
@@ -747,7 +757,7 @@
   - [Cn: Streamy获奖者 - 最佳无剧本剧集 - 挑战 接受 2022年 Streamy提名 - 年度节目 2019 短片提名 - 年度创作者 代表： Gersh - Keith Bielory 宣传： imPRint - Emily Rennert， Lauren Denker 演讲 嘉宾： Lavin - Charles Yao]{g}
 
 ---
-**[Max Amini]{p}**
+**[Max Amini]{s}**
 * **[Max Amini | 了解即将举行的活动和演出 | 高阶 | 396万 | YTB](https://www.youtube.com/@MaxAmini)**
   - [En: 𝐓𝐈𝐂𝐊𝐄𝐓𝐒 𝐎𝐍 𝐒𝐀𝐋𝐄 𝐍𝐎𝐖!]{s}
   - [Cn: 门票现已开售！]{g}
@@ -1280,9 +1290,10 @@
 * **[Volka English | 0基础 | 初阶 | 内容风格非常一致，画质很好 | 96.9万 | YTB](https://www.youtube.com/@VolkaEnglish)**
 
 ---
-### 0005. 播客资源
+### 0005. Podcast 播客
 **[Coffee Break English]{s}**
 * **[Coffee Break English  | 21.5万 | YTB](https://www.youtube.com/@coffeebreakenglish)**
+
   - [En: Welcome to the Coffee Break English YouTube channel - start learning English on your coffee break!]{s}
   - [Cn: 欢迎来到Coffee Break English频道——在你的咖啡休息时间开始学习英语吧！]{g}
 
@@ -1302,8 +1313,10 @@
   - [En: If you want to learn more about the courses that we offer, head over to: https://coffeebreaklanguages.com/english/ Follow us on social media!]{s}
   - [Cn: 如果您想了解更多我们提供的课程，请访问：https://coffeebreaklanguages.com/english/ 关注我们的社交媒体！]{g}
 
+  - [When to use 'do' and 'make' | The Coffee Break English Show 1.01](https://www.youtube.com/watch?v=55KmBR1hv4A)
+
 ---
-**[Coffee Break English]{p}**
+**[Coffee Break English · website]{s}**
 * **[Coffee Break English | 每集大约15分钟，为初学者和中级英语学习者设计](https://coffeebreaklanguages.com/english/)**
   - [How to use 'get' in English](https://www.youtube.com/watch?v=1zw2pTZ9U_I&t=41s)
 
