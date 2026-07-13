@@ -254,12 +254,18 @@
 * **[全球播客频道 | 汇集全球顶尖博客频道, 吸收顶尖大脑智慧 | B站 | 9868](https://space.bilibili.com/3690984718207817?spm_id_from=333.788.upinfo.detail.click)**
 
 ---
+**[悠悠炽盛Epic_Dreams]{s}**
+* **[悠悠炽盛Epic_Dreams | 4.3万 | B站](https://space.bilibili.com/1733418/lists/1027977?type=season)**
+  - [ASMR未来科技感氛围 | 001-202合集](https://www.bilibili.com/video/BV16K411r7L6/?spm_id_from=333.1387.0.0)
+
+---
 ### 0003. studytee | B站
 **[studytee]{s}**
 * **[XRay-猎豹 | 只有一次的人生，当然要好好过 | 2.7万 | B站](https://space.bilibili.com/408296955?spm_id_from=333.788.upinfo.detail.click)**
   - **[我是如何做笔记的 | 看挪威的大一女生如何做整洁高效的笔记](https://www.bilibili.com/video/BV1vb411W778/?spm_id_from=333.1387.search.video_card.click)**
 
 ---
+**[studytee]{e}**
 * **[studytee | 117万 | YTB](https://www.youtube.com/@studytee/videos)**
   - **[我是如何做笔记的 | 看挪威的大一女生如何做整洁高效的笔记 ](https://www.youtube.com/channel/UCc1QflC90Nkf_SDBZwJScDQ)**
 
