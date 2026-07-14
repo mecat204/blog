@@ -4358,6 +4358,11 @@
   - [Remembering Dr. Jane Goodall | The Tonight Show Starring Jimmy Fallon](https://www.youtube.com/watch?v=nFO0-xu71Dw)
 
 ---
+**[dreamlion]{s}**
+* **[dreamlion | 4340位 | B站](https://www.youtube.com/@dreamlion1/videos)**
+  - [JANE GOODALL'S LAST INTERVIEW Recorded on 9/23/25](https://www.youtube.com/watch?v=4oshFOK9-sk)
+
+---
 ### 9999. Download
 **[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**
