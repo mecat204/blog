@@ -262,6 +262,22 @@
 **[Kiss半醉扮醒]{s}**
 * **[Kiss半醉扮醒 | 要字幕的可以叫我上传 要精校字幕的可以加群拿字幕文件自助锻炼一下英语 | 7139](https://space.bilibili.com/6415155?spm_id_from=333.788.upinfo.detail.click)**
   - [Natalie Portman Teaches Acting](https://www.bilibili.com/video/BV1US4y1W7Vr?spm_id_from=333.788.videopod.episodes)
+  - [Dr. Jane Goodall Teaches Conservation](https://www.bilibili.com/video/BV16S4y1v7Cm/?spm_id_from=333.337.search-card.all.click)
+
+---
+**[我是全球焦点]{s}**
+* **[我是全球焦点 | 37.6万 | B站](https://space.bilibili.com/72647293?spm_id_from=333.788.upinfo.detail.click)**
+  - [珍·古道尔临终遗言 Famous Last Words: Dr.Jane Goodall](https://www.bilibili.com/video/BV1ZfxkzAEtf/?spm_id_from=333.337.search-card.all.click)
+
+---
+**[aaasssddd9]{s}**
+* **[aaasssddd9 | 你好 | 2万 | B站](https://space.bilibili.com/20896825?spm_id_from=333.788.upinfo.detail.click)**
+  - [大师班 珍·古道尔](https://www.bilibili.com/video/BV11W411x7Yc/?spm_id_from=333.788.recommend_more_video.1&trackid=web_related_0.router-related-2589621-kz84p.1784053167788.124)
+
+---
+**[拾光视界]{s}**
+* **[拾光视界 | 资源来源于公共网络整理仅用于分享学习 | 6.1万 | B站](https://space.bilibili.com/328192011?spm_id_from=333.788.upinfo.head.click)**
+  - [Jane Goodall 对话](https://www.bilibili.com/video/BV1PC4y1p7jD/?spm_id_from=333.337.search-card.all.click)
 
 ---
 ### 0003. studytee | B站
@@ -926,6 +942,28 @@
 **[Thejonathan]{s}**
 * **[黯殇As_ | 5.2万 | B站](https://space.bilibili.com/98717318?spm_id_from=333.788.upinfo.detail.click)**
   - [Thejonathan | Genshin](https://www.bilibili.com/video/BV1hLTj6QEf8/?spm_id_from=333.1387.collection.video_card.click)
+
+---
+### 0079. Dr. Jane Goodall 珍·古道尔
+**[Kiss半醉扮醒]{s}**
+* **[Kiss半醉扮醒 | 要字幕的可以叫我上传 要精校字幕的可以加群拿字幕文件自助锻炼一下英语 | 7139](https://space.bilibili.com/6415155?spm_id_from=333.788.upinfo.detail.click)**
+  - [Natalie Portman Teaches Acting](https://www.bilibili.com/video/BV1US4y1W7Vr?spm_id_from=333.788.videopod.episodes)
+  - [Dr. Jane Goodall Teaches Conservation](https://www.bilibili.com/video/BV16S4y1v7Cm/?spm_id_from=333.337.search-card.all.click)
+
+---
+**[我是全球焦点]{s}**
+* **[我是全球焦点 | 37.6万 | B站](https://space.bilibili.com/72647293?spm_id_from=333.788.upinfo.detail.click)**
+  - [珍·古道尔临终遗言 Famous Last Words: Dr.Jane Goodall](https://www.bilibili.com/video/BV1ZfxkzAEtf/?spm_id_from=333.337.search-card.all.click)
+
+---
+**[aaasssddd9]{s}**
+* **[aaasssddd9 | 你好 | 2万 | B站](https://space.bilibili.com/20896825?spm_id_from=333.788.upinfo.detail.click)**
+  - [大师班 珍·古道尔](https://www.bilibili.com/video/BV11W411x7Yc/?spm_id_from=333.788.recommend_more_video.1&trackid=web_related_0.router-related-2589621-kz84p.1784053167788.124)
+
+---
+**[拾光视界]{s}**
+* **[拾光视界 | 资源来源于公共网络整理仅用于分享学习 | 6.1万 | B站](https://space.bilibili.com/328192011?spm_id_from=333.788.upinfo.head.click)**
+  - [Jane Goodall 对话](https://www.bilibili.com/video/BV1PC4y1p7jD/?spm_id_from=333.337.search-card.all.click)
 
 ---
 ### 9999. 开源项目
