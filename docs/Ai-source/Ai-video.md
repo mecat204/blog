@@ -193,12 +193,24 @@
 * **[热情的河北人](https://v.douyin.com/oeodoObvjFU/)**
 
 ---
-* **[第九朵云 | 学做ai 视频中 | 十章 | Douyin](https://v.douyin.com/GIvXMGGDw1A/)**
-  - **[物皆有灵：十二星座的中式浪漫 | 狮子座·曜日皇女](https://v.douyin.com/_3jB5AeB_08/)**
+**[第九云朵]{s}**
+* **[第九朵云 | 学做ai 视频中 | 贰佰章 | Douyin](https://v.douyin.com/GIvXMGGDw1A/)**
+  - [物皆有灵：十二星座的中式浪漫 | 狮子座·曜日皇女](https://v.douyin.com/_3jB5AeB_08/)
+  - [有些相遇， 要跨越山海与轮回。](https://v.douyin.com/VJcCF_SyJNA/)
+  - [竹影渡星河，纵是虚拟亦有情深](https://v.douyin.com/rwsha7XR2as/)
+  - [如果天宫真的存在，它会俯视整个宇宙 | Game: HappyOyster](https://v.douyin.com/hpkqJHGIAzA/)
 
+  ---
+  **[001. 青野云阙集]{g}**
+    - [仙阙孤傲，流云轻飘。| 001](https://v.douyin.com/f6aLp_m0yGk/)
+    - [浮生若云，顺流自然。| 003](https://v.douyin.com/6xy7DZaJ_cM/)
+    - [踏碎流光，不问归途。| 005](https://v.douyin.com/Uzysr99Le3g/)
+    - [星河无尽，流云似水。| 006](https://v.douyin.com/1OaFsUXXFAQ/)
+    - [在最空旷的世界里，做最温柔的梦。 | 009](https://v.douyin.com/mNcXDPhYZGs/)
 
 ---
-* **[疯信子 | 用极客的思维分享Ai知识，关注我，工作生活帮你帮你开挂 | 十章 | Douyin](https://v.douyin.com/-U43RaWTfbg/)**
+**[疯信子]{s}**
+* **[疯信子 | 用极客的思维分享Ai知识，关注我，工作生活帮你帮你开挂 | 佰章 | Douyin](https://v.douyin.com/-U43RaWTfbg/)**
   - [Claude code泄漏背后真相 Claude Code真正暴露的，并非Anthropic的根本（护城河），而是顶级Coding Agent的工程实现思路。在Vibe Coding时代，核心竞争力已从单一模型能力，转向"模型+工程+产品"的系统性集成。这是技术人最好的学习方式。下次分享，我会基于我学到的cc这种思维方式，开源一个小型项目。](https://v.douyin.com/r5miHCbCfCQ/)
 
 ---
