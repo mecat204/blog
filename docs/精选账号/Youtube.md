@@ -4346,6 +4346,12 @@
   - [Forever and Always Audrey Hepburn](https://www.youtube.com/watch?v=1HznLo-DVrI)
 
 ---
+### 0300. The Drew Barrymore Show
+**[The Drew Barrymore Show]{s}**
+* **[The Drew Barrymore Show | 147万 | YTB](https://www.youtube.com/@TheDrewBarrymoreShow/videos)**
+  - [Natalie Portman Reveals the Surprising Souvenir She Stole from 'Star Wars' | The Drew Barrymore Show](https://www.youtube.com/watch?v=LP7Dbuj7lT0)
+
+---
 ### 9999. Download
 **[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**

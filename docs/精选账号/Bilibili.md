@@ -259,6 +259,11 @@
   - [ASMR未来科技感氛围 | 001-202合集](https://www.bilibili.com/video/BV16K411r7L6/?spm_id_from=333.1387.0.0)
 
 ---
+**[Kiss半醉扮醒]{s}**
+* **[Kiss半醉扮醒 | 要字幕的可以叫我上传 要精校字幕的可以加群拿字幕文件自助锻炼一下英语 | 7139](https://space.bilibili.com/6415155?spm_id_from=333.788.upinfo.detail.click)**
+  - [Natalie Portman Teaches Acting](https://www.bilibili.com/video/BV1US4y1W7Vr?spm_id_from=333.788.videopod.episodes)
+
+---
 ### 0003. studytee | B站
 **[studytee]{s}**
 * **[XRay-猎豹 | 只有一次的人生，当然要好好过 | 2.7万 | B站](https://space.bilibili.com/408296955?spm_id_from=333.788.upinfo.detail.click)**

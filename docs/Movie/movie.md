@@ -31,6 +31,18 @@
     - [xhztv](http://xhztv.top/xhz)
 
 ---
+**[watch.plex.tv]{s}**
+* **[watch.plex.tv](https://watch.plex.tv/)**
+
+---
+**[benjaminmcevoy]{s}**
+* **[Benjamin McEvoy - Essays on writing, reading, and life](https://benjaminmcevoy.com/)**
+
+---
+**[NataliePortman]{s}**
+* **[NataliePortman](https://www.natalieportman.com/)**
+
+---
 ### 0001. IPTV
 * **[iptv-org](https://iptv-org.github.io/)**
   - [001](https://www.iyouhun.com/tv/fty)
