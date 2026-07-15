@@ -40,6 +40,12 @@
   **[mitbunny]{g}**
      - [mitbunny](https://mitbunny.ai)
 
+  ---
+  **[001. Ai产品测评]{g}**
+    - [Claude Design有点东西 | 001](https://v.douyin.com/e7e5LGPuXow/)
+    - [Typeless智能语音键盘 | 010](https://v.douyin.com/YBRNIiu9p2c/)
+    - [Origin AI智能财务管理 | 013](https://v.douyin.com/Z7uA7mL022s/)
+
 ---
 ### 0003. New York University
 **[New York University]{s}**
