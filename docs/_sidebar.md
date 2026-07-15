@@ -4,9 +4,10 @@
 
 ---
 * **精选账号**
-  - [Douyin](精选账号/Douyin)
   - [Youtube](精选账号/Youtube)
+  - [University](精选账号/University)
   - [Bilibili](精选账号/Bilibili)
+  - [Douyin](精选账号/Douyin)
   - [全域](精选账号/全域)
   - [GPT](精选账号/GPT)
   - [Future](精选账号/Future.md)

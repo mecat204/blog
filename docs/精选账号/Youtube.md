@@ -3968,6 +3968,19 @@
 
 ---
 ### 0029. University
+**[UC Berkeley]{s}**
+* **[UC Berkeley·伯克利大学](https://www.youtube.com/ucberkeley)**
+
+  ---
+  **[伯克利大学]{g}**
+    - [berkeley.edu](https://www.berkeley.edu/)
+
+**[Dahlia达达]{e}**
+* **[Dahlia达达 | UCB本科GPA4.0 | 全奖硕士在读ing | 佰章 | Douyin](https://v.douyin.com/FQnSK7QweDE/)**
+  - [一个词治好哑巴英语](https://v.douyin.com/x4KbWq-ruC8/)
+  - [教美国大学生实录 | 留学](https://v.douyin.com/X1VS37UckpQ/)
+
+---
 **[Massachusetts Institute of Technology (MIT) · 麻省理工学院]{s}**
 * **[MIT | 97.3万 | YTB](https://www.youtube.com/@mit/videos)**
 
