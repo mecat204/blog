@@ -48,9 +48,12 @@
   - [马斯克本人认可推荐，纳瓦尔作序 | 250](https://v.douyin.com/ELadzxXasbA/)
   - [到2030年，有99.9%%的概率超级智能会消灭人类，这是AI安全领域泰斗罗曼·扬波尔斯基最新深度访谈的原话，但是，我却看到了AI时代，三个重要的保命法则 | 280](https://v.douyin.com/v72FI8o1VA0/)
   - [AI大脑被切开后，竟发现类人意识结构 | 287](https://v.douyin.com/gE_r-_K3nW4/)
+  - [治愈癌症 | 288](https://v.douyin.com/MivKpA-TyOI/)
+  - [在刚刚，诺奖得主、基因剪刀之母詹妮弗·杜德纳做了一场深度访谈，把AI到底能不能发明新药，48小时治愈癌症是不是吹牛，基因编辑怎么救活一个罕见病婴儿，中国会不会在生物科技上超过美国，甚至25年内会不会出现基因编辑婴儿，全都说了出来]{g}
 
   ---
-  **[002. website]{g}**
+  **[transformer-circuits]{g}**
+  * **[transformer-circuits.pub](https://transformer-circuits.pub/)**
     - [transformer-circuits](https://transformer-circuits.pub/2026/workspace/index.html)
 
 ---

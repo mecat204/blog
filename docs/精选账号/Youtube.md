@@ -3972,13 +3972,13 @@
 * **[MIT | 97.3万 | YTB](https://www.youtube.com/@mit/videos)**
 
   ---
-  **[website]{g}**
+  **[麻省理工学院]{g}**
     - [web.mit.edu](https://web.mit.edu/)
 
 * **[麻省理工长毛兔 | mitbunny.ai | 分享普通人业余真实学习过程 | 非开发背景学vibe coding 和 研究产品 | 叁佰章 | Douyin](https://v.douyin.com/4llPHG_El8c/)**
 
   ---
-  **[website]{g}**
+  **[mitbunny]{g}**
      - [mitbunny](https://mitbunny.ai)
 
 ---
@@ -3987,7 +3987,7 @@
   - [NYU's 2022 Commencement Speaker Taylor Swift](https://www.youtube.com/watch?v=OBG50aoUwlI)
 
   ---
-  **[website]{g}**
+  **[纽约大学]{g}**
     - [New York University](https://www.nyu.edu/)
 
 ---
@@ -3998,7 +3998,7 @@
   - [瑞思Ruisi](https://v.douyin.com/gN7MH_3RrAs/)
 
   ---
-  **[website]{g}**
+  **[哈弗大学]{g}**
     - [Harvard](https://www.harvard.edu/)
 
 ---
@@ -4006,7 +4006,7 @@
 * **[Stanford | 218万 | YTB](https://www.youtube.com/@stanford/videos)**
   - [Steve Jobs' 2005 Stanford Commencement Address](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
 
-  **[website]{g}**
+  **[斯坦福大学]{g}**
     - [Stanford](https://www.stanford.edu/)
 
 ---
@@ -4015,7 +4015,7 @@
   - [The future of Novels and Generative AI](https://www.youtube.com/watch?v=P3kDEfIYSBU)
 
   ---
-  **[website]{g}**
+  **[剑桥大学]{g}**
     - [cam.ac.uk](https://www.cam.ac.uk/)
 
 * **[Prof.Alan Macfarlane | 二十章 | Douyin](https://v.douyin.com/7DXMG4_o2pk/)**
