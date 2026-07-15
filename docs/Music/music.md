@@ -1,31 +1,31 @@
 ### 0000. MusicCourse
-**[AlgerMusicPlayer]{p}**
+**[AlgerMusicPlayer]{s}**
 * **[AlgerMusicPlayer | music | software](https://github.com/algerkong/AlgerMusicPlayer)**
   - [music.alger.fun](http://music.alger.fun/#/)
   - [donate.alger.fun](https://donate.alger.fun/)
 
 ---
-**[iui.su | music]{p}**
+**[iui.su | music]{s}**
 * **[iui.su/2217](https://iui.su/2217/)**
   - **[全平台音乐搜索](https://music.zyfx6.xyz/)**
   - [music.gdstudio](https://music.gdstudio.org/)
   - [无损音乐下载](https://flac.music.hi.cn/)
 
 ---
-**[Musicca]{p}**
+**[Musicca]{s}**
 * **[Musicca | 在线免费学习乐理（音乐理论）和基础乐器/音乐知识 的平台。](https://musicca.com)**
 
 ---
-**[dlpanda]{p}**
+**[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
-**[桃李醉春风个人制谱园地_中国曲谱网]{p}**
+**[桃李醉春风个人制谱园地_中国曲谱网]{s}**
 * **[桃李醉春风个人制谱园地_中国曲谱网](https://www.qupu123.com/space/6)**
   - [舍得](https://www.qupu123.com/jipu/p294759.html)
 
 ---
-**[音乐魔石]{p}**
+**[音乐魔石]{s}**
 * **[音乐魔石 | 音乐魔石-无损音乐免费下载网站](https://yym4.net)**
 
 ---
@@ -41,7 +41,7 @@
   - **[极度专注模式 | 专注音乐 提高效率 | 深度心流 2026](https://www.youtube.com/watch?v=eo1gKGt6h9M)**
 
 ---
-**[Chill Music Lab]{p}**
+**[Chill Music Lab]{s}**
 * **[Chill Music Lab](https://www.youtube.com/@MusicLabChill)**
 
 ---
@@ -1736,34 +1736,47 @@
     - [《游京》| Min: 03:26 | 060](https://v.douyin.com/_VoKeL0vOo8/)
 
 ---
-### 9999. MusicCourse
-**[AlgerMusicPlayer]{p}**
+### 0034. VitalTree | Music·Movie
+**[VitalTree]{s}**
+* **[VitalTree | 感受每一幕精彩的故事与情感交织🎹 感谢大家的关注🌹 | 叁佰章 | Douyin](https://v.douyin.com/-6Ft94kFwgI/)**
+
+  ---
+  **[001. Music·Movie]{g}**
+    - [那一瞬间 她眼里的光灭了 又再次燃起 | 001](https://v.douyin.com/vdZEIUojQ_M/)
+    - [别让任何事情阻止你追逐梦想 | 002](https://v.douyin.com/cwjecl8sEnE/)
+    - [比起被设计好的完美 带瑕疵的真实才更值得奔赴 | 003](https://v.douyin.com/6865TxI4Zv0/)
+    - [这不是你的错 你值得被这个世界好好对待 | 004](https://v.douyin.com/YPtYiB1Mzu0/)
+    - [比死神先来的是斯嘉丽 | 005](https://v.douyin.com/cJWYRGimaAw/)
+
+---
+### 9999. Music·Course
+**[AlgerMusicPlayer]{s}**
 * **[AlgerMusicPlayer | music | software](https://github.com/algerkong/AlgerMusicPlayer)**
   - [music.alger.fun](http://music.alger.fun/#/)
   - [donate.alger.fun](https://donate.alger.fun/)
 
 ---
-**[iui.su | music]{p}**
+**[iui.su | music]{s}**
 * **[iui.su/2217](https://iui.su/2217/)**
   - **[全平台音乐搜索](https://music.zyfx6.xyz/)**
   - [music.gdstudio](https://music.gdstudio.org/)
   - [无损音乐下载](https://flac.music.hi.cn/)
 
 ---
-**[Musicca]{p}**
+**[Musicca]{s}**
 * **[Musicca | 在线免费学习乐理（音乐理论）和基础乐器/音乐知识 的平台。](https://musicca.com)**
 
 ---
-**[dlpanda]{p}**
+**[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
-**[桃李醉春风个人制谱园地_中国曲谱网]{p}**
+**[桃李醉春风个人制谱园地_中国曲谱网]{s}**
 * **[桃李醉春风个人制谱园地_中国曲谱网](https://www.qupu123.com/space/6)**
   - [舍得](https://www.qupu123.com/jipu/p294759.html)
 
 ---
-**[音乐魔石]{p}**
+**[音乐魔石]{s}**
 * **[音乐魔石 | 音乐魔石-无损音乐免费下载网站](https://yym4.net)**
 
 ---

@@ -3968,11 +3968,27 @@
 
 ---
 ### 0029. University
+**[Massachusetts Institute of Technology (MIT) · 麻省理工学院]{s}**
+* **[MIT | 97.3万 | YTB](https://www.youtube.com/@mit/videos)**
+
+  ---
+  **[website]{g}**
+    - [web.mit.edu](https://web.mit.edu/)
+
+* **[麻省理工长毛兔 | mitbunny.ai | 分享普通人业余真实学习过程 | 非开发背景学vibe coding 和 研究产品 | 叁佰章 | Douyin](https://v.douyin.com/4llPHG_El8c/)**
+
+  ---
+  **[website]{g}**
+     - [mitbunny](https://mitbunny.ai)
+
+---
 **[New York University]{s}**
 * **[New York University | 11.8万 | YTB](https://www.youtube.com/@newyorkuniversity/videos)**
   - [NYU's 2022 Commencement Speaker Taylor Swift](https://www.youtube.com/watch?v=OBG50aoUwlI)
 
-* **[New York University](https://www.nyu.edu/)**
+  ---
+  **[website]{g}**
+    - [New York University](https://www.nyu.edu/)
 
 ---
 **[Harvard Unviersity]{s}**
@@ -3981,19 +3997,26 @@
   - [Harvard Thinking: The secret lives of super-agers](https://www.youtube.com/watch?v=P7-nshMUJms)
   - [瑞思Ruisi](https://v.douyin.com/gN7MH_3RrAs/)
 
-* **[Harvard](https://www.harvard.edu/)**
+  ---
+  **[website]{g}**
+    - [Harvard](https://www.harvard.edu/)
 
 ---
 **[Stanford]{s}**
 * **[Stanford | 218万 | YTB](https://www.youtube.com/@stanford/videos)**
   - [Steve Jobs' 2005 Stanford Commencement Address](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
 
-* **[Stanford](https://www.stanford.edu/)**
+  **[website]{g}**
+    - [Stanford](https://www.stanford.edu/)
 
 ---
 **[Cambridge]{s}**
 * **[Cambridge | 54.5万 | YTB](https://www.youtube.com/@cambridgeuniversity/videos)**
   - [The future of Novels and Generative AI](https://www.youtube.com/watch?v=P3kDEfIYSBU)
+
+  ---
+  **[website]{g}**
+    - [cam.ac.uk](https://www.cam.ac.uk/)
 
 * **[Prof.Alan Macfarlane | 二十章 | Douyin](https://v.douyin.com/7DXMG4_o2pk/)**
 

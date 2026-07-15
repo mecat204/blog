@@ -1,23 +1,23 @@
 ### 0000. Download
-**[dlpanda]{p}**
+**[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
-**[zeuis]{p}**
+**[zeuis]{s}**
 * **[zeuis](https://www.zeuis.com/)**
 
 ---
-**[LINUX DO]{p}**
+**[LINUX DO]{s}**
 * **[LINUX DO](https://linux.do/)**
 
 ---
 ### 0001. Game
-**[宅亿点]{p}**
+**[宅亿点]{s}**
 * **[宅亿点 | 爱宅，也爱美好的世界！ 遇见是缘分，感谢每一个友好的你！ 祝大家好运！| 百章 | Douyin](https://v.douyin.com/8kU4tgScm4w/)**
   - [小宅夜晚 | 一人一猫一世界](https://v.douyin.com/Y86iVrs7ccw/)
 
 ---
-**[ManMan@CC]{p}**
+**[ManMan@CC]{s}**
 * **[ManMan@CC | 千章 | Douyin](https://v.douyin.com/oF1TQmJ_Auk/)**
   - [说出你玩过觉得最好玩的双人游戏……情侣好友双人游戏推荐🥇TOP10……想和谁玩就艾特谁# 适合情侣玩的游戏推荐](https://v.douyin.com/Fs8GLS4gbeQ/)
   - [10款双人游戏｜快@TA和你一起玩 别再让你的switch吃灰了](https://v.douyin.com/Kw7Q_sEFPOw/)
@@ -25,13 +25,13 @@
 
 ---
 ### 0002. Game translate
-**[7788]{p}**
+**[7788]{s}**
 * **[7788 | 二百章 | Douyin](https://v.douyin.com/7eLEjLQxLPc/)**
   - [这英语得学呀 | 实用英语 | 学英语 | 日常英语 | 生活英语 | 趣味英语](https://v.douyin.com/jVZrkl3FobI/)
 
 ---
 ### 0003. 终末地
-**[终末地]{p}**
+**[终末地]{s}**
 * **[础（原神）| 二百章 | Douyin](https://v.douyin.com/eUkUrmECxH4/)**
   - [钟离也挺配江南水乡风景 | 就用这个转场去溜达吧  | 沉玉谷  | 我推的钟离  | 游戏角色同好会](https://v.douyin.com/w7eBgwpQpW0/)
   - [父亲大人红色高跟鞋的魅力 | 仆人  | 原神空月之歌  | 和我一起玩原神吧  | 原神挪德卡莱  | 高跟鞋卡点](https://v.douyin.com/BhwUc6OlUNE/)
@@ -41,7 +41,7 @@
 
 ---
 ### 0004. 水子哥的综合游戏室 | 对马岛之魂
-**[水子哥的综合游戏室]{p}**
+**[水子哥的综合游戏室]{s}**
 * **[水子哥的综合游戏室 | B站游戏攻略UP主 | Steam和主机游戏的游戏攻略 游戏试玩推荐 游戏评测 | 已删](https://v.douyin.com/ZbfyxjbxtuM/)**
   - [**对马岛之魂PC**](https://v.douyin.com/uVMkB_JYvi8/)
   - [**黑神话：悟空**](https://v.douyin.com/jky6KjJ5nz4/)
@@ -53,7 +53,7 @@
 
 ---
 ### 0005. Tiny Glade | 林间小世界
-**[Tiny Glade | 林间小世界]{p}**
+**[Tiny Glade | 林间小世界]{s}**
 * **[Z汐汐 | 你的治愈系伙伴～ 希望你能在这里感到轻松和快乐🎊 祝你们天天开心 | 感谢抖音平台 | 百章 | Douyin](https://v.douyin.com/lAzrBz9r3js/)**
   - [**Game: TinyGlade** | 房体搭建 | steam游戏 | 单机游戏 | 教学 | 林间小世界 | 治愈系风景](https://v.douyin.com/ypaonJYDN2s/)
   - [永恒的守护 | TinyGlade | 搭建游戏](https://v.douyin.com/-Fm7r7YmNyQ/)
@@ -64,7 +64,7 @@
 
 ---
 ### 0006. SunShine | 自建云游戏串流
-**[SunShine | 自建云游戏串流]{p}**
+**[SunShine | 自建云游戏串流]{s}**
 * **[SunShine](https://app.lizardbyte.dev/Sunshine/?lng=en#Download)**
 
 ---
@@ -78,7 +78,7 @@
 
 ---
 ### 0007. DIY电脑
-**[iFeng]{p}**
+**[iFeng]{s}**
 * **[iFeng | 🖥桌面布置分享 📱数码好物推荐 | 贰佰章](https://v.douyin.com/nYWO5jcqxE4/)**
   - [论质感，还得是无光黑武士⚫️！一直在找一台颜值和兼容性都拉满的机箱。这次用酷冷至尊MF400 Mesh Black装了一台纯黑武士，真的被帅到了！磨砂黑铝合金外框+圆角切割，放在桌面上精致的像摆件！硬朗线条自带机甲气场，六角形Mesh前板颜值拉满，低调又高级。 - 这次特意上了华硕影袭者背插主板，搭配MF400原生背插支持，正面几乎看不到线材，强迫症狂喜。TRYX风屿620双塔风冷压13600kf轻松，和公版4070搭配起来线条硬朗，全黑配色浑然一体。电源用的是酷冷V SFX Gold 850W，ATX3.1标准，塞进去还有余量，后期升级也留够了空间。 - 这机箱最亮眼的地方在于结构可以自己定义——电源能侧置、前置、甚至吊装，机箱可以立着当塔式，也能横着躺平。我选了电源前置加侧透对着桌面，视觉上更紧凑。官方配件现在也配足了金属杆，装机自由度拉满](https://v.douyin.com/-58s_MNWjVA/)
   - [装机清单🧾： 🏷 机箱丨酷冷至尊MF400 Mesh Black 🏷 主板丨华硕影袭者TUF GAMING B760-BTF WiFi 🏷 CPU丨英特尔i5-13600kf 🏷 风冷丨TRYX 创氪星系Turris风屿620 🏷 GPU丨英伟达RTX4070公版 🏷 SSD丨SOLIDIGM P44 Pro 2TB 🏷 内存条丨威刚 16G×2 DDR5 6000 C36 🏷 电源丨酷冷至尊V SFX Gold 850 ATX3.1 🏷 风扇丨联力积木1代V2 # 酷冷至尊 # DIY装机]{s}
@@ -92,7 +92,7 @@
 
 ---
 ### 0008. Large World Model | LWM, 大世界模型
-**[Large World Model | LWM, 大世界模型]{p}**
+**[Large World Model | LWM, 大世界模型]{s}**
 * **[worldlabs.ai](https://www.worldlabs.ai/?utm_source=chatgpt.com)**
 
 ---
@@ -127,7 +127,7 @@
 
 ---
 ### 0009. Whispers From The Star
-**[《Whispers From The Star》是一款以人工智能交互叙事为核心的独立电子游戏，融合了文字冒险与科幻悬疑元素。玩家通过与人工智能系统的实时对话共同塑造故事，体验一个关于意识、孤独与未知宇宙的多结局剧情。]{p}**
+**[《Whispers From The Star》是一款以人工智能交互叙事为核心的独立电子游戏，融合了文字冒险与科幻悬疑元素。玩家通过与人工智能系统的实时对话共同塑造故事，体验一个关于意识、孤独与未知宇宙的多结局剧情。]{s}**
 * **[anuttacon](https://www.anuttacon.com/)**
 
 ---
@@ -157,26 +157,26 @@
 
 ---
 ### 0013. Wombat Brawler | Wild n Chill
-**[Wabat Brwaler]{p}**
+**[Wabat Brwaler]{s}**
 * **[Wombat Brawler](https://www.youtube.com/@WombatBrawler/videos)**
   - [Wild n Chill - First Look Gameplay Trailer](https://www.youtube.com/watch?v=qEcpW2GPOvA)
 
 ---
-### 0014. 油管推广广告
+### 0100. 油管推广广告
 **[Foundation: Galactic Frontier]{s}**
 * **[Foundation: Galactic Frontier](https://www.foundation.game/en)**
 
 ---
 ### 9999. Download
-**[dlpanda]{p}**
+**[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
-**[zeuis]{p}**
+**[zeuis]{s}**
 * **[zeuis](https://www.zeuis.com/)**
 
 ---
-**[LINUX DO]{p}**
+**[LINUX DO]{s}**
 * **[LINUX DO](https://linux.do/)**
 
 ---

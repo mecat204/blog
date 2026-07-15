@@ -1,5 +1,5 @@
 ### 0000. Download
-**[dlpanda]{p}**
+**[dlpanda]{s}**
 * **[Download TikTok Videos Without Watermark | Free HD Video &amp; Photo Downloader - DLPanda.com](https://www.dlpanda.com/)**
 
 ---
@@ -13,7 +13,7 @@
 
 ---
 ### 0001. 精选频道
-**[2020年前后Douyin]{p}**
+**[2020年前后Douyin]{s}**
 * **[之前整理 | 2020年前后Douyin](https://mecat204.github.io/douyin/content/people/index.html)**
 
 ---
@@ -77,7 +77,7 @@
   - [我的感悟: 你要在别人吃饭的时候摆，就是说，摆摊的地点与时间要选好。我们曾经去卖西瓜，拉到村子里卖，基本上卖不动，后来我们拉到了砖窑厂，大夏天，原本在村里里卖不动的西瓜，厂子的工人一扫而光。即使是未熟西瓜，也被扫光了。这大概是二十年前的事情，是和表哥卖的。他家种的西瓜，我当时放暑假。没事做，就和他一起去卖西瓜。]{g}
 
 ---
-**[威廉君]{p}**
+**[威廉君]{s}**
 * **[威廉君 | 百章 | Douyin](https://v.douyin.com/_rkMKSjEYts/)**
   - **[AIGC生成虚拟形象｜绫波丽2K壁纸](https://v.douyin.com/nTTps7_jq8E/)**
 
@@ -140,7 +140,7 @@
   - [日常吐槽](https://v.douyin.com/VHkyVNrc6Ew/)
 
 ---
-**[小李胖了吗]{p}**
+**[小李胖了吗]{s}**
 * **[小李胖了吗 |  千章 | Douyin](https://v.douyin.com/wsZm48_8Bn8/)**
   - [俯仰流年二十春](https://v.douyin.com/1RhOPR-C_-Y/)
   - [心向自由致遠方](https://v.douyin.com/-pMTPhsdcJc/)
@@ -154,7 +154,7 @@
   - **[这是不是你想象中，自由的样子？| 小美真会玩](https://v.douyin.com/a6sfhXm8Tfs/)**
 
 ---
-**[是阿君呀⁰⁶²⁰]{p}**
+**[是阿君呀⁰⁶²⁰]{s}**
 * **[是阿君呀⁰⁶²⁰ | 贰佰章 | Douyin](https://v.douyin.com/Nymoib4fmlI/)**
   - [对口型飙演技 | 搞笑](https://v.douyin.com/JOK-1mCALpo/)
   - [A股来的](https://v.douyin.com/dh-Y0sybR2Y/)
@@ -164,13 +164,13 @@
 
 ---
 ### 0007. 2023
-**[清植酱]{p}**
+**[清植酱]{s}**
 * **[清植酱 | 百章 | Douyin](https://v.douyin.com/0sW4WCGSeQY/)**
   - [一朝入元婴，逼格直攀升！猫鼠身份转换，韩天尊压迫力拉满！](https://v.douyin.com/ft_f9dTYvJY/)
 
 ---
 ### 0008. 2024
-**[子路Lucia]{p}**
+**[子路Lucia]{s}**
 * **[子路Lucia | 摄影师 | 百章 | Douyin](https://v.douyin.com/_56cUmlih_o/)**
   - [东方美学](https://v.douyin.com/xrqbbPmJNRI/)
   - [早知如此绊人心，何如当初莫相识](https://v.douyin.com/88H54XnraNA/)
@@ -197,22 +197,22 @@
   - [人生不是单选题，别让目标成为困住你的牢笼。| 金刚经的智慧 | 人生不是单选题](https://v.douyin.com/-dIDnQpK4dU/)
 
 ---
-**[佳忆]{p}**
+**[佳忆]{s}**
 * **[佳忆 | 五百章 | Douyin](https://v.douyin.com/TBJeVEpVfrs/)**
   - [李慕婉·氛围感](https://v.douyin.com/c1c-t_bQ4I4/)
 
 ---
-**[胡胡吖]{p}**
+**[胡胡吖]{s}**
 * **[胡胡吖 | 胡胡吖在无锡呢 | 五百章 | Douyin](https://v.douyin.com/BAhd49iQIkM/)**
   - [我真是操心的太多了 | vlog日常](https://v.douyin.com/INONxjh9Iuo/)
 
 ---
-**[水墨江南]{p}**
+**[水墨江南]{s}**
 * **[水墨江南 | 2025.01之前为水墨江南 | 千章 | Douyin](https://v.douyin.com/FO4W-P1ULrA/)**
   - [总要去一趟百丈漈吧，去看一看小说里的武侠瀑布，感受一下金庸笔下的诗意江湖百丈漈 总要去看看小说里的武侠瀑布吧 百丈漈让武侠小说走进现实](https://v.douyin.com/sa_y3m_oWlc/)
 
 ---
-**[饭饭]{p}**
+**[饭饭]{s}**
 * **[哈哈哈 | 饭饭·](https://v.douyin.com/O7AFJc8OmMM/)**
   - [人群太吵了，只想一人一狗一粮田](https://v.douyin.com/_8LmuuComW0/)
   - [在家门口拍到了现实版的绿野仙踪](https://v.douyin.com/ZVE3MQ9Yk_A/)
@@ -268,7 +268,7 @@
   - [有人辞官归故里，有人星夜赶科场 少年不知愁滋味，老来方知行路难](https://v.douyin.com/_dwvYt2sgtE/)
 
 ---
-**[会飞的兔子呀]{p}**
+**[会飞的兔子呀]{s}**
 * **[会飞的兔子呀 | 分享陕西家常便饭 | 贰佰章 |  Douyin](https://v.douyin.com/QidikyOtspw/)**
   - [可惜你不是陕西人，不懂这一碗蘸水面的含金量有多高](https://v.douyin.com/XwPvLZe8ti4/)
   - [可惜你不是陕西人，不知道这碗搅团的含金量有多高](https://v.douyin.com/EHItU31qne0/)
@@ -287,7 +287,7 @@
   - [说走咱就走 谁不走谁](https://v.douyin.com/1GIw-zdZaEE/)
 
 ---
-**[你好我是一个社恐]{p}**
+**[你好我是一个社恐]{s}**
 * **[一个社恐在北京的日子](https://v.douyin.com/b4ib3G86US0/)**
 * **[一个社恐在北京的日子](https://v.douyin.com/AYXmXwVsOEg/)**
 * **[一个社恐在北京的日子](https://v.douyin.com/GuPvZ0Xelb4/)**
@@ -341,17 +341,17 @@
   - [蒸馍，都说陕西人爱吃面，其实陕西人也离不开馍，以前中午吃面，早上晚上基本都是馍，我就爱吃那刚出锅的馍，加点停好的猪油，在摸点辣面子，吃起来真的香，现在都基本不整蒸馍了，都是买了，现在的娃吃个早饭不吃这个，不吃那个，咱那会上学，早上只要能在锅里拿个冰蒸馍，都好的很了。]{g}
 
 ---
-**[大昭]{p}**
+**[大昭]{s}**
 * **[大昭 | 1985年的牛： 大昭：爱吃然面：在闲余时间：给大家分享特色面 | 百章 | Douyin](https://v.douyin.com/zmVkw3Sb8zs/)**
   - [纯手工洋柿柿鸡蛋面，香的很，陕西关中人爱碟面，撩咋咧](https://v.douyin.com/03BjqScrFMk/)
 
 ---
-**[Shay]{p}**
+**[Shay]{s}**
 * **[Shay | 百章 | Douyin](https://v.douyin.com/XKxkaG_j-Jc/)**
   - [拿到结果的大部分人都是不合群的](https://v.douyin.com/Bk5iA6wgj9Q/)
 
 ---
-**[向野哲哲]{p}**
+**[向野哲哲]{s}**
 * **[向野哲哲 | AI产品书籍合作请➕ Floraaigarden | 千章 | Douyin](https://v.douyin.com/EmjaJyqs2IE/)**
   - [给AI为道德经，以后AI就不会为难人类了吗？](https://v.douyin.com/giXh2pmLV9I/)
 
@@ -367,7 +367,7 @@
   - [白莲花: 白莲花的神圣、纯洁无瑕，象征修行灵性如婴儿](https://v.douyin.com/x3NxfsC3q38/)
 
 ---
-**[别吵吵.]{p}**
+**[别吵吵.]{s}**
 * **[别吵吵. | 要永远乐观且自由 谢谢大家的喜欢 | 百章 | Douyin](https://v.douyin.com/HqeCG75YIpU/)**
   - [霸王别饥 | 霸王别饥  | 明日方舟](https://v.douyin.com/94qpI8nXkz4/)
   - [依旧驯服上嘴唇 | 有何不可 | 明日方舟终末地 | 终末地三测](https://v.douyin.com/xpW2_7KUOuk/)
@@ -398,27 +398,27 @@
   - [拥有什么就享受什么](https://v.douyin.com/WUkqEGeVf2s/)
 
 ---
-**[水墨轩]{p}**
+**[水墨轩]{s}**
 * **[水墨轩 |  百章 | Douyin](https://v.douyin.com/ZVfzWPQETig/)**
   - [无人扶我青云志、我自踏雪至山巅、极致的独立与倔强、没他人帮扶、也能靠自己的力量实现高远志向 | 写字是一种生活](https://v.douyin.com/Wlwqh9oYauU/)
 
 ---
-**[气质木心]{p}**
+**[气质木心]{s}**
 * **[气质木心 | 生态摄影 | 二百章 | Douyin](https://v.douyin.com/DX-VUDfgW7E/)**
   - [质量就是流量的敌人](https://v.douyin.com/zjypJmZNxco/)
 
 ---
-**[小星期大王🛰️]{p}**
+**[小星期大王🛰️]{s}**
 * **[小星期大王🛰️ |  是你们的爱意将我高高举起 | 百章 | Douyin](https://v.douyin.com/byXuqvUejsw/)**
   - [我不问弱水三千几人能为我怨 | 国风·写真·女主](https://v.douyin.com/G-KpgU4Reow/)
 
 ---
-**[宇宙探索频道]{p}**
+**[宇宙探索频道]{s}**
 * **[宇宙探索频道 | 五十章 | Douyin](https://v.douyin.com/TLVdQ3mBiKs/)**
   - [太空基础设施皇冠上的明珠--轨道环](https://v.douyin.com/XRNWgD1Paik/)
 
 ---
-**[夏冰雹频道]{p}**
+**[夏冰雹频道]{s}**
 * **[夏冰雹频道 | 英语教育博主 专注英文教学五年 听力口语阅读理解好评如潮 | 书籍: 绽放作者 | 激发年轻人挖掘热爱与潜能, 活出想要的人生 | 千章 | Douyin](https://v.douyin.com/suT9hTmBYss/)**
 
 ---
@@ -447,12 +447,12 @@
     - [凡人181集预告燃炸了 | 008](https://v.douyin.com/-DZWUKUG2cM/)
 
 ---
-**[小Lin说]{p}**
+**[小Lin说]{s}**
 * **[小Lin说 | 商业财经不无聊～ 毕业于北京大学经济学院｜前华尔街摩根大通分析师 | 千章](https://v.douyin.com/7Q4ZOSs6JaM/)**
   - [对话多邻国创始人 | 大佬也要向华尔街低头](https://v.douyin.com/tWKiIWwysG8/)
 
 ---
-**[小藤]{p}**
+**[小藤]{s}**
 * **[小藤 | 五百章 | Douyin](https://v.douyin.com/5mfsRf6MFrI/)**
   - [穿这么严 还说不是严党！ 翻拍| 大明王朝 | 严世藩 | 古风 | 汉服小姐姐](https://v.douyin.com/xvEAGc7-B-8/)
   - [心疼一秒 倒霉一年 | 成功人士| 商务 | 气质哥 | 古风 | 模仿](https://v.douyin.com/6M2STmFu0bk/)
@@ -460,7 +460,7 @@
   - [天冷了 大家多吃点衣服 # 旅行 # 户外# 拓路者飞天冲锋衣](https://v.douyin.com/6WqFVlWjzRw/)
 
 ---
-**[羊吃狼]{p}**
+**[羊吃狼]{s}**
 * **[羊吃狼 | 二百章 | Douyin](https://v.douyin.com/iT6rcdF5cwA/)**
   - [等风头过了咱俩再出来 | 内容过于真实 | 招牌笑容](https://v.douyin.com/m0Gmf3VFLNA/)
   - [套餐便宜，单，单点贵，嘿嘿 | 内容过于真实 | 招牌笑容](https://v.douyin.com/5EigPnV7Ebg/)
@@ -488,24 +488,24 @@
   - [每年过年外婆都会说~ 日常唠嗑  我的外婆](https://v.douyin.com/_Yp8ZwvdY9w/)
 
 ---
-**[柚是一只屯屯鼠·GenshinImpact]{p}**
+**[柚是一只屯屯鼠·GenshinImpact]{s}**
 * **[柚是一只屯屯鼠 | 🌷爱玩游戏的小柚 🌷手残手残还是手残 | 贰佰章 | Douyin](https://v.douyin.com/43U3TQwHQN4/)**
   - [木偶的材料好难找啊](https://v.douyin.com/dPvuoFge4RU/)
   - [真境剧诗第一次满花](https://v.douyin.com/MZOAOCI8ky4/)
 
 
 ---
-**[傻白呀]{p}**
+**[傻白呀]{s}**
 * **[傻白呀 | To see a bigger world | 千章 | Douyin](https://v.douyin.com/-pcXaJmmjN0/)**
   - [时间会把所有苦难变成笑谈，所以请一定保住狗命，去见证更精彩的世界 | 反焦虑 | 人生感悟 | 岩中花述](https://v.douyin.com/K0wrmNGOGRM/)
 
 ---
-**[折玉风]{p}**
+**[折玉风]{s}**
 * **[折玉风 | 千章 | Douyin](https://v.douyin.com/g2vkpwEo6-E/)**
   - [美女](https://v.douyin.com/iIdzYXXLFQk/)
 
 ---
-**[阿渣猫]{p}**
+**[阿渣猫]{s}**
 * **[阿渣猫 | 千章 | Douyin](https://v.douyin.com/Ui0AXBByP4Q/)**
   - [我提笔不为离愁 只为你转身回眸 | 张云雷版西楼别序](https://v.douyin.com/334T_xcsVd0/)
   - [风轻轻说 别追问太多 | 歌曲树的花语  | 转场](https://v.douyin.com/NZ-mLWngk6g/)
@@ -534,32 +534,32 @@
   - [致未来的我｜请在更远的留白处等我 - 一封被时间折叠过的信。 一场现在的我与五年后的我之间的隔空对话。 也是一个人在流动时代里，写给未来自己的精神坐标。 如果五年后的我真的听见这段话， 我最想问她的不是：你成功了吗？ 而是：你有没有越来越像自己？ 有没有在变化里，依然保有判断； 在孤独里，不再急着慌张； 在选择面前，变得更勇敢； 在现实之中，依然没有失去感受世界的能力。 比起耀眼， 我更希望未来的自己是完整的。 - 写下这封信的时候，忽然觉得，23岁像是一段漫长又安静的潮汐。它带走了一些东西，也把一些意想不到的礼物，轻轻推回了岸边。 这一年，我确实成长了很多。不是那种声势浩大的成长，而是在很多无人看见的时刻里，慢慢学会承认自己的脆弱，整理自己的混乱，也重新确认内心真正想要抵达的方向。 我失去过一些确定性，也松开过一些执念。有些关系远去了，有些答案迟迟没有出现，有些曾经笃定的自己，也在现实的风里被重新改写。 但我依然感谢这一切。感谢那些以为自己快要坚持不下去，最后却还是安静走过来的时刻。感谢那个并不总是勇敢、却始终没有彻底放弃的自己。感谢家人和朋友，在我沉默、犹疑、摇晃的时候，仍然用他们的方式把我接住。也感谢这个世界，总是在某些近乎荒芜的地方，让人重新看见生机。 我承认，自己依然处在人生的奥德赛时期。没有清晰的航线，没有标准的地图，也没有一个可以立刻抵达的答案。很多时候，我像是在雾里行走。一边迷茫，一边试探；一边偏航，一边校准；一边怀疑，一边继续相信。 可也正是在这样的漂流里，我慢慢明白，人生并不是先拥有答案，再开始生活。很多答案，本就是在行走中逐渐显影的。答案或许真的在风中。在一次次选择之后，在一个人安静下来的夜晚，在那些没有被记录的崩溃与重建里，在每一次仍然愿意对世界保持好奇的瞬间。 所以我庆幸，自己还没有变得麻木。还愿意追问，愿意感受，愿意靠近，愿意在不确定里，继续为自己的生命寻找一种更诚实的表达。 如果说23岁教会了我什么，大概是：人不必每一刻都笃定，也不必急着成为某种正确的样子。只要没有丢失判断，没有丢失感受力，没有丢失那个仍然想向远处看的自己，就已经是在往前走了。 愿未来的我：在世界的速度里，不慌不忙地长成自己。也愿她在更远的留白处回望时，仍然认得今天这个，微弱、摇晃，却始终没有熄灭的我。]{g}
 
 ---
-**[当当]{p}**
+**[当当]{s}**
 * **[当当 | 一个坚持每天练字的普通人， 没有天赋，那就一直重复。| 二百章 | Douyin](https://v.douyin.com/koVPiFVzIh4/)**
   - ["撑不下去的时候，就告诉自己：过好今天就行。"](https://v.douyin.com/bqv3Jl46oew/)
 
 ---
-**[小土豆]{p}**
+**[小土豆]{s}**
 * **[小土豆 | 多肯定自己！你超棒的！ | 祝我们爱与被爱能同时发生 | 千章 | Douyin ](https://v.douyin.com/bM3SY-Biix4/)**
   - [要照顾好自己 见与不见我都思念](https://v.douyin.com/dZfbT8hLfiw/)
 
 ---
-**[土豆豆豆豆子]{p}**
+**[土豆豆豆豆子]{s}**
 * **[土豆豆豆豆子 | 想去的地方 终将会抵达 | 二百章 | Douyin](https://v.douyin.com/dvbpwlRS06A/)**
   - [你有没有可乐喝](https://v.douyin.com/L7MCuQnI8hI/)
 
 ---
-**[南弦月]{p}**
+**[南弦月]{s}**
 * **[南弦月 | 这些是我在迷茫中得出的答案，希望对你也有用。| 百章 | Douyin](https://v.douyin.com/lf6VeeGM1x8/)**
   - [实验了无数次：你圆满，世界就圆满。](https://v.douyin.com/wdCBCeWZPVg/)
 
 ---
-**[不知名鸽子]{p}**
+**[不知名鸽子]{s}**
 * **[不知名鸽子 | 兼职艺术家 | 二百章 | Douyin](https://v.douyin.com/aswEUDarZMY/)**
   - ["渡人，渡己" | 摄影 | 胶片 | 拍出电影感](https://v.douyin.com/c62IgYUdKRk/)
 
 ---
-**[和平猫猫¹²¹⁴]{p}**
+**[和平猫猫¹²¹⁴]{s}**
 * **[和平猫猫¹²¹⁴ | 百章 | Douyin](https://v.douyin.com/BcAaclPxPA4/)**
   - [原来只有男生才能get到这种...你有没有可乐喝](https://v.douyin.com/BozWiRGiQqE/)
 
@@ -576,12 +576,12 @@
   - [看看你们的浏览器行吗 兄弟们](https://v.douyin.com/OqDJ7RytOC0/)
 
 ---
-**[三个六]{p}**
+**[三个六]{s}**
 * **[三个六 | 各种花絮 颜值 段子 二次元 国风都能花里胡哨乱拍 | 二千章 | Douyin](https://v.douyin.com/FYaSz1BLCSQ/)**
   - [抖音三傻到齐了 # 甜妹](https://v.douyin.com/iMmlDmxs09U/)
 
 ---
-**[月如雪]{p}**
+**[月如雪]{s}**
 * **[月如雪 | 摄影师 | 二千章 | Douyin](https://v.douyin.com/SeBc0Mctm-k/)**
   - [张雅倩 失眠熊 暖似阳 哪个是傻子 共赴拈花湾十周年庆典](https://v.douyin.com/-nEfIxPpphc/)
 
@@ -624,7 +624,7 @@
     - **[一点气都受不了，但..加钱可以 | 404](https://v.douyin.com/3DBUueRd-HQ/)**
 
 ---
-**[暴躁虾剪]{p}**
+**[暴躁虾剪]{s}**
 * **[暴躁虾剪 | 一个要把西游记剪成臊子的男人 | 五百章 | Douyin](https://v.douyin.com/xma4-2Rjo5s/)**
 
 
@@ -640,14 +640,14 @@
   - [数字人民币 2.0: 预付不亏，跨境无阻](https://v.douyin.com/G4rGfq7Pn7c/)
 
 ---
-**[旺旺]{p}**
+**[旺旺]{s}**
 * **[旺旺 | 五百章 | Douyin](https://v.douyin.com/0e7gdZPIEe0/)**
   - [第一眼就喜欢的人，一定要远离，那百分百是你的报应](https://v.douyin.com/R6Jej82woB8/)
   - [所有的东西你不要了，这道题就解了，世事纷扰任去留，笑看浮云向自由](https://v.douyin.com/c63naLFDDxc/)
   - [你的世界我退出啦，不想再内耗自己了，你永远都不知道，我当初满眼是你，为你痴狂的样子，连我自己都羡慕# 感情才是世界上最残忍的东西](https://v.douyin.com/71D04UVH5DM/)
 
 ---
-**[慕慕]{p}**
+**[慕慕]{s}**
 * **[慕慕 | 百章 | Douyin](https://v.douyin.com/UFwTbh-2QK0/)**
   - [穿越到女频我手握80万军权，皇上何故谋反呢哈哈哈](https://v.douyin.com/YpQnwkoIsRU/)
   - [意想不到的结局哈哈哈](https://v.douyin.com/n1Sk1Wp461I/)
@@ -658,12 +658,12 @@
   - [卖烤红薯，不是为了体验生活。而是为了改变生活，靠自己的双手挣钱，流自己的汗，吃自己的饭，干什么都不丢人。| 摆摊 | 记录真实生活 | 强烈推荐 | 情感共鸣 | 摆摊创业](https://v.douyin.com/hrlBDwr96ik/)
 
 ---
-**[破破]{p}**
+**[破破]{s}**
 * **[破破 | 帅哥 | 百章 | Douyin](https://v.douyin.com/JG2aXqDZ_ss/)**
   - [应聘骑手 感觉怪怪的](https://v.douyin.com/yXd2zo3M4Rc/)
 
 ---
-**[思辩论]{p}**
+**[思辩论]{s}**
 * **[思辩论 | 只记录，只分享，无建议，无答案。| 五十章 | Douyin](https://v.douyin.com/o2AV2Mhf22I/)**
   - [慢慢变好 | 慢慢变好才是给自己最好的礼物](https://v.douyin.com/QY-GEP_e14w/)
   - [独处是一个人最好的修行](https://v.douyin.com/gVXQXrLrR54/)
@@ -682,7 +682,7 @@
   - [你会先救画还是先救猫 | 自古评论区出人才](https://v.douyin.com/1lGy8GIYCOI/)
 
 ---
-**[一只洋洋]{p}**
+**[一只洋洋]{s}**
 * **[一只洋洋 | 普普通通一只洋，谢谢你的喜欢 发型妆造指路 | 二百章 | Douyin](https://v.douyin.com/wVEbyaw3gqA/)**
   - [为什么没人能抵挡住中式魅魔？ | 一人分饰多角| 勿忘国耻 | 秦始皇](https://v.douyin.com/TqsOhXvwFL0/)
   - [当东方修士来到魔法学院 | 一人分饰多角 | 幽默搞笑视频 | **伏地魔** | 修仙](https://v.douyin.com/7PVJHd0ELzU/)
@@ -706,7 +706,7 @@
 
 ---
 ### 0010. 2026
-**[蒹葭的碎碎念]{p}**
+**[蒹葭的碎碎念]{s}**
 * **[蒹葭的碎碎念 | 日常 | 文学 | 五十章 | Douyin](https://v.douyin.com/FArXTFpNTWc/)**
   - [庄子认为，心若总依赖外界的回应，就像风中乱舞的叶子。 唯有当内心生长出自己的重量，人才能站稳。](https://v.douyin.com/9TDjK-Yl62U/)
   - [《庄子》，有一句话彻底刷新了我对"孤独"的认知： "天地与我并生万物与我为一。 从前总觉孤独是"少了什么"，少人陪，少人懂，少一个能说话的人。可庄子说，孤独不是一种"空"，而是一种"容器"。空，才有容量；感到孤独，恰意味着你拥有更多自由。 他说："大鹏之动，非轻举也。"大鹏飞往九万里之外，不是因为它离群，而是它要去一个别人无法同行的远方。 这一路，必然穿越无人应答的天空。这段孤独不是缺失，而是生命在默默拓展自己的疆域。 成长的孤独，常常是这样开始的：你开始看见事物更深的层次，听懂沉默背后的声音，体会到无法轻易言说的感受。 别人说你想太多，你却知道，那不是想太多，是你终于能清晰地听见自己。 ]{g}
@@ -724,21 +724,21 @@
   - [创业，不论什么时候，创始人永远冲在第一线，你千万别想着干事业可以风光，可以让别人去干，管理是用好人的同时，让他们看到作为老大，是怎么带着他们往前走的！ 我想，这不仅仅是对于团队的力量，更是我对若嘉潜移默化的教育，她之所以懂事，就是因为她从小就知道妈妈是怎么辛苦干事的！ 乐观，积极，自律，能吃苦，有韧劲，做事有担当，这是我不脸红的对自己评价，我做不了美美的博主，我是一个做滋补农产品品牌的创始人！ "人生是一条路，每个人走的路很长，有的人在路上会颠簸四起，但她心里有开荒修路的坚强决心！人生的路很长，但要紧的路只有几步！"所以我要在我还年轻还能奔波下绝不躺平，而是坚强的去做一个开路者！ 其实，新会一行对我心里有很大的触动，这种触动是发自内心又一觉醒的力量！ 真好，值得！]{g}
 
 ---
-**[阿录]{p}**
+**[阿录]{s}**
 * **[阿录 | 摄影📷 坐标昆明 | 五百章 | Douyin](https://v.douyin.com/zWbXWDg2T14/)**
   - [2025年我居然拍了这么多神图](https://v.douyin.com/e1boIcC4Iek/)
   - [日落前三分钟的夹缝光](https://v.douyin.com/GqWo8XSlEdA/)
   - [黛玉亡魂走马灯 | 归晚·瑜瑾](https://v.douyin.com/rbpEPJ7PGt4/)
 
 ---
-**[治愈果（kakki在说啥）]{p}**
+**[治愈果（kakki在说啥）]{s}**
 * **[治愈果（kakki在说啥）| 🐳90万粉丝心理创作者｜心理师 🐳累计500+小时个案 | 亲密关系终身成长](https://v.douyin.com/KcHp3-7eID4/)**
   - **[啥样的人是不可错过的好伴侣？心理学的角度揭秘好伴侣的三个特质](https://v.douyin.com/gb-EP3_R0ZQ/)**
   - **[学会显化我们都会过上想要的人生，成为理想的自己](https://v.douyin.com/DVEOKxF3et4/)**
   - **[你分得清正缘和孽缘吗？重塑感情观，分享5个正缘特征](https://v.douyin.com/VQSkxlrZzgQ/)**
 
 ---
-**[阿蛮]{p}**
+**[阿蛮]{s}**
 * **[阿蛮 | 喜欢关注我的小伙伴 | 二十章 | Douyin](https://v.douyin.com/NrLU22A2DJA/)**
   - [怎么敢跟你打电话 我家都是鹅叫声](https://v.douyin.com/-MqiXDhXqSk/)
   - [喜欢少数民族的姑娘吗](https://v.douyin.com/9VWYVDAmN2I/)
@@ -750,7 +750,7 @@
   - [hi你好 | 少数民族](https://v.douyin.com/2oVP_S04f4M/)
 
 ---
-**[童佳媱]{p}**
+**[童佳媱]{s}**
 * **[童佳媱 | 自助者天助之 | 百章 | Douyin](https://v.douyin.com/m1rhbv_5kGA/)**
   - **[历史告诉我们一个规律，人们一直在争斗， 最先是忠诚厚道的人死 其次是勇敢正直的人死 最后是智慧诚心的死。 当所有理想主义者从历史舞台退场后，剩下的便是伪君子和真小人的较量。别小看他们，历史往往由他们书写。](https://v.douyin.com/jlLBb5berR4/)**
   - **[悟空的眼泪不是软弱，而是每个中年人都藏不住的落寞](https://v.douyin.com/Ob4k4JDQqC8/)**
@@ -760,7 +760,7 @@
   - **[一定要努力，这个世界讲实力讲关系讲利益就是不讲道理](https://v.douyin.com/MvIbigM57uE/)**
 
 ---
-**[𝐌𝐢𝐜𝐤𝐞𝐲]{p}**
+**[𝐌𝐢𝐜𝐤𝐞𝐲]{s}**
 * **[𝐌𝐢𝐜𝐤𝐞𝐲 | You just have to be yourself 将感觉置顶 | 二百章 | Douyin](https://v.douyin.com/QyUrUenktCg/)**
   - [请选择你的地球online主线任务](https://v.douyin.com/He9Lh4N_9RM/)
   - [亲爱的朋友@无法重来的一生](https://v.douyin.com/JjHYSCRLbbk/)
@@ -768,7 +768,7 @@
   - [净化心灵 净化自己.](https://v.douyin.com/YroLqkTNlpo/)
 
 ---
-**[Blank]{p}**
+**[Blank]{s}**
 * **[Blank | 我的口袋只剩玫瑰一片，此行又山高路远。 谢谢你这么好看还关注 | 二百章 | Douyin](https://v.douyin.com/k4c0Gv5tGtA/)**
   - [真正的世界 不在书和地图里 它在外面](https://v.douyin.com/7DL2KERfvHE/)
   - [北欧古老的传说：看见银河的人，许愿一定会实现的。](https://v.douyin.com/yIrK4RlWt1w/)
@@ -776,7 +776,7 @@
   - [赠尔蝴蝶 愿君福叠](https://v.douyin.com/d9ul0XcKUlw/)
 
 ---
-**[百科片场]{p}**
+**[百科片场]{s}**
 * **[百科片场  | 你想了解的趣味知识，正是我科普的主题！ 已开启全网原创保护 | 千章 | Douyin](https://v.douyin.com/ylQAYiwxTuU/)**
 
   ---
@@ -796,7 +796,7 @@
     - [银河系10万光年，如果让猎户座飞船飞出银河系要多久？ | 猎户座飞船 | 阿尔忒弥斯2号](https://v.douyin.com/694TmRvwbTY/)
 
 ---
-**[乔子]{p}**
+**[乔子]{s}**
 * **[乔子 | 二次元🔥小书虫📖| Douyin | 伍佰章 | Douyin](https://v.douyin.com/npclPZkTUY0/)**
 
   ---
@@ -810,7 +810,7 @@
     - [025](https://v.douyin.com/uQS6fl6_AJo/)
 
   ---
-  **[003. 凡人修仙传]{p}**
+  **[003. 凡人修仙传]{s}**
     - [001](https://v.douyin.com/jXePTSJ1lL4/)
     - [022](https://v.douyin.com/VvnWFkRbZ8o/)
 
@@ -820,7 +820,7 @@
     - [013](https://v.douyin.com/RZH_Ywhj4pE/)
 
 ---
-**[用户(美加墨世界杯)]{p}**
+**[用户(美加墨世界杯)]{s}**
 * **[用户(美加墨世界杯) | 貳佰章 | Douyin](https://v.douyin.com/NguYpu-QHug/)**
   - [校园生活 真的救命](https://v.douyin.com/ezWjLTvhcGI/)
   - [嘿嘿好开心](https://v.douyin.com/YXMLjOF-50s/)
@@ -828,14 +828,14 @@
   - **[电脑登录直播服务平台·主播版](https://anchor.douyin.com/anchor/review)**
 
 ---
-**[是二凤吖·配音主播]{p}**
+**[是二凤吖·配音主播]{s}**
 * **[是二凤吖✨🐦⁰⁹²⁷（👑小七）](https://v.douyin.com/d4PqRdjgM8A/)**
 
-**[苏茉茉·配音主播]{p}**
+**[苏茉茉·配音主播]{s}**
 * **[苏茉茉 | 与君初相识，恰似故人归](https://v.douyin.com/AZxjm0T8U18/)**
 
 ---
-**[燕燕讲真话]{p}**
+**[燕燕讲真话]{s}**
 * **[燕燕讲真话 | 山东菏泽姑娘 陪父抗癌3年，看透人性仍守善良 | 分享: 不内耗的人生智慧](https://v.douyin.com/dYL_52Czynw/)**
   - [不要和欺负你的人掰扯对错，以果制人 | 生活感悟](https://v.douyin.com/vqiwUlNa1Pc/)
   - [有问必答是人际交往中的大忌 | 认知觉醒](https://v.douyin.com/uXFgwWM6k5c/)
@@ -844,12 +844,12 @@
   - [任何人找你借钱你都不要借，急也好，求也好，跪下也好，都不要借。| 借钱见人心还钱见人品](https://v.douyin.com/AXPFkuzX9p4/)
 
 ---
-**[原来是路路]{p}**
+**[原来是路路]{s}**
 * **[原来是路路 | 前路漫漫亦灿烂 | 佰章 | Douyin](https://v.douyin.com/XCQQmkqAm2s/)**
   - [做得很好，下次别做了](https://v.douyin.com/gq5L8FcgyEY/)
 
 ---
-**[滨崎豆]{p}**
+**[滨崎豆]{s}**
 * **[滨崎豆 |玩游戏最重要的就是开心 | 伍佰章 | Douyin](https://v.douyin.com/9Jk3E5yoIOo/)**
 
   ---
@@ -858,18 +858,18 @@
     - [当原神强度党进原摆玩家世界 | 019](https://v.douyin.com/oc1qlOs9PaE/)
 
 ---
-**[雨亭动漫情报]{p}**
+**[雨亭动漫情报]{s}**
 * **[雨亭动漫情报 | 动漫观后感叭叭瞎扯人员 业余动漫过期情报 国服第二梗王 | 千章 | Douyin](https://v.douyin.com/qD0luNP3m9c/)**
   - [凡人修仙传边境大战PV来了](https://v.douyin.com/zPNMH41G-EI/)
 
 ---
-**[小张张(乡村生活)]{p}**
+**[小张张(乡村生活)]{s}**
 * **[小张张(乡村生活) | 我是小张张✨ 用我的镜头记录乡村，去寻觅祖祖辈辈坚守着的古老村落 | 人间烟火气, 最抚凡人心 | 伍佰章 | Douyin](https://v.douyin.com/A5l6NQLDonI/)**
   - [地坑院 | 一方天井，四面都是窑洞，这就是地坑院。黄土里的千年老建筑，藏着老祖宗的智慧，也装着最朴实的烟火日常](https://v.douyin.com/tNk1kYKGlDM/)
   - [不是我带你进去，你肯定想不到这个洞口居然是通往回家的路口，每到下雨天，都要回去看看老窑有没有漏水，虽然路不好走，但也要常回去看看，路面上都是积水，窑洞里却干干的，这地下房子住着冬暖夏凉，你愿意来住一住吗](https://v.douyin.com/3HYxc39sokU/)
 
 ---
-**[见筑师 | 建筑]{p}**
+**[见筑师 | 建筑]{s}**
 * **[见筑师 | 探寻现存与消逝的文化遗产 | 佰章 | Douyin](https://v.douyin.com/4nNxCRbrdLw/)**
   - [太和殿，约3500立方米木材构成的大型“积木”](https://v.douyin.com/7WcUU1cjhdI/)
   - [悬空寺 1500年前的力学奇迹](https://v.douyin.com/6tZZY12HuRo/)
@@ -910,6 +910,18 @@
 
 ---
 ### 0011. 直播
+**[𝓥𝓲𝓸𝓵𝓮𝓽· Ai-Panio]{e}**
+* **[𝓥𝓲𝓸𝓵𝓮𝓽 | Flowers never with er, whsipers never fade, love is eternat, violet live forever | Douyin](https://v.douyin.com/6Jl3phOQVMQ/)**
+
+---
+**[小若]{e}**
+* **[小若 | 四点直播 | Douyin](https://v.douyin.com/XVhJaL6Bw74/)**
+
+---
+**[美洲诗]{e}**
+* **[美洲诗 | 四点直播 | 我郑重的说明一下我是一个来自上海的沈阳女主播，最幸福宝宝一个 |  Douyin](https://v.douyin.com/bJc9SqbThhA/)**
+
+---
 **[Amber2.0 · 英辩]{e}**
 * **[Amber2.0](https://v.douyin.com/4i54v962uko/)**
 

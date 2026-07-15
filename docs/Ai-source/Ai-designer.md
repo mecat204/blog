@@ -1,13 +1,13 @@
 ### 0000. Download
-**[必应]{p}**
+**[必应]{s}**
 * **[必应 | bing.com](https://cn.bing.com/)**
 
 ---
-**[dlpanda]{p}**
+**[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
-**[EngLearner]{p}**
+**[EngLearner]{s}**
 * **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
   - [americanliterature](https://americanliterature.com/)
 
@@ -47,6 +47,11 @@
   - [诺奖得主**哈萨比斯**: 人类将活到150岁！人工智能最大的影响，不在手机里，用AI治愈所有疾病又进一步 | 230](https://v.douyin.com/e8-AY8XMX6M/)
   - [马斯克本人认可推荐，纳瓦尔作序 | 250](https://v.douyin.com/ELadzxXasbA/)
   - [到2030年，有99.9%%的概率超级智能会消灭人类，这是AI安全领域泰斗罗曼·扬波尔斯基最新深度访谈的原话，但是，我却看到了AI时代，三个重要的保命法则 | 280](https://v.douyin.com/v72FI8o1VA0/)
+  - [AI大脑被切开后，竟发现类人意识结构 | 287](https://v.douyin.com/gE_r-_K3nW4/)
+
+  ---
+  **[002. website]{g}**
+    - [transformer-circuits](https://transformer-circuits.pub/2026/workspace/index.html)
 
 ---
 ### 0003. 杜恩泽·AI分享与思考
@@ -126,7 +131,7 @@
 
 ---
 ### 0009. GenAI动力
-**[GenAI动力]{p}**
+**[GenAI动力]{s}**
 * **[GenAI动力 |  国际500强AI咨询专家，IT产品经理。AI先驱者，传道者 | 科技改变世界](https://v.douyin.com/GY_THS3wvhM/)**
   - [7999美元的情感陪伴机器人已经开卖：读你表情、听你语气、摸起来还是"体温"](https://v.douyin.com/BCA-P823hzw/)
   - [未来可能不是慢慢来，而是突然"入侵"你身体：2030年代纳米机器人进血管，修复细胞、逆转衰老，甚至把大脑直接连上云端。](https://v.douyin.com/YMiVAUSWVXY/)
@@ -159,15 +164,15 @@
 
 ---
 ### 9999. Download
-**[必应]{p}**
+**[必应]{s}**
 * **[必应 | bing.com](https://cn.bing.com/)**
 
 ---
-**[dlpanda]{p}**
+**[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
-**[EngLearner]{p}**
+**[EngLearner]{s}**
 * **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
   - [americanliterature](https://americanliterature.com/)
 
