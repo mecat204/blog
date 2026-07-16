@@ -1243,6 +1243,12 @@
   - [印度影史第一神作](https://v.douyin.com/a2A1kD_ocVY/)
 
 ---
+### 0100. 清禾导航
+**[清禾导航]{s}**
+* **[清禾导航](https://www.qinghedaohang.com/)**
+* **[清禾影视](https://movie.qhdaohang.cn/vodtype/20.html)**
+
+---
 ### 9999. Download
 **[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**
