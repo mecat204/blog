@@ -12,6 +12,14 @@
 * **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
 
 ---
+**[英语学习资源导航]{s}**
+* **[英语学习资源导航 | 全网最全](https://en.knowledgefxg.com/)**
+
+---
+**[学堂在线]{s}**
+* **[学堂在线](https://www.xuetangx.com/)**
+
+---
 ### 0001. UC Berkeley·伯克利大学
 **[UC Berkeley]{s}**
 * **[UC Berkeley·伯克利大学](https://www.youtube.com/ucberkeley)**
