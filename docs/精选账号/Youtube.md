@@ -1471,6 +1471,7 @@
 ### 0006. 雅思 IELTS
 **[Learn English with EnglishClass101.com]{s}**
 * **[Learn English with EnglishClass101.com | English Teacher | 865万 | YTB](https://www.youtube.com/@EnglishClass101/videos)**
+
   - [En: Learn English with EnglishClass101.com - The Fastest, Easiest and Most Fun Way to Learn English. Start speaking English in minutes with Audio and Video lessons.]{s}
   - [Cn: 与英语 EnglishClass101.com 学习——最快、最简单、最有趣的学习英语方式. 通过音频和视频课程几分钟内开始说英语。]{g}
 
@@ -1497,6 +1498,10 @@
   ---
   - [En: Click "Subscribe" in the red box above and get notifications when a new video is added.]{s}
   - [Cn: 点击上方红色框中的"订阅"，当新增视频时会收到通知。]{g}
+
+  ---
+  - [How to Improve Your English Speaking Skills](https://www.youtube.com/watch?v=3G0sLzeVAfY)
+  - [Can You Really Learn English Through Songs and Music? Ask Alisha](https://www.youtube.com/watch?v=Inf6F4Drxv0&t=41s)
 
 ---
 **[Arnel's Everyday English | English Teacher]{p}**
