@@ -85,12 +85,14 @@
   - [ENG SUB【仙剑奇侠传三 Sword and Fairy 3】EP05](https://www.youtube.com/watch?v=SsZg2eYbG5c)
 
 ---
-**[libvio]{s}**
+**[libviogroup]{s}**
+* **[libviogroup]([https://libviogroup.github.io/)**
+* **[libvio.app](https://www.libvio.app/)**
+
+
 * **[libvio.mov](https://libvio.mov/)**
 * **[libvio.run](https://www.libvio.run/)**
-    * **[剑来 | quark](https://pan.quark.cn/s/1783bc24dc32#/list/share)**
-    * **[狮子王 | 1994](https://www.libvio.mov/play/167-1-1.html)**
-* **[libvio.vip](https://libvio.vip/)**
+    * **[狮子王 三部曲 | 1994](https://www.libvios.com/detail/167.html)**
 
 ---
 **[EngLearner]{s}**
@@ -115,8 +117,13 @@
       * **[在线TXT转M3U格式](http://117.72.68.25:9230/)**
 
 ---
-**[影视]{s}**
+**[网址之家]{s}**
+* **[友情链接](https://iui.su/link.html)**
+* **[urlzj](https://www.urlzj.com/)**
+* **[iMyShare](https://imyshare.com/)**
+* **[阿酷导航](https://a.cool/)**
 * **[在线影视](https://iui.su/531/)**
+
 
 ---
 **[饭搭子影视 · proxy]{g}**
