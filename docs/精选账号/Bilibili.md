@@ -1,14 +1,14 @@
 ### 0000. 开源项目
-**[必应]{p}**
+**[必应]{s}**
 * **[必应 | bing.com](https://cn.bing.com/)**
 
 ---
-**[WEIFENG2333]{p}**
+**[WEIFENG2333]{s}**
 * **[WEIFENG2333 | VideoCaptioner | 翻译软件 ](https://github.com/WEIFENG2333/VideoCaptioner)**
   - [videocaptioner](https://www.videocaptioner.cn/)
 
 ---
-**[chidiwilliams]{p}**
+**[chidiwilliams]{s}**
 * **[chidiwilliams | buzz | 翻译软件 ](https://github.com/chidiwilliams/buzz)**
   - [buzz | zh](https://chidiwilliams.github.io/buzz/zh/docs)
 
@@ -17,11 +17,11 @@
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
-**[PlayPhrase.me]{p}**
+**[PlayPhrase.me]{s}**
 * **[PlayPhrase.me: Site for cinema archaeologists. | 台词搜索](https://www.playphrase.me/#/search?q=&language=en)**
 
 ---
-**[LingQ]{p}**
+**[LingQ]{s}**
 * **[LingQ](https://www.lingq.com/en/)**
 
 ---
@@ -280,6 +280,11 @@
   - [Jane Goodall 对话](https://www.bilibili.com/video/BV1PC4y1p7jD/?spm_id_from=333.337.search-card.all.click)
 
 ---
+**[Soleil-JJ]{s}**
+* **[Soleil-JJ | 看过世界的人，更懂得珍惜眼前的生活. ——全网同名 | 55.3万 | B站](https://space.bilibili.com/38665940?spm_id_from=333.337.0.0)**
+  - [伦敦理工男：在中国根本饿不着](https://www.bilibili.com/video/BV1TWNi6wEQj/?spm_id_from=333.1387.homepage.video_card.click)
+
+---
 ### 0003. studytee | B站
 **[studytee]{s}**
 * **[XRay-猎豹 | 只有一次的人生，当然要好好过 | 2.7万 | B站](https://space.bilibili.com/408296955?spm_id_from=333.788.upinfo.detail.click)**
@@ -292,7 +297,7 @@
 
 ---
 ### 0004. Sydney Serena | 日常生活纪实 | B站
-**[TED听力精选课]{p}**
+**[TED听力精选课]{s}**
 * **[TED听力精选课 | 22.0万 | B站](https://space.bilibili.com/3546858064448344?spm_id_from=333.1387.follow.user_card.click)**
   - **[Sydney Serena | 日常生活纪实 YTB: Sydney Serena](https://www.bilibili.com/video/BV1pNbKzLEQ2/?spm_id_from=333.1387.homepage.video_card.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
 
@@ -356,7 +361,7 @@
 
 ---
 ### 0011. Tiny World Season 2 | 小小世界 | B站
-**[Tiny World Season 2]{p}**
+**[Tiny World Season 2]{s}**
 * **[Tiny World Season 2 | 小小世界 | B站](https://www.bilibili.com/video/BV1iy4y1s7Qg?spm_id_from=333.788.recommend_more_video.3&trackid=web_related_0.router-related-2479604-s7xkd.1773501998080.111&vd_source=19beb856dede8620770a18feaaf13ae2)**
 
 ---
@@ -383,7 +388,7 @@
 
 ---
 ### 0012. 四季中国 | 新华社出品 | B站
-**[四季中国]{p}**
+**[四季中国]{s}**
 * **[YTB英语学习study | 给大家持续分享听力/口语/播客/阅读/公开课…… | 225.3万 | Bibibili](https://space.bilibili.com/433406580?spm_id_from=333.788.upinfo.detail.click)**
   - **[四季中国 | 新华社出品](https://www.bilibili.com/video/BV1de4y1U7tX/?spm_id_from=333.788.recommend_more_video.2&trackid=web_related_0.router-related-2481894-wjgx7.1773508614348.708)**
 
@@ -402,13 +407,13 @@
 
 ---
 ### 0015. Blondie in China | B站
-**[Blondie in China]{p}**
+**[Blondie in China]{s}**
 * **[小C杂货铺 | 西班牙语 | 德语 | 意大利语 | 法语 等 | 英语 | 7.7万 | B站](https://space.bilibili.com/11069927?spm_id_from=333.788.upinfo.detail.click)**
   - **[Blondie in China | HOW I LEARNED CHINESE | YTB: Blondie in China](https://www.bilibili.com/video/BV1e7411F7jj/?spm_id_from=333.337.search-card.all.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
 
 ---
 ### 0016. The Diary Of A CEO | 英语百科 | B站
-**[The Diary Of A CEO]{p}**
+**[The Diary Of A CEO]{s}**
 * **[英语百科 | 有温度的英语资源搬运工！ | 11.5万 | B站](https://space.bilibili.com/9690008?spm_id_from=333.788.upinfo.detail.click)**
   - **[The Diary Of A CEO | 51集 | 听力 | YTB: The Diary Of A CEO](https://www.bilibili.com/video/BV1CrFWeAESB/?spm_id_from=333.337.search-card.all.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
 
@@ -460,7 +465,7 @@
 
 ---
 ### 0022. English with EnglishClass101.com | B站
-**[English with EnglishClass101.com]{p}**
+**[English with EnglishClass101.com]{s}**
 * **[Learn English with EnglishClass101.com | B站](https://www.bilibili.com/video/BV16SmwYPEza/?spm_id_from=333.337.search-card.all.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
 
 * **[English Class 101 | Alisha](https://www.bilibili.com/video/BV16e411R7nT?spm_id_from=333.788.videopod.episodes&p=6)**
@@ -477,7 +482,7 @@
 
 ---
 #### 0024. Arnel's Everyday English | B站
-**[Arnel's Everyday English]{p}**
+**[Arnel's Everyday English]{s}**
 * **[学不会英语不改昵称 | 只搬运美音，字幕大部分是机翻，欢迎催更 | 4.2万 | B站](https://space.bilibili.com/22095156?spm_id_from=333.788.upinfo.detail.click)**
   - **[Arnel's Everyday English | YTB: Arnel's Everyday English](https://www.bilibili.com/video/BV1pwRwYQEti/?spm_id_from=333.337.search-card.all.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
 
@@ -571,7 +576,7 @@
 
 ---
 ### 0035. 环球旅行 | B站
-**[环球旅行]{p}**
+**[环球旅行]{s}**
 * **[Elena Taber | YTB: Elena Taber](https://www.bilibili.com/video/BV13Ps1eNEAP/?spm_id_from=333.337.search-card.all.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
 
 ---
@@ -593,7 +598,7 @@
 
 ---
 ### 0037. Coffee Break English | B站
-**[Coffee Break English]{p}**
+**[Coffee Break English]{s}**
 * **[i英语corner | 9.9万 | Bibibili](https://space.bilibili.com/389152360?spm_id_from=333.788.upinfo.head.click)**
   - **[Coffee Break English Podcast Season1 | B站](https://www.bilibili.com/video/BV1Zs421N7aQ/?spm_id_from=333.337.search-card.all.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
 
@@ -619,7 +624,7 @@
 
 ---
 ### 0039. UrMomAshley | B站
-**[UrMomAshley]{p}**
+**[UrMomAshley]{s}**
 * **[叫我阿军就好呀 | 搬运区up主，本号没有任何收益，纯为爱发电，目前在做西语、韩语、俄语、日语和英语的翻译，工程量挺大的，SO 别再催更了。 |  B站](https://space.bilibili.com/36725118?spm_id_from=333.788.upinfo.head.click)**
   - **[UrMomAshley | YTB: UrMomAshley](https://www.bilibili.com/video/BV1zC4y1X7HN?spm_id_from=333.788.recommend_more_video.3&trackid=web_related_0.router-related-2479604-9xr68.1773631554397.67&vd_source=19beb856dede8620770a18feaaf13ae2)**
 
@@ -628,7 +633,7 @@
 
 ---
 ### 0040. Birta Hlin | B站
-**[Birta Hlin]{p}**
+**[Birta Hlin]{s}**
 * **[叫我阿军就好呀 | 搬运区up主，本号没有任何收益，纯为爱发电，目前在做西语、韩语、俄语、日语和英语的翻译，工程量挺大的，SO 别再催更了。 |  B站](https://space.bilibili.com/36725118?spm_id_from=333.788.upinfo.head.click)**
   - **[Birta Hlin | YTB: Birta Hlin](https://www.bilibili.com/video/BV1hH4y1M7FM?spm_id_from=333.788.recommend_more_video.2&trackid=web_related_0.router-related-2479604-dplt2.1773631706306.700&vd_source=19beb856dede8620770a18feaaf13ae2)**
 
@@ -650,7 +655,7 @@
 
 ---
 ### 0041. Caro Kowanz | B站
-**[Caro Kowanz]{p}**
+**[Caro Kowanz]{s}**
 * **[Caro Kowanz | 一位在德国生活的英语和西班牙语教师](https://www.bilibili.com/video/BV1gN4y1v7zh/?spm_id_from=333.337.search-card.all.click)**
 
 ---
@@ -672,7 +677,7 @@
 
 ---
 ### 0043. YTB英语听说
-**[YouTube英语听说]{p}**
+**[YouTube英语听说]{s}**
 * **[YouTube英语听说 | 大学前/专升本/四六级/考研/雅思/托福 | 67.5万 | B站](https://space.bilibili.com/183751118?spm_id_from=333.788.upinfo.head.click)**
 
   ---
@@ -715,19 +720,19 @@
 
 ---
 ### 0048. peerlieee
-**[peerlieee | 咖啡]{p}**
+**[peerlieee | 咖啡]{s}**
 * **[Omen-- | So choose your struggles wisely, my friend. "所以，我的朋友，要明智地选择你的挣扎" | 2.3万](https://space.bilibili.com/60264041?spm_id_from=333.788.upinfo.head.click)**
   - **[You Don’t Want Love—You Want to Be Picked So You Feel Worthy | 你想要的不是爱——你想要被选中，这样你才会觉得自己有价值](https://www.bilibili.com/video/BV1iuZrYcEqU/?spm_id_from=333.337.search-card.all.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
 
 ---
 ### 0049.  BigDeal by Codie Sanchez
-**[BigDeal by Codie Sanchez]{p}**
+**[BigDeal by Codie Sanchez]{s}**
 * **[思维漫游馆 | 所有视频都有中英文稿，在主页置顶动态 | 1.6万](https://space.bilibili.com/3546654221273630?spm_id_from=333.788.upinfo.head.click)**
   - **[如何像顶尖CEO一样说话 | BigDeal by Codie Sanchez](https://www.bilibili.com/video/BV1CX2yBmEcU/?spm_id_from=333.337.search-card.all.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
 
 ---
 ### 0050. Tam Kaur
-**[Tam Kaur]{p}**
+**[Tam Kaur]{s}**
 * **[云是甜de吖 | 用爱发电 v：nlzqyxmm | 2.6万](https://space.bilibili.com/320463781?spm_id_from=333.788.upinfo.head.click)**
   - **[Tam Kaur | 年中重置，六个月让2025成为最好的一年](https://www.bilibili.com/video/BV1gV4113763/?spm_id_from=333.1387.0.0)**
 
@@ -739,7 +744,7 @@
 
 ---
 ### 0052. Jadealy |  _T钍h_ | Game
-**[Jadealy |  _T钍h_]{p}**
+**[Jadealy |  _T钍h_]{s}**
 * **[_T钍h_ | 剧情首要，美工其次，游戏性再次，环境最次 |搬工中最颠的那个 | 8650 | B站](https://space.bilibili.com/507185588?spm_id_from=333.788.upinfo.detail.click)**
   - [鸣潮 全程高燃，我都不舍得看互动 | **YTB: Jadealy**](https://www.bilibili.com/video/BV1CmyjBhEzT?spm_id_from=333.788.videopod.sections)
   - [全程高燃，我都不舍得看互动 | **YTB: Jadealy**](https://www.bilibili.com/video/BV1CmyjBhEzT?spm_id_from=333.788.videopod.sections&p=2)
@@ -806,7 +811,7 @@
 
 ---
 ### 0063. ReneeEnglish
-**[ReneeEnglish]{p}**
+**[ReneeEnglish]{s}**
 * **[ReneeEnglish | YouTube，英语口语，英语听力 | B站](https://space.bilibili.com/492383211?spm_id_from=333.788.upinfo.detail.click)**
   - [Learn English with Jay](https://www.bilibili.com/video/BV1115464Ef4/?spm_id_from=333.1387.homepage.video_card.click)
   - [Learn English with Tyana](https://www.bilibili.com/video/BV1z9LM6AEhR/?spm_id_from=333.1387.homepage.video_card.click)
@@ -971,12 +976,12 @@
 * **[必应 | bing.com](https://cn.bing.com/)**
 
 ---
-**[WEIFENG2333]{p}**
+**[WEIFENG2333]{s}**
 * **[WEIFENG2333 | VideoCaptioner | 翻译软件 ](https://github.com/WEIFENG2333/VideoCaptioner)**
   - [videocaptioner](https://www.videocaptioner.cn/)
 
 ---
-**[chidiwilliams]{p}**
+**[chidiwilliams]{s}**
 * **[chidiwilliams | buzz | 翻译软件 ](https://github.com/chidiwilliams/buzz)**
   - [buzz | zh](https://chidiwilliams.github.io/buzz/zh/docs)
 
@@ -985,7 +990,7 @@
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
-**[PlayPhrase]{p}**
+**[PlayPhrase]{s}**
 * **[PlayPhrase.me: Site for cinema archaeologists. | 台词搜索](https://www.playphrase.me/#/search?q=&language=en)**
 
 ---
