@@ -148,9 +148,17 @@
 ---
 ### 0013. 妮娜正在学英语
 **[妮娜正在学英语]{s}**
-* **[妮娜正在学英语 | 让我们一起学英语吧～ | 叁佰章](https://v.douyin.com/LJXMs1blh8I/)**
+* **[妮娜正在学英语 | 让我们一起学英语吧～ | 叁佰章 | Douyin](https://v.douyin.com/LJXMs1blh8I/)**
 
+---
+### 0014. Felingus
+**[Felinus]{s}**
+* **[Welcome to Felingus's planet. | 贰佰章 | Douyin](https://v.douyin.com/WY0xQY55Zms/)**
 
+---
+### 0015. 日拱一卒～珍挺好
+**[日拱一卒～珍挺好]{s}**
+* **[日拱一卒～珍挺好 | A little effort everyday, you will make a big difference | 想用最低成本 日供一卒的坚持学英语。犹豫只会偷走时间,行动才能改写结局.积攒词链就像攒钱一样, 量变积累质变,期待起飞的那一天. | 千章 | Douyin](https://v.douyin.com/Aqa6zGPc9FU/)**
 
 ---
 ### 9999. Download

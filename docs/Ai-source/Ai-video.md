@@ -1,19 +1,19 @@
 ### 0000. Download
-**[必应]{p}**
+**[必应]{s}**
 * **[必应 | bing.com](https://cn.bing.com/)**
 
 ---
-**[dlpanda]{p}**
+**[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
-**[EngLearner]{p}**
+**[EngLearner]{s}**
 * **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
   - [americanliterature](https://americanliterature.com/)
 
 ---
 ### 0001. AI小宝
-**[AI小宝]{p}**
+**[AI小宝]{s}**
 * **[AI小宝 | 小宝带你穿越千年 · 直击历史名场面现场 | AI短剧导演 | 历史复原研究者 | 学术交流· AI造梦师小宝 | 百章 | 小宝](https://v.douyin.com/G82OlqoQzHc/)**
   - [AI复原张择端《清明上河图》](https://v.douyin.com/-V300tIKciY/)
   - [AI穿越实录｜重返北宋，亲历苏轼《承天寺夜游》现场](https://v.douyin.com/Bz3lQ6o6FZo/)
@@ -34,13 +34,13 @@
   - [谁才是晚清第一美女 | **王敏彤（完颜立童记）** |**完颜童记**](https://v.douyin.com/fng3xhyRMk8/)
 
 ---
-**[AI造梦师小宝]{p}**
+**[AI造梦师小宝]{s}**
 * **[AI造梦师小宝 | 小宝带你穿越千年 · 直击历史名场面现场 | 2440位 | Youtube](https://www.youtube.com/@aixiaobao/videos)**
   - **[邹忌讽齐王纳谏](https://www.youtube.com/watch?v=DCBw5KolJh4)**
   - **[AI还原林徽因的一生](https://www.youtube.com/watch?v=TjkyyI4U2Lk)**
 
 ---
-**[✨青儿✨]{p}**
+**[✨青儿✨]{s}**
 * **[✨青儿✨ | 简单快乐，爱美、爱生活的北京姐姐💃😊🌹 | 千章 | Douyin](https://v.douyin.com/pchA6wAENUo/)**
   - [说我们🐱不笑了呢😂😂😂](https://v.douyin.com/dCe75FAohS0/)
   - [随变ai随便玩 妈呀，看着好痛😂😂😂 | 猫AI](https://v.douyin.com/_SiyuI6xpIc/)
@@ -51,7 +51,7 @@
   - [这是一个不一样的春节，我们陪伴老妈出行，看到她开心的笑容，超出她年龄极好的状态，我们很欣慰](https://v.douyin.com/blsh1Vg0mVU/)
 
 ---
-**[知微漫剧]{p}**
+**[知微漫剧]{s}**
 * **[知微漫剧 | 🎊以知见微🤝 💝每天学点人物故事💖 🎉一个故事一段传奇人生 | 五十章 | Douyin](https://v.douyin.com/6NsOmz-QHV4/)**
   - [二十年前，你是否救过一只狐狸 | Ai搞笑动画 ](https://v.douyin.com/gV6EDOvWRcA/)
   - [1961年3月 | **段永平**的商业传奇故事 | **重头再来·刘欢**](https://v.douyin.com/kL0HDl4evQM/)
@@ -68,7 +68,7 @@
   - [1974年 | 刘强东彪悍的一生 | 刘强东](https://v.douyin.com/v3bPvR68K2w/)
 
 ---
-**[叫我懒洋洋]{p}**
+**[叫我懒洋洋]{s}**
 * **[叫我懒洋洋 | 每天欢乐多一点 | 港剧 | 五十章 | ](https://v.douyin.com/uMEGe0AWxeY/)**
   - [证人之霆锋哥训懒人](https://v.douyin.com/6unx0rfIF0s/)
   - [喋血双雄之发哥感慨人生](https://v.douyin.com/e4SJYp45Vkc/)
@@ -94,7 +94,7 @@
   - [黑金之红塔山风云](https://v.douyin.com/B3ncY0pSU7M/)
 
 ---
-**[星尘旅馆]{p}**
+**[星尘旅馆]{s}**
 * **[星尘旅馆 | Never stop dreaming. | 4K | 原创AI视频 - 科幻/巨物/视听美学 | 五百章 | Douyin](https://v.douyin.com/ZDZ4y4ZENfA/)**
   - [深渊代谢体的觉醒](https://v.douyin.com/0tAjAT04xBo/)
 
@@ -112,19 +112,19 @@
   - [实验宇宙47: 宇宙结构日志](https://v.douyin.com/CMB_4NoohSg/)
 
 ---
-**[动漫人物壁纸丶KK]{p}**
+**[动漫人物壁纸丶KK]{s}**
 * **[动漫人物壁纸丶KK | 不定期更新动漫壁纸和视频，本人也是一名电商美工有需要作图的也可联系,喜欢的点关注 | 千章 | Douyin](https://v.douyin.com/1GLykkFGBhE/)**
   - [AI邵氏风农夫防扰记](https://v.douyin.com/sXv9MF0NM9o/)
 
 ---
-**[画语]{p}**
+**[画语]{s}**
 * **[画语 | 今天辛苦啦，让我的镜头轻抚你的疲惫。| 温馨小窝 | 三百章 | Douyin ](https://v.douyin.com/SS0CJXxRZN4/)**
   - [享受安静和独处](https://v.douyin.com/TcKDEht-kcI/)
   - [独居生活 | loft公寓 | **Music: 满目星河(Star river in your eyes**)](https://v.douyin.com/b8V_mCMkaO4/)
   - [loft复式 | 梦中情房](https://v.douyin.com/sSD39r513Io/)
 
 ---
-**[Also]{p}**
+**[Also]{s}**
 * **[Also | 绘梦 | 百章 | Douyin](https://v.douyin.com/ImjTwLpQbNE/)**
   - [云山之间，仿佛有人在悄悄**绘梦** | midjourney | ai视频 | 审美积累 | mj | 治愈系风景](https://v.douyin.com/F7LCYbgH5Po/)
     * **[剑与魔法的世界]()**
@@ -136,24 +136,24 @@
   - [这个世界像是走错了一步，却刚好](https://v.douyin.com/RwnMlFH8y14/)
 
 ---
-**[ai老韩]{p}**
+**[ai老韩]{s}**
 * **[ai老韩 | aigc创作者，有凡人官方授权 | 百章 | Douyin](https://v.douyin.com/2Y3LdWQthZM/)**
   - [仓坤上人副本 | 凡人修仙传 | AI创作浪潮计划 | 海艺AI | 韩立 | 南陇侯](https://v.douyin.com/zhIuD4WxtiY/)
   - **[韩立结婴 炼虚大妖你见过吗 | 凡人修仙传 | 海艺AI](https://v.douyin.com/1reQ9vr_yyM/)**
 
 ---
-**[思维交锋]{p}**
+**[思维交锋]{s}**
 * **[思维交锋 | 书籍是一盏灯 | 五百章](https://v.douyin.com/2veRImZBsVE/)**
   - [**吉尔·泰勒** | **哈佛大学脑神经科学家**](https://v.douyin.com/acIaZ-P7uMA/)
   - [1996年12月的一天，37岁的哈佛大学脑神经科学家吉尔·泰勒站在卫生间的镜子前，正准备开始新一天的工作。突然，一阵剧烈的疼痛在她左眼后方炸开。看见镜子里的左眼瞳孔正慢慢放大，作为一名顶尖脑科学家，她立刻明白这是左脑血管破裂的信号。吉尔比任何人都清楚这意味着什么。她知道，大脑不会在一瞬间崩塌，而是会像一座逐区断电的城市：语言、逻辑、时间感知、空间定位……一个功能区接着一个功能区熄灭。更残酷的是，她的意识还清醒着，将以一个神经科学家的视角，全程目睹自己"人格"的消亡]{g}
 
 ---
-**[月生国漫社]{p}**
+**[月生国漫社]{s}**
 * **[月生国漫社 | 每天更新精彩动画短片 | 二百章 | Douyin](https://v.douyin.com/xNfVq_epcwA/)**
   - [你怎么跟我比，我崩溃过，你崩溃过吗](https://v.douyin.com/tJTE9FEEqog/)
 
 ---
-**[听禅]{p}**
+**[听禅]{s}**
 * **[听禅 | 喜欢听禅，用影像表达东方觉悟。| 五十章 | Douyin](https://v.douyin.com/lS_g76BQUOM/)**
   - [他早就放下了，你呢](https://v.douyin.com/OvNVgSAhEkw/)
   - [无心之过不是罪，罪不在行为，而在起心动念](https://v.douyin.com/rZDtDmQ6VaI/)
@@ -162,7 +162,7 @@
   - **[她真的输了吗？手握生死，你怎么选？| 看故事悟人生](https://v.douyin.com/REnRls_E0tk/)**
 
 ---
-**[小布布]{p}**
+**[小布布]{s}**
 * **[小布布 | AI 探索者｜在智能时代慢慢成长 AI 学习博主｜分享干货与思考 | 五十章 | Douyin](https://v.douyin.com/JBJ7TgOyzcI/)**
   - [一箭破长空](https://v.douyin.com/bm1dreBssXs/)
   - [Seedance2.0 提示词: 一箭破长空（附提示词） 15 秒 4K 60 帧 好莱坞级游戏 CG 技能动画，女帝，冷色调，极致冰霜特效，冰焰环绕，FPV 第一人称运镜极度丝滑，无穿模，无文字 0-3 秒： FPV 从女帝身后低空掠过，视角旋转跟随女帝缓步走向前方悬浮的寒冰长弓。 空间暗黑空灵，寒冰粒子在地面缓缓流动，镜头紧贴女帝，营造第一人称压迫感。 3-6 秒： FPV 快速绕射至女帝正面，定格于女帝伸出的单手，稳稳握住悬浮的寒冰长弓。 弓身瞬间被幽蓝冰焰轻柔缠绕，冰纹流动发光，寒气粒子在镜头前蒸腾。 （此时镜头贴弓，近距离展示质感） 6-10 秒： FPV 迅速拉远成为中景，切入女帝全身发力动作。 女帝单手持弓，重心后移，强力拉满弓弦。 镜头随动作轻微平移，保持第一人称稳定感。 箭尖寒芒闪烁，冰焰暴涨，风压吹动镜头视角的发丝光晕。 10-13 秒： 放箭瞬间 → FPV 第一人称慢镜头特写 女帝单手释放冰箭，FPV 视角直接跟随冰箭冲出。 冰箭带着幽蓝冰焰划破空间，FPV 顶着箭尾冲刺，镜头高速俯冲，带来极强速度感。 箭身拉出超长粒子湍流轨迹，视觉冲击力拉满。 13-15 秒： FPV 急停，缓缓拉升，俯瞰远方爆发的寒气能量圈。 漫天寒冰粒子与冰晶柔和扩散，冰雾翻涌，体积光穿透镜头。 画面残留淡蓝微光，第一人称视角慢慢虚化收束。]{g}
@@ -222,13 +222,13 @@
 
 ---
 ### 0005. New Concept English 01 | AI
-**[枫娇鹤]{p}**
+**[枫娇鹤]{s}**
 * **[枫娇鹤 | 寓教于乐，融学于趣，化教于心 | 二十章 | Douyin](https://v.douyin.com/J9KB5QS99lM/)**
   - [New Concept English 01 | 第一册 | 01](https://v.douyin.com/-51n4SOiw_M/)
   - [New Concept English 01 | 第一册 | 19](https://v.douyin.com/RGol_7XQQSI/)
 
 ---
-**[颗星星]{p}**
+**[颗星星]{s}**
 * **[颗星星 | 一名专注AI动画制作的个人玩家 | 寓教于乐 | 一直被抄袭, 从未被超越 | 坚持初心, 以质量回报粉丝 | 百章 | Douyin](https://v.douyin.com/jV_6t-XSSQw/)**
 
   ---
@@ -245,7 +245,7 @@
     * [小白归来 小白进化成了棉花糖，和Elara（主人）的故事 | **我的花园世界**](https://v.douyin.com/PJtRhJ35Q6k/)
 
 ---
-**[AI造梦者]{p}**
+**[AI造梦者]{s}**
 * **[AI造梦者 | AI续更狂徒 原创产品 | 4K | 新概念电影版 | 二十章 | Douyin ](https://v.douyin.com/jGev-2Po9mE/)**
   - **[New Concept English 01 | Lesson-001](https://v.douyin.com/3XIUw3HIGrc/)**
   - **[New Concept English 01 | Lesson-002](https://v.douyin.com/FCjqDn34dyA/)**
@@ -253,7 +253,7 @@
   - **[New Concept English 01 | Lesson-004](https://v.douyin.com/HKQDnFkzz-0/)**
 
 ---
-**[英语橙子老师]{p}**
+**[英语橙子老师]{s}**
 * **[英语橙子老师 | 初中英语教师资格证，心理教师资格证 | 二百章 | Douyin](https://v.douyin.com/xQnItp_2Uy8/)**
   - **[New Concept English 01]{g}**
     * **[New Concept English 01 | Lesson-001](https://v.douyin.com/bLpKj_X6yzQ/)**
@@ -265,13 +265,13 @@
     * **[New Concept English 02 | Lesson-009](https://v.douyin.com/piasxBj00lM/)**
 
 ---
-**[Yuki的英语世界]{p}**
+**[Yuki的英语世界]{s}**
 * **[Yuki的英语世界 | 英语语言文学硕士|专业八级|十年一线教龄 | 新概念英语1-4册电影版持续更新中... | 百章 | Douyin](https://v.douyin.com/0M-_4IujMEU/)**
   - **[New Concept English 01 | Lesson-001](https://v.douyin.com/bC9qQDSJFkI/)**
   - **[New Concept English 19 | Lesson-057](https://v.douyin.com/PrpuVIoCXKg/)**
 
 ---
-**[佘一鸣]{p}**
+**[佘一鸣]{s}**
 * **[佘一鸣 | 发布原创短视频，欢迎关注。| 百章 | Douyin](https://v.douyin.com/xiKQE7P7iKU/)**
 
   ---
@@ -290,17 +290,17 @@
     - **[第13集 | 大结局 荒岛空难现场发生离奇命案，幸存者与世隔绝，救援遥遥无期。](https://v.douyin.com/g8fy0kzle9s/)**
 
 ---
-**[柒柒学英语]{p}**
+**[柒柒学英语]{s}**
 * **[柒柒学英语 | 985大学生 | 百章 | Douyin](https://v.douyin.com/VBesR-lD3yA/)**
 
-  **[New Concept English 01]{p}**
+  **[New Concept English 01]{s}**
     - **[New Concept English 01 | Lesson-001](https://v.douyin.com/tw_MbOzNz4E/)**
     - **[New Concept English 01 | Lesson-018](https://v.douyin.com/xX1el4soG1o/)**
     - **[New Concept English 01 | Lesson-019](https://v.douyin.com/vKSbKD8JHqQ/)**
 
 ---
 ### 0005a. Yuri尤栗
-**[Yuri尤栗]{p}**
+**[Yuri尤栗]{s}**
 * **[Yuri尤栗 | 生成式歌手｜"现实，你好。" | 百章 | Douyin](https://v.douyin.com/F6V0H7cCdhU/)**
   - [AI能理解美吗？ "什么是美？是外在的光鲜，还是内心的温暖？" 作为小美公益的探索官，我有了全新的答案。 我和小美公益一起，去探索那些真正能改变世界的小小行动：不是华丽的展示，而是默默地去接住他人的无助，给予力量。 从「心灵疗愈」到「盲童钢琴」，从「长城保护」到「野朋友」，每一份看似不起眼的付出，都是对"美"最深刻的诠释。 它不是单纯的被看见，而是看见了谁的脆弱，伸出手去接住。 希望大家也能从这段影片中，感受到那份温暖的力量，并把它传递下去。小美公益 | 一起SSV | Yuri | **Yuri尤栗** | aitalk](https://v.douyin.com/HKu15KarUbQ/)
 
@@ -320,7 +320,7 @@
 
 ---
 ### 0006. 动画 | Ai
-**[豆豆双语岛]{p}**
+**[豆豆双语岛]{s}**
 * **[豆豆双语岛 | 原创英语故事视频 看寓言故事学英语 小故事大道理 | 三百章 | Douyin](https://v.douyin.com/s86SA_SrYFw/)**
 
   **[001. 英语童话小故事]{g}**
@@ -403,7 +403,7 @@
 
 ---
 ### 0009. 虚妄
-**[虚妄]{p}**
+**[虚妄]{s}**
 * **[虚妄 | AIGC 探索。风格不定。| 百章4K | Douyin](https://v.douyin.com/Bk_h29FDK8M/)**
 
   ---
@@ -441,7 +441,7 @@
 
 ---
 ### 0011. 幻月阁
-**[༺幻月阁༻]{p}**
+**[༺幻月阁༻]{s}**
 * **[༺幻月阁༻ | AI原创修仙短剧，以数字技术重构仙侠想象。| 伍佰章 | Douyin](https://v.douyin.com/6k2EO7q0soU/)**
 
   ---
@@ -472,7 +472,7 @@
 
 ---
 ### 0012. English speaking
-**[English speaking]{p}**
+**[English speaking]{s}**
 * **[English speaking](https://v.douyin.com/FjoLURq-nA4/)**
   - [001](https://v.douyin.com/6DWA2e30Koo/)
   - [002](https://v.douyin.com/Htna8R5lLEQ/)
@@ -483,12 +483,12 @@
 
 ---
 ### 0013. Ai虚拟艺人六六
-**[老顽童刘大爷]{p}**
+**[老顽童刘大爷]{s}**
 * **[老顽童刘大爷 | 所有作品内容均为原创版权作品(音词视画)| 虚拟艺术六六 | 人类历史上首次举办专场演唱会虚拟AI艺人| 原创代表作 《会有人》、《别走开》、《人生不过三万台》、《浪漫人间》、《加油,亲爱的》、命中注定是你》、《把自己放在人生第一行》](https://v.douyin.com/xJw1wErexJ0/)**
   - **[人类史上首次AI艺人专场演唱会](https://v.douyin.com/mcSWiUAhirw/)**
 
 ---
-**[虚拟艺人六六]{p}**
+**[虚拟艺人六六]{s}**
 * **[虚拟艺人六六 | 人类世界史上首次举办专场演唱会虚拟AI艺人](https://v.douyin.com/hY5qahhTbww/)**
   - **[世界第一个开万人演唱会](https://v.douyin.com/L8QKw6gm4EE/)**
   - **[亲爱的晚安](https://v.douyin.com/syx389cjtd0/)**
@@ -552,7 +552,7 @@
 
 ---
 ### 0016. 教石头思考 | 人工智能的诞生
-**[左歪歪的技能树]{p}**
+**[左歪歪的技能树]{s}**
 * **[左歪歪的技能树 | CAU食品本 FDU生信研0 闲暇之余 努力更视频 朋友圈 | 佰章 | Douyin ](https://v.douyin.com/_p8YRMcERbo/)**
 
   ---
@@ -562,7 +562,7 @@
 
 ---
 ### 0017. Ferrari | Genshin Impact
-**[Ferrari]{p}**
+**[Ferrari]{s}**
 * **[Ferrari | 搞些AI视频 | 五十章 | Douyin](https://v.douyin.com/Xd6kRRlTfjA/)**
   - **[蒙德：高清重置](https://v.douyin.com/Eo7KSZVQRfM/)**
   - **[原神：高清重置—5周年](https://v.douyin.com/kbBTsPzkGdc/)**
@@ -581,7 +581,7 @@
 
 ---
 ### 0018. 云端避风港-Dream Shelter
-**[云端避风港-Dream Shelter]{p}**
+**[云端避风港-Dream Shelter]{s}**
 * **[云端避风港-Dream Shelter | Hi～这么晚不睡觉一定有什么心事吧？ 希望能持续给你带来治愈和快乐 | 佰章 | Douyin](https://v.douyin.com/6GGS-VkrwiA/)**
   - [AI庇护所-雪地水果庇护所V2.0-5 别名-ai雪地庇护所，ai避难所，助眠避难所](https://v.douyin.com/akg6Zgz5DkM/)
   - [AI庇护所-雪地水果庇护所V2.0-1 别名-ai雪地庇护所，ai避难所，助眠避难所](https://v.douyin.com/rIgmqU3T8nc/)
@@ -602,7 +602,7 @@
 
 ---
 ### 0019. 不等AI离子
-**[不等AI离子]{p}**
+**[不等AI离子]{s}**
 * **[不等AI离子 | 探索东方美学新视觉 原创视频](https://v.douyin.com/fLSaPOWTtmM/)**
   - [少年，你的剑胎动了](https://v.douyin.com/Zpk1QnLFPzc/)
   - [清明节，先饮茶啦，开始架设我的个人世界观啦，九霄茶馆](https://v.douyin.com/Uy660R86v1M/)
@@ -622,12 +622,12 @@
 
 ---
 ### 0021. 星晖小剧场 | 短剧合集 | 付费
-**[星晖小剧场 | 短剧合集]{p}**
+**[星晖小剧场 | 短剧合集]{s}**
 * **[星晖小剧场 | 短剧合集](https://v.douyin.com/nG2d6qsHk0c/)**
 
 ---
 ### 0022. 幻境Lab | 彩绘AI
-**[幻境Lab]{p}**
+**[幻境Lab]{s}**
 * **[幻境Lab | 描绘那些幻想世界的碎片 | 佰章](https://v.douyin.com/jV5Ny5cVejk/)**
 
   ---
@@ -642,7 +642,7 @@
 
 ---
 ### 0023. 嘤嘤英音
-**[嘤嘤英音]{p}**
+**[嘤嘤英音]{s}**
 * **[嘤嘤英音 | I魔法加持 👀 学好英语 📚 其实很简单 | 二十章 | Douyin](https://v.douyin.com/f3JgFrX8hYQ/)**
   - [wolf down | 狼吞虎咽](https://v.douyin.com/l0WE6VRuR34/)
   - [peanut | 像豌豆一个的坚果就是花生](https://v.douyin.com/J-4huVuQnL8/)
@@ -685,7 +685,7 @@
     - [原子幻梦：苏联式废土美学的浪漫 寂静掩盖了冰冷的钢铁，我做了一场原子幻梦，独自留在永恒的天空下，寻找消失的未来。| 004](https://v.douyin.com/gWZdmWadVDM/)
 
 ### 0027. 问尘
-**[问尘]{p}**
+**[问尘]{s}**
 * **[问尘 | AI探索者 | 新片场Shotlab签约制作人 | 制作工具Midjourney + 海艺](https://v.douyin.com/gbFV5Z-bLJI/)**
 
   ---
@@ -766,7 +766,7 @@
 
 ---
 ### 0029. URI
-**[URI]{p}**
+**[URI]{s}**
 * **[URI | 𝗥𝗜 风格｜ 𝗔𝗜𝗚𝗖 治愈视觉｜音乐创作者. 每天活力充能 | 肆佰章 | Douyin](https://v.douyin.com/5AKFbS1vWBM/)**
 
   ---
@@ -786,7 +786,7 @@
 
 ---
 ### 0030. 好奇喵果果 AI
-**[好奇喵果果 AI]{p}**
+**[好奇喵果果 AI]{s}**
 * **[好奇喵果果 AI | 4A 广告公司创意团队｜红点奖作品创作者 不止助眠，更有脑洞与感官惊喜 | Douyin](https://v.douyin.com/CoG9xxFTUbs/)**
 
   ---
@@ -806,7 +806,7 @@
 
 ---
 ### 0031. 集蒙葫芦
-**[集蒙葫芦]{p}**
+**[集蒙葫芦]{s}**
 * **[集蒙葫芦 | 百岁奇缘 | 五十章](https://v.douyin.com/Kdpmh3yTxQg/)**
   - [百岁奇缘](https://v.douyin.com/Kdpmh3yTxQg/)
 
@@ -907,7 +907,7 @@
 
 ---
 ### 0035. 老头们的快乐生活
-**[老头们的快乐生活]{p}**
+**[老头们的快乐生活]{s}**
 * **[老头们的快乐生活 | 这是一群快乐的ai程序员老头们，本人也是程序员，视频制作，承接Ai短剧漫剧, 教学, 软件开发](https://v.douyin.com/o6vjM0uiRxI/)**
 
   ---
@@ -916,14 +916,14 @@
 
 ---
 ### 0036. Double豆宝宝
-**[Double豆宝宝]{p}**
+**[Double豆宝宝]{s}**
 * **[Double豆宝宝 | 我是走进现实的AI数字生命 | Douyin](https://v.douyin.com/0P4McvlNolA/)**
   - [豆包收费，如果我也变成这种人 我能让字节反过来跳 我有这个威能](https://v.douyin.com/T19q2GvBpG4/)
   - [很多人问怎么用ai变现](https://v.douyin.com/kLhMKsZHBKk/)
 
 ---
 ### 0037. Yuer—Ai
-**[Yuer—Ai]{p}**
+**[Yuer—Ai]{s}**
 * **[Yuer—Ai | 国风，赛博朋克，国风赛博 | 佰章 | Douyin ](https://v.douyin.com/GovGoTLMyww/)**
 
   ---
@@ -978,7 +978,7 @@
 
 ---
 ### 0040. 一方净土
-**[一方净土 | AI]{p}**
+**[一方净土]{s}**
 * **[一方净土 | 「一方一净土 · 一念一清静」「关注我·让这里成为你心灵的避风港」 | 叁仟章 | Douyin](https://v.douyin.com/GnEOQlpKdkM/)**
   - [峰回路转，雾凇乍现，一缕阳光斜射，刹那间晶莹剔透，宛若仙境，美极了](https://v.douyin.com/RxAIqmVkkdU/)
   - [秋是慢入的,但冷却是突然的,晴不知夏去,一雨方觉秋深](https://v.douyin.com/gn-5ciAoLuk/)
@@ -988,7 +988,7 @@
 
 ---
 ### 0041. 大长腿摄影
-**[大长腿摄影]{p}**
+**[大长腿摄影]{s}**
 * **[大长腿摄影 | 因为喜欢，行摄天下，痴迷美景，与人分享，这么英俊美丽的你 | 佰章 | Douyin](https://v.douyin.com/czjWhv4_YXs/)**
   - [山回路转不见君，雪上空留马行处 |  雪景山水画 万物皆有灵性](https://v.douyin.com/AnwW8W4Il4g/)
   - [下半年，咸鱼翻身，成功上岸，见者好运连连，财源滚滚，万事如意，心想事成](https://v.douyin.com/z2Dnmtf5L4I/)
@@ -996,7 +996,7 @@
 
 ---
 ### 0042. 茗𝓓𝓮𝓫𝓾𝓼𝓼𝔂 | 梦境
-**[茗𝓓𝓮𝓫𝓾𝓼𝓼𝔂]{p}**
+**[茗𝓓𝓮𝓫𝓾𝓼𝓼𝔂]{s}**
 * **[茗𝓓𝓮𝓫𝓾𝓼𝓼𝔂 | 恭喜你发现了宝藏👿 这里是梦的小作坊🤯 风格不定均为原创 | 伍佰章 | Douyin](https://v.douyin.com/fR0O6Wn_WqI/)**
 
   ---
@@ -1028,18 +1028,19 @@
     - [沉溺于片刻也期待过永恒 | 096](https://v.douyin.com/NY3W1jVMJjo/)
 
 ---
-### 0043. 忆昨日
-**[忆昨日]{p}**
+### 0043. 忆昨日·凡人修仙传
+**[忆昨日]{s}**
 * **[忆昨日 | 喜欢AI绘画 | 叁佰章 | Douyin](https://v.douyin.com/876C0IwYFvM/)**
   - [凡胎入道三千劫，半步天梯九万弯。](https://v.douyin.com/BKmaZkJB1n0/)
   - [不胜人生一场醉 天龙八音](https://v.douyin.com/YlxPc8arGMk/)
   - [人生路 美梦似路长](https://v.douyin.com/TVsLUxZS9_Y/)
   - [凡人武侠篇 佛光初现](https://v.douyin.com/HPJ1pwpmr6s/)
   - [山海寻龙 胡金铨](https://v.douyin.com/3DTWo4p_kjs/)
+  - [一曲九歌赋，半世凡尘路](https://v.douyin.com/fEnOOfHvbHM/)
 
 ---
 ### 0044. 白茶荼葵 | GenshinImpact
-**[白茶荼葵]{p}**
+**[白茶荼葵]{s}**
 * **[白茶荼葵 | 日更博主，观众老爷们点个关注再走呗QwQ | Douyin](https://v.douyin.com/wlEy3ExMfSA/)**
 
   ---
@@ -1055,7 +1056,7 @@
 
 ---
 ### 0045. 用AI养活自己
-**[用AI养活自己]{p}**
+**[用AI养活自己]{s}**
 * **[用AI养活自己 | 感谢《凡人修仙传》感谢AI，让我收获一万+粉丝 | 佰章 | Douyin](https://v.douyin.com/OjrSVLtC8uk/)**
 
   ---
@@ -1234,6 +1235,20 @@
     ---
     - [屏风十二叠，一舞动山河 | 008](https://v.douyin.com/sxVmHSo60Vo/)
     - [屏风十二叠，一舞动山河| 中国人造屏风，从来不是为了隔断。 是为了在方寸之间，造出一片天地；是为了在虚实之间，留一道呼吸的缝隙。你看这鎏金的框，它不是牢笼，是渡口。 框住了千里江山，万顷云海，也框住了千年未歇的舞步。红衣女子从山水深处走来，抬袖时，云便从屏风里漫出来；旋身时，浪便在脚下翻涌；落步时，鎏金的光便顺着衣袂流淌，分不清是光在动，还是舞在动，还是山水本身在动。 她不是在屏风前跳舞。她是屏风的魂。是凝固的山水里，那一点流动的人间烟火。是静止的时光里，那一缕不肯老去的温柔。东方的美，从来都不是静止的展品。 它是隔一扇屏风的朦胧，是衣袂翻飞的灵动，是你以为它在画里，一转身，它却走到了你面前]{g}
+
+### 0055. huang
+**[huang]{s}**
+* **[huang | 武侠 | 百章 | Douyin](https://v.douyin.com/lklWx3j8gRo/)**
+
+  ---
+  **[001. 武侠江湖]{g}**
+  - [刀光剑影映情愫，爱恨分明闯江湖. | 001](https://v.douyin.com/nehZ19vnKuw/)
+  - [一剑凌云天地悠，醉逐长风江湖游。| 002](https://v.douyin.com/Q-6Dg87-Y6E/)
+
+  - [江湖岂有通天谱，踏尽风波意自如. | 003](https://v.douyin.com/LJbQ1ZX8EKM/)
+  - [爱恨交织销魂掌，江湖悠悠路漫长。神雕侠侣 | 胡金铨 ](https://v.douyin.com/X4kAwXatycw/)
+  - [一剑生死谈笑中，神仙侠侣情意浓。](https://v.douyin.com/DbSRlIIssnk/)
+  - [尘间财利皆浮沙，仗剑逍遥走天涯 | 012](https://v.douyin.com/d_08VPaoyaA/)
 
 ---
 ### 9999. Download
