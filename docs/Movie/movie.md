@@ -122,7 +122,9 @@
 * **[urlzj](https://www.urlzj.com/)**
 * **[iMyShare](https://imyshare.com/)**
 * **[阿酷导航](https://a.cool/)**
-* **[在线影视](https://iui.su/531/)**
+* **[anyongki](https://github.com/anyongki/guannav)**
+* **[imsyy](https://github.com/imsyy?tab=repositories)**
+* **[青禾导航](https://www.xn--fet750e3yf5yw.cn/)**
 
 
 ---
@@ -161,9 +163,12 @@
 * **[icedespair](https://icedespair.github.io/)**
   - **[注视影视](https://gaze.show/)**
 
+---
 **[宅男影视]{s}**
 * **[宅男影视](https://znys.us/)**
+* **[zndy.top](https://zndy.top/)**
 
+---
 **[影巢]{s}**
 * **[影巢](https://tv.movie1080.online/)**
 
@@ -181,7 +186,7 @@
 * **[omofun](https://omofun.in/vod/type/movie.html)**
 
 ---
-### 0004. 4KVM
+### 0004. 4kvm
 **[4kvm]{s}**
 * **[4kvm.site](https://4kvm.site/)**
 * [4kvm.net](https://www.4kvm.net/)
