@@ -161,6 +161,28 @@
 * **[日拱一卒～珍挺好 | A little effort everyday, you will make a big difference | 想用最低成本 日供一卒的坚持学英语。犹豫只会偷走时间,行动才能改写结局.积攒词链就像攒钱一样, 量变积累质变,期待起飞的那一天. | 千章 | Douyin](https://v.douyin.com/Aqa6zGPc9FU/)**
 
 ---
+### 0016. Lumin英语迷
+**[Lumin英语迷]{e}**
+* **[Lumi英语迷 | 佰章 | Douyin](https://v.douyin.com/eNh9nYB7nks/)**
+
+  ---
+  **[001. 拆解英语动作]{g}**
+    - [用偏旁部首记常用的14个动作英语 | 001](https://v.douyin.com/S9ELOkvxWB4/)
+
+---
+### 0017. Xenia Xie(谢)
+**[Xenia Xie(谢)]{e}**
+* **[Xenia Xie(谢) | 直播: 每周三五连麦晨读 09:00-11:30 | Douyin | 贰仟章 | Douyin](https://v.douyin.com/h2iEuRYmo2A/)**
+
+  ---
+  **[001. 属于我们的诗和远方]{g}**
+    - [好想做电台主播，只用声音和故事来温暖路上的陌生人。| 001](https://v.douyin.com/FjReXLjZGvc/)
+    - [今天迷上了中文配音，各位不会弃我而去吧 | 002](https://v.douyin.com/-n9ruJVRQnU/)
+    - [像极了你不爱我的样子 | 003](https://v.douyin.com/tMlGUG7NpCA/)
+    - [治愈世界治愈你 | 004](https://v.douyin.com/bOloX1o3kv0/)
+    - [你不是我的月亮 | 005](https://v.douyin.com/BwcuMMKF0xQ/)
+
+---
 ### 9999. Download
 **[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**

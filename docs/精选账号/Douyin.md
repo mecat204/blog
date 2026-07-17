@@ -59,6 +59,9 @@
   - [心邪者多疑](https://v.douyin.com/Biir_OgmJYY/)
   - [心邪者多疑，量小者易怒，才疏者好辩，志短者常怨，品劣者善妒，心虚者升高，志浅者固执，福薄者贪多，行卑者媚上，性弱者畏难，反观自省可明心性，扶正守静可养德行]{g}
 
+  ---
+  - [脆皮的身体](https://v.douyin.com/IbLH-ZqUCPU/)
+
 ---
 **[珍珠珍珠.]{e}**
 * **[珍珠珍珠. | 五十章 | Douyin](https://v.douyin.com/XGX3mqqOlQw/)**
@@ -445,14 +448,20 @@
   **[001. 凡人2026年番剧浅谈]{g}**
     - [韩立与南宫婉正式见面太有趣了 | 001](https://v.douyin.com/laIOnrSEeyA/)
     - [凡人181集预告燃炸了 | 008](https://v.douyin.com/-DZWUKUG2cM/)
+    - [为什么现在的韩立那么爱用神识威压](https://v.douyin.com/hj1-k2yT1bU/)
 
 ---
-**[小Lin说]{s}**
+**[东山Alian]{s}**
+* **[东山𝑨𝒍𝒊𝒏𝒂 | 众生才是朝阳，而我，向着朝阳 | 佰章 | Douyin](https://v.douyin.com/yFi_xorR5eo/)**
+  - [韩立智商被碾压，压根斗不过狡猾的尸魈，幸好银月及时救场](https://v.douyin.com/gj2DuPyENkY/)
+
+---
+**[小Lin说]{e}**
 * **[小Lin说 | 商业财经不无聊～ 毕业于北京大学经济学院｜前华尔街摩根大通分析师 | 千章](https://v.douyin.com/7Q4ZOSs6JaM/)**
   - [对话多邻国创始人 | 大佬也要向华尔街低头](https://v.douyin.com/tWKiIWwysG8/)
 
 ---
-**[小藤]{s}**
+**[小藤]{e}**
 * **[小藤 | 五百章 | Douyin](https://v.douyin.com/5mfsRf6MFrI/)**
   - [穿这么严 还说不是严党！ 翻拍| 大明王朝 | 严世藩 | 古风 | 汉服小姐姐](https://v.douyin.com/xvEAGc7-B-8/)
   - [心疼一秒 倒霉一年 | 成功人士| 商务 | 气质哥 | 古风 | 模仿](https://v.douyin.com/6M2STmFu0bk/)
@@ -486,6 +495,11 @@
 **[是珊珊呀·GenshinImpact]{e}**
 * **[是珊珊呀 | 一只爱打鼓的戏精 原神博主 | 千章 | Douyin](https://v.douyin.com/c6Y5lNugD48/)**
   - [每年过年外婆都会说~ 日常唠嗑  我的外婆](https://v.douyin.com/_Yp8ZwvdY9w/)
+  - [七七！是你小子不想抽我](https://v.douyin.com/b3cenFnjD4k/)
+
+---
+**[一颗橙子]{e}**
+* **[一颗橙子 | 业余爱好 | 自学临摹 | 叁佰章 | Douyin](https://v.douyin.com/DPIHyKKTNLA/)**
 
 ---
 **[柚是一只屯屯鼠·GenshinImpact]{s}**
@@ -909,7 +923,29 @@
   - [苍月草是我留给你的第一封情书](https://v.douyin.com/8ATvtRoA5KE/)
 
 ---
+**[田园迷诗·2026.07.17]{e}**
+* **[田园迷诗 | 山野漫漫，溪边听蝉。 庭院深深，花间觅蝶。| 伍佰章 | Douyin](https://v.douyin.com/zf8R-U0A_c0/)**
+  - [林间夏梦 | Music: Take Me Hand](https://v.douyin.com/SJjGiQhF4HI/)
+  - [摄影，可能是我对生活最热烈的表达，我渐渐缄默，渐渐归心。| Music: 蒲草轻摇](https://v.douyin.com/BTfX27IsCYQ/)
+  - [无上清凉 | 山野自然](https://v.douyin.com/y4puuyVjlHs/)
+  - [天生山野骨，偏爱自然风](https://v.douyin.com/UbWGRBa1Oeg/)
+  - [不必费力攥紧世间种种，且从容感受](https://v.douyin.com/xa9h1Usz78I/)
+  - [人间有笔应难画，雨中承露更清妍。](https://v.douyin.com/avWOJ9rHNKo/)
+
+---
 ### 0011. 直播
+**[Xenia Xie(谢)·英文朗读·2026.07.17]{e}**
+* **[Xenia Xie(谢) | 直播: 每周三五连麦晨读 09:00-11:30 | Douyin | 贰仟章 | Douyin](https://v.douyin.com/h2iEuRYmo2A/)**
+
+  ---
+  **[001. 属于我们的诗和远方]{g}**
+    - [好想做电台主播，只用声音和故事来温暖路上的陌生人。| 001](https://v.douyin.com/FjReXLjZGvc/)
+    - [今天迷上了中文配音，各位不会弃我而去吧 | 002](https://v.douyin.com/-n9ruJVRQnU/)
+    - [像极了你不爱我的样子 | 003](https://v.douyin.com/tMlGUG7NpCA/)
+    - [治愈世界治愈你 | 004](https://v.douyin.com/bOloX1o3kv0/)
+    - [你不是我的月亮 | 005](https://v.douyin.com/BwcuMMKF0xQ/)
+
+---
 **[𝓥𝓲𝓸𝓵𝓮𝓽· Ai-Panio]{e}**
 * **[𝓥𝓲𝓸𝓵𝓮𝓽 | Flowers never with er, whsipers never fade, love is eternat, violet live forever | Douyin](https://v.douyin.com/6Jl3phOQVMQ/)**
 

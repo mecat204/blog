@@ -1,24 +1,24 @@
 ### 0000. Download
-**[必应]{p}**
+**[必应]{s}**
 * **[必应 | bing.com](https://cn.bing.com/)**
 
 ---
-**[dlpanda]{p}**
+**[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
-**[EngLearner]{p}**
+**[EngLearner]{s}**
 * **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
   - [americanliterature](https://americanliterature.com/)
 
 ---
-**[站酷]{p}**
+**[站酷]{s}**
 * **[站酷](https://www.zcool.com.cn/)**
   - **[站酷插画师](https://www.zcool.com.cn/search/image?album=ZMjM4MDU1OTA4_2)**
 
 ---
 ### 0001. MosaicEcho马赛回声
-**[MosaicEcho马赛回声]{p}**
+**[MosaicEcho马赛回声]{s}**
 * **[MosaicEcho马赛回声 | AI-Images | 复古未来主义 |先锋视角 | 多元融合 | 时间以及 | 深度传播 | 五百章 | Douyin](https://v.douyin.com/NC-kYJUf7HA/)**
   - [大梦初醒：东方美学最极致的压迫感。](https://v.douyin.com/w1cUnK4oTPk/)
   - [失重的东方美学。| **复古未来主义**](https://v.douyin.com/WzWPPzz37aY/)
@@ -30,7 +30,7 @@
 
 ---
 ### 0002. 落雨无声
-**[落雨无声]{p}**
+**[落雨无声]{s}**
 * **[落雨无声 | 4K | 凡人 |日常分享自己的AI绘画壁纸和动画 | 二百章 | Douyin](https://v.douyin.com/ZZ4DOVwC8Kg/)**
   - [水墨思君-慕沛灵 凡人修仙传动态壁纸 | 凡人修仙传 | 慕沛灵 | 水墨 | 4k60帧 | 动态壁纸](https://v.douyin.com/Y-rmbEfBChs/)
   - [雪夜孤巷另一个音乐版本 其实我更喜欢这个BGM多一点 | 国风古韵 | 凡人修仙传 | 汉服雪景 | 超清壁纸 壁纸 | 慕沛灵](https://v.douyin.com/xlcVPZmGvTk/)
@@ -86,12 +86,12 @@
 
 ---
 ### 0003. 小婷婷
-**[小婷婷 | 原神]{p}**
+**[小婷婷 | 原神]{s}**
 * **[原神 | 雷电将军 | 玛薇卡 | 纳西妲 | 300章](https://v.douyin.com/n2GN6zWIX_Y/)**
 
 ---
 ### 0004. 春夏秋冬都很想你
-**[春夏秋冬都很想你]{p}**
+**[春夏秋冬都很想你]{s}**
 * **[春夏秋冬都很想你 | AI创作｜4k超清壁纸 百章 | Douyin](https://v.douyin.com/aG2XqDV_QTc/)**
   - [奇幻美学](https://v.douyin.com/eUQYwDh2FBc/)
   - [视觉震撼 | 梦中的世界 | 心灵奇旅 | 异世界探秘 | ios26壁纸](https://v.douyin.com/mTeNNY2E8RY/)
@@ -150,7 +150,7 @@
 
 ---
 ### 0007. 啊非 | 国风
-**[啊非]{p}**
+**[啊非]{s}**
 * **[啊非 | 身体是载具，货物是承诺。 穿越生与死的海滩，传递微弱的希望。| 二十章 | Douyin](https://v.douyin.com/H886Njo76LM/)**
 
   ---
@@ -195,7 +195,7 @@
 
 ---
 ### 0008. Sunklion
-**[Sunklion]{p}**
+**[Sunklion]{s}**
 * **[Sunklion | 千章 | Douyin](https://v.douyin.com/SO8fyN9ApsY/)**
   - [色彩](https://v.douyin.com/mPJbd-wsx3w/)
   - [情绪](https://v.douyin.com/WSLXbkViX68/)
@@ -214,7 +214,7 @@
 
 ---
 ### 0009. Spica | 凡人修仙传
-**[Spica]{p}**
+**[Spica]{s}**
 * **[Spica | 4k 壁纸分享](https://v.douyin.com/ZES3Qt5RYlg/)**
   - [凡人女团黑色系壁纸来啦](https://v.douyin.com/n30NkNO3wcQ/)
   - [凡人女团](https://v.douyin.com/BmmTss0o24M/)
@@ -227,7 +227,7 @@
 ---
 ---
 ### 0009. Genshin Impact
-**[AI造梦师_橙子 | Genshin Impact]{p}**
+**[AI造梦师_橙子 | Genshin Impact]{s}**
 * **[AI造梦师_橙子 | 佰章 | Douyin](https://v.douyin.com/vZXWU2cnB8E/)**
   - [神里凌华](https://v.douyin.com/Hx6KMemJYUc/)
   - [芙宁娜](https://v.douyin.com/fqArK1hNP7k/)
@@ -235,7 +235,7 @@
   - [可莉](https://v.douyin.com/eC7dd1eLN54/)
 
 ---
-**[方块十AI]{p}**
+**[方块十AI]{s}**
 * **[方块十AI | 系列图集获取/定制图片 | 千章 | Douyin](https://v.douyin.com/l-KxnOqop5Q/)**
   - [夜兰师姐说的对~ | 原神  | 八重神子  | 刻晴  | 申鹤  | 芙宁娜 ](https://v.douyin.com/Q-8mtt-0nTU/)
   - [黄泉师姐说要提防女人~ 崩坏星穹铁道 | 于长夜重返大地 | 黄泉 | 遐蝶 | 符玄](https://v.douyin.com/NpIVnL9dp0Y/)
@@ -243,7 +243,7 @@
   - [运动时间到~！| 原神 | 茜特菈莉 | 玛薇卡 | 优菈 | 阿蕾奇诺](https://v.douyin.com/HeRuNWk35Cw/)
 
 ---
-**[清晨樂阳 | Genshin Impact]{p}**
+**[清晨樂阳 | Genshin Impact]{s}**
 * **[清晨樂阳 | 二次元杂旅，AI绝赞学习中，欢迎灌注喵 | 百章 | Douyin](https://v.douyin.com/vk2zlkYnRgw/)**
   - [请选择你的提瓦特阵营](https://v.douyin.com/Xq2fDvx0ZLo/)
   - [好热啊啊啊啊啊](https://v.douyin.com/xPMWxIdA5Fc/)
@@ -261,7 +261,7 @@
   - [细腻版 "陈巧倩"合集 （不定时更新）那些凡人修仙传散落人界的绝色仙子 | 二次元  | 古风  | 高清壁纸  | 国漫推荐  | 凡人修仙传](https://v.douyin.com/8K7B92rDQLQ/)
 
 ---
-**[语堂天天啃土 | Genshin Impact]{p}**
+**[语堂天天啃土 | Genshin Impact]{s}**
 * **[语堂天天啃土 | 游戏摄影博主，长期更新中... 带大家发现美是一件令人愉悦的事情 | 百章 | Douyin](https://v.douyin.com/1-kbDx8jAaQ/)**
   - [当我在游戏里为"狙击手"拍照...【绝区零sp委托】 | 绝区零 | 绝区零创作激励计划| 扳机](https://v.douyin.com/Fw2sUno1LwA/)
   - [我们要拍希诺宁，不能只拍希诺宁... | 原神纳塔](https://v.douyin.com/n3GoGv5e2rs/)
@@ -270,18 +270,18 @@
   - [哥伦比娅...| 月之少女 | 原神摄 | 原神空月之歌](https://v.douyin.com/VrMxOpGYkQs/)
 
 ---
-**[鲸昀数创 | AI绘画内容创作 |  Genshin Impact]{p}**
+**[鲸昀数创 | AI绘画内容创作 |  Genshin Impact]{s}**
 * **[鲸昀数创 | AI绘画内容创作 | 佰章 | Douyin](https://v.douyin.com/_R5g7ydROtE/)**
 
 ---
 ### 0010. 4K壁纸
-**[灵境墨语]{p}**
+**[灵境墨语]{s}**
 * **[灵境墨语 | 4k视频 | 百章 | Douyin](https://v.douyin.com/SloA0Wrqmf8/)**
   - [今日我仙殿下雪了！ 今日仙殿下雪了，不知人间是否有雪!](https://v.douyin.com/3Zz_ZJNYNkg/)
   - [今日我仙殿下雪了！ 今日仙殿下雪了，不知人间是否有雪！快加入我仙殿，一起修仙吧！]{g}
 
 ---
-**[底色 REAL]{p}**
+**[底色 REAL]{s}**
 * **[底色 REAL | 浮华终将散尽，底色自有声音 | 佰章 | Douyin](https://v.douyin.com/aphcnkdEM_M/)**
 
   ---
@@ -293,7 +293,7 @@
   - [月光落在潮湿的石板路上 风吹过空荡的村庄 只有一盏旧灯 陪她慢慢走过深夜 人总会有一段路 要独自穿过黑暗 当你熬过去这段黑暗 也未必等来的是光亮 只是学会沉默独行 不再期待谁的回响]{g}
 
 ---
-**[落雨无声]{p}**
+**[落雨无声]{s}**
 * **[落雨无声 | 4K | 凡人 |日常分享自己的AI绘画壁纸和动画 | 二百章 | Douyin](https://v.douyin.com/ZZ4DOVwC8Kg/)**
   - [水墨思君-慕沛灵 凡人修仙传动态壁纸 | 凡人修仙传 | 慕沛灵 | 水墨 | 4k60帧 | 动态壁纸](https://v.douyin.com/Y-rmbEfBChs/)
   - [雪夜孤巷另一个音乐版本 其实我更喜欢这个BGM多一点 | 国风古韵 | 凡人修仙传 | 汉服雪景 | 超清壁纸 壁纸 | 慕沛灵](https://v.douyin.com/xlcVPZmGvTk/)
@@ -349,21 +349,21 @@
     - [慕沛灵终究没能过了韩立这个心魔 | 038](https://v.douyin.com/boGRqOLjzN8/)
 
 ---
-**[春夏秋冬都很想你]{p}**
+**[春夏秋冬都很想你]{s}**
 * **[春夏秋冬都很想你 | AI创作｜4k超清壁纸 百章 | Douyin](https://v.douyin.com/aG2XqDV_QTc/)**
   - [奇幻美学](https://v.douyin.com/eUQYwDh2FBc/)
   - [视觉震撼 | 梦中的世界 | 心灵奇旅 | 异世界探秘 | ios26壁纸](https://v.douyin.com/mTeNNY2E8RY/)
   - [科幻美学](https://v.douyin.com/fw7g9-k8nAQ/)
 
 ---
-**[Enzo]{p}**
+**[Enzo]{s}**
 * **[Enzo | 喜欢摄影 喜欢调色 记录旅途和生活中的美景 4 K | 贰佰章 | Douyin](https://v.douyin.com/k5uJHqMcVbs/)**
   - [人生不过三万次落日](https://v.douyin.com/BPaplZ6nOys/)
   - [荷塘月色](https://v.douyin.com/1fBJCz46dGM/)
   - [我拍过的治愈风景色](https://v.douyin.com/ajVn5V--pM0/)
 
 ---
-**[Nature99]{p}**
+**[Nature99]{s}**
 * **[Nature99 | 让我们一起遇见最好的自己。| 伍拾章 | Douyin](https://v.douyin.com/6jp49D1dRPk/)**
   - [牵手。大海、帆船、村庄、小路、牵手](https://v.douyin.com/0kY4fzCjGjc/)
   - [宁静、辽阔、温暖，淡淡的诗意与乡愁](https://v.douyin.com/qA7lyUaNMyk/)
@@ -375,7 +375,7 @@
 
 ---
 ### 0011. 大大葡萄
-**[大大葡萄]{p}**
+**[大大葡萄]{s}**
 * **[大大葡萄 | AI绘画探索者 | 千章 | Douyin](https://v.douyin.com/gIiMl7kHwLE/)**
 
   ---
@@ -401,21 +401,30 @@
     - [空降到庇护所 | 147](https://v.douyin.com/YaJE12A5xSI/)
 
 ---
+### 0012. MokeLMa | Aigc
+**[MokeLMa]{s}**
+* **[MokeLMa | Aigc赛博咒语师傅/视觉艺术 | 佰章 | Douyin](https://v.douyin.com/rINP0RAnKbc/)**
+  - [万古长夜，我自为灯。且将这赤焰山河，当作一场大梦](https://v.douyin.com/eIioB5R3sUA/)
+  - [孤影立星河，一光破苍穹。 仙宫悬绝壁，巨兽镇八荒。 天地不仁，万物微尘。神佛垂泪，凡人孤勇。](https://v.douyin.com/v7fycmrE548/)
+  - [山不见我，我自去见山。 长夜难明，孤身提剑行。](https://v.douyin.com/Sgr3QxdjnSM/)
+  - [孤影立星河，一光破苍穹。 仙宫悬绝壁，飞瀑落九重。 神明垂清泪，执念化长风。 天地为局，万物微尘](https://v.douyin.com/I4FNIj5RYAs/)
+
+---
 ### 9999. Download
-**[必应]{p}**
+**[必应]{s}**
 * **[必应 | bing.com](https://cn.bing.com/)**
 
 ---
-**[dlpanda]{p}**
+**[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
-**[EngLearner]{p}**
+**[EngLearner]{s}**
 * **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
   - [americanliterature](https://americanliterature.com/)
 
 ---
-**[站酷]{p}**
+**[站酷]{s}**
 * **[站酷](https://www.zcool.com.cn/)**
   - **[站酷插画师](https://www.zcool.com.cn/search/image?album=ZMjM4MDU1OTA4_2)**
 

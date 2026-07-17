@@ -1250,6 +1250,52 @@
 * **[青禾影视](https://movie.qhdaohang.cn/)**
 
 ---
+### 0200. 国漫·灵笼
+**[犟驴动漫]{s}**
+* **[犟驴动漫 | 一头死磕动漫的犟驴 不敷衍、不搬运，认真做好每一期解说 | 十章 | Douyin](https://v.douyin.com/C5SqPPkiBqI/)**
+  - [灵笼大电影](https://v.douyin.com/btz7hEl2LmU/)
+
+---
+### 0300. 国漫·凡人修仙传
+---
+**[路人甲国漫日记·道友]{e}**
+* **[路人甲国漫日记 | 千章 | Douyin](https://v.douyin.com/sFPj7sMCTiY/)**
+  - [剑来](https://v.douyin.com/ra5xsTDVdaQ/)
+  - [凡人修仙传~道友~晚辈😄 | 凡人修仙传| 王婵| 韩立| 动漫国漫| 唐朝诡事录3](https://v.douyin.com/HvuwN05oJCQ/)
+
+---
+**[雨亭动漫情报·道友]{e}**
+* **[雨亭动漫情报 | 动漫观后感叭叭瞎扯人员 业余动漫过期情报 国服第二梗王 | 千章 | Douyin](https://v.douyin.com/4juqlDMB8jg/)**
+
+  ---
+  **[001. 凡人修仙]{g}**
+    - [韩立让柱 | 001](https://v.douyin.com/FkhYnl6UwoI/)
+    - [心魔劫 | 100](https://v.douyin.com/8I3s5irIbtA/)
+    - [凡人修仙传180集 | 180](https://v.douyin.com/081UC1zoFb0/)
+
+---
+**[潇子萱]{e}**
+* **[潇子萱 | 喜欢聊天交流的可加入我的粉丝群 只爱《凡人修仙传》| 贰佰章 | Douyin](https://v.douyin.com/CQG7uELW2ug/)**
+
+  ---
+  **[001. 凡人2026年番剧浅谈]{g}**
+    - [韩立与南宫婉正式见面太有趣了 | 001](https://v.douyin.com/laIOnrSEeyA/)
+    - [凡人181集预告燃炸了 | 008](https://v.douyin.com/-DZWUKUG2cM/)
+    - [为什么现在的韩立那么爱用神识威压](https://v.douyin.com/hj1-k2yT1bU/)
+
+---
+**[东山Alian]{s}**
+* **[东山𝑨𝒍𝒊𝒏𝒂 | 众生才是朝阳，而我，向着朝阳 | 佰章 | Douyin](https://v.douyin.com/yFi_xorR5eo/)**
+  - [韩立智商被碾压，压根斗不过狡猾的尸魈，幸好银月及时救场](https://v.douyin.com/gj2DuPyENkY/)
+
+---
+**[晓晓出海]{s}**
+* **[晓晓出海 | 00后勇闯AI圈 做点好看的AI剧情视频 目前主更凡人 | Douyin | 拾章 | Douyin](https://v.douyin.com/dPyCsJPTbLg/)**
+  - [慕沛灵与"韩立"往事](https://v.douyin.com/boi138sxeYI/)
+  - [婉儿再遇韩立](https://v.douyin.com/hCBGJFH1yv0/)
+  - [宋蒙结丹再会卫娘](https://v.douyin.com/Q0LD18m9KYs/)
+
+---
 ### 9999. Download
 **[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**

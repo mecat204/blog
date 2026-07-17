@@ -177,6 +177,7 @@
 
 ---
 ### 0002. AI裂变 | 哈哈~
+**[意大利面伴42号混凝土]{s}**
 * **[意大利面伴42号混凝土 | 原始](https://v.douyin.com/lEVbZVRvTK4/)**
   - **[意大利面拌42号混凝土，维尔康，秦始皇的身高，影响经济都出现了](https://v.douyin.com/AyT0D0pbx5k/)**
     * **[C4 | 邵氏电影 | 搞笑 AI武侠](https://v.douyin.com/oZmmG0EdnCc/)**
@@ -184,7 +185,7 @@
     * **[胡桃 派遣挖矿20h的胡桃](https://v.douyin.com/09d3GMzIFcc/)**
 
 ---
-### 0003. 精彩片段摘记
+**[精彩片段摘记]{s}**
 * **[寂静黄昏 | 五十章 | Douyin](https://v.douyin.com/eawYJp5sCnQ/)**
   - **[武侠](https://v.douyin.com/diYdjEucZDk/)**
   - **[小云雀AI](https://v.douyin.com/LprvfbPH6VE/)**
@@ -214,14 +215,14 @@
   - [Claude code泄漏背后真相 Claude Code真正暴露的，并非Anthropic的根本（护城河），而是顶级Coding Agent的工程实现思路。在Vibe Coding时代，核心竞争力已从单一模型能力，转向"模型+工程+产品"的系统性集成。这是技术人最好的学习方式。下次分享，我会基于我学到的cc这种思维方式，开源一个小型项目。](https://v.douyin.com/r5miHCbCfCQ/)
 
 ---
-### 0004. 国光小卖部 | 回忆
+### 0003. 国光小卖部 | 回忆
 **[国光小卖部]{g}**
 * **[国光小卖部 | 我叫王国光 带你回到8090后的童年 童年零食下方橱窗](https://v.douyin.com/k1nKArmlczM/)**
   - [快醒醒，你回到1987年了](https://v.douyin.com/ai6ctXx997Q/)
   - [一开口就是童年，一转眼就是半生](https://v.douyin.com/F70GThn0jfs/)
 
 ---
-### 0005. New Concept English 01 | AI
+### 0004. New Concept English 01 | AI
 **[枫娇鹤]{s}**
 * **[枫娇鹤 | 寓教于乐，融学于趣，化教于心 | 二十章 | Douyin](https://v.douyin.com/J9KB5QS99lM/)**
   - [New Concept English 01 | 第一册 | 01](https://v.douyin.com/-51n4SOiw_M/)
@@ -299,7 +300,7 @@
     - **[New Concept English 01 | Lesson-019](https://v.douyin.com/vKSbKD8JHqQ/)**
 
 ---
-### 0005a. Yuri尤栗
+### 0005. Yuri尤栗
 **[Yuri尤栗]{s}**
 * **[Yuri尤栗 | 生成式歌手｜"现实，你好。" | 百章 | Douyin](https://v.douyin.com/F6V0H7cCdhU/)**
   - [AI能理解美吗？ "什么是美？是外在的光鲜，还是内心的温暖？" 作为小美公益的探索官，我有了全新的答案。 我和小美公益一起，去探索那些真正能改变世界的小小行动：不是华丽的展示，而是默默地去接住他人的无助，给予力量。 从「心灵疗愈」到「盲童钢琴」，从「长城保护」到「野朋友」，每一份看似不起眼的付出，都是对"美"最深刻的诠释。 它不是单纯的被看见，而是看见了谁的脆弱，伸出手去接住。 希望大家也能从这段影片中，感受到那份温暖的力量，并把它传递下去。小美公益 | 一起SSV | Yuri | **Yuri尤栗** | aitalk](https://v.douyin.com/HKu15KarUbQ/)
@@ -763,6 +764,7 @@
   - [温馨小窝](https://v.douyin.com/PuDySC0M4Bo/)
   - [林中小屋](https://v.douyin.com/YMr_dil1hiA/)
   - [独居生活](https://v.douyin.com/T8jx1HKScdI/)
+  - [loft复式](https://v.douyin.com/v_zxMa59Apc/)
 
 ---
 ### 0029. URI
@@ -1073,14 +1075,14 @@
 ---
 ### 0046. 章小杰
 **[章小杰]{s}**
-* **[章小杰 | AIGC创作者 每天发布梦幻创意视频 作品均为原创🈲搬运 | 佰章 | Douyin](https://v.douyin.com/Rt4N6lwQx-U/)**
+* **[章小杰 | AIGC创作者 每天发布梦幻创意视频 作品均为原创🈲搬运 | 叁佰章 | Douyin](https://v.douyin.com/Rt4N6lwQx-U/)**
 
   ---
   **[001. 星座幻想]{g}**
     - [穿越武侠世界之星座决定你的门派 | 001](https://v.douyin.com/xHP4NKTnP_o/)
     - [十二星座的国风卧室，你会住进哪一间 | 002](https://v.douyin.com/BkVs-CaQe6Q/)
     - [十二星座的国风卧室 | 004](https://v.douyin.com/cad9GIEcmmU/)
-    - [十二星座，认领你的专属修仙网文场景 | 016](https://v.douyin.com/DVlVc898tp0/ 复制此链接，打开Dou音搜索，直接观看视频)
+    - [十二星座，认领你的专属修仙网文场景 | 016](https://v.douyin.com/DVlVc898tp0/)
 
   ---
   **[002. 中世纪浪漫]{g}**
@@ -1249,6 +1251,29 @@
   - [爱恨交织销魂掌，江湖悠悠路漫长。神雕侠侣 | 胡金铨 ](https://v.douyin.com/X4kAwXatycw/)
   - [一剑生死谈笑中，神仙侠侣情意浓。](https://v.douyin.com/DbSRlIIssnk/)
   - [尘间财利皆浮沙，仗剑逍遥走天涯 | 012](https://v.douyin.com/d_08VPaoyaA/)
+
+---
+### 0056. 玖月AI
+**[玖月AI]{s}**
+* **[玖月AI | AIGC设计 如果你也喜欢做梦 如果你也喜欢开脑洞 | Flova.ai超创](https://v.douyin.com/2KDR4YsFE1g/)**
+
+  ---
+  **[001. 云墟神话系列]{g}**
+    - [云墟 | 神宫 | 001](https://v.douyin.com/Hhgt4vqmoSo/)
+    - [龙吟长安 | 010](https://v.douyin.com/PDR03Oik4l4/)
+    - [云舟行·鱼龙引 大鱼曳云槎，行过万重天。 龙自九霄下，影覆千山前。 不争不逐，各安其途。 天上，亦有江湖。 | 020](https://v.douyin.com/IoVMQYpTk_U/)
+    - [世人为何都想成仙 | 022](https://v.douyin.com/rdfFAUQaYpY/)
+
+---
+### 0057. 开局一只猫
+**[开局一只猫]{s}**
+* **[开局一只猫 | AIGC制作 国风美学 | 用ai讲故事 | 佰章 | Douyin](https://v.douyin.com/wQfoIOzIvEY/)**
+
+  ---
+  **[001. 飞天画舫]{g}**
+    - [事情要从那天我们坐上飞天画舫开始说起…… | 001](https://v.douyin.com/whC2zJpj20g/)
+    - [走进这座开满鲜花的城，闯进了一场温柔的梦 | 004](https://v.douyin.com/5lTcaG_gDfI/)
+    - [中式仙侠旅行vlog | 008](https://v.douyin.com/TwURlzVRbUc/)
 
 ---
 ### 9999. Download
