@@ -259,12 +259,18 @@
 
 ---
 ### 0014. 网页游戏 | 不用下载，打开网页直接就能玩耍
+**[网页游戏 | 不用下载，打开网页直接就能玩耍]{s}**
+* **[Games to leran English](https://www.gamestolearnenglish.com/)**
   - [Games to leran English](https://www.gamestolearnenglish.com/) - 内置多个小游戏，全面练习你的词汇，语法，听力等等
+
+* **[Knoword](https://knoword.com/)**
+  - [Knoword](https://knoword.com/) - 一个基于游戏的教育平台，让学习词汇变得非常有趣
+
+---
   - [ABCMouse](https://www.abcmouse.com/games) - 面向儿童的教育平台，提供丰富的游戏
   - [ESL games](https://www.eslgamesplus.com/) - 里面有丰富的互动游戏，可以磨练你的英语技能
   - [小小炼金术2](https://littlealchemy2.com/) - 通过游戏中的元素组合来学习英语词汇和物品之间的关系，用有趣的方式记住单词和句子表达
   - [Helpful games](https://www.helpfulgames.com/subjects/english/) - 各种小游戏锻炼你的听说读写
-  - [Knoword](https://knoword.com/) - 一个基于游戏的教育平台，让学习词汇变得非常有趣
   - [Visual Thesaurus Spelling Bee](https://www.visualthesaurus.com/bee/play) - 听一个单词并尝试正确拼写
   - [Word Whomp](https://www.pogo.com/) - 各种免费的在线游戏,快速思考并创造尽可能多的单词
   - [Human Brain Cloud](https://www.humanbraincloud.com/) - 一款大型多人词语联想游戏，它既简单又复杂
@@ -337,7 +343,6 @@
   - [character ai](https://character.ai/) - 一个基于大型语言模型（LLM）的对话平台,模拟真实对话场景
   - [新概念英语》全四册在线课文朗读](https://nce.ichochy.com/) - 《新概念英语》全四册在线课文朗读、单句点读、中英对照
   - [LanguageGuide](https://www.languageguide.org/cn/) - 通过交互式语音指南探索外语词汇
-
 
 ---
 ### 0019. Bilibili
@@ -426,7 +431,8 @@
 
 ---
 ### 9999. Download
-* **[dlpanda](https://dlpanda.com)**
+**[dlpanda]{s}**
+* **[dlpanda](https://www.dlpanda.com)**
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)

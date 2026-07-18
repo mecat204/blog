@@ -3,6 +3,10 @@
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
+**[ihavenotv]{s}**
+* **[ihavenotv](https://ihavenotv.com/)**
+
+---
 **[abc2022]{s}**
 * **[abc2022](https://www.abc2022.cn)**
 
@@ -1312,6 +1316,21 @@
 ---
 **[刘明野的工具箱]{s}**
 * **[刘明野的工具箱](https://tools.liumingye.cn/)**
+
+---
+### 0500. 下载并加字幕
+**[ihavenotv]{s}**
+* **[ihavenotv](https://ihavenotv.com/)**
+  - [secrets-of-survival-primates](https://ihavenotv.com/secrets-of-survival-primates)
+
+---
+**[网页游戏 | 不用下载，打开网页直接就能玩耍]{s}**
+* **[Games to leran English](https://www.gamestolearnenglish.com/)**
+  - [Games to leran English](https://www.gamestolearnenglish.com/) - 内置多个小游戏，全面练习你的词汇，语法，听力等等
+
+----
+* **[Knoword](https://knoword.com/)**
+  - [Knoword](https://knoword.com/) - 一个基于游戏的教育平台，让学习词汇变得非常有趣
 
 ---
 ### 9999. Download
