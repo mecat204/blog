@@ -1318,10 +1318,26 @@
 * **[刘明野的工具箱](https://tools.liumingye.cn/)**
 
 ---
-### 0500. 下载并加字幕
+### 0500. 关联 ihavenotv
 **[ihavenotv]{s}**
 * **[ihavenotv](https://ihavenotv.com/)**
   - [secrets-of-survival-primates](https://ihavenotv.com/secrets-of-survival-primates)
+
+---
+**[青禾导航]{s}**
+* **[青禾导航](https://www.qinghedaohang.com/)**
+
+---
+**[宅男影视]{s}**
+* **[宅男影视](https://zndy.top/)**
+
+---
+**[观影导航]{s}**
+* **[观影导航](https://www.guannav.com/)**
+
+---
+**[西瓜TV]{s}**
+* **[zhu1.xiguatv](https://zhu1.xiguatv.xyz/video/190901)**
 
 ---
 **[网页游戏 | 不用下载，打开网页直接就能玩耍]{s}**
