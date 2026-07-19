@@ -1316,6 +1316,35 @@
     - [在最空旷的世界里，做最温柔的梦。 | 009](https://v.douyin.com/mNcXDPhYZGs/)
 
 ---
+### 0060. 拾音 ShiYin
+**[拾音 ShiYin]{s}**
+* **[拾音 ShiYin | AIGC | 原创音乐 | MV | 故事 - MikePanW](https://v.douyin.com/foXtFGefMPI/)**
+  - [春雨伞下 | 短剧](https://v.douyin.com/Bv3tjit78Dg/)
+  - [折光 - 第一部分 有许多地方做的比较粗糙,但是还是想先发出来,不知道你喜欢吗](https://v.douyin.com/3SmBbxazC7g/)
+  - [前巷 | 音乐](https://v.douyin.com/ITOuMrBEB7A/)
+  - [这是一个关于一根红绳, 一座山阁, 一个约定的故事](https://v.douyin.com/yVddRXX-n7I/)
+
+  ---
+  **[001. 通缉编号]{g}**
+    - [试试看一个人做短剧 | 001](https://v.douyin.com/q2jIcTdFQJ0/)
+    - [序章 | 002](https://v.douyin.com/tB7aLVVWqEQ/)
+    - [挑战一个人  | 012](https://v.douyin.com/qUms6n3J4u4/)
+
+  ---
+  **[002. 种子 The Seed]{g}**
+    - [预告片 正在准备即梦活动中, 法国昂西国际动画节的作品. | 001](https://v.douyin.com/dvRnerWDMyw/)
+    - [002](https://v.douyin.com/ONRwDDuBrSw/)
+    - [007](https://v.douyin.com/Lmyu8ujCeow/)
+
+---
+**[annecyfestival]{s}**
+* **[annecyfestival·安纳西国际动画电影节 | 21.8万 | YTB](https://www.youtube.com/@annecyfestival/videos)**
+
+  ---
+  **[annecyfestival·安纳西国际动画电影节]{g}**
+    - [Official website - Annecy International Animation Film Festival and Market](https://www.annecyfestival.com/)
+
+---
 ### 9999. Download
 **[必应]{s}**
 * **[必应 | bing.com](https://cn.bing.com/)**
