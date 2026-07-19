@@ -77,6 +77,31 @@
     - [Harvard](https://www.harvard.edu/)
 
 ---
+**[莉雅老师]{e}**
+* **[莉雅老师 | 自由英语老师 | 英语教育学毕业 ✌️英语母语者 | TESOL 国际英语教师资格证 | 伍佰章](https://v.douyin.com/cl4e-WOHyQE/)**
+
+  ---
+  **[001. 日常英语]{g}**
+    - ["追求"用英语怎么说 | 001](https://v.douyin.com/DRnPb9slPYg/)
+    - [外国人说的 "burnt out" 累了 | 217](https://v.douyin.com/ddegxTgbe6s/)
+
+  ---
+  **[002. 英语发音]{g}**
+    - [li-ter-al-ly | 001](https://v.douyin.com/T2-iCjOKL9M/)
+    - [the | 032](https://v.douyin.com/_TF06H8Ys18/)
+
+  ---
+  **[003. 学习灵感]{g}**
+    - [你是不是觉得英语太难了！我来告诉你最重要的是坚持 | 001](https://v.douyin.com/bA99WSdVF6Y/)
+    - [想练好英语就大胆说出来吧 | 009](https://v.douyin.com/5EkWyYkcKsw/)
+
+  ---
+  **[004. 英文歌]{g}**
+    - [bewhatyouwannabe | 001](https://v.douyin.com/5fGs_0eZpvo/)
+    - [今天来学一首英语歌吧 | 005](https://v.douyin.com/5AiJ3Krdb7M/)
+    - [这首字母歌你们都会唱吗 | 006](https://v.douyin.com/feSOcPjsmcE/)
+
+---
 ### 0005. Stanford·斯坦福大学
 **[Stanford]{s}**
 * **[Stanford | 218万 | YTB](https://www.youtube.com/@stanford/videos)**
