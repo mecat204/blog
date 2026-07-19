@@ -17,7 +17,7 @@
 * **[AI小宝 | 小宝带你穿越千年 · 直击历史名场面现场 | AI短剧导演 | 历史复原研究者 | 学术交流· AI造梦师小宝 | 百章 | 小宝](https://v.douyin.com/G82OlqoQzHc/)**
   - [AI复原张择端《清明上河图》](https://v.douyin.com/-V300tIKciY/)
   - [AI穿越实录｜重返北宋，亲历苏轼《承天寺夜游》现场](https://v.douyin.com/Bz3lQ6o6FZo/)
-  - [AI还原林徽因的一生](https://v.douyin.com/SJv-GuR3KH4/ )
+  - [AI还原林徽因的一生](https://v.douyin.com/SJv-GuR3KH4/)
 
   ---
   **[001. 林徽因]{g}**
@@ -35,7 +35,7 @@
 
 ---
 **[AI造梦师小宝]{s}**
-* **[AI造梦师小宝 | 小宝带你穿越千年 · 直击历史名场面现场 | 2440位 | Youtube](https://www.youtube.com/@aixiaobao/videos)**
+* **[AI造梦师小宝 | 小宝带你穿越千年 · 直击历史名场面现场 | 5130位 | Youtube](https://www.youtube.com/@aixiaobao/videos)**
   - **[邹忌讽齐王纳谏](https://www.youtube.com/watch?v=DCBw5KolJh4)**
   - **[AI还原林徽因的一生](https://www.youtube.com/watch?v=TjkyyI4U2Lk)**
 
@@ -51,8 +51,8 @@
   - [这是一个不一样的春节，我们陪伴老妈出行，看到她开心的笑容，超出她年龄极好的状态，我们很欣慰](https://v.douyin.com/blsh1Vg0mVU/)
 
 ---
-**[知微漫剧]{s}**
-* **[知微漫剧 | 🎊以知见微🤝 💝每天学点人物故事💖 🎉一个故事一段传奇人生 | 五十章 | Douyin](https://v.douyin.com/6NsOmz-QHV4/)**
+**[盛仓漫剧]{s}**
+* **[盛仓漫剧 | 🎊以知见微🤝 💝每天学点人物故事💖 🎉一个故事一段传奇人生 | 佰章 | Douyin](https://v.douyin.com/6NsOmz-QHV4/)**
   - [二十年前，你是否救过一只狐狸 | Ai搞笑动画 ](https://v.douyin.com/gV6EDOvWRcA/)
   - [1961年3月 | **段永平**的商业传奇故事 | **重头再来·刘欢**](https://v.douyin.com/kL0HDl4evQM/)
   - [2000年工作 | **童文红**的传奇创业故事，从小小前台逆袭成为过亿身家的总裁 | **阿里总裁·童文红**](https://v.douyin.com/XjlVa2mxT3s/)
@@ -115,13 +115,6 @@
 **[动漫人物壁纸丶KK]{s}**
 * **[动漫人物壁纸丶KK | 不定期更新动漫壁纸和视频，本人也是一名电商美工有需要作图的也可联系,喜欢的点关注 | 千章 | Douyin](https://v.douyin.com/1GLykkFGBhE/)**
   - [AI邵氏风农夫防扰记](https://v.douyin.com/sXv9MF0NM9o/)
-
----
-**[画语]{s}**
-* **[画语 | 今天辛苦啦，让我的镜头轻抚你的疲惫。| 温馨小窝 | 三百章 | Douyin ](https://v.douyin.com/SS0CJXxRZN4/)**
-  - [享受安静和独处](https://v.douyin.com/TcKDEht-kcI/)
-  - [独居生活 | loft公寓 | **Music: 满目星河(Star river in your eyes**)](https://v.douyin.com/b8V_mCMkaO4/)
-  - [loft复式 | 梦中情房](https://v.douyin.com/sSD39r513Io/)
 
 ---
 **[Also]{s}**
@@ -192,22 +185,6 @@
 
 ---
 * **[热情的河北人](https://v.douyin.com/oeodoObvjFU/)**
-
----
-**[第九云朵]{s}**
-* **[第九朵云 | 学做ai 视频中 | 贰佰章 | Douyin](https://v.douyin.com/GIvXMGGDw1A/)**
-  - [物皆有灵：十二星座的中式浪漫 | 狮子座·曜日皇女](https://v.douyin.com/_3jB5AeB_08/)
-  - [有些相遇， 要跨越山海与轮回。](https://v.douyin.com/VJcCF_SyJNA/)
-  - [竹影渡星河，纵是虚拟亦有情深](https://v.douyin.com/rwsha7XR2as/)
-  - [如果天宫真的存在，它会俯视整个宇宙 | Game: HappyOyster](https://v.douyin.com/hpkqJHGIAzA/)
-
-  ---
-  **[001. 青野云阙集]{g}**
-    - [仙阙孤傲，流云轻飘。| 001](https://v.douyin.com/f6aLp_m0yGk/)
-    - [浮生若云，顺流自然。| 003](https://v.douyin.com/6xy7DZaJ_cM/)
-    - [踏碎流光，不问归途。| 005](https://v.douyin.com/Uzysr99Le3g/)
-    - [星河无尽，流云似水。| 006](https://v.douyin.com/1OaFsUXXFAQ/)
-    - [在最空旷的世界里，做最温柔的梦。 | 009](https://v.douyin.com/mNcXDPhYZGs/)
 
 ---
 **[疯信子]{s}**
@@ -767,6 +744,13 @@
   - [loft复式](https://v.douyin.com/v_zxMa59Apc/)
 
 ---
+**[画语]{s}**
+* **[画语 | 今天辛苦啦，让我的镜头轻抚你的疲惫。| 温馨小窝 | 三百章 | Douyin ](https://v.douyin.com/SS0CJXxRZN4/)**
+  - [享受安静和独处](https://v.douyin.com/TcKDEht-kcI/)
+  - [独居生活 | loft公寓 | **Music: 满目星河(Star river in your eyes**)](https://v.douyin.com/b8V_mCMkaO4/)
+  - [loft复式 | 梦中情房](https://v.douyin.com/sSD39r513Io/)
+
+---
 ### 0029. URI
 **[URI]{s}**
 * **[URI | 𝗥𝗜 风格｜ 𝗔𝗜𝗚𝗖 治愈视觉｜音乐创作者. 每天活力充能 | 肆佰章 | Douyin](https://v.douyin.com/5AKFbS1vWBM/)**
@@ -1039,6 +1023,7 @@
   - [凡人武侠篇 佛光初现](https://v.douyin.com/HPJ1pwpmr6s/)
   - [山海寻龙 胡金铨](https://v.douyin.com/3DTWo4p_kjs/)
   - [一曲九歌赋，半世凡尘路](https://v.douyin.com/fEnOOfHvbHM/)
+  - [笑傲江湖曲琴箫合奏](https://v.douyin.com/r2y6lZDLt9I/)
 
 ---
 ### 0044. 白茶荼葵 | GenshinImpact
@@ -1274,6 +1259,59 @@
     - [事情要从那天我们坐上飞天画舫开始说起…… | 001](https://v.douyin.com/whC2zJpj20g/)
     - [走进这座开满鲜花的城，闯进了一场温柔的梦 | 004](https://v.douyin.com/5lTcaG_gDfI/)
     - [中式仙侠旅行vlog | 008](https://v.douyin.com/TwURlzVRbUc/)
+
+---
+### 0058. 偷火星的猫
+**[偷火星的猫]{s}**
+* **[偷火星的猫 | 为爱发电 无标准答案 请独立思考 | 佰章 | Douyin](https://v.douyin.com/3gf25ij6Rv8/)**
+
+  ---
+  **[001. 偷火星的猫]{g}**
+    - [疯子尼采·每天早上醒来，都能越过前一天那个软弱、犬儒的自己 | 001](https://v.douyin.com/oJTj5WjgrBg/)
+    - [疯子尼采·精神三变（骆驼 狮子 孩子）| 002](https://v.douyin.com/Ok2Lg1jiMdQ/)
+
+  ---
+  **[002. 理想国]{g}**
+    - [这个时代最大的误解，是把获利当成‘成功’ | 001](https://v.douyin.com/b6v3DQY1Xzo/)
+    - [隐身戒指可怕的是‘自己看不见自己’ | 002](https://v.douyin.com/WkEOcwnU1XU/)
+    - [人的灵魂，该由理智掌舵，欲望只是乘客。| 003](https://v.douyin.com/aYZQ-smhZHo/)
+    - [世事风向流转不定，但北极星的位置永远不会变。| 004](https://v.douyin.com/C70HHfDRb78/)
+
+  ---
+  **[003. 斐德罗篇]{g}**
+    - [改编版：真正的爱意，不会只停在好听的话里。| 001](https://v.douyin.com/tqNMwFIdFSM/)
+    - [我只是想陪你走到一个地方 | 007](https://v.douyin.com/LoSeLBUCGVc/)
+
+  ---
+  **[004. 被讨厌的勇气]{g}**
+    - [从前，在被誉为千年之都的古都郊外住着一位哲人，他主张:世界极其简单，人们随时可以获得幸福。有一位青年无法接受这种观点，于是他去拜访这位哲人一探究竟。在这位被诸多烦恼缠绕的青年眼里，世界是矛盾丛生的一片混沌，根本无幸福可言。| 001](https://v.douyin.com/XHNMqXhcBgc/)
+    - [你不需要成为怪胎, 你需要成为自己 | 010](https://v.douyin.com/m6aAJdXlSIE/)
+    - [你拼命想成为的人，从你出生那天起，就已经是了 | 020](https://v.douyin.com/zNJvdjxUbSo/)
+    - [最后一课 | 026](https://v.douyin.com/2-dl8ixo9FE/)
+
+  ---
+  **[005. 会饮篇]{g}**
+    - [改编版：世人都误解了爱，我们只爱上欲望而非本身 | 001](https://v.douyin.com/XUr2T0cJ2HI/)
+    - [改编版：没有谁离开，会带走你的一半人生。 | 004](https://v.douyin.com/YwBKPtBQlvc/)
+    - [剩下的 要到路上去懂 | 007](https://v.douyin.com/RnJXNavf5tw/)
+
+---
+### 0059. 第九云朵
+**[第九云朵]{s}**
+* **[第九朵云 | 学做ai 视频中 | 贰佰章 | Douyin](https://v.douyin.com/GIvXMGGDw1A/)**
+  - [物皆有灵：十二星座的中式浪漫 | 狮子座·曜日皇女](https://v.douyin.com/_3jB5AeB_08/)
+  - [有些相遇， 要跨越山海与轮回。](https://v.douyin.com/VJcCF_SyJNA/)
+  - [竹影渡星河，纵是虚拟亦有情深](https://v.douyin.com/rwsha7XR2as/)
+  - [如果天宫真的存在，它会俯视整个宇宙 | Game: HappyOyster](https://v.douyin.com/hpkqJHGIAzA/)
+  - [光穿过云层的时候， 世界忽然变得很轻。](https://v.douyin.com/Whqjd-y9VtY/)
+
+  ---
+  **[001. 青野云阙集]{g}**
+    - [仙阙孤傲，流云轻飘。| 001](https://v.douyin.com/f6aLp_m0yGk/)
+    - [浮生若云，顺流自然。| 003](https://v.douyin.com/6xy7DZaJ_cM/)
+    - [踏碎流光，不问归途。| 005](https://v.douyin.com/Uzysr99Le3g/)
+    - [星河无尽，流云似水。| 006](https://v.douyin.com/1OaFsUXXFAQ/)
+    - [在最空旷的世界里，做最温柔的梦。 | 009](https://v.douyin.com/mNcXDPhYZGs/)
 
 ---
 ### 9999. Download

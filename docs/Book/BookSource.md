@@ -2501,10 +2501,6 @@
 * **[编程书籍](https://tool.lu/book?page=1)**
 
 ---
-### 0038. 小说回忆 | 2007
-**[7 Truth-1 尸忆·月下桑]{s}**
-
----
 ### 9999. Download
 **[必应]{s}**
 * **[必应 | bing.com](https://cn.bing.com/)**
