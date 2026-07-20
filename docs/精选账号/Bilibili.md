@@ -107,6 +107,10 @@
 * **[Kristin老师 | 这是我唯一的b站账号 加拿大女孩 首都师范大学毕业 INS: KristinLaoshi | 45.8万 | B站](https://space.bilibili.com/3493094276205367?spm_id_from=333.337.search-card.all.click)**
 
 ---
+**[巨人英文]{s}**
+* **[巨人英文 | Giant English | B站](https://space.bilibili.com/491483153?spm_id_from=333.337.0.0)**
+
+---
 ### 0002. B站 up主
 **[Bilibi直接登录网页可以删除客户端无法删除的收藏夹]{s}**
 
