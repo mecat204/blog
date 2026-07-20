@@ -4404,6 +4404,11 @@
   - [JANE GOODALL'S LAST INTERVIEW Recorded on 9/23/25](https://www.youtube.com/watch?v=4oshFOK9-sk)
 
 ---
+### 0500. Kurzgesagt – In a Nutshell | Animation
+**Kurzgesagt – In a Nutshell]{s}**
+* **[Kurzgesagt – In a Nutshell | 2540万 | YTB](https://www.youtube.com/@kurzgesagt/videos)**
+
+---
 ### 0900. News
 **[ITV News]{s}**
 * **[ITV News | 221万 | YTB](https://www.youtube.com/@ITVNews/videos)**

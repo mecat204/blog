@@ -289,6 +289,14 @@
   - [伦敦理工男：在中国根本饿不着](https://www.bilibili.com/video/BV1TWNi6wEQj/?spm_id_from=333.1387.homepage.video_card.click)
 
 ---
+**[旁白_B]{s}**
+* **[旁白_B | 6.0万 | B站](https://space.bilibili.com/335691338?spm_id_from=333.788.upinfo.head.click)**
+
+---
+**[ubilier]{s}**
+* **[ubilier | 8570 | B站](https://space.bilibili.com/360697534/upload/video)**
+
+---
 ### 0003. studytee | B站
 **[studytee]{s}**
 * **[XRay-猎豹 | 只有一次的人生，当然要好好过 | 2.7万 | B站](https://space.bilibili.com/408296955?spm_id_from=333.788.upinfo.detail.click)**
@@ -973,6 +981,12 @@
 **[拾光视界]{s}**
 * **[拾光视界 | 资源来源于公共网络整理仅用于分享学习 | 6.1万 | B站](https://space.bilibili.com/328192011?spm_id_from=333.788.upinfo.head.click)**
   - [Jane Goodall 对话](https://www.bilibili.com/video/BV1PC4y1p7jD/?spm_id_from=333.337.search-card.all.click)
+
+---
+### 0080. Kurzgesagt – In a Nutshell
+**[Kurzgesagt – In a Nutshell]{s}**
+* **[旁白_B | 6.0万 | B站](https://space.bilibili.com/335691338?spm_id_from=333.788.upinfo.head.click)**
+  - **[口袋里的黑洞会怎样杀死你](https://www.bilibili.com/video/BV17MooBYEF3?spm_id_from=333.788.videopod.sections&p=2)**
 
 ---
 ### 9999. 开源项目
