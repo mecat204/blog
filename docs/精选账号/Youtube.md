@@ -4409,6 +4409,23 @@
 * **[Kurzgesagt – In a Nutshell | 2540万 | YTB](https://www.youtube.com/@kurzgesagt/videos)**
 
 ---
+### 0600. 小熊英文故事·播客短剧
+**[Zubzoo Studios]{s}**
+* **[Zubzoo Studios | 2870位 | YTB](https://www.youtube.com/@ZubzooStudios)**
+
+---
+**[kids Haven]{s}**
+* **[kids Haven | 1.83万 | YTB](https://www.youtube.com/@kidsHaven-KH)**
+
+---
+**[Picture This Stories]{s}**
+* **[Picture This Stories | 896 | YTB](https://www.youtube.com/@PictureThisStories/videos)**
+
+---
+**[Fairy Tales and Stories for Kids]{s}**
+* **[Fairy Tales and Stories for Kids | 306万 | YTB](https://www.youtube.com/@FairyTales.English/videos)**
+
+---
 ### 0900. News
 **[ITV News]{s}**
 * **[ITV News | 221万 | YTB](https://www.youtube.com/@ITVNews/videos)**
