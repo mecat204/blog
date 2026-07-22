@@ -297,6 +297,12 @@
 * **[ubilier | 8570 | B站](https://space.bilibili.com/360697534/upload/video)**
 
 ---
+**[董丿丿]{s}**
+* **[董丿丿](https://space.bilibili.com/646154107?spm_id_from=333.788.upinfo.head.click)**
+  - [最新Crash Course Geology系列视频](https://www.bilibili.com/video/BV1DRgy6zEFY/?spm_id_from=333.1387.homepage.video_card.click)
+  - [JForest English：BEST OF Learn English with the News](https://www.bilibili.com/video/BV1Azgz6jE1U/?spm_id_from=333.1387.homepage.video_card.click)
+
+---
 ### 0003. studytee | B站
 **[studytee]{s}**
 * **[XRay-猎豹 | 只有一次的人生，当然要好好过 | 2.7万 | B站](https://space.bilibili.com/408296955?spm_id_from=333.788.upinfo.detail.click)**
@@ -987,6 +993,11 @@
 **[Kurzgesagt – In a Nutshell]{s}**
 * **[旁白_B | 6.0万 | B站](https://space.bilibili.com/335691338?spm_id_from=333.788.upinfo.head.click)**
   - **[口袋里的黑洞会怎样杀死你](https://www.bilibili.com/video/BV17MooBYEF3?spm_id_from=333.788.videopod.sections&p=2)**
+
+---
+### 0081. 太阳系 Solar system
+**[Solar system]{s}**
+* **[太阳系 Solar system](https://www.bilibili.com/bangumi/play/ss75753?spm_id_from=333.337.0.0)**
 
 ---
 ### 9999. 开源项目

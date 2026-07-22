@@ -4328,6 +4328,20 @@
     - [siliconvalleygirl](https://siliconvalleygirl.beehiiv.com/)
 
 ---
+### 0042. BBC
+**[BBC]{s}**
+* **[BBC | 1560万 | YTB](https://www.youtube.com/@BBC/videos)**
+
+
+---
+### 0043. Dwarkesh Patel
+**[Dwarkesh Patel]{s}**
+* **[Dwarkesh Patel | Deeply researched interviews 深入研究的访谈；经过深度研究的采访 | 137万 | YTB](https://www.youtube.com/@DwarkeshPatel/videos)**
+
+* **[Dwarkesh Podcast]{s}**
+  - [dwarkesh](https://www.dwarkesh.com/p/adam-brown-gr)
+
+---
 ### 0099. AI - video
 **[Serene Video AI · music]{s}**
 * **[Serene Video AI | 2.89万 | YTB](https://www.youtube.com/@SereneVideoAI)**
@@ -4429,6 +4443,20 @@
 ### 0900. News
 **[ITV News]{s}**
 * **[ITV News | 221万 | YTB](https://www.youtube.com/@ITVNews/videos)**
+
+---
+### 1000. GPT词源学
+**[CrashCourse]{s}**
+* **[CrashCourse | 1710万 | YTB](https://www.youtube.com/@crashcourse/videos)**
+
+---
+**[Etymology Nerd]{s}**
+* **[Etymology Nerd | 73.5万 | YTB](https://www.youtube.com/@etymology_nerd)**
+
+---
+### 2000. Astral Curiosity | Exploring the universe
+**[Astral Curiosity]{s}**
+* **[Astral Curiosity | 4.18万 | YTB](https://www.youtube.com/@astralcuriosity/videos)**
 
 ---
 ### 9999. Download
