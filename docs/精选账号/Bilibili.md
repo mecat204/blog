@@ -189,6 +189,7 @@
 ---
 **[大海英语看世界]{s}**
 * **[大海英语看世界 | 跟随大海英语频道，畅游英语的浩瀚海洋。以英语为翼，飞向更广阔的世界，领略不同文化的魅力。面朝大海，春暖花开, 开启属于你的无限可能 | 49.8万](https://space.bilibili.com/1476827523?spm_id_from=333.788.upinfo.head.click)**
+  - [全集 美国中小学 | Brian Stuart](https://www.bilibili.com/video/BV1DmMt6pEzj/?spm_id_from=333.1387.homepage.video_card.click&vd_source=19beb856dede8620770a18feaaf13ae2)
 
 ---
 **[i英语corner]{s}**
@@ -468,9 +469,14 @@
 * **[Girls Gone Bible | 85.9万 | YTB](https://www.youtube.com/@GirlsGoneBible/videos)**
 
 ---
-### 0019. Ariannita la Gringa | 英语百科 | B站
+### 0019. Ariannita la Gringa | 英语百科&大海英语看世界 | B站
 **[Ariannita la Gringa]{e}**
 * **[Ariannita la Gringa | 如何在美国买房 | YTB: Ariannita la Gringa](https://www.bilibili.com/video/BV1hprKY2EZ3/?spm_id_from=333.337.search-card.all.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
+
+---
+**[Ariannita la Gringa]{e}**
+* **[3075 | 大海英语看世界](https://www.bilibili.com/video/BV1G6VKz4E94?spm_id_from=333.788.videopod.sections&vd_source=19beb856dede8620770a18feaaf13ae2)**
+* **[3087F | 大海英语看世界](https://www.bilibili.com/video/BV14mMc6BEx7/?spm_id_from=333.1387.homepage.video_card.click&vd_source=19beb856dede8620770a18feaaf13ae2)**
 
 ---
 * **[Ariannita la Gringa | 202万  | YTB](https://www.youtube.com/@ariannitalagringa)**
