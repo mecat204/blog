@@ -4448,6 +4448,7 @@
 ### 1000. GPT词源学
 **[CrashCourse]{s}**
 * **[CrashCourse | 1710万 | YTB](https://www.youtube.com/@crashcourse/videos)**
+  - **[Crash Course Geology](https://www.youtube.com/watch?v=YokkwzdZX2A&list=PL8dPuuaLjXtMuxfQl-TBfSHokgpbLvKX9&index=1)**
 
 ---
 **[Etymology Nerd]{s}**

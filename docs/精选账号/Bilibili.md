@@ -299,8 +299,20 @@
 ---
 **[董丿丿]{s}**
 * **[董丿丿](https://space.bilibili.com/646154107?spm_id_from=333.788.upinfo.head.click)**
-  - [最新Crash Course Geology系列视频](https://www.bilibili.com/video/BV1DRgy6zEFY/?spm_id_from=333.1387.homepage.video_card.click)
+  - [Crash Course Geology(地质学)](https://www.bilibili.com/video/BV1DRgy6zEFY/?spm_id_from=333.1387.homepage.video_card.click)
   - [JForest English：BEST OF Learn English with the News](https://www.bilibili.com/video/BV1Azgz6jE1U/?spm_id_from=333.1387.homepage.video_card.click)
+
+---
+**[单崧]{s}**
+* **[单崧 | 哲学、历史、语言学和语言学习爱好者，古希腊语学习中 | 239位 | B站](https://space.bilibili.com/89430079?spm_id_from=333.788.upinfo.head.click)**
+  - [Scientific Thinking Preview](https://www.bilibili.com/video/BV1D5zEBAEyT/?spm_id_from=333.1387.homepage.video_card.click)
+
+---
+**[幻导メbiliman]{s}**
+* **[幻导メbiliman | 学习/翻译。英语/科普/人与自然/人与社会/人与自我/各学科知识。只搬运翻译自己喜欢的，仅作分享，工作忙，随缘更。| 7.2万 | B站](https://space.bilibili.com/2702416?spm_id_from=333.788.upinfo.head.click)**
+  - [Crash Course Zoology(动物学)](https://www.bilibili.com/video/BV1oL4y187j6/?spm_id_from=333.1387.homepage.video_card.click)
+  - [Crash Course Scientific Thinking Preview](https://www.bilibili.com/video/BV1TRztBoErJ/?spm_id_from=333.1387.0.0)
+
 
 ---
 ### 0003. studytee | B站
@@ -998,6 +1010,32 @@
 ### 0081. 太阳系 Solar system
 **[Solar system]{s}**
 * **[太阳系 Solar system](https://www.bilibili.com/bangumi/play/ss75753?spm_id_from=333.337.0.0)**
+
+---
+### 0082. Crash Course
+**[幻导メbiliman]{s}**
+* **[幻导メbiliman | 学习/翻译。英语/科普/人与自然/人与社会/人与自我/各学科知识。只搬运翻译自己喜欢的，仅作分享，工作忙，随缘更。| 7.2万 | B站](https://space.bilibili.com/2702416?spm_id_from=333.788.upinfo.head.click)**
+  - [Crash Course Zoology(动物学)](https://www.bilibili.com/video/BV1oL4y187j6/?spm_id_from=333.1387.homepage.video_card.click)
+  - [Crash Course Geography(地理学)](https://www.bilibili.com/video/BV1p64y137cr/?spm_id_from=333.788.recommend_more_video.2&trackid=web_related_0.router-related-2589621-l95s2.1784822277217.463)
+  - [Crash Course Botany(植物学)](https://www.bilibili.com/video/BV1NE421A72S/?spm_id_from=333.1387.homepage.video_card.click)
+  - [Crash Course Geography(地理学)](https://www.bilibili.com/video/BV1NE421A72S/?spm_id_from=333.1387.homepage.video_card.click)
+  - [Crash Course Scientific Thinking(科学思维) Preview(序章)](https://www.bilibili.com/video/BV1TRztBoErJ/?spm_id_from=333.1387.0.0)
+  - [NEW Crash Course Biology(生物学) Series](https://www.bilibili.com/video/BV1ET41147WQ/?spm_id_from=333.1387.0.0)
+  - [Crash Course Sex Ed Preview](https://www.bilibili.com/video/BV1rqQpYqEnq/?spm_id_from=333.1387.0.0)
+
+---
+**[董丿丿]{s}**
+* **[董丿丿](https://space.bilibili.com/646154107?spm_id_from=333.788.upinfo.head.click)**
+  - [Crash Course Geology(地质学)](https://www.bilibili.com/video/BV1DRgy6zEFY/?spm_id_from=333.1387.homepage.video_card.click)
+  - [JForest English：BEST OF Learn English with the News](https://www.bilibili.com/video/BV1Azgz6jE1U/?spm_id_from=333.1387.homepage.video_card.click)
+
+---
+**[CRASH COURSE]{s}**
+* **[CRASH COURSE](https://thecrashcourse.com/)**
+
+---
+**[CrashCourse]{s}**
+* **[CrashCourse | 1710万 | YTB](https://www.youtube.com/@crashcourse/videos)**
 
 ---
 ### 9999. 开源项目
