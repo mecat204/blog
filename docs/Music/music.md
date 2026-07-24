@@ -1674,6 +1674,7 @@
 ---
 ### 0030. Chari xcx | 油管
 * **[Charli xcx | 405万 | 油管](https://www.youtube.com/@officialcharlixcx/videos)**
+
   - [En: The official YouTube Channel of Charli xcx]{s}
   - [Cn: 查理xcx 的官方YouTube频道]{g}
 
@@ -1747,6 +1748,21 @@
     - [比起被设计好的完美 带瑕疵的真实才更值得奔赴 | 003](https://v.douyin.com/6865TxI4Zv0/)
     - [这不是你的错 你值得被这个世界好好对待 | 004](https://v.douyin.com/YPtYiB1Mzu0/)
     - [比死神先来的是斯嘉丽 | 005](https://v.douyin.com/cJWYRGimaAw/)
+
+---
+### 0035. GenshinImpact && SXDX_Music
+**[朗姆巴巴]{s}**
+* **[朗姆巴巴 | 寻找一个做木偶的达人合作 | 壁纸:rum88.huotan.net](https://v.douyin.com/7QrNGqGx7TQ/)**
+
+  ---
+  **[001. GenshinImpact·Music]{g}**
+    - [哥伦比娅の地中海假日 这个假期来一趟说走就走的旅行！ 伙伴们2026新年快乐 | 001](https://v.douyin.com/_CZvA7n7q3w/)
+    - [哥伦比娅の瑞士一日游 这样的娅娅你喜欢吗 | 歌手：SXDX_Music](https://v.douyin.com/A0XjydBuViw/)
+    - [芙：那么！ 下个假期陪我去海洋王国吧 | rum88](https://v.douyin.com/3GJ_zCeTU0Q/)
+    - [那么 这趟列车的下一站又会是哪里呢 | BGM：She's all yours 歌手：SXDX_Music](https://v.douyin.com/35aky0KcXek/)
+    - [尼可也要当轻小说女主角 | BGM:How Close Am l 歌手:SxDx Music](https://v.douyin.com/JI-KuR0h-9Q/)
+    - [—— 少女们终将重逢 | BGM：Floating over the horizon 歌手：SXDX_Music](https://v.douyin.com/HH01lPo70k0/)
+    - [娅娅：看我捏爆小猫的肉脸 这次是双人游 | BGM：Promise 歌手：SXDX_Music](https://v.douyin.com/fkghmx3X7VI/)
 
 ---
 ### 9999. Music·Course

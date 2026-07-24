@@ -1349,6 +1349,16 @@
     - [Official website - Annecy International Animation Film Festival and Market](https://www.annecyfestival.com/)
 
 ---
+### 0061. 深维-AIGC
+**[深维-AIGC]{s}**
+* **[深维-AIGC | 💻AIGC设计师 抖音独家 I 爱好随便画画 随意摄影 | 叁佰章 | Douyin](https://v.douyin.com/jzhQx_V62WQ/)**
+
+  ---
+  **[001. 十二星座-中式风景系列]{g}**
+    - [十二星座之选择你星座的专属庭院雪景 | 001](https://v.douyin.com/b3sNKE8chDc/)
+    - [ 十二星座之选择你星座的专属框景美学中式园林| Music: 归零-魔鬼花园 | 008](https://v.douyin.com/AfPO3XbeF1Q/)
+
+---
 ### 9999. Download
 **[必应]{s}**
 * **[必应 | bing.com](https://cn.bing.com/)**

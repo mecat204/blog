@@ -650,6 +650,58 @@
   - [6.7 - The Truth About Teyvat’s Moon Is Insane | Min: 05H:41M:31S ](https://www.youtube.com/watch?v=mUjol3LBzuc)
 
 ---
+### 0020. 谪仙 | GenshinImpact
+**[謫仙]{s}**
+**[謫仙 | 米游启动 动画混剪，剧情党 | 贰仟章 | Douyin](https://v.douyin.com/3kLmntSuM0k/)**
+
+  ---
+  **[001. 原神翻唱]{s}**
+    - [原神 把原神拼好给你 | 001](https://v.douyin.com/-yS5wmaVy2w/)
+    - [纳塔已至尾声，回首望去满满的回忆 | 010](https://v.douyin.com/RGC_Ta3s0iE/)
+    - [谁说我们原神只有刀的，希望大家每天都能过得更好一点 | 015](https://v.douyin.com/N0V2wqgFhkk/)
+    - [在提瓦特的史诗里书写旅人篇章，每片土地都有未完待续的传说 | 017](https://v.douyin.com/zMYpBnz-C50/)
+
+
+  ---
+  **[002. 原神]{s}**
+    - [芙宁娜要快乐的活下去 | 001](https://v.douyin.com/NTI4zVrTtKs/)
+    - [原神四周年 | 010](https://v.douyin.com/RvYeUDAKgAs/)
+    - [国庆了，带小姨在璃月到处逛逛 | 020](https://v.douyin.com/9T-Wvw4pM_Y/)
+    - [小姨来了，不要错过原神5.1前瞻直播哦 | 030](https://v.douyin.com/f1zWEc0FeXU/)
+    - [这次是真的再见了 影 | 040](https://v.douyin.com/-YcsjRGaENA/)
+    - [以此4分34秒来阐述旅行的意义到底是什么 | 050](https://v.douyin.com/UaMs3q3PgPk/)
+    - [欲买桂花同载酒，只可惜故人何日再见 | 060](https://v.douyin.com/5fysJkEq8yk/)
+    - [我名申鹤命格孤煞易伤身边人 | 070](https://v.douyin.com/kPFMp1TX3ko/)
+    - [让世界彻底遗忘我 | 080](https://v.douyin.com/s_JgmlOkTEk/)
+    - [原神中的那些超帅救场 | 090](https://v.douyin.com/vLrV-fdWrWw/)
+    - [我将点燃心海 | 100](https://v.douyin.com/Bpx_Pyiv0ls/)
+    - [我看是谁还没有希诺宁 | 110](https://v.douyin.com/wf7wRvxTxgs/)
+    - [是将军大人 | 120](https://v.douyin.com/5MDCDxYXvLk/)
+    - [申鹤快点复刻吧 | 130](https://v.douyin.com/wSyhr_8xaos/)
+    - [小姨快到碗里来 | 140](https://v.douyin.com/rdb-wM3lIq0/)
+    - [这么帅的黄泉不抽一个吗 | 150](https://v.douyin.com/J1Hbj1f7SGY/)
+    - [我看谁还没有抽到老登 | 160](https://v.douyin.com/0ikTFQLMFUg/)
+    - [不要啊老米，为什么是寿命刀 | 170](https://v.douyin.com/Q60Tiv9mI8Q/)
+    - [她真的好美好可爱啊 | 180](https://v.douyin.com/0vcmR6GXAGk/)
+    - [就剩七天了大家都抽到火神了吧 | 190](https://v.douyin.com/N13tGrYX_3c/)
+    - [终于抽到茜特菈莉了 | 200](https://v.douyin.com/sZRfjnCOx5k/)
+    - [小姐少爷们放假了欢迎回家 | 210](https://v.douyin.com/DZoZbOvz46M/)
+    - [雷系大姐姐真好看 | 220](https://v.douyin.com/0G6FsLMyAiQ/)
+    - [这就不得不抽一个了 | 230](https://v.douyin.com/91LgcGSPAcQ/)
+    - [芙芙就要复刻了速速攒原石 | 240](https://v.douyin.com/SRy1ptcnKCA/)
+    - [芙芙复刻大家应该都抽到了吧 | 250](https://v.douyin.com/7z-F-82GD70/)
+    - [原神今日天气播报 | 260](https://v.douyin.com/mHA9iFJ4Mjo/)
+    - [原神 用巴啦啦小魔仙的方式打开瓦雷莎 | 270](https://v.douyin.com/ewDUzXDoujs/)
+    - [老登帅气依旧啊 | 280](https://v.douyin.com/RvH5gtV-jhU/)
+    - [当你的角色会进化后 | 290](https://v.douyin.com/z6aQAEZJom4/)
+    - [爱可菲 | 300](https://v.douyin.com/EY7vrhHlT0I/)
+    - [原来公子是被从小丢到大的 | 310](https://v.douyin.com/0-3Xy9JfZfI/)
+    - [永恒啊...就像樱花，越是绚烂短暂，越让人着迷。可要是一直盛开不谢，反而会腻味呢 | 320](https://v.douyin.com/e57ci-3HRLc/)
+    - [这次是真的再见了原神 | 400](https://v.douyin.com/GoH6xf3XNFQ/)
+    - [我舍弃翅膀，并非是坠落，而是为了触碰；我舍弃声音也并非是缄默，只是为了在评价之前好好倾听神圣的潜力 | 500](https://v.douyin.com/mJ525n9RV2g/)
+    - [原来是幻 原来是梦 是错 | 539](https://v.douyin.com/F3891xmyOhc/)
+
+---
 ### 9999. Download
 **[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**
