@@ -51,6 +51,10 @@
     * [SlowEnglish](EnglishCourse/SlowEnglish/SlowEnglish)
 
   ---
+  - **Ai短剧**
+    * [Ai短剧](EnglishCourse/Ai短剧/Ai短剧)
+
+  ---
   - **雪梨Teacher**
     * [小学 | 第一册 | 人与自我](EnglishCourse/雪梨Teacher/小学第一册·人与自我)
     * [小学 | 第二册 | 人与社会](EnglishCourse/雪梨Teacher/小学第二册·人与社会)
