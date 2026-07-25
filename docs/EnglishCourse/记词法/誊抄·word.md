@@ -7,7 +7,7 @@
 **[大大西 | 视觉翻译与视觉语言实验]{s}**
 * **[大大西 | 视觉翻译与视觉语言实验 | 伍佰章 | Douyin](https://v.douyin.com/WViuMn5lH78/)**
   - [抓](https://v.douyin.com/L5HhjxUIipk/)
-  - [grab快速抓一下(瞬间动作)| grip死抓不放(持续控制)| grasp成功抓到并真正掌握(最终获得)]{g}
+  - [grab快速抓一下(瞬间动作)| grip死抓不放(持续控制)| grasp成功抓到并真正掌握(最终获得)]{lb}
 
 ---
 ### 0002. 明熙在记录·粉笔记录s
@@ -26,9 +26,9 @@
 **[JH]{e}**
 * **[JH | 拥有的从来都是侥幸，无常才是人生的常态，所有的成熟都是从失去开始。| 千章](https://v.douyin.com/gPq5wDayQ4U/)**
   - [英语人生感悟 英文语录经典治愈系](https://v.douyin.com/WxSHLc_ucrI/)
-  - [Solve the problem, or leave the problem. Do not live with the proble]{g}
+  - [Solve the problem, or leave the problem. Do not live with the proble]{lb}
   - [You make a decision](https://v.douyin.com/TNlT6y2htnA/)
-  - [If you want to make the wrong desision, ask everyone. The more people you ask, the less you hear yourself.]{g}
+  - [If you want to make the wrong desision, ask everyone. The more people you ask, the less you hear yourself.]{lb}
 
 ---
 ### 0004. E³
@@ -36,11 +36,11 @@
 * **[E³ | 国际学校老师及线上老师，200/class | Douyin](https://v.douyin.com/iItHhLVSB3U/)**
 
   - [Acronyms | 首字母缩写词](https://v.douyin.com/7_PB8uOPm_A/)
-  - [IDK: I don't know | FYI: For your information | ILY: I Love You. | NVM: Never mind | OMW: On My way |  XOXO: Hugs and Kisses | GR8: Great |  TBH: To Be Honest | NP: No problem |  BRB: Be right back | G2G: Got TO Go | SMH : Shaking My head]{g}
+  - [IDK: I don't know | FYI: For your information | ILY: I Love You. | NVM: Never mind | OMW: On My way |  XOXO: Hugs and Kisses | GR8: Great |  TBH: To Be Honest | NP: No problem |  BRB: Be right back | G2G: Got TO Go | SMH : Shaking My head]{lb}
 
   ---
   - [A piece of information](https://v.douyin.com/MQXTH4CdgE4/)
-  - [A clove of gralic(大蒜). | A grain of rice(米). | A bunch of grapes(葡萄). | A carton of milk. | A cube of sugar. | A loaf of bread. | A slice of pizza. | A deck of cards. | A tube(管) of toothpaste(牙膏). | A bar of soap(肥皂).]{g}
+  - [A clove of gralic(大蒜). | A grain of rice(米). | A bunch of grapes(葡萄). | A carton of milk. | A cube of sugar. | A loaf of bread. | A slice of pizza. | A deck of cards. | A tube(管) of toothpaste(牙膏). | A bar of soap(肥皂).]{lb}
 
 ---
 ### 0005. Liyiang | Book
@@ -50,7 +50,7 @@
   ---
   **[誊抄]{g}**
     - **[001](https://v.douyin.com/XGw9GbodDhM/)**
-    - [How many undervalue the power of simplicity! But it is the real key to the heart. ·William Wordsworth 太多人低估朴素的力量， 可唯有质朴， 才是直抵人心的真正密钥。——威廉·华兹华斯 威廉·华兹华斯，英国浪漫主义诗人，曾当上桂冠诗人。其诗歌理论推动了英国诗歌的革新和浪漫主义运动的发展。其诗句“朴素生活，高尚思考（plain living and high thinking）”被作为牛津大学基布尔学院的格言 。代表作品有《她住在人迹罕至的地方》、《水仙花》等。]{g}
+    - [How many undervalue the power of simplicity! But it is the real key to the heart. ·William Wordsworth 太多人低估朴素的力量， 可唯有质朴， 才是直抵人心的真正密钥。——威廉·华兹华斯 威廉·华兹华斯，英国浪漫主义诗人，曾当上桂冠诗人。其诗歌理论推动了英国诗歌的革新和浪漫主义运动的发展。其诗句“朴素生活，高尚思考（plain living and high thinking）”被作为牛津大学基布尔学院的格言 。代表作品有《她住在人迹罕至的地方》、《水仙花》等。]{lb}
 
 ---
 ### 0006. 罐头人
@@ -65,15 +65,15 @@
   ---
   **[001. music · 誊抄]{g}**
     - [make money | 001](https://v.douyin.com/xs1_M8hbqVY/)
-    - [You don't have to be everyone's butterfly. Be a bee. Mind your business, make your honey, and sting people when necessary.]{g}
+    - [You don't have to be everyone's butterfly. Be a bee. Mind your business, make your honey, and sting people when necessary.]{lb}
 
     ---
     - [妆容是微笑，首饰是谦逊，穿搭是自信，良药是积极的心态 | 002](https://v.douyin.com/P9nkjsHkIww/)
-    - [The best makeup is a smile. The best jewelry is modest. The best outfit is confidence. And the best medicine is a positive mindset.]{g}
+    - [The best makeup is a smile. The best jewelry is modest. The best outfit is confidence. And the best medicine is a positive mindset.]{lb}
 
     ---
     - [命运自有安排 有时候，命运会带你踏上一段你未曾知晓自己需要的旅程，最终把你梦寐以求的一切都带到你身边。相信冥冥之中的安排。| 003](https://v.douyin.com/ZjNz1loKIWk/)
-    - [Sometimes the universe takes you in a journey you didn't know you needed, to bring you everyting you ever wanted. Trust the plan.]{g}
+    - [Sometimes the universe takes you in a journey you didn't know you needed, to bring you everyting you ever wanted. Trust the plan.]{lb}
 
 ---
 ### 0008. TracyGogogo
@@ -94,11 +94,11 @@
   ---
   **[001. 誊抄集]{g}**
     - [001](https://v.douyin.com/VvqD2zgCznw/)
-    - [没有哪个家庭是完美的, 我们争吵, 我们打架, 我们有分歧, 有时甚至彼此不说话, 但这就是人类的现实, 任何关系都难免有挣扎, 然而最终, 家人始终是家人。 No family is perfect, we argue, we fight, we have our disagreements, and sometimes we even stop talking to each other but that's the reality of being human, no relationship is without its struggles, yet in the end, family is family. | 无论经历高峰还是低估, 无论面对艰难时刻还是平静时刻, 爱始终都在。它存在于我们共享的纽带中, 存在于我们共同创造的记忆中。 Through all the highs and lows, the tough moments and the quiet ones, the love will always be there. It's in the bonds we share, the memories we build.  |  它在于我们明白, 无论我们可能走得多远, 我们始终相连, 家庭不是追求完美, 而是彼此陪伴, 在必要时相互原谅, 接受彼此真实的模样。 它在于学习, 在于成长。 And the understanding that no matter how far apart we may drift, we are always connected, family isn't about perfection, it's about showing up for each other, forgiving when neccssary and accepting each other for who we truly are. It's about leaning, growing.]{g}
+    - [没有哪个家庭是完美的, 我们争吵, 我们打架, 我们有分歧, 有时甚至彼此不说话, 但这就是人类的现实, 任何关系都难免有挣扎, 然而最终, 家人始终是家人。 No family is perfect, we argue, we fight, we have our disagreements, and sometimes we even stop talking to each other but that's the reality of being human, no relationship is without its struggles, yet in the end, family is family. | 无论经历高峰还是低估, 无论面对艰难时刻还是平静时刻, 爱始终都在。它存在于我们共享的纽带中, 存在于我们共同创造的记忆中。 Through all the highs and lows, the tough moments and the quiet ones, the love will always be there. It's in the bonds we share, the memories we build.  |  它在于我们明白, 无论我们可能走得多远, 我们始终相连, 家庭不是追求完美, 而是彼此陪伴, 在必要时相互原谅, 接受彼此真实的模样。 它在于学习, 在于成长。 And the understanding that no matter how far apart we may drift, we are always connected, family isn't about perfection, it's about showing up for each other, forgiving when neccssary and accepting each other for who we truly are. It's about leaning, growing.]{lb}
 
     ---
     - [002](https://v.douyin.com/ltkPiHrM2lM/)
-    - [我认为我们花太多时间害怕自己的平庸。我们不想唱的太大声,以免被人发现我们的嗓音并不如玻璃般清脆。I think we spend too much time being afraid of our own mediocrity. We don't want to sing too loudly in case anyone finds out we don't have a voice like glass. | 我们不写音乐, 因为我们不是莫扎特; 我们不画画, 因为我们不是毕加索; 我们不告诉别人我们爱他们, 因为说出来时我们的声音可能会颤抖; 我们努力成为出色的哭泣者, 却不去跳舞, 因为我们没那么好。 We don't write music because we aren't Mozart, we don't paint because we aren't Picasso, we don't tell people we love them because our voice might shake when we say it, we try to pretty criers and we don't dance because we aren't good. | 我们人性的现实是, 我们在很多事情上都很平庸, 事实是, 我们都不那么出色, 所以别再因为不是万事通而束缚自己, 不去享受自己喜欢的事情。The reality of our hummanity is that we are all a little bit averaged at a lot of things, the truth is that we're all not that good so stop holding yourself back from enjoying the things that you love because you're not a prodigy at everything. | 放声高歌, 大声表白, 让你的声音颤抖, 哭泣, 流下又大又丑的眼泪, 尽情地跳舞吧, 因为生命短暂, 我们不应害怕成为人类。Scream the song at the top of your lungs and confess your love and let your voice be shaky, cry, big, ugly tears and dance really badly because life is too short to be scared of being human.]{g}
+    - [我认为我们花太多时间害怕自己的平庸。我们不想唱的太大声,以免被人发现我们的嗓音并不如玻璃般清脆。I think we spend too much time being afraid of our own mediocrity. We don't want to sing too loudly in case anyone finds out we don't have a voice like glass. | 我们不写音乐, 因为我们不是莫扎特; 我们不画画, 因为我们不是毕加索; 我们不告诉别人我们爱他们, 因为说出来时我们的声音可能会颤抖; 我们努力成为出色的哭泣者, 却不去跳舞, 因为我们没那么好。 We don't write music because we aren't Mozart, we don't paint because we aren't Picasso, we don't tell people we love them because our voice might shake when we say it, we try to pretty criers and we don't dance because we aren't good. | 我们人性的现实是, 我们在很多事情上都很平庸, 事实是, 我们都不那么出色, 所以别再因为不是万事通而束缚自己, 不去享受自己喜欢的事情。The reality of our hummanity is that we are all a little bit averaged at a lot of things, the truth is that we're all not that good so stop holding yourself back from enjoying the things that you love because you're not a prodigy at everything. | 放声高歌, 大声表白, 让你的声音颤抖, 哭泣, 流下又大又丑的眼泪, 尽情地跳舞吧, 因为生命短暂, 我们不应害怕成为人类。Scream the song at the top of your lungs and confess your love and let your voice be shaky, cry, big, ugly tears and dance really badly because life is too short to be scared of being human.]{lb}
 
 ---
 ### 0012. summer
@@ -108,19 +108,19 @@
   ---
   **[001. 英语口语天天练]{g}**
     - [一群 | 001](https://v.douyin.com/7Sbj3XcIdKM/)
-    - [a school of fish 一群鱼. a pride of lions 一群狮子. a troop of monkeys 一群猴子. a herd of cows 一群牛. a flock of bird 一群鸟. a pod of whales 一群鲸鱼. a nest of snakes 一群蛇. a swarm of bees 一群蜜蜂. a pack of wolves 一群狼. a colony of ants 一群蚂蚁.]{g}
+    - [a school of fish 一群鱼. a pride of lions 一群狮子. a troop of monkeys 一群猴子. a herd of cows 一群牛. a flock of bird 一群鸟. a pod of whales 一群鲸鱼. a nest of snakes 一群蛇. a swarm of bees 一群蜜蜂. a pack of wolves 一群狼. a colony of ants 一群蚂蚁.]{lb}
 
     ---
     - [秒懂with的五种核心用法 | 002](https://v.douyin.com/mA-hD-532IQ/)
-    - [I play with my friend. The bag with a cat is my sister's. I cut the apple with a knige. With the snow, the school was closed. With time going by, we grow up.]{g}
+    - [I play with my friend. The bag with a cat is my sister's. I cut the apple with a knige. With the snow, the school was closed. With time going by, we grow up.]{lb}
 
     ---
     - [物主代词: 形容词性物主代词; 名词性物主代词| 003](https://v.douyin.com/md3wajaV-cI/)
-    - [This is my desk. This is your desk. This is his desk. This is her desk. This is its desk. This is their desk. | This desk is mine. This desk is yours. This desk is his. This desk is hers. This desk is its. This desk is their.]{g}
+    - [This is my desk. This is your desk. This is his desk. This is her desk. This is its desk. This is their desk. | This desk is mine. This desk is yours. This desk is his. This desk is hers. This desk is its. This desk is their.]{lb}
 
     ---
     - [频率副词](https://v.douyin.com/lM5kjO7pif8/)
-    - [always 总是. generally 通常. usually 经常. often 时常. sometimes 有时. occasionally 偶尔. sealom 很少. rarelly 极少的. never 从来没有.]{g}
+    - [always 总是. generally 通常. usually 经常. often 时常. sometimes 有时. occasionally 偶尔. sealom 很少. rarelly 极少的. never 从来没有.]{lb}
 
     ---
     - [20个疑问词](https://v.douyin.com/JPPGoqJPWZk/)
@@ -131,19 +131,19 @@
 
     ---
     - [英语天天练习](https://v.douyin.com/5fkQ-3iKXyE/)
-    - [important difficult easy convenient beautiful comfortable necessary different]{g}
+    - [important difficult easy convenient beautiful comfortable necessary different]{lb}
 
     ---
     - [英语核心句型](https://v.douyin.com/zrXyvSKiyOQ/)
-    - [what do you {do, like, want, think, need, see, mean, have, know , prefer} ?]{g}
+    - [what do you {do, like, want, think, need, see, mean, have, know , prefer} ?]{lb}
 
     ---
     - [一串单词](https://v.douyin.com/h3LqZqiPMlg/)
-    - [一瓶水 a bottle of water. 一杯咖啡 a cup of coffee. 一杯牛奶 a glass of milk. 一罐可乐 a can of cola. 一罐蜂蜜 a jar of honey. 一块蛋糕 a piece of cake. 一袋米 a bag of rice. 一片面包 a slice of bread. 一串葡萄 a bunch of grapes. 一碗面条 a bowl of noodles. 一串钥匙 a set of keys. 一双袜子 a pair of socks.]{g}
+    - [一瓶水 a bottle of water. 一杯咖啡 a cup of coffee. 一杯牛奶 a glass of milk. 一罐可乐 a can of cola. 一罐蜂蜜 a jar of honey. 一块蛋糕 a piece of cake. 一袋米 a bag of rice. 一片面包 a slice of bread. 一串葡萄 a bunch of grapes. 一碗面条 a bowl of noodles. 一串钥匙 a set of keys. 一双袜子 a pair of socks.]{lb}
 
     ---
     - [英语语法](https://v.douyin.com/Hz-Sj-yqZXs/)
-    - [be动词有三宝. { am, is, are } 要记牢. 我用  {am } , 你用 { are }, { is } 连着他, 她, 它. 单数主语用{ is }. 复数主语全用 { are }, 一般现在经常性, 主语单三要看清. 动词末尾{ 加s }, 变化规律要记牢. 否定疑问用{ does }, 动词马上回原形. 我你多人用{ have }. 固定搭配别忘记. 他,她,它单数词. 三单固定用{ has }. 感叹句先分清, 名前{ what }形副{ How }数量多少{ How }来守, { many, much, little, few } 修饰多少别含糊. 过去时态加{ ed }, 否定疑问用{ did }. { did }出场大变样, 动词立刻变原形. 进行时态最简单, { be }加动词{ ing } ]{g}
+    - [be动词有三宝. { am, is, are } 要记牢. 我用  {am } , 你用 { are }, { is } 连着他, 她, 它. 单数主语用{ is }. 复数主语全用 { are }, 一般现在经常性, 主语单三要看清. 动词末尾{ 加s }, 变化规律要记牢. 否定疑问用{ does }, 动词马上回原形. 我你多人用{ have }. 固定搭配别忘记. 他,她,它单数词. 三单固定用{ has }. 感叹句先分清, 名前{ what }形副{ How }数量多少{ How }来守, { many, much, little, few } 修饰多少别含糊. 过去时态加{ ed }, 否定疑问用{ did }. { did }出场大变样, 动词立刻变原形. 进行时态最简单, { be }加动词{ ing } ]{lb}
 
 ---
 ### 0013. 妮娜正在学英语
@@ -181,6 +181,77 @@
     - [像极了你不爱我的样子 | 003](https://v.douyin.com/tMlGUG7NpCA/)
     - [治愈世界治愈你 | 004](https://v.douyin.com/bOloX1o3kv0/)
     - [你不是我的月亮 | 005](https://v.douyin.com/BwcuMMKF0xQ/)
+
+---
+### 0018. Good莫迪
+**[Good莫迪]{s}**
+* **[Good墨迪 | 生活中用到的英语单词， 来来回回就那些啊 | 贰佰章 | Douyin](https://v.douyin.com/Tsyh6vYtKNk/)**
+
+  ---
+  **[001. 分类记单词]{g}**
+    - [分类单词｜满屏翠绿绿 | 001](https://v.douyin.com/BdSio2m4RC8/)
+
+    ---
+    - [分类单词｜in 和 inside 到底有啥区别 | 010](https://v.douyin.com/bwMGl5V06zI/)
+
+    ---
+    - [分类单词｜12 个国际节日单词卡 | 020](https://v.douyin.com/9ZazgZ3AR60/)
+
+    ---
+    - [分类单词｜20个常用家电](https://v.douyin.com/rmE_R5QqW0E/)
+
+    ---
+    - [分类单词｜负面情绪 angry 生气、scared 害怕、lonely 孤独 教孩子表达内心感受 | 038](https://v.douyin.com/1vtyxqyAhyw/)
+
+  ---
+  **[002. 情景单词跟读]{g}**
+    - [机上就餐篇 | 001](https://v.douyin.com/LjaBViGHeVA/ )
+    - [机场英语第④期｜机上就餐篇 终于登机落座，飞机上想要餐食、毯子却不会开口， 对着空乘手忙脚乱比划，社死场面不少人都经历过！ 坐飞机英语连载第四弹， 实景配图整理 15 个客舱专用单词 + 3 句实用短句， 点餐、日常求助全都能用，上机直接照着念。 ✅15 个机舱高频词汇（配图对应） overhead luggage rack 行李架 window shade 遮光板 reading light 阅读灯 emergency exit 紧急出口 aisle 过道 passenger 乘客 seatbelt 安全带 tray table 小桌板 blanket 毯子 cabin crew 空乘人员 meal cart 餐车 in-flight meal 餐食 drink 饮料 dessert 甜点 napkin 餐巾 ✅3 句上机刚需口语 👉Could you help me put my bag on the rack? 麻烦帮我把行李放上行李架 👉Can I have some orange juice? 麻烦给我一杯橙汁 👉May I have another drink?可以再续一杯饮品吗？]{lb}
+
+    ---
+    - [机场英语第⑤期 | 002](https://v.douyin.com/JUYVjnXhIaA/)
+    - [15 个落地必背单词 immigration 入境检查 passport control 护照查验 visa 签证 arrival card 入境卡 transit passenger 中转旅客 customs 海关 declaration form 申报单 nothing to declare 无需申报 green channel 绿色通道（无申报通道） red channel 红色通道（申报通道） baggage claim 行李提取处 baggage carousel 行李转盘 baggage cart 行李手推车 exit 航站楼出口 shuttle bus 机场大巴 ✅3 句万能口语 👉Where is baggage claim? 行李提取区在哪？ 👉I have nothing to declare. 我没有需要申报的物品。]{lb}
+
+    ---
+    - [机场英语第③期 | 003](https://v.douyin.com/VUW8O7XtIug/)
+    - [机场英语第③期｜候机大厅 & 登机口篇 过完安检终于到候机区，盯着机场大屏全是英文😆 找不到登机口、看不懂航班状态真着急😣 机场实用英语连载第三弹：15 个候机高频词 + 3 句万能口语， 逛免税店、查航班、等登机全都能用， 出游直接照着读！ ✅15 个候机必备词汇（对应配图） departure lounge 候机室 departures 出发区 arrivals 到达区 gate 登机口 flight information display 航班信息屏 announcement 广播通知 on time 准点 delayed 延误 cancelled 取消 final call 最后一次登机通知 boarding group 登机组别 priority boarding 优先登机 duty-free shop 免税店 currency exchange 货币兑换 VIP lounge 贵宾室 ✅3 句现场直接用短句 👉Where is my departure gate? 我的登机口在哪里？ 👉My flight has been delayed. 我的航班延误了。 👉What time will we board? 咱们几点开始登机]{lb}
+
+    ---
+    - [机场英语第②期｜安检 + 海关出入境 | 004](https://v.douyin.com/Fp1ESue73MA/)
+    - [机场英语第②期｜安检 + 海关出入境 办完值机直奔安检，好多人被拦住不会说，掏东西、过海关全程手足无措！ 15 个常用单词 + 3 句刚需口语，过安检、出入境申报照着念就够用，出国再也不用慌慌张张。 ✅15 个安检 & 海关必备词汇 security check 安检 security scanner 安检扫描仪 customs 海关 passport control/immigration 边检 nothing to declare 无需申报 goods to declare 需申报物品 transit passenger 过境旅客 connecting flight 中转航班 prohibited items 违禁物品 liquids restriction 液体限带规定 remove footwear 脱鞋 remove belt 解腰带 customs inspection 海关查验 duty goods 应税商品 arrival immigration 入境查验 ✅3 句实操短句 Do you have anything to declare? 您有需要申报的物品吗？ Please take off your belt and shoes. 麻烦取下腰带、脱掉鞋子。 All liquids must be packed separately. 所有液体需要单独分装。]{lb}
+
+    ---
+    - [机场英语第①期｜值机托运 | 005](https://v.douyin.com/h73mRJmvHqs/)
+    - [机场英语第①期｜值机托运 坐飞机第一步先办值机，不会英文站柜台手舞足蹈比划，尴尬到抠脚有没有😂 全整理好了！15 个高频用词 + 3 句万能口语，换登机牌、选座位、托运行李、怕行李超重全搞定，出去玩直接照着念就行。 ✅15 个值机必备词汇 international/domestic airport 国际 / 国内机场 terminal building 航站楼 check-in counter 值机柜台 boarding pass 登机牌 flight number 航班号 itinerary 行程单 passport 护照 visa 签证 carry-on luggage 随身行李 checked baggage 托运行李 baggage scale 行李称重秤 overweight luggage 超重行李 first class 头等舱 business class 商务舱 economy class 经济舱 ✅3 句现场直接用的短句 Could I have a window seat? 帮我选个靠窗的座位呗 I’d like to check these bags. 这些行李我要托运 Is my baggage overweight? 我的箱子超重了吗]{lb}
+
+  ---
+  **[003. 小学英语800词]{g}**
+    - [小学800词｜动物1｜分类单词跟读 | 001](https://v.douyin.com/fMzDxxokYS4/)
+    - [crab螃蟹, shrimp小虾, lobster龙虾, seahorse海马, octopus章鱼, turtle海龟, tortoise陆龟, goldfish金鱼, seal海豹, hippo河马,tadpole蝌蚪, giraffe长颈鹿,horse马,pig猪,dog猪]{lb}
+
+    ---
+    - [小学800词｜动物2｜分类单词跟读 | 002](https://v.douyin.com/KiRkq28l9mM/)
+    - [gorilla大猩猩, leopard花豹, kangaroo袋鼠, donkey驴子, camel骆驼, elephant大象, zebra斑马, kitten小猫, cat猫咪, koala考拉]{lb}
+
+    ---
+    - [小学800词｜交通｜分类单词跟读 | 010](https://v.douyin.com/ASE31G1H794/)
+    - [bicyle自行车, motorbike摩托车, car小汽车, bus, train, plane, ship, boat, taxi, truck, van(厢式货车), police car, jeep, yacht游艇, helicopter, station车站, sidewalk人行道, traffic light红绿灯, subway地铁, tram有轨电车]{lb}
+
+    ---
+    - [小学800词｜颜色形状｜分类单词跟读 | 020](https://v.douyin.com/bWQzNz3Ucis/)
+    - [color, red, yellow, blue, green, purple紫色(), white, black, pink, brown, grey, gload, silver银色, circle, triangle三角形, square正方形, rectangle长方形, oval(椭圆形), heart心形]{lb}
+
+    ---
+    - [小学800词｜动物3｜分类单词跟读 | 003](https://v.douyin.com/kGSNcOEGGE8/)
+    - [buffalo水牛, squirrel松鼠, cow奶牛, goat山羊, hamster仓鼠,raccoon(复仇者联盟·小浣熊), hedgehog刺猬, rhino犀牛,worm蚯蚓, snail蜗牛, lizard(蜥蜴), snake(蛇), crocodile(鳄鱼), flog(青蛙), spider(蜘蛛), ant(蚂蚁), ladybug(瓢虫), dinosaur(恐龙), dragon(龙)]{lb}
+
+    ---
+    - [小学800词｜学习2｜分类单词跟读 | 030](https://v.douyin.com/CL6TBKX71l4/)
+    - [compass圆规, ink墨水, paint颜料, science科学]{lb}
+
+    ---
+    - [小学800词｜数字2｜分类单词跟读 | 040](https://v.douyin.com/9tMHVzimS9E/)
+    - [hundred, thousand, million百万, billion十亿, half一半, quarter四分之一, double双倍, triple三倍, first第一, second第二, third第三, forth第四, fifth第五, sixth第六, seventh第七, eighth第八, twenty第二十, thirty三十, forth四十, fifty五十, triple三倍]{lb}
 
 ---
 ### 9999. Download

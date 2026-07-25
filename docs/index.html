@@ -12,7 +12,7 @@
   <link rel="stylesheet" href="https://unpkg.com/docsify-copy-code@2/styles.css" />
   <style>
     .root, .suffix, .prefix, .end, .gray, .lumegreen,
-    .titianred, .marrsgreen, .marrsgreen, .kleinblue, .chinesered{
+    .titianred, .marrsgreen, .marrsgreen, .kleinblue, .chinesered, .lightbule{
       display: inline-block;
       padding: 2px 6px;
       border-radius: 6px;
@@ -31,6 +31,8 @@
     .marrsgreen { background: #018B8D; }
     .kleinblue { background: #002FA7; }
     .chinesered {background: #C8161D;}
+
+    .lightbule {background: #89c3eb;}
 
 /* 勃艮第红 | BURGUNDY RED | #470125
 申布伦黄 | SCHONBRUNNER GELB | #F9D46C
@@ -83,6 +85,7 @@
          .replace(/\[([^\]]+)\]\{m\}/g, '<span class="marrsgreen">$1</span>')
          .replace(/\[([^\]]+)\]\{k\}/g, '<span class="kleinblue">$1</span>')
          .replace(/\[([^\]]+)\]\{c\}/g, '<span class="chinesered">$1</span>')
+         .replace(/\[([^\]]+)\]\{lb\}/g, '<span class="lightbule">$1</span>')
       });
   });
   </script>
