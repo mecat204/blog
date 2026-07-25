@@ -318,6 +318,19 @@
   - [Crash Course Zoology(动物学)](https://www.bilibili.com/video/BV1oL4y187j6/?spm_id_from=333.1387.homepage.video_card.click)
   - [Crash Course Scientific Thinking Preview](https://www.bilibili.com/video/BV1TRztBoErJ/?spm_id_from=333.1387.0.0)
 
+---
+**[牛娃科技第一名]{s}**
+* **[牛娃全科第一名 | 3074 | B站](https://space.bilibili.com/3690981283072309?spm_id_from=333.788.upinfo.detail.click)**
+  - [English Fluency Journey](https://www.bilibili.com/video/BV1vMVH6WEb4/?spm_id_from=333.337.search-card.all.click)
+
+---
+**[学习资源充电站]{s}**
+* **[学习资源充电站 | 专注精品学习 | B站](https://space.bilibili.com/1360100345?spm_id_from=333.788.upinfo.head.click)**
+  - [English Fluency Journey 安娜流利口语](https://www.bilibili.com/video/BV1ijduBZEwV/?spm_id_from=333.788.videopod.episodes)
+
+---
+**[哈佛学霸圈]{s}**
+* **[哈佛学霸圈 | 精校翻译值得学英语用的每一套外教课+真人情景口语+英文动画，制作配套台词本。专注无水印纯净学习资源 | 62.9万 | B站](https://space.bilibili.com/389158539?spm_id_from=333.788.upinfo.detail.click)**
 
 ---
 ### 0003. studytee | B站
@@ -344,9 +357,25 @@
 **[English Fluency Journey]{e}**
 * **[YTB顶级外教Anna外教频道 English Fluency Journey 跟外教学正宗口语发音 流利英语之路](https://www.bilibili.com/video/BV1p8oTBNEa5/?spm_id_from=333.1387.homepage.video_card.click)**
 
-* **[English Fluency Journey 安娜流利口语](https://www.bilibili.com/video/BV1iPLe6aEte/?spm_id_from=333.1387.homepage.video_card.click)**
+---
+**[Youtube知识学苑]{s}**
+* **[Youtube知识学苑 | 完整精品课沟通 | 7.2万 | B站](https://space.bilibili.com/3546574644841304?spm_id_from=333.788.upinfo.detail.click)**
+  - [English Fluency Journey 安娜流利口语](https://www.bilibili.com/video/BV1iPLe6aEte/?spm_id_from=333.1387.homepage.video_card.click)
 
-* **[English Fluency Journey 最全合计](https://www.bilibili.com/video/BV1UC9mY4EdJ/?spm_id_from=333.1387.upload.video_card.click)**
+---
+**[哈佛学霸圈]{s}**
+* **[哈佛学霸圈 | 精校翻译值得学英语用的每一套外教课+真人情景口语+英文动画，制作配套台词本。专注无水印纯净学习资源 | 62.9万 | B站](https://space.bilibili.com/389158539?spm_id_from=333.788.upinfo.detail.click)**
+  - [English Fluency Journey 最全合计](https://www.bilibili.com/video/BV1UC9mY4EdJ/?spm_id_from=333.1387.upload.video_card.click)  -
+
+---
+**[牛娃科技第一名]{s}**
+* **[牛娃全科第一名 | 3074 | B站](https://space.bilibili.com/3690981283072309?spm_id_from=333.788.upinfo.detail.click)**
+  - [English Fluency Journey](https://www.bilibili.com/video/BV1vMVH6WEb4/?spm_id_from=333.337.search-card.all.click)
+
+---
+**[学习资源充电站]{s}**
+* **[学习资源充电站 | 专注精品学习 | B站](https://space.bilibili.com/1360100345?spm_id_from=333.788.upinfo.head.click)**
+  - [English Fluency Journey 安娜流利口语](https://www.bilibili.com/video/BV1ijduBZEwV/?spm_id_from=333.788.videopod.episodes)
 
 ---
 ### 0006. YouTube英语课堂 | B站
