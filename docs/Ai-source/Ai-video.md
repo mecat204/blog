@@ -662,19 +662,91 @@
     - [烟雨江湖：身负锈剑入云深，此地无江湖，唯余草木深 既然这人间太挤，我便去那座漂浮的旧都，讨一杯清净。 齿轮停了，故人散了，只有这山间的雾，还认得我的归途 | 001](https://v.douyin.com/U3w_pPqjfdU/)
     - [原子幻梦：苏联式废土美学的浪漫 寂静掩盖了冰冷的钢铁，我做了一场原子幻梦，独自留在永恒的天空下，寻找消失的未来。| 004](https://v.douyin.com/gWZdmWadVDM/)
 
+---
 ### 0027. 问尘
 **[问尘]{s}**
-* **[问尘 | AI探索者 | 新片场Shotlab签约制作人 | 制作工具Midjourney + 海艺](https://v.douyin.com/gbFV5Z-bLJI/)**
+* **[问尘 | AI探索者 | 新片场Shotlab签约制作人 | 制作工具Midjourney + 海艺 | 伍佰章 | Douyin](https://v.douyin.com/gbFV5Z-bLJI/)**
 
   ---
   **[001. 中式意境-天上琳琅]{g}**
     - [玉京十二阙，雾锁琅函书，不示凡眸 | 001](https://v.douyin.com/y5h3Saeh3KE/)
+
+    ---
+    - [乾坤倒影，暗悬玉壶，不示人间 | 010](https://v.douyin.com/pdRmQELP0Vg/)
+
+    ---
+    - [几笔远山，淡入云烟，不留轮廓。| 020](https://v.douyin.com/OwZqtueDP-k/)
+
+    ---
+    - [一纸星霜，滑落砚池，不染尘心 | 030](https://v.douyin.com/L8ztSz5OG_c/)
+
+    ---
+    - [若能踏云而行，你愿不愿与我共看这人间星河 | 040](https://v.douyin.com/LBE3439zeng/)
+
+    ---
+    - [月华铺阶，轻笼寒梅，不扰清眠 | 050](https://v.douyin.com/-rPAUrNhA38/)
+
+    ---
+    - [长风万里，暗渡云津，不载凡心 | 060](https://v.douyin.com/gsvfQgWiLI0/)
+
+    ---
+    - [万顷瑶台，暗浮霄汉，不染尘喧 | 070](https://v.douyin.com/GZUx9b1Ae88/)
+
+    ---
+    - [弹丸之地，弹指可灭。 | 080](https://v.douyin.com/l7dEP0b4Mgc/)
+
+    ---
+    - [云阙千重，暗司风雨，不润凡花 | 090](https://v.douyin.com/xUsuLGQKLFE/)
+
+    ---
+    - [琼轩半启，暗笼月华，不纳俗念 | 100](https://v.douyin.com/gdhERautOyc/)
+
+    ---
     - [瑶台千回，暗聚云气，不随世流 | 106](https://v.douyin.com/0u267zwOY-4/)
+
+    ---
+    - [天河万顷，暗载月华，不染世尘 | 110](https://v.douyin.com/826lqLJ0gr8/)
+
+    ---
+    - [只在此山中，云深不知处 | 120](https://v.douyin.com/Q33O4fQ1G8U/)
+
+    ---
+    - [天边旋卷的天光一出现，尘封的前世碎片便涌入梦境 | 130](https://v.douyin.com/wyx9CVBLh2o/)
+
+    ---
+    - [松风卷着云浪，星河藏着仙踪，这便是凡人的长生梦 | 140](https://v.douyin.com/piLkogAcA4o/)
+
+    ---
+    - [如果重力颠倒，你会飘向哪座仙山 | 150](https://v.douyin.com/Asx1fQZMmlA/)
+
+    ---
+    - [飞檐挑云，落花惊风。云海有灵，待君重逢。| 160](https://v.douyin.com/M1AJm3BQbQk/)
+
+    ---
+    - [琴声何来，生死难猜，用一生去等待 | 170](https://v.douyin.com/Bo8g_nKg7uU/)
+
+    ---
+    - [十三学得琵琶成 名属教坊第一部 | 171](https://v.douyin.com/n7116u7zsXU/)
+
+    ---
+    - [画中画，景外景，东方独有的借景之美。 | 173](https://v.douyin.com/tEW7RKTCFGk/)
 
   ---
   **[002. 中式美学-镜花水月]{g}**
     - [她站在风里，等山河醒来 | 001](https://v.douyin.com/X7vKQckXp6A/)
+
+    ---
+    - [琼宇巍巍，偶闻天语，不答人间 | 005](https://v.douyin.com/tgK9Lf0ilA0/)
+
+    ---
+    - [千重玄阙，暗锁鸿蒙，不纳凡心 | 010](https://v.douyin.com/qxkzoL4woec/)
+
+    ---
     - [碧虚万里，暗定仙纲，不渡妄人 | 012](https://v.douyin.com/jQKzSxJJFtY/)
+    - [青蓝承岁月，鎏金动飞天 | 015](https://v.douyin.com/xMr_smqCoHQ/)
+
+    ---
+    - [玉京十二阙，雾锁琅函书，不示凡眸 | 017](https://v.douyin.com/m7jR8pENsVI/)
 
 ---
 ### 0028. Home | 家
