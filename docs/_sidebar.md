@@ -9,6 +9,7 @@
   - [Bilibili](精选账号/Bilibili)
   - [Douyin](精选账号/Douyin)
   - [全域](精选账号/全域)
+  - [Record内省](精选账号/Record内省)
   - [GPT](精选账号/GPT)
   - [Future](精选账号/Future.md)
 
