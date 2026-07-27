@@ -4342,6 +4342,16 @@
   - [dwarkesh](https://www.dwarkesh.com/p/adam-brown-gr)
 
 ---
+### 0044. PBS · Public Broadcasting Service()
+**[PBS · Public Broadcasting Service]{s}**
+* **[PBS | 美国公共广播电视机构 | 177万 | YTB](https://www.youtube.com/@PBS/videos)**
+  - [The World’s Largest Concentrated Solar Power Plant | A Brief History of the Future | PBS](https://www.youtube.com/watch?v=2Z_5iRFf-Pc&list=PLzkQfVIJun2KVm7_Pgxma0b7fZBu_xJ97&index=1)
+
+  ---
+  **[psb.org]{s}**
+    - [www.pbs.org](https://www.pbs.org/)
+
+---
 ### 0099. AI - video
 **[Serene Video AI · music]{s}**
 * **[Serene Video AI | 2.89万 | YTB](https://www.youtube.com/@SereneVideoAI)**
@@ -4419,7 +4429,7 @@
 
 ---
 ### 0500. Kurzgesagt – In a Nutshell | Animation
-**Kurzgesagt – In a Nutshell]{s}**
+**[Kurzgesagt – In a Nutshell]{s}**
 * **[Kurzgesagt – In a Nutshell | 2540万 | YTB](https://www.youtube.com/@kurzgesagt/videos)**
 
 ---
