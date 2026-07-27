@@ -277,6 +277,7 @@
 **[我是全球焦点]{s}**
 * **[我是全球焦点 | 37.6万 | B站](https://space.bilibili.com/72647293?spm_id_from=333.788.upinfo.detail.click)**
   - [珍·古道尔临终遗言 Famous Last Words: Dr.Jane Goodall](https://www.bilibili.com/video/BV1ZfxkzAEtf/?spm_id_from=333.337.search-card.all.click)
+  - [Chasing the Moon | 逐月](https://www.bilibili.com/video/BV1uiTe6wEnt?spm_id_from=333.788.videopod.episodes)
 
 ---
 **[aaasssddd9]{s}**
