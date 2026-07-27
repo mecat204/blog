@@ -941,7 +941,55 @@
   - [人间有笔应难画，雨中承露更清妍。](https://v.douyin.com/avWOJ9rHNKo/)
 
 ---
+**[是爱笑的琪琪吖·陕北]{e}**
+* **[是爱笑的琪琪吖 | 爱吃 爱玩 懒洋洋 🌟 祝你开心 🌟 | 佰章 | Douyin](https://v.douyin.com/EOPjBlOCF-s/)**
+  - [来陕北一定要学会腾起来，不然你吃不上一口热乎饭](https://v.douyin.com/cGE9RIbZg4U/)
+
+---
 ### 0011. 直播
+**[苹果香蕉不拿拿]{e}**
+* **[苹果香蕉不拿拿 | 一位10年＋教龄英语老师，分享英语学习方法，同时以输出倒逼输入 |  叁佰章 | 周一早 | Douyin ](https://v.douyin.com/rlY1yRCnb5c/)**
+  - [英语口语 用英语描述自己的日常生活是练习口语非常棒的一个方式。刚开始可以从简单的一个短语，到一个句子，两个句子。每个人都是从简单到难层层递进，相信坚持的力量，我们会越来越棒。](https://v.douyin.com/6x2uK-XhzzA/)
+
+---
+**[科幻风云]{s}**
+* **[科幻风云 | ScientificWind&FantasticRain | 千章 | Douyin](https://v.douyin.com/J2EO4hBDPzU/)**
+
+  ---
+  **[001. THREE-BODY PROBLEM]{g}**
+    - [Three-Body/Part I/ Silent Spring/Chapter 1/The madness years/section 1 | Min: 05:12 | 001](https://v.douyin.com/AjA8TqqlZ0Q/)
+    - [三体 Part III Sunset for Humanity - Chapter 35 The Ruins - section 1 | Min: 04:08 | 232](https://v.douyin.com/VcU3TtSItSg/)
+
+  ---
+  **[002. The Dark Forest]{g}**
+    - [三体 Three Body II - The Dark Forest - 0 Prologue - Section 1 | Min: 07:12 | 001](https://v.douyin.com/d4Hwmrm5I3c/)
+
+    ---
+    - [threebody Three Body II - The Dark Forest - Part II - 2- Year 8, Crisis Era - Section 27 | Min: 02:52 | 100](https://v.douyin.com/Ha_cW95feBI/)
+
+    ---
+    - [Three Body II - The Dark Forest - Part III - 5 - Year 205, Crisis Era - Section 23 | Min: 01:34 | 200](https://v.douyin.com/PXUZyDYvfcQ/)
+
+    ---
+    - [Three Body II - The Dark Forest - Part III - 5 - Year 205, Crisis Era - Section 127 | Min: 02:28 | 300](https://v.douyin.com/Ab1cn5cn9Lw/)
+
+    ---
+    - [共存与见证-CoexistenceWitness Three Body II - The Dark Forest - Part III - 6 - Year 208, Crisis Era - Section 10 结语 | Min: 09:56 | 376](https://v.douyin.com/408_lzJF9eQ/)
+
+    ---
+    - [003. Death's End]{g}
+      - [PART I-Chapter 1-君士坦丁堡失落-第一集 PART I - Chapter 1 - May 1453, C.E. The Death of the Magician - Episode 1  | Min: 08:51 | 001](https://v.douyin.com/_iyHBCFrbh0/)
+
+      ---
+      - [PART I - Chpater 5 - 危机纪元4年云天明 PART I - Chapter 5 - Crisis Era, Year 4 Yun Tianming Episode 1 - The Gift of a Hidden Star | Min: 19:57 | 010](https://v.douyin.com/Gtujz7mi5WE/)
+
+      ---
+      - [PART II-Chapter 9-执剑人-第三集 Chapter 9 Episode 3: The Madonna Ascends—Cheng Xin's Choice | Min: 33:45 | 020](https://v.douyin.com/wxKN2Nkr4hE/)
+
+      ---
+      - [Part II-Chapter 11-饥饿囚笼澳大利亚（1） Part II - Chapter 11 Episode 1: The Hungry Cage—Australia | Min: 58:27 | 024](https://v.douyin.com/blpeS1cAH4o/)
+
+---
 **[林婉儿🎀(中国舞）]{e}**
 * **[林婉儿🎀(中国舞） | 被爱好似有靠山@奶味小桃 每天11:30-14:30 17:00-20:00 ](https://v.douyin.com/G1mxp7C4u5I/)**
   - [就是这一次](https://v.douyin.com/oRcwRLwjg2s/)

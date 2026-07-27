@@ -1096,6 +1096,7 @@
   - [山海寻龙 胡金铨](https://v.douyin.com/3DTWo4p_kjs/)
   - [一曲九歌赋，半世凡尘路](https://v.douyin.com/fEnOOfHvbHM/)
   - [笑傲江湖曲琴箫合奏](https://v.douyin.com/r2y6lZDLt9I/)
+  - [封神往事](https://v.douyin.com/ZgTzCXTcPwY/)
 
 ---
 ### 0044. 白茶荼葵 | GenshinImpact
