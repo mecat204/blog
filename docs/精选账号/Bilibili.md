@@ -25,6 +25,15 @@
 * **[LingQ](https://www.lingq.com/en/)**
 
 ---
+**[Trancy插件在B站上使用的注意事项:]{s}**
+* 切换内网,断开proxy,登录B站网页端。
+* 点击**中文Ai字幕**选项, 调出**Trancy选项**。
+* 有"中文Ai字幕", 才可调用"Trancy"成功.
+* 再依据"Trancy选项"进行设置。
+* 每个视频以此操作。
+* 因此只有极少数部分可以运用,当前仅是部分内测阶段,推广缓慢。
+
+---
 ### 0001. 异世相逢 | B站 up主
 **[Veritasium]{s}**
 * **[Veritasium真理元素 | 4K | Veritasium中国官方频道 探索科学及工程背后的真理 | 商务微信：origami-alice |  107.0万 | B站](https://space.bilibili.com/94742590/lists)**
@@ -256,7 +265,7 @@
 
 ---
 **[黯殇As_ · GenshinImpact]{s}**
-* **[黯殇As_ | 5.2万 | B站](https://space.bilibili.com/98717318?spm_id_from=333.788.upinfo.detail.click)** | 5.2万 | B站](https://space.bilibili.com/98717318?spm_id_from=333.788.upinfo.detail.click)**
+* **[黯殇As_ | 5.2万 | B站](https://space.bilibili.com/98717318?spm_id_from=333.788.upinfo.detail.click)**
 
 ---
 **[全球播客频道]{s}**
