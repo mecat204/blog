@@ -140,7 +140,7 @@
 ---
 **[饭搭子影视·proxy]{g}**
   - [fdzys.com](https://fdzys.com/)
-  - [fdzys.net](https://fdzys.net/)
+  - [fdzys.net.unproxy](https://fdzys.net/)
   - [fdzys666.xyz](https://fdzys666.xyz)
   - [fff666.site](https://fff666.site)
   - [fff666.xyz](https://fff666.xyz)
