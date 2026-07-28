@@ -112,6 +112,8 @@
 ### 0003. dalao.ru
 **[dalao.ru]{s}**
   * **[资源合集](https://b.oe.do/)**
+  * **[鸭先知·tvbox](https://www.yxzhi.com/tvbox)**
+  * **[中国天气地图](https://cnweathermap.com/)**
   * **[iui.su](https://iui.su/link.html)**
     - **[movie](https://movie.ley.best/)**
     - **[b.dalao](https://b.dalao.ru/)**
