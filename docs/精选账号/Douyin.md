@@ -3,6 +3,15 @@
 * **[Download TikTok Videos Without Watermark | Free HD Video &amp; Photo Downloader - DLPanda.com](https://www.dlpanda.com/)**
 
 ---
+**[Douyin创作者中心]{s}**
+* **[creator.douyin](https://creator.douyin.com/)**
+
+---
+**[直播服务平台·主播版]{s}**
+* **[直播服务平台](https://anchor.douyin.com/login?&login_after_redirect=/anchor/review)**
+
+
+---
 **[新概念英语]{g}**
   - [**西瓜英语** | **新概念英语学习**](https://learnenai.com/)
   - [**新概念英语** | NCE.ICHOCHY](https://nce.ichochy.com/)
