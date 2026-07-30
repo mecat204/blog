@@ -11,6 +11,9 @@
 **[EngLearner]{s}**
 * **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
 
+**[Trancy]{s}**
+* **[trancy](https://learn.trancy.org/home)**
+
 ---
 ### 0001. Digital Spaghetti
 **[Digital Spaghetti]{s}**
@@ -3790,9 +3793,11 @@
 **[TED]{s}**
 * **[TED | 2750万 | YTB](https://www.youtube.com/@TED/videos)**
   - [How to Speak Up — Even When You Don’t Want To | Sarah Crawford-Bohl | TED 如何发声——即使你不想说 |莎拉·克劳福德-博尔 |特德](https://www.youtube.com/watch?v=fkOMupkw5D8&list=PLOGi5-fAu8bEXEZ8WBtgjruWlyNB0yZj8)
+  - [The Case for Making Art in a Crisis | Yiyun Kang | TED](https://www.youtube.com/watch?v=WY-jr1m3xq8)
 
 * **[TED | Ideas change everything](https://www.ted.com)**
   - [Sarah Crawford-Bohl](https://www.ted.com/talks/sarah_crawford_bohl_how_to_speak_up_even_when_you_don_t_want_to)
+  - [The case for making art in a crisis](https://www.ted.com/talks/yiyun_kang_the_case_for_making_art_in_a_crisis)
 
 ---
 **[TED-Ed]{s}**
@@ -4353,6 +4358,16 @@
 
 ---
 ### 0099. AI - video
+**[Chloe VS History]{s}**
+* **[Chloe VS History | Powered by PAI 2.0 from @UtopaiStudios | 35.2万 | YTB](https://www.youtube.com/@ChloeVSHistory/videos)**
+  - [I time travelled to Ancient Rome! (Vlog)](https://www.youtube.com/watch?v=aaua5ghidk0&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=1)
+  - [I time travelled to Tudor London in 1536! (Vlog)](https://www.youtube.com/watch?v=-Sd1stYQp-c&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=2)
+  - [I time travelled to D-Day in 1944 (WW2)](https://www.youtube.com/watch?v=ta0xLjMXJ1s&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=4)
+  - [I time travelled to Ancient Egypt in 2400BC! (Vlog)](https://www.youtube.com/watch?v=GJKU9qYGjN8&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=5)
+  - [I time travelled to the Titanic 1912](https://www.youtube.com/watch?v=HZRdKlOHogk&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=6)
+  - [Can I Survive 24 Hours in the Ice Age? (30,000BC)](https://www.youtube.com/watch?v=moKQeOMHqYA&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=6)
+
+---
 **[Serene Video AI · music]{s}**
 * **[Serene Video AI | 2.89万 | YTB](https://www.youtube.com/@SereneVideoAI)**
   - [Fantasy | Dreamlike | Daughters of the Pearlspire Palace](https://www.youtube.com/watch?v=6bOklwBi8Ek&list=RD6bOklwBi8Ek&start_radio=1)

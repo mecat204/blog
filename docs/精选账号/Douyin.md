@@ -48,8 +48,13 @@
   - [转眼春秋半百，我心仍少年。| 天青色等烟雨](https://v.douyin.com/3qQT-YnLDvY/)
 
 ---
+**[一只安达鲁鱼]{e}**
+* **[一只安达鲁鱼 · Cosplay · GenshinImpact | 伍拾章 | Douyin](https://v.douyin.com/WY2t5Bk4QXg/)**
+  - [原神空月之歌 · 尼可](https://v.douyin.com/gF9sl3JrgJw/)
+
+---
 **[杏之干]{e}**
-* **[杏之干 | 二百章 | Douyin](https://v.douyin.com/old4fKr0Ogo/)**
+* **[杏之干 · Cosplay| 二百章 | Douyin](https://v.douyin.com/old4fKr0Ogo/)**
   - [丝柯克](https://v.douyin.com/j87lTVewqiM/)
 
 ---
@@ -956,7 +961,11 @@
 
 ---
 ### 0011. 直播
-**[饭饭·]{e}**
+**[秋言☄︎]{e}**
+* **[秋言☄︎ | 新入坑原神的一个聪明小萌新🎁 每天早上10点-14点直播 | GenshinImpact | Douyin](https://v.douyin.com/2eNDaWrMaeU/)**
+
+---
+**[饭饭· 2027年第一个回家的人]{e}**
 * **[饭饭· | 哈哈哈 | 佰章 | Douyin](https://v.douyin.com/O7AFJc8OmMM/)**
 
 ---

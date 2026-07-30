@@ -134,7 +134,11 @@
 * **[阿酷导航](https://a.cool/)**
 * **[anyongki](https://github.com/anyongki/guannav)**
 * **[imsyy](https://github.com/imsyy?tab=repositories)**
-* **[青禾导航](https://www.xn--fet750e3yf5yw.cn/)**
+* **[青禾导航](https://xn--fet750e3yf5yw.cn/)**
+* **[APP – GDaily](https://www.gdaily.org/app)**
+* **[网址整理](https://www.gdaily.org/22554/2020-watch-video)**
+  - [独播库](https://www.dbku.tv/)
+  - [China.linetv.tw](https://www.linetv.tw/)
 
 
 ---
