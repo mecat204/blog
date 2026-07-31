@@ -27,8 +27,41 @@
 * **[JH | 拥有的从来都是侥幸，无常才是人生的常态，所有的成熟都是从失去开始。| 千章](https://v.douyin.com/gPq5wDayQ4U/)**
   - [英语人生感悟 英文语录经典治愈系](https://v.douyin.com/WxSHLc_ucrI/)
   - [Solve the problem, or leave the problem. Do not live with the proble]{lb}
+
+  ---
   - [You make a decision](https://v.douyin.com/TNlT6y2htnA/)
   - [If you want to make the wrong desision, ask everyone. The more people you ask, the less you hear yourself.]{lb}
+
+  ---
+  - [每天学习英语一点点](https://v.douyin.com/fv9IDJ1y7gg/)
+  - [The most dangerours form of blindness, is believing that your perspective is the only reality. | 最可怕的偏见，是固执地认为自己所见即是全部现实。]{lb}
+
+  ---
+  - [Not everyone deserves what you give](https://v.douyin.com/S20n9sFyCpo/)
+  - [Not everyone deserves what you give | 并非所有人，都值得你倾尽所有。]{lb}
+
+  ---
+  - [In a race between a lion and a deer](https://v.douyin.com/4Kz6EmI9rJc/)
+  - [In a race between a lion and a deer, the deer often survives—because the lion runs a meal, but the deer runs for its life. Purpose is more powerful than need. 狮子与鹿的追逐中，鹿往往能活下来。因为狮子奔跑只是为了一顿饭，而鹿奔跑是为了活命。目标感，比单纯的需求更有力量。]{lb}
+
+  ---
+  - [Life is strange. | Music: 如此的美丽（纯音乐）](https://v.douyin.com/VDJLHG3v_sQ/)
+  - [Life is strange. We arrive with nothing. We spend years chasing everything. And in the end, we leave with nothing. Make sure your soul gains more than your hands. 人生何其奇妙。我们赤条条地来到世间，用一生追逐身外之物，最终却依旧两手空空地离开。请务必让你的灵魂，比你的双手收获更多。]{lb}
+
+  ---
+  - [Lamine Yamal 拉明·亚马尔](https://v.douyin.com/zn_9qWjhjkI/)
+  - [My mum had me when she was 16, and that's real pressure. My dad had to do whatever he could and pick things up off the streets just to bring food home. That's real pressure. All I have to do is play football and make the Spanish people proud. 我妈妈16岁时就生下了我，那才是真正的压力。我爸爸为了把食物带回家，不得不想尽一切办法，甚至去街上捡东西谋生。那才是真正的压力。而我要做的，不过是踢好足球，让西班牙人民为我骄傲罢了。]{lb}
+
+  ---
+  - [RUMI](https://v.douyin.com/is_s_G9Cj30/)
+  - [What you hide in your heart, appears in your eyes. 语言会伪装，眼神从不说谎。]{lb}
+
+  ---
+  - [善意底线](https://v.douyin.com/2ZZzVO0Zg7s/)
+  - [If a brother teaches you how to fish, don't fish in his pood. 如果兄弟教你钓鱼，你学了后不要在他池塘里钓鱼。· 受人恩惠，更要懂得避嫌与尊重，别把他人的善意，变成对他利益的侵占。·  蒙君授渔，不犯其塘 · 不可蒸馏 · 都是出自永乐大典。]{lb}
+
+  ---
+
 
 ---
 ### 0004. E³
@@ -252,6 +285,17 @@
     ---
     - [小学800词｜数字2｜分类单词跟读 | 040](https://v.douyin.com/9tMHVzimS9E/)
     - [hundred, thousand, million百万, billion十亿, half一半, quarter四分之一, double双倍, triple三倍, first第一, second第二, third第三, forth第四, fifth第五, sixth第六, seventh第七, eighth第八, twenty第二十, thirty三十, forth四十, fifty五十, triple三倍]{lb}
+
+---
+### 0019. nicekid英语
+**[nicekid英语]{s}**
+* **[nicekid英语 | 千章 | Douyin](https://v.douyin.com/5OBNvqIDOR8/)**
+  - [大自然](https://v.douyin.com/E98lUikM4aw/)
+  - [nature, pond池塘, boat, ship, lake, bridge, picnic, bench, park, place, camp露营, fire, river, stream, field, mountain, hill, top, wood, forest, sea, ocean, fish, coral珊瑚, beach, sand, crab螃蟹, wave海浪, stone, rock岩石, pebble鹅软石, plant, grass, flower, blossom, rose, tree, leaf, cherry, fruit]{lb}
+
+  ---
+  - [身体部位](https://v.douyin.com/d91w8vcdbco/)
+  - [hand, abdomen, abs, acne, adam's apple, ankle, arm, armpit, back, beard, bellybutton, biceps, blackhead, body, buttocks, calf, cheeck, chest, chin, ear, elbow, eye, eyebrow, eyelash, eyelid, face, fingers, fist, foot, forehead, goatee, hair, hamstrings, hand, head, heel, hip, index finger, jaw, knee, leg, lip]{lb}
 
 ---
 ### 9999. Download
