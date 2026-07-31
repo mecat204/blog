@@ -3795,7 +3795,7 @@
   - [How to Speak Up — Even When You Don’t Want To | Sarah Crawford-Bohl | TED 如何发声——即使你不想说 |莎拉·克劳福德-博尔 |特德](https://www.youtube.com/watch?v=fkOMupkw5D8&list=PLOGi5-fAu8bEXEZ8WBtgjruWlyNB0yZj8)
   - [The Case for Making Art in a Crisis | Yiyun Kang | TED](https://www.youtube.com/watch?v=WY-jr1m3xq8)
   - [The power of imagination — onstage and off](https://www.ted.com/talks/suki_hillier_the_power_of_imagination_onstage_and_off)
-
+  - [Walk with Little Amal, a theatrical journey celebrating the refugee experience](https://www.ted.com/talks/amir_nizar_zuabi_walk_with_little_amal_a_theatrical_journey_celebrating_the_refugee_experience)
 
 * **[TED | Ideas change everything](https://www.ted.com)**
   - [Sarah Crawford-Bohl](https://www.ted.com/talks/sarah_crawford_bohl_how_to_speak_up_even_when_you_don_t_want_to)
