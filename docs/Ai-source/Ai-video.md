@@ -480,53 +480,95 @@
 ### 0014. 人间炼狱史
 **[人间炼狱史]{g}**
 * **[人间炼狱史啊 | 视频突然消失就是违规了 | 贰佰章 | Douyin](https://v.douyin.com/HVepesDHG1Q/)**
+    - [没有鸦片，清朝与英国为何仍然必有一战。| Min: 05:43](https://v.douyin.com/TtZSgVuROs0/)
 
   ---
   **[001. 人间旧账史]{g}**
-    - **[好制度让坏人变好，坏制度让好人变坏 | 001](https://v.douyin.com/pGJlNHNxOho/)**
-    - **[盛世之下，皆是代价：为什么史书里，从来不写老百姓的日子 | 002](https://v.douyin.com/IIC4wQ0z0i4/)**
-    - **[以德治国有多可怕？他当了皇帝，天下人却遭了殃 | 003](https://v.douyin.com/7Mj62fGU8us/)**
-    - **[大清为何错过工业革命 | 004](https://v.douyin.com/lFNBqzciwGg/)**
-    - **[披着道德外衣的贫穷：谁在以“正义”之名制造苦难 | 005](https://v.douyin.com/YsIzRFZKfyE/)**
-    - **[什么近代科学没诞生在大清 | 006](https://v.douyin.com/48RcDVzi1S8/)**
-    - **[月薪八块大洋雇中国人打大清 | 007](https://v.douyin.com/1erslyMEXHg/)**
-    - **[读懂了"伟业"与"白骨"的共存，我们才算真正挺直了脊梁 | 008](https://v.douyin.com/5NQmSP3qUVc/)**
-    - **[明朝末年的百姓过的究竟有多困难 | 009](https://v.douyin.com/cEaENvyXjN4/)**
-    - **[每一项公平的制度都是争取出来的 | 010](https://v.douyin.com/G6acC-ocNBA/)**
-    - **[古代王朝是如何运转，又为什么总是不断循环更替 | 011](https://v.douyin.com/dkqlmXp0l3M/)**
-    - **[苏联这么多的党员，依然失败了 | 012](https://v.douyin.com/3K5N3fZJPyo/)**
-    - **[最残暴的政权红色高棉 | 013](https://v.douyin.com/LwNOVOcDQrE/)**
-    - **[苏式大跃进都做了些什么 | 014](https://v.douyin.com/Iq3SMdJVNtI/)**
-    - **[为了不让不稳定因素产生，苏联对女子进行秘密手术| 015](https://v.douyin.com/tYqq_LjsPDY/)**
-    - **[上班迟到要坐牢这并非玩笑 | 016](https://v.douyin.com/N2Z6rPhJogA/)**
-    - **[你觉得真正强大的标准是什么呢 | 017 ](https://v.douyin.com/uXVo-otdBKo/)**
-    - **[大总管贝利亚的特权究竟给普通人带来多大的灾难 | 018 ](https://v.douyin.com/WIJwjsUmz1I/)**
-    - **[苏联在1945年出军东北真的是为了帮助中国抗日吗 | 019](https://v.douyin.com/EdAkXclHCnw/)**
-    - **[日军失败后参加解放战争的日籍解放军 | 020](https://v.douyin.com/Wljn54thbSw/)**
-    - **[从剪辫到放足：斩断有形的铁链容易，如何重塑国民的灵魂 | 021](https://v.douyin.com/oF5endAiF48/)**
-    - **[同样是"苛捐杂税"，为何大明收出天下大乱，大清却收了268年 | 022](https://v.douyin.com/A8O2I8d8t24/)**
-    - **[清末的百姓被卖作猪仔既然是一种幸运 | 023 ](https://v.douyin.com/7NOHORrvXD4/)**
-    - **[你知道为什么林则徐禁烟之后，国产的鸦片却变得更多了 | 024](https://v.douyin.com/q6mr1x_h8d4/)**
-    - **[防民甚于防川：错失工业革命背后的满清社会控制逻辑 | 025](https://v.douyin.com/8I19-XFo_Wg/)**
-    - **[两亿白银砸醒的大清幻梦：谁在用假捷报给老百姓喂“精神鸦片” | 026 ](https://v.douyin.com/55tJ6ZEW1gk/)**
-    - **[在古代，为什么“私自赈灾”会被视为谋反大罪 | 027](https://v.douyin.com/siRrEDKxdFI/)**
-    - **[在古代当官有多难？这条“死刑红线”千万不能碰 | 028](https://v.douyin.com/d0OAbPGDmP0/)**
-    - **[日本为何抛弃千年儒学才变强？撕开传统文化维稳的遮羞布 | 029](https://v.douyin.com/XbneG_KNMfU/)**
-    - **[撕开“自愿遣返”的谎言：战俘营里的血肉角斗场 | 030](https://v.douyin.com/zQTcaU9OIKM/)**
-    - **[大清最狂热的“死忠粉”，为何死在了慈禧的铡刀下 | 031](https://v.douyin.com/qmHi2qwczpI/)**
-    - **[白人根本不敢进非洲内陆！黑奴贸易的真凶到底是谁 | 032](https://v.douyin.com/nxW6aZHpVXw/)**
-    - **[耗资90亿演一场戏：人类历史上最贵的“楚门的世界” | 033](https://v.douyin.com/H3wwIVd45CI/)**
-    - **[39名人质的至暗时刻：圆明园大火前，清廷到底干了什么蠢事 | 034](https://v.douyin.com/ia4tjfbJwu0/)**
-    - **[乾隆年间的文字狱到底有多可怕 | 035](https://v.douyin.com/5-Bo4DvPdKg/)**
-    - **[鸦片战争前，清朝其实是有机会改变国运的 | 036](https://v.douyin.com/tpnfOIyJhMc/)**
-    - **[大清的纯阴阵如何被打破的 | Min: 04:45 | 037](https://v.douyin.com/EYgbLDVHjeA/)**
+    - [好制度让坏人变好，坏制度让好人变坏 | 001](https://v.douyin.com/pGJlNHNxOho/)
+    - [盛世之下，皆是代价：为什么史书里，从来不写老百姓的日子 | 002](https://v.douyin.com/IIC4wQ0z0i4/)
+    - [以德治国有多可怕？他当了皇帝，天下人却遭了殃 | 003](https://v.douyin.com/7Mj62fGU8us/)
+    - [大清为何错过工业革命 | 004](https://v.douyin.com/lFNBqzciwGg/)
+    - [披着道德外衣的贫穷：谁在以“正义”之名制造苦难 | 005](https://v.douyin.com/YsIzRFZKfyE/)
+    - [什么近代科学没诞生在大清 | 006](https://v.douyin.com/48RcDVzi1S8/)
+    - [月薪八块大洋雇中国人打大清 | 007](https://v.douyin.com/1erslyMEXHg/)
+    - [读懂了"伟业"与"白骨"的共存，我们才算真正挺直了脊梁 | 008](https://v.douyin.com/5NQmSP3qUVc/)
+    - [明朝末年的百姓过的究竟有多困难 | 009](https://v.douyin.com/cEaENvyXjN4/)
+    - [每一项公平的制度都是争取出来的 | 010](https://v.douyin.com/G6acC-ocNBA/)
+    - [古代王朝是如何运转，又为什么总是不断循环更替 | 011](https://v.douyin.com/dkqlmXp0l3M/)
+    - [苏联这么多的党员，依然失败了 | 012](https://v.douyin.com/3K5N3fZJPyo/)
+    - [最残暴的政权红色高棉 | 013](https://v.douyin.com/LwNOVOcDQrE/)
+    - [苏式大跃进都做了些什么 | 014](https://v.douyin.com/Iq3SMdJVNtI/)
+    - [为了不让不稳定因素产生，苏联对女子进行秘密手术| 015](https://v.douyin.com/tYqq_LjsPDY/)
+    - [上班迟到要坐牢这并非玩笑 | 016](https://v.douyin.com/N2Z6rPhJogA/)
+    - [你觉得真正强大的标准是什么呢 | 017 ](https://v.douyin.com/uXVo-otdBKo/)
+    - [大总管贝利亚的特权究竟给普通人带来多大的灾难 | 018 ](https://v.douyin.com/WIJwjsUmz1I/)
+    - [苏联在1945年出军东北真的是为了帮助中国抗日吗 | 019](https://v.douyin.com/EdAkXclHCnw/)
+    - [日军失败后参加解放战争的日籍解放军 | 020](https://v.douyin.com/Wljn54thbSw/)
+    - [从剪辫到放足：斩断有形的铁链容易，如何重塑国民的灵魂 | 021](https://v.douyin.com/oF5endAiF48/)
+    - [同样是"苛捐杂税"，为何大明收出天下大乱，大清却收了268年 | 022](https://v.douyin.com/A8O2I8d8t24/)
+    - [清末的百姓被卖作猪仔既然是一种幸运 | 023 ](https://v.douyin.com/7NOHORrvXD4/)
+    - [你知道为什么林则徐禁烟之后，国产的鸦片却变得更多了 | 024](https://v.douyin.com/q6mr1x_h8d4/)
+    - [防民甚于防川：错失工业革命背后的满清社会控制逻辑 | 025](https://v.douyin.com/8I19-XFo_Wg/)
+    - [两亿白银砸醒的大清幻梦：谁在用假捷报给老百姓喂“精神鸦片” | 026 ](https://v.douyin.com/55tJ6ZEW1gk/)
+    - [在古代，为什么“私自赈灾”会被视为谋反大罪 | 027](https://v.douyin.com/siRrEDKxdFI/)
+    - [在古代当官有多难？这条“死刑红线”千万不能碰 | 028](https://v.douyin.com/d0OAbPGDmP0/)
+    - [日本为何抛弃千年儒学才变强？撕开传统文化维稳的遮羞布 | 029](https://v.douyin.com/XbneG_KNMfU/)
+    - [撕开“自愿遣返”的谎言：战俘营里的血肉角斗场 | 030](https://v.douyin.com/zQTcaU9OIKM/)
+    - [大清最狂热的“死忠粉”，为何死在了慈禧的铡刀下 | 031](https://v.douyin.com/qmHi2qwczpI/)
+    - [白人根本不敢进非洲内陆！黑奴贸易的真凶到底是谁 | 032](https://v.douyin.com/nxW6aZHpVXw/)
+    - [耗资90亿演一场戏：人类历史上最贵的“楚门的世界” | 033](https://v.douyin.com/H3wwIVd45CI/)
+    - [39名人质的至暗时刻：圆明园大火前，清廷到底干了什么蠢事 | 034](https://v.douyin.com/ia4tjfbJwu0/)
+    - [乾隆年间的文字狱到底有多可怕 | 035](https://v.douyin.com/5-Bo4DvPdKg/)
+    - [鸦片战争前，清朝其实是有机会改变国运的 | 036](https://v.douyin.com/tpnfOIyJhMc/)
+    - [大清的纯阴阵如何被打破的 | Min: 04:45 | 037](https://v.douyin.com/EYgbLDVHjeA/)
+    - [拿老百姓的税给洋人买枪突突自己 | Min: 04:34 | 038](https://v.douyin.com/INd8-dQfv8Y/)
+    - [割地赔款全程忍，洋人一记禁考令才吓得清朝废除科举。 | Min: 04:51 | 039](https://v.douyin.com/nnfcfZSNRqY/)
+    - [1888皇家铁路闹剧：把法国进口火车当成太监大轿拉。 | Min: 04:33 | 040](https://v.douyin.com/sQXQEpkmzu8/)
+    - [从趴赢到上街乞讨：大清八旗特权如何亲手毁灭了自己。 | Min: 04:15 | 041](https://v.douyin.com/Of1DShYpayM/)
+    - [古代百姓为何宁守穷村也不敢逃进深山。 | Min: 04:42 | 042](https://v.douyin.com/F3VMWVsxq3s/)
 
 ---
 ### 0015. 生命的尽头 | Falsen
 **[Falsen]{g}**
 * **[Falsen | Save your time, keek your heath, that all the human beings. | 佰章 | Douyin](https://v.douyin.com/8gEWX6O3E24/)**
-  - **[95岁老人的人生感悟 | 001](https://v.douyin.com/yEcXbB6e5rw/)**
-  - **[95岁老人的人生感悟 | 061](https://v.douyin.com/nn4srGohGrk/)**
+  - [95岁老人的人生感悟 | 001](https://v.douyin.com/yEcXbB6e5rw/)
+
+  ---
+  - [60岁时的人生忠告 | 010](https://v.douyin.com/3sItWJa1XdA/)
+
+  ---
+  - [活在当下 | 020](https://v.douyin.com/mb_sm2c0LXw/)
+
+  ---
+  - [独居老人的生活真相 | 030](https://v.douyin.com/YpOarTmHJrI/)
+
+  ---
+  - [弗兰克的长寿晨间习惯 | 040](https://v.douyin.com/1oQNVwZ0vYE/)
+
+  ---
+  - [73岁老人的人生感悟 | 050](https://v.douyin.com/yilMMOfUT2E/)
+
+  ---
+  - [与20岁自己对话及人生感悟 | 060](https://v.douyin.com/PIyCt_Es35U/)
+
+  ---
+  - [95岁老人的人生感悟 | 061](https://v.douyin.com/nn4srGohGrk/)
+
+  ---
+  - [父母与子女的关系 | 070](https://v.douyin.com/U6AMt_9NclU/)
+
+  ---
+  - [老年人的居家养老选择 | 080](https://v.douyin.com/E2Idbk1BiP8/)
+
+  ---
+  - [一位 86 岁老人的人生感悟 | 090](https://v.douyin.com/n1FCO6V-kYU/)
+
+  ---
+  - [096](https://v.douyin.com/BDD2GH9Ndck/)
+
+---
+**[Candle of Wisdom]{s}**
+* **[Candle of Wisdom | 9.85万 | YTB](https://www.youtube.com/@CandleOfWisdom/videos)**
 
 ---
 ### 0016. 教石头思考 | 人工智能的诞生

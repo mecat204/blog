@@ -4357,7 +4357,20 @@
     - [www.pbs.org](https://www.pbs.org/)
 
 ---
+**[Candle of Wisdom]{s}**
+* **[Candle of Wisdom | 9.85万 | YTB](https://www.youtube.com/@CandleOfWisdom/videos)**
+
+---
 ### 0099. AI - video
+**[Ghibli Days]{e}**
+* **[Ghibli Days | 10.3万 | YTB](https://www.youtube.com/@GhibliDayss/videos)**
+  - [Silent Night Studying: Behind the Rain, Sunshine Will Surely Come | Ghibli Style Video](https://www.youtube.com/watch?v=GPZrNb88VCE)
+
+---
+**[Ozzy Grace]{e}**
+* **[Ozzy Grace | 992位 | YTB](https://www.youtube.com/@ozzygrace1632/videos)**
+
+---
 **[Chloe VS History]{s}**
 * **[Chloe VS History | Powered by PAI 2.0 from @UtopaiStudios | 35.2万 | YTB](https://www.youtube.com/@ChloeVSHistory/videos)**
   - [I time travelled to Ancient Rome! (Vlog)](https://www.youtube.com/watch?v=aaua5ghidk0&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=1)
