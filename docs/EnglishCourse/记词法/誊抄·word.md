@@ -298,6 +298,20 @@
   - [hand, abdomen, abs, acne, adam's apple, ankle, arm, armpit, back, beard, bellybutton, biceps, blackhead, body, buttocks, calf, cheeck, chest, chin, ear, elbow, eye, eyebrow, eyelash, eyelid, face, fingers, fist, foot, forehead, goatee, hair, hamstrings, hand, head, heel, hip, index finger, jaw, knee, leg, lip]{lb}
 
 ---
+### 0020. Kevin Word Vision
+**[Kevin Word Vision]{s}**
+* **[Kevin Word Vision | 📚在读大学生 | 英语学习 🎨专注易混词视觉化对比 🔍 | 贰佰章 | Douyin](https://v.douyin.com/LjOTfSE5qp0/)**
+
+  ---
+  **[001. 单词拆解]{s}**
+    - [六种“形态”的石头 | 001 ](https://v.douyin.com/WzzckBujmIs/)
+    - [stone：石头，坚硬实心矿物石料，是石头的通用统称 grit：砂砾，松散细碎的小石颗粒 pebble：小卵石，外形圆润的小型石子 cobble：铺路石，用于铺设路面的圆石块 boulder：大圆石，体积庞大的浑圆石块 rock：岩块/岩壁，大面积连成一体的坚硬岩体]{lb}
+
+    ---
+    - [六种“形态”的水](https://v.douyin.com/Q9-7RdZ4KAI/)
+    - [drop：(v/n)普通大小的一滴液体，通用 drip：(v/n)液体持续一滴滴滴落 droplet：(noun)极细小的微水珠 splash：(v/n)水花四散溅开 ripple：(v/n)水面细小涟漪 wave：(v/n)大范围汹涌波浪]{lb}
+
+---
 ### 9999. Download
 **[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**
