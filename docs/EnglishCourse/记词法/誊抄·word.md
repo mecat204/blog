@@ -6,8 +6,19 @@
 ### 0001. 大大西 | 视觉翻译与视觉语言实验
 **[大大西 | 视觉翻译与视觉语言实验]{s}**
 * **[大大西 | 视觉翻译与视觉语言实验 | 伍佰章 | Douyin](https://v.douyin.com/WViuMn5lH78/)**
-  - [抓](https://v.douyin.com/L5HhjxUIipk/)
-  - [grab快速抓一下(瞬间动作)| grip死抓不放(持续控制)| grasp成功抓到并真正掌握(最终获得)]{lb}
+
+  ---
+  **[001. 单词释义·以词解词]{s}**
+    - [抓 | 001](https://v.douyin.com/L5HhjxUIipk/)
+    - [grab快速抓一下(瞬间动作)| grip死抓不放(持续控制)| grasp成功抓到并真正掌握(最终获得)]{lb}
+
+    ---
+    - [怎么飞 | 002](https://v.douyin.com/DOsuUZv1x4M/)
+    - [怎么飞。airplane翅膀飞； helicopter旋翼飞； jet喷气飞； glider滑着飞（靠滑翔飞行的无动力飞机）； drone无人飞]{lb}
+
+    ---
+    - [仪式感 | 003](https://v.douyin.com/Fdn6Xx_glJU/)
+    - [ritual有仪式感的重复性行为； rite传统正式仪式本身]{lb}
 
 ---
 ### 0002. 明熙在记录·粉笔记录s
@@ -310,6 +321,56 @@
     ---
     - [六种“形态”的水](https://v.douyin.com/Q9-7RdZ4KAI/)
     - [drop：(v/n)普通大小的一滴液体，通用 drip：(v/n)液体持续一滴滴滴落 droplet：(noun)极细小的微水珠 splash：(v/n)水花四散溅开 ripple：(v/n)水面细小涟漪 wave：(v/n)大范围汹涌波浪]{lb}
+
+---
+### 0021. AllenChan183
+**[AllenChan183]{s}**
+* **[AllenChan183 | 学习英语ing | 叁仟章 | Douyin](https://v.douyin.com/VgpltxBYirM/)**
+
+  ---
+  **[001.英语分享]{g}**
+    - [词根-able | 001](https://v.douyin.com/lWIiuPqvJ6s/)
+
+    ---
+
+    - [Kangaroo | 002](https://v.douyin.com/aJPlL0r0Cf0/)
+
+    ---
+    - [词根-Port | 100](https://v.douyin.com/Cfx3HOydLYk/)
+
+---
+### 0022. 闪耀英语
+**[闪耀英语]{s}**
+* **[闪耀英语 | ✨Keep shining, the world needs your light. 保持闪耀, 世界需要你的光芒。 | Let's sparkle together](https://v.douyin.com/r3-pBx6vIy4/)**
+
+  ---
+  **[001. 英语]{g}**
+    - [-tude状态名词](https://v.douyin.com/1GmF71h-sn8/)
+    - [attitude 态度，aptitude 天资，gratitude 感激，solitude 独处，altitude 高度，latitude 纬度，longitude 经度，magnitude 量级，multitude 众多，certitude 确信，fortitude 坚毅，exactitude 精确。]{lb}
+
+    ---
+    - [12个雨天和强天气英文词](https://v.douyin.com/ul_9IF-bnnw/)
+    - [tornado 龙卷风，drizzle 毛毛雨，light rain 小雨，moderate rain 中雨，heavy rain 大雨，downpour 倾盆大雨，shower 阵雨，thundershower 雷阵雨，sle
+
+    ---
+    - [12个地点层级的英文单词](https://v.douyin.com/qs9mjdR1dhA/)
+    - [country 国家，city 城市，town 城镇，village 村庄，state 州，province 省，district 区，neighborhood 邻里/社区，suburb 郊区，downtown 市中心，capital 首都，region 地区。]{lb}
+
+    ---
+    - [8个描述“快”的英文形容词](https://v.douyin.com/65_Cf2H-UR0/)
+    - [rapid 快速的，swift 迅速的，speedy 飞快的，quick 快的 brisk 轻快的，hasty 仓促的，fleet 飞快的，nimble 敏捷的]{lb}
+
+    ---
+    - [记“推迟”相关英文](https://v.douyin.com/NUJKA3s91WU/)
+    - [delay（延误）、postpone（推迟）、defer（延后）、reprieve（暂缓）、procrastinate（拖延）、stall（拖住）、suspend（暂停）、adjourn（休会延期）]{lb}
+
+    ---
+    - [elect词根词族：8个词一起记](https://v.douyin.com/oqGDqF4qYx0/)
+    - [elect 选举，election 选举活动，elector 选民，electoral 选举的，electorate 全体选民，elective 选修的，electable 可当选的，reelect 重新选举。]{lb}
+
+    ---
+    - [8个高频活力形容词](https://v.douyin.com/ibWlHKD4NkA/)
+    - [energetic、active、dynamic、vigorous、lively、agile、vibrant、driven]{lb}
 
 ---
 ### 9999. Download
