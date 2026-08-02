@@ -4363,6 +4363,10 @@
 * **[Candle of Wisdom | 9.85万 | YTB](https://www.youtube.com/@CandleOfWisdom/videos)**
 
 ---
+**[English with Evie]{e}**
+* **[English with Evie | 25.8万 | YTB](https://www.youtube.com/@EnglishWithEvie)**
+
+---
 ### 0099. AI - video
 **[Ghibli Days]{e}**
 * **[Ghibli Days | 10.3万 | YTB](https://www.youtube.com/@GhibliDayss/videos)**
