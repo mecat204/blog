@@ -382,6 +382,16 @@
     - [001. footpath](https://v.douyin.com/-Wg_dJ8_cUs/)
 
 ---
+### 0024. 亿学优选Jennie
+**[亿学优选Jennie]{e}**
+* **[亿学优选Jennie | 亿学优选/高端推荐 | 佰章 | Douyin](https://v.douyin.com/bkGmELs6IeI/)**
+
+  ---
+  **[001. 记单词]{g}**
+    - [Flogman,像青蛙一样的人游的人,潜水员](https://v.douyin.com/KdpvHBmPQk0/)
+    - [holeman]{lb}
+
+---
 ### 9999. Download
 **[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**
