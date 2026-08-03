@@ -373,6 +373,15 @@
     - [energetic、active、dynamic、vigorous、lively、agile、vibrant、driven]{lb}
 
 ---
+### 0023. 糖糖英语播报
+**[糖糖英语播报]{s}**
+* **[糖糖英语播报 | 从一个小小的单词和有意思的句子，到更大的世界 🌍 关注我, 一起看见 | 千章 | Douyin](https://v.douyin.com/vR0xJwkk9sg/)**
+
+  ---
+  **[001. IELTS雅思词汇]{g}**
+    - [001. footpath](https://v.douyin.com/-Wg_dJ8_cUs/)
+
+---
 ### 9999. Download
 **[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**
