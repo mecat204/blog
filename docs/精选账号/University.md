@@ -115,6 +115,7 @@
 **[Cambridge]{s}**
 * **[Cambridge | 54.5万 | YTB](https://www.youtube.com/@cambridgeuniversity/videos)**
   - [The future of Novels and Generative AI](https://www.youtube.com/watch?v=P3kDEfIYSBU)
+  - [Wildfires and heatwaves: Dr Kim van Daalen on public health impact](https://www.youtube.com/watch?v=pd5deeD3t9U)
 
   ---
   **[剑桥大学]{g}**

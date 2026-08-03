@@ -343,6 +343,14 @@
 * **[哈佛学霸圈 | 精校翻译值得学英语用的每一套外教课+真人情景口语+英文动画，制作配套台词本。专注无水印纯净学习资源 | 62.9万 | B站](https://space.bilibili.com/389158539?spm_id_from=333.788.upinfo.detail.click)**
 
 ---
+**[常青藤名校课]{s}**
+* **[常青藤名校课 | 27.9万 | B站](https://space.bilibili.com/1787393235?spm_id_from=333.788.upinfo.detail.click)**
+
+---
+**[常青藤中英字幕课程]{s}**
+* **[常青藤中英字幕课程 | 31.1万 | B站](https://space.bilibili.com/18053089?spm_id_from=333.337.0.0)**
+
+---
 ### 0003. studytee | B站
 **[studytee]{s}**
 * **[XRay-猎豹 | 只有一次的人生，当然要好好过 | 2.7万 | B站](https://space.bilibili.com/408296955?spm_id_from=333.788.upinfo.detail.click)**
