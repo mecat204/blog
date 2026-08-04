@@ -525,45 +525,6 @@
   * **[30 Minutes of Daily English Conversations for Beginners (A2 Level) | Practice Listening and Speaking | 初学者每日英语会话30分钟（A2水平） | 练习听和说](https://www.youtube.com/watch?v=1lGynioT8B8)**
 
 ---
-**[BBC Earth]{s}**
-* **[BBC Earth | 1420万 | YTB](https://www.youtube.com/@bbcearth)**
-
-  - [En: Bringing you face-to-face with heart-pounding action, mind-blowing ideas and the sheer wonder of being part of this amazing planet we call home.]{s}
-  - [Cn: 带你面对令人心跳加速的动作、令人震撼的创意，以及成为这个我们称之为家的奇妙星球一部分的纯粹惊奇。]{lb}
-
-  ---
-  - [En: BBC Earth is the official channel of well-known Sir David Attenborough series such as Planet Earth, Frozen Planet and Blue Planet II.]{s}
-  - [Cn: BBC地球频道是著名大卫·阿滕伯勒系列节目的官方频道，如《地球脉动》、《冰冻星球》和《蓝色星球II》。]{lb}
-
-  ---
-  - [En: It's also where you can find fantastic nature and wildlife documentaries such as Life of Mammals and classics like Planet Dinosaur.]{s}
-  - [Cn: 这里还能找到精彩的自然和野生动物纪录片，如《哺乳动物的生活》，以及经典作品如《恐龙星球》。]{lb}
-
-  ---
-  - [En: You can become part of the BBC community by checking out our BBC Earth Facebook, Instagram, TikTok, Snapchat and Twitter.]{s}
-  - [Cn: 您可以通过查看我们的BBC Earth Facebook、Instagram、TikTok、Snapchat和Twitter，成为BBC社区的一员。]{lb}
-
-  ---
-  - [En: Here you'll find the best natural history content from the web, exclusive videos and images and a thriving, vibrant community.]{s}
-  - [Cn: 在这里，您可以找到来自网络的最佳自然历史内容、独家视频和图片，以及一个充满活力的社区。]{lb}
-
-  ----
-  - [En: This is a commercial channel from BBC Studios.]{s}
-  - [Cn: 这是BBC工作室的商业频道。]{lb}
-
-  ---
-  - Service information and feedback: https://www.bbcstudios.com/contact/contact-us/
-  - 服务信息与反馈：https://www.bbcstudios.com/contact/contact-us/
-
-  ---
-  - **[1 Hour of Magnificent Moments Narrated by Sir David Attenborough | BBC Earth | 1小时的壮丽时刻 由大卫·阿滕伯勒爵士旁白 |BBC地球](https://www.youtube.com/watch?v=Vd7iuPV_AF0)**
-
----
-**[BBC英语纪录频道]{s}**
-* **[BBC英语纪录频道 | BBC英语官方记录片 | 百章 | Douyin](https://v.douyin.com/Kg7WEHuZnzo/)**
-  - [神奇的植物 GREEN PLANET 1](https://v.douyin.com/AyWrh_p2L2U/)
-
----
 **[SciShow Kids]{s}**
 * **[SciShow Kids | 157万 | YTB](https://www.youtube.com/@SciShowKids/videos)**
 
@@ -4336,9 +4297,49 @@
 
 ---
 ### 0042. BBC
-**[BBC]{s}**
+**[BBC·British Broadcasting Corporation]{s}**
 * **[BBC | 1560万 | YTB](https://www.youtube.com/@BBC/videos)**
 
+---
+### 0042. BBC Earth
+**[BBC Earth]{s}**
+* **[BBC Earth | Home](https://www.bbcearth.com/)**
+* **[BBC Earth | 1420万 | YTB](https://www.youtube.com/@bbcearth)**
+
+  - [En: Bringing you face-to-face with heart-pounding action, mind-blowing ideas and the sheer wonder of being part of this amazing planet we call home.]{s}
+  - [Cn: 带你面对令人心跳加速的动作、令人震撼的创意，以及成为这个我们称之为家的奇妙星球一部分的纯粹惊奇。]{lb}
+
+  ---
+  - [En: BBC Earth is the official channel of well-known Sir David Attenborough series such as Planet Earth, Frozen Planet and Blue Planet II.]{s}
+  - [Cn: BBC地球频道是著名大卫·阿滕伯勒系列节目的官方频道，如《地球脉动》、《冰冻星球》和《蓝色星球II》。]{lb}
+
+  ---
+  - [En: It's also where you can find fantastic nature and wildlife documentaries such as Life of Mammals and classics like Planet Dinosaur.]{s}
+  - [Cn: 这里还能找到精彩的自然和野生动物纪录片，如《哺乳动物的生活》，以及经典作品如《恐龙星球》。]{lb}
+
+  ---
+  - [En: You can become part of the BBC community by checking out our BBC Earth Facebook, Instagram, TikTok, Snapchat and Twitter.]{s}
+  - [Cn: 您可以通过查看我们的BBC Earth Facebook、Instagram、TikTok、Snapchat和Twitter，成为BBC社区的一员。]{lb}
+
+  ---
+  - [En: Here you'll find the best natural history content from the web, exclusive videos and images and a thriving, vibrant community.]{s}
+  - [Cn: 在这里，您可以找到来自网络的最佳自然历史内容、独家视频和图片，以及一个充满活力的社区。]{lb}
+
+  ----
+  - [En: This is a commercial channel from BBC Studios.]{s}
+  - [Cn: 这是BBC工作室的商业频道。]{lb}
+
+  ---
+  - Service information and feedback: https://www.bbcstudios.com/contact/contact-us/
+  - 服务信息与反馈：https://www.bbcstudios.com/contact/contact-us/
+
+  ---
+  - **[1 Hour of Magnificent Moments Narrated by Sir David Attenborough | BBC Earth | 1小时的壮丽时刻 由大卫·阿滕伯勒爵士旁白 |BBC地球](https://www.youtube.com/watch?v=Vd7iuPV_AF0)**
+
+---
+**[BBC英语纪录频道]{s}**
+* **[BBC英语纪录频道 | BBC英语官方记录片 | 百章 | Douyin](https://v.douyin.com/Kg7WEHuZnzo/)**
+  - [神奇的植物 GREEN PLANET 1](https://v.douyin.com/AyWrh_p2L2U/)
 
 ---
 ### 0043. Dwarkesh Patel

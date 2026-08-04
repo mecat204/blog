@@ -169,6 +169,10 @@
   - [原来女生耍起帅来连自己都想嫁！| 滑雪 | 全民冰雪季 | 我的粉雪时刻](https://v.douyin.com/lKVsLvlowMg/)
   - **[这是不是你想象中，自由的样子？| 小美真会玩](https://v.douyin.com/a6sfhXm8Tfs/)**
 
+**[小美野]{e}**
+* **[小美野 | @小美是个野孩纸 | 佰章 | Douyin](https://v.douyin.com/LVcM0-069nQ/)**
+  - [蒜鸟蒜鸟，都不永咦～非洲角马 wildebeest](https://v.douyin.com/JVh0sM7AMPc/)
+
 ---
 **[是阿君呀⁰⁶²⁰]{s}**
 * **[是阿君呀⁰⁶²⁰ | 贰佰章 | Douyin](https://v.douyin.com/Nymoib4fmlI/)**
