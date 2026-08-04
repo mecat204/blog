@@ -4342,6 +4342,11 @@
   - [神奇的植物 GREEN PLANET 1](https://v.douyin.com/AyWrh_p2L2U/)
 
 ---
+**[BBC英语纪录片频道]{s}**
+* **[BBC英语纪录片频道 | 纯正英语发音｜精选BBC纪录片4K片段，欢迎一起学英语、涨知识。持续更新《王朝》《地球改变之年》《地球:神奇的一天》《地球脉动》《从太空看地球》等精品纪录片](https://v.douyin.com/Nb1fCO89C18/)**
+  - [我们的星球](https://v.douyin.com/qSddtq0-svk/)
+
+---
 ### 0043. Dwarkesh Patel
 **[Dwarkesh Patel]{s}**
 * **[Dwarkesh Patel | Deeply researched interviews 深入研究的访谈；经过深度研究的采访 | 137万 | YTB](https://www.youtube.com/@DwarkeshPatel/videos)**
