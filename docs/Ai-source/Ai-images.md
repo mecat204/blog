@@ -410,6 +410,21 @@
   - [孤影立星河，一光破苍穹。 仙宫悬绝壁，飞瀑落九重。 神明垂清泪，执念化长风。 天地为局，万物微尘](https://v.douyin.com/I4FNIj5RYAs/)
 
 ---
+### 0013. 凡事皆可-AIGC
+**[凡事皆可-AIGC]{s}**
+* **[凡事皆可-AIGC | AIGCER✖️抖音首发签约内容创作者 全平台账号同名 | Douyin | 佰章](https://v.douyin.com/Oo1nJNMLwiI/)**
+
+  ---
+  **[001. 是日一练 | 审美提升]{g}**
+    - [赛博 国风 | 001](https://v.douyin.com/ZTkc6XkH5T4/)
+
+    ---
+    - [每日一练丨010](https://v.douyin.com/wg8z3Ghu5VY/)
+
+    ---
+    - [是日一练丨国色 神凝秋水，韵染韶光 | 021](https://v.douyin.com/_ybWfdR1ItY/)
+
+---
 ### 9999. Download
 **[必应]{s}**
 * **[必应 | bing.com](https://cn.bing.com/)**
