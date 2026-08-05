@@ -1526,6 +1526,12 @@
     - [当世界在窗外｜一起住进森林深处 | 047](https://v.douyin.com/D8XupbcZCjk/)
 
 ---
+### 0063. 旧梦留声机
+**[旧梦留声机]{s}**
+* **[旧梦留声机 | 佰章 | Douyin](https://v.douyin.com/UuDRRpq9eDg/)**
+  - [愿得一人心，白首不分离](https://v.douyin.com/e-v1ICaYTXc/)
+
+---
 ### 9999. Download
 **[必应]{s}**
 * **[必应 | bing.com](https://cn.bing.com/)**
