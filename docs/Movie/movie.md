@@ -275,7 +275,7 @@
 ---
 ### 0005. Englearner.site
 **[Englearner.site]{s}**
-* **[Englearner.site](https://www.englearner.site/cn/index.html)**
+* **[Englearner.site | A self-taught coder, English enthusiast, and lifelong learner. 自学成才的程序员、英语爱好者和终身学习者。](https://www.englearner.site/cn/index.html)**
 
   ---
   **[001. 插件]{g}**

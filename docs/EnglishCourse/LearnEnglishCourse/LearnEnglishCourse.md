@@ -143,6 +143,11 @@
 * **[heygsc/word-wind | English | 单词](https://github.com/heygsc/word-wind)**
   - **[单词之风](https://word-wind.pages.dev/)**
 
+  **[本地运行方式]{g}**
+    - cd word-wind
+    - yarn install
+    - yarn dev
+
 ---
 **[句乐部]{s}**
 * **[句乐部](https://julebu.co)**
