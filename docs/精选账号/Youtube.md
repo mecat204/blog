@@ -4384,29 +4384,37 @@
 
 ---
 **[Chloe VS History]{s}**
-* **[Chloe VS History | Powered by PAI 2.0 from @UtopaiStudios | 35.2万 | YTB](https://www.youtube.com/@ChloeVSHistory/videos)**
+* **[Chloe VS History | Powered by PAI 2.0 from @UtopaiStudios | 359k | YTB](https://www.youtube.com/@ChloeVSHistory/videos)**
   - [I time travelled to Ancient Rome! (Vlog)](https://www.youtube.com/watch?v=aaua5ghidk0&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=1)
   - [I time travelled to Tudor London in 1536! (Vlog)](https://www.youtube.com/watch?v=-Sd1stYQp-c&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=2)
   - [I time travelled to D-Day in 1944 (WW2)](https://www.youtube.com/watch?v=ta0xLjMXJ1s&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=4)
   - [I time travelled to Ancient Egypt in 2400BC! (Vlog)](https://www.youtube.com/watch?v=GJKU9qYGjN8&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=5)
   - [I time travelled to the Titanic 1912](https://www.youtube.com/watch?v=HZRdKlOHogk&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=6)
   - [Can I Survive 24 Hours in the Ice Age? (30,000BC)](https://www.youtube.com/watch?v=moKQeOMHqYA&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=6)
+  - [I time travelled to Edo Japan in 1657 | 穿越到1657年的日本江户(日江户大火)](https://www.youtube.com/watch?v=dx2T6kDh98g)
+
+---
+**[God's Love Unending]{s}**
+* **[God's Love Unending | 55.9K | YTB](https://www.youtube.com/@GodsLoveUnending/videos)**
+  - [God Says:"THIS IS VERY SERIOUS! LISTEN TO THIS URGENTLY!"/God Message Now/God Message | 上帝说：“这非常严重！紧急听听这个！”/现在上帝的消息/上帝的消息](https://www.youtube.com/watch?v=mvSuxN3Lq4Q)
 
 ---
 **[Serene Video AI · music]{s}**
-* **[Serene Video AI | 2.89万 | YTB](https://www.youtube.com/@SereneVideoAI)**
+* **[Serene Video AI | 28.9k | YTB](https://www.youtube.com/@SereneVideoAI)**
   - [Fantasy | Dreamlike | Daughters of the Pearlspire Palace](https://www.youtube.com/watch?v=6bOklwBi8Ek&list=RD6bOklwBi8Ek&start_radio=1)
   - [viralshortcut·price](https://viralshortcut.com/fantasy-palace-creator/)
 
 ---
 **[Aether Sound Lab]{e}**
-* **[Aether Sound Lab | 5170位 | YTB](https://www.youtube.com/@AetherSoundLab-x7q)**
-  - [Relaxing Ambient Music in the Celestial Garden of Dancing Flowers and Light](https://www.youtube.com/watch?v=wu6rnHy14E8)
+* **[Aether Sound Lab | 5.83k | YTB](https://www.youtube.com/@AetherSoundLab-x7q)**
+  - [Relaxing Ambient Music in the Celestial Garden of Dancing Flowers and Light | 花光舞动的空中花园，轻松的氛围音乐](https://www.youtube.com/watch?v=wu6rnHy14E8)
 
 ---
 **[AI Luxury Aesthetic]{s}**
-* **[AI Luxury Aesthetic | 1290位 | YTB](https://www.youtube.com/@AILuxuryAesthetic/videos)**
-  - [踏入水晶花园之旅 | 4K 奇幻花园、梦境世界与史诗级音景](https://www.youtube.com/watch?v=O86biUZq--A)
+* **[AI Luxury Aesthetic | 1.3k | YTB](https://www.youtube.com/@AILuxuryAesthetic/videos)**
+  - [Journey Into Crystal Gardens | 4K Fantasy Gardens, Dream Worlds & Epic Soundscapes | 踏入水晶花园之旅 | 4K 奇幻花园、梦境世界与史诗级音景](https://www.youtube.com/watch?v=O86biUZq--A)
+  - [Secret Neon Oasis ✨ Let Your Soul Rest in This Mystical Night Garden | 秘密霓虹绿洲✨ 让你的灵魂在这个神秘的夜间花园中得到休息](https://www.youtube.com/watch?v=TRMkfyf2jyE)
+  - [Ultimate Luxury Ocean Hotel Ambience | Deep Relaxation in 4K | 极致奢华的海洋酒店氛围 | 4K 深度放松](https://www.youtube.com/watch?v=8MiW6mDwquY)
 
 ---
 **[Retrofutura]{s}**
