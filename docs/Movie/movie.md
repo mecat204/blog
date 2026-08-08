@@ -1371,6 +1371,29 @@
   - [Knoword](https://knoword.com/) - 一个基于游戏的教育平台，让学习词汇变得非常有趣
 
 ---
+### 0600. 动漫
+**[Aniwave]{s}**
+* **[Aniwave | Watch Free Anime Online in HD Quality](https://aniwaves.ru/home)**
+  - [火影忍者疾风传](https://aniwaves.ru/watch/naruto-movie-3-dai-koufun-mikazuki-jima-no-animaru-panic-dattebayo-76400/ep-1)
+  - [naruto](https://aniwaves.ru/watch/naruto-76396/ep-1)
+
+---
+**[MangaFire]{s}**
+* **[MangaFire - Read Manga Online Free](https://mangafire.to/home)**
+
+---
+**[Fmovies]{s}**
+* **[Watch Free Movies Online | Fmovies](https://thefmovies.sbs/home-fmovies)**
+
+---
+**[Streamzy]{s}**
+* **[streamzy](https://streamzy.org/)**
+
+---
+**[Zoro TV]{s}**
+* **[Zoro TV | Watch Anime with English Sub and Dub Online Free](https://zorotv.com.ro/)**
+
+---
 ### 9999. Download
 **[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**
