@@ -3769,6 +3769,7 @@
 
 * **[TED-Ed](https://ed.ted.com/)**
   - [Mysteries of vernacular: Odd - Jessica Oreck and Rachael Teel](https://ed.ted.com/lessons/mysteries-of-vernacular-odd-jessica-oreck-and-rachael-teel?lesson_collection=mysteries-of-vernacular)
+* **[pm 8:00 Trancy start]{lb}**
 
 ---
 **[Savvy Wheels]{g}**
@@ -4228,7 +4229,7 @@
   * **[How to Stay Motivated to Learn English in 2026! | 如何在2026年保持学习英语的动力！](https://www.youtube.com/watch?v=1knajL-wIjA)**
 
 ---
-**[TEDx Talks]{p}**
+**[TEDx Talks]{s}**
 * **[TEDx Talks | YTB](https://www.youtube.com/@TEDx)**
   - [En: TEDx is an international community that organizes TED-style events anywhere and everywhere -- celebrating locally-driven ideas and elevating them to a global stage.]{s}
   - [Cn: TEDx是一个国际社区，组织类似TED的活动，地点和地点——庆祝本地驱动的理念，并将其提升到全球舞台。]{lb}
@@ -4245,6 +4246,7 @@
 ---
 **[How the Fridge Changed Food]{s}**
 * **[How the Fridge Changed Food | Nicola Twilley | TED](https://www.youtube.com/watch?v=Mz1ItbiNqxw)**
+* **[pm 8:00 Trancy start]{lb}**
 
 ---
 **[Michele Lepe - Story Time]{s}**

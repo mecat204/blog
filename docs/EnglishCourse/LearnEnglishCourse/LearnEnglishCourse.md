@@ -39,6 +39,7 @@
   - [Sarah Crawford-Bohl](https://www.ted.com/talks/sarah_crawford_bohl_how_to_speak_up_even_when_you_don_t_want_to)
 
 * **[TED-Ed](https://ed.ted.com/)**
+* **[pm 8:00 Trancy start]{lb}**
 
 ---
 **[Teco-lab]{s}**
