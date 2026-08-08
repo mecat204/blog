@@ -134,12 +134,14 @@
 * **[阿酷导航](https://a.cool/)**
 * **[anyongki](https://github.com/anyongki/guannav)**
 * **[imsyy](https://github.com/imsyy?tab=repositories)**
-* **[青禾导航](https://xn--fet750e3yf5yw.cn/)**
+* **[青禾博客](https://bk.kushe.net/links/yinshi_wangzs)**
+  - [青禾导航](https://www.qhdh.top/)
+  - [奈菲影视](https://www.ratemanage.com/)
 * **[APP – GDaily](https://www.gdaily.org/app)**
 * **[网址整理](https://www.gdaily.org/22554/2020-watch-video)**
   - [独播库](https://www.dbku.tv/)
   - [China.linetv.tw](https://www.linetv.tw/)
-
+* **[24k导航](https://www.24kdh.vip/)**
 
 ---
 **[饭搭子影视·proxy]{g}**
@@ -1364,7 +1366,7 @@
 ---
 **[网页游戏 | 不用下载，打开网页直接就能玩耍]{s}**
 * **[Games to leran English](https://www.gamestolearnenglish.com/)**
-  - [Games to leran English](https://www.gamestolearnenglish.com/) - 内置多个小游戏，全面练习你的词汇，语法，听力等等
+  - [Games to leran English](https://www.gamestolearnenglish.com/)
 
 ----
 * **[Knoword](https://knoword.com/)**
