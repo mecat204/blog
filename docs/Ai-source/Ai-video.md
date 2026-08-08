@@ -1532,6 +1532,32 @@
   - [愿得一人心，白首不分离](https://v.douyin.com/e-v1ICaYTXc/)
 
 ---
+### 0064. FayeGlide · 神雕侠侣
+**[FayeGlide]{s}**
+* **[FayeGlide | 🪐可灵AI优质创作者，LibTV 超创 师：@Cyborg3 | 佰章 | Douyin](https://v.douyin.com/0VdSCV87tN8/)**
+
+  ---
+  **[001. Fantasy 幻想;想象 (范特西)]{g}**
+    - [001](https://v.douyin.com/lcOpjTM4sOE/)
+    - [看我画的是不是你的梦 最喜欢这首歌的其中一段歌词，我要的不过是良人相伴，能同频的人。唯有你能让我生命完整，一切因你而起，当音乐让你舞动，baby，就做你自己。马上过年了，希望每个人都能找到自己的另一半。]{lb}
+
+    ---
+    - [030](https://v.douyin.com/2W5gvZqT2sI/)
+    - [每一帧都是壁纸]{lb}
+
+  ---
+  **[002. 赛博国风]{g}**
+    - [赛博大秦集团能否抵御外星入侵 | 001](https://v.douyin.com/ZrX30D3Vc00/)
+
+    ---
+    - [赛博大秦集团与外星生物最终决战 | 010](https://v.douyin.com/bpUgRphNduk/)
+
+    ---
+    - [又爆肝20小时优化了一下，发现萝卜白菜各有所爱，真的然尽了 | 020](https://v.douyin.com/6H-HzOzJ-Wk/)
+    - [音乐一响，年少的DNA在跳动 · 神雕侠侣 | 024](https://v.douyin.com/7AVmR9sZMos/)
+    - [又花几天优化了一版，上期有很多人反馈男女主不好看 | 025](https://v.douyin.com/2RHg3bRl0J8/)
+
+---
 ### 9999. Download
 **[必应]{s}**
 * **[必应 | bing.com](https://cn.bing.com/)**
