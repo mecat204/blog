@@ -128,7 +128,7 @@
 
 ---
 **[网址之家]{s}**
-* **[友情链接](https://iui.su/link.html)**
+* **[不死鸟](https://iui.su/link.html)**
 * **[urlzj](https://www.urlzj.com/)**
 * **[iMyShare](https://imyshare.com/)**
 * **[阿酷导航](https://a.cool/)**
