@@ -57,6 +57,10 @@
     - [transformer-circuits](https://transformer-circuits.pub/2026/workspace/index.html)
 
 ---
+**[杨竹筠]{s}**
+* **[杨竹筠 | 🛡️未来主义极客 & 十年科技媒体人 🤖G信部认证人工智能工程师 🛰️探索：AI+数字创业机会 | 47.9k | YTB](https://www.youtube.com/@yangzhujun/videos)**
+
+---
 ### 0003. 杜恩泽·AI分享与思考
 **[杜恩泽·AI分享与思考]{s}**
 * **[杜恩泽·AI分享与思考 | 我是杜恩泽，AI来了，先上车再选座 探索 AI 如何被普通人 | 佰章 | Douyin](https://v.douyin.com/VcRnLRoeE_g/)**
@@ -164,6 +168,16 @@
   **[001. 知识晓得了]{g}**
     - [AI之父 | Min: 46:43 | 001](https://v.douyin.com/xesYBBOIlMs/)
     - [没人会为了你的脆弱鼓掌 | Min: 01:05 | 033](https://v.douyin.com/__x3U7vduCI/)
+
+---
+### 0012. 薇薇AI新个体
+**[薇薇AI新个体]{e}**
+* **[薇薇AI新个体 | 前字节跳动飞书设计专家 | V:suning418](https://v.douyin.com/WmaNa6OtH0Y/)**
+  - [为什么AI诞生于硅谷](https://v.douyin.com/fwd1_J8uhEA/)
+  - [为什么AI诞生于硅谷？ 我曾在一家硅谷公司工作两年，最受触动的并不是用了什么工具，而是信息公开、上下文透明、不同角色共同参与决策的工作方式。AI 进入组织后，就像一名能够读取全部业务信息的新员工。为什么 AI 更容易诞生于硅谷？国内企业和一人公司又该怎样走向 AI 原生？这条视频分享我的真实工作观察。]{lb}
+
+**[薇薇AI新个体]{e}**
+* **[薇薇AI新个体 | 30 | YTB](https://www.youtube.com/@%E8%96%87%E8%96%87%E6%96%B0%E4%B8%AA%E4%BD%93/videos)**
 
 ---
 ### 9999. Download

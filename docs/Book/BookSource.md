@@ -219,12 +219,14 @@
 
 ---
 ### 0006. Book·文学·书法
+**[都靓读书]{e}**
 * **[都靓读书 | 阅读是一件最重要的小事 | 千章 | Douyin](https://v.douyin.com/z4aLtYzUY2E/)**
   - [中文里每一个词都不是滥竽充数的](https://v.douyin.com/8EuHNH5Ihhw/)
   - [卧龙凤雏什么时候成了贬义词？其实网络热梗扭曲挤压了成语的使用空间。我们的成语有多博大精深？| 网络热梗 | 成语 | 历史 | 阅读](https://v.douyin.com/E9SCy1lVwoY/)
   - [每一次碰杯的声音，都是献给自己的祝酒词。七夕 | 敬自己](https://v.douyin.com/o_JI7HSjPds/)
   - [给我10个数的时间！带你领略那些你应该知道一点儿 的中国文化常识。传统文化 | 知识分享](https://v.douyin.com/5n_h8vS1mHU/)
   - **[Book: 好的自己-陈果](https://v.douyin.com/LgD8k4JSklw/)**
+  - [改变人类文明进程的1001项发明](https://v.douyin.com/9p7eIjt5bMk/)
 
 ---
 * **[金屋电子书](https://pdfs.top/)**
@@ -267,12 +269,14 @@
   - [人际关系](https://v.douyin.com/LZk-wf3ybn4/)
 
 ---
+**[榆晖书院]{s}**
 * **[榆晖书院 | 成都东边有间小屋，我在那里写字和读书 | 千章 | Douyin](https://v.douyin.com/0ROr1PNKqaA/)**
   - [精神世界也需要门当户对](https://v.douyin.com/zx7AcBZDjG0/)
   - [硬笔书法](https://v.douyin.com/2ZEBSOBvur8/)
   - [孩子，你所谓的普通可能并不是那么普通](https://v.douyin.com/v7ZfJCcWr28/)
 
 ---
+**[团子]{s}**
 * **[团子 | 话不多说，好好写字。| 千章 | Douyin](https://v.douyin.com/Aw3GWIANijc/)**
   - [礼记](https://v.douyin.com/HFk6LZ8d9-I/)
   - [写字是一种生活 | 练字静心](https://v.douyin.com/hUdWEwqp7XA/)
