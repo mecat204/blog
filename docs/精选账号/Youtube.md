@@ -3244,10 +3244,8 @@
 ---
 ### 0025. Bloger Gather | TEco Lab
 **[Bloger Gather]{s}**
-
----
 **[Jay Shetty Podcast·心理健康]{s}**
-* **[Jay Shetty Podcast | 564万 | YTB](https://www.youtube.com/@JayShettyPodcast./videos)**
+* **[Jay Shetty Podcast | 5.86M | YTB](https://www.youtube.com/@JayShettyPodcast./videos)**
 
 ---
 **[Ethan Travels | Travels]{s}**
@@ -3796,7 +3794,7 @@
 
 ---
 **[SparkTV]{s}**
-* **[SparkTV | 257万 | YTB](https://www.youtube.com/@SparkTVMovies/videos)**
+* **[SparkTV | 2.6M | YTB](https://www.youtube.com/@SparkTVMovies/videos)**
 
   - [En: SparkTV is a wholesome, family friendly, entertainment provider.]{s}
   - [Cn: SparkTV 是一家健康、适合家庭的娱乐平台。]{lb}
@@ -3833,20 +3831,21 @@
 
 ---
 **[Veronika Mark]{e}**
-* **[Veronika Mark | 14万 | YTB](https://www.youtube.com/@veronika_mark/videos)**
+* **[Veronika Mark | 161K | YTB](https://www.youtube.com/@veronika_mark/videos)**
 
 ---
 **[English Teacher Claire]{e}**
-* **[English Teacher Claire | 74.9万 | YTB](https://www.youtube.com/@EnglishTeacherClaire/videos)**
+* **[English Teacher Claire | 771K | YTB](https://www.youtube.com/@EnglishTeacherClaire/videos)**
 
+---
 ### 0026. Podcast 播客 | Drama 短剧
 **[LOVEBUSTER]{s}**
-* **[LOVEBUSTER | 204万 | YTB](https://www.youtube.com/@LoveBusterShow/videos)**
+* **[LOVEBUSTER | 2.06M | YTB](https://www.youtube.com/@LoveBusterShow/videos)**
   - [I Broke The Law To Save Those I Love | SAVING HEARTS | Ep.10 | 我违法拯救我所爱的人 |拯救心灵 |第10集](https://www.youtube.com/watch?v=xxAknGzwPSw)
 
 ---
 **[English Unleashed: The Podcast]{s}**
-* **[English Unleashed: The Podcast | 115万 | YTB](https://www.youtube.com/@EnglishPodcastUnleashed/videos)**
+* **[English Unleashed: The Podcast | 1.42M | YTB](https://www.youtube.com/@EnglishPodcastUnleashed/videos)**
   - [En: Welcome to English Unleashed: The Podcast.]{s}
   - [Cn: 欢迎收听《English Unleashed：播客》。]{lb}
 
@@ -3876,11 +3875,11 @@
 
 ---
 **[Little Reading Bug's Bilingual Channel]{s}**
-* **[Little Reading Bug's Bilingual Channel | 小书虫的双语频道 | YTB](https://www.youtube.com/@littlereadingbugsbilingual539/videos)**
+* **[Little Reading Bug's Bilingual Channel | 376 | 小书虫的双语频道 | YTB](https://www.youtube.com/@littlereadingbugsbilingual539/videos)**
 
 ---
 **[English in Comfort]{s}**
-* **[English in Comfort | 26.5万 | YTB](https://www.youtube.com/@EnglishinComfort/videos)**
+* **[English in Comfort | 299K | YTB](https://www.youtube.com/@EnglishinComfort/videos)**
 
   - [En: Learn English the Comfortable Way!]{s}
   - [Cn: 舒适地学习英语！]{lb}
@@ -3924,7 +3923,8 @@
 ---
 ### 0027. Coding
 **[Sam Witteveen]{s}**
-* **[Sam Witteveen | 12.3万 | YTB](https://www.youtube.com/@samwitteveenai/videos)**
+* **[Sam Witteveen | 126K | YTB](https://www.youtube.com/@samwitteveenai/videos)**
+
   - [En: HI my name is Sam Witteveen, I have worked with Deep Learning for 11 years and with Transformers and LLM for 5+ years.  ]{s}
   - [Cn: 你好，我叫Sam Witteveen，我从事深度学习已有11年，并且在Transformers和大型语言模型领域工作了5+年。]{lb}
 
@@ -3937,7 +3937,8 @@
 
 ---
 ### 0028. PhD | 博士
-* **[Megan Teng]{s}**
+**[Megan Teng]{s}**
+* **[Megan Teng | 2.11K | YTB](https://www.youtube.com/@MeganTeng_berkeley)**
   - [026柏克萊工學院博士畢業典禮致詞](https://www.youtube.com/watch?v=3g5LK02wCGA)
 
 ---
@@ -3956,7 +3957,7 @@
 
 ---
 **[Massachusetts Institute of Technology (MIT) · 麻省理工学院]{s}**
-* **[MIT | 97.3万 | YTB](https://www.youtube.com/@mit/videos)**
+* **[MIT | 975K | YTB](https://www.youtube.com/@mit/videos)**
 
   ---
   **[麻省理工学院]{g}**
@@ -3970,7 +3971,7 @@
 
 ---
 **[New York University]{s}**
-* **[New York University | 11.8万 | YTB](https://www.youtube.com/@newyorkuniversity/videos)**
+* **[New York University | 118K | YTB](https://www.youtube.com/@newyorkuniversity/videos)**
   - [NYU's 2022 Commencement Speaker Taylor Swift](https://www.youtube.com/watch?v=OBG50aoUwlI)
 
   ---
@@ -3979,7 +3980,7 @@
 
 ---
 **[Harvard Unviersity]{s}**
-* **[Harvard University | 284万 | YTB](https://www.youtube.com/@harvard/videos)**
+* **[Harvard University | 286M | YTB](https://www.youtube.com/@harvard/videos)**
   - [Oprah Winfrey Harvard Commencement speech | Harvard Commencement 2013](https://www.youtube.com/watch?v=GMWFieBGR7c)
   - [Harvard Thinking: The secret lives of super-agers](https://www.youtube.com/watch?v=P7-nshMUJms)
   - [瑞思Ruisi](https://v.douyin.com/gN7MH_3RrAs/)
@@ -3990,7 +3991,7 @@
 
 ---
 **[Stanford]{s}**
-* **[Stanford | 218万 | YTB](https://www.youtube.com/@stanford/videos)**
+* **[Stanford | 2.19M | YTB](https://www.youtube.com/@stanford/videos)**
   - [Steve Jobs' 2005 Stanford Commencement Address](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
 
   **[斯坦福大学]{g}**
@@ -3998,7 +3999,7 @@
 
 ---
 **[Cambridge]{s}**
-* **[Cambridge | 54.5万 | YTB](https://www.youtube.com/@cambridgeuniversity/videos)**
+* **[Cambridge | 550K | YTB](https://www.youtube.com/@cambridgeuniversity/videos)**
   - [The future of Novels and Generative AI](https://www.youtube.com/watch?v=P3kDEfIYSBU)
 
   ---
@@ -4023,24 +4024,24 @@
 ---
 ### 0030. Organization
 **[United Nations]{s}**
-* **[联合国 | 331万 | YTB](https://www.youtube.com/unitednations)**
+* **[联合国 | 3.32M | YTB](https://www.youtube.com/unitednations)**
   - [Emma Watson at the HeForShe Campaign 2014 - Official UN Video](https://www.youtube.com/watch?v=gkjW9PZBRfk)
 
 ---
 ### 0031. International film star
 **[Totally Emma Watson | 赫敏 | Harry Potter and the Philosopher's Stone]{e}**
-* **[Totally Emma Watson | 44.3万 | YTB](https://www.youtube.com/@TotallyEmmaWatson/videos)**
+* **[Totally Emma Watson | 443K | YTB](https://www.youtube.com/@TotallyEmmaWatson/videos)**
   - [Emma Watson - One Young World 2016](https://www.youtube.com/watch?v=elbqER_ZrLQ)
 
 ---
 ### 0032. English Speeches
 **[English Speeches]{s}**
-* **[English Speeches | 643万 | YTB](https://www.youtube.com/@EnglishSpeeches/videos)**
+* **[English Speeches | 6.47M | YTB](https://www.youtube.com/@EnglishSpeeches/videos)**
 
 ---
 ### 0033. Thejonathon | GenshinImpact
 **[Thejonathon·GenshinImpact]{s}**
-* **[Thejonathon | 71.5万 | YTB](https://www.youtube.com/@Thejonathon/videos)**
+* **[Thejonathon | 727K | YTB](https://www.youtube.com/@Thejonathon/videos)**
   - [THE MOON ARCHON QUEST IS INSANE... Genshin Impact Moon Gazing 6.7 world quest full reaction](https://www.youtube.com/watch?v=K8UZ3xK4xow)
 
 * **[黯殇As_ | 5.2万 | B站](https://space.bilibili.com/98717318?spm_id_from=333.788.upinfo.detail.click)**
@@ -4049,7 +4050,7 @@
 ---
 ### 0034. BranOnline | GenshinImpact
 **[BranOnline·GenshinImpact]{s}**
-* **[BranOnline | 41.1 | YTB](https://www.youtube.com/@BranOnline/videos)**
+* **[BranOnline | 414K | YTB](https://www.youtube.com/@BranOnline/videos)**
   - [6.7 - The Truth About Teyvat’s Moon Is Insane | Min: 05H:41M:31S ](https://www.youtube.com/watch?v=mUjol3LBzuc)
 
 ---
@@ -4070,13 +4071,13 @@
 ---
 ### 0036. English Source
 **[BBC Learning English]{s}**
-* **[BBC Learning English | 1040万 | YTB](https://www.youtube.com/@bbclearningenglish/videos)**
+* **[BBC Learning English | 10.7M | YTB](https://www.youtube.com/@bbclearningenglish/videos)**
 
 * **[BBC](https://www.bbc.co.uk/learningenglish)**
 
 ---
 **[English MasterClass]{s}**
-* **[English MasterClass | 35.9万 | YTB](https://www.youtube.com/@EnglishMasterClass019/shorts)**
+* **[English MasterClass | 506K | YTB](https://www.youtube.com/@EnglishMasterClass019/shorts)**
   - [Where To Use " For & Since " | English Grammar Learning](https://www.youtube.com/watch?v=2veCTtcQQqo)
     * For / Since
       - For -> duration of time
@@ -4126,7 +4127,7 @@
 
 ---
 **[linguamarina]{e}**
-* **[linguamarina | 833万 | YTB](https://www.youtube.com/@linguamarina)**
+* **[linguamarina | 8.89M | YTB](https://www.youtube.com/@linguamarina)**
   - [En: Co-founder of a language-learning platform Linguatrip, passionate about learning languages.]{s}
   - [Cn: 语言学习平台Linguatrip的联合创始人，热衷于学习语言。]{lb}
 
@@ -4159,7 +4160,7 @@
 
 ---
 **[ETJ English]{s}**
-* **[ETJ English | 114万 | YTB](https://www.youtube.com/@etjenglish)**
+* **[ETJ English | 1.15M | YTB](https://www.youtube.com/@etjenglish)**
   - [En: I’m Elliott, founder of ETJ English - a British pronunciation coach and communication mentor helping learners and professionals speak English clearly, naturally, and confidently.]{s}
   - [Cn: 我是Elliott，ETJ English的创始人——一位英国发音教练和沟通导师，帮助学习者和专业人士清晰、自然且自信地说英语。]{lb}
 
@@ -4191,7 +4192,7 @@
 
 ---
 **[English with Lucy]{e}**
-* **[English with Lucy | 1380万 | YTB](https://www.youtube.com/@EnglishwithLucy)**
+* **[English with Lucy | 14M | YTB](https://www.youtube.com/@EnglishwithLucy)**
   - [En: Click to download my FREE B1-C1]{s}
   - [Cn: 点击下载我的免费B1-C1]{lb}
 
@@ -4208,7 +4209,7 @@
 
 ---
 **[Learn English with Grace]{e}**
-* **[Learn English with Grace | 7560位 | YTB](https://www.youtube.com/@LearnEnglishwithGrace24)**
+* **[Learn English with Grace | 7.74K | YTB](https://www.youtube.com/@LearnEnglishwithGrace24)**
 
   - [En: Hi there, I'm Grace.]{s}
   - [Cn: 你好，我是格蕾丝。]{lb}
@@ -4230,7 +4231,8 @@
 
 ---
 **[TEDx Talks]{s}**
-* **[TEDx Talks | YTB](https://www.youtube.com/@TEDx)**
+* **[TEDx Talks | 44.6M | YTB](https://www.youtube.com/@TEDx)**
+
   - [En: TEDx is an international community that organizes TED-style events anywhere and everywhere -- celebrating locally-driven ideas and elevating them to a global stage.]{s}
   - [Cn: TEDx是一个国际社区，组织类似TED的活动，地点和地点——庆祝本地驱动的理念，并将其提升到全球舞台。]{lb}
 
@@ -4250,12 +4252,12 @@
 
 ---
 **[Michele Lepe - Story Time]{s}**
-* **[Michele Lepe - Story Time | Kid | YTB](https://www.youtube.com/@michelelepe)**
+* **[Michele Lepe - Story Time | Kid | 17K | YTB](https://www.youtube.com/@michelelepe)**
 
 ---
 ### 0037. Terence Fung - My Small Library in 3D
 **[Terence Fung - My Small Library in 3D]{s}**
-* **[Terence Fung - My Small Library in 3D | 1.15万 | YTB](https://www.youtube.com/@libraryofterence/videos)**
+* **[Terence Fung - My Small Library in 3D | 11.7K | YTB](https://www.youtube.com/@libraryofterence/videos)**
   - [The Little Prince — 3D Animated Movie](https://www.youtube.com/watch?v=Yo47Hjj5lcQ)
   - [The Man Who Planted Trees — 3D Animated Movie | Jean Giono](https://www.youtube.com/watch?v=iyO5W70eN8k)
   - [Alice In Wonderland — Animated 3D Movie | Lewis Carroll](https://www.youtube.com/watch?v=YZhicr-Xf-Y)
@@ -4267,19 +4269,19 @@
 ---
 ### 0038. Dan Kieft | AI enthusiast
 **[Dan Kieft]{s}**
-* **[Dan Kieft | AI enthusiast 人工智能爱好者；对人工智能充满热情的人 | 26.8万 | YTB](https://www.youtube.com/@Dankieft/videos)**
+* **[Dan Kieft | AI enthusiast 人工智能爱好者；对人工智能充满热情的人 | 281K | YTB](https://www.youtube.com/@Dankieft/videos)**
   - [How Nano Banana Pro & Kling Changed AI FIlmmaking](https://www.youtube.com/watch?v=dA_jfm38ejw)
 
 ---
 ### 0039. Ben Kaluza - Tutorials & Workflows
 **[Ben Kaluza - Tutorials & Workflows]{s}**
-* **[Ben Kaluza - Tutorials & Workflows | 5400位 | YTB](https://www.youtube.com/@BenKaluzaTech)**
+* **[Ben Kaluza - Tutorials & Workflows | 7.13K | YTB](https://www.youtube.com/@BenKaluzaTech)**
   - [How to Turn Storyboards into Consistent Videos using Seedance 2.0](https://www.youtube.com/watch?v=DosWo7GplD4)
 
 ---
 ### 0040. Aaron - AI-native builder
 **[Aaron - AI-native builder]{s}**
-* **[aron - AI-native builder | 10位 | YTB](https://www.youtube.com/@ai-native-builder/videos)**
+* **[aron - AI-native builder | 20 | YTB](https://www.youtube.com/@ai-native-builder/videos)**
   - [Expensive Tokens Won't Save Enterprise AI](https://www.youtube.com/watch?v=BhwSZpb6ag8)
 
   ---
@@ -4289,7 +4291,7 @@
 ---
 ### 0041. Silicon Valley Girl
 **[Silicon Valley Girl]{e}**
-* **[Silicon Valley Girl | 155万 | YTB](https://www.youtube.com/@SiliconValleyGirl/videos)**
+* **[Silicon Valley Girl | 1.56M | YTB](https://www.youtube.com/@SiliconValleyGirl/videos)**
   - [Godmother of AI: In 10 Years There Will Be Only 2 Kinds of Workers | Fei-Fei Li](https://www.youtube.com/watch?v=subu-xHrp1w)
   - [李飞飞对话MasterClass创始人：AI时代最大的秘密 | B站](https://www.bilibili.com/video/BV1ZUMi69E9T/?spm_id_from=333.337.search-card.all.click)
 
@@ -4300,13 +4302,13 @@
 ---
 ### 0042. BBC
 **[BBC·British Broadcasting Corporation]{s}**
-* **[BBC | 1560万 | YTB](https://www.youtube.com/@BBC/videos)**
+* **[BBC | 15.6M | YTB](https://www.youtube.com/@BBC/videos)**
 
 ---
 ### 0042. BBC Earth
 **[BBC Earth]{s}**
 * **[BBC Earth | Home](https://www.bbcearth.com/)**
-* **[BBC Earth | 1420万 | YTB](https://www.youtube.com/@bbcearth)**
+* **[BBC Earth | 14.5M | YTB](https://www.youtube.com/@bbcearth)**
 
   - [En: Bringing you face-to-face with heart-pounding action, mind-blowing ideas and the sheer wonder of being part of this amazing planet we call home.]{s}
   - [Cn: 带你面对令人心跳加速的动作、令人震撼的创意，以及成为这个我们称之为家的奇妙星球一部分的纯粹惊奇。]{lb}
@@ -4351,7 +4353,7 @@
 ---
 ### 0043. Dwarkesh Patel
 **[Dwarkesh Patel]{s}**
-* **[Dwarkesh Patel | Deeply researched interviews 深入研究的访谈；经过深度研究的采访 | 137万 | YTB](https://www.youtube.com/@DwarkeshPatel/videos)**
+* **[Dwarkesh Patel | Deeply researched interviews 深入研究的访谈；经过深度研究的采访 | 1.39M | YTB](https://www.youtube.com/@DwarkeshPatel/videos)**
 
 * **[Dwarkesh Podcast]{s}**
   - [dwarkesh](https://www.dwarkesh.com/p/adam-brown-gr)
@@ -4359,7 +4361,7 @@
 ---
 ### 0044. PBS · Public Broadcasting Service()
 **[PBS · Public Broadcasting Service]{s}**
-* **[PBS | 美国公共广播电视机构 | 177万 | YTB](https://www.youtube.com/@PBS/videos)**
+* **[PBS | 美国公共广播电视机构 | 1.78M | YTB](https://www.youtube.com/@PBS/videos)**
   - [The World’s Largest Concentrated Solar Power Plant | A Brief History of the Future | PBS](https://www.youtube.com/watch?v=2Z_5iRFf-Pc&list=PLzkQfVIJun2KVm7_Pgxma0b7fZBu_xJ97&index=1)
 
   ---
@@ -4368,25 +4370,25 @@
 
 ---
 **[Candle of Wisdom]{s}**
-* **[Candle of Wisdom | 9.85万 | YTB](https://www.youtube.com/@CandleOfWisdom/videos)**
+* **[Candle of Wisdom | 100K | YTB](https://www.youtube.com/@CandleOfWisdom/videos)**
 
 ---
 **[English with Evie]{e}**
-* **[English with Evie | 25.8万 | YTB](https://www.youtube.com/@EnglishWithEvie)**
+* **[English with Evie | 270K | YTB](https://www.youtube.com/@EnglishWithEvie)**
 
 ---
 ### 0099. AI - video
 **[Ghibli Days]{e}**
-* **[Ghibli Days | 10.3万 | YTB](https://www.youtube.com/@GhibliDayss/videos)**
+* **[Ghibli Days | 105K | YTB](https://www.youtube.com/@GhibliDayss/videos)**
   - [Silent Night Studying: Behind the Rain, Sunshine Will Surely Come | Ghibli Style Video](https://www.youtube.com/watch?v=GPZrNb88VCE)
 
 ---
 **[Ozzy Grace]{e}**
-* **[Ozzy Grace | 992位 | YTB](https://www.youtube.com/@ozzygrace1632/videos)**
+* **[Ozzy Grace | 992 | YTB](https://www.youtube.com/@ozzygrace1632/videos)**
 
 ---
 **[Chloe VS History]{s}**
-* **[Chloe VS History | Powered by PAI 2.0 from @UtopaiStudios | 359k | YTB](https://www.youtube.com/@ChloeVSHistory/videos)**
+* **[Chloe VS History | Powered by PAI 2.0 from @UtopaiStudios | 365K | YTB](https://www.youtube.com/@ChloeVSHistory/videos)**
   - [I time travelled to Ancient Rome! (Vlog)](https://www.youtube.com/watch?v=aaua5ghidk0&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=1)
   - [I time travelled to Tudor London in 1536! (Vlog)](https://www.youtube.com/watch?v=-Sd1stYQp-c&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=2)
   - [I time travelled to D-Day in 1944 (WW2)](https://www.youtube.com/watch?v=ta0xLjMXJ1s&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=4)
@@ -4402,35 +4404,35 @@
 
 ---
 **[Serene Video AI · music]{s}**
-* **[Serene Video AI | 28.9k | YTB](https://www.youtube.com/@SereneVideoAI)**
+* **[Serene Video AI | 28.9K | YTB](https://www.youtube.com/@SereneVideoAI)**
   - [Fantasy | Dreamlike | Daughters of the Pearlspire Palace](https://www.youtube.com/watch?v=6bOklwBi8Ek&list=RD6bOklwBi8Ek&start_radio=1)
   - [viralshortcut·price](https://viralshortcut.com/fantasy-palace-creator/)
 
 ---
 **[Aether Sound Lab]{e}**
-* **[Aether Sound Lab | 5.83k | YTB](https://www.youtube.com/@AetherSoundLab-x7q)**
+* **[Aether Sound Lab | 5.83K | YTB](https://www.youtube.com/@AetherSoundLab-x7q)**
   - [Relaxing Ambient Music in the Celestial Garden of Dancing Flowers and Light | 花光舞动的空中花园，轻松的氛围音乐](https://www.youtube.com/watch?v=wu6rnHy14E8)
 
 ---
 **[AI Luxury Aesthetic]{s}**
-* **[AI Luxury Aesthetic | 1.3k | YTB](https://www.youtube.com/@AILuxuryAesthetic/videos)**
+* **[AI Luxury Aesthetic | 1.3K | YTB](https://www.youtube.com/@AILuxuryAesthetic/videos)**
   - [Journey Into Crystal Gardens | 4K Fantasy Gardens, Dream Worlds & Epic Soundscapes | 踏入水晶花园之旅 | 4K 奇幻花园、梦境世界与史诗级音景](https://www.youtube.com/watch?v=O86biUZq--A)
   - [Secret Neon Oasis ✨ Let Your Soul Rest in This Mystical Night Garden | 秘密霓虹绿洲✨ 让你的灵魂在这个神秘的夜间花园中得到休息](https://www.youtube.com/watch?v=TRMkfyf2jyE)
   - [Ultimate Luxury Ocean Hotel Ambience | Deep Relaxation in 4K | 极致奢华的海洋酒店氛围 | 4K 深度放松](https://www.youtube.com/watch?v=8MiW6mDwquY)
 
 ---
 **[Retrofutura]{s}**
-* **[Retrofutura | 复古未来 / 未来复古 / 回望未来 | 3.67万 | YTB](https://www.youtube.com/@RetrofuturaAI/videos)**
+* **[Retrofutura | 复古未来 / 未来复古 / 回望未来 | 40.2K | YTB](https://www.youtube.com/@RetrofuturaAI/videos)**
   - [The Night Trains to Mountain Nation: A Steampunk Journey | AI 4K — Retrofutura](https://www.youtube.com/watch?v=Oxeqp62SC_M&list=RDOxeqp62SC_M&start_radio=1)
 
 ---
 **[Three-Quarter Town]{s}**
-* **[Three-Quarter Town | 2.31万 | YTB](https://www.youtube.com/@ThreeQuarterTown)**
+* **[Three-Quarter Town | 25.8K | YTB](https://www.youtube.com/@ThreeQuarterTown)**
   - [The Dog Who Waited at the Closed Door | Three-Quarter Town](https://www.youtube.com/watch?v=uqHkxgZjqrY)
 
 ---
 **[Studio Imagine AI]{s}**
-* **[Studio Imagine AI | 2600位 | YTB](https://www.youtube.com/@StudioImagineAI)**
+* **[Studio Imagine AI | 5.29K | YTB](https://www.youtube.com/@StudioImagineAI)**
   - [he Rainlit Canals of Bellario Laguna: A Steampunk City Odyssey](https://www.youtube.com/watch?v=F64sKMuaxEE&list=RDF64sKMuaxEE&start_radio=1)
 
 ---
@@ -4440,7 +4442,7 @@
 
 ---
 **[Base44]{s}**
-* **[Base44 | 7720位 | YTB](https://www.youtube.com/@Base44App)**
+* **[Base44 | 9.18K | YTB](https://www.youtube.com/@Base44App)**
   - [Introducing Base44’s Big Game Ad “It’s App to You”](https://www.youtube.com/watch?v=iKEUWtqvsis)
 
 ---
@@ -4449,7 +4451,7 @@
 
 ---
 **[NLB Singapore: 新加坡国家图书馆管理局]{s}**
-* **[NLB Singapore | National Library Board（新加坡国家图书馆管理局） | 1.28万 | YTB](https://www.youtube.com/@NLBsg/videos)**
+* **[NLB Singapore | National Library Board（新加坡国家图书馆管理局） | 13.1K | YTB](https://www.youtube.com/@NLBsg/videos)**
   - [Exploring the Use of AI in Our Daily Lives](https://www.youtube.com/watch?v=fmhJNZ2NP3A)
 
 * **[nlb.gov.sg](https://www.nlb.gov.sg/main/home)**
@@ -4463,66 +4465,66 @@
 ---
 ### 0300. The Drew Barrymore Show
 **[The Drew Barrymore Show]{s}**
-* **[The Drew Barrymore Show | 147万 | YTB](https://www.youtube.com/@TheDrewBarrymoreShow/videos)**
+* **[The Drew Barrymore Show | 1.47M | YTB](https://www.youtube.com/@TheDrewBarrymoreShow/videos)**
   - [Natalie Portman Reveals the Surprising Souvenir She Stole from 'Star Wars' | The Drew Barrymore Show](https://www.youtube.com/watch?v=LP7Dbuj7lT0)
 
 ---
 ### 0400. The Tonight Show Starring Jimmy Fallon
 **[The Tonight Show Starring Jimmy Fallon]{s}**
-* **[The Tonight Show Starring Jimmy Fallon | 3400万 | YTB](https://www.youtube.com/@fallontonight/videos)**
+* **[The Tonight Show Starring Jimmy Fallon | 34.1M | YTB](https://www.youtube.com/@fallontonight/videos)**
   - [Remembering Dr. Jane Goodall | The Tonight Show Starring Jimmy Fallon](https://www.youtube.com/watch?v=nFO0-xu71Dw)
 
 ---
 **[dreamlion]{s}**
-* **[dreamlion | 4340位 | B站](https://www.youtube.com/@dreamlion1/videos)**
+* **[dreamlion | 4.35K | B站](https://www.youtube.com/@dreamlion1/videos)**
   - [JANE GOODALL'S LAST INTERVIEW Recorded on 9/23/25](https://www.youtube.com/watch?v=4oshFOK9-sk)
 
 ---
 ### 0500. Kurzgesagt – In a Nutshell | Animation
 **[Kurzgesagt – In a Nutshell]{s}**
-* **[Kurzgesagt – In a Nutshell | 2540万 | YTB](https://www.youtube.com/@kurzgesagt/videos)**
+* **[Kurzgesagt – In a Nutshell | 25.4M | YTB](https://www.youtube.com/@kurzgesagt/videos)**
 
 ---
 ### 0600. 小熊英文故事·播客短剧
 **[Zubzoo Studios]{s}**
-* **[Zubzoo Studios | 2870位 | YTB](https://www.youtube.com/@ZubzooStudios)**
+* **[Zubzoo Studios | 3.09K | YTB](https://www.youtube.com/@ZubzooStudios)**
 
 ---
 **[kids Haven]{s}**
-* **[kids Haven | 1.83万 | YTB](https://www.youtube.com/@kidsHaven-KH)**
+* **[kids Haven | 18.3K | YTB](https://www.youtube.com/@kidsHaven-KH)**
 
 ---
 **[Picture This Stories]{s}**
-* **[Picture This Stories | 896 | YTB](https://www.youtube.com/@PictureThisStories/videos)**
+* **[Picture This Stories | 934 | YTB](https://www.youtube.com/@PictureThisStories/videos)**
 
 ---
 **[Fairy Tales and Stories for Kids]{s}**
-* **[Fairy Tales and Stories for Kids | 306万 | YTB](https://www.youtube.com/@FairyTales.English/videos)**
+* **[Fairy Tales and Stories for Kids | 3.09M | YTB](https://www.youtube.com/@FairyTales.English/videos)**
 
 ---
 ### 0900. News
 **[ITV News]{s}**
-* **[ITV News | 221万 | YTB](https://www.youtube.com/@ITVNews/videos)**
+* **[ITV News | 2.21M | YTB](https://www.youtube.com/@ITVNews/videos)**
 
 ---
 ### 1000. GPT词源学
 **[CrashCourse]{s}**
-* **[CrashCourse | 1710万 | YTB](https://www.youtube.com/@crashcourse/videos)**
+* **[CrashCourse | 17.2M | YTB](https://www.youtube.com/@crashcourse/videos)**
   - **[Crash Course Geology](https://www.youtube.com/watch?v=YokkwzdZX2A&list=PL8dPuuaLjXtMuxfQl-TBfSHokgpbLvKX9&index=1)**
 
 ---
 **[Etymology Nerd]{s}**
-* **[Etymology Nerd | 73.5万 | YTB](https://www.youtube.com/@etymology_nerd)**
+* **[Etymology Nerd | 734K | YTB](https://www.youtube.com/@etymology_nerd)**
 
 ---
 ### 2000. Astral Curiosity | Exploring the universe
 **[Astral Curiosity]{s}**
-* **[Astral Curiosity | 4.18万 | YTB](https://www.youtube.com/@astralcuriosity/videos)**
+* **[Astral Curiosity | 43.8K | YTB](https://www.youtube.com/@astralcuriosity/videos)**
 
 ---
 ### 3000. WorldCom EDU | Brian Stuart | Course
 **[WorldCom EDU]{s}**
-* **[WorldCom EDU | 24.3万 | YTB](https://www.youtube.com/@WorldcomEdu/courses)**
+* **[WorldCom EDU | 245K | YTB](https://www.youtube.com/@WorldcomEdu/courses)**
 
 ---
 ### 9999. Download
