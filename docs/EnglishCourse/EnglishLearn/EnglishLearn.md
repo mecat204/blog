@@ -125,9 +125,15 @@
   - [Julian Northbrook](https://www.youtube.com/@juliannorthbrook) - 用英式发音教你如何说好英语
   - [EngFluent](https://www.youtube.com/@engfluenttv) - 专注于帮助非英语母语者快速提升口语表达，让你告别死记硬背，实现英语流利表达
   - [Learn English with TV Series](https://www.youtube.com/c/LearnEnglishWithTVSeries) - 通过美剧学英语
-  - [mmmEnglish](https://www.youtube.com/@mmmEnglish_Emma) - 澳大利亚英语,实用口语表达
   - [ENGLISH with James](https://www.youtube.com/@engvidJames) - 深入的语法教学,学术写作技巧
-  - [English with Emma](https://www.youtube.com/@engvidEmma) - 交一些美式日常英语，地道表达等等
+
+  ---
+  **[English with Emma]{s}**
+    - [English with Emma](https://www.youtube.com/@engvidEmma) - 交一些美式日常英语，地道表达等等
+    - [mmmEnglish](https://www.youtube.com/@mmmEnglish_Emma) - 澳大利亚英语,实用口语表达
+
+
+  ---
   - [EnglishAnyone](https://www.youtube.com/@EnglishAnyone) - 利用课堂板书教授流利口语技巧，快速提升方法
   - [English Like A Native](https://www.youtube.com/@EnglishLikeANative) - 英式发音教学，文化习语讲解
   - [Learn English with Papa Teach Me](https://www.youtube.com/@EnglishLikeANative) - 家庭式教学风格，生动有趣的讲解

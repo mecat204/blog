@@ -48,6 +48,18 @@
     - [CNN专访：宾州州长从建国历史谈到政治分歧 | 452](https://v.douyin.com/eSQN6gSjE6w/)
 
 ---
+### 0002. Soren Yang · BBC News
+**[BBC News]{s}**
+* **[Soren Yang | 修身养性，提升认知，唤醒良知！ |  贰仟章 | Douyin](https://v.douyin.com/H5zvWRIQCwI/)**
+
+  ---
+  **[001. BBC News]{g}**
+    - [2026.08.10 | Min: 26:29 | 001](https://v.douyin.com/B_rYLscJyqU/)
+
+    ---
+    - [2025.11.17 | Min: 26:32 | End-start](https://v.douyin.com/7PffKQqaHNc/)
+
+---
 ### 9999. 开源项目
 **[必应]{s}**
 * **[必应 | bing.com](https://cn.bing.com/)**

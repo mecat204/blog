@@ -62,19 +62,47 @@
   ---
   **[001. 慢速英语听力]{g}**
     - [I love listening to music | 001](https://v.douyin.com/Oeavk6W6PUQ/)
+
+    ---
     - [010](https://v.douyin.com/6LblrMVnkL0/)
+
+    ---
     - [020](https://v.douyin.com/bTfmS1ShmDY/)
+
+    ---
     - [030](https://v.douyin.com/gP26TIO5SlI/)
+
+    ---
     - [运动和爱好 今天聊聊运动和爱好 | 040](https://v.douyin.com/endMsy4E2y8/)
+
+    ---
     - [oday I want to talk about sickness | 050](https://v.douyin.com/cl1b0A077ow/)
+
+    ---
     - [疼痛，身体上的疼痛 | 060](https://v.douyin.com/eX-rFJO2Lpo/)
+
+    ---
     - [Social media](https://v.douyin.com/AiwdiedqbmE/)
+
+    ---
     - [声音 哪种声音，一听你就放松了 | 080](https://v.douyin.com/SAjPzc18sHI/)
+
+    ---
     - [杂货店和大型连锁超市 你买菜，会选哪里 | 090](https://v.douyin.com/h1McGuJpcjc/)
+
+    ---
     - [旅行 一个人旅行，真的会让你长大 | 100](https://v.douyin.com/xRjm1A02yVs/)
+
+    ---
     - [真正的成长，来自让你不舒服的环境 | 110](https://v.douyin.com/_8BEjIqlZAE/)
+
+    ---
     - [慢速英语，每天学习一点点 | 120](https://v.douyin.com/I3bbK-AwMxw/)
+
+    ---
     - [慢速跟读英语，每天学习一点点 | 130](https://v.douyin.com/SC_VlkXSRB0/)
+
+    ---
     - [慢速英语听力 ｜ 海滩游玩 | 135](https://v.douyin.com/kFb50-5rdjE/)
 
 ---
@@ -90,6 +118,19 @@
   **[慢速英语跟读认知晨读]{g}**
     - [慢速英语跟读｜不是你不行，是目标太大，零基础也能听懂 | 001](https://v.douyin.com/8rZr3cB5X8I/)
     - [慢速英语跟读｜情绪一来别马上信，零基础也能听懂还能跟读 | 006](https://v.douyin.com/vTPZZu5A8NA/)
+
+---
+### 0003. Emma
+**[Emma]{s}**
+* **[Emma | Emma English is a friendly and easy-to-follow channel designed for people who are just starting to learn English. On this channel, you will learn: · Basic Enlish vocabulary and daily words | 叁佰章 | Douyin](https://v.douyin.com/dfbPTJn5YQA/)**
+
+  ---
+  **[Emma 英文]{g}**
+    - [Museum Chase |  001](https://v.douyin.com/txKZPmT0t7U/)
+    - [Museum Chase! Anna Finds the … Peter Got Trapped in the Museum! | A Family Mystery Story in Slow English *Practice English with this slow, emotional, and easy-to-follow English Listening Story. *This lesson is perfect for beginner and lower-intermediate learners (A2 level) who want to improve listening, shadowing, and speaking English through a simple family mystery story. *In today’s episode, Emma’s family visits a museum just before closing time. *They stop to look at the Pharaoh’s Golden Scepter, the most important treasure in the exhibition. *Guard Lewis tells Anna and Peter to look carefully at the top of the scepter. *Then Anna and Peter go to the restroom for a moment. *But suddenly, a loud alarm rings. *Red lights flash. *A safety door closes. *And Anna and Peter are trapped inside the museum. *As they try to find another way back, they hear something shocking. *Director Cole and another guard are stealing the golden scepter. *Worse, they plan to blame Guard Lewis for the crime. *Anna and Peter run through a]{lb}
+
+    ---
+    - [111](https://v.douyin.com/BrMjHNurBe8/)
 
 ---
 ### 9999. Download

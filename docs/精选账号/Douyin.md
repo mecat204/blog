@@ -751,6 +751,11 @@
 
 ---
 ### 0010. 2026
+**[甜甜琛啊·经济]{e}**
+* **[甜甜琛啊 | pku 博士毕业 全网同名 直播在🍠 | 贰佰章 | Douyin](https://v.douyin.com/6iRKe6CEFL8/)**
+  - [数据不骗人，我花 17 年分析，学医确实是大饼](https://v.douyin.com/9GnUrFkCrGQ/)
+
+---
 **[蒹葭的碎碎念]{s}**
 * **[蒹葭的碎碎念 | 日常 | 文学 | 五十章 | Douyin](https://v.douyin.com/FArXTFpNTWc/)**
   - [庄子认为，心若总依赖外界的回应，就像风中乱舞的叶子。 唯有当内心生长出自己的重量，人才能站稳。](https://v.douyin.com/9TDjK-Yl62U/)
