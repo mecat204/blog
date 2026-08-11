@@ -427,6 +427,7 @@
     - **[2013年 | 美国 | 地心引力](https://www.czzymovie.com/v_play/bXZfMzQyNS1ubV8=.html)**
     - **[豆瓣电影Top250](https://www.czzymovie.com/dbtop250/)**
       * **[1953年 | 美国 | 罗马假日 | 奥黛丽·赫本 |  格利高里·派克](https://www.czzymovie.com/v_play/bXZfNzMwNi1ubV8x.html)**
+      * **[罗马假日彩色版](https://www.bilibili.com/video/BV1gm42147tn/?spm_id_from=333.788.recommend_more_video.-1&trackid=web_related_0.router-related-2589621-btjjl.1786479291717.551)**
   * **[cz4k](https://www.cz4k.com/)**
       - [The Super Mario Bros. Movie | 超级马力欧兄弟大电影](https://www.cz4k.com/movie/5802.html)
   * **[4kcz](https://www.4kcz.com/)**
