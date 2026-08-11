@@ -49,6 +49,11 @@
 ---
 **[月白·灯塔]{s}**
 * **[月白·灯塔](https://baipiaozhe.ai/)**
+
+---
+**[LibreTV·Search]{s}**
+* **[LibreTV·Search](https://libretv.liumingye.cn/)**
+
 ---
 ### 0001. IPTV
 * **[iptv-org](https://iptv-org.github.io/)**
