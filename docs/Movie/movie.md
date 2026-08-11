@@ -47,6 +47,9 @@
 * **[NataliePortman](https://www.natalieportman.com/)**
 
 ---
+**[月白·灯塔]{s}**
+* **[月白·灯塔](https://baipiaozhe.ai/)**
+---
 ### 0001. IPTV
 * **[iptv-org](https://iptv-org.github.io/)**
   - [001](https://www.iyouhun.com/tv/fty)
@@ -102,6 +105,7 @@
 **[EngLearner]{s}**
 * **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
   - **[Kimivod | 電視劇 電影 動漫 綜藝 線上看](https://kimivod.com/)**
+  - **[Kimivod | 電視劇 電影 動漫 綜藝 線上看](https://kimivod.org/)**
     * [魔俠傳之唐吉可德](https://kimivod.com/vod/30393/1-1.html)
 
 ---
@@ -198,16 +202,20 @@
 * **[xiaoyakankan](https://nz.xiaoyakankan.tv/)**
 
 ---
+### 0003. Novipnoad
 **[Novipnoad]{s}**
 * **[NO视频 - 网址导航](https://findno.tv/)**
 * **[Novipnoad | NO视频为用户提供及时的海外热门剧集在线观看，友好无广告，致力于最轻松的追剧体验。](https://www.novipnoad.net/)**
+* **[novipnoad.uk](https://novipnoad.uk)**
+* **[novipnoad.ca](https://novipnoad.ca)**
+* **[novipnoad.xyz](https://novipnoad.xyz)**
 
 ---
 **[日漫]{s}**
 * **[omofun](https://omofun.in/vod/type/movie.html)**
 
 ---
-### 0004. 4kvm
+### 0004. 4KVM·4K影视
 **[4kvm]{s}**
 * **[4kvm.site](https://4kvm.site/)**
 * [4kvm.net](https://www.4kvm.net/)
@@ -215,6 +223,12 @@
   - [遗落战境 Oblivion | 汤姆·克鲁斯 Tom Cruise](https://www.4kvm.net/movies/ylzj)
 * [4kvm.pro](https://www.4kvm.pro)
 * [4kvm.org](https://www.4kvm.org)
+* [4kvms.org](https://www.4kvms.org)
+* [4kvms.com](https://www.4kvms.com)
+* [4kvm.top](https://www.4kvm.top)
+* [4kvm.cc](https://www.4kvm.cc)
+* [4kvm.me](https://www.4kvm.me)
+* [4kvm.tv](https://www.4kvm.tv)
 
 ---
 **[怀旧港片]{g}**
@@ -320,10 +334,11 @@
 ---
 ### 0006. Bttwo | Proxy | Film-Note
 **[Bttwo]{s}**
-  - [bttwo.vip](https://bttwo.vip/)
-  - [bttwo.org](https://www.bttwo.org/)
-  - [bttwo.me](https://www.bttwo.me)
-  - [bttwoo.com](https://www.bttwoo.com)
+* **[bttwo.vip · Nav](https://bttwo.vip/)**
+  - [bttwo.top](https://www.bttwo.top)
+  - [bttwo.life](https://www.bttwo.life)
+
+* **[bttwoo.com | unproxy](https://www.bttwoo.com)**
 
 ---
 **[麦田影院]{s}**
@@ -333,18 +348,19 @@
 **[嘀嗒影视]{s}**
   - [嘀嗒影视](https://www.didahd.pro/)
 
-**[天空影视]{s}**
-  - [天空影视](https://skyyyds.com/)
+---
+**[大马猴APP]{s}**
+  - [大马猴APP](https://dmhys.cc/)
 
 ---
 **[黑白-国外电影-精神-战斗]{s}**
 * **黑白-国外电影-精神-战斗 美少女特工队 大鹅 梦境制作models**
   - [Sucker Punch | 4K Trailer | Warner Bros. Entertainment](https://www.youtube.com/watch?v=vJ0xYZ5mVMc)
   - [异界-大鹅科幻作品](https://www.youtube.com/watch?v=AN1ffslY1cw)
-  - **[2020年 | 俄罗斯 | 异界](https://www.bttwo.org/play/ch28a0aou)**
-  - **[异界](https://www.4kvm.net/movies/yj)**
-  - [Lucy | 超体](https://www.bttwo.org/play/ch3d9uaz4)
-  - [哈利波特](https://www.bttwo.org/play/ch1j3j578)
+  - **[2020年 | 俄罗斯 | 异界](https://www.bttwo.life/play/ch28a0aou)**
+  - **[异界](https://www.4kvms.net/movies/yj)**
+  - [Lucy | 超体](https://www.bttwo.life/play/ch3d9uaz4)
+  - [哈利波特](https://www.bttwo.life/play/ch1j3j578)
 
 ---
 * **脑开发 100% 国外电影 超体 Lucy**
@@ -373,34 +389,38 @@
     - **[在线电影](https://maohaha.com/n/2053/#https://maohaha.com/c/51845/)**
       * **[毒舍电影](https://www.dushe05.com/)**
 
-  ---
-  **[低端影视]{s}**
-  * **[低端影视](https://maohaha.com/c/9417/)**
-    - **[ddys.run](https://www.ddys.run)**
-    - **[ddys.io](https://ddys.io/)**
-    - [ddys.la](https://www.ddys.la)
-    - [ddys.pw](https://www.ddys.pw)
-    - [ddys.ws](https://www.ddys.ws)
-    - [ddys.city](https://www.ddys.city)
+---
+### 0007. 低端影视
+**[低端影视]{s}**
+* **[低端影视](https://maohaha.com/c/9417/)**
+  - **[ddys.run](https://www.ddys.run)**
+  - **[ddys.io](https://ddys.io/)**
+  - [ddys.la](https://www.ddys.la)
+  - [ddys.pw](https://www.ddys.pw)
+  - [ddys.ws](https://www.ddys.ws)
+  - [ddys.city](https://www.ddys.city)
 
-    ---
-    * **[注视影视](https://gaze.run/)**
-    * **[磁力熊](https://www.cilixiong.org/)**
-    * **[韩剧网](https://www.hanju7.com/)**
-    * **[日本动漫 | 番剧尽在番茶屋 | 免费观看高清动漫_经典 | 新番全覆盖](https://www.fanchawu.cc/)**
-    * **[🍉西瓜卡通](https://cn.xgcartoon.com/)**
-    * **[搜片 | 搜你想看的影片](https://soupian.one/)**
+---
+### 0007. 搜片·其它
+**[搜片·其它]{s}**
+* **[搜片 | 搜你想看的影片](https://soupian.one/)**
+* **[注视影视](https://gaze.run/)**
+* **[磁力熊](https://www.cilixiong.org/)**
+* **[韩剧网](https://www.hanju7.com/)**
+* **[日本动漫 | 番剧尽在番茶屋 | 免费观看高清动漫_经典 | 新番全覆盖](https://www.fanchawu.cc/)**
+* **[🍉西瓜卡通](https://cn.xgcartoon.com/)**
 
-  ---
-  **[厂长资源]{s}**
-  - **[厂长资源](https://www.czzy.site/)**
-    * **[czzymovie](https://www.czzymovie.com/)**
-      - **[2013年 | 美国 | 地心引力](https://www.czzymovie.com/v_play/bXZfMzQyNS1ubV8=.html)**
-      - **[豆瓣电影Top250](https://www.czzymovie.com/dbtop250/)**
-        * **[1953年 | 美国 | 罗马假日 | 奥黛丽·赫本 |  格利高里·派克](https://www.czzymovie.com/v_play/bXZfNzMwNi1ubV8x.html)**
-    * **[cz4k](https://www.cz4k.com/)**
+---
+### 0007. 厂长资源
+**[厂长资源]{s}**
+* **[厂长资源](https://www.czzy.site/)**
+  * **[czzymovie](https://www.czzymovie.com/)**
+    - **[2013年 | 美国 | 地心引力](https://www.czzymovie.com/v_play/bXZfMzQyNS1ubV8=.html)**
+    - **[豆瓣电影Top250](https://www.czzymovie.com/dbtop250/)**
+      * **[1953年 | 美国 | 罗马假日 | 奥黛丽·赫本 |  格利高里·派克](https://www.czzymovie.com/v_play/bXZfNzMwNi1ubV8x.html)**
+  * **[cz4k](https://www.cz4k.com/)**
       - [The Super Mario Bros. Movie | 超级马力欧兄弟大电影](https://www.cz4k.com/movie/5802.html)
-    * **[4kcz](https://www.4kcz.com/)**
+  * **[4kcz](https://www.4kcz.com/)**
 
 ---
 ### 0008. zeuis 工作导航
@@ -497,7 +517,6 @@
   - [功夫 2004年]
 
 ---
-**[盲剪]{s}**
 **[盲剪]{s}**
 * **[盲剪 | 伍佰章](https://v.douyin.com/wyJI82Q8juo/)**
 
@@ -1348,6 +1367,10 @@
 ---
 **[观影导航]{s}**
 * **[观影导航](https://www.guannav.com/)**
+
+---
+**[影巢]{s}**
+* **[影巢](https://tv.movie1080.online/)**
 
 ---
 **[刘明野的工具箱]{s}**
