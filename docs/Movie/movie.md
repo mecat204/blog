@@ -392,9 +392,9 @@
 **[mvcat]{s}**
   * **[mvcat](https://www.mvcat.com/)**
     - **[在线电影](https://maohaha.com/c/51845/)**
-      * **[毒舍电影](https://www.dushe05.com/)**
-      * **[毒舍电影](https://www.dushe06.com/)**
-      * **[毒舍电影](https://www.dushe07.com/)**
+      * **[毒舍电影05](https://www.dushe05.com/)**
+      * **[毒舍电影06](https://www.dushe06.com/)**
+      * **[毒舍电影07](https://www.dushe07.com/)**
 
 ---
 ### 0007. 低端影视
