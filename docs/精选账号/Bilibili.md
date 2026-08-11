@@ -351,6 +351,11 @@
 * **[常青藤中英字幕课程 | 31.1万 | B站](https://space.bilibili.com/18053089?spm_id_from=333.337.0.0)**
 
 ---
+**[学习路上一同进步]{s}**
+* **[学习路上一同进步 | 精选Youtube视频｜投资｜个人成长｜健康｜人工智能｜心理学 | 2.2万 | B站](https://space.bilibili.com/392530286?spm_id_from=333.788.upinfo.detail.click)**
+  - [Get Smart With Money](https://www.bilibili.com/video/BV1cULS6mEFP/?spm_id_from=333.337.search-card.all.click)
+
+---
 ### 0003. studytee | B站
 **[studytee]{s}**
 * **[XRay-猎豹 | 只有一次的人生，当然要好好过 | 2.7万 | B站](https://space.bilibili.com/408296955?spm_id_from=333.788.upinfo.detail.click)**

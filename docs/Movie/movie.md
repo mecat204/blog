@@ -292,10 +292,30 @@
     - **[Kimivod](https://kimivod.org/vod/show/id/8.html)**
     - [我爱ABC](https://www.oiabc.net/)
     - **[Cineby](https://www.cineby.sc/)**
+    - **[Cineby](https://www.cineby.at/)**
     - **[巴别英语](https://www.babelabc.cn/)**
     - [Bitcine](https://www.bitcine.tv/)
+    - [Cineplay](https://www.cineplay.to/)
     - [livezy](https://livezy.click/freek/)
-    - [nunflix](https://nunflix.org/)
+    - [nunflix](https://nunflix.kim/)
+
+---
+### 0005. Cineby
+**[Cineby]{s}**
+* **[Cineby](https://www.cineby.sc/)**
+* **[Cineby](https://www.cineby.at/)**
+* **[Bitcine](https://www.bitcine.tv/)**
+* **[Cineplay](https://www.cineplay.to/)**
+* **[nunflix](https://nunflix.kim/)**
+* **[livezy](https://livezy.click/freek/)**
+
+---
+**[爱壹帆]{s}**
+  - **[爱壹帆](https://www.iyf.tv/)**
+
+---
+**[pomo.mom]{s}**
+* **[pomo.mom](https://pomo.mom/)**
 
 ---
 ### 0006. Bttwo | Proxy | Film-Note
@@ -387,7 +407,7 @@
 **[zeuis]{s}**
 * **[zeuis 工具导航](https://www.zeuis.com/)**
   - [西瓜影院](https://sszzyy.com/)
-  - [LibreTV](https://libretv.liumingye.cn/)
+  - **[LibreTV·Search](https://libretv.liumingye.cn/)**
   - [影猫の仓库](https://www.ymck.pro/)
   - [布布追剧](https://asd123sx23xdacsx.top/)
 
