@@ -419,6 +419,8 @@
 ### 0007. 厂长资源
 **[厂长资源]{s}**
 * **[厂长资源](https://www.czzy.site/)**
+* **[最新发布页](https://www.cz01.vip)**
+* **[易记域名](CZ01.TV)**
   * **[czzymovie](https://www.czzymovie.com/)**
     - **[2013年 | 美国 | 地心引力](https://www.czzymovie.com/v_play/bXZfMzQyNS1ubV8=.html)**
     - **[豆瓣电影Top250](https://www.czzymovie.com/dbtop250/)**
