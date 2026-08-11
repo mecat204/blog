@@ -391,8 +391,10 @@
 ### 0007. mvcat | 厂长资源
 **[mvcat]{s}**
   * **[mvcat](https://www.mvcat.com/)**
-    - **[在线电影](https://maohaha.com/n/2053/#https://maohaha.com/c/51845/)**
+    - **[在线电影](https://maohaha.com/c/51845/)**
       * **[毒舍电影](https://www.dushe05.com/)**
+      * **[毒舍电影](https://www.dushe06.com/)**
+      * **[毒舍电影](https://www.dushe07.com/)**
 
 ---
 ### 0007. 低端影视
