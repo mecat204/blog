@@ -497,18 +497,18 @@
 
 ---
 ### 0014. 古琴 | 古筝 |  笛子 | 钢琴 | 小提琴
-**[浅影阿]{p}**
+**[浅影阿]{s}**
 * **[浅影阿 | 仟章 | Douyin](https://v.douyin.com/j9R790aOI3M/)**
   - [谪居](https://v.douyin.com/BTeGOKmQ89M/)
   - [我走在长街中！](https://v.douyin.com/2vkb2aZVXfo/)
 
 ---
-**[李佳古琴]{p}**
+**[李佳古琴]{s}**
 * **[李佳古琴 | 伍佰章 | Douyin](https://v.douyin.com/dDpm7lvE3GM/)**
   - [国风古韵](https://v.douyin.com/QDCnNuEQZig/)
 
 ---
-**[佟谣]{p}**
+**[佟谣]{s}**
 * **[佟谣 | 佰章 | Douyin](https://v.douyin.com/dQenqUTMUU0/)**
   - [天地缓缓 | 青丝绾 情思晚](https://v.douyin.com/JckyKyfaVwA/)
   - [此生何用声声叹 | 秦时明月](https://v.douyin.com/B-23jqZBReg/)
@@ -516,12 +516,12 @@
   - [无所逃于天地之间 辨此心自由 | 无所逃于天地间](https://v.douyin.com/voZKnRVWDVY/)
 
 ---
-**[一禅小者]{p}**
+**[一禅小者]{s}**
 * **[一禅小者 | 佰章 | Douyin](https://v.douyin.com/bhXPdBPdNWQ/)**
   - [鸳鸯戏｜谁识曲中意 断弦等你系](https://v.douyin.com/cTyZJ1u5agw/)
 
 ---
-**[沧月神明]{p}**
+**[沧月神明]{s}**
 * **[沧月神明 | 自学笛子 | 佰章 | Douyin](https://v.douyin.com/MUQQ3_2ktJw/)**
   - [不愿染是与非，怎料事与愿违 | 不染 | 香蜜沉沉烬如霜](https://v.douyin.com/KLUopNP12KM/)
   - [能不能为你再跳一支舞，我是你千佰年前放生的白狐 | 白狐](https://v.douyin.com/ldwf0A2QGrU/)
@@ -531,7 +531,7 @@
   - [跟着红尘跟随我浪迹一生 | 跟着红尘跟随我浪迹一生  | 烟花易冷  | 笛子](https://v.douyin.com/oq7VwlOfkzA/)
 
 ---
-**[沉沉沉吟]{p}**
+**[沉沉沉吟]{s}**
 * **[沉沉沉吟 | 不定期更新自扒古筝作品，使用谱子注明出处 | 佰章 | Douyin](https://v.douyin.com/CtR8XRHLk0c/)**
   - [《不凡》变奏无人声版 | 古筝  | 不凡 | 凡人修仙传  | 韩立结婴  | 王铮亮](https://v.douyin.com/c4FuIVMFH6I/)
   - [古筝《不凡》完整版](https://v.douyin.com/p9c1_qFe2Fs/)
@@ -542,7 +542,7 @@
   - [踏破这轨迹，逆行在天地](https://v.douyin.com/EIoQXPZoXao/)
 
 ---
-**[穿越而過]{p}**
+**[穿越而過]{s}**
 * **[穿越而過 | 1.95万 | 油管](https://www.youtube.com/@pass.through/videos)**
   - [En: The primary artist of this channel is Guang (Light), creating in collaboration with his teacher.]{s}
   - [Cn: 该频道的主要艺术家是光（光），他 与老师合作创作。]{g}
@@ -566,7 +566,7 @@
   - **[空月｜古琴 古箏 簫 | Empty Moon | Chinese Guqin, Guzheng & Xiao Flute | Relaxation Music & Zen Meditation](https://www.youtube.com/watch?v=VSwK13Amq2Q)**
 
 ---
-**[HOYO-MiX]{p}**
+**[HOYO-MiX]{s}**
 * **[HOYO-MiX | 52.4万 | 油管](https://www.youtube.com/@HOYOMiX/videos)**
   - [En: HOYO-MiX is a music studio by miHoYo.]{s}
   - [Cn: HOYO-MiX 是 miHoYo 的音乐工作室。]{g}
@@ -578,17 +578,17 @@
   - **浮光摇日月 | 原神 | AlgerMusicPlayer**
 
 ---
-**[笛子～小柔]{p}**
+**[笛子～小柔]{s}**
 * **[笛子～小柔 | 笛子 | 佰章 | Douyin](https://v.douyin.com/7ZMhqrKiU5Q/)**
   - ["笛声一响，雪落满肩头…吹一曲《落了白》，愿人间清净，山河无恙。🌨️"|笛子 |乐器演奏 |落了白](https://v.douyin.com/-su-aaPrnvs/)
 
 ---
-**[晓乐的钢琴札记]{p}**
+**[晓乐的钢琴札记]{s}**
 * **[晓乐的钢琴札记 | 佰章 | Douyin](https://v.douyin.com/22gFoRVOSts/)**
   - [每一首歌都是一个记忆U盘 | 钢琴](https://v.douyin.com/_ety9MDtOdk/)
 
 ---
-**[觉庐]{p}**
+**[觉庐]{s}**
 * **[觉庐 | 学琴/曲谱/交流 | 国风古韵 | 佰章 | Douyin](https://v.douyin.com/4cZFPkS230o/)**
   - [古琴「精卫」你与我先谈养心殿，后拜瀑淋身](https://v.douyin.com/0lRpuTuSjoc/)
   - [古琴右手指法跟练示范，快快收藏起来](https://v.douyin.com/Agn6Q37zTww/)
@@ -599,16 +599,16 @@
   - [古琴「西厢寻他」"听西厢月落乌啼声声唱罢" 演奏：楠欣 移植：东韵 | 古琴](https://v.douyin.com/BqkpiT-QHgA/)
 
 ---
-**[银幕诗人]{p}**
+**[银幕诗人]{s}**
 * **[银幕诗人 | 苏州园林 ｜江南水乡｜中式美学 | 佰章 | Douyin | 佰章 | Douyin](https://v.douyin.com/b2blAPgkIlE/)**
   - [真的有人喜欢这种安静的感觉吗](https://v.douyin.com/Zqt54YHlzjA/)
 
 ---
-**[崔江卉古筝]{p}**
+**[崔江卉古筝]{s}**
 * **[崔江卉古筝 |  曲谱集 | 2019年出版 朝云间 | 2024年出版 流行古筝独奏教程](https://v.douyin.com/l-_NyS7JlX4/)**
 
 ---
-**[惊枝]{p}**
+**[惊枝]{s}**
 * **[惊枝 | 海压竹枝低复举，风吹山角晦还明 | 佰章 | Douyin](https://v.douyin.com/AEIx2NG45Pc/)**
   - [情思晚，暂留天地缓缓" 原唱：伦桑 移植：东韵Dongyun 演奏：我 小小的变了一下调 这个旋律还是太权威了，东韵老师移植也是太权威了 古琴 **天地缓缓**](https://v.douyin.com/znD-CUN6yGQ/)
   - [追剧上头，真的好配 | 古琴 | 九重紫 | 戏文说 | 国风古韵 | **听说戏文说和九重紫很配**](https://v.douyin.com/UocoL3KGojE/)
@@ -617,7 +617,7 @@
   - [闪动如蝴蝶在双颊，那是眼泪吗。 **古琴 | 同花顺**](https://v.douyin.com/Jh650wbWrnY/)
 
 ---
-**[今也_古琴]{p}**
+**[今也_古琴]{s}**
 * **[今也_古琴 | 我欲醉眠卿且去 明朝有意抱琴来 | 佰章 | Douyin](https://v.douyin.com/ciILFWons1E/)**
   - [愁生天际，雨落时又想起撑伞过桥底·古琴](https://v.douyin.com/NH3waO-hmQ4/)
   - [回头看，不曾走远 | **Music: 此生不换**](https://v.douyin.com/Wi4C1xvHEMg/)
@@ -625,7 +625,7 @@
   - [春知晓梦不觉 恰似你我当年](https://v.douyin.com/yXBi47ZhWZw/)
 
 ---
-**[东韵Dongyun]{p}**
+**[东韵Dongyun]{s}**
 * **[东韵Dongyun | 佛系更新 | 佰章 | Douyin](https://v.douyin.com/qjkJKUwKgFs/)**
   - [天地缓缓｜纯阳 天地缓缓 剑网3](https://v.douyin.com/cP65gAUmB3c/)
   - [知晓 梦不觉 恰似你我那年～](https://v.douyin.com/do0lJ9I8gU8/)
@@ -633,14 +633,14 @@
   - [一微尘里三千界，半刹那间八万春 "何须待逢春，此刻即芳辰" | 光与夜之恋]( https://v.douyin.com/xu54BlQUl3c/)
 
 ---
-**[澜杉古琴]{p}**
+**[澜杉古琴]{s}**
 * **[澜杉古琴 | 学琴 | 曲谱 | 购琴 | 合作lansguqin](https://v.douyin.com/W8Gb5zdmCmo/)**
   - [若如初见 为谁而归](https://v.douyin.com/rPDcjmLhOa0/)
   - [雨下一整晚神仙间奏 | **Music: 雨下一整晚**](https://v.douyin.com/Tsk5Iwn81XQ/)
   - [春庭雪也太适合古琴了吧，这一世太，漫长却止步咫尺天涯间 | **Music: 春庭雪**](https://v.douyin.com/MuK4-kNF4SM/)
 
 ---
-**[爱纹身的古琴师(琴癫大圣)]{p}**
+**[爱纹身的古琴师(琴癫大圣)]{s}**
 * **[爱纹身的古琴师(琴癫大圣) | 宓旋律/古琴资深私教 法系…有蓝条 | 灵魂工程师 | 古琴勾魂师 | 摄魂怪 | 伍佰章 | Douyin](https://v.douyin.com/viDf_wTQT9U/)**
   - [古琴的泛音不愧是"天音" 听了真上头](https://v.douyin.com/u-2PlCGc8H0/ )
   - [奏尽人间别离意 雪落琴弦，我寻了千遍 | **Music:雪千寻·东方不败**](https://v.douyin.com/Ug5Z1KEb6_k/)
@@ -648,29 +648,29 @@
   - [古琴不语，曲终人未还。琴落，人散，白未休 | **Music: 落了白**](https://v.douyin.com/Gf5DT3bFze0/)
 
 ---
-**[之云]{p}**
+**[之云]{s}**
 * **[之云 | 名雪茹 字之雲 | 叁佰章 | Douyin](https://v.douyin.com/rpVkYBh6MEg/)**
   - [《琵琶语》古琴版，林海作曲。"月光飞入林前屋。风策策，度庭竹。夜半江城击柝声，动寒梢栖宿。" | **琵琶语 | 林海**](https://v.douyin.com/QT8XFBPdiDQ/)
   - ["你是前世为止的心跳，你是来世胸前的记号" | 古琴  | 古风 | 国风古韵 | **千年**](https://v.douyin.com/yJmVZZ80QbE/)
   - [电视剧《清平乐》晏殊弹唱的那段琴歌，宋词真的超美呀。今日立夏，西安依旧在下雨。| **清平乐**](https://v.douyin.com/4luu6wEDv4M/)
 
 ---
-**[古琴拓荒人卢玉平]{p}**
+**[古琴拓荒人卢玉平]{s}**
 * **[古琴拓荒人卢玉平 | 扬州琴筝之父 中国高级工艺美术师  | 1982年斫制新中国第一床古琴 | 1983年创办全国第一家古琴厂 | 1985年为挽救"有谱无琴, 有师无徒"危局, 助力打谱会, 被称为古琴掌灯人 | 2022年,亲斫古琴高价拍卖, 龙琴专利持有者 | 叁佰章 | Douyin](https://v.douyin.com/StWkZmqXOT8/)**
   - [悬溺一响，古琴登场。](https://v.douyin.com/kdnpGdGSSIQ/)
 
 ---
-**[北山书斋]{p}**
+**[北山书斋]{s}**
 * **[北山书斋 | 佰章 | Douyin](https://v.douyin.com/ydKbGLznnUs/)**
   - [东韵老师这谱子，真的太懂古琴了！ | 天地缓缓 | 古琴  | 北山书斋](https://v.douyin.com/3SV1jzvFfjg/)
 
 ---
-**[肚鸭梨]{p}**
+**[肚鸭梨]{s}**
 * **[肚鸭梨 | 小提琴 | 贰佰章](https://v.douyin.com/sKKHvRlNODQ/)**
   - [**青城山下白素贞**](https://v.douyin.com/9OQBPo4tQlM/)
 
 ---
-**[Free Life]{p}**
+**[Free Life]{s}**
 * **[Free Life | 自然会治愈一切 摄影 徒步 发呆 | 贰佰章 | Douyin](https://v.douyin.com/1Z-2gaTju9w/)**
 
   - [人生海海，山山而川，不过尔尔](https://v.douyin.com/ES6pjU5Z6j8/)
@@ -681,7 +681,7 @@
   - [天地缓缓，浮生漫漫 | 桂林临桂状元桥](https://v.douyin.com/TTCGQEFVJj4/)
 
 ---
-**[枝叶扶苏]{p}**
+**[枝叶扶苏]{s}**
 * **[枝叶扶苏 | 集贤宾古琴主理人 福建省非遗协会古琴文化推广大使  | 佰章 | Douyin](https://v.douyin.com/wQnEvfe__SE/)**
   - [**天地缓缓** 停云霭霭 时雨濛濛 | 古琴](https://v.douyin.com/niWsacG2xnQ/)
   - ["当恩怨各一半，我怎么圈揽" | 古琴 | 天龙八部之宿敌  | 许嵩  | 古风](https://v.douyin.com/0I-rqbw4Lp0/)
@@ -689,7 +689,7 @@
   - [古琴 | 飞雪玉花 是猫猫陪着听了一晚上的曲～| 古琴 | 飞雪玉花 | 秦时明月](https://v.douyin.com/bSo8M1rxRgw/)
 
 ---
-**[与千与琴]{p}**
+**[与千与琴]{s}**
 * **[与千与琴 | 以琴韵化导人心 | 佰章 | Douyin](https://v.douyin.com/VR9s1SImBVc/)**
   - [古琴｜「念念不敢念，偏落指弦间」](https://v.douyin.com/YMQv2RKgn8Y/)
   - [古琴｜「古琴养人，必不会叫你香消玉殒」| 古琴 |演奏 |深宫曲 |国风古韵 |传统音乐](https://v.douyin.com/ubNbheAo-2s/)
@@ -701,50 +701,50 @@
   - [古琴｜「以最清之声写最清之物」](https://v.douyin.com/guug_0VUzHQ/)
 
 ---
-**[小澄拾光]{p}**
+**[小澄拾光]{s}**
 * **[小澄拾光 | 仟章 | Douyin](https://v.douyin.com/_vwkYSiSmig/)**
   - [有些人天生就喜欢这种氛围](https://v.douyin.com/c_ypjMctcDk/)
   - [风是透明的河流](https://v.douyin.com/iTnWz8PmQng/)
 
 ---
-**[莱瓦特]{p}**
+**[莱瓦特]{s}**
 * **[莱瓦特 | 壁纸 | 一个infj索尼佬，无固定风格 | 佰章 | Douyin](https://v.douyin.com/Of-5n5C8Nbs/)**
   - [缘生。一期一会，会者定离，难得一面，世当珍惜。摄影 | 慢节奏 | infj | 江南 | 调色](https://v.douyin.com/CZByzk0PAoA/)
   - [杨柳堤。| 真实生活分享计划 | 调色 | 抖音推广 | 古风 | inmyfeeling](https://v.douyin.com/lVi07kYEfT4/)
   - [一帘风月闲。| inmyfeeling | 古风 | 摄影 | 江南 | 真实生活分享计划](https://v.douyin.com/ZtBGouDYiRg/)
 
 ---
-**[一颗枣的独白]{p}**
+**[一颗枣的独白]{s}**
 * **[一颗枣的独白 | 自幼学笛十七载， 师从著名笛箫演奏家 国家一级演奏员吴樟华教授 | 佰章 | Douyin](https://v.douyin.com/GLWBWZYCrjM/)**
   - [就这个大A太爽了！| 笛子 | 看我跃马扬鞭 | 民乐 | 新手笛子](https://v.douyin.com/HTXoV33AHKY/)
   - [笛子 | **弱水三千** | **民乐 | **古风歌曲](https://v.douyin.com/ezhMTEqzoX4/)
   - [凌晨四点的西湖，是蓝调，是雨下一整晚。笛子 | **雨下一整晚** | 民乐 | 神仙间奏](https://v.douyin.com/CVtswf7iSkc/)
 
 ---
-**[海洋洋古琴]{p}**
+**[海洋洋古琴]{s}**
 * **[海洋洋古琴 | 佰章 | Douyin](https://v.douyin.com/rOZ_RKF4hYY/)**
   - [听说安和桥一响，路边的狗都有遗憾 | 音乐就要这么玩 | 抖音音乐新风向 | 古琴 | **安和桥**](https://v.douyin.com/KTxKjjkJkqg/)
   - [多情最是春庭雪 我心匪石不可转 | 古琴 | **春庭雪** | 国风古韵](https://v.douyin.com/n-qRYHwTW_o/)
 
 ---
-**[弹钢琴的余鱼]{p}**
+**[弹钢琴的余鱼]{s}**
 * **[弹钢琴的余鱼 | 喜欢弹琴的超级i人，祝你天天开心 | 仟章 | Douyin](https://v.douyin.com/i7xemqTer2I/)**
   - [如何一眼识别弹钢琴的人？ | 孤身dj版 | 特伦斯智慧钢琴 | 特伦斯电钢琴 | 自学钢琴](https://v.douyin.com/4U1aQCJKe3o/)
 
 ---
-**[温温Piano]{p}**
+**[温温Piano]{s}**
 * **[温温Piano | 随便弹些自己喜欢的 | 佰章 | Douyin](https://v.douyin.com/1mno8-2oQdI/)**
   - [传说这里是仙家之地，是理水叠山真君和留云借风真君的住处。 | 钢琴 | 原神 | **GenshinImpact** | **云海之上** | **庆云顶**](https://v.douyin.com/zs4rm8yqHwY/)
   - [闭上眼睛，向着风吹来的方向……怎么样，很舒服吧? | 钢琴 | **白鹭归庭** | **白鹭之舞**](https://v.douyin.com/XAEvCYqrXP0/)
   - [海的那边是什么 | 钢琴 | **Call Of Silence**](https://v.douyin.com/V6MzGB9e26s/)
 
 ---
-**[孙一天本人]{p}**
+**[孙一天本人]{s}**
 * **[孙一天本人 | 音乐人 ☁️&🍠：孙一天本人 | 仟章 | Douyin](https://v.douyin.com/XjssI0c1DX0/)**
   - [有些音乐，正常人听到的是抑郁，而抑郁的人听到的是温暖。| 钢琴 | 施坦威 | 西村由纪江 孙一天本人的施坦威共享琴房](https://v.douyin.com/O4pftyl1oog/)
 
 ---
-**[南南的琴🎹]{p}**
+**[南南的琴🎹]{s}**
 * **[南南的琴🎹 | 🎵欢迎来到南南的琴🎹 网抑☁️南南的琴🎶 | 仟章 | Douyin](https://v.douyin.com/vj4ZgW0CJEE/)**
   - [要听多少遍偏爱 才能真的被偏爱 | **钢琴**  | **偏爱** | **emo** | **仙剑奇侠传**](https://v.douyin.com/uUelzL5joR4/)
   - [下次见面就会下雪了 骗你的 我们根本不会再见面了 | **钢琴** | **farewell** | **emo**](https://v.douyin.com/rRqqGLOYy-k/)
@@ -876,7 +876,7 @@
 
 ---
 ### 0017. 收音机 | Douyin
-**[收音HiFi]{p}**
+**[收音HiFi]{s}**
 * **[收音HiFi | 本人喜欢音响最爱收音机，听听广播电台的声音，听听新闻除却一天的疲劳，何尝不是一种惬意。| 仟章 | Douyin](https://v.douyin.com/n3lGlAiON2g/)**
   - [熟悉的声音传来，瞬间清醒睡不着觉，有朋友知道这是哪期的节目吗？ | 收音机](https://v.douyin.com/TonN4WDJ1q8/)
 
@@ -889,7 +889,7 @@
   - [聆听你的欢乐和忧伤，也怀着感激被你聆听。1999年入学，在衡阳经常藏被窝听经南岳塔转播的节目《心灵之约》，罗刚主持，熟悉的开场曲，熟悉的开场白。我相信在长沙的，也听过。一段尘封的记忆就此打开，那个夜晚一个冒充小日子的人你还好吗？从那时起就没有这个节目了，但一直有个恋想就是哪一天这个节目又回来了，可是20251010后再也不会有这个节目了，最后的念想彻底结束]{g}
 
 ---
-**[北纬21度收音机]{p}**
+**[北纬21度收音机]{s}**
 * **[北纬21度收音机 | 让互联网延续收音机情怀 | 五拾章 | Douyin](https://v.douyin.com/sbdAyx0gvWg/)**
   - [千里共良宵2020.01.30，迎波：儿时的年味，你还记得吗](https://v.douyin.com/rlcW0oQ010I/)
   - [千里共良宵2020.01.29，姚科：曾经的年](https://v.douyin.com/fkLpE1M0YKo/)
@@ -1121,7 +1121,7 @@
 
 ---
 ### 0020. 合唱
-**[李拜天来唱歌]{p}**
+**[李拜天来唱歌]{s}**
 * **[李拜天来唱歌 | 指挥里最会唱歌的，会唱更会教的声乐老师 | 音乐哲学博士 | 四川音乐学院在编 | 叁佰章  | Douyin](https://v.douyin.com/WRiV7QNqVvk/)**
   - [童声版的《晴天》来啦！👧👦清澈的嗓音像雨后的彩虹，治愈所有不开心 | 周杰伦 晴天 童声合唱 童声](https://v.douyin.com/vYCBl4c7Qu8/)
 
@@ -1311,7 +1311,7 @@
   - [你读过的最有力量的一段文字是什么？在坚冰还覆盖着北海的时候，我看到了怒放的梅花～ | 走心文字 | 成长  | 教员](https://v.douyin.com/yED92z5T6TY/)
 
 ---
-**[青柠]{p}**
+**[青柠]{s}**
 * **[青柠 | 懂你的人永远懂你，不用太多的言语. 拍摄是为了治愈. 视频可一键剪同款 | 仟章 | Douyin](https://v.douyin.com/mrwjlHKe0Ws/)**
   - [于是我驻足，享受这无法复刻的瞬间... 波光粼粼| 大概只有同频的人才喜欢这种感觉吧](https://v.douyin.com/qNMi03cuURk/)
   - [世界偷偷爱着你，以你尚未察觉的方式... 波光粼粼 | 大概只有同频的人才喜欢这种感觉吧 | 被大自然治愈的瞬间](https://v.douyin.com/sxPeX23E_38/)
@@ -1319,28 +1319,28 @@
   - **时光会筛选关系，岁月会见证真心。愿我们和身边温柔的同路人，继续并肩，走过更多的春夏秋冬。**
 
 ---
-**[李宝]{p}**
+**[李宝]{s}**
 * **[李宝 | 平芜尽处是春山 会点手绘，视觉设计师，会点设计，遇见过五彩斑的黑,喜庆一点的白, 157种蓝 | 仟章 | Douyin](https://v.douyin.com/AdYgsfZ3lBo/)**
   - [梅市旧书，兰亭古墨，依稀风韵生秋 | **music: 兰亭余墨-潇湘客**](https://v.douyin.com/lf9cSWukbR0/)
   - [浣溪沙·残雪凝辉冷画屏 残雪凝辉冷画屏，落梅横笛已三更，更无人处月胧明。 我是人间惆怅客，知君何事泪纵横，断肠声里忆平生。](https://v.douyin.com/RO_M7EWDtzo/)
   - [粗粝笔触=19世纪浪漫主义基因](https://v.douyin.com/sFnlAT5CYzY/)
 
 ---
-**[粥粥和小伙]{p}**
+**[粥粥和小伙]{s}**
 * **[粥粥和小伙 | 谢谢你的关注!! 保持更新!! @粥粥_ 2026巡演准备. | 仟章 | Douyin](https://v.douyin.com/P_zy2EvaUTo/)**
   - [如果山顶能够拉近我和你的距离](https://v.douyin.com/DW3OhGYb46c/)
   - [你好呀，我们是个简单的音乐组合，我们的音乐风格目前没有固定，简单轻松的会偏多一些。](https://v.douyin.com/JJSi1u96WxU/)
   - [一巡完美收官了，22个城市倒叙慢回那天。那天，是你我回忆中最美好的一天 那天，是你我最难忘的一天 是22年底计划巡演，于是凑了些经费，由我俩和每场被大家包围在调音的涛涛 (我好多年的师父也是好哥哥)，我们三想法一致:合理的票价，多开优惠的票种，服务以乐迷的角度，认真做好的音乐，真诚做人。最初希望不要赔的太多，万万没想到大家非常的支持我们!!真的很感谢很感谢大家!!谢谢!!!! 我和粥粥偶然间开了个玩笑:我的老婆本里，还有大家的一份子，哈哈哈哈哈哈，每次演出听到大家叫你老婆我还挺欣慰，我都不敢喊[彩虹屁] 这一年去了22个不同地方，学习了方言，吃到了美食，看到了不同风景，也辛苦大家在忙碌的一天后还站了很久看演出谢谢!!还有朋友从外地赶来奔赴谢谢](https://v.douyin.com/g9ACSleZGdA/)
 
 ---
-**[中阮可梦]{p}**
+**[中阮可梦]{s}**
 * **[中阮可梦 | 毕业于中央音乐学院 | 伍佰章 | Douyin](https://v.douyin.com/aotWD7LCvbI/)**
   - [那只能弹琴了 | 须弥  | 中阮  | 音乐就要这么玩  | 玩音乐就是要热烈  | 滴滴](https://v.douyin.com/fHleQb-34HQ/)
   - [音乐能使人…| 精卫 | 音乐就要这么玩](https://v.douyin.com/0FCXXZOxXgs/)
   - [司机：我今天听寄明月听到了双声道环绕立体声。 挑战哪一天有师傅能认识这件乐器](https://v.douyin.com/PxLAMMcl2DQ/)
 
 ---
-**[冬雪]{p}**
+**[冬雪]{s}**
 * **[冬雪 | 用手机记录每一个美好瞬间，用心剪辑每一帧精彩片段。| 叁佰章 | Douyin](https://v.douyin.com/a7-BOYAWs-4/)**
   - [我的楼兰](https://v.douyin.com/bzLLqbJGsU8/)
   - [离别开出花](https://v.douyin.com/ULfIt5_-GX8/)
@@ -1350,7 +1350,7 @@
   - [男女对唱新歌《空山不语》](https://v.douyin.com/WPDNbLK8rlM/)
 
 ---
-**[Free Life]{p}**
+**[Free Life]{s}**
 * **[Free Life | 自然会治愈一切 摄影 徒步 发呆 | 贰佰章 | Douyin](https://v.douyin.com/1Z-2gaTju9w/)**
   - [人生海海，山山而川，不过尔尔](https://v.douyin.com/ES6pjU5Z6j8/)
   - [天地缓缓，浮生漫漫 | **桂林临桂状元桥**](https://v.douyin.com/TTCGQEFVJj4/)
@@ -1361,7 +1361,7 @@
   - [只有相同频道的人，才会喜欢这种氛围吧 | **桂林** | **Music: 飞雪玉花**](https://v.douyin.com/FULY4AWkKIM/)
 
 ---
-**[苏西糖]{p}**
+**[苏西糖]{s}**
 * **[苏西糖 | 佰章 | Douyin](https://v.douyin.com/-Mta9ZITJVE/)**
   - [一些我画的女孩子们。整一个合集这里发发 | 原创插画 | 古风插画 艺术 | 画画 | 汉服](https://v.douyin.com/GKInQnzgJiU/)
   - [断断续续画了一年了 纪念一下 |邱饼 |**大理寺少卿游** | 邱庆之李饼 |被大理寺少卿游刀麻了 | 画画](https://v.douyin.com/qeunJaXQ82M/)
@@ -1383,19 +1383,19 @@
 * **[变成平静的人 这一课需要流很多眼泪](https://v.douyin.com/d6p2l18C5sc/)**
 
 ---
-**[Lycoris Music Channel]{p}**
+**[Lycoris Music Channel]{s}**
 * **[Lycoris Music Channel | 3900位 | 油管](https://www.youtube.com/@LycorisMusicChannel/videos)**
   - [**寻常歌 - 不才**（电视剧《长月烬明》插曲）「桃花都吹落，春秋都吹落，最懂竟是梦中那一刻」【动态歌词Lyrics】](https://www.youtube.com/watch?v=7ctRCspF6Mg)
 
 ---
-**[淮上行]{p}**
+**[淮上行]{s}**
 * **[淮上行 | 【慢跑】志若坚定，步之所丈终抵星辰。【随拍】心若向善，目之所及皆成画 | 伍佰章 | Douyin](https://v.douyin.com/cw0-csH0XUA/)**
   - [南通映山湖，四九寒天里，红梅枝头俏。雪未到，梅先艳，傲骨迎冬风。](https://v.douyin.com/0p_kum5TsNc/)
   - [美不美你说了算 | 枫叶荻花秋瑟瑟](https://v.douyin.com/g1d89_l6PU4/)
   - [秋暮溪桥图 | 寻找古诗词中的风景 | 《齐安郡中偶题·其一》 唐·杜牧 两竿落日溪桥上，半缕轻烟柳影中。 多少绿荷相倚恨，一时回首背西风。](https://v.douyin.com/gboa-B7bjBY/)
 
 ---
-**[小书子]{p}**
+**[小书子]{s}**
 * **[小书子 | 人民日报推荐过的音乐歌手 | 有歌有诗有远方 | 伍佰章 | Douyin](https://v.douyin.com/M_84iPNuINc/)**
   - [不要慌太阳下山还有月光呀](https://v.douyin.com/DRcFS6kWcSc/)
   - [累了就来听听这首歌吧～送给努力的自己](https://v.douyin.com/MqnvlWuajnI/)
@@ -1405,12 +1405,12 @@
   - [不敢说出口的喜欢🥰让Timy熊帮你蹭蹭ta的心跳吧！| 爱 | 小虎队 | 吉他弹唱 | 川西美景](https://v.douyin.com/oDrlnE5onj8/)
 
 ---
-**[吱吱叫的喜鹊儿]{p}**
+**[吱吱叫的喜鹊儿]{s}**
 * **[吱吱叫的喜鹊儿 | 一枚刚毕业的00后大学生 日常更新 喜欢的家人们，可以点个关祝 | 叁佰章 | Douyin](https://v.douyin.com/h1XvHTJ9Wp4/)**
   - [你若偶尔也想起我 请替我把茶续上 | **落在杯沿的光**](https://v.douyin.com/mPO5Mraz0fI/)
 
 ---
-**[color]{p}**
+**[color]{s}**
 * **[color | 总得有个爱好吧❤️杨千嬅 | 佰章 | Douyin](https://v.douyin.com/N6mVSQ2nO2Q/)**
   - [Dyolo每日英语 一起 | 合拍 浪了一个星期没有练习英语啦🤭。网速不太好，画面都是卡卡的](https://v.douyin.com/hBME68vaHy8/)
   - [英语美句 一起](https://v.douyin.com/nqtI2NVibFk/)
@@ -1425,7 +1425,7 @@
   - [**卡农Canon** | 世界最治愈的钢琴曲](https://v.douyin.com/T8GpaGObMGw/)
 
 ---
-**[果实]{p}**
+**[果实]{s}**
 * **[果实 | 时来天地皆同力，运到万物皆同行。| 佰章 | Douyin](https://v.douyin.com/PR0U50rme9Q/)**
   - [真实生活分享计划](https://v.douyin.com/Wt3K4-MHphY/)
   - [真实生活分享计划 山的那边还是山](https://v.douyin.com/RG3fzt_xkrY/)
@@ -1696,7 +1696,7 @@
 
 ---
 ### 0031. Bobaya
-**[Bobaya]{p}**
+**[Bobaya]{s}**
 * **[Bobaya | 🎧是人类的避难所 🎵是心脏的救命丸 喜欢听的点一个免费的关注](https://v.douyin.com/wihrPDS9pI0/)**
 
   ---
@@ -1707,7 +1707,7 @@
 
 ---
 ### 0032. 空山心雨a
-**[空山心雨]{p}**
+**[空山心雨]{s}**
 * **[空山心雨 | 全网同名，抖音精选可以听视频 | 佰章 | Douyin](https://v.douyin.com/XBKkxzoAuf8/)**
 
   ---
@@ -1763,6 +1763,31 @@
     - [尼可也要当轻小说女主角 | BGM:How Close Am l 歌手:SxDx Music](https://v.douyin.com/JI-KuR0h-9Q/)
     - [—— 少女们终将重逢 | BGM：Floating over the horizon 歌手：SXDX_Music](https://v.douyin.com/HH01lPo70k0/)
     - [娅娅：看我捏爆小猫的肉脸 这次是双人游 | BGM：Promise 歌手：SXDX_Music](https://v.douyin.com/fkghmx3X7VI/)
+
+---
+### 0036. Sabi´s Nook · GenshinImpact
+**[Sabi´s Nook · Music]{s}**
+* **[Sabi´s Nook | 12.7K | YTB](https://www.youtube.com/@SabisNookFantasyAmbience)**
+  - [Liyue Harbor Lantern Rite | Genshin Impact Music with Ambience I For Gaming, Reading or Relaxing | 鲤鱼港灯会| Genshin Impact Music with Ambience I 适用于游戏、阅读或放松 ](https://www.youtube.com/watch?v=DxRm6wGN1r4&list=RDDxRm6wGN1r4&start_radio=1)
+
+---
+### 0037. WattKeys· GenshinImpact
+**[WattKeys· GenshinImpact]{s}**
+* **[WattKeys | 31.9K | YTB](https://www.youtube.com/@WattKeys/videos)**
+  - [Clear Sky Over Liyue ](https://www.youtube.com/watch?v=y-D_KiWtVgU&list=RDy-D_KiWtVgU&start_radio=1)
+  - [The Fading Stories - A Lantern Rite Journey - Genshin Impact OST](https://www.youtube.com/watch?v=67PxUclzmjI&list=RDy-D_KiWtVgU&index=2)
+
+### 0038. 疫情安眠曲
+**[疫情安眠曲]{s}**
+* **[Divinity | 427K | YTB](https://www.youtube.com/@DivinityOG/videos)**
+  - [Billie Eilish - everything i wanted](https://www.youtube.com/watch?v=e8psHWLGDN4&list=RDe8psHWLGDN4&start_radio=1)
+  - [Billie Eilish – everything i wanted (Lyrics) | Dreams Aren't Always Beautiful](https://www.youtube.com/watch?v=-npbyT0ydgQ&list=RD-npbyT0ydgQ&start_radio=1)
+  - [Billie Eilish - What Was I Made For](https://www.youtube.com/watch?v=ZcQszUj4Nhc&list=RDe8psHWLGDN4&index=4)
+
+---
+### 0039. Billie Eilish
+* **[Billie Eilish | 58.5M | YTB](https://www.youtube.com/@BillieEilish/videos)**
+
 
 ---
 ### 9999. Music·Course

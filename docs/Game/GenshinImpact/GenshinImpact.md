@@ -1,5 +1,5 @@
 ### 0000. Download
-**[dlpanda]{p}**
+**[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
@@ -7,13 +7,13 @@
 * **[深渊灾变甚至整个提瓦特星球。从蒙德，璃玥，稻妻，须弥，枫丹，纳塔，以及将来的至冬，盖莫如是.从九重天到九重之地，都被深渊侵蚀。旅行者在路上，寻找至亲的路途上，也抵抗者深渊的灾难。剧情设定旅行者是可以净化深渊的。这是提瓦特所不具备的。旅行者该是一位拥有大智慧的人。]{g}**
 
 ---
-**[Genshin Impact | 原神国际服]{p}**
+**[Genshin Impact | 原神国际服]{s}**
   - [Genshin Impact](https://genshin.hoyoverse.com/en/home?af_adset=1)
 
 ---
 ### 0001. Genshin Impact
-**[Genshin Impact]{p}**
-* **[Genshin Impact | Youtube](https://www.youtube.com/@GenshinImpact)**
+**[Genshin Impact]{s}**
+* **[Genshin Impact | 8.27M | Youtube](https://www.youtube.com/@GenshinImpact)**
   - [En: Genshin Impact is an open-world adventure game proudly presented by HoYoverse.]{s}
   - [Cn: 原神是一款由HoYoverse自豪呈现的开放世界冒险游戏。]{g}
 
@@ -32,21 +32,28 @@
   - [《原神·提瓦特篇》幕间PV-「神的局限性」](https://www.youtube.com/watch?v=jvXVmvW8ZQw)
 
 ---
-**[原神]{p}**
+**[原神]{s}**
 * **[原神 | 我真的没时间陪你闹了，我要去「原神 · 空月之歌」| 三千章 | Douyin](https://v.douyin.com/hEOMQkgFrmk/)**
   - [原神 《原神》兹白角色PV——「亦如陌上尘」](https://v.douyin.com/qOod_RcaVqE/)
 
 ---
-**[原神珍珠之歌]{p}**
+**[原神珍珠之歌]{s}**
 * **[原神珍珠之歌](https://www.youtube.com/playlist?list=PLqWr7dyJNgLKjMUfZ7mnuPFLxX813sm8K)**
 
 ---
-**[Sabi´s Nook]{p}**
-* **[Sabi´s Nook | Youtube](https://www.youtube.com/@SabisNookFantasyAmbience)**
+**[Sabi´s Nook · Music]{s}**
+* **[Sabi´s Nook | 12.7K | YTB](https://www.youtube.com/@SabisNookFantasyAmbience)**
   - [Liyue Harbor Lantern Rite | Genshin Impact Music with Ambience I For Gaming, Reading or Relaxing](https://www.youtube.com/watch?v=DxRm6wGN1r4&list=RDDxRm6wGN1r4&start_radio=1)
 
 ---
-**[BetterTNothing 沐兒]{p}**
+**[WattKeys· GenshinImpact]{s}**
+* **[WattKeys | 31.9K | YTB](https://www.youtube.com/@WattKeys/videos)**
+  - [Clear Sky Over Liyue ](https://www.youtube.com/watch?v=y-D_KiWtVgU&list=RDy-D_KiWtVgU&start_radio=1)
+  - [The Fading Stories - A Lantern Rite Journey - Genshin Impact OST](https://www.youtube.com/watch?v=67PxUclzmjI&list=RDy-D_KiWtVgU&index=2)
+
+
+---
+**[BetterTNothing 沐兒]{s}**
 * **[BetterTNothing 沐兒 | Youtube](https://www.youtube.com/@BetterTNothing)**
   - [【原神】4K过场动画合集](https://www.youtube.com/playlist?list=PL3mIsp0ODxy6t8tKVcBn7FjxDzHeD1swI)
 
@@ -55,7 +62,7 @@
 
 ---
 ### 0002. Genshin Impact | 大电影
-**[空空]{p}**
+**[空空]{s}**
 * **[空空 | 原神剧情整活 | 五百章 | Douyin](https://v.douyin.com/xZOlCE6uX34/)**
 
   ---
@@ -72,7 +79,7 @@
     - [遇到火深之后懂可莉成为了火神可莉 | 010](https://v.douyin.com/4-LdUM5gZDI/)
 
 ---
-**[甜橙]{p}**
+**[甜橙]{s}**
 * **[甜橙| 主做二次元手游剪辑，感谢大家的支持 | 贰佰章 | Douyin](https://v.douyin.com/HZSal8C7zoE/)**
 
   ---
@@ -90,16 +97,16 @@
 
 ---
 **[IGNITE]{s}**
-* **[IGNITE | 3.41万 | Youtube](https://www.youtube.com/@IGNITE0911/videos)**
+* **[IGNITE | 34.8K | Youtube](https://www.youtube.com/@IGNITE0911/videos)**
   - [THE COMPLETE STORY OF GENSHIN IMPACT BEFORE SNEZHNAYA - FULL RECAP](https://www.youtube.com/watch?v=6Twj9J6v_Ws)
   - [All Genshin Impact Cutscenes 1.0 - 6.4](https://www.youtube.com/watch?v=wqJXPkOMz4E)
 
 ---
-**[The Game Archivist]{p}**
+**[The Game Archivist]{s}**
 * **[GENSHIN IMPACT | Full Game Walkthrough | Min: 02:05:49:28](https://www.youtube.com/watch?v=P6p0xxKuwf4)**
 
 ---
-**[元素战争·proxy]{p}**
+**[元素战争·proxy]{s}**
 * **[Genshin: Elemental Warfare - The Series so far](https://www.youtube.com/watch?v=b2eL70orpMo&list=PLeTsdXm4WfIk6grfrYTVqFgsD5v_2A-gs&index=15)**
 * **[Genshin Impact HoYoFair | No_Tables](https://www.youtube.com/watch?v=LhJ6PR7d3bM)**
 * **[博物馆遭遇战 | 原神：元素战争 | Subutai](https://www.youtube.com/watch?v=5EooOdfvCs0)**
@@ -107,7 +114,7 @@
 * **[元素战争：险棋 | No_Tables](https://www.youtube.com/watch?v=EppP7rNHG84)**
 
 ---
-**[原神二创]{p}**
+**[原神二创]{s}**
 * **[原神与你同行 | 藍色地帶/aiq](https://v.douyin.com/b9J0xgy-JOM/)**
 * **[可莉七七放霄灯 | 藍色地帶/aiq](https://v.douyin.com/BL3jh54fzUc/)**
 * **[枪战 | 藍色地帶/aiq](https://v.douyin.com/gMrvRaYqSSw/)**
@@ -116,7 +123,7 @@
 
 ---
 ### 0003. Genshin Impact | miHoYo
-**[盛夏聆听深秋]{p}**
+**[盛夏聆听深秋]{s}**
 * **[盛夏聆听深秋 | 千章 | Douyin](https://v.douyin.com/SYuVNWFyNaM/)**
 
   ---
@@ -178,12 +185,12 @@
 
 
 ---
-**[无鱼]{p}**
+**[无鱼]{s}**
 * **[无鱼 | 千章 | Douyin](https://v.douyin.com/9hghTiuAnLI/)**
   - [原神 他们都好温柔，这一天，雨下的特别大 | 原神枫丹  | 云原神  | 芙卡洛斯  | 那维莱特](https://v.douyin.com/1Guq-CI11hw/)
 
 ---
-**[花城]{p}**
+**[花城]{s}**
 * **[花城 | 千章 | Douyin](https://v.douyin.com/GUbAkAFZTGQ/)**
   - [不得不说这动作真标准啊！原神枫丹 | 原神 | 夏沃蕾 | 申鹤 | 钟离](https://v.douyin.com/mndl25b0H7Y/)
   - [不是你们仨隔着军训呢？原神枫丹 | 娜维娅 | 原神 | 云原神 | 芙宁娜](https://v.douyin.com/boCtdZmNP2E/)
@@ -192,19 +199,19 @@
   - [千星奇域这个表白卡关，也太适合和朋友一起打卡了吧 | 原神千星奇域 | 原神奇域安利 | 和我一起玩原神吧 | 原神ugc | 千星奇域](https://v.douyin.com/k2QI1E9F0Po/)
 
 ---
-**[小成子]{p}**
+**[小成子]{s}**
 * **[小成子 | 谢谢你的悄悄关注  | 千章 | Douyin](https://v.douyin.com/9raNzJ-OLGQ/)**
   - [你是因为哪个角色入坑的呢。| 麒麟混剪挑战 | 原神纳塔 | 和我一起玩原神吧 | 原神暑期招生简章 | 原神夏日度假村 灵感@盛夏聆听深秋](https://v.douyin.com/LDzi5dHhhIg/)
   - [去年万般皆如愿，今年万事定称心。《2025跨年快乐》 | 原神纳塔 | 原神玩家还是太全面了 | 钟离 | 欢迎来到纳塔 | 抖音跨年许愿夜 @咕嘿君（原神）](https://v.douyin.com/Wt26H5DPA_U/)
   - [总觉得昔涟最后一句特别像一位故人。崩坏星穹铁道 | 往昔的涟漪 | 成为昨日的明天 | 昔涟](https://v.douyin.com/eEgSE9fy-I4/)
 
 ---
-**[困狐不困]{p}**
+**[困狐不困]{s}**
 * **[困狐不困 | 星穹铁道，原神新人up主，每版本更新攻略，未来可能也会更新其他游戏 | Douyin | 千章 | Douyin](https://v.douyin.com/aDc2r-bl0Vc/)**
   - [【原神6.3】白马仙人 兹白 前瞻攻略！月结晶前台输出C！ | 兹白 | 原神空月之歌 | 原神版本前瞻 | 游戏破壁计划 | 青年创作者成长计划](https://v.douyin.com/FkeN7JCeCKU/)s
 
 ---
-**[别解爱]{p}**
+**[别解爱]{s}**
 * **[别解爱 | 昔我往矣，杨柳依依 | 千章 | Douyin](https://v.douyin.com/X5oT6rG5o1M/)**
   - [**你我之间 不过露水情缘** | **申鹤 | 钟离**](https://v.douyin.com/kCRzYE0v2Vw/)
   - [**时间的剑削铁如泥 斩断说好不分离** | **申鹤 | 三生三世十里原神**](https://v.douyin.com/8oPK0iKULZk/)
@@ -214,18 +221,18 @@
   - [**我是万世不变的法则** | **原神**](https://v.douyin.com/XKrSf_VcgaE/)
 
 ---
-**[小安]{p}**
+**[小安]{s}**
 * **[小安 | 千章 | Douyin](https://v.douyin.com/AF5bOCmeMRw/)**
   - [如果没有旅行者，鸭鸭会是主角吗？| 原神枫丹|  原神 | 云原神 | 达达利亚 | 原神攻略](https://v.douyin.com/4-iRmmjTnLM/)
 
 ---
-**[健康芦苇]{p}**
+**[健康芦苇]{s}**
 * **[健康芦苇 | 不务正业的咸鱼一枚，资深米游鉴赏家 | 原神，星铁，绝区零开服玩家，更新相关咨询攻略杂谈内容 | 娱乐博主，偶尔认真 | 帅哥靓女且留步，能否点个关注 | 人活着就是为了水视频！| 千章 | Douyin](https://v.douyin.com/3RMbOT6OCU4/)**
   - [网友竟一夜之间参透了欢愉地区的取名规则？老米做梦都没想到 花火改名火花也能被玩梗 | 崩坏星穹铁道  | 记忆是梦的开场白](https://v.douyin.com/BjAkanAEEDk/)
   - [星铁横跨11年的巧思竟因为延期付诸东流？太可惜了 # 崩坏星穹铁道 # 成为昨日的明天](https://v.douyin.com/KZLc4OELlcA/)
 
 ---
-**[方块十AI]{p}**
+**[方块十AI]{s}**
 * **[方块十AI | 系列图集获取/定制图片 | 千章 | Douyin](https://v.douyin.com/l-KxnOqop5Q/)**
   - [夜兰师姐说的对~ | 原神  | 八重神子  | 刻晴  | 申鹤  | 芙宁娜 ](https://v.douyin.com/Q-8mtt-0nTU/)
   - [黄泉师姐说要提防女人~ 崩坏星穹铁道 | 于长夜重返大地 | 黄泉 | 遐蝶 | 符玄](https://v.douyin.com/NpIVnL9dp0Y/)
@@ -233,7 +240,7 @@
   - [运动时间到~！| 原神 | 茜特菈莉 | 玛薇卡 | 优菈 | 阿蕾奇诺](https://v.douyin.com/HeRuNWk35Cw/)
 
 ---
-**[础（原神）]{p}**
+**[础（原神）]{s}**
 * **[础（原神）| 主更原神视频，原神8级萌新 | 五百章 | Douyin](https://v.douyin.com/eUkUrmECxH4/)**
   - [钟离也挺配江南水乡风景 | 就用这个转场去溜达吧  | 沉玉谷  | 我推的钟离  | 游戏角色同好会](https://v.douyin.com/w7eBgwpQpW0/)
   - [父亲大人红色高跟鞋的魅力 | 仆人  | 原神空月之歌  | 和我一起玩原神吧  | 原神挪德卡莱  | 高跟鞋卡点](https://v.douyin.com/BhwUc6OlUNE/)
@@ -242,7 +249,7 @@
   - [终末地国风，简直美爆了 | 终末地三测实况  | 终末地三测  | 国风  | 终末地  | 明日方舟终末地](https://v.douyin.com/T_nssxI7nDg/)
 
 ---
-**[熹微]{p}**
+**[熹微]{s}**
 * **[熹微 | 珊瑚宫心海♡ 分享好看的风景和尘歌壶 拍摄剪辑不易 感谢喜 | 五百章 | Douyin](https://v.douyin.com/0BIJspgtDmg/)**
   - [**绿竹入幽径，青萝拂行衣**](https://v.douyin.com/zgzTsj0uDco/)
   - [**只在此山中，云深不知处**](https://v.douyin.com/wdHmXdFDH44/)
@@ -251,7 +258,7 @@
   - [**关卡名字:雪霁银徽** | 千星奇域 | 申鹤 | 沉玉谷](https://v.douyin.com/OpvtqD_Ht4Q/)
 
 ---
-**[许里]{p}**
+**[许里]{s}**
 * **[许里 | 因为我爱看「这样的视频」，所以我做了「这样的视频」 | 五百章 | Douyin](https://v.douyin.com/ypyWjdITs_M/)**
   - [假如原神有招募动画 | 原神纳塔 | 丝柯克 | 丝柯克混剪](https://v.douyin.com/2wAU5gd13C4/)
   - [反主错失拯救坎瑞亚的机会，竟是未来的自己促成了这一切 | 原神纳塔 | 原神剧情解析 | 你存在的时空 | 荧](https://v.douyin.com/vIeJSjTdt9I/)
@@ -261,7 +268,7 @@
   - ["颠倒世间之物，你则会看到真相" 这句话让我想起了倒挂的神像，倒立的城市](https://v.douyin.com/RU_bOgMjThM/)
 
 ---
-**[亲小盐]{p}**
+**[亲小盐]{s}**
 * **[亲小盐 | 五百章 | Douyin](https://v.douyin.com/CeIIVibMKJY/)**
   - [终点并不意味着一切。在抵达终点之前，用你的眼睛多多观察这个世界吧！原神枫丹 | 原神 | 原神剪辑 | 仿若无因飘落的轻雨 | mac漫剪团](https://v.douyin.com/K1dhbA-gA4A/)
   - [万物皆可摇 鸭梨大～| 原神枫丹 | 原神 | 原神剪辑 | 仿若无因飘落的轻雨 | 鸭梨大](https://v.douyin.com/BBGZKOIXMik/)
@@ -271,7 +278,7 @@
   - [接过母亲手中的笔，将故事续写下去吧 | 原神空月之歌 | 杜林 | 杜林游戏赛道 | 和我一起玩原神吧 | 原神挪德卡莱](https://v.douyin.com/zZ26ITQ_Boc/)
 
 ---
-**[陌儿牛哇]{p}**
+**[陌儿牛哇]{s}**
 * **[陌儿牛哇 | 史上最宠粉博主，游戏整活日常，感谢你那么好看还关注我。| 五百章 | Douyin](https://v.douyin.com/Ym92hOFcCwc/)**
   - [队长:火神赢了我，策划得了MVP！原神纳塔 | 原神 | 和我一起玩原神吧 | 游戏 | 二次元](https://v.douyin.com/L_N-dhm_wUE/)
   - [我是给？？？ 原神 | 游戏 | 游戏日常 | 原神纳塔](https://v.douyin.com/s-O3M3MBSJc/)
@@ -280,18 +287,18 @@
   - ["新面孔？？？" | 原神 | 原神空月之歌 | 原神挪德卡莱](https://v.douyin.com/o_SLPAwfnhA/)
 
 ---
-**[清水]{p}**
+**[清水]{s}**
 * **[清水 | 故事还很长，我们慢慢讲 | 二百章 | Douyin](https://v.douyin.com/95wY6dPlac0/)**
   - [元婴老怪出手瞬间，恐怖如斯！ | 国漫推荐 | 国漫剪辑 | 厉飞雨 | 国漫](https://v.douyin.com/tRKr9gmDgCI/)
 
 ---
-**[呈风]{p}**
+**[呈风]{s}**
 * **[呈风 | 百章 | Douyin](https://v.douyin.com/7I0aioBilLQ/)**
   - [我们瓦蕾莎玩家站在高处就想往下跳](https://v.douyin.com/oppq0-wnJJU/)
   - [勇敢牛牛向前冲，提瓦特跑酷王瓦雷莎之轻功水上漂！ | 原神  | 原神空月之歌  | 瓦雷莎 | 原神挪德卡莱](https://v.douyin.com/n-Q02IEWSRc/)
 
 ---
-**[十笎]{p}**
+**[十笎]{s}**
 * **[十笎 | 其他平台同名｜借鉴请标来源 | 百章 | Douyin](https://v.douyin.com/0hVY1U0oq3k/)**
   - [疑似沉玉谷新地图？？原神纳塔 和我一起玩原神吧 | 尘歌壶 | 蓝砚](https://v.douyin.com/aDlFo9tM0os/)
   - [你可能不认识我，也没用过我的尘歌壶 | 原神纳塔 | 尘歌壶 | 原神剪辑 | 尘歌壶摹本 | 提瓦特剧场](https://v.douyin.com/SetbcEcGjyM/)
@@ -299,7 +306,7 @@
   - [新手原壶玩家必看，尘歌壶如何做到浮空和下沉 | 原神 | 尘歌壶 | 原神尘歌壶 | 原神攻略](https://v.douyin.com/gqgYa8PbkG8/)
 
 ---
-**[会跑的蹦蹦]{p}**
+**[会跑的蹦蹦]{s}**
 * **[会跑的蹦蹦 | 始于兴趣，成为热爱，赋以创作 | 百章 | Douyin](https://v.douyin.com/yYWayL9mKH8/)**
   - ["让我们跟着芙宁娜导演回顾旅程" | 原神空月之歌 | 原神剧情混剪 | 青年创作者成长计划 | 芙宁娜](https://v.douyin.com/tLnSEQxztFg/)
   - [绝区零剧情回顾，那些年我们经历的冒险！| 绝区零 | 青年创作者成长计划 | 绝区零创作激励计划](https://v.douyin.com/bXORgDbAPVk/)
@@ -307,7 +314,7 @@
   - [我的名字叫【哥伦比娅·希珀塞莱尼娅】意为诞生于此世界之下的！ | 原神空月之歌 | 原神剧情混剪 | 少女 | 哥伦比娅](https://v.douyin.com/WCQmQ7ohZ6s/)
 
 ---
-**[甜橙]{p}**
+**[甜橙]{s}**
 * **[甜橙 | 主做二次元手游剪辑，感谢大家的支持！| 百章](https://v.douyin.com/qwKCoBN5VdA/)**
   - [**music**【哥伦比娅】我受过伤，所以更渴望美丽的飞翔！哥伦比娅 | 原神空月之歌 | 原神剧情混剪 | 有形的翅膀 | 青年创作者成长计划](https://v.douyin.com/Mh2NiWFzyk4/)
   - [**《原神》大电影PV -「祈月之夜：终北的夜行诗」** | 原神空月之歌 | 打开不一样的原神 | 原神挪德卡莱 | 原神剧情混剪 | 哥伦比娅](https://v.douyin.com/XPyI2-4g0ew/)
@@ -316,7 +323,7 @@
   - [《原神》温迪微电影 - 「时与风」 |温迪复刻 | 原神空月之歌 | 和我一起玩原神吧 | 原神挪德卡莱 | 青年创作者成长计划](https://v.douyin.com/x3b6hXcEfDs/)
 
 ---
-**[能工智人Lilin]{p}**
+**[能工智人Lilin]{s}**
 * **[能工智人Lilin | AIGC | 感谢您的喜欢与关注 | 大厂打工人 | 🎨业余小画手 | 百章 | Douyin](能工智人Lilin)**
   - [**流萤大战遐蝶** | AI特摄巨物搏斗](https://v.douyin.com/RVZ2MRbcI0U/)
   - [拉乌玛壁咚奈芙尔](https://v.douyin.com/mhaUtbzyrkI/)
@@ -328,7 +335,7 @@
   - [功夫厨神 | AI功夫厨神 | 原神 | 香菱](https://v.douyin.com/_NrbZ-AlMtU/)
 
 ---
-**[荧荧派]{p}**
+**[荧荧派]{s}**
 * **[荧荧派 | 原神、崩铁剧情二创整活~ ✨现在点个关注就是老粉咯 | 百章 | Douyin](https://v.douyin.com/o5Kf0qert-s/)**
   - [芙芙：不好！他要歪嘴了 | **原神整活**](https://v.douyin.com/8WUlO8TNhas/)
   - [欧洛伦：我是要成为种菜王的男人](https://v.douyin.com/NfEFcl7OIpQ/)
@@ -336,7 +343,7 @@
   - [提瓦特春节联欢晚会 | 2026马年吉祥](https://v.douyin.com/MIEZ3GrtbMg/)
 
 ---
-**[俯瞰遗忘]{p}**
+**[俯瞰遗忘]{s}**
 * **[俯瞰遗忘 | 已飞0国 | 已梦游国家40+ | PDD资深买手 | 茉莉花茶25年品鉴师 | 国家级身份证持有者 | 驾驶证待考中 | 清华北大没考 | 雅思托福没考 | 恩格尔系数100 | 电动车驾驶证持证人 | WiFi冲浪一级选手 | 熟练掌握干饭文学 | 炙热沙城描边资深选手 | 熟练掌握摸鱼话术 | 诺贝尔摆烂种子选手 | 百章 | Douyin](https://v.douyin.com/4FQdFdVsErQ/)**
   - [美食打卡地 生活不易，派蒙卖艺。](https://v.douyin.com/2aWhOG0P_DY/)
   - [**明日方舟终末地** | 武侠风管理员](https://v.douyin.com/DEd-4m3QK9s/)
@@ -344,7 +351,7 @@
   - [**鸣潮** | 鸣潮弗洛洛](https://v.douyin.com/8QcxpolTiNw/)
 
 ---
-**[原来是圆神]{p}**
+**[原来是圆神]{s}**
 * **[原来是圆神 | 愿每个旅行者都能找到心中的神明 指引你的人生旅途 而我也会在分享我想表达的 | 百章 | Douyin](https://v.douyin.com/5AgqacfqR-M/)**
   - [冰神的“惨”从不是折损大将，而是全提瓦特无人懂的孤独](https://v.douyin.com/Vhu7xZUTLNM/)
   - [深渊五柱神全解析：对标天理四影却更胜一筹的坎瑞亚底牌](https://v.douyin.com/_ktYYCe0Cds/)
@@ -354,10 +361,10 @@
 
 ---
 ### 0004. 跟着原神学英语
-**[米哈游就该搞一个双语版的，支持世界网友学习中文，支持中国网友学习英文，打通美服和国服。加入Ai,支持人物Ai-NPC互相交流.打造一个真正的原神世界。]{p}**
+**[米哈游就该搞一个双语版的，支持世界网友学习中文，支持中国网友学习英文，打通美服和国服。加入Ai,支持人物Ai-NPC互相交流.打造一个真正的原神世界。]{s}**
 
 ---
-**[永不认输的璃月人]{p}**
+**[永不认输的璃月人]{s}**
 * **[永不认输的璃月人 | 原神佛系玩家，体验100种小游戏ing | 二百章 | Douyin](https://v.douyin.com/gwdtS6JSHz8/)**
 
   ---
@@ -436,7 +443,7 @@
     - [跟着神里绫华学英语-早上好 | 012](https://v.douyin.com/9_v_mzdwsXI/)
 
 ---
-**[JustinEnglish]{p}**
+**[JustinEnglish]{s}**
 * **[JustinEnglish | 欢迎 这个频道有着不一样的英语趣味教学 | 佰章 | Douyin](https://v.douyin.com/LKTZH1pGDvE/)**
 
   ---
@@ -445,7 +452,7 @@
     - [当英语老师开始用原神教英语 | 006](https://v.douyin.com/TIOPFuVP7-c/)
 
 ---
-**[尼克叔游戏英语]{p}**
+**[尼克叔游戏英语]{s}**
 * **[尼克叔游戏英语 | 千星奇域《背单词有原神例句》| 伍佰章 | Douyin](https://v.douyin.com/KtsqY31hkFQ/)**
 
   ---
@@ -467,7 +474,7 @@
     - [054](https://v.douyin.com/S1xawoj7vi0/)
 
 ---
-**[游戏英语爱好者]{p}**
+**[游戏英语爱好者]{s}**
 * **[游戏英语爱好者 | 语言爱好者，学游戏，玩英语。| 貳佰章](https://v.douyin.com/S6Pk65RL4BU/)**
 
 ---
@@ -477,18 +484,18 @@
 
 ---
 ### 0006. 原神 | GenshinImpact
-**[Teyvat Historia]{p}**
+**[Teyvat Historia]{s}**
 * **[Teyvat Historia | 10.9万 | Youtube](https://www.youtube.com/@TeyvatHistoria/videos)**
   - A channel dedicated to Genshin Impact theories, characters, and lore.
   - 一个专注于原神理论、角色和背景故事的频道。
 
 ---
-**[Ashikai]{p}**
+**[Ashikai]{s}**
 * **[Ashikai | 28.3万 | Youtube](https://www.youtube.com/@Ashikai/videos)**
   - [[6.2] Teyvat's Celestial Hierarchy - A Genshin Impact Theory... thing](https://www.youtube.com/watch?v=qWDNVGNtpjc)
 
 ---
-**[bwaap]{p}**
+**[bwaap]{s}**
 * **[bwaap | 73.8万 | Youtube](https://www.youtube.com/@bwaap/videos)**
   - I'm just doing what i do | 我只是做我该做的 事
 
@@ -496,17 +503,17 @@
   - [A Nostalgic Return to Mondstadt | 怀旧的蒙德归来](https://www.youtube.com/watch?v=IN4TqQihG20)
 
 ---
-**[MurderofBirds Impact]{p}**
+**[MurderofBirds Impact]{s}**
 * **[MurderofBirds Impact | 8.39万 | Youtube](https://www.youtube.com/c/MurderofBirdsImpact)**
   - I livestream on Twitch and post my videos here!
 
 ---
-**[MurderofBirds VODs]{p}**
+**[MurderofBirds VODs]{s}**
 * **[MurderofBirds VODs | 1.99万 | Youtube](https://www.youtube.com/@MurderofBirdsVODs)**
 
 
 ---
-**[sarahmillercrews]{p}**
+**[sarahmillercrews]{s}**
 * **[sarahmillercrews | Sarah Miller-Crews | 6.94万 | Youtube](https://www.youtube.com/@sarahmillercrews/videos)**
   - [En: Hello!]{s}
   - [你好！]{g}
@@ -525,7 +532,7 @@
 
 ---
 ### 0007. bwaap | GenshinImpact | Bilibili
-**[InverseZZ]{p}**
+**[InverseZZ]{s}**
 * **[InverseZZ | 心若在，梦就在 | 粉丝数9204](https://space.bilibili.com/9429196/lists/1091065?type=series)**
 
   ---
@@ -537,12 +544,12 @@
     - [MurderofBirds「折枝落梦」](https://www.bilibili.com/video/BV1Ht4y1N7Dg/?spm_id_from=333.1387.homepage.video_card.click)
 
 ---
-**[MurderofBirds Impact]{p}**
+**[MurderofBirds Impact]{s}**
 * **[MurderofBirds Impact](https://www.youtube.com/c/MurderofBirdsImpact)**
 
 ---
 ### 0008. Ferrari | Genshin Impact
-**[Ferrari]{p}**
+**[Ferrari]{s}**
 * **[Ferrari | 搞些AI视频 | 五十章 | Douyin](https://v.douyin.com/Xd6kRRlTfjA/)**
   - **[蒙德：高清重置](https://v.douyin.com/Eo7KSZVQRfM/)**
   - **[原神：高清重置—5周年](https://v.douyin.com/kbBTsPzkGdc/)**
@@ -560,7 +567,7 @@
 
 ---
 ### 0009. R白哥
-**[R白哥]{p}**
+**[R白哥]{s}**
 * **[R白哥 | 伍佰章 | Douyin](https://v.douyin.com/WwqIgNW-dss/)**
   - [六年了，终于来到开门的地方了](https://v.douyin.com/ardzuyS7RSE/)
 
@@ -577,19 +584,19 @@
 
 ---
 ### 0011. antonychenn
-**[antonychenn]{p}**
+**[antonychenn]{s}**
 * **[antonychenn | 165万 | Youtube](https://www.youtube.com/@antonychenn/videos)**
   - [Can You Build a Genshin Character in 5 MINUTES](https://www.youtube.com/watch?v=AjrS6uxEAL4)
 
 ---
 ### 0012. Jadealy
-**[Jadealy]{p}**
+**[Jadealy]{s}**
 * **[Jadealy | 35万 | Youtube](https://www.youtube.com/@jadealy/videos)**
   - [Farming Pulls for Linnea to Save My Bank Account - Map Maxxing (Ep.7)](https://www.youtube.com/watch?v=X090PExuMtI)
 
 ---
 ### 0013. 白茶荼葵 | GenshinImpact
-**[白茶荼葵]{p}**
+**[白茶荼葵]{s}**
 * **[白茶荼葵 | 日更博主，观众老爷们点个关注再走呗QwQ | Douyin](https://v.douyin.com/wlEy3ExMfSA/)**
 
   ---
