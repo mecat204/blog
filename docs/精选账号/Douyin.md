@@ -228,6 +228,11 @@
   - [我真是操心的太多了 | vlog日常](https://v.douyin.com/INONxjh9Iuo/)
 
 ---
+**[柔柔要努力吖丶]{e}**
+* **[柔柔要努力吖丶 | 请叫我单王！ 座驾：极酷Ex85pro | 伍佰章 | Douyin](https://v.douyin.com/Rx8K-W7xINw/)**
+  - [祝我生日快乐。08.11](https://v.douyin.com/3smIFzOE_i4)
+
+---
 **[水墨江南]{s}**
 * **[水墨江南 | 2025.01之前为水墨江南 | 千章 | Douyin](https://v.douyin.com/FO4W-P1ULrA/)**
   - [总要去一趟百丈漈吧，去看一看小说里的武侠瀑布，感受一下金庸笔下的诗意江湖百丈漈 总要去看看小说里的武侠瀑布吧 百丈漈让武侠小说走进现实](https://v.douyin.com/sa_y3m_oWlc/)
@@ -268,6 +273,11 @@
   - [哪个陕西娃能拒绝这一碗烩**麻食** | 我的乡村生活日记  | 烩麻食 | 陕西面食 | 回村的生活  | 农村生活](https://v.douyin.com/_73kDcqghAU/)
   - [菠菜搓搓！把菠菜揉进面里，美味劲道，一吃一个不吱声😋 | 好吃到停不下来  | 陕西美食 | 乡村美食 | 日常生活 | **菠菜搓搓面**](https://v.douyin.com/30pmrvn0_lw/)
   - **[驴蹄子面](https://v.douyin.com/0GxwE3x5ra0/)**
+
+---
+**[郭二妮·美食]{e}**
+* **[郭二妮 | 抖音号：GZN77777 | 千章 | Douyin](https://v.douyin.com/wf682zEKvec/)**
+  - [周至软面，想吃的赶紧来](https://v.douyin.com/hug6RdWnZCw/)
 
 ---
 **[张美丽·美食]{e}**
@@ -1082,9 +1092,10 @@
     - [只筛选不改变有利于找到正确的那个TA吗 | 03:43 | 054](https://v.douyin.com/LLfAyYGFxqw/)
 
 ---
-**[月野·GenshinImpact]{e}**
-* **[月野 | 个人发疯号 自己开心才是天大的事 | 佰章 | Douyin](https://v.douyin.com/JJo3_K23WlI/)**
+**[月野🐷·GenshinImpact]{e}**
+* **[月野🐷 | 个人发疯号 自己开心才是天大的事 | 晚: 20:00 | 佰章 | Douyin](https://v.douyin.com/JJo3_K23WlI/)**
   - [原神怎么五年了你还是这么好玩啊。](https://v.douyin.com/OtFH3w6bUA0/)
+  - [木偶大人和巴威一起去](https://v.douyin.com/pMvg2DUx6u4/)
 
 ---
 **[Shane教授]{s}**
