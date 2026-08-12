@@ -304,4 +304,10 @@ OOBE\BYPASSNRO
   - 遇见169.前缀的IP, 重启一下交换机, 针对某项目, 直接关后面的插板。
 
 ---
+### 0010. 3万字长文带你WorkBuddy 从入门到精通
+**[孔德远：3万字解锁WorkBuddy全功能]{s}**
+* **[孔德远](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&chksm=bf00cb433ba7ba3f45e616d8c88279f976e59ce4b0d04d415e841c0a24de66a8652dd20aed45&idx=1&mid=2649803569&sn=325170a0e2bd7117d51dfabbbd79539b#rd)**
+
+
+---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)

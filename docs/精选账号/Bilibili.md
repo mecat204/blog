@@ -120,6 +120,10 @@
 * **[巨人英文 | Giant English | B站](https://space.bilibili.com/491483153?spm_id_from=333.337.0.0)**
 
 ---
+**[梅根就是Megan]{e}**
+* **[梅根就是Megan | 正在学习中文 | 美国生活日常分享 | 语言学习和表达 | 28.8万 | B站](https://space.bilibili.com/3546672793652078/upload/video)**
+
+---
 ### 0002. B站 up主
 **[Bilibi直接登录网页可以删除客户端无法删除的收藏夹]{s}**
 
@@ -354,6 +358,11 @@
 **[学习路上一同进步]{s}**
 * **[学习路上一同进步 | 精选Youtube视频｜投资｜个人成长｜健康｜人工智能｜心理学 | 2.2万 | B站](https://space.bilibili.com/392530286?spm_id_from=333.788.upinfo.detail.click)**
   - [Get Smart With Money](https://www.bilibili.com/video/BV1cULS6mEFP/?spm_id_from=333.337.search-card.all.click)
+
+---
+**[田纳西Jay和Ari]{s}**
+* **[商务vx:JayTang123456 中国汉语老师，美国英语老师生活在田纳西 中美夫妻vlog | 中外文化体验 | 美国风土人情 希望早点](https://space.bilibili.com/552024939/upload/video)**
+  - [给**梅根Megan**尝尝真正的中国菜：酸菜鱼，一口下去赞不绝口](https://www.bilibili.com/video/BV1vLGgzKECB/)
 
 ---
 ### 0003. studytee | B站

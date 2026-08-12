@@ -988,6 +988,21 @@
 * **[捕捉一只柚子🍊 | 👩宝妈｜👧2岁柚子 每日更新母女搞笑对话 | 伍佰章](https://v.douyin.com/ZK-VzGSyIBY/)**
 
 ---
+**[Megan🎀]{e}**
+* **[Megan🎀 | The only way to do great work is to love what you do. | 佰章 | Douyin](https://v.douyin.com/hoH2JzENKE0/)**
+
+  ---
+  **[001. 生活录]{g}**
+    - [阳朔我来啦，这里的山水果然名不虚传，难怪老豆腐来了就不想走了 | Min: 10:49 | 001](https://v.douyin.com/aS0luxHMGgo/)
+    - [复刻中国美食之成都怪味花生，事实证明美国人吃花生完全没问题 | Min: 08:05 | 002](https://v.douyin.com/sHgiSfDNZm4/)
+    - [熊猫故乡我来了，这里的生活节奏让人感到舒适 | Min: 08:18 | 003](https://v.douyin.com/tp0A8SfSid8/)
+    - [2026年中国旅行记录：美好的开端，虽然很累但很开心 | Min: 05:05 | 004](https://v.douyin.com/ZSO92mJVQsw/)
+    - [太激动了，马上要来中国啦，先拍个户外视频练练手，期待美好旅行 | Min: 03:38 | 005](https://v.douyin.com/pvlQaUbx3ws/)
+    - [大半夜做美食，因为白天太忙了，努力工作存钱今年去中国 | Min: 07:36 | 006](https://v.douyin.com/PE0kOjJf8wU/)
+    - [包饺子过新年，虽然花了我7个小时，但是我很喜欢 | Min: 08:19 | 007](https://v.douyin.com/7Q5GAwZPpGA/)
+    - [分享我的生活日常，做了一只钩织小马，我的日常很简单，但觉得很充实，你们平时宅家里都会做什么呢 | Min: 11:31 | 008](https://v.douyin.com/IDIlo_6wXhc/)
+
+---
 ### 0011. 直播
 **[秋言☄︎]{e}**
 * **[秋言☄︎ | 新入坑原神的一个聪明小萌新🎁 每天早上10点-14点直播 | GenshinImpact | Douyin](https://v.douyin.com/2eNDaWrMaeU/)**

@@ -4437,6 +4437,11 @@
 
 ---
 ### 0100. Ads of the World
+**[Dewy Choo]{e}**
+* **[Dewy Choo |  23.9K |  YTB](https://www.youtube.com/@dewychoo_/videos)**
+  - [Reacting to Singaporean’s Travel HORROR Stories](https://www.youtube.com/watch?v=72brAZxpsfI)
+
+---
 **[Ads of the World]{s}**
 * **[Professional Campaigns • Ads of the World™ | Part of The Clio Network](https://www.adsoftheworld.com/professional)**
 
