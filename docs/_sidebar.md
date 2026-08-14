@@ -289,6 +289,7 @@
 
 ---
 * **Genshin Impact E2C**
+  - [subtitle](GenshinImpactE2C/001.三层双语字幕_v3.2代码详细解析.md)
   - [001-010](GenshinImpactE2C/001-010)
   - [011-020](GenshinImpactE2C/011-020)
   - [021-030](GenshinImpactE2C/021-030)
