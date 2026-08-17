@@ -4548,6 +4548,11 @@
 * **[WorldCom EDU | 245K | YTB](https://www.youtube.com/@WorldcomEdu/courses)**
 
 ---
+### 4000. shuriperoch Shuri Atomi
+**[shuriperoch]{s}**
+* **[shuriperoch](https://www.youtube.com/@shuriperoch/videos)**
+
+---
 ### 9999. Download
 **[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**
