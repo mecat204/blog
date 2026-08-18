@@ -127,7 +127,7 @@
   - [介绍一种致命的顶级吸引力](https://www.youtube.com/watch?v=9cn2ID9rKJA)
 
 ---
-**[木子AI研究所]{s]**
+**[木子AI研究所]{s}**
 * **[木子AI研究所 | 21.8万 | YTB](https://www.youtube.com/@muziailab/videos)**
   - 擁有多年互聯網行業工作經驗，短視頻自媒體賬號孵化者。
   - 在這裏，我會與大家分享如何利用AI工具打造個人IP，將AI應用於各個行業。無論你是對AI充滿好奇，還是懷揣創業夢想，本頻道都將為你提供有價值的信息和實用的技巧。
@@ -179,7 +179,7 @@
   - [长春冰雪世界 - 冰龙](https://v.douyin.com/7m9XdKFZU6c/)
   - [一千万粉丝了，今天带你们去看曾经最极致的浪漫，千年绝技 - 打铁花](https://v.douyin.com/rHdjP99rVo0/)
 
-**[山肆十四]{s]**
+**[山肆十四]{s}**
 * **[山肆十四 | 会一直折腾  谢谢观看 | 百章 | Douyin](https://v.douyin.com/xu9aAeeaEoY/)**
   - [大部分时候我们的不快乐，不是因为得不到，而是拥有的太多。| **旅行vlog** | **交换世界计划** | **做拓路者越万重山**](https://v.douyin.com/kSotN4KDXNM/)
 
@@ -223,12 +223,12 @@
   - [YTB是一位来自挪威的大一女生，专业是medical engineering | **参考: 2019年**](https://www.youtube.com/channel/UCc1QflC90Nkf_SDBZwJScDQ)
 
 ---
-**[Celine]{s]**
+**[Celine]{s}**
 * **[Celine | Let’s study together! I make study with me videos so our studying is less lonely. Keep working hard! | 20.4万 | YTB](https://www.youtube.com/@celinestudy/videos)**
   - [4-HOUR STUDY WITH ME 🌧️ Deep Focus on a Rainy Night | 🎧 Focus Music | Pomodoro 50/10](https://www.youtube.com/watch?v=a3gI2SBQaqM)
 
 ---
-**[Cav和Rose]{s]**
+**[Cav和Rose]{s}**
 * **[Cav和Rose | 二百章 | Douyin](https://v.douyin.com/uMQ0Bw2LjsU/)**
   - [大家都在问我是怎么获得中国五星卡的? 中国五星卡 | 2026我的新春vlog](https://v.douyin.com/Ozn12rzT8Xs/)
 
@@ -568,17 +568,17 @@
   - [如何让人生进步十倍（完整指南） How To Make Progress 10X Faster In Life (Full Guide)](https://v.douyin.com/XyQq7MkQ4hI/)
 
 ---
-**[4kUrbanLife]{s]**
+**[4kUrbanLife]{s}**
 * **[4kUrbanLife | 36.1万 | YTB](https://www.youtube.com/@4kUrbanLife)**
   - **[4K Cities of The World: Krakow, Poland](https://www.youtube.com/watch?v=3CfLia_6TU0&list=PLQggNzW0_YA9OlYAoIS5Vp-gRp8kF3EcS)**
 
 ---
-**[The English Class]{s]**
+**[The English Class]{s}**
 * **[The English Class | 33.7万 | YTB](https://www.youtube.com/@TheEnglishClass2917)**
   - **[How to Speak English Fluently | 如何流利 地说英语](https://www.youtube.com/watch?v=dWmUsWorYh0)**
 
 ---
-**[Biubiu仔仔]{s]**
+**[Biubiu仔仔]{s}**
 * **[Biubiu仔仔 | 沉浸式练习英语口语 | 百章 | Douyin](https://v.douyin.com/MUMd0LtI8WE/)**
   - [How to Speak English Fluently？](https://v.douyin.com/2bueQ6v6XVo/)
   - [How to Speak English Fluently？ Do you want to speak English fluently? Do you feel nervous when you try to speak? In this video, we will help you! We will teach you step by step, in very easy English. You will learn how to speak clearly, how to practice every day, and how to stop being afraid.]{lb}
@@ -633,7 +633,7 @@
   - **[**瑞士**最美的山村——你会想搬到这里来。](https://www.youtube.com/watch?v=o9esB3n-GAw)**
 
 ---
-**[🇨🇭 SWISS - Most Beautiful Places & Walking Tours]{s]**
+**[🇨🇭 SWISS - Most Beautiful Places & Walking Tours]{s}**
 * **[🇨🇭 SWISS - Most Beautiful Places & Walking Tours | 瑞士 | 8.69万 | YTB](https://www.youtube.com/@SWISS_WalkingTours)**
   - [En: Welcome to our YouTube channel dedicated to the breathtaking beauty of Switzerland!]{s}
   - [Cn: 欢迎来到我们的YouTube频道，专注于瑞士令人叹为观止的美景！]{lb}
@@ -756,13 +756,13 @@
   - [Cn:《平衡理论》是一档个人成长播客，旨在帮助人们建立自信，打造理想生活。节目由艾丽卡·德·佩莱格林主持，她是一位律师，曾深陷倦怠、讨好他人和内疚的泥沼，如今已彻底重拾自信，并实现了梦想。本节目提供关于思维转变、时间优化、效率提升、自我发现和有意识生活的实用技巧。您将学习如何更深入地了解自己，如何让行动与梦想保持一致，以及如何创造真正属于自己的生活。无论您是想克服倦怠、提高效率，还是想设计自己热爱的生活，本播客都是您平衡成功与幸福的指南.]{lb}
 
 ---
-**[Steve TV Show]{s]**
+**[Steve TV Show]{s}**
 * **[Steve TV Show | "STEVE"是喜剧演员、畅销书作家、艾美奖 | 高阶 | 828万 | YTB](https://www.youtube.com/@SteveTVShow/featured)**
   - [En: "STEVE" is the destination for laughter and life lessons from comedian, bestselling author, and Emmy® Award-winning host Steve Harvey, whose distinctive comedic voice and inspiring, straight talk advice have earned him global recognition as a household name.]{s}
   - [Cn: "STEVE"是喜剧演员、畅销书作家及艾美®奖获奖主持人史蒂夫·哈维带来的欢笑与人生道理的目的地，他独特的喜剧嗓音和鼓舞人心、直率的建议使他成为全球家喻户晓的名字。]{lb}
 
 ---
-**[Blondie in China]{s]**
+**[Blondie in China]{s}**
 * **[Blondie in China | 嗨！我是来自澳大利亚的艾米！过去十年间，我断断续续地在中国旅行。今天来这里和大家分享我的奇遇，品尝美食，传递正能量  | 中阶 | 58.5万 | YTB](https://www.youtube.com/@BlondieinChina)**
   - [En: Hey! I'm Amy from Australia!]{s}
   - [Cn: 嘿！我是来自澳大利亚的艾米！]{lb}
@@ -776,7 +776,7 @@
   - [Cn: 我在这里分享一些疯狂的冒险，吃点美味的食物，传播正能量:)xx]{lb}
 
 ---
-**[emma chamberlain]{s]**
+**[emma chamberlain]{s}**
 * **[emma chamberlain | 中阶 | 1200万 | YTB](https://www.youtube.com/@emmachamberlain)**
   - [En: other stuff i do, listen to me talk on my podcast "Anything Goes," available for free anywhere you stream podcasts.]{s}
   - [Cn: 我还做的其他事情，比如 在我的播客《Anything Goes》上听我讲话，这个播客在你听播客的地方免费收听。]{lb}
@@ -813,13 +813,13 @@
   - [Cn: ——安和阿里]{lb}
 
 ---
-**[Daniel Simmons]{s]**
+**[Daniel Simmons]{s}**
 * **[Daniel Simmons | 更新时尚、生活方式、室内设计和糕点 | 中阶 | 78.4万 | YTB](https://www.youtube.com/@imdanielsimmons)**
   - [En: Digital Diary 🤎 Weekly videos around fashion, lifestyle, interior design & pastries Daniel Simmons New York City, United States Contact: contact@danielsimmonsmedia.com]{s}
   - [Cn: 数字日记 🤎 每周视频，内容涵盖时尚、生活方式、室内设计和糕点 丹尼尔·西蒙斯 纽约市，美国 联系方式：contact@danielsimmonsmedia.com]{lb}
 
 ---
-**[Speak English with Bo's Slow English]{s]**
+**[Speak English with Bo's Slow English]{s}**
 * **[Speak English with Bo's Slow English | 初级 | 11.2万 | YTB](https://www.youtube.com/@BoSlowEnglish)**
   - [En: Welcome to Bo’s Slow English!]{s}
   - [Cn: 欢迎来到Bo的慢英语！]{lb}
@@ -849,7 +849,7 @@
   - [Cn: 谢谢你和我❤️一起学习]{lb}
 
 ---
-**[Luke's English Podcast]{s]**
+**[Luke's English Podcast]{s}**
 * **[Luke's English Podcast | 初中级衔接 | 174万 | YTB](https://www.youtube.com/@LukesEnglishPodcast)**
   - [En: An award-winning podcast for learners of English, since 2009.]{s}
   - 自2009年以来，这是一个获奖的英语学习者播客。]{lb}
@@ -951,7 +951,7 @@
   - [I Cant Afford a House... so I Live in a Cottage-Core Bus by the Sea instead](https://www.youtube.com/watch?v=nS-O2cMaupo)
 
 ---
-**[Mind the Game]{s]**
+**[Mind the Game]{s}**
 * **[Mind the Game | 高阶 |  勒布朗·詹姆斯的播客频道 | 体育 | 911K | YTB](https://www.youtube.com/@MindTheGamePodcast)**
 
   - [En: Mind The Game is an entry into the heralded basketball minds of LeBron James and Steve Nash.]{s}
@@ -966,7 +966,7 @@
   - [Cn: 由UNINTERRUPTED和Wondery呈现。]{lb}
 
 ---
-**[The Diary Of A CEO]{s]**
+**[The Diary Of A CEO]{s}**
 * **[The Diary Of A CEO | 高阶 | 嘉宾行业大牛，内容知识含金量超高。主持人英国人 | 19M |  YTB](https://www.youtube.com/@TheDiaryOfACEO)**
 
   - [En: 64% of our viewers don't realise they don't subscribe, please double check, thank you!!]{s}
@@ -978,7 +978,7 @@
   - [WW3 Threat Assessment_ World War III Has Quietly Started! | 第三次世界大战威胁评估：第三次世界大战已悄然开始！](https://www.youtube.com/watch?v=8qObdS-bhRM)
 
 ---
-**[The Diary Of A CEO Clips]{s]**
+**[The Diary Of A CEO Clips]{s}**
 * **[The Diary Of A CEO Clips | 精品节选 | 2.58M | YTB](https://www.youtube.com/@TheDiaryOfACEOClips/videos)**
 
   ---
@@ -997,7 +997,7 @@
   - [Nuclear Expert WARNS: "You Have No Idea What's Coming" | 核专家警告："你根本不知道接下来发生的事"](https://www.youtube.com/watch?v=fnGw_mT1278)
 
 ---
-**[SMii7Y]{s]**
+**[SMii7Y]{s}**
 * **[SMii7Y | 高阶 | 多人聊天、高效、调侃 | 8.93M | YTB](https://www.youtube.com/@SMii7Y/videos)**
 
   - [En: Pronounced "Smitty" -  Gameplay, Funny Moments, Hilarity & More!]{s}
@@ -1008,7 +1008,7 @@
   - [Cn: 在Gamer Supps使用代码S7，订单享九折优惠！]{lb}
 
 ---
-**[SeanDoesMagic]{s]**
+**[SeanDoesMagic]{s}**
 * **[SeanDoesMagic | 高阶 | 搞笑、调侃 | 13.3M | YTB](https://www.youtube.com/@SeanDoesMagic/videos)**
 
   - [En: Just a lil magician ❤️📧]{s}
@@ -1019,14 +1019,14 @@
   - [Cn: 如需商业咨询，请联系我的经理Ronit Cohn，ronit@cohntalent.com]{lb}
 
 ---
-**[The Late Late Show with James Corden]{s]**
+**[The Late Late Show with James Corden]{s}**
 * **[The Late Late Show with James Corden | 高阶 | 主持人英音 | 28.2M | YTB](https://www.youtube.com/@TheLateLateShow)**
 
   - [En: This is the official YouTube channel for The Late Late Show with James Corden on CBS.]{s}
   - [Cn: 这是CBS《詹姆斯·科登深夜秀》的官方YouTube频道。]{lb}
 
 ---
-**[Jimmy Kimmel Live]{s]**
+**[Jimmy Kimmel Live]{s}**
 * **[Jimmy Kimmel Live | 高阶 | 脱裤秀访谈 | 22.1M | YTB](https://www.youtube.com/@JimmyKimmelLive)**
 
   - [En: The official Jimmy Kimmel Live!]{s}
@@ -1041,7 +1041,7 @@
   - [Cn: 名人阅读"恶意推文"、"YouTube挑战"以及你最喜欢的深夜病毒视频的家园。]{lb}
 
 ---
-**[The Tonight Show Starring Jimmy Fallon]{s]**
+**[The Tonight Show Starring Jimmy Fallon]{s}**
 * **[The Tonight Show Starring Jimmy Fallon | 中阶 | 脱裤秀访谈 | 34.1M | YTB](https://www.youtube.com/@fallontonight)**
 
   - [En: The official home of The Tonight Show Starring Jimmy Fallon!]{s}
@@ -1071,7 +1071,7 @@
   - **[Alysa Liu Reacts to Historic U.S. Figure Skating Win, Quizzes Jimmy on His Figure Skating Knowledge | 刘艾丽莎对美国花样滑冰历史性胜利的回应，向吉米提问他的花样滑冰知识](https://www.youtube.com/watch?v=qYTYDm1IOQw)**
 
 ---
-**[Fred Liu]{s]**
+**[Fred Liu]{s}**
 * **[Fred Liu | 中阶 | 男、生活记录、常有朋友出境多人聊天场景 | 815K | YTB](https://www.youtube.com/@Freddielooo/videos)**
 
   - [En: Hi friends, My name is Fred and I make skits and vlogs]{s}
@@ -1089,11 +1089,11 @@
 * **[ur mom ashley | 中阶 | 女、生活写实记录 | 2.12M | YTB](https://www.youtube.com/@urmomashley)**
 
 ---
-**[Beautiful Twin Sisters]{s]**
+**[Beautiful Twin Sisters]{s}**
 * **[Beautiful Twin Sisters | 85.5K | YTB](https://www.youtube.com/@BeautifulTwinSistersPod/videos)**
 
 ---
-**[Echo Browne]{s]**
+**[Echo Browne]{s}**
 * **[Echo Browne | 中阶 | 女、美高中 | 269K | YTB](https://www.youtube.com/@echobrownevlogs/videos)**
 
   - [En: new uploads every week 👀 Welcome to the channel!]{s}
@@ -1108,7 +1108,7 @@
   - [Cn: 🌷 商业咨询：contact@seralunestudios.com]{lb}
 
 ---
-**[Max Reisinger]{s]**
+**[Max Reisinger]{s}**
 * **[Max Reisinger | 中阶 | 男、美高已毕业、拍摄剪辑很棒。 | 782K | YTB](https://www.youtube.com/@MaxReisinger/featured)**
 
   - [En: This channel was an optimistic experiment aimed at encapsulating what it means to grow up and find your place in this modern-day, fast-moving, and ever-changing world.]{s}
@@ -1119,14 +1119,14 @@
   - [Cn: ⊶ （把它当作成长电影，但分为小集和幕后故事） ꐕ 🛋 关注我的Instagram，了解这些视频之间的所有动态——https://instagram.com/maxbrsee 🪴在LinkedIn上联系——https://www.linkedin.com/in/maxreisinger 🏕 了解更多关于创作者营的信息 - https://creatorcamp.co 感谢你的到来！]{lb}
 
 ---
-**[Elliot Choy]{s]**
+**[Elliot Choy]{s}**
 * **[Elliot Choy | 中阶 | 男、已毕业要往前翻大学生活Vlog。| 1.33M | YTB](https://www.youtube.com/@ELLIOTCHOY/videos)**
 
   - [En: Hi ~ I’m Elliot, based in NYC, making videos, living life.]{lb}
   - [Cn: 嗨~我是Elliot，常驻纽约市，制作视频，过生活。]{lb}
 
 ---
-**[Nayomique]{s]**
+**[Nayomique]{s}**
 * **[Nayomique | 初中阶 | 在大陆创业的美国人 | 11.6K | YTB](https://www.youtube.com/@NayomiqueOfficial)**
 
 ---
@@ -1149,7 +1149,7 @@
   - [Cn: 跟随我踏上一段旅程，探索中国人民和其美丽风景的无尽故事，从海洋到山脉再到村庄，再到介于两者之间的一切——还有一些在中国非政府组织🏞工作的有趣片段]{lb}
 
 ---
-**[This Is How We Bingham]{s]**
+**[This Is How We Bingham]{s}**
 * **[This Is How We Bingham | 中阶 | 小孩家庭 | 1.33M | YTB](https://www.youtube.com/@thisishowwebingham)**
 
   - [En: Life is for living and we LOVE living life!]{s}
@@ -1184,12 +1184,12 @@
   - [Cn: 加入我们的冒险，让我们将生活中的日常乐趣发挥到极致！]{lb}
 
 ---
-**[Us The Duo]{s]**
+**[Us The Duo]{s}**
 * **[Us The Duo | 中阶 | 小孩家庭 | 音乐 | Music | 2.06M | YTB](https://www.youtube.com/@ustheduo/featured)**
   - [Top Hits of 2023 - Us The Duo](https://www.youtube.com/watch?v=sMChO6ex5lw)
 
 ---
-**[J House Vlogs]{s]**
+**[J House Vlogs]{s}**
 * **[J House Vlogs | 中阶 | 爸妈带着一群小孩世界各地旅居 | 3.55M | YTB](https://www.youtube.com/@jhousevlogs/featured)**
 
   - [En: Welcome to J House Vlogs.]{s}
@@ -1212,17 +1212,17 @@
   - [Cn: 欢迎加入我们，共度家庭时光、旅行体验和日常生活。]{lb}
 
 ---
-**[The LaBrant Fam]{s]**
+**[The LaBrant Fam]{s}**
 * **[The LaBrant Fam | 中阶 | God and family | 12.7M | YTB](https://www.youtube.com/@ColeAndSav/featured)**
   - [OUR WEDDING VIDEO. Vows to 4 year old daughter](https://www.youtube.com/watch?v=MK5zVLYXzyg)
 
 ---
-**[The Crosbys]{s]**
+**[The Crosbys]{s}**
 * **[The Crosbys | 初中阶段衔接 | 有一个很有意思的小孩口播列表 | Music | 4.68M | YTB](https://www.youtube.com/@TheCrosbys/videos)**
   - [Ocean Eyes - Billie Eilish (12-year-old Claire Crosby Live Cover)](https://www.youtube.com/watch?v=4cUuxGNY9D4)
 
 ---
-**[English with Brittany]{s]**
+**[English with Brittany]{s}**
 * **[English with Brittany | 初中阶段衔接 | 小孩的日常生活记录 | 421K | YTB](https://www.youtube.com/@EnglishwithBrittany)**
   - [Teach English to Your Baby or Child! ✨ 30-Minute MASTERCLASS for Parents](https://www.youtube.com/watch?v=seKOJ2hhHL0)
 
@@ -1236,7 +1236,7 @@
   - **Hey! I'm Ariannita, an English teacher. Let's boost your real-world English skills. Subscribe and learn!**
 
 ---
-**[Learn English with Bob the Canadian]{s]**
+**[Learn English with Bob the Canadian]{s}**
 * **[Learn English with Bob the Canadian | 0基础 | 内容量巨大，风格偏写实记录 | 2.56M | YTB](https://www.youtube.com/@LearnEnglishwithBobtheCanadian/videos)**
 
   - [En: Do you want to learn English?]{s}
@@ -1259,14 +1259,14 @@
   - [Cn: 请在继续学习英语的过程中欣赏这些视频]{lb}
 
 ---
-**[English by Jay - Sprout]{s]**
+**[English by Jay - Sprout]{s}**
 * **[English by Jay - Sprout | 0基础 | 剪辑很棒，比一般英文频道要更有意思 | 601K | YTB](https://www.youtube.com/@englishbyjay.official)**
 
   - [En: Watch more of my videos and learn English the natural way with Sprout 🌱 https://sproutlanguage.com/]{s}
   - [Cn: 多看我的视频，用Sprout 🌱自然学习英语 sproutlanguage.com]{lb}
 
 ---
-**[Volka English]{s]**
+**[Volka English]{s}**
 * **[Volka English | 0基础 | 初阶 | 内容风格非常一致，画质很好 | 1.37M | YTB](https://www.youtube.com/@VolkaEnglish)**
 
 ---
@@ -1347,7 +1347,7 @@
   - [idyllic days in stockholm & the archipelago](https://www.youtube.com/watch?v=c8yYEzg17YU)
 
 ---
-**[Nischa]{s]**
+**[Nischa]{s}**
 * **[Nischa | 投资 | 213万 |  YTB](https://www.youtube.com/@nischa)**
   - [En: I’m a former Investment Banker (with an accountancy qualification) and on this channel we explore all things personal finance, self development and business.]{s}
   - [Cn: 我曾是一名投资银行家（拥有会计学资格），在这个频道中我们探讨所有关于个人理财、自我发展和商业的话题。]{lb}
@@ -1360,7 +1360,7 @@
   - [8 TINY Habits to Become Financially Literate In 2026](https://www.youtube.com/watch?v=uXTREehuNFU)
 
 ---
-**[Bg2 Pod]{s]**
+**[Bg2 Pod]{s}**
 * **[Bg2 Pod | 9.93万 | YTB](https://www.youtube.com/@Bg2Pod)**
   - [En: Open Source bi-weekly convo w @altcap & @bgurley on all things tech, markets, investing & capitalism]{s}
   - [Cn: 开源双周一次的对话，内容涵盖科技、市场、投资与资本主义@altcap与@bgurley]{lb}
@@ -1391,7 +1391,7 @@
     - [Cn: 祝大家继续享受《博德之门2》的精彩内容！]{lb}
 
 ---
-**[All-In Podcast]{s]**
+**[All-In Podcast]{s}**
 * **[All-In Podcast | 104万 | YTB](https://www.youtube.com/@allin)**
   - [En: Chamath Palihapitiya, Jason Calacanis, David Sacks & David Friedberg cover all things economic, tech, political, social & poker.]{s}
   - [Cn: Chamath Palihapitiya、Jason Calacanis、David Sacks 和 David Friedberg 涵盖经济、科技、政治、社会和扑克等所有相关内容。]{lb}
@@ -1422,7 +1422,7 @@
   - [Massive Somali Fraud in Minnesota with Nick Shirley, California Asset Seizure, $20B Groq-Nvidia Deal | 明尼苏达州与尼克·雪莉的大规模索马里诈骗案，加州资产没收，200亿美元Groq-Nvidia交易](https://www.youtube.com/watch?v=bhpd4NeTbCI)
 
 ---
-**[Lex-Friedman]{s]**
+**[Lex-Friedman]{s}**
 * **[Lex-Friedman | Math | 495万 | YTB](https://www.youtube.com/@lexfridman/videos)**
   - [En: Lex Fridman Podcast and other videos.]{s}
   - [Cn: 莱克斯·弗里德曼播客及其他视频。]{lb}
@@ -1431,7 +1431,7 @@
   - [Infinity, Paradoxes, Gödel Incompleteness & the Mathematical Multiverse | Lex Fridman Podcast #488 | 无限、悖论、哥德尔不完备性与数学多元宇宙 |莱克斯·弗里德曼播客 #488](https://www.youtube.com/watch?v=14OPT6CcsH4)
 
 ---
-**[Latent Space]{s]**
+**[Latent Space]{s}**
 * **[Latent Space | AI | YTB](https://www.youtube.com/@LatentSpacePod/videos)**
   - [En: The first place where 90,000+ AI Engineers gather to talk models, tools and ideas.]{lb}
   - 这是9万名AI工程师聚集讨论模型、工具和想法的第一个场所。]{lb}
@@ -1484,7 +1484,7 @@
   - [Can You Really Learn English Through Songs and Music? Ask Alisha](https://www.youtube.com/watch?v=Inf6F4Drxv0&t=41s)
 
 ---
-**[Arnel's Everyday English | English Teacher]{s]**
+**[Arnel's Everyday English | English Teacher]{s}**
 * **[Arnel's Everyday English | English Teacher |  语法 | 134万 |  YTB](https://www.youtube.com/@ArnelsEverydayEnglish)**
 
   - [En: Welcome to my channel!]{s}
@@ -1586,7 +1586,7 @@
   - [Cn: 祝你学习愉快！]{lb}
 
 ---
-**[English Speaking Success]{s]**
+**[English Speaking Success]{s}**
 * **[English Speaking Success | 412万 | 口语 | YTB](https://www.youtube.com/@EnglishSpeakingSuccess)**
   - [En: English Speaking Success will help you develop your English speaking skills so you can face the examiner with confidence and ace the IELTS Speaking test.]{s}
   - [Cn: 《英语口语成功》将帮助你提升英语口语能力，让你能够自信地面对考官，并在雅思口语测试中取得优异成绩。]{lb}
@@ -1604,7 +1604,7 @@
   - [Cn: 我没有任何隶属关系、关系、认可或认可，也没有获得英国文化协会或任何官方雅思合作伙伴的认可。]{lb}
 
 ---
-**[IELTS with Simon]{s]**
+**[IELTS with Simon]{s}**
 * **[IELTS with Simon | 西蒙的雅思课程 | 2540位 |  写作 | YTB](https://www.youtube.com/@IELTSSIMON1/videos)**
   - [En: My name is Simon  Corcoran, and this is my mission as an IELTS teacher: I aim to provide the best information about the IELTS test, from an ex examiner's perspective.]{s}
   - [Cn: 我叫西蒙·科科伦，作为一名雅思教师，我的使命是：我 致力于从一名前考官的角度，提供关于雅思考试的最佳信息。]{lb}
@@ -1638,7 +1638,7 @@
   - [Cn: 爱你们所有人！]{lb}
 
 ---
-**[E2 IELTS]{s]**
+**[E2 IELTS]{s}**
 * **[E2 IELTS | 阅读 | 285万 | YTB](https://www.youtube.com/@E2IELTS)**
 
   - [En: Welcome to E2 IELTS, a place for mastering the IELTS General and Academic exams.]{s}
@@ -1674,7 +1674,7 @@
 
 ---
 ### 0007. Church
-**[2819 Church]{s]**
+**[2819 Church]{s}**
 * **[2819 Church | 165万| YTB](https://www.youtube.com/@2819Church)**
   - [En: Welcome to the official YTB channel for 2819 Church.]{s}
   - [Cn: 欢迎来到2819教会的官方YouTube频道。]{lb}
@@ -1722,7 +1722,7 @@
 
 ---
 ### 0009. 小元智谈 | Gather YTB
-**[小元智谈]{s]**
+**[小元智谈]{s}**
 * **[小元智谈 | 每天听一听，提升自己 | 好书、TED、政策、前沿、生活 | 五百章 |  Douyin](https://v.douyin.com/LOyLVRhN5u0/)**
   - [大脑 | 人的一生 | 大脑重塑 | 预测人生](https://v.douyin.com/uMxs84mrK8c/)
   - [神经科学家：你的一生可能都是一个预测 本期聊聊神经科学家丽莎·费尔德曼·巴雷特 (Lisa Feldman Barrett) 博士的一次访谈。她在访谈中探讨了大脑如何构建我们的现实。她指出，大脑并非被动地对世界做出反应，而是一个预测器官，它结合过去的经验和当前的感官信号来预判行动并制造情绪。通过理解这一预测机制，人们可以意识到自己并非受过去或环境摆布的傀儡，从而在处理心理健康、创伤和日常感受时掌握更多的自主权。作者还通过分享治愈女儿抑郁症的经历，强调了代谢管理、社交支持和刻意练习新经验对重塑大脑预测的重要性。总之，这些内容揭示了人类拥有比想象中更强大的能力去架构自己的生命体验。]{lb}
@@ -1824,7 +1824,7 @@
   - [The terrifying ways that social media is altering teenage brains | Clare Morell: Full Interview社交媒体如何以令人恐惧的方式改变青少年的大脑 |克莱尔·莫雷尔：完整采访](https://www.youtube.com/watch?v=tk_Q4DyWY48)
 
 ---
-**[Nikhil Kamath]{s]**
+**[Nikhil Kamath]{s}**
 * **[Nikhil Kamath | 220万 | YTB](http://youtube.com/@nikhil.kamath/videos)**
   - [En: "WTF is" is a podcast series where entrepreneur and Investor Nikhil Kamath hosts friends and industry experts and holds casual yet intellectually stimulating conversations.]{s}
   - [Cn: "WTF is"是一个播客系列，企业家兼投资人Nikhil Kamath邀请朋友和行业专家，进行轻松但富有启发性的对话。]{lb}
@@ -1839,7 +1839,7 @@
 
 ---
 ### 0010. 英语学习日记 | Search YTB
-**[LEIA英语]{s]**
+**[LEIA英语]{s}**
 * **[LEIA英语 | 北师大硕士，多年教育经验 | 每日分享日常英语对话 | 五百章 | Douyin](https://v.douyin.com/J-8oISXP2eI/)**
   - [博主分享了做美甲的经历和即将参加的野餐活动的期待. | **YTB: Birta Hlin**](https://v.douyin.com/IIpbomrgTVo/)
   - [博主分享了自己生活中即将迎来宝宝的喜讯，以及随之而来的生活调整和未来规划。| **YTB: TheCottageFairy**](https://v.douyin.com/5rHbyt-RZLI/)
@@ -1849,12 +1849,12 @@
   - [博主讲解英语短语'better late than never'的发音技巧及美式英语中T变D的现象。**YTB: Speak English With Vanessa**](https://v.douyin.com/aUAvpM0V87Q/)
 
 ---
-**[Lucky英语宝藏屋]{s]**
+**[Lucky英语宝藏屋]{s}**
 * **[Lucky英语宝藏屋 | 国际化学校 | 学英语是一生课题 | 英语只是工具，更重要是带你看世界 | 学习是转运的开始，欢迎跟我一起变幸运 | 三百章 | Douyin]( https://v.douyin.com/AC4snIs2G90/)**
   - [坚持每天跟着外国博主学英语，口语听力突飞猛进 英语是钥匙，但世界才是你要开的门， 学习是转运的开始！欢迎和我一起变幸运！| **YTB: Elena Taber**](https://v.douyin.com/g4wpYhTXXOI/)
 
 ---
-**[NaNa的英语宝藏]{s]**
+**[NaNa的英语宝藏]{s}**
 * **[NaNa的英语宝藏 | 你的英语定制食谱 📚知识如旷野 | 二百章 | Douyin](https://v.douyin.com/mbGUxTMzXDQ/)**
   - [今天分享给大家这套超实用的方法](https://v.douyin.com/zeyEt3eI1Ns/)
   - **今天分享给大家这套超实用的方法:**
@@ -1878,21 +1878,21 @@
   - [30岁YTB千万富婆给20多岁年轻人的建议 | **YTB: Vanessa Lau**](https://v.douyin.com/77dXgDkenvs/)
 
 ---
-**[VENQUEN的英语日记]{s]**
+**[VENQUEN的英语日记]{s}**
 * **[VENQUEN的英语日记 | 二百章 | Douyin](https://v.douyin.com/lGerZrVjzQs/)**
   - [学习是方向，世界是目的地！Follow along！ 飞向未知，直面恐惧 旧金山的酸面包，藏着冒险的滋味 独处的时光，发现真实的自己 大桥下的夕阳，点燃成长的勇气 | **YTB: Isabel Paige**](https://v.douyin.com/ACS0U3zIC54/)
   - [雪花轻吻山巅，咖啡暖手 炉火旁，冬日的仙境悄然绽放 踏雪觅果，阳光洒落心间 这十一月的清晨，藏着治愈的温柔 | **YTB: Isabel Paige**](https://v.douyin.com/PokajBVenxU/)
   - [Burnedout in early20s 🌄学习是方向，世界是目的地！Follow along！ 雨丝低吟 炉火唤春暖 童梦琴弦断于规整牢 跌倒，起身，圆满 | **YTB: Poetry Of Slow Life**](https://v.douyin.com/gIaihnAQ4kw/)
 
 ---
-**[2255（日更版）]{s]**
+**[2255（日更版）]{s}**
 * **[2255（日更版）| YouTube Vlog推荐 | 二百章 | Douyin](https://v.douyin.com/F2-yC0zVmzE/)**
   - [**Birta Hlin** | what l eat in a week | simple & balanced recipes](https://v.douyin.com/XtI76K5zjRg/)
   - [**Birta Hlin** | days in sydney | dog sitting, moving apartments & new friends](https://v.douyin.com/P_gq_wnliic/)
   - [**clarisseintheclouds**｜5AM 日常英语 每天学习英语一点点](https://v.douyin.com/5vk_n5jG_V8/)
 
 ---
-**[NeverStop英语栈]{s]**
+**[NeverStop英语栈]{s}**
 * **[NeverStop英语栈 | 外刊跟读系列周更 | 英语博主vlog系列一周多更 | 百章 | Douyin](https://v.douyin.com/neCHbXtGwUo/)**
   - [《Don't Look Back In Anger》 丨my love mine all mine by mitskidont look back in anger - oasis (cover)丨 **YTB: Jasmine Nadya** | 吉他弹唱 | 英语 | oasis | 音乐](https://v.douyin.com/L7RKhq7wCDI/)
   - [机场英语课 丨**YTB: Ariannita la Gringa**](https://v.douyin.com/WIbb5JAgsCc/)
@@ -1902,27 +1902,27 @@
   - [无聊吗？这里有更充实的生活指南！| **YTB: Olga loiek**](https://v.douyin.com/Gxp9F5-weRg/)
 
 ---
-**[大脚柚子英语学习日记]{s]**
+**[大脚柚子英语学习日记]{s}**
 * **[大脚柚子英语学习日记 | 百章 | Douyin](https://v.douyin.com/QMSHneHcLIo/)**
   - [**YTB: Sydney Serena** | 每日英语](https://v.douyin.com/7G6vvrFaWPI/)
 
 ---
-**[小维每日英语]{s]**
+**[小维每日英语]{s}**
 * **[小维每日英语 | 百章 | Douyin](https://v.douyin.com/P2ZIoD1t_CA/)**
 
 ---
-**[英语学习播客]{s]**
+**[英语学习播客]{s}**
 * **[英语学习播客 | 百章 | Douyin](https://v.douyin.com/suAtihn1uE0/)**
   - [**YTB: Taylor Hill** - How Many Taylors Does It Take - part14](https://v.douyin.com/ikbggWsPcos/)
 
 ---
-**[哆啦N梦爱英语]{s]**
+**[哆啦N梦爱英语]{s}**
 * **[哆啦N梦爱英语 | 百章 | Douyin](https://v.douyin.com/imI-y_Hedjg/)**
   - [分享一个我认为迄今为止在YTB看到的最漂亮博主没有之一 | **YTB: Nil Sani**: 个人生活、时尚、美妆和生活方式](https://v.douyin.com/t4auaF8-RF4/)
   - [我们感觉一段关系，让我们不再快乐的时候，就是一段关系结束的时候 | **YTB: Lana Blakely**: 生活方式、人生体验、哲学思考、自我成长和社交话题讨论](https://v.douyin.com/yKQ1V1AlV2E/)
 
 ---
-**[Poetry Of Slow Life]{s]**
+**[Poetry Of Slow Life]{s}**
 * **[Poetry Of Slow Life | 21.1万 | YTB](https://www.youtube.com/@IamDaria/videos)**
   - [En: Hi, I'm Daria.]{s}
   - [嗨，我是达莉娅。]{lb}
@@ -1940,7 +1940,7 @@
   - **[Autumn in the mountains | Slow Travel In Scottish Highlands & Edinburgh | Cozy October Cabin Living | 山中的秋天 |慢速旅行 在苏格兰高地和爱丁堡 |温馨的十月小屋生活](https://www.youtube.com/watch?v=6rMFhIgBAn4)**
 
 ---
-**[Speak English With Vanessa]{s]**
+**[Speak English With Vanessa]{s}**
 * **[Speak English With Vanessa | 初级 | 初中级衔接 | 有吐字非常清晰、语速较慢的超长对话内容，有挺多雅思口语相关话题。| 717万 | YTB | YTB](https://www.youtube.com/@SpeakEnglishWithVanessa/videos)**
   - [En: Speak English naturally, confidently, and fluently with Vanessa.]{s}
   - [Cn: 与Vanessa自然、自信且流利地交流英语。]{lb}
@@ -1957,7 +1957,7 @@
   * **[Daily Life Vocabulary You Need to Know | 你需要掌握 的日常生活词汇](https://www.youtube.com/watch?v=jwJqvuoY26o)**
 
 ---
-**[Vanessa Lau]{s]**
+**[Vanessa Lau]{s}**
 * **[Vanessa Lau | 99.8万 | YTB](https://www.youtube.com/@VanessaLau/videos)**
   - [En: I make videos that help creators feel good, have fun, do less, and earn  ̶m̶o̶r̶e̶ enough.]{s}
   - [Cn: 我制作的视频帮助创作者感觉良好、玩得开心、少做事，并赚取足够的"m̶o̶r̶e̶"。]{lb}
@@ -1978,7 +1978,7 @@
   * **[The EASIEST Video Editing Guide for Beginners in 2026 (STEP-BY-STEP MASTERCLASS) | 2026年初学者最简单的视频剪辑指南（逐步大师班）](https://www.youtube.com/watch?v=GRO5GRx1y0A)**
 
 ---
-**[Michelle Choi]{s]**
+**[Michelle Choi]{s}**
 * **[Michelle Choi | 233万 | YTB](https://www.youtube.com/@michellechoii/videos)**
   - [En: Hi!]{s}
   - [Cn: 你好。]{lb}
@@ -2005,7 +2005,7 @@
   - **[Living Alone Diaries | What I Eat in a Day (simple and easy meals) | 独居日记 | 我一天吃什么（简单易吃的餐）](https://www.youtube.com/watch?v=ZACSFysf1nE)**
 
 ---
-**[English At The Ready]{s]**
+**[English At The Ready]{s}**
 * **[English At The Ready | 67.7万 | YTB](https://www.youtube.com/@englishattheready/videos)**
   - [En: Apply to study English with us 👇 I’m Michael Anton — born in Canada, Cambrige CELTA-certified, and founder of English At The Ready.]{s}
   - [Cn: 申请加入我们👇学习英语 ，我是Michael Anton——出生于加拿大，拥有Cambrige CELTA认证，也是English At The Ready的创始人。]{lb}
@@ -2045,7 +2045,7 @@
   - **[How to REALLY become fluent in English in 2026 | 如何在2026 年真正流利地掌握英语](https://www.youtube.com/watch?v=zxWEPWWmVio)**
 
 ---
-**[心理健康]{s]**
+**[心理健康]{s}**
 * **[Tyson Liberto | 自我提升 心理健康 个人成长 | 31.6万 | YTB](https://www.youtube.com/@tysonliberto/videos)**
   - **[This isn't a rut, it's a spiritual attack. | 这不是发情期，而是精神上的攻击。](https://www.youtube.com/watch?v=7XKd8T0UzBU)**
 
@@ -2059,7 +2059,7 @@
   - **[why you lost your love for learning & how to get it back | 你为什么失去对学习的热爱以及如何找回它](https://www.youtube.com/watch?v=0rk9O8NUrCg)**
 
 ---
-**[Jasmine Nadya]{s]**
+**[Jasmine Nadya]{s}**
 * **[Jasmine Nadya  | 14.3万 | YTB ](https://www.youtube.com/@JasmineNadya/videos)**
 
   - [En: The Official YouTube Channel of Jasmine Nadya.]{s}
@@ -2094,7 +2094,7 @@
   - **[dont look back in anger - oasis (cover) | 别回头看怒——Oasis（封面）](https://www.youtube.com/watch?v=QmjrLljcYSw)**
 
 ---
-**[Elena Taber]{s]**
+**[Elena Taber]{s}**
 * **[Elena Taber | 86.5万 | Travel | 旅行者 | YTB](https://www.youtube.com/@ElenaTaber/videos)**
   - [En: travel, outdoor adventures, city living, fashion, wellness, and my other 20 something misadventures in nyc, paris, and beyond 💌]{s}
   - [Cn: 旅行、户外探险、城市生活、时尚、健康，以及我在纽约、巴黎和其他地方💌的其他二十多岁冒险]{lb}
@@ -2103,7 +2103,7 @@
   - **[I travelled across the world to find WILD gorillas | this is Uganda 🇺🇬 | 我走遍了世界各地，去寻找野生大猩猩 | 这里是乌干达 🇺🇬](https://www.youtube.com/watch?v=7YjhswLfsAQ)**
 
 ---
-**[clarisseintheclouds]{s]**
+**[clarisseintheclouds]{s}**
 * **[clarisseintheclouds | 生活方式 | 自我关怀 内容创作者  | 28.5万 | YTB](https://www.youtube.com/@clarisseintheclouds/videos)**
   - Lifestyle & Self-Care YouTuber — 日常生活与个人成长内容创作者
   - Vlogger — 以 vlog 形式记录日常与旅行体验
@@ -2122,7 +2122,7 @@
   - **[it's NOT about romanticizing your life... it’s much simpler than that | 这不是美化你的生活...... 事情远比这 简单](https://www.youtube.com/watch?v=K_d6B58lCHM)**
 
 ---
-**[Ellison Scar]{s]**
+**[Ellison Scar]{s}**
 * **[Ellison Scar | 自由职业、品牌内容创作和社媒营销 | 1.82万 | YTB](https://www.youtube.com/@ElliScar/videos)**
   - [En: Live Better, For Longer]{s}
   - [Cn: 活得更好，活得更久]{lb}
@@ -2176,17 +2176,17 @@
   - **[day in my life in copenhagen | new books, my workout & delicious dinner recipe | 我在哥本哈根的一天 |新书、我的锻炼和美味晚餐食谱](https://www.youtube.com/watch?v=9qR0vkgd9Rg)**
 
 ---
-**[Nil Sani]{s]**
+**[Nil Sani]{s}**
 * **[Nil Sani | 47.1万 | 个人生活、时尚、美妆和生活方式  | YTB](https://www.youtube.com/@NilSani/videos)**
   - **[a week in miami: r&r, pilates, pottery, brand trip with alo | 迈阿密一周：休息、普拉提、陶艺、和Alo 的品牌之旅](https://www.youtube.com/watch?v=2M0WJkM-Rkk)**
 
 ---
-**[Phoebe Taylor]{s]**
+**[Phoebe Taylor]{s}**
 * **[Phoebe Taylor | 5.31万 | enjoys dressing & nesting | 喜欢穿衣和筑巢 | YTB](https://www.youtube.com/@__phoebe.taylor/videos)**
   - **[new year's (fashion & home decor) resolutions | 新年（时尚与家居装饰）决心](https://www.youtube.com/watch?v=RR6MshB1Ads)**
 
 ---
-**[旅行]{s]**
+**[旅行]{s}**
 * **[Joel and Emilia | 8年环游世界旅行 | 53.9万 | YTB](https://www.youtube.com/@Joel_Emilia/videos)**
   - [En: Hi, we are Joel Friend and Emilia Beattie and we have been travelling the world together over the last 3 years!]{s}
   - [Cn: 你好，我们是Joel Friend和Emilia Beattie，过去三年我们一起环游世界！]{lb}
@@ -2252,7 +2252,7 @@
   - **[Matcha Talks | Face Yoga Secrets for a Lifted & Sculpted Look | w/ Anastasia | 抹茶谈话 |面部瑜伽秘诀：提升与雕塑造型 | 与阿纳斯塔西娅 合作](https://www.youtube.com/watch?v=JRTih7Nr1zs)**
 
 ---
-**[Janice]{s]**
+**[Janice]{s}**
 * **[Janice | 52万 |  YTB](https://www.youtube.com/@janicenicholee/videos)**
   - [Vlogmas 5/5 | Llegó Santa!🎅🎄 | Vlogmas 5/5 |圣诞莱戈！ 🎅🎄](https://www.youtube.com/watch?v=IkkMEUZtRYM)
   - [Vlogmas 4/5 🎄✨ | 视频视频 4/5 🎄✨](https://www.youtube.com/watch?v=M7zZaIAkxPY)
@@ -2261,7 +2261,7 @@
   - [Vlogmas 1/5 🎄✨| Christmas mood ON](https://www.youtube.com/watch?v=N4RbPWQ8kW8)
 
 ---
-**[The Squeeze]{s]**
+**[The Squeeze]{s}**
 * **[The Squeeze  | 24.9万 | YTB](https://www.youtube.com/@thesqueeze/videos)**
   - [En: When life gives you lemons, what do you do with them?]{s}
   - [Cn: 当生活给你柠檬时，你会怎么处理它们？]{lb}
@@ -2365,13 +2365,13 @@
   - **[SkyPixel 11th Annual Photo & Video Contest Starts Today | SkyPixel 第十一届年度摄影与视频比赛今天 开始](https://www.youtube.com/watch?v=XGsr7fsN5jIs)**
 
 ---
-**[Dustin Dunnill]{s]**
+**[Dustin Dunnill]{s}**
 * **[Dustin Dunnill | 31.4万 | YTB](https://www.youtube.com/@DustinDunnill/videos)**
   - [En: Great Stuff Here for Radio Control and Tech Enthusiasts!]{s}
   - [Cn: 这里对遥控和科技爱好者来说非常棒！]{lb}
 
 ---
-**[traveler_HIRO]{s]**
+**[traveler_HIRO]{s}**
 * **[traveler_HIRO | 6.98万 | YTB](https://www.youtube.com/@traveler_HIRO/featured)**
   - [En: Hey there, I’m Hiro, and welcome to traveler_HIRO!]{s}
   - [Cn: 你好，我是广，欢迎来到traveler_HIRO！]{lb}
@@ -2480,7 +2480,7 @@
   - **[Iceland Highlands: Top 5 Places to Visit | 冰岛高地：必访 五大景点](https://www.youtube.com/watch?v=y7S-aruFYis)**
 
 ---
-**[Emma Marie]{s]**
+**[Emma Marie]{s}**
 * **[Emma Marie | 153万| YTB](https://www.youtube.com/@EmmaMariesWorld/videos)**
   - [En: Hi!]{s}
   - [Cn: 你好！]{lb}
@@ -2523,7 +2523,7 @@
   - **[a GIRL WEEKEND in my life vlog: coffee, Anna Maria day trip, markets + sunsets | 我生命中的女孩周末视频日志：咖啡、安娜玛丽亚一日游、市场+日落](https://www.youtube.com/watch?v=p6ODDTaM990)**
 
 ---
-**[Tokyo Cheapos]{s]**
+**[Tokyo Cheapos]{s}**
 * **[Tokyo Cheapos | 12.7万 | YTB](https://www.youtube.com/@tokyocheapo)**
   - [En: Our website has almost a million readers every month, making it one of the most popular English language websites about Tokyo.]{s}
   - [Cn: 我们的网站每月有近一百万读者，是东京最受欢迎的英文网站之一。]{lb}
@@ -2549,7 +2549,7 @@
 
 ---
 ### 0012. Universe | 宇宙
-**[宇宙]{s]**
+**[宇宙]{s}**
 
 | 中文        | 英语                      | 使用场景  |
 | --------- | ----------------------- | ----- |
@@ -2559,7 +2559,7 @@
 | 苍天        | **the heavens**         | 古典、宗教 |
 
 ---
-**[NASA]{s]**
+**[NASA]{s}**
 * **[NASA | 1270万 | YTB](https://www.youtube.com/@NASA/featured)**
 
   - [En: NASA's mission is to pioneer the future in space exploration, scientific discovery, and aeronautics research.]{s}
@@ -2584,7 +2584,7 @@
 
 ---
 ### 0013. Books | YTB
-**[bestbookbits]{s]**
+**[bestbookbits]{s}**
 * **[bestbookbits  | 8.61万 | YTB](https://www.youtube.com/@BestBookBits/videos)**
   - [En: WORLD'S LARGEST FREE BOOK SUMMARY WEBSITE bestbookbits.com with over 1,000 free video, written and audio book summaries.]{s}
   - [Cn: 全球最大的免费书籍摘要网站 bestbookbits.com 拥有超过1000个免费视频、书面和有声书摘要。]{lb}
@@ -2601,7 +2601,7 @@
   - **[Secrets of the Wealthy Seminar | Robert Kiyosaki | 富裕研讨会的秘密 |罗伯特·清崎](https://www.youtube.com/watch?v=s0IV9EGtpx8)**
 
 ---
-**[Motivation Alchemists]{s]**
+**[Motivation Alchemists]{s}**
 * **[Motivation Alchemists | 2.28万 | YTB](https://www.youtube.com/@Motivation-Alchemists/videos)**
   - [En: Welcome to Motivation Alchemists, where we are dedicated to your personal development and success!]{s}
   - [Cn: 欢迎来到Motivation Alchemists，我们致力于您的个人发展与成功！]{lb}
@@ -2635,7 +2635,7 @@
 
 ---
 ### 0014. House
-**[Forlorn]{s]**
+**[Forlorn]{s}**
 * **[Forlorn | 影子是我唯一敢麻烦的同行者 | 二百章 | Douyin](https://v.douyin.com/3rpSVn56nQY/)**
   - [当美剧里的幸福小镇照进现实 | inmyfeelings](https://v.douyin.com/dtZdvS65Bro/)
   - [当美剧里的幸福小镇照进现实 | 美国 | 纽约 | inmyfeelings](https://v.douyin.com/wXLRO76doKo/)
@@ -2644,19 +2644,19 @@
 
 ---
 ### 0015. AI | 虚拟主播
-**[Neuro-sama]{s]**
+**[Neuro-sama]{s}**
 * **[Neuro-sama | neuro-sama (neurosama) the ai vtuber | Neuro-sama（Neurosama），AI 虚拟主播 | 88.9万 | YTB](https://www.youtube.com/@Neurosama/videos)**
   - [Testing Neuro's 3D Capabilities | 测试Neuro的3D功能](https://www.youtube.com/watch?v=MiF3JiVCwkk)
 
 ---
 ### 0016. Coding
-**[Visually Explained]{s]**
+**[Visually Explained]{s}**
 * **[Visually Explained | 直观地解释 | 9.54万 | YTB](https://www.youtube.com/@VisuallyExplainedEducation/videos)**
   - [Python Decorators - Visually Explained](https://www.youtube.com/watch?v=3tyaO-OE0K0)
 
 ---
 ### 0017. 学爸加加油
-**[学爸加加油]{s]**
+**[学爸加加油]{s}**
 * **[学爸加加油](https://xuebajiajiayou.com)**
   - [**英文科普，YTBYTB频道推荐(科普/教育/工程/奇趣/自然/手工等)**](https://xuebajiajiayou.com/english-science-popularization-youtube-channel/)
     **泛科普类**
@@ -2719,7 +2719,7 @@
       1. **LockDownLife**
 
 ---
-**[泛科普类]{s]**
+**[泛科普类]{s}**
 * **[Kurzgesagt – In a Nutshell | 2510万 | YTB](https://www.youtube.com/@kurzgesagt/videos)**
   - [En: Animation videos explaining things with optimistic nihilism since 12,013.]{s}
   - [Cn: 自12,013年以来，动画视频以乐观虚无主义的方式解释事物。]{lb}
@@ -2743,13 +2743,13 @@
   - [Why Earth Sucks Compared to the Planet Hestia](https://www.youtube.com/watch?v=8qQW4LTWgtc)
 
 ---
-**[Science Channel]{s]**
+**[Science Channel]{s}**
 * **[Science Channel | 530万 | YTB](https://www.youtube.com/@sciencechannel/videos)**
   - [En: Learn about outer space, leading scientific exploration, new technology, earth science basics, & more with science videos & news from Science Channel.]{s}
   - [Cn: 通过科学视频和新闻，了解外太空、领先的科学探索、新技术、地球科学基础等内容。]{lb}
 
 ---
-**[minutephysics]{s]**
+**[minutephysics]{s}**
 * **[minutephysics | 595万 | YTB](https://www.youtube.com/@MinutePhysics/videos)**
   - [En: Simply put: cool physics and other sweet science.]{s}
   - [Cn: 简单来说：很酷的物理学和其他精彩的科学。]{lb}
@@ -2768,7 +2768,7 @@
 
 ---
 ### 0018. 小道必可观(YTB)
-**[小道必可观(YTB)]{s]**
+**[小道必可观(YTB)]{s}**
 * **[小道必可观(YTB) | 关注我外网热门视频一网打尽，我的知识不够，你的评论来凑。| 千章 | Douyin](https://v.douyin.com/WdfoxIT8Wm4/)**
 
   ---
@@ -2783,7 +2783,7 @@
     - [日本酒鬼妹子初到北京，中国很危险？我在凌晨街头喝醉 YTB博主: @yukke_sakamura 粉丝数量: 109万 | 073](https://v.douyin.com/sqxzKjH8i9s/)
 
 ---
-**[Jessica Burbank]{s]**
+**[Jessica Burbank]{s}**
 * **[Jessica Burbank | 3.88万 | YTB](https://www.youtube.com/@JessicaBurbankShow/videos)**
   - Working class kid who spends her days fighting for better days. | 一个工人阶级的孩子，整天为更好的日子而战。
   - [China Is the Global It-Girl Now | 中国现在是全球的"潮人"](https://www.youtube.com/watch?v=hAM3QABIGFQ)
@@ -2799,13 +2799,13 @@
 * **[inayah | 30.1万 | YTB](https://www.youtube.com/@inayah0/videos)**
 
 ---
-**[Nischa]{s]**
+**[Nischa]{s}**
 * **[Nischa | 216万 | YTB](https://www.youtube.com/@nischa/videos)**
   - [En: I’m a former Investment Banker (with an accountancy qualification) and on this channel we explore all things personal finance, self development and business.]{s}
   - [Cn: 我曾是一名投资银行家（拥有会计学资格），在这个频道中我们探讨所有关于个人理财、自我发展和商业的话题。]{lb}
 
 ---
-**[pearlieee]{s]**
+**[pearlieee]{s}**
 * **[pearlieee | 60.8万 | YTB](https://www.youtube.com/@pearlieee/videos)**
   - [En: Hi, I'm Pearlieee!]{s}
   - [Cn: 嗨，我是Pearlieee！]{lb}
@@ -2823,7 +2823,7 @@
   - [Cn: 期待魔法、细腻、混乱......还有充满爱意的直率 x]{lb}
 
 ---
-**[BigDeal by Codie Sanchez]{s]**
+**[BigDeal by Codie Sanchez]{s}**
 * **[BigDeal by Codie Sanchez | 55.9万 | YTB](https://www.youtube.com/@PodcastBigDeal/videos)**
   - [En: 71% of you beautiful people aren’t subscribed -- please double check you're subbed, we are here to help you!]{s}
   - [Cn: 71%的美丽人士没有订阅——请再次确认你已订阅，我们随时准备帮助你！]{lb}
@@ -2857,13 +2857,13 @@
   - [Cn: 我们每天都在这里，痴迷于如何让你的生活变得更好。]{lb}
 
 ---
-**[Dwarkesh Patel]{s]**
+**[Dwarkesh Patel]{s}**
 * **[Dwarkesh Patel | 128万 | YTB](https://www.youtube.com/@DwarkeshPatel/videos)**
   - **[Jensen Huang – Will Nvidia’s moat persist | 黄仁森——英伟达的护城河会持续](https://www.youtube.com/watch?v=Hrbq66XqtCo)**
 
 ---
 ### 0020. 广告片
-**[Adobe Acrobat]{s]**
+**[Adobe Acrobat]{s}**
 * **[Adobe Acrobat | 5.51万 | YTB](https://www.youtube.com/@AdobeAcrobat/videos)**
   - [En: The PDF tools you trust, now enhanced with AI.]{s}
   - [Cn: 您信赖的PDF工具，现在已经过AI增强。]{lb}
@@ -2921,38 +2921,38 @@
 
 ---
 ### 0021. Travel the world
-**[National Geographic]{s]**
+**[National Geographic]{s}**
 * **[National Geographic | 2610万 | YTB](https://www.youtube.com/@NatGeo/videos)**
   - **[Antarctica: Home at the End of the Earth (Full Episode) | Incredible Animal Journeys | 南极：地球尽头的家（完整版）| 不可思议的动物之旅](https://www.youtube.com/watch?v=eS6a6btDK8M)**
 
 ---
-**[Dots on a Map]{s]**
+**[Dots on a Map]{s}**
 * **[Dots on a Map | 19.1万 | YTB](https://www.youtube.com/@DotsonaMap/videos)**
   - **[TRAVELING TO ANTARCTICA](https://www.youtube.com/watch?v=RhVN3COuXdQ)**
 
 ---
-**[Best Travel]{s]**
+**[Best Travel]{s}**
 * **[Best Travel | 6.55万 | YTB](https://www.youtube.com/@BestTravel2/videos)**
   - **[Living in the Philippines | How People Live Across 7,000 Islands | 4K ](https://www.youtube.com/watch?v=0gB1P1g5IwE)**
 
 ---
-**[Where on Earth]{s]**
+**[Where on Earth]{s}**
 * **[Where on Earth | 2.05万 | YTB](https://www.youtube.com/@WhereonEarth4K/videos)**
   - **[BALI: The Real Indonesia Most Tourists Never Find | 4K Travel Documentary | 巴厘岛：大多数游客永远找不到的真实印度尼西亚 |4K旅行纪录片](https://www.youtube.com/watch?v=12AI0Mg-Ajo)**
 
 ---
-**[Allison Anderson]{s]**
+**[Allison Anderson]{s}**
 * **[Allison Anderson | 106万 | YTB](https://www.youtube.com/@allisonanderson/videos)**
 
   ---
-  **[Personal website]{s]**
+  **[Personal website]{s}**
     - **[Personal website](https://allisonanderson.com/)**
 
   - **[My Solo Trip to Antarctica](https://www.youtube.com/watch?v=EDap9qxb96k)**
 
 ---
 ### 0022. 英语超级屋
-**[英语超级屋]{s]**
+**[英语超级屋]{s}**
 * **[英语超级屋 | 感受世界，感受人文，遇见这个世界上美好的人和事 学好英语，感受语言，遇见这个时间里最好的自己... | 三百章 | Douyin](https://v.douyin.com/JLRyWueVrOE/)**
   - [语言的边界, 就是世界的边界 --- 维特根斯坦]{s}
   - [张同完 | 韩国 | **YTB: _100ls**  | wan只用一部动画，重复100遍，做到年赚200万刀 谁说学好英语赚不到钱](https://v.douyin.com/dE8eIkNzQ28/)
@@ -3015,7 +3015,7 @@
     - [韩国小姐姐辞职后全职自媒体如何一步步做起来FROM：博主Jumy | 020](https://v.douyin.com/WsM9_OKyQNc/)
 
   ---
-  **[005. 超级英语 | 进阶篇]{s]**
+  **[005. 超级英语 | 进阶篇]{s}**
     - [Min: 01:36:39 | 001](https://v.douyin.com/f5jUljVit90/)
     - [Min: 01:20:20 | 014](https://v.douyin.com/U8fwqtzPaJ8/)
     - [Min: 15:14 | 024](https://v.douyin.com/56JvBLXJZHY/)
@@ -3061,7 +3061,7 @@
 * **[Easy English With Cat | easy.english.with701 | Titok](https://www.tiktok.com/@easy.english.with701)**
 
 ---
-**[English by Jay - Sprout]{s]**
+**[English by Jay - Sprout]{s}**
 * **[English by Jay - Sprout | 49.1万 | YTB](https://www.youtube.com/@englishbyjay.official/videos)**
   - [En: Speak with Jay-i on Sprout 🌱 Immerse yourself in English to become fluent.]{s}
   - [Cn: 在Sprout 🌱上与Jay-i对话，沉浸在英语中，变得流利.]{lb}
@@ -3073,7 +3073,7 @@
 * **[Massi's World | tiktok](https://www.tiktok.com/@massiworld1)**
 
 ---
-**[Learn English with Bob the Canadian]{s]**
+**[Learn English with Bob the Canadian]{s}**
 * **[Learn English with Bob the Canadian | 251万 | YTB](https://www.youtube.com/@LearnEnglishwithBobtheCanadian/videos)**
   - [How to Remember New English Vocabulary](https://www.youtube.com/watch?v=NaXrzSjsMdI)
 
@@ -3083,18 +3083,18 @@
   - [20分鐘一次學會！問路、交通、購物🛍️等獨旅英文](https://www.youtube.com/watch?v=CNg2645n-AE)
 
 ---
-**[English At The Ready]{s]**
+**[English At The Ready]{s}**
 * **[English At The Ready | 79.5万 | YTB](https://www.youtube.com/@englishattheready/videos)**
 * **[englishattheready](https://www.englishattheready.com/start)**
 
 ---
-**[Volka English]{s]**
+**[Volka English]{s}**
 * **[Volka English | 117万 | YTB](https://www.youtube.com/@VolkaEnglish/videos)**
   - [Learn English in Nature With My Mom | Comprehensible Input Vlog](https://www.youtube.com/watch?v=9ledjiOXnvo)
 
 ---
 ### 0023. TEco Lab
-**[TEco Lab]{s]**
+**[TEco Lab]{s}**
 * **[TEco Lab](https://www.teco-lab.com/)**
 
 ---
@@ -3106,12 +3106,12 @@
 * **[Kina's English self-study Room]()**
 
 ---
-**[Alanna & Ivor]{s]**
+**[Alanna & Ivor]{s}**
 * **[Alanna & Ivor | YTB | 195万](https://www.youtube.com/@AlannaandIvor/videos)**
   - [Furniture Shopping for the new house](https://www.youtube.com/watch?v=toy0Tdrk3Ok)
 
 ---
-**[Zhirelle]{s]**
+**[Zhirelle]{s}**
 * **[Zhirelle | YTB | 127万](https://www.youtube.com/@Zhirelle/videos)**
   - [ultimate PREP & PACK for traveling! | essentials, shopping, packing tips, aesthetic travel days](https://www.youtube.com/watch?v=X7OcpUyHQUg)
 
@@ -3201,10 +3201,10 @@
 * **[The Balance Theory Podcast | 高阶 | 26.3万 | YTB](https://www.youtube.com/@thebalancetheorypodcast)**
 
 ---
-**[The Diary Of A CEO]{s]**
+**[The Diary Of A CEO]{s}**
 * **[The Diary Of A CEO | 高阶 | 嘉宾行业大牛，内容知识含金量超高。主持人英国人 | 19M |  YTB](https://www.youtube.com/@TheDiaryOfACEO)**
 
-**[The Diary Of A CEO Clips]{s]**
+**[The Diary Of A CEO Clips]{s}**
 * **[The Diary Of A CEO Clips | 精品节选 | 2.58M | YTB](https://www.youtube.com/@TheDiaryOfACEOClips/videos)**
 
 ---
@@ -3216,7 +3216,7 @@
 * **[Miki Rai | 142万 | YTB](https://www.youtube.com/@mikirai/videos)**
 
 ---
-**[NASA]{s]**
+**[NASA]{s}**
 * **[NASA | 1270万 | YTB](https://www.youtube.com/@NASA/featured)**
 
 ---

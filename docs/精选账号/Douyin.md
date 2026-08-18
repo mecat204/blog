@@ -1003,6 +1003,60 @@
     - [分享我的生活日常，做了一只钩织小马，我的日常很简单，但觉得很充实，你们平时宅家里都会做什么呢 | Min: 11:31 | 008](https://v.douyin.com/IDIlo_6wXhc/)
 
 ---
+### 0010. 传统文化
+**[意公子]{e}**
+* **[意公子 | 把中華五千年文化長河裡，那些打動我們的人事物，帶進當下人們的生活。| 37.3万 | Youtube](https://www.youtube.com/@EYart-yigongzi)**
+  - [歸有光「項脊軒志」：你記憶中的老家，是什麽樣子的？【意公子重讀語文課本】](https://www.youtube.com/watch?v=CMy6AB7lIaQ)
+  - [歸有光的〈項脊軒志〉：幸福如何深邃？](https://readc.info/teaching-material/xiangji-xuanzhi-of-gui-youguang/)
+  - [readc.info](https://readc.info/)
+  - [李白沒有找到司馬承禎，但重讀李白，我找到了「看见」的力量。【意公子講李白】](https://www.youtube.com/watch?v=d5uewDmZu3I)
+
+* **[意公子 | 中华文化，滋养身心 | 伍百章 | Douyin](https://v.douyin.com/4VgiDjCkrno/)**
+  - [你印象中的曹操是什么样的？你觉得他是英雄还是奸雄？意公子讲三国 | 曹操 | 大有学问| 在抖音重新读懂了当年课本 | 文脉里的中国](https://v.douyin.com/Sv2eEvhgOZU/)
+  - [我们都知道孙悟空是《西游记》里的大英雄，却鲜少有人知道，只有在菩提老祖这里，齐天大圣孙悟空，才是最需要疼爱的徒儿。大有学问 | 人文星闪耀计划 | 在抖音探索文学之美](https://v.douyin.com/fIG-oDU37S8/)
+  - [苏东坡给自己做了一生的注脚："问汝平生功业，黄州惠州儋州。" 苏东坡式自嘲 | 意公子大话苏东坡 | 知识出游计划](https://v.douyin.com/65QRB4-A3cE/)
+
+  ---
+  **[001. 意公子讲庄子]{g}**
+    - [人生是一场感受的游戏 | 001](https://v.douyin.com/iOWK0DHD_iY/)
+    - [一段真正好的关系，是敢于"冲突"的。| 047](https://v.douyin.com/fymj8M3bmro/)
+
+---
+**[都靓读书]{e}**
+* **[都靓 | 3.63K | Youtube](https://www.youtube.com/@duliangdushu/videos)**
+  - [En: 阅读是一件最重要的小事。听都靓，讲述中华之美。]{s}
+  - [Cn: Beauty of China, Presented by DuLiang]{g}
+
+* **[都靓读书 | 阅读是一件最重要的小事 | 千章 | Douyin](https://v.douyin.com/z4aLtYzUY2E/)**
+  - [中文里每一个词都不是滥竽充数的](https://v.douyin.com/8EuHNH5Ihhw/)
+  - [卧龙凤雏什么时候成了贬义词？其实网络热梗扭曲挤压了成语的使用空间。我们的成语有多博大精深？| 网络热梗 | 成语 | 历史 | 阅读](https://v.douyin.com/E9SCy1lVwoY/)
+  - [每一次碰杯的声音，都是献给自己的祝酒词。七夕 | 敬自己](https://v.douyin.com/o_JI7HSjPds/)
+  - [给我10个数的时间！带你领略那些你应该知道一点儿 的中国文化常识。传统文化 | 知识分享](https://v.douyin.com/5n_h8vS1mHU/)
+  - [2026年怎么更好地爱自己？这个视频请耐心看完。# 爱自己 - 《好的自己》- 陈果](https://v.douyin.com/LgD8k4JSklw/)
+  - [喜迎新年，一口气读懂中国的马。**骑骥驰骋**](https://v.douyin.com/M4e3VxqM7tE/)
+  - [你心中哪个省份，最能概括中国？安徽或许就是答案。这里，也是最"皖"美的中国。安徽 | 文脉里的中国 | 安徽人](https://v.douyin.com/RtHkogFsY98/)
+  - [国外很多影视ip原型都源自山海经，靠山海经赚得盆满钵满，如果我们自己都不加以挖掘山海经，岂不是愧对这部上古奇书！| 观山海](https://v.douyin.com/NWkl7exrLBQ/)
+
+---
+**[Li Yichun · 李意纯]{e}**
+* **[李意纯 | 一名正能量连续剧原创作者 |  1.62K | YTB](https://www.youtube.com/channel/UC1qvIDdUAbugTau59GDDHyw)**
+
+* **[李意纯 | 我与我周旋久，宁作我。| 五十章 | Douyin](https://v.douyin.com/tNKUq5A251Y/)**
+  - [风吹鼍鼓山河动，电闪旌旗日月高](https://v.douyin.com/oUP6830kAF0/)
+  - [台北故宫博物院里的珍珠帽制作技艺 | 非遗守护人](https://v.douyin.com/VTwEYlX0j6o/)
+  - [冰染直裾袍，是魏晋名士乘风归去的仙梦。| 非遗守护人](https://v.douyin.com/p24A-1xPhz0/)
+
+**[李子柒·传统文化]{e}**
+* **[李子柒 | 李家有女，人称子柒。| 千章 | Douyin](https://v.douyin.com/UzDy7CInEV4/)**
+  - [全民晒书](https://v.douyin.com/eQdZJKucKok/)
+  - [玫瑰豌豆黄 据《中国历代御膳大观》记载，豌豆糕在清初传入北京，经改良制作改名叫豌豆黄，成燕京著名小吃，于是有了“从来食物属燕京，豌豆黄儿久著名，红枣都嵌金居里，十文一块买黄琼”之说。]{g}
+
+**[唐吵栗子·传统文化]{e}**
+* **[唐吵栗子 | 每个瞬间都值得记录 | 叁佰章](https://v.douyin.com/XxIOuw0wgUY/)**
+  - [陶艺](https://v.douyin.com/X7c2hsppoGc/)
+  - [我是个老派的人 喜欢喝茶，喜欢发呆，喜欢安静的事物，喜欢山川河流，喜欢花草树木，喜欢细水长流的一切。]{g}
+
+---
 ### 0011. 直播
 **[秋言☄︎]{e}**
 * **[秋言☄︎ | 新入坑原神的一个聪明小萌新🎁 每天早上10点-14点直播 | GenshinImpact | Douyin](https://v.douyin.com/2eNDaWrMaeU/)**

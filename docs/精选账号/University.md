@@ -4,7 +4,7 @@
 
 ---
 **[Google]{s}**
-* **[Google |  1390万 | YTB](https://www.youtube.com/@Google)**
+* **[Google |  14.5M | YTB](https://www.youtube.com/@Google)**
   - **[Operation Aurora | HACKING GOOGLE | Documentary EP000](https://www.youtube.com/watch?v=przDcQe6n5o)**
 
 ---
@@ -36,7 +36,7 @@
 ---
 ### 0002. MIT· 麻省理工学院
 **[Massachusetts Institute of Technology (MIT) · 麻省理工学院]{s}**
-* **[MIT | 97.3万 | YTB](https://www.youtube.com/@mit/videos)**
+* **[MIT | 976K | YTB](https://www.youtube.com/@mit/videos)**
 
   ---
   **[麻省理工学院]{g}**
@@ -57,7 +57,7 @@
 ---
 ### 0003. New York University
 **[New York University]{s}**
-* **[New York University | 11.8万 | YTB](https://www.youtube.com/@newyorkuniversity/videos)**
+* **[New York University | 119K | YTB](https://www.youtube.com/@newyorkuniversity/videos)**
   - [NYU's 2022 Commencement Speaker Taylor Swift](https://www.youtube.com/watch?v=OBG50aoUwlI)
 
   ---
@@ -67,7 +67,7 @@
 ---
 ### 0004. Harvard Unviersity
 **[Harvard Unviersity]{s}**
-* **[Harvard University | 284万 | YTB](https://www.youtube.com/@harvard/videos)**
+* **[Harvard University | 2.86M | YTB](https://www.youtube.com/@harvard/videos)**
   - [Oprah Winfrey Harvard Commencement speech | Harvard Commencement 2013](https://www.youtube.com/watch?v=GMWFieBGR7c)
   - [Harvard Thinking: The secret lives of super-agers](https://www.youtube.com/watch?v=P7-nshMUJms)
   - [瑞思Ruisi](https://v.douyin.com/gN7MH_3RrAs/)
@@ -104,7 +104,7 @@
 ---
 ### 0005. Stanford·斯坦福大学
 **[Stanford]{s}**
-* **[Stanford | 218万 | YTB](https://www.youtube.com/@stanford/videos)**
+* **[Stanford | 2.2M | YTB](https://www.youtube.com/@stanford/videos)**
   - [Steve Jobs' 2005 Stanford Commencement Address](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
 
   **[斯坦福大学]{g}**
@@ -113,7 +113,7 @@
 ---
 ### 0006. Cambridge·剑桥大学
 **[Cambridge]{s}**
-* **[Cambridge | 54.5万 | YTB](https://www.youtube.com/@cambridgeuniversity/videos)**
+* **[Cambridge | 551K | YTB](https://www.youtube.com/@cambridgeuniversity/videos)**
   - [The future of Novels and Generative AI](https://www.youtube.com/watch?v=P3kDEfIYSBU)
   - [Wildfires and heatwaves: Dr Kim van Daalen on public health impact](https://www.youtube.com/watch?v=pd5deeD3t9U)
 
