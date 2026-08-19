@@ -478,7 +478,7 @@
     - [凡人修仙传180集 | 180](https://v.douyin.com/081UC1zoFb0/)
 
 ---
-**[潇子萱]{e}**
+**[潇子萱·道友]{e}**
 * **[潇子萱 | 喜欢聊天交流的可加入我的粉丝群 只爱《凡人修仙传》| 贰佰章 | Douyin](https://v.douyin.com/CQG7uELW2ug/)**
 
   ---
@@ -486,6 +486,11 @@
     - [韩立与南宫婉正式见面太有趣了 | 001](https://v.douyin.com/laIOnrSEeyA/)
     - [凡人181集预告燃炸了 | 008](https://v.douyin.com/-DZWUKUG2cM/)
     - [为什么现在的韩立那么爱用神识威压](https://v.douyin.com/hj1-k2yT1bU/)
+
+---
+**[贝桑ovo·道友]{e}**
+* **[贝桑ovo | 生活系凡人博主 感谢道友们的喜欢 道友：@贝桑 | 佰章](https://v.douyin.com/GfVuyQpyf6M/)**
+  - [贝桑ovo·道友 | 极妙幻境·凡人修仙传](https://v.douyin.com/-YygN3oj1-E/)
 
 ---
 **[东山Alian]{s}**
@@ -1003,9 +1008,14 @@
     - [分享我的生活日常，做了一只钩织小马，我的日常很简单，但觉得很充实，你们平时宅家里都会做什么呢 | Min: 11:31 | 008](https://v.douyin.com/IDIlo_6wXhc/)
 
 ---
+**[咕咕嘎嘎也太可爱了]{s}**
+* **[咕咕嘎嘎也太可爱了 | IGC丨动画 · 游戏 · 终末地 | 叁佰章 | Douyin](https://v.douyin.com/YF0J9T_-t1I/)**
+  - [咕嘎：对不住了老登](https://v.douyin.com/mCKpzNrR1HU/)
+
+---
 ### 0010. 传统文化
 **[意公子]{e}**
-* **[意公子 | 把中華五千年文化長河裡，那些打動我們的人事物，帶進當下人們的生活。| 37.3万 | Youtube](https://www.youtube.com/@EYart-yigongzi)**
+* **[意公子 | 把中華五千年文化長河裡，那些打動我們的人事物，帶進當下人們的生活。| 372K | Youtube](https://www.youtube.com/@EYart-yigongzi)**
   - [歸有光「項脊軒志」：你記憶中的老家，是什麽樣子的？【意公子重讀語文課本】](https://www.youtube.com/watch?v=CMy6AB7lIaQ)
   - [歸有光的〈項脊軒志〉：幸福如何深邃？](https://readc.info/teaching-material/xiangji-xuanzhi-of-gui-youguang/)
   - [readc.info](https://readc.info/)
@@ -1046,15 +1056,42 @@
   - [台北故宫博物院里的珍珠帽制作技艺 | 非遗守护人](https://v.douyin.com/VTwEYlX0j6o/)
   - [冰染直裾袍，是魏晋名士乘风归去的仙梦。| 非遗守护人](https://v.douyin.com/p24A-1xPhz0/)
 
+---
 **[李子柒·传统文化]{e}**
 * **[李子柒 | 李家有女，人称子柒。| 千章 | Douyin](https://v.douyin.com/UzDy7CInEV4/)**
   - [全民晒书](https://v.douyin.com/eQdZJKucKok/)
   - [玫瑰豌豆黄 据《中国历代御膳大观》记载，豌豆糕在清初传入北京，经改良制作改名叫豌豆黄，成燕京著名小吃，于是有了“从来食物属燕京，豌豆黄儿久著名，红枣都嵌金居里，十文一块买黄琼”之说。]{g}
 
+---
 **[唐吵栗子·传统文化]{e}**
 * **[唐吵栗子 | 每个瞬间都值得记录 | 叁佰章](https://v.douyin.com/XxIOuw0wgUY/)**
   - [陶艺](https://v.douyin.com/X7c2hsppoGc/)
   - [我是个老派的人 喜欢喝茶，喜欢发呆，喜欢安静的事物，喜欢山川河流，喜欢花草树木，喜欢细水长流的一切。]{g}
+
+---
+### 0010. 4K景色
+**[Relaxation Film]{s}**
+* **[Relaxation Film | 五十章  | 4K | Douyin](https://v.douyin.com/17pgl3YprfA/)**
+  - [【4K 奥地利-哈尔施塔特】俯瞰恬静奥地利小镇，湖景峡湾宁静怡然   ](https://v.douyin.com/fUD3TSTWrkQ/)
+
+---
+### 0010. 甜屿·龙猫
+**[甜屿·龙猫]{s}**
+* **[甜屿 | 治愈动画 感谢喜欢 | 千章 | Douyin](https://v.douyin.com/nUuctrxZwBE/)**
+
+  ---
+  **[001. 龙猫的日常]{g}**
+    - [今天是9月的最后一天啦 那就祝你恭喜发财 少些辛苦多些幸福 人有时运 花有花期 接下来的日子你一定会越来越好的哦 | 001](https://v.douyin.com/1dpw0KNhzL8/)
+
+
+    - [让人平静的日子就是好日子. | 010](https://v.douyin.com/GCpv_C9fS5A/)
+    - [Music: 悲伤]{lb}
+
+    ---
+    - [生活无需那么拥挤，把平淡琐碎的日子过成自己喜欢的样子，一半烟火，一半诗意。 | 020](https://v.douyin.com/J6haDuIkMhM/)
+
+    ---
+    - [人最好的状态是销声匿迹，除了赚钱，不需要太多社交。安静、独处、免打扰 、享受生活。| 026](https://v.douyin.com/11h8w3Ez448/)
 
 ---
 ### 0011. 直播

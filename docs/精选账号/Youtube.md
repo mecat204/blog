@@ -4,20 +4,21 @@
 
 ---
 **[Google]{s}**
-* **[Google |  1390万 | YTB](https://www.youtube.com/@Google)**
+* **[Google |  14.5M | YTB](https://www.youtube.com/@Google)**
   - **[Operation Aurora | HACKING GOOGLE | Documentary EP000](https://www.youtube.com/watch?v=przDcQe6n5o)**
 
 ---
 **[EngLearner]{s}**
 * **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
 
+---
 **[Trancy]{s}**
 * **[trancy](https://learn.trancy.org/home)**
 
 ---
 ### 0001. Digital Spaghetti
 **[Digital Spaghetti]{s}**
-* **[Digital Spaghetti | YTB](https://www.youtube.com/@digspaghetti/featured)**
+* **[Digital Spaghetti | 240K subscribers | YTB](https://www.youtube.com/@digspaghetti/featured)**
   - **[How Isabel Paige Crafts a Larger-than-Life Fairytale](https://www.youtube.com/watch?v=vlQ6QVF2wBk)**
   - **[Natalie Lynn Makes Cinematic Videos that Feel Like Journal Entries](https://www.youtube.com/watch?v=T1Mf8j44kIk)**
   - **[What It Means to be the Chief Creative Officer for Rhett & Link](https://www.youtube.com/watch?v=Go9c4I9cG_U)**
@@ -27,30 +28,32 @@
 
 ---
 **[Isabel Paige]{e}**
-* **[Isabel Paige | 95万 |  YTB](https://www.youtube.com/@isabel_paige)**
+* **[Isabel Paige | 955K |  YTB](https://www.youtube.com/@isabel_paige)**
   - **[The Hardest Days of Winter](https://www.youtube.com/watch?v=jNqhUIYZM8Q)**
   - **[Buried in Snow…Winter In The Mountains](https://www.youtube.com/watch?v=E_TEf57zBWQ)**
   - **[How Isabel Paige Crafts a Larger-than-Life Fairytale](https://www.youtube.com/watch?v=vlQ6QVF2wBk)**
 
 * **[Tiny Pantry](https://isabelpaige.com/)**
 
-* **[VENQUEN的英语日记 | 二百章 | Douyin](https://v.douyin.com/lGerZrVjzQs/)**
+* **[VENQUEN的英语日记 | 叁佰章 | Douyin](https://v.douyin.com/lGerZrVjzQs/)**
   - [学习是方向，世界是目的地！Follow along！ 飞向未知，直面恐惧 旧金山的酸面包，藏着冒险的滋味 独处的时光，发现真实的自己 大桥下的夕阳，点燃成长的勇气 | Isabel Paige](https://v.douyin.com/ACS0U3zIC54/)
   - [雪花轻吻山巅，咖啡暖手 炉火旁，冬日的仙境悄然绽放 踏雪觅果，阳光洒落心间 这十一月的清晨，藏着治愈的温柔](https://v.douyin.com/PokajBVenxU/)
 
 ---
 **[Natalie Lynn]{e}**
-* **[Natalie Lynn | making movies out of my life experiences | YTB](https://www.youtube.com/@nataliexlynn/videos)**
+* **[Natalie Lynn | making movies out of my life experiences | 863K subscribers | YTB](https://www.youtube.com/@nataliexlynn/videos)**
+  - [I Was Free In This Moment.](https://www.youtube.com/watch?v=XLItXCpBJvQ)
 
 ---
 **[Life Of Riza]{e}**
-* **[Life Of Riza | 中阶 | Life lessons | 104万 | YTB](https://www.youtube.com/@LifeOfRiza)**
+* **[Life Of Riza | 中阶 | Life lessons | 1.05M subscribers | YTB](https://www.youtube.com/@LifeOfRiza)**
   - [For those feeling behind in life](https://www.youtube.com/watch?v=4M6Ykqw26TI)
 
 ---
 ### 0002. Chinese Vlog
 **[李子柒 Liziqi]{e}**
-* **[李子柒 Liziqi | 2970万 | YTB](https://www.youtube.com/@cnliziqi)**
+* **[李子柒 Liziqi | 32.8M subscribers | YTB](https://www.youtube.com/@cnliziqi)**
+
   - [这里是李子柒YouTube官方频道哦]{s}
   - [Please  subscribe to 【李子柒 Liziqi 】Liziqi Channel on YouTube if you like my videos]{lb}
 
@@ -66,7 +69,7 @@
 
 ---
 **[敢敢烧琉璃]{e}**
-* **[敢敢烧琉璃 | 859位 | YTB](https://www.youtube.com/@NB345/videos)**
+* **[敢敢烧琉璃 | 1.09K subscribers | YTB](https://www.youtube.com/@NB345/videos)**
   - [baby别叫我达芬奇](https://www.youtube.com/watch?v=K410JXv6iK4)
 
 * **[敢敢烧琉璃 | 已经在跟老师学习新的手艺啦～希望大家天天开心 | 五百章 | Douyin](https://v.douyin.com/slNExV4ogek/)**
@@ -81,7 +84,7 @@
 
 ---
 **[都靓]{e}**
-* **[都靓 | 2250位 | YTB](https://www.youtube.com/@duliangdushu/videos)**
+* **[都靓 | 3.63K subscribers | YTB](https://www.youtube.com/@duliangdushu/videos)**
   - [阅读是一件最重要的小事。听都靓，讲述中华之美。]{s}
   - [Beauty of China, Presented by DuLiang]{lb}
 
@@ -98,7 +101,7 @@
 
 ---
 **[小美是个野孩纸]{e}**
-* **[小美是个野孩纸 | 1990位 | YTB](https://www.youtube.com/@xiaomei_ski/videos)**
+* **[小美是个野孩纸 | 2.05K subscribers | YTB](https://www.youtube.com/@xiaomeiski/videos)**
     - [【小美是个野孩子】 燃起来了！！一镜到底！是滑雪快还是骑摩托快？新疆阿勒泰三月的雪竟然这么好？](https://www.youtube.com/watch?v=baBhMPsgZUs&list=PLRLm2P7GB6et_Ac7WEIg7-PFZuHp1-IEQ)
 
 * **[小美是个野孩纸 | 千章 | Douyin](https://v.douyin.com/2Yecf8ejux8/)**
@@ -112,7 +115,7 @@
 * **[奶思兔咪鱿 | Nice to meet you | 五百章 | Douyin](https://v.douyin.com/yF1WG9-otuc/)**
   - [儿时不解 大人为何拼尽全力依然清贫 长大才知 光是活着养家便已是多数人的极限](https://v.douyin.com/shTHN-zbKIY/)
 
-* **[奶思兔 | 8位 | YTB](https://www.youtube.com/@rabbitTwo23/shorts)**
+* **[奶思兔 | 7 subscribers | YTB](https://www.youtube.com/@rabbitTwo23/shorts)**
   - [今天吃西红柿炒鸡蛋](https://www.youtube.com/shorts/T0rFyyKiZBY)
 
 * **[鱿子 | 祝大家天天开心 |  百章 | Douyin](https://v.douyin.com/v4cURCRwMU4/)**
@@ -123,12 +126,12 @@
 * **[傻白呀 | To see a bigger world | 千章 | Douyin](https://v.douyin.com/-pcXaJmmjN0/)**
   - [时间会把所有苦难变成笑谈，所以请一定保住狗命，去见证更精彩的世界 | 反焦虑 | 人生感悟 | 岩中花述](https://v.douyin.com/K0wrmNGOGRM/)
 
-* **[傻白在美国 | 5300位 | 傻白想带您看一个更大的世界 | 可傻可精，静若呆鸭，动如深井冰 |  YTB](https://www.youtube.com/@ShabaiU.S./videos)**
+* **[傻白在美国 | 5.35K subscribers | 傻白想带您看一个更大的世界 | 可傻可精，静若呆鸭，动如深井冰 |  YTB](https://www.youtube.com/@ShabaiU.S./videos)**
   - [介绍一种致命的顶级吸引力](https://www.youtube.com/watch?v=9cn2ID9rKJA)
 
 ---
 **[木子AI研究所]{s}**
-* **[木子AI研究所 | 21.8万 | YTB](https://www.youtube.com/@muziailab/videos)**
+* **[木子AI研究所 | 229K subscribers | YTB](https://www.youtube.com/@muziailab/videos)**
   - 擁有多年互聯網行業工作經驗，短視頻自媒體賬號孵化者。
   - 在這裏，我會與大家分享如何利用AI工具打造個人IP，將AI應用於各個行業。無論你是對AI充滿好奇，還是懷揣創業夢想，本頻道都將為你提供有價值的信息和實用的技巧。
   - 我的郵箱: muziailab@gmail.com
@@ -138,7 +141,7 @@
 
 ---
 **[Summer Hailstones 夏冰雹]{e}**
-* **[Summer Hailstones 夏冰雹 | 12.4万 | YTB](https://www.youtube.com/@SummerHailstones)**
+* **[Summer Hailstones 夏冰雹 | 128K subscribers | YTB](https://www.youtube.com/@SummerHailstones)**
     - [拖延、焦虑、没动力？《DOSE 效应》神经科学方法，帮你养成高能量体质｜冰雹讲书｜英文原版](https://www.youtube.com/watch?v=X4hwczXIhbQ)
 
 * **[夏冰雹频道 | 英语教育博主 专注英文教学五年 听力口语阅读理解好评如潮 | 书籍: 绽放作者 | 激发年轻人挖掘热爱与潜能, 活出想要的人生 | 千章 | Douyin](https://v.douyin.com/suT9hTmBYss/)**
@@ -155,7 +158,8 @@
 
 ---
 **[江寻千_九月]{e}**
-* **[江寻千_九月 | 3310 | YTB](https://www.youtube.com/@JYjiuyue)**
+* **[江寻千_九月 | 3.48K subscribers | YTB](https://www.youtube.com/@JYjiuyue)**
+
   - [En: The smell of fireworks in the world is the most soothing to the hearts of ordinary people!]{s}
   - [Cn: 世界上烟花的气味是最能抚慰普通人心灵的！]{lb}
 
@@ -179,13 +183,14 @@
   - [长春冰雪世界 - 冰龙](https://v.douyin.com/7m9XdKFZU6c/)
   - [一千万粉丝了，今天带你们去看曾经最极致的浪漫，千年绝技 - 打铁花](https://v.douyin.com/rHdjP99rVo0/)
 
+---
 **[山肆十四]{s}**
 * **[山肆十四 | 会一直折腾  谢谢观看 | 百章 | Douyin](https://v.douyin.com/xu9aAeeaEoY/)**
   - [大部分时候我们的不快乐，不是因为得不到，而是拥有的太多。| **旅行vlog** | **交换世界计划** | **做拓路者越万重山**](https://v.douyin.com/kSotN4KDXNM/)
 
 ---
-**[高高Lindsey]{e}**
-* **[高高Lindsey | 北京外国语大学英语口译硕士｜Polyglot | "语言的边界就是你世界的边界" | 5.5万 | YTB](https://www.youtube.com/@lindseylingo/videos)**
+**[LindseyLingo]{e}**
+* **[LindseyLingo | 北京外国语大学英语口译硕士｜Polyglot | "语言的边界就是你世界的边界" | 5.5万 | YTB](https://www.youtube.com/@lindseylingo/videos)**
   - [AI Can Speak English Better Than You](https://www.youtube.com/watch?v=nILMlkHiVdM)
 
 * **[高高Lindsey | 语言的极限就是我世界的极限 | 北外口译硕士 | 4K |  百章 | Douyin](https://v.douyin.com/Km65NtSiWqA/)**
@@ -196,22 +201,26 @@
 
 ---
 **[ElenaLin_青青]{e}**
-* **[ElenaLin_青青 | 46.1万| YTB](https://www.youtube.com/@ElenaLin)**
+* **[ElenaLin_青青 | 460K subscribers | YTB](https://www.youtube.com/@ElenaLin)**
 
 ---
 **[英语能力突破]{s}**
-* **[英语能力突破 | YTB](https://www.youtube.com/@stars2046/playlists)**
+* **[英语能力突破 | 2.79K subscribers | YTB](https://www.youtube.com/@stars2046/playlists)**
   - **[何纲·英语能力突破_100个句子记完7000个雅思单词](https://www.youtube.com/watch?v=lob44iOFNYE&list=PLH8j2mKj10K1G7XjDvaG2hMXwNv36CioN)**
 
 ---
 **[熊熊英语]{s}**
-* **[熊熊英语 | YTB](https://www.youtube.com/@OneHourListen/videos)**
-* **[听一小时英语 (熊熊英语)](https://www.onehourlisten.com/)**
+* **[熊熊英语 | 28.4K subscribers | YTB](https://www.youtube.com/@OneHourListen/videos)**
+
+  ---
+  **[听一小时英语 (熊熊英语)]{g}**
+    - [听一小时英语 (熊熊英语)](https://www.onehourlisten.com/)
 
 ---
 ### 0003. Life Vlog
 **[studytee]{s}**
-* **[studytee | 117万 | YTB](https://www.youtube.com/@studytee/videos)**
+* **[studytee | 1.16M subscribers | YTB](https://www.youtube.com/@studytee/videos)**
+
   - [En: My name is Therese, and I'm a Norwegian 3rd year university student in applied mathematics!]{s}
   - [Cn: 我叫特蕾丝，是一名挪威应用数学三年级的学生！]{lb}
 
@@ -224,7 +233,7 @@
 
 ---
 **[Celine]{s}**
-* **[Celine | Let’s study together! I make study with me videos so our studying is less lonely. Keep working hard! | 20.4万 | YTB](https://www.youtube.com/@celinestudy/videos)**
+* **[Celine | Let’s study together! I make study with me videos so our studying is less lonely. Keep working hard! | 218K subscribers | YTB](https://www.youtube.com/@celinestudy/videos)**
   - [4-HOUR STUDY WITH ME 🌧️ Deep Focus on a Rainy Night | 🎧 Focus Music | Pomodoro 50/10](https://www.youtube.com/watch?v=a3gI2SBQaqM)
 
 ---
@@ -232,9 +241,13 @@
 * **[Cav和Rose | 二百章 | Douyin](https://v.douyin.com/uMQ0Bw2LjsU/)**
   - [大家都在问我是怎么获得中国五星卡的? 中国五星卡 | 2026我的新春vlog](https://v.douyin.com/Ozn12rzT8Xs/)
 
+**[BeeRose in China]{e}**
+* **[BeeRose in China | 76.9K subscribers | YTB](https://www.youtube.com/@beeroseinchina/videos)**
+
 ---
 **[English Fluency Journey]{e}**
-* **[English Fluency Journey | 223万 | YTB](https://www.youtube.com/@EnglishFluencyJourney)**
+* **[English Fluency Journey | 2.23M subscribers | YTB](https://www.youtube.com/@EnglishFluencyJourney)**
+
   - [En: I’m Anna and welcome to my channel.]{s}
   - [Cn: 我是安娜，欢迎来到我的频道。]{lb}
 
@@ -266,7 +279,7 @@
 
 ---
 **[Jonna Jinton·瑞典]{e}**
-* **[Jonna Jinton | 526万 | 瑞典 | YTB](https://www.youtube.com/@jonnajinton)**
+* **[Jonna Jinton | 5.25M subscribers | 瑞典 | YTB](https://www.youtube.com/@jonnajinton)**
 
   - [En: My name is Jonna Jinton, I'm a Swedish artist, musician and filmmaker and I live in the beautiful woods in the North of Sweden.]{s}
   - [Cn: 我叫Jonna Jinton，是一名瑞典艺术家、音乐家和电影制作人，住在瑞典北部美丽的森林里。]{lb}
@@ -293,21 +306,22 @@
 
 ---
 **[Miss Jean Teaches]{e}**
-* **[Miss Jean Teaches | 12.3万 | YTB](https://www.youtube.com/@missjeanteaches)**
+* **[Miss Jean Teaches | 125K subscribers | YTB](https://www.youtube.com/@missjeanteaches)**
+
 * **[英语学习Pie | 百章 | Douyin](https://v.douyin.com/nBEOloJekdk/)**
   - **[全英VLOG｜学语言必须"从第一天就开口"？](https://v.douyin.com/o1MYbBcmiok/)**
   - [全英VLOG｜学语言必须"从第一天就开口"？ 视频来源｜YTB Miss Jean Teaches 剪辑+字幕+资料整理｜本人原创 学语言时总被"从第一天就开口"的建议绑架？想开口却怕焦虑，不开口又怕落后？博主结合自身教学与学习经验，从正反两方拆解这一热门建议，帮你打破认知误区，找到更适配自己的语言学习节奏！无论你偏爱"沉默积累"还是"即时输出"，都能从中找到共鸣]{lb}
 
 ---
 **[KevinFeng 冯凯文]{s}**
-* **[KevinFeng 冯凯文 | 11.1万 | YTB](https://www.youtube.com/@IAmKevinFeng)**
+* **[KevinFeng 冯凯文 | 112K subscribers | YTB](https://www.youtube.com/@IAmKevinFeng)**
   - [1个习惯带你直接听懂英文，让你英文听力像母语一样强](https://www.youtube.com/watch?v=t-kOwCmtcmA)
   - [用YTB足不出户从0自学流利英文！20+个难度分级自学频道推荐！｜GDS 007](https://www.youtube.com/watch?v=0UY0bbE5I1w)
   - [2本能让你逆袭人生的英文书，只要高中水平就能读懂！](https://www.youtube.com/watch?v=L2B1NhxfvIw)
 
 ---
 **[PRIMAL EARTH · 4K]{s}**
-* **[PRIMAL EARTH | 14.5万 |YTB | 4K](https://www.youtube.com/@primalearth8951)**
+* **[PRIMAL EARTH | 152K subscribers |YTB | 4K](https://www.youtube.com/@primalearth8951)**
 
   - [En: Our mother planet "Earth" and the vibrancy of life on it.]{s}
   - [Cn: 我们的母星"地球"以及它上生命的生机勃勃。]{lb}
@@ -325,7 +339,7 @@
 
 ---
 **[4k Films by Adnan]{s}**
-* **[4k Films by Adnan | 15.6万 | YTB](https://www.youtube.com/@4kfilmsbyadnan)**
+* **[4k Films by Adnan | 199K subscribers | YTB](https://www.youtube.com/@4kfilmsbyadnan)**
 
   - [En: Hi, I’m Adnan of the 4k Films by Adnan channel.]{s}
   - [Cn: 你好，我是Adnan频道4k Films的Adnan。]{lb}
@@ -361,7 +375,7 @@
 
 ---
 **[4K Relaxation Channel]{s}**
-* **[4K Relaxation Channel | 105万 | YTB | 4K](https://www.youtube.com/@RelaxationChannel)**
+* **[4K Relaxation Channel | 1.05M subscribers | YTB | 4K](https://www.youtube.com/@RelaxationChannel)**
 
   - [En: 4K Relaxation Channel in sensational 4K and 8K resolution features spectacular nature videos perfect for deep relaxation, meditation, study, sleep, healing, stress relief and more in the industry-leading, detail-oriented 4K quality that brings nature into your home.]{s}
   - [Cn: 4K放松频道以惊艳的4K和8K分辨率呈现壮观的自然视频，适合深度放松、冥想、学习、睡眠、疗愈、减压等，采用行业领先的细节导向4K画质，将大自然带入你的家中。]{lb}
@@ -405,7 +419,7 @@
 
 ---
 **[Scenic Relaxation]{s}**
-* **[Scenic Relaxation | 166万 |  YTB | 4K](https://www.youtube.com/@ScenicRelaxationFilms)**
+* **[Scenic Relaxation | 1.76M subscribers |  YTB | 4K](https://www.youtube.com/@ScenicRelaxationFilms)**
 
   - [En: The goal at Scenic Relaxation is to provide relaxing 4K films of the world's most incredible destinations.]{s}
   - [Cn: Scenic Relaxation的目标是提供世界上最不可思议目的地的放松4K影片。]{lb}
@@ -423,12 +437,12 @@
 
 ---
 **[Relaxation Film]{s}**
-* **[Relaxation Film | 五十章  |  Douyin](https://v.douyin.com/17pgl3YprfA/)**
+* **[Relaxation Film | 五十章  | 4K | Douyin](https://v.douyin.com/17pgl3YprfA/)**
   - [【4K 奥地利-哈尔施塔特】俯瞰恬静奥地利小镇，湖景峡湾宁静怡然   ](https://v.douyin.com/fUD3TSTWrkQ/)
 
 ---
 **[Ariannita la Gringa]{e}**
-* **[Ariannita la Gringa | 202万  | YTB](https://www.youtube.com/@ariannitalagringa)**
+* **[Ariannita la Gringa | 2.12M subscribers  | YTB](https://www.youtube.com/@ariannitalagringa)**
   - [Religious Vocabulary in English](https://www.youtube.com/watch?v=Ae8odmRJNu0)
   - [購物中心英語詞彙](https://www.youtube.com/watch?v=VFe7Ap1kfk0)
   - [Visiting an International Market](https://www.youtube.com/watch?v=3VP8OZyr87A)
@@ -482,14 +496,14 @@
 
 ---
 **[Lana Blakely]{e}**
-* **[Lana Blakely | 165万 | YTB](https://www.youtube.com/@LanaBlakely/videos)**
+* **[Lana Blakely | 1.43M subscribers | YTB](https://www.youtube.com/@LanaBlakely/videos)**
 
   - [En: books, solo trips, vintage finds and thinking aloud]{s}
   - [Cn: 书籍、独自旅行、复古发现和随声思考]{lb}
 
 ---
 **[Learn English with Jessica]{s}**
-* **[Learn English with Jessica | 281万 | 动画 | YTB](https://www.youtube.com/channel/UCXtMjo8xJqjEhS4A9KUY8GA)**
+* **[Learn English with Jessica | 2.83M subscribers | 动画 | YTB](https://www.youtube.com/channel/UCXtMjo8xJqjEhS4A9KUY8GA)**
 
   - [En: Learn English with Jessica is a FREE Channel for English learners.]{s}
   - [Cn: "与杰西卡一起学习英语"是一个免费的英语学习频道。]{lb}
@@ -526,7 +540,7 @@
 
 ---
 **[SciShow Kids]{s}**
-* **[SciShow Kids | 157万 | YTB](https://www.youtube.com/@SciShowKids/videos)**
+* **[SciShow Kids | 1.68M subscribers | YTB](https://www.youtube.com/@SciShowKids/videos)**
 
   - [En: From the team behind the YouTube series SciShow comes SciShow Kids!]{s}
   - [Cn: 由YouTube系列《SciShow》团队打造，推出了《SciShow Kids》！]{lb}
@@ -557,11 +571,11 @@
 
 ---
 **[Dan Koe]{s}**
-* **[Dan Koe | 124万 | YTB](https://www.youtube.com/@DanKoeTalks)**
+* **[Dan Koe | 1.41M subscribers | YTB](https://www.youtube.com/@DanKoeTalks)**
 
 * **[来点思考 | 一人公司→超级个体→自我实现 帮你把想不清楚的问题判断清楚 | 二百章 | Douyin](https://v.douyin.com/OkNpJEuLTEg/)**
   - [AI加速学习](https://v.douyin.com/dJUjAceOkEg/)
-  - 你还在慢慢学吗？用AI加速学习，10倍提高效率！  dankoe来点思考 AI  学习效率
+  - [你还在慢慢学吗？用AI加速学习，10倍提高效率！  dankoe来点思考 AI  学习效率]{g}
   - [两周就能学会任何技能，为什么你这么慢？](https://v.douyin.com/uYLph2ZzDRA/)
 
 * **[dankoe | 大家好，让我们一起6个月改变人生 | 百章 | Douyin](https://v.douyin.com/tN4bvreV5vE/)**
@@ -569,12 +583,12 @@
 
 ---
 **[4kUrbanLife]{s}**
-* **[4kUrbanLife | 36.1万 | YTB](https://www.youtube.com/@4kUrbanLife)**
+* **[4kUrbanLife | 360K subscribers | YTB](https://www.youtube.com/@4kUrbanLife)**
   - **[4K Cities of The World: Krakow, Poland](https://www.youtube.com/watch?v=3CfLia_6TU0&list=PLQggNzW0_YA9OlYAoIS5Vp-gRp8kF3EcS)**
 
 ---
 **[The English Class]{s}**
-* **[The English Class | 33.7万 | YTB](https://www.youtube.com/@TheEnglishClass2917)**
+* **[The English Class | 471K subscribers | YTB](https://www.youtube.com/@TheEnglishClass2917)**
   - **[How to Speak English Fluently | 如何流利 地说英语](https://www.youtube.com/watch?v=dWmUsWorYh0)**
 
 ---
@@ -585,14 +599,14 @@
 
 ---
 **[Links TV]{s}**
-* **[Links TV  | 76.8万 | YTB](https://www.youtube.com/@linksphotograph)**
+* **[Links TV  | 837K subscribers | YTB](https://www.youtube.com/@linksphotograph)**
   - **[大西洋上只有300人的孤岛，却藏着地球最震撼的火山奇观松下！亚速尔群岛｜松下S1R2 ｜Linksphotograph](https://www.youtube.com/watch?v=1kCOblyiuxY)**
 
 * **[Linksphotograph | Bilibili](https://space.bilibili.com/3816626)**
 
 ---
 **[Tourist Walk Tours]{s}**
-* **[Tourist Walk Tours | 52.5万 | YTB](https://www.youtube.com/@TouristWalkTours)**
+* **[Tourist Walk Tours | 539K subscribers | YTB](https://www.youtube.com/@TouristWalkTours)**
 
   - [En: Welcome to Tourist Walk Tours — your passport to adventure!]{s}
   - [Cn: 欢迎来到旅游徒步游——你的冒险通行证！]{lb}
@@ -635,6 +649,7 @@
 ---
 **[🇨🇭 SWISS - Most Beautiful Places & Walking Tours]{s}**
 * **[🇨🇭 SWISS - Most Beautiful Places & Walking Tours | 瑞士 | 8.69万 | YTB](https://www.youtube.com/@SWISS_WalkingTours)**
+
   - [En: Welcome to our YouTube channel dedicated to the breathtaking beauty of Switzerland!]{s}
   - [Cn: 欢迎来到我们的YouTube频道，专注于瑞士令人叹为观止的美景！]{lb}
 
@@ -667,7 +682,7 @@
 
 ---
 **[SoulEase Space | Music]{s}**
-* **[SoulEase Space | 音乐 | YTB](https://www.youtube.com/@SoulEase_Space)**
+* **[SoulEase Space | 25.9K subscribers | 音乐 | YTB](https://www.youtube.com/@SoulEase_Space)**
   - [En: Welcome to SoulEase Space—a serene place to unwind, soothe your soul, and find harmony. 🎹🌿]{s}
   - [Cn: 欢迎来到SoulEase空间——一个宁静的地方，让你放松身心，抚慰心灵，找到和谐。🎹🌿]{lb}
 
@@ -4453,6 +4468,12 @@
 
 ---
 ### 0100. Ads of the World
+**[childfirst.netlify.app]{s}**
+* **[childfirst.netlify.app](https://childfirst.netlify.app/)**
+  - [Richard Yen](https://www.youtube.com/watch?v=avDhwNooTAg)
+  - [ChildFirst Pre-school](https://www.youtube.com/@ChildFirstPreschool/videos)
+
+---
 **[Dewy Choo]{e}**
 * **[Dewy Choo |  23.9K |  YTB](https://www.youtube.com/@dewychoo_/videos)**
   - [Reacting to Singaporean’s Travel HORROR Stories](https://www.youtube.com/watch?v=72brAZxpsfI)
