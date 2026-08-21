@@ -4426,6 +4426,11 @@
 ---
 **[Chloe VS History]{e}**
 * **[Chloe VS History | Powered by PAI 2.0 from @UtopaiStudios | 365K | YTB](https://www.youtube.com/@ChloeVSHistory/videos)**
+
+  ---
+  **[tiktok]{g}**
+    - [tiktok](https://www.tiktok.com/@chloe.vs.history)
+
   - [I time travelled to Ancient Rome! (Vlog)](https://www.youtube.com/watch?v=aaua5ghidk0&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=1)
   - [I time travelled to Tudor London in 1536! (Vlog)](https://www.youtube.com/watch?v=-Sd1stYQp-c&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=2)
   - [I time travelled to D-Day in 1944 (WW2)](https://www.youtube.com/watch?v=ta0xLjMXJ1s&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=4)
