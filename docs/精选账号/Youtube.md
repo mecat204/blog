@@ -4418,7 +4418,13 @@
 * **[Ozzy Grace | 992 | YTB](https://www.youtube.com/@ozzygrace1632/videos)**
 
 ---
-**[Chloe VS History]{s}**
+**[Timelapse Studio]{s}**
+* **[Timelapse Studio | 76.6K subscribers | YTB](https://www.youtube.com/@TimelapseStudioChannel/videos)**
+  - [Evolution of New York | Fixed-Camera Timelapse: Midtown Manhattan](https://www.youtube.com/watch?v=hIgGx4PW0Eg)
+  - [Evolution of Tokyo | Fixed-Camera Timelapse: 3000 Years of The Kanto Plain](https://www.youtube.com/watch?v=HJGR9S4VF5A)
+
+---
+**[Chloe VS History]{e}**
 * **[Chloe VS History | Powered by PAI 2.0 from @UtopaiStudios | 365K | YTB](https://www.youtube.com/@ChloeVSHistory/videos)**
   - [I time travelled to Ancient Rome! (Vlog)](https://www.youtube.com/watch?v=aaua5ghidk0&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=1)
   - [I time travelled to Tudor London in 1536! (Vlog)](https://www.youtube.com/watch?v=-Sd1stYQp-c&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=2)
