@@ -1569,6 +1569,24 @@
     - [聂小倩-003](https://v.douyin.com/KQ1gFj8TZRw/)
 
 ---
+### 0066. 地球online摸鱼员
+**[地球online摸鱼员]{s}**
+* **[地球online摸鱼员 | 地球online史前版本观察员， 文案基于主流科学讲解 原创异星探索短片制作人 | 续集在制作了会和物理学进行融合 | 专注AIGC内容 | 叁佰章 | Douyin](https://v.douyin.com/uaiZDnYs_Gg/)**
+  - [爱因斯坦牛顿探索异星上集](https://v.douyin.com/VEjrrtzKnIc/)
+
+---
+### 0067. 舒言悟道
+**[舒言悟道]{s}**
+* **[和古人聊聊，现代人的烦恼。 从先贤智慧里，找生活的答案。愿你言有所悟,行有所安 | 佰章 | Douyin](https://v.douyin.com/Q4m_ZD49UEU/)**
+
+  ---
+  **[001. 文物历史]{s}**
+    - [曾侯乙尊盘 战国工匠的逆天之作 |Min: 05:00 | 001](https://v.douyin.com/l3S8edIGm4g/)
+    - [为什么越是把一件事做到极致的人，越容易被时代一脚踢开 孔子，君子不器：不要把自己活成一件固定的工具 | Min: 04:24 | 014](https://v.douyin.com/WbMMJ5hpOdE/)
+    - [孔子：事君数，斯辱矣；朋友数，斯疏矣：话说太满，情就用尽了 | Min: 05:41 | 015](https://v.douyin.com/BJ48gIq_PxM/)
+    - [老子：“轻诺必寡信，多易必多难。” | Min: 03:41 | 020](https://v.douyin.com/UCkjraNS4cs/)
+
+---
 ### 9999. Download
 **[必应]{s}**
 * **[必应 | bing.com](https://cn.bing.com/)**

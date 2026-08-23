@@ -493,6 +493,17 @@
   - [贝桑ovo·道友 | 极妙幻境·凡人修仙传](https://v.douyin.com/-YygN3oj1-E/)
 
 ---
+**[七彩泡泡糖·道友]{s}**
+* **[七彩泡泡糖 | 期待自己把每个人物都解说的独一无二 期待每一个角色都拥有属于自己的灵魂 | 期待在凡人深处中看到身为凡人的自己 | 望所有人都在平凡的世界拥有不悔人生 | 叁佰章 | Douyin](https://v.douyin.com/a6EU-6RUw44/)**
+
+  ---
+  **[001. 凡人修仙传]{g}**
+    - [天晶真人为何要废这么大劲去得到魂石呢 | 001](https://v.douyin.com/g6yT_KIaqsU/)
+    - [魏无涯作为这次大战的总指挥 | 100](https://v.douyin.com/mstNfnJ-74k/)
+    - [很多人都佩服天哭眼神真好上来就挑了个最能打的 | 132](https://v.douyin.com/vlhb6SVObOk/)
+    - [马知墨是个文盲这件事果然被网友给实锤了 | 134](https://v.douyin.com/QcWCtIgweOs/)
+
+---
 **[东山Alian]{s}**
 * **[东山𝑨𝒍𝒊𝒏𝒂 | 众生才是朝阳，而我，向着朝阳 | 佰章 | Douyin](https://v.douyin.com/yFi_xorR5eo/)**
   - [韩立智商被碾压，压根斗不过狡猾的尸魈，幸好银月及时救场](https://v.douyin.com/gj2DuPyENkY/)
@@ -1269,6 +1280,23 @@
 ---
 **[程霜]{e}**
 * **[行万里路也要读万卷书](https://v.douyin.com/kQ-OzeEm4j8/)**
+
+---
+### 0100. 精品Douyin
+**[跟博主练口语]{e}**
+* **[跟博主练口语 | 海外博主口语干货站！每日搬运实用表达，碎片化练口语，零基础也能快速上手 | 佰章 | Douyin](https://v.douyin.com/lLM1or2y3gc/)**
+
+  ---
+  **[001. TheCottageFairy]{g}**
+
+---
+**[放学之后afterschool]{e}**
+* **[放学之后afterschool | 佰章 | Douyin](https://v.douyin.com/H834CEdag-s/)**
+
+---
+**[放学之后AfterSchool]{e}**
+* **[放学之后AfterSchool | 6 subscribers | YTB](https://www.youtube.com/@JosieEstellePodcast/videos)**
+
 
 ---
 ### 9999. Download
