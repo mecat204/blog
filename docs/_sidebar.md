@@ -25,6 +25,10 @@
   - [GPT推荐站点](技术栈/0007.GPT推荐站点)
 
 ---
+* **x.com**
+  - [account](x.com/account.md)
+
+---
 * **EnglishCourse**
   - **LearnEnglishCourse | Douyin**
     * [LearnEnglishCourse](EnglishCourse/LearnEnglishCourse/LearnEnglishCourse)
