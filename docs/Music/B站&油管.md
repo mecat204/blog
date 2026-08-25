@@ -176,6 +176,13 @@
   - [心流状态音乐与深层专注音效 ~ 释放巅峰专注力与效率](https://www.youtube.com/watch?v=ZrPkDGJivnE)
 
 ---
+### 0005. Music Tube | YTB | 2026.08.26
+**[Music Tube 2026.08.26]{s}**
+* **[Music Tube | 26 subscribers | YTB](https://www.youtube.com/@Music_Tube_Official/videos)**
+  - [MusicTube](https://www.youtube.com/watch?v=CSTT-Ee-dA8&list=RDCSTT-Ee-dA8&index=1)
+  - [是什么时候开始爱上这种氛围 | **Music: Born a Stranger Kan R. Gao, Laura Shigihara** | **一行**](https://v.douyin.com/M_SjBRR6DwU/)
+
+---
 ### 9999. Music · Course
 **[AlgerMusicPlayer]{s}**
 * **[AlgerMusicPlayer | music | software](https://github.com/algerkong/AlgerMusicPlayer)**
