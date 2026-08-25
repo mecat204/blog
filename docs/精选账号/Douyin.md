@@ -331,6 +331,13 @@
   - [今天实现辣条自由啦，来我家请你吃辣条](https://v.douyin.com/-ueEMYfa4kI/)
 
 ---
+**[艳子🌾]{e}**
+**[艳子🌾 | 99年护士告别城市，回陕南老家陪伴外婆。 记录柴火灶上的农家饭菜 | 佰章 | Douyin](https://v.douyin.com/2VUib8eeUIc/)**
+  - [柴火锅烙饼，配上土豆丝和南瓜丝，该怎么形容这一口下去的幸福感。](https://v.douyin.com/oIMaeFserxI/)
+  - [如果累了就回故乡，来一碗酸菜面，你们多久没吃到家里这碗酸菜面了。](https://v.douyin.com/xE-rcvgzf2k/)
+
+
+---
 **[胖丫&小雪（母女）]{e}**
 * **[胖丫&小雪（母女）| 00后姑娘 70后的妈 希望能把开心 快乐带给大家 | 比较咋呼的陕西甜妹 |三百章 | Douyin](https://v.douyin.com/dV7tO22tLTU/)**
   - [一天再嫑催我了！现在这行情不好😤 | 搞笑  | 农村生活](https://v.douyin.com/5iFEcziQAuU/)

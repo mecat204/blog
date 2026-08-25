@@ -430,6 +430,7 @@
       * **[罗马假日彩色版](https://www.bilibili.com/video/BV1gm42147tn/?spm_id_from=333.788.recommend_more_video.-1&trackid=web_related_0.router-related-2589621-btjjl.1786479291717.551)**
   * **[cz4k](https://www.cz4k.com/)**
       - [The Super Mario Bros. Movie | 超级马力欧兄弟大电影](https://www.cz4k.com/movie/5802.html)
+      - [凯瑟琳大帝第二季](https://www.cz4k.com/v_play/bXZfNTI2Ny1ubV8x.html)
   * **[4kcz](https://www.4kcz.com/)**
 
 ---
@@ -1377,6 +1378,8 @@
 ---
 **[观影导航]{s}**
 * **[观影导航](https://www.guannav.com/)**
+* **[观影导航](https://www.qhdh.top/)**
+  - [剧荒](https://pan.juhuang.xyz/)
 
 ---
 **[影巢]{s}**

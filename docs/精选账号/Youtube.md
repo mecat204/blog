@@ -4479,6 +4479,11 @@
 
 ---
 ### 0100. Ads of the World
+**[EVE Online]{s}**
+* **[EVE Online | 228K subscribers | YTB](https://www.youtube.com/@eveonline/videos)**
+  - [EVE Online - Official Gameplay Trailer - Play Free](https://www.youtube.com/watch?v=sPFII3ozSHI)
+
+---
 **[childfirst.netlify.app]{s}**
 * **[childfirst.netlify.app](https://childfirst.netlify.app/)**
   - [Richard Yen](https://www.youtube.com/watch?v=avDhwNooTAg)
