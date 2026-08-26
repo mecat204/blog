@@ -171,6 +171,12 @@
 * **[seed](https://github.com/thebuggeddev/seed)**
   - [seed](https://seedsatlas.vercel.app/)
 
+---
+**[Internet Archive]{s}**
+* **[Internet Archive](https://x.com/internetarchive)**
+  - [blog.archive.org](https://blog.archive.org/)
+
+
 ### 0002. Translate
 **[Handre]{s}**
 * **[Handre | Free market pamphleteer.  自由市场传单作家。](https://x.com/Handre)**
