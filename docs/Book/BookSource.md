@@ -792,6 +792,7 @@
 ### 0028. 全球气象数据
 **[ventusky]{s}**
 * **[ventusky | Ventusky - 天气预报、雷达和风力图](https://www.ventusky.com/)**
+  - [CalculatorSoup](https://www.calculatorsoup.com/calculators/conversions/fahrenheit-to-celsius.php)
 
 ---
 **[全球气象数据]{s}**
