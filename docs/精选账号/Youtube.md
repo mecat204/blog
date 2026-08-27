@@ -4408,6 +4408,25 @@
 * **[English with Evie | 270K | YTB](https://www.youtube.com/@EnglishWithEvie)**
 
 ---
+### 0045. University English Hub
+**[University English Hub]{s}**
+* **[University English Hub | 6.19K subscribers | YTB](https://www.youtube.com/@UniversityEnglishHub/videos)**
+  - [Designing and Presenting Academic Graphs and Images | Antony P at NCHU](https://www.youtube.com/watch?v=L1P1YmXgyDU)
+
+---
+### 0046. English Learning Hub
+**[English Learning Hub]{s}**
+* **[English Learning Hub | 576K subscribers | YTB](https://www.youtube.com/@EnglishLearningHubOfficial/videos)**
+  - [A2 English Listening Practice | The Money Mistakes Everyone Makes! | English Podcast - Ep. 9](https://www.youtube.com/watch?v=JlwZ4g_CBJg)
+  - [B1 Imitation Lesson - Part 6 | English Speaking Practice](https://www.youtube.com/watch?v=UQ9yKAVZY4s)
+
+---
+### 0047. DeepLearningAI
+**[DeepLearningAI]{s}**
+* **[DeepLearningAI | 706K subscribers | YTB](https://www.youtube.com/@Deeplearningai/featured)**
+  - [Full AI Prompting Course with Andrew Ng 吴恩达 (Andrew Ng) 的完整人工智能提示课程](https://www.youtube.com/watch?v=8ib4Qnh2HFE)
+
+---
 ### 0099. AI - video
 **[Ghibli Days]{e}**
 * **[Ghibli Days | 105K | YTB](https://www.youtube.com/@GhibliDayss/videos)**

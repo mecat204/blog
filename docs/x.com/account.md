@@ -176,7 +176,28 @@
 * **[Internet Archive](https://x.com/internetarchive)**
   - [blog.archive.org](https://blog.archive.org/)
 
+---
+**[远方青木]{s}**
+* **[远方青木](https://x.com/jglcn1991)**
+  - [hotspot-monitor-skill](https://github.com/jiangxu1024/hotspot-monitor-skill)
+  - [殆知阁古代文献](https://github.com/garychowcmu/daizhigev20)
+  - [chinese-poetry-api](https://github.com/palemoky/chinese-poetry-api)
+    * [诗泉](https://poetry.palemoky.com/)
 
+---
+**[火山哥]{s}**
+* **[火山哥](https://x.com/huoshan007)**
+  - [OpenMontage 蒙太奇; 剪辑](https://github.com/calesthio/OpenMontage)
+  - [雪洛影视](https://www.xlys02.com/)
+
+---
+**[Techartist 技术艺术家；科技艺术家]{s}**
+* **[Techartist](https://x.com/techartist_)**
+  - [Threejs-3D-Webpage](https://github.com/iamtechartist/Threejs-3D-Webpage)
+  - [Threejs-3D-Webpage](https://iamtechartist.github.io/Threejs-3D-Webpage/)
+  - [The Life of a Singularity 奇点的一生](https://codepen.io/VoXelo/full/VYKMNwE)
+
+---
 ### 0002. Translate
 **[Handre]{s}**
 * **[Handre | Free market pamphleteer.  自由市场传单作家。](https://x.com/Handre)**
@@ -198,6 +219,13 @@
 
   [En: The lesson is not complicated. Distribute a benefit and you distribute dependency. Distribute dependency and you distribute political power to whoever controls the distribution. The grain dole didn't weaken Rome overnight, but it made every subsequent reform politically impossible.]{s}
   [Cn: 这个教训并不复杂。提供一种恩惠，就会产生依赖；提供依赖，就会把政治权力分配给控制这种分配的人。谷物配给制并没有在一夜之间削弱罗马，但它让之后的每一次改革都变得政治上不可能。]{g}
+
+---
+### 0003. Andrej Karpathy
+**[Andrej Karpathy]{s}**
+* **[Andrej Karpathy](https://x.com/karpathy)**
+
+---
 
 
 ---
