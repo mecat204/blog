@@ -226,7 +226,9 @@
 * **[Andrej Karpathy](https://x.com/karpathy)**
 
 ---
-
+### 0004. Codez
+**[Codez]{e}**
+* **[Codez](https://x.com/0xCodez)**
 
 ---
 ### 9999. Software | Books | Download
