@@ -4,7 +4,7 @@
 
 ---
 **[Google]{s}**
-* **[Google |  14.5M | YTB](https://www.youtube.com/@Google)**
+* **[Google |  14.5M subscribers |  YTB](https://www.youtube.com/@Google)**
   - **[Operation Aurora | HACKING GOOGLE | Documentary EP000](https://www.youtube.com/watch?v=przDcQe6n5o)**
 
 ---
@@ -190,7 +190,7 @@
 
 ---
 **[LindseyLingo]{e}**
-* **[LindseyLingo | 北京外国语大学英语口译硕士｜Polyglot | "语言的边界就是你世界的边界" | 5.5万 | YTB](https://www.youtube.com/@lindseylingo/videos)**
+* **[LindseyLingo | 北京外国语大学英语口译硕士｜Polyglot | "语言的边界就是你世界的边界" | 73.5K subscribers | YTB](https://www.youtube.com/@lindseylingo/videos)**
   - [AI Can Speak English Better Than You](https://www.youtube.com/watch?v=nILMlkHiVdM)
 
 * **[高高Lindsey | 语言的极限就是我世界的极限 | 北外口译硕士 | 4K |  百章 | Douyin](https://v.douyin.com/Km65NtSiWqA/)**
@@ -648,7 +648,7 @@
 
 ---
 **[🇨🇭 SWISS - Most Beautiful Places & Walking Tours]{s}**
-* **[🇨🇭 SWISS - Most Beautiful Places & Walking Tours | 瑞士 | 8.69万 | YTB](https://www.youtube.com/@SWISS_WalkingTours)**
+* **[🇨🇭 SWISS - Most Beautiful Places & Walking Tours | 瑞士 | 99.8K subscribers | YTB](https://www.youtube.com/@SWISS_WalkingTours)**
 
   - [En: Welcome to our YouTube channel dedicated to the breathtaking beauty of Switzerland!]{s}
   - [Cn: 欢迎来到我们的YouTube频道，专注于瑞士令人叹为观止的美景！]{g}
@@ -704,7 +704,7 @@
 ---
 ### 0004. Learn English Vlog
 **[Leah's English 莉雅老师]{e}**
-* **[Leah's English 莉雅老师 | 20万 | YTB](https://www.youtube.com/@Leah%E7%9A%84%E5%B0%8F%E6%97%A5%E8%AE%B0/videos)**
+* **[Leah's English 莉雅老师 | 230K subscribers | YTB](https://www.youtube.com/@Leah%E7%9A%84%E5%B0%8F%E6%97%A5%E8%AE%B0/videos)**
 
   - [En: Welcome! Let's learn some authentic English!]{s}
   - [Cn: 欢迎大家跟我一起学习英语口语～]{g}
@@ -723,7 +723,8 @@
 
 ---
 **[Michelle Khare]{s}**
-* **[Michelle Khare | YouTube 的冒险家 | 534万 | 中阶 | YTB](https://www.youtube.com/@MichelleKhare)**
+* **[Michelle Khare | YouTube 的冒险家 | 5.49M subscribers | 中阶 | YTB](https://www.youtube.com/@MichelleKhare)**
+
   - [En: YouTube's Daredevil 😈 For business Inquiries: michellekhare+business@gmail.com Challenge Accepted follows Michelle Khare as she attempts the world's most difficult lifestyles, stunts, and professions.]{s}
   - [Cn: YouTube的《商业咨询夜魔😈侠 ： michellekhare+business@gmail.com 挑战接受》跟随米歇尔·卡尔尝试世界上最艰难的生活方式、特技和职业。]{g}
 
@@ -737,7 +738,7 @@
 
 ---
 **[Max Amini]{s}**
-* **[Max Amini | 了解即将举行的活动和演出 | 高阶 | 396万 | YTB](https://www.youtube.com/@MaxAmini)**
+* **[Max Amini | 了解即将举行的活动和演出 | 高阶 | 4.68M subscribers | YTB](https://www.youtube.com/@MaxAmini)**
   - [En: 𝐓𝐈𝐂𝐊𝐄𝐓𝐒 𝐎𝐍 𝐒𝐀𝐋𝐄 𝐍𝐎𝐖!]{s}
   - [Cn: 门票现已开售！]{g}
 
@@ -747,7 +748,8 @@
 
 ---
 **[The Balance Theory Podcast]{e}**
-* **[The Balance Theory Podcast | 高阶 | 26.3万 | YTB](https://www.youtube.com/@thebalancetheorypodcast)**
+* **[The Balance Theory Podcast | 高阶 | 310K subscribers | YTB](https://www.youtube.com/@thebalancetheorypodcast)**
+
   - [En: The Balance Theory is a self development podcast for people looking to build confidence in themselves and the life they want to create.]{s}
   - [Cn:《平衡理论》是一档为那些希望建立自信和想要创造生活的人们打造的自我发展播客。]{g}
 
@@ -772,13 +774,13 @@
 
 ---
 **[Steve TV Show]{s}**
-* **[Steve TV Show | "STEVE"是喜剧演员、畅销书作家、艾美奖 | 高阶 | 828万 | YTB](https://www.youtube.com/@SteveTVShow/featured)**
+* **[Steve TV Show | "STEVE"是喜剧演员、畅销书作家、艾美奖 | 高阶 | 8.28M subscribers | YTB](https://www.youtube.com/@SteveTVShow/featured)**
   - [En: "STEVE" is the destination for laughter and life lessons from comedian, bestselling author, and Emmy® Award-winning host Steve Harvey, whose distinctive comedic voice and inspiring, straight talk advice have earned him global recognition as a household name.]{s}
   - [Cn: "STEVE"是喜剧演员、畅销书作家及艾美®奖获奖主持人史蒂夫·哈维带来的欢笑与人生道理的目的地，他独特的喜剧嗓音和鼓舞人心、直率的建议使他成为全球家喻户晓的名字。]{g}
 
 ---
 **[Blondie in China]{s}**
-* **[Blondie in China | 嗨！我是来自澳大利亚的艾米！过去十年间，我断断续续地在中国旅行。今天来这里和大家分享我的奇遇，品尝美食，传递正能量  | 中阶 | 58.5万 | YTB](https://www.youtube.com/@BlondieinChina)**
+* **[Blondie in China | 嗨！我是来自澳大利亚的艾米！过去十年间，我断断续续地在中国旅行。今天来这里和大家分享我的奇遇，品尝美食，传递正能量  | 中阶 | 607K subscribers | YTB](https://www.youtube.com/@BlondieinChina)**
   - [En: Hey! I'm Amy from Australia!]{s}
   - [Cn: 嘿！我是来自澳大利亚的艾米！]{g}
 
@@ -792,7 +794,8 @@
 
 ---
 **[emma chamberlain]{s}**
-* **[emma chamberlain | 中阶 | 1200万 | YTB](https://www.youtube.com/@emmachamberlain)**
+* **[emma chamberlain | 中阶 | 12M subscribers | YTB](https://www.youtube.com/@emmachamberlain)**
+
   - [En: other stuff i do, listen to me talk on my podcast "Anything Goes," available for free anywhere you stream podcasts.]{s}
   - [Cn: 我还做的其他事情，比如 在我的播客《Anything Goes》上听我讲话，这个播客在你听播客的地方免费收听。]{g}
 
@@ -806,7 +809,7 @@
 
 ---
 **[Girls Gone Bible]{e}**
-* **[Girls Gone Bible | 86.5万 | YTB](https://www.youtube.com/@GirlsGoneBible/videos)**
+* **[Girls Gone Bible | 874K subscribers | YTB](https://www.youtube.com/@GirlsGoneBible/videos)**
 
   - [En: Podcast hosted by Angela Halili and Arielle Reitsma.]{s}
   - [Cn: 播客由安吉拉·哈利利和阿丽尔·雷茨玛主持。]{g}
@@ -829,13 +832,13 @@
 
 ---
 **[Daniel Simmons]{s}**
-* **[Daniel Simmons | 更新时尚、生活方式、室内设计和糕点 | 中阶 | 78.4万 | YTB](https://www.youtube.com/@imdanielsimmons)**
+* **[Daniel Simmons | 更新时尚、生活方式、室内设计和糕点 | 中阶 | 801K subscribers | YTB](https://www.youtube.com/@imdanielsimmons)**
   - [En: Digital Diary 🤎 Weekly videos around fashion, lifestyle, interior design & pastries Daniel Simmons New York City, United States Contact: contact@danielsimmonsmedia.com]{s}
   - [Cn: 数字日记 🤎 每周视频，内容涵盖时尚、生活方式、室内设计和糕点 丹尼尔·西蒙斯 纽约市，美国 联系方式：contact@danielsimmonsmedia.com]{g}
 
 ---
 **[Speak English with Bo's Slow English]{s}**
-* **[Speak English with Bo's Slow English | 初级 | 11.2万 | YTB](https://www.youtube.com/@BoSlowEnglish)**
+* **[Speak English with Bo's Slow English | 初级 | 127K subscribers | YTB](https://www.youtube.com/@BoSlowEnglish)**
   - [En: Welcome to Bo’s Slow English!]{s}
   - [Cn: 欢迎来到Bo的慢英语！]{g}
 
@@ -865,7 +868,8 @@
 
 ---
 **[Luke's English Podcast]{s}**
-* **[Luke's English Podcast | 初中级衔接 | 174万 | YTB](https://www.youtube.com/@LukesEnglishPodcast)**
+* **[Luke's English Podcast | 初中级衔接 | 1.85M subscribers | YTB](https://www.youtube.com/@LukesEnglishPodcast)**
+
   - [En: An award-winning podcast for learners of English, since 2009.]{s}
   - 自2009年以来，这是一个获奖的英语学习者播客。]{g}
 
@@ -877,17 +881,17 @@
 
 ---
 **[Miss Honey]{e}**
-* **[Miss Honey | 初级 | 119万 | YTB](https://www.youtube.com/@Slow_English_Podcast)**
+* **[Miss Honey | 初级 | 1.33M subscribers | YTB](https://www.youtube.com/@Slow_English_Podcast)**
   - [En: Learn COMPREHENSIBLE English New Posts EVERY Wednesday☀️]{s}
   - [Cn: 学习可理解的英语 🗣️ 每周三☀️ 新文章]{g}
 
 ---
 **[Jalin Siu]{e}**
-* **[Jalin Siu | 中级 |  亚裔女生，写实记录Vlog，类似ur mom ashley 的频道。 有个特色是时常出现多人场景，非常适合扩充社交英文、锻炼多人语境的听力能力。| 155万 | YTB](https://www.youtube.com/@jalinsiu)**
+* **[Jalin Siu | 中级 |  亚裔女生，写实记录Vlog，类似ur mom ashley 的频道。 有个特色是时常出现多人场景，非常适合扩充社交英文、锻炼多人语境的听力能力。| 1.96M subscribers | YTB](https://www.youtube.com/@jalinsiu)**
 
 ---
 **[KerryDowdle in China]{e}**
-* **[KerryDowdle in China | 中级 | 一个在大陆的美国博主，拍一些旅游、文化相关的Vlogs， 写实风格。 除了拍大陆内容，也有美国以及其他国家的旅行内容。 | 8600 | YTB](https://www.youtube.com/@KerryDowdleinChina)**
+* **[KerryDowdle in China | 中级 | 一个在大陆的美国博主，拍一些旅游、文化相关的Vlogs， 写实风格。 除了拍大陆内容，也有美国以及其他国家的旅行内容。 | 9.97K subscribers | YTB](https://www.youtube.com/@KerryDowdleinChina)**
 
   - [En: Hi! I'm Kerry Dowdle from Florida! I've been traveling all over China. I'm here to share some of my amazing adventures, enjoy some great food, and spread some positive energy :) xx]{s}
   - [Cn: 大家好！我是来自佛罗里达的Kerry Dowdle！我一直在中国各地旅行，分享我的奇妙冒险，品尝美食，并传递满满的正能量 :) xx{g}
@@ -900,7 +904,7 @@
 
 ---
 **[Doobydobap · 美食博主]{e}**
-* **[Doobydobap | 中级 | 非常幽默搞笑、旅行、食物内容 | 484万 | YTB](https://www.youtube.com/@Doobydobap)**
+* **[Doobydobap | 中级 | 非常幽默搞笑、旅行、食物内容 | 4.49M subscribers | YTB](https://www.youtube.com/@Doobydobap)**
 
   - **[美食博主 | url](https://doobydobap.com)**
 
@@ -909,7 +913,7 @@
 
 ---
 **[Tiny Home Tours · 小户型设计]{s}**
-* **[Tiny Home Tours | 小户型设计 | 179万 | YTB](https://www.youtube.com/@TinyHomeTours/videos)**
+* **[Tiny Home Tours | 小户型设计 | 1.9M subscribers | YTB](https://www.youtube.com/@TinyHomeTours/videos)**
 
   - **[Tiny Home Tours | 小家旅游](https://tinyhometours.buzzsprout.com/)**
   - **[Home | Tiny Home Tours](https://www.tinyhometours.com/)**
@@ -957,7 +961,7 @@
 
 ---
 **[Living Big In A Tiny House]{s}**
-* **[Living Big In A Tiny House | 477万 | YTB](https://www.youtube.com/@livingbig/videos)**
+* **[Living Big In A Tiny House | 4.78M subscribers | YTB](https://www.youtube.com/@livingbig/videos)**
   - [This Stunning Tiny Home Gave Them a Huge Head Start in Life](https://www.youtube.com/watch?v=UaQqgl78JNE)
 
 ---
@@ -982,7 +986,7 @@
 
 ---
 **[The Diary Of A CEO]{s}**
-* **[The Diary Of A CEO | 高阶 | 嘉宾行业大牛，内容知识含金量超高。主持人英国人 | 19M |  YTB](https://www.youtube.com/@TheDiaryOfACEO)**
+* **[The Diary Of A CEO | 高阶 | 嘉宾行业大牛，内容知识含金量超高。主持人英国人 | 19M subscribers |   YTB](https://www.youtube.com/@TheDiaryOfACEO)**
 
   - [En: 64% of our viewers don't realise they don't subscribe, please double check, thank you!!]{s}
   - [Cn: 64%的观众不知道自己没订阅，请再确认一下，谢谢！！]{g}
@@ -994,7 +998,7 @@
 
 ---
 **[The Diary Of A CEO Clips]{s}**
-* **[The Diary Of A CEO Clips | 精品节选 | 2.58M | YTB](https://www.youtube.com/@TheDiaryOfACEOClips/videos)**
+* **[The Diary Of A CEO Clips | 精品节选 | 2.58M subscribers |  YTB](https://www.youtube.com/@TheDiaryOfACEOClips/videos)**
 
   ---
   - [En: This Channel is where we showcase the best clips from The Diary Of A CEO, hosted by Steven Bartlett, this show is an invitation to rethink what’s possible.]{s}
@@ -1013,7 +1017,7 @@
 
 ---
 **[SMii7Y]{s}**
-* **[SMii7Y | 高阶 | 多人聊天、高效、调侃 | 8.93M | YTB](https://www.youtube.com/@SMii7Y/videos)**
+* **[SMii7Y | 高阶 | 多人聊天、高效、调侃 | 8.93M subscribers |  YTB](https://www.youtube.com/@SMii7Y/videos)**
 
   - [En: Pronounced "Smitty" -  Gameplay, Funny Moments, Hilarity & More!]{s}
   - [Cn: 发音为"Smitty"——游戏玩法、搞笑时刻、搞笑元素等！]{g}
@@ -1024,7 +1028,7 @@
 
 ---
 **[SeanDoesMagic]{s}**
-* **[SeanDoesMagic | 高阶 | 搞笑、调侃 | 13.3M | YTB](https://www.youtube.com/@SeanDoesMagic/videos)**
+* **[SeanDoesMagic | 高阶 | 搞笑、调侃 | 13.3M subscribers |  YTB](https://www.youtube.com/@SeanDoesMagic/videos)**
 
   - [En: Just a lil magician ❤️📧]{s}
   - [Cn: 只是个小魔术师 ❤️ 📧]{g}
@@ -1035,14 +1039,14 @@
 
 ---
 **[The Late Late Show with James Corden]{s}**
-* **[The Late Late Show with James Corden | 高阶 | 主持人英音 | 28.2M | YTB](https://www.youtube.com/@TheLateLateShow)**
+* **[The Late Late Show with James Corden | 高阶 | 主持人英音 | 28.2M subscribers |  YTB](https://www.youtube.com/@TheLateLateShow)**
 
   - [En: This is the official YouTube channel for The Late Late Show with James Corden on CBS.]{s}
   - [Cn: 这是CBS《詹姆斯·科登深夜秀》的官方YouTube频道。]{g}
 
 ---
 **[Jimmy Kimmel Live]{s}**
-* **[Jimmy Kimmel Live | 高阶 | 脱裤秀访谈 | 22.1M | YTB](https://www.youtube.com/@JimmyKimmelLive)**
+* **[Jimmy Kimmel Live | 高阶 | 脱裤秀访谈 | 22.1M subscribers |  YTB](https://www.youtube.com/@JimmyKimmelLive)**
 
   - [En: The official Jimmy Kimmel Live!]{s}
   - [Cn: 官方吉米·金梅尔现场！]{g}
@@ -1057,7 +1061,7 @@
 
 ---
 **[The Tonight Show Starring Jimmy Fallon]{s}**
-* **[The Tonight Show Starring Jimmy Fallon | 中阶 | 脱裤秀访谈 | 34.1M | YTB](https://www.youtube.com/@fallontonight)**
+* **[The Tonight Show Starring Jimmy Fallon | 中阶 | 脱裤秀访谈 | 34.1M subscribers |  YTB](https://www.youtube.com/@fallontonight)**
 
   - [En: The official home of The Tonight Show Starring Jimmy Fallon!]{s}
   - [Cn: 吉米·法伦主持的《今夜秀》官方主台！]{g}
@@ -1101,7 +1105,7 @@
 
 ---
 **[ur mom ashley]{e}**
-* **[ur mom ashley | 中阶 | 女、生活写实记录 | 2.12M | YTB](https://www.youtube.com/@urmomashley)**
+* **[ur mom ashley | 中阶 | 女、生活写实记录 | 2.12M subscribers |  YTB](https://www.youtube.com/@urmomashley)**
 
 ---
 **[Beautiful Twin Sisters]{s}**
@@ -1135,7 +1139,7 @@
 
 ---
 **[Elliot Choy]{s}**
-* **[Elliot Choy | 中阶 | 男、已毕业要往前翻大学生活Vlog。| 1.33M | YTB](https://www.youtube.com/@ELLIOTCHOY/videos)**
+* **[Elliot Choy | 中阶 | 男、已毕业要往前翻大学生活Vlog。| 1.33M subscribers |  YTB](https://www.youtube.com/@ELLIOTCHOY/videos)**
 
   - [En: Hi ~ I’m Elliot, based in NYC, making videos, living life.]{g}
   - [Cn: 嗨~我是Elliot，常驻纽约市，制作视频，过生活。]{g}
@@ -1165,7 +1169,7 @@
 
 ---
 **[This Is How We Bingham]{s}**
-* **[This Is How We Bingham | 中阶 | 小孩家庭 | 1.33M | YTB](https://www.youtube.com/@thisishowwebingham)**
+* **[This Is How We Bingham | 中阶 | 小孩家庭 | 1.33M subscribers |  YTB](https://www.youtube.com/@thisishowwebingham)**
 
   - [En: Life is for living and we LOVE living life!]{s}
   - [Cn: 生活就是为了活着，而我们热爱生活！]{g}
@@ -1200,12 +1204,12 @@
 
 ---
 **[Us The Duo]{s}**
-* **[Us The Duo | 中阶 | 小孩家庭 | 音乐 | Music | 2.06M | YTB](https://www.youtube.com/@ustheduo/featured)**
+* **[Us The Duo | 中阶 | 小孩家庭 | 音乐 | Music | 2.06M subscribers |  YTB](https://www.youtube.com/@ustheduo/featured)**
   - [Top Hits of 2023 - Us The Duo](https://www.youtube.com/watch?v=sMChO6ex5lw)
 
 ---
 **[J House Vlogs]{s}**
-* **[J House Vlogs | 中阶 | 爸妈带着一群小孩世界各地旅居 | 3.55M | YTB](https://www.youtube.com/@jhousevlogs/featured)**
+* **[J House Vlogs | 中阶 | 爸妈带着一群小孩世界各地旅居 | 3.55M subscribers |  YTB](https://www.youtube.com/@jhousevlogs/featured)**
 
   - [En: Welcome to J House Vlogs.]{s}
   - [Cn: 欢迎来到J House Vlogs。]{g}
@@ -1228,12 +1232,12 @@
 
 ---
 **[The LaBrant Fam]{s}**
-* **[The LaBrant Fam | 中阶 | God and family | 12.7M | YTB](https://www.youtube.com/@ColeAndSav/featured)**
+* **[The LaBrant Fam | 中阶 | God and family | 12.7M subscribers |  YTB](https://www.youtube.com/@ColeAndSav/featured)**
   - [OUR WEDDING VIDEO. Vows to 4 year old daughter](https://www.youtube.com/watch?v=MK5zVLYXzyg)
 
 ---
 **[The Crosbys]{s}**
-* **[The Crosbys | 初中阶段衔接 | 有一个很有意思的小孩口播列表 | Music | 4.68M | YTB](https://www.youtube.com/@TheCrosbys/videos)**
+* **[The Crosbys | 初中阶段衔接 | 有一个很有意思的小孩口播列表 | Music | 4.68M subscribers |  YTB](https://www.youtube.com/@TheCrosbys/videos)**
   - [Ocean Eyes - Billie Eilish (12-year-old Claire Crosby Live Cover)](https://www.youtube.com/watch?v=4cUuxGNY9D4)
 
 ---
@@ -1243,16 +1247,16 @@
 
 ---
 **[Speak English With Vanessa]{e]**
-* **[Speak English With Vanessa | 初级 | 初中级衔接 | 有吐字非常清晰、语速较慢的超长对话内容，有挺多雅思口语相关话题。| 7.65M | YTB](https://www.youtube.com/@SpeakEnglishWithVanessa)**
+* **[Speak English With Vanessa | 初级 | 初中级衔接 | 有吐字非常清晰、语速较慢的超长对话内容，有挺多雅思口语相关话题。| 7.65M subscribers |  YTB](https://www.youtube.com/@SpeakEnglishWithVanessa)**
 
 ---
 **[Ariannita la Gringa]{e}**
-* **[Ariannita la Gringa | 初阶 | 生活实用英文 | English Teacher | 2.11M | YTB](https://www.youtube.com/@ariannitalagringa/videos)**
+* **[Ariannita la Gringa | 初阶 | 生活实用英文 | English Teacher | 2.11M subscribers |  YTB](https://www.youtube.com/@ariannitalagringa/videos)**
   - **Hey! I'm Ariannita, an English teacher. Let's boost your real-world English skills. Subscribe and learn!**
 
 ---
 **[Learn English with Bob the Canadian]{s}**
-* **[Learn English with Bob the Canadian | 0基础 | 内容量巨大，风格偏写实记录 | 2.56M | YTB](https://www.youtube.com/@LearnEnglishwithBobtheCanadian/videos)**
+* **[Learn English with Bob the Canadian | 0基础 | 内容量巨大，风格偏写实记录 | 2.56M subscribers |  YTB](https://www.youtube.com/@LearnEnglishwithBobtheCanadian/videos)**
 
   - [En: Do you want to learn English?]{s}
   - [Cn: 你想学英语吗？]{g}
@@ -1282,7 +1286,7 @@
 
 ---
 **[Volka English]{s}**
-* **[Volka English | 0基础 | 初阶 | 内容风格非常一致，画质很好 | 1.37M | YTB](https://www.youtube.com/@VolkaEnglish)**
+* **[Volka English | 0基础 | 初阶 | 内容风格非常一致，画质很好 | 1.37M subscribers |  YTB](https://www.youtube.com/@VolkaEnglish)**
 
 ---
 ### 0005. Podcast 播客
@@ -3217,10 +3221,10 @@
 
 ---
 **[The Diary Of A CEO]{s}**
-* **[The Diary Of A CEO | 高阶 | 嘉宾行业大牛，内容知识含金量超高。主持人英国人 | 19M |  YTB](https://www.youtube.com/@TheDiaryOfACEO)**
+* **[The Diary Of A CEO | 高阶 | 嘉宾行业大牛，内容知识含金量超高。主持人英国人 | 19M subscribers |   YTB](https://www.youtube.com/@TheDiaryOfACEO)**
 
 **[The Diary Of A CEO Clips]{s}**
-* **[The Diary Of A CEO Clips | 精品节选 | 2.58M | YTB](https://www.youtube.com/@TheDiaryOfACEOClips/videos)**
+* **[The Diary Of A CEO Clips | 精品节选 | 2.58M subscribers |  YTB](https://www.youtube.com/@TheDiaryOfACEOClips/videos)**
 
 ---
 **[Taylor Swift]{e}**
@@ -3276,7 +3280,7 @@
 ### 0025. Bloger Gather | TEco Lab
 **[Bloger Gather]{s}**
 **[Jay Shetty Podcast·心理健康]{s}**
-* **[Jay Shetty Podcast | 5.86M | YTB](https://www.youtube.com/@JayShettyPodcast./videos)**
+* **[Jay Shetty Podcast | 5.86M subscribers |  YTB](https://www.youtube.com/@JayShettyPodcast./videos)**
 
 ---
 **[Ethan Travels | Travels]{s}**
@@ -3825,7 +3829,7 @@
 
 ---
 **[SparkTV]{s}**
-* **[SparkTV | 2.6M | YTB](https://www.youtube.com/@SparkTVMovies/videos)**
+* **[SparkTV | 2.6M subscribers |  YTB](https://www.youtube.com/@SparkTVMovies/videos)**
 
   - [En: SparkTV is a wholesome, family friendly, entertainment provider.]{s}
   - [Cn: SparkTV 是一家健康、适合家庭的娱乐平台。]{g}
@@ -3871,12 +3875,12 @@
 ---
 ### 0026. Podcast 播客 | Drama 短剧
 **[LOVEBUSTER]{s}**
-* **[LOVEBUSTER | 2.06M | YTB](https://www.youtube.com/@LoveBusterShow/videos)**
+* **[LOVEBUSTER | 2.06M subscribers |  YTB](https://www.youtube.com/@LoveBusterShow/videos)**
   - [I Broke The Law To Save Those I Love | SAVING HEARTS | Ep.10 | 我违法拯救我所爱的人 |拯救心灵 |第10集](https://www.youtube.com/watch?v=xxAknGzwPSw)
 
 ---
 **[English Unleashed: The Podcast]{s}**
-* **[English Unleashed: The Podcast | 1.42M | YTB](https://www.youtube.com/@EnglishPodcastUnleashed/videos)**
+* **[English Unleashed: The Podcast | 1.42M subscribers |  YTB](https://www.youtube.com/@EnglishPodcastUnleashed/videos)**
   - [En: Welcome to English Unleashed: The Podcast.]{s}
   - [Cn: 欢迎收听《English Unleashed：播客》。]{g}
 
@@ -4011,7 +4015,7 @@
 
 ---
 **[Harvard Unviersity]{s}**
-* **[Harvard University | 286M | YTB](https://www.youtube.com/@harvard/videos)**
+* **[Harvard University | 286M subscribers |  YTB](https://www.youtube.com/@harvard/videos)**
   - [Oprah Winfrey Harvard Commencement speech | Harvard Commencement 2013](https://www.youtube.com/watch?v=GMWFieBGR7c)
   - [Harvard Thinking: The secret lives of super-agers](https://www.youtube.com/watch?v=P7-nshMUJms)
   - [瑞思Ruisi](https://v.douyin.com/gN7MH_3RrAs/)
@@ -4022,7 +4026,7 @@
 
 ---
 **[Stanford]{s}**
-* **[Stanford | 2.19M | YTB](https://www.youtube.com/@stanford/videos)**
+* **[Stanford | 2.19M subscribers |  YTB](https://www.youtube.com/@stanford/videos)**
   - [Steve Jobs' 2005 Stanford Commencement Address](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
 
   **[斯坦福大学]{g}**
@@ -4055,7 +4059,7 @@
 ---
 ### 0030. Organization
 **[United Nations]{s}**
-* **[联合国 | 3.32M | YTB](https://www.youtube.com/unitednations)**
+* **[联合国 | 3.32M subscribers |  YTB](https://www.youtube.com/unitednations)**
   - [Emma Watson at the HeForShe Campaign 2014 - Official UN Video](https://www.youtube.com/watch?v=gkjW9PZBRfk)
 
 ---
@@ -4067,7 +4071,7 @@
 ---
 ### 0032. English Speeches
 **[English Speeches]{s}**
-* **[English Speeches | 6.47M | YTB](https://www.youtube.com/@EnglishSpeeches/videos)**
+* **[English Speeches | 6.47M subscribers |  YTB](https://www.youtube.com/@EnglishSpeeches/videos)**
 
 ---
 ### 0033. Thejonathon | GenshinImpact
@@ -4102,7 +4106,7 @@
 ---
 ### 0036. English Source
 **[BBC Learning English]{s}**
-* **[BBC Learning English | 10.7M | YTB](https://www.youtube.com/@bbclearningenglish/videos)**
+* **[BBC Learning English | 10.7M subscribers |  YTB](https://www.youtube.com/@bbclearningenglish/videos)**
 
 * **[BBC](https://www.bbc.co.uk/learningenglish)**
 
@@ -4158,7 +4162,7 @@
 
 ---
 **[linguamarina]{e}**
-* **[linguamarina | 8.89M | YTB](https://www.youtube.com/@linguamarina)**
+* **[linguamarina | 8.89M subscribers |  YTB](https://www.youtube.com/@linguamarina)**
   - [En: Co-founder of a language-learning platform Linguatrip, passionate about learning languages.]{s}
   - [Cn: 语言学习平台Linguatrip的联合创始人，热衷于学习语言。]{g}
 
@@ -4191,7 +4195,7 @@
 
 ---
 **[ETJ English]{s}**
-* **[ETJ English | 1.15M | YTB](https://www.youtube.com/@etjenglish)**
+* **[ETJ English | 1.15M subscribers |  YTB](https://www.youtube.com/@etjenglish)**
   - [En: I’m Elliott, founder of ETJ English - a British pronunciation coach and communication mentor helping learners and professionals speak English clearly, naturally, and confidently.]{s}
   - [Cn: 我是Elliott，ETJ English的创始人——一位英国发音教练和沟通导师，帮助学习者和专业人士清晰、自然且自信地说英语。]{g}
 
@@ -4223,7 +4227,7 @@
 
 ---
 **[English with Lucy]{e}**
-* **[English with Lucy | 14M | YTB](https://www.youtube.com/@EnglishwithLucy)**
+* **[English with Lucy | 14M subscribers |  YTB](https://www.youtube.com/@EnglishwithLucy)**
   - [En: Click to download my FREE B1-C1]{s}
   - [Cn: 点击下载我的免费B1-C1]{g}
 
@@ -4262,7 +4266,7 @@
 
 ---
 **[TEDx Talks]{s}**
-* **[TEDx Talks | 44.6M | YTB](https://www.youtube.com/@TEDx)**
+* **[TEDx Talks | 44.6M subscribers |  YTB](https://www.youtube.com/@TEDx)**
 
   - [En: TEDx is an international community that organizes TED-style events anywhere and everywhere -- celebrating locally-driven ideas and elevating them to a global stage.]{s}
   - [Cn: TEDx是一个国际社区，组织类似TED的活动，地点和地点——庆祝本地驱动的理念，并将其提升到全球舞台。]{g}
@@ -4322,7 +4326,7 @@
 ---
 ### 0041. Silicon Valley Girl
 **[Silicon Valley Girl]{e}**
-* **[Silicon Valley Girl | 1.56M | YTB](https://www.youtube.com/@SiliconValleyGirl/videos)**
+* **[Silicon Valley Girl | 1.56M subscribers |  YTB](https://www.youtube.com/@SiliconValleyGirl/videos)**
   - [Godmother of AI: In 10 Years There Will Be Only 2 Kinds of Workers | Fei-Fei Li](https://www.youtube.com/watch?v=subu-xHrp1w)
   - [李飞飞对话MasterClass创始人：AI时代最大的秘密 | B站](https://www.bilibili.com/video/BV1ZUMi69E9T/?spm_id_from=333.337.search-card.all.click)
 
@@ -4333,13 +4337,13 @@
 ---
 ### 0042. BBC
 **[BBC·British Broadcasting Corporation]{s}**
-* **[BBC | 15.6M | YTB](https://www.youtube.com/@BBC/videos)**
+* **[BBC | 15.6M subscribers |  YTB](https://www.youtube.com/@BBC/videos)**
 
 ---
 ### 0042. BBC Earth
 **[BBC Earth]{s}**
 * **[BBC Earth | Home](https://www.bbcearth.com/)**
-* **[BBC Earth | 14.5M | YTB](https://www.youtube.com/@bbcearth)**
+* **[BBC Earth | 14.5M subscribers |  YTB](https://www.youtube.com/@bbcearth)**
 
   - [En: Bringing you face-to-face with heart-pounding action, mind-blowing ideas and the sheer wonder of being part of this amazing planet we call home.]{s}
   - [Cn: 带你面对令人心跳加速的动作、令人震撼的创意，以及成为这个我们称之为家的奇妙星球一部分的纯粹惊奇。]{g}
@@ -4384,7 +4388,7 @@
 ---
 ### 0043. Dwarkesh Patel
 **[Dwarkesh Patel]{s}**
-* **[Dwarkesh Patel | Deeply researched interviews 深入研究的访谈；经过深度研究的采访 | 1.39M | YTB](https://www.youtube.com/@DwarkeshPatel/videos)**
+* **[Dwarkesh Patel | Deeply researched interviews 深入研究的访谈；经过深度研究的采访 | 1.39M subscribers |  YTB](https://www.youtube.com/@DwarkeshPatel/videos)**
 
 * **[Dwarkesh Podcast]{s}**
   - [dwarkesh](https://www.dwarkesh.com/p/adam-brown-gr)
@@ -4392,7 +4396,7 @@
 ---
 ### 0044. PBS · Public Broadcasting Service()
 **[PBS · Public Broadcasting Service]{s}**
-* **[PBS | 美国公共广播电视机构 | 1.78M | YTB](https://www.youtube.com/@PBS/videos)**
+* **[PBS | 美国公共广播电视机构 | 1.78M subscribers |  YTB](https://www.youtube.com/@PBS/videos)**
   - [The World’s Largest Concentrated Solar Power Plant | A Brief History of the Future | PBS](https://www.youtube.com/watch?v=2Z_5iRFf-Pc&list=PLzkQfVIJun2KVm7_Pgxma0b7fZBu_xJ97&index=1)
 
   ---
@@ -4542,13 +4546,13 @@
 ---
 ### 0300. The Drew Barrymore Show
 **[The Drew Barrymore Show]{s}**
-* **[The Drew Barrymore Show | 1.47M | YTB](https://www.youtube.com/@TheDrewBarrymoreShow/videos)**
+* **[The Drew Barrymore Show | 1.47M subscribers |  YTB](https://www.youtube.com/@TheDrewBarrymoreShow/videos)**
   - [Natalie Portman Reveals the Surprising Souvenir She Stole from 'Star Wars' | The Drew Barrymore Show](https://www.youtube.com/watch?v=LP7Dbuj7lT0)
 
 ---
 ### 0400. The Tonight Show Starring Jimmy Fallon
 **[The Tonight Show Starring Jimmy Fallon]{s}**
-* **[The Tonight Show Starring Jimmy Fallon | 34.1M | YTB](https://www.youtube.com/@fallontonight/videos)**
+* **[The Tonight Show Starring Jimmy Fallon | 34.1M subscribers |  YTB](https://www.youtube.com/@fallontonight/videos)**
   - [Remembering Dr. Jane Goodall | The Tonight Show Starring Jimmy Fallon](https://www.youtube.com/watch?v=nFO0-xu71Dw)
 
 ---
@@ -4559,7 +4563,7 @@
 ---
 ### 0500. Kurzgesagt – In a Nutshell | Animation
 **[Kurzgesagt – In a Nutshell]{s}**
-* **[Kurzgesagt – In a Nutshell | 25.4M | YTB](https://www.youtube.com/@kurzgesagt/videos)**
+* **[Kurzgesagt – In a Nutshell | 25.4M subscribers |  YTB](https://www.youtube.com/@kurzgesagt/videos)**
 
 ---
 ### 0600. 小熊英文故事·播客短剧
@@ -4576,17 +4580,17 @@
 
 ---
 **[Fairy Tales and Stories for Kids]{s}**
-* **[Fairy Tales and Stories for Kids | 3.09M | YTB](https://www.youtube.com/@FairyTales.English/videos)**
+* **[Fairy Tales and Stories for Kids | 3.09M subscribers |  YTB](https://www.youtube.com/@FairyTales.English/videos)**
 
 ---
 ### 0900. News
 **[ITV News]{s}**
-* **[ITV News | 2.21M | YTB](https://www.youtube.com/@ITVNews/videos)**
+* **[ITV News | 2.21M subscribers |  YTB](https://www.youtube.com/@ITVNews/videos)**
 
 ---
 ### 1000. GPT词源学
 **[CrashCourse]{s}**
-* **[CrashCourse | 17.2M | YTB](https://www.youtube.com/@crashcourse/videos)**
+* **[CrashCourse | 17.2M subscribers |  YTB](https://www.youtube.com/@crashcourse/videos)**
   - **[Crash Course Geology](https://www.youtube.com/watch?v=YokkwzdZX2A&list=PL8dPuuaLjXtMuxfQl-TBfSHokgpbLvKX9&index=1)**
 
 ---

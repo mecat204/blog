@@ -226,9 +226,31 @@
 * **[Andrej Karpathy](https://x.com/karpathy)**
 
 ---
-### 0004. Codez
+### 0004. Codez | Content creator | AI researcher & builder | AI insights from 2030
 **[Codez]{e}**
 * **[Codez](https://x.com/0xCodez)**
+
+---
+### 0005. Amto | AI工具、币圈实事、资金流温度及风险提醒
+**[Amto]{s}**
+* **[Amto](https://x.com/XAMTO_AI)**
+  - [雪落影视](https://www.xlys02.com/)
+  - [BotVod](https://botvod.com/)
+
+---
+### 0006. MongoDB
+**[MongoDB]{s}**
+* **[MongoDB](https://x.com/MongoDB)**
+
+---
+### 0007. Visual Studio Code
+**[Visual Studio Code]{s}**
+* **[Visual Studio Code](https://x.com/code)**
+
+---
+### 0008. Vercel
+**[Vercel]{s}**
+* **[Vercel 云平台；静态网站](https://x.com/vercel)**
 
 ---
 ### 9999. Software | Books | Download

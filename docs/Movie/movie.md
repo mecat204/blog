@@ -1392,8 +1392,13 @@
 ---
 ### 0401. 雪落影视
 **[雪落影视]{s}**
-* **[雪落影视](https://www.xlys02.com/)**
+* **[雪落影视 | 沉浸式影视平台](https://www.xlys02.com/)**
   - v.xl.in.ua | v.xl01.eu.cc | v.xl02.eu.cc | v.xl01.cc.ua
+
+---
+### 0402. BotVod proxy
+**[BotVod]{s}**
+* **[BotVod | BotVod · 免费在线视频下载网站，支持 YouTube、TikTok、Bilibili、Twitter(X)、I](https://botvod.com/)**
 
 ---
 ### 0500. 关联 ihavenotv
