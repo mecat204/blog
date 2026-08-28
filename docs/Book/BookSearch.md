@@ -36,6 +36,10 @@
 
 ---
 ### 0001. 搜书
+**[英语说文解字（中英文对照版）（第二版）]{s}**
+  - [WORD POWER MADE EASY](https://v.douyin.com/URVhF0ggPwU/)
+
+---
 **[Wow English 台词本]{s}**
   - [Wow English](https://v.douyin.com/8h3axmcalqc/)
 

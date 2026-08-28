@@ -404,7 +404,7 @@
 
 ---
 **[梦灵逸]{e}**
-* **[梦灵逸 | 五百章 | Douyin](https://v.douyin.com/Qc77CKKA1SI/)**
+* **[梦灵逸 | 灵性艺术修行者 地球人生体验玩家 技能已解锁： 画画，香疗(花草药香囊, 香薰粉, 能量香膏, 蜡烛, 香皂) 粘土, 陶泥, 植物果实手串, 疗愈果实摇铃, 诗歌创作, 做衣服, 改造鞋子 灵性抽象画作, 疗愈手工艺品可结缘 | 仟章 | Douyin](https://v.douyin.com/Qc77CKKA1SI/)**
   - [创造的能量，生生不息 手工玫瑰香皂，花草药摆件独一无二](https://v.douyin.com/fxknUQWDFxY/)
   - [联想到小时候的悟空 | 画画手绘 | procreate绘画 | 绘画作品 | 画画 | 手绘](https://v.douyin.com/jPSqq3cuB0A/)
   - [分享对道，这个字的理解感悟 | 感悟| 修行| 道德经| 灵性| 能量](https://v.douyin.com/8P_tNig-Lvo/)
@@ -716,6 +716,7 @@
   - [AI救不了人形机器人泡沫？产能又过剩了？](https://v.douyin.com/41oJYK4IKq4/)
   - [突袭委内瑞拉！特朗普的公私账与全球影响](https://v.douyin.com/IXBmyx5Osbk/)
   - [数字人民币 2.0: 预付不亏，跨境无阻](https://v.douyin.com/G4rGfq7Pn7c/)
+  - [比尔·盖茨说，AI留给我们的时间不多了 | Min: 04:03](https://v.douyin.com/Z6eki7doflE/)
 
 ---
 **[旺旺]{s}**
@@ -784,6 +785,16 @@
 
 ---
 ### 0010. 2026
+**[漓]{e}**
+* **[漓 | 佰章 | Douyin](https://v.douyin.com/AhCTL7S8iM4/)**
+  - [白水鉴心🤍](https://v.douyin.com/ct9KIwbOhxg/)
+
+---
+**[大圆脸的脸脸·搞笑]{e}**
+* **[大圆脸的脸脸 | 🌼谢谢你那么优秀还关注我😘 🌸所有作品均为对口型💋文案生活与生活无关 | 贰仟章](https://v.douyin.com/XTiLZFk6IVA/)**
+  - [睡前故事真的提神醒脑 | 大郎](https://v.douyin.com/ohqzlQU6XN4/)
+
+---
 **[甜甜琛啊·经济]{e}**
 * **[甜甜琛啊 | pku 博士毕业 全网同名 直播在🍠 | 贰佰章 | Douyin](https://v.douyin.com/6iRKe6CEFL8/)**
   - [数据不骗人，我花 17 年分析，学医确实是大饼](https://v.douyin.com/9GnUrFkCrGQ/)

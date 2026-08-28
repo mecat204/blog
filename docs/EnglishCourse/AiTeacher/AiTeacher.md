@@ -115,7 +115,7 @@
 
 ---
 ### 0002. Translate
-**[]{p}**
+**[Dr. T. Justin Webb]{p}**
 * **[Dr. T. Justin Webb | 326位 | Youtube](https://www.youtube.com/@webb8020/videos)**
   - **[AI-Powered Strategic Thinker](https://pensator-strategus.notion.site/AI-Powered-Strategic-Thinker-187f851e265a8087a195fbdec5054cb5)**
 

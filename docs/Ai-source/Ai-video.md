@@ -1587,6 +1587,69 @@
     - [老子：“轻诺必寡信，多易必多难。” | Min: 03:41 | 020](https://v.douyin.com/UCkjraNS4cs/)
 
 ---
+### 0068. 淼淼淼(miao)AI
+**[淼淼淼AI]{s}**
+* **[淼淼淼AI | AI不只是工具，它能让想象被看见 没见过的世界，我就亲手造出来 天宫只是第一站... | 佰章 | Douyin](https://v.douyin.com/GhQV4gRu3qw/)**
+
+  ---
+  **[001. 天宫]{s}**
+    - [若天上真的有人生活 大概也会扫庭、煎药、抄书、养鹤、煮茶…… | 001](https://v.douyin.com/cqcwAiMKNQg/)
+    - [若天宫有人住，会是什么样 | 002](https://v.douyin.com/X9fwqzdC6qQ/)
+    - [天上白玉京，十二楼五城 | 003](https://v.douyin.com/jGQoiVKXopg/)
+    - [人在其中，不过一粟。| 004](https://v.douyin.com/1EkHHyybt4U/)
+    - [云开天阙，误入白玉京 | 005](https://v.douyin.com/5Qf-M-mUWR8/)
+    - [人间抬头是天，天上抬头又是什么？| 006](https://v.douyin.com/NYoVBzy2ulI/)
+    - [云阙万重开，抬眼已非人间 me: 万里云阙万重开, 抬眼已非人间人。| 007](https://v.douyin.com/kyv5NBdMBnc/)
+    - [天上白玉京，十二楼五城。| **即梦Seedance2.5官方满血体验** | 008](https://v.douyin.com/t5SM7x8Qbaw/)
+    - [云开万里，宫阙入青冥。 青衣立云海，一步一重天。| 009](https://v.douyin.com/yeThLpmAGz8/)
+
+  ---
+  **[002. 火星文明]{s}**
+    - [如果火星真的有一天变成这样，你愿意搬过去吗 | 001](https://v.douyin.com/q3Q87jza_FY/)
+    - [巨构 × 火星文明](https://v.douyin.com/uCyusTde-1M/)
+
+---
+### 0069. 思元梦·AIGC
+**[思元梦·AIGC]{s}**
+* **[思元梦 | 关注我就像拥有一面明镜，久而久之才发现我的意义 | 贰佰章 | Douyin](https://v.douyin.com/S1UisIQNrmM/)**
+  - [万恶淫为首是什么意思都不知道…糟蹋了](https://v.douyin.com/tgdfP30f4Z4/)
+
+  ---
+  **[001. 语言 梦式哲学]{s}**
+    - [在你的平行宇宙中，你活的像神还是像畜升 | Min: 00:32 | 001](https://v.douyin.com/IZQapHv5Dm4/)
+
+    ---
+    - [贫穷限制了想象，这句话并不是一句玩笑，你可能不知道想象意味着什么 | Min: 00:52 | 010](https://v.douyin.com/M5OigdJjQ0c/)
+
+    ---
+    - [不要窥探命运 结果被固定的后果不会是你想要的 | Min: 00:54 | 020](https://v.douyin.com/Gz9V8GtEaQk/)
+    - [机关算尽命终尽, 随心所欲道自新]{lb}
+
+    ---
+    - [有什么事情是你做的决定 | Min: 01:27 | 030](https://v.douyin.com/8BBoOE0-pvA/)
+
+    ---
+    - [看看你是不是NPC | Min: 01:31 | 058](https://v.douyin.com/H0KDMMBaA5M/)
+
+    ---
+    - [拖延真相 拖延是虚假承诺，行动才是改变关键。| Min: 01:32 | 040](https://v.douyin.com/VlcEd5KdZa4/)
+
+    ---
+    - [穷人和富人的差别只有一点不同 | Min: 00:38 | 050](https://v.douyin.com/Tv6hQX-1s0w/)
+
+    ---
+    - [享受孤独 孤独享受| Min: 01:13 | 060](https://v.douyin.com/o5Ll3cXkt0s/)
+
+    ---
+    - [2026年 九紫离火既已开 大悟免成人留下 | Min: 02:06 | 067](https://v.douyin.com/tvqO7N1sz0U/)
+
+    ---
+    - [刷短视频的人类们 你们根本没看懂如何运用短视频 | Min: 01:16 | 070](https://v.douyin.com/jyUm5zYQNB4/)
+
+    ---
+    - [人类这奇怪的控制欲 | Min: 01:02 | 073](https://v.douyin.com/1nyZ1R6_TlE/)
+
+---
 ### 9999. Download
 **[必应]{s}**
 * **[必应 | bing.com](https://cn.bing.com/)**
