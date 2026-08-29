@@ -12,6 +12,11 @@
 * **[wallspic | Wallpapers for Desktop and Mobile: Free HD Images and Backgrounds | Wallspic](https://wallspic.com/)**
 
 ---
+**[WebDesk]{s}**
+* **[WebDesk](https://github.com/NAME0x0/WebDesk)**
+  - [WebDesk — Your desktop, alive.](https://webdesk-live.vercel.app/)
+
+---
 ### 0001. 视频·壁纸
 **[视频·壁纸]{s}**
 * **[wallpapers](https://wallpapers.com/)**
@@ -62,8 +67,8 @@
   - [云阔河长接远城,马蹄踏遍草山青。浮洲欲坠天边梦,孤客平临岭上晴。一脉虹光穿海雾,半川炊火隐云汀。回头人世如棋局，只向天涯问此行.]{g}
 
 ---
-**[泠溪先生]{s}**
-* **[泠溪先生 | 新作将启，君来可期。作品图集，不定期发布，若需可关注。原创专属 | 五十章 | Douyin](https://v.douyin.com/r3kOFD0psSI/)**
+**[泠ling溪先生]{s}**
+* **[泠溪先生 | 温一壶月光，暖半世风霜。 | 贰佰章 | Douyin](https://v.douyin.com/r3kOFD0psSI/)**
   - [带你走进画里](https://v.douyin.com/NiquFWaWZio/)
   - [云迷古寺钟声隐，雪压空山梵语稀。带你走进画里]{g}
 
@@ -645,27 +650,34 @@
   - [凡人修仙传-元瑶动态](https://v.douyin.com/KR9YntjSBVo/)
   - [青裙倚白马，曦光漫林梢 梅凝水墨风动态壁纸](https://v.douyin.com/M7MvzzX3824/)
   - [这些场景，是否曾在你的梦境中出现](https://v.douyin.com/fVJFcrNcPgw/)
-
   **[LUOYU AI | Seedance2.0 Painting]{g}**
 
   ---
-  **[001. 凡人修仙传静态图文壁纸]{g}**
+  **[001. 单角色竖版手机动态壁纸]{g}**
+    - [阵法家石蝶仙子竖版wallpaper壁纸 | 001](https://v.douyin.com/2lZcu7jJgX0/)
+    - [慕佩凌仙子竖版wallpaper壁纸 | 002](https://v.douyin.com/JnqolBrtS3E/)
+    - [南宫姐妹竖版壁纸wallpaper | 004](https://v.douyin.com/YB-epG5sCU4/)
+    - [南宫婉紫衣韵味竖版壁纸 | 021](https://v.douyin.com/nytwF02TNU8/)
+    - [南宫婉高冷竖版壁纸 | 023](https://v.douyin.com/Huti_LpSqms/)
+
+  ---
+  **[002. 凡人修仙传静态图文壁纸]{g}**
     - [即梦5.0极致画质下的凡人中登们 | 001](https://v.douyin.com/TyRAX6NpNXM/)
     - [当色彩划过屏幕图文版 | 022](https://v.douyin.com/vLlUs6sIi6E/)
 
   ---
-  **[002. 凡人舞蹈系列]{g}**
+  **[003. 凡人舞蹈系列]{g}**
     - [妙音门女团 - 探故知 出镜选手: 紫灵 文思月 范静梅 卓如婷 周媛 | 002](https://v.douyin.com/a7xo7a3U4Cw/)
     - [落云宗四美一起跳伯虎说 出场选手: 南宫婉 慕沛灵 宋玉 柳玉](https://v.douyin.com/6B0csMg78qI/)
     - [依赖摇银月版，啼魂的拍摄技巧得提升下了 | 008](https://v.douyin.com/ECw4tSljuYg/)
 
   ---
-  **[003. 凡人Ai小剧场]{g}**
+  **[004. 凡人Ai小剧场]{g}**
     - [凡人小剧场-梅凝加入落云宗 | 001](https://v.douyin.com/rcntUvLjBXo/)
     - [手搓颜料转场 | 021](https://v.douyin.com/GvhRkA3smP4/)
 
   ---
-  **[004. 凡人修仙传音乐Ai系列图合集]{g}**
+  **[005. 凡人修仙传音乐Ai系列图合集]{g}**
     - [落英-凡人修仙传 | Music: 落英](https://v.douyin.com/wHibjJzJ-S8/)
     - [归期-凡人修仙传 | Music: 归期](https://v.douyin.com/5ToJ2xy6M-o/)
     - [归潮-凡人女角色 | Music: 归潮](https://v.douyin.com/sxWLKsS9RUY/)
@@ -676,17 +688,37 @@
     - [Music: 不凡-王铮亮](https://v.douyin.com/asOJqYUq5r4/)
 
   ---
-  **[005. 凡人修仙传高清AI动态壁纸合集]{g}**
+  **[006. 凡人修仙传高清AI动态壁纸合集]{g}**
     - [凡人女修4k壁纸合集 | 001](https://v.douyin.com/Ipq2Ds6UTPE/)
     - [将凡人世界重启色彩 | 079](https://v.douyin.com/MJnlKusnYx8/)
     - [将凡人世界重启色彩第二期 | 080](https://v.douyin.com/8wiMqFq0Rww/)
-    - **[梅凝4K横版循环动态壁纸 | 086](https://v.douyin.com/Hs6HvlFZMAU/)**
-    - **[紫灵竖屏壁纸](https://v.douyin.com/Hs6HvlFZMAU/)**
+    - [梅凝4K横版循环动态壁纸 | 086](https://v.douyin.com/Hs6HvlFZMAU/)
+    - [紫灵竖屏壁纸](https://v.douyin.com/Hs6HvlFZMAU/)
 
   ---
-  **[006. 凡人修仙传Ai手办合集]{g}**
+  **[007. 凡人修仙传Ai手办合集]{g}**
     - [韩立头号小迷妹宋玉手办 | 001](https://v.douyin.com/xOYHQkwGJfg/)
     - [慕沛灵终究没能过了韩立这个心魔 | 038](https://v.douyin.com/boGRqOLjzN8/)
+
+  ---
+  **[008. 横板单人循环壁纸合集]{g}**
+    - [宋玉横版循环动态壁纸 | 001](https://v.douyin.com/F9g6XfvV4iI/)
+    - [黑白哈基月变身动态壁纸横版 | 002](https://v.douyin.com/gqv8eC7BBM4/)
+    - [天南双圣循环wallpaper壁纸 | 004](https://v.douyin.com/MG_n5Qqa750/)
+    - [南宫婉倚窗wallpaper壁纸 | 005](https://v.douyin.com/IhzeqVwNqHU/)
+    - [倚窗系列wallpaper单人循环壁纸合集 | 007](https://v.douyin.com/5siA1gK4USM/)
+    - [钟师姐wallpaper循环壁纸 | 008](https://v.douyin.com/FnxRlcnQek4/)
+    - [哈基月双人wallpaper动态壁纸 | 009](https://v.douyin.com/jqAAJz3gq2s/)
+    - [阗天城动态壁纸wallpaper | 013](https://v.douyin.com/d9FByZd-Y9o/)
+    - [南宫姐妹循环壁纸wallpaper | **Music: 醉倚松风-田心王** | 014](https://v.douyin.com/xn6ELc1x_b0/)
+
+    - [慕沛灵横版循环动态壁纸 | 050](https://v.douyin.com/aCzmIO35K2g/)
+    - [梅凝的不舍wallpaper循环壁纸 | 059](https://v.douyin.com/cMlKObHh9ms/)
+    - [南宫阙双形态wallpaper壁纸 | 060](https://v.douyin.com/kjVqEbCmcjw/)
+    - [李缨宁黄龙山循环壁纸 | 068](https://v.douyin.com/WQ6dklYHo2Y/)
+    - [南宫婉独思循环壁纸 | 070](https://v.douyin.com/9kjTBwt3bz0/)
+    - [南宫阙高冷凝视动态壁纸 | 071](https://v.douyin.com/u6Nf_7tNskU/)
+    - [南宫阙玩手机动态壁纸 | 074](https://v.douyin.com/O0XwHTLAqIY/)
 
 ---
 **[春夏秋冬都很想你]{s}**

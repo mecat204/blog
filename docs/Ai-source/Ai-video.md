@@ -1650,6 +1650,28 @@
     - [人类这奇怪的控制欲 | Min: 01:02 | 073](https://v.douyin.com/1nyZ1R6_TlE/)
 
 ---
+### 0100. Arvin Lab
+**[Arvin Lab]{e}**
+* **[Arvin Lab | AIGC创作者 ｜ 理想主义者 新片场Shotlab签约创作人 | 可灵优创 | 佰章 | Douyin](https://v.douyin.com/SFP0c2jjJJE/)**
+  - [指下七弦,化作竹涛；抚琴载舞,不问江湖 | 古风舞蹈. ](https://v.douyin.com/q6TEcyMX5iI/)**
+  - [竹梢悬月,弦上生寒；一舞倾城,袖底藏山. ](https://v.douyin.com/JrtSrNJrx7A/)**
+  - [水帘作镜,照见仙影；笛声过耳,月正清明. ](https://v.douyin.com/2pDeM43XWsc/)
+  - [一眼一生 | Zein](https://v.douyin.com/c6RegtaNqV0/)
+
+  ---
+  **[001. 观古俗, 知雅意]{g}**
+    - [古代婚礼仪式 | 八抬大轿，十里红妆。 中式传统才是浪漫天花板 | 001](https://v.douyin.com/PADA02xlcQ8/)
+
+  ---
+  **[002. 师姐, 师妹你又调皮]{g}**
+    - [师姐说剑修第一课就是扎高马尾，我为了酷上加酷扎了双马尾～ | 001 ](https://v.douyin.com/8TvHnmLta4M/)
+
+  ---
+  **[003. 诗词里的星河]{g}**
+    - [王勃《滕王阁序》致千古第一骈文 | 001](https://v.douyin.com/K6TxPLqggqI/)
+    - [秦观《行香子 · 树绕村庄》 配音朗诵@荔枝大王 | 002](https://v.douyin.com/uRgJnRnzzYQ/)
+
+---
 ### 9999. Download
 **[必应]{s}**
 * **[必应 | bing.com](https://cn.bing.com/)**

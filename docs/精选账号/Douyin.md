@@ -785,6 +785,11 @@
 
 ---
 ### 0010. 2026
+**[♥ 安。]{e}**
+* **[♥ 安。| 人活一世终靠己。 睁开卡姿兰大眼睛。 文案只是文案 | 叁佰章 | Douyin](https://v.douyin.com/kjCduySRb-Q/)**
+  - [人一旦没了心气，真的很可怕，身上的那股劲，那份执着，坚持，一下子松散了，什么都不想做，什么也不想管，只想摆烂，感觉自己的心被掏空了，失去了对任何兴趣的能力…](https://v.douyin.com/KALRg-AfVck/)**
+
+---
 **[漓]{e}**
 * **[漓 | 佰章 | Douyin](https://v.douyin.com/AhCTL7S8iM4/)**
   - [白水鉴心🤍](https://v.douyin.com/ct9KIwbOhxg/)
