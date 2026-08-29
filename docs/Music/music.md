@@ -1790,6 +1790,16 @@
 * **[Billie Eilish | 58.5M | YTB](https://www.youtube.com/@BillieEilish/videos)**
 
 ---
+### 0100. Music·空月之歌 | GenshinImpact
+**[Music·月光行过的梦]{s}**
+* **[原神哥伦比娅 《原神》月光行过的梦](https://v.douyin.com/F2osSSuYu0Q/)**
+* **[Music: 月光行过的梦夜深了，跟着少女听一首摇篮曲休息了吧](https://v.douyin.com/g7MjtYZaKPA/)**
+* **[空之神殿·空之神殿柱殿中央区管风琴圣咏](https://v.douyin.com/2Yklm_5QHaU/)**
+* **[月光行过的梦· 翻唱 Akie秋绘 混音：riraru](https://v.douyin.com/WSeJJ2JeQHs/)**
+* **[空月之歌](https://v.douyin.com/VOP2RwXugxQ/)**
+* **[永驻的月裔](https://v.douyin.com/JE9sEyWZn-w/)**
+
+---
 ### 9999. Music·Course
 **[AlgerMusicPlayer]{s}**
 * **[AlgerMusicPlayer | music | software](https://github.com/algerkong/AlgerMusicPlayer)**
