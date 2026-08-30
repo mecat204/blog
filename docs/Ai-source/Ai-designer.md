@@ -51,6 +51,13 @@
     - [治愈癌症 | 288](https://v.douyin.com/MivKpA-TyOI/)
     - [在刚刚，诺奖得主、基因剪刀之母詹妮弗·杜德纳做了一场深度访谈，把AI到底能不能发明新药，48小时治愈癌症是不是吹牛，基因编辑怎么救活一个罕见病婴儿，中国会不会在生物科技上超过美国，甚至25年内会不会出现基因编辑婴儿，全都说了出来]{g}
 
+    ---
+    - [痛苦减半的方法 | 297](https://v.douyin.com/UILp8br3Fjg/)
+    - [请你作为顶尖学者，用哲学心理学脑科学社会学经济学等领域的专业术语，帮我精准命名现在的焦虑痛苦和崩溃]{g}
+
+    ---
+    - [AI时代，真正拉开孩子差距的是什么 | 306](https://v.douyin.com/4YjDmmhFa1Q/)
+
   ---
   **[transformer-circuits]{g}**
   * **[transformer-circuits.pub](https://transformer-circuits.pub/)**
@@ -96,6 +103,7 @@
     - [AI 写代码老翻车？ 12 万人用的不是更强的模型，是这套纪律 | 001](https://v.douyin.com/6bByqGi-vPE/)
     - [ClaudeCode | 031](https://v.douyin.com/vz-aVrNrECM/)
 
+---
 ### 0005. 反思者
 * **[AI这样发展下去，普通人真的仅仅是失业这么简单吗 | 刘雯：九华黄精8年高货溯源](https://v.douyin.com/3Yn7oi7XglM/)**
 

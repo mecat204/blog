@@ -1789,6 +1789,7 @@
 ### 0039. Billie Eilish
 * **[Billie Eilish | 58.5M | YTB](https://www.youtube.com/@BillieEilish/videos)**
 
+
 ---
 ### 0100. Music·空月之歌 | GenshinImpact
 **[Music·月光行过的梦]{s}**
@@ -1798,6 +1799,35 @@
 * **[月光行过的梦· 翻唱 Akie秋绘 混音：riraru](https://v.douyin.com/WSeJJ2JeQHs/)**
 * **[空月之歌](https://v.douyin.com/VOP2RwXugxQ/)**
 * **[永驻的月裔](https://v.douyin.com/JE9sEyWZn-w/)**
+
+---
+### 0101. AAM. | 异域风情
+**[AAM.]{s}**
+* **[AAM. | A couple of music lovers, Ari and Max | 佰章 | Douyin](https://v.douyin.com/rg5VAo9766g/)**
+
+  ---
+  **[001. Aril and Max Cover]{g}**
+    - [Duvet - Bôa | Min: 00:52 | 001](https://v.douyin.com/E21e4oN5gU8/)
+
+    ---
+    - [Sk8er Boi - Avril Lavigne | Min: 01:19 | 010](https://v.douyin.com/1i4A0UM5Y8E/)
+
+    ---
+    - [Smile - Lily Allen | Min: 01:06 | 020](https://v.douyin.com/18al7775hEg/)
+
+    ---
+    - [Linger - The Cranberries | Min: 00:48 | 030](https://v.douyin.com/1BYsbxHQhwY/)
+
+    ---
+    - [Go Away - Weezer | Min: 00:53 | 040](https://v.douyin.com/nUr8cp98slw/)
+
+
+    ---
+    - [the precipice - Jessie Mazin | Min: 01:17 | 050](https://v.douyin.com/6-cGSHZKW-U/)
+
+    ---
+    - [BG Drawing Birds - AriandMax | Min: 01:05 | 061](https://v.douyin.com/jWTHQaWAkcw/)
+
 
 ---
 ### 9999. Music·Course
