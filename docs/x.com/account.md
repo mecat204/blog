@@ -253,6 +253,43 @@
 * **[Vercel 云平台；静态网站](https://x.com/vercel)**
 
 ---
+### 0009. 123olp
+**[123olp]{s}**
+* **[123olp | 目标是实现有效永生和记忆编辑](https://x.com/123olp)**
+  - [shulihuazixuecongshu](https://github.com/tradecatlabs/shulihuazixuecongshu)
+
+---
+### 0010. Ann Nguyen
+**[Ann Nguyen]{s}**
+* **[Ann Nguyen](https://x.com/ann_nnng)**
+  - [typingmind **need API Key** | TypingMind — LLM Frontend Chat UI for AI models](https://www.typingmind.com/)
+  - [Ann Nguyen - Frontend Developer &amp; AI Design Enthusiast](https://www.bubbbly.com/)
+  - [Github Glass Card](https://www.bubbbly.com/app/github-glass-badge.html)
+  - [ascii-art](https://www.bubbbly.com/app/ascii-art.html)
+  - [founder-letter](https://www.bubbbly.com/founder-letter)
+  - [koi-pond](https://www.bubbbly.com/app/koi-pond.html)
+
+---
+### 0011. Dario | Flowers·二维码
+**[Dario]{s}**
+* **[dariodemh](https://x.com/dariodemh)**
+  - [blossy.pudu.app | Flowers·二维码](https://blossy.pudu.app/#b=JAsAgADCKIkwYA)
+
+---
+### 0012. Abraham John | MengTo-threeui
+**[Abraham John]{s}**
+* **[Abraham John](https://x.com/Abmankendrick)**
+  - [MengTo-threeui | Expensive](https://github.com/MengTo/threeui)
+  - [Three.js Components, Templates &amp; Interactive Shaders | ThreeUI](https://threeui.com/browse)
+
+---
+### 0013. Bole Chen | Zen
+**[Bole Chen]{s}**
+* **[Bole Chen](https://x.com/avenger)**
+  - [RushiWoWen](https://rushiwowen.co/en/zen)
+
+
+---
 ### 9999. Software | Books | Download
 **[dlpanda]{s}**
 * **[DLPanda | Download TikTok Videos Without Watermark | Free HD Video &amp; Photo Downloader](https://www.dlpanda.com)**
