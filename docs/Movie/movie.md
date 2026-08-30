@@ -1396,6 +1396,11 @@
   - v.xl.in.ua | v.xl01.eu.cc | v.xl02.eu.cc | v.xl01.cc.ua
 
 ---
+### 0402. 歪比巴卜
+**[歪比巴卜]{s}**
+* **[歪比巴卜 | 更多高清视频免费在线观看](https://www.wbbb1.com/)**
+
+---
 ### 0402. BotVod proxy
 **[BotVod]{s}**
 * **[BotVod | BotVod · 免费在线视频下载网站，支持 YouTube、TikTok、Bilibili、Twitter(X)、I](https://botvod.com/)**
