@@ -128,6 +128,16 @@
 **[Bilibi直接登录网页可以删除客户端无法删除的收藏夹]{s}**
 
 ---
+**[CyberMemories]{e}**
+* **[CyberMemories | 游戏本地化打工人 不定期掉落拌匀视频✨ | 1.1万 | B站 ](https://space.bilibili.com/23838746?spm_id_from=333.337.search-card.all.click)**
+  - [Michelle Choi | 纽约宅家记/乱七八糟的纽约夏日/紧张的婚礼倒数/成为BTS阿米！](https://www.bilibili.com/video/BV1dsgp6DEna/?spm_id_from=333.1387.0.0)
+
+---
+**[Mindofuture]{s}**
+* **[Mindofuture | 祝大家学有所成 | 7.7万 | B站](https://space.bilibili.com/1122798707?spm_id_from=333.788.upinfo.detail.click)**
+  - [物理世界比你想象的更宽容 | Latent Space | The Physical World Is More Forgiving Than You](https://www.bilibili.com/video/BV1o7426hESR/?spm_id_from=333.337.search-card.all.click)
+
+---
 **[Mmxgxg]{s}**
 * **[Mmxgxg | 欢迎光临B站我的工坊小店，原汁原味海量外语学习资源～进一步咨询可以B站私信留言 | 146.5万 | B站](https://space.bilibili.com/402370368?spm_id_from=333.337.search-card.all.click)**
 
@@ -139,6 +149,7 @@
 ---
 **[学不会英语不改昵称]{s}**
 * **[学不会英语不改昵称 | 只搬运美音，字幕大部分是机翻，欢迎催更 | 4.5万 | B站](https://space.bilibili.com/22095156/lists)**
+  - [Arnel's Everyday English](https://www.bilibili.com/video/BV1pwRwYQEti/?spm_id_from=333.337.search-card.all.click)
 
 ---
 **[XRay-猎豹]{s}**
@@ -175,6 +186,7 @@
 ---
 **[英语百科]{s}**
 * **[英语百科 | 有温度的英语资源搬运工！ | 14.9万 | B站](https://space.bilibili.com/9690008?spm_id_from=333.788.upinfo.detail.click)**
+  - [Arnel's](https://www.bilibili.com/video/BV1DMRAYiENf/?spm_id_from=333.337.search-card.all.click)
 
 ---
 **[英语解锁]{s}**
@@ -1023,8 +1035,12 @@
 
 ---
 ### 0074. Cleo Abram
-**[Cleo Abram]{e}**
+**[海王子Eric]{e}**
 * **[Jony Ive Shows Me The Most Controversial Ferrari Ever](https://www.bilibili.com/video/BV1h6Vp6HEPc/?spm_id_from=333.337.search-card.all.click)**
+
+---
+**[学不会英语不改昵称]{e}**
+* **[Cleo Abram](https://www.bilibili.com/video/BV12zotYuEjK/?spm_id_from=333.337.search-card.all.click)**
 
 ---
 ### 0075. 海王子Eric

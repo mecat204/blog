@@ -137,6 +137,21 @@
     - [剑桥大学国王学院的草坪| 与艾伦教授一起散步 跟我一起在剑桥大学国王学院散步（二） 大家好，我是艾伦·麦克法兰,剑桥大学人类学教授。 今天继续“一起散步”系列剑桥篇的新一集。上一集我们聊了国王学院的身世,这一次,我带大家看看脚下这片草坪藏着的人和故事。 我们接着往前走。你脚下这片草坪,其实并不简单。1446年我们扩建学院时,亨利六世买下了剑桥市中心一整座小镇：教堂、商店、房屋,他全都拆了,再用土盖上。所以这片草坪底下,是英国保存最完好的中世纪城镇遗迹:五百年来,上面什么都没有再建过,只留下青草。这也是世界上最大的一片学术草坪。 我喜欢用中国的朝代来给这里的建筑断代:礼拜堂是15世纪的,克莱尔学院是17世纪的,相当于明代;这一栋是18世纪,清代;那一栋是19世纪,晚清。英国人不像法国人或中国人那样追求统一,而是任由各个世纪的建筑自在地混在一起。 这里和中国的缘分很深。徐志摩曾躺在靠河的草坪上,看星星,看流云;萧乾住过那扇大窗上方的房间。我还想告诉大家一个很少有人知道的细节:《再别康桥》里那棵"河畔的金柳",原本就长在这里。后来老柳树空了心、枯死被砍,我们又在对岸补种了一棵。河上往来的平底船,徐志摩在诗里也写过。 最后,请大家随我抬头,看角落塔楼的那扇窗。1936年,一位刚满22岁、刚成为学院研究员的年轻数学家,在那个房间里写下了一篇只有六八页的论文,题为《论数的可计算性》。他凭想象描绘了两样这世上从未存在过的东西:一台会运算的电子计算机,和一台能"思考"的机器——人工智能。他叫艾伦·图灵。后来,他设计的破译机帮助英国赢得了第二次世界大战。 本系列视频"与人类学家艾伦·麦克法兰一起散步"(Walk with Alan Macfarlane)由Cam Rivers Publishing团队 拍摄和制作]{lb}
 
 ---
+### 0007. University of Pennsylvania 宾夕法尼亚大学
+**[宾夕法尼亚大学]{s}**
+* **[University of Pennsylvania 宾夕法尼亚大学 | 49.4K subscribers | YTB](https://www.youtube.com/@penn/videos)**
+  - [100 years of the Ben Franklin Bridge](https://www.youtube.com/watch?v=1_KzGjS3qIM)
+
+---
+**[Olga Loiek]{e}**
+* **[Olga Loiek | 宾夕法尼亚大学认知科学与计算专业学生 | 218K subscribers | YTB](https://www.youtube.com/@olgaloiek/videos)**
+  - 🇺🇦 Cognitive Science & Computation student at UPenn 📧Business email: loiekolga@gmail.com 💖 Join our community in supporting the channel:  https://www.paypal.com/paypalme/olgaloiek
+  - 🇺🇦 宾夕法尼亚大学认知科学与计算专业学生 商业邮箱：loiekolga@gmail.com 加入我们的社区，支持频道：www.paypal.com/paypalme/olgaloiek📧 💖
+
+  ---
+  - **[why you lost your love for learning & how to get it back | 你为什么失去对学习的热爱以及如何找回它](https://www.youtube.com/watch?v=0rk9O8NUrCg)**
+
+---
 ### 9999. Download
 **[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**
