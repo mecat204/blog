@@ -188,6 +188,24 @@
 * **[薇薇AI新个体 | 30 | YTB](https://www.youtube.com/@%E8%96%87%E8%96%87%E6%96%B0%E4%B8%AA%E4%BD%93/videos)**
 
 ---
+### 0013. 来博士wepon
+**[未来博士wepon]{s}**
+* **[未来博士wepon | 研究未来的清华本硕博，教授级高工，知网 1% 高引学者。 经历跨越规划、地产、科技行业顶级机构, 讲关于未来的各种有趣的东西 | 千章 | Douyin](https://v.douyin.com/JxsyrvE-ExY/)**
+  - [Gemini 3带来的影响](https://v.douyin.com/nEdY4e3SzHM/)
+  - [Gemini 3](https://v.douyin.com/rldBagtLXpA/)
+  - [**MIT开放课程与未来教育** 最近MIT开放了2万多门课程，基本上涉及所有学科领域由浅入深的学习资源，包括视频、讲义、参考资料 | 开放课程 | askTim](https://v.douyin.com/2wLe47d9NzU/)
+  - **[MIT.edu | MIT开放课程与未来教育](https://learn.MIT.edu)**
+  - **思维培养和连接构建 | 未来教育**
+  - [Gemini 3的胜利从模型到体系 | **TPU自研芯片** | **协同进化的模型AI** | **深度定制软件栈**](https://v.douyin.com/aNY4lkcq0jg/)
+  - [Intelligent AI Delegation | 智能AI任务委派](https://v.douyin.com/bA9l2JpmBGs/)
+  - **[Intelligent AI Delegation | 智能AI任务委派]{g}**
+  - **[AI开始担心把人类养废了 前天我发的那篇《全球智能危机》，阅读量已经超过140万了。 其实那篇文章，基本是AI模仿我的风格写的。 我当时没怎么改，直接用了。结果数据比我自己大改的还好。 最近经常会有这种体验——你放手让AI自己去干，效果反而更好。那长此以往，人是不是就废了？我们的认知能力，会不会像不锻炼的肌肉一样萎缩？ 这让我想起最近读到的一篇论文。Google DeepMind前几天发了一篇研究，叫《Intelligent AI Delegation》，翻译过来就是"智能AI任务委派"。]{g}**
+  - **健脑房**
+  - **CodeBuddy**
+  - [AI 赋能每个人的开始 周一IBM股价暴跌13%%，创2000年以来最大单日跌幅，一天蒸发300亿美元。 很多人可能觉得：IBM不就是个科技公司吗？跟我有什么关系。 但你仔细想想，IBM本质上是一家传统企业](https://v.douyin.com/Uux3jKElHLA/)
+  - [AI不是工业革命，而是文艺复兴 最近大家都在喊，说我们迎来了"第四次工业革命"。](https://v.douyin.com/c7O8v8ziGwo/)
+
+---
 ### 9999. Download
 **[必应]{s}**
 * **[必应 | bing.com](https://cn.bing.com/)**
