@@ -792,6 +792,14 @@
 
 ---
 ### 0028. Home | 家
+**[梦忧居]{s}**
+* **[梦忧居](https://v.douyin.com/HneY9gXvJQ8/)**
+  - [温馨的小窝](https://v.douyin.com/xY5Y1KcwANg/)
+  - [温馨的小窝](https://v.douyin.com/n6vhuMSCWgk/)
+  - [温馨的小窝 梦中情房](https://v.douyin.com/FrRs46iP5VA/)
+  - [这样风格的小屋，你最想跟谁一起住](https://v.douyin.com/6J2a-UAW_x8/)
+
+---
 **[知也在家]{s}**
 * **[知也在家 | 贰佰章 | Douyin](https://v.douyin.com/ZxfIBkf_EVY/)**
   - [古温馨小卧室](https://v.douyin.com/6Wwy0TKeBuU/)
@@ -1137,10 +1145,12 @@
   - [不胜人生一场醉 天龙八音](https://v.douyin.com/YlxPc8arGMk/)
   - [人生路 美梦似路长](https://v.douyin.com/TVsLUxZS9_Y/)
   - [凡人武侠篇 佛光初现](https://v.douyin.com/HPJ1pwpmr6s/)
-  - [山海寻龙 胡金铨](https://v.douyin.com/3DTWo4p_kjs/)
+  - [山海寻龙 | **Music: 归零-魔鬼花园_李安健**  胡金铨](https://v.douyin.com/3DTWo4p_kjs/)
   - [一曲九歌赋，半世凡尘路](https://v.douyin.com/fEnOOfHvbHM/)
   - [笑傲江湖曲琴箫合奏](https://v.douyin.com/r2y6lZDLt9I/)
   - [封神往事](https://v.douyin.com/ZgTzCXTcPwY/)
+  - [浮生若影](https://v.douyin.com/YywKr79EjyM/)
+  - [无怨无悔我走我路 | **Music: 江湖路(Cover 罗文)**](https://v.douyin.com/dhX14k0D1tA/)
 
 ---
 ### 0044. 白茶荼葵 | GenshinImpact
@@ -1344,10 +1354,14 @@
     - [一袭仙裙随风舞，踏云逐梦向天宫 | 009](https://v.douyin.com/M62yzFQBwMs/)
 
 ---
-### 0054. AILi小劼哥
+### 0054. AILi小劼哥 AIGC-Based Creation
 **[AILi小劼哥]{s}**
-* **[AILi小劼哥 | 佰章 | Douyin](https://v.douyin.com/eCoYYPVvCaE/)**
-  - [岩刻神明少女| 岩彩画；染料染成的青蓝，被岁月浸软，被风沙吹皱，在鎏金的碎光里，像一片翻涌的浪。当风穿过洞窟，当月光照进画里，当鎏金的颜料在光里流动，她们便会醒过来。](https://v.douyin.com/3ENBA9q9Wnw/)
+* **[AILi小劼哥 | AIGC-Based Creation | 佰章 | Douyin](https://v.douyin.com/eCoYYPVvCaE/)**
+  - [岩刻神明少女 | 岩彩画；染料染成的青蓝，被岁月浸软，被风沙吹皱，在鎏金的碎光里，像一片翻涌的浪。当风穿过洞窟，当月光照进画里，当鎏金的颜料在光里流动，她们便会醒过来。](https://v.douyin.com/3ENBA9q9Wnw/)
+
+  ---
+  - [心紫之间，念紫之远 | **Music: 若能在夺刊亦眼(睡大觉)** | **宽屏** | 002](https://v.douyin.com/j-8FsauVv2c/)
+  - [漫山紫雾漫过衣袂，紫光沉落山海。 可世事总这般仓促，情愫尚未落笔，便已然道尽别离。 来不及相守相恋，只把相逢的刹那，镌刻作余生的永远。 往昔光景反复在心底浮沉，万般心事，最后化作一缕烟缓缓飘散。 徒留一缕记忆的丝线，拴不住绵长哀恋，只余下魂梦辗转。 常在恍惚恍惚之间与旧影重逢，才懂何谓永远。 心心之间，念念之远。]{g}
 
   ---
   **[001. 古风斑斓]{g}**
@@ -1746,6 +1760,39 @@
     - [有人寻仙有人问道，有人与故友共饮一盏清茶。| 024](https://v.douyin.com/QxSEq6zqRE8/)
     - [世间行乐亦如此。| 025](https://v.douyin.com/JrTxtGIXExw/)
     - [霓为衣兮风为马。| 026](https://v.douyin.com/AGHDBVIGYGs/)
+
+---
+### 0200. 瑶光
+**[瑶光]{s}**
+* **[瑶光 | 做梦老手，AIGC新手，希望能跟粉丝们共同成长，欣赏美丽的梦中世界 | 佰章 | Douyin](https://v.douyin.com/tARwuM501uk/)**
+
+  ---
+  **[瑶光]{g}**
+    - [梦里的天宫不是一座建筑，而是一整个世界 | 001](https://v.douyin.com/eMPHdgNjc5o/)
+    - [中式意境 | 002](https://v.douyin.com/9bPnHUTGzaE/)
+    - [这一次，我把梦里的天宫，拼成了一整个世界 | 003](https://v.douyin.com/gUVzI4BotkQ/)
+
+---
+### 0201. 绝境小屋
+**[绝境小屋]{s}**
+* **[绝境小屋 | 一起开启最美的梦境 | 佰章 | Douyin](https://v.douyin.com/wbjeV-L162o/)**
+
+  ---
+  **[001. 装修变换]{g}**
+    - [Music: green to blue (ballad) | 001](https://v.douyin.com/eSFM2KwKzgU/)
+    - [放假了，你会宅在哪间小屋 | 002](https://v.douyin.com/wzwVyDQ_Tlw/)
+    - [如果修仙，你会选择哪一个仙居 | 030](https://v.douyin.com/brzkWNrqL24/)
+    - [修仙，你会选择哪一个居所 | 031](https://v.douyin.com/O3qeBmC5Xtg/)
+    - [加班结束，你会选择哪个小屋休假一周 | 033](https://v.douyin.com/gjOEwr1BJPE/)
+
+---
+### 0202. 云端
+**[云端]{s}**
+* **[云端 | AIGC视觉创作｜国风美学 将梦中所见，化作眼前山河 感谢每一次关注与喜欢 | 佰章 | Douyin](https://v.douyin.com/GfdfTqvpCNQ/)**
+  - [本是青灯不归客，却因浊酒恋红尘。宫阙入云，人在尘中 | **宽屏** | 001](https://v.douyin.com/ZgAX8N2t5N4/)
+  - [山水入卷，风月留章，人间烟火尽在此间 | **宽屏** | 002](https://v.douyin.com/MzeSa1fu8lo/)
+  - [一人一梦一长街，走尽云上旧繁华。 若天上也有长安，大抵便是这般模样。 | **宽屏** | 003](https://v.douyin.com/9EL-ycgca6M/)
+  - [山河远阔，人间烟火，无一是你，无一不是你 | **宽屏** | 004](https://v.douyin.com/IYr_wuh-ogU/)
 
 ---
 ### 9999. Download
