@@ -2579,6 +2579,7 @@
   - **[Step Inside the International Space Station (POV Tour) | 走进国际空间站（视角导览）](https://www.youtube.com/watch?v=nmBbcNTUkOg)**
   - [Moonbound Episode 2 | For All Humanity](https://www.youtube.com/watch?v=ttiLcMUQq80)
   - [Moonbound 第二集 For All Humanity 为了全人类 | Bilibili](https://www.bilibili.com/video/BV1yH6eBqEMh/?spm_id_from=333.337.search-card.all.click)
+  - [Agencywide Town Hall with NASA Administrator Jared Isaacman, Friday, Dec. 19, 2025](https://www.youtube.com/watch?v=WdQiPJ6KmRc)
 
 ---
 ### 0013. Books | YTB
@@ -2955,7 +2956,7 @@
 ---
 ### 0022. 英语超级屋
 **[英语超级屋]{s}**
-* **[英语超级屋 | 感受世界，感受人文，遇见这个世界上美好的人和事 学好英语，感受语言，遇见这个时间里最好的自己... | 三百章 | Douyin](https://v.douyin.com/JLRyWueVrOE/)**
+* **[英语超级屋 | 感受世界，感受人文，遇见这个世界上美好的人和事 学好英语，感受语言，遇见这个时间里最好的自己... | 壹仟章 | Douyin](https://v.douyin.com/JLRyWueVrOE/)**
   - [语言的边界, 就是世界的边界 --- 维特根斯坦]{s}
   - [张同完 | 韩国 | **YTB: _100ls**  | wan只用一部动画，重复100遍，做到年赚200万刀 谁说学好英语赚不到钱](https://v.douyin.com/dE8eIkNzQ28/)
   - **[旅行学英语](https://v.douyin.com/clZqESbHEF4/)**
@@ -2972,12 +2973,17 @@
     - [YTB: Rodica - The Foreign Sun | 跟着老师学习就餐实用英语 就餐英语 | 001](https://v.douyin.com/ThApI_ho-28/)
     - [YTB: Rodica - The Foreign Sun | 如何通过看电影，学一口纯正发音 | 002](https://v.douyin.com/Cbq_0Gt4CLA/)
     - [听力，你的英语什么水平 | 003](https://v.douyin.com/_9gBiwahvfM/)
+    - [Min: 08:29 | 010](https://v.douyin.com/0CXkfG1mnvk/)
+
     - [YTB: Albina Sultanova | 全英文英语听力磨耳朵 找对学习方法才能事半功倍，你也能快速提高英语水平 | 016](https://v.douyin.com/LJd0YylfOr8/)
     - [YTB: Albina Sultanova | 全英文听力 跟着老师学词句啦，听起来吧 | 017](https://v.douyin.com/L6C9bo8G92w/)
     - [YTB: Rodica - The Foreign Sun | 原声听力磨耳朵，听老师讲经历，你也能说一口流利美国话。| 024](https://v.douyin.com/jPR3PVVYo30/)
     - [YTB: Rodica - The Foreign Sun | 老师讲述如何变得自信，听完你会有收获 | 027](https://v.douyin.com/v6JPDCQ58Mk/)
     - [可怕的沉没成本 人生最大的错误就是在错误的路上越走越远 | 035](https://v.douyin.com/lXi5i_y9Nus/)
     - [超级好的听力材料 你也能自由说一口流利英语哦 | 036](https://v.douyin.com/-LbTDMbcT8w/)
+
+    - [Min: 10:42 | 自学能完全掌握一门外语吗 | 047](https://v.douyin.com/pPjX_h7cZ-A/)
+
     - [你能听懂多少 老师分享如何学好一门外语 | 058](https://v.douyin.com/NeasrdGxNXs/)
     - [起床开始学英语啦 | 061](https://v.douyin.com/1puALI9x5sw/)
     - [YTB: Easy English With Cat | 哑巴英语 请停止学习 | 087](https://v.douyin.com/GJWVm31l6rs/)
@@ -2994,9 +3000,13 @@
     - [YTB: English by Jay | 保姆级影子跟读学习 | 121](https://v.douyin.com/rEWO2o6wLw0/)
     - [YTB: Ariannita la Gringa | 农场欢乐学英语 | 122](https://v.douyin.com/x8G9V2Zz-KM/)
     - [YTB: English by Jay | 125](https://v.douyin.com/MnxObFp06V0/)
-    - [English by Jay - Sprout | 49.1万 | YTB](https://www.youtube.com/@englishbyjay.official/videos)
+    - [English by Jay - Sprout | 627K subscribers | YTB](https://www.youtube.com/@englishbyjay.official/videos)
     - [Learn English with Jay | bilibili](https://www.bilibili.com/video/BV1115464Ef4/?spm_id_from=333.337.search-card.all.click)
     - [ReneeEnglish | YouTube，英语口语，英语听力 | Bilibili](https://space.bilibili.com/492383211?spm_id_from=333.337.search-card.all.click)
+
+    ---
+    **[wiktionary.org]{s}**
+    - [wiktionary.org](https://www.wiktionary.org)
 
   ---
   **[002. 超级英语 | 听力篇]{g}**
@@ -3019,6 +3029,7 @@
   ---
   **[005. 超级英语 | 进阶篇]{s}**
     - [Min: 01:36:39 | 001](https://v.douyin.com/f5jUljVit90/)
+    - [Min: 01:20:11 | 005](https://v.douyin.com/PK8UKEHXZoo/)
     - [Min: 01:20:20 | 014](https://v.douyin.com/U8fwqtzPaJ8/)
     - [Min: 15:14 | 024](https://v.douyin.com/56JvBLXJZHY/)
 

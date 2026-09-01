@@ -13,7 +13,8 @@
 ---
 ### 0001. Genshin Impact
 **[Genshin Impact]{s}**
-* **[Genshin Impact | 8.27M | Youtube](https://www.youtube.com/@GenshinImpact)**
+* **[Genshin Impact | 8.28M subscribers | YTB](https://www.youtube.com/@GenshinImpact)**
+
   - [En: Genshin Impact is an open-world adventure game proudly presented by HoYoverse.]{s}
   - [Cn: 原神是一款由HoYoverse自豪呈现的开放世界冒险游戏。]{g}
 
@@ -42,19 +43,19 @@
 
 ---
 **[Sabi´s Nook · Music]{s}**
-* **[Sabi´s Nook | 12.7K | YTB](https://www.youtube.com/@SabisNookFantasyAmbience)**
+* **[Sabi´s Nook | 12.8K subscriber | YTB](https://www.youtube.com/@SabisNookFantasyAmbience)**
   - [Liyue Harbor Lantern Rite | Genshin Impact Music with Ambience I For Gaming, Reading or Relaxing](https://www.youtube.com/watch?v=DxRm6wGN1r4&list=RDDxRm6wGN1r4&start_radio=1)
 
 ---
 **[WattKeys· GenshinImpact]{s}**
-* **[WattKeys | 31.9K | YTB](https://www.youtube.com/@WattKeys/videos)**
+* **[WattKeys | 31.9K subscribers | YTB](https://www.youtube.com/@WattKeys/videos)**
   - [Clear Sky Over Liyue ](https://www.youtube.com/watch?v=y-D_KiWtVgU&list=RDy-D_KiWtVgU&start_radio=1)
   - [The Fading Stories - A Lantern Rite Journey - Genshin Impact OST](https://www.youtube.com/watch?v=67PxUclzmjI&list=RDy-D_KiWtVgU&index=2)
 
 
 ---
 **[BetterTNothing 沐兒]{s}**
-* **[BetterTNothing 沐兒 | Youtube](https://www.youtube.com/@BetterTNothing)**
+* **[BetterTNothing 沐兒  | 142K subscribers | YTB](https://www.youtube.com/@BetterTNothing)**
   - [【原神】4K过场动画合集](https://www.youtube.com/playlist?list=PL3mIsp0ODxy6t8tKVcBn7FjxDzHeD1swI)
 
 * **[BetterTNothing | Bilibili](https://space.bilibili.com/1056402369?spm_id_from=333.1007.0.0)**
@@ -93,11 +94,17 @@
 **[Genshin Impact Full Story]{s}**
 * **[Genshin Impact Full Story](https://www.youtube.com/playlist?list=PLw0ry7t3NLChNv_LOQGYJlbiSxPbTEWsd)**
 
+---
+**[Gamer's Little Playground]{s}**
+* **[Gamer's Little Playground | 3.06M subscribers | YTB](https://www.youtube.com/@glp/videos)**
+  - [Playlists](https://www.youtube.com/@glp/playlists)
+
+
 * **[All Genshin Impact Cutscenes 1.0 - 6.4](https://www.youtube.com/watch?v=wqJXPkOMz4E)**
 
 ---
 **[IGNITE]{s}**
-* **[IGNITE | 34.8K | Youtube](https://www.youtube.com/@IGNITE0911/videos)**
+* **[IGNITE | 34.9K subscribers | YTB](https://www.youtube.com/@IGNITE0911/videos)**
   - [THE COMPLETE STORY OF GENSHIN IMPACT BEFORE SNEZHNAYA - FULL RECAP](https://www.youtube.com/watch?v=6Twj9J6v_Ws)
   - [All Genshin Impact Cutscenes 1.0 - 6.4](https://www.youtube.com/watch?v=wqJXPkOMz4E)
 
@@ -495,7 +502,7 @@
 
 ---
 **[bwaap]{s}**
-* **[bwaap | 73.8万 | Youtube](https://www.youtube.com/@bwaap/videos)**
+* **[bwaap | 729K subscribers | Youtube](https://www.youtube.com/@bwaap/videos)**
   - I'm just doing what i do | 我只是做我该做的 事
 
   ---
@@ -503,17 +510,17 @@
 
 ---
 **[MurderofBirds Impact]{s}**
-* **[MurderofBirds Impact | 8.39万 | Youtube](https://www.youtube.com/c/MurderofBirdsImpact)**
+* **[MurderofBirds Impact | 90.8K subscribers | Youtube](https://www.youtube.com/c/MurderofBirdsImpact)**
   - I livestream on Twitch and post my videos here!
 
 ---
 **[MurderofBirds VODs]{s}**
-* **[MurderofBirds VODs | 1.99万 | Youtube](https://www.youtube.com/@MurderofBirdsVODs)**
+* **[MurderofBirds VODs | 24.6K subscribers | Youtube](https://www.youtube.com/@MurderofBirdsVODs)**
 
 
 ---
 **[sarahmillercrews]{s}**
-* **[sarahmillercrews | Sarah Miller-Crews | 6.94万 | Youtube](https://www.youtube.com/@sarahmillercrews/videos)**
+* **[sarahmillercrews | Sarah Miller-Crews | 68.9K subscribers | Youtube](https://www.youtube.com/@sarahmillercrews/videos)**
   - [En: Hello!]{s}
   - [你好！]{g}
 
@@ -578,19 +585,19 @@
 ---
 ### 0010. Nixo
 **[Nixo]{s}**
-* **[Nixo | 3.5万 | Youtube](https://www.youtube.com/@nixogenshin/videos)**
+* **[Nixo | 38.6K subscribers | Youtube](https://www.youtube.com/@nixogenshin/videos)**
   - [LootBar.gg - Pay Less. Play More. A Secure and Trusted Game Store](https://lootbar.gg/?utm_source=Affiliate&utm_medium=Affiliate&utm_campaign=Nixo)
 
 ---
 ### 0011. antonychenn
 **[antonychenn]{s}**
-* **[antonychenn | 165万 | Youtube](https://www.youtube.com/@antonychenn/videos)**
+* **[antonychenn | 1.65M subscribers | YTB](https://www.youtube.com/@antonychenn/videos)**
   - [Can You Build a Genshin Character in 5 MINUTES](https://www.youtube.com/watch?v=AjrS6uxEAL4)
 
 ---
 ### 0012. Jadealy
 **[Jadealy]{s}**
-* **[Jadealy | 35万 | Youtube](https://www.youtube.com/@jadealy/videos)**
+* **[Jadealy | 384K subscribers | YTB](https://www.youtube.com/@jadealy/videos)**
   - [Farming Pulls for Linnea to Save My Bank Account - Map Maxxing (Ep.7)](https://www.youtube.com/watch?v=X090PExuMtI)
 
 ---
@@ -641,9 +648,11 @@
 
 ---
 ### 0018. Thejonathon | GenshinImpact
-**[Thejonathon·GenshinImpact]{s}**
-* **[Thejonathon | 71.5万 | 油管](https://www.youtube.com/@Thejonathon/videos)**
-  - [THE MOON ARCHON QUEST IS INSANE... Genshin Impact Moon Gazing 6.7 world quest full reaction | Min: 04H:06M:55S](https://www.youtube.com/watch?v=K8UZ3xK4xow)
+**[Thejonathon · GenshinImpact]{s}**
+* **[Thejonathon | 733K subscribers | YTB](https://www.youtube.com/@Thejonathon/videos)**
+  - [THE MOON ARCHON QUEST IS INSANE... Genshin Impact Moon Gazing 6.7 world quest full reaction | Min: 04:06:55](https://www.youtube.com/watch?v=K8UZ3xK4xow)
+  - [AFTER 6 YEARS SNEZHNAYA IS HERE.... 7.0 LIVESTREAM REACTION | Genshin Impact | Min: 01:08:00](https://www.youtube.com/watch?v=6mD0yIHcvH4)
+  - [Snezhnaya is INSANE!!! Snezhnaya Act 1 & 2 Archon Quest 7.0 FULL REACTION Genshin Impact | Min: 09:06:39](https://www.youtube.com/watch?v=I917hpg9FYg)
 
 ---
 **[黯殇As_ · GenshinImpact]{s}**
@@ -652,7 +661,7 @@
 ---
 ### 0019. BranOnline | GenshinImpact
 **[BranOnline·GenshinImpact]{s}**
-* **[BranOnline | 41.1 | 油管](https://www.youtube.com/@BranOnline/videos)**
+* **[BranOnline | 416K subscribers | YTB](https://www.youtube.com/@BranOnline/videos)**
   - [6.7 - The Truth About Teyvat’s Moon Is Insane | Min: 05H:41M:31S ](https://www.youtube.com/watch?v=mUjol3LBzuc)
 
 ---
@@ -666,7 +675,6 @@
     - [纳塔已至尾声，回首望去满满的回忆 | 010](https://v.douyin.com/RGC_Ta3s0iE/)
     - [谁说我们原神只有刀的，希望大家每天都能过得更好一点 | 015](https://v.douyin.com/N0V2wqgFhkk/)
     - [在提瓦特的史诗里书写旅人篇章，每片土地都有未完待续的传说 | 017](https://v.douyin.com/zMYpBnz-C50/)
-
 
   ---
   **[002. 原神]{g}**
@@ -804,6 +812,30 @@
     - [小鸽子骑大鹅 | 034](https://v.douyin.com/MVQ9oxejxso/)
 
 ---
+### 0200. Jadealy | GenshinImpact
+**[Jadealy]{e}**
+* **[Jadealy | 384K subscribers | YTB](https://www.youtube.com/@jadealy/videos)**
+  - [This Genshin Quest Deserves to Be Glazed 24/7 | Snezhnaya 7.0 Archon Quest Act 2 Reaction 这个 Genshin Quest 值得被关注 24/7 | Snezhnaya 7.0 执政官任务第二幕反应](https://www.youtube.com/watch?v=nYb-8pNTtco)
+
+---
+### 0201. EmiMatcha | Gamer
+**[EmiMatcha | gamer]{e}**
+* **[EmiMatcha | 12.9K subscribers | YTB](https://www.youtube.com/@EmiMatcha/videos)**
+  - [Smile... 4.2 Planarcadia FULL STORY REACTION | Honkai: Star Rail](https://www.youtube.com/watch?v=j1Ks_Y9IoSA)
+
+---
+### 0202. Gamer's Little Playground
+**[Gamer's Little Playground]{s}**
+* **[Gamer's Little Playground | 3.06M subscribers | YTB](https://www.youtube.com/@glp/videos)**
+  - [Playlists](https://www.youtube.com/@glp/playlists)
+
+---
+### 0203. No_Tables
+**[No_Tables]{s}**
+* **[No_Tables | 281K subscribers |  YTB](https://www.youtube.com/@no_tables/videos)**
+  - [Genshin Impact HoYoFair Times... Changed](https://www.youtube.com/watch?v=LhJ6PR7d3bM)
+
+--
 ### 9999. Download
 **[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**

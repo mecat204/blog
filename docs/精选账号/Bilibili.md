@@ -865,8 +865,13 @@
 
 ---
 **[EmiMatcha | gamer]{e}**
-* **[EmiMatcha | 1.2万 | YTB](https://www.youtube.com/@EmiMatcha/videos)**
+* **[EmiMatcha | 12.9K subscribers | YTB](https://www.youtube.com/@EmiMatcha/videos)**
   - [Smile... 4.2 Planarcadia FULL STORY REACTION | Honkai: Star Rail](https://www.youtube.com/watch?v=j1Ks_Y9IoSA)
+
+---
+**[Jadealy]{e}**
+* **[Jadealy | 384K subscribers | YTB](https://www.youtube.com/@jadealy/videos)**
+  - [This Genshin Quest Deserves to Be Glazed 24/7 | Snezhnaya 7.0 Archon Quest Act 2 Reaction 这个 Genshin Quest 值得被关注 24/7 | Snezhnaya 7.0 执政官任务第二幕反应](https://www.youtube.com/watch?v=nYb-8pNTtco)
 
 ---
 ### 0053. 英语学习小助理沐沐 | 新人涨粉5000+
