@@ -595,15 +595,18 @@
 
 ---
 **[frost·龙瓷]{e}**
-* **[无所谓，死无所谓，活也无所谓，一切都淡淡的😌](https://v.douyin.com/Mu9rCNEQSkY/)**
-* **[天地不言，神明垂目。](https://v.douyin.com/fQV_ulT5Diw/)**
+* **[frost | ω・｀) @龙瓷 | 佰章 | Douyin](https://v.douyin.com/YQaOL31Xxvg/)**
+  - [无所谓，死无所谓，活也无所谓，一切都淡淡的😌](https://v.douyin.com/Mu9rCNEQSkY/)
+  - [天地不言，神明垂目。](https://v.douyin.com/fQV_ulT5Diw/)
 
 ---
-**[清滟Icecyan. | En]{s}**
+**[清滟Icecyan. | En]{e}**
 * **[清滟Icecyan. | Always upward. Always alive | 拥有永远向上的生命力 | 佰章 | Douyin](https://v.douyin.com/KZJt_krMb-M/)**
+
   - [一个人能否保持独立的精神坐标 | Min: 10:10](https://v.douyin.com/Ale0C0Giook/)
-  - [AI时代最稀缺的，可能不是信息， 而是一个人能否保持独立的精神坐标。 真正的成长，不是被时代推着跑。 而是在时代的洪流里，仍然为自己保留一盏灯。]{lb}
-  - [一个信息，再抖音乱七八糟的推荐下，用不了多久就会遗失殆尽。尤其是在短视频的无限流情况下。如果不记录，终会在信息流里丧失前行的锚点。]{lb}
+
+  - [me: AI时代最稀缺的，可能不是信息， 而是一个人能否保持独立的精神坐标。 真正的成长，不是被时代推着跑。 而是在时代的洪流里，仍然为自己保留一盏灯。]{g}
+  - [me: 一个信息，再抖音乱七八糟的推荐下，用不了多久就会遗失殆尽。尤其是在短视频的无限流情况下。如果不记录，终会在信息流里丧失前行的锚点。]{g}
 
   ---
   - [我不是天赋型选手 但我很会让自己持续进化 | Min: 09:04](https://v.douyin.com/wMdosGP2PJY/)
@@ -617,23 +620,23 @@
   - ["撑不下去的时候，就告诉自己：过好今天就行。"](https://v.douyin.com/bqv3Jl46oew/)
 
 ---
-**[小土豆]{s}**
+**[小土豆]{e}**
 * **[小土豆 | 多肯定自己！你超棒的！ | 祝我们爱与被爱能同时发生 | 千章 | Douyin ](https://v.douyin.com/bM3SY-Biix4/)**
   - [要照顾好自己 见与不见我都思念](https://v.douyin.com/dZfbT8hLfiw/)
 
 ---
-**[土豆豆豆豆子]{s}**
+**[土豆豆豆豆子]{e}**
 * **[土豆豆豆豆子 | 想去的地方 终将会抵达 | 二百章 | Douyin](https://v.douyin.com/dvbpwlRS06A/)**
   - [你有没有可乐喝](https://v.douyin.com/L7MCuQnI8hI/)
 
 ---
-**[南弦月]{s}**
+**[南弦月]{e}**
 * **[南弦月 | 这些是我在迷茫中得出的答案，希望对你也有用。| 百章 | Douyin](https://v.douyin.com/lf6VeeGM1x8/)**
   - [实验了无数次：你圆满，世界就圆满。](https://v.douyin.com/wdCBCeWZPVg/)
 
 ---
 **[不知名鸽子]{s}**
-* **[不知名鸽子 | 兼职艺术家 | 二百章 | Douyin](https://v.douyin.com/aswEUDarZMY/)**
+* **[不知名鸽子 | 兼职艺术家 | 贰佰章 | Douyin](https://v.douyin.com/aswEUDarZMY/)**
   - ["渡人，渡己" | 摄影 | 胶片 | 拍出电影感](https://v.douyin.com/c62IgYUdKRk/)
 
 ---
@@ -643,7 +646,7 @@
 
 ---
 **[九才小白]{e}**
-* **[九才小白 | 二千章 | Douyin](https://v.douyin.com/RJRVOmwJVhQ/)**
+* **[九才小白 | 贰仟章 | Douyin](https://v.douyin.com/RJRVOmwJVhQ/)**
   - [35岁后明白的，职场四大法则 | 职场 | 财经 | 经济](https://v.douyin.com/0ucbgC48ouk/)
   - [2028智能危机-发生的概率有多大](https://v.douyin.com/ps5ZIEpBi24/)
   - [00后整顿相亲，经济上的必然](https://v.douyin.com/V4fR4yDD0s0/)
@@ -654,12 +657,12 @@
   - [看看你们的浏览器行吗 兄弟们](https://v.douyin.com/OqDJ7RytOC0/)
 
 ---
-**[三个六]{s}**
+**[三个六]{e}**
 * **[三个六 | 各种花絮 颜值 段子 二次元 国风都能花里胡哨乱拍 | 二千章 | Douyin](https://v.douyin.com/FYaSz1BLCSQ/)**
   - [抖音三傻到齐了 # 甜妹](https://v.douyin.com/iMmlDmxs09U/)
 
 ---
-**[月如雪]{s}**
+**[月如雪]{e}**
 * **[月如雪 | 摄影师 | 二千章 | Douyin](https://v.douyin.com/SeBc0Mctm-k/)**
   - [张雅倩 失眠熊 暖似阳 哪个是傻子 共赴拈花湾十周年庆典](https://v.douyin.com/-nEfIxPpphc/)
 
@@ -691,20 +694,19 @@
   - [好久没听过这么干净的骂人话语了～](https://v.douyin.com/SlNQt6JYVZk/)
 
   ---
-  **[001. 2026爆笑合集]{lb}**
+  **[001. 2026爆笑合集]{g}**
     - **[各自拿下都好好处～哈哈哈哈 | 001](https://v.douyin.com/jcFVU2xWGv0/)**
     - **[大姐在一声声姐姐中迷失自我 | 021](https://v.douyin.com/WfLL7goyUM0/)**
     - **[我看看你有没有文化 | 065](https://v.douyin.com/1Y72iR0RhsQ/)**
 
   ---
-  **[002. 爆笑神评论]{lb}**
+  **[002. 爆笑神评论]{g}**
     - **[简单的嘴臭，才有极致的享受！哈哈哈 | 001](https://v.douyin.com/JGBPmkswohY/)**
     - **[一点气都受不了，但..加钱可以 | 404](https://v.douyin.com/3DBUueRd-HQ/)**
 
 ---
 **[暴躁虾剪]{s}**
 * **[暴躁虾剪 | 一个要把西游记剪成臊子的男人 | 五百章 | Douyin](https://v.douyin.com/xma4-2Rjo5s/)**
-
 
 ---
 **[乃炎英语]{e}**

@@ -4562,15 +4562,15 @@
 ---
 ### 0600. 小熊英文故事·播客短剧
 **[Zubzoo Studios]{s}**
-* **[Zubzoo Studios | 3.09K | YTB](https://www.youtube.com/@ZubzooStudios)**
+* **[Zubzoo Studios | 3.39K subscribers | YTB](https://www.youtube.com/@ZubzooStudios)**
 
 ---
 **[kids Haven]{s}**
-* **[kids Haven | 18.3K | YTB](https://www.youtube.com/@kidsHaven-KH)**
+* **[kids Haven | 18.2K subscribers | YTB](https://www.youtube.com/@kidsHaven-KH)**
 
 ---
 **[Picture This Stories]{s}**
-* **[Picture This Stories | 934 | YTB](https://www.youtube.com/@PictureThisStories/videos)**
+* **[Picture This Stories | 981 subscribers | YTB](https://www.youtube.com/@PictureThisStories/videos)**
 
 ---
 **[Fairy Tales and Stories for Kids]{s}**
@@ -4582,29 +4582,29 @@
 * **[ITV News | 2.21M subscribers |  YTB](https://www.youtube.com/@ITVNews/videos)**
 
 ---
-### 1000. GPT词源学
+### 1000. GPT词源学 | CrashCourse
 **[CrashCourse]{s}**
 * **[CrashCourse | 17.2M subscribers |  YTB](https://www.youtube.com/@crashcourse/videos)**
   - **[Crash Course Geology](https://www.youtube.com/watch?v=YokkwzdZX2A&list=PL8dPuuaLjXtMuxfQl-TBfSHokgpbLvKX9&index=1)**
 
 ---
 **[Etymology Nerd]{s}**
-* **[Etymology Nerd | 734K | YTB](https://www.youtube.com/@etymology_nerd)**
+* **[Etymology Nerd | 736K subscribers | YTB](https://www.youtube.com/@etymology_nerd)**
 
 ---
 ### 2000. Astral Curiosity | Exploring the universe
 **[Astral Curiosity]{s}**
-* **[Astral Curiosity | 43.8K | YTB](https://www.youtube.com/@astralcuriosity/videos)**
+* **[Astral Curiosity | 46.5K subscribers | YTB](https://www.youtube.com/@astralcuriosity/videos)**
 
 ---
 ### 3000. WorldCom EDU | Brian Stuart | Course
 **[WorldCom EDU]{s}**
-* **[WorldCom EDU | 245K | YTB](https://www.youtube.com/@WorldcomEdu/courses)**
+* **[WorldCom EDU | 248K subscribers | YTB](https://www.youtube.com/@WorldcomEdu/courses)**
 
 ---
 ### 4000. shuriperoch Shuri Atomi
 **[shuriperoch]{s}**
-* **[shuriperoch](https://www.youtube.com/@shuriperoch/videos)**
+* **[shuriperoch | 72.2K subscribers | YTB](https://www.youtube.com/@shuriperoch/videos)**
 
 ---
 ### 9999. Download
