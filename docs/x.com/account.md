@@ -288,6 +288,17 @@
 * **[Bole Chen](https://x.com/avenger)**
   - [RushiWoWen](https://rushiwowen.co/en/zen)
 
+---
+### 0014. lumxss
+**[lumxss]{s}**
+* **[lumxss](https://x.com/bkdgiffug)**
+  - [awesome-math](https://github.com/rossant/awesome-math)
+  - [在线影视搜索与播放](https://zip0.com)
+  - [Exercism Code](https://exercism.org/)
+  - [awesome-llm-books](https://github.com/Jason2Brownlee/awesome-llm-books)
+  - [Codex-orange-book](https://github.com/bozhouDev/codex-orange-book)
+  - [WhisperSubTranslate](https://github.com/Blue-B/WhisperSubTranslate)
+  - [tubi](http://gdpr.tubi.tv/)
 
 ---
 ### 9999. Software | Books | Download

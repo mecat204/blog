@@ -4529,7 +4529,11 @@
 * **[NLB Singapore | National Library Board（新加坡国家图书馆管理局） | 13.1K | YTB](https://www.youtube.com/@NLBsg/videos)**
   - [Exploring the Use of AI in Our Daily Lives](https://www.youtube.com/watch?v=fmhJNZ2NP3A)
 
+---
 * **[nlb.gov.sg](https://www.nlb.gov.sg/main/home)**
+
+---
+* **[GAICC | Global AI Certification Council - ISO/IEC 42001 Training and Accreditation](https://gaicc.org/)**
 
 ---
 ### 0200. Music
@@ -4605,6 +4609,12 @@
 ### 4000. shuriperoch Shuri Atomi
 **[shuriperoch]{s}**
 * **[shuriperoch | 72.2K subscribers | YTB](https://www.youtube.com/@shuriperoch/videos)**
+
+---
+### 5000. Egypitan Nancy
+**[Egypitan Nancy]{s}**
+* **[Egypitan Nancy | 67.8K subscribers | YTB](https://www.youtube.com/@egyptiannancy/videos)**
+  - [How did a Turkish sports student become an anchor in China](https://www.youtube.com/watch?v=Pheokh55EkY)
 
 ---
 ### 9999. Download
