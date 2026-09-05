@@ -15,6 +15,13 @@
 * **[资源集 | 书格](https://www.shuge.org/collections/)**
 
 ---
+**[Koodo Reader · Book]{s}**
+* **[Koodo Reader·software](https://github.com/koodo-reader/koodo-reader)**
+  - [jugetaozi/ibooks](https://github.com/jugetaozi/ibooks)
+  - [iBook](https://github.com/jugetaozi/ibooks)
+  - [G.Pwd: mecat]
+
+---
 ### 0001. proxy·book·website
 **[archive·互联网档案馆]{s}**
 * **[archive·互联网档案馆](https://archive.org/)**
