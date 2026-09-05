@@ -4496,6 +4496,10 @@
 
 ---
 ### 0100. Ads of the World
+**[Coursiv]{s}**
+* **[Coursiv - Upgrade your life with practical AI skills En](https://coursiv.io/)**
+
+---
 **[EVE Online]{s}**
 * **[EVE Online | 228K subscribers | YTB](https://www.youtube.com/@eveonline/videos)**
   - [EVE Online - Official Gameplay Trailer - Play Free](https://www.youtube.com/watch?v=sPFII3ozSHI)
@@ -4615,6 +4619,12 @@
 **[Egypitan Nancy]{s}**
 * **[Egypitan Nancy | 67.8K subscribers | YTB](https://www.youtube.com/@egyptiannancy/videos)**
   - [How did a Turkish sports student become an anchor in China](https://www.youtube.com/watch?v=Pheokh55EkY)
+
+---
+### 6000. Coding
+**[木子不写代码]{s}**
+* **[木子不写代码 | 22.8K subscribers | YTB](https://www.youtube.com/watch?v=CuVo2cM6V6Q)**
+  - [Github零基础终极教程](https://www.youtube.com/watch?v=CuVo2cM6V6Q)
 
 ---
 ### 9999. Download
