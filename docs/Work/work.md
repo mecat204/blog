@@ -308,6 +308,389 @@ OOBE\BYPASSNRO
 **[孔德远：3万字解锁WorkBuddy全功能]{s}**
 * **[孔德远](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&chksm=bf00cb433ba7ba3f45e616d8c88279f976e59ce4b0d04d415e841c0a24de66a8652dd20aed45&idx=1&mid=2649803569&sn=325170a0e2bd7117d51dfabbbd79539b#rd)**
 
+---
+### 0011. Windows 管理规范命令行工具
+**[WMIC - Windows Mangement Instrumentation Command-line的缩写]{s}**
+  - [Windows 管理规范命令行工具]{g}
+
+  ---
+  - 001\. [查CPU]{s}
+  ``` cmd
+  wmic cpu get name,NumberOfCores,NumberOfLogicalProcessors,MaxClockSpeed
+  ```
+  * 可以看到：
+    - CPU 型号
+    - 物理核心数
+    - 逻辑处理器数（线程）
+    - 最大频率
+
+  现在更推荐:
+
+  ``` PowerShell
+  Get-CimInstance Win32_Processor | Select-Object Name
+  ```
+
+  - 002\. [查内存]{s}
+  ``` cmd
+  wmic memorychip get capacity,speed,manufacturer,partnumber
+  ```
+  * 查看
+    - 单条内存容量
+    - 频率
+    - 厂商
+    - 型号/料号
+
+  * 总内存可以用:
+
+  ``` cmd
+  wmic computersystem get TotalPhysicalMemory
+  ```
+
+  * 不过这里显示的是字节数, 不太直观
+
+### 0012. Windows 管理规范命令行工具
+**[WMIC - Windows Management Instrumentation Command-line的缩写]{s}**
+* [Windows 管理规范命令行工具]{g}
+
+---
+* 001\. [查CPU]{s}
+``` cmd
+wmic cpu get name,NumberOfCores,NumberOfLogicalProcessors,MaxClockSpeed
+```
+
+* 可以看到：
+  - CPU 型号
+  - 物理核心数
+  - 逻辑处理器数（线程）
+  - 最大频率
+
+现在更推荐:
+
+``` PowerShell
+Get-CimInstance Win32_Processor | Select-Object Name
+```
+
+* 002\. [查内存]{s}
+
+``` cmd
+wmic memorychip get capacity,speed,manufacturer,partnumber
+```
+
+* 查看
+  - 单条内存容量
+  - 频率
+  - 厂商
+  - 型号/料号
+
+* 总内存可以用:
+
+``` cmd
+wmic computersystem get TotalPhysicalMemory
+```
+
+* 不过这里显示的是字节数, 不太直观
+
+* 003\. [查主板]{s}
+
+``` cmd
+wmic baseboard get manufacturer,product,version,serialnumber
+```
+
+* 可以看到：
+  - 主板厂商
+  - 主板型号
+  - 主板版本
+  - 主板序列号
+
+* 现在更推荐:
+
+``` PowerShell
+Get-CimInstance Win32_BaseBoard | Select-Object Manufacturer,Product,Version,SerialNumber
+```
+
+---
+* 004\. [查BIOS]{s}
+``` cmd
+wmic bios get manufacturer,version,serialnumber
+```
+
+* 可以看到：
+  - BIOS厂商
+  - BIOS版本
+  - BIOS序列号
+
+* 现在更推荐:
+
+``` PowerShell
+Get-CimInstance Win32_BIOS | Select-Object Manufacturer,SMBIOSBIOSVersion,SerialNumber
+```
+
+---
+* 005\. [查硬盘]{s}
+
+``` cmd
+wmic diskdrive get model,size,serialnumber,mediatype
+```
+
+* 可以看到：
+  - 硬盘型号
+  - 硬盘容量
+  - 硬盘序列号
+  - 介质类型
+
+* 现在更推荐:
+
+``` PowerShell
+Get-CimInstance Win32_DiskDrive | Select-Object Model,Size,SerialNumber,MediaType
+```
+
+---
+* 006. [查显卡]{s}
+``` cmd
+wmic path win32_videocontroller get name,AdapterRAM,DriverVersion
+```
+
+* 可以看到：
+  - 显卡型号
+  - 显存容量
+  - 驱动版本
+
+
+* 现在更推荐:
+
+``` PowerShell
+Get-CimInstance Win32_VideoController | Select-Object Name,AdapterRAM,DriverVersion
+```
+
+---
+* 007\. [查Windows系统版本]{s}
+``` cmd
+wmic os get Caption,Version,BuildNumber
+```
+
+* 可以看到：
+  - Windows版本
+  - 系统版本号
+  - 系统Build编号
+
+* 现在更推荐:
+
+``` PowerShell
+Get-CimInstance Win32_OperatingSystem | Select-Object Caption,Version,BuildNumber
+```
+
+---
+* 008\. [查电脑厂商和型号]{s}
+``` cmd
+wmic computersystem get manufacturer,model
+```
+
+* 可以看到：
+  - 电脑厂商
+  - 电脑型号
+
+* 现在更推荐:
+
+``` PowerShell
+Get-CimInstance Win32_ComputerSystem | Select-Object Manufacturer,Model
+```
+
+---
+* 009\. [查电脑序列号]{s}
+``` cmd
+wmic bios get serialnumber
+```
+
+* 可以用于查看：
+  - 设备序列号
+  - OEM厂商写入的硬件标识
+
+* 现在更推荐:
+``` PowerShell
+(Get-CimInstance Win32_BIOS).SerialNumber
+```
+
+---
+* 010\. [查网卡]{s}
+``` cmd
+wmic nic get Name,MACAddress
+```
+
+* 可以看到：
+  - 网卡名称
+  - MAC地址
+
+* 这个命令也会显示很多未使用的虚拟网卡
+
+* 现在更推荐:
+``` PowerShell
+Get-CimInstance Win32_NetworkAdapter | Select-Object Name,MACAddress
+```
+
+---
+* 011\. [查网络配置]{s}
+``` cmd
+ipconfig /all
+```
+
+* 可以看到：
+  - IP地址
+  - 子网掩码
+  - 默认网关
+  - DNS服务器
+  - MAC地址
+  - DHCP状态
+
+* 这个不是WMIC命令, 但属于Windows中非常常用的网络检测命令
+
+---
+* 012\. [查电池]{s}
+
+``` cmd
+wmic path win32_battery get name,estimatedchargeRemaining,batterystatus
+```
+
+* 可以看到：
+  - 电池名称
+  - 剩余电量百分比
+  - 电池状态
+
+* 主要用于笔记本电脑
+
+* 新版本Windows中电池信息可能不完整
+
+---
+* 013\. [查看完整系统信息]{s}
+
+``` cmd
+systeminfo
+```
+
+* 可以看到：
+  - Windows版本
+  - 主机名
+  - 系统启动时间
+  - CPU
+  - 内存
+  - BIOS信息
+  - Windows安装日期
+  - 网络信息
+  - 已安装系统补丁
+
+* 这是一个非常实用的Windows系统信息查看命令
+
+---
+* 014\. [查系统进程]{s}
+
+``` cmd
+wmic process get name,processid
+```
+
+* 可以看到：
+  - 正在运行的进程
+  - 进程名称
+  - PID进程编号
+
+
+* 现在更推荐:
+
+``` PowerShell
+Get-Process | Select-Object ProcessName,Id
+```
+
+---
+* 015\. [查Windows服务]{s}
+
+``` cmd
+wmic service get name,displayname,state,startmode
+```
+
+* 可以看到：
+  - 服务名称
+  - 服务显示名称
+  - 当前状态
+  - 启动方式
+
+* 现在更推荐:
+
+``` PowerShell
+Get-CimInstance Win32_Service | Select-Object Name,DisplayName,State,StartMode
+```
+
+---
+* 016\. [查已安装软件]{s}
+``` cmd
+wmic product get name,version
+```
+
+* 可以看到：
+  - 软件名称
+  - 软件版本
+
+* 注意：不推荐频繁使用这个命令查询软件, 因为Win32_Product查询可能触发Windows Installer重新配置
+
+---
+* 017\. [查磁盘分区]{s}
+
+``` cmd
+wmic logicaldisk get caption,size,freespace,filesystem
+```
+
+* 可以看到：
+  - 盘符
+  - 磁盘总容量
+  - 剩余空间
+  - 文件系统
+
+现在更推荐:
+``` PowerShell
+Get-CimInstance Win32_LogicalDisk | Select-Object DeviceID,Size,FreeSpace,FileSystem
+```
+
+* 018\. [查物理磁盘状态]{s}
+
+``` cmd
+wmic diskdrive get status,model
+```
+
+* 可以看到：
+  - 硬盘型号
+  - Windows报告的磁盘状态
+
+* 通常可以看到类似OK的状态
+
+* 注意：这个状态不能代替专业的硬盘健康检测
+
+---
+* 019\. [查用户账户]{s}
+``` cmd
+wmic useraccount get name,sid,status
+```
+
+* 可以看到：
+  - 用户名
+  - SID
+  - 用户账户状态
+
+* 现在更推荐:
+``` PowerShell
+Get-CimInstance Win32_UserAccount | Select-Object Name,SID,Status
+```
+
+* 020\. [查Windows启动时间]{s}
+``` cmd
+wmic os get LastBootUpTime
+```
+
+* 可以看到：
+  - Windows最后一次启动时间
+
+* 返回的时间格式比较特殊
+* 现在更推荐:
+
+``` PowerShell
+(Get-CimInstance Win32_OperatingSystem).LastBootUpTime
+```
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
