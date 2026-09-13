@@ -188,7 +188,7 @@
 * **[薇薇AI新个体 | 30 | YTB](https://www.youtube.com/@%E8%96%87%E8%96%87%E6%96%B0%E4%B8%AA%E4%BD%93/videos)**
 
 ---
-### 0013. 来博士wepon
+### 0013. 未来博士wepon
 **[未来博士wepon]{s}**
 * **[未来博士wepon | 研究未来的清华本硕博，教授级高工，知网 1% 高引学者。 经历跨越规划、地产、科技行业顶级机构, 讲关于未来的各种有趣的东西 | 千章 | Douyin](https://v.douyin.com/JxsyrvE-ExY/)**
   - [Gemini 3带来的影响](https://v.douyin.com/nEdY4e3SzHM/)
@@ -204,6 +204,12 @@
   - **CodeBuddy**
   - [AI 赋能每个人的开始 周一IBM股价暴跌13%%，创2000年以来最大单日跌幅，一天蒸发300亿美元。 很多人可能觉得：IBM不就是个科技公司吗？跟我有什么关系。 但你仔细想想，IBM本质上是一家传统企业](https://v.douyin.com/Uux3jKElHLA/)
   - [AI不是工业革命，而是文艺复兴 最近大家都在喊，说我们迎来了"第四次工业革命"。](https://v.douyin.com/c7O8v8ziGwo/)
+
+---
+### 0014. 不晚的Max
+**[不晚的Max]{s}**
+* **[不晚的Max | Worldview Creator 致力于搭建一套解释世界运律的思维模型 | 佰章 | Douyin](https://v.douyin.com/4w_7dY3irWA/)**
+  - [下集|普通人如何积累资本：在AI时代寻找生存之道 | 001](https://v.douyin.com/nOPokEkPxnE/)
 
 ---
 ### 9999. Download

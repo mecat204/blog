@@ -8,6 +8,7 @@
   - [University](精选账号/University)
   - [Bilibili](精选账号/Bilibili)
   - [Douyin](精选账号/Douyin)
+  - [TikTok](精选账号/TikTok)
   - [全域](精选账号/全域)
   - [备忘集](精选账号/备忘集)
   - [GPT](精选账号/GPT)

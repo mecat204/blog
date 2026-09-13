@@ -4388,7 +4388,7 @@
   - [dwarkesh](https://www.dwarkesh.com/p/adam-brown-gr)
 
 ---
-### 0044. PBS · Public Broadcasting Service()
+### 0044. PBS · Public Broadcasting Service
 **[PBS · Public Broadcasting Service]{s}**
 * **[PBS | 美国公共广播电视机构 | 1.78M subscribers |  YTB](https://www.youtube.com/@PBS/videos)**
   - [The World’s Largest Concentrated Solar Power Plant | A Brief History of the Future | PBS](https://www.youtube.com/watch?v=2Z_5iRFf-Pc&list=PLzkQfVIJun2KVm7_Pgxma0b7fZBu_xJ97&index=1)
@@ -4496,6 +4496,11 @@
 
 ---
 ### 0100. Ads of the World
+**[OCBC]{s}**
+* **[OCBC | 15.9K subscribers | YTB](https://www.youtube.com/@channelocbc/videos)**
+  - [Every Aspiration Begins with a Yes](https://www.youtube.com/watch?v=80Rtugjyp6g)
+
+---
 **[Coursiv]{s}**
 * **[Coursiv - Upgrade your life with practical AI skills En](https://coursiv.io/)**
 

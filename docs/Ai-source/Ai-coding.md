@@ -401,7 +401,7 @@
   - [做失败了也要发，不然就浪费积分了| 视觉震撼 | 动画 | AI创作浪潮计划 | 原创动画 | 视觉冲击](https://v.douyin.com/lSBANbk8JIY/)
 
 ---
-**[山灵制造局]{p}**
+**[山灵制造局]{s}**
 * **[山灵制造局 | 即梦全流程爆款AI短剧 | 百章 | Douyin](https://v.douyin.com/E75-CzN5M2s/)**
   - [山崩了，提示词我又行了！ | 有山灵 | ai | 国风 | 动画](https://v.douyin.com/i1uzb_b35xc/)
 
