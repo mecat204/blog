@@ -342,6 +342,11 @@
     - [魔瞳 | 001](https://v.douyin.com/yy-tz7UyZyI/)
     - [魔瞳 | 002](https://v.douyin.com/xuce3PbJX4M/)
 
+  ---
+  **[002. 妖侠外传·诛妖令]{g}**
+    - [妖侠外传·诛妖令 | 001](https://v.douyin.com/pRm2qKELvM8/)
+    - [妖侠外传·诛妖令 | 002](https://v.douyin.com/MXQCNIJwqR4/)
+
 ---
 ### 0008. Ai灵感主义 4K
 **[Ai灵感主义]{s}**

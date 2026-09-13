@@ -133,6 +133,12 @@
     - [111](https://v.douyin.com/BrMjHNurBe8/)
 
 ---
+### 0004. ShadowEnglish
+**[ShadowEnglish]{s}**
+* **[ShadowEnglish | 🔹 每日英语跟读 🔹 双语字幕｜真实表达｜实用口语 | Douyin | 五十章 | Douyin](https://v.douyin.com/YDxrnn8F0AU/)**
+  - [41分钟超长英语学习资料](https://v.douyin.com/7Oguf8lDdTo/)**
+
+---
 ### 9999. Download
 **[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**
