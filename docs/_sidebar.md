@@ -26,7 +26,7 @@
 
 ---
 * **X.com**
-  - [Account](X.com/Account.md)
+  - [Account](X.com/Account)
 
 ---
 * **EnglishCourse**
