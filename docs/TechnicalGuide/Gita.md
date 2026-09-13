@@ -564,6 +564,100 @@ ssh -T git@gitee
 * 不同平台 / 账号用不同 **SSH key**，不会冲突。
 * 只需记住 `Host` 别名（`github-personal` / `github-work` / `gitee`），克隆时写对就行。
 
+
+---
+### 0009. Git 更新代码操作小抄
+**[Git 更新代码操作小抄]{s}**
+  1. 查看当前仓库状态
+    - 看看哪些文件被修改、新增或删除
+    - git status
+
+  2. 把所有修改加入暂存区
+    - -A = 把新增、修改、删除的文件全部加入
+    - git add -A
+
+  3. 创建一次版本记录
+    - -m 后面写本次修改的说明
+    - git commit -m "Update blog"
+
+  4. 把本地提交上传到远程仓库
+    - 当前 origin 已经绑定 Gitee，所以直接 push 即可
+    - git push
+
+  ---
+  5. 如果只是想看看当前状态
+    - 查看当前所在分支
+    - git branch
+
+  6. 查看当前文件修改情况
+    - git status
+
+  ---
+
+**[每次更新的完整流程]{s}**
+
+``` md
+每次更新的完整流程
+修改本地文件
+    ↓
+git status
+    ↓
+查看有哪些变化
+    ↓
+git add -A
+    ↓
+把变化放进“暂存区”
+    ↓
+git commit -m "Update blog"
+    ↓
+给这次修改建立一个“版本记录”
+    ↓
+git push
+    ↓
+上传到 Gitee
+```
+
+**[几个英文单词记住就够了]{s}**
+
+``` md
+几个英文单词记住就够了
+status
+状态
+查看当前有哪些修改
+add
+添加
+把修改放进暂存区
+commit
+提交
+给当前修改建立一个版本记录
+push
+推送
+把本地提交上传到远程仓库
+master
+当前使用的主分支名称
+origin
+远程仓库的名字
+你这里的 origin 指向 Gitee
+```
+---
+
+
+**[最重要的三行]{s}**
+ - 以后如果只是正常更新博客，直接记住：
+
+``` md
+git add -A              # 把所有修改加入暂存区
+git commit -m "Update blog"  # 保存为一个新版本
+git push                # 上传到 Gitee
+```
+
+**[简单理解：]{s}**
+``` md
+add     = 收拾东西
+commit  = 打包并贴上标签
+push    = 发快递
+```
+
 ---
 ![Alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
 
