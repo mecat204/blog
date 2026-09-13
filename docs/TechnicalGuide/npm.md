@@ -1,4 +1,4 @@
-### 01. npm安装
+### 0001. npm安装
 1. npm安装卡顿解决方案
 
 ``` gitbash
@@ -59,7 +59,7 @@ git clone --depth=1 https://github.com/jaywcjlove/reference.git
 ```
 
 ---
-### 02. npm、cnpm、yarn、pnpm 之间的关系
+### 0002. npm、cnpm、yarn、pnpm 之间的关系
 * npm / cnpm / yarn / pnpm 本身都是“包管理工具”，
 它们的任务只是：
 👉「根据依赖清单（package.json）去安装你项目所需的依赖包」
@@ -127,7 +127,7 @@ npm 用来安装“别的包”（不是它自己）
   - 可以不全局安装 create-react-app，更轻量。
 
 ---
-### 03. 详解 npx create-react-app myapp
+### 0003. 详解 npx create-react-app myapp
 
 ``` bash
 npx create-react-app myapp
@@ -217,7 +217,7 @@ npx create-react-app myapp --template typescript   # 创建 TypeScript 模板
 ```
 
 ---
-### 04. Git Clone 常见用法对照表
+### 0004. Git Clone 常见用法对照表
 | 用法                  | 命令示例                                                                    | 说明                            |
 | ------------------- | ----------------------------------------------------------------------- | ----------------------------- |
 | **克隆完整仓库**          | `git clone https://github.com/user/repo.git`                            | 默认拉取整个历史记录（体积可能很大）            |

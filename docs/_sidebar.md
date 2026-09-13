@@ -25,8 +25,8 @@
   - [GPT推荐站点](技术栈/0007.GPT推荐站点)
 
 ---
-* **x.com**
-  - [account](x.com/account.md)
+* **X.com**
+  - [Account](X.com/Account.md)
 
 ---
 * **EnglishCourse**
@@ -215,11 +215,13 @@
 
 ---
 * **TechnicalGuide**
-  - [npm](TechnicalGuide/npm)
-  - [technology](TechnicalGuide/Technology)
-  - [git](TechnicalGuide/git)
-  - [net](TechnicalGuide/net)
-  - [cmd&&gitbash](TechnicalGuide/cmd&&gitbash)
+  - [Npm](TechnicalGuide/Npm)
+  - [Technology](TechnicalGuide/Technology)
+  - [Git](TechnicalGuide/Git)
+  - [Net](TechnicalGuide/Net)
+  - [Cmd&&GitBash](TechnicalGuide/Cmd&&GitBash)
+  - [Powershell](TechnicalGuide/Powershell)
+  - [GPT](TechnicalGuide/GPT)
 
 ---
 * **Markdown**

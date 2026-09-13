@@ -1,4 +1,4 @@
-### 01. Git 不能跨分支直接推送
+### 0001. Git 不能跨分支直接推送
 * 设计理念与规范说明
   1. **Git 的版本控制设计核心**
      - Git 是一个分布式版本控制系统，每个分支拥有独立的提交历史（commit history）
@@ -45,7 +45,7 @@
 | **协作流程** | PR 审核后合并主分支   | 直接绕过合并过程        |
 
 ---
-### 02. 图文版的合并新增文件操作流程
+### 0002. 图文版的合并新增文件操作流程
 * **分支新增文件合并并推送到远程主分支操作流程表**
 | 步骤 | 操作内容           | 说明                  | 命令示例 / GitHub Desktop操作                                                                                 |
 | -- | -------------- | ------------------- | ------------------------------------------------------------------------------------------------------- |
@@ -64,7 +64,7 @@
   - 建议功能分支命名清晰（如 feature/新增功能名），方便管理。
 
 ---
-### 03. 分支
+### 0003. 分支
 * 分支
   - 远程主分支
   - 远程分支
@@ -101,7 +101,7 @@
 | 分支合并到本地主分支后推送远程主分支 | 可行   | 合并后本地主分支拥有全部改动，推送同步 |
 
 ---
-### 04. 问题与总结
+### 0004. 问题与总结
 * **为什么不能先在某个分支里改（添加文件），然后直接推送到主分支**
   - **原因和设计理念解释：**
     1. **Git 的分支本质是相互独立的代码历史快照**
@@ -154,7 +154,7 @@
  > Git 多分支协作的核心步骤：**修改→提交→推送→切分支→合并→推送**。这套流程保证了代码的安全和版本的清晰。
 
 ---
-### 05. 合并本地分支和本地主分支的步骤
+### 0005. 合并本地分支和本地主分支的步骤
 * 假设你现在有：
   - 本地主分支：main
   - 另一个本地分支：feature-branch
@@ -206,7 +206,7 @@ git push origin main
   - 合并后记得推送（push）到远程，保持远程仓库同步
 
 ---
-### 06. 多账号 SSH 配置示例
+### 0006. 多账号 SSH 配置示例
 * 我给你整理一个 **多账号 SSH 配置示例**，方便你在 **GitHub / Gitee / GitLab** 或多个 GitHub 账号之间切换。
 
 ---
@@ -323,7 +323,7 @@ ssh-add ~/.ssh/id_rsa_gmail
 ```
 
 ---
-### 07. Git 多账号邮箱配置指南
+### 0007. Git 多账号邮箱配置指南
 *  **Git 多账号邮箱配置指南**，能在不同仓库用不同邮箱，不会把工作账号和个人账号的 commit 搞混。
 
 ---
@@ -427,7 +427,7 @@ git log --pretty=format:'%h %an <%ae> %s'
 * **复杂场景**：用 `includeIf` 自动按目录切换，最省心。
 
 ---
-### 08. SSH 多账号 + Git 多邮箱」组合配置示例
+### 0008. SSH 多账号 + Git 多邮箱」组合配置示例
 * **「SSH 多账号 + Git 多邮箱」组合配置示例**
   - **GitHub 个人账号**
   - **GitHub 工作账号**
@@ -458,7 +458,7 @@ ssh-keygen -t ed25519 -C "yourname@gitee.com" -f ~/.ssh/id_gitee
 
 * 编辑 `~/.ssh/config`：
 
-```ssh
+``` ssh
 # ========== GitHub 个人账号 ==========
 Host github-personal
     HostName github.com
@@ -482,12 +482,11 @@ Host gitee
 ```
 
 ---
-
 3. 配置 Git 多邮箱
 
 * 编辑 `~/.gitconfig`：
 
-```ini
+``` ini
 [user]
     name = Default Name
     email = yourname@gmail.com
@@ -504,15 +503,14 @@ Host gitee
 
 * **`~/.gitconfig-personal`**
 
-```ini
+``` ini
 [user]
     name = PersonalAccount
     email = yourname@gmail.com
 ```
 
 * **`~/.gitconfig-work`**
-
-```ini
+``` ini
 [user]
     name = WorkAccount
     email = workmail@company.com
@@ -520,7 +518,7 @@ Host gitee
 
 * **`~/.gitconfig-gitee`**
 
-```ini
+``` ini
 [user]
     name = GiteeAccount
     email = yourname@gitee.com
@@ -528,21 +526,17 @@ Host gitee
 
 ---
 4. 克隆仓库的方式
-
 * **GitHub 个人项目**
-
-  ```bash
+  ``` bash
   git clone git@github-personal:yourname/repo.git ~/projects/personal/repo
   ```
 
 * **GitHub 工作项目**
-
   ```bash
   git clone git@github-work:company/repo.git ~/projects/work/repo
   ```
 
 * **Gitee 项目**
-
   ```bash
   git clone git@gitee:yourname/repo.git ~/projects/gitee/repo
   ```
@@ -550,16 +544,13 @@ Host gitee
 ---
 
 5. 验证效果
-
 * 进入不同目录后，检查：
-
 ```bash
 git config user.name
 git config user.email
 ```
 
 * 然后测试 SSH 是否正确：
-
 ```bash
 ssh -T git@github-personal
 ssh -T git@github-work
@@ -567,7 +558,6 @@ ssh -T git@gitee
 ```
 
 ---
-
 * 这样配置后：
 
 * 不同仓库用不同 **邮箱**，commit 记录不会串。
