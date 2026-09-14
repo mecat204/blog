@@ -1829,11 +1829,17 @@
     - [BG Drawing Birds - AriandMax | Min: 01:05 | 061](https://v.douyin.com/jWTHQaWAkcw/)
 
 ---
-### 102. Revsersed Rooms Music | GenshinImpact
+### 0102. Revsersed Rooms Music | GenshinImpact
 **[Revsersed Rooms Music]{s}**
 * **[Reversed Rooms Music | 2.46K subscribers | YTB](https://www.youtube.com/@ReversedRoomsMusic/videos)**
   - [Temple of Space World Quest BGM | Genshin Impact 6.5 OST](https://www.youtube.com/watch?v=yenqj2VQIbs&list=RDYkqWzX5zlok&index=1)
   - [https://www.youtube.com/watch?v=agoKcoEADVY](https://www.youtube.com/watch?v=agoKcoEADVY)
+
+---
+### 0200. 抖音歌曲
+**[抖音歌曲]{s}**
+* **[抖音歌曲 | 2.69K subscribers | YTB](https://www.youtube.com/@%E6%8A%96%E9%9F%B3%E6%AD%8C%E6%9B%B22026/videos)**
+  - [2026 年 九月 必聽新歌](https://www.youtube.com/watch?v=Xl2au-i-hkk&list=RDXl2au-i-hkk&start_radio=1)
 
 ---
 ### 9999. Music·Course
