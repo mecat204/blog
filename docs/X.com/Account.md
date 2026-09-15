@@ -301,6 +301,19 @@
   - [tubi](http://gdpr.tubi.tv/)
 
 ---
+### 0015. 向阳乔木·Book
+**[向阳乔木]{s}**
+* **[向阳乔木(https://x.com/vista8)**
+  - [qiaomu-reader](https://github.com/joeseesun/qiaomu-reader)
+  - [Qiaomu Reader](https://community.obsidian.md/plugins/qiaomu-reader)
+
+---
+### 0016. Romain Simon
+**[Romain Simon]{s}**
+* **[Romain](https://x.com/romainsimon)**
+  - [AI 影视制作工作台-cinematic-techniques](https://melies.co/cinematic-techniques)
+
+---
 ### 9999. Software | Books | Download
 **[dlpanda]{s}**
 * **[DLPanda | Download TikTok Videos Without Watermark | Free HD Video &amp; Photo Downloader](https://www.dlpanda.com)**

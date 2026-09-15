@@ -903,7 +903,7 @@
   - [你试过在夏天穿着汉服在西湖边读诗吗？](https://www.youtube.com/watch?v=_T5KzJgUxLQ)
 
 ---
-**[Doobydobap · 美食博主]{e}**
+**[Doobydobap·美食博主]{e}**
 * **[Doobydobap | 中级 | 非常幽默搞笑、旅行、食物内容 | 4.49M subscribers | YTB](https://www.youtube.com/@Doobydobap)**
 
   - **[美食博主 | url](https://doobydobap.com)**
@@ -920,7 +920,7 @@
 
   ---
   - [En: Welcome.]{s}
-  - [Cn: 欢迎.]{g}
+  - [Cn: 欢迎]{g}
 
   ---
   - [En: Here at Tiny Home Tours, we are passionate about all things tiny living.]{s}
@@ -1707,6 +1707,7 @@
   - [Taylor Swift - Father Figure](https://www.youtube.com/watch?v=98SmlWOKuME)
   - [Taylor Swift - Mine](https://www.youtube.com/watch?v=oxNLRqMJMZk&list=OLAK5uy_n8xJHj0rL3zyol9oYHsVTBHm-L_eY-3gY)
   - [Taylor Swift - New York University](https://www.youtube.com/watch?v=Q8NYdZYQsgY)
+  - [Taylor Swift - I Knew It, I Knew You (Piano Version) (Official Music Video)](https://www.youtube.com/watch?v=XwCWKSO0F8s)
 
 ---
 **[Eliott Tordo Erhu Player 二胡]{s}**
@@ -1715,6 +1716,11 @@
   - [Avatar : The last Airbender | The Legend of Korra Erhu Covers by Eliott Tordo | total: 22](https://www.youtube.com/watch?v=v2A5aKW9lFg&list=PLRJMyiugYfVLOfWnKVMGid-VXEz7n6Uq0)
   - [Erhu covers | total: 153](https://www.youtube.com/watch?v=cXJ8976qrMM&list=PLRJMyiugYfVJ7vNIiMdez-3E-YkblaXLy)
   - [Naruto covers | total: 23](https://www.youtube.com/watch?v=cXJ8976qrMM&list=PLRJMyiugYfVK__D2gsAMg7auoErUqr0qH)
+
+---
+**[The New York Times]{s}**
+* **[The New York Times | 5.27M subscribers | YTB](https://www.youtube.com/@nytimes/videos)**
+  - [Taylor Swift: The Stories Behind Her Biggest Songs (Exclusive Interview)](https://www.youtube.com/watch?v=5B8-TJ8vsKY)
 
 ---
 ### 0009. 小元智谈 | Gather YTB
