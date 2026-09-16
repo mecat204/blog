@@ -1167,6 +1167,12 @@
 
 ---
 ### 0011. 直播
+**[颜夕]{g}**
+* **[颜夕 | 光影: derivative 材质: patrix 伴奏: Counter Attack(钢琴版) | 直播时间: 24:00-02:00](https://v.douyin.com/vaBk-MZW_e0/)**
+  - [仿佛在这里才能找到一丝宁静](https://v.douyin.com/pAiEhkLIKf0/)
+  - [我的世界](https://v.douyin.com/BaB7eO8oF6U/)
+
+---
 **[沈熳✨FM]{e}**
 * **[✨直播时间 ：22:00-2:00 ✨电台故事｜情感树洞｜暖心陪伴 | 你尽管做你自己 总有人会爱你 | 十章 | Douyin](https://v.douyin.com/GlDJy3VXD2k/)**
   - [我期待风起...而你...](https://v.douyin.com/ptpxOrDZrYU/)

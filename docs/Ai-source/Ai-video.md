@@ -1849,10 +1849,30 @@
     - [用AI翻拍--高中语文常考内容之一“葫芦僧乱判葫芦案” AI手搓红楼梦第四大集来啦~本集用AI还原名著《红楼梦》第四回“ 薄命女偏逢薄命郎　葫芦僧乱判葫芦案 ”全部内容，整体内容不变，只是先后顺序做了一些调整，大家可以先阅读一边原文再来看本视频，脑袋里一定就有画面了，台词尊重原著，都是一比一还原复刻，只有一些小的过渡桥段，或者原文只是一笔带过的桥段，做了拓展原创。]{lb}
 
 ---
-### 0300. YTB-Ai短剧
+### 0204. 神话研究所
+**[神话研究所]{s}**
+* **[神话研究所| 电视剧精讲 | 人物 | 心理 | 博弈 | 佰章 | Douyin](https://v.douyin.com/8wzyhlpMwb4/)**
+
+  ---
+  **[001. 外星人访谈录]{g}**
+    - [为什么我们发现不了其他文明 | 001](https://v.douyin.com/ETfTY8X2-Bk/)
+    - [海底最深处究竟存在什么，为什么去过海底的人，比登月的人还要稀少。| 002](https://v.douyin.com/HbMxinqtsIk/)
+    - [七级文明和修真世界究竟哪个更强，首先要明白一到七级文明都是什么概念 | 003](https://v.douyin.com/XDEpIYAjswM/)
+    - [为什么在地球上存在了一亿多年的恐龙，却没有进化出智慧文明 | 004](https://v.douyin.com/ceaTjELGrDA/)
+    - [禅让制究竟存不存在 可能制度真实存在，但未必那么温情脉脉 | 005](https://v.douyin.com/xCX_rkOSRwo/)
+    - [山海经的记载，究竟是神话还是纪实 如果把它看作地理与物产志 + 神话与传说的混合体，那一切都说得通了 | 006](https://v.douyin.com/PP-uk1A59AA/)
+
+---
+### 0300. YTB-Ai漫剧
 **[ShengshiDrama]{s}**
 * **[ShengshiDrama | 2.8M subscribers | YTB](https://www.youtube.com/@ShengshiDrama)**
   - [我在急诊室摸鱼，全院跪求出手](https://www.youtube.com/watch?v=Cf1HB0J1EIU)
+
+---
+**[KK爱看]{s}**
+* **[KK爱看 | 56K subscribers | YTB](https://www.youtube.com/@KKAIKAN)**
+  - [猎者为王，我靠神箭术粮满仓](https://www.youtube.com/watch?v=Qs0UMGn_bqk)
+
 
 ---
 ### 9999. Download

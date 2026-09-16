@@ -1838,7 +1838,7 @@
 ---
 ### 0019. Drama 短剧
 **[Emily英文绘本故事]{s}**
-* **[Emily英文绘本故事 | 北大本硕 | 15年 + 教育人 | 俩娃妈妈 | 把教育经验熬成原创英语绘本故事 | 用妈妈的视角, 讲孩子能听懂的英文内容, 每天5分钟磨耳朵,陪娃轻松爱上英语 | 百章 | Douyin](https://v.douyin.com/jkP_utJS_p8/)**
+* **[Emily英文绘本故事 | 北大本硕 | 15年 + 教育人 | 俩娃妈妈 | 把教育经验熬成原创英语绘本故事 | 用妈妈的视角, 讲孩子能听懂的英文内容, 每天5分钟磨耳朵,陪娃轻松爱上英语 | 叁佰章 | Douyin](https://v.douyin.com/jkP_utJS_p8/)**
   - **[狮子王](https://v.douyin.com/erRH2wGf7ss/)**
     * **[狮子王 | 1994](https://www.libvio.mov/play/167-1-1.html)**
   - [疯狂原始人](https://v.douyin.com/6M9pCejaAZI/)

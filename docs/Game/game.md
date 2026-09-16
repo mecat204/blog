@@ -3,22 +3,22 @@
 * **[dlpanda](https://www.dlpanda.com)**
 
 ---
-**[zeuis]{s}**
+**[zeuis工具导航]{s}**
 * **[zeuis](https://www.zeuis.com/)**
 
 ---
-**[LINUX DO]{s}**
+**[LINUX DO - 新的理想型社区]{s}**
 * **[LINUX DO](https://linux.do/)**
 
 ---
 ### 0001. Game
 **[宅亿点]{s}**
-* **[宅亿点 | 爱宅，也爱美好的世界！ 遇见是缘分，感谢每一个友好的你！ 祝大家好运！| 百章 | Douyin](https://v.douyin.com/8kU4tgScm4w/)**
+* **[宅亿点 | 爱宅，也爱美好的世界！ 遇见是缘分，感谢每一个友好的你！ 祝大家好运！| 贰佰章 | Douyin](https://v.douyin.com/8kU4tgScm4w/)**
   - [小宅夜晚 | 一人一猫一世界](https://v.douyin.com/Y86iVrs7ccw/)
 
 ---
 **[ManMan@CC]{s}**
-* **[ManMan@CC | 千章 | Douyin](https://v.douyin.com/oF1TQmJ_Auk/)**
+* **[ManMan@CC | 仟章 | Douyin](https://v.douyin.com/oF1TQmJ_Auk/)**
   - [说出你玩过觉得最好玩的双人游戏……情侣好友双人游戏推荐🥇TOP10……想和谁玩就艾特谁# 适合情侣玩的游戏推荐](https://v.douyin.com/Fs8GLS4gbeQ/)
   - [10款双人游戏｜快@TA和你一起玩 别再让你的switch吃灰了](https://v.douyin.com/Kw7Q_sEFPOw/)
   - [如果有一个这样的电竞房，你会下班后几点回家](https://v.douyin.com/zPMk5CENFUw/)
@@ -26,18 +26,24 @@
 ---
 ### 0002. Game translate
 **[7788]{s}**
-* **[7788 | 二百章 | Douyin](https://v.douyin.com/7eLEjLQxLPc/)**
+* **[7788 | 贰佰章 | Douyin](https://v.douyin.com/7eLEjLQxLPc/)**
   - [这英语得学呀 | 实用英语 | 学英语 | 日常英语 | 生活英语 | 趣味英语](https://v.douyin.com/jVZrkl3FobI/)
 
 ---
 ### 0003. 终末地
 **[终末地]{s}**
-* **[础（原神）| 二百章 | Douyin](https://v.douyin.com/eUkUrmECxH4/)**
+* **[础（原神）| 伍佰章 | Douyin](https://v.douyin.com/eUkUrmECxH4/)**
   - [钟离也挺配江南水乡风景 | 就用这个转场去溜达吧  | 沉玉谷  | 我推的钟离  | 游戏角色同好会](https://v.douyin.com/w7eBgwpQpW0/)
   - [父亲大人红色高跟鞋的魅力 | 仆人  | 原神空月之歌  | 和我一起玩原神吧  | 原神挪德卡莱  | 高跟鞋卡点](https://v.douyin.com/BhwUc6OlUNE/)
   - [当角色走路学会用腰部发力时 | 原神空月之歌| 瓦雷莎 | 希诺宁 | 原神空月之歌| 和我一起玩原神吧](https://v.douyin.com/zcYtxpbv7hM/)
   - [发现了个拍照绝佳的景点 | 终末地三测实况 | 终末地三测  | 明日方舟终末地  | **终末地**](https://v.douyin.com/qDeVilQhecs/)
   - [终末地国风，简直美爆了 | 终末地三测实况  | 终末地三测  | 国风  | **终末地**  | **明日方舟终末地**](https://v.douyin.com/T_nssxI7nDg/)
+
+  ----
+  **[001. 沉玉谷翘英摄影]{s}**
+    - [谁诀别相思成疾莫问天涯也莫问归期 | 001](https://v.douyin.com/yKME-FCAwhc/)
+    - [来自国风的传统美学，古雅、简洁 | 011](https://v.douyin.com/JEl17TAiDyA/)
+    - [兹白简直是仙气弥漫 | 014](https://v.douyin.com/awYWdSEW1_o/)
 
 ---
 ### 0004. 水子哥的综合游戏室 | 对马岛之魂
@@ -46,10 +52,10 @@
   - [**对马岛之魂PC**](https://v.douyin.com/uVMkB_JYvi8/)
   - [**黑神话：悟空**](https://v.douyin.com/jky6KjJ5nz4/)
 
-* **[水子哥的综合游戏室 | Youtube](https://www.youtube.com/@Chalmers_szg/videos)**
+* **[水子哥的综合游戏室 | 6.55K subscribers | YTB](https://www.youtube.com/@Chalmers_szg/videos)**
   - **[合集列表](https://www.youtube.com/@Chalmers_szg/playlists)**
 
-* **[水子哥的综合游戏室 | Bilibili](https://space.bilibili.com/30998094)**
+* **[水子哥的综合游戏室 |  游戏攻略，试玩推荐，游戏杂谈 | 5.1万 | B站](https://space.bilibili.com/30998094)**
 
 ---
 ### 0005. Tiny Glade | 林间小世界
@@ -79,7 +85,7 @@
 ---
 ### 0007. DIY电脑
 **[iFeng]{s}**
-* **[iFeng | 🖥桌面布置分享 📱数码好物推荐 | 贰佰章](https://v.douyin.com/nYWO5jcqxE4/)**
+* **[iFeng | 🖥桌面布置分享 📱数码好物推荐 | 伍佰章](https://v.douyin.com/nYWO5jcqxE4/)**
   - [论质感，还得是无光黑武士⚫️！一直在找一台颜值和兼容性都拉满的机箱。这次用酷冷至尊MF400 Mesh Black装了一台纯黑武士，真的被帅到了！磨砂黑铝合金外框+圆角切割，放在桌面上精致的像摆件！硬朗线条自带机甲气场，六角形Mesh前板颜值拉满，低调又高级。 - 这次特意上了华硕影袭者背插主板，搭配MF400原生背插支持，正面几乎看不到线材，强迫症狂喜。TRYX风屿620双塔风冷压13600kf轻松，和公版4070搭配起来线条硬朗，全黑配色浑然一体。电源用的是酷冷V SFX Gold 850W，ATX3.1标准，塞进去还有余量，后期升级也留够了空间。 - 这机箱最亮眼的地方在于结构可以自己定义——电源能侧置、前置、甚至吊装，机箱可以立着当塔式，也能横着躺平。我选了电源前置加侧透对着桌面，视觉上更紧凑。官方配件现在也配足了金属杆，装机自由度拉满](https://v.douyin.com/-58s_MNWjVA/)
   - [装机清单🧾： 🏷 机箱丨酷冷至尊MF400 Mesh Black 🏷 主板丨华硕影袭者TUF GAMING B760-BTF WiFi 🏷 CPU丨英特尔i5-13600kf 🏷 风冷丨TRYX 创氪星系Turris风屿620 🏷 GPU丨英伟达RTX4070公版 🏷 SSD丨SOLIDIGM P44 Pro 2TB 🏷 内存条丨威刚 16G×2 DDR5 6000 C36 🏷 电源丨酷冷至尊V SFX Gold 850 ATX3.1 🏷 风扇丨联力积木1代V2 # 酷冷至尊 # DIY装机]{s}
 
@@ -131,18 +137,17 @@
 * **[anuttacon](https://www.anuttacon.com/)**
 
 ---
-* **[Whispers from the star: Grok with Stella](https://www.youtube.com/watch?v=BUn3EFGsKb0)**
-
----
-* **[whispers from the star](https://www.youtube.com/watch?v=DftdqHwDAPU)**
-
----
-* **[Simping Over An Ai Chat Bot And More Gaslighting - Whispers From The Star](https://www.youtube.com/watch?v=UVSjVKdNaRs)**
+**[whispers from the star]{s}**
+  - [Whispers from the star: Grok with Stella](https://www.youtube.com/watch?v=BUn3EFGsKb0)
+  - [whispers from the star](https://www.youtube.com/watch?v=DftdqHwDAPU)
+  - [Simping Over An Ai Chat Bot And More Gaslighting - Whispers From The Star](https://www.youtube.com/watch?v=UVSjVKdNaRs)
 
 ---
 ### 0010. cast n chil
 **[cast n chil]{g}**
-  - [超爱像素风！ 人生确实没有意义，但人生很美](https://v.douyin.com/m-F84YAfb7U/)
+* **[Psyche_Black | εïз | 佰章 | Douyin](https://v.douyin.com/tLC2PQGyQlY/)**
+  - [超爱像素风！ 人生确实没有意义，但人生很美 | Musci: Solitudinous](https://v.douyin.com/m-F84YAfb7U/)
+  - [我想我会一直孤单 | Musci: 像是完成了什么](https://v.douyin.com/zhZODRqrW3I/)
 
 ---
 ### 0011. Free Online Games on CrazyGames
@@ -152,14 +157,22 @@
 ---
 ### 0012. 我的世界 | Game
 **[颜夕]{g}**
-* **[仿佛在这里才能找到一丝宁静](https://v.douyin.com/pAiEhkLIKf0/)**
-* **[我的世界](https://v.douyin.com/BaB7eO8oF6U/)**
+* **[颜夕 | 光影: derivative 材质: patrix 伴奏: Counter Attack(钢琴版) | 直播时间: 24:00-02:00](https://v.douyin.com/vaBk-MZW_e0/)**
+  - [仿佛在这里才能找到一丝宁静](https://v.douyin.com/pAiEhkLIKf0/)
+  - [我的世界](https://v.douyin.com/BaB7eO8oF6U/)
 
 ---
 ### 0013. Wombat Brawler | Wild n Chill
 **[Wabat Brwaler]{s}**
-* **[Wombat Brawler](https://www.youtube.com/@WombatBrawler/videos)**
+* **[Wombat Brawler | 3.96K subscribers | YTB](https://www.youtube.com/@WombatBrawler/videos)**
   - [Wild n Chill - First Look Gameplay Trailer](https://www.youtube.com/watch?v=qEcpW2GPOvA)
+  - [Wild n Chill - Steam Demo](https://www.youtube.com/watch?v=KUrmSnvRmow)
+
+---
+### 0014. 玩游戏做游戏的老刘
+**[玩游戏做游戏的老刘 us]{s}**
+* **[玩游戏做游戏的老刘 | 我做的第一款治愈系挂机陪伴游戏《旅行家：后日时光》已上架Demo | 佰章 | Douyin](https://v.douyin.com/ZAQFqQkXIls/)**
+  - [人活一辈子，总得留下点什么吧。 这个世界上绝大部分的工作，好像都很难给人真正的成就感。中年失业后，我做了一款结合了番茄钟和待办事项的挂机陪伴小游戏，有好看的风景和多种Lofi 音乐。目前可以免费试玩Demo，希望你能喜欢](https://v.douyin.com/SbiFbmRi7mA/)
 
 ---
 ### 0100. 油管推广广告
