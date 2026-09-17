@@ -28,10 +28,11 @@
 
 ---
 **[Isabel Paige]{e}**
-* **[Isabel Paige | 955K |  YTB](https://www.youtube.com/@isabel_paige)**
-  - **[The Hardest Days of Winter](https://www.youtube.com/watch?v=jNqhUIYZM8Q)**
-  - **[Buried in Snow…Winter In The Mountains](https://www.youtube.com/watch?v=E_TEf57zBWQ)**
-  - **[How Isabel Paige Crafts a Larger-than-Life Fairytale](https://www.youtube.com/watch?v=vlQ6QVF2wBk)**
+* **[Isabel Paige | 953K subscribers |  YTB](https://www.youtube.com/@isabel_paige)**
+  - [The Hardest Days of Winter](https://www.youtube.com/watch?v=jNqhUIYZM8Q)
+  - [Buried in Snow…Winter In The Mountains](https://www.youtube.com/watch?v=E_TEf57zBWQ)
+  - [How Isabel Paige Crafts a Larger-than-Life Fairytale](https://www.youtube.com/watch?v=vlQ6QVF2wBk)
+  - [Saying Goodbye](https://www.youtube.com/watch?v=8dEtsQr-6Wc)
 
 * **[Tiny Pantry](https://isabelpaige.com/)**
 
@@ -52,7 +53,7 @@
 ---
 ### 0002. Chinese Vlog
 **[李子柒 Liziqi]{e}**
-* **[李子柒 Liziqi | 32.8M subscribers | YTB](https://www.youtube.com/@cnliziqi)**
+* **[李子柒 Liziqi | 33.3M subscribers | YTB](https://www.youtube.com/@cnliziqi)**
 
   - [这里是李子柒YouTube官方频道哦]{s}
   - [Please  subscribe to 【李子柒 Liziqi 】Liziqi Channel on YouTube if you like my videos]{g}
@@ -69,7 +70,7 @@
 
 ---
 **[敢敢烧琉璃]{e}**
-* **[敢敢烧琉璃 | 1.09K subscribers | YTB](https://www.youtube.com/@NB345/videos)**
+* **[敢敢烧琉璃 | 1.1K subscribers | YTB](https://www.youtube.com/@NB345/videos)**
   - [baby别叫我达芬奇](https://www.youtube.com/watch?v=K410JXv6iK4)
 
 * **[敢敢烧琉璃 | 已经在跟老师学习新的手艺啦～希望大家天天开心 | 五百章 | Douyin](https://v.douyin.com/slNExV4ogek/)**
@@ -78,13 +79,13 @@
   - [你们催的佛怒火莲！终于来啦！| 琉璃 | 生活碎片plog | 2024又快过了一半 | 佛怒火莲 | flower](https://v.douyin.com/mOPE2WA_vcw/)
   - **[牛牛疑惑😐 | 牛牛  | 东边的山坡上有两头牛  | 牛牛表情包  | 手艺人日常  | 冬至为葡萄成熟时按下播放键](https://v.douyin.com/4VyaiuLocpQ/)**
 
-* **[马路牙子 | 名字是小时候同学给起的外号，说我是大马路上的石牙子，天天喊，一开始不喜欢，后来就爱上了  | 五百章 | Douyin](https://v.douyin.com/_yr-t09rssk/)**
+* **[马路牙子 | 名字是小时候同学给起的外号，说我是大马路上的石牙子，天天喊，一开始不喜欢，后来就爱上了  | 伍佰章 | Douyin](https://v.douyin.com/_yr-t09rssk/)**
   - [疑似第520通骚扰电话₍˄·͈༝·͈˄*₎◞ ̑̑  | 蓝天  | 雪天  | 不灵不灵手势舞  | 甜妹  | 手势舞](https://v.douyin.com/um-KidQwXpo/)
   - [战战战我杀杀杀 | 开心最重要啦](https://v.douyin.com/jxS-E6z5TsI/)
 
 ---
 **[都靓]{e}**
-* **[都靓 | 3.63K subscribers | YTB](https://www.youtube.com/@duliangdushu/videos)**
+* **[都靓 | 3.72K subscribers | YTB](https://www.youtube.com/@duliangdushu/videos)**
   - [阅读是一件最重要的小事。听都靓，讲述中华之美。]{s}
   - [Beauty of China, Presented by DuLiang]{g}
 
@@ -104,7 +105,7 @@
 * **[小美是个野孩纸 | 2.05K subscribers | YTB](https://www.youtube.com/@xiaomeiski/videos)**
     - [【小美是个野孩子】 燃起来了！！一镜到底！是滑雪快还是骑摩托快？新疆阿勒泰三月的雪竟然这么好？](https://www.youtube.com/watch?v=baBhMPsgZUs&list=PLRLm2P7GB6et_Ac7WEIg7-PFZuHp1-IEQ)
 
-* **[小美是个野孩纸 | 千章 | Douyin](https://v.douyin.com/2Yecf8ejux8/)**
+* **[小美是个野孩纸 | 贰仟章 | Douyin](https://v.douyin.com/2Yecf8ejux8/)**
   - [这是不是你想象中，自由的样子？](https://v.douyin.com/Acukcyz3F2s/)
   - [兄弟上号！今天够不够帅？ | 尔滨坐不住又整活儿了](https://v.douyin.com/QvA_79hKXwQ/)
   - [原来女生耍起帅来连自己都想嫁！| 滑雪 | 全民冰雪季 | 我的粉雪时刻](https://v.douyin.com/lKVsLvlowMg/)
@@ -112,7 +113,7 @@
 
 ---
 **[奶思兔咪鱿]{e}**
-* **[奶思兔咪鱿 | Nice to meet you | 五百章 | Douyin](https://v.douyin.com/yF1WG9-otuc/)**
+* **[奶思兔咪鱿 | Nice to meet you | 伍佰章 | Douyin](https://v.douyin.com/yF1WG9-otuc/)**
   - [儿时不解 大人为何拼尽全力依然清贫 长大才知 光是活着养家便已是多数人的极限](https://v.douyin.com/shTHN-zbKIY/)
 
 * **[奶思兔 | 7 subscribers | YTB](https://www.youtube.com/@rabbitTwo23/shorts)**

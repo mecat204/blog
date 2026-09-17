@@ -44,7 +44,7 @@
   - pwd: min
 
 ---
-**[English learn | GPT]{p}**
+**[English learn | GPT]{s}**
 * **[DashPlayer](https://dash-player.solidspoon.xyz/)**
 * **[ESLDesk](https://esldesk.com/)**
 * **[USA Learns Homepage](https://www.usalearns.org/)**
@@ -107,7 +107,7 @@
 
 ---
 **[Miss Honey]{e}**
-* **[Miss Honey | 119万 | YTB](https://www.youtube.com/@Slow_English_Podcast/videos)**
+* **[Miss Honey | 1.37M subscribers | YTB](https://www.youtube.com/@Slow_English_Podcast/videos)**
 
 ---
 ### 0002. 影子英语跟读

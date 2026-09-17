@@ -101,8 +101,9 @@
 ---
 ### 0003. 2018
 **[少寒Shine]{e}**
-* **[少寒Shine 助眠| 千章 | Douyin](https://v.douyin.com/f-tAOPcunls/)**
-  - **[少寒 Shine | 采耳的声音](https://v.douyin.com/CcX97eyTTaU/)**
+* **[少寒Shine 助眠 | 仟章 | Douyin](https://v.douyin.com/f-tAOPcunls/)**
+  - [少寒 Shine | 采耳的声音](https://v.douyin.com/CcX97eyTTaU/)
+  - [戴耳机！左耳→右耳→头顶→后脑。 3D立体环绕助眠，声音走到哪，你就跟到哪。跟着节律，慢慢沉下去……今晚别熬了，睡吧。](https://v.douyin.com/ConswGT8WE0/)
 
 ---
 **[慧慧周]{e}**
@@ -130,7 +131,7 @@
 ---
 ### 0005. 2021
 **[一哒 | Your.Yida.]{e}**
-* **[一哒 | Your.Yida. | 你好, 只是换了一个身份 祝开心 | 二百章 | Douyin](https://v.douyin.com/3RuCJw8yjvc/)**
+* **[一哒 | Your.Yida. | 你好, 只是换了一个身份 祝开心 | 贰佰章 | Douyin](https://v.douyin.com/3RuCJw8yjvc/)**
   - [梁山伯与祝英台](https://v.douyin.com/yYPrSFceuGY/)
 
 ---
@@ -143,7 +144,7 @@
 
 ---
 **[蒂娜TRI]{e}**
-* **[蒂娜TRI | 让人非我弱,得志莫离群。| 百章 | Douyin](https://v.douyin.com/2Ndnes_7oPo/)**
+* **[蒂娜TRI | 让人非我弱,得志莫离群。| 佰章 | Douyin](https://v.douyin.com/2Ndnes_7oPo/)**
   - [吓人！再不跑就来不及了](https://v.douyin.com/AKMyFGr_0Ps/)
   - [进个家门这么容易吗](https://v.douyin.com/LIERNV-3GEE/)
   - [燃了！噗…灭了](https://v.douyin.com/z__mIW_WG_M/)
@@ -151,19 +152,19 @@
 ---
 ### 0006. 2022
 **[羊贵妃 t宝]{e}**
-* **[羊贵妃 t宝 | 想做恋爱博主 差个人 | 五百章 | Douyin](https://v.douyin.com/Q4mef7fztWY/)**
+* **[羊贵妃 t宝 | 想做恋爱博主 差个人 | 仟章 | Douyin](https://v.douyin.com/Q4mef7fztWY/)**
   - [这里不噶腰子 哈哈哈](https://v.douyin.com/0-BywvuZmHI/)
   - [日常吐槽](https://v.douyin.com/VHkyVNrc6Ew/)
 
 ---
-**[小李胖了吗]{s}**
-* **[小李胖了吗 |  千章 | Douyin](https://v.douyin.com/wsZm48_8Bn8/)**
+**[小李胖了吗]{e}**
+* **[小李胖了吗 |  仟章 | Douyin](https://v.douyin.com/wsZm48_8Bn8/)**
   - [俯仰流年二十春](https://v.douyin.com/1RhOPR-C_-Y/)
   - [心向自由致遠方](https://v.douyin.com/-pMTPhsdcJc/)
 
 ---
 **[小美是个野孩纸]{e}**
-* **[小美是个野孩纸 | 新疆阿勒泰地区冰雪推广大使| 千章 | Douyin](https://v.douyin.com/2Yecf8ejux8/)**
+* **[小美是个野孩纸 | 新疆阿勒泰地区冰雪推广大使| 贰仟章 | Douyin](https://v.douyin.com/2Yecf8ejux8/)**
   - [这是不是你想象中，自由的样子？](https://v.douyin.com/Acukcyz3F2s/)
   - [兄弟上号！今天够不够帅？ | 尔滨坐不住又整活儿了](https://v.douyin.com/QvA_79hKXwQ/)
   - [原来女生耍起帅来连自己都想嫁！| 滑雪 | 全民冰雪季 | 我的粉雪时刻](https://v.douyin.com/lKVsLvlowMg/)
