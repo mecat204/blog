@@ -1794,6 +1794,25 @@
     - [霓为衣兮风为马。| 026](https://v.douyin.com/AGHDBVIGYGs/)
 
 ---
+### 0103. 黄油蛤蜊
+**[黄油蛤蜊]{s}**
+* **[黄油蛤蜊 | 深耕AI高品质作品⛵ 已签约原创精选作者 | 伍佰章 | Douyin](https://v.douyin.com/-wxFItNZ_kM/)**
+
+  ---
+  **[001. 视频合集· LibTV]{g}**
+    - [1988年:你回到美国圣地亚哥，在你的海滨别墅享受假期。| 001](https://v.douyin.com/EWoMcNUf8xU/)
+
+    ---
+    - [时间回到1973年，怀俄明州杰克逊霍尔的大提顿山脚下，你建了一座巨大的原木豪宅。这里远离尘世，也是美国最富有的隐形富豪聚居地。 | 050](https://v.douyin.com/pZHSFZJmEpE/)
+
+    ---
+    - [时间回到1988年，你继承了西西里岛的卡塔尼亚的家族庄园。这是位于埃特纳火山的缓坡上的一片庞大的私人葡萄园，在保镖的簇拥下视察着今年马斯卡斯奈莱洛葡萄的收成。 | 100](https://v.douyin.com/I9ZNT3jrVu4/)
+
+    ---
+    - [1987年，你和爱人生活在美国科罗拉多州丹佛南部的海兰兹兰奇 | 148](https://v.douyin.com/KVxIah6E_i4/)
+
+
+---
 ### 0200. 瑶光
 **[瑶光]{s}**
 * **[瑶光 | 做梦老手，AIGC新手，希望能跟粉丝们共同成长，欣赏美丽的梦中世界 | 佰章 | Douyin](https://v.douyin.com/tARwuM501uk/)**
@@ -1872,7 +1891,6 @@
 **[KK爱看]{s}**
 * **[KK爱看 | 56K subscribers | YTB](https://www.youtube.com/@KKAIKAN)**
   - [猎者为王，我靠神箭术粮满仓](https://www.youtube.com/watch?v=Qs0UMGn_bqk)
-
 
 ---
 ### 9999. Download

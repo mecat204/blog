@@ -102,6 +102,11 @@
     - [今天来学一首英语歌吧 | 005](https://v.douyin.com/5AiJ3Krdb7M/)
     - [这首字母歌你们都会唱吗 | 006](https://v.douyin.com/feSOcPjsmcE/)
 
+  ---
+  **[005. 英语博客]{g}**
+    - [分享4部私藏英文电影非常适合练习听力 | 006](https://v.douyin.com/H5uUlBzR-uc/)
+    - [ 1. 伯德小姐 2. 时光恋旅人 3. 春天不是读书天 4. 爱情抓马]{lb}
+
 ---
 ### 0005. Stanford·斯坦福大学
 **[Stanford]{s}**
