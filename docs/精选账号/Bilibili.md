@@ -127,6 +127,15 @@
 ### 0002. B站 up主
 **[Bilibi直接登录网页可以删除客户端无法删除的收藏夹]{s}**
 
+**[原声原味学英语]{s}**
+* **[原声原味学英语 | 素材仅用于交流学习 | 7.2万 | B站](https://space.bilibili.com/3493130475145687?spm_id_from=333.337.search-card.all.click)**
+  - [慢速英语屋](https://www.bilibili.com/video/BV1oLey6zEej/?spm_id_from=333.1387.homepage.video_card.click)
+
+---
+**[YouTube口语听力]{s}**
+* **[YouTube口语听力 | 公众号：青木城 Stay Hungry, Stay Foolish | 68.5万 | B站](https://space.bilibili.com/1221819559)**
+  - [俯瞰美国](https://www.bilibili.com/video/BV1HK411z7fZ/?spm_id_from=333.1387.homepage.video_card.click)
+
 ---
 **[CyberMemories]{e}**
 * **[CyberMemories | 游戏本地化打工人 不定期掉落拌匀视频✨ | 1.1万 | B站 ](https://space.bilibili.com/23838746?spm_id_from=333.337.search-card.all.click)**
