@@ -52,6 +52,9 @@
     * [播客短剧](EnglishCourse/播客短剧/播客短剧)
   - **News**
     * [News](EnglishCourse/News/News)
+  - **History**
+    * [History](EnglishCourse/History/History)
+
   ---
   - **SlowEnglish**
     * [SlowEnglish](EnglishCourse/SlowEnglish/SlowEnglish)

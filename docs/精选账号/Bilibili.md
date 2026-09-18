@@ -127,6 +127,9 @@
 ### 0002. B站 up主
 **[Bilibi直接登录网页可以删除客户端无法删除的收藏夹]{s}**
 
+**[英音belike]{s}**
+* **[英音belike | "精听一段（回音法或影子跟读），泛听一片"，每天坚持复述和大声朗读；分享~长视频~泛听语料：听口合一，录音对比。 | B站](https://space.bilibili.com/605725732?spm_id_from=333.337.0.0)**
+
 **[原声原味学英语]{s}**
 * **[原声原味学英语 | 素材仅用于交流学习 | 7.2万 | B站](https://space.bilibili.com/3493130475145687?spm_id_from=333.337.search-card.all.click)**
   - [慢速英语屋](https://www.bilibili.com/video/BV1oLey6zEej/?spm_id_from=333.1387.homepage.video_card.click)

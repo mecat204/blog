@@ -58,6 +58,9 @@
     ---
     - [AI时代，真正拉开孩子差距的是什么 | 306](https://v.douyin.com/4YjDmmhFa1Q/)
 
+    ---
+    - [十年后毁灭人类？马斯克、OpenAI、Anthropic集体呼吁放缓人工智能开发速度 | 313](https://v.douyin.com/jjwqNvtBGvA/)
+
   ---
   **[transformer-circuits]{g}**
   * **[transformer-circuits.pub](https://transformer-circuits.pub/)**
@@ -65,7 +68,7 @@
 
 ---
 **[杨竹筠]{e}**
-* **[杨竹筠 | 🛡️未来主义极客 & 十年科技媒体人 🤖G信部认证人工智能工程师 🛰️探索：AI+数字创业机会 | 48.3K subscribers | YTB](https://www.youtube.com/@yangzhujun/videos)**
+* **[杨竹筠 | 🛡️未来主义极客 & 十年科技媒体人 🤖G信部认证人工智能工程师 🛰️探索：AI+数字创业机会 | 48.9K subscribers | YTB](https://www.youtube.com/@yangzhujun/videos)**
 
 ---
 ### 0003. 杜恩泽·AI分享与思考

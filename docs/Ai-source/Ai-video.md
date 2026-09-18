@@ -1706,6 +1706,21 @@
     - [人类这奇怪的控制欲 | Min: 01:02 | 073](https://v.douyin.com/1nyZ1R6_TlE/)
 
 ---
+### 0070. 浮生梦影ai
+**[浮生梦影ai]{s}**
+* **[浮生梦影ai | 佰章 | Douyin](https://v.douyin.com/j0reyXAwEcA/)**
+
+  ---
+  **[001. 闺阁密语录]{g}**
+    - [第1集|闺阁·群像|懒起画蛾眉，弄妆梳洗迟。](https://v.douyin.com/f1dj-JBicy0/)
+    - [第2集|闺阁·朝暮|晨起对镜贴花黄，夜阑翻书听漏长。](https://v.douyin.com/-MfROh_lPKA/)
+    - [第3集|闺阁·闲午|日影移过茜纱窗，绣绷上牡丹才开半朵。](https://v.douyin.com/9zfpQZR0iCI/)
+    - [11集|山居·闲事|信马由缰踏青去，归来松风满袖凉](https://v.douyin.com/riryf_9bQCQ/)
+    - [第12集|闺阁·天庭|桃云初遇，仙猴相逢](https://v.douyin.com/O8Kew2pn_uQ/)
+    - [第14集|闺阁·狸奴|金橘卧仙山，伴度长秋 于枫林间拾取飘落的红叶，在古木之下展卷阅简，临溪对坐闲话。](https://v.douyin.com/pgPiNBvoTL8/)
+
+
+---
 ### 0100. Arvin Lab
 **[Arvin Lab]{e}**
 * **[Arvin Lab | AIGC创作者 ｜ 理想主义者 新片场Shotlab签约创作人 | 可灵优创 | 佰章 | Douyin](https://v.douyin.com/SFP0c2jjJJE/)**

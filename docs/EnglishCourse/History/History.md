@@ -38,39 +38,11 @@
   - [Ted](https://www.ted.com/)
 
 ---
-### 0001. 听懂英语快讯
-**[听懂英语快讯]{s}**
-* **[听懂英语快讯 | 千章 | Douyin](https://v.douyin.com/GCCjZrrk1Hk/)**
-
-  ---
-  **[001. 美国风云2026]{g}**
-    - [超级星期二即将到来 | 特朗普和海莉在南方拉票 | 001](https://v.douyin.com/59ZgAjyCSeU/)
-    - [CNN专访：宾州州长从建国历史谈到政治分歧 | 452](https://v.douyin.com/eSQN6gSjE6w/)
-
----
-### 0002. Soren Yang · BBC News
-**[BBC News]{s}**
-* **[Soren Yang | 修身养性，提升认知，唤醒良知！ |  贰仟章 | Douyin](https://v.douyin.com/H5zvWRIQCwI/)**
-
-  ---
-  **[001. BBC News]{g}**
-    - [2026.08.10 | Min: 26:29 | 001](https://v.douyin.com/B_rYLscJyqU/)
-
-    ---
-    - [2025.11.17 | Min: 26:32 | End-start](https://v.douyin.com/7PffKQqaHNc/)
-
----
-### 0003. 纯正英语原声30秒
-**[纯正英语原声30秒]{s}**
-* **[纯正英语原声30秒 | 每日更新国外各大主流英文媒体时事英文和知名博客对话访谈 | 肆仟章 | Douyin](https://v.douyin.com/5q8dOUpHpgY/)**
-
-  ---
-  **[001. 纯正英语原声30秒]{g}**
-    - [Rise of China - Last of the Qing](https://v.douyin.com/tSnun1UGTvs/ )
-
-  ---
-  **[002. 英文原声播客Podcast]{g}**
-    - [LEP英语学习播客-手把手教你"每天15分钟"英语学习计划 | Min: 42:21](https://v.douyin.com/4l3bxSHsK_U/)
+### 0001. Badtime & Historian
+**[Badtime & Historian]{s}**
+* **[Bedtime & Historian | 96.7K subscribers | YTB](https://www.youtube.com/@TheBedtimeHistory-icdi/videos)**
+  - [The ENTIRE Story of the Qing Empire | The Last Dynasty of China | Chinese History](https://www.youtube.com/watch?v=ShvadB3fOL0)
+  - [Fall Asleep to the ENTIRE Story of Ching Shih — Pirate Queen Who Ruled the South China Sea](https://www.youtube.com/watch?v=TT9H6vqLehA)
 
 ---
 ### 9999. 开源项目
