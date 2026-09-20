@@ -150,6 +150,13 @@
   - [燃了！噗…灭了](https://v.douyin.com/z__mIW_WG_M/)
 
 ---
+**[小西设计所·解构艺术]{e}**
+* **[小西设计所 | seeou5 | 贰仟章 | Douyin](https://v.douyin.com/-203r9NZNg4/)**
+  - [十年小西 命运的齿轮开始转动 # 成长来时路 生日倒计时2天，祝我们开心快乐每一天！解锁「小西3.0版本」，未来继续和你一起探索科技世界](https://v.douyin.com/UxEWMCLv4h0/)
+  - [被央视网和刘润老师Q啦。感谢央视网的报道，但入殓师一词用词不佳，希望改成解构艺术 | **解构艺术**](https://v.douyin.com/_qGvj1ETOpg/)
+  - [在自己的热爱中前进](https://v.douyin.com/EKRbdQZr1uQ/)
+
+---
 ### 0006. 2022
 **[羊贵妃 t宝]{e}**
 * **[羊贵妃 t宝 | 想做恋爱博主 差个人 | 仟章 | Douyin](https://v.douyin.com/Q4mef7fztWY/)**

@@ -797,6 +797,13 @@
 
 ---
 ### 0028. Home | 家
+**[努力的屿野]{e}**
+* **[努力的屿野 | 💫全职网文作者的码字日常记录 📒桌搭｜键盘｜数码 | 叁佰章 | Douyin](https://v.douyin.com/zvkEtmVoqs8/)**
+  - [人这一辈子，总要有那么一件坚持做到老的事情.](https://v.douyin.com/XfjPZX7yNxE/)
+  - [写作是一个看似门槛极底，实则门槛很高的行业](https://v.douyin.com/_yTKfQejqBU/)
+  - [理想的生活，大抵是可以拥有一间属于自己的书房.](https://v.douyin.com/VWENl0lhkuE/)
+
+---
 **[梦忧居]{s}**
 * **[梦忧居](https://v.douyin.com/HneY9gXvJQ8/)**
   - [温馨的小窝](https://v.douyin.com/xY5Y1KcwANg/)
