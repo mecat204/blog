@@ -4615,11 +4615,37 @@
 ### 1000. GPT词源学 | CrashCourse
 **[CrashCourse]{s}**
 * **[CrashCourse | 17.2M subscribers |  YTB](https://www.youtube.com/@crashcourse/videos)**
-  - **[Crash Course Geology](https://www.youtube.com/watch?v=YokkwzdZX2A&list=PL8dPuuaLjXtMuxfQl-TBfSHokgpbLvKX9&index=1)**
+  - [Crash Course Geology](https://www.youtube.com/watch?v=YokkwzdZX2A&list=PL8dPuuaLjXtMuxfQl-TBfSHokgpbLvKX9&index=1)
+  - [Crash Course Astronomy Marathon • Full Series](https://www.youtube.com/watch?v=HICDzXfCAs4)
 
 ---
 **[Etymology Nerd]{s}**
 * **[Etymology Nerd | 736K subscribers | YTB](https://www.youtube.com/@etymology_nerd)**
+
+
+---
+### 1001. English with Emma · engVid
+**[English with Emma · engVid]{e}**
+* **[English with Emma · engVid | 5.22M subscribers | YTB](https://www.youtube.com/@engvidEmma/videos)**
+
+**[engVid]{s}**
+* **[engVid](https://www.engvid.com/)**
+
+---
+### 1002. Learn English with Gill · engVid
+**[Learn English with Gill · engVid]{e}**
+* **[Learn English with Gill · engVid | YTB](https://www.youtube.com/@engvidGill/videos)**
+  - [Learn English: LESS, FEWER, FEW, LITTLE, A FEW, A LITTLE, MORE](https://www.youtube.com/watch?v=6GT51x1VtAs)
+
+---
+### 1003. Shmoop
+**[Shmoop]{s}**
+* **[Shmoop | 91.1K subscribers | YTB](https://www.youtube.com/@shmoop/videos)**
+
+---
+### 1004. The School of Life
+**[The School of Life]{s}**
+* **[The School of Life | 9.78M subscribers | YTB](https://www.youtube.com/@theschooloflifetv/videos)**
 
 ---
 ### 2000. Astral Curiosity | Exploring the universe
