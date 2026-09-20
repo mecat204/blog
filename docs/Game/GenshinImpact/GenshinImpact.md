@@ -92,7 +92,14 @@
 
 ---
 **[Genshin Impact Full Story]{s}**
-* **[Genshin Impact Full Story](https://www.youtube.com/playlist?list=PLw0ry7t3NLChNv_LOQGYJlbiSxPbTEWsd)**
+* **[The Gaming Library | 123K subscribers | YTB](https://www.youtube.com/@TheGamingLibraryYT/videos)**
+
+  **[001. Genshin Impact Full Story]{g}**
+    - [Genshin Impact Full Story](https://www.youtube.com/playlist?list=PLw0ry7t3NLChNv_LOQGYJlbiSxPbTEWsd)
+    - [Genshin Impact | The Immovable God and the Eternal Euthymia | All Cutscenes (PS5) | Min: 02:08:12](https://www.youtube.com/watch?v=59-BLQx9yAY&list=PLw0ry7t3NLChNv_LOQGYJlbiSxPbTEWsd&index=20)
+    - [Genshin Impact | Dreamlike Timelessness | All Cutscenes (PS5) | Min: 01:09:01](https://www.youtube.com/watch?v=GBgiMdZh8ds&list=PLw0ry7t3NLChNv_LOQGYJlbiSxPbTEWsd&index=21)
+    - [Genshin Impact | The Whisper of the Crane and the White Rabbit | All Cutscenes (PS5) | Min:01:04:59](https://www.youtube.com/watch?v=gMUA7ynfJzA&list=PLw0ry7t3NLChNv_LOQGYJlbiSxPbTEWsd&index=21)
+
 
 ---
 **[Gamer's Little Playground]{s}**

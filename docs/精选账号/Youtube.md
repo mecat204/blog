@@ -4375,11 +4375,13 @@
   - 服务信息与反馈：https://www.bbcstudios.com/contact/contact-us/
 
   ---
-  - **[1 Hour of Magnificent Moments Narrated by Sir David Attenborough | BBC Earth | 1小时的壮丽时刻 由大卫·阿滕伯勒爵士旁白 |BBC地球](https://www.youtube.com/watch?v=Vd7iuPV_AF0)**
+  - [1 Hour of Magnificent Moments Narrated by Sir David Attenborough | BBC Earth | 1小时的壮丽时刻 由大卫·阿滕伯勒爵士旁白 |BBC地球](https://www.youtube.com/watch?v=Vd7iuPV_AF0)
+  - [Stunning Wildlife Encounters | BBC Earth](https://www.youtube.com/watch?v=SuPG2fvyKAU)
+  - [The Mystery Beneath The Surface of Europa | Solar System | BBC Earth Science](https://www.youtube.com/watch?v=r6u7yskx728&t=7s)
 
 ---
 **[BBC英语纪录频道]{s}**
-* **[BBC英语纪录频道 | BBC英语官方记录片 | 百章 | Douyin](https://v.douyin.com/Kg7WEHuZnzo/)**
+* **[BBC英语纪录频道 | BBC英语官方记录片 | 叁佰章 | Douyin](https://v.douyin.com/Kg7WEHuZnzo/)**
   - [神奇的植物 GREEN PLANET 1](https://v.douyin.com/AyWrh_p2L2U/)
 
 ---
@@ -4431,6 +4433,13 @@
 **[DeepLearningAI]{s}**
 * **[DeepLearningAI | 706K subscribers | YTB](https://www.youtube.com/@Deeplearningai/featured)**
   - [Full AI Prompting Course with Andrew Ng 吴恩达 (Andrew Ng) 的完整人工智能提示课程](https://www.youtube.com/watch?v=8ib4Qnh2HFE)
+
+---
+### 0048. Netflix
+**[Netflix]{s}**
+* **[Netflix | 33.6M subscribers | YTB](https://www.youtube.com/@Netflix/videos)**
+  - [Crazy Rich, Incredibly Broke | Official Trailer | Netflix](https://www.youtube.com/watch?v=oDBUdMDfq30)
+
 
 ---
 ### 0099. AI - video
