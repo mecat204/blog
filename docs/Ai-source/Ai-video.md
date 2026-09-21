@@ -797,6 +797,11 @@
 
 ---
 ### 0028. Home | 家
+**[知更子]{e}**
+* **[知更子 | 世界在吸引我。 淡人淡猫的海边独居日常 | 佰章 | Douyin](https://v.douyin.com/UAFRSPZ6lN0/)**
+  - [暴雨天沉浸式宅家 极端天气总是让人兴奋 窝在我的海边小屋里 听着浪声 世界再喧嚣也与我无关](https://v.douyin.com/8oCZs6ypKn0/)
+
+---
 **[努力的屿野]{e}**
 * **[努力的屿野 | 💫全职网文作者的码字日常记录 📒桌搭｜键盘｜数码 | 叁佰章 | Douyin](https://v.douyin.com/zvkEtmVoqs8/)**
   - [人这一辈子，总要有那么一件坚持做到老的事情.](https://v.douyin.com/XfjPZX7yNxE/)

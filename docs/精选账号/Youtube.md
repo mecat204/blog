@@ -4648,6 +4648,18 @@
 * **[The School of Life | 9.78M subscribers | YTB](https://www.youtube.com/@theschooloflifetv/videos)**
 
 ---
+### 1005. OxfordUnion
+**[OxfordUnion]{s}**
+* **[OxfordUnion | 2.46M subscribers | YTB](https://www.youtube.com/@OxfordUnion/videos)**
+  - [Ea Ventura-THB Artificial General Intelligence Will be Humanity's Last Great Invention - Opp](https://www.youtube.com/watch?v=HiCzT5JLcng)
+
+---
+### 1100. Gates of Imagination
+**[Gates of Imagination]{s}**
+* **[Gates of Imagination | 231K subscribers | YBT](https://www.youtube.com/@gatesofimagination/videos)**
+  - [Jane Eyre by Charlotte Bronte | Full Audiobook](https://www.youtube.com/watch?v=4aQ_18olSmU)
+
+---
 ### 2000. Astral Curiosity | Exploring the universe
 **[Astral Curiosity]{s}**
 * **[Astral Curiosity | 46.5K subscribers | YTB](https://www.youtube.com/@astralcuriosity/videos)**

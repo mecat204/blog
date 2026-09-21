@@ -483,17 +483,20 @@
 
 ---
 **[雨亭动漫情报·道友]{e}**
-* **[雨亭动漫情报 | 动漫观后感叭叭瞎扯人员 业余动漫过期情报 国服第二梗王 | 千章 | Douyin](https://v.douyin.com/4juqlDMB8jg/)**
+* **[雨亭动漫情报 | 动漫观后感叭叭瞎扯人员 业余动漫过期情报 国服第二梗王 | 仟章 | Douyin](https://v.douyin.com/4juqlDMB8jg/)**
+  - [凡人修仙传边境大战PV来了](https://v.douyin.com/zPNMH41G-EI/)
+  - [猫和老鼠竟然是86年前的动画](https://v.douyin.com/tQSVlQp0JAk/)
 
   ---
   **[001. 凡人修仙]{lb}**
     - [韩立让柱 | 001](https://v.douyin.com/FkhYnl6UwoI/)
     - [心魔劫 | 100](https://v.douyin.com/8I3s5irIbtA/)
     - [凡人修仙传180集 | 180](https://v.douyin.com/081UC1zoFb0/)
+    - [凡人修仙传193集预告解析，乐上师遁光太飒了 | 243](https://v.douyin.com/MuZaOmOJV-g/)
 
 ---
 **[潇子萱·道友]{e}**
-* **[潇子萱 | 喜欢聊天交流的可加入我的粉丝群 只爱《凡人修仙传》| 贰佰章 | Douyin](https://v.douyin.com/CQG7uELW2ug/)**
+* **[潇子萱 | 喜欢聊天交流的可加入我的粉丝群 只爱《凡人修仙传》| 伍佰章 | Douyin](https://v.douyin.com/CQG7uELW2ug/)**
 
   ---
   **[001. 凡人2026年番剧浅谈]{lb}**
@@ -1000,11 +1003,6 @@
   **[001. 我和强度党朋友]{lb}**
     - [当我的原神强度党朋友登我的号 六入尽明诸相皆无 | 001](https://v.douyin.com/4S8taBu1Ebw/)
     - [当原神强度党进原摆玩家世界 | 019](https://v.douyin.com/oc1qlOs9PaE/)
-
----
-**[雨亭动漫情报]{s}**
-* **[雨亭动漫情报 | 动漫观后感叭叭瞎扯人员 业余动漫过期情报 国服第二梗王 | 千章 | Douyin](https://v.douyin.com/qD0luNP3m9c/)**
-  - [凡人修仙传边境大战PV来了](https://v.douyin.com/zPNMH41G-EI/)
 
 ---
 **[小张张(乡村生活)]{s}**
