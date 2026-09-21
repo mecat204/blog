@@ -4654,10 +4654,28 @@
   - [Ea Ventura-THB Artificial General Intelligence Will be Humanity's Last Great Invention - Opp](https://www.youtube.com/watch?v=HiCzT5JLcng)
 
 ---
-### 1100. Gates of Imagination
+### 1100. Gates of Imagination  ·Audiobook
 **[Gates of Imagination]{s}**
-* **[Gates of Imagination | 231K subscribers | YBT](https://www.youtube.com/@gatesofimagination/videos)**
-  - [Jane Eyre by Charlotte Bronte | Full Audiobook](https://www.youtube.com/watch?v=4aQ_18olSmU)
+* **[Gates of Imagination | 231K subscribers | YTB](https://www.youtube.com/@gatesofimagination/videos)**
+  - [Jane Eyre by Charlotte Bronte | Full Audiobook | Min:22:26:31 | 001](https://www.youtube.com/watch?v=4aQ_18olSmU)
+
+---
+### 1101. Laura Abbott · Audiobook
+**[Laura Abbott]{s}**
+* **[Laura Abbott | 5.69K subscribers | YTB](https://www.youtube.com/@AuthorLauraAbbott/videos)**
+  - [Snowed in Together in Pine Haven [FULL romance audiobook] a small town romance (no/low spice)](https://www.youtube.com/watch?v=A7zlLWVu7GU)
+
+---
+### 1200. San Francisco Public Library
+**[San Francisco Public Library]{s}**
+* **[San Francisco Public Library | 23.2K subscribers | YTB](https://www.youtube.com/@SanFranciscoLibrary/videos)**
+  - [SFPL's 2025 One City One Book : The Worlds I See Dr. Fei-Fei Li in Conversation with Adam Lashinsky](https://www.youtube.com/watch?v=qQrEZ0X4nEY)
+
+---
+### 1201. Andrew Huberman
+**[Andrew Huberman]{s}**
+* **[Andrew Huberman | 7.88M subscribers | YTB](https://www.youtube.com/@hubermanlab/videos)**
+  - [Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li](https://www.youtube.com/watch?v=N5AQFYtqx8Q)
 
 ---
 ### 2000. Astral Curiosity | Exploring the universe
