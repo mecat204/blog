@@ -344,7 +344,6 @@
   - [柴火锅烙饼，配上土豆丝和南瓜丝，该怎么形容这一口下去的幸福感。](https://v.douyin.com/oIMaeFserxI/)
   - [如果累了就回故乡，来一碗酸菜面，你们多久没吃到家里这碗酸菜面了。](https://v.douyin.com/xE-rcvgzf2k/)
 
-
 ---
 **[胖丫&小雪（母女）]{e}**
 * **[胖丫&小雪（母女）| 00后姑娘 70后的妈 希望能把开心 快乐带给大家 | 比较咋呼的陕西甜妹 |三百章 | Douyin](https://v.douyin.com/dV7tO22tLTU/)**
@@ -795,6 +794,11 @@
 
 ---
 ### 0010. 2026
+**[周一·四岁· English]{e}**
+* **[周一 | 一个农村宝妈的带娃日常 | 仟章 | Douyin](https://v.douyin.com/rlS3kMquDoo/)**
+  - [4岁中国娃和英国小朋友英文畅聊啦 12岁的英国小哥哥超喜欢4岁的小周一，俩人用英语聊得可开心了](https://v.douyin.com/6x9bdhRqRms/)
+
+---
 **[你靓靓姐]{e}**
 * **[你靓靓姐 | 白羊♈座 不记仇 因为记不住 视频已美颜 放心粉 | 伍佰章 | Douyin](https://v.douyin.com/s1iK-o1yxec/)**
   - [最肯忘却古人诗 最不屑一顾是相思](https://v.douyin.com/57RVC8_HkXg/)

@@ -45,6 +45,17 @@
   - [Fall Asleep to the ENTIRE Story of Ching Shih — Pirate Queen Who Ruled the South China Sea](https://www.youtube.com/watch?v=TT9H6vqLehA)
 
 ---
+### 0002. 伊天天
+**[伊天天]{e}**
+* **[伊天天 | 北大脑x央视魂 争当智慧型美丽妇女 三分钟，带你八卦全世界 | 伍佰章 | Douyin](https://v.douyin.com/mdvB4ic8QGY/)**
+
+  ---
+  **[001. 时代]{g}**
+    - []()
+    - [同志们，刺杀林肯的布斯，本意是"挽救南方"，结果他亲手毁掉了南方唯一能获得温和待遇的机会。如果他不动手，林肯大概率会推行"不加害南方"的政策；他一开枪，南方失去了唯一的保护者。| Min: 16:40 | 001](https://v.douyin.com/-_ObJPIr9s0/)
+    - []()
+
+---
 ### 9999. 开源项目
 **[必应]{s}**
 * **[必应 | bing.com](https://cn.bing.com/)**
