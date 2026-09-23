@@ -1431,18 +1431,22 @@
 ---
 **[青禾导航]{s}**
 * **[青禾导航](https://www.qinghedaohang.com/)**
+* **[软仓](https://rc.qhdh.top/)**
 
 ---
 **[宅男影视]{s}**
-* **[宅男影视](https://zndy.top/)**
+* **[宅男影视](https://www.jejtqc.cn/)**
 
 ---
 **[观影导航]{s}**
 * **[观影导航](https://www.guannav.com/)**
+* **[qhdh](https://www.qhdh.top/)**
 
 ---
 **[西瓜TV]{s}**
+* **[西瓜TV](https://xiguatv.club/)**
 * **[zhu1.xiguatv](https://zhu1.xiguatv.xyz/video/190901)**
+
 
 ---
 **[网页游戏 | 不用下载，打开网页直接就能玩耍]{s}**

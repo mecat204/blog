@@ -4402,10 +4402,12 @@
 **[PBS · Public Broadcasting Service]{s}**
 * **[PBS | 美国公共广播电视机构 | 1.78M subscribers |  YTB](https://www.youtube.com/@PBS/videos)**
   - [The World’s Largest Concentrated Solar Power Plant | A Brief History of the Future | PBS](https://www.youtube.com/watch?v=2Z_5iRFf-Pc&list=PLzkQfVIJun2KVm7_Pgxma0b7fZBu_xJ97&index=1)
+  - [Making the American Revolution | PBS](https://www.youtube.com/watch?v=r6u3JqHyzFg&list=PLzkQfVIJun2JwBEAWpZobnx-Hqcfh7bTP&index=1)
+  - [The American Revolution](https://tv.youtube.com/browse/the-american-revolution-UC4F1ID1XGCgCGQjVwMz4_3A)
 
   ---
-  **[psb.org]{s}**
-    - [www.pbs.org](https://www.pbs.org/)
+  **[PBS: Public Broadcasting Service]{s}**
+    - [PBS](https://www.pbs.org/)
 
 ---
 **[Candle of Wisdom]{s}**
