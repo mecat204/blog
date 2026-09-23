@@ -314,6 +314,13 @@
   - [AI 影视制作工作台-cinematic-techniques](https://melies.co/cinematic-techniques)
 
 ---
+### 0100. 10倍生产力 · Douyin
+**[10倍生产力]{s}**
+* **[10倍生产力 | 我是小鱼 | 伍佰章 | Douyin](https://v.douyin.com/Hjzxem9OFl4/)**
+  - [SKILL-book-to-skill](https://v.douyin.com/zY4DNdV90E4/)
+  - [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)
+
+---
 ### 9999. Software | Books | Download
 **[dlpanda]{s}**
 * **[DLPanda | Download TikTok Videos Without Watermark | Free HD Video &amp; Photo Downloader](https://www.dlpanda.com)**

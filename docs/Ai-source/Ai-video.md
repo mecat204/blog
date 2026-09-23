@@ -1750,6 +1750,55 @@
     - [爱因斯坦牛顿探索异星 | Min: 11:02 | 005](https://v.douyin.com/vqeloZnMKX4/)
     - [爱因斯坦牛顿探索异星大合集 | 006](https://v.douyin.com/8yxo7c3yKrw/)
 
+---
+### 0073. LonelyTaoist · GenshinImpact
+**[LonelyTaoist]{s}**
+* **[LonelyTaoist | 蒟蒻的业余生活： - 前金融行业程序员 - 现互联网行业程序. | 伍佰章 | Douyin](https://v.douyin.com/3FIL_DHR6PU/)**
+
+  ---
+  **[001. GenshinImpact]{g}**
+    - [枫丹王朝1566:朕的蛋糕 | Min: 02:32 | 001](https://v.douyin.com/kpxwUcCl4Vg/)
+
+  ---
+  **[002. 拿破芙宇宙·Seedance 2.5 负责]{g}**
+    - [芙宁娜枫丹归途 | Min: 02:22 | 001](https://v.douyin.com/A56xrE7t4ns/)
+    - [提瓦特：三皇会战 | Min: 02:21 | 002](https://v.douyin.com/xaZEmJr6jE8/)
+    - [拿破芙宇宙:风龙废墟之战 | Min: 03:14 | 003](https://v.douyin.com/nCJ3lDThnwE/)
+    - [拿破芙宇宙:远征至冬 | Min: 02:46 | 004](https://v.douyin.com/alsJu_W-39s/)
+    - [拿破芙宇宙:火烧至冬堡 | Min: 02:23 | 005](https://v.douyin.com/7AtGVN2lnYY/)
+    - [拿破芙宇宙:至冬的抉择 | Min: 02:01 | 006](https://v.douyin.com/SCRxEWN24KI/)
+    - [拿破芙宇宙:金桥大撤退 | Min: 02:25 | 007](https://v.douyin.com/nf1Az8LbNtM/)
+
+---
+### 0074. 拾柒旧事
+**[拾柒旧事]{s}**
+* **[拾柒旧事 | 🎬AI创作一切（创意类、小短剧） | 佰章 | Douyin](https://v.douyin.com/9gyaYnrfCJY/)**
+
+  ---
+  **[001. 仙墟]{s}**
+    - [《仙墟》 第一集，故事背景：木卫二（欧罗巴）的冰层下方有一个修仙世界（修仙文明），某次宗门长老在闭关冲击元婴的途中，能量威压波及到了木星，刚好叠加了当时的木星磁暴，导致其周边的人类空间站被毁，空间站三人小组无奈逃亡，误打误撞进入到了修仙界，促使人类文明第一次与修仙文明相互碰撞 | Min: 04:22 | 001](https://v.douyin.com/Nq726tpeOcw/)
+
+  ---
+  **[002. 落云宗大家庭]{s}**
+    - [落云宗大家庭 | Min: 04:22 | 002](https://v.douyin.com/ttwP3ZM5vPM/)
+
+---
+### 0075. 世界草稿 W/D
+**[世界草稿 W/D]{s}**
+* **[世界草稿 W/D | 世界征召系统正在运行............. 可灵 AI 优创 | Flova.ai新锐 AIGC影像创作 | 仙侠 | 都市 | 幻想 | 短电影 | 佰章 | Douyin](https://v.douyin.com/nG8w_z-751E/)**
+
+  ---
+  **[001. 古代人的悠哉日常]{g}**
+    - [田园·日常·群像｜妇姑相唤浴蚕去，闲着中庭栀子花 | Min: 00:32 | 001](https://v.douyin.com/P7o66nd8Llk/)
+    - [田园·日常·群像｜有桃花红，李花白，菜花黄 花开的时候，村子也跟着热闹起来了 | Min: 00:42 | 002](https://v.douyin.com/OCB_ahAAoNM/)
+    - [也许最难写的从来不是离别。 | Min: 00:49 | 003](https://v.douyin.com/YhglBFcyJMA/)
+
+---
+###  0076. MY LIEF · 凡人修仙传 · SEEDANCE 2.0 1080P直出
+**[MY LIEF]{e}**
+* **[MY LIFE | MY LIFE We design from life | itself | 佰章 | Douyin](https://v.douyin.com/KBQlGkTJmes/)**
+  - [当我用港片的画风打开《凡人修仙传》 # 凡人修仙传 # 南宫婉 # 韩立 柔光、烟雾、胶片颗粒，还有那个属于旧港片的仙侠梦。 这一念踏入仙途，便再也回不到凡尘。](https://v.douyin.com/YaP2rVRnOKQ/)
+
 
 ---
 ### 0100. Arvin Lab

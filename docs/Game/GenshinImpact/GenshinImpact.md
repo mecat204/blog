@@ -99,6 +99,7 @@
     - [Genshin Impact | The Immovable God and the Eternal Euthymia | All Cutscenes (PS5) | Min: 02:08:12](https://www.youtube.com/watch?v=59-BLQx9yAY&list=PLw0ry7t3NLChNv_LOQGYJlbiSxPbTEWsd&index=20)
     - [Genshin Impact | Dreamlike Timelessness | All Cutscenes (PS5) | Min: 01:09:01](https://www.youtube.com/watch?v=GBgiMdZh8ds&list=PLw0ry7t3NLChNv_LOQGYJlbiSxPbTEWsd&index=21)
     - [Genshin Impact | The Whisper of the Crane and the White Rabbit | All Cutscenes (PS5) | Min:01:04:59](https://www.youtube.com/watch?v=gMUA7ynfJzA&list=PLw0ry7t3NLChNv_LOQGYJlbiSxPbTEWsd&index=21)
+    - [GENSHIN IMPACT Prologue All Cutscenes (Game Movie) 1080p 60FPS HD](https://www.youtube.com/watch?v=pahK44Cd8H4&list=PLw0ry7t3NLChNv_LOQGYJlbiSxPbTEWsd&index=3)
 
 
 ---
