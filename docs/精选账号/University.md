@@ -145,17 +145,19 @@
 ---
 ### 0007. University of Pennsylvania 宾夕法尼亚大学
 **[宾夕法尼亚大学]{s}**
-* **[University of Pennsylvania 宾夕法尼亚大学 | 49.4K subscribers | YTB](https://www.youtube.com/@penn/videos)**
+* **[University of Pennsylvania 宾夕法尼亚大学 | 49.6K subscribers | YTB](https://www.youtube.com/@penn/videos)**
   - [100 years of the Ben Franklin Bridge](https://www.youtube.com/watch?v=1_KzGjS3qIM)
 
 ---
 **[Olga Loiek]{e}**
-* **[Olga Loiek | 宾夕法尼亚大学认知科学与计算专业学生 | 218K subscribers | YTB](https://www.youtube.com/@olgaloiek/videos)**
-  - 🇺🇦 Cognitive Science & Computation student at UPenn 📧Business email: loiekolga@gmail.com 💖 Join our community in supporting the channel:  https://www.paypal.com/paypalme/olgaloiek
-  - 🇺🇦 宾夕法尼亚大学认知科学与计算专业学生 商业邮箱：loiekolga@gmail.com 加入我们的社区，支持频道：www.paypal.com/paypalme/olgaloiek📧 💖
+* **[Olga Loiek | 宾夕法尼亚大学认知科学与计算专业学生 | 227K subscribers | YTB](https://www.youtube.com/@olgaloiek/videos)**
+  - [🇺🇦 Cognitive Science & Computation student at UPenn 📧Business email: loiekolga@gmail.com 💖 Join our community in supporting the channel:  https://www.paypal.com/paypalme/olgaloiek]{s}
+  - [🇺🇦 宾夕法尼亚大学认知科学与计算专业学生 商业邮箱：loiekolga@gmail.com 加入我们的社区，支持频道：www.paypal.com/paypalme/olgaloiek📧 💖]{g}
 
   ---
-  - **[why you lost your love for learning & how to get it back | 你为什么失去对学习的热爱以及如何找回它](https://www.youtube.com/watch?v=0rk9O8NUrCg)**
+  - [why you lost your love for learning & how to get it back | 你为什么失去对学习的热爱以及如何找回它](https://www.youtube.com/watch?v=0rk9O8NUrCg)
+  - [WHY SMART PEOPLE OVERTHINK EVERYTHING (and how to stop)](https://www.youtube.com/watch?v=i-nT8aV1BKw)
+  - ["find your passion" is bad advice. the science behind why & what to do instead](https://www.youtube.com/watch?v=19FfcEq7fX0)
 
 ---
 ### 9999. Download

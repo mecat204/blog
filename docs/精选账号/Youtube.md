@@ -1248,10 +1248,6 @@
   - [Teach English to Your Baby or Child! ✨ 30-Minute MASTERCLASS for Parents](https://www.youtube.com/watch?v=seKOJ2hhHL0)
 
 ---
-**[Speak English With Vanessa]{e]**
-* **[Speak English With Vanessa | 初级 | 初中级衔接 | 有吐字非常清晰、语速较慢的超长对话内容，有挺多雅思口语相关话题。| 7.65M subscribers |  YTB](https://www.youtube.com/@SpeakEnglishWithVanessa)**
-
----
 **[Ariannita la Gringa]{e}**
 * **[Ariannita la Gringa | 初阶 | 生活实用英文 | English Teacher | 2.11M subscribers |  YTB](https://www.youtube.com/@ariannitalagringa/videos)**
   - **Hey! I'm Ariannita, an English teacher. Let's boost your real-world English skills. Subscribe and learn!**
@@ -1961,7 +1957,7 @@
   - [Cn: 通过参加流利课程来说英语：www.speakenglishwithvanessa.com]{g}
 
   ---
-  * **[Daily Life Vocabulary You Need to Know | 你需要掌握 的日常生活词汇](https://www.youtube.com/watch?v=jwJqvuoY26o)**
+  - [Daily Life Vocabulary You Need to Know | 你需要掌握 的日常生活词汇](https://www.youtube.com/watch?v=jwJqvuoY26o)
 
 ---
 **[Vanessa Lau]{e}**
@@ -2048,9 +2044,9 @@
 
 ---
 **[Olga Loiek]{e}**
-* **[Olga Loiek | 宾夕法尼亚大学认知科学与计算专业学生 | 218K subscribers | YTB](https://www.youtube.com/@olgaloiek/videos)**
-  - 🇺🇦 Cognitive Science & Computation student at UPenn 📧Business email: loiekolga@gmail.com 💖 Join our community in supporting the channel:  https://www.paypal.com/paypalme/olgaloiek
-  - 🇺🇦 宾夕法尼亚大学认知科学与计算专业学生 商业邮箱：loiekolga@gmail.com 加入我们的社区，支持频道：www.paypal.com/paypalme/olgaloiek📧 💖
+* **[Olga Loiek | 宾夕法尼亚大学认知科学与计算专业学生 | 227K subscribers | YTB](https://www.youtube.com/@olgaloiek/videos)**
+  - [🇺🇦 Cognitive Science & Computation student at UPenn 📧Business email: loiekolga@gmail.com 💖 Join our community in supporting the channel:  https://www.paypal.com/paypalme/olgaloiek]{s}
+  - [🇺🇦 宾夕法尼亚大学认知科学与计算专业学生 商业邮箱：loiekolga@gmail.com 加入我们的社区，支持频道：www.paypal.com/paypalme/olgaloiek📧 💖]{g}
 
   ---
   - **[why you lost your love for learning & how to get it back | 你为什么失去对学习的热爱以及如何找回它](https://www.youtube.com/watch?v=0rk9O8NUrCg)**
@@ -2075,17 +2071,17 @@
   - [Cn: 我们要有更多人，我们要有主片，但主片是我们，我会看到一个故事，但他们能看到一个故事，但他们能在一个地方看到他们。]{g}
 
   ---
-  - Subscribe for more exclusive, original, and official content of music from Jasmine Nadya For more info, Follow me on:
-  - All DSP's: https://jasminenadya.lnk.to/Butterflies
-  - Instagram: https://www.instagram.com/jasminendya/
-  - TikTok: https://www.tiktok.com/@sitrusapel
-  - Contact: https://jasminenadya.lnk.to/ContactPerson
+  - [En: Subscribe for more exclusive, original, and official content of music from Jasmine Nadya For more info, Follow me on:]{s}
+  - [En: All DSP's: jasminenadya.lnk.to/Butterflies]{s}
+  - [En: Instagram: www.instagram.com/jasminendya/]{s}
+  - [En: TikTok: www.tiktok.com/@sitrusapel]{s}
+  - [En: Contact: jasminenadya.lnk.to/ContactPerson]{s}
 
-  - 订阅以获取更多Jasmine Nadya的独家、原创和官方音乐内容。 欲了解更多信息，请关注我：
-  - 所有DSP：https://jasminenadya.lnk.to/Butterflies
-  - Instagram：https://www.instagram.com/jasminendya/
-  - TikTok：https://www.tiktok.com/@sitrusapel
-  - 联系方式： https://jasminenadya.lnk.to/ContactPerson
+  - [Cn: 订阅以获取更多Jasmine Nadya的独家、原创和官方音乐内容。 欲了解更多信息，请关注我：]{g}
+  - [Cn: 所有DSP：jasminenadya.lnk.to/Butterflies]{g}
+  - [Cn: Instagram：www.instagram.com/jasminendya/]{g}
+  - [Cn: TikTok：www.tiktok.com/@sitrusapel]{g}
+  - [Cn: 联系方式： jasminenadya.lnk.to/ContactPerson]{g}
 
   ---
   - **[dont look back in anger - oasis (cover) | 别回头看怒——Oasis（封面）](https://www.youtube.com/watch?v=QmjrLljcYSw)**
