@@ -320,13 +320,25 @@
 
 ---
 ### 0005. Cineby
-**[Cineby]{s}**
-* **[Cineby](https://www.cineby.sc/)**
-* **[Cineby](https://www.cineby.at/)**
-* **[Bitcine](https://www.bitcine.tv/)**
-* **[Cineplay](https://www.cineplay.to/)**
-* **[nunflix](https://nunflix.kim/)**
-* **[livezy](https://livezy.click/freek/)**
+**[Cineby· Watch Movies &amp; TV Shows HD Online Free]{s}**
+* **[cineby.homes](https://www.cineby.homes/)**
+  - [Cineby - Watch Movies &amp; TV Shows HD Online Free](https://cineby.ws/)
+  - [cinebyfree](https://www.cinebyfree.co/)
+  - [mapple.fun](https://mapple.fun/)
+  - [cineby.win](https://cineby.win/)
+  - [qmovies.co](https://qmovies.co/)
+  - [mapple.fun](https://mapple.fun/)
+  - [cineby.win](https://cineby.win/)
+  - [nunflix](https://nunflix.kim/)
+  - [livezy](https://livezy.click/freek/)
+  - [trendingpie](https://www.trendingpie.com/)
+  - [cineby.xyz](https://www.cineby.xyz/)
+  - [flixmomo.ru](https://flixmomo.ru/)
+  - [braflix.uk](https://www.braflix.uk/)
+  - [braflix.win](https://braflix.win/)
+  - [moviepire.ru](https://www.moviepire.ru/)
+  - [braflix.pw](https://braflix.win/)
+  - [bitcine.cc](https://bitcine.cc/)
 
 ---
 **[爱壹帆]{s}**
@@ -350,6 +362,7 @@
   - [麦田影院TV](https://www.mtyy.tv/)
   - [麦田影院](https://www.mtyy4.com/)
 
+---
 **[嘀嗒影视]{s}**
   - [嘀嗒影视](https://www.didahd.pro/)
 
