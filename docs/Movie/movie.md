@@ -349,20 +349,14 @@
 * **[pomo.mom](https://pomo.mom/)**
 
 ---
-### 0006. Bttwo | Proxy | Film-Note
+### 0006. Bttwo
 **[Bttwo]{s}**
 * **[bttwo.vip · Nav](https://bttwo.vip/)**
   - [bttwo.top](https://www.bttwo.top)
   - [bttwo.life](https://www.bttwo.life)
 
-* **[bttwoo.com | unproxy](https://www.bttwoo.com)**
-
 ---
-**[麦田影院]{s}**
-  - [麦田影院TV](https://www.mtyy.tv/)
-  - [麦田影院](https://www.mtyy4.com/)
-
----
+### 0006. 嘀嗒影视
 **[嘀嗒影视]{s}**
   - [嘀嗒影视](https://www.didahd.pro/)
 
