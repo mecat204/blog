@@ -797,6 +797,11 @@
 
 ---
 ### 0028. Home | 家
+**[阿mer吖]{e}**
+* **[阿mer吖](意式混搭风小家 氛围感家居｜好物分享｜生活Vlog 愿你披荆斩棘  |佰章 | Douyin)**
+  - [这样清新自然的小家，怎能不被治愈呢！ 原来自然系的治愈力是温柔的，是安静的。是家里每一寸的植物气息，和每一处承托你疲惫的地方。从一杯茶到一把皮椅，都能成为你的固定治愈坐标](https://v.douyin.com/aoJujomlt9w/)
+
+---
 **[知更子]{e}**
 * **[知更子 | 世界在吸引我。 淡人淡猫的海边独居日常 | 佰章 | Douyin](https://v.douyin.com/UAFRSPZ6lN0/)**
   - [暴雨天沉浸式宅家 极端天气总是让人兴奋 窝在我的海边小屋里 听着浪声 世界再喧嚣也与我无关](https://v.douyin.com/8oCZs6ypKn0/)
@@ -1809,6 +1814,38 @@
   - [打孔机的发明](https://v.douyin.com/tZkQ6lK4TTA/ )
 
 ---
+### 0078. 青叶AI
+**[青叶AI]{s}**
+* **[青叶AI | AIGC界一枚凡人 追求影视质感，画面感 主修：武侠、国风、人文 | 佰章 | Douyin](青叶AI)**
+
+  ---
+  **[001. 武侠系列Ai]{g}**
+    - [倚天屠龙记名场面-《两两相忘》 以后相隔万里，咫尺天涯。| Min: 00: 59 | 005](https://v.douyin.com/j2vDnGgflOg/)
+    - [濠州大婚—倚天屠龙记名场面 濠州大婚前的黎明，张无忌、周芷若、赵敏会发生什么故事 | Min: 01:21 | 008 ](https://v.douyin.com/J2fC_K_wPvo/)
+
+---
+### 0079. 神虚AIGC
+**[神虚AIGC]{s}**
+* **[神虚AIGC | 生活、爱抖音. 导演团队：（神策）/（虚雀） 全球首部AI科幻电影 | 佰章 | Douyin]()**
+  - [异兽降临](https://v.douyin.com/6loa1wSkSjc/)
+  - [全球首部AIGC怪兽科幻IP短剧《异兽·降临》第一集预告片 | 001](https://v.douyin.com/6r28fWuytVI/)
+
+  ---
+  - [AIGC影视级巨制《异兽降临》第一集-全球首发 全球首部AIGC影视级巨制《异兽降临》第一集全球首发-团队耗时1320个小时抽图13000张只为了实现中国的科幻电影梦-我们的初心是希望用AIGC在科幻电影领域完成对西方科幻影片的弯道超车. | Min:03:43 | 002](https://v.douyin.com/UL-ID30gbYw/)
+
+  ---
+  - [AIGC影视级巨制《异兽降临》第二集全球首发—穷奇降临 | Min: 06:04 | 003](https://v.douyin.com/spMU5hHSmW4/)
+
+  ---
+  - [全球首发！异兽降临第三集！ 宝子们期待已久的东京篇.华夏机甲力挽狂澜 | Min: 06:06 | 004](https://v.douyin.com/_5vX64OY2cU/)
+
+  ---
+  - [全球首发 异兽降临第四集 抖音全球独家发布.影视级标杆质量的一集 | Min: 07:00 | 005](https://v.douyin.com/W6dKvY3IGwM/)
+
+  ---
+  - [《异兽降临》（9） 【抖音精选App独家】原创独家连载，山海回归席卷全球，从第一只异兽的出现开始便预示着远古的复苏，人类面对神话文明将何去何从 | Min: 12:01 | 010](https://v.douyin.com/NrxQQ37sHJA/)
+
+---
 ### 0100. Arvin Lab
 **[Arvin Lab]{e}**
 * **[Arvin Lab | AIGC创作者 ｜ 理想主义者 新片场Shotlab签约创作人 | 可灵优创 | 佰章 | Douyin](https://v.douyin.com/SFP0c2jjJJE/)**
@@ -1895,6 +1932,7 @@
     - [有人寻仙有人问道，有人与故友共饮一盏清茶。| 024](https://v.douyin.com/QxSEq6zqRE8/)
     - [世间行乐亦如此。| 025](https://v.douyin.com/JrTxtGIXExw/)
     - [霓为衣兮风为马。| 026](https://v.douyin.com/AGHDBVIGYGs/)
+    - [浮生一梦，道阻且长](https://v.douyin.com/wr98b6yDT7Y/)
 
 ---
 ### 0103. 黄油蛤蜊

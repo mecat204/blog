@@ -92,8 +92,8 @@
 * [laodifang.tv](https://www.laodifang.tv/)
 
 ---
-**[腾讯视频·ytb]{s}**
-* **[腾讯视频 - Get the WeTV APP | 904万 | Youtube](https://www.youtube.com/@TencentVideo/videos)**
+**[腾讯视频·YTB]{s}**
+* **[腾讯视频 - Get the WeTV APP | 9.17M subscribers | YTB](https://www.youtube.com/@TencentVideo/videos)**
   - [ENG SUB【仙剑奇侠传三 Sword and Fairy 3】EP05](https://www.youtube.com/watch?v=SsZg2eYbG5c)
 
 ---
@@ -1486,6 +1486,11 @@
 ---
 **[Zoro TV]{s}**
 * **[Zoro TV | Watch Anime with English Sub and Dub Online Free](https://zorotv.com.ro/)**
+
+---
+### 0700. souju.ai
+**[搜剧AI]{s}**
+* **[搜剧AI](https://souju.ai/)**
 
 ---
 ### 9999. Download

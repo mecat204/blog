@@ -808,6 +808,15 @@
 
 ---
 ### 0010. 2026
+**[🌈是花火啊。]{s}**
+* **[🌈是花火啊。](🌈是花火啊。 | 贝加尔湖畔的歌声。| 仟章 | Douyin](https://v.douyin.com/qrblppDHCF8/)**
+  - [美与宁静 思念如汹涌潮水，眺望如星月无悔，平静而坚定。| 00:38](https://v.douyin.com/a5LVhFJNG5A/)
+
+---
+**[白芷]{e}**
+* **[贵人开路](https://v.douyin.com/jrXGZeBNx-U/)**
+
+---
 **[-戈尔曼- · GenshinImpact]{s}**
 * **[-戈尔曼- | 💫这里是戈尔曼，探究剧情以及游戏的史学家✨ 💫愿大家的人生,都如游戏主角光芒万丈 | MCN 咔哒次元 | 伍佰章 | Douyin](https://v.douyin.com/wj0eaZv4Uhs/)**
   - [原神至冬篇pv](https://v.douyin.com/Kbx86hk3jIw/)
@@ -1200,6 +1209,10 @@
 
 ---
 ### 0011. 直播
+**[安安呐]{e}**
+* **[安安呐 | 🌙弹琴直播大概21：50~24：00（周一、周四休息）](https://v.douyin.com/7YKERMXKupA/)**
+
+---
 **[颜夕]{g}**
 * **[颜夕 | 光影: derivative 材质: patrix 伴奏: Counter Attack(钢琴版) | 直播时间: 24:00-02:00](https://v.douyin.com/vaBk-MZW_e0/)**
   - [仿佛在这里才能找到一丝宁静](https://v.douyin.com/pAiEhkLIKf0/)
