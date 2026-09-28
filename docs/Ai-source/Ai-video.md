@@ -1846,6 +1846,13 @@
   - [《异兽降临》（9） 【抖音精选App独家】原创独家连载，山海回归席卷全球，从第一只异兽的出现开始便预示着远古的复苏，人类面对神话文明将何去何从 | Min: 12:01 | 010](https://v.douyin.com/NrxQQ37sHJA/)
 
 ---
+### 0080. 有点梨谱·凡人二创
+**[有点梨谱]{s}**
+* **[有点梨谱 | 佰章 | Douyin](https://v.douyin.com/ijn21cV0XO0/)**
+  - [李缨宁Vlog高清片场集锦](https://v.douyin.com/lZ43Tu_swpo/)
+  - [李缨宁Vlog带你看片场](https://v.douyin.com/zCNpYIsT3h0/)
+
+---
 ### 0100. Arvin Lab
 **[Arvin Lab]{e}**
 * **[Arvin Lab | AIGC创作者 ｜ 理想主义者 新片场Shotlab签约创作人 | 可灵优创 | 佰章 | Douyin](https://v.douyin.com/SFP0c2jjJJE/)**

@@ -1295,7 +1295,7 @@
 
 ---
 **[Blue Blink | 青色杜马]{g}**
-* **[Aya Brea | 32位 | Youtube](https://www.youtube.com/@ayabrea013/videos)**
+* **[Aya Brea | 佰章 | YTB](https://www.youtube.com/@ayabrea013/videos)**
   - [Aoi Blink Blue Blink Ep. 11-15 English Sub | **Blue Blink | 青色杜马**](https://www.youtube.com/watch?v=akbrTYqPEe0)
 
 ---
@@ -1303,7 +1303,7 @@
 * **[童年4K动画商店 | 童年动画定制4K修复 | 伍佰章 | Douyin](https://v.douyin.com/ZgVBVK1Dil0/)**
 
 ---
-**[光明世界 | 1997 | 中澳合拍]{g}**
+**[光明世界 | 1997 | 中澳合拍]{s}**
 * **[光明世界 | 深呼吸](https://v.douyin.com/_dW_JUdkNYA/)**
 * **[光明世界 大结局](https://v.douyin.com/3BeqyiihqgU/)**
 * **[Spellbinder: Land of the Dragon Lord | Season 2 | 光明世界](https://www.youtube.com/playlist?list=PLl48jMfth9b9P_qS0mZz71uWTgOtCF3ip)**
@@ -1397,23 +1397,23 @@
 * **[刘明野的工具箱](https://tools.liumingye.cn/)**
 
 ---
-### 0401. 雪落影视
+### 0401. 雪落影视·沉浸式影视平台
 **[雪落影视]{s}**
 * **[雪落影视 | 沉浸式影视平台](https://www.xlys02.com/)**
   - v.xl.in.ua | v.xl01.eu.cc | v.xl02.eu.cc | v.xl01.cc.ua
 
 ---
-### 0402. 歪比巴卜
+### 0402. 歪比巴卜·更多高清视频免费在线观看
 **[歪比巴卜]{s}**
 * **[歪比巴卜 | 更多高清视频免费在线观看](https://www.wbbb1.com/)**
 
 ---
-### 0402. BotVod proxy
+### 0402. BotVod·免费在线视频下载网站
 **[BotVod]{s}**
 * **[BotVod | BotVod · 免费在线视频下载网站，支持 YouTube、TikTok、Bilibili、Twitter(X)、I](https://botvod.com/)**
 
 ---
-### 0403. ZIP
+### 0403. ZIP·在线影视搜索与播放
 **[ZIP0]{s}**
 * **[在线影视搜索与播放｜ZIP0](https://zip0.com/)**
 
@@ -1488,7 +1488,7 @@
 * **[Zoro TV | Watch Anime with English Sub and Dub Online Free](https://zorotv.com.ro/)**
 
 ---
-### 0700. souju.ai
+### 0700. 搜剧AI·souju.ai
 **[搜剧AI]{s}**
 * **[搜剧AI](https://souju.ai/)**
 
