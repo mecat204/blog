@@ -636,7 +636,7 @@
 ---
 ### 0020. 阿丸焖居
 **[阿丸焖居]{g}**
-* **[阿丸焖居 | 佰章 | Douyins](https://v.douyin.com/Th0JBhZ05Bo/)**
+* **[阿丸焖居 | 佰章 | Douyin](https://v.douyin.com/Th0JBhZ05Bo/)**
   - [假如你上一节十万人的音乐课 阿丸的十万人宿舍日常之音乐课篇](https://v.douyin.com/lHNNN3K44qQ/)
   - [你是选择财富自由，还是跟你的狗一起踏上猎魔之旅](https://v.douyin.com/XYAycE1Sg_c/)
 
@@ -644,6 +644,8 @@
   **[001. 阿丸的十万人宿舍系列]{g}**
     - [001](https://v.douyin.com/Ly2102VFydA/)
     - [012](https://v.douyin.com/lHNNN3K44qQ/)
+    - [假如你在十万人的宿舍大扫除 | 023](https://v.douyin.com/ujzy9VIRlKE/)
+    - [当你和一百万人一起逛超市 阿丸的十万人宿舍日常之超市篇](https://v.douyin.com/Iw0bQBEHBzg/)
 
 ---
 ### 0021. 星晖小剧场 | 短剧合集 | 付费
@@ -1851,6 +1853,27 @@
 * **[有点梨谱 | 佰章 | Douyin](https://v.douyin.com/ijn21cV0XO0/)**
   - [李缨宁Vlog高清片场集锦](https://v.douyin.com/lZ43Tu_swpo/)
   - [李缨宁Vlog带你看片场](https://v.douyin.com/zCNpYIsT3h0/)
+
+---
+### 0081. k小k
+**[k小k]{s}**
+* **[k小k | AIGC创作者-抖音独家 二创和原创会同时进行 | 佰章 | Douyin](https://v.douyin.com/GVYthEIlN3w/)**
+  - [失控重启: 当现实开始崩坏，一场失控的旅程正式开始 | Min:10:45 | 001](https://v.douyin.com/x1HKY1XWJdM/)
+  - [跳过人生: 每一段被忽略的时间，都是人生无法重来的一部分 | Min: 11:24 | 002](https://v.douyin.com/N2BwLtRr6y0/)
+
+---
+### 0082. 忆雨潇湘·LibTV
+**[忆雨潇湘]{s}**
+* **[忆雨潇湘 | 即梦AI优秀创作者，Flova.ai 超创，LibTV认证作者 | 佰章 | Douyin](https://v.douyin.com/X5o8Id4KvpY/)**
+  - [甄嬛传搞笑剧场之暴雪选秀 | Min: 03:02 | 031](https://v.douyin.com/IXbuxyhJA74/)
+  - [甄嬛传搞笑剧场之海上告发 | Min: 03:31 | 032](https://v.douyin.com/-SzegoadfYM/)
+  - [多胞胎甄嬛传 | Min: 03:35 | 019](https://v.douyin.com/Gs6IQmjoMRg/)
+
+---
+### 0083. 宇宙没有售后
+**[宇宙没有售后]{s}**
+* **[宙没有售后 | 宇宙知识，一经讲解，概不退换！ 听完脑子炸了不负责修。| 叁佰章 | Douyin](https://v.douyin.com/MJkNC7GWANs/)**
+  - [你每次弯手腕，都是一条灭绝的鱼在烂泥里做的最后一个俯卧撑。| Min: 04:56 | 005](https://v.douyin.com/pox-KFvBmlc/)
 
 ---
 ### 0100. Arvin Lab
