@@ -1416,6 +1416,13 @@
 ### 0403. ZIP·在线影视搜索与播放
 **[ZIP0]{s}**
 * **[在线影视搜索与播放｜ZIP0](https://zip0.com/)**
+  - [追剧](https://zhuiju.me)
+
+---
+### 0404. 追剧么指南
+**[追剧么指南]{s}**
+* **[追剧么指南](https://zhuiju.me/)**
+  - [awesome-zhuiju-free](https://github.com/laoma2053/awesome-zhuiju-free)
 
 ---
 ### 0500. 关联 ihavenotv
