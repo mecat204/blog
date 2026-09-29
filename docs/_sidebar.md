@@ -34,10 +34,6 @@
   - **LearnEnglishCourse | Douyin**
     * [LearnEnglishCourse](EnglishCourse/LearnEnglishCourse/LearnEnglishCourse)
     * [Images](EnglishCourse/LearnEnglishCourse/Images)
-  - **Bilibili**
-    * [Bilibili](EnglishCourse/Bilibili/收藏)
-  - **Vlog | Youtube**
-    * [Vlog](EnglishCourse/Vlog/Vlog)
 
   ---
   - **记词法**
