@@ -1493,6 +1493,31 @@
 * **[搜剧AI](https://souju.ai/)**
 
 ---
+### 0701. MovieMind — Find any movie with AI
+**[moviemind.app]{s}**
+* **[MovieMind — Find any movie with AI](https://www.moviemind.app/)**
+
+---
+### 0702. Find a Movie by Describing It - Movie Plot &amp; Quote Finder
+**[aimoviefinder]{s}**
+* **[aimoviefinder](https://www.aimoviefinder.com/)**
+
+---
+### 0703. Find Movie | FindMovie.AI
+**[findmovie.ai]{s}**
+* **[findmovie.ai](https://findmovie.ai/)**
+
+---
+### 0704. PlotMatch - Find any movie or drama from what you remember
+**[plotmatch01.lovable.app]{s}**
+* **[plotmatch01.lovable.app | PlotMatch - Find any movie or drama from what you remember](https://plotmatch01.lovable.app/)**
+
+---
+### 0705. ember Film: AI Movie Search &amp; Recommendations
+**[ember.film]{s}**
+* **[ember Film](https://ember.film/s)**
+
+---
 ### 9999. Download
 **[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**
