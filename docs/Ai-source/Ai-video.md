@@ -1876,6 +1876,27 @@
   - [你每次弯手腕，都是一条灭绝的鱼在烂泥里做的最后一个俯卧撑。| Min: 04:56 | 005](https://v.douyin.com/pox-KFvBmlc/)
 
 ---
+### 0084. 不吃榨菜AIGC
+**[不吃榨菜AIGC]{s}**
+* **[不吃榨菜AIGC | AIGC导演｜自己写 自己做 自己剪 LibTV认证作者 | 佰章 | Douyin](https://v.douyin.com/lSWklAnRDR4/)**
+
+  ---
+  **[001. 非妖哉]{s}**
+    - [那分明是个姐姐啊 | Min: 05:41 | 001](https://v.douyin.com/RrxRLy4L-os/)
+
+    ---
+    - [你现在没有力气 不代表以后没有 | Min: 06:55 | 002](https://v.douyin.com/m4QjGZAd_u8/)
+
+    ---
+    - [第三集-他们不过生来无痣，可曾害过你们半分 | Min: 08:28 | 003](https://v.douyin.com/6P03M7Qk39o/)
+
+---
+### 0085. 科普君不讲废话
+**[科普君不讲废话]{s}**
+* **[科普君不讲废话](https://v.douyin.com/JItsZoWBemA/)**
+  - [如果复制出一个完整的你，他还是你吗](https://v.douyin.com/cNSxWAkiKL8/)
+
+---
 ### 0100. Arvin Lab
 **[Arvin Lab]{e}**
 * **[Arvin Lab | AIGC创作者 ｜ 理想主义者 新片场Shotlab签约创作人 | 可灵优创 | 佰章 | Douyin](https://v.douyin.com/SFP0c2jjJJE/)**
