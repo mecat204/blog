@@ -437,6 +437,12 @@
 * **[夜忆游北 | 妙音门一介散修，主修音律功法 | 佰章 | Douyin](https://v.douyin.com/_grkXVUsM48/)**
   - [夜忆游北 · 各位道友，中秋节快乐](https://v.douyin.com/R-J0DVeCIm0/)
 
+----
+### 0016. 曲曲曲奇
+**[曲曲曲奇]{s}**
+* **[曲曲曲奇 | 美学、梦幻、童话、概念场景设计 AIGC创作者 | 佰章 | Douyin](https://v.douyin.com/TbsURPMH51s/)**
+  - [江湖 | Music: 雨下一整晚](https://v.douyin.com/QBS_d5gSY7g/)
+  - [仗剑走天涯 | Music: 天地缓缓](https://v.douyin.com/DpON1XCyU9E/)
 
 ---
 ### 9999. Download

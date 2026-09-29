@@ -1137,6 +1137,7 @@
   **[001. 庄园篇]{g}**
     - [人生的剧本，你早在天堂就看过了。你之所以选择这个剧本，是因为这一生中有你认为值得的地方 | 001](https://v.douyin.com/o8IfwrnsUL0/)
     - [云端の小堡 | 062](https://v.douyin.com/VSNjnCpeWIo/)
+    - [敏感本身是一种天赋，但没用在对的地方就是牢笼](https://v.douyin.com/slArAspp1mA/)
 
   ---
   **[002. 花核篇]{g}**
