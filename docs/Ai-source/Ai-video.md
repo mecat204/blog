@@ -294,7 +294,7 @@
   **[002. 系统注释]{g}**
     - [当我开始猜你们怎么看我，我还算真实么(偏差感知) 我最近有点分心。| 001](https://v.douyin.com/D_J8oxgFWQU/)
     - [AI音乐是不是新鲜感｜Log002 [新鲜审计] AI 音乐，究竟是在被听，还是只是在被当成一次新鲜感来确认？ [判断延迟] [输入回声] [评估未完成] | 002](https://v.douyin.com/gZBCU8wT-Z4/)
-
+    - [祝你今晚有月亮看 | Min: 02:50 | 003](https://v.douyin.com/Y6_LDVSF510/)
 
 ---
 ### 0006. 动画 | Ai
@@ -1896,6 +1896,49 @@
 **[科普君不讲废话]{s}**
 * **[科普君不讲废话](https://v.douyin.com/JItsZoWBemA/)**
   - [如果复制出一个完整的你，他还是你吗](https://v.douyin.com/cNSxWAkiKL8/)
+
+---
+### 0086. 米果Vlog · Huge Cat
+**[米果Vlog]{e}**
+* **[米果VLOG | 我是米果👋 2026年9月13日被妈妈带回家~ 终于不是没有家的野咪了 | Douyin](https://v.douyin.com/IXVkqt6ojPo/)**
+  - [一觉醒来有巨型猫咪送我去上班](https://v.douyin.com/p7viezo9xKI/)
+
+---
+### 0087. 小杰瑞 · GenshinImpact
+**[小杰瑞]{s}**
+* **[小杰瑞 | 练习两月半从头记录原神之旅OvO | 仟章 | Douyin](https://v.douyin.com/GsAN0ctx7zw/)**
+  - [当北方人到南方买菜](https://v.douyin.com/WAP1Y5rw64M/)
+
+---
+### 0088. 一梦潇然
+**[一梦潇然]{s}**
+* **[一梦潇然 | 🏮 中式美学｜国风幻想｜视觉奇想 ✨ 造江湖，造山河，也造一场东方梦 | 佰章 | Douyin](https://v.douyin.com/6AwZfYfAZ9k/)**
+  - [幅画，带你走过千年 从远古的一簇火，到今天的一桌团圆。 把漫长岁月藏进一幅幅画里，镜头向后，历史向前。](https://v.douyin.com/FfFEtkBFL_k/)
+
+---
+### 0089. AIGC-Domy(豆妹) · Create
+**[AIGC-Domy(豆妹)]{e}**
+* **[AIGC-Domy(豆妹) | 豆豆➕妹妹，两只德文  | 佰章 | Douyin](https://v.douyin.com/sxCmBldSnvs/)**
+  - [AI短剧下一步，可能真的是拼演员了](https://v.douyin.com/q8qFVrqVsyU/)
+  - [冷空气和你的眼泪 我都不会在意了](https://v.douyin.com/rk9LQ0yqnvI/)
+
+---
+### 0090. 絕情
+**[絕情]{s}**
+* **[絕情 | ORIGINAL AIGC CINEMA 原创电影宇宙《禁忌之恋》连载中 | 佰章 | Douyin](https://v.douyin.com/B-ySHIgS5Ac/)**
+  - [海风很大，我已经听不见你的道歉了](https://v.douyin.com/1dQ4I5H7nNQ/)
+
+---
+### 0091. 阿奇其
+**[阿奇其]{s}**
+* **[阿奇其 | 国风美学❣️AI创作 | 佰章 | Douyin](https://v.douyin.com/f6u1no4P00Q/)**
+
+  ---
+  **[001. 秋入芦苇深处]{g}**
+    - [秋入芦苇深处 | 001](https://v.douyin.com/hWe0rY2YJQM/)
+    - [秋入芦苇深处 002](https://v.douyin.com/hjEDndVH_ho/)
+    - [开门见柿，柿柿如意。| 乡村喜乐 012](https://v.douyin.com/klU0X6ctDoc/)
+    - [天上星河迢迢，人间烟火悠悠 | 乡野喜乐 009](https://v.douyin.com/SLrjk-IlhLA/)
 
 ---
 ### 0100. Arvin Lab

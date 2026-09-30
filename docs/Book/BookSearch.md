@@ -36,6 +36,19 @@
 
 ---
 ### 0001. 搜书
+**[希希哈哈]{e}**
+* **[希希哈哈 | 17年职场，500强企业/2家互联网大厂/B轮初创公司 | Douyin](https://v.douyin.com/VuFuR5HPBqY/)**
+  - [高性价比人生指南](https://v.douyin.com/Sziw8SSRjV0/)
+
+---
+**[github book]{s}**
+* **[how-to-live-better](https://github.com/cdyforever/how-to-live-better)**
+  - [高性价比人生指南](https://cdyforever.github.io/how-to-live-better/#s1-1)
+
+* **[HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter)**
+  - [HowToLiveBetter](https://eternity4719.github.io/HowToLiveBetter/?sec=1)
+
+---
 **[安安爱学习]{s}**
 * **[安安爱学习 | 👦🏻家有神兽小猴一只 | 贰仟章 | Douyin](https://v.douyin.com/zaoE3LZUSjc/)**
   - [有了这套青少年注音版古文观止，再也不用担心孩子看不懂古文！拼音、注释、翻译全都有，孩子自己就能读，家长也省心～# 古文观止](https://v.douyin.com/8i3NdGM_o0M/)

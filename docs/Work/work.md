@@ -258,6 +258,14 @@ OOBE\BYPASSNRO
 
 ---
 ### 0007. Software Download
+**[饭饭 | 夏虫不可语冰]{e}**
+* **[饭饭 | 夏虫不可语冰 | 伍佰章 | Douyin](https://v.douyin.com/sx2EsDq16y4/)**
+  - [职场那些事](https://v.douyin.com/mNFUmWX2bVs/)
+  - [录音鸭，文书岛，AIPPT，创客树。]{lb}
+  - [AIPPT](https://www.aippt.com/)
+  - [文书岛·Microsoft](https://apps.microsoft.com/detail/xp88wm35ntbfvv?hl=en-US&gl=SG)
+
+---
 **[TZ素材网]{s}**
 * **[TZ素材网 | 全套设计软件免费下载-带安装方法-[TZ素材网]](https://www.tzsucai.com/soft.html)**
 
@@ -348,6 +356,7 @@ OOBE\BYPASSNRO
 
   * 不过这里显示的是字节数, 不太直观
 
+---
 ### 0012. Windows 管理规范命令行工具
 **[WMIC - Windows Management Instrumentation Command-line的缩写]{s}**
 * [Windows 管理规范命令行工具]{g}

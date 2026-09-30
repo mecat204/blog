@@ -59,7 +59,12 @@
     - [AI时代，真正拉开孩子差距的是什么 | 306](https://v.douyin.com/4YjDmmhFa1Q/)
 
     ---
+    - [人类简史作者赫拉利：10年后孩子或更信任AI，请把人类最后的神灯愿望留给智慧 | 311](https://v.douyin.com/6PTB569q4iY/)
+
+    ---
     - [十年后毁灭人类？马斯克、OpenAI、Anthropic集体呼吁放缓人工智能开发速度 | 313](https://v.douyin.com/jjwqNvtBGvA/)
+
+
 
   ---
   **[transformer-circuits]{g}**
