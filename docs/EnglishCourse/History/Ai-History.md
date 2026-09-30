@@ -105,6 +105,18 @@
   - [Inside the Nightlife of a Wealthy Victorian Woman | History for Sleep](https://www.youtube.com/watch?v=liVpjsTprHM)
 
 ---
+### 0009. Sleepy Historical Society
+**[Sleepy Historical Society]{s}**
+* **[15K subscribers | 15K subscribers | YTB](https://www.youtube.com/@SleepyHistoricalSociety/videos)**
+  - [What Life Was Like During England's Dark Ages | History for Sleep](https://www.youtube.com/watch?v=HgAMDvXPax4)
+
+---
+### 0010. Opulent Affairs
+**[Opulent Affairs]{s}**
+* **[Opulent Affairs | 17.7K subscribers | YTB](https://www.youtube.com/@OpulentAffairs/videos)**
+  - [The Queen Mother Was A MONSTER Off Camera](https://www.youtube.com/watch?v=tdWNkZhlG5s)
+
+---
 ### 9999. 开源项目
 **[必应]{s}**
 * **[必应 | bing.com](https://cn.bing.com/)**
