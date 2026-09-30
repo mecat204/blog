@@ -1016,6 +1016,7 @@
 
   ---
   - [Nuclear Expert WARNS: "You Have No Idea What's Coming" | 核专家警告："你根本不知道接下来发生的事"](https://www.youtube.com/watch?v=fnGw_mT1278)
+  - [AI Expert WARNS: "You're Not Ready For 2027"](https://www.youtube.com/watch?v=m94OMx1eBy0)
 
 ---
 **[SMii7Y]{s}**

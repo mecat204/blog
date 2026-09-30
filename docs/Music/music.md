@@ -1839,6 +1839,7 @@
 **[抖音歌曲]{s}**
 * **[抖音歌曲 | 2.69K subscribers | YTB](https://www.youtube.com/@%E6%8A%96%E9%9F%B3%E6%AD%8C%E6%9B%B22026/videos)**
   - [2026 年 九月 必聽新歌](https://www.youtube.com/watch?v=Xl2au-i-hkk&list=RDXl2au-i-hkk&start_radio=1)
+  - [You said all of fade and turn to stray, You said you no cash to spend today, Thank you for staying with me all these days, Don't let false folks trick your heart away. | Music: ](https://v.douyin.com/SFKVkfupELU/)
 
 ---
 ### 9999. Music·Course

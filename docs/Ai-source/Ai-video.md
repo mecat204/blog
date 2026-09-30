@@ -799,8 +799,12 @@
 
 ---
 ### 0028. Home | 家
+**[阿耶宅一下]{e}**
+* **[阿耶宅一下 | ✨欢迎来到阿耶的小宇宙 🏠INFP宅家日常 | 佰章 | Douyin](https://v.douyin.com/evuqf7V_xiM/)**
+
+---
 **[阿mer吖]{e}**
-* **[阿mer吖](意式混搭风小家 氛围感家居｜好物分享｜生活Vlog 愿你披荆斩棘  |佰章 | Douyin)**
+* **[阿mer吖 | 意式混搭风小家 氛围感家居｜好物分享｜生活Vlog 愿你披荆斩棘  | 佰章 | Douyin](https://v.douyin.com/jHr_lm6wU1M/)**
   - [这样清新自然的小家，怎能不被治愈呢！ 原来自然系的治愈力是温柔的，是安静的。是家里每一寸的植物气息，和每一处承托你疲惫的地方。从一杯茶到一把皮椅，都能成为你的固定治愈坐标](https://v.douyin.com/aoJujomlt9w/)
 
 ---
@@ -1939,6 +1943,39 @@
     - [秋入芦苇深处 002](https://v.douyin.com/hjEDndVH_ho/)
     - [开门见柿，柿柿如意。| 乡村喜乐 012](https://v.douyin.com/klU0X6ctDoc/)
     - [天上星河迢迢，人间烟火悠悠 | 乡野喜乐 009](https://v.douyin.com/SLrjk-IlhLA/)
+
+---
+### 0092. 宇宙深处探索·科学脑洞
+**[宇宙深处探索]{s}**
+* **[宇宙深度探索 | 科学脑洞短剧2天一更 | 叁佰章 | Douyin ](https://v.douyin.com/2xOl3GzxxVc/)**
+
+  ---
+  **[001. 脑洞科幻]{g}**
+    - [为什么宇宙不允许你超过光速 | Min: 03:29 | 016](https://v.douyin.com/POzRXKXzXHg/)
+
+---
+### 0093. 深空信号站·AI外星人
+**[深空信号站]{s}**
+* **[深空信号站 | 我是深空 交流: Manyou0105 | 伍佰章 | Douyin](https://v.douyin.com/fIEM8DV1aRE/)**
+
+  ---
+  **[001. AI外星人]{g}**
+    - [地球45亿年，有没有可能存在过另一个文明 | Min: 04:00 | 018](https://v.douyin.com/hty7GVG0Rb0/)
+
+---
+### 0094. 清曜·诗词
+**[清曜]{s}**
+* **[用AIGC造另一个世界 | 佰章 | Douyin](https://v.douyin.com/sj7VABsbJAc/)**
+  - [雪之语](https://v.douyin.com/gAP22dgsIqg/)
+  - [中式意境](https://v.douyin.com/FTeJ0DyP-mI/)
+
+---
+### 0095. 小小小瀛·凡人二创
+**[小小小瀛]{s}**
+* **[小小小瀛 | 栏目｜凡人修仙传写实风格二创 | 佰章 | Douyin](https://v.douyin.com/S_x2ZqiLXqI/)**
+  - [现实生活中真有这样的建模吗](https://v.douyin.com/2ewK7FYnMKk/)
+  - [你们喜欢这个时期的韩立吗](https://v.douyin.com/nZrQ_cn9yGA/)
+  - [假如你是韩立，手里有一颗可以直接晋升元婴的丹药，你会给她吗](https://v.douyin.com/gbQi1zWI6Xo/)
 
 ---
 ### 0100. Arvin Lab
