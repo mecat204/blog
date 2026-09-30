@@ -57,6 +57,54 @@
     - []()
 
 ---
+### 0003. The Unseen Past
+**[The Unseen Past]{s}**
+* **[The Unseen Past | 11.8K subscribers | YTB](https://www.youtube.com/@UnseenPastHistory/videos)**
+  - [I Time Traveled to Ancient China in 211 BC](https://www.youtube.com/watch?v=WD3riCBUUJU)
+
+---
+### 0004. Chloe VS History
+**[Chloe VS History]{e}**
+* **[Chloe VS History | Powered by PAI 2.0 from @UtopaiStudios | 365K | YTB](https://www.youtube.com/@ChloeVSHistory/videos)**
+
+  ---
+  **[tiktok]{g}**
+    - [tiktok](https://www.tiktok.com/@chloe.vs.history)
+
+  - [I time travelled to Ancient Rome! (Vlog)](https://www.youtube.com/watch?v=aaua5ghidk0&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=1)
+  - [I time travelled to Tudor London in 1536! (Vlog)](https://www.youtube.com/watch?v=-Sd1stYQp-c&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=2)
+  - [I time travelled to D-Day in 1944 (WW2)](https://www.youtube.com/watch?v=ta0xLjMXJ1s&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=4)
+  - [I time travelled to Ancient Egypt in 2400BC! (Vlog)](https://www.youtube.com/watch?v=GJKU9qYGjN8&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=5)
+  - [I time travelled to the Titanic 1912](https://www.youtube.com/watch?v=HZRdKlOHogk&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=6)
+  - [Can I Survive 24 Hours in the Ice Age? (30,000BC)](https://www.youtube.com/watch?v=moKQeOMHqYA&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=6)
+  - [I time travelled to Edo Japan in 1657 | 穿越到1657年的日本江户(日江户大火)](https://www.youtube.com/watch?v=dx2T6kDh98g)
+
+---
+### 0005. Timelapse Studio
+**[Timelapse Studio]{s}**
+* **[Timelapse Studio | 100K subscribers | YTB](https://www.youtube.com/@TimelapseStudioChannel/videos)**
+  - [Evolution of New York | Fixed-Camera Timelapse: Midtown Manhattan](https://www.youtube.com/watch?v=hIgGx4PW0Eg)
+  - [Evolution of Tokyo | Fixed-Camera Timelapse: 3000 Years of The Kanto Plain](https://www.youtube.com/watch?v=HJGR9S4VF5A)
+
+---
+### 0006. Luna's Ledger
+**[Luna's Ledger]{s}**
+* **[Luna's Ledger | 22 subscribers | YTB](https://www.youtube.com/@LunasLedger)**
+  - [I Time Traveled to Wall Street and Bought the Dumbest Stock in 1929](https://www.youtube.com/@LunasLedger)
+
+---
+### 0007. Dynastypical
+**[Dynastypical]{s}**
+* **[Dynastypical | 18.3K subscribers | YTB](https://www.youtube.com/@dynastypical/videos)**
+  - [1540: What Was the Wedding Night Like for Anne of Cleves and Henry VIII](https://www.youtube.com/watch?v=IH5oMNYjQA8)
+
+---
+### 0008. Sleep Old World
+**[Sleep Old World]{s}**
+* **[Sleep Old World | 29.2K subscribers | YTB](https://www.youtube.com/@SleepyOldWorld/videos)**
+  - [Inside the Nightlife of a Wealthy Victorian Woman | History for Sleep](https://www.youtube.com/watch?v=liVpjsTprHM)
+
+---
 ### 9999. 开源项目
 **[必应]{s}**
 * **[必应 | bing.com](https://cn.bing.com/)**
