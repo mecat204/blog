@@ -305,6 +305,7 @@
   ---
   - **[Living with the Dark Winters in Sweden |Midnight sun & Polar night | 与瑞典的黑暗冬天共存 | 午夜太阳与极夜](https://www.youtube.com/watch?v=3zTR4ayDG38)**
   - **[Winter Days in the North | Working Through the Darkest Time of the Year | 北方冬日 | 度过一年中 最黑暗的时刻](https://www.youtube.com/watch?v=j3iFHM3dcBI)**
+  - []()
 
 ---
 **[Miss Jean Teaches]{e}**
@@ -4439,6 +4440,17 @@
 * **[Netflix | 33.6M subscribers | YTB](https://www.youtube.com/@Netflix/videos)**
   - [Crazy Rich, Incredibly Broke | Official Trailer | Netflix](https://www.youtube.com/watch?v=oDBUdMDfq30)
 
+---
+### 0049. Victoria
+**[Victoria]{s}**
+* **[Victoria | 1.06M subscribers | YTB](https://www.youtube.com/@VictoriaMagrath/videos)**
+  - [LIFE LESSONS IN THE MALDIVES AND WHY IVE BEEN UNHAPPY SO LONG | VICTORIA](https://www.youtube.com/watch?v=UH6V1OBM2_s)
+
+---
+### 0050. Vogue
+**[Vogue]{s}**
+* **[Vogue | 16.9M subscribers | YTB](https://www.youtube.com/@Vogue/videos)**
+  - [Inside Dakota Johnson's Private Home, Full of Wonderful Objects | Vogue](https://www.youtube.com/watch?v=H4ZEsgXHxjc)
 
 ---
 ### 0099. AI - video
@@ -4559,6 +4571,19 @@
 
 ---
 * **[GAICC | Global AI Certification Council - ISO/IEC 42001 Training and Accreditation](https://gaicc.org/)**
+
+---
+### 0150. WhisperVerse drama
+**[WhisperVerse drama]{s}**
+* **[WhisperVerse drama | 12.8K subscribers | YTB](https://www.youtube.com/@WhisperVerse-z5w/videos)**
+  - [Her Ex Cried On His Knees Begging To Return, But Her Possessive Mafia Husband Blocked Him!](https://www.youtube.com/watch?v=ZBrr_jbT54E)
+  - [Ava Stole Her Family & Boyfriend, So She Married The Mafia Boss Who Loved Her In Secret](https://www.youtube.com/watch?v=ZBrr_jbT54E)
+
+---
+### 0151. Global Viral Short Dramas
+**[Global Viral Short Dramas]{s}**
+* **[Global Viral Short Dramas | 268 subscribers | YTB](https://www.youtube.com/@EchoTrace-j4s)**
+  - [She fakes blindness after the crash to spy and collect evidence.Will the villains slip up](https://www.youtube.com/watch?v=fykKQgolTP0)
 
 ---
 ### 0200. Music

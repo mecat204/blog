@@ -43,6 +43,7 @@
 * **[Bedtime & Historian | 96.7K subscribers | YTB](https://www.youtube.com/@TheBedtimeHistory-icdi/videos)**
   - [The ENTIRE Story of the Qing Empire | The Last Dynasty of China | Chinese History](https://www.youtube.com/watch?v=ShvadB3fOL0)
   - [Fall Asleep to the ENTIRE Story of Ching Shih — Pirate Queen Who Ruled the South China Sea](https://www.youtube.com/watch?v=TT9H6vqLehA)
+  - [The Folklore of China | Fox Spirits, Ghosts & Ancient Legends](https://www.youtube.com/watch?v=2ELtak1WaHk)
 
 ---
 ### 0002. 伊天天
