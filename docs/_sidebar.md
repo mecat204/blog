@@ -49,7 +49,7 @@
   - **News**
     * [News](EnglishCourse/News/News)
   - **History**
-    * [History](EnglishCourse/History/History)
+    * [Ai-History](EnglishCourse/History/Ai-History)
 
   ---
   - **SlowEnglish**
