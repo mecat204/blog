@@ -102,7 +102,9 @@
 ### 0008. Sleep Old World
 **[Sleep Old World]{s}**
 * **[Sleep Old World | 29.2K subscribers | YTB](https://www.youtube.com/@SleepyOldWorld/videos)**
-  - [Inside the Nightlife of a Wealthy Victorian Woman | History for Sleep](https://www.youtube.com/watch?v=liVpjsTprHM)
+  - [Inside the Nightlife of a Wealthy Victorian Woman | History for Sleep | Min: 03:06:01](https://www.youtube.com/watch?v=liVpjsTprHM)
+  - [What Sleeping Was Like in a Victorian Mansion | History for Sleep | Min: 03:13:01](https://www.youtube.com/watch?v=ubjzE9rPQUo)
+  - [WEIRD Things That Were Normal in the 1920s | History for Sleep | Min:02:28:49 | 001](https://www.youtube.com/watch?v=oGGzqAdc9Vc)
 
 ---
 ### 0009. Sleepy Historical Society
@@ -115,6 +117,12 @@
 **[Opulent Affairs]{s}**
 * **[Opulent Affairs | 17.7K subscribers | YTB](https://www.youtube.com/@OpulentAffairs/videos)**
   - [The Queen Mother Was A MONSTER Off Camera](https://www.youtube.com/watch?v=tdWNkZhlG5s)
+
+---
+### 0011. Victorican Hours
+**[Victorican Hours]{s}**
+* **[Victorican Hours | 1.9K subscribers | YTB](https://www.youtube.com/@VictorianHours)**
+  - [Why Victorians Spent Christmas So Differently Than We Do | History for Sleep | Min: 03:42:33](https://www.youtube.com/watch?v=ciCNa0AHHgA)
 
 ---
 ### 9999. 开源项目
