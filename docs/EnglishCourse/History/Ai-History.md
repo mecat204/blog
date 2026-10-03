@@ -104,7 +104,7 @@
 * **[Sleep Old World | 29.2K subscribers | YTB](https://www.youtube.com/@SleepyOldWorld/videos)**
   - [Inside the Nightlife of a Wealthy Victorian Woman | History for Sleep | Min: 03:06:01](https://www.youtube.com/watch?v=liVpjsTprHM)
   - [What Sleeping Was Like in a Victorian Mansion | History for Sleep | Min: 03:13:01](https://www.youtube.com/watch?v=ubjzE9rPQUo)
-  - [WEIRD Things That Were Normal in the 1920s | History for Sleep | Min:02:28:49 | 001](https://www.youtube.com/watch?v=oGGzqAdc9Vc)
+  - [WEIRD Things That Were Normal in the 1920s | History for Sleep | Min:02:28:49](https://www.youtube.com/watch?v=oGGzqAdc9Vc)
 
 ---
 ### 0009. Sleepy Historical Society
