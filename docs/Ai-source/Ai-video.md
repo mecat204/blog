@@ -336,6 +336,7 @@
   - [天上星河落人间，一城灯火照千年。 | 2025AI年终大赏 | AI创作浪潮计划 | 即梦AI创作者成长计划 | 唯美意境 | 风景](https://v.douyin.com/jV9hEMEJB9Q/)
   - [一镜到底，走进画里](https://v.douyin.com/Ahi2hnaDeJI/)
   - [唯美仙境环游记 | seedance 2.0](https://v.douyin.com/eeTDEV-bQzc/)
+  - [妖侠外传 · 诛妖令 | Min: 09:30 | 042](https://v.douyin.com/o2LnBaAZkG0/)
 
   ---
   **[001. 墨瞳]{g}**
