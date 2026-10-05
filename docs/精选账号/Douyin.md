@@ -821,8 +821,8 @@
 * **[杨小魔的神精世界🌍 | ❤️好好爱自己，好好生活 ❤️谨记‼️自己才是自己人生的主角.努力活成一道光 | 佰章 | Douyin](https://v.douyin.com/BRF-PjVU5QY/)**
 
 ---
-**[🌈是花火啊。]{s}**
-* **[🌈是花火啊。](🌈是花火啊。 | 贝加尔湖畔的歌声。| 仟章 | Douyin](https://v.douyin.com/qrblppDHCF8/)**
+**[🌈是花火啊]{s}**
+* **[🌈是花火啊。| 🌈是花火啊。 | 贝加尔湖畔的歌声。| 仟章 | Douyin](https://v.douyin.com/qrblppDHCF8/)**
   - [美与宁静 思念如汹涌潮水，眺望如星月无悔，平静而坚定。| 00:38](https://v.douyin.com/a5LVhFJNG5A/)
 
 ---
