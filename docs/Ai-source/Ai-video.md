@@ -1582,6 +1582,16 @@
     - [折光 - 第一部分 有许多地方做的比较粗糙 | Min: 03:29 | 009](https://v.douyin.com/PdnHhEltvs0/)
 
 ---
+**[MikePanW | 拾音 ShiYin]{s}**
+* **[MikePanW | 拾音 ShiYin | YTB](https://www.youtube.com/@MikePanW_ShiYin)**
+
+  ---
+  **[001. 只想遇见你]{g}**
+    - [001](https://www.youtube.com/watch?v=4-SdaogawBA&list=PLE2Ekq7HuY_g)
+    - [002](https://www.youtube.com/watch?v=AKWu6_kjfV0&list=PLE2Ekq7HuY_g&index=2)
+    - [003](https://www.youtube.com/watch?v=7_d8vHAk7Ng&list=PLE2Ekq7HuY_g&index=3)
+
+---
 **[annecyfestival]{s}**
 * **[annecyfestival·安纳西国际动画电影节 | 21.8万 | YTB](https://www.youtube.com/@annecyfestival/videos)**
 
