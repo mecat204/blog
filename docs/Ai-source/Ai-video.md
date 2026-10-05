@@ -1516,7 +1516,7 @@
 ---
 ### 0060. 拾音 ShiYin
 **[拾音 ShiYin]{s}**
-* **[拾音 ShiYin | AIGC | 原创音乐 | MV | 故事 - MikePanW](https://v.douyin.com/foXtFGefMPI/)**
+* **[拾音 ShiYin | AIGC | 原创音乐 | MV | 故事 - MikePanW | 佰章 | Douyin](https://v.douyin.com/foXtFGefMPI/)**
   - [春雨伞下 | 短剧](https://v.douyin.com/Bv3tjit78Dg/)
   - [折光 - 第一部分 有许多地方做的比较粗糙,但是还是想先发出来,不知道你喜欢吗](https://v.douyin.com/3SmBbxazC7g/)
   - [前巷 | 音乐](https://v.douyin.com/ITOuMrBEB7A/)
@@ -1533,6 +1533,53 @@
     - [预告片 正在准备即梦活动中, 法国昂西国际动画节的作品. | 001](https://v.douyin.com/dvRnerWDMyw/)
     - [002](https://v.douyin.com/ONRwDDuBrSw/)
     - [007](https://v.douyin.com/Lmyu8ujCeow/)
+
+  ---
+  **[003. 不言异途录]{g}**
+    - [不言异途录 - 第一集 自一城烟火处启程，向万里山海间行去, 看古书未尽的奇景，逢传说之外的众生 山海未尽，异途方启 | Min: 06:28 | 001](https://v.douyin.com/psgwiE6t4QA/)
+
+    ---
+    - [不言异途录 - 第二集 自一城烟火处启程，向万里山海间行去, 看古书未尽的奇景，逢传说之外的众生 山海未尽，异途方启 | Min: 05:44 | 002](https://v.douyin.com/UMrsHFraz3Y/)
+
+    ---
+    - [不言异途录 - 第三集 自一城烟火处启程，向万里山海间行去, 看古书未尽的奇景，逢传说之外的众生 山海未尽，异途方启 | Min: 06:02 | 003](https://v.douyin.com/nlcStwPuHsk/)
+
+    ---
+    - [不言异途录 - 栖梁篇1-3合集 20分钟蹲坑版, 补全了一些新镜头, 修改了部分老镜头 自一城烟火处启程，向万里山海间行去, 看古书未尽的奇景，逢传说之外的众生 山海未尽，异途再启 | Min: 20:34 | 004](https://v.douyin.com/Xn1UekkAUe8/)
+
+    ---
+    - [言异途录 - 悬天河篇 - 先导片 《不言异途录·栖梁篇》这几天收到了很多鼓励。| Min: 02:35 | 005](https://v.douyin.com/1lxuj9oqwJ0/)
+
+    ---
+    - [不言异途录 - 第四集 全片使用@小云雀AI 制作 | Min: 04:06 | 006](https://v.douyin.com/SBzrST8pLqo/)
+
+    ---
+    - [不言异途录 - 第五集 全片使用@小云雀AI | Min: 04:54 | 007](https://v.douyin.com/hJptlhE5pgw/)
+
+    ---
+    - [不言异途录 - 第六集 全片使用@小云雀AI 制作 | Min: 05:23 | 008](https://v.douyin.com/AEHESy9bLkc/)
+
+  ---
+  **[004. 音乐MV]{g}**
+    - [时光海 六一儿童节快乐。| Music: 时光海-MikePanW | Min: 02:01 | 001](https://v.douyin.com/zHY8pQmw6gQ/)
+
+    ---
+    - [饲 - 暗黑古风 音乐MV | Min: 01:56 | 002](https://v.douyin.com/gY2nh9cFuDo/)
+
+    ---
+    - [雪落 - 暗黑古风 | Min: 02:06 | 003](https://v.douyin.com/Z_WQTSfUotI/)
+
+    ---
+    - [《夏风与秋的信》 - 完整MV | Min: 03:41 | 005](https://v.douyin.com/QllyOmjfr6A/)
+
+    ---
+    - [同一条路，你走过几次？ 每一次走的，还是同一个你吗 | 前巷 | Min: 03:33 | 007](https://v.douyin.com/ft27angJvCA/)
+
+    ---
+    - [慢半拍 | Min: 04:13 | 008](https://v.douyin.com/7y5MoBrmmow/)
+
+    ---
+    - [折光 - 第一部分 有许多地方做的比较粗糙 | Min: 03:29 | 009](https://v.douyin.com/PdnHhEltvs0/)
 
 ---
 **[annecyfestival]{s}**
