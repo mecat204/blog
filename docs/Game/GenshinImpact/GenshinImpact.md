@@ -32,6 +32,10 @@
   - [《原神》剧情PV-「沙中遗事」](https://www.youtube.com/watch?v=EEGh9J0TH2E)
   - [《原神·提瓦特篇》幕间PV-「神的局限性」](https://www.youtube.com/watch?v=jvXVmvW8ZQw)
 
+  ---
+  - [Story Teaser: The Swallows Return | Genshin Impact](https://www.youtube.com/watch?v=9wwm86um-UU)
+  - [Character Trailer - "Vodyanitsa: Tonight, We Sink as One" | Genshin Impact](https://www.youtube.com/watch?v=8Ty-Btue6OI)
+
 ---
 **[原神]{s}**
 * **[原神 | 我真的没时间陪你闹了，我要去「原神 · 空月之歌」| 三千章 | Douyin](https://v.douyin.com/hEOMQkgFrmk/)**

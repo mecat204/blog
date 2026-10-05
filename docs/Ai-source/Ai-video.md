@@ -1593,7 +1593,7 @@
 
 ---
 **[annecyfestival]{s}**
-* **[annecyfestival·安纳西国际动画电影节 | 21.8万 | YTB](https://www.youtube.com/@annecyfestival/videos)**
+* **[annecyfestival·安纳西国际动画电影节 | 220K subscribers | YTB](https://www.youtube.com/@annecyfestival/videos)**
 
   ---
   **[annecyfestival·安纳西国际动画电影节]{g}**
@@ -1647,7 +1647,7 @@
   - [愿得一人心，白首不分离](https://v.douyin.com/e-v1ICaYTXc/)
 
 ---
-### 0064. FayeGlide · 神雕侠侣
+### 0064. FayeGlide·神雕侠侣
 **[FayeGlide]{s}**
 * **[FayeGlide | 🪐可灵AI优质创作者，LibTV 超创 师：@Cyborg3 | 佰章 | Douyin](https://v.douyin.com/0VdSCV87tN8/)**
 
