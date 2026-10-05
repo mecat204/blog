@@ -847,7 +847,13 @@
 * **[No_Tables | 281K subscribers |  YTB](https://www.youtube.com/@no_tables/videos)**
   - [Genshin Impact HoYoFair Times... Changed](https://www.youtube.com/watch?v=LhJ6PR7d3bM)
 
---
+---
+### 0204. 小熊的原神资讯
+**[小熊的原神资讯]{s}**
+* **[小熊的原神资讯 | . 合作：A2292126118 | YTB](https://v.douyin.com/lueYb75fJ_E/)**
+  - [央视长达4分钟报道原神，鸡哥痛失网名 | Min: 04:04 | 001](https://v.douyin.com/iiPS-Ry2pQ8/)
+
+---
 ### 9999. Download
 **[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**

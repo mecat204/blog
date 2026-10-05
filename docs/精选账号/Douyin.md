@@ -808,6 +808,11 @@
 
 ---
 ### 0010. 2026
+**[柳柳L~]{e}**
+* **[柳柳L~ | 柳柳L~ | 热爱国学的宅家选手：Xingchen0042](https://v.douyin.com/TQuZJNZ9b4g/)**
+  - [怎么办呢](https://v.douyin.com/CQVi29a7tIw/)
+
+---
 **[🇨🇳社会·姚]{e}**
 * **[🇨🇳社会·姚 | 自由、随性、洒脱🇨🇳 | 直播 | 晚8:30](https://v.douyin.com/s5sIfzse4e8/)**
 
@@ -835,6 +840,7 @@
   - [惹怒内蒙古人教程 拿走不谢](https://v.douyin.com/6iwl3kqkis0/)
   - [内蒙方言](https://v.douyin.com/qGQyCFWg8ok/)
   - [草原上的牛马不实宜好, 蒙古公主的一天](https://v.douyin.com/v3msisholwo/)
+  - [国庆咋不来内蒙古](https://v.douyin.com/UbDZtA3y0Wg/)
 
 ---
 **[周一·四岁· English]{e}**
