@@ -126,6 +126,23 @@
   - [Why Victorians Spent Christmas So Differently Than We Do | History for Sleep | Min: 03:42:33](https://www.youtube.com/watch?v=ciCNa0AHHgA)
 
 ---
+### 0012. Storytime English · 6amClub助学参考于此
+**[Storytime English]{s}**
+* **[Storytime English | 43.1K subscribers | YTB](https://www.youtube.com/@StorytimeEnglishHistory)**
+  - [The 18-Year-Old Girl Who Created Frankenstein — Mary Shelley | Learn English Through Stories | Min:21:50 | 001](https://www.youtube.com/watch?v=IvAk6jSIlqk)
+  - [Anne Frank: The Girl Whose Diary Outlasted Everything | Learn English Through History | Min:18:53 | 002](https://www.youtube.com/watch?v=haQfmKYZ0f0)
+  - [He Went Deaf and Wrote the Greatest Music Ever — Beethoven | Learn English Through Stories | Min: 18:32 | 003](https://www.youtube.com/watch?v=p3rTZD5iBFU)
+  - [The Entire History of Germany || English Listening Practice | Min: 35:27 | 004](https://www.youtube.com/watch?v=gS-45Oms7JQ)
+
+---
+### 0013. Strongline English
+**[Strongline English]{s}**
+* **[Strongline English | 153K subscribers | YTB](https://www.youtube.com/watch?v=IgxYpCpiHPk&t=767s)**
+  - [The Entire History of russia || English Listening Practice | Min: 35:29  | 001](https://www.youtube.com/watch?v=-V5s0rq3Xmw)
+  - [The Ice King Who Changed the World || Learn English Naturally | Min: 15:35 | 002](https://www.youtube.com/watch?v=IgxYpCpiHPk&t=767s)
+  - [The Frozen Past: How Ice Hockey Changed Sports Forever || English Listening Practice | Min: 25:40 | 003](https://www.youtube.com/watch?v=zwa6OhBwExE)
+
+---
 ### 9999. 开源项目
 **[必应]{s}**
 * **[必应 | bing.com](https://cn.bing.com/)**

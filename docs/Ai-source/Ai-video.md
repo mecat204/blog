@@ -2207,6 +2207,22 @@
   - [你的两千年修行之路 | 魏晋入世全篇 | Min: 34:55 | 001](https://www.youtube.com/watch?v=vI25x5qhNCs)
 
 ---
+### 0108. 羅克說
+**[羅克說]{s}**
+* **[羅克說 | 我是𝗥𝗢𝗖罗克，欢迎午夜来听我讲故事。| 故事帮助我们理解世界,也让我们重新认识自己 | 佰章 | Douyin](https://v.douyin.com/yuOyFq4rd7s/)**
+  - [第一集 旧世界的终章(2019—2029)](https://v.douyin.com/T770ZWEW4Hg/)
+
+---
+**[羅克說]{s}**
+* **[羅克說 | 我是羅克，歡迎午夜來聽我講故事 | YTB](https://www.youtube.com/@rocsays/videos)**
+  - [【未來人KFK預言】目前公認可信度最高的穿越者，第一集 | 2019 - 2029：舊世界的終章 | 𝗖𝗥𝗘𝗔𝗧𝗘-𝗫 𝙎𝙩𝙪𝙙𝙞𝙤 | 001](https://www.youtube.com/watch?v=rbP3pRt4XUE)
+  - [【未來人KFK預言】目前公認可信度最高的穿越者，第二集 | 2030 - 2039：科技的幻覺年代 | 𝗖𝗥𝗘𝗔𝗧𝗘-𝗫 𝙎𝙩𝙪𝙙𝙞𝙤 | 002](https://www.youtube.com/watch?v=oYfXkJhu5s0)
+  - [【未來人KFK預言】目前公認可信度最高的穿越者，第三集 | 2040 - 2060：洗牌與覺醒 | 𝗖𝗥𝗘𝗔𝗧𝗘-𝗫 𝙎𝙩𝙪𝙙𝙞𝙤 | 003](https://www.youtube.com/watch?v=tDsdahCHRBc)
+
+  ---
+  - [未来人KFK预言文字整理完整版](https://github.com/superwood001/doResearch/issues/5)
+
+---
 ### 0200. 瑶光
 **[瑶光]{s}**
 * **[瑶光 | 做梦老手，AIGC新手，希望能跟粉丝们共同成长，欣赏美丽的梦中世界 | 佰章 | Douyin](https://v.douyin.com/tARwuM501uk/)**

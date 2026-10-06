@@ -175,6 +175,22 @@
   - [人活一辈子，总得留下点什么吧。 这个世界上绝大部分的工作，好像都很难给人真正的成就感。中年失业后，我做了一款结合了番茄钟和待办事项的挂机陪伴小游戏，有好看的风景和多种Lofi 音乐。目前可以免费试玩Demo，希望你能喜欢](https://v.douyin.com/SbiFbmRi7mA/)
 
 ---
+### 0015. 黑白·Online
+**[黑白]{s}**
+* **[黑白 | 白天不懂夜的黑 | 十章 | Douyin](https://v.douyin.com/FCFgPsyS4AA/)**
+  - [奥日与萤火意志](https://v.douyin.com/__1vPBH3S_4/)
+
+---
+### 0016. 桂儿花
+**[桂儿花]{e}**
+* **[桂儿花 | 如果游戏打不过，那就停下来聊聊天吧 | 佰章 | Douyin](https://v.douyin.com/mIE5C5VheEY/)**
+
+  ---
+  **[001. 奥日与萤火意志]{g}**
+    - [第一集 | 《奥日与萤火意志》| Min: 31:12 | 001](https://v.douyin.com/L5K43iwTJJ0/)
+    - [第十一集 | 《奥日与萤火意志》 全收集全流程攻略 | Min: 31:26 | 011](https://v.douyin.com/BhY5xhM97V0/)
+
+---
 ### 0100. 油管推广广告
 **[Foundation: Galactic Frontier]{s}**
 * **[Foundation: Galactic Frontier](https://www.foundation.game/en)**
