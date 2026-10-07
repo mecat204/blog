@@ -609,7 +609,7 @@
 
 ---
 **[Tourist Walk Tours]{s}**
-* **[Tourist Walk Tours | 539K subscribers | YTB](https://www.youtube.com/@TouristWalkTours)**
+* **[Tourist Walk Tours | 549K subscribers | YTB](https://www.youtube.com/@TouristWalkTours)**
 
   - [En: Welcome to Tourist Walk Tours — your passport to adventure!]{s}
   - [Cn: 欢迎来到旅游徒步游——你的冒险通行证！]{g}
@@ -647,11 +647,13 @@
   - [Cn: 世界很大——让我们一起探索吧！]{g}
 
   ---
-  - **[**瑞士**最美的山村——你会想搬到这里来。](https://www.youtube.com/watch?v=o9esB3n-GAw)**
+  - [瑞士最美的山村——你会想搬到这里来。](https://www.youtube.com/watch?v=o9esB3n-GAw)
+  - [This Village Was Voted the Most Beautiful in Switzerland](https://www.youtube.com/watch?v=o1nVObHGUr8)
+  - [The Most Charming Village on Lake Garda - Italy](https://www.youtube.com/watch?v=TFz7VTnJoeE)
 
 ---
 **[🇨🇭 SWISS - Most Beautiful Places & Walking Tours]{s}**
-* **[🇨🇭 SWISS - Most Beautiful Places & Walking Tours | 瑞士 | 99.8K subscribers | YTB](https://www.youtube.com/@SWISS_WalkingTours)**
+* **[🇨🇭 SWISS - Most Beautiful Places & Walking Tours | 瑞士 | 102K subscribers subscribers | YTB](https://www.youtube.com/@SWISS_WalkingTours)**
 
   - [En: Welcome to our YouTube channel dedicated to the breathtaking beauty of Switzerland!]{s}
   - [Cn: 欢迎来到我们的YouTube频道，专注于瑞士令人叹为观止的美景！]{g}
@@ -681,7 +683,8 @@
   - [Cn: 这样做不仅表达了你的欣赏，也帮助他人发现瑞士无与伦比的美丽，享受其自然的奇观。]{g}
 
   ---
-  - **[**瑞士**的天堂：瑞士乡村美丽村庄的雨天](https://www.youtube.com/watch?v=-kenx1rQyZo)**
+  - [瑞士的天堂：瑞士乡村美丽村庄的雨天](https://www.youtube.com/watch?v=-kenx1rQyZo)
+  - [Life in Swiss Fairytale Villages on Rainy Day - Rain Ambience. Most Beautiful Villages Countryside](https://www.youtube.com/watch?v=kdEM2deZejQ)
 
 ---
 **[SoulEase Space | Music]{s}**
