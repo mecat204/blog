@@ -647,9 +647,13 @@
   - [Cn: 世界很大——让我们一起探索吧！]{g}
 
   ---
-  - [瑞士最美的山村——你会想搬到这里来。](https://www.youtube.com/watch?v=o9esB3n-GAw)
-  - [This Village Was Voted the Most Beautiful in Switzerland](https://www.youtube.com/watch?v=o1nVObHGUr8)
-  - [The Most Charming Village on Lake Garda - Italy](https://www.youtube.com/watch?v=TFz7VTnJoeE)
+  - [Switzerland’s Most Beautiful Mountain Villages — You’ll Want to Move Here Tomorrow | 瑞士最美的山村——你会想搬到这里来。| Min: 01:48:01 | 001](https://www.youtube.com/watch?v=o9esB3n-GAw)
+
+  ---
+  - [This Village Was Voted the Most Beautiful in Switzerland | Min:38:40 | 002](https://www.youtube.com/watch?v=o1nVObHGUr8)
+
+  ---
+  - [The Most Charming Village on Lake Garda - Italy | Min: 52:29 | 003](https://www.youtube.com/watch?v=TFz7VTnJoeE)
 
 ---
 **[🇨🇭 SWISS - Most Beautiful Places & Walking Tours]{s}**
@@ -683,8 +687,8 @@
   - [Cn: 这样做不仅表达了你的欣赏，也帮助他人发现瑞士无与伦比的美丽，享受其自然的奇观。]{g}
 
   ---
-  - [瑞士的天堂：瑞士乡村美丽村庄的雨天](https://www.youtube.com/watch?v=-kenx1rQyZo)
-  - [Life in Swiss Fairytale Villages on Rainy Day - Rain Ambience. Most Beautiful Villages Countryside](https://www.youtube.com/watch?v=kdEM2deZejQ)
+  - [Switzerland’s Paradise: Rainy Day in Heavenly Beautiful Swiss Villages Countryside瑞士的天堂：瑞士乡村美丽村庄的雨天 | Min: 03:07:45 | 001](https://www.youtube.com/watch?v=-kenx1rQyZo)
+  - [Life in Swiss Fairytale Villages on Rainy Day - Rain Ambience. Most Beautiful Villages Countryside | Min: 03:08:32 | 002](https://www.youtube.com/watch?v=kdEM2deZejQ)
 
 ---
 **[SoulEase Space | Music]{s}**

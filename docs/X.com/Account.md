@@ -314,12 +314,22 @@
   - [AI 影视制作工作台-cinematic-techniques](https://melies.co/cinematic-techniques)
 
 ---
+### 0017. AB Kuai.Dong
+**[AB Kuai.Dong]{s}**
+* **[AB Kuai.Dong | 热爱研究、热爱家庭、热爱分享，2016 年入行从业。](https://x.com/_FORAB)**
+
+  ---
+  **[001. ArtCraft]{s}**
+    - [ArtCraft - Crafting Apps: open-source creative tools — ArtCraft](https://getartcraft.com/apps)
+
+---
 ### 0100. 10倍生产力 · Douyin
 **[10倍生产力]{s}**
 * **[10倍生产力 | 我是小鱼 | 伍佰章 | Douyin](https://v.douyin.com/Hjzxem9OFl4/)**
   - [SKILL-book-to-skill](https://v.douyin.com/zY4DNdV90E4/)
   - [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)
 
+### 0
 ---
 ### 9999. Software | Books | Download
 **[dlpanda]{s}**

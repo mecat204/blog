@@ -2158,6 +2158,8 @@
     - [万灵绘卷:胜概 | Min: 00:31 | 001](https://v.douyin.com/MUWRdWE2KUQ/)
     - [万灵绘卷:化境 | Min: 00:29 | 002](https://v.douyin.com/OSr9VCklrr0/)
     - [万灵绘卷:羽栖 | Min: 00:22 | 027](https://v.douyin.com/IP5z5M3t_DA/)
+    - [万灵绘卷:曜境 | Min: 00:23 | 028](https://v.douyin.com/CvL5vOcOjpY/)
+    - [万灵绘卷:灵契 | Min: 00:25 | 029](https://v.douyin.com/9xGlsvdPQgU/)
 
 ---
 ### 0106. Forgotten
