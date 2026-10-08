@@ -2225,6 +2225,63 @@
   - [未来人KFK预言文字整理完整版](https://github.com/superwood001/doResearch/issues/5)
 
 ---
+### 0109. 鱼豆腐
+**[鱼豆腐]{s}**
+* **[鱼豆腐 | ✨是鱼豆腐不是臭豆腐 ✨清风明月持续更新中 | 佰章 | Douyin](https://v.douyin.com/YKH84J2fdao/)**
+
+  ---
+  **[001. 清风明月]{s}**
+    - [Min: 06:55 | 001](https://v.douyin.com/GoRTAgjiHpc/)
+    - [Min: 04:57 | 002](https://v.douyin.com/_ID4wG8Qspw/)
+    - [Min: 01:24 | 003](https://v.douyin.com/YsXg-yrKpaY/)
+    - [Min: 02:31 | 004](https://v.douyin.com/xDKen7LLrSM/)
+    - [Min: 03:45 | 005](https://v.douyin.com/KgBlTM2-oM0/)
+    - [善民村篇 第五集 | Min: 02:54 | 006](https://v.douyin.com/vn_lGFmK0rY/)
+
+---
+### 0110. 夢劇場D-Drama·cp
+**[夢劇場D-Drama]{s}**
+* **[夢劇場D-Drama | 10.4K subscribers | YTB](https://www.youtube.com/@%E5%A4%A2%E5%8A%87%E5%A0%B4D-Drama)**
+  - [女儿锦 | Min: 01:03:06 | 001](https://www.youtube.com/watch?v=TgK7lUVnS2o)
+
+---
+### 0111. 关关剧场
+**[关关剧场]{s}**
+* **[关关剧场 | 58.4K subscribers | YTB](https://www.youtube.com/@%E5%85%B3%E5%85%B3%E5%89%A7%E5%9C%BA/videos)**
+  - [武统江湖](https://www.youtube.com/watch?v=uz80awfPMDE)
+
+---
+### 0112. 观星AI
+**[观星AI]{s}**
+* **[观星AI | AIGC 🎨 魔法师 🧙 学无止境 不断尝试 | 佰章](https://v.douyin.com/t8jsvGbbEcQ/)**
+  - [循长阶入云，见天宫无声](https://v.douyin.com/JU2tFeRjfQQ/)
+
+  ---
+  **[001. 观星雅集]{g}**
+    - [望海潮·东南形胜 北宋·柳永 | Min: 00:44 | 001](https://v.douyin.com/Gv7VYEFeIMA/)
+
+    ---
+    - [卜算子·送鲍浩然之浙东 | 北宋·王观 | Min: 00:22 | 002](https://v.douyin.com/fFp4uSLfuJw/)
+
+    ---
+    - [望江南·超然台作 | 北宋·苏轼 寒食烟雨后，且将新火试新茶 | 003](https://v.douyin.com/6LdsdediBfo/)
+
+    ---
+    - [江城子·浣花溪上见卿卿 张泌 | 004](https://v.douyin.com/Dz4xltsdOWs/)
+
+    ---
+    - [唐多令·芦叶满汀洲 南宋·刘过 | 005](https://v.douyin.com/2526iixPeYw/)
+
+    ---
+    - [诉衷情·小桃灼灼柳鬖鬖 北宋·黄庭坚 小桃灼灼柳鬖鬖，春色满江南。| Min: 00:25 | 006](https://v.douyin.com/s1bQoZnw49c/)
+
+    ---
+    - [雨霖铃·寒蝉凄切 | Min: 00:46 | 007](https://v.douyin.com/7Qy-P2I0iro/)
+
+    ---
+    - [岳阳楼记·范仲淹 | Min: 02:09 | 008](https://v.douyin.com/UeqK9eO0wWY/)
+
+---
 ### 0200. 瑶光
 **[瑶光]{s}**
 * **[瑶光 | 做梦老手，AIGC新手，希望能跟粉丝们共同成长，欣赏美丽的梦中世界 | 佰章 | Douyin](https://v.douyin.com/tARwuM501uk/)**
@@ -2307,6 +2364,10 @@
 ---
 **[天天剧场]{s}**
 * **[天天剧场 | 23.4K subscribers | YTB](https://www.youtube.com/@%E5%A4%A9%E5%A4%A9%E5%89%A7%E5%9C%BA-f6c/videos)**
+
+---
+**[AI影视天堂]{s}**
+* **[AI影视天堂 | 3.83K subscribers | YTB](https://www.youtube.com/@tk7777-z4y/videos)**
 
 ---
 **[Dragon Animation Club]{s}**
@@ -2422,6 +2483,30 @@
 ---
 **[云曜剧场]{s}**
 * **[云曜剧场 | 312 subscribers | YTB](https://www.youtube.com/@%E4%BA%91%E6%9B%9C%E5%89%A7%E5%9C%BA)**
+
+---
+### 0302. 方桃子
+**[方桃子]{e}**
+* **[方桃子 | 桃子🍑 是AI虚拟人](https://v.douyin.com/keLOh2u3FhQ/)**
+  - [《被裁掉的女孩》桃子事业番外篇 | Min: 05:06 | 001](https://v.douyin.com/29MqsMg4njc/)
+
+---
+### 0303. whata-ha
+**[whata-ha]{s}**
+* **[whata-ha | 狗儿鹅儿一体机](https://v.douyin.com/o_pfrBeHH9I/)**
+
+  ---
+  **[001. TheAccient]{g}**
+    - [Min: 05:05 | 001](https://v.douyin.com/cpSVkJ6ZAhw/)
+    - [Min: 07:54 | 002](https://v.douyin.com/z4EK-4fcgsQ/)
+    - [Min: 10:10 | 003](https://v.douyin.com/v1ZvrGScfmY/)
+    - [Min: 09:41 | 004](https://v.douyin.com/FHONlEJRSfk/)
+    - [Min: 10:31 | 005](https://v.douyin.com/cMcnOE6xK0E/)
+    - [Min: 10:12 | 006](https://v.douyin.com/InfcWEQm3TE/)
+    - [Min: 10:58 | 007](https://v.douyin.com/habSXpc5cs8/)
+    - [Min: 11:26 | 008](https://v.douyin.com/3q97BQImb4E/)
+    - [Min: 08:56 | 009](https://v.douyin.com/rFSLa5Vbe8Y/)
+    - [Min: 14:42 | 010](https://v.douyin.com/GnRg_Ar3HUI/)
 
 ---
 ### 9999. Download
