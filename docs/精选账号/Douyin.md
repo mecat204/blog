@@ -278,10 +278,13 @@
 ---
 ### 0009. 2025
 **[周大人]{e}**
-* **[周大人 | 想做什么，就直接做 想成为什么，就直接成为。 | 伍佰章 | Douyin](https://v.douyin.com/rnDt8nF3Spg/)**
+* **[周大人 | 是个大人了.. 想做什么，就直接做 想成为什么，就直接成为。 | 伍佰章 | Douyin](https://v.douyin.com/rnDt8nF3Spg/)**
 
-  - **[个人网站 · AI协作 · obsidian](https://www.kayayaozhou.com)**
-    * **[xiaoer's 私人弹药库](https://tools.xiaoerai.xyz/)**
+  ---
+  **[001. Jane-xiaoer]{e}**
+    - [Jane-xiaoer](https://github.com/Jane-xiaoer)
+    - [个人网站·AI协作·obsidian](https://www.kayayaozhou.com)
+    - [xiaoer's 私人弹药库](https://tools.xiaoerai.xyz/)
 
   ---
   - [当你开始站在自己的位置上 再去看信息 你就不会被带着走 也不会急着否定一切](https://v.douyin.com/sWZXaKVqSTY/)
