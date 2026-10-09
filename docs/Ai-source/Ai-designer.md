@@ -224,6 +224,16 @@
   - [集|普通人如何积累资本：在AI时代寻找生存之道 | 005](https://v.douyin.com/R0s-Tkohk6g/)
 
 ---
+### 0015. LibTV
+**[LibTV]{s}**
+* **[LibTV | 专业AI视频创作平台 | 叁佰章 | Douyin](https://v.douyin.com/lSxt9wZsVzk/)**
+
+  ---
+  **[001. 功能上新]{s}**
+    - [全网首发｜HappyHorse1.0现已登陆LibTV 🐎放马过来—— ✅视频生成三模式：支持文生视频、图生视频、参考图生成视频，可生成15秒多镜头叙事、多画幅适配及1080P超分输出。| 001](https://v.douyin.com/M_A8mhXDYYM/)
+    - [LibTV 首发模型 Vidu Q4 Preview 真实情绪表达，多种运镜方式 | 002](https://v.douyin.com/Sj1znGld96Q/)
+
+---
 ### 9999. Download
 **[必应]{s}**
 * **[必应 | bing.com](https://cn.bing.com/)**

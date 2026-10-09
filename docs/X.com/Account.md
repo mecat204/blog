@@ -329,7 +329,17 @@
   - [SKILL-book-to-skill](https://v.douyin.com/zY4DNdV90E4/)
   - [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)
 
-### 0
+---
+### 0101. 耶莱加德 · Douyin
+**[耶莱加德]{s}**
+* **[耶莱加德 | 本事不大，创造神话，想学习更多赶紧关注 错过了就得等下次刷到了 | 叁佰章 | Douyin](https://v.douyin.com/YPjU-_kM9p0/)**
+  - [开源跨平台屏幕控制项目](https://v.douyin.com/qvJJaDwk1ds/)
+
+  ---
+  **[Github]{g}**
+  - [billd-desk](https://github.com/galaxy-s10/billd-desk)
+  - [BilldDesk远程桌面软件-免费流畅的远程连接电脑手机](https://desk.hsslive.cn/#/)
+
 ---
 ### 9999. Software | Books | Download
 **[dlpanda]{s}**

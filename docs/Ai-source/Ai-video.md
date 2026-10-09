@@ -1956,8 +1956,18 @@
 ---
 ### 0085. 科普君不讲废话
 **[科普君不讲废话]{s}**
-* **[科普君不讲废话](https://v.douyin.com/JItsZoWBemA/)**
+* **[科普君不讲废话 | 不讲废话，只讲真相 | 佰章 | Douyin](https://v.douyin.com/JItsZoWBemA/)**
   - [如果复制出一个完整的你，他还是你吗](https://v.douyin.com/cNSxWAkiKL8/)
+
+  ---
+  **[001. 科学家与外星人]{g}**
+    - [死掉的宇宙，正在给我们发消息 | Min: 02:15 | 001](https://v.douyin.com/SiiuBl9aMy0/)
+    - [未来的你，正在给现在的你泄露记忆 | Min: 02:26 | 015](https://v.douyin.com/wbOt7qXv3Ls/)
+    - [那些“不可能的巧合”，可能不是巧合 | Min: 02:08 | 021](https://v.douyin.com/1j058ga_guU/)
+    - [你看到的世界，可能从来都不是真实世界 | Min: 02:25 | 022](https://v.douyin.com/P3YH4SBKPHU/)
+    - [人为什么怕死？因为我们永远相信，还有下一次 | Min: 01:53 | 023](https://v.douyin.com/OTB8qbiceCc/)
+    - [圆周率刚刚变了：有人正在数学之外修改宇宙 | Min: 01:59 | 024](https://v.douyin.com/tE_nS9tVH_0/)
+    - [也许所有生命里的“我”，其实是同一个 | Min: 01:45 | 028](https://v.douyin.com/hFoeD82YSGI/)
 
 ---
 ### 0086. 米果Vlog · Huge Cat
@@ -2034,6 +2044,53 @@
   - [现实生活中真有这样的建模吗](https://v.douyin.com/2ewK7FYnMKk/)
   - [你们喜欢这个时期的韩立吗](https://v.douyin.com/nZrQ_cn9yGA/)
   - [假如你是韩立，手里有一颗可以直接晋升元婴的丹药，你会给她吗](https://v.douyin.com/gbQi1zWI6Xo/)
+
+---
+### 0096. 哈喽TERRY
+**[哈喽TERRY]{s}**
+* **[哈喽TERRY | 🎵原创AI音乐《归墟已远》《小马巡更》《神仙传之劝世曲》作者 | 叁佰章](https://v.douyin.com/9FZ5ruBViH4/)**
+
+  ---
+  **[001. 神仙传]{s}**
+    - [神仙传之左慈 | Min: 05:36 | 001](https://v.douyin.com/vz3WaZsIYuo/)
+
+    ---
+    - [神仙传之左慈 | Min: 05:03 | 002](https://v.douyin.com/vz3WaZsIYuo/)
+
+    ---
+    - [神仙传之葛洪01 | Min: 04:18 | 003](https://v.douyin.com/AtL3OPUr7c8/)
+    - [神仙传之葛洪02 | Min: 04:42 | 004](https://v.douyin.com/2VnO6mr1mD4/)
+    - [神仙传之葛洪03 | Min: 05:50 | 005](https://v.douyin.com/-Yi-vpKs1PQ/)
+    - [神仙传之葛洪04 | Min: 04:35 | 006](https://v.douyin.com/yH9-3I85-Rs/)
+
+    ---
+    - [神仙传之王灵官01 | Min: 04:18 | 007](https://v.douyin.com/4kD3V-pdFUM/)
+    - [神仙传之王灵官02 | Min: 04:33 | 008](https://v.douyin.com/C8RnYqZ0z3I/)
+
+    ---
+    - [神仙传之赵公明01 | Min: 05:38 | 009](https://v.douyin.com/6ugAjPsX3U8/)
+    - [神仙传之赵公明02 | Min: 04:15 | 010](https://v.douyin.com/8G-vi0we_ns/)
+    - [神仙传之赵公明03 | Min: 04:29 | 011](https://v.douyin.com/TCELHWu0qUk/)
+    - [神仙传之赵公明04 | Min: 05:25 | 012](https://v.douyin.com/Zt5G7PsLZ_Y/)
+    - [神仙传之赵公明05 | Min: 04:15 | 013](https://v.douyin.com/mSrRtlkDDdM/)
+
+---
+### 0097. 编导阿白
+**[编导阿白]{s}**
+* **[编导阿白 | 梦到啥就做啥，灵感收集中... | 佰章 | Douyin](https://v.douyin.com/Uul21XbtDtk/)**
+  - [流浪不是宿命，被爱照亮的瞬间，便有了归处。 愿漂泊的生灵，皆有归处 | Min: 03:30 | 001](https://v.douyin.com/3yPSq4Lx5nw/)
+
+---
+### 0098. FelizAnna
+**[FelizAnna]{e}**
+* **[FelizAnna | 🦋AIGC导演/创作者/☁️AI音乐人 🎬新片场Shotlab签约艺术家](https://v.douyin.com/XyT-yjYFAjI/)**
+  - [AI原创科幻片《AWAKENING》](https://v.douyin.com/ebWxufEpk-w/)
+
+  ---
+  **[001. 返月计划]{g}**
+    - [返月计划 01 | Min:01:49 | 001](https://v.douyin.com/fA1logLKXCE/)
+    - [返月计划 07 | Min:01:54 | 007](https://v.douyin.com/rHeWOBHJMEo/)
+    - [返月计划 10 | Min:01:36 | 010](https://v.douyin.com/pGC82s9clLk/)
 
 ---
 ### 0100. Arvin Lab
