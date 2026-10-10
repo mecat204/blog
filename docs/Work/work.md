@@ -841,4 +841,9 @@ wmic os get LastBootUpTime
 * **[慧眼看书 | 图书推荐 | 慧眼看](https://huiyankan.com)**
 
 ---
+### 0014. 青书学堂
+**[青书学堂]{s}**
+* **[青书学堂 | 青颖飞帆官方网站_让在线教育变得，更便宜、更便利、更高质量](https://www.qingshuxuetang.com/)**
+
+---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
