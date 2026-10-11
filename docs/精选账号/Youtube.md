@@ -4766,6 +4766,18 @@ moc = un + cenx
   - [Family Album USA](https://www.youtube.com/playlist?list=PL9HYJmV5PkwfJQqcXzYcAFnp6OT-gcbWi)
 
 ---
+### 8000. Forklift Knowledge
+**[Animagraffts]{s}**
+* **[Animagraffs | I'm Jake O'Neal, and I make 3D animated explainer videos that strive to be accurate and smart, but also entertaining. | 我是杰克·奥尼尔，我制作3D动画解释视频，力求准确、聪明，同时又有趣。| 1.94M subscribers | YTB]()**
+  - [How a Car Engine Works](https://www.youtube.com/watch?v=ZQvfHyfgBtA)
+  - [How a Jet Airliner Works](https://www.youtube.com/watch?v=NZLbTuBDhJg)
+
+---
+**[Cody’s Equipment]{s}**
+* **[Cody’s Equipment | 4.07K subscribers | YTB](https://www.youtube.com/@Codysequipment/videos)**
+  - [How to operate a forklift](https://www.youtube.com/watch?v=v0tj5xM6g_k)
+
+---
 ### 9999. Download
 **[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**
