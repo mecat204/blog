@@ -4778,6 +4778,16 @@ moc = un + cenx
   - [How to operate a forklift](https://www.youtube.com/watch?v=v0tj5xM6g_k)
 
 ---
+**[SAIF Corporation]{s}**
+* **[SAIF Corporation | 6.06K subscribers | YTB](https://www.youtube.com/@SAIFCorporation/videos)**
+  - [How to operate a forklift safely: Safety procedures and principles](https://www.youtube.com/watch?v=qshh-5BL8ow)
+
+---
+**[SafetyVideos.com]{s}**
+* **[SafetyVideos.com | 80.3K subscribers | YTB](https://www.youtube.com/watch?v=xD9CYjql0Pk)**
+  - [Forklift Training Video](https://www.youtube.com/watch?v=xD9CYjql0Pk)
+
+---
 ### 9999. Download
 **[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**
