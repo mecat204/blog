@@ -1,4 +1,4 @@
-### 001. 端口
+### 0001. 端口
 * **端口号在一定程度下是约定俗成的**
 | 端口   | 常见用途                |
 | ---- | ------------------- |
@@ -9,7 +9,12 @@
 | 3000 | Node/React 本地开发端口   |
 | 5000 | Flask/Python 本地开发   |
 | 5173 | Vite 本地开发           |
-* **总结**
+
+---
+* **[总结]{s}**
   - 8443 用于 HTTPS 测试服务，是一种惯例，尤其常见于 Java 系生态。
   - 3000 更偏向前端或 Node.js 本地开发使用，通常是 HTTP 而非 HTTPS。
   - 你完全可以修改端口，比如让 HTTPS 服务跑在 3000，只是这样会违背某些默认配置或安全策略。
+
+---
+![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
