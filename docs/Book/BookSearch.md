@@ -38,7 +38,7 @@
 ### 0001. 搜书
 **[中信书院]{s}**
 * **[中信书院 | 中信出版集团旗下官方账号 嘉宾邀约｜企业培训｜商务合作 | 萬章 | Douyin](https://v.douyin.com/i2tlEVYUMsc/)**
-  - [30-40岁是人生最痛苦的阶段 来源：看理想](https://v.douyin.com/UJFA4VDnO_4/)
+  - [30-40岁是人生最痛苦的阶段 来源：看理想 | 杰克伦敦传](https://v.douyin.com/UJFA4VDnO_4/)
 
 ---
 **[希希哈哈]{e}**
