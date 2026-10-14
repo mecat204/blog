@@ -191,6 +191,12 @@
     - [第十一集 | 《奥日与萤火意志》 全收集全流程攻略 | Min: 31:26 | 011](https://v.douyin.com/BhY5xhM97V0/)
 
 ---
+### 0017. 农夫
+**[农夫]{s}**
+* **[Claude Opus 5.5](https://v.douyin.com/Q99qqWMdCaI/)**
+  - [Claude Opus 5.5 + Blender + 3D AI + Unity 6 独自制作一款治愈系钓鱼游戏…… 诀窍在于让每个工具只负责一项任务，但搭建的方式其实有巧思： - 步骤1：使用Tripo Smart Mesh P2生成所有3D模型：手掌、岩石、码头、小船、小屋、角色 - 步骤2：通过MCP将Claude Code连接至Blender - 步骤3：Opus 5.5在Blender中完成各模型的设置：包括缩放、枢轴点、材质处理及干净导出 - 步骤4：Opus也可在Blender中制作动画：角色的行走、演员阵容、操纵杆、水面上的船 - 步骤 5：将所有内容导入 Unity 6 并搭建场景：森林、河流、瀑布、海滩、码头 - 步骤6：逐个添加各系统：行走、钓鱼、诱饵选择、时段 - 步骤7：每完成一个步骤后就运行测试，每次只修复一个问题 分工说明： > Tripo：3D 模型平台 > Opus 5.5 搭配 Blender：设置与动画制作 > Unity 6：开放世界与游戏体验 一人、一套卡组、一款你真正想玩的游戏]{lb}
+
+---
 ### 0100. 油管推广广告
 **[Foundation: Galactic Frontier]{s}**
 * **[Foundation: Galactic Frontier](https://www.foundation.game/en)**

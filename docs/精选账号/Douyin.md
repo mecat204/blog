@@ -77,6 +77,11 @@
   - [脆皮的身体](https://v.douyin.com/IbLH-ZqUCPU/)
 
 ---
+**[鸿紫·升笙莲]{e}**
+* **[鸿紫·升笙莲 | 升笙莲功效养生馆模式总结：把“传承百年以上的中翳馆”简化开成功效型养生馆 | 佰章 | Douyin](https://v.douyin.com/ZwEB0yzadto/)**
+  - [当你反复窥探命运时，最后却发现](https://v.douyin.com/XYDIlJvFhWM/)
+
+---
 **[珍珠珍珠.]{e}**
 * **[珍珠珍珠. | 佰章 | Douyin](https://v.douyin.com/XGX3mqqOlQw/)**
   - [呜呜呜呜呜 | 单板 | 花式摔跤 | 滑雪教学 | 单板滑雪 | 刻滑](https://v.douyin.com/aq6rcwHAT04/)

@@ -2381,6 +2381,21 @@
     - [永恒的不需要珍惜，会失去的才需要 | 013](https://v.douyin.com/Xj1QE_Sd80M/)
 
 ---
+### 0114. AI创可贴
+**[AI创可贴]{s}**
+* **[AI创可贴 | 《念念有神》 | 佰章 | Douyin](https://v.douyin.com/KbEalY7Ndds/)**
+
+  ---
+  **[念念有神]{s}**
+    - [念念有神 | 01-04 | Min: 21:01 | 005](https://v.douyin.com/VsLBXpVrz1w/)
+    - [念念有神 | 05-07 | Min: 18:00 | 009](https://v.douyin.com/IFsVGUWhGvg/)
+    - [念念有神 | 08-13 | Min: 22:52 | 010](https://v.douyin.com/z5LzKGx5Z0k/)
+    - [念念有神 | Min: 05:20 | 017](https://v.douyin.com/btJuHxHfUtY/)
+    - [念念有神 | Min: 04:55 | 018](https://v.douyin.com/csIFhRZ2k2c/)
+    - [念念有神 | Min: 05:21 | 019](https://v.douyin.com/szfc0AcXQHc/)
+    - [念念有神 | Min: 03:43 | 020 | 我已参透AI](https://v.douyin.com/uGeverJiYV0/)
+
+---
 ### 0200. 瑶光
 **[瑶光]{s}**
 * **[瑶光 | 做梦老手，AIGC新手，希望能跟粉丝们共同成长，欣赏美丽的梦中世界 | 佰章 | Douyin](https://v.douyin.com/tARwuM501uk/)**
@@ -2582,6 +2597,15 @@
 ---
 **[云曜剧场]{s}**
 * **[云曜剧场 | 312 subscribers | YTB](https://www.youtube.com/@%E4%BA%91%E6%9B%9C%E5%89%A7%E5%9C%BA)**
+
+---
+**[memes video]{s}**
+* **[memes video | 8.32K subscribers | YTB](https://www.youtube.com/@suxiaomanju/videos)**
+  - [念念有神](https://www.youtube.com/watch?v=tWoqS5-qBo4)
+
+---
+**[关关剧场🎥]{s}**
+* **[关关剧场🎥 | 59.7K subscribers | YTB](https://www.youtube.com/@%E5%85%B3%E5%85%B3%E5%89%A7%E5%9C%BA/videos)**
 
 ---
 ### 0302. 方桃子
