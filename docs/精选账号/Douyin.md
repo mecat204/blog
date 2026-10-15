@@ -823,6 +823,15 @@
 
 ---
 ### 0010. 2026
+**[夏天 | (读博版)]{e}**
+* **[夏天 | (读博版)  | 某985工科在读博士 分享生活～分享日常～共勉](https://v.douyin.com/RinkCW_61qg/)**
+  - [投了100份简历一个面试都没有](https://v.douyin.com/Sf9DaF-xJFQ/)
+
+---
+**[适小鱼·美食]{e}**
+* **[陕西烩麻食](https://v.douyin.com/dKpWDrEfT28/)**
+
+---
 **[细古]{e}**
 * **[细古 | 笑口常开，好运自来 | 仟章 | Douyin](https://v.douyin.com/V7tZ0TXY86o/)**
   - [隐翅虫 我真的没辙了 一只虫子20天一点效果都没有 到底要涂什么才会好](https://v.douyin.com/EvYb0OjBiR0/)
