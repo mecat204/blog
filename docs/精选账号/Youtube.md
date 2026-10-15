@@ -2938,27 +2938,27 @@
 ---
 ### 0021. Travel the world
 **[National Geographic]{s}**
-* **[National Geographic | 2610万 | YTB](https://www.youtube.com/@NatGeo/videos)**
+* **[National Geographic | 26.5M subscribers | YTB](https://www.youtube.com/@NatGeo/videos)**
   - **[Antarctica: Home at the End of the Earth (Full Episode) | Incredible Animal Journeys | 南极：地球尽头的家（完整版）| 不可思议的动物之旅](https://www.youtube.com/watch?v=eS6a6btDK8M)**
 
 ---
 **[Dots on a Map]{s}**
-* **[Dots on a Map | 19.1万 | YTB](https://www.youtube.com/@DotsonaMap/videos)**
+* **[Dots on a Map | 224K subscribers | YTB](https://www.youtube.com/@DotsonaMap/videos)**
   - **[TRAVELING TO ANTARCTICA](https://www.youtube.com/watch?v=RhVN3COuXdQ)**
 
 ---
 **[Best Travel]{s}**
-* **[Best Travel | 6.55万 | YTB](https://www.youtube.com/@BestTravel2/videos)**
+* **[Best Travel | 112K subscribers | YTB](https://www.youtube.com/@BestTravel2/videos)**
   - **[Living in the Philippines | How People Live Across 7,000 Islands | 4K ](https://www.youtube.com/watch?v=0gB1P1g5IwE)**
 
 ---
 **[Where on Earth]{s}**
-* **[Where on Earth | 2.05万 | YTB](https://www.youtube.com/@WhereonEarth4K/videos)**
+* **[Where on Earth | 62.9K subscribers | YTB](https://www.youtube.com/@WhereonEarth4K/videos)**
   - **[BALI: The Real Indonesia Most Tourists Never Find | 4K Travel Documentary | 巴厘岛：大多数游客永远找不到的真实印度尼西亚 |4K旅行纪录片](https://www.youtube.com/watch?v=12AI0Mg-Ajo)**
 
 ---
 **[Allison Anderson]{s}**
-* **[Allison Anderson | 106万 | YTB](https://www.youtube.com/@allisonanderson/videos)**
+* **[Allison Anderson | 1.06M subscribers | YTB](https://www.youtube.com/@allisonanderson/videos)**
 
   ---
   **[Personal website]{s}**
@@ -3049,7 +3049,7 @@
 
 ---
 **[Dr. Shadé Zahrai]{e}**
-* **[Dr. Shadé Zahrai | 144万 | YTB](https://www.youtube.com/@Dr.ShadeZahrai/videos)**
+* **[Dr. Shadé Zahrai | 1.48M subscribers | YTB](https://www.youtube.com/@Dr.ShadeZahrai/videos)**
   - [5 Signs you're Struggling with Anxiety + 3 Ways to Overcome It](https://www.youtube.com/watch?v=Vv2tm_eVB4k)
 
   ---
@@ -3058,12 +3058,12 @@
 
 ---
 **[The Savage Narrator]{g}**
-* **[The Savage Narrator | 16.5万 | YTB](https://www.youtube.com/@TheSavageNarrator/videos)**
+* **[The Savage Narrator | 170K subscribers | YTB](https://www.youtube.com/@TheSavageNarrator/videos)**
   - [50 Money Secrets That Feels Illegal to Know](https://www.youtube.com/watch?v=kymwGHSEXAk)
 
 ---
 **[Rodica - The Foreign Sun]{e}**
-* **[Rodica - The Foreign Sun | 17.9万 | YTB](https://www.youtube.com/@TheForeignSunEnglish)**
+* **[Rodica - The Foreign Sun | 219K subscribers | YTB](https://www.youtube.com/@TheForeignSunEnglish)**
   - [My Mistakes & Failures as a 34-Year-Old](https://www.youtube.com/watch?v=t5-n1iSXKmw)
   - [How I Got My American Accent](https://www.youtube.com/watch?v=Exc7nqVF9pU)
   - [How to Practice English by Yourself](https://www.youtube.com/watch?v=bFwFwRuvw_M&list=PLfGkLjkgpXSDqJtFZALwMBgM5P25NEZvr)
@@ -3071,13 +3071,13 @@
 
 ---
 **[Albina Sultanova]{e}**
-* **[Albina Sultanova | 10.8万 | YTB](https://www.youtube.com/@lovenglish_4u/videos)**
+* **[Albina Sultanova | 122K subscribers | YTB](https://www.youtube.com/@lovenglish_4u/videos)**
   - [Do’s & Don’ts of Learning English](https://www.youtube.com/watch?v=Z3gqMqmO4MY)
   - [Confusing Phrasal verbs with multiple meanings](https://www.youtube.com/watch?v=flgIMOxTFMo)
 
 ---
 **[Easy English With Cat]{e}**
-* **[Easy English With Cat | 2.84万 | YTB](https://www.youtube.com/@EasyEnglishWithCat/videos)**
+* **[Easy English With Cat | 49K subscribers | YTB](https://www.youtube.com/@EasyEnglishWithCat/videos)**
   - [speak English language easy.](https://www.youtube.com/watch?v=7coI6NkzEa8)
   - [Why you can’t speak English](https://www.youtube.com/watch?v=7coI6NkzEa8)
   - [How I’d Learn Any Language from 0](https://www.youtube.com/watch?v=DWLbUzrEPFo)
@@ -3088,34 +3088,34 @@
 
 ---
 **[English by Jay - Sprout]{s}**
-* **[English by Jay - Sprout | 49.1万 | YTB](https://www.youtube.com/@englishbyjay.official/videos)**
+* **[English by Jay - Sprout | 682K subscribers | YTB](https://www.youtube.com/@englishbyjay.official/videos)**
   - [En: Speak with Jay-i on Sprout 🌱 Immerse yourself in English to become fluent.]{s}
   - [Cn: 在Sprout 🌱上与Jay-i对话，沉浸在英语中，变得流利.]{g}
 
 ---
 **[Massi's World]{e}**
-* **[Massi's World | 2.66万 | YTB](https://www.youtube.com/@MassiWorld/videos)**
+* **[Massi's World | 26.7K subscribers | YTB](https://www.youtube.com/@MassiWorld/videos)**
   - [Don’t Make These Mistakes!– Vocabulary](https://www.youtube.com/watch?v=wu9-BM-SHQw)
 * **[Massi's World | tiktok](https://www.tiktok.com/@massiworld1)**
 
 ---
 **[Learn English with Bob the Canadian]{s}**
-* **[Learn English with Bob the Canadian | 251万 | YTB](https://www.youtube.com/@LearnEnglishwithBobtheCanadian/videos)**
+* **[Learn English with Bob the Canadian | 2.6M subscribers | YTB](https://www.youtube.com/@LearnEnglishwithBobtheCanadian/videos)**
   - [How to Remember New English Vocabulary](https://www.youtube.com/watch?v=NaXrzSjsMdI)
 
 ---
 **[克雷兒 Claire]{e}**
-* **[克雷兒 Claire | 38.3万 | YTB](https://www.youtube.com/@clairesenglish/videos)**
+* **[克雷兒 Claire | 417K subscribers | YTB](https://www.youtube.com/@clairesenglish/videos)**
   - [20分鐘一次學會！問路、交通、購物🛍️等獨旅英文](https://www.youtube.com/watch?v=CNg2645n-AE)
 
 ---
 **[English At The Ready]{s}**
-* **[English At The Ready | 79.5万 | YTB](https://www.youtube.com/@englishattheready/videos)**
+* **[English At The Ready | 936K subscribers | YTB](https://www.youtube.com/@englishattheready/videos)**
 * **[englishattheready](https://www.englishattheready.com/start)**
 
 ---
 **[Volka English]{s}**
-* **[Volka English | 117万 | YTB](https://www.youtube.com/@VolkaEnglish/videos)**
+* **[Volka English | 1.59M subscribers | YTB](https://www.youtube.com/@VolkaEnglish/videos)**
   - [Learn English in Nature With My Mom | Comprehensible Input Vlog](https://www.youtube.com/watch?v=9ledjiOXnvo)
 
 ---
@@ -3129,102 +3129,102 @@
 
 ---
 **[Kina's English self-study Room]{s}**
-* **[Kina's English self-study Room]()**
+* **[Kina's English self-study Room](https://kynaenglish.com/)**
 
 ---
 **[Alanna & Ivor]{s}**
-* **[Alanna & Ivor | YTB | 195万](https://www.youtube.com/@AlannaandIvor/videos)**
+* **[Alanna & Ivor | 2M subscribers | YTB](https://www.youtube.com/@AlannaandIvor/videos)**
   - [Furniture Shopping for the new house](https://www.youtube.com/watch?v=toy0Tdrk3Ok)
 
 ---
 **[Zhirelle]{s}**
-* **[Zhirelle | YTB | 127万](https://www.youtube.com/@Zhirelle/videos)**
+* **[Zhirelle | 1.37M subscribers | YTB](https://www.youtube.com/@Zhirelle/videos)**
   - [ultimate PREP & PACK for traveling! | essentials, shopping, packing tips, aesthetic travel days](https://www.youtube.com/watch?v=X7OcpUyHQUg)
 
 ---
 **[Taylor Bell]{e}**
-* **[Taylor Bell | YTB | 88.6万](https://www.youtube.com/@TaylorBell/videos)**
+* **[Taylor Bell | 961K subscribers | YTB](https://www.youtube.com/@TaylorBell/videos)**
   - [New Zealand VLOG: 2 Weeks Roadtripping the South Island | Queenstown, Milford Sound, Wānaka & Mor](https://www.youtube.com/watch?v=nqmrFegVTEA)
 
 ---
 **[Amber Alexander]{e}**
-* **[Amber Alexander | YTB | 43万](https://www.youtube.com/@amberalexander/videos)**
+* **[Amber Alexander | YTB | 438K subscribers](https://www.youtube.com/@amberalexander/videos)**
   - [IRELAND GIRLS TRIP](https://www.youtube.com/watch?v=OT816vE9eaM)
 
 ---
 ### 0024. Gather
 **[Amy Natalie]{e}**
-* **[Amy Natalie | 2.14万 | YTB](https://www.youtube.com/@amy.natalie/videos)**
+* **[Amy Natalie | 26K subscribers | YTB](https://www.youtube.com/@amy.natalie/videos)**
   - [living a "boring" life | a quiet life in the countryside](https://www.youtube.com/watch?v=8ma_MSmqd2c)
 
 ---
 **[Elena Taber]{e}**
-* **[Elena Taber | 86.5万 | Travel | 旅行者 | YTB](https://www.youtube.com/@ElenaTaber/videos)**
+* **[Elena Taber | 865K subscribers | Travel | 旅行者 | YTB](https://www.youtube.com/@ElenaTaber/videos)**
 
 ---
 **[Sydney Serena]{e}**
-* **[Sydney Serena | 20岁博主 | 博主 & 生活方式 / 美妆 时尚内容创作者 | 385万 | YTB](https://www.youtube.com/@SydneySerena)**
+* **[Sydney Serena | 20岁博主 | 博主 & 生活方式 / 美妆 时尚内容创作者 | 3.94M subscribers | YTB](https://www.youtube.com/@SydneySerena)**
 
 ---
 **[Lana Blakely]{e}**
-* **[Lana Blakely | 生活方式、人生体验、哲学思考、自我成长和社交话题讨论 | 166万 | YTB](https://www.youtube.com/@LanaBlakely/videos)**
+* **[Lana Blakely | 生活方式、人生体验、哲学思考、自我成长和社交话题讨论 | 1.64M subscribers | YTB](https://www.youtube.com/@LanaBlakely/videos)**
 
 ---
 **[Taylor Bell]{e}**
-* **[Taylor Bell | YTB | 88.6万](https://www.youtube.com/@TaylorBell/videos)**
+* **[Taylor Bell | YTB | 961K subscribers](https://www.youtube.com/@TaylorBell/videos)**
 
 ---
 **[inayah]{e}**
-* **[inayah | 30.1万 | YTB](https://www.youtube.com/@inayah0/videos)**
+* **[inayah | 334K subscribers | YTB](https://www.youtube.com/@inayah0/videos)**
 
 ---
 **[Birta Hlin]{e}**
-* **[Birta Hlin | 时尚穿搭 | 47.4万 | YTB](https://www.youtube.com/@birtahlin/videos)**
+* **[Birta Hlin | 时尚穿搭 | 530K subscribers | YTB](https://www.youtube.com/@birtahlin/videos)**
 
 ---
 **[Volka English]{g}**
-* **[Volka English | 117万 | YTB](https://www.youtube.com/@VolkaEnglish/videos)**
+* **[Volka English | 1.59M subscribers | YTB](https://www.youtube.com/@VolkaEnglish/videos)**
 
 ---
 **[English by Jay]{s}**
-* **[English by Jay - Sprout | 49.1万 | YTB](https://www.youtube.com/@englishbyjay.official/videos)**
+* **[English by Jay - Sprout | 682K subscribers | YTB](https://www.youtube.com/@englishbyjay.official/videos)**
 
 ---
 **[Kyle Kotajarvi | 风景]{s}**
-* **[Kyle Kotajarvi | trying to capture a feeling | 6.66万 | YTB](https://www.youtube.com/@kyle_kotajarvi/videos)**
+* **[Kyle Kotajarvi | trying to capture a feeling | 101K subscribers | YTB](https://www.youtube.com/@kyle_kotajarvi/videos)**
 * **[kylekotajarvi](https://kylekotajarvi.com)**
 
 ---
 **[Isabel Paige]{e}**
-* **[Isabel Paige | 95.3万 | YTB](https://www.youtube.com/@isabel_paige/videos)**
+* **[Isabel Paige | 952K subscribers | YTB](https://www.youtube.com/@isabel_paige/videos)**
 
 ---
 **[TheCottageFairy]{e}**
-* **[TheCottageFairy | 乡村 | 书籍分享 | 106万 | YTB](https://www.youtube.com/@TheCottageFairy)**
+* **[TheCottageFairy | 乡村 | 书籍分享 | 1.61M subscribers | YTB](https://www.youtube.com/@TheCottageFairy)**
 
 ---
 **[Ariannita la Gringa]{e}**
-* **[Ariannita la Gringa | 202万  | YTB](https://www.youtube.com/@ariannitalagringa)**
+* **[Ariannita la Gringa | 2.15M subscribers  | YTB](https://www.youtube.com/@ariannitalagringa)**
 
 ---
 **[Leah's English 莉雅老师]{e}**
-* **[Leah's English 莉雅老师 | 20万 | YTB](https://www.youtube.com/@Leah%E7%9A%84%E5%B0%8F%E6%97%A5%E8%AE%B0/videos)**
+* **[Leah's English 莉雅老师 | 235K subscribers | YTB](https://www.youtube.com/@Leah%E7%9A%84%E5%B0%8F%E6%97%A5%E8%AE%B0/videos)**
 
 ---
 **[Girls Gone Bible]{e}**
-* **[Girls Gone Bible | 86.5万 | YTB](https://www.youtube.com/@GirlsGoneBible/videos)**
+* **[Girls Gone Bible | 877K subscribers | YTB](https://www.youtube.com/@GirlsGoneBible/videos)**
 
 ---
 **[Apple]{g}**
-* **[Apple | 2060万 | YTB](https://www.youtube.com/@Apple/videos)**
+* **[Apple | 21.1M subscribers | YTB](https://www.youtube.com/@Apple/videos)**
 
 ---
 **[Zhirelle]{g}**
-* **[Zhirelle | YTB | 127万](https://www.youtube.com/@Zhirelle/videos)**
+* **[Zhirelle | YTB | 1.37M subscribers](https://www.youtube.com/@Zhirelle/videos)**
 
 ---
 **[The Balance Theory Podcast]{e}**
-* **[The Balance Theory Podcast | 高阶 | 26.3万 | YTB](https://www.youtube.com/@thebalancetheorypodcast)**
+* **[The Balance Theory Podcast | 高阶 | 319K subscribers | YTB](https://www.youtube.com/@thebalancetheorypodcast)**
 
 ---
 **[The Diary Of A CEO]{s}**
@@ -3235,33 +3235,35 @@
 
 ---
 **[Taylor Swift]{e}**
-* **[Taylor Swift | 6310万 | YTB](https://www.youtube.com/@TaylorSwift/videos)**
+* **[Taylor Swift | 63.5M subscribers | YTB](https://www.youtube.com/@TaylorSwift/videos)**
 
 ---
 **[Miki Rai | 挪威]{e}**
-* **[Miki Rai | 142万 | YTB](https://www.youtube.com/@mikirai/videos)**
+* **[Miki Rai | 1.42M subscribers | YTB](https://www.youtube.com/@mikirai/videos)**
 
 ---
 **[NASA]{s}**
-* **[NASA | 1270万 | YTB](https://www.youtube.com/@NASA/featured)**
+* **[NASA | 15.1M subscribers | YTB](https://www.youtube.com/@NASA/featured)**
 
 ---
 **[martine skaret]{e}**
-* **[martine skaret | 2.12万 | YTB](https://www.youtube.com/@martinejskaret/videos)**
+* **[martine skaret | 29.2K subscribers | YTB](https://www.youtube.com/@martinejskaret/videos)**
 
 ---
 **[English 1314]{s}**
-* **[English 1314 | 9.51万 | YTB](https://www.youtube.com/@English1314_%E5%AD%B8%E8%8B%B1%E8%AA%9E/videos)**
+* **[English 1314 | 113K subscribers | YTB](https://www.youtube.com/@English1314_%E5%AD%B8%E8%8B%B1%E8%AA%9E/videos)**
   - [逛超市別再只會指！購物、問路、結帳英文一次學會｜B1-B2](https://www.youtube.com/watch?v=l3gAhRtGIA0)
+  - [睡前聽英文真的有效嗎？2小時精選故事＋助眠音樂，睡醒英文變好了｜高校練耳朵｜English 1314](https://www.youtube.com/watch?v=CGgZ9EEGCwU)
+  - [Trickbird](https://trickybird.com/)
 
 ---
 **[VibeEnglish]{s}**
-* **[VibeEnglish | 65.4万 | YTB](https://www.youtube.com/@vibeenglishlearning/videos)**
+* **[VibeEnglish | 696K subscribers | YTB](https://www.youtube.com/@vibeenglishlearning/videos)**
   - **[学英文最有效的方法？跟读就对了！美国人每天在说的300句｜零基础到进阶｜Shadowing 影子跟读｜英语听力训练｜Learn English with Podcast｜Episode 4](https://www.youtube.com/watch?v=5a1Ok3-dLmI)**
 
 
 **[Squarespace | website]{s}**
-* **[Squarespace | 10.7万 | YTB](https://www.youtube.com/@squarespace/videos)**
+* **[Squarespace | 107K subscribers | YTB](https://www.youtube.com/@squarespace/videos)**
 
   - [En: Squarespace empowers millions of dreamers, makers, and doers by providing them with the tools they need to bring their creative ideas to life.]{s}
   - [Cn: Squarespace通过提供实现创意的工具，赋能数百万梦想家、创作者和实践者。]{g}
@@ -3279,7 +3281,7 @@
 
 ---
 **[Kristin 英语老师 | 星海·人间道]{e}**
-* **[Kristin 英语老师 | 14.6万 | YTB](https://www.youtube.com/@Kristin-Laoshi/videos)**
+* **[Kristin 英语老师 | 148K subscribers | YTB](https://www.youtube.com/@Kristin-Laoshi/videos)**
   - [Ordering food in English compilation | 001](https://www.youtube.com/watch?v=td4-y5cLyT0)
   - [Funny restaurant English compilation](https://www.youtube.com/watch?v=1JFayrFb4Dk)
 
