@@ -2671,53 +2671,101 @@
 ### 0017. 学爸加加油
 **[学爸加加油]{s}**
 * **[学爸加加油](https://xuebajiajiayou.com)**
-  - [**英文科普，YTBYTB频道推荐(科普/教育/工程/奇趣/自然/手工等)**](https://xuebajiajiayou.com/english-science-popularization-youtube-channel/)
-    **泛科普类**
-      1. **Kurzgesagt - In a Nutshell**
-      1. **Science Channel**
-      1. **minutephysics**
-      1. **TED-Ed**
-      1. **Domain of Science**
-      1. **Peekaboo Kidz**
-      1. **Space Videos**
+  - [英文科普，YTB频道推荐(科普/教育/工程/奇趣/自然/手工等)](https://xuebajiajiayou.com/english-science-popularization-youtube-channel/)
+    * [Free web proxy to open blocked sites | TrickyBird](https://trickybird.com/)
 
     ---
-    **在家上学类(Homeschooling)**
-      1. **Free School**
-      1. **Homeschool Pop**
-      1. **CrashCourse**
-      1. **Learn Bright**
+    **[001. 泛科普类]{g}**
+      - [001. Kurzgesagt - In a Nutshell | 25.7M subscribers | YTB](https://www.youtube.com/@kurzgesagt/videos)
+
+      ---
+      - [002. Science Channel | 5.38M subscribers | YTB](https://www.youtube.com/@sciencechannel/videos)
+
+      ---
+      - [003. minutephysics | 5.99M subscribers | YTB](https://www.youtube.com/@MinutePhysics/videos)
+
+      ---
+      - [004. TED-Ed | 23M subscribers | YTB](https://www.youtube.com/@TEDEd/videos)
+
+      ---
+      - [005. Domain of Science | 1.67M subscribers | YTB](https://www.youtube.com/@DomainofScience/videos)
+
+      ---
+      - [006. Peekaboo Kidz | 7.87M subscribers | YTB](https://www.youtube.com/@Peekaboo_Kidz/videos)
+
+      ---
+      - [007. VideoFromSpace | 2.15M subscribers | YTB](https://www.youtube.com/@VideoFromSpace/videos)
 
     ---
-    **工程机械、工作原理类**
-      1. **Jared Owen**
-      1. **Lesics**
-      1. **Art of Engineering**
-      1. **Animagraffs**
-      1. **Branch Education**
+    **[002. 在家上学类(Homeschooling)]{g}**
+      - [001. Free School | 903K subscribers | YTB](https://www.youtube.com/@freeschool/videos)
+
+      ---
+      - [002. Homeschool Pop | 1.75M subscribers | YTB](https://www.youtube.com/@HomeschoolPop/videos)
+
+      ---
+      - [003. CrashCourse | 17.2M subscribers | YTB](https://www.youtube.com/@crashcourse/videos)
+
+      ---
+      - [004. Learn Bright | 1M subscribers | YTB](https://www.youtube.com/@LearnBright/videos)
 
     ---
-    **奇闻逸趣类**
-      1. **Bright side**
-      1. **BE AMAZED**
+    **[003. 工程机械、工作原理类]{g}**
+      - [001. Jared Owen | 4.44M subscribers | YTB](https://www.youtube.com/@JaredOwen/videos)
+
+      ---
+      - [002. Sabin Civil Engineering | 6.97M subscribers | YTB](https://www.youtube.com/@SabinCivil/videos)
+        * [Railway power lines | The Art of keeping them STRAIGHT](https://www.youtube.com/watch?v=8MCfWPpJhXM&list=PLISEtDmihMo3LTrcJ4TUSwhoMKawp2RNz)
+        * [Lesics (full playlist)](https://www.youtube.com/playlist?list=PLISEtDmihMo3LTrcJ4TUSwhoMKawp2RNz)
+
+      ---
+      - [003. Art of Engineering | 259K subscribers | YTB](https://www.youtube.com/@ArtofEngineering/videos)
+
+      ---
+      - [004. Animagraffs | 1.94M subscribers | YTB](https://www.youtube.com/@animagraffs/videos)
+
+      ---
+      - [005. Branch Education | Branch Education | YTB](https://www.youtube.com/@BranchEducation/videos)
 
     ---
-    **人文历史类**
-      1. **Knowledgia**
-      1. **The Great War**
-      1. **Mytholoy & Fiction Explained**
-      1. **History on Maps**
+    **[004. 奇闻逸趣类]{g}**
+      - [001. Bright side | 44.5M subscribers | YTB](https://www.youtube.com/@BRIGHTSIDEOFFICIAL/videos)
+
+      ---
+      - [002. BE AMAZED | 13.5M subscribers | YTB](https://www.youtube.com/@BeAmazed/videos)
 
     ---
-    **动植物自然类**
-      1. **Nat Geo Kids**
-      1. **BBC Earth**
-      1. **Brave Wilderness**
+    **[005. 人文历史类]{g}**
+      - [001. Knowledgia | 2.2M subscribers | YTB](https://www.youtube.com/@Knowledgia/videos)
+
+      ---
+      - [002. The Great War  | 1.89M subscribers | YTB](https://www.youtube.com/@TheGreatWar/videos)
+
+      ---
+      - [003. Mytholoy & Fiction Explained | 1.55M subscribers | YTB](https://www.youtube.com/@MythologyFictionExplained/videos)
+
+      ---
+      - [004. History on Maps | 417K subscribers | YTB](https://www.youtube.com/@historyonmaps/videos)
 
     ---
-    **少儿新闻类**
+    **[006. 动植物自然类]{g}**
+      - [001. Nat Geo Kids | 2.07M subscribers | YTB](https://www.youtube.com/@natgeokids/videos)
+
+      ---
+      - [002. BBC Earth | 14.6M subscribers | YTB](https://www.youtube.com/@bbcearth/videos)
+
+      ---
+      - [003. Brave Wilderness | 21.8M subscribers | YTB](https://www.youtube.com/@BraveWilderness/videos)
+
+    ---
+    **[007. 少儿新闻类]{g}**
+      - [001. NBC News | 12.2M subscribers | YTB](https://www.youtube.com/@NBCNews/videos)
+
+      ---
+      - [002. BBC Newsround | 164K subscribers | YTB](https://www.youtube.com/@BBCNewsroundOfficial/videos)
+
+      ---
       1. **NBC News (Nightly News: Kids Edition)**
-      1. **BBC Newsround**
 
     ---
     **手动制作类**
