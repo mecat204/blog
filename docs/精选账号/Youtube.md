@@ -240,15 +240,24 @@
 
 ---
 **[Cav和Rose]{s}**
-* **[Cav和Rose | 二百章 | Douyin](https://v.douyin.com/uMQ0Bw2LjsU/)**
+* **[Cav和Rose | 伍佰章 | Douyin](https://v.douyin.com/uMQ0Bw2LjsU/)**
   - [大家都在问我是怎么获得中国五星卡的? 中国五星卡 | 2026我的新春vlog](https://v.douyin.com/Ozn12rzT8Xs/)
 
+  ---
+  **[Rose看中国电车]{s}**
+    - [美国姑娘试驾小米SU7](https://v.douyin.com/2hTfV2VOsqM/)
+    - [美国人探访全球最大车展](https://v.douyin.com/wiDc7271iUg/)
+    - [美国人探访北京车展](https://v.douyin.com/BnVduuSCAGI/)
+    - [中国人太懒了](https://v.douyin.com/L1sZdfaf0UE/)
+
+
 **[BeeRose in China]{e}**
-* **[BeeRose in China | 76.9K subscribers | YTB](https://www.youtube.com/@beeroseinchina/videos)**
+* **[BeeRose in China | 78.2K subscribers | YTB](https://www.youtube.com/@beeroseinchina/videos)**
+  - [China’s Crazy New Double-Decker Car BLEW my MIND | Xiaomi SkyNomad N70 Max and N90 Max Tour](https://www.youtube.com/watch?v=xkbRvEDepcU)
 
 ---
 **[English Fluency Journey]{e}**
-* **[English Fluency Journey | 2.23M subscribers | YTB](https://www.youtube.com/@EnglishFluencyJourney)**
+* **[English Fluency Journey | 2.24M subscribers | YTB](https://www.youtube.com/@EnglishFluencyJourney)**
 
   - [En: I’m Anna and welcome to my channel.]{s}
   - [Cn: 我是安娜，欢迎来到我的频道。]{g}
@@ -275,13 +284,14 @@
 
   - [Learn English with The Super Mario Bros Movie](https://www.youtube.com/watch?v=6QRwxvEyhts)
 
-  ---
-  **[website]{e}**
-  * **[English Fluency Journey | Hanna Khoma](https://www.englishfluencyjourney.com/)**
+
+**[English Fluency Journey]{e}**
+* **[English Fluency Journey | Hanna Khoma](https://www.englishfluencyjourney.com/)**
 
 ---
 **[Jonna Jinton·瑞典]{e}**
 * **[Jonna Jinton | 5.25M subscribers | 瑞典 | YTB](https://www.youtube.com/@jonnajinton)**
+  - [Free web proxy to open blocked sites | TrickyBird](https://trickybird.com/)
 
   - [En: My name is Jonna Jinton, I'm a Swedish artist, musician and filmmaker and I live in the beautiful woods in the North of Sweden.]{s}
   - [Cn: 我叫Jonna Jinton，是一名瑞典艺术家、音乐家和电影制作人，住在瑞典北部美丽的森林里。]{g}
@@ -303,13 +313,13 @@
   - [Cn: 希望你会喜欢我的视频！♥]{g}
 
   ---
-  - **[Living with the Dark Winters in Sweden |Midnight sun & Polar night | 与瑞典的黑暗冬天共存 | 午夜太阳与极夜](https://www.youtube.com/watch?v=3zTR4ayDG38)**
-  - **[Winter Days in the North | Working Through the Darkest Time of the Year | 北方冬日 | 度过一年中 最黑暗的时刻](https://www.youtube.com/watch?v=j3iFHM3dcBI)**
-  - []()
+  - [Living with the Dark Winters in Sweden |Midnight sun & Polar night | 与瑞典的黑暗冬天共存 | 午夜太阳与极夜](https://www.youtube.com/watch?v=3zTR4ayDG38)
+  - [Winter Days in the North | Working Through the Darkest Time of the Year | 北方冬日 | 度过一年中 最黑暗的时刻](https://www.youtube.com/watch?v=j3iFHM3dcBI)
+  - [Days at My Mountain Cabin in Northern Sweden](https://www.youtube.com/watch?v=lMmCgfQ18Bk)
 
 ---
 **[Miss Jean Teaches]{e}**
-* **[Miss Jean Teaches | 125K subscribers | YTB](https://www.youtube.com/@missjeanteaches)**
+* **[Miss Jean Teaches | 126 subscribers | YTB](https://www.youtube.com/@missjeanteaches)**
 
 * **[英语学习Pie | 百章 | Douyin](https://v.douyin.com/nBEOloJekdk/)**
   - **[全英VLOG｜学语言必须"从第一天就开口"？](https://v.douyin.com/o1MYbBcmiok/)**
@@ -317,14 +327,16 @@
 
 ---
 **[KevinFeng 冯凯文]{s}**
-* **[KevinFeng 冯凯文 | 112K subscribers | YTB](https://www.youtube.com/@IAmKevinFeng)**
+* **[KevinFeng 冯凯文 | 113K subscribers | YTB](https://www.youtube.com/@IAmKevinFeng)**
   - [1个习惯带你直接听懂英文，让你英文听力像母语一样强](https://www.youtube.com/watch?v=t-kOwCmtcmA)
   - [用YTB足不出户从0自学流利英文！20+个难度分级自学频道推荐！｜GDS 007](https://www.youtube.com/watch?v=0UY0bbE5I1w)
   - [2本能让你逆袭人生的英文书，只要高中水平就能读懂！](https://www.youtube.com/watch?v=L2B1NhxfvIw)
 
+  - [OIO App · 记录生活，无痛用英文](https://yueyantech.com/app.html)
+
 ---
 **[PRIMAL EARTH · 4K]{s}**
-* **[PRIMAL EARTH | 152K subscribers |YTB | 4K](https://www.youtube.com/@primalearth8951)**
+* **[PRIMAL EARTH | 153K subscribers | YTB](https://www.youtube.com/@primalearth8951)**
 
   - [En: Our mother planet "Earth" and the vibrancy of life on it.]{s}
   - [Cn: 我们的母星"地球"以及它上生命的生机勃勃。]{g}
@@ -338,11 +350,11 @@
   - [Cn: 美丽壮观的风景和动物们依然在等待你！]{g}
 
   ---
-  - **[National Parks of the World Amazing Views 4K](https://www.youtube.com/watch?v=cfbrsPKm_5k)**
+  - [National Parks of the World Amazing Views 4K](https://www.youtube.com/watch?v=cfbrsPKm_5k)
 
 ---
 **[4k Films by Adnan]{s}**
-* **[4k Films by Adnan | 199K subscribers | YTB](https://www.youtube.com/@4kfilmsbyadnan)**
+* **[4k Films by Adnan | 207K subscribers | YTB](https://www.youtube.com/@4kfilmsbyadnan)**
 
   - [En: Hi, I’m Adnan of the 4k Films by Adnan channel.]{s}
   - [Cn: 你好，我是Adnan频道4k Films的Adnan。]{g}
@@ -372,13 +384,13 @@
   - Adnan 电子邮件：4kfilmsbyadnan@gmail.com
 
   ---
-  - **[Russia in 4K - Incredible Scenes & Hidden Gems](https://www.youtube.com/watch?v=HWuDdsmZmv8)**
-  - **[China in 4K - Incredible Scenes & Uncovering Hidden Gems](https://www.youtube.com/watch?v=6yQH9jUqttE)**
-  - **[Patagonia in 4K - Incredible Scenes & Uncovering Hidden Gems](https://www.youtube.com/watch?v=z8Gw2p2vRr0)**
+  - [Russia in 4K - Incredible Scenes & Hidden Gems](https://www.youtube.com/watch?v=HWuDdsmZmv8)
+  - [China in 4K - Incredible Scenes & Uncovering Hidden Gems](https://www.youtube.com/watch?v=6yQH9jUqttE)
+  - [Patagonia in 4K - Incredible Scenes & Uncovering Hidden Gems](https://www.youtube.com/watch?v=z8Gw2p2vRr0)
 
 ---
 **[4K Relaxation Channel]{s}**
-* **[4K Relaxation Channel | 1.05M subscribers | YTB | 4K](https://www.youtube.com/@RelaxationChannel)**
+* **[4K Relaxation Channel | 1.05M subscribers | YTB](https://www.youtube.com/@RelaxationChannel)**
 
   - [En: 4K Relaxation Channel in sensational 4K and 8K resolution features spectacular nature videos perfect for deep relaxation, meditation, study, sleep, healing, stress relief and more in the industry-leading, detail-oriented 4K quality that brings nature into your home.]{s}
   - [Cn: 4K放松频道以惊艳的4K和8K分辨率呈现壮观的自然视频，适合深度放松、冥想、学习、睡眠、疗愈、减压等，采用行业领先的细节导向4K画质，将大自然带入你的家中。]{g}
@@ -412,18 +424,17 @@
   - [Cn: 如果您想在任何项目中使用我们的视频，请通过联系我们获取许可 proartinc1@gmail.com 如果您想支持我们的创意工作，请访问我们的在线商店 www.proartinc.net 和 www.beautifulwashington.com/shop/nature-relaxation-videos.html ，您可以在那里购买支持我们的产品。]{g}
 
   ---
-  - **[无人机镜头 - 克罗地亚、欧洲的鸟瞰图 - 3 小时无人机环境电影 | 4K](https://www.youtube.com/watch?v=HSsqzzuGTPo&list=PL-_vMUSUXkyep9L7dxNjDKVZ2wJqtuzW3)**
+  - [无人机镜头 - 克罗地亚、欧洲的鸟瞰图 - 3 小时无人机环境电影 | 4K](https://www.youtube.com/watch?v=HSsqzzuGTPo&list=PL-_vMUSUXkyep9L7dxNjDKVZ2wJqtuzW3)
 
 ---
-**[4K休闲频道]{s}**
-* **[4K休闲频道 | ProArtInc | Douyin | 二百章](https://v.douyin.com/uuEFJKfRBsc/)**
+**[4K休闲频道]{e}**
+* **[4K休闲频道 | ProArtInc | 叁佰章 | Douyin](https://v.douyin.com/uuEFJKfRBsc/)**
   - [助眠 | 冥想](https://v.douyin.com/gF8j1U_F5qU/)
-  - **[ProArtInc](https://proartinc.net/)**
+  - [ProArtInc](https://proartinc.net/)
 
 ---
-**[Scenic Relaxation]{s}**
-* **[Scenic Relaxation | 1.76M subscribers |  YTB | 4K](https://www.youtube.com/@ScenicRelaxationFilms)**
-
+**[Scenic Relaxation·4K]{s}**
+* **[Scenic Relaxation | 1.76M subscribers | YTB](https://www.youtube.com/@ScenicRelaxationFilms)**
   - [En: The goal at Scenic Relaxation is to provide relaxing 4K films of the world's most incredible destinations.]{s}
   - [Cn: Scenic Relaxation的目标是提供世界上最不可思议目的地的放松4K影片。]{g}
 
@@ -435,12 +446,12 @@
   - [En: Relax and enjoy the scenery of our beautiful world :)]{s}
   - [Cn: 放松，欣赏我们美丽世界的风景:)]{g}
 
-  - **[Kamchatka 4K - Scenic Relaxation Film With Calming Music](https://www.youtube.com/watch?v=aaflSqm2LLY)**
-  - **[Japan 4K - Scenic Relaxation Film With Calming Music](https://www.youtube.com/watch?v=D48T0wNm96w)**
+  - [Kamchatka 4K - Scenic Relaxation Film With Calming Music](https://www.youtube.com/watch?v=aaflSqm2LLY)
+  - [Japan 4K - Scenic Relaxation Film With Calming Music](https://www.youtube.com/watch?v=D48T0wNm96w)
 
 ---
 **[Relaxation Film]{s}**
-* **[Relaxation Film | 五十章  | 4K | Douyin](https://v.douyin.com/17pgl3YprfA/)**
+* **[Relaxation Film | 佰章  | 4K | Douyin](https://v.douyin.com/17pgl3YprfA/)**
   - [【4K 奥地利-哈尔施塔特】俯瞰恬静奥地利小镇，湖景峡湾宁静怡然   ](https://v.douyin.com/fUD3TSTWrkQ/)
 
 ---
@@ -574,20 +585,30 @@
 
 ---
 **[Dan Koe]{s}**
-* **[Dan Koe | 1.41M subscribers | YTB](https://www.youtube.com/@DanKoeTalks)**
+* **[Dan Koe | 1.44M subscribers | YTB](https://www.youtube.com/@DanKoeTalks)**
 
-* **[来点思考 | 一人公司→超级个体→自我实现 帮你把想不清楚的问题判断清楚 | 二百章 | Douyin](https://v.douyin.com/OkNpJEuLTEg/)**
+* **[来点思考 | 超级个体→自我实现 人生中，万事万物都有答案  | 仟章 | Douyin](https://v.douyin.com/OkNpJEuLTEg/)**
   - [AI加速学习](https://v.douyin.com/dJUjAceOkEg/)
   - [你还在慢慢学吗？用AI加速学习，10倍提高效率！  dankoe来点思考 AI  学习效率]{g}
   - [两周就能学会任何技能，为什么你这么慢？](https://v.douyin.com/uYLph2ZzDRA/)
+  - [写给有野心但迷失的人：你没有掉队——Matt](https://v.douyin.com/3XyB9atN4qs/)
 
-* **[dankoe | 大家好，让我们一起6个月改变人生 | 百章 | Douyin](https://v.douyin.com/tN4bvreV5vE/)**
-  - [如何让人生进步十倍（完整指南） How To Make Progress 10X Faster In Life (Full Guide)](https://v.douyin.com/XyQq7MkQ4hI/)
+  ---
+  - [6个迟来的人生真相，避开害人的鸡汤](https://v.douyin.com/zwfaPgjEdS4/)
+  - [Sandeep Swadia | 1.63M subscribers |  YTB](https://www.youtube.com/@SandeepSwadia/videos)
+
+  ---
+  - [4k Films by Adnan | 207K subscribers | YTB](https://www.youtube.com/@4kfilmsbyadnan/videos)
+    * [Bolivia in 4K - Incredibible Scenes & Hidden Gems | Music](https://www.youtube.com/watch?v=56U-OdXF9eQ)
+
+  ---
+  - [4K Planet Earth | 30.2K subscribers | Music](https://www.youtube.com/@planet_earth68/videos)
+    * [Tibet 4K Cinematic Footage - Drone Nature Film With Epic Cinematic Music](https://www.youtube.com/watch?v=GyoOuUbXGyY)
 
 ---
 **[4kUrbanLife]{s}**
 * **[4kUrbanLife | 360K subscribers | YTB](https://www.youtube.com/@4kUrbanLife)**
-  - **[4K Cities of The World: Krakow, Poland](https://www.youtube.com/watch?v=3CfLia_6TU0&list=PLQggNzW0_YA9OlYAoIS5Vp-gRp8kF3EcS)**
+  - [4K Cities of The World: Krakow, Poland](https://www.youtube.com/watch?v=3CfLia_6TU0&list=PLQggNzW0_YA9OlYAoIS5Vp-gRp8kF3EcS)
 
 ---
 **[The English Class]{s}**
@@ -596,7 +617,7 @@
 
 ---
 **[Biubiu仔仔]{s}**
-* **[Biubiu仔仔 | 沉浸式练习英语口语 | 百章 | Douyin](https://v.douyin.com/MUMd0LtI8WE/)**
+* **[Biubiu仔仔 | 沉浸式练习英语口语 | 佰章 | Douyin](https://v.douyin.com/MUMd0LtI8WE/)**
   - [How to Speak English Fluently？](https://v.douyin.com/2bueQ6v6XVo/)
   - [How to Speak English Fluently？ Do you want to speak English fluently? Do you feel nervous when you try to speak? In this video, we will help you! We will teach you step by step, in very easy English. You will learn how to speak clearly, how to practice every day, and how to stop being afraid.]{g}
 
@@ -658,6 +679,7 @@
 ---
 **[🇨🇭 SWISS - Most Beautiful Places & Walking Tours]{s}**
 * **[🇨🇭 SWISS - Most Beautiful Places & Walking Tours | 瑞士 | 102K subscribers subscribers | YTB](https://www.youtube.com/@SWISS_WalkingTours)**
+  - [Free web proxy to open blocked sites | TrickyBird](https://trickybird.com/)
 
   - [En: Welcome to our YouTube channel dedicated to the breathtaking beauty of Switzerland!]{s}
   - [Cn: 欢迎来到我们的YouTube频道，专注于瑞士令人叹为观止的美景！]{g}
@@ -709,7 +731,7 @@
   - [Cn: 闭上眼睛，深呼吸，让你的灵魂在这宁静的空间中找到平静。]{g}
 
   ---
-  - **[音乐疗法🌿 修复神经系统，停止过度思考 | 舒缓压力的放松音乐](https://www.youtube.com/watch?v=ecrL5FHBmFA)**
+  - [音乐疗法🌿 修复神经系统，停止过度思考 | 舒缓压力的放松音乐](https://www.youtube.com/watch?v=ecrL5FHBmFA)
 
 ---
 ### 0004. Learn English Vlog
@@ -2768,20 +2790,28 @@
       1. **NBC News (Nightly News: Kids Edition)**
 
     ---
-    **手动制作类**
-      1. **5-Minute Crafts PLAY**
-      1. **Art for Kids Hub**
-      1. **Brick Builder(乐高)**
+    **[008. 手动制作类]{g}**
+      - [001. 5-Minute Crafts PLAY | 19.9M subscribers | YTB](https://www.youtube.com/@5MinuteCraftsPLAY/videos)
+
+      ---
+      - [002. Art for Kids Hub | 10.6M subscribers | YTB](https://www.youtube.com/@artforkidshub/videos)
+
+      ---
+      - [003. Brick Builder(乐高) | 2.83M subscribers | YTB](https://www.youtube.com/@brickbuilder23/videos)
 
     ---
-    **Minecraft**
-      1. **Funny Mikey**
-      1. **Maizen**
-      1. **LockDownLife**
+    **[009. Minecraft]{g}**
+      - [001. Funny Mikey | 14.5M subscribers | YTB](https://www.youtube.com/@FunnyMike225/videos)
+
+      ---
+      - [002. Maizen | 17.8M subscribers | YTB](https://www.youtube.com/@maizenofficial/videos)
+
+      ---
+      - [003. LockDownLife | 2.46M subscribers | YTB](https://www.youtube.com/@LockDownLife/videos)
 
 ---
 **[泛科普类]{s}**
-* **[Kurzgesagt – In a Nutshell | 2510万 | YTB](https://www.youtube.com/@kurzgesagt/videos)**
+* **[Kurzgesagt – In a Nutshell | 25.7M subscribers | YTB](https://www.youtube.com/@kurzgesagt/videos)**
   - [En: Animation videos explaining things with optimistic nihilism since 12,013.]{s}
   - [Cn: 自12,013年以来，动画视频以乐观虚无主义的方式解释事物。]{g}
 
@@ -2831,7 +2861,7 @@
 ---
 ### 0018. 小道必可观(YTB)
 **[小道必可观(YTB)]{s}**
-* **[小道必可观(YTB) | 关注我外网热门视频一网打尽，我的知识不够，你的评论来凑。| 千章 | Douyin](https://v.douyin.com/WdfoxIT8Wm4/)**
+* **[小道必可观(YTB) | 关注我外网热门视频一网打尽，我的知识不够，你的评论来凑。| 仟章 | Douyin](https://v.douyin.com/WdfoxIT8Wm4/)**
 
   ---
   **[001. 老外说中国]{g}**

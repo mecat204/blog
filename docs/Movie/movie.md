@@ -25,7 +25,7 @@
     - [饭太硬](http://www.饭太硬.com/tv/)
     - [潇洒](https://9877.kstore.space/ONE/one.json)
     - [驸马](http://fmys.top/fmys.json)
-    - [王二小](https://9280.kstore.vip/newwex.json)
+    - [王贰小](https://9280.kstore.vip/newwex.json)
     - [巧计](http://cdn.qiaoji8.com/tvbox.json)
     - [影视仓01](https://bitbucket.org/xduo/cool/raw/main/room.json)
     - [影视仓01](https://12586.kstore.space/123.json)
@@ -437,7 +437,7 @@
       * **[罗马假日彩色版](https://www.bilibili.com/video/BV1gm42147tn/?spm_id_from=333.788.recommend_more_video.-1&trackid=web_related_0.router-related-2589621-btjjl.1786479291717.551)**
   * **[cz4k](https://www.cz4k.com/)**
       - [The Super Mario Bros. Movie | 超级马力欧兄弟大电影](https://www.cz4k.com/movie/5802.html)
-      - [凯瑟琳大帝第二季](https://www.cz4k.com/v_play/bXZfNTI2Ny1ubV8x.html)
+      - [凯瑟琳大帝第贰季](https://www.cz4k.com/v_play/bXZfNTI2Ny1ubV8x.html)
   * **[4kcz](https://www.4kcz.com/)**
 
 ---
@@ -455,12 +455,12 @@
 
 ---
 ### 0009. TV-小品
-* **[百家观察·相声小品](https://www.youtube.com/watch?v=tFcW-VJ_HR4&list=PLxD8kq6jJ87MAEhKQt0HNef0OxFiCdh4I)**
+* **[佰家观察·相声小品](https://www.youtube.com/watch?v=tFcW-VJ_HR4&list=PLxD8kq6jJ87MAEhKQt0HNef0OxFiCdh4I)**
 
 ---
 ### 0010. Douyin | 影视 | 云盘
 **[Also]{s}**
-* **[Also | 绘梦 | 百章 | Douyin](https://v.douyin.com/ImjTwLpQbNE/)**
+* **[Also | 绘梦 | 佰章 | Douyin](https://v.douyin.com/ImjTwLpQbNE/)**
   - [云山之间，仿佛有人在悄悄**绘梦** | midjourney | ai视频 | 审美积累 | mj | 治愈系风景](https://v.douyin.com/F7LCYbgH5Po/)
     * **[剑与魔法的世界]()**
     * **[铃芽之旅]()**
@@ -472,16 +472,16 @@
 
 ---
 **[雪谷]{s}**
-* **[雪谷 | 二次元创造者 | 国漫 新番 CG | 千章 | Douyin](https://v.douyin.com/zFmHa2Bs1Q8/)**
+* **[雪谷 | 贰次元创造者 | 国漫 新番 CG | 仟章 | Douyin](https://v.douyin.com/zFmHa2Bs1Q8/)**
   - [十三境以下关我阿良十三境巅峰什么事](https://v.douyin.com/bzO6QzQ3eNo/)
   - [宁姑娘，下次见面便是告白了](https://v.douyin.com/wqONccfOmvo/)
   - [君子不救，但圣人当仁不让](https://v.douyin.com/omnbAh_ntWg/)
-  - [谁家祖师堂准备遭殃了 | 剑来人间百万章](https://v.douyin.com/exUkorrA9Ss/)
+  - [谁家祖师堂准备遭殃了 | 剑来人间佰万章](https://v.douyin.com/exUkorrA9Ss/)
   - [去迎 去追 去梦 去战天涯](https://v.douyin.com/2lZO4acj9TQ/)
 
 ---
 **[油条]{s}**
-* **[油条 | 就是为了一口醋才包的这盘饺子 | 百章 | Douyin](https://v.douyin.com/-XNcSkBl_pw/)**
+* **[油条 | 就是为了一口醋才包的这盘饺子 | 佰章 | Douyin](https://v.douyin.com/-XNcSkBl_pw/)**
   - [臣本布衣，躬耕南阳，苟全性命于乱世，不求闻达于诸侯](https://v.douyin.com/1ETZ6_BbNIo/)
   - **[日月蹉跎，人已将老，而功业未建](https://v.douyin.com/rOb8oV5FTMQ/)**
     * [长安三万里 | Chang An | 动漫 | 2023年](https://pan.quark.cn/s/31f2c6108d16#/list/share)
@@ -523,7 +523,7 @@
 
 ---
 **[初代风华]{s}**
-* **[初代风华 | 二百章 | Douyin](https://v.douyin.com/4bP-iJ_VmqA/)**
+* **[初代风华 | 贰佰章 | Douyin](https://v.douyin.com/4bP-iJ_VmqA/)**
   - [人生如白驹过隙，转眼即逝](https://v.douyin.com/MpmfQO2QLLw/)
   - [岂不闻光阴如骏马加鞭，日月如落花流水，哪有不倒的道理](https://v.douyin.com/an31Xx55zNU/)
   - [独属于中国人的浪漫诗词](https://v.douyin.com/To3iLkbNVcs/)
@@ -547,12 +547,12 @@
 
 ---
 **[俗电影]{s}**
-* **[俗电影 | 正在做一部电影！ 专业剖析 | 百章 | Douyin](https://v.douyin.com/xWGXaElGdJs/)**
+* **[俗电影 | 正在做一部电影！ 专业剖析 | 佰章 | Douyin](https://v.douyin.com/xWGXaElGdJs/)**
   - [2010年它横空出世，如今十六年过去还是没有一个能打的 | 猫屎一号](https://v.douyin.com/uIZ2w8EvRvs)
 
 ---
 **[木七说]{s}**
-* **[木七说 | 没事讲点故事 更多好片等你解锁 | 百章 | Douyin](https://v.douyin.com/IVdUx_ywN3A/)**
+* **[木七说 | 没事讲点故事 更多好片等你解锁 | 佰章 | Douyin](https://v.douyin.com/IVdUx_ywN3A/)**
   - [先点炸药后点烟，不敢想象这一口到底有多爽 | 卡洛斯 | **生化危机3**](https://v.douyin.com/lHwLmY1PyGY/)
   - [为什么仅凭这一个画面，就能让无数人血液沸腾 |**爱死机 | 秘密战争**](https://v.douyin.com/IScebduFYAg/)
   - [五颗是普通人的天花板，但不是我的天花板 | 这就是命 | 王迅](https://v.douyin.com/1DHuvtJ0YpQ/)
@@ -566,7 +566,7 @@
 
 ---
 **[2025]{s}**
-* **[2025 | 热爱生活。传递正能量 | 二十章 | Douyin](https://v.douyin.com/9rXyRh16xF4/)**
+* **[2025 | 热爱生活。传递正能量 | 贰十章 | Douyin](https://v.douyin.com/9rXyRh16xF4/)**
   - [谈判高手的精彩瞬间](https://v.douyin.com/UvvL1q-B_c4/)
   - [想改变世界 从叠被子开始](https://v.douyin.com/Yd7WhfxmH_o/)
   - [**奇异博士** | 英国演员 | **本尼迪克特·康伯巴奇**](https://v.douyin.com/VmfbrO7Vq_E/)
@@ -576,16 +576,16 @@
 
 ---
 **[挑灯夜剪]{s}**
-* **[挑灯夜剪 | 抖音解说'过江之鲫 我心所向' | Spartacus | 权游 | 龙族 | 七国王的骑士 | 二百章 | Douyin](https://v.douyin.com/oMY4gmPw3gs/)**
+* **[挑灯夜剪 | 抖音解说'过江之鲫 我心所向' | Spartacus | 权游 | 龙族 | 七国王的骑士 | 贰佰章 | Douyin](https://v.douyin.com/oMY4gmPw3gs/)**
   - [身形虽小气场万丈，以勇毅为刃凭底气护北境的精神领袖-小熊女 | 了不起的精讲团](https://v.douyin.com/EnKz7KZd-n4/)
   - [不辜负每一份信任与支持。失去是常态，失败也是常态， 这便是人生。因为生命的韧性程度，要靠精神来反复打磨 | **七王国的骑士**](https://v.douyin.com/dImgWgku43U/)
   - [后之子"伊蒙德·坦格利安”喜提维斯特洛最大远古"瓦格哈儿" | 龙之家族 | **龙族**](https://v.douyin.com/wYDP3Tr3tcE/)
   - [传言丹妮莉丝空手套白狼，我不同意，这是明明是智勇双全的表现 | **权力的游戏·第三季**](https://v.douyin.com/spTei328uTk/)
-  - [伊耿《二世》降临，国王优柔寡断，储位摇摆不定， 红堡分裂为公主与王后两派](https://v.douyin.com/G5QsMbpO-VY/)
+  - [伊耿《贰世》降临，国王优柔寡断，储位摇摆不定， 红堡分裂为公主与王后两派](https://v.douyin.com/G5QsMbpO-VY/)
 
 ---
 **[英语雪梨老师]{s}**
-* **[英语雪梨老师 | 香港中文大学翻译硕士 | 二千章 | Douyin](https://v.douyin.com/KBw5U92lhwc/)**
+* **[英语雪梨老师 | 香港中文大学翻译硕士 | 贰仟章 | Douyin](https://v.douyin.com/KBw5U92lhwc/)**
   - [年兽的故事](https://v.douyin.com/Pp6E5207qkg/)
   - [春节一定要给孩子读这本～ Maisy’s Chinese New Year](https://v.douyin.com/OvBhfqii2KA/)
   - **[原音: a e i o u | 英语启蒙](https://v.douyin.com/L9j_bLhPiFk/**)**
@@ -678,24 +678,9 @@
 * **[韩剧网 | 最新韩国电视剧, 电影, 综艺, 韩剧TV](https://www.thanju.com/)**
 
 ---
-### 0013. kimivod | 动漫电影
-**[kimivod]{s}**
-  - [Kimivod | 電視劇 電影 動漫 綜藝 線上看](https://kimivod.org/)
-
----
-* **[疯狂原始人01](https://www.libvio.mov/play/116-1-1.html)**
-* **[疯狂原始人02](https://kimivod.com/vod/42679/1-2.html)**
-
----
-* **[寻梦环游记](https://www.4kvm.net/movies/xunfhyj)**
-
-* **[头脑特工队](https://kimivod.com/vod/42705/1-1.html)**
-* **[头脑特工队2](https://kimivod.com/vod/28308/1-1.html)**
-* **[人猿泰山 | 2013版](https://kimivod.com/vod/16758/1-1.html)**
-
-* **[辛普森一家](https://kimivod.com/vod/1523/1-1.html)**
-  - [辛普森一家第一季](https://kimivod.com/vod/5868/1-1.html)
-  - [辛普森一家第二季](https://kimivod.com/vod/5869/1-1.html)
+### 0013. hmvod
+**[hmvod]{s}**
+  - [hmvod | 電視劇 電影 動漫 綜藝 線上看](https://www.hmvod.com.hk/#/category/list)
 
 ---
 * **[童年时光的美好记忆 | 回顾40部欧美系译制动画片](https://www.douban.com/note/682870142/?_i=3801849Pu7UAEH)**
@@ -814,7 +799,7 @@
 * **哈利·波特与魔法石**
 * **哈利·波特与死亡**
 * **控方证人**
-* **十二怒汉**
+* **十贰怒汉**
 * **七宗罪**
 * **沉默的羔羊**
 * **非常嫌疑犯**
@@ -884,7 +869,7 @@
 * **源代码**
 * **盗梦空间**
 * **Loopers | 环形使者**
-* **二维世界**
+* **贰维世界**
 * **黑客帝国**
 * **创·战纪**
 * **云图**
@@ -958,7 +943,7 @@
 ---
 ### 0025. 电影美学 | 影视作品 | 回忆
 **[AC_Blue]{s}**
-* **[AC_Blue | 星光殷殷 其灿如言 | 千章 | Douyin](https://v.douyin.com/5TRXgPiNxz0/)**
+* **[AC_Blue | 星光殷殷 其灿如言 | 仟章 | Douyin](https://v.douyin.com/5TRXgPiNxz0/)**
   - [似乎一切事物的结局 都得由它收尾 | 眼泪](https://v.douyin.com/QxG7VMezsms/)
   - [两边都是我的亲人 也就觉着不害怕了 | 我们天上见](https://v.douyin.com/ThQvnhUp9hI/)
   - [万般皆下品 唯有读书高 | 侠女 | 胡金铨](https://v.douyin.com/9Kxrcy3LLGQ/)
@@ -966,14 +951,14 @@
 
 ---
 **[国光小卖部]{s}**
-* **[国光小卖部 | 我叫王国光 带你回到8090后的童年 童年零食下方橱窗 | 贰佰章](https://v.douyin.com/k1nKArmlczM/)**
+* **[国光小卖部 | 我叫王国光 带你回到8090后的童年 童年零食下方橱窗 | 贰佰章 | Douyin](https://v.douyin.com/k1nKArmlczM/)**
   - [快醒醒，你回到1987年了](https://v.douyin.com/ai6ctXx997Q/)
   - [一开口就是童年，一转眼就是半生](https://v.douyin.com/F70GThn0jfs/)
   - [童年的小伙伴们都谢幕了，而我们，是他们永不散场的观众。](https://v.douyin.com/XhGqrEErHxQ/)
 
 ---
 **[ilysol]{s}**
-* **[ilysol | 二百章 | Douyin](https://v.douyin.com/LFSJ0pMRDiA/)**
+* **[ilysol | 贰佰章 | Douyin](https://v.douyin.com/LFSJ0pMRDiA/)**
   - ["行了 大家聪明人 了解" | **鹿鼎记**](https://v.douyin.com/nxLF-YVOZPQ/)
   - [**柳如是**](https://v.douyin.com/xvmlq-tn-fQ/)
   - [他好像条狗啊 | **大话西游**](https://v.douyin.com/8ykx0mu5RpA/)
@@ -982,7 +967,7 @@
 
 ---
 **[阿智解说]{s}**
-* **[阿智解说 | 电影是生活的切片，透过镜头与表演 可以窥探到人性的幽徽和世界的广袤](https://v.douyin.com/Lb23hExLPcM/)**
+* **[阿智解说 | 电影是生活的切片，透过镜头与表演 可以窥探到人性的幽徽和世界的广袤 | 伍佰章 | Douyin](https://v.douyin.com/Lb23hExLPcM/)**
   - [《画魂》：从底层女性到一代画师，从青楼到画坛的传奇逆袭 | 画魂 | 巩俐](https://v.douyin.com/Pa0KTQRm6nU/)
 
 ---
@@ -1051,25 +1036,25 @@
 * **角斗士**
 * **美丽心灵**
 * **芝加哥**
-* **百万宝贝**
+* **佰万宝贝**
 * **无间行者**
 * **老无所依**
-* **贫民窟的百万-富翁**
+* **贫民窟的佰万-富翁**
 * **拆弹部队**
 
 ---
 ### 0028. 电影解说 | 长剧
-* **[风行浮生影院 | 正版授权，感谢关注 | 千章 | Douyin](https://v.douyin.com/EdOquCmLiyQ/)**
+* **[风行浮生影院 | 正版授权，感谢关注 | 仟章 | Douyin](https://v.douyin.com/EdOquCmLiyQ/)**
   - [04.算计半生掌乾坤，一代妖后慈禧，一手遮天覆大清 | 一代妖后 | 巩俐 | 刘晓庆 | 剧情片 | 慈溪](https://v.douyin.com/Y3A_IWfH-ew/)
 
 ---
-* **[逐梦电影 | 只关注最新上映的悬疑惊悚佳作！| 千章 | Douyin](https://v.douyin.com/00PzmJn7gOg/)**
+* **[逐梦电影 | 只关注最新上映的悬疑惊悚佳作！| 仟章 | Douyin](https://v.douyin.com/00PzmJn7gOg/)**
   - [**末日逃生:** 投资仅3500万，评分确高达8.7，这才叫灾难片的天花板！](https://v.douyin.com/sc5lr7zaHhI/)
   - [2026开年灾难巨制，外星文明入侵地球，巨型植物笼罩苍穹！| 我们为和平而来](https://v.douyin.com/GFEcGrkVl4M/)
   - [《辐射2》第4集，中国竟向美国开战，还打到了拉斯维加斯](https://v.douyin.com/oNCipZMdhl0/)
 
 ---
-* **[君子探案 | 梦开始的地方 接合作/宣发 | 千章 | Douyin](https://v.douyin.com/Wd5kh0-mCPo/)**
+* **[君子探案 | 梦开始的地方 接合作/宣发 | 仟章 | Douyin](https://v.douyin.com/Wd5kh0-mCPo/)**
   - [辐射能穿透他们的身体，却无法穿透他们的意志 | 切尔诺贝利 | 核泄露 | 影视解说 | 抖音精选](https://v.douyin.com/KdomwV-IMJ8/)
   - [狙击战术暨剧情深度解析 | 狙击手 | 狙击战术](https://v.douyin.com/VGvsOUHo_Uw/)
   - [勇敢的心从来不是无畏，而是看清黑暗后仍选择燃烧 |勇敢的心](https://v.douyin.com/eZxp8-ciKcA/)
@@ -1077,27 +1062,27 @@
   - [**前哨:** 汀前哨基地攻防战讲解，54名美军VS400名武装分子](https://v.douyin.com/aGslDG880Bk/)
 
 ---
-* **[AC_Blue | 星光殷殷 其灿如言 | 五百章 | Douyin](https://v.douyin.com/gE3tJyH4LoI/)**
+* **[AC_Blue | 星光殷殷 其灿如言 | 伍佰章 | Douyin](https://v.douyin.com/gE3tJyH4LoI/)**
   - ["两边都是我的亲人 也就觉着不害怕了" | 我们天上见 | 共鸣叙事家 | 了不起的混剪团 | 混剪暑期企划 | 蒋雯丽](https://v.douyin.com/ujsTiQrSr1g/)
   - [万般皆下品 唯有读书高 | 侠女 | 胡金铨 | 了不起的混剪团 | 共鸣叙事家 | 抖音精选](https://v.douyin.com/OEO-F8uS8Oc/)
 
 ---
-* **[随便剪剪 | 经典永不过时 | 三百章 | Douyin](https://v.douyin.com/ksPshxMpkFs/)**
+* **[随便剪剪 | 经典永不过时 | 叁佰章 | Douyin](https://v.douyin.com/ksPshxMpkFs/)**
   - [风是自由的，希望你也是.](https://v.douyin.com/-gQod8JFNrQ/)
   - [你虽是怪物，但我仍然爱你.](https://v.douyin.com/92knUW_hems/)
   - [迪士尼所有的王子都比不过一只狐狸。](https://v.douyin.com/Fvn3O5n2bC0/)
 
 ---
-* **[Leon | 把生命浪费在美好的事情上 | 百章 | Douyin](https://v.douyin.com/No_YXRGCBtg/)**
+* **[Leon | 把生命浪费在美好的事情上 | 佰章 | Douyin](https://v.douyin.com/No_YXRGCBtg/)**
   - [最后的布尔什维克，每个看不清的脸，背后却都发着光。](https://v.douyin.com/XELmMdbqZMs/)
   - [艺术成分有三四楼那么高啦！](https://v.douyin.com/D3RnKHUTv9Y/)
 
 ---
-* **[方恨少不知难 | 历史不是非黑即白 按时间顺序看的在合集里 | 百章 | Douyin](https://v.douyin.com/R52EO6iepBs/)**
+* **[方恨少不知难 | 历史不是非黑即白 按时间顺序看的在合集里 | 佰章 | Douyin](https://v.douyin.com/R52EO6iepBs/)**
   - [闯王李自成请大明赴死 李自成的一生，从陕北寒土的饿殍，到威震天下的闯王，再到魂断九宫山的败将，充满了传奇与悲壮。他用十几年的时间推翻了一个腐朽的王朝，却在短短几十天内就失去了到手的天下，只是为他人嫁衣。抖音知识年终大赏 | 明朝 | 历史解说 | 李自成](https://v.douyin.com/ISGr6cLOjos/)
 
 ---
-* **[归羊屿飞鸟 | 黑暗里 电影点亮另一个世界 感谢支持 感谢关注 | 百章 |Douyin](https://v.douyin.com/i-QQiDA0-bA/)**
+* **[归羊屿飞鸟 | 黑暗里 电影点亮另一个世界 感谢支持 感谢关注 | 佰章 |Douyin](https://v.douyin.com/i-QQiDA0-bA/)**
   - [**东北虎.2021 | Manchurian Tiger** | 债主找上门 高低得请债主吃顿最好的](https://v.douyin.com/NfOpioHvSQg/)
     * **[东北虎.2021](https://pan.quark.cn/s/e37b62800a6b#/list/share)**
   - [有钱就该... **茶馆** | 老舍  | 共鸣叙事家  | 了不起的混剪团](https://v.douyin.com/ZNvrL8rImgg/)
@@ -1106,11 +1091,11 @@
     * **[寻枪2012](https://pan.quark.cn/s/07204be76c38#/list/share)**
     * **[太平年](https://pan.quark.cn/s/a0ec674037eb#/list/share)**
     * **[阳光灿烂的日子](https://pan.quark.cn/s/a0ec674037eb#/list/share)**
-    * **[我们的婚姻 | 佟大为 白百合](https://pan.quark.cn/s/712ba0845700#/list/share)**
-    * **[与青春有关的日子 |  佟大为, 白百何, 陈羽凡, 文章, 齐欢, 果靖霖, 佟磊, 黄勐, 张昊, 常景如, 高露, 李玥, 班赞, 余皑磊, 司光敏](https://pan.quark.cn/s/12ab0e8950fe#/list/share)**
+    * **[我们的婚姻 | 佟大为 白佰合](https://pan.quark.cn/s/712ba0845700#/list/share)**
+    * **[与青春有关的日子 |  佟大为, 白佰何, 陈羽凡, 文章, 齐欢, 果靖霖, 佟磊, 黄勐, 张昊, 常景如, 高露, 李玥, 班赞, 余皑磊, 司光敏](https://pan.quark.cn/s/12ab0e8950fe#/list/share)**
 
 ---
-* **[半只兔子吖 | 每天直播，产品多多，福利多多 ❤️承蒙厚爱❤️ | 二百章 | Douyin](https://v.douyin.com/bPXZA_y3atA/)**
+* **[半只兔子吖 | 每天直播，产品多多，福利多多 ❤️承蒙厚爱❤️ | 贰佰章 | Douyin](https://v.douyin.com/bPXZA_y3atA/)**
   - [盘点孙千作品合集。一起追剧 | 好剧推荐 | 追剧 | 冬至 | **孙千**](https://v.douyin.com/L8bVMgR0NrY/)
   - [盘点祝绪丹作品合集。| 好剧推荐 | 追剧 | 一起追剧 | 永夜星河 | **祝绪丹**](https://v.douyin.com/btdFnhqerec/)
   - [盘点丁禹兮作品合集 | 好剧推荐 | 一起追剧 | 追剧 | 永夜星河 | **丁禹兮**](https://v.douyin.com/fOZg4y0xy-A/)
@@ -1118,13 +1103,13 @@
   - [侯明昊作品合集！你最喜欢哪一部？**侯明昊** | 好剧推荐 | 剧荒推荐 | 那些年追过的剧](https://v.douyin.com/wO5iydrb6iU/)
 
 ---
-* **[古今多少 | 学于古则多看书籍，学于今则多觅榜样；问于当局则知其甘苦，问于旁馆则知其校验。勤学不已，才自广而不觉矣。| 五十章 | Douyin](https://v.douyin.com/ZJCe9_M8a_8/)**
+* **[古今多少 | 学于古则多看书籍，学于今则多觅榜样；问于当局则知其甘苦，问于旁馆则知其校验。勤学不已，才自广而不觉矣。| 佰章 | Douyin](https://v.douyin.com/ZJCe9_M8a_8/)**
   - [张居正死后，他生前重用的戚继光也被万历革职。 不同的是，同样被张居正重用的李成梁却安然无事。 张居正 | 戚继光将军 | 青年创作者成长计划 | 明朝 | 历史](https://v.douyin.com/bbQjtusOou0/)
   - [海瑞对张居正的评价，"工于谋国，拙于谋身"，这又何尝不是海瑞的人生呢。 历史 | 纪录片中国 | 青年创作者成长计划](https://v.douyin.com/8Ja5I9SL3gU/)
   - [《明史》载，传庭死而明亡矣。青年创作者成长计划 | 孙传庭 | 明朝 | 明末 | 历史](https://v.douyin.com/UnOqqZRzYwE/)
   - [卢象升，戴孝出征，明知不可为而为之，气节。青年创作者成长计划 | 卢象升 | 气节 | 明朝 | 历史](https://v.douyin.com/1_niUx1DWgI/)
   - [明朝中后期出现的资本主义萌芽。青年创作者成长计划 | 明朝 | 清朝 | 历史](https://v.douyin.com/zyEHlYL3qn4/)
-  - [汉承秦制四百年，唐继隋运三百年。青年创作者成长计划 | 杨坚 | 隋唐 | 历史](https://v.douyin.com/TCAAb35Ipsw/)
+  - [汉承秦制四佰年，唐继隋运叁佰年。青年创作者成长计划 | 杨坚 | 隋唐 | 历史](https://v.douyin.com/TCAAb35Ipsw/)
   - [今天我们要讲的是盘古的故事。 中国神话只留寸下来零星片段，但当我们的故事一路从盘古讲到周公直至礼乐建成，不难感知，中国人始终关注的天地人的秩序，正是贯穿中国神话到中国历史的内在逻辑。| 青年创作者成长计划 | 神话 | 历史 | 盘古 | 中国第三季](https://v.douyin.com/Ry2Iu_kZqps/)
   - [道衍和尚 姚广孝精通佛道儒三家精髓，靖难第一功臣 | 青年创作者成长计划 | 姚广孝 | 靖难之役](https://v.douyin.com/yEwX7cyn3hY/)
   - [人在政举，人亡政息 江陵功在社稷，过在身家，国家之议，死而后已，谓之社稷之臣，奚愧焉？ 青年创作者成长计划  | 张居正](https://v.douyin.com/-D44X6yiLdw/)
@@ -1137,14 +1122,14 @@
   - [越哥说电影《了凡四训》](https://www.youtube.com/watch?v=DnbM7lxt9Ak)
 
 ---
-* **[九公子探影 | 如果再也见不到你，祝你早安，午安，晚安。|  |  二百章 | Douyin](https://v.douyin.com/PnrmYeoUeFo/)**
+* **[九公子探影 | 如果再也见不到你，祝你早安，午安，晚安。|  |  贰佰章 | Douyin](https://v.douyin.com/PnrmYeoUeFo/)**
   - [男人含冤入狱十四年，出来后化身基督山伯爵开始复仇 | **基督山伯爵**](https://v.douyin.com/-XPWn8c925A/)
-  - [**百年孤独01**](https://v.douyin.com/yIScCH5-yD0/)
-  - [**百年孤独02**](https://v.douyin.com/nZYkxEk8wu8/)
-  - [**百年孤独03**](https://v.douyin.com/qGrQ4ahTihE/)
+  - [**佰年孤独01**](https://v.douyin.com/yIScCH5-yD0/)
+  - [**佰年孤独02**](https://v.douyin.com/nZYkxEk8wu8/)
+  - [**佰年孤独03**](https://v.douyin.com/qGrQ4ahTihE/)
 
 ---
-* **[佛缘影视 | 因果循环真实不虚！佛教故事，教你我做人 行善积德，从我做起！| 百章 | Douyin](https://v.douyin.com/aqY4c6UnnL4/)**
+* **[佛缘影视 | 因果循环真实不虚！佛教故事，教你我做人 行善积德，从我做起！| 佰章 | Douyin](https://v.douyin.com/aqY4c6UnnL4/)**
   - [01. 一步能看懂就会开悟的电影 | 佛教文化](https://v.douyin.com/0r3LwDZOKIw/)
   - [02. 一部看懂就能开悟的电影 | 佛教文化](https://v.douyin.com/R7_rPXyWCsg/)
   - [03. 一部看懂就会开悟的电影 | 佛教文化](https://v.douyin.com/115Sg1RDpe8/)
@@ -1153,7 +1138,8 @@
 
 ---
 ### 0029. 电视剧
-* **[Croton MEGA HIT 克頓傳媒 史詩傑作 | Youtube](https://www.youtube.com/@CrotonMEGAHIT)**
+**[Croton MEGA HIT]{s}**
+* **[Croton MEGA HIT 克頓傳媒 史詩傑作 | 2.67M subscribers | YTB](https://www.youtube.com/@CrotonMEGAHIT)**
   - [境· 双城](https://www.youtube.com/playlist?list=PLpOa-OrneXm2yBlLKNWL9qLCDfLxuSWal)
   - [七月雪](https://www.youtube.com/playlist?list=PLpOa-OrneXm0x5o2A-Bi7AVyrG8y1i_39)
   - [【七夜雪】主题曲MV：周深《一生一瞬》| 李沁、曾舜晞主演 | Snowy Night Timeless Love - OST](https://www.youtube.com/watch?v=RD1mFNAvWs0&list=PLpOa-OrneXm0x5o2A-Bi7AVyrG8y1i_39&index=3)
@@ -1182,7 +1168,9 @@
 * **[疯狂动物城2](https://pan.quark.cn/s/017f19dcc305#/list/share/a747b46a7ee14515be0843008c7d941e)**
 
 ---
-* **[银翼杀手2049](https://www.youtube.com/watch?v=d2JZ4AG-u3w)**
+**[ʰᵉᵃʳᵗˡᵉˢˣ]{s}**
+* **[ʰᵉᵃʳᵗˡᵉˢˣ | 6.07K subscribers | YTB](https://www.youtube.com/@Heartlesx007/videos)**
+  - [Mr.Kitty - After Dark | Blade Runner 2049 | Edit | 银翼杀手2049](https://www.youtube.com/watch?v=d2JZ4AG-u3w)
   - [银翼杀手2049](https://pan.quark.cn/s/b1b77b80e3bf#/list/share/20f7eadc1a8d458a9a73f5927853b8c6)
 
 ---
@@ -1224,18 +1212,18 @@
 * **[汉武大帝](https://pan.quark.cn/s/2c92f5604b29#/list/share)**
 
 ---
-* **[小七古裝劇場 | 7.08万 | Youtube](https://www.youtube.com/@HottestChineseDrama/videos)**
+* **[小七古裝劇場 | 89.5K subscribers | YTB](https://www.youtube.com/@HottestChineseDrama/videos)**
   - **[白月梵星](https://www.youtube.com/watch?v=aEC-dIXPzEU)**
   - **[白月梵星 | quark](https://pan.quark.cn/s/fc87ecc0e8f5#/list/share)**
 
 ---
-* **[影视 | btbtl](https://www.btbtla.com/)**
+* **[影视·btbtl](https://www.btbtla.com/)**
 * **[魅者无疆](https://www.youtube.com/watch?v=7_vCFU-3VJE&list=PLcHRE_huWMAy-mSTui3-pJSvsMwd_ejlS)**
   - **[魅者无疆 | quark](https://pan.quark.cn/s/1a359f5ee3b7#/list/share)**
 
 ---
 **[苏西糖]{s}**
-* **[苏西糖 | 百章 | Douyin](https://v.douyin.com/-Mta9ZITJVE/)**
+* **[苏西糖 | 佰章 | Douyin](https://v.douyin.com/-Mta9ZITJVE/)**
   - [一些我画的女孩子们。整一个合集这里发发 | 原创插画 | 古风插画 艺术 | 画画 | 汉服](https://v.douyin.com/GKInQnzgJiU/)
   - [断断续续画了一年了 纪念一下 |邱饼 |**大理寺少卿游** | 邱庆之李饼 |被大理寺少卿游刀麻了 | 画画](https://v.douyin.com/qeunJaXQ82M/)
   - [醉眠 | 插画 | 红楼梦 | 史湘云 | 水彩风格 | 湘云醉卧](https://v.douyin.com/2FjW_UaHQQc/)
@@ -1244,17 +1232,18 @@
 
 ---
 ### 0026. 原神大电影
-* **[空空 | 原神剧情整活 | 五百章 | Douyin](https://v.douyin.com/xZOlCE6uX34/)**
+* **[空空 | 原神剧情整活 | 伍佰章 | Douyin](https://v.douyin.com/xZOlCE6uX34/)**
   - [**原神大电影-猎月人篇**](https://v.douyin.com/XuteTLmcF6Y/)
   - [**原神大电影-哥伦比亚篇**](https://v.douyin.com/p3qU8jgcxdY/)
 
 ---
-### 0027. 短剧 | Youtube | Douyin
-* **[追剧酱来啦💖Here Comes Drama-chan | 46.6万 | Youtube](https://www.youtube.com/@HereComesDrama-chan)**
+### 0027.  Drama 短剧
+**[Drama 短剧]{s}**
+* **[追剧酱来啦💖Here Comes Drama-chan | 486K subscribers | YTB](https://www.youtube.com/@HereComesDrama-chan)**
   - [漫长觊觎](https://www.youtube.com/watch?v=eSA4cOws7tE)
 
 ---
-* **[口语FluencyCrusher | Welcome to follow my account. I will share some videos about learning English here every day. Make progress togerther! | 五百章 | Douyin](https://v.douyin.com/gtEHyGFX7M4/)**
+* **[口语FluencyCrusher | Welcome to follow my account. I will share some videos about learning English here every day. Make progress togerther! | 伍佰章 | Douyin](https://v.douyin.com/gtEHyGFX7M4/)**
   - **[You can change your English in six months | Youtuber: English Unleashed The Podcast](https://v.douyin.com/1RAiBB14WyY/)**
   - [The Psychology of English Success_ 7 Mindset Keys](https://v.douyin.com/7teVL9GItvQ/)
   - [rich man steals from beggar](https://v.douyin.com/ihbn_xdvY7E/)
@@ -1341,13 +1330,13 @@
 ---
 ### 0300. 国漫·凡人修仙传
 **[路人甲国漫日记·道友]{e}**
-* **[路人甲国漫日记 | 千章 | Douyin](https://v.douyin.com/sFPj7sMCTiY/)**
+* **[路人甲国漫日记 | 仟章 | Douyin](https://v.douyin.com/sFPj7sMCTiY/)**
   - [剑来](https://v.douyin.com/ra5xsTDVdaQ/)
   - [凡人修仙传~道友~晚辈😄 | 凡人修仙传| 王婵| 韩立| 动漫国漫| 唐朝诡事录3](https://v.douyin.com/HvuwN05oJCQ/)
 
 ---
 **[雨亭动漫情报·道友]{e}**
-* **[雨亭动漫情报 | 动漫观后感叭叭瞎扯人员 业余动漫过期情报 国服第二梗王 | 千章 | Douyin](https://v.douyin.com/4juqlDMB8jg/)**
+* **[雨亭动漫情报 | 动漫观后感叭叭瞎扯人员 业余动漫过期情报 国服第贰梗王 | 仟章 | Douyin](https://v.douyin.com/4juqlDMB8jg/)**
 
   ---
   **[001. 凡人修仙]{g}**
