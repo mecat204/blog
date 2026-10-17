@@ -823,6 +823,11 @@
 
 ---
 ### 0010. 2026
+**[ghost丫]{e}**
+* **[ghost丫 | ghostyaaa ❄️11月-3月新疆二世谷教学·约拍·导演 | 伍佰章](https://v.douyin.com/BueZWO4pf7o/)**
+  - [怎么才能回到从前](https://v.douyin.com/AqZygrRGTQI/)
+
+---
 **[息息息]{e}**
 * **[息息息 | Treeskodosviz | Douyin](https://v.douyin.com/VhK7fJfsT0Y/)**
   - [我没看到鹿՞╥⩊╥՞](https://v.douyin.com/ZUHqi_ONHEQ/)
@@ -898,6 +903,7 @@
   - [远方的朋友 你在哪](https://v.douyin.com/MESBGHesthE/)
   - [青春没有售价 老君山就在脚下](https://v.douyin.com/-2D4T5fAzdE/)
   - [多往山里走 少往心里去](https://v.douyin.com/Qbt5YEL7ve8/)
+  - [你远比我想象的勇敢 | 2026.10.17](https://v.douyin.com/lEbwIweZIzA/)
 
 ---
 **[王哈哈·搞笑]{e}**

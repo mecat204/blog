@@ -1842,7 +1842,7 @@
   - [You said all of fade and turn to stray, You said you no cash to spend today, Thank you for staying with me all these days, Don't let false folks trick your heart away. | Music: ](https://v.douyin.com/SFKVkfupELU/)
 
 ---
-### 1000. 晚知画 | Music
+### 1000. 晚知画·Music
 **[晚知画]{s}**
 * **[晚知画 | 🎨职业油画 ︱分享原创意境油画作品 | 贰佰章 | Douyin](https://v.douyin.com/Lt_V1VzqUD8/)**
   - [第35集｜秋日白桦](https://v.douyin.com/SqmZbE6r9LQ/)
@@ -1863,6 +1863,14 @@
   - [第09集｜长路](https://v.douyin.com/mgcnxVLu6aw/)
   - [第06集｜寂野](https://v.douyin.com/o5LGHaqESG0/)
   - [第02集｜日出](https://v.douyin.com/nVoU9s7QS8c/)
+
+---
+### 1001. 李九·Music
+**[李九·Music]{s}**
+* **[李九·Music | 重度二次元患者 Ai+板绘修改+PS后期 | 佰章 | Douyin](https://v.douyin.com/o5Mx-hZ0Ivk/)**
+  - [愿风神保佑你](https://v.douyin.com/i0DYi8lh9ic/)
+  - [凯尔希·星海 | G Anderson(动感进行曲)](https://v.douyin.com/YZ1b6A1_-1A/)
+  - [或许世界是假的，但爱是真的](https://v.douyin.com/FeoCnqePL-k/)
 
 ---
 ### 9999. Music·Course
