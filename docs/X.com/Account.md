@@ -329,6 +329,11 @@
   - [SKILL-book-to-skill](https://v.douyin.com/zY4DNdV90E4/)
   - [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)
 
+  ---
+  - [开源影视搜索播放器 LibreTV 是 GitHub 上最近很火的一个开源项目 | 092](https://v.douyin.com/oDZQsbs4pfg/)
+  - [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV)
+    * [LibreTV - 免费在线视频聚合搜索与观看平台](https://libretv.is-an.org/S)
+
 ---
 ### 0101. 耶莱加德 · Douyin
 **[耶莱加德]{s}**
