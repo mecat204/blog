@@ -303,7 +303,7 @@
 ---
 ### 0015. 向阳乔木·Book
 **[向阳乔木]{s}**
-* **[向阳乔木(https://x.com/vista8)**
+* **[向阳乔木](https://x.com/vista8)**
   - [qiaomu-reader](https://github.com/joeseesun/qiaomu-reader)
   - [Qiaomu Reader](https://community.obsidian.md/plugins/qiaomu-reader)
 
@@ -319,7 +319,7 @@
 * **[AB Kuai.Dong | 热爱研究、热爱家庭、热爱分享，2016 年入行从业。](https://x.com/_FORAB)**
 
   ---
-  **[001. ArtCraft]{s}**
+  **[001. ArtCraft]{g}**
     - [ArtCraft - Crafting Apps: open-source creative tools — ArtCraft](https://getartcraft.com/apps)
 
 ---
@@ -341,7 +341,7 @@
   - [开源跨平台屏幕控制项目](https://v.douyin.com/qvJJaDwk1ds/)
 
   ---
-  **[Github]{g}**
+  **[001. Github]{g}**
   - [billd-desk](https://github.com/galaxy-s10/billd-desk)
   - [BilldDesk远程桌面软件-免费流畅的远程连接电脑手机](https://desk.hsslive.cn/#/)
 
