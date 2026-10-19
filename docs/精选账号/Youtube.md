@@ -16,6 +16,10 @@
 * **[trancy](https://learn.trancy.org/home)**
 
 ---
+**[TrickyBird]{s}**
+* **[TrickyBird](https://trickybird.com/)**
+
+---
 ### 0001. Digital Spaghetti
 **[Digital Spaghetti]{s}**
 * **[Digital Spaghetti | 240K subscribers | YTB](https://www.youtube.com/@digspaghetti/featured)**
@@ -2372,6 +2376,7 @@
 ### 0011. Travel on the World | 环球旅行
 **[DJI]{s}**
 * **[DJI | 大疆 | 6.52M subscribers | YTB](https://www.youtube.com/@DJI/videos)**
+
   - [En: DJI's official YouTube channel is home to everything DJI, showcasing the full and incredible capability of our latest aerial and handheld products including the Phantom, Mavic, Inspire, Ronin, and Osmo series.]{s}
   - [Cn: 大疆官方YouTube频道汇聚了所有大疆相关内容，展示了我们最新空中和掌机产品的完整且令人难以置信的能力，包括Phantom、Mavic、Inspire、Ronin和Osmo系列。]{g}
 
@@ -2384,20 +2389,19 @@
   - [Cn: 了解大疆开创性技术如何被运用来改善世界，并记录独特的目的地和深远的事件。]{g}
 
   ---
-  - [En: Welcome to the Future of Possible.]{s}
-  - [Cn: 欢迎来到可能的未来。]{g}
+  - [En: Welcome to the Future of Possible]{s}
+  - [Cn: 欢迎来到可能的未来]{g}
 
   ---
-  - [En: Official Website: www.dji.com]{s}
-  - [Cn: 官方网站：www.dji.com]{g}
+  **[大疆]{s}**
+    - [dji](https://www.dji.com)
 
   ---
-  - **[SkyPixel 11th Annual Photo & Video Contest Starts Today | SkyPixel 第十一届年度摄影与视频比赛今天 开始](https://www.youtube.com/watch?v=XGsr7fsN5jIs)**
+  - [SkyPixel 11th Annual Photo & Video Contest Starts Today | SkyPixel 第十一届年度摄影与视频比赛今天 开始](https://www.youtube.com/watch?v=XGsr7fsN5jIs)
 
 ---
 **[Dustin Dunnill]{s}**
-* **[Dustin Dunnill 达斯廷·邓尼尔 | 31.4万 | YTB](https://www.youtube.com/@DustinDunnill/videos)**
-
+* **[Dustin Dunnill 达斯廷·邓尼尔 | 320K subscribers | YTB](https://www.youtube.com/@DustinDunnill/videos)**
   - [En: Great Stuff Here for Radio Control and Tech Enthusiasts!]{s}
   - [Cn: 这里对遥控和科技爱好者来说非常棒！]{g}
 
@@ -2424,11 +2428,12 @@
   - [Cn: 如果你有问题，请使用会员专属社区。]{g}
 
   ---
-  - **[火奴鲁鲁，夏威夷 - 4K 散步 | 畅享威基基海滩的日落漫步 | 美国 🇺🇸 2024年12月 | 4K HDR](https://www.youtube.com/watch?v=91RzZmn6jeI)**
+  - [火奴鲁鲁，夏威夷 - 4K 散步 | 畅享威基基海滩的日落漫步 | 美国 🇺🇸 2024年12月 | 4K HDR](https://www.youtube.com/watch?v=91RzZmn6jeI)
 
 ---
 **[The Hawaii Vacation Guide]{s}**
-* **[The Hawaii Vacation Guide | 165K subscribers | YTB](https://www.youtube.com/@TheHawaiiVacationGuide/videoss)**
+* **[The Hawaii Vacation Guide | 166K subscribers | YTB](https://www.youtube.com/@TheHawaiiVacationGuide/videoss)**
+  - [TrickyBird](https://trickybird.com/)
 
   - [En: Welcome to our **Hawaii** adventures!]{s}
   - [Cn: 欢迎来到我们的**夏威夷**冒险之旅！]{g}
@@ -2461,15 +2466,16 @@
   - [En: Mahalo for watching.]{s}
   - [Cn: 谢谢你的观看。]{g}
 
-  ---
-  - Website: https://thehawaiivacationguide.com/
-  - Instagram: https://www.instagram.com/thehawaiivacationguide/
-  - 网站: https://thehawaiivacationguide.com/
-  - Instagram: https://www.instagram.com/thehawaiivacationguide/
+  - [First Time in Oahu? Watch This BEFORE You Go! (12 Essential Tips) | 第一次来欧胡岛？出发前一定要看这个！](https://www.youtube.com/watch?v=rxdmQh8r0ug)
+  - [We Visited Every Hawaiian Island – Here’s Which One You Should Choose | 我们访问了夏威夷的每一个岛屿——以下是你应该选择 的哪个岛屿](https://www.youtube.com/watch?v=vgZVwOIEKKs)
+  - [Which Hawaiian Island Should You Visit | Start Here for Your Hawaii Vacation Planning | 你应该去哪个夏威夷岛屿 |从这里开始你的夏威夷度假规划](https://www.youtube.com/watch?v=2mIYF41vnhw)
+  - [13 Best Oahu Beaches from Above: Where to Swim, Snorkel & Park](https://www.youtube.com/watch?v=7D_2HIiGskM)
+  - [The Ultimate 9-Day Hawaii Itinerary | 2026.10.19](https://www.youtube.com/watch?v=1sxOkH9byx8)
 
-  - **[First Time in Oahu? Watch This BEFORE You Go! (12 Essential Tips) | 第一次来欧胡岛？出发前一定要看这个！](https://www.youtube.com/watch?v=rxdmQh8r0ug)**
-  - **[We Visited Every Hawaiian Island – Here’s Which One You Should Choose | 我们访问了夏威夷的每一个岛屿——以下是你应该选择 的哪个岛屿](https://www.youtube.com/watch?v=vgZVwOIEKKs)**
-  - **[Which Hawaiian Island Should You Visit | Start Here for Your Hawaii Vacation Planning | 你应该去哪个夏威夷岛屿 |从这里开始你的夏威夷度假规划](https://www.youtube.com/watch?v=2mIYF41vnhw)**
+  ---
+  **[Travel]{s}**
+    - [The Hawaii Vacation Guide](https://thehawaiivacationguide.com/)
+    - [Instagram](https://www.instagram.com/thehawaiivacationguide/)
 
 ---
 **[Iceland with a View | Iceland 冰岛]{e}**
@@ -2514,7 +2520,7 @@
 
 ---
 **[Emma Marie]{e}**
-* **[Emma Marie | 153万 | YTB](https://www.youtube.com/@EmmaMariesWorld/videos)**
+* **[Emma Marie | 1.52M | YTB](https://www.youtube.com/@EmmaMariesWorld/videos)**
   - [En: Hi!]{s}
   - [Cn: 你好！]{g}
 
@@ -2547,6 +2553,7 @@
   - emmamarie@a3artistsagency.com
   - If you want to see my daily life go to my families channel at:
     * http://bit.ly/1Pp29MP
+
   - 商业咨询：
   - emmamarie@a3artistsagency.com
   - 如果你想看我的日常生活，请访问我的家庭频道:

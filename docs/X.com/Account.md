@@ -323,6 +323,12 @@
     - [ArtCraft - Crafting Apps: open-source creative tools — ArtCraft](https://getartcraft.com/apps)
 
 ---
+### 0018. Bober_smart
+**[Bober_smart]{s}**
+* **[Bober_smart | AI Builder | Technologies | Testing](https://x.com/Bober_smart)**
+  - [Claude Code](https://x.com/Bober_smart/status/2110080979742192101)
+
+---
 ### 0100. 10倍生产力 · Douyin
 **[10倍生产力]{s}**
 * **[10倍生产力 | 我是小鱼 | 伍佰章 | Douyin](https://v.douyin.com/Hjzxem9OFl4/)**
