@@ -202,23 +202,23 @@
 **[Handre]{s}**
 * **[Handre | Free market pamphleteer.  自由市场传单作家。](https://x.com/Handre)**
 
-  [En: Rome handed out free grain to 40,000 citizens in 73 BC. By 46 BC, Julius Caesar found 320,000 people lining up for their monthly ration. That eight-fold expansion happened in under three decades, and it shows you how welfare states actually grow.]{s}
-  [Cn: 罗马在公元前73年向4万名公民发放免费粮食。到公元前46年，朱利叶斯·凯撒发现有32万人排队领取每月配给。这种八倍的增长发生在不到三十年的时间里，这说明福利国家实际上是如何扩张的。]{g}
+  - [En: Rome handed out free grain to 40,000 citizens in 73 BC. By 46 BC, Julius Caesar found 320,000 people lining up for their monthly ration. That eight-fold expansion happened in under three decades, and it shows you how welfare states actually grow.]{s}
+  - [Cn: 罗马在公元前73年向4万名公民发放免费粮食。到公元前46年，朱利叶斯·凯撒发现有32万人排队领取每月配给。这种八倍的增长发生在不到三十年的时间里，这说明福利国家实际上是如何扩张的。]{g}
 
-  [En: No Roman senator stood up and announced a plan to addict a third of the city to government bread. It happened incrementally, through political competition. Each magistrate who wanted votes expanded eligibility. Each expansion normalized the next one. The citizen who once considered the dole shameful eventually expected it, then demanded it, then organized politically to protect it.]{s}
-  [Cn: 没有罗马元老院的议员站起来宣布一个计划，让城市中三分之一的人沉迷于政府发放的面包。这一切是逐步发生的，通过政治竞争。每一位想要获得选票的地方官都扩大了资格范围。每一次扩大都使下一次的扩大变得正常。曾经认为领取救济是耻辱的市民，最终开始期待它，然后要求它，最后组织政治力量来保护它。]{g}
+  - [En: No Roman senator stood up and announced a plan to addict a third of the city to government bread. It happened incrementally, through political competition. Each magistrate who wanted votes expanded eligibility. Each expansion normalized the next one. The citizen who once considered the dole shameful eventually expected it, then demanded it, then organized politically to protect it.]{s}
+  - [Cn: 没有罗马元老院的议员站起来宣布一个计划，让城市中三分之一的人沉迷于政府发放的面包。这一切是逐步发生的，通过政治竞争。每一位想要获得选票的地方官都扩大了资格范围。每一次扩大都使下一次的扩大变得正常。曾经认为领取救济是耻辱的市民，最终开始期待它，然后要求它，最后组织政治力量来保护它。]{g}
 
-  [En: This is the core mechanism free market thinkers have identified across every era: once you create a transfer program, you create a constituency for that program. Recipients vote. Administrators build careers. Grain merchants who supply the state develop a stake in keeping the contracts flowing. The political economy locks in.]{s}
-  [Cn: 这是自由市场思想家在每个时代都识别出的核心机制：一旦你创建了一个转移计划，你就为这个计划建立了支持群体。接受者会投票。管理者则会建立职业发展路径。向国家提供粮食的商人会因合同的持续运转而产生利益关联。政治经济体系因此被锁定。]{g}
+  - [En: This is the core mechanism free market thinkers have identified across every era: once you create a transfer program, you create a constituency for that program. Recipients vote. Administrators build careers. Grain merchants who supply the state develop a stake in keeping the contracts flowing. The political economy locks in.]{s}
+  - [Cn: 这是自由市场思想家在每个时代都识别出的核心机制：一旦你创建了一个转移计划，你就为这个计划建立了支持群体。接受者会投票。管理者则会建立职业发展路径。向国家提供粮食的商人会因合同的持续运转而产生利益关联。政治经济体系因此被锁定。]{g}
 
-  [En: Caesar, to his credit, actually cut the rolls back to 150,000 through verification audits. It was one of his more economically coherent moves, though the Senate still murdered him. His successors quietly let the numbers climb again.]{s}
-  [Cn: 凯撒值得称赞的是，他通过核实审计实际上将数量削减到了15万。这是他较为经济合理的举措之一，尽管参议院最终还是将他处死了。他的继任者们则悄悄地让数字再次上升。]{g}
+  - [En: Caesar, to his credit, actually cut the rolls back to 150,000 through verification audits. It was one of his more economically coherent moves, though the Senate still murdered him. His successors quietly let the numbers climb again.]{s}
+  - [Cn: 凯撒值得称赞的是，他通过核实审计实际上将数量削减到了15万。这是他较为经济合理的举措之一，尽管参议院最终还是将他处死了。他的继任者们则悄悄地让数字再次上升。]{g}
 
-  [En: What did the dole require? Massive grain imports from Sicily, Sardinia, and Egypt, organized through state logistics at state expense, funded by taxation and conquest. When the conquest revenue dried up, the obligation remained. Rome had written a check against future military success, and future military success eventually failed to arrive.]{s}
-  [Cn: 失业救济需要什么？从西西里、撒丁尼亚和埃及大规模进口粮食，通过国家物流体系以国家开支来组织，资金来源于税收和征服。当征服所得减少时，这项义务依然存在。罗马在未来的军事胜利上签了一张支票，而未来的军事胜利最终未能兑现。]{g}
+  - [En: What did the dole require? Massive grain imports from Sicily, Sardinia, and Egypt, organized through state logistics at state expense, funded by taxation and conquest. When the conquest revenue dried up, the obligation remained. Rome had written a check against future military success, and future military success eventually failed to arrive.]{s}
+  - [Cn: 失业救济需要什么？从西西里、撒丁尼亚和埃及大规模进口粮食，通过国家物流体系以国家开支来组织，资金来源于税收和征服。当征服所得减少时，这项义务依然存在。罗马在未来的军事胜利上签了一张支票，而未来的军事胜利最终未能兑现。]{g}
 
-  [En: The lesson is not complicated. Distribute a benefit and you distribute dependency. Distribute dependency and you distribute political power to whoever controls the distribution. The grain dole didn't weaken Rome overnight, but it made every subsequent reform politically impossible.]{s}
-  [Cn: 这个教训并不复杂。提供一种恩惠，就会产生依赖；提供依赖，就会把政治权力分配给控制这种分配的人。谷物配给制并没有在一夜之间削弱罗马，但它让之后的每一次改革都变得政治上不可能。]{g}
+  - [En: The lesson is not complicated. Distribute a benefit and you distribute dependency. Distribute dependency and you distribute political power to whoever controls the distribution. The grain dole didn't weaken Rome overnight, but it made every subsequent reform politically impossible.]{s}
+  - [Cn: 这个教训并不复杂。提供一种恩惠，就会产生依赖；提供依赖，就会把政治权力分配给控制这种分配的人。谷物配给制并没有在一夜之间削弱罗马，但它让之后的每一次改革都变得政治上不可能。]{g}
 
 ---
 ### 0003. Andrej Karpathy
