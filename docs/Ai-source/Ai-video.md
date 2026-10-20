@@ -1675,7 +1675,6 @@
     - [国风美学 | 019](https://v.douyin.com/hyfUBggi4X4/)
 
     ---
-
     - [又爆肝20小时优化了一下，发现萝卜白菜各有所爱，真的然尽了 | 020](https://v.douyin.com/6H-HzOzJ-Wk/)
     - [用AI解锁古早国风美学 | 022](https://v.douyin.com/llX9VFrtmvU/)
     - [纵觅长生千载，不及一眼琉璃瞳 | 023](https://v.douyin.com/6z89hucMjGU/)
@@ -1685,6 +1684,12 @@
     - [演尽众生戏，终为局中棋 | 027](https://v.douyin.com/MjCP9BmSsBw/)
     - [若有来生，莫再生的倾城 | 028](https://v.douyin.com/0qSBF6LdEOc/)
     - [我承认我是一个怀旧的人，因为承载了太多的记忆 | 029](https://v.douyin.com/OheAMzNGyxQ/)
+    - [枫落云海间，秋风入红纱 | 030](https://v.douyin.com/XDDSSDNIMP4/)
+    - [AI还原港片武侠神功  | 031](https://v.douyin.com/80F3SUvZ9X8/)
+    - [雕虫小技，竟敢班门弄斧 | 032](https://v.douyin.com/8-nro9w6yAc/)
+    - [来一期复古港片混搭风 | 033](https://v.douyin.com/BJ7aDycMdtY/)
+    - [ai大女主集锦 | 034](https://v.douyin.com/dVt-jEECvKk/)
+    - [开心一刻，杨过小龙女游玩外滩](https://v.douyin.com/1Z578dqGZKw/)
 
 ---
 ### 0065. AIGC孙晨熙·聂小倩

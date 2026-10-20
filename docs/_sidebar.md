@@ -265,6 +265,10 @@
   - [ChatGPT](Work/chatpgt)
 
 ---
+* **Forklift**
+  - [Forklift](Forklift/001.叉车培训课程内容)
+
+---
 * **Collection**
   - [readme](Collection/readme)
   - [Todaytask](Collection/Todaytask)

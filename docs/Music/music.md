@@ -1873,6 +1873,12 @@
   - [或许世界是假的，但爱是真的](https://v.douyin.com/FeoCnqePL-k/)
 
 ---
+### 1002. 雪庭師引·music
+**[雪庭師引]{s}**
+* **[雪庭師引 | 師引，畫家，出版《 中國哲學簡史 》《靈魂與心》等。| 萬章 | Douyin](https://v.douyin.com/dMA5d-6RVJs/)**
+  - [問心。二千🍵](https://v.douyin.com/X-N3d9h-Wlc/)
+
+---
 ### 9999. Music·Course
 **[AlgerMusicPlayer]{s}**
 * **[AlgerMusicPlayer | music | software](https://github.com/algerkong/AlgerMusicPlayer)**

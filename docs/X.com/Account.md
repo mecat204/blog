@@ -335,10 +335,19 @@
   - [SKILL-book-to-skill](https://v.douyin.com/zY4DNdV90E4/)
   - [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)
 
+
   ---
-  - [开源影视搜索播放器 LibreTV 是 GitHub 上最近很火的一个开源项目 | 092](https://v.douyin.com/oDZQsbs4pfg/)
-  - [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV)
-    * [LibreTV - 免费在线视频聚合搜索与观看平台](https://libretv.is-an.org/S)
+  **[001. Win系统/实用工具]{g}**
+    - [Qingjian 开源输入法 | 082](https://v.douyin.com/KmrY4G-nEfk/)
+    - [青简输入法 Qingjian | 打字时顺便多认识一个外语词](https://qingjian.app/)
+    - [青简](https://github.com/qingjian-team/qingjian)
+
+    ---
+    - [开源影视搜索播放器 LibreTV 是 GitHub 上最近很火的一个开源项目 | 092](https://v.douyin.com/oDZQsbs4pfg/)
+    - [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV)
+      * [LibreTV - 免费在线视频聚合搜索与观看平台](https://libretv.is-an.org/S)
+
+
 
 ---
 ### 0101. 耶莱加德 · Douyin
