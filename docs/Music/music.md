@@ -1297,10 +1297,11 @@
   - [Ocean Eyes - Billie Eilish (12-year-old Claire Crosby Live Cover)](https://www.youtube.com/watch?v=4cUuxGNY9D4)
 
 ---
-### 0024. miHoYo
-**[yfan · GenshinImpact]{s}**
+### 0024. yfan · GenshinImpact
+**[yfan]{s}**
 * **[yfan | 让我们点推荐！~ 喜欢风物之诗琴的原神玩家，音乐原创改编 | 贰佰章 | Douyin](https://v.douyin.com/MYFMMUh5VFM/)**
   - [我们会想你的，哥伦比娅…… 原琴玩家 | 哥伦比娅 | 原神月之三 | 青年创作者成长计划](https://v.douyin.com/PohUscXwn9c/)
+  - [若如初见｜原神琴谱](https://v.douyin.com/o9yq2FvkfLw/)
 
 ---
 ### 0025. Music
@@ -1425,8 +1426,8 @@
   - [**卡农Canon** | 世界最治愈的钢琴曲](https://v.douyin.com/T8GpaGObMGw/)
 
 ---
-**[果实]{s}**
-* **[果实 | 时来天地皆同力，运到万物皆同行。| 佰章 | Douyin](https://v.douyin.com/PR0U50rme9Q/)**
+**[兰心汇质]{s}**
+* **[兰心汇质 | 请相信美好的事随时都会发生 , 时来天地皆同力，运到万物皆同行。| 佰章 | Douyin](https://v.douyin.com/PR0U50rme9Q/)**
   - [真实生活分享计划](https://v.douyin.com/Wt3K4-MHphY/)
   - [真实生活分享计划 山的那边还是山](https://v.douyin.com/RG3fzt_xkrY/)
   - [踩踩远方的风景，晒晒恒古的太阳，吹吹原始的风，听听喜欢听音乐 | **music : 爱如潮水**](https://v.douyin.com/ViakcNGKWcI/)
@@ -1436,7 +1437,7 @@
 
 ---
 **[Taylor Swift]{e}**
-* **[Taylor Swift | 油管](https://www.youtube.com/@TaylorSwift/videos)**
+* **[Taylor Swift | 63.5M subscribers | YTB](https://www.youtube.com/@TaylorSwift/videos)**
   - [En: And, baby, that’s show business for you.]{s}
   - [Cn: 宝贝，这就是演艺圈的全部。]{g}
 
@@ -1454,29 +1455,8 @@
   - [Taylor Swift - Mine](https://www.youtube.com/watch?v=oxNLRqMJMZk&list=OLAK5uy_n8xJHj0rL3zyol9oYHsVTBHm-L_eY-3gY)
 
 ---
-**[Exclusive Sound]{s}**
-* **[Exclusive Sound | 油管](https://www.youtube.com/@exclusive-sound)**
-  - [En: Welcome to "Exclusive Music".]{s}
-  - [Cn: 欢迎来到"独家音乐"。]{g}
-
-  ---
-  - [En: On this channel, I post songs in the style of Justin Bieber and other artists created using AI.]{s}
-  - [Cn: 在这个频道上，我发布的歌曲风格类似贾斯汀·比伯和其他用AI创作的艺术家。]{g}
-
-  ---
-  - [En: If you like what I do, don't forget to subscribe to my channel.]{s}
-  - [Cn: 如果你喜欢我做的，别忘了订阅我的频道]{g}
-
-  ---
-  - [Avril Lavigne x Alan Walker - Learn To Love Again](https://www.youtube.com/watch?v=cv_eyeJn9tc)
-  - [Avril Lavigne x Alan Walker - You Still Live Inside My Heart](https://www.youtube.com/watch?v=YGURpDn6-nc&list=RDYGURpDn6-nc&start_radio=1)
-  - [Avril Lavigne x Alan Walker - I'm Scared To Be Lonely](https://www.youtube.com/watch?v=ihFrxhkOUWM&list=RDihFrxhkOUWM&start_radio=1)
-  - [Alan Walker - Where The Love Goes](https://www.youtube.com/watch?v=K8PJucqUJTY)
-  - [Avril Lavigne - Dry My Tears](https://www.youtube.com/watch?v=g8WU8lUQHB8)
-
----
 **[Deep Fade Music]{s}**
-* **[Deep Fade Music | 252位 | 油管](https://www.youtube.com/@DeepFadeMusic-1)**
+* **[Deep Fade Music | 299 subscribers | YTB](https://www.youtube.com/@DeepFadeMusic-1)**
   - [En: Welcome to Deep Fade Music — Music for calm minds and atmospheric nights.]{s}
   - [Cn: 欢迎来到Deep Fade Music—— 为平静心灵和氛围夜晚带来音乐。]{g}
 
@@ -1500,9 +1480,10 @@
   - [Deep House Mix 2025 — Smooth Night Groove | Melodic Chill Vocals & Relax Vibes #3](https://www.youtube.com/watch?v=l2Kokqr_fZw)
 
 ---
-**[chika clarissa]{s}**
-* **[chika clarissa  | 油管](https://www.youtube.com/@chikaclarissa)**
+**[chika clarissa]{e}**
+* **[chika clarissa | 7.37K subscribers |  YTB](https://www.youtube.com/@chikaclarissa)**
   - [a thousand years-christina perri (cover) | 《千年》——克里斯蒂娜·佩里（封面）](https://www.youtube.com/watch?v=7mvVxZkZQH8)
+  - [TrickyBird](https://trickybird.com/)
 
 ---
 **[Jasmine Nadya]{s}**
@@ -1877,6 +1858,8 @@
 **[雪庭師引]{s}**
 * **[雪庭師引 | 師引，畫家，出版《 中國哲學簡史 》《靈魂與心》等。| 萬章 | Douyin](https://v.douyin.com/dMA5d-6RVJs/)**
   - [問心。二千🍵](https://v.douyin.com/X-N3d9h-Wlc/)
+
+---
 
 ---
 ### 9999. Music·Course

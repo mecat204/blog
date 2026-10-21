@@ -210,8 +210,9 @@
   - [超绝改编！南宫婉人设鲜活丰满，人格魅力与格局立住了](https://v.douyin.com/UNPBbMLDvKI/)
 
 ---
-**[布衣凡尘]{s}**
+**[布衣凡尘·Music]{s}**
 * **[布衣凡尘 | 手持烟火以谋生， 且听且忘且随风。](https://v.douyin.com/Sl-z1VfOGz0/)**
+  - [Music: Eutopia 理想, 乌托邦](https://v.douyin.com/pY5GmXLglew/)
 
   ---
   **[001. 江湖]{g}**
@@ -823,6 +824,21 @@
 
 ---
 ### 0010. 2026
+**[走啦王桂芬]{e}**
+* **[走啦王桂芬 | 王桂芬是我的电动车 | 佰章 | Douyin](https://v.douyin.com/YFhKXfeLCRI/)**
+  - [别拿一天的倒霉，给老己的一辈子判决](https://v.douyin.com/Eq-Lcdwftf4/)
+
+---
+**[晴天(观自在)·道友]{e}**
+* **[晴天(观自在) | 懂所想 如所愿 有温度 · 修己利人 共鸣共勉 | 佰章]()**
+  - [相信自己的直觉，那是对自己最大的保护。](https://v.douyin.com/QV-_fp1q2Iw/、)
+
+---
+**[窗边的小羽子·GenshinImpact]{e}**
+* **[窗边的小羽子 | 多重人格…视频能给你带来快乐就好 | Douyin](https://v.douyin.com/OHPZ6G2pvyY/)**
+  - [感谢原神](https://v.douyin.com/cRt6bOJCcD8/)
+
+---
 **[思她说说]{e}**
 * **[思她说说 | 我与我周旋 宁做我 人生缓缓 自有答案 | 伍佰章 | Douyin](https://v.douyin.com/GJD8hZ0-FWY/)**
 
@@ -987,9 +1003,10 @@
 ---
 **[治愈果（kakki在说啥）]{s}**
 * **[治愈果（kakki在说啥）| 🐳90万粉丝心理创作者｜心理师 🐳累计500+小时个案 | 亲密关系终身成长](https://v.douyin.com/KcHp3-7eID4/)**
-  - **[啥样的人是不可错过的好伴侣？心理学的角度揭秘好伴侣的三个特质](https://v.douyin.com/gb-EP3_R0ZQ/)**
-  - **[学会显化我们都会过上想要的人生，成为理想的自己](https://v.douyin.com/DVEOKxF3et4/)**
-  - **[你分得清正缘和孽缘吗？重塑感情观，分享5个正缘特征](https://v.douyin.com/VQSkxlrZzgQ/)**
+  - [啥样的人是不可错过的好伴侣？心理学的角度揭秘好伴侣的三个特质](https://v.douyin.com/gb-EP3_R0ZQ/)
+  - [学会显化我们都会过上想要的人生，成为理想的自己](https://v.douyin.com/DVEOKxF3et4/)
+  - [你分得清正缘和孽缘吗？重塑感情观，分享5个正缘特征](https://v.douyin.com/VQSkxlrZzgQ/)
+  - [世界是虚拟的游戏，玩法就是爱人如己·2026.10.21·爱人如已](https://v.douyin.com/NgklTrlLymw/)
 
 ---
 **[阿蛮]{s}**
