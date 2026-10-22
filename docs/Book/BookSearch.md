@@ -36,6 +36,11 @@
 
 ---
 ### 0001. 搜书
+**[躲猫猫夜谈]{e}**
+* **[躲猫猫夜谈 | 商业分析师，心理学爱好者，兴趣广泛的购书狂魔 | 叁佰章 | Douyin](https://v.douyin.com/LAwpRTz8yYY/)**
+  - [遥远的救世主](https://v.douyin.com/CqdFhlpgW8o/)
+
+---
 **[中信书院]{s}**
 * **[中信书院 | 中信出版集团旗下官方账号 嘉宾邀约｜企业培训｜商务合作 | 萬章 | Douyin](https://v.douyin.com/i2tlEVYUMsc/)**
   - [30-40岁是人生最痛苦的阶段 来源：看理想 | 杰克伦敦传](https://v.douyin.com/UJFA4VDnO_4/)

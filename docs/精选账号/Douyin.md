@@ -824,6 +824,14 @@
 
 ---
 ### 0010. 2026
+**[三参山]{e}**
+* **[三参山 | 众生平安幸福 | 叁佰章 | Douyin](https://v.douyin.com/9Xzl3ewk27U/)**
+  - [朱元璋没到大运也得要饭 所以急也没用](https://v.douyin.com/VPOS1Zy0nfI/)
+  - [世上所有选择都有代价，没有完美答案。](https://v.douyin.com/GTUbfyuxqlo/)
+  - [祖师，弟子受的所有苦真的都只是考验吗  | me: 道友，凡吾辈修道皆为不易。虽大道万千，然道法皆然。问本心，寻本心。](https://v.douyin.com/4BuVrTc8AYU/)
+  - [天不知地苦，地不觉天难，偏偏人夹在中间，天难地苦吃了个遍。](https://v.douyin.com/ytWuhRl8ZNg/)
+
+---
 **[走啦王桂芬]{e}**
 * **[走啦王桂芬 | 王桂芬是我的电动车 | 佰章 | Douyin](https://v.douyin.com/YFhKXfeLCRI/)**
   - [别拿一天的倒霉，给老己的一辈子判决](https://v.douyin.com/Eq-Lcdwftf4/)
