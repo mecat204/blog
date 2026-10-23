@@ -347,6 +347,11 @@
     - [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV)
       * [LibreTV - 免费在线视频聚合搜索与观看平台](https://libretv.is-an.org/S)
 
+    ---
+    **[CleanYourTV]{s}**
+      - [CleanYourTV](https://v.douyin.com/xvvguVCn408/)
+      - [Github](https://github.com/Gathin23/cleanyourtv)
+      - [CleanYourTV](https://cleanyour.tv/)
 
 
 ---
