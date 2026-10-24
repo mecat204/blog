@@ -127,6 +127,26 @@
 ### 0002. B站 up主
 **[Bilibi直接登录网页可以删除客户端无法删除的收藏夹]{s}**
 
+**[Jerryjjjae]{s}**
+* **[Jerryjjjae | 分享喜欢的生活✨ | B站](https://space.bilibili.com/130928262?spm_id_from=333.337.0.0)**
+  - [Marija](https://www.bilibili.com/video/BV1DH4y1h7Vk/?spm_id_from=333.1387.0.0)
+
+  ---
+  - [Hadassah](https://www.bilibili.com/video/BV1XZpLzMEnt/?spm_id_from=333.1387.0.0)
+
+  ---
+  - [leah megan](https://www.bilibili.com/video/BV1oG411a7rs/?spm_id_from=333.1387.0.0)
+
+  ---
+  - [Birta](https://www.bilibili.com/video/BV1ii4y1Y7uy/?spm_id_from=333.1387.0.0)
+
+  ---
+  - [ste.phanie](https://www.bilibili.com/video/BV1Wi4y1e7hk/?spm_id_from=333.1387.0.0)
+
+  ---
+  - [Diana](https://www.bilibili.com/video/BV11p421m7fd/?spm_id_from=333.1387.0.0)
+
+---
 **[英音belike]{s}**
 * **[英音belike | "精听一段（回音法或影子跟读），泛听一片"，每天坚持复述和大声朗读；分享~长视频~泛听语料：听口合一，录音对比。 | B站](https://space.bilibili.com/605725732?spm_id_from=333.337.0.0)**
 
