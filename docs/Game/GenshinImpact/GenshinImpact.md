@@ -815,6 +815,19 @@
   - [都是为了孩子啊](https://v.douyin.com/x84F-PC8s6c/)
 
 ---
+### 0023. 李九·插画
+**[李九]{s}**
+* **[李九 | 重度二次元患者 Ai+板绘修改+PS后期 | 佰章 | Douyin](https://v.douyin.com/29eeR_3YbvI/)**
+  - [以彼此为信仰，在神谕之外相爱，共赴永恒](https://v.douyin.com/BufgFTPN4c4/)
+
+---
+### 0024. lis
+**[lis]{s}**
+* **[lis | 佰章 | Douyin](https://v.douyin.com/s2SUSwp4nIQ/)**
+  - [菱叶萦波荷飐风 荷花深处小船通](https://v.douyin.com/ntNBDq52QnU/)
+
+
+---
 ### 0100. 柚叶知夏
 **[柚叶知夏]{s}**
 * **[柚叶知夏 | 更新甜甜的二创，感谢您的驻足呀 视频禁止搬运 | 佰章 | Douyin](https://v.douyin.com/bnuyCfPHrm8/)**
