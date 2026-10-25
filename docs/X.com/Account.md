@@ -329,15 +329,28 @@
   - [Claude Code](https://x.com/Bober_smart/status/2110080979742192101)
 
 ---
+### 0019. https://x.com/msjiaozhu
+**[MapleShaw]{s}**
+* **[MapleShaw](https://x.com/msjiaozhu)**
+
+---
 ### 0100. 10倍生产力 · Douyin
 **[10倍生产力]{s}**
 * **[10倍生产力 | 我是小鱼 | 伍佰章 | Douyin](https://v.douyin.com/Hjzxem9OFl4/)**
-  - [SKILL-book-to-skill](https://v.douyin.com/zY4DNdV90E4/)
-  - [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)
-
 
   ---
-  **[001. Win系统/实用工具]{g}**
+  **[001. Github]{g}**
+    - [SKILL-book-to-skill](https://v.douyin.com/zY4DNdV90E4/)
+    - [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)
+
+  ---
+  **[002. CleanYourTV]{s}**
+    - [CleanYourTV](https://v.douyin.com/xvvguVCn408/)
+    - [Github](https://github.com/Gathin23/cleanyourtv)
+    - [CleanYourTV](https://cleanyour.tv/)
+
+  ---
+  **[003. Win系统/实用工具]{g}**
     - [Qingjian 开源输入法 | 082](https://v.douyin.com/KmrY4G-nEfk/)
     - [青简输入法 Qingjian | 打字时顺便多认识一个外语词](https://qingjian.app/)
     - [青简](https://github.com/qingjian-team/qingjian)
@@ -348,11 +361,13 @@
       * [LibreTV - 免费在线视频聚合搜索与观看平台](https://libretv.is-an.org/S)
 
     ---
-    **[CleanYourTV]{s}**
-      - [CleanYourTV](https://v.douyin.com/xvvguVCn408/)
-      - [Github](https://github.com/Gathin23/cleanyourtv)
-      - [CleanYourTV](https://cleanyour.tv/)
+    - [Folia | 093](https://v.douyin.com/6smg3W6DZ9U/)
+    - [chthollyphile/folia-major](https://github.com/chthollyphile/folia-major)
+      * [Folia](https://folia-site.cielaniska.top/)
 
+    ---
+    - [电子老黄历 | 100](https://v.douyin.com/vv3CkFMxn_o/)
+    - [老黄历 · 纸上光阴](https://github.com/feiyuaq/OldAlmanac-Win)
 
 ---
 ### 0101. 耶莱加德 · Douyin

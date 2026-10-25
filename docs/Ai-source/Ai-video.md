@@ -2445,6 +2445,18 @@
   - [那就祝我们都顺顺利利，都越来越好](https://v.douyin.com/cOa6jE6Nuu8/)
 
 ---
+### 0119. 嘟嘟ai
+**[嘟嘟ai]{s}**
+* **[嘟嘟ai | 佰章 | Douyin](https://v.douyin.com/b69XH-uODUE/)**
+  - [世人皆有武侠梦07](https://v.douyin.com/JEYPWA_bdwI/)
+
+---
+### 120. 奇哥的视界
+**[奇哥的视界]{s}**
+* **[奇哥的视界 | 专注AI制作短片，弘扬国粹经典民间故事，传播中国传统文化, 正能量, 短片 | 佰章 | Douyin](https://v.douyin.com/SNeV9Y10bts/)**
+  - [中国传统神话故事《神仙传：彭祖》](https://v.douyin.com/k3Ttf_fmLK0/)
+
+
 ### 0200. 瑶光
 **[瑶光]{s}**
 * **[瑶光 | 做梦老手，AIGC新手，希望能跟粉丝们共同成长，欣赏美丽的梦中世界 | 佰章 | Douyin](https://v.douyin.com/tARwuM501uk/)**
