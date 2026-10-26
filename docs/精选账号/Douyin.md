@@ -223,6 +223,16 @@
 
 ---
 ### 0008. 2024
+**[庐江王涵]{s}**
+* **[庐江王涵 | 温暖 沉静 倾听时光流动的声音 | 叁仟章  | Douyin ](https://v.douyin.com/JMai7XIN1rk/)**
+
+  ---
+  **[001. 道德经]{g}**
+    - [001. 道德经](https://v.douyin.com/IgHxOCTGqsc/)
+    - [030. 道德经第三十章：修道以化天下 文字源于曾老录音整理](https://v.douyin.com/_sJpTbT4YIA/)
+
+---
+
 **[子路Lucia]{s}**
 * **[子路Lucia | 摄影师 | 佰章 | Douyin](https://v.douyin.com/_56cUmlih_o/)**
   - [东方美学](https://v.douyin.com/xrqbbPmJNRI/)
@@ -824,6 +834,11 @@
 
 ---
 ### 0010. 2026
+**[三青子·道友]{e}**
+* **[三青子 | 青青日常 承蒙厚爱 | 佰章 | Douyin](https://v.douyin.com/4ZHHRkghIus/)**
+  - [你要记住，情绪状态，会影响我们的身心感受。 老话说，心宽一寸，病退一丈。 心怀愉悦是一种滋养，长期情绪低落很消耗自己。 很多内心的疲惫与煎熬，都来自思虑过多。 心里装太多焦虑委屈，人就容易身心紧绷，感觉处处不适。 学着放宽心态，少纠结内耗，保持一份好心情，身心才会舒展通透。 心平少烦忧，心静明事理。 懂得调节情绪，就是最好的自我滋养。](https://v.douyin.com/B7qL7b2upqw/)
+
+---
 **[北北机车头]{e}**
 * **[北北机车头 | 158/80 生活值得一笑，把欢乐带给大家 鳄鱼老大 | 伍佰章 | Douyin](https://v.douyin.com/hTTYIrjjKRc/)**
   - [小屁孩！小胳膊小腿的还要天天捶人](https://v.douyin.com/mpRsoV1j7oA/)

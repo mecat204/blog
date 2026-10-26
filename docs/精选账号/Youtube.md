@@ -4556,6 +4556,12 @@
 * **[Home - POC English](https://pocenglish.com/)**
 
 ---
+### 0052. CNA
+**[CNA]{s}**
+* **[CNA | 3.25M subscribers | YTB](https://www.youtube.com/@channelnewsasia/videos)**
+  - [China-North Korea relations: Kim Jong Un arrived in Dandong via newly opened bridge, says report](https://www.youtube.com/watch?v=L2MvCrw3O4Q)
+
+---
 ### 0099. AI - video
 **[Ghibli Days]{e}**
 * **[Ghibli Days | 105K | YTB](https://www.youtube.com/@GhibliDayss/videos)**
