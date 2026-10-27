@@ -4562,6 +4562,16 @@
   - [China-North Korea relations: Kim Jong Un arrived in Dandong via newly opened bridge, says report](https://www.youtube.com/watch?v=L2MvCrw3O4Q)
 
 ---
+### 0053. Immersion · psychology podcast 心理播客
+**[Immersion]{e}**
+* **[Immersion | 6.55K subscribers | YTB](https://www.youtube.com/@Immersion_podcast/videos)**
+  - [En: Immersion is a psychology podcast for curious people interested in how we live, what shapes us, and what we can change.]{s}
+  - [Cn: 沉浸是一档心理播客，适合对生活、塑造我们的因素以及我们能够改变的内容感兴趣的求知者。]{g}
+
+  ---
+  - [What dating apps are doing to love: The paradox of choice | 约会应用对爱情所做的：选择的悖论](https://www.youtube.com/watch?v=1-RjsR1mCPI)
+
+---
 ### 0099. AI - video
 **[Ghibli Days]{e}**
 * **[Ghibli Days | 105K | YTB](https://www.youtube.com/@GhibliDayss/videos)**

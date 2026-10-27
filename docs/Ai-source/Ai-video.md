@@ -2463,6 +2463,12 @@
   - [燕然: Min: 40:54 | 001](https://v.douyin.com/5Jh0WYnkuBM/)
 
 ---
+### 0122. 自由飞升
+**[自由飞升]{s}**
+* **[自由飞升 | 每周更新修仙意境，这里是修仙者的落脚点。| 佰章 | Douyin](https://v.douyin.com/ztDvxP9v2SM/)**
+  - [长生是什么感觉](https://v.douyin.com/Ww-_dWzHdUU/)
+
+---
 ### 0200. 瑶光
 **[瑶光]{s}**
 * **[瑶光 | 做梦老手，AIGC新手，希望能跟粉丝们共同成长，欣赏美丽的梦中世界 | 佰章 | Douyin](https://v.douyin.com/tARwuM501uk/)**
