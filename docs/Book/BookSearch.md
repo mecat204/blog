@@ -36,6 +36,20 @@
 
 ---
 ### 0001. 搜书
+**[野生老板]{e}**
+* **[野生老板 , 📍2020福布斯U30，创业9年，2家公司 🌊带你看懂世界运转的底层规律, 用规律拿到结果 | 伍佰章 | Douyin](https://v.douyin.com/JDtQBOHbFRk/)**
+
+  ----
+  **[001. 道家处世哲学]{s}**
+    - [强者总是不动声色的赢 | 001](https://v.douyin.com/C6kCZNduwCM/)
+    - [读懂道德经这句话，我彻底放弃取悦任何人, 喜恶同因 | 016](https://v.douyin.com/UJBJ0jhGFhg/)
+
+---
+**[夜深禅语]{s}**
+* **[夜深蝉语 | 📚读书｜分享可以陪伴你的小书 😘书籍在橱窗，好书分享 | 贰仟章 | Douyin](https://v.douyin.com/xoW_733H23g/)**
+  - [DK一分钟科学心理学/天文学/哲学/数学/量子物理学 | 数学不是大自然的巧合彩蛋是宇宙早就写好的通用代码，连你看不见的地方都在印证](https://v.douyin.com/BDj05a1dzO0/)
+
+---
 **[躲猫猫夜谈]{e}**
 * **[躲猫猫夜谈 | 商业分析师，心理学爱好者，兴趣广泛的购书狂魔 | 叁佰章 | Douyin](https://v.douyin.com/LAwpRTz8yYY/)**
   - [遥远的救世主](https://v.douyin.com/CqdFhlpgW8o/)

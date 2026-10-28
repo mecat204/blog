@@ -4572,6 +4572,27 @@
   - [What dating apps are doing to love: The paradox of choice | 约会应用对爱情所做的：选择的悖论](https://www.youtube.com/watch?v=1-RjsR1mCPI)
 
 ---
+### 0054. DK Books
+**[DK Books]{s}**
+* **[DK Books | 48.8K subscribers  |YTB](https://www.youtube.com/@DKinVideo/videos)**
+  - [The Polar Night Adventure, 极昼探险](https://www.youtube.com/watch?v=ACfWpXXJxNA)
+  - [Getting My Year 2’s Egg-cited with the ‘Amazing Animals’ Lesson Pack, 让我的二年级学生对“神奇动物”课程包感到兴奋](https://www.youtube.com/watch?v=gIvlGKSrBvg&list=PLRu2L9J9oDFXztzHJ-me7Ksh3yMpQbQ2n)
+  - [The Polar Night Adventure, Website](https://sites.prh.com/the-polar-night-adventure)
+  - [DK Books - English for Everyone in CN](https://apps.dk.com/efe/cn)
+
+---
+### 0055. Cecilia Blomdahl
+**[Cecilia Blomdahl]{e}**
+* **[Cecilia Blomdahl | 1.15M subscribers | YTB](https://www.youtube.com/@CeciliaBlomdahl/videos)**
+  - [2 Weeks Until Polar Night on Svalbard, 2周后斯瓦尔巴群岛将进入极夜](https://www.youtube.com/watch?v=tpDM75ph75A)
+
+---
+### 0056. Science ABC
+**[Science ABC]{s}**
+* **[Science ABC | 544K subscribers | YTB](https://www.youtube.com/@Scienceabc/videos)**
+  - [Can a Nuclear Reactor Explode Like a Bomb? Explained in Simple Words , 核反应堆会像炸弹一样爆炸吗？用简单的话解释](https://www.youtube.com/watch?v=RH2DXbroMyA)
+
+---
 ### 0099. AI - video
 **[Ghibli Days]{e}**
 * **[Ghibli Days | 105K | YTB](https://www.youtube.com/@GhibliDayss/videos)**

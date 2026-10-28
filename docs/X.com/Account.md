@@ -329,9 +329,17 @@
   - [Claude Code](https://x.com/Bober_smart/status/2110080979742192101)
 
 ---
-### 0019. https://x.com/msjiaozhu
+### 0019. MapleShaw
 **[MapleShaw]{s}**
 * **[MapleShaw](https://x.com/msjiaozhu)**
+
+---
+### 0020. Arif AI · Website · collect
+**[Arif AI]{s}**
+* **[Arif AI](https://x.com/ArifAIHQ)**
+  - [001. Watch the world via live satellite imagery](https://zoom.earth/)
+  - [002. Windy: Wind map & weather forecast](https://www.windy.com/)
+  - [003. Real Time Lightning Map](https://www.lightningmaps.org/)
 
 ---
 ### 0100. 10倍生产力 · Douyin
