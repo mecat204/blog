@@ -2483,6 +2483,26 @@
   - [喜欢你 Ai](https://v.douyin.com/O8dBC68-VPw/)
 
 ---
+### 0125. 寰宇徐行·Ai地理
+**[寰宇徐行]{s}**
+* **[寰宇徐行｜让您的学生爱上地 | 叁佰章 | Douyin](https://v.douyin.com/vmICoxWpCJ8/)**
+  - [地理的魅力---理解亿万年的改变-三角洲、冲积扇、瀑布](https://v.douyin.com/WdDawBtkQ2E/)
+  - [一眼看懂 山河变迁--风沙地貌](https://v.douyin.com/kA5xtFPZb0k/)
+  - [一眼看懂 气象变化--台风、龙卷风](https://v.douyin.com/DUAsE8Khcq0/)
+
+  ---
+  **[001. 课件]{g}**
+    - [地质灾害-地震动画演示课件ppt | 001](https://v.douyin.com/5DI-MHB8q9I/)
+    - [喀斯特地貌形成过程和条件 | 041](https://v.douyin.com/KPtEZU5thFU/)
+    - [一眼看懂 山河变迁 | 042](https://v.douyin.com/Sd1Pw9NpmC8/)
+
+---
+### 0126. LumenVisio
+**[LumenVisio]{s}**
+* **[LumenVisio | 你看到的 不一定是真相 希望为大家带来知识 娱乐 | 叁佰章 | Douyin](https://v.douyin.com/MGqif2Xvmh0/)**
+  - [俯视为顺, 仰视为逆](https://v.douyin.com/MGqif2Xvmh0/)
+
+---
 ### 0200. 瑶光
 **[瑶光]{s}**
 * **[瑶光 | 做梦老手，AIGC新手，希望能跟粉丝们共同成长，欣赏美丽的梦中世界 | 佰章 | Douyin](https://v.douyin.com/tARwuM501uk/)**
