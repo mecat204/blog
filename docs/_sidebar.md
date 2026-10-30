@@ -263,7 +263,9 @@
 ---
 * **Work**
   - [Work](Work/work)
-  - [ChatGPT](Work/chatpgt)
+  - [DigitalMediaPlatform](Work/DigitalMediaPlatform)
+  - [ChatGPT](Work/ChatGPT)
+
 
 ---
 * **Forklift**

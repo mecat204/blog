@@ -777,7 +777,7 @@
 
 ---
 ### 0024. 医学
-* **[biodigital](https://human.biodigital.com/login?returnUrl=/explore)**
+* **[BioDigital Human Platform](https://human.biodigital.com/login?returnUrl=/explore)**
 
 ---
 ### 0025. Course
@@ -811,12 +811,13 @@
 
 ---
 ### 0029. 梵蒂冈教堂
-* [梵蒂冈教堂](https://virtual.basilicasanpietro.va/en/basilica-viewer/st-peters-square)
+**[梵蒂冈教堂]{s}**
+* **[Digital Experience of St. Peter’s Basilica 梵蒂冈教堂](https://virtual.basilicasanpietro.va/en/basilica-viewer/st-peters-square)**
 
 ---
 ### 0030. 宝藏网站 |  维修 | 摄像头 | 游戏
-**[ifixit | 免费修理手册]{s}**
-* **[ifixit | 免费修理手册](https://zh.ifixit.com/)**
+**[ifixit·免费修理手册]{s}**
+* **[ifixit·免费修理手册](https://zh.ifixit.com/)**
 
 ---
 * **[skyline | 全球实况高清摄像头](https://www.skylinewebcams.com/)**

@@ -156,11 +156,84 @@
 * **[PPT之家 - 专注PPT模板等资料分享](https://www.52ppt.com)**
 * **[吾道-免版权素材库-幻灯片模板吾道](https://www.woodo.cn)**
 
-
-### 0022. 电子书资源
+---
+### 0022. Books
 **[电子书资源]{s}**
 * **[慧眼看书 | 图书推荐 | 慧眼看](https://huiyankan.com)**
+
 ---
+**[z-library]{s}**
+  - [zh.z-library | proxy | 官网](https://zh.z-library.sk/)
+  - [备用 | 官网](https://zlib.bz/)
+  - [zz-library | proxy](https://zh.z-library.sk/)
+
+---
+**[Anna’s Archive | 安娜的档案]{s}**
+* **[Anna’s Archive | 安娜的档案](https://monoskop.org/Anna%27s_Archive)**
+  - [annas-archive.gl](https://annas-archive.gl/)
+  - [annas-archive.gd](https://annas-archive.gd/)
+  - [annas-archive.pk](https://annas-archive.pk/)
+  - [Anna’s Archive](https://annas-archive.gd/scidb)
+  - [annas-archive.gd/datasets](https://annas-archive.gd/datasets)
+
+  - **[blog.520233 | 非鱼的回响笔记](https://blog.520233.best/)**
+    * [	中国哲学书电子化计划](https://ctext.org/help-us/zhs)
+    * [道德经](https://www.shidianguji.com/book/SBCK106/chapter/SBCK106_4?page_from=searching_page&version=27)
+  - [Anna’s Archive | Brave基地 | 个人或小团队创作的项目](https://brave2049.com/tool/an-na-de-dang-an/)
+
+---
+**[读享不独享 - 海外华人的中文阅读网站]{s}**
+* **[读享不独享 - 海外华人的中文阅读网站](https://readershare.org/)**
+
+---
+**[雅书 - 免费PDF电子书下载网站]{s}**
+* **[雅书](https://yabook.org/)**
+
+---
+**[识典古籍-古籍在线阅读平台]{s}**
+* **[识典古籍-古籍在线阅读平台](https://www.shidianguji.com/)**
+
+---
+**[电子书宝藏导航]{s}**
+* **[电子书宝藏导航](https://shu.baozangdh.com/)**
+
+---
+### 0023. LINUX DO
+**[LINUX DO]{s}**
+* **[LINUX DO - 新的理想型社区](https://linux.do/)**
+
+---
+### 0024. 教材
+* **[教材 | 教科书 | 人教版](https://jc.pep.com.cn/)**
+
+---
+* **[教科书 | 课本](https://textbook.synaiv.com/)**
+
+---
+* **[学爸加加油 - 教育学习资源分享](https://xuebajiajiayou.com/)**
+  - **[国家中小学智慧教育平台电子教材全套 | quark](https://pan.quark.cn/s/44869c420044#/list/share)**
+
+* **[ahhhhfs - A姐分享](https://www.ahhhhfs.com/)**
+
+---
+### 0025. 天气 地质活动
+**[Ventusky]{s}**
+* **[Ventusky | Ventusky - Weather Forecast, Radar and Wind Maps](https://www.ventusky.com/)**
+  - [CalculatorSoup](https://www.calculatorsoup.com/calculators/conversions/fahrenheit-to-celsius.php)
+
+---
+**[全球气象数据]{s}**
+* **[全球气象数据 | earth :: a global map of wind, weather, and ocean conditions](https://earth.nullschool.net/)**
+
+---
+**[windy.com]{s}**
+* **[windy.com | proxy](https://windy.com)**
+
+
+---
+### 0026. 宝藏网站
+**[ifixit·免费修理手册]{s}**
+* **[ifixit·免费修理手册](https://zh.ifixit.com/)**
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
