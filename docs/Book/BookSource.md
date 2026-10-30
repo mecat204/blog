@@ -797,13 +797,13 @@
 
 ---
 ### 0028. 全球气象数据
-**[ventusky]{s}**
-* **[ventusky | Ventusky - 天气预报、雷达和风力图](https://www.ventusky.com/)**
+**[Ventusky]{s}**
+* **[Ventusky | Ventusky - Weather Forecast, Radar and Wind Maps](https://www.ventusky.com/)**
   - [CalculatorSoup](https://www.calculatorsoup.com/calculators/conversions/fahrenheit-to-celsius.php)
 
 ---
 **[全球气象数据]{s}**
-* **[全球气象数据](https://earth.nullschool.net/)**
+* **[全球气象数据 | earth :: a global map of wind, weather, and ocean conditions](https://earth.nullschool.net/)**
 
 ---
 **[windy.com]{s}**
