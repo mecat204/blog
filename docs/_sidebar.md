@@ -201,8 +201,8 @@
 
 ---
 * **Movie**
-  - [Movie](Movie/movie)
-  - [Online](Movie/online)
+  - [Movie](Movie/Movie)
+  - [Online](Movie/Online)
 
 ---
 * **科普·经济**
