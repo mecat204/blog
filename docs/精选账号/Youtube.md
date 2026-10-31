@@ -4613,8 +4613,9 @@
 * **[Chloe VS History | Powered by PAI 2.0 from @UtopaiStudios | 365K | YTB](https://www.youtube.com/@ChloeVSHistory/videos)**
 
   ---
-  **[tiktok]{g}**
-    - [tiktok](https://www.tiktok.com/@chloe.vs.history)
+  **[Website]{g}**
+    - [Tiktok](https://www.tiktok.com/@chloe.vs.history)
+    - [beacons.ai](https://beacons.ai/chloe.vs.history?__v=t1793404701840)
 
   - [I time travelled to Ancient Rome! (Vlog)](https://www.youtube.com/watch?v=aaua5ghidk0&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=1)
   - [I time travelled to Tudor London in 1536! (Vlog)](https://www.youtube.com/watch?v=-Sd1stYQp-c&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=2)
@@ -4622,7 +4623,8 @@
   - [I time travelled to Ancient Egypt in 2400BC! (Vlog)](https://www.youtube.com/watch?v=GJKU9qYGjN8&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=5)
   - [I time travelled to the Titanic 1912](https://www.youtube.com/watch?v=HZRdKlOHogk&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=6)
   - [Can I Survive 24 Hours in the Ice Age? (30,000BC)](https://www.youtube.com/watch?v=moKQeOMHqYA&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=6)
-  - [I time travelled to Edo Japan in 1657 | 穿越到1657年的日本江户(日江户大火)](https://www.youtube.com/watch?v=dx2T6kDh98g)
+  - [I time travelled to Edo Japan in 1657 , 穿越到1657年的日本江户(日江户大火)](https://www.youtube.com/watch?v=dx2T6kDh98g)
+  - [I visited Pompeii during its last 48 hours, 我参观了庞贝在它最后的48小时](https://www.youtube.com/watch?v=WZeT91jsFTw)
 
 ---
 **[God's Love Unending]{s}**
