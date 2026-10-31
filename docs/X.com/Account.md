@@ -348,6 +348,15 @@
   - [CodePawl | AI art studio in Vietnam | 越南](https://codepawl.com/)
 
 ---
+### 0022. Chetan Ankola
+**[Chetan Ankola]{s}**
+* **[Chetan Ankola](http://x.com/chetanankola)**
+  - [Hiroshi’s Island — 3ditions](https://3ditions.drop3.app/watch/hiroshis-island/)
+  - [Cankola Builds](https://cankolabuilds.com/)
+  - [chetan Ankola](https://github.com/chetanankola)
+  - [Chetan Ankola | 30 subscribers | YTB](https://www.youtube.com/@chetanankola1/videos)
+
+---
 ### 0100. 10倍生产力 · Douyin
 **[10倍生产力]{s}**
 * **[10倍生产力 | 我是小鱼 | 伍佰章 | Douyin](https://v.douyin.com/Hjzxem9OFl4/)**
