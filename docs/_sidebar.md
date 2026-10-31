@@ -263,7 +263,7 @@
 
 ---
 * **Work**
-  - [Work](Work/work)
+  - [Work](Work/Works)
   - [DigitalMediaPlatform](Work/DigitalMediaPlatform)
   - [ChatGPT](Work/ChatGPT)
 
