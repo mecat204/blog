@@ -162,9 +162,16 @@
     - [001 | Min: 03:59](https://v.douyin.com/kB5BJ7fHups/)
     - [002 | Min: 03:59](https://v.douyin.com/XwJkm7opGG4/)
     - [003 | Min: 04:01](https://v.douyin.com/qrJxvEe7J2s/)
-    - [004  Min: 03:54](https://v.douyin.com/2_EslzIEQRo/ )
+    - [004 | Min: 03:54](https://v.douyin.com/2_EslzIEQRo/ )
     - [005 | Min: 03:48](https://v.douyin.com/D-7cvDUoYKA/)
     - [006 | Min: 02:25](https://v.douyin.com/rpvLI6Zqo-o/)
+
+---
+### 0015. How So
+**[How So]{s}**
+* **[How So | 90.6K subscribers | YTB](https://www.youtube.com/@How-So/videos)**
+  - [The Bronze Age: 2000 Years in 20 Minutes, 青铜时代：20 分钟内了解 2000 年](https://www.youtube.com/watch?v=IpyAEDPa4Nw)
+  - [The Islamic World: 1000 Years in 18 Minutes, 伊斯兰世界：18 分钟内的 1000 年](https://www.youtube.com/watch?v=MpcgXTnd_74)
 
 ---
 ### 9999. 开源项目
