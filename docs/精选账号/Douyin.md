@@ -1512,17 +1512,17 @@
     - [这几句英文秀在我的心巴上了 | 028](https://v.douyin.com/YoI8xQkvBmo/)
 
 
-* **[DouYinLiveShow | 3.11万订阅者 | 5.1万粉丝 | 油管](https://www.youtube.com/@DouYinLiveShow/videos)**
+* **[DouYinLiveShow | 38.9K subscribers | YTB](https://www.youtube.com/@DouYinLiveShow/videos)**
   - [柳颜🔥打两份工攒嫁妆](https://www.youtube.com/watch?v=fUOxEAm69mQ)
 
 ---
 **[Yakumi]{e}**
-**[Yakumi | 每晚9:30全英直播 | 佰章 | Douyin](https://v.douyin.com/RSd8tv6rl-k/)**
+* **[Yakumi | 每晚9:30全英直播 | 佰章 | Douyin](https://v.douyin.com/RSd8tv6rl-k/)**
   - [全英直播 | 学英语](https://v.douyin.com/AaRj3neSqdY/)
 
 ---
 **[Liz老师]{e}**
-**[Liz老师 | 叁佰章 | Douyin](https://v.douyin.com/TjJ2omumzy4/)**
+* **[Liz老师 | 我的课程在橱窗里，全球30个国家同学和我在学 |  叁佰章 | Douyin](https://v.douyin.com/TjJ2omumzy4/)**
 
   ---
   **[001. 一起来联系吧]{lb}**
