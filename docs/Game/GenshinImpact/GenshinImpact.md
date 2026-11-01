@@ -839,6 +839,27 @@
   - [菱叶萦波荷飐风 荷花深处小船通](https://v.douyin.com/ntNBDq52QnU/)
 
 ---
+### 0034. 虚构史学家丶艾希
+**[虚构史学家丶艾希]{s}**
+* **[虚构史学家丶艾希 | mcn:杨桃星梦 合作:genshin_Ashe | 仟章 | Douyin](https://v.douyin.com/kzJUkY-fjCY/)**
+
+  ---
+  **[001. 原神野史]{g}**
+    - [原神野史 第276 到底谁才是牛马](https://v.douyin.com/G0cGnXsjIHQ/)
+    - [原神野史 第277集 愚人之眼](https://v.douyin.com/snmVQmdPK8I/)
+
+---
+### 0035. 流星的旅人
+**[流星的旅人]{s}**
+* **[流星的旅人 | 解读「原神文化」内核！ 励志成为最会剪「原神刀子」的UP主！| 仟章 | Douyin](https://v.douyin.com/ivbDkKxcWcU/)**
+
+  ---
+  **[原神·梦开始的地方]{g}**
+    - [如果有一天，我突然不在你身边了，你会不会难过 | 219](https://v.douyin.com/pnTwauBLLvY/)
+    - [如果重来一次，你会活出自己的人生吗 | 220](https://v.douyin.com/KUV6u0hBYx0/)
+
+
+---
 ### 0100. 柚叶知夏
 **[柚叶知夏]{s}**
 * **[柚叶知夏 | 更新甜甜的二创，感谢您的驻足呀 视频禁止搬运 | 佰章 | Douyin](https://v.douyin.com/bnuyCfPHrm8/)**

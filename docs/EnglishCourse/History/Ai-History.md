@@ -3,6 +3,10 @@
 * **[必应 | bing.com](https://cn.bing.com/)**
 
 ---
+**[TrickyBird]{s}**
+* **[TrickyBird](https://trickybird.com/)**
+
+---
 **[English Vocabulary Size Test]{s}**
 * **[English Vocabulary Size Test](https://www.vocabularytester.com/vocabulary-test)**
 
@@ -143,9 +147,33 @@
   - [The Frozen Past: How Ice Hockey Changed Sports Forever || English Listening Practice | Min: 25:40 | 003](https://www.youtube.com/watch?v=zwa6OhBwExE)
 
 ---
+### 0014. 英语史官
+**[英语史官]{s}**
+* **[英语史官 | 用英文分享冷门历史故事 刷新你对人类过往的认知 关注我，看不一样的历史视角 | 佰章 | Douyin](https://v.douyin.com/MOd8xvzo3WA/)**
+
+  ---
+  **[001. 青铜时代]{g}**
+    - [青铜时代（一）](https://v.douyin.com/Y0Q8EJRURoE/)
+    - [青铜时代（二）](https://v.douyin.com/q2Z6dCb4fgU/)
+    - [青铜时代（三）](https://v.douyin.com/SNe8NkR3ymU/)
+
+  ---
+  **[002. 中世界欧洲·纵览欧洲千年历史]{g}**
+    - [001 | Min: 03:59](https://v.douyin.com/kB5BJ7fHups/)
+    - [002 | Min: 03:59](https://v.douyin.com/XwJkm7opGG4/)
+    - [003 | Min: 04:01](https://v.douyin.com/qrJxvEe7J2s/)
+    - [004  Min: 03:54](https://v.douyin.com/2_EslzIEQRo/ )
+    - [005 | Min: 03:48](https://v.douyin.com/D-7cvDUoYKA/)
+    - [006 | Min: 02:25](https://v.douyin.com/rpvLI6Zqo-o/)
+
+---
 ### 9999. 开源项目
 **[必应]{s}**
 * **[必应 | bing.com](https://cn.bing.com/)**
+
+---
+**[TrickyBird]{s}**
+* **[TrickyBird](https://trickybird.com/)**
 
 ---
 **[English Vocabulary Size Test]{s}**

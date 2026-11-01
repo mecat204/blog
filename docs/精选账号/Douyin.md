@@ -746,17 +746,18 @@
   - [让你压声，没让你叛国～哈哈哈哈哈](https://v.douyin.com/Dj9j0xWWTLw/)
   - [我感受了一股杀气～哈哈哈哈](https://v.douyin.com/P3fitQxPFHY/)
   - [好久没听过这么干净的骂人话语了～](https://v.douyin.com/SlNQt6JYVZk/)
+  - [你别管，大胆去面试就好了 | 2026.11.01](https://v.douyin.com/SDX83BWx_3s/)
 
   ---
   **[001. 2026爆笑合集]{g}**
-    - **[各自拿下都好好处～哈哈哈哈 | 001](https://v.douyin.com/jcFVU2xWGv0/)**
-    - **[大姐在一声声姐姐中迷失自我 | 021](https://v.douyin.com/WfLL7goyUM0/)**
-    - **[我看看你有没有文化 | 065](https://v.douyin.com/1Y72iR0RhsQ/)**
+    - [各自拿下都好好处～哈哈哈哈 | 001](https://v.douyin.com/jcFVU2xWGv0/)
+    - [大姐在一声声姐姐中迷失自我 | 021](https://v.douyin.com/WfLL7goyUM0/)
+    - [我看看你有没有文化 | 065](https://v.douyin.com/1Y72iR0RhsQ/)
 
   ---
   **[002. 爆笑神评论]{g}**
-    - **[简单的嘴臭，才有极致的享受！哈哈哈 | 001](https://v.douyin.com/JGBPmkswohY/)**
-    - **[一点气都受不了，但..加钱可以 | 404](https://v.douyin.com/3DBUueRd-HQ/)**
+    - [简单的嘴臭，才有极致的享受！哈哈哈 | 001](https://v.douyin.com/JGBPmkswohY/)
+    - [一点气都受不了，但..加钱可以 | 404](https://v.douyin.com/3DBUueRd-HQ/)
 
 ---
 **[暴躁虾剪]{s}**
