@@ -1477,7 +1477,7 @@
   - [Cn: 深淡音乐]{g}
 
   ---
-  - [Deep House Mix 2025 — Smooth Night Groove | Melodic Chill Vocals & Relax Vibes #3](https://www.youtube.com/watch?v=l2Kokqr_fZw)
+  - [Deep House Mix 2025 — Smooth Night Groove | Melodic Chill Vocals & Relax Vibes](https://www.youtube.com/watch?v=l2Kokqr_fZw)
 
 ---
 **[chika clarissa]{e}**

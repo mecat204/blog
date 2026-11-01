@@ -1061,6 +1061,10 @@
     - [年少时，谁不曾做过一场修仙梦？ 梦里有一叶扁舟，驶向那悬于九天之上的白玉京；梦里有一卷天书，藏着长生不老的秘密。| 095](https://v.douyin.com/Y9eIC2P_QRk/)
     - [我们向往天宫，其实向往的是那份超脱凡尘的自由；我们渴望修仙，其实是在对抗世俗的平庸。 可是啊，那仙人指路的飘逸背后，是万卷经书的苦读，是斩断凡尘的决绝。 欲上青天揽明月，先受人间万般苦。这世间，哪有凭空得来的仙缘？所有的不朽，不过都是凡人的极致死磕。 愿你我皆能修得心中的那座天宫。]{lb}
 
+    ---
+    - [原来古人说的“天上人间”，是真的存在的。| 100](https://v.douyin.com/ZqR-V_t3AYc/)
+    - [你看那万丈云海、飞流直下的天瀑，还有那踏着轻风、衣袂翻飞的仙人。 凡人一生困于柴米油盐，而修仙者，却能拥抱星辰大海。 真想去那仙宫里翻翻古籍，听听仙鹤的鸣叫。 哪怕只是做一场白日梦，也想在这仙气里，多醉一会儿。]{lb}
+
   ---
   **[003. 国风赛博]{g}**
     - [檐挑着霓虹，古楼住着未来。当御剑的风，吹过全息的灯，才懂什么叫，一眼穿千年 | 001](https://v.douyin.com/SeSOWjmYzmE/)
@@ -2402,6 +2406,9 @@
     ---
     - [永恒的不需要珍惜，会失去的才需要 | 013](https://v.douyin.com/Xj1QE_Sd80M/)
 
+    ---
+    - [巢深林不过一枝，饮大河不过满腹 | 029](https://v.douyin.com/ango7uTeMCY/)
+
 ---
 ### 0114. AI创可贴
 **[AI创可贴]{s}**
@@ -2464,7 +2471,17 @@
 ### 0121. 张小千
 **[张小千]{s}**
 * **[张小千 | Neowow签约导演 | 佰章 | Douyin](https://v.douyin.com/GfMLzO8WC1s/)**
-  - [燕然: Min: 40:54 | 001](https://v.douyin.com/5Jh0WYnkuBM/)
+  - [燕然: Min: 40:54 | 006](https://v.douyin.com/5Jh0WYnkuBM/)
+
+  ---
+  **[001. 燕然]{g}**
+    - [将自制96分钟大型传统仙侠电影《燕然》 大唐安西元年，西域燕然城召开万灵大会。魁首十人，将代表大唐进入安西灵境，角逐仙道至尊 | Min: 04:48 - 001](https://v.douyin.com/u2TARvey6Cg/)
+    - [002 | Min: 07:40](https://v.douyin.com/-V3sxTsec3s/)
+    - [003 | Min: 08:31 ](https://v.douyin.com/GJNWqEo3nNM/)
+    - [004 | Min: 09:38](https://v.douyin.com/G-7S-oEtc0A/)
+    - [005 | Min: 11:42](https://v.douyin.com/SqaXcaUs1cA/)
+    - [燕然: Min: 40:54 | 006](https://v.douyin.com/5Jh0WYnkuBM/)
+    - [大型传统仙侠电影剧集《燕然》 Min: 09:08 | 007](https://v.douyin.com/tPuJPQsX1ws/)
 
 ---
 ### 0122. 自由飞升
@@ -2513,6 +2530,18 @@
 * **[Alyo | 佰章 | Douyin](https://v.douyin.com/tNRmWWQKJAc/)**
   - [表面皆是温柔，心底全是疏离。对着世间演一场热闹， 笑脸是面具，温柔是剧本](https://v.douyin.com/g83HlVs8FzM/)
   - [温柔是演出来的。身在花丛，心在别处， 所有的笑意，不过逢场作戏](https://v.douyin.com/e8igBJQyzwg/)
+
+---
+### 0128. 角色待机屋·GenshinImpact
+**[角色待机屋]{s}**
+* **[角色待机屋 | 纯粹的二次元，纯粹的快乐 | 佰章 | Douyin](https://v.douyin.com/bgUm_07eqGw/)**
+
+  ---
+  **[001. GenshinImpact]{g}**
+    - [雪鹤之章](https://v.douyin.com/4CfRGnczV7I/)
+    - [无想的一刀](https://v.douyin.com/SMsS6Hq5w5U/)
+    - [愚人众执行官 严格上来说这个才是第1期，太多的想法不知道从何入手，就有了这个版本](https://v.douyin.com/ekLgJXSNYXE/)
+    - [罪人的终幕](https://v.douyin.com/7jecCglIASQ/)
 
 ---
 ### 0128. 大大怪下士(滇嘎)
