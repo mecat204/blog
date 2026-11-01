@@ -4734,6 +4734,26 @@
   - [Forever and Always Audrey Hepburn](https://www.youtube.com/watch?v=1HznLo-DVrI)
 
 ---
+### 0201. QUICK GLANCE KYOTO
+**[QUICK GLANCE KYOTO]{s}**
+* **[QUICK GLANCE KYOTO | 4.99K subscribers | YTB](https://www.youtube.com/@QuickGlanceKyoto/videos)**
+  - [冬の京都 雪景色](https://www.youtube.com/playlist?list=PLNgrE2MtpejU2xtTwT2Ez0SUxLil-jjdV)
+
+  ---
+  - [冬の京都❄️ 天龍寺 〜世界遺産で国の特別名勝指定の天龍寺](https://www.youtube.com/watch?v=vYLozGIX4Dg&list=PLNgrE2MtpejU2xtTwT2Ez0SUxLil-jjdV&index=12)
+
+---
+### 0202. Japan Travel Walk
+**[Japan Travel Walk]{s}**
+* **[Japan Travel Walk | 42.8K subscribers | YTB](https://www.youtube.com/@JapanTravelWalk/videos)**
+  - [First snowfall on Mount Fuji! Filmed at Oishi Park](https://www.youtube.com/watch?v=wwCSG9OH45s)
+
+---
+### 0202. J Cosmos and Jason's Life
+**[J Cosmos and Jason's Life]{s}**
+  - [Stunning Winter in Nagano, Japan | Snow Monkeys, Sacred Shrines & Alps | 4K Cinematic Film](https://www.youtube.com/watch?v=lj1glk7I9fc)
+
+---
 ### 0300. The Drew Barrymore Show
 **[The Drew Barrymore Show]{s}**
 * **[The Drew Barrymore Show | 1.47M subscribers |  YTB](https://www.youtube.com/@TheDrewBarrymoreShow/videos)**
