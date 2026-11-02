@@ -2972,6 +2972,18 @@
     - [每日渔获情报，我靠赶海成为首富]{lb}
 
 ---
+### 0305. 云图漫剧
+**[云图漫剧]{s}**
+* **[云图漫剧 | 20.9K subscribers | YTB](https://www.youtube.com/@%E4%BA%91%E5%9B%BE%E6%BC%AB%E5%89%A7/videos)**
+  - [《不该存在的访客》1-2，穿回爸妈上学的年代](https://www.youtube.com/watch?v=8VZEEiQ5ryk)
+
+---
+### 0305. 欣欣看剧
+**[欣欣看剧]{s}**
+* **[欣欣看剧 | 78.9K subscribers | YTB](https://www.youtube.com/@%E6%AC%A3%E6%AC%A3%E7%9C%8B%E5%89%A7)**
+  - [A Cross-Time Reunion! Back to My Parents at 18 to Rewrite Their Regrets, 跨时空重聚,18岁回到父母身边，重写他们的遗憾](https://www.youtube.com/watch?v=74dq_K5xGdw)
+
+---
 ### 0306. 清夏剧场·收费
 **[清夏剧场]{s}**
 * **[清夏剧场 | 每日更新精彩内容🎞 海量短剧等你来看 | 仟章 | Douyin](https://v.douyin.com/nxL2zPaASsE/)**
