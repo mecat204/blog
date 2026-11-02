@@ -4754,6 +4754,27 @@
   - [Stunning Winter in Nagano, Japan | Snow Monkeys, Sacred Shrines & Alps | 4K Cinematic Film](https://www.youtube.com/watch?v=lj1glk7I9fc)
 
 ---
+### 0203. GEO Discoveries
+**[GEO Discoveries]{s}**
+* **[GEO Discoveries | 3.56K subscribers | TVB](https://www.youtube.com/@GEODiscoveries8)**
+  - [Hidden Russia: The Most Impossible Country on Earth, Places No Road Can Reach |4K Travel Documentary, 隐藏的俄罗斯：地球上最不可能的国度，无路可及 | 4K旅游纪录片](https://www.youtube.com/watch?v=IQxKEEV93yo)
+
+  ---
+  - [Hidden Egypt: The Most Ancient Country on Earth | 4K Travel Documentary, 隐藏的埃及：地球上最古老的国家| 4K旅游纪录片](https://www.youtube.com/watch?v=R3XpcbfV17w)
+
+  ---
+  - [Oman: The Country Too Mystical to Be Real Most Travelers Will Never Find | 4K Travel Documentary, 阿曼：一个大多数旅行者永远找不到的神秘国家4K旅游纪录片](https://www.youtube.com/watch?v=rSJAZkXQHf4)
+
+  ---
+  - [HIMALAYAS: The Hidden Side of Earth’s Deadliest Mountains | 4k Travel Documentary, 喜马拉雅山：地球上最致命山脉的隐藏面4k旅游纪录片](https://www.youtube.com/watch?v=7dTbGz0e8z0)
+
+  ---
+  - [Unseen Canada: The Emptiest Country on Earth | 4K Travel Documentary, 看不见的加拿大：地球上最空旷的国家4K旅游纪录片](https://www.youtube.com/watch?v=4ny-EUcuwxM)
+
+  ---
+  - [Yemen: The Country That Hides Another World | 4K Travel Documentary, 也门：隐藏另一个世界的国家4K旅游纪录片](https://www.youtube.com/watch?v=LZR_EhalBq0)
+
+---
 ### 0300. The Drew Barrymore Show
 **[The Drew Barrymore Show]{s}**
 * **[The Drew Barrymore Show | 1.47M subscribers |  YTB](https://www.youtube.com/@TheDrewBarrymoreShow/videos)**
