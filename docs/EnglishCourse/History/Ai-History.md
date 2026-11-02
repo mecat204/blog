@@ -174,6 +174,12 @@
   - [The Islamic World: 1000 Years in 18 Minutes, 伊斯兰世界：18 分钟内的 1000 年](https://www.youtube.com/watch?v=MpcgXTnd_74)
 
 ---
+### 0016. 凡二两
+**[凡二两]{s}**
+* **[凡二两 | 即梦Ai优质创作者 | 佰章 | Douyin](https://v.douyin.com/p_sg7D5Vz58/)**
+  - [古代几万人打仗，靠什么知道该进还是该退 | 011](https://v.douyin.com/Oj8AfL-uqVY/)
+
+---
 ### 9999. 开源项目
 **[必应]{s}**
 * **[必应 | bing.com](https://cn.bing.com/)**
