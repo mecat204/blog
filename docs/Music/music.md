@@ -1885,6 +1885,42 @@
   - [变成平静的人 需要多久 | 004](https://v.douyin.com/xbwO-ZuEZYo/)
 
 ---
+### 2000. 阳江稻草·二创凡人
+**[阳江稻草]{s}**
+* **[阳江稻草 | 新人博主，凡人二创原创AI音乐持续更新中…… 道友请了，好听](https://v.douyin.com/penYasl_Vx0/)**
+
+  ---
+  **[凡人二创-凡人角色]{g}**
+    - [《到底谁放的烟花》-紫灵，毁我拿下韩老魔的计划 | Min: 02:54 | 004](https://v.douyin.com/niWlgYkoe28/)
+
+    ---
+    - [星海忆月-文思月-葡萄仙子来了 | Min: 04:31 | 021](https://v.douyin.com/TS2YssBJX4Q/)
+
+    ---
+    - [你总是这样，遇到难回答问题就不说话了！-墨彩环 《遇到难回答的问题你又不说话了》| 归期 Min: 05:09 | 022](https://v.douyin.com/Jm415NMaDh0/)
+
+    ---
+    - [笼中凰-燕如嫣 | Min: 03:11 | 038](https://v.douyin.com/dGulaX0XhuI/)
+
+    ---
+    - [一寸人间 | Min: 04:27 | 032](https://v.douyin.com/vuM49zt7_8Y/)
+
+    ---
+    - [故人-李缨宁 | Min: 04:27 | 043](https://v.douyin.com/Fkgf9KMREyg/)
+
+    ---
+    - [凡人二创《天南话事人》-柳玉rapper之天南新说唱 | Min: 02:58 | 048](https://v.douyin.com/WrZ1lWX_Lds/)
+
+    ---
+    - [撕心裂肺！云雾-慕沛灵 | Min: 05:29 | 047](https://v.douyin.com/v00q3Jk9pa4/)
+
+    ---
+    - [阁下路过我落云宗 | Min: 03:56 | 054](https://v.douyin.com/Gxl8w05ffMQ/)
+
+    ---
+    - [银月什么时候喜欢上韩立的 | Min: 03:43 | 055](https://v.douyin.com/v3WquafVZoU/)
+
+---
 ### 9999. Music·Course
 **[AlgerMusicPlayer]{s}**
 * **[AlgerMusicPlayer | music | software](https://github.com/algerkong/AlgerMusicPlayer)**

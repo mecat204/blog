@@ -224,6 +224,7 @@
 ### 0003. Andrej Karpathy
 **[Andrej Karpathy]{s}**
 * **[Andrej Karpathy](https://x.com/karpathy)**
+  - [HuckerTube](https://www.huckertube.org)
 
 ---
 ### 0004. Codez | Content creator | AI researcher & builder | AI insights from 2030
@@ -362,6 +363,11 @@
 * **[Saccc_c, 花叔](https://x.com/Saccc_c)**
   - [小王子, 花书](https://github.com/alchaincyf/huashu-art-motion)
   - [littleprince](https://littleprince.dev/)
+
+---
+### 0024. lauren
+**[lauren]{s}**
+* **[]()**
 
 ---
 ### 0100. 10倍生产力 · Douyin
