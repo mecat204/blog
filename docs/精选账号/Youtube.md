@@ -4821,6 +4821,42 @@
 * **[Fairy Tales and Stories for Kids | 3.09M subscribers |  YTB](https://www.youtube.com/@FairyTales.English/videos)**
 
 ---
+### 0601. Epic – Kids' Digital Library
+**[Epic – Kids' Digital Library]{s}**
+* **[Epic – Kids' Digital Library | 446K subscribers | YTB](https://www.youtube.com/@epicforkids/videos)**
+
+  ---
+  **[website]{g}**
+    - [ePic, url](https://www.getepic.com/sign-in)
+
+  ---
+  - [[Webinar] Digital Citizenship Starts Here: Building Healthy, Responsible Readers, 网络研讨会, 数字公民从这里开始：培养健康、负责任的读者](https://www.youtube.com/watch?v=fxrz3TLxs8o)
+
+---
+### 0602. My Little Pony - Official Channel
+**[My Little Pony - Official Channel]{s}**
+* **[My Little Pony - Official Channel | 6.53M subscribers | YTB](https://www.youtube.com/@MyLittlePonyOfficial/videos)**
+  - [SEASON 3 MINI MOVIE 😊🦋💕 EP1-12 | 4 HOURS | My Little Pony: Friendship is Magic | Mega Compilation, 第 3 季迷你电影 😊🦋💕 EP1-12 | 4 小时 |《我的小马驹：友谊就是魔法》|超级汇编 | Min: 03:56:45](https://www.youtube.com/watch?v=wWyrzUtZSK8)
+
+---
+### 0603. OkiDokiDo
+**[OkiDokiDo]{s}**
+* **[OkiDokiDo | 1.04M subscribers | YTB](https://www.youtube.com/@OkiDokiDo/videos)**
+  - [RAPUNZEL Fairy Tale Cartoon 👱🏻‍♀️ Watch Full Movie Without Interruptions, 长发公主童话卡通👱🏻‍♀️, 不间断地观看完整电影 | Min: 48:10](https://www.youtube.com/watch?v=tObjXM0yBWg)
+
+---
+### 0604. Scholastic After School
+**[Scholastic After School]{s}**
+* **[Scholastic After School | 602K subscribers | YTB](https://www.youtube.com/@ScholasticAfterSchool/videos)**
+  - [A Kind of Spark Full Season ✨ Full Episodes | Season 1 | Scholastic After School, 一种火花全季, 完整剧集 |第 1 季 |放学后的学业 | Min: 03:48:13](https://www.youtube.com/playlist?list=PLwXfifOlVIXuPTT013qhLL2pvJYyTB1aB)
+
+---
+### 0605. Disney Channel
+**[Disney Channel]{s}**
+* **[Disney Channel | 5.37M subscribers | YTB](https://www.youtube.com/@disneychannel/videos)**
+  - [Vampirina: Teenage Vampire First FULL Episode "First Year to Watch"! 💜🦇 | Disney Channel, 吸血鬼：青少年吸血鬼第一集完整剧集“第一年观看”！](https://www.youtube.com/watch?v=BT3puol4UD4)
+
+---
 ### 0900. News
 **[ITV News]{s}**
 * **[ITV News | 2.21M subscribers |  YTB](https://www.youtube.com/@ITVNews/videos)**
