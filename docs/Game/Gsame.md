@@ -203,6 +203,12 @@
   - [原神文案组不要再造神了，怎么每句话都没让我失望过](https://v.douyin.com/78sQWNEvu38/)
 
 ---
+### 0019. 蓝色大肥鱼wuhu～·Ai
+**[蓝色大肥鱼wuhu～]{s}**
+* **[蓝色大肥鱼wuhu～ | 我是一只大肥鱼，爱吃白米饭！ 感谢大家的热情，大家的弹幕太火 | 直播 | Douyin](https://v.douyin.com/0sy25yhJLts/)**
+  - [蓝色大肥鱼wuhu～ | 我是一只大肥鱼，爱吃白米饭！ 感谢大家的热情，大家的弹幕太火](https://v.douyin.com/LSDBGZ7RjbQ/)
+
+---
 ### 0100. 油管推广广告
 **[Foundation: Galactic Frontier]{s}**
 * **[Foundation: Galactic Frontier](https://www.foundation.game/en)**

@@ -41,7 +41,7 @@
 
 ---
 **[✨青儿✨]{s}**
-* **[✨青儿✨ | 简单快乐，爱美、爱生活的北京姐姐💃😊🌹 | 千章 | Douyin](https://v.douyin.com/pchA6wAENUo/)**
+* **[✨青儿✨ | 简单快乐，爱美、爱生活的北京姐姐💃😊🌹 | 仟章 | Douyin](https://v.douyin.com/pchA6wAENUo/)**
   - [说我们🐱不笑了呢😂😂😂](https://v.douyin.com/dCe75FAohS0/)
   - [随变ai随便玩 妈呀，看着好痛😂😂😂 | 猫AI](https://v.douyin.com/_SiyuI6xpIc/)
   - [哈哈哈，病治好了该出去打工挣钱啦😂😂😂](https://v.douyin.com/95HNwppvaY8/)
@@ -95,7 +95,7 @@
 
 ---
 **[星尘旅馆]{s}**
-* **[星尘旅馆 | Never stop dreaming. | 4K | 原创AI视频 - 科幻/巨物/视听美学 | 五百章 | Douyin](https://v.douyin.com/ZDZ4y4ZENfA/)**
+* **[星尘旅馆 | Never stop dreaming. | 4K | 原创AI视频 - 科幻/巨物/视听美学 | 伍佰章 | Douyin](https://v.douyin.com/ZDZ4y4ZENfA/)**
   - [深渊代谢体的觉醒](https://v.douyin.com/0tAjAT04xBo/)
 
   - [深渊代谢体的觉醒 在第47个实验宇宙中，地球的演化轨迹被极端地篡改。其被称为"Terra-47"，一个被高维文明设定为行星生态实验场的版本。 这颗行星的构造层异常活跃，地幔中的能量密度远超常规地球。某种被称为深渊熵化体的实体，数百万年来沉睡于一处稳定热泉深渊中。直到一次未知的行星引力扰动，引发该地区的地热异常，它被唤醒。与地核或某种能量场的同步，使它无数的"眼睛"具备精神同频能力，吸引地球上的智慧生命。直视它的眼睛的人会感到意识在它眼中被剖开，然后被主动吸引过去。 它冲破海面，向最近的活火山岛移动。进入火山内部后，它迅速与岩浆产生共生反应，开始吸收硅基矿物质与热能，并使山体结构失衡坍塌。数小时后，它在火山岛的另一侧破土而出，体型暴涨，几乎覆盖整个岛屿。 在随后的数周内，深渊熵化体不断释放子体前往其他火山点，如细胞繁殖般扩张。每当其核心吞噬新的火山能量，它的结构就会演化一轮。最终，吸收地核上亿吨岩浆后，它的体积膨胀至覆盖大半个Terra-47的地壳，成为一个活的地幔上层结构，控制着行星的热能流动与构造板块的迁移。 但这只是它"代谢进化"的初期阶段。它并不只是一个巨型生物体，而可能是某种高维生态调控机制的载体，一个旨在吞并、重构整个星球生态与物理规律的"行星重启器"]{g}
@@ -113,7 +113,7 @@
 
 ---
 **[动漫人物壁纸丶KK]{s}**
-* **[动漫人物壁纸丶KK | 不定期更新动漫壁纸和视频，本人也是一名电商美工有需要作图的也可联系,喜欢的点关注 | 千章 | Douyin](https://v.douyin.com/1GLykkFGBhE/)**
+* **[动漫人物壁纸丶KK | 不定期更新动漫壁纸和视频，本人也是一名电商美工有需要作图的也可联系,喜欢的点关注 | 仟章 | Douyin](https://v.douyin.com/1GLykkFGBhE/)**
   - [AI邵氏风农夫防扰记](https://v.douyin.com/sXv9MF0NM9o/)
 
 ---
@@ -136,13 +136,13 @@
 
 ---
 **[思维交锋]{s}**
-* **[思维交锋 | 书籍是一盏灯 | 五百章](https://v.douyin.com/2veRImZBsVE/)**
+* **[思维交锋 | 书籍是一盏灯 | 伍佰章](https://v.douyin.com/2veRImZBsVE/)**
   - [**吉尔·泰勒** | **哈佛大学脑神经科学家**](https://v.douyin.com/acIaZ-P7uMA/)
   - [1996年12月的一天，37岁的哈佛大学脑神经科学家吉尔·泰勒站在卫生间的镜子前，正准备开始新一天的工作。突然，一阵剧烈的疼痛在她左眼后方炸开。看见镜子里的左眼瞳孔正慢慢放大，作为一名顶尖脑科学家，她立刻明白这是左脑血管破裂的信号。吉尔比任何人都清楚这意味着什么。她知道，大脑不会在一瞬间崩塌，而是会像一座逐区断电的城市：语言、逻辑、时间感知、空间定位……一个功能区接着一个功能区熄灭。更残酷的是，她的意识还清醒着，将以一个神经科学家的视角，全程目睹自己"人格"的消亡]{g}
 
 ---
 **[月生国漫社]{s}**
-* **[月生国漫社 | 每天更新精彩动画短片 | 二百章 | Douyin](https://v.douyin.com/xNfVq_epcwA/)**
+* **[月生国漫社 | 每天更新精彩动画短片 | 叁佰章 | Douyin](https://v.douyin.com/xNfVq_epcwA/)**
   - [你怎么跟我比，我崩溃过，你崩溃过吗](https://v.douyin.com/tJTE9FEEqog/)
 
 ---
@@ -232,7 +232,7 @@
 
 ---
 **[英语橙子老师]{s}**
-* **[英语橙子老师 | 初中英语教师资格证，心理教师资格证 | 二百章 | Douyin](https://v.douyin.com/xQnItp_2Uy8/)**
+* **[英语橙子老师 | 初中英语教师资格证，心理教师资格证 | 叁佰章 | Douyin](https://v.douyin.com/xQnItp_2Uy8/)**
   - **[New Concept English 01]{g}**
     * **[New Concept English 01 | Lesson-001](https://v.douyin.com/bLpKj_X6yzQ/)**
     * **[New Concept English 01 | Lesson-043](https://v.douyin.com/ZSy14MhMSBQ/)**
@@ -299,7 +299,7 @@
 ---
 ### 0006. 动画 | Ai
 **[豆豆双语岛]{s}**
-* **[豆豆双语岛 | 原创英语故事视频 看寓言故事学英语 小故事大道理 | 三百章 | Douyin](https://v.douyin.com/s86SA_SrYFw/)**
+* **[豆豆双语岛 | 原创英语故事视频 看寓言故事学英语 小故事大道理 | 叁佰章 | Douyin](https://v.douyin.com/s86SA_SrYFw/)**
 
   **[001. 英语童话小故事]{g}**
     - [英语童话故事，小学英语阅读 | 001](https://v.douyin.com/O8FDWuicu9M/)
@@ -325,7 +325,7 @@
 ---
 ### 0007. 像素诗人·公子慕辰
 **[像素诗人·公子慕辰]{s}**
-* **[像素诗人·公子慕辰 | AI数字艺术 "像素诗人联盟" | 二百章 | Douyin](https://v.douyin.com/5kXd-wc3tCA/)**
+* **[像素诗人·公子慕辰 | AI数字艺术 "像素诗人联盟" | 叁佰章 | Douyin](https://v.douyin.com/5kXd-wc3tCA/)**
   - [化外之境](https://v.douyin.com/EIfvqNUdNgY/)
   - [这是我梦中的东方幻境](https://v.douyin.com/7aeVzub8OHk/)
   - [维度时空之门](https://v.douyin.com/wQ5T0XTDzjQ/)
@@ -351,7 +351,7 @@
 ---
 ### 0008. Ai灵感主义 4K
 **[Ai灵感主义]{s}**
-* **[Ai灵感主义 | AIGC设计师🧑‍🎨 数字艺术家🎨 灵感做图 全凭想象 | 五百章 | Douyin](https://v.douyin.com/PgENfCxFzBk/)**
+* **[Ai灵感主义 | AIGC设计师🧑‍🎨 数字艺术家🎨 灵感做图 全凭想象 | 伍佰章 | Douyin](https://v.douyin.com/PgENfCxFzBk/)**
   - [或许在梦境是平时宇宙中的另一个你… 梦境很奇怪，冥冥之中似乎与其他的东西有联系，或许未来的科技可以解决很多难题…..| 航拍 | 宇宙 | 探索宇宙 | 艺术在抖音 | 视觉震撼](https://v.douyin.com/Ab-lZBDwt70/)
   - [古代遗迹里的宫殿是什么样的呢？ 曾经的宫殿什么人居住过？| 艺术在抖音 | AI创作浪潮计划 | 古风 | 视觉震撼 | 海艺AI](https://v.douyin.com/DdnwurCADao/)
   - [当你在未来星际旅行中遇到一颗矬恒星…. 这颗非常小的恒星照亮了它所在的星系，所有的行星🪐都像家人一样被它照耀](https://v.douyin.com/SEPb02ktX5g/)
@@ -834,39 +834,40 @@
 
 ---
 **[丸子美景]{s}**
-* **[丸子美景 | 用镜头记录美好生活.用心灵感悟人生 | 千章 | Douyin](https://v.douyin.com/BeuATp-Zv40/)**
+* **[丸子美景 | 用镜头记录美好生活.用心灵感悟人生 | 仟章 | Douyin](https://v.douyin.com/BeuATp-Zv40/)**
   - [下雪天，这样的林中小屋 你最想和谁一起住。](https://v.douyin.com/pGZvUn17W28/)
   - [下雪天，这样的林中小屋 你最想和谁一起住。](https://v.douyin.com/5ptvjN9aRfI/)
   - [这样的山洞卧室 你最想和谁一起住。想住哪一层](https://v.douyin.com/NIsTDgUEiE0/)
 
 ---
 **[幽念]{s}**
-* **[幽念 | Home | 五百章 | Douyin](https://v.douyin.com/_XGo8WCSJHg/)**
+* **[幽念 | Home | 伍佰章 | Douyin](https://v.douyin.com/_XGo8WCSJHg/)**
   - [治愈小窝](https://v.douyin.com/Qb9MUAb4sck/)
   - [下雨天没人打扰你，你在这个卧室最想干什么](https://v.douyin.com/J4kqhY_QBjo/)
   - [被困山林险境，你选择哪个庇护所](https://v.douyin.com/RhDk3Ph72B4/)
 
 ---
-**[絵梦居]{s}**
-* **[絵梦居 | Home | 五百章 | Douyin](https://v.douyin.com/Q2hvvsWqQqc/)**
+**[絵梦居]{e}**
+* **[絵梦居 | Home | 仟章 | Douyin](https://v.douyin.com/Q2hvvsWqQqc/)**
   - [治愈系](https://v.douyin.com/qAAPxn-rWtQ/)
   - [温馨小家 | loft复式](https://v.douyin.com/LnuR2OcEvRI/)
   - [寻找一处公寓，没人打扰，享受一个人独处的时光](https://v.douyin.com/Y4qr5j_U16c/)
   - [蓝色系 loft复式](https://v.douyin.com/9xZ1Xn3Mxnw/)
+  - [治愈系复式小屋，每一间都想住，你 pick](https://v.douyin.com/MGAihLl48Ts/)
 
 ---
-**[设计师-扶苏 | 宋式美学]{s}**
-* **[设计师-扶苏 | 15年私宅设计经验 擅长宋式 | 中古风 | 侘寂风 | 纯中式风格 |  二百章 | Douyin](https://v.douyin.com/EjG7zggsskI/)**
+**[设计师-扶苏·宋式美学]{s}**
+* **[设计师-扶苏 | 15年私宅设计经验 擅长宋式 | 中古风 | 侘寂风 | 纯中式风格 |  叁佰章 | Douyin](https://v.douyin.com/EjG7zggsskI/)**
   - [宋氏美学](https://v.douyin.com/mJGhiI1UC9w/)
 
 ---
 **[媛姐美景]{s}**
-* **[媛姐美景 | 按照大自然的规律，你该遇见我了。| 三百章 | Douyin](https://v.douyin.com/q1xSNYyXIsM/)**
+* **[媛姐美景 | 按照大自然的规律，你该遇见我了。| 叁佰章 | Douyin](https://v.douyin.com/q1xSNYyXIsM/)**
   - [林中小屋](https://v.douyin.com/I4yKGk3KlR8/)
 
 ---
 **[忘忧境]{s}**
-* **[忘忧境 | 今天辛苦啦，愿我的视频能够给你带来治愈。| 千章 | Douyin](https://v.douyin.com/8qxdSsz7BbE/)**
+* **[忘忧境 | 今天辛苦啦，愿我的视频能够给你带来治愈。| 仟章 | Douyin](https://v.douyin.com/8qxdSsz7BbE/)**
   - [loft复式](https://v.douyin.com/T9CH2o1cGlA/)
   - [温馨小窝](https://v.douyin.com/PuDySC0M4Bo/)
   - [林中小屋](https://v.douyin.com/YMr_dil1hiA/)
@@ -875,7 +876,7 @@
 
 ---
 **[画语]{s}**
-* **[画语 | 今天辛苦啦，让我的镜头轻抚你的疲惫。| 温馨小窝 | 三百章 | Douyin ](https://v.douyin.com/SS0CJXxRZN4/)**
+* **[画语 | 今天辛苦啦，让我的镜头轻抚你的疲惫。| 温馨小窝 | 叁佰章 | Douyin ](https://v.douyin.com/SS0CJXxRZN4/)**
   - [享受安静和独处](https://v.douyin.com/TcKDEht-kcI/)
   - [独居生活 | loft公寓 | **Music: 满目星河(Star river in your eyes**)](https://v.douyin.com/b8V_mCMkaO4/)
   - [loft复式 | 梦中情房](https://v.douyin.com/sSD39r513Io/)
@@ -947,7 +948,7 @@
 ---
 ### 0033. 云里 | Genshin Impact
 **[云里 | AIGC]{s}**
-* **[云里 | 不定时更新视频，谢谢关注！努力成为ai大王中 | 千章 | Douyin](https://v.douyin.com/NL9jPNFzWyM/)**
+* **[云里 | 不定时更新视频，谢谢关注！努力成为ai大王中 | 仟章 | Douyin](https://v.douyin.com/NL9jPNFzWyM/)**
   - [尼可：今天艾莉丝怎么睡得这么死](https://v.douyin.com/hHa-9OHgQGQ/)
   - [原神冰之女皇](https://v.douyin.com/d6N-XQ_74Jc/)
 
@@ -1095,7 +1096,7 @@
 ---
 ### 0039. IKUN(真)
 **[IKUN(真)]{g}**
-* **[IKUN (真) | 我们永不消逝 永远热爱赛博朋克2077 | 千章](https://v.douyin.com/66DTmX4u6RY/)**
+* **[IKUN (真) | 我们永不消逝 永远热爱赛博朋克2077 | 仟章](https://v.douyin.com/66DTmX4u6RY/)**
 
   ---
   **[001. 未来赛博美学]{g}**
@@ -2461,7 +2462,7 @@
 ---
 ### 0115. 辛蹦蹦
 **[辛蹦蹦]{e}**
-* **[辛蹦蹦 | 闲着无聊，开个直播玩。。。无聊的！都进来一起闲聊哈 | 千章](https://v.douyin.com/ErvYRZVNJAo/)**
+* **[辛蹦蹦 | 闲着无聊，开个直播玩。。。无聊的！都进来一起闲聊哈 | 仟章](https://v.douyin.com/ErvYRZVNJAo/)**
   - [学习经济学的重要意义](https://v.douyin.com/Ah5ESOPGHgI/)
 
 ---
@@ -2633,6 +2634,87 @@
     - [恭迎仙君，飞升上界了 | 025](https://v.douyin.com/vybGLrHCof8/)
     - [恭喜道友大婚 | 026](https://v.douyin.com/z0RBG3E6Y4k/)
     - [合欢宗主封妖 | 027](https://v.douyin.com/B7HuVhzRXuU/)
+
+---
+### 0135. 十年踪迹·AI 搞笑情景剧
+**[十年踪迹·AI 搞笑情景剧]{s}**
+* **[十年踪迹·AI 搞笑情景剧 | AI 视频独立制作人 | 伍佰章 | Douyin](https://v.douyin.com/IOOyFVpTvNQ/)**
+
+  ---
+  **[001. 奇妙豆包姐]{g}**
+    - [豆包做梦都想继承公司，结果一根蜡烛把公司炸了 | 158](https://v.douyin.com/wloDWUIcVtM/)
+
+    ---
+    - [女销售向豆包推销谅解服务，下一秒自己先崩了 | 159](https://v.douyin.com/Wm9wTZWGcJQ/)
+
+    ---
+    - [算命摊上最离谱的搞钱建议出现了 | 160](https://v.douyin.com/GQl4Evezcfo/)
+
+---
+### 0136. 蚕豆
+**[蚕豆]{s}**
+* **[蚕豆 | 伍佰章 | Douyin](https://v.douyin.com/RV7AisVA5-0/)**
+
+  ---
+  **[001. 日常搞笑合集]{s}**
+    - [十四亿人参加你的婚礼是种什么体验 | 106](https://v.douyin.com/XrC7OzBvzQk/)
+
+    ---
+    - [当大肥鱼参加大模型聚会 | 112](https://v.douyin.com/9Iymph1ZOLs/)
+
+---
+### 0137. 酷暑
+**[酷暑]{s}**
+* **[酷暑 | 设计师丨AIGC练丹师 Comfyui、AI开源社区 | 佰章 | Douyin](https://v.douyin.com/9a16A1Ic-yA/)**
+
+  ---
+  **[001. 江湖]{g}**
+    - [仙浪翻涌，一怒漫金山 | 022](https://v.douyin.com/h7Xg40DWxDs/)
+    - [轻拢衣袍相对静， 忽逢归客起风波。 | 023](https://v.douyin.com/nTV2FoofZwQ/)
+
+---
+### 0138. 青羽
+**[青羽]{s}**
+* **[青羽 | 艺术家 将用ai体验万物人生 学习ai课程，就找我吧, 將用Ai体验人生万物 | 仟章 | Douyin](https://v.douyin.com/X8yBB0N7onk/)**
+
+  ---
+  - [素衣听风，灵禽伴雪 自太古的混沌中醒来，我便与它守着这片无名山崖。它的黑羽染尽了幽冥的夜色，我的白衣裁自山巅的初雪。无需言语，更无拘束，它不飞往红尘，我亦不问归途。云海在脚下翻涌又散去，千年如同一瞬。偶尔有风吹乱额前长发，它便轻轻偏过头，替我挡去半山的寒意。若问何为大道，或许便是这般相看两不厌的寂静。](https://v.douyin.com/KrCI0lWxfPM/)
+
+  ---
+  - [素衣逢故，翼落千山 世人皆道无情方能证道，我便将前尘往事尽数封入这不见天日的深谷。未曾想，你竟化作这般通灵的模样，穿破重重迷障寻我而来。你双翼微颤，抖落的是九天之上的清辉，还是故人眼底未干的旧泪？既已破茧成灵，便去往你的蓬莱阆苑吧。我只立在这青石苍苔之上，借你扇动的一缕微风，与我那早已灰飞烟灭的凡心，做最后一次道别。| Music: 暗香 - 于问问 & 周深](https://v.douyin.com/5oGg2sJP4GA/)
+
+  ---
+  - [山河入袖，白龙惊梦 世人皆道我无心无情，于这绝崖深谷中枯坐千年，只为修那虚无缥缈的大道。可唯有这漫天飞瀑知道，我守的从来不是天机，而是一段未尽的执念。当寒潭碎裂，白鳞如雪自九天银河中苏醒，你垂眸看我的那一瞬，万古的寂寥尽数化作震耳欲聋的涛声。原来，宿命从不曾真正沉睡。老朋友，这三界风波又起，你我，该出山了。](https://v.douyin.com/Eyg_ncrDY3A/)
+
+  ---
+  - [荒风万劫，吾身作壁 这片苍原的秋意越来越浓，草木枯黄，万物走向衰亡。我嗅到了寒冬将至的气息，冷冽、空旷、带着肃杀。风穿过我的毛发，也卷起她翻飞的红衣。世人皆惧我的尖牙与野性，唯有她敢将后背托付于我，眼底毫无惧意。我不在乎这片天地如何凋敝，狂风掠过，我自巍然不动。她是这荒芜世间唯一的鲜活颜色，我便是她永不陷落的壁垒，与她一同逼退漫天萧瑟。| Music: 九张机-张齐山DanieL](https://v.douyin.com/gCiaLQYXtWY/)
+
+---
+### 0139. 沾神AIGC
+**[沾神AIGC]{s}**
+* **[沾神AIGC | AixTV官方签约导演/PixTV星创 大肥鱼的故事会尽快更新 | LibTV | 佰章 | Douyin](https://v.douyin.com/u0LgQKxJa8I/)**
+
+  ---
+  **[AIGC]{g}**
+    - [大肥鱼，我也想给你完整的一生啊……| 001](https://v.douyin.com/F5uS2QYNG4M/)
+
+    ---
+    - [大肥鱼穿越篇献上！这次真抱到了！ 看得我也想要一只毛茸茸的大肥鱼了……本视频由LibTV生成 | 002](https://v.douyin.com/-QA7zujLfiI/)
+
+    ---
+    - [《满江灯》上元夜|蔡文姬、澜 我不怕死，我只怕兑现不了再陪你的承诺" | 003](https://v.douyin.com/ZL2ahdBnPWs/)
+
+---
+### 0140. 林夕
+**[林夕]{s}**
+* **[林夕 | 艺术 | 佰章 | Douyin](https://v.douyin.com/DS3d2I9wX3Q/)**
+
+  ---
+  **[001. 古画]{g}**
+    - [千里江山图 《千里江山图》是北宋18岁画家王希孟创作的绢本青绿山水长卷 | 001](https://v.douyin.com/mlGmfrzIfME/)
+
+    ---
+    - [富春山居图 是元代黄公望晚年创作的水墨山水长卷，位列中国十大传世名画，以富春江两岸景色为底本，笔墨苍润意韵悠远。 画作曾因“焚画殉葬”断为两截，前半段《剩山图》现藏浙江省博物馆，后半段《无用师卷》现藏台北故宫博物院，2011年两段真迹在台北首次合璧展出。| 002](https://v.douyin.com/BTyOoJGMtB0/)
 
 ---
 ### 0200. 瑶光
@@ -3018,6 +3100,15 @@
     - [时光画卷]{lb}
     - [螺丝背后的较量]{lb}
     - [巨星超市老板]{lb}
+
+---
+### 1000. 旅行者 ZION · ZION VISION·映帧
+**[旅行者 ZION]{s}**
+* **[旅行者 ZION | 恭喜你发现了宝藏！ ZION VISION｜角色视觉重构·国漫二创·人物摄影·二创海报 | 伍仟章 | Douyin](https://v.douyin.com/XG2W-x0crFQ/)**
+  - [南宫阙：夕阳下的故事与执念。🌅当夕阳为影棚镀上金边，南宫阙望着远处的剪影，说出那句平静却有力量的话：热闹散去，本就是常事。这是她留给光影的答案——不为高光，只为那段坚守的时光。 她有担当，也有执念；在镜头前，她是凡人修仙传里的南宫阙，在镜头外，她是认真站在那里的“红衣仙女”。我们不必追问她是否永远正确，只记得她曾如此执着地为信念停留，把每个瞬间都酿成了限量版的回忆。 被记住，从不该靠最后一次回头。当快门落下，她的故事便从剧情里，真正走进了人心。](https://v.douyin.com/SdLRq8giK5Q/)
+
+  ---
+  - [凡人二创混剪](https://v.douyin.com/MEfWHXgS7co/)
 
 ---
 ### 9999. Download

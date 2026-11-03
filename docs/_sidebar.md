@@ -145,7 +145,7 @@
 
 ---
 * **Music**
-  - [music](Music/music)
+  - [music](Music/Music)
   - [AiSinger](Music/AiSinger)
   - [英文歌曲](Music/英文歌曲)
   - [B站&YTB](Music/B站&YTB)
@@ -198,7 +198,7 @@
   - **Genshin Impact**
     * [Genshin Impact](Game/GenshinImpact/GenshinImpact)
     * [GenshinC2E](Game/GenshinImpact/GenshinC2E)
-  - [Game](Game/game)
+  - [Game](Game/Game)
 
 ---
 * **Movie**

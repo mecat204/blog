@@ -224,7 +224,7 @@
 ### 0003. Andrej Karpathy
 **[Andrej Karpathy]{s}**
 * **[Andrej Karpathy](https://x.com/karpathy)**
-  - [HuckerTube](https://www.huckertube.org)
+  - [HuckerTube](https://hackertube.org/)
 
 ---
 ### 0004. Codez | Content creator | AI researcher & builder | AI insights from 2030
