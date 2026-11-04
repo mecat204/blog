@@ -12,6 +12,10 @@
   - [americanliterature](https://americanliterature.com/)
 
 ---
+**[TrickyBird]{s}**
+* **[TrickyBird](https://trickybird.com/)**
+
+---
 ### 0001. AI小宝
 **[AI小宝]{s}**
 * **[AI小宝 | 小宝带你穿越千年 · 直击历史名场面现场 | AI短剧导演 | 历史复原研究者 | 学术交流· AI造梦师小宝 | 百章 | 小宝](https://v.douyin.com/G82OlqoQzHc/)**
@@ -3176,7 +3180,7 @@
 * **[清夏剧场 | 每日更新精彩内容🎞 海量短剧等你来看 | 仟章 | Douyin](https://v.douyin.com/nxL2zPaASsE/)**
 
   ---
-  **[短剧榜单:]{g}**
+  **[001. Duanju Drama]{s}**
     - [棋盘外的执子人]{lb}
     - [毒仙归来，王爷请躺平]{lb}
     - [战神归位]{lb}
@@ -3211,6 +3215,37 @@
 **[桔子影院]{s}**
 * **[桔子影院 | 优质短剧天天看🔥 👀每天持续更新热门短剧👀 纯原创 | 叁仟章 | Douyin](https://v.douyin.com/_CXXLMl3_Uw/)**
 
+  ---
+  **[001. Duanju Drama]{s}**
+    - [列车求生，我能看见搜索图标！]{lb}
+    - [我捡到的废狐竟是亲女儿]{lb}
+    - [本尊的教资保住了]{lb}
+    - [重生六月飞雪：我的安全屋爆满]{lb}
+    - [流放千金：我在古代造出商业帝国]{lb}
+    - [以月亮为名]{lb}
+    - [满门忠烈跪了，求我这个弃妇出山]{lb}
+    - [凤逆苍穹]{lb}
+    - [荒山酿珍馐：孤女携非遗富全乡]{lb}
+    - [故宅风波：归来之后]{lb}
+    - [无情惹尘埃]{lb}
+    - [督军他怎么又在哭]{lb}
+    - [总裁爹地别太宠]{lb}
+    - [画骨噬心]{lb}
+    - [海洋求生，我的物资自动升级]{lb}
+    - [踏实人生：全职场邀我共前行]{lb}
+    - [初心如茶，终有回甘]{lb}
+    - [满级全家，专治过河拆桥]{lb}
+    - [昔日弃我，今我登顶]{lb}
+    - [蜂莓共生]{lb}
+    - [臭豆腐拿捏王爷]{lb}
+    - [重生后，我成全她的恋爱脑]{lb}
+    - [情义凉薄技称王]{lb}
+    - [老板说焊工遍地都是我走后他跪了]{lb}
+    - [为爱蛰伏五载，觉醒重掌人生]{lb}
+    - [三两碎银，我夺茶王]{lb}
+    - [极寒重启：绝境新生]{lb}
+    - [身份曝光后，前妻打脸求复合]{lb}
+
 ---
 ### 0308. 易读漫剧·收费
 **[易读漫剧]{s}**
@@ -3220,6 +3255,26 @@
 ### 0309. 塔尔西斯动漫小剧场·收费
 **[塔尔西斯动漫小剧场]{s}**
 * **[塔尔西斯动漫小剧场 | 🔥左划⬅️ 合集一栏观看后续高质量原创漫剧 | 叁万章 | Douyin](https://v.douyin.com/8gFLXBNTWRc/)**
+
+  ---
+  **[001. Duanju Drama]{g}**
+    - [失忆五年，三个宝贝找爹地]{lb}
+    - [实习教出金牌班，家长要换班主任！]{lb}
+    - [月薪十万：我在深海捕鱼]{lb}
+    - [皇帝也不容易，别对词条挑三拣四！]{lb}
+    - [人在魔宗，我靠种地无敌成帝！]{lb}
+    - [世子帝师]{lb}
+    - [那一夜，停车场突然不收钱了]{lb}
+    - [邪神墨然！！]{lb}
+    - [重生龙王护]{lb}
+    - [斩神：从一万个俯卧撑]{lb}
+    - [妇产科大医：我能看穿所有病情]{lb}
+    - [收徒亿万返还：为师无敌世间AI真人版]{lb}
+    - [老蛇修仙传！从三尺小蛇到星空巨蟒]{lb}
+    - [全球神坛：开局大圣模板]{lb}
+    - [转生成跳蚤：我靠吸血成天帝]{lb}
+    - [情感缺失，开局暴揍诡异]{lb}
+    - [开局一万俯卧撑: 轰杀神明3]{lb}
 
 ---
 ### 0310. 时空剧院
@@ -3235,6 +3290,18 @@
   ---
   **[001. 质朴小妹之重回人间清醒]{g}**
     - [免费看全集！细思极恐，每一个细节都暗藏玄机。| Min: 06:41 | 001](https://v.douyin.com/j8CEcaf6LfE/)
+
+---
+### 0312. No. 7 Animation Hall
+**[No. 7 Animation Hall | 1.06M subscribers | YTB]{s}**
+* **[No. 7 Animation Hall | 1.06M subscribers | YTB](https://www.youtube.com/@DawnAnimeClub/videos)**
+  - [MULTISUB📢新番上线《质朴小妹之看我小妹勇闯千金文》](https://www.youtube.com/watch?v=VO-8qTHFybg)
+
+---
+### 0313. 九州快看
+**[九州快看]{s}**
+* **[九州快看 | 538K subscribers | YTB](https://www.youtube.com/@JiuZhouKuaiKanDrama/videos)**
+  - [【大结局完整版】《重生破死局，四小姐不装了》](https://www.youtube.com/watch?v=ETaSCa2gkv4)
 
 ---
 ### 1000. 旅行者 ZION·ZION VISION·映帧
@@ -3258,6 +3325,10 @@
 **[EngLearner]{s}**
 * **[EngLearner | 英语学习工具导航网站 - 学英语不求人](https://www.englearner.site)**
   - [americanliterature](https://americanliterature.com/)
+
+---
+**[TrickyBird]{s}**
+* **[TrickyBird](https://trickybird.com/)**
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
