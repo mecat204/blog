@@ -4970,6 +4970,34 @@
   - [Github零基础终极教程](https://www.youtube.com/watch?v=CuVo2cM6V6Q)
 
 ---
+### 6001. coodeverse
+**[coodeverse]{s}**
+  - [coodeverse | 22 subscribers | YTB](https://www.youtube.com/@coodeverse/shorts)
+  - [Pelagos OC-8](https://www.youtube.com/shorts/nmZ6xkQgawg)
+
+---
+**[Learn Programming Online from Zero to Pro]{s}**
+* **[Learn Programming Online from Zero to Pro – 100% Free](https://coodeverse.com/)**
+
+---
+### 6002. lauren
+**[lauren]{s}**
+* **[lauren | 870K subscribers | YTB](https://www.youtube.com/@emowhofromwhoville/videos)**
+  - [i remade an edit after ONE WATCH](https://www.youtube.com/watch?v=JtykJ3j_mSY)
+
+---
+### 6003. Balázs Szabó (dLux)
+**[Balázs Szabó (dLux)]{s}**
+* **[Balázs Szabó (dLux)](https://www.youtube.com/@dluxhu/videos)**
+  - [here's how i shipped 2,500 PRs last month to production](https://www.youtube.com/watch?v=Z-jNqqIYGm4)
+
+---
+### 6004. Peter Yang
+**[Peter Yang]{s}**
+* **[Peter Yang | 114K subscribers | YTB]{s}**
+  - [We Built Grok Bot. Here Are Our 14 Best Bots | Peng Zheng & Lauren Tan, 我们构建了 Grok 机器人。这是我们的 14 个最佳机器人 |郑鹏 & 劳伦·谭](https://www.youtube.com/watch?v=xZ5TEaleUdg)
+
+---
 ### 7000. Henny Huang
 **[Henny Huang]{s}**
 * **[Kenny Huang | 12.2K subscribers | YTB](https://www.youtube.com/@kennyhuang8660/videos)**
