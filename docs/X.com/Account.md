@@ -419,12 +419,12 @@
 ---
 ### 0102. Elon Musk
 **[Elon Musk]{s}**
-* **[Elon Musk]()**
+* **[Elon Musk](https://x.com/elonmusk)**
 
 ---
 ### 0103. lauren
 **[lauren]{e}**
-* **[lauren]()**
+* **[lauren](https://x.com/poteto)**
 
 ---
 ### 9999. Software | Books | Download
