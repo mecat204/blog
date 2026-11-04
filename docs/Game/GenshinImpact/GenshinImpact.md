@@ -916,6 +916,52 @@
   - [Liyue Harbor Lantern Rite | Genshin Impact Music with Ambience I For Gaming, Reading or Relaxing](https://www.youtube.com/watch?v=DxRm6wGN1r4&list=RDDxRm6wGN1r4&start_radio=1)
 
 ---
+### 1000. 桂花想要饮酒
+**[桂花想要饮酒]{s}**
+* **[桂花想要饮酒 | 你们的喜欢就是我的荣幸！如有槽点请多多包涵！ 请关注我吧，面包会有的, 一切都会有的。 | 佰章 | Douyin](https://v.douyin.com/p8G_nPGjxmQ/)**
+  - [掉地上5秒内捡起来，真的还能吃吗？ 五秒定律到底靠不靠谱，有人认真测了两千五百多次。](https://v.douyin.com/LoAL1wCGWY8/)
+
+  ---
+  **[001. 历史原型考据]{s}**
+    - [执行官的名字，来自一出意大利喜剧 愚人众执行官的名字，几乎都来自 16 世纪意大利的「即兴喜剧」| 001](https://v.douyin.com/yBi4WgI54pU/)
+
+    ---
+    - [冰之女皇的全名，藏着沙俄最后一位公主 冰之女皇的全名「安娜丝塔夏·费奥多罗夫娜·雪奈茨娜娅」，三段分别是名字、父称和姓。| 002](https://v.douyin.com/_R9V24eupaU/)
+
+    ---
+    - [兹白的六个命之座，是从《庄子》里抄的 兹白的称号「驹隙隐泉」、战技「天地忽然身」都来自「白驹过隙」；前五个命之座按顺序抄自《庄子·知北游》，第六命出自《古诗十九首》。| 004](https://v.douyin.com/vrGu1ZPP5hA/)
+
+    ---
+    - [至冬有个儿子改了名，后来杀了自己的父亲 瓦西里把名字里的「尼古拉的儿子」换成了「埃迪普」——俄狄浦斯，后来真的害死了养父。| 003](https://v.douyin.com/QLDnUZw6JqU/)
+
+    ---
+    - [至冬的列车，最早根本不是给人坐的 至冬的列车，最早是谧源所造来闯影域的探索载具——在没有空间和时间的地方，靠边走边搭通道、留下轨迹来认方向。| 005](https://v.douyin.com/pQ7VpxPSUq8/)
+
+    ---
+    - [雷电将军的眼狩令，日本真的发过一次 雷电将军的「眼狩令」，日本历史上真的发过一次：1588 年，丰臣秀吉下「刀狩令」，收走全国农民手里的刀，说要熔了打成京都大佛的钉子。| 007](https://v.douyin.com/_5ynXlQRriU/)
+
+    ---
+    - [现实中也有须弥的智慧宫 不过它的书只能把河染黑 须弥的智慧宫，书多到学者一辈子也读不完；而现实里巴格达的智慧宫，书却把一整条河染成了黑色。| 012](https://v.douyin.com/cTkdnUCJZMc/)
+
+    ---
+    - [芙宁娜靠真情获得掌声 巴黎歌剧院却靠钱 芙宁娜在枫丹演了五百年的戏，骗过了所有人。可在 19 世纪的巴黎，连台下的掌声都是演的。| 014](https://v.douyin.com/TYxUfQGVywQ/)
+
+    ---
+    - [娜维娅打伞的习惯 在以前的伦敦却会被嘲笑 娜维娅走到哪都撑着伞——枫丹多雨，雨停了太阳又毒。可在 18 世纪的伦敦，一个男人打伞上街，是要被人当街起哄的。| 015](https://v.douyin.com/0BHi7ZuwufQ/)
+
+    ---
+    - [每天说的OK 本来是个错别字 你每天说几十遍的OK，最早是1839年波士顿报纸上一个故意拼错的玩笑。| 019](https://v.douyin.com/sOuTZotPraM/)
+
+    ---
+    - [番茄酱里本来没有番茄 番茄酱刚做出来的时候，里头一颗番茄都没有。| 020](https://v.douyin.com/Cu8_UM3bwfc/)
+
+---
+### 1001. 慢慢的日常
+**[慢慢的日常]{e}**
+* **[慢慢的日常 | 🌷记录我的原神日常 🌷手残手残还是手残](https://v.douyin.com/EiYtQYcVJGI/)**
+  - [原神更新了快上线](https://v.douyin.com/IlFOsljw8sw/)
+
+---
 ### 9999. Download
 **[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**

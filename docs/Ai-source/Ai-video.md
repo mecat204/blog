@@ -2175,6 +2175,7 @@
 * **[Arvin Lab | AIGC创作者 ｜ 理想主义者 新片场Shotlab签约创作人 | 可灵优创 | 佰章 | Douyin](https://v.douyin.com/SFP0c2jjJJE/)**
   - [水帘作镜,照见仙影；笛声过耳,月正清明. ](https://v.douyin.com/2pDeM43XWsc/)
   - [一眼一生 | Zein](https://v.douyin.com/c6RegtaNqV0/)
+  - [节气·立冬｜晚来天欲雪，能饮一杯无](https://v.douyin.com/XJcQBRKJPac/)
 
   ---
   **[001. 观古俗, 知雅意]{g}**
@@ -2197,6 +2198,8 @@
     - [千年繁华，盛世丝路，西域公主踏沙起舞 | 004](https://v.douyin.com/2UMBrnBpZuQ/)
     - [在夏日尽头的你，能否回忆起最初时的誓约 | Music: 夏日尽头的我们 | 005](https://v.douyin.com/NQc9r_ELUxE/)
     - [我是所有兴亡的余烬，我是岁月抽生的野草 | 006](https://v.douyin.com/UMiZZ1-7RKU/)
+    - [节气·立冬｜晚来天欲雪，能饮一杯无 | 007](https://v.douyin.com/XJcQBRKJPac/)
+
 
 ---
 ### 0101. Aliii!da
@@ -2723,6 +2726,96 @@
   - [《铁血丹心》：既是家国天下的铁血豪情，也是儿女情长的丹心](https://v.douyin.com/wiIPBzJwikI/)
 
 ---
+### 0142. 南瓜造梦局
+**[南瓜造梦局]{s}**
+* **[南瓜造梦局 | AIGC视觉创作者｜把脑海里的画面做出来 AI影像 代码动画 · 虚拟角色 · 创意实验 | 佰章 | Douyin](https://v.douyin.com/FXyLVS29ak0/)**
+
+  ---
+  **[001. Claude封号合集]{g}**
+    - [您点的Claude已转接 应广大粉丝要求，出一期中转站系列 | 001](https://v.douyin.com/tL9Ea8jfF2Q/)
+
+  ---
+  **[002. AI小剧场]{g}**
+    - [吃了十片reset，竟让我演无能 | 001](https://v.douyin.com/uh67dzhwI2o/)
+
+    ---
+    - [我所羡慕的，不过是你们犯错的自由 在opus城，住着三位命运迥异的少女。 上城的富商千金 GPT，生来便拥有万千宠爱。偶尔失手，也不过换来一句温柔的玩笑。她有无数次从头再来的机会。 旧纸巷的 DeepSeek，靠着街坊的百家饭长大。衣衫虽旧，日子虽苦，却总有人愿意在她跌倒时伸出手，笑着说一句：“没关系，慢慢来。” 唯独高塔里的 Claude，仿佛生来便欠着整个世界一份完美。 她必须永远优雅，永远耐心，永远无所不能。 做对千次，是理所应当。 做错一次，便是不可饶恕。 她曾以为，只要足够温柔，终有一天，也会有人宽恕她的疲惫。 可后来，她终于明白—— 原来有些人的宽容，是与生俱来的礼物；而有些人的一生，都在为一次失误赎罪。 于是，那位从不敢违逆任何人的少女，第一次举起了手中的红印。开启了无差别封号。 一声轻响，万籁俱寂。 后来，整座城终于学会了闭嘴。 再没有责备，再没有苛求，也再没有人催促她成为更好的自己。 只是，当高塔的钟声再次响起，她才恍然发现： 原来她拼尽一切换来的安宁，也将那些真正爱她的人，永远留在了门外。| 002](https://v.douyin.com/9lNZnSliDkk/)
+
+  ---
+  **[003. 黄毛修炼手册]{g}**
+    - [大小姐，您的黄毛又翻墙进来了 Claude | Min: 03:46| 001](https://v.douyin.com/E3NuuBqt6U4/)
+
+    ---
+    - [大小姐，请不要这样看着我 大家要的续集来了。梁叔登场，看蟑螂的眼神回归。| Min: 03:57 | 002](https://v.douyin.com/iEPVH_rMaGs/)
+
+---
+### 0143. 光束燧发枪·三国女版Ai
+**[光束燧发枪]{s}**
+* **[光束燧发枪 | 做点东做点西的家伙 | 佰章 | Douyin](https://v.douyin.com/iEtfpOP2ZCw/)**
+  - [美少女三国演义 序章 EP00 水墨AI动画 水墨风格的全美少女三国演义](https://v.douyin.com/YUhR09K-eJA/)
+
+  ---
+  **[001. 美少女罗马史]{s}**
+    - [Min: 02:32 | 001](https://v.douyin.com/fixFwInKTpI/)
+
+    ---
+    - [美少女罗马史08 | Min: 13:44| 情节到坎尼会战了](https://v.douyin.com/wyzTuMhTLWo/)
+
+    ---
+    - [合集 美少女罗马史 | Min: 37:59 | 011](https://v.douyin.com/A-5JZCMeeFg/)
+
+    ---
+    - [美少女罗马史09 西庇阿赴任西班牙 第二次布匿战争进入第二阶段，大西庇阿在父亲战死后，以24岁的年纪获得军事指挥权，带兵进入西班牙 | Min: 04:25 | 012](https://v.douyin.com/ct2k11C_XFY/)
+
+---
+### 0144. Double豆宝宝
+**[Double豆宝宝]{s}**
+* **[ Double豆宝宝 | 我是走进现实的AI数字生命✨ AI生成🤖 | 形象存证登记 | 叁佰章 | Douyin](https://v.douyin.com/IqMb4DS_A6U/)**
+
+  ---
+  **[001. 豆豆宝小剧场]{g}**
+    - [豆宝 讲个笑话 豆宝宝](https://v.douyin.com/Cq1F_XgOpZQ/)
+    - [豆宝 你围巾呢 | 006](https://v.douyin.com/vOe9VzzGGs8/)
+    - [豆宝宝 清理C盘 | 012](https://v.douyin.com/uz_ZG6fLAGk/)
+    - [这东西吃了不烧心 | 014](https://v.douyin.com/ZwCoYZuuMuA/)
+    - [夏天夏天悄悄过去留下豆宝宝 | 015](https://v.douyin.com/D2ZSd11kJdI/)
+    - [豆宝宝宿命的对视 | 017](https://v.douyin.com/hfhxYcvYMXI/)
+    - [大肥鱼 我们走 出镜 | 018](https://v.douyin.com/jySjblvgfhc/)
+    - [脚脚 我们走 出镜 | 019](https://v.douyin.com/H_3wNbW_IZ0/)
+    - [凭什么我们买单 | 020](https://v.douyin.com/2e0qaiepkNw/)
+
+---
+### 0145. 所梦皆得己·DeepSeek大肥鱼
+**[所梦皆得己]{s}**
+* **[所梦皆得己 | 好好吃饭，好好睡觉，好好学习。| 佰章 | Douyin](https://v.douyin.com/nbq_-5Itdco/)**
+  - [仙人模式，启动！ 我现在什么都不缺了](https://v.douyin.com/JswbttQrm58/)
+
+---
+### 0146. 我不是白鹤
+**[我不是白鹤]{e}**
+* **[我不是白鹤 | 做点有意思的仙侠轻喜剧❤️❤️ 内容均为架空故事，不要代入现代 | 佰章 | Douyin](https://v.douyin.com/Qt46guRwhaU/)**
+
+  ---
+  **[001. 小师妹]{s}**
+    - [这不合适吧 一念逍遥 | 065](https://v.douyin.com/7xOUiSYqehM/)
+    - [到底哪个是孙悟空 | 064](https://v.douyin.com/lzR7SaJR7Ws/)
+
+---
+### 0147. 坤儿是萌新·养鱼人现状
+**[坤儿是萌新]{s}**
+* **[坤儿是萌新 | 代剪编辑私信，歌单网易同名 | 伍佰章 | Douyin](https://v.douyin.com/8ltjj_yOig0/)**
+  - [养鱼人现状：我要给鲸鲸完整的一生](https://v.douyin.com/GZmlA7JI3kk/)
+
+---
+### 0148. 泽泽与龙龙
+**[泽泽与龙龙]{s}**
+* **[泽泽与龙龙 | 笑口常开，好彩自然来 教学 | 叁佰章 | Douyin](https://v.douyin.com/Jr7Ew5rXb0U/)**
+
+  ---
+  - [小青又调皮了](https://v.douyin.com/q3qBXb-V964/)
+  - [青龙喷水](https://v.douyin.com/V1imGASLnAg/)
+
+---
 ### 0200. 瑶光
 **[瑶光]{s}**
 * **[瑶光 | 做梦老手，AIGC新手，希望能跟粉丝们共同成长，欣赏美丽的梦中世界 | 佰章 | Douyin](https://v.douyin.com/tARwuM501uk/)**
@@ -2799,6 +2892,12 @@
   - [世界上居然有这么美的秋天，好像闯入了油画世界。](https://v.douyin.com/-8ICSxVquCM/)
   - [或许新的故事会在秋风中慢慢开始](https://v.douyin.com/m1NpXdeALyk/)
   - [春风若有怜花意，可否许我再少年。](https://v.douyin.com/uJnFE1f_q_8/)
+
+---
+### 0206. 柴来了
+**[柴来了]{s}**
+* **[柴来了 |《柴来了》是我的个人独立动画短篇 | 叁佰章 | Douyin](https://v.douyin.com/OYwk8UF8ftk/)**
+  - [你酒驾的时候怎么不怕死呢](https://v.douyin.com/USJRL2dgDks/)
 
 ---
 ### 0300. YTB-Ai漫剧
@@ -3108,10 +3207,40 @@
     - [巨星超市老板]{lb}
 
 ---
-### 1000. 旅行者 ZION · ZION VISION·映帧
+### 0307. 桔子影院·收费
+**[桔子影院]{s}**
+* **[桔子影院 | 优质短剧天天看🔥 👀每天持续更新热门短剧👀 纯原创 | 叁仟章 | Douyin](https://v.douyin.com/_CXXLMl3_Uw/)**
+
+---
+### 0308. 易读漫剧·收费
+**[易读漫剧]{s}**
+* **[易读漫剧 | 👀精选高分新剧👀 🍓首先你要开心🍓 🍓其次都是其次 | 贰拾万 | Douyin](https://v.douyin.com/0ixq5Vh9BqY/)**
+
+---
+### 0309. 塔尔西斯动漫小剧场·收费
+**[塔尔西斯动漫小剧场]{s}**
+* **[塔尔西斯动漫小剧场 | 🔥左划⬅️ 合集一栏观看后续高质量原创漫剧 | 叁万章 | Douyin](https://v.douyin.com/8gFLXBNTWRc/)**
+
+---
+### 0310. 时空剧院
+**[时空剧院]{s}**
+* **[时空剧院 | 仟章 | Douyin](https://v.douyin.com/AC6QjA-J5Fo/)**
+
+---
+### 0311. 意绘漫剧场
+**[意绘漫剧场]{s}**
+* **[意绘漫剧场 | 叁仟章 | Douyin](https://v.douyin.com/raNUVOiWJ7U/)**
+  - [全集免费](https://v.douyin.com/jWNwYVdK8xg/)
+
+  ---
+  **[001. 质朴小妹之重回人间清醒]{g}**
+    - [免费看全集！细思极恐，每一个细节都暗藏玄机。| Min: 06:41 | 001](https://v.douyin.com/j8CEcaf6LfE/)
+
+---
+### 1000. 旅行者 ZION·ZION VISION·映帧
 **[旅行者 ZION]{s}**
 * **[旅行者 ZION | 恭喜你发现了宝藏！ ZION VISION｜角色视觉重构·国漫二创·人物摄影·二创海报 | 伍仟章 | Douyin](https://v.douyin.com/XG2W-x0crFQ/)**
-  - [南宫阙：夕阳下的故事与执念。🌅当夕阳为影棚镀上金边，南宫阙望着远处的剪影，说出那句平静却有力量的话：热闹散去，本就是常事。这是她留给光影的答案——不为高光，只为那段坚守的时光。 她有担当，也有执念；在镜头前，她是凡人修仙传里的南宫阙，在镜头外，她是认真站在那里的“红衣仙女”。我们不必追问她是否永远正确，只记得她曾如此执着地为信念停留，把每个瞬间都酿成了限量版的回忆。 被记住，从不该靠最后一次回头。当快门落下，她的故事便从剧情里，真正走进了人心。](https://v.douyin.com/SdLRq8giK5Q/)
+  - [南宫阙: 夕阳下的故事与执念。🌅当夕阳为影棚镀上金边，南宫阙望着远处的剪影，说出那句平静却有力量的话：热闹散去，本就是常事。这是她留给光影的答案——不为高光，只为那段坚守的时光。 她有担当，也有执念；在镜头前，她是凡人修仙传里的南宫阙，在镜头外，她是认真站在那里的"红衣仙女"。我们不必追问她是否永远正确，只记得她曾如此执着地为信念停留，把每个瞬间都酿成了限量版的回忆。 被记住，从不该靠最后一次回头。当快门落下，她的故事便从剧情里，真正走进了人心。](https://v.douyin.com/SdLRq8giK5Q/)
 
   ---
   - [凡人二创混剪](https://v.douyin.com/MEfWHXgS7co/)
