@@ -39,6 +39,15 @@
   - [道法自然](理想生活/道法自然)
 
 ---
+* **Ai-source**
+  - [Ai-designer](Ai-source/Ai-designer)
+  - [Ai-glass](Ai-source/Ai-glass)
+  - [Ai-video](Ai-source/Ai-video)
+  - [Ai-images](Ai-source/Ai-images)
+  - [Ai-website](Ai-source/Ai-website)
+  - [Ai-coding](Ai-source/Ai-coding)
+
+---
 * **星海**
   - **星海集**
     * [异世相逢](星海/星海集/异世相逢)
@@ -183,15 +192,6 @@
 ---
 * **动漫**
   - [动漫](动漫/动漫)
-
----
-* **Ai-source**
-  - [Ai-designer](Ai-source/Ai-designer)
-  - [Ai-glass](Ai-source/Ai-glass)
-  - [Ai-video](Ai-source/Ai-video)
-  - [Ai-images](Ai-source/Ai-images)
-  - [Ai-website](Ai-source/Ai-website)
-  - [Ai-coding](Ai-source/Ai-coding)
 
 ---
 * **Game**
