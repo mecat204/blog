@@ -365,11 +365,6 @@
   - [littleprince](https://littleprince.dev/)
 
 ---
-### 0024. lauren
-**[lauren]{s}**
-* **[]()**
-
----
 ### 0100. 10倍生产力 · Douyin
 **[10倍生产力]{s}**
 * **[10倍生产力 | 我是小鱼 | 伍佰章 | Douyin](https://v.douyin.com/Hjzxem9OFl4/)**
@@ -425,6 +420,43 @@
 ### 0103. lauren
 **[lauren]{e}**
 * **[lauren](https://x.com/poteto)**
+
+---
+### 0104. Shikhar
+**[Shikhar]{s}**
+* **[Shikhar, making cool stuff with AI 3D / games](https://x.com/xikhar)**
+  - [Shikhar](https://github.com/xikhar)
+
+---
+### 0105. Techartist
+**[Techartist]{s}**
+* **[Techartist | Experiments in code, form, light and motion. Building interactive 3D worlds, experiences and games.](https://x.com/techartist_)**
+  - [Techartist: interactive 3D worlds, games and lessons](https://iamtechartist.com/)
+    * [dinosaurs-to-birds](https://iamtechartist.com/dinosaurs-to-birds/)
+    * [how-an-airliner-works](https://iamtechartist.com/how-an-airliner-works/)
+  - [VoXelo](https://codepen.io/VoXelo)
+    * [Morphing Particles with Three.js](https://codepen.io/VoXelo/pen/qEBBqza)
+
+---
+**[Techartist·iamtechartist]{s}**
+* **[iamtechartist](https://github.com/iamtechartist)**
+
+---
+### 0105. Lovis Odin
+**[Lovis Odin]{s}**
+* **[Lovis Odin | AI / Technical Artist / ComfyUI expert • Training models • Creating crazy workflow • Creative Engineer at http://fal.ai](https://x.com/OdinLovis)**
+  - [Lovis Odin - interactive designer](https://lovis.io/)
+  - [Heraclos, and the quest he never ever asked for](https://heraclosgame.com/)
+
+---
+### 0106. Elvar
+**[Elvar]{s}**
+* **[Elvar, AI Videos | Vibe Coding | Building with AI | DMs open, 人工智能视频 |氛围编码 |用人工智能构建| DM 开放](https://x.com/elvar_official)**
+  - [How I Turn Any Machine Into a 3D Simulator You Can Take Apart, 我如何将任何机器变成可以拆开的 3D 模拟器](https://x.com/elvar_official/status/2116174609355571402)
+
+  ---
+  **[001. Github]{s}**
+    - [elvarofficial, teardown](https://github.com/elvarofficial/teardown)
 
 ---
 ### 9999. Software | Books | Download

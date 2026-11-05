@@ -4933,6 +4933,18 @@
 * **[Astral Curiosity | 46.5K subscribers | YTB](https://www.youtube.com/@astralcuriosity/videos)**
 
 ---
+### 2001. Atom & Star
+**[Atom & Star]{s}**
+* **[Atom & Star | 20 subscribers | YTB](https://www.youtube.com/@atomandstar)**
+  - [Another Planet May Be Buried Inside Earth, 地球内部可能还隐藏着另一个星球](https://www.youtube.com/watch?v=ubJbtY5sJIU)
+
+---
+### 2002. Techartist Science
+**[Techartist Science]{s}**
+* **[Techartist Science | 14 subscribers | YTB](https://www.youtube.com/@tech-artist)**
+  - [How Do We Know What's Inside the Earth? (We've Only Dug 12 km), 我们如何知道地球内部是什么样子的？（我们只挖掘了12公里）](https://www.youtube.com/watch?v=vmPKYdS_1gs)
+
+---
 ### 3000. WorldCom EDU | Brian Stuart | Course
 **[WorldCom EDU]{s}**
 * **[WorldCom EDU | 248K subscribers | YTB](https://www.youtube.com/@WorldcomEdu/courses)**
