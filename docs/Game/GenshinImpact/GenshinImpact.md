@@ -845,6 +845,7 @@
 
   ---
   **[001. 原神野史]{g}**
+    - [原神野史 第274集 冰宫谈判](https://v.douyin.com/JIQ9dH5Rjzo/)
     - [原神野史 第276 到底谁才是牛马](https://v.douyin.com/G0cGnXsjIHQ/)
     - [原神野史 第277集 愚人之眼](https://v.douyin.com/snmVQmdPK8I/)
 

@@ -591,7 +591,7 @@
     - [残差网络：当深度学习撞上天花板，他在网络里画了一道捷径 2013年，多伦多大学。| 016](https://v.douyin.com/BD-TpBX-Yc0/)
 
 ---
-### 0017. Ferrari | Genshin Impact
+### 0017. Ferrari·GenshinImpact
 **[Ferrari]{s}**
 * **[Ferrari | 搞些AI视频 | 五十章 | Douyin](https://v.douyin.com/Xd6kRRlTfjA/)**
   - **[蒙德：高清重置](https://v.douyin.com/Eo7KSZVQRfM/)**
@@ -608,6 +608,8 @@
     - [原神：高清重置—5周年 | 009](https://v.douyin.com/huByY51RF6g/)
     - [空之神殿：高清重置 | 010](https://v.douyin.com/wW71LwKwDtg/)
     - [霜月：高清重置 。眼前月是天上月，月上人是心中人 | 011](https://v.douyin.com/gdJsUfrxP-g/ )
+    - [至冬：高清重置（I） -关于我终于来到愚人众的地盘和两个女明星在冰天雪地里玩了一把要命的狼人杀并且又把世界从一片眼镜手里拯救回来这件事 | 012](https://v.douyin.com/YCHy12C-7Vc/)
+    - [空月之歌：高清重置 。好久不见，终于把这一期肝出来了 | 013](https://v.douyin.com/BUZcY52mrcU/)
 
 ---
 ### 0018. 云端避风港-Dream Shelter
@@ -2818,6 +2820,42 @@
   ---
   - [小青又调皮了](https://v.douyin.com/q3qBXb-V964/)
   - [青龙喷水](https://v.douyin.com/V1imGASLnAg/)
+
+---
+### 0149. 下次见面记得拥抱
+**[下次见面记得拥抱]{s}**
+* **[下次见面记得拥抱 | 佰章 | Douyin](https://v.douyin.com/5cqfR3rBpA0/)**
+  - [下辈子还学机电 金工实习 爱因斯坦](https://v.douyin.com/o5u8PS_ihKw/)
+
+---
+### 0150. 万象科普（艾斯）
+**[万象科普（艾斯）]{s}**
+* **[万象科普（艾斯）| 我是艾斯，来自六级文明 我见过文明的诞生，也见过恒星的死亡 | 人类仰望星空, 而我带你走进星空 现在, 我想带你看看真正的宇宙 | 伍佰章 | Douyin](https://v.douyin.com/aVa-9r882ks/)**
+
+  ---
+  **[001. 外星人科普]{g}**
+    - [外星人科普，正在被伪科普毁掉 | 056](https://v.douyin.com/BW65on_rUsg/)
+
+---
+### 0151. 奇幻鲸翎
+**[奇幻鲸翎]{e}**
+* **[奇幻鲸翎 | 矛盾集合体| 时空穿行者 | 佰章](https://v.douyin.com/Pv78tTm6qBg/)**
+  - [《打气》｜ 现实主义荒诞动画短片 早上，用气泵把自己撑起来。 挤进人群，小心别被挤爆。 接上管线，继续工作。 晚上，再慢慢修补。 我把这一天，做成了一部两分多钟的现实主义荒诞动画《打气》。看懂打工人的疲惫。](https://v.douyin.com/KQPB6anREpo/)
+
+---
+### 0152. emo鹅的碎碎念
+**[emo鹅的碎碎念]{e}**
+* **[emo鹅的碎碎念 | 你的嘴替，emo鹅 | 佰章 | Douyin](https://v.douyin.com/dR4kUeQQpiE/)**
+  - [我好像不是任何人的首选 祝我们都有主动离开的勇气，不再等谁来选我](https://v.douyin.com/mriwPeqlJsw/)
+
+---
+### 0153. 宇宙的独白
+**[宇宙的独白]{s}**
+* **[宇宙的独白 | ✨我是宇宙万物，这是我的故事 | 伍佰章 | Douyin](https://v.douyin.com/tNAS6yOAV6s/)**
+
+  ---
+  **[001. 它带我去看世界之外]{g}**
+    - [马斯克的钱能买下故宫吗 | Min: 06:29 | 013](https://v.douyin.com/IeIinbbFwAk/)
 
 ---
 ### 0200. 瑶光

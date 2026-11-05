@@ -852,6 +852,11 @@
 
 ---
 ### 0010. 2026
+**[糖醋小白·围棋]{e}**
+* **[糖醋小白| SWUPL新闻本｜法律硕士｜ISFJ 下围棋是lifesty学了7年 | 模特 | 人生体验家 | 贰佰章 | Douyin](https://v.douyin.com/43ZzhOy6wQQ/)**
+  - [围棋少女的科普小课堂：下围棋有和棋吗](https://v.douyin.com/WEgPOGcvUiI/)
+
+---
 **[武当初见·道友]{e}**
 * **[武当初见 | 陈平安，我好想你。 一个喜欢武当山的小卡拉米博主。| 佰章 | Douyin](https://v.douyin.com/fbpXmicPhaI/)**
   - [道法自然](https://v.douyin.com/fbpXmicPhaI/)
