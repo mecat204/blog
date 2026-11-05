@@ -93,8 +93,8 @@
 **[Disney]{s}**
 * **[Disney Movies | The Official Disney Films from Disney | Disney Singapore](https://www.disney.sg/movies)**
   - [Hoppers](https://www.disney.sg/movies/hoppers)
-  - [cineplay](https://www.cineplay.to/)
-  - [subtitlecat](https://www.subtitlecat.com/)
+  - [Cine Play](https://www.cineplay.to/)
+  - [Subtitle Cat – Download and translate subtitles in 100+ languages](https://www.subtitlecat.com/)
 
 ---
 **[walkinglabs.learn-harness-engineering]{s}**
