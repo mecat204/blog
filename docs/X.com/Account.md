@@ -373,6 +373,12 @@
   - [WeduLab Teaching Toolkit](https://wedulab.com/?lang=en)
 
 ---
+### 0025. 小互
+**[小互]{s}**
+* **[小互 | 带你了解全球最前沿科技、AI动态...](https://x.com/xiaohu)**
+  - [XiaoHu.AI · 小互 · AI 解读站](https://xiaohu.ai/)
+
+---
 ### 0100. 10倍生产力 · Douyin
 **[10倍生产力]{s}**
 * **[10倍生产力 | 我是小鱼 | 伍佰章 | Douyin](https://v.douyin.com/Hjzxem9OFl4/)**
