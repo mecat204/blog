@@ -365,6 +365,14 @@
   - [littleprince](https://littleprince.dev/)
 
 ---
+### 0024. 前端哥Liam
+**[前端哥Liam]{s}**
+* **[前端哥Liam, 11年前端开发者 & AI 重度用户｜AI工具 + X运营，我踩过的坑都帮你避开｜](https://x.com/Saccc_c)**
+  - [HKUDS, DeepTutor](https://github.com/HKUDS/DeepTutor)
+    * [DeepTutor — Agent-native, open-source personalized tutoring](https://deeptutor.info/)
+  - [WeduLab Teaching Toolkit](https://wedulab.com/?lang=en)
+
+---
 ### 0100. 10倍生产力 · Douyin
 **[10倍生产力]{s}**
 * **[10倍生产力 | 我是小鱼 | 伍佰章 | Douyin](https://v.douyin.com/Hjzxem9OFl4/)**
@@ -442,14 +450,14 @@
 * **[iamtechartist](https://github.com/iamtechartist)**
 
 ---
-### 0105. Lovis Odin
+### 0106. Lovis Odin
 **[Lovis Odin]{s}**
 * **[Lovis Odin | AI / Technical Artist / ComfyUI expert • Training models • Creating crazy workflow • Creative Engineer at http://fal.ai](https://x.com/OdinLovis)**
   - [Lovis Odin - interactive designer](https://lovis.io/)
   - [Heraclos, and the quest he never ever asked for](https://heraclosgame.com/)
 
 ---
-### 0106. Elvar
+### 0107. Elvar
 **[Elvar]{s}**
 * **[Elvar, AI Videos | Vibe Coding | Building with AI | DMs open, 人工智能视频 |氛围编码 |用人工智能构建| DM 开放](https://x.com/elvar_official)**
   - [How I Turn Any Machine Into a 3D Simulator You Can Take Apart, 我如何将任何机器变成可以拆开的 3D 模拟器](https://x.com/elvar_official/status/2116174609355571402)
@@ -459,7 +467,7 @@
     - [elvarofficial, teardown](https://github.com/elvarofficial/teardown)
 
 ---
-### 0107. Dilum Sanjaya
+### 0108. Dilum Sanjaya
 **[Dilum Sanjaya]{s}**
 * **[Dilum Sanjaya, Software Engineer | Robotics | Science | Game Development](https://x.com/DilumSanjaya)**
   - [Dilum Sanjaya on CodePen](https://codepen.io/dilums)
@@ -469,6 +477,32 @@
   - [电路](https://electronics-101-six.vercel.app)
   - [微控制器开发板](https://learn-arduino-red.vercel.app/zh/)
   - [户外生存](https://backcountry-101.vercel.app/)
+
+---
+### 0109. Fei-Fei Li
+**[Fei-Fei Li]{e}**
+* **[Fei-Fei Li, Cofounder/CEO@theworldlabs, Prof (CS@Stanford),Co-Director@StanfordHAI](https://x.com/drfeifei)**
+
+---
+### 0110. World Labs
+**[World Labs]{s}**
+* **[World Labs, World Labs is a leading spatial intelligence company building frontier models that can perceive, generate, reason, and interact with virtual and physical worlds, World Labs是一家领先的时空智能公司，致力于构建能够感知、生成、推理和与虚拟及物理世界互动的前沿模型。](https://x.com/theworldlabs)**
+
+---
+### 0111. 琳小航
+**[琳小航]{s}**
+* **[琳小航 | X榜单创作者http://xbangdan.com, 专注分享AI Agent工作流｜AI 编程实战｜小白避坑教程 , 生财AI教练｜All in AI & 独立开发](http://xbangdan.com)**
+
+---
+### 0112. X榜单
+**[X榜单]{s}**
+* **[X榜单](https://xbangdan.com/)**
+
+---
+### 0113. SuSu_酥酥
+**[SuSu_酥酥]{s}**
+* **[SuSu_酥酥,  Co-founder｜@Sydney_UniMaster｜Stock & Crypto Trader｜AI Builder｜Not Financial Advice, DYOR](https://x.com/NFT_Chen)**
+  - [OpenSelena, omniget](https://github.com/OpenSelena/omniget)
 
 ---
 ### 9999. Software | Books | Download
