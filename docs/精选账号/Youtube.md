@@ -5010,6 +5010,12 @@
   - [We Built Grok Bot. Here Are Our 14 Best Bots | Peng Zheng & Lauren Tan, 我们构建了 Grok 机器人。这是我们的 14 个最佳机器人 |郑鹏 & 劳伦·谭](https://www.youtube.com/watch?v=xZ5TEaleUdg)
 
 ---
+### 6005.Dilum Sanjaya
+**[Dilum Sanjaya]{s}**
+* **[Dilum Sanjaya, 1.26K subscribers, Software Engineer passionate about experimenting with code and pushing the boundaries of innovation. 热衷于通过代码进行实验并推动创新边界的软件工程师。| YTB](https://www.youtube.com/@DilumS/videos)**
+  - [Backcountry 101 | A Website for Learning Basic Survival Skills, 野外生存101 | 一个学习基础生存技能的网站](https://www.youtube.com/watch?v=B9sY2t7RICc)
+
+---
 ### 7000. Henny Huang
 **[Henny Huang]{s}**
 * **[Kenny Huang | 12.2K subscribers | YTB](https://www.youtube.com/@kennyhuang8660/videos)**
