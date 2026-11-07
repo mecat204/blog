@@ -20,6 +20,10 @@
 * **[学堂在线](https://www.xuetangx.com/)**
 
 ---
+**[TrickyBird]{s}**
+* **[TrickyBird](https://trickybird.com/)**
+
+---
 ### 0001. UC Berkeley·伯克利大学
 **[UC Berkeley]{s}**
 * **[UC Berkeley·伯克利大学](https://www.youtube.com/ucberkeley)**
@@ -73,7 +77,7 @@
   - [瑞思Ruisi](https://v.douyin.com/gN7MH_3RrAs/)
 
   ---
-  **[哈弗大学]{g}**
+  **[哈佛大学]{g}**
     - [Harvard](https://www.harvard.edu/)
 
 ---
@@ -161,6 +165,12 @@
 
 ---
 ### 0008. THE UNIVERSITY OF HONG KONG
+**[The University of Hong Kong]{s}**
+* **[The University of Hong Kong | 20.4K subscribers | YTB](https://www.youtube.com/@abouthku/videos)**
+  - [“The University of Hong Kong: Leading the Infinite” Episode 4: To Know, To Be](https://www.youtube.com/watch?v=B92lbiYFyIs)
+  - [教职员状况报告 | 香港大学医学院第217届毕业典礼](https://www.youtube.com/watch?v=ET7nWnMnkFg)
+
+---
 **[是小冰心啊]{e}**
 * **[是小冰心啊 | 📖前律师｜现港大研究生 💡健康漂亮，财富自由，天天开心 | 叁佰章 | Douyin](https://v.douyin.com/gIxhbjnD8Lw/)**
   - [港大学生卡](https://v.douyin.com/hLHEELfS2Yw/)
@@ -177,6 +187,10 @@
   - **[句乐部](https://julebu.co)**
   - **[Qwerty Learnner | 官网 — 为键盘工作者设计的单词与肌肉记忆锻炼软件](https://qwerty.liumingye.cn)**
   - **[Type Words 官网 - 词文记 | 单词跟打 · 文章跟打](https://typewords.cc/articles)**
+
+---
+**[TrickyBird]{s}**
+* **[TrickyBird](https://trickybird.com/)**
 
 ---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
