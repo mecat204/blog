@@ -160,6 +160,12 @@
   - ["find your passion" is bad advice. the science behind why & what to do instead](https://www.youtube.com/watch?v=19FfcEq7fX0)
 
 ---
+### 0008. THE UNIVERSITY OF HONG KONG
+**[是小冰心啊]{e}**
+* **[是小冰心啊 | 📖前律师｜现港大研究生 💡健康漂亮，财富自由，天天开心 | 叁佰章 | Douyin](https://v.douyin.com/gIxhbjnD8Lw/)**
+  - [港大学生卡](https://v.douyin.com/hLHEELfS2Yw/)
+
+---
 ### 9999. Download
 **[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**

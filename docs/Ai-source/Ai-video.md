@@ -2282,9 +2282,9 @@
     - [遇见小鹿 是你心中的小鹿女吗 | 021](https://v.douyin.com/zklSGPwTNlo/)
 
 ---
-### 0102. G_chuang
-**[G_chuang]{s}**
-* **[G_Chung | 即梦AI优秀创作者 | 贰佰章 | Douyin](https://v.douyin.com/bcNCol8IoT0/)**
+### 0102. CHUNG_G
+**[CHUNG_G ]{s}**
+* **[CHUNG_G | 即梦AI优秀创作者 | 贰佰章 | Douyin](https://v.douyin.com/bcNCol8IoT0/)**
 
   ---
   **[001. 修仙指南 · Midjourney+可灵]{s}**
@@ -2321,6 +2321,45 @@
     - [世间行乐亦如此。| 025](https://v.douyin.com/JrTxtGIXExw/)
     - [霓为衣兮风为马。| 026](https://v.douyin.com/AGHDBVIGYGs/)
     - [浮生一梦，道阻且长](https://v.douyin.com/wr98b6yDT7Y/)
+
+    - [浮生梦仙阙。| 027](https://v.douyin.com/-7FXDMkGnQI/)
+    - [浮沉一念入逍遥。| 028](https://v.douyin.com/jeMyzvSiV7I/)
+    - [灵生山海间，梦入九天外。| 029](https://v.douyin.com/BdRksVyuNs0/)
+    - [御风而行，泠然善也。| 030](https://v.douyin.com/e0M8YKX3qgU/)
+    - [浮生若梦，为欢几何。| 031](https://v.douyin.com/xvTYZ9PW8Rk/)
+    - [何须更问浮尘事。| 032](https://v.douyin.com/g1ZtagCUEAc/)
+    - [师兄，你说修仙的尽头是什么 | 033](https://v.douyin.com/CB_hslo6Df8/)
+    - [风月为邻，星河作枕。| 034](https://v.douyin.com/5iG8Ay7VQSg/)
+    - [清灵入梦听风眠。| 035](https://v.douyin.com/elvnxAWcqmE/)
+    - [灵 生 天 地 间 | 036](https://v.douyin.com/WnEab33WRbo/)
+    - [至此浮生是梦中。| 037](https://v.douyin.com/dp8Vo0hi7Fo/)
+    - [若夫乘天地之正。| 038](https://v.douyin.com/2BZHefwJjUo/)
+    - [御乘六气之辩，以游无穷。| 039](https://v.douyin.com/xwRmJn7WMGc/)
+    - [逍遥乎无为之业。| 040](https://v.douyin.com/Y9rd7dAWDSg/)
+    - [云之君兮纷纷而来下。 | 041](https://v.douyin.com/mK71uIM8VlI/)
+    - [仙之人兮列如麻。| 042](https://v.douyin.com/TfeUl3c83Uw/)
+    - [浩浩乎如冯虚御风。| 043](https://v.douyin.com/C92hKtZiAo0/)
+    - [此去长路无须问。| 044](https://v.douyin.com/gYSxRlcPyHU/)
+    - [一念起，万象生。| 045](https://v.douyin.com/rvxDZbrYsMw/)
+    - [人生如逆旅，我亦是行人。| 046](https://v.douyin.com/A-SRp4E1E0Q/)
+    - [一蓑烟雨任平生。 | 047](https://v.douyin.com/nZJX8ecsT3U/)
+    - [一剑破天门。| 048](https://v.douyin.com/DafZT4cDp_M/)
+    - [玄天无际。| 049](https://v.douyin.com/vq9jq_YRSHc/)
+    - [事了拂衣去。| 050](https://v.douyin.com/PbXYhtgLZaY/)
+    - [羽化而登仙。| 051](https://v.douyin.com/JS6tzrxmF1A/)
+    - [此镜悬于天地外。| 052](https://v.douyin.com/YT6ux1Y1wRo/)
+    - [大道不言，劫数自生。| 053](https://v.douyin.com/_znSNknhi3o/)
+    - [长风所向，浮生所往。| 054](https://v.douyin.com/kVrl1ceT8S4/)
+    - [长风裂云，星河悬倒。| 055](https://v.douyin.com/8hRSZBVI0NA/)
+    - [东极之外，万象未名。 | 056](https://v.douyin.com/0v36DmQoHbg/)
+    - [浮生若梦何所向。| 057](https://v.douyin.com/DZhEHOmh9Y0/)
+    - [一念入逍遥 | 058](https://v.douyin.com/Sjfl48by3is/)
+    - [垂光落此间。| 060](https://v.douyin.com/9Jxgr_TR9H8/)
+    - [长天一梦临仙阙 | 061](https://v.douyin.com/CZ1k2JFslgw/=)
+    - [东船与西舫 琴音袅袅于心上 | 062](https://v.douyin.com/sGanr0rBbSM/)
+    - [一朝悟，道自生。| 063](https://v.douyin.com/k3wcjmScsSE/)
+    - [一剑起，天门开。| 064](https://v.douyin.com/naoStwHzb3E/)
+    - [浮生亦何寻。| 066](https://v.douyin.com/ODjU02bTXyw/)
 
 ---
 ### 0103. 黄油蛤蜊
@@ -2734,6 +2773,7 @@
   **[001. 江湖]{g}**
     - [仙浪翻涌，一怒漫金山 | 022](https://v.douyin.com/h7Xg40DWxDs/)
     - [轻拢衣袍相对静， 忽逢归客起风波。 | 023](https://v.douyin.com/nTV2FoofZwQ/)
+    - [云藏玄术，一念逍遥 · 天龙八部 | 024](https://v.douyin.com/FqGpd4zpdjI/)
 
 ---
 ### 0138. 青羽
@@ -2912,6 +2952,33 @@
     - [马斯克的钱能买下故宫吗 | Min: 06:29 | 013](https://v.douyin.com/IeIinbbFwAk/)
 
 ---
+### 0154. 小贝雅·GenshinImpact
+**[小贝雅]{s}**
+* **[小贝雅 | 原神二创，AI为主 | 佰章 | Douyin](https://v.douyin.com/0potOu6EGOA/)**
+
+  ---
+  **[001. 原神小剧场]{g}**
+    - [芙宁娜的小段子--P01 厨房有脏东西](https://v.douyin.com/3FjIm_RtABk/)
+    - [芙宁娜的小段子 | Min: 00:43 | 002](https://v.douyin.com/yhDk3zROcOw/)
+    - [暴风雪夜 | Min: 01:27 | 003](https://v.douyin.com/0zmByREFpfU/)
+    - [发型很重要 | Min: 01:08 | 004](https://v.douyin.com/alog8aCaGXQ/)
+    - [奥黛塔和雷电将军在尘歌壶 | Min: 02:40 | 005](https://v.douyin.com/gDS8Fjtf7Dc/)
+    - [蹭船 | Min: 03:27| 006](https://v.douyin.com/YjW4Dcidt1A/)
+    - [仆人窃取水神之心 | 007](https://v.douyin.com/DDRrYYb8vTM/)
+    - [剑修第2课 | Min: 02:33| 008](https://v.douyin.com/sWibfMlp0oY/)
+    - [若娜瓦的表情管理 | 009](https://v.douyin.com/AmJvJxQnbC8/)
+    - [愚人之眼的正确用法 | 010](https://v.douyin.com/sJo6inQqULQ/)
+    - [原神小剧场 EP11 胡桃的神之眼故事 | 011](https://v.douyin.com/6htpFmeW1OY/)
+
+---
+### 0155. Afterframe
+**[Afterframe]{e}**
+* **[Afterframe | AIGC创作者 合🛰️:Afterframe 记录现实之外的影响与故事 | Stoties beyond the frames. | AI视频创作 | 实验短片 | 视觉叙事](https://v.douyin.com/FcXEeM3JoTs/)**
+  - [小AI来了 | Min: 06:50 | 001](https://v.douyin.com/N4Ejrci9NLs/)
+  - [死神也下班 | Min: 06:13 | 002](https://v.douyin.com/qvjml8f9QDM/)
+  - [天堂理发馆 | Min: 04:51 | 003](https://v.douyin.com/ghADr4Sj7MY/)
+
+---
 ### 0200. 瑶光
 **[瑶光]{s}**
 * **[瑶光 | 做梦老手，AIGC新手，希望能跟粉丝们共同成长，欣赏美丽的梦中世界 | 佰章 | Douyin](https://v.douyin.com/tARwuM501uk/)**
@@ -2939,10 +3006,28 @@
 ### 0202. 云端
 **[云端]{s}**
 * **[云端 | AIGC视觉创作｜国风美学 将梦中所见，化作眼前山河 感谢每一次关注与喜欢 | 佰章 | Douyin](https://v.douyin.com/GfdfTqvpCNQ/)**
-  - [本是青灯不归客，却因浊酒恋红尘。宫阙入云，人在尘中 | **宽屏** | 001](https://v.douyin.com/ZgAX8N2t5N4/)
-  - [山水入卷，风月留章，人间烟火尽在此间 | **宽屏** | 002](https://v.douyin.com/MzeSa1fu8lo/)
-  - [一人一梦一长街，走尽云上旧繁华。 若天上也有长安，大抵便是这般模样。 | **宽屏** | 003](https://v.douyin.com/9EL-ycgca6M/)
-  - [山河远阔，人间烟火，无一是你，无一不是你 | **宽屏** | 004](https://v.douyin.com/IYr_wuh-ogU/)
+
+  ---
+  **[001. 画中仙]{g}**
+    - [本是青灯不归客，却因浊酒恋红尘。宫阙入云，人在尘中 | **宽屏** | 001](https://v.douyin.com/ZgAX8N2t5N4/)
+
+    ---
+    - [山水入卷，风月留章，人间烟火尽在此间 | **宽屏** | 002](https://v.douyin.com/MzeSa1fu8lo/)
+
+    ---
+    - [一人一梦一长街，走尽云上旧繁华。 若天上也有长安，大抵便是这般模样。 | **宽屏** | 003](https://v.douyin.com/9EL-ycgca6M/)
+
+    ---
+    - [山河远阔，人间烟火，无一是你，无一不是你 | **宽屏** | 004](https://v.douyin.com/IYr_wuh-ogU/)
+
+    ---
+    - [世人都说，白泽通晓万物。 我向往的，是远方。而它惦念的，只是我回家。**宽屏** | 005](https://v.douyin.com/XtVpwBXa0JI/)
+
+    ---
+    - [我本画外客，偶作画中人。 谁把千年前的山河，留在了一纸丹青里。| **宽屏** | 006](https://v.douyin.com/BEXbEI1iQhY/)
+
+    ---
+    - [山水入卷，风月留章，人间烟火尽在此间。| **宽屏** | Music: 青山入画(古风纯音乐）凯枫 | 007](https://v.douyin.com/QWJ7CjfYkCU/)
 
 ---
 ### 0203. 天马行梦 | 红楼梦Ai
