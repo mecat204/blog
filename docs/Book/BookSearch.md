@@ -36,6 +36,11 @@
 
 ---
 ### 0001. 搜书
+**[爱读书的木子]{e}**
+* **[爱读书的木子 | 如果想法和我不一样 那就是你对 | 仟章 | Douyin](https://v.douyin.com/WJvqgePGqIU/)**
+  - [苦难的本质](https://v.douyin.com/P80zuI2HYDY/)
+
+---
 **[野生老板]{e}**
 * **[野生老板 , 📍2020福布斯U30，创业9年，2家公司 🌊带你看懂世界运转的底层规律, 用规律拿到结果 | 伍佰章 | Douyin](https://v.douyin.com/JDtQBOHbFRk/)**
 

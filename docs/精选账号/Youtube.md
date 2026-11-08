@@ -4593,6 +4593,17 @@
   - [Can a Nuclear Reactor Explode Like a Bomb? Explained in Simple Words , 核反应堆会像炸弹一样爆炸吗？用简单的话解释](https://www.youtube.com/watch?v=RH2DXbroMyA)
 
 ---
+### 0057. Hope Gong
+**[Hope Gong]{e}**
+* **[]()**
+  - []()
+
+---
+**[龚希望Hope]{e}**
+* **[龚希望Hope | 中英文聊金融 商业 科技 职场 体育 文娱 | 叁佰章 | Douyin](https://v.douyin.com/zNJX4fFcSfw/)**
+  - [做自媒体快一年了，最近又开始尝试一些新东西。也想顺便跟大家聊聊，这一年来的一些感受和想法](https://v.douyin.com/Rvx4cE3k1OE/)
+
+---
 ### 0099. AI - video
 **[Ghibli Days]{e}**
 * **[Ghibli Days | 105K | YTB](https://www.youtube.com/@GhibliDayss/videos)**

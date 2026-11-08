@@ -379,6 +379,12 @@
   - [XiaoHu.AI · 小互 · AI 解读站](https://xiaohu.ai/)
 
 ---
+### 0026. 柴郡
+**[柴郡]{s}**
+* **[柴郡 | Crypto+AI Plus](https://x.com/0xCheshire)**
+  - [BlackNico 柴郡｜AI 工具、开源项目与创作记录](https://blacknico.com/)
+
+---
 ### 0100. 10倍生产力 · Douyin
 **[10倍生产力]{s}**
 * **[10倍生产力 | 我是小鱼 | 伍佰章 | Douyin](https://v.douyin.com/Hjzxem9OFl4/)**
