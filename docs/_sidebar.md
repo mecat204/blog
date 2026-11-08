@@ -154,7 +154,7 @@
 
 ---
 * **Music**
-  - [music](Music/Music)
+  - [Music](Music/Music)
   - [AiSinger](Music/AiSinger)
   - [英文歌曲](Music/英文歌曲)
   - [B站&YTB](Music/B站&YTB)
