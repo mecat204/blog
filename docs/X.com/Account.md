@@ -385,6 +385,13 @@
   - [BlackNico 柴郡｜AI 工具、开源项目与创作记录](https://blacknico.com/)
 
 ---
+### 0027. 知识分享官
+**[知识分享官]{s}**
+* **[知识分享官](https://x.com/knowledgefxg)**
+  - [英语学习资源导航 | 全网最全](https://en.knowledgefxg.com/)
+  - [knowledgefxg, learning-english](https://github.com/knowledgefxg/learning-english)
+
+---
 ### 0100. 10倍生产力 · Douyin
 **[10倍生产力]{s}**
 * **[10倍生产力 | 我是小鱼 | 伍佰章 | Douyin](https://v.douyin.com/Hjzxem9OFl4/)**

@@ -5028,6 +5028,12 @@
   - [Backcountry 101 | A Website for Learning Basic Survival Skills, 野外生存101 | 一个学习基础生存技能的网站](https://www.youtube.com/watch?v=B9sY2t7RICc)
 
 ---
+### 6006. techniahqrobot
+**[techniahqrobot]{s}**
+* **[techniahqrobot | 3.67K subscribers | YTB](https://www.youtube.com/@techniahqrobot/videos)**
+  - [How Physical AI Works: Humanoid Robots vs Generative AI Explained](https://www.youtube.com/watch?v=Hem3Lcz_sI4)
+
+---
 ### 7000. Henny Huang
 **[Henny Huang]{s}**
 * **[Kenny Huang | 12.2K subscribers | YTB](https://www.youtube.com/@kennyhuang8660/videos)**
