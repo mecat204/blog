@@ -831,10 +831,11 @@
 
 ---
 **[缘壹]{s}**
-* **[缘壹 | 寻一处小窝，藏于深山， 与风为邻，与月为伴。 学习·素材 | 贰佰章](https://v.douyin.com/QqKEhV8y0fc/)**
+* **[缘壹 | 寻一处小窝，藏于深山， 与风为邻，与月为伴。 学习·素材 | 伍佰章](https://v.douyin.com/QqKEhV8y0fc/)**
   - [下雨天，洗完澡，吹干头发，换一身家居服，钻进被窝，手机满格，追的剧也更新了，此刻，幸福感爆棚](https://v.douyin.com/QJnzxoW6_T0/)
   - [究竟什么样子的人才会喜欢这样的氛围](https://v.douyin.com/SxGfy6927uY/)
   - [究竟什么样子的人才会喜欢这样的氛围](https://v.douyin.com/HFKpUUextpM/)
+  - [这样的房间，一天给你888，有手机，有卫生间，有无线网，还可以带一样自己喜欢的东西，你能住多久](https://v.douyin.com/lYsQGdU8F4E/)
 
 ---
 **[杳无]{s}**

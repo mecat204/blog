@@ -1935,6 +1935,14 @@
   - [凡人二创混剪](https://v.douyin.com/MEfWHXgS7co/)
 
 ---
+### 3000. 千凝+Y
+**[千凝+Y]{e}**
+* **[千凝+Y | 音乐是精神食粮 好听的旋律一起听，愿你我都被时光温柔相待 | 叁仟章 | Douyin](https://v.douyin.com/adkF-9Jkvy8/)**
+  - [或许有一天真到了无路可去，无法可解的地步，我也会说，缘分已尽了吧 | 001](https://v.douyin.com/AMvFm5nvlYM/)
+  - [有缘便同坐一晚 各有各的渡船 不必同一岸](https://v.douyin.com/Ni5E1FRb4Zo/)
+  - [Music: 借问酒家何处有(变奏版) | 缪斯Muse](https://v.douyin.com/-UcfJN38mI0/)
+
+---
 ### 9999. Music·Course
 **[AlgerMusicPlayer]{s}**
 * **[AlgerMusicPlayer | music | software](https://github.com/algerkong/AlgerMusicPlayer)**
