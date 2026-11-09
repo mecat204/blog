@@ -4595,13 +4595,22 @@
 ---
 ### 0057. Hope Gong
 **[Hope Gong]{e}**
-* **[]()**
-  - []()
+* **[Hope Gong](https://www.youtube.com/@iamhopeg/videos)**
+  - [Are AI Data Center Stocks in Trouble? CoreWeave's Debt Problem, 人工智能数据中心股票有麻烦吗？CoreWeave 的债务问题](https://www.youtube.com/watch?v=ZSkY9qparqc)
 
 ---
 **[龚希望Hope]{e}**
 * **[龚希望Hope | 中英文聊金融 商业 科技 职场 体育 文娱 | 叁佰章 | Douyin](https://v.douyin.com/zNJX4fFcSfw/)**
   - [做自媒体快一年了，最近又开始尝试一些新东西。也想顺便跟大家聊聊，这一年来的一些感受和想法](https://v.douyin.com/Rvx4cE3k1OE/)
+
+---
+### 0058. LabXchange
+**[LabXchange]{s}**
+* **[LabXchange | 19K subscribers | YTB](https://www.youtube.com/@LabXchange/videos)**
+
+  ---
+  **[Library]{g}**
+    - [Library](https://www.labxchange.org/library)
 
 ---
 ### 0099. AI - video
