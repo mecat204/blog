@@ -524,6 +524,24 @@
   - [OpenSelena, omniget](https://github.com/OpenSelena/omniget)
 
 ---
+### 0014. 数字生命卡兹克
+**[数字生命卡兹克]{s}**
+* **[数字生命卡兹克 | 愿我们永远对世界保持好奇。公众号：数字生命卡兹克](https://x.com/Khazix0918)**
+  - [KKKKhazix, AIHOT](https://github.com/KKKKhazix/AIHOT)
+    * [AI 新闻资讯：今日 AI 热点与大模型动态精选 · AIHOT](https://aihot.news/)
+
+---
+### 0015. deepseek-ai/deepseek-harness
+**[deepseek-ai/deepseek-harness]{s}**
+* **[Deepseek](https://www.deepseek.com/en/harness/)**
+
+---
+### 0016. 夏木GROW
+**[夏木GROW]{s}**
+* **[夏木GROW](https://x.com/Tanghulu188)**
+  - [konlu, story-studio](https://github.com/konlu/story-studio)
+
+---
 ### 4000. Adult
 **[藍芽みずき🐑🌱サブ🎮]{e}**
 * **[藍芽みずき🐑🌱サブ🎮](https://x.com/aiga_mizuki_sub)**
