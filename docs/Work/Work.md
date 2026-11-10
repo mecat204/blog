@@ -846,4 +846,57 @@ wmic os get LastBootUpTime
 * **[青书学堂 | 青颖飞帆官方网站_让在线教育变得，更便宜、更便利、更高质量](https://www.qingshuxuetang.com/)**
 
 ---
+### 0015. 杂
+**[杂]{s}**
+  - [vscode-online](https://visualstudio.microsoft.com/zh-hans/services/visual-studio-online/?rr=https%3A%2F%2Fonline.visualstudio.com%2F)
+  - [Visual Studio Online](https://www.cnblogs.com/xgqfrms/p/10824782.html)
+  - [骑士软件](https://mp.weixin.qq.com/s/eCzsFzGkuTDuqQjGXzxJrQ)
+  - [阮一峰github](https://github.com/ruanyf)
+  - [XMAPP下载](http://www.xampp.cc/archives/category/down)
+  - [青立方](https://www.qingcloud.com/)
+  - [可视化工具](https://www.jianshu.com/p/d576352e63b0)
+  - [几款数据可视化的工具介绍](http://www.sohu.com/a/256260164_100279938)
+  - [极限挑战](https://new.qq.com/rain/a/CRI2019092400848000)
+  - [4个免费代码自动生成神器](https://www.jianshu.com/p/76d05a51567e)
+  - [Linux入门十法](https://www.toutiao.com/a6715513731121414664/)
+  - [Linux265](https://linux265.com)
+  - [12,000个vue项目对比](http://www.sohu.com/a/299652578_115128)
+  - [古风网](https://www.zhongguofeng.com/gufeng/tupian/)
+  - [bilibili画友](https://h.bilibili.com/)
+  - [联想知识库](http://iknow.lenovo.com/detail/dc_178560.html)
+  - [在线编辑工具](https://zhuanlan.zhihu.com/p/21808087)
+  - [Anaconda](https://www.jianshu.com/p/742dc4d8f4c5)
+  - [清华大学开源软件镜](https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/)
+  - [Jupyter Notebook](https://jupyter.org/install)
+  - [“寒冬”三年经验前端面试总结](https://juejin.im/post/5d9c2005f265da5bb977c55e?utm_source=gold_browser_extension)
+  - [TypeScript安利指南](https://juejin.im/post/5d8efeace51d45782b0c1bd6?utm_source=gold_browser_extension)
+  - [Gitpod](https://www.gitpod.io/)
+  - [下载软件](https://pc.qq.com/detail/0/detail_1300.html)
+  - [农历控件](https://github.com/a306916069/vue-lunar-fullcalendar)
+  - [JavaScript函数工具大全](https://juejin.im/post/5da1a04ae51d45783d6122bf?utm_source=gold_browser_extension)
+  - [CodeSandbox](https://codesandbox.io/s/virtuallist-1-rp8pi)
+  - [vscode-online](https://visualstudio.microsoft.com/zh-hans/services/visual-studio-online/?rr=https%3A%2F%2Fonline.visualstudio.com%2F)
+  - [Visual Studio Online](https://www.cnblogs.com/xgqfrms/p/10824782.html)
+  - [骑士软件](https://mp.weixin.qq.com/s/eCzsFzGkuTDuqQjGXzxJrQ)
+
+---
+**[影星 Star]{g}**
+  - [詹妮弗]{e}
+  - [薇诺娜瑞德]{e}
+  - [赫本]{e}
+  - [寡姐]{e}
+  - [安妮海瑟薇]{e}
+  - [艾玛沃特森]{e}
+  - [克里斯汀]{e}
+  - [莫妮卡]{e}
+  - [妮可基德曼]{e}
+  - [凯拉奈特莉]{e}
+  - [朱莉]{e}
+  - [阿佳妮]{e}
+
+---
+**[]{s}**
+神不外驰，气不外泄，神归杰穴，坎离已交，愈加猛烈精进，致虚之极，守静之笃.
+
+---
 ![alt text](https://upload-bbs.miyoushe.com/upload/2022/11/01/266607709/6cc988d046df34315681e50f9c9f299c_1259576169906078498.PNG?x-oss-process=image//resize,s_600/quality,q_80/auto-orient,0/interlace,1/format,png)
