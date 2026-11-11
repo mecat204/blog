@@ -542,6 +542,20 @@
   - [konlu, story-studio](https://github.com/konlu/story-studio)
 
 ---
+### 0017. Chetaslua·艺术家
+**[Chetaslua]{s}**
+* **[Chetaslua](https://x.com/chetaslua)**
+  - [ChetasLua](https://github.com/ChetasLua)
+    * [pelican-riding-a-bicycle](https://github.com/ChetasLua/pelican-riding-a-bicycle)
+    * [earths-mightiest-interactions](https://chetaslua.github.io/earths-mightiest-interactions/)
+    * [little-neighbourhood](https://chetaslua.github.io/little-neighbourhood/)
+    * [godzilla-nights](https://chetaslua.github.io/godzilla-nights/)
+
+---
+**[krypton anime]{s}**
+* **[krypton anime](https://codepen.io/editor/ChetasLua/pen/01a1c049-b1a4-76e0-89b4-dd53579cf204)**
+
+---
 ### 4000. Adult
 **[藍芽みずき🐑🌱サブ🎮]{e}**
 * **[藍芽みずき🐑🌱サブ🎮](https://x.com/aiga_mizuki_sub)**
