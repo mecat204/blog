@@ -1943,6 +1943,12 @@
   - [Music: 借问酒家何处有(变奏版) | 缪斯Muse](https://v.douyin.com/-UcfJN38mI0/)
 
 ---
+### 3001. 等待清光-李璟崎KevinGee
+**[我是你温柔的baby]{e}**
+* **[我是伱温柔的baby | 没有人是木讷的树, 人只会对自己喜欢的用心。所以你需要一双人生鼎沸时望向你的眼睛 | 伍佰章 | Douyin]()**
+  - [这世上，最守诺言的，莫过于四季了，春夏秋冬， 无论哪个季节，都会如期而至，从未失约。| Music: 等待清光-李璟崎](https://v.douyin.com/udR5Qu2rTyY/)
+
+---
 ### 9999. Music·Course
 **[AlgerMusicPlayer]{s}**
 * **[AlgerMusicPlayer | music | software](https://github.com/algerkong/AlgerMusicPlayer)**

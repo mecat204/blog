@@ -2636,7 +2636,25 @@
 ### 0119. 嘟嘟ai
 **[嘟嘟ai]{s}**
 * **[嘟嘟ai | 佰章 | Douyin](https://v.douyin.com/b69XH-uODUE/)**
-  - [世人皆有武侠梦07](https://v.douyin.com/JEYPWA_bdwI/)
+
+  ---
+  **[001.笑红尘合集版]{g}**
+    - [Music: 笑红尘-陈淑桦 | 001](https://v.douyin.com/ydfL32X7Jl0/)
+    - [谁说现在没有哭戏的 | 002](https://v.douyin.com/BX0zs83jZ0c/)
+    - [一起看看有没有你心中熟悉的模样呀 | 003](https://v.douyin.com/xPeI9UtRRm0/)
+    - [用最近很喜欢听的歌给这些天做的90年代的港片武侠女性人物做个总结 | 004](https://v.douyin.com/VobqUCPZ4tQ/)
+    - [古装剧中那些惊鸿一瞥的美女 | 005](https://v.douyin.com/OKFVxx_vilM/)
+    - [不知道屏幕前第一次听过这首歌的人如今都过去多少年了 | 006](https://v.douyin.com/x3AADhCBxc4/)
+
+  ---
+  **[002. 世人皆有武侠梦]{g}**
+    - [世人皆有武侠梦](https://v.douyin.com/RaaXwURxlBA/)
+    - [世人皆有武侠梦05](https://v.douyin.com/20v9Jmi4GRA/)
+    - [世人皆有武侠梦06](https://v.douyin.com/_nujccIbzdU/)
+    - [世人皆有武侠梦07](https://v.douyin.com/JEYPWA_bdwI/)
+    - [世人皆有武侠梦08](https://v.douyin.com/eJvUslFOWQ8/)
+    - [世人皆有武侠梦09](https://v.douyin.com/opu1vIxhpso/)
+    - [世人皆有武侠梦26](https://v.douyin.com/6BDVSVdYVm4/)
 
 ---
 ### 0120. 奇哥的视界
@@ -2838,6 +2856,9 @@
   ---
   - [荒风万劫，吾身作壁 这片苍原的秋意越来越浓，草木枯黄，万物走向衰亡。我嗅到了寒冬将至的气息，冷冽、空旷、带着肃杀。风穿过我的毛发，也卷起她翻飞的红衣。世人皆惧我的尖牙与野性，唯有她敢将后背托付于我，眼底毫无惧意。我不在乎这片天地如何凋敝，狂风掠过，我自巍然不动。她是这荒芜世间唯一的鲜活颜色，我便是她永不陷落的壁垒，与她一同逼退漫天萧瑟。| Music: 九张机-张齐山DanieL](https://v.douyin.com/gCiaLQYXtWY/)
 
+  ---
+  - [雾隐苍山，见天见己 世人寻路向人间，我独牵尘向云深。浓雾将万千喧嚣隔绝在山脚之下，只留这一条悬空的石阶，通往无人知晓的岁月。青衫染湿了山气，银饰不再作响，连风到了这里都放轻了脚步。在这片连时间都停驻的留白里，万物皆渺，唯心境同群山一般，辽阔而安宁。](https://v.douyin.com/QKFsr_lC0Cg/)
+
 ---
 ### 0139. 沾神AIGC
 **[沾神AIGC]{s}**
@@ -3023,6 +3044,12 @@
   - [小AI来了 | Min: 06:50 | 001](https://v.douyin.com/N4Ejrci9NLs/)
   - [死神也下班 | Min: 06:13 | 002](https://v.douyin.com/qvjml8f9QDM/)
   - [天堂理发馆 | Min: 04:51 | 003](https://v.douyin.com/ghADr4Sj7MY/)
+
+---
+### 0156. 瀚宇的不思議世界
+**[瀚宇的不思議世界]{s}**
+* **[瀚宇的不思議世界 | 🌍 天文地理｜全球航天｜科学科普 🌌 从地球出发，探索浩瀚宇宙 | 伍佰章 | Douyin](https://v.douyin.com/y8b2Sbp7ALs/)**
+  - [马斯克的传奇人生 | Music: Got you](https://v.douyin.com/uQHC1CsA6nQ/)
 
 ---
 ### 0200. 瑶光
