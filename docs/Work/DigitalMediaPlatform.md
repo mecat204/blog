@@ -21,6 +21,10 @@
 **[热门榜单]{s}**
 * **[百度指数](https://index.baidu.com)**
 * **[今日热榜](https://tophub.today)**
+* **[什么火了·全网热榜、热点与快讯](https://whatshot.top/)**
+* **[X榜单](https://xbangdan.com/)**
+* **[Trending across the web — Weibo, Zhihu, Bilibili, Douyin &amp; more, refreshed live (2026) | UApiPro](https://uapis.cn/en/hotboard)**
+* **[gitcn·Github中文社区](https://gitcn.org/)**
 
 ---
 ### 0005. 视频素材
@@ -36,7 +40,6 @@
 * **[Artlist - Generative AI Tools &amp; Digital Assets for Creators | Artlist](https://artlist.io)**
 * **[爱给网_音效配乐_3D模型_视频素材_免费下载](https://aigei.com)**
 * **[豆丁音效](https://docin.com)**
-
 
 ---
 ### 0007. 高清图片

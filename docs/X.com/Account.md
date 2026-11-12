@@ -556,6 +556,14 @@
 * **[krypton anime](https://codepen.io/editor/ChetasLua/pen/01a1c049-b1a4-76e0-89b4-dd53579cf204)**
 
 ---
+### 0018. Alisen·MAI麦造
+**[Alisen·MAI麦造]{s}**
+* **[MAI麦造](https://x.com/alisenray)**
+* **[Alisen, alisen39](https://github.com/alisen39)**
+  - [alisen39, WhatsHot](https://github.com/alisen39/WhatsHot)
+    * [什么火了·全网热榜、热点与快讯](https://whatshot.top/)
+
+---
 ### 4000. Adult
 **[藍芽みずき🐑🌱サブ🎮]{e}**
 * **[藍芽みずき🐑🌱サブ🎮](https://x.com/aiga_mizuki_sub)**
