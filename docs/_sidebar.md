@@ -30,6 +30,12 @@
   - [Account](X.com/Account)
 
 ---
+* **Work**
+  - [Work](Work/Work)
+  - [DigitalMediaPlatform](Work/DigitalMediaPlatform)
+  - [ChatGPT](Work/ChatGPT)
+
+---
 * **理想生活**
   - [理想的生活](理想生活/理想的生活)
   - [书法](理想生活/书法)
@@ -261,12 +267,6 @@
 ---
 * **CommonSense**
   - [GeneralKnowledge](CommonSense/GeneralKnowledge)
-
----
-* **Work**
-  - [Work](Work/Work)
-  - [DigitalMediaPlatform](Work/DigitalMediaPlatform)
-  - [ChatGPT](Work/ChatGPT)
 
 ---
 * **Forklift**
