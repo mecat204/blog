@@ -221,6 +221,12 @@
   - [Música Zen Japonesa Para Relaxar E Meditar Com Flauta Shakuhachi No Lindo Jardim Zen, 音乐 Zen Japonesa Para Relaxar E Meditar Com Flauta Shakuhach, 没有 Lindo Jardim 禅宗](https://www.youtube.com/watch?v=sbSf7g6VhZ4)
 
 ---
+### 0025. Prime Chill Lab
+**[Prime Chill Lab]{s}**
+* **[Prime Chill Lab | Prime Chill Lab | Premium Deep Focus Music 2026 | 7.65K subscribers | YTB](https://www.youtube.com/watch?v=E4jUpO89G3Y&list=RDTZgFg0Ok7W0&index=2)**
+  - [Calm Deep Work Music ~ Enhance Focus & Flow State | Cinematic Study Sounds, 平静深度工作音乐 ~ 增强注意力和心流状态 |电影研究声音](https://www.youtube.com/watch?v=E4jUpO89G3Y&list=RDTZgFg0Ok7W0&index=2)
+
+---
 ### 9999. Download
 **[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**
