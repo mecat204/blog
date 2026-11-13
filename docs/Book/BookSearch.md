@@ -36,6 +36,11 @@
 
 ---
 ### 0001. 搜书
+**[读书的本质]{e}**
+* **[读书的本质 | 书以修身 品书以养德 承蒙厚爱 感谢关注 | 仟章 | Douyin](https://v.douyin.com/WWflYMZVVQQ/)**
+  - [揭秘潮汕生意人的财富密码,读懂了潮汕,便读懂了中国商业的底层逻辑 | 浙商思维 | 潮汕商经](https://v.douyin.com/j8XbLsDQgmU/)
+
+---
 **[爱读书的木子]{e}**
 * **[爱读书的木子 | 如果想法和我不一样 那就是你对 | 仟章 | Douyin](https://v.douyin.com/WJvqgePGqIU/)**
   - [苦难的本质](https://v.douyin.com/P80zuI2HYDY/)
