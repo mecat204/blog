@@ -3055,6 +3055,19 @@
   - [马斯克的传奇人生 | Music: Got you](https://v.douyin.com/uQHC1CsA6nQ/)
 
 ---
+### 0157. 魔灵·凡人二创
+**[魔灵]{e}**
+* **[魔灵 | 🤠可灵优秀创作者/RunningHub先锋作者 /MVLAND | 伍佰章 | Douyin](https://v.douyin.com/TG3UgeiIJyY/)**
+  - [「船新版本」大王～他们说臣妾祸国殃民 人家好害怕呀～](https://v.douyin.com/Sbb6e03KkWs/)
+  - [这个问题应该早就有了答案](https://v.douyin.com/U7GiYlQQkKA/)
+
+---
+### 0158. DoroPP
+**[DoroPP]{s}**
+* **[DoroPP | 开门！doro来了！ | 伍佰章 | Douyin](https://v.douyin.com/C2G5-XGxr68/)**
+  - [当你去用了GPT](https://v.douyin.com/Du7D2QWsKVQ/)
+
+---
 ### 0200. 瑶光
 **[瑶光]{s}**
 * **[瑶光 | 做梦老手，AIGC新手，希望能跟粉丝们共同成长，欣赏美丽的梦中世界 | 佰章 | Douyin](https://v.douyin.com/tARwuM501uk/)**
