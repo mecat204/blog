@@ -2587,7 +2587,14 @@
     - [巢深林不过一枝，饮大河不过满腹 | 029](https://v.douyin.com/ango7uTeMCY/)
 
     ---
-    - [低谷不能比较、成长不等于感谢苦难 | 042](https://v.douyin.com/8G--UKuvv08/)
+    - [低谷不能比较、成长不等于感谢苦难 | Min: 03:27 | 042](https://v.douyin.com/8G--UKuvv08/)
+    - [《西游记》里有一根“捆仙索”，越是挣脱捆的越紧，火烧刀砍都没用。真正的解法就是别动。你不动，不挣脱，捆仙索自动就松下来，解开了。 | 好了散人]{lb}
+
+    ---
+    - [真正看清人性以后，为什么反而更容易释怀 | Min: 05:53 | 043](https://v.douyin.com/o6FHPMY_30o/)
+
+    ---
+    - [任何年龄都要提防的四大陷阱 | Min: 04:38 | 044](https://v.douyin.com/t5P9jDdoz0w/)
 
 ---
 ### 0114. AI创可贴
@@ -3066,6 +3073,12 @@
 **[DoroPP]{s}**
 * **[DoroPP | 开门！doro来了！ | 伍佰章 | Douyin](https://v.douyin.com/C2G5-XGxr68/)**
   - [当你去用了GPT](https://v.douyin.com/Du7D2QWsKVQ/)
+
+---
+### 0159. 柠檬与大肥鱼
+**[柠檬与大肥鱼]{s}**
+* **[柠檬与大肥鱼 | 会经常更新claude大小姐和大肥鱼的日常，求关注喔 | 佰章 | Douyin](https://v.douyin.com/em93-v3Jqew/)**
+  - [谁把大肥鱼扔垃圾桶了](https://v.douyin.com/WUZPwX9Pj18/)
 
 ---
 ### 0200. 瑶光
