@@ -3081,6 +3081,40 @@
   - [谁把大肥鱼扔垃圾桶了](https://v.douyin.com/WUZPwX9Pj18/)
 
 ---
+### 0160. 芙芙天下第一可爱
+**[芙芙天下第一可爱]{s}**
+* **[芙芙天下第一可爱 | 佰章 | Douyin](https://v.douyin.com/3CKMez-bD3Q/)**
+  - [最后的管理员](https://v.douyin.com/cuKpYjj8lys/)
+  - [原神同人动画 荧带着众人攻上天空岛，却发现天理一直在执行她很久以前的一个愿望。 这一次，她要救下提瓦特，也要带身边的人一起回家。]{lb}
+
+  ---
+  - [葬火之战](https://v.douyin.com/6uDh14axcP4/)
+  - [葬火之战：龙王归来，双月陨落 第二王座降临，创世之初的大战再度燃起。龙王携深渊归来，双月破碎，古老的城邦坠入不见天日的深处]{lb}
+
+  ---
+  - [于此展现创世的一角 日月前事 鸽子衔枝之年，天上永恒的王座到来，世界为之焕然一新。](https://v.douyin.com/_vxqEQg4Jbk/)
+
+---
+### 0161. 古叔
+**[古叔]{s}**
+* **[古叔 | 多读书！ 招文案 | 贰佰章 | Douyin](https://v.douyin.com/niX9IMyKbHk/)**
+  - [济新传：乐于助人的你，往往会委屈了自己](https://v.douyin.com/SuwXOF7q9CQ/)
+  - [济新传：升米恩，斗米仇](https://v.douyin.com/wnJ4oSaOMoQ/)
+  - [你不是谁的奴才](https://v.douyin.com/xGSlxY2zD-U/)
+  - [济新传：莫凭一事论好坏，人心自有冷暖秤](https://v.douyin.com/bp0z7GiCDuI/)
+
+---
+### 0162. 零号AIGC | 读懂史书迷雾，细数华夏过往
+**[零号AIGC]{s}**
+* **[零号AIGC | 读懂史书迷雾，细数华夏过往 | 佰章 | Douyin](https://v.douyin.com/7bNrgmIYwH4/)**
+
+  ---
+  **[001. 越千年往事]{g}**
+    - [百万大军丢了长安，满朝公卿却骂阶下囚祸国殃民 | Min: 04:31 | 034](https://v.douyin.com/3RM43bu1Zuo/)
+    - [大唐第一舞王安禄山，拂袖之间跳碎玄宗的盛世美梦 | Min: 04:50 | 035](https://v.douyin.com/EfqfX6TzZLk/)
+
+
+---
 ### 0200. 瑶光
 **[瑶光]{s}**
 * **[瑶光 | 做梦老手，AIGC新手，希望能跟粉丝们共同成长，欣赏美丽的梦中世界 | 佰章 | Douyin](https://v.douyin.com/tARwuM501uk/)**

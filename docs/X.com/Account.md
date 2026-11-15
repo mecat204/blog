@@ -371,6 +371,7 @@
   - [HKUDS, DeepTutor](https://github.com/HKUDS/DeepTutor)
     * [DeepTutor — Agent-native, open-source personalized tutoring](https://deeptutor.info/)
   - [WeduLab Teaching Toolkit](https://wedulab.com/?lang=en)
+  - [12·Feather·Codevember2026](https://ttillberg.github.io/codevember-2026/12/)
 
 ---
 ### 0025. 小互
@@ -571,6 +572,9 @@
   - [utao](https://wwpg.lanzouq.com/s/utao)
   - [deusyu, translate-book](https://github.com/deusyu/translate-book)
   - [gaozhangmin, boxplayer](https://github.com/gaozhangmin/boxplayer)
+  - [BigDawnGhost, Wenyi](https://github.com/BigDawnGhost/Wenyi)
+    * [Wenyi](https://bigdawnghost.github.io/wenyi/)
+  - [官网下 - 可信软件下载入口](https://guanwangxia.com/)
 
 ---
 ### 0020. GK
@@ -578,6 +582,15 @@
 * **[GK 资深玩家](https://x.com/0xGky)**
   - [zwc456baby, my-tv-webview](https://github.com/zwc456baby/my-tv-webview)
   - [视觉AID - AI漫剧工作流引导者](https://www.aidstudio.com.cn/)
+  - [WeduLab Teaching Toolkit](https://wedulab.com/)
+
+
+---
+### 0021. 洛克船长
+**[洛克船长]{s}**
+* **[洛克船长](https://x.com/slashui)**
+  - []()
+
 
 ---
 ### 3000. 熟韻美
