@@ -460,8 +460,10 @@
 **[Techartist]{s}**
 * **[Techartist | Experiments in code, form, light and motion. Building interactive 3D worlds, experiences and games.](https://x.com/techartist_)**
   - [Techartist: interactive 3D worlds, games and lessons](https://iamtechartist.com/)
+    * [demo](https://iamtechartist.com/demos/)
     * [dinosaurs-to-birds](https://iamtechartist.com/dinosaurs-to-birds/)
     * [how-an-airliner-works](https://iamtechartist.com/how-an-airliner-works/)
+    * [light-and-optics](https://iamtechartist.com/light-and-optics/)
   - [VoXelo](https://codepen.io/VoXelo)
     * [Morphing Particles with Three.js](https://codepen.io/VoXelo/pen/qEBBqza)
 
@@ -584,13 +586,17 @@
   - [视觉AID - AI漫剧工作流引导者](https://www.aidstudio.com.cn/)
   - [WeduLab Teaching Toolkit](https://wedulab.com/)
 
-
 ---
 ### 0021. 洛克船长
 **[洛克船长]{s}**
 * **[洛克船长](https://x.com/slashui)**
-  - []()
 
+---
+### 0022. Three.js
+**[Three.js]{s}**
+* **[Three.js | Making 3D easier since 2010.](https://x.com/threejs)**
+  - [Game](https://karimbeyrouti.github.io/rainforest/codevember.html#/flight)
+  - [rainforest](https://karimbeyrouti.github.io/rainforest)
 
 ---
 ### 3000. 熟韻美
