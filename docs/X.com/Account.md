@@ -575,6 +575,8 @@
   - [BigDawnGhost, Wenyi](https://github.com/BigDawnGhost/Wenyi)
     * [Wenyi](https://bigdawnghost.github.io/wenyi/)
   - [官网下 - 可信软件下载入口](https://guanwangxia.com/)
+  - [zerx-lab, FluxDown](https://github.com/zerx-lab/FluxDown)
+    * [FluxDown — The Download Manager, Rebuilt in Rust](https://fluxdown.com/)
 
 ---
 ### 0020. GK
