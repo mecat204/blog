@@ -24,7 +24,8 @@
 * **[什么火了·全网热榜、热点与快讯](https://whatshot.top/)**
 * **[X榜单](https://xbangdan.com/)**
 * **[Trending across the web — Weibo, Zhihu, Bilibili, Douyin &amp; more, refreshed live (2026) | UApiPro](https://uapis.cn/en/hotboard)**
-* **[gitcn·Github中文社区](https://gitcn.org/)**
+* **[Github中文社区](https://gitcn.org/)**
+* **[HelloGithub](https://hellogithub.com/)**
 
 ---
 ### 0005. 视频素材

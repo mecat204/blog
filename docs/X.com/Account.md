@@ -145,10 +145,6 @@
 * **[LongCat-Video-Avatar-1.5](https://huggingface.co/spaces/victor/LongCat-Video-Avatar-1.5)**
 
 ---
-**[alexei]{s}**
-* **[Neuroplasticity: How Repetition Quietly Decides Who You Become | 神经可塑性：重复如何悄然决定你成为怎样的人](https://x.com/alexeixbt/article/2086051211271196886)**
-
----
 **[HKUDS | Data Intelligence Lab @ HKU | 香港大学数据智能实验室]{s}**
 * **[DeepTutor](https://github.com/HKUDS/DeepTutor)**
   - [DeepTutor — Agent-native, open-source personalized tutoring](https://deeptutor.info/)
@@ -372,6 +368,8 @@
     * [DeepTutor — Agent-native, open-source personalized tutoring](https://deeptutor.info/)
   - [WeduLab Teaching Toolkit](https://wedulab.com/?lang=en)
   - [12·Feather·Codevember2026](https://ttillberg.github.io/codevember-2026/12/)
+  - [ELY-Open-Source, ElyOffice](https://github.com/ELY-Open-Source/ElyOffice)
+    * [Ely Office](https://office.elygpui.com/)
 
 ---
 ### 0025. 小互
@@ -597,6 +595,13 @@
 * **[Three.js | Making 3D easier since 2010.](https://x.com/threejs)**
   - [Game](https://karimbeyrouti.github.io/rainforest/codevember.html#/flight)
   - [rainforest](https://karimbeyrouti.github.io/rainforest)
+
+---
+### 0024. alexei
+**[alexei]{s}**
+* **[alexei | just a person interested in everything, 只是一个对一切都感兴趣的人](https://x.com/alexeixbt)**
+  - [Neuroplasticity: How Repetition Quietly Decides Who You Become | 神经可塑性：重复如何悄然决定你成为怎样的人](https://x.com/alexeixbt/article/2086051211271196886)
+  - [潜意识影响身体](https://x.com/alexeixbt/status/2122028077815325035)
 
 ---
 ### 3000. 熟韻美
