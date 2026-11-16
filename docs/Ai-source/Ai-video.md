@@ -2596,6 +2596,12 @@
     ---
     - [任何年龄都要提防的四大陷阱 | Min: 04:38 | 044](https://v.douyin.com/t5P9jDdoz0w/)
 
+    ---
+    - [知行合一 王阳明 | Min: 04:52 | 045](https://v.douyin.com/iiMhC5GqbdY/)
+
+    ---
+    - [为什么越着急，越容易一事无成 | Min: 03:56 | 046](https://v.douyin.com/fXqNS2LVnaQ/)
+
 ---
 ### 0114. AI创可贴
 **[AI创可贴]{s}**
@@ -2848,6 +2854,10 @@
     - [仙浪翻涌，一怒漫金山 | 022](https://v.douyin.com/h7Xg40DWxDs/)
     - [轻拢衣袍相对静， 忽逢归客起风波。 | 023](https://v.douyin.com/nTV2FoofZwQ/)
     - [云藏玄术，一念逍遥 · 天龙八部 | 024](https://v.douyin.com/FqGpd4zpdjI/)
+    - [江湖风起，刀光相逢，一帧皆是武侠旧梦。 心无羁绊，方得逍遥。 | 025](https://v.douyin.com/VNfmIwM6fOc/)
+    - [江湖，不是刀光剑影，而是人心，一场身不由己的相逢 | 026](https://v.douyin.com/A0TguiPRheo/)
+    - [一别江海，各赴天涯 | 027](https://v.douyin.com/bLMyiEFWajE/)
+    - [青梅竹马，剑舞风华 | 028](https://v.douyin.com/_YZ5OE2DxDY/)
 
 ---
 ### 0138. 青羽
@@ -3067,6 +3077,7 @@
 * **[魔灵 | 🤠可灵优秀创作者/RunningHub先锋作者 /MVLAND | 伍佰章 | Douyin](https://v.douyin.com/TG3UgeiIJyY/)**
   - [「船新版本」大王～他们说臣妾祸国殃民 人家好害怕呀～](https://v.douyin.com/Sbb6e03KkWs/)
   - [这个问题应该早就有了答案](https://v.douyin.com/U7GiYlQQkKA/)
+  - [「言出法随」只是许了一个小小的愿望，真灵“凝”啊](https://v.douyin.com/qhmqm3FKt7U/)
 
 ---
 ### 0158. DoroPP
@@ -3113,6 +3124,28 @@
     - [百万大军丢了长安，满朝公卿却骂阶下囚祸国殃民 | Min: 04:31 | 034](https://v.douyin.com/3RM43bu1Zuo/)
     - [大唐第一舞王安禄山，拂袖之间跳碎玄宗的盛世美梦 | Min: 04:50 | 035](https://v.douyin.com/EfqfX6TzZLk/)
 
+
+---
+### 0163. Hans·GenshinImpact
+**[Hans]{s}**
+* **[Hans | 佰章 | Douyin](https://v.douyin.com/stBvRXxm6Tw/)**
+  - [听说魈上仙最近会经常去修好的铜雀庙那里](https://v.douyin.com/eL2O0fWr3DY/)
+  - [迫害提米](https://v.douyin.com/meiBoActY1M/)
+  - [蒙德的旅途暂时到这里啦！下一站，璃月](https://v.douyin.com/mPzJIVDp7vs/)
+  - [达达鸭！你想干嘛！](https://v.douyin.com/gVCLf5Kld3s/)
+
+---
+### 0164. 骑着蜗牛环游SJ
+**[骑着蜗牛环游SJ]{s}**
+* **[骑着蜗牛环游SJ | 伍佰章 | Douyin](https://v.douyin.com/GlJA_6DrPMM/)**
+  - [当导师让我申请科研经费](https://v.douyin.com/tBxI8InkDr4/)
+
+---
+### 0165. Kark·GenshinImpact
+**[Kark]{s}**
+* **[Kark | ❤是个做二创动画的，做些原神、火影、高达之类的同人二创作品 | 佰章 | Douyin](https://v.douyin.com/BwUAqkc7n6k/)**
+  - [大闹至冬](https://v.douyin.com/0bJU1yy-Ii0/)
+  - [假如原神是部偶像剧](https://v.douyin.com/iyCcAAFP6Zg/)
 
 ---
 ### 0200. 瑶光
