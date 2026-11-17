@@ -3099,6 +3099,7 @@
 **[DoroPP]{s}**
 * **[DoroPP | 开门！doro来了！ | 伍佰章 | Douyin](https://v.douyin.com/C2G5-XGxr68/)**
   - [当你去用了GPT](https://v.douyin.com/Du7D2QWsKVQ/)
+  - [师傅你不要想不开](https://v.douyin.com/5KFe95FaIA4/)
 
 ---
 ### 0159. 柠檬与大肥鱼
