@@ -964,6 +964,13 @@
     - [我们真天下第一好 | 003](https://v.douyin.com/n2MffMoq-H0/)
     - [一袭粉衣入云阙，一柄青锋问九天 | Music: 美丽的神话（不灭亦不休）扎西尕尔 | 004](https://v.douyin.com/-ISPeR4776k/)
 
+  ---
+  **[003. 古风意境·小云雀]{g}**
+    - [江湖从不在闹市，而在这片山河旷野之间 | Min: 00:35 | 024](https://v.douyin.com/sVxugXah5lo/)
+    - [025 | Min: 00:36](https://v.douyin.com/cr7U0zJtA_M/)
+    - [仙阙藏云海，江湖存本心，放下长剑，与故人| Min: 00:35 | 026](https://v.douyin.com/ZFyDpcocYvE/)
+    - [有些人 见一面就少一面 | Min: 00:29 | 029](https://v.douyin.com/wKmN1L9C82U/)
+
 ---
 ### 0033. 云里 | Genshin Impact
 **[云里 | AIGC]{s}**
@@ -1794,6 +1801,7 @@
     - [云阙万重开，抬眼已非人间 me: 万里云阙万重开, 抬眼已非人间人。| 007](https://v.douyin.com/kyv5NBdMBnc/)
     - [天上白玉京，十二楼五城。| **即梦Seedance2.5官方满血体验** | 008](https://v.douyin.com/t5SM7x8Qbaw/)
     - [云开万里，宫阙入青冥。 青衣立云海，一步一重天。| 009](https://v.douyin.com/yeThLpmAGz8/)
+    - [云深不知处，抬头已是九重天 | 010](https://v.douyin.com/rRXzdZJcF1Y/)
 
   ---
   **[002. 火星文明]{s}**
@@ -2291,6 +2299,7 @@
   - [水帘作镜,照见仙影；笛声过耳,月正清明. ](https://v.douyin.com/2pDeM43XWsc/)
   - [一眼一生 | Zein](https://v.douyin.com/c6RegtaNqV0/)
   - [节气·立冬｜晚来天欲雪，能饮一杯无](https://v.douyin.com/XJcQBRKJPac/)
+  - [穿到古代，我带全家奔小康](https://v.douyin.com/39qnKhzyM3Y/)
 
   ---
   **[001. 观古俗, 知雅意]{g}**
@@ -2654,7 +2663,7 @@
 
 ---
 ### 0118. 千浔·Moon
-**[千浔]{s}**
+**[千浔]{e}**
 * **[千浔 | 专注自己 ，感谢你的喜欢 原创作品，创作不易 | 佰章](https://v.douyin.com/JB_M2QxYe3o/)**
   - [不知道怎么写文案了](https://v.douyin.com/jZK4VKrs96U/)
   - [那就祝我们都顺顺利利，都越来越好](https://v.douyin.com/STO8aVkxSRY/)
@@ -2662,6 +2671,10 @@
   - [请用你的文化水平来描述一下此情此景](https://v.douyin.com/EaGef8WP2ec/)
   - [可惜我文采不好， 不然我也会为你写月亮](https://v.douyin.com/fTGnEQSosJ0/)
   - [那就祝我们都顺顺利利，都越来越好](https://v.douyin.com/cOa6jE6Nuu8/)
+  - [不知道怎么写文案了，你们来](https://v.douyin.com/QdQahsQraJ0/)
+  - [不知道怎么描述了，你们来](https://v.douyin.com/NhROvtUc-G8/)
+  - [不知道怎么描述了，你们来](https://v.douyin.com/LoLyLKNQAkY/)
+  - [不要谩骂以前的自己，她当时站在雾里也很迷茫🥺🥺](https://v.douyin.com/ZaA8rHHJn7E/)
 
 ---
 ### 0119. 嘟嘟ai
@@ -2893,6 +2906,9 @@
 
   ---
   - [雾隐苍山，见天见己 世人寻路向人间，我独牵尘向云深。浓雾将万千喧嚣隔绝在山脚之下，只留这一条悬空的石阶，通往无人知晓的岁月。青衫染湿了山气，银饰不再作响，连风到了这里都放轻了脚步。在这片连时间都停驻的留白里，万物皆渺，唯心境同群山一般，辽阔而安宁。](https://v.douyin.com/QKFsr_lC0Cg/)
+
+  ---
+  - [千年一瞬白衣玄羽 记不清这是第几个轮回的清晨，我依旧身披素纱，立于这片熟悉的白茫之中。岁月在指尖流逝，带走了繁华，却留下了最纯粹的安宁。每当雾气漫过山脊，它总会如约而至，羽梢带着露水的湿意，静静停驻在我身旁。白衣与玄羽，在无尽的留白里彼此映照。红尘万丈与我何干](https://v.douyin.com/UNHMELtsXOY/)
 
 ---
 ### 0139. 沾神AIGC
@@ -3155,13 +3171,18 @@
 **[骑着蜗牛环游SJ]{s}**
 * **[骑着蜗牛环游SJ | 伍佰章 | Douyin](https://v.douyin.com/GlJA_6DrPMM/)**
   - [当导师让我申请科研经费](https://v.douyin.com/tBxI8InkDr4/)
+  - [当你发现每个国家汇率不一样](https://v.douyin.com/ptr1KZ7V--Y/)
 
 ---
 ### 0165. Kark·GenshinImpact
 **[Kark]{s}**
 * **[Kark | ❤是个做二创动画的，做些原神、火影、高达之类的同人二创作品 | 佰章 | Douyin](https://v.douyin.com/BwUAqkc7n6k/)**
-  - [大闹至冬](https://v.douyin.com/0bJU1yy-Ii0/)
-  - [假如原神是部偶像剧](https://v.douyin.com/iyCcAAFP6Zg/)
+  - [大闹至冬 | 2D](https://v.douyin.com/0bJU1yy-Ii0/)
+  - [假如原神是部偶像剧 | 3D](https://v.douyin.com/iyCcAAFP6Zg/)
+  - [原神但死神... | 3D](https://v.douyin.com/PkWG77Mkkmg/)
+  - [社交大作战 | 2D](https://v.douyin.com/RSc7_7bIfCA/)
+  - [可莉与锅巴七梦1 | 2D](https://v.douyin.com/tv_QCRPsPSQ/)
+  - [顶级海王的极限拉扯](https://v.douyin.com/xiolqtVfzT0/)
 
 ---
 ### 0166. 一帧回忆录
@@ -3177,6 +3198,30 @@
   - [大猫](https://v.douyin.com/oFd0v-AT6sY/)
   - [治愈系](https://v.douyin.com/xn_0VEoqZc0/)
   - [国风动画](https://v.douyin.com/YoSILJDek54/)
+
+---
+### 0168. Claude
+**[Claude]{s}**
+* **[Claude | 佰章 | Douyin](https://v.douyin.com/a0meYsOHpjc/)**
+  - [claude](https://v.douyin.com/In8JnAcVwV0/)
+
+---
+### 0169. Seekereal·GenshinImpact
+**[Seekereal]{e}**
+* **[Seekereal | 目前主产少偶cp向作品，技术力有限但会慢慢进步的 | 佰章 | Douyin](https://v.douyin.com/uxouC_J4zDI/)**
+  - [你永远是我的天使🕊](https://v.douyin.com/o-TOkzoOm-o/)
+  - [她们要干嘛？原来是梦吗…不对](https://v.douyin.com/Vrn-YTcsfrs/)
+  - [她们之后要干嘛](https://v.douyin.com/sRYNJkT5qRw/)
+
+---
+### 0170. 秀才CG
+**[秀才CG]{e}**
+* **[秀才CG | 这里没有冷知识，只有热乎的好奇心 让知识变得有趣，让思考自然发生 | 佰章 | Douyin](https://v.douyin.com/4cdmCTOg2XI/)**
+
+  ---
+  **[001. 万物皆有真相]{g}**
+    - [2030年登月 | 把神话变成工程图纸，中国人只用了五十年 | Min: 04:35 | 012](https://v.douyin.com/SaZB6aVRiCY/)
+    - [你以为当皇帝天天享福？其实比996还狠 | Min: 04:00 | 015](https://v.douyin.com/ObmeY5Fmtpo/)
 
 ---
 ### 0200. 瑶光

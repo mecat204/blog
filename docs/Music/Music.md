@@ -1961,8 +1961,11 @@
 
   ---
   **[001. 净化模式]{g}**
+    - [恋人手中樱花草 春在漫步的微笑 | Music: 樱花草 | 001](https://v.douyin.com/tAhulYa_ick/)
+    - [我看人间的别离，像风来了又去 | Music: 慢红尘 | 006](https://v.douyin.com/-Ro8dcEwNh0/)
     - [Music: 半糖的夏天 | 007](https://v.douyin.com/Z_kn0V3s9dM/)
     - [慌啥子嘛 慢慢来 | 013](https://v.douyin.com/GAHaLQzvyFs/)
+    - [你别害怕 就往前走，日子总会慢慢有奔头~ | 014](https://v.douyin.com/fnbcwatfDM0/)
 
 ---
 ### 9999. Music·Course
