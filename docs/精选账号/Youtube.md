@@ -4877,9 +4877,16 @@
   - [Vampirina: Teenage Vampire First FULL Episode "First Year to Watch"! 💜🦇 | Disney Channel, 吸血鬼：青少年吸血鬼第一集完整剧集“第一年观看”！](https://www.youtube.com/watch?v=BT3puol4UD4)
 
 ---
+### 0800. Cecilia Blomdahl
+**[Cecilia Blomdahl]{s}**
+* **[Cecilia Blomdahl | 1.18M subscribers | YTB](https://www.youtube.com/@CeciliaBlomdahl/videos)**
+  - [Grim 2015–2026 | A Lifetime of Love](https://www.youtube.com/watch?v=hjEqVqYanXQ)
+
+---
 ### 0900. News
 **[ITV News]{s}**
 * **[ITV News | 2.21M subscribers |  YTB](https://www.youtube.com/@ITVNews/videos)**
+  - [Nvidia boss quits after alleged Chinese spy scandal](https://www.youtube.com/watch?v=ldiGYMvaDgo)
 
 ---
 ### 1000. GPT词源学 | CrashCourse
