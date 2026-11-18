@@ -4826,7 +4826,14 @@
 ---
 ### 0600. 小熊英文故事·播客短剧
 **[Zubzoo Studios]{s}**
-* **[Zubzoo Studios | 3.39K subscribers | YTB](https://www.youtube.com/@ZubzooStudios)**
+* **[Zubzoo Studios | 4.86K subscribers | YTB](https://www.youtube.com/@ZubzooStudios)**
+  - [The Princess Has 30 Days to Prove Shes's Queen - Or Lose Everything | First Light](https://www.youtube.com/watch?v=yttbV6NQRLY&t=48s)
+  - [GOLDILOCKS & THE THREE BEARS vs THE BEAR TRAPPER SILAS SNARE 🐻 | Full Animated](https://www.youtube.com/watch?v=ZLZwrE1Ahno)
+
+---
+**[Guess How Much I Love You]{s}**
+* **[Guess How Much I Love You | 472K subscribers | YTB](https://www.youtube.com/@guesshowmuchiloveyou)**
+  - [Magical Moon 🌙 | Guess How Much I Love You](https://www.youtube.com/watch?v=UJU-HNCOSrQ)
 
 ---
 **[kids Haven]{s}**
