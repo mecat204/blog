@@ -1958,6 +1958,34 @@
     - [田园·日常·群像｜有桃花红，李花白，菜花黄 花开的时候，村子也跟着热闹起来了 | Min: 00:42 | 002](https://v.douyin.com/OCB_ahAAoNM/)
     - [也许最难写的从来不是离别。 | Min: 00:49 | 003](https://v.douyin.com/YhglBFcyJMA/)
 
+  ---
+  **[002. 诗词·人间]{g}**
+    - [望海潮 | 001](https://v.douyin.com/p5vymX_qt0k/)
+
+    ---
+    - [桃花庵歌 | 002](https://v.douyin.com/8Yqk2rb0jRo/)
+
+    ---
+    - [碧云天，黄叶地，秋色连波，波上寒烟翠。| 003](https://v.douyin.com/laMFhSW6aG4/)
+
+    ---
+    - [愿得一心人，白头不相离。| 004](https://v.douyin.com/Xht8ofNdC9Y/)
+
+    ---
+    - [卜算子·送鲍浩然之浙东 | 005](https://v.douyin.com/VGN6plLppBM/)
+
+    ---
+    - [未老莫还乡，还乡须断肠. | 006](https://v.douyin.com/aG7uwaFDX7g/)
+
+    ---
+    - [一剪梅·舟过吴江 | 009](https://v.douyin.com/j7devxVy9tU/)
+
+    ---
+    - [鹧鸪天·赏荷 | 010](https://v.douyin.com/F6rnSHWTYco/)
+
+    ---
+    - [@卿卿 （配音老师）]{lb}
+
 ---
 ###  0076. MY LIEF · 凡人修仙传 · SEEDANCE 2.0 1080P直出
 **[MY LIEF]{e}**
@@ -3224,6 +3252,27 @@
     - [你以为当皇帝天天享福？其实比996还狠 | Min: 04:00 | 015](https://v.douyin.com/ObmeY5Fmtpo/)
 
 ---
+### 0171. AIGC驭风者
+**[AIGC驭风者]{s}**
+* **[AIGC驭风者 | 佰章 | Douyin](https://v.douyin.com/HOVoyYP6bMw/)**
+  - [父女抬驴: 不必为了讨好别人而弄丢自己的主见](https://v.douyin.com/g59F_aWK7Ms/)
+  - [见利忘义: 纵使眼前有千金，不可欺人失本心。](https://v.douyin.com/UQ-bDHP7wL8/)
+  - [赴爱沉渊局: 世上唯一无解法的局](https://v.douyin.com/VLQvENzXejY/)
+
+---
+### 0172. 基路亚🍡
+**[基路亚🍡]{s}**
+* **[路亚🍡 | 专注ai，专注创业 不到百万，都是遗憾 感谢关注 | 佰章 | Douyin](https://v.douyin.com/Ueqha9iFVjg/)**
+  - [说好的拆迁，等到外星人都来了！ 从结婚等到白头，这房子到底啥时候拆？](https://v.douyin.com/sLrVOc1Ndj8/)
+  - [这就是5090显卡的售后速度吗](https://v.douyin.com/5YutUQVN_BM/)
+
+---
+### 0173. 大肥鱼
+**[大肥鱼]{s}**
+* **[大肥鱼 | 咕咕嘎嘎~鲸鲸 | 伍佰章 | Douyin](https://v.douyin.com/_pMxkDHcbiU/)**
+  - [18世纪某商业街 | 佰章 | Douyin](https://v.douyin.com/Ywdfr3tQpNc/)
+
+---
 ### 0200. 瑶光
 **[瑶光]{s}**
 * **[瑶光 | 做梦老手，AIGC新手，希望能跟粉丝们共同成长，欣赏美丽的梦中世界 | 佰章 | Douyin](https://v.douyin.com/tARwuM501uk/)**
@@ -3736,6 +3785,12 @@
     - [《小麦战记》剧场版，小麦的异界旅程开始啦！异界旅程 | Min: 01:20:58](https://www.youtube.com/watch?v=_MtqK6SQpmE)
     - [燕然》1-5合集纯享版，大唐安西元年，西域燕然城召开万灵大会。魁首十人，将代表大唐进入安西灵境，角逐仙道至尊 | Min: 40:54](https://www.youtube.com/watch?v=wf1d3Sbg1ZU)
     - [《你的两千年修行之路》第一季+第二季12集专享版 | Min: 01:47:30](https://www.youtube.com/watch?v=vP5p8Azz2Lk)
+
+---
+### 0315. 持械入宋
+**[持械入宋]{s}**
+* **[爱尚电影 | 4.89K subscribers | YTB](https://www.youtube.com/@%E7%88%B1%E5%B0%9A%E7%94%B5%E5%BD%B1-y7i)**
+  - [持械入宋 第一季](https://www.youtube.com/watch?v=nkDm3xpdjsQ)
 
 ---
 ### 1000. 旅行者 ZION·ZION VISION·映帧

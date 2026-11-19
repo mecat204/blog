@@ -4838,10 +4838,19 @@
 ---
 **[kids Haven]{s}**
 * **[kids Haven | 18.2K subscribers | YTB](https://www.youtube.com/@kidsHaven-KH)**
+  - [Blue Princess and White Snake | Animated Fairy Tale Story | kids stories](https://www.youtube.com/watch?v=g359_LsWWyY)
+  - [🌙 The Princess and the Moonflower’s Glow | Magical 3D Fairy Tale for Kids 👑](https://www.youtube.com/watch?v=USOymBQC7fk)
+
+---
+**[Disney Kids]{s}**
+* **[Disney Kids | 15.4M subscribers | YTB](https://www.youtube.com/@disneykids/videos)**
+  - [Goof Troop Marathon 😂 90 Minutes of Full Episodes!](https://www.youtube.com/watch?v=Yix8lqKN3wU)
+  - [Friend, in Deed / Donkey for a Day | The New Adventures of Winnie the Pooh S1 E2 | Full Episode](https://www.youtube.com/watch?v=rPE3AqcNNi4)
 
 ---
 **[Picture This Stories]{s}**
-* **[Picture This Stories | 981 subscribers | YTB](https://www.youtube.com/@PictureThisStories/videos)**
+* **[Picture This Stories | 1.16K subscribers | YTB](https://www.youtube.com/@PictureThisStories/videos)**
+  - [🦗 The Ant and the Grasshopper 🐜 | 3D Animated Fairy Tales and Fables 🦗🐜](https://www.youtube.com/watch?v=CR8kYz7-43k)
 
 ---
 **[Fairy Tales and Stories for Kids]{s}**

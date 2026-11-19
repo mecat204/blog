@@ -249,7 +249,7 @@
 ---
 ### 0008. 2024
 **[慢慢的日常·GenshinImpact]{e}**
-* **[慢慢的日常 | 🌷记录我的原神日常 🌷手残手残还是手残](https://v.douyin.com/EiYtQYcVJGI/)**
+* **[慢慢的日常 | 🌷记录我的原神日常 🌷手残手残还是手残 | 伍佰章 | Douyin](https://v.douyin.com/EiYtQYcVJGI/)**
   - [原神更新了快上线](https://v.douyin.com/IlFOsljw8sw/)
 
 ---
