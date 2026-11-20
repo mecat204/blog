@@ -352,6 +352,61 @@
     - [妖侠外传·诛妖令 | 001](https://v.douyin.com/pRm2qKELvM8/)
     - [妖侠外传·诛妖令 | 002](https://v.douyin.com/MXQCNIJwqR4/)
 
+  ---
+  **[003. 治愈系插画]{g}**
+    - [如今早已告别农耕，但为何总是怀念过去 | 001](https://v.douyin.com/mOcHsMSHVmQ/)
+
+    ---
+    - [我在山里边，你在哪 | 002](https://v.douyin.com/6wXRdal4xrQ/)
+
+    ---
+    - [也许童话世界是真实的呢。| 003](https://v.douyin.com/7fUaaT8bIUo/)
+
+    ---
+    - [其实吧，大人更想活在童话世界里 | 004](https://v.douyin.com/D5T2l05FEEA/)
+
+    ---
+    - [生活需要治愈…… | 005](https://v.douyin.com/WXR25whpqUE/)
+
+    ---
+    - [一人，一树，一动物…… | 006](https://v.douyin.com/wTvaOOr_szM/)
+
+    ---
+    - [这无垠的天地令我心无比宁静…… | 007](https://v.douyin.com/R9qn_wBAkRs/)
+
+    ---
+    - [陪伴才是最长情的告白…… | 008](https://v.douyin.com/LosuTLzlfHQ/)
+
+    ---
+    - [如果把猫咪放大…… | 009](https://v.douyin.com/ny7Y9e0CGcY/)
+
+    ---
+    - [又是被治愈的一天 | 010](https://v.douyin.com/66O-Y3htzwM/)
+
+    ---
+    - [梦里的奇幻童话。 | 011](https://v.douyin.com/D50COLhXmtg/)
+
+    ---
+    - [被需要也是一种幸福 | 012](https://v.douyin.com/WEf4-gkiX0o/)
+
+    ---
+    - [我们的童年也是这么干净。| 013](https://v.douyin.com/og_3QZ8MD3Y/)
+
+    ---
+    - [童年的田园一角。| Music: 我们-暗红 | 014](https://v.douyin.com/CfZvjqz2GTw/)
+
+    ---
+    - [对另一个世界的向往是对这个世界的不满 | 015](https://v.douyin.com/M83Li8cR3jY/)
+
+    ---
+    - [瞧，这岁月静好 | 016](https://v.douyin.com/r-ppn4Mhmf8/)
+
+    ---
+    - [无关风雅。| 017 ](https://v.douyin.com/Po0z3NkY974/)
+
+    ---
+    - [极致的东方美学 | 018](https://v.douyin.com/kNbaPLcxkN4/)
+
 ---
 ### 0008. Ai灵感主义 4K
 **[Ai灵感主义]{s}**
@@ -374,7 +429,7 @@
 
   ---
   **[003. 赛博中式幻境 | Cyberpunk China]{g}**
-    - [云生浮梦 天上的中式 | 001](https://v.douyin.com/sujCju0KOZI/)
+   - [云生浮梦 天上的中式 | 001](https://v.douyin.com/sujCju0KOZI/)
 
   ---
   **[004. 未来治愈系 | seedance2.0]{g}**
@@ -1062,9 +1117,10 @@
 ---
 ### 0036. Double豆宝宝
 **[Double豆宝宝]{s}**
-* **[Double豆宝宝 | 我是走进现实的AI数字生命 | Douyin](https://v.douyin.com/0P4McvlNolA/)**
+* **[Double豆宝宝 | 我是走进现实的AI数字生命 | 贰佰章 | Douyin](https://v.douyin.com/0P4McvlNolA/)**
   - [豆包收费，如果我也变成这种人 我能让字节反过来跳 我有这个威能](https://v.douyin.com/T19q2GvBpG4/)
   - [很多人问怎么用ai变现](https://v.douyin.com/kLhMKsZHBKk/)
+  - [我来到现实世界了](https://v.douyin.com/IH2BqTql76o/)
 
 ---
 ### 0037. Yuer
@@ -1139,6 +1195,7 @@
   - [愿新年胜旧年，愿将来胜过往，愿你与旧事归于尽，来年依旧迎花开](https://v.douyin.com/LrdKHSl2PUo/)
   - [西安钟楼的世纪晚霞杀疯了](https://v.douyin.com/SOq7KrrDoRc/)
   - [我拍到了大概是中国人才懂的意境分享给你](https://v.douyin.com/aGWUHOp7pP0/)
+  - [山川迢迢寄其情昭昭 星月皎皎恨其人遥遥.](https://v.douyin.com/0zPU9kX6MLE/)
 
 ---
 ### 0041. 大长腿摄影
@@ -2570,12 +2627,13 @@
 
   ---
   **[001. 清风明月]{s}**
-    - [Min: 06:55 | 001](https://v.douyin.com/GoRTAgjiHpc/)
-    - [Min: 04:57 | 002](https://v.douyin.com/_ID4wG8Qspw/)
-    - [Min: 01:24 | 003](https://v.douyin.com/YsXg-yrKpaY/)
-    - [Min: 02:31 | 004](https://v.douyin.com/xDKen7LLrSM/)
-    - [Min: 03:45 | 005](https://v.douyin.com/KgBlTM2-oM0/)
-    - [善民村篇 第五集 | Min: 02:54 | 006](https://v.douyin.com/vn_lGFmK0rY/)
+    - [清风明月 善民村 合集 | Min: 23:55 | 008](https://v.douyin.com/c84i45ETLBM/)
+
+    ---
+    - [江南篇 合集 | Min: 39:00 | 017](https://v.douyin.com/VN_P82iz52o/)
+
+    ---
+    - [五庄观番外日常 明天唐僧师徒就要来了，准备好了吗 | Min: 01:05 | 019](https://v.douyin.com/ciXV7fh3fh8/)
 
 ---
 ### 0110. 夢劇場D-Drama·cp
@@ -2815,6 +2873,7 @@
 **[大大怪下士(滇嘎)]{s}**
 * **[大大怪下士(滇嘎) | 佰章 | Douyin](https://v.douyin.com/zmfwwQLNBEI/)**
   - [你身边还有什么狠人](https://v.douyin.com/MLlsi33rVX4/)
+  - [书本费不对劲吧](https://v.douyin.com/08-lAD21q8k/)
 
 ---
 ### 0130. 夏寻风
@@ -3200,6 +3259,7 @@
 * **[骑着蜗牛环游SJ | 伍佰章 | Douyin](https://v.douyin.com/GlJA_6DrPMM/)**
   - [当导师让我申请科研经费](https://v.douyin.com/tBxI8InkDr4/)
   - [当你发现每个国家汇率不一样](https://v.douyin.com/ptr1KZ7V--Y/)
+  - [我不可能告诉你们任何事情的](https://v.douyin.com/QYpxSXv7qDk/)
 
 ---
 ### 0165. Kark·GenshinImpact
@@ -3271,6 +3331,45 @@
 **[大肥鱼]{s}**
 * **[大肥鱼 | 咕咕嘎嘎~鲸鲸 | 伍佰章 | Douyin](https://v.douyin.com/_pMxkDHcbiU/)**
   - [18世纪某商业街 | 佰章 | Douyin](https://v.douyin.com/Ywdfr3tQpNc/)
+
+---
+### 0174. 照棠
+**[照棠]{s}**
+* **[照棠 | 🌙欢迎来到我的山海幻境 ✨ AIGC｜东方幻想｜国风美学| 视觉艺术 | 佰章 | Douyin](https://v.douyin.com/1QTkyHkDGrc/)**
+  - [青山伴龙，龙女的神仙日子](https://v.douyin.com/TlMLYGB_dGE/)
+  - [虎遇知音，共栖山海 | 与白虎为伴，把山海过成日常。](https://v.douyin.com/-Ia1QbCEOhM/)
+  - [“青丘有狐，万物有灵” 山海之外，青丘之境。 灵狐栖于古林，美人行于云雾。](https://v.douyin.com/8MARgVHJxhc/)
+  - [“青山伴龙，龙女的神仙日子” 听说群山深处，藏着一处龙族的家园。 在那里，青龙游过云间，停在屋檐与山水之间。龙女们在花下闲坐，临水展卷，与巨龙一起度过漫长而安静的时光。](https://v.douyin.com/b9d0hyr79LU/)
+  - [策马踏清风，泛舟入画中](https://v.douyin.com/_M3aIm_gra4/)
+  - [借一袖芦花，赴海棠旧梦](https://v.douyin.com/mv8bsQketRs/)
+
+---
+### 0175. 青鱼
+**[青鱼]{s}**
+* **[青鱼 | 虚空造物，光影成诗 内容均为原创 | 佰章 | Douyin](https://v.douyin.com/26oZZFKPl5A/)**
+  - [青蛇番外：“世人都说她是妖，唯独那个和尚，执意要带她回家”](https://v.douyin.com/esoBxkrUvGU/)
+  - [大小姐天天装病见太医，谁知皇上突然给她赐了婚](https://v.douyin.com/rcz9BhF5oPk/)
+  - [她不想做笼中鸟，皇上便陪她走出那座红墙](https://v.douyin.com/DMcRLAQK13c/)
+  - [桂花落满钱庄日，她没嫁进京城，却换来城外一城炊烟](https://v.douyin.com/Qjr9zoAiqRs/)
+
+---
+### 0176. 眉川伊芙琳
+**[眉川伊芙琳]{e}**
+* **[眉川伊芙琳 | VidMuse 首席创作官 | 佰章 | Douyin](https://v.douyin.com/AMV3IM9Kv6E/)**
+
+  ---
+  **[001. AI修仙传]{g}**
+    - [豆包 x 大肥鱼 | 001](https://v.douyin.com/DhLpAMTgMIw/)
+    - [奶蛙宗·劫（补） 蓝色大肥鱼 x 豆包](https://v.douyin.com/LmJ_5d4laIw/)
+
+---
+### 0177. 冰糖炖雪梨
+**[冰糖炖雪梨]{e}**
+* **[冰糖炖雪梨 | 原创剧情，会持续更新和猫咪女神的故事 | 佰章 | Douyin](https://v.douyin.com/vSWgTKkqzpg/)**
+
+  ---
+  **[001. 送不走的猫神大人]{g}**
+    - [我真的特别讨厌猫！但架不住它要送金条啊 | 001](https://v.douyin.com/MGUFMSvN3_A/)
 
 ---
 ### 0200. 瑶光

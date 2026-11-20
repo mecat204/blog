@@ -574,7 +574,13 @@
 ---
 **[贝桑ovo·道友]{e}**
 * **[贝桑ovo | 生活系凡人博主 感谢道友们的喜欢 道友：@贝桑 | 佰章](https://v.douyin.com/GfVuyQpyf6M/)**
-  - [贝桑ovo·道友 | 极妙幻境·凡人修仙传](https://v.douyin.com/-YygN3oj1-E/)
+  - [关于我看凡人修仙传进医院这件事情](https://v.douyin.com/pWd6jSekzFU/)
+  - [一伞凝愁花间雨，惟盼韩郎早归期# 凡人修仙传星海飞驰](https://v.douyin.com/8yJrLJIhPMk/)
+
+---
+**[私藏月色i·道友]{s}**
+* **[私藏月色i | “热爱是藏不住的” 爱看的有很多，所以想解说的也很多～ | 仟佰章](https://v.douyin.com/6k7Sp1sdmmo/)**
+  - [当我们代入到宋玉的视角就会发现，她眼中的韩师叔是真的好色](https://v.douyin.com/AAXPEGigsXM/)
 
 ---
 **[七彩泡泡糖·道友]{s}**
@@ -865,6 +871,11 @@
 
 ---
 ### 0010. 2026
+**[小小繁星ya]{e}**
+* **[小小繁星ya | 分享新中式｜汉服｜旗袍穿搭 常服穿搭 | 仟章 | Douyin](https://v.douyin.com/BWZmR8Ajc_k/)**
+  - [东方美学 | 温婉书卷气旗袍有多绝 | 宋代石刻博物馆](https://v.douyin.com/JRWhbXUZ3Zs/)
+
+---
 **[我也不知道]{e}**
 * **[我也不知道 | 不要质疑我的年龄，字字属实 | 佰章 | Douyin](https://v.douyin.com/jwjulsjP27M/)**
   - [平时“这个冬天我一定穿的像个人”，一到周末“精致不了一点”，哪件暖和穿哪件，4年前的阿迪现在还很行👍# 冬日穿搭分享](https://v.douyin.com/V9XilSXw2nM/)

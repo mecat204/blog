@@ -468,6 +468,36 @@
   - [两张照片分别由我在瑞士的采尔马特小镇与中国川西康定新都桥镇蓝调拍摄](https://v.douyin.com/Kz6GK0exfbo/)
 
 ---
+### 0018. 肥兔·Canada
+**[肥兔]{e}**
+* **[肥兔 | 叁佰章 | Douyin](https://v.douyin.com/qFpvJKsTZUk/)**
+
+  ---
+  **[001.古装风]{g}**
+    - [古装清冷感](https://v.douyin.com/J7qRI_rsK4I/)
+
+    ---
+    - [AI雪中古风写真](https://v.douyin.com/Y9NG7uwij8M/)
+
+    ---
+    - [AI解锁古风瞬间](https://v.douyin.com/kRQHxDgiQCw/)
+
+    ---
+    - [AI鎏金古风写真](https://v.douyin.com/UhIwuNxTJpQ/)
+
+    ---
+    - [AI春日樱花古风写真](https://v.douyin.com/00-tGsTk2RY/)
+
+    ---
+    - [AI清新光影人像组](https://v.douyin.com/zBubJkXHkrA/)
+
+    ---
+    - [AI人像氛围写真组](https://v.douyin.com/JO1hTiUcrY8/)
+
+    ---
+    - [AI高清写实人像组](https://v.douyin.com/yJledEjAk4U/)
+
+---
 ### 9999. Download
 **[必应]{s}**
 * **[必应 | bing.com](https://cn.bing.com/)**
