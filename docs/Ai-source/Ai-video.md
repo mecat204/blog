@@ -3330,7 +3330,9 @@
 ### 0173. 大肥鱼
 **[大肥鱼]{s}**
 * **[大肥鱼 | 咕咕嘎嘎~鲸鲸 | 伍佰章 | Douyin](https://v.douyin.com/_pMxkDHcbiU/)**
-  - [18世纪某商业街 | 佰章 | Douyin](https://v.douyin.com/Ywdfr3tQpNc/)
+  - [18世纪某商业街](https://v.douyin.com/Ywdfr3tQpNc/)
+  - [AI故乡谣演唱](https://v.douyin.com/lGpOkT1QvTQ/)
+  - [鲸鲸你要干什么](https://v.douyin.com/QtuGj8xjOCg/)
 
 ---
 ### 0174. 照棠
