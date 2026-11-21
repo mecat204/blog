@@ -2712,6 +2712,12 @@
     ---
     - [为什么越着急，越容易一事无成 | Min: 03:56 | 046](https://v.douyin.com/fXqNS2LVnaQ/)
 
+    ---
+    - [看穿别人的局却没本事收场，是成年人最容易招祸的 | Min: 03:02 | 050](https://v.douyin.com/NQXfOOyUwpc/)
+
+    ---
+    - [急是一种很大的负能量，本质是不愿意接受事情需要时间 | Min: 02:07 | 051](https://v.douyin.com/nQTT6FWFdSY/)
+
 ---
 ### 0114. AI创可贴
 **[AI创可贴]{s}**
@@ -2740,6 +2746,49 @@
   - [意外发现无人隐世庭院](https://v.douyin.com/QBW3R2dLD3Q/)
   - [误入暴雪秘境](https://v.douyin.com/Fm6gqQESpbw/)
   - [极寒天气迷失在野外](https://v.douyin.com/J6GaeCS2MKo/)
+
+  ---
+  **[001. 无人秘境庇护所]{g}**
+    - [极端天气降临，快点躲进庇护所吧 | Min: 01:19 | 001](https://v.douyin.com/RMgqVlDUEV0/)
+
+    ---
+    - [意外坠落请选择你的庇护所，你更喜欢哪一个 | Min: 01:14 | 002](https://v.douyin.com/5_y66fCbEcE/)
+
+    ---
+    - [下雪天你想躲进哪个房间 | Min: 01:15 | 003](https://v.douyin.com/1_syaGsd5Tg/)
+
+    ---
+    - [极寒天气迷失在野外，你愿意住进哪一栋别墅 | Min: 01:57 | 004](https://v.douyin.com/Q-Hxu_F_HkE/)
+
+    ---
+    - [恶劣天气你想躲进哪个房间 | Min: 01:24 | 005](https://v.douyin.com/p3C6p5JATp0/)
+
+    ---
+    - [山洪封路，崖壁有只小屋冒着微光，我躲进山腹深处，推开那扇门，山外电闪雷鸣，而我只想静静地喝一碗热乎的红豆汤，看山另一边的月亮 | Min: 03:03 | 016](https://v.douyin.com/KYzTTpiWAeI/)
+
+    ---
+    - [暴风雨夜，孤岛上有处微弱的光亮，我躲进石堡小屋趁热吃些饭菜，然后静静地看着水母睡着～海上巨浪拍打岸边，而小屋却静得让人安心 | Min: 03:05 | 017](https://v.douyin.com/UySJ626N1R8/)
+
+    ---
+    - [纵使屋外寒风刺骨，湖水成冰，而屋内饭菜早已有人做好，互相依偎看着电影，未尝不是一种幸福和满足 | Min: 02:44 | 018](https://v.douyin.com/i2TQudhaYAo/)
+
+    ---
+    - [暴风雪的终点是，我想要一趟通往晚霞的列车 | Min: 03:41 | 019](https://v.douyin.com/q30aap4D35U/)
+
+    ---
+    - [极夜冰宫脚下，藏着一本安徒生童话。冰原风雪肆意，而我睡得很安心～ | Min: 03:38 | 020](https://v.douyin.com/oG5DHLvWX7M/)
+
+    ---
+    - [北大西洋的风暴海崖上，瀑布后面藏着一个一路通到海底的家 | Min: 02:53 | 021](https://v.douyin.com/s-pev4JCzKQ/)
+
+    ---
+    - [零下三十度，狼群之上，是一整座热乎乎的家 | Min: 03:21 | 022](https://v.douyin.com/NkoqlVfNmKI/)
+
+    ---
+    - [末日降临第七天，城市断电，我和最好的朋友们躲进了资源无限的列车。车窗亮着暖光，外面零下四十度，而我只想喝一杯热牛奶，在摇晃中安稳地进入梦境 | Min: 02:47 | 023](https://v.douyin.com/vk7-iPmvbc8/)
+
+    ---
+    - [暴雪来袭，我躲进万年巨树小屋，寒风席卷整片森林，而我一杯暖茶下肚，享受着前所未有的静谧～ | Min: 03:18 | 024](https://v.douyin.com/yWLtSEqsK5c/)
 
 ---
 ### 0117. 梦姜子
@@ -2947,6 +2996,12 @@
     ---
     - [豆包姐的离谱面试名场面 | 165](https://v.douyin.com/jxK8GosPqio/)
 
+    ---
+    - [修仙大佬飞升上界被豆包pua成出版社牛马 | 183](https://v.douyin.com/pCxxX9myD6k/)
+
+    ---
+    - [豆包小北去银行取钱，结果被保安按在地上 | 184](https://v.douyin.com/zRN1EVuSZBQ/)
+
 ---
 ### 0136. 蚕豆
 **[蚕豆]{s}**
@@ -3104,6 +3159,7 @@
   **[001. 小师妹]{s}**
     - [这不合适吧 一念逍遥 | 065](https://v.douyin.com/7xOUiSYqehM/)
     - [到底哪个是孙悟空 | 064](https://v.douyin.com/lzR7SaJR7Ws/)
+    - [当兄弟看上美女时 | 073](https://v.douyin.com/b_dRVoKX9M4/)
 
 ---
 ### 0147. 坤儿是萌新·养鱼人现状
@@ -3232,6 +3288,7 @@
   - [济新传：升米恩，斗米仇](https://v.douyin.com/wnJ4oSaOMoQ/)
   - [你不是谁的奴才](https://v.douyin.com/xGSlxY2zD-U/)
   - [济新传：莫凭一事论好坏，人心自有冷暖秤](https://v.douyin.com/bp0z7GiCDuI/)
+  - [济新传：人只有身处低谷，才能看清人性 没有任何关系值得你不顾一切的去维护，看清楚人性，人生路上才没有负担](https://v.douyin.com/iR0msNr5qPs/)
 
 ---
 ### 0162. 零号AIGC | 读懂史书迷雾，细数华夏过往
@@ -3260,6 +3317,7 @@
   - [当导师让我申请科研经费](https://v.douyin.com/tBxI8InkDr4/)
   - [当你发现每个国家汇率不一样](https://v.douyin.com/ptr1KZ7V--Y/)
   - [我不可能告诉你们任何事情的](https://v.douyin.com/QYpxSXv7qDk/)
+  - [一句话叫你笑，一句话叫你跳](https://v.douyin.com/eX2scbakT1A/)
 
 ---
 ### 0165. Kark·GenshinImpact
@@ -3372,6 +3430,50 @@
   ---
   **[001. 送不走的猫神大人]{g}**
     - [我真的特别讨厌猫！但架不住它要送金条啊 | 001](https://v.douyin.com/MGUFMSvN3_A/)
+
+---
+### 0178. 布拿拿·新加坡
+**[布拿拿]{s}**
+* **[布拿拿 | AI+AIGC+胡思乱想😶‍🌫️ | 佰章](https://v.douyin.com/0PdhZDIgVag/)**
+  - [中式美学生活](https://v.douyin.com/079h5zsraYI/)
+
+  ---
+  - [徽派建筑｜四韵之光](https://v.douyin.com/fmvIOTIMhdE/)
+  - [徽派建筑｜四韵之光 前世不修，生在徽州，十三四岁，往外一丢！这是徽州的古民谣，说的是如果前世不修行，今生会出生在徽州，徽州山多地少，很难生存下来，所以为了生存下来，小孩子十三四岁就要出去谋生！这种地理环境，也成为了徽商的发源地。 说起徽商，想必很多人都会想到胡雪岩，对，他就是徽商的杰出代表。现在他的故居在杭州市区还是一个打卡景区，记得有一次路过他家，印象最深刻的就是他家的院墙真高，高的小偷应该很难进去。 当然现在享誉美食届的臭鳜鱼也是徽州地理环境的产生物，因为出远门做生意，食物不好储存，采用了特别腌制方法的鱼成为了美食。 | Movie:大生意人 陈晓]{lb}
+
+---
+### 0179.是doro鸭
+**[是doro鸭]{s}**
+* **[是doro鸭 | ✨你好呀，这里是永不打烊的治愈Doro | 伍佰章 | Douyin](https://v.douyin.com/HH-n1RExRxM/)**
+
+  ---
+  **[001. dora幸福日记]{g}**
+    - [话密了，佛像和菜板那能一样吗 | 124](https://v.douyin.com/JYWxgn07jGI/)
+
+---
+### 0180. 花原宝宝·GenshinImpact
+**[花原宝宝]{s}**
+* **[花原宝宝 | 自从看了花原宝宝之后抽卡再也没歪过了 | 叁佰章 | Douyin](https://v.douyin.com/i9E4IrgYODQ/)**
+
+  ---
+  **[001. GenshinImpact]{g}**
+    - [撞车私了赔偿骗局 | 001](https://v.douyin.com/ueE1d2sIvC8/)
+
+---
+### 0181. Aismr
+**[Aismr]{s}**
+* **[Aismr | vlog没更新就是在制作中哦 | 叁佰章 | Douyin](https://v.douyin.com/WPntPYj_tiA/)**
+
+  ---
+  **[大人国Vlog]{s}**
+    - [入冬前的准备 | Min: 04:57 | 027](https://v.douyin.com/5QCEdDHuBcA/)
+
+---
+### 0182. 以太之尘·GenshinImpact
+**[以太之尘]{s}**
+* **[以太之尘 | 用Ai带来单纯的快乐和美好。| 仟章 | Douyin](https://v.douyin.com/V7YCmZNtMDE/)**
+  - [用Ai带来单纯的快乐和美好。](https://v.douyin.com/V7YCmZNtMDE/)
+  - [神里绫华今天的装扮❤️](https://v.douyin.com/HyT27gcgt54/)
 
 ---
 ### 0200. 瑶光
