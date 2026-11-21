@@ -227,6 +227,12 @@
   - [Calm Deep Work Music ~ Enhance Focus & Flow State | Cinematic Study Sounds, 平静深度工作音乐 ~ 增强注意力和心流状态 |电影研究声音](https://www.youtube.com/watch?v=E4jUpO89G3Y&list=RDTZgFg0Ok7W0&index=2)
 
 ---
+### 0026. 静心听雨
+**[静心听雨]{s}**
+* **[静心听雨 | 2.26K subscribers | YTB](https://www.youtube.com/@%E9%9D%99%E5%BF%83%E5%90%AC%E9%9B%A8bgm/videos)**
+  - [[No Ads] Guzheng • Deep Sleep • Healing Music | Listening to the Rain in an Old House on a Rainy Nig, 古筝•深度睡眠•治愈音乐|雨夜里老房子里听雨 | Min: 08:00:00](https://www.youtube.com/watch?v=buORLPHsp7o&list=RDbuORLPHsp7o&start_radio=1)
+
+---
 ### 9999. Download
 **[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**

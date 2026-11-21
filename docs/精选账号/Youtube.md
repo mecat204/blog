@@ -4168,16 +4168,17 @@
 * **[English Speeches | 6.47M subscribers |  YTB](https://www.youtube.com/@EnglishSpeeches/videos)**
 
 ---
-### 0033. Thejonathon | GenshinImpact
+### 0033. Thejonathon·GenshinImpact
 **[Thejonathon·GenshinImpact]{s}**
 * **[Thejonathon | 727K | YTB](https://www.youtube.com/@Thejonathon/videos)**
   - [THE MOON ARCHON QUEST IS INSANE... Genshin Impact Moon Gazing 6.7 world quest full reaction](https://www.youtube.com/watch?v=K8UZ3xK4xow)
+  - [The FINALE of Genshin Impact... Snezhnaya Act 5 & 6 Archon Quest 7.2 FULL REACTION, Genshin Impact 的结局...Snezhnaya Act 5 & 6 Archon Quest 7.2 全面反应](https://www.youtube.com/watch?v=wiJZ8LK-zt4)
 
 * **[黯殇As_ | 5.2万 | B站](https://space.bilibili.com/98717318?spm_id_from=333.788.upinfo.detail.click)**
   - [Thejonathan | Genshin](https://www.bilibili.com/video/BV1hLTj6QEf8/?spm_id_from=333.1387.collection.video_card.click)
 
 ---
-### 0034. BranOnline | GenshinImpact
+### 0034. BranOnline·GenshinImpact
 **[BranOnline·GenshinImpact]{s}**
 * **[BranOnline | 414K | YTB](https://www.youtube.com/@BranOnline/videos)**
   - [6.7 - The Truth About Teyvat’s Moon Is Insane | Min: 05H:41M:31S ](https://www.youtube.com/watch?v=mUjol3LBzuc)

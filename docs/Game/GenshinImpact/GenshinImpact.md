@@ -1,6 +1,6 @@
 ### 0000. Download
 **[dlpanda]{s}**
-* **[dlpanda](https://www.dlpanda.com)**
+* **[dlpanda·TikTok Video & Photo Downloader](https://www.dlpanda.com)**
 
 ---
 **[Genshin Impact]{s}**
@@ -29,8 +29,42 @@
   ---
   - [《原神》「月之三」版本PV：「终北的夜行诗」](https://www.youtube.com/watch?v=fU6nElrxNRs)
   - [《原神》「月之三」版本特别节目 ](https://www.youtube.com/watch?v=LxT7S7TDd-s)
-  - [《原神》沉玉沐芳 - Disc 1: 春风几度醉翘英 ](https://www.youtube.com/watch?v=UM7F_WM1Vhk&list=PLqWr7dyJNgLJCVtbW0yz_CpwpwyVwPJNX&index=1)
-  - [《原神》沉玉沐芳 - Disc 2: 翠羽云深隐灵濛](https://www.youtube.com/watch?v=roHkAJvAt9s&list=PLqWr7dyJNgLJCVtbW0yz_CpwpwyVwPJNX&index=2)
+
+  ---
+  - [Jadeite Redolence - Disc 1: Enthralled by the Spring Breeze｜Genshin Impact, 《原神》沉玉沐芳 - Disc 1: 春风几度醉翘英](https://www.youtube.com/watch?v=UM7F_WM1Vhk&list=PLqWr7dyJNgLJCVtbW0yz_CpwpwyVwPJNX&index=1)
+    * [#16 Mountains of Mist - 00:28:12]{lb}
+    * [#17 A Jade-Like Ode - 00:30:19]{lb}
+    * [#18 Nightcap at Nightfall - 00:31:52]{lb}
+    * [#19 A Mild Tale Untold - 00:33:32]{lb}
+
+  ---
+  - [Jadeite Redolence - Disc 2: Clouds Over Lingmeng｜Genshin Impact, 翡翠香 - 碟二：灵梦云彩｜原神](https://www.youtube.com/watch?v=roHkAJvAt9s&list=PLqWr7dyJNgLJCVtbW0yz_CpwpwyVwPJNX&index=2)
+    * [#1 Guhua's Legacy - 00:00:00]{lb}
+    * [#2 Xuanlian's Wavering Light - 00:01:48]{lb}
+    * [#3 Night's Whispering Breath - 00:03:36]{lb}
+    * [#4 Into the Yonder and Water - 00:05:09]{lb}
+    * [#5 Ancient Slumber - 00:06:47]{lb}
+    * [#6 Jade Chimes - 00:08:14]{lb}
+    * [#7 Spring's Tender Sigh - 00:10:17]{lb}
+    * [#8 Creek's Shade - 00:11:38]{lb}
+    * [#9 Embracing a Misty Sheen - 00:13:15]{lb}
+    * [#10 Through Ancient Veils - 00:14:56]{lb}
+    * [#11 Amidst Foggy Mountains - 00:16:40]{lb}
+    * [#12 Dusk's Descent - 00:18:12]{lb}
+    * [#13 When the Herb Fades - 00:19:34]{lb}
+    * [#14 Trace of Grace - 00:21:33]{lb}
+    * [#15 Distant Gleam of Lingshu - 00:23:20]{lb}
+    * [#16 Garden of Jade - 00:25:30]{lb}
+    * [#17 Shaded Valley's Repose - 00:27:27]{lb}
+    * [#18 Isolated Pine - 00:29:05]{lb}
+    * [#19 Fujin's Chant - 00:30:42]{lb}
+    * [#20 Retaining Clouds - 00:31:57]{lb}
+    * [#21 Past Yearning - 00:34:20]{lb}
+    * [#22 With the Wind, Flowing Epoch - 00:36:08]{lb}
+    * [#23 Thoughts Straying as Clouds - 00:37:42]{lb}
+    * [#24 Moonlit Lanterns - 00:41:04]{lb}
+    * [#25 Breaking the Miasma - 00:45:19]{lb}
+    * [#26 Mountainborn Gale - 00:47:58]{lb}
 
   ---
   - [《原神》剧情PV-「沙中遗事」](https://www.youtube.com/watch?v=EEGh9J0TH2E)
@@ -49,10 +83,8 @@
 **[原神珍珠之歌]{s}**
 * **[原神珍珠之歌](https://www.youtube.com/playlist?list=PLqWr7dyJNgLKjMUfZ7mnuPFLxX813sm8K)**
 
-
-
 ---
-### 0002. Genshin Impact | 大电影
+### 0002. GenshinImpact·大电影
 **[空空]{e}**
 * **[空空 | 原神剧情整活 | 伍佰章 | Douyin](https://v.douyin.com/xZOlCE6uX34/)**
 
@@ -130,7 +162,7 @@
 * **[原神元素战争系列全集回顾 No_Tables授权 | 游戏策划作家耳东](https://v.douyin.com/jLZLUj06U2I/)**
 
 ---
-### 0003. Genshin Impact·miHoYo·Douyin
+### 0003. GenshinImpact·miHoYo·Douyin
 **[盛夏聆听深秋]{s}**
 * **[盛夏聆听深秋 | 仟章 | Douyin](https://v.douyin.com/SYuVNWFyNaM/)**
 
@@ -487,12 +519,12 @@
 * **[游戏英语爱好者 | 语言爱好者，学游戏，玩英语。| 貳佰章](https://v.douyin.com/S6Pk65RL4BU/)**
 
 ---
-### 0007. miHAYO | GenshinImpact
+### 0007. miHAYO·GenshinImpact
 **[Anuneko 米哈游AI软件 Github Search]{g}**
 * **[World peace | 世界和平🕊️](https://v.douyin.com/TeSHYpQ3s0I/)**
 
 ---
-### 0008. WattKeys· GenshinImpact
+### 0008. WattKeys·GenshinImpact
 **[WattKeys· GenshinImpact]{s}**
 * **[WattKeys | 31.9K subscribers | YTB](https://www.youtube.com/@WattKeys/videos)**
   - [Clear Sky Over Liyue ](https://www.youtube.com/watch?v=y-D_KiWtVgU&list=RDy-D_KiWtVgU&start_radio=1)
@@ -533,7 +565,7 @@
 ### 0013. MurderofBirds Impact
 **[MurderofBirds Impact]{s}**
 * **[MurderofBirds Impact | 90.8K subscribers | YTB](https://www.youtube.com/c/MurderofBirdsImpact)**
-  - I livestream on Twitch and post my videos here!
+  - [I livestream on Twitch and post my videos here]{lb}
 
 ---
 ### 0014. MurderofBirds VODs
@@ -561,7 +593,7 @@
   - [Summertide Scales and Tales! Lumine's English Voice Actor Plays Genshin Impact (Full Stream) | 夏潮天文与故事！荧的英文配音演员在《原神》中亮相（完整直播）](https://www.youtube.com/watch?v=YXBcLwqdb8M)
 
 ---
-### 0016. bwaap | GenshinImpact | Bilibili
+### 0016. bwaap·GenshinImpact·Bilibili
 **[InverseZZ]{s}**
 * **[InverseZZ | 心若在，梦就在 | 粉丝数9204](https://space.bilibili.com/9429196/lists/1091065?type=series)**
 
@@ -578,7 +610,7 @@
 * **[MurderofBirds Impact](https://www.youtube.com/c/MurderofBirdsImpact)**
 
 ---
-### 0017. Ferrari | Genshin Impact
+### 0017. Ferrari·GenshinImpact
 **[Ferrari]{s}**
 * **[Ferrari | 搞些AI视频 | 五十章 | Douyin](https://v.douyin.com/Xd6kRRlTfjA/)**
   - [蒙德：高清重置](https://v.douyin.com/Eo7KSZVQRfM/)
@@ -625,7 +657,7 @@
   - [Farming Pulls for Linnea to Save My Bank Account - Map Maxxing (Ep.7)](https://www.youtube.com/watch?v=X090PExuMtI)
 
 ---
-### 0022. 白茶荼葵 | GenshinImpact
+### 0022. 白茶荼葵·GenshinImpact
 **[白茶荼葵]{s}**
 * **[白茶荼葵 | 日更博主，观众老爷们点个关注再走呗QwQ | Douyin](https://v.douyin.com/wlEy3ExMfSA/)**
 
@@ -641,17 +673,17 @@
     - [【原神】哥伦比娅帮桑多涅看手相 | 014](https://v.douyin.com/jz6shjgYaJE/)
 
 ---
-### 0023. 月初 | GenshinImpact
+### 0023. 月初·GenshinImpact
 **[月初]{s}**
 * **[原神空月之歌 桑多涅 原神木偶 | 桑多涅·尼克·菲谢尔or神子·七七](https://v.douyin.com/WD9YuBGYBI8/)**
 
 ---
-### 0024. 你的影月月 | GenshinImpact
+### 0024. 你的影月月·GenshinImpact
 **[你的影月月]{s}**
 * **[天外来客·罗德卡莱 开图](https://v.douyin.com/39_R46GXSxw/)**
 
 ---
-### 0025. 萌猫Cg | Genshin Impact
+### 0025. 萌猫Cg·GenshinImpact
 **[萌猫Cg]{s}**
 * **[萌猫Cg | 🍁 AI拯救世界 🍁 🌷励志用AI给人带来欢乐🌷 | 叁佰章 | Douyin](https://v.douyin.com/Ged9jmTTKqs/)**
   - [我Chovy！多托雷你做实验给我做好了啊](https://v.douyin.com/aj6LgPu60B4/)
@@ -663,7 +695,7 @@
     - [小魔女卡齐娜就位 | 040](https://v.douyin.com/nym8hIMePCc/)
 
 ---
-### 0026. HandsMini | AIGC
+### 0026. HandsMini·AIGC
 **[HandsMini]{s}**
 * **[HandsMini | AIGC创作者，视频及原图为本人制作 | Douyin](https://v.douyin.com/sOSTbYQwRG0/)**
   - [并非零胜率·桑多涅·原神·木偶](https://v.douyin.com/m7gsKyvL2dc/)
@@ -671,25 +703,25 @@
   - [八重神子](https://v.douyin.com/NcBsaoyx_1o/)
 
 ---
-### 0027. Thejonathon | GenshinImpact
-**[Thejonathon · GenshinImpact]{s}**
+### 0027. Thejonathon·GenshinImpact
+**[Thejonathon·GenshinImpact]{s}**
 * **[Thejonathon | 733K subscribers | YTB](https://www.youtube.com/@Thejonathon/videos)**
   - [THE MOON ARCHON QUEST IS INSANE... Genshin Impact Moon Gazing 6.7 world quest full reaction | Min: 04:06:55](https://www.youtube.com/watch?v=K8UZ3xK4xow)
   - [AFTER 6 YEARS SNEZHNAYA IS HERE.... 7.0 LIVESTREAM REACTION | Genshin Impact | Min: 01:08:00](https://www.youtube.com/watch?v=6mD0yIHcvH4)
   - [Snezhnaya is INSANE!!! Snezhnaya Act 1 & 2 Archon Quest 7.0 FULL REACTION Genshin Impact | Min: 09:06:39](https://www.youtube.com/watch?v=I917hpg9FYg)
 
 ---
-**[黯殇As_ · GenshinImpact]{s}**
+**[黯殇As_·GenshinImpact]{s}**
 * **[黯殇As_ | 5.2万 | B站](https://space.bilibili.com/98717318?spm_id_from=333.788.upinfo.detail.click)**
 
 ---
-### 0028. BranOnline | GenshinImpact
+### 0028. BranOnline·GenshinImpact
 **[BranOnline·GenshinImpact]{s}**
 * **[BranOnline | 416K subscribers | YTB](https://www.youtube.com/@BranOnline/videos)**
   - [6.7 - The Truth About Teyvat’s Moon Is Insane | Min: 05H:41M:31S ](https://www.youtube.com/watch?v=mUjol3LBzuc)
 
 ---
-### 0029. 谪仙 | GenshinImpact
+### 0029. 谪仙·GenshinImpact
 **[謫仙]{s}**
 * **[謫仙 | 米游启动 动画混剪，剧情党 | 贰仟章 | Douyin](https://v.douyin.com/3kLmntSuM0k/)**
 
@@ -887,14 +919,14 @@
     - [小鸽子骑大鹅 | 034](https://v.douyin.com/MVQ9oxejxso/)
 
 ---
-### 0200. Jadealy | GenshinImpact
+### 0200. Jadealy·GenshinImpact
 **[Jadealy]{e}**
 * **[Jadealy | 384K subscribers | YTB](https://www.youtube.com/@jadealy/videos)**
   - [This Genshin Quest Deserves to Be Glazed 24/7 | Snezhnaya 7.0 Archon Quest Act 2 Reaction 这个 Genshin Quest 值得被关注 24/7 | Snezhnaya 7.0 执政官任务第二幕反应](https://www.youtube.com/watch?v=nYb-8pNTtco)
 
 ---
-### 0201. EmiMatcha | Gamer
-**[EmiMatcha | gamer]{e}**
+### 0201. EmiMatcha·GenshinImpact
+**[EmiMatcha·GenshinImpact]{e}**
 * **[EmiMatcha | 12.9K subscribers | YTB](https://www.youtube.com/@EmiMatcha/videos)**
   - [Smile... 4.2 Planarcadia FULL STORY REACTION | Honkai: Star Rail](https://www.youtube.com/watch?v=j1Ks_Y9IoSA)
 
@@ -917,8 +949,8 @@
   - [央视长达4分钟报道原神，鸡哥痛失网名 | Min: 04:04 | 001](https://v.douyin.com/iiPS-Ry2pQ8/)
 
 ---
-### 0205. Sabi´s Nook · Music
-**[Sabi´s Nook · Music]{s}**
+### 0205. Sabi´s Nook·Music
+**[Sabi´s Nook·Music]{s}**
 * **[Sabi´s Nook | 12.8K subscriber | YTB](https://www.youtube.com/@SabisNookFantasyAmbience)**
   - [Liyue Harbor Lantern Rite | Genshin Impact Music with Ambience I For Gaming, Reading or Relaxing](https://www.youtube.com/watch?v=DxRm6wGN1r4&list=RDDxRm6wGN1r4&start_radio=1)
 
