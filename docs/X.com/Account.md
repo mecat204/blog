@@ -303,6 +303,8 @@
 * **[向阳乔木](https://x.com/vista8)**
   - [qiaomu-reader](https://github.com/joeseesun/qiaomu-reader)
   - [Qiaomu Reader](https://community.obsidian.md/plugins/qiaomu-reader)
+  - [声渡 SubCast：YouTube 和播客的双语字幕与 AI 精读](https://subcast.qiaomu.ai/)
+  - [joeseesun, subcast](https://github.com/joeseesun/subcast)
 
 ---
 ### 0016. Romain Simon
