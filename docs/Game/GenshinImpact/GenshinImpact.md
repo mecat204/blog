@@ -17,7 +17,7 @@
 ---
 ### 0001. Genshin Impact
 **[Genshin Impact]{s}**
-* **[Genshin Impact | 8.34M subscribers | YTB](https://www.youtube.com/@GenshinImpact)**
+* **[Genshin Impact | 8.36M subscribers | YTB](https://www.youtube.com/@GenshinImpact)**
 
   - [En: Genshin Impact is an open-world adventure game proudly presented by HoYoverse.]{s}
   - [Cn: 原神是一款由HoYoverse自豪呈现的开放世界冒险游戏。]{g}
@@ -65,6 +65,79 @@
     * [#24 Moonlit Lanterns - 00:41:04]{lb}
     * [#25 Breaking the Miasma - 00:45:19]{lb}
     * [#26 Mountainborn Gale - 00:47:58]{lb}
+
+  ---
+  - [Realm of Tranquil Eternity - Disc 1: Sakura and Violet Thunder｜Genshin Impact](https://www.youtube.com/watch?v=1xMRU4D9ODc&list=RD1xMRU4D9ODc&start_radio=1)
+    * [#01 Inazuma - 00:00]{lb}
+    * [#02 Fall of Maples - 05:36]{lb}
+    * [#03 Separated Dream - 07:32]{lb}
+    * [#04 Streets of Elegance - 09:13]{lb}
+    * [#05 Lingering Blossom - 11:11]{lb}
+    * [#06 The Land of Her Serenity - 12:20]{lb}
+    * [#07 In the Strange Realm of Sakura - 13:55]{lb}
+    * [#08 Blue Dream - 15:24]{lb}
+    * [#09 Dream of Scattered Petals - 16:47]{lb}
+    * [#10 Thoughts of Lightning - 18:47]{lb}
+    * [#11 The Mysterious Islands - 20:41]{lb}
+    * [#12 Sakura-Scented Kiseru - 22:05]{lb}
+    * [#13 Her Legacy - 23:33]{lb}
+    * [#14 Everlasting Devotion - 24:44]{lb}
+    * [#15 Kitsune's Mask - 26:12]{lb}
+    * [#16 Hanachirusato - 27:52]{lb}
+    * [#17 Time to Say Farewell - 29:26]{lb}
+    * [#18 Flickering Sakura - 30:58]{lb}
+    * [#19 Sigh of an Old Friend - 32:03]{lb}
+    * [#20 The Sealed Harbor - 33:17]{lb}
+    * [#21 Island for Outlanders - 34:30]{lb}
+    * [#22 Dream of Homeland - 36:03]{lb}
+    * [#23 Interwoven Nostalgia - 37:07]{lb}
+    * [#24 Preparation of Matsuri - 38:09]{lb}
+    * [#25 Island of Hanabi - 40:30]{lb}
+    * [#26 Murmuring Creek - 41:39]{lb}
+    * [#27 Remaining Tenderness - 43:11]{lb}
+    * [#28 A Harmonious Rest - 45:02]{lb}
+    * [#29 Hakushin's Lullaby - 47:42]{lb}
+
+  ---
+  - [Outside It Is Growing Dark - Disc 1: Peace Dropping From the Veils of the Moonlight｜Genshin Impact, 外面天色渐暗 - Disc 1: 和平从月光的面纱中落下｜原神](https://www.youtube.com/watch?v=gt-qLR8v96Q&list=RDgt-qLR8v96Q&start_radio=1)
+    * [#1 Nod-Krai - 00:00:00]{lb}
+    * [#2 The Bustling Port Market - 00:04:20]{lb}
+    * [#3 Tourdion of Silver Seagulls - 00:06:28]{lb}
+    * [#4 Sea Shanties Resounding - 00:08:14]{lb}
+    * [#5 Desire's Intent - 00:10:21]{lb}
+    * [#6 Terms of Accord - 00:12:30]{lb}
+    * [#7 Homecoming to Port - 00:14:01]{lb}
+    * [#8 Unfurling Night - 00:15:52]{lb}
+    * [#9 The Still Sea-Cliff - 00:17:24]{lb}
+    * [#10 The Swinging Motion of the Hulls - 00:19:00]{lb}
+    * [#11 Shetau of Tulaytullah and Pushpavatika - 00:21:11]{lb}
+    * [#12 A Carefree Cup - 00:22:33]{lb}
+    * [#13 Notes From Striking the Anvil - 00:24:09]{lb}
+    * [#14 A Borrowed Hour - 00:25:28]{lb}
+    * [#15 At Ease Near Night's End - 00:26:58]{lb}
+    * [#16 Fields After Dusk - 00:29:02]{lb}
+    * [#17 Fresh Baked Egg Rolls - 00:30:43]{lb}
+    * [#18 Old Tales Inscribed in Verse - 00:31:39]{lb}
+    * [#19 Lakelight Turquoise - 00:32:32]{lb}
+    * [#20 Reflections in a Timeless Calm - 00:34:48]{lb}
+    * [#21 Shimmering Water Like Flickering Souls - 00:37:05]{lb}
+    * [#22 Where the Wandering Ones Rest - 00:38:39]{lb}
+    * [#23 Lullaby of the New Moon (I): Somnias a Luna - 00:40:27]{lb}
+    * [#24 Lullaby of the New Moon (II): Lucens ut risus - 00:42:33]{lb}
+    * [#25 Lullaby of the New Moon (III): Petala ceciderunt - 00:44:31]{lb}
+    * [#26 The Distant Moon Sits Alone - 00:46:40]{lb}
+    * [#27 Hymn to the Moon - 00:49:09]{lb}
+    * [#28 The Bright Frontier Land - 00:51:38]{lb}
+    * [#29 Ancient Heirs of Grace - 00:53:54]{lb}
+    * [#30 Rite Beneath the Radiance - 00:56:10]{lb}
+    * [#31 The Path That the Moon Reveals - 00:58:10]{lb}
+    * [#32 Led by Lucent Guidance - 01:00:09]{lb}
+    * [#33 Wading in Hazy Light - 01:01:09]{lb}
+    * [#34 Dzwony na nieszpory - 01:02:50]{lb}
+    * [#35 The Redoubt Amidst the Frigid Wind - 01:04:32]{lb}
+    * [#36 Raised on Fallen Meteorites - 01:06:16]{lb}
+    * [#37 Keen as Winter Hail - 01:08:18]{lb}
+    * [#38 The Forbidding Ground - 01:10:14]{lb}
 
   ---
   - [《原神》剧情PV-「沙中遗事」](https://www.youtube.com/watch?v=EEGh9J0TH2E)
