@@ -5004,6 +5004,7 @@
   - news =  bad + t + 6466429
   - se = jiao
   - moc = fang + sung
+  - vt = avple
 
 ---
 **[hichuv]{g}**
