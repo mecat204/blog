@@ -3319,6 +3319,10 @@
   - [我不可能告诉你们任何事情的](https://v.douyin.com/QYpxSXv7qDk/)
   - [一句话叫你笑，一句话叫你跳](https://v.douyin.com/eX2scbakT1A/)
 
+  ---
+  **[001. 咕嘎和doro]{g}**
+    - [反应动力西瓜 | Min: 01:57 | 106](https://v.douyin.com/NL6hu4Fn410/)
+
 ---
 ### 0165. Kark·GenshinImpact
 **[Kark]{s}**
@@ -3396,12 +3400,16 @@
 ### 0174. 照棠
 **[照棠]{s}**
 * **[照棠 | 🌙欢迎来到我的山海幻境 ✨ AIGC｜东方幻想｜国风美学| 视觉艺术 | 佰章 | Douyin](https://v.douyin.com/1QTkyHkDGrc/)**
-  - [青山伴龙，龙女的神仙日子](https://v.douyin.com/TlMLYGB_dGE/)
-  - [虎遇知音，共栖山海 | 与白虎为伴，把山海过成日常。](https://v.douyin.com/-Ia1QbCEOhM/)
-  - [“青丘有狐，万物有灵” 山海之外，青丘之境。 灵狐栖于古林，美人行于云雾。](https://v.douyin.com/8MARgVHJxhc/)
-  - [“青山伴龙，龙女的神仙日子” 听说群山深处，藏着一处龙族的家园。 在那里，青龙游过云间，停在屋檐与山水之间。龙女们在花下闲坐，临水展卷，与巨龙一起度过漫长而安静的时光。](https://v.douyin.com/b9d0hyr79LU/)
-  - [策马踏清风，泛舟入画中](https://v.douyin.com/_M3aIm_gra4/)
-  - [借一袖芦花，赴海棠旧梦](https://v.douyin.com/mv8bsQketRs/)
+
+  ---
+  **[001.青山伴龙]{g}**
+    - [青山伴龙，龙女的神仙日子 | 001](https://v.douyin.com/TlMLYGB_dGE/)
+    - [虎遇知音，共栖山海 | 与白虎为伴，把山海过成日常。| 002](https://v.douyin.com/-Ia1QbCEOhM/)
+    - [“青丘有狐，万物有灵” 山海之外，青丘之境。 灵狐栖于古林，美人行于云雾。| 003](https://v.douyin.com/8MARgVHJxhc/)
+    - [“青山伴龙，龙女的神仙日子” 听说群山深处，藏着一处龙族的家园。 在那里，青龙游过云间，停在屋檐与山水之间。龙女们在花下闲坐，临水展卷，与巨龙一起度过漫长而安静的时光。 | 004](https://v.douyin.com/b9d0hyr79LU/)
+    - [策马踏清风，泛舟入画中 | 005](https://v.douyin.com/_M3aIm_gra4/)
+    - [借一袖芦花，赴海棠旧梦 | 006](https://v.douyin.com/mv8bsQketRs/)
+    - [“珠光入梦，龙影随行” 海底有珠，幽境有龙。 她携一身月白而来，与游龙共赴碧海。 从此寻珠的路上，多了一道相随的身影。| 007](https://v.douyin.com/q3qOCO1-ti8/)
 
 ---
 ### 0175. 青鱼
@@ -3411,6 +3419,7 @@
   - [大小姐天天装病见太医，谁知皇上突然给她赐了婚](https://v.douyin.com/rcz9BhF5oPk/)
   - [她不想做笼中鸟，皇上便陪她走出那座红墙](https://v.douyin.com/DMcRLAQK13c/)
   - [桂花落满钱庄日，她没嫁进京城，却换来城外一城炊烟](https://v.douyin.com/Qjr9zoAiqRs/)
+  - [小青一心护姐姐，偏遇上个不肯放过她的倔和尚](https://v.douyin.com/E-j5Nr_2XoY/)
 
 ---
 ### 0176. 眉川伊芙琳
@@ -3474,6 +3483,43 @@
 * **[以太之尘 | 用Ai带来单纯的快乐和美好。| 仟章 | Douyin](https://v.douyin.com/V7YCmZNtMDE/)**
   - [用Ai带来单纯的快乐和美好。](https://v.douyin.com/V7YCmZNtMDE/)
   - [神里绫华今天的装扮❤️](https://v.douyin.com/HyT27gcgt54/)
+
+---
+### 0183. 蛋蒙·GenshinImpact
+**[蛋蒙]{e}**
+* **[蛋蒙 | 努力更新好玩的原神二创 | 佰章](https://v.douyin.com/CJDC-06hRe0/)**
+
+  ---
+  **[001. 原神剧情故事]{g}**
+    - [第六集：代理团长-琴 | Min:01:36](https://v.douyin.com/nyl4qAKtg8M/)
+    - [蒙德篇-第七集：北风之狼庙宇 | Min: 02:31](https://v.douyin.com/Gd7VGAFJYek/)
+    - [第八集：我成荣誉骑士啦 | Min: 02:19](https://v.douyin.com/NdjGGYZ0kWk/)
+    - [第九集：特瓦林的诗篇 | Min: 02:27](https://v.douyin.com/e9nYyPdNIF8/)
+    - [第十集：愿风神忽悠你~ | Min: 01:47](https://v.douyin.com/as3wQ_o3taI/)
+
+---
+### 0184. E.elysian
+**[E.elysian]{e}**
+* **[E.elysian | 借夜雨繁花，安放眷恋与怅惘. 风月不言，交由文字诉说. 期待遇见你的笔下山河 | 伍佰章](https://v.douyin.com/LJ6kzKPjd2U/)**
+
+  ---
+  **[001.夜花]{g}**
+    - [慢慢来，花会沿自己的时间开放 | 001](https://v.douyin.com/wucyupAsEHA/)
+    - [世人只看远方，没人看见低处的绽放 | 002](https://v.douyin.com/BCZfS61DWt8/)
+    - [这一场相思，只敢藏在游园梦里 | 003](https://v.douyin.com/rzAyc8d3Ro8/)
+    - [不挑落脚之处，逢光便缓缓盛开 | 004](https://v.douyin.com/QG-DFxVaRzM/)
+    - [世事粗粝，自有温柔生长 | 005](https://v.douyin.com/Iux-hawtPKk/)
+    - [古往今来的深情，都被揉进夜色花间 | 006](https://v.douyin.com/RRlGmz4jphk/)
+    - [山茶花不懂白玫瑰，各自有悲喜 | 007](https://v.douyin.com/x3CXGFt8djU/)
+    - [明明满心眷恋，却只能安静观望 | 008](https://v.douyin.com/2Qlxg4-Y-AA/)
+    - [纵然花叶相离，依旧迎风绽放 | 009](https://v.douyin.com/kp9ekOj_4ss/)
+    - [一片粉黛，几许清欢，风掠过，赴一场秋日的温柔之约 | 010](https://v.douyin.com/fM966-Pdl2Y/)
+
+---
+### 0185. 围巾小咕嘎
+**[围巾小咕嘎]{s}**
+* **[围巾小咕嘎 | 不定时发布小咕嘎和小伙伴们的搞笑可爱视频。| 贰佰章 | Douyin](https://v.douyin.com/z1KpfBJd_cY/)**
+  - [咕嘎追凶 | 001](https://v.douyin.com/zF4AKu1_Qgk/)
 
 ---
 ### 0200. 瑶光
