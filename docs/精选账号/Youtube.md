@@ -4614,7 +4614,7 @@
     - [Library](https://www.labxchange.org/library)
 
 ---
-### 0099. AI - video
+### 0099. Ai·video
 **[Ghibli Days]{e}**
 * **[Ghibli Days | 105K | YTB](https://www.youtube.com/@GhibliDayss/videos)**
   - [Silent Night Studying: Behind the Rain, Sunshine Will Surely Come | Ghibli Style Video](https://www.youtube.com/watch?v=GPZrNb88VCE)
@@ -4631,21 +4631,40 @@
 
 ---
 **[Chloe VS History]{e}**
-* **[Chloe VS History | Powered by PAI 2.0 from @UtopaiStudios | 365K | YTB](https://www.youtube.com/@ChloeVSHistory/videos)**
+* **[Chloe VS History | Powered by PAI 2.0 from @UtopaiStudios | 430K | YTB](https://www.youtube.com/@ChloeVSHistory/videos)**
 
   ---
-  **[Website]{g}**
+  **[Tiktok]{g}**
     - [Tiktok](https://www.tiktok.com/@chloe.vs.history)
+
+  ---
+  **[beacons.ai]{g}**
     - [beacons.ai](https://beacons.ai/chloe.vs.history?__v=t1793404701840)
 
-  - [I time travelled to Ancient Rome! (Vlog)](https://www.youtube.com/watch?v=aaua5ghidk0&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=1)
-  - [I time travelled to Tudor London in 1536! (Vlog)](https://www.youtube.com/watch?v=-Sd1stYQp-c&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=2)
-  - [I time travelled to D-Day in 1944 (WW2)](https://www.youtube.com/watch?v=ta0xLjMXJ1s&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=4)
-  - [I time travelled to Ancient Egypt in 2400BC! (Vlog)](https://www.youtube.com/watch?v=GJKU9qYGjN8&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=5)
-  - [I time travelled to the Titanic 1912](https://www.youtube.com/watch?v=HZRdKlOHogk&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=6)
-  - [Can I Survive 24 Hours in the Ice Age? (30,000BC)](https://www.youtube.com/watch?v=moKQeOMHqYA&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=6)
-  - [I time travelled to Edo Japan in 1657 , 穿越到1657年的日本江户(日江户大火)](https://www.youtube.com/watch?v=dx2T6kDh98g)
-  - [I visited Pompeii during its last 48 hours, 我参观了庞贝在它最后的48小时](https://www.youtube.com/watch?v=WZeT91jsFTw)
+  ---
+  **[list]{g}**
+    - [I time travelled to Ancient Rome! (Vlog) | Min: 09:23](https://www.youtube.com/watch?v=aaua5ghidk0&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=1)
+
+    ---
+    - [I time travelled to Tudor London in 1536! (Vlog) | Min: 12:26](https://www.youtube.com/watch?v=-Sd1stYQp-c&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=2)
+
+    ---
+    - [I time travelled to D-Day in 1944 (WW2) | Min: 14:59](https://www.youtube.com/watch?v=ta0xLjMXJ1s&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=4)
+
+    ---
+    - [I time travelled to Ancient Egypt in 2400BC! (Vlog) | Min: 13:42](https://www.youtube.com/watch?v=GJKU9qYGjN8&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=5)
+
+    ---
+    - [I time travelled to the Titanic 1912 | Min: 14:12](https://www.youtube.com/watch?v=HZRdKlOHogk&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=6)
+
+    ---
+    - [Can I Survive 24 Hours in the Ice Age? (30,000BC) | Min: 12:20](https://www.youtube.com/watch?v=moKQeOMHqYA&list=TLGGZigIgaPCicYzMDA3MjAyNg&index=6)
+
+    ---
+    - [I time travelled to Edo Japan in 1657 , 穿越到1657年的日本江户(日江户大火) | Min: 13:51](https://www.youtube.com/watch?v=dx2T6kDh98g)
+
+    ---
+    - [I visited Pompeii during its last 48 hours, 我参观了庞贝在它最后的48小时 | Min: 20:11](https://www.youtube.com/watch?v=WZeT91jsFTw)
 
 ---
 **[God's Love Unending]{s}**
