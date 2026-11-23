@@ -2918,11 +2918,13 @@
     - [罪人的终幕](https://v.douyin.com/7jecCglIASQ/)
 
 ---
-### 0129. 大大怪下士(滇嘎)
-**[大大怪下士(滇嘎)]{s}**
-* **[大大怪下士(滇嘎) | 佰章 | Douyin](https://v.douyin.com/zmfwwQLNBEI/)**
+### 0129. 大大怪下士
+**[大大怪下士]{s}**
+* **[大大怪下士 | 佰章 | Douyin](https://v.douyin.com/zmfwwQLNBEI/)**
   - [你身边还有什么狠人](https://v.douyin.com/MLlsi33rVX4/)
   - [书本费不对劲吧](https://v.douyin.com/08-lAD21q8k/)
+  - [姜太公钓鱼愿者上钩~ 猎人往往以猎物的方式出现](https://v.douyin.com/CpsfxmNeLfM/)
+  - [咕咕嘎嘎XDoro沉浸式建造系列 咕咕嘎嘎XDoro沉浸式建造树干小屋](https://v.douyin.com/GlljzMpr758/)
 
 ---
 ### 0130. 夏寻风
@@ -2960,6 +2962,7 @@
   **[001. Ai短片剧场]{s}**
     - [AI短片《跳楼机》| Min: 00:36 | 021](https://v.douyin.com/9yjY327OE74/)
     - [伪似之辨 | Min: 01:19 | 022](https://v.douyin.com/BoEcjRlnDCU/)
+    - [自制AI短片《做账大师》| Min: 00:21 | 039](https://v.douyin.com/yjJAUxfssEA/)
 
 ---
 ### 0134. 艾米漫剧·MaxMindAI wan3.0
@@ -3259,6 +3262,7 @@
 * **[DoroPP | 开门！doro来了！ | 伍佰章 | Douyin](https://v.douyin.com/C2G5-XGxr68/)**
   - [当你去用了GPT](https://v.douyin.com/Du7D2QWsKVQ/)
   - [师傅你不要想不开](https://v.douyin.com/5KFe95FaIA4/)
+  - [机器人咕嘎](https://v.douyin.com/AgLssoVoEgE/)
 
 ---
 ### 0159. 柠檬与大肥鱼
@@ -3520,6 +3524,8 @@
 **[围巾小咕嘎]{s}**
 * **[围巾小咕嘎 | 不定时发布小咕嘎和小伙伴们的搞笑可爱视频。| 贰佰章 | Douyin](https://v.douyin.com/z1KpfBJd_cY/)**
   - [咕嘎追凶 | 001](https://v.douyin.com/zF4AKu1_Qgk/)
+  - [天外来嘎 | 002](https://v.douyin.com/2J5MT2bOSfY/)
+  - [小咕嘎，大肥鱼，你们不要再打了啦 | 003](https://v.douyin.com/OZzMKFQWEaY/)
 
 ---
 ### 0186. 师姐TVB·爱尔兰·18+
@@ -3535,6 +3541,8 @@
     - [有内鬼终止交易 | 093](https://v.douyin.com/02IS4CELbdw/)
     - [本不富裕的圣女更是雪上加霜 | 094](https://v.douyin.com/o5v9Sxai9Hk/)
     - [只有神师受伤的世界 | 100](https://v.douyin.com/6qzl8AYImwg/)
+    - [银月大王化身阿贝贝 | 109](https://v.douyin.com/XVCd-RhLDg4/)
+
     - [大战前夕我竟穿成了主角 | 117](https://v.douyin.com/MW8wgsWI90Y/)
     - [对自己清醒的认知是我不断上升的阶梯 | 136](https://v.douyin.com/CJ_GhjkNZwY/)
     - [我又穿越了，这次是谁 | 149](https://v.douyin.com/lyaaZ1itTZU/)

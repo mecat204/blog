@@ -871,6 +871,12 @@
 
 ---
 ### 0010. 2026
+**[小巷又下小雪]{e}**
+* **[小巷又下小雪 | 会玩智能手机，未来可期 | 佰章 | Douyin]( https://v.douyin.com/J3BrokxKelw/)**
+  - [搭讪秋香2.0](https://v.douyin.com/DBN07rUjSjI/)
+  - [女侠梦](https://v.douyin.com/ZrJQsLu4c54/)
+
+---
 **[小小繁星ya]{e}**
 * **[小小繁星ya | 分享新中式｜汉服｜旗袍穿搭 常服穿搭 | 仟章 | Douyin](https://v.douyin.com/BWZmR8Ajc_k/)**
   - [东方美学 | 温婉书卷气旗袍有多绝 | 宋代石刻博物馆](https://v.douyin.com/JRWhbXUZ3Zs/)
