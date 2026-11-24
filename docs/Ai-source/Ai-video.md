@@ -1350,12 +1350,13 @@
     - [小魔女卡齐娜就位 | 040](https://v.douyin.com/nym8hIMePCc/)
 
 ---
-### 0050. HandsMini | AIGC
+### 0050. HandsMini
 **[HandsMini]{s}**
-* **[HandsMini | AIGC创作者，视频及原图为本人制作 | Douyin](https://v.douyin.com/sOSTbYQwRG0/)**
+* **[HandsMini | AIGC创作者，视频及原图为本人制作 | 佰章 | Douyin](https://v.douyin.com/sOSTbYQwRG0/)**
   - [并非零胜率·桑多涅·原神·木偶](https://v.douyin.com/m7gsKyvL2dc/)
   - [冰之女皇vs死之执政。](https://v.douyin.com/fLpPGhMv9cY/)
   - [八重神子](https://v.douyin.com/NcBsaoyx_1o/)
+  - [奥术之贼03集](https://v.douyin.com/xM3yvAGEkK8/)
 
 ---
 ### 0051. 中央美院刘沐心
@@ -3160,6 +3161,7 @@
 
   ---
   **[001. 小师妹]{s}**
+    - [一念逍遥 | 038](https://v.douyin.com/lA8de0b9_5Y/)
     - [这不合适吧 一念逍遥 | 065](https://v.douyin.com/7xOUiSYqehM/)
     - [到底哪个是孙悟空 | 064](https://v.douyin.com/lzR7SaJR7Ws/)
     - [当兄弟看上美女时 | 073](https://v.douyin.com/b_dRVoKX9M4/)
@@ -3352,6 +3354,7 @@
   - [大猫](https://v.douyin.com/oFd0v-AT6sY/)
   - [治愈系](https://v.douyin.com/xn_0VEoqZc0/)
   - [国风动画](https://v.douyin.com/YoSILJDek54/)
+  - [动画](https://v.douyin.com/OZPBS5wVggw/)
 
 ---
 ### 0168. Claude
@@ -3542,7 +3545,6 @@
     - [本不富裕的圣女更是雪上加霜 | 094](https://v.douyin.com/o5v9Sxai9Hk/)
     - [只有神师受伤的世界 | 100](https://v.douyin.com/6qzl8AYImwg/)
     - [银月大王化身阿贝贝 | 109](https://v.douyin.com/XVCd-RhLDg4/)
-
     - [大战前夕我竟穿成了主角 | 117](https://v.douyin.com/MW8wgsWI90Y/)
     - [对自己清醒的认知是我不断上升的阶梯 | 136](https://v.douyin.com/CJ_GhjkNZwY/)
     - [我又穿越了，这次是谁 | 149](https://v.douyin.com/lyaaZ1itTZU/)
@@ -3552,6 +3554,23 @@
     - [董萱儿再见韩老魔 | 183](https://v.douyin.com/nG9PDOCKoI8/)
     - [钟吾的结局会是怎样的呢 | 192](https://v.douyin.com/LMs_jVbd_7w/)
     - [钟吾报仇十年不晚 | 194](https://v.douyin.com/vAXTVGjj7Go/)
+
+---
+### 0187. Kristy·GenshinImpact
+**[Kristy]{s}**
+* **[Kristy | 仟章 | Douyin](https://v.douyin.com/KiAilDFFs7Y/)**
+
+  ---
+  **[001.侠客江湖]{g}**
+    - [成女武侠 | 申鹤 阿蕾奇诺 丝柯克 | 038](https://v.douyin.com/gN9ciiFJ-hQ/)
+    - [这是谁家的小师妹 | 芙宁娜 胡桃 甘雨| 039](https://v.douyin.com/DBSysWO4fRs/)
+    - [这是谁家的小师弟 | 魈 温迪 枫原万叶 | 040](https://v.douyin.com/yp0Y_cnGqdQ/)
+
+---
+### 0188. 光遇AIGC
+**[光遇AIGC]{s}**
+* **[光遇AIGC | 喜好AIGC视频，做一些搞笑视频与半写实。| 佰章 | Douyin](https://v.douyin.com/UsDJ1T0jQgY/)**
+  - [风吹起她们的美---AIGC视频 同样吹进你的脑海中](https://v.douyin.com/p-AZdcCBz2g/)
 
 ---
 ### 0200. 瑶光
