@@ -288,7 +288,7 @@
 ---
 ### 0014. lumxss
 **[lumxss]{s}**
-* **[lumxss](https://x.com/bkdgiffug)**
+* **[lumxss, web3撸毛，日常分享，Cryptox AI重度用户AI工具分享](https://x.com/bkdgiffug)**
   - [awesome-math](https://github.com/rossant/awesome-math)
   - [在线影视搜索与播放](https://zip0.com)
   - [Exercism Code](https://exercism.org/)
@@ -296,6 +296,7 @@
   - [Codex-orange-book](https://github.com/bozhouDev/codex-orange-book)
   - [WhisperSubTranslate](https://github.com/Blue-B/WhisperSubTranslate)
   - [tubi](http://gdpr.tubi.tv/)
+  - [oil-oil, oil-motion](https://github.com/oil-oil/oil-motion)
 
 ---
 ### 0015. 向阳乔木·Book
@@ -619,6 +620,14 @@
 **[zubububu]{s}**
 * **[zubububu·Japan](https://x.com/zubububu)**
   * [pet-the-cat](https://pet-the-cat.pages.dev/)
+
+---
+### 0027. Abakcus
+**[Abakcus]{s}**
+* **[Abakcus | Abakcus is the best curation site for math and science.  Please subscribe my weekly newsletter! It is FREE, Abakcus 是数学和科学的最佳管理网站。请订阅我的每周通讯](https://x.com/abakcus)**
+  - [Articles — Science, Math &amp; History Long Reads · Abakcus](https://abakcus.com/articles)
+  - [beyondeuclid](https://beyondeuclid.substack.com/)
+  - [arquitecturadotcom](https://www.youtube.com/@arquitecturadotcom/videos)
 
 ---
 ### 3000. 熟韻美

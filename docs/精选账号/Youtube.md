@@ -3776,7 +3776,7 @@
 
 ---
 **[Reflections of Life]{g}**
-* **[Reflections of Life | 生活的思考 | ](Reflections of Life)**
+* **[Reflections of Life | 生活的思考 | ](https://www.youtube.com/@ReflectionsofLife/videos)**
   - [What Happens When You Stop Forcing Life](https://www.youtube.com/watch?v=qqMpOSBsjDI)
 
   ---
@@ -4525,8 +4525,8 @@
 
 ---
 ### 0047. DeepLearningAI
-**[DeepLearningAI]{s}**
-* **[DeepLearningAI | 706K subscribers | YTB](https://www.youtube.com/@Deeplearningai/featured)**
+**[DeepLearningAI·Andrew Ng 吴恩达]{s}**
+* **[DeepLearningAI | 747K subscribers | YTB](https://www.youtube.com/@Deeplearningai/featured)**
   - [Full AI Prompting Course with Andrew Ng 吴恩达 (Andrew Ng) 的完整人工智能提示课程](https://www.youtube.com/watch?v=8ib4Qnh2HFE)
 
 ---
@@ -5006,6 +5006,12 @@
 **[Techartist Science]{s}**
 * **[Techartist Science | 14 subscribers | YTB](https://www.youtube.com/@tech-artist)**
   - [How Do We Know What's Inside the Earth? (We've Only Dug 12 km), 我们如何知道地球内部是什么样子的？（我们只挖掘了12公里）](https://www.youtube.com/watch?v=vmPKYdS_1gs)
+
+---
+### 2500. Katie Clarke
+**[Katie Clarke·alexei]{e}**
+* **[Katie Clarke | 239K subscribers | YTB](https://www.youtube.com/@katieclarke2100/videos)**
+  - [How to Reprogram your Subconscious Mind](https://www.youtube.com/watch?v=zfAJaCvs8_o)
 
 ---
 ### 3000. WorldCom EDU | Brian Stuart | Course
