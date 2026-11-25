@@ -4977,12 +4977,14 @@
   - [How to use 'get' in English](https://www.youtube.com/watch?v=1zw2pTZ9U_I&t=41s)
 
 ---
-### 1501. Podcast 播客 | Drama 短剧
+### 1501. LOVEBUSTER
 **[LOVEBUSTER]{s}**
-* **[LOVEBUSTER | 2.06M subscribers |  YTB](https://www.youtube.com/@LoveBusterShow/videos)**
-  - [I Broke The Law To Save Those I Love | SAVING HEARTS | Ep.10 | 我违法拯救我所爱的人 |拯救心灵 |第10集](https://www.youtube.com/watch?v=xxAknGzwPSw)
+* **[LOVEBUSTER | 2.08M subscribers |  YTB](https://www.youtube.com/@LoveBusterShow/videos)**
+  - [I Broke The Law To Save Those I Love | SAVING HEARTS | Ep.10 , 我违法拯救我所爱的人 拯救心灵 第10集](https://www.youtube.com/watch?v=xxAknGzwPSw)
+  - [Young Millionaire Captures Mute Mermaid,年轻的百万富翁捕获哑巴美人鱼](https://www.youtube.com/watch?v=Ox-1xy5IUK4)
 
 ---
+### 1502. English Unleashed: The Podcast
 **[English Unleashed: The Podcast]{s}**
 * **[English Unleashed: The Podcast | 1.42M subscribers |  YTB](https://www.youtube.com/@EnglishPodcastUnleashed/videos)**
   - [En: Welcome to English Unleashed: The Podcast.]{s}
@@ -5013,7 +5015,7 @@
   - [Cn: 版权所有，版权所有©：教育视频制作公司。]{g}
 
 ---
-### 1502. POC English·英语大剧场·播客
+### 1503. POC English·英语大剧场
 **[POC English]{s}**
 * **[POC English | 4.13M subscribers | YTB](https://www.youtube.com/@POCEnglish/videos)**
 
@@ -5022,7 +5024,7 @@
 * **[Home - POC English](https://pocenglish.com/)**
 
 ---
-### 2000. Astral Curiosity | Exploring the universe
+### 2000. Astral Curiosity | Exploring the Universe
 **[Astral Curiosity]{s}**
 * **[Astral Curiosity | 46.5K subscribers | YTB](https://www.youtube.com/@astralcuriosity/videos)**
 
