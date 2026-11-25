@@ -32,6 +32,27 @@
   - [不一样的赛道，快来选择你的球](https://v.douyin.com/nXHqGu6Gqqs/)
 
 ---
+### 0004. 炸毛可乐·韩国
+**[炸毛可乐]{s}**
+* **[炸毛可乐 | 关注我～ 不迷路^_^ | 叁佰章 | Douyin](https://v.douyin.com/P35JIBfjH2A/)**
+  - [鲁班旋转机关盒 | 3D动画](https://v.douyin.com/1m9AeTlnm3Y/)
+
+---
+### 0005. 张知物
+**[张知物]{s}**
+* **[张知物 | 知人知世，亦知万物。| 叁佰章 | Douyin](https://v.douyin.com/XeEeZ0RlcxU/)**
+
+  ---
+  **[001. 张知物]{g}**
+    - [双环定心镂空球 | 117](https://v.douyin.com/XeEeZ0RlcxU/)
+
+---
+### 0006. 大明宝钞
+**[大明宝钞]{s}**
+* **[大明宝钞 | 以银票为媒，纳八方财气，主页查看产品，欢迎进店了解。| 叁佰章 | Douyin](https://v.douyin.com/SU0jrqlQTz0/)**
+  - [没有现代科技，古人靠什么守住银票不被伪造](https://v.douyin.com/6voylqFlN1E/)
+
+---
 ### 9999. Download
 **[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**

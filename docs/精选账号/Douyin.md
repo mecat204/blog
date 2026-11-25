@@ -871,6 +871,12 @@
 
 ---
 ### 0010. 2026
+**[晴天（观自在）·道友]{e}**
+* **[晴天（观自在）|  懂所想 如所愿 有温度 · 修己利人 共鸣共勉 | 佰章 | Douyin](https://v.douyin.com/PrRmw4aJWtc/)**
+  - [小事不断消耗你，便是在试探你的底线。| 2026.11.25](https://v.douyin.com/ttki9ayqK64/)
+  - [相信自己的直觉，那是对自己最大的保护。](https://v.douyin.com/QV-_fp1q2Iw/)
+
+---
 **[小巷又下小雪]{e}**
 * **[小巷又下小雪 | 会玩智能手机，未来可期 | 佰章 | Douyin]( https://v.douyin.com/J3BrokxKelw/)**
   - [搭讪秋香2.0](https://v.douyin.com/DBN07rUjSjI/)
@@ -970,8 +976,9 @@
 
 ---
 **[晴天(观自在)·道友]{e}**
-* **[晴天(观自在) | 懂所想 如所愿 有温度 · 修己利人 共鸣共勉 | 佰章]()**
-  - [相信自己的直觉，那是对自己最大的保护。](https://v.douyin.com/QV-_fp1q2Iw/、)
+* **[晴天(观自在) | 懂所想 如所愿 有温度 · 修己利人 共鸣共勉 | 佰章](https://v.douyin.com/PrRmw4aJWtc/)**
+  - [相信自己的直觉，那是对自己最大的保护。](https://v.douyin.com/QV-_fp1q2Iw/)
+  - [小事不断消耗你，便是在试探你的底线。](https://v.douyin.com/ttki9ayqK64/)
 
 ---
 **[窗边的小羽子·GenshinImpact]{e}**
