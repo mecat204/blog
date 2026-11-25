@@ -293,6 +293,7 @@
 * **[English Fluency Journey | Hanna Khoma](https://www.englishfluencyjourney.com/)**
 
 ---
+### 0003. Jonna Jinton·瑞典·乡村
 **[Jonna Jinton·瑞典]{e}**
 * **[Jonna Jinton | 5.25M subscribers | 瑞典 | YTB](https://www.youtube.com/@jonnajinton)**
   - [Free web proxy to open blocked sites | TrickyBird](https://trickybird.com/)
@@ -322,14 +323,43 @@
   - [Days at My Mountain Cabin in Northern Sweden](https://www.youtube.com/watch?v=lMmCgfQ18Bk)
 
 ---
+### 0003. All the feral fawns·乡村
+**[All the feral fawns, 所有的野生小鹿]{e}**
+* **[All the feral fawns | 120K subscribers | YTB](https://www.youtube.com/@alltheferalfawns/videos)**
+  - [Introvert Diaries | The final garden harvest, cozy plant shopping & decorating my studio | 内向日记, 最后的花园收获，舒适的植物购物和装饰我的工作室](https://www.youtube.com/watch?v=79IWLNYm7OQ&t=23s)
+
+---
+### 0003. Poetry Of Slow Life
+**[Poetry Of Slow Life]{s}**
+* **[Poetry Of Slow Life | 217K subscribers | YTB](https://www.youtube.com/@IamDaria/videos)**
+
+  - [En: Hi, I'm Daria.]{s}
+  - [嗨，我是达莉娅。]{g}
+
+  ---
+  - [En: A daydreamer (also a filmmaker and photographer) living a quiet life in the English countryside.]{s}
+  - [一个爱做白日梦的人（同时也是电影制片人和摄影师），在英格兰乡村过着平静的生活。]{g}
+
+  ---
+  - [En: Welcome to my seasonal slow living country diaries!]{s}
+  - [欢迎来到我的季节性慢生活乡村日记！]{g}
+
+  ---
+  - **[Alone In An Off-Grid Cabin - A Complete Social Media Detox | Rainy slow days in English countryside | 独自一人在离网小屋——彻底社交媒体戒断 |英格兰乡村 的雨天缓慢](https://www.youtube.com/watch?v=jLj6zk-Vs5E)**
+  - **[Autumn in the mountains | Slow Travel In Scottish Highlands & Edinburgh | Cozy October Cabin Living | 山中的秋天 |慢速旅行 在苏格兰高地和爱丁堡 |温馨的十月小屋生活](https://www.youtube.com/watch?v=6rMFhIgBAn4)**
+
+---
+### 0004. Miss Jean Teaches
 **[Miss Jean Teaches]{e}**
-* **[Miss Jean Teaches | 126 subscribers | YTB](https://www.youtube.com/@missjeanteaches)**
+* **[Miss Jean Teaches | 127K subscribers | YTB](https://www.youtube.com/@missjeanteaches/videos)**
+  - [How long does it take to learn English? | B2-C2 English podcast](https://www.youtube.com/watch?v=ocCzra8R8sI)
 
 * **[英语学习Pie | 百章 | Douyin](https://v.douyin.com/nBEOloJekdk/)**
   - **[全英VLOG｜学语言必须"从第一天就开口"？](https://v.douyin.com/o1MYbBcmiok/)**
   - [全英VLOG｜学语言必须"从第一天就开口"？ 视频来源｜YTB Miss Jean Teaches 剪辑+字幕+资料整理｜本人原创 学语言时总被"从第一天就开口"的建议绑架？想开口却怕焦虑，不开口又怕落后？博主结合自身教学与学习经验，从正反两方拆解这一热门建议，帮你打破认知误区，找到更适配自己的语言学习节奏！无论你偏爱"沉默积累"还是"即时输出"，都能从中找到共鸣]{g}
 
 ---
+### 0004. KevinFeng 冯凯文
 **[KevinFeng 冯凯文]{s}**
 * **[KevinFeng 冯凯文 | 113K subscribers | YTB](https://www.youtube.com/@IAmKevinFeng)**
   - [1个习惯带你直接听懂英文，让你英文听力像母语一样强](https://www.youtube.com/watch?v=t-kOwCmtcmA)
@@ -339,8 +369,9 @@
   - [OIO App · 记录生活，无痛用英文](https://yueyantech.com/app.html)
 
 ---
-**[PRIMAL EARTH · 4K]{s}**
-* **[PRIMAL EARTH | 153K subscribers | YTB](https://www.youtube.com/@primalearth8951)**
+### 0005. PRIMAL EARTH·4K
+**[PRIMAL EARTH·4K]{s}**
+* **[PRIMAL EARTH, 原始地球；初始地球 | 154K subscribers | YTB](https://www.youtube.com/@primalearth8951)**
 
   - [En: Our mother planet "Earth" and the vibrancy of life on it.]{s}
   - [Cn: 我们的母星"地球"以及它上生命的生机勃勃。]{g}
@@ -357,8 +388,9 @@
   - [National Parks of the World Amazing Views 4K](https://www.youtube.com/watch?v=cfbrsPKm_5k)
 
 ---
+### 0006. 4k Films by Adnan·地理志
 **[4k Films by Adnan]{s}**
-* **[4k Films by Adnan | 207K subscribers | YTB](https://www.youtube.com/@4kfilmsbyadnan)**
+* **[4k Films by Adnan | 211K subscribers | YTB](https://www.youtube.com/@4kfilmsbyadnan)**
 
   - [En: Hi, I’m Adnan of the 4k Films by Adnan channel.]{s}
   - [Cn: 你好，我是Adnan频道4k Films的Adnan。]{g}
@@ -384,16 +416,20 @@
   - [Cn: 非常感谢。]{g}
 
   ---
-  - Adnan Email: 4kfilmsbyadnan@gmail.com
-  - Adnan 电子邮件：4kfilmsbyadnan@gmail.com
+  - [Russia in 4K - Incredible Scenes & Hidden Gems](https://www.youtube.com/watch?v=HWuDdsmZmv8)
 
   ---
-  - [Russia in 4K - Incredible Scenes & Hidden Gems](https://www.youtube.com/watch?v=HWuDdsmZmv8)
   - [China in 4K - Incredible Scenes & Uncovering Hidden Gems](https://www.youtube.com/watch?v=6yQH9jUqttE)
-  - [Patagonia in 4K - Incredible Scenes & Uncovering Hidden Gems](https://www.youtube.com/watch?v=z8Gw2p2vRr0)
+
+  ---
+  - [Patagonia in 4K - Incredible Scenes & Uncovering Hidden Gems, 4K 巴塔哥尼亚 - 令人难以置信的场景和发现隐藏的宝石](https://www.youtube.com/watch?v=z8Gw2p2vRr0)
+
+  ---
+  - [Japan in 4K - Incredible Scenes & Uncovering Hidden Gems, 4K 中的日本 - 令人难以置信的场景和发现隐藏的宝石](https://www.youtube.com/watch?v=9wjPGJnGEPQ)
 
 ---
-**[4K Relaxation Channel]{s}**
+### 0006. 4K Relaxation Channel
+**[4K Relaxation Channel, 4K休闲频道]{s}**
 * **[4K Relaxation Channel | 1.05M subscribers | YTB](https://www.youtube.com/@RelaxationChannel)**
 
   - [En: 4K Relaxation Channel in sensational 4K and 8K resolution features spectacular nature videos perfect for deep relaxation, meditation, study, sleep, healing, stress relief and more in the industry-leading, detail-oriented 4K quality that brings nature into your home.]{s}
@@ -437,8 +473,9 @@
   - [ProArtInc](https://proartinc.net/)
 
 ---
+### 0006. Scenic Relaxation
 **[Scenic Relaxation·4K]{s}**
-* **[Scenic Relaxation | 1.76M subscribers | YTB](https://www.youtube.com/@ScenicRelaxationFilms)**
+* **[Scenic Relaxation 风景放松；美丽环境中的放松 | 1.76M subscribers | YTB](https://www.youtube.com/@ScenicRelaxationFilms)**
   - [En: The goal at Scenic Relaxation is to provide relaxing 4K films of the world's most incredible destinations.]{s}
   - [Cn: Scenic Relaxation的目标是提供世界上最不可思议目的地的放松4K影片。]{g}
 
@@ -459,8 +496,52 @@
   - [【4K 奥地利-哈尔施塔特】俯瞰恬静奥地利小镇，湖景峡湾宁静怡然   ](https://v.douyin.com/fUD3TSTWrkQ/)
 
 ---
+### 0006. 4kUrbanLife
+**[4kUrbanLife]{s}**
+* **[4kUrbanLife | 360K subscribers | YTB](https://www.youtube.com/@4kUrbanLife)**
+  - [4K Cities of The World: Krakow, Poland](https://www.youtube.com/watch?v=3CfLia_6TU0&list=PLQggNzW0_YA9OlYAoIS5Vp-gRp8kF3EcS)
+
+---
+### 0006. 🇨🇭 SWISS - Most Beautiful Places & Walking Tours
+**[🇨🇭 SWISS - Most Beautiful Places & Walking Tours]{s}**
+* **[🇨🇭 SWISS - Most Beautiful Places & Walking Tours | 瑞士 | 102K subscribers subscribers | YTB](https://www.youtube.com/@SWISS_WalkingTours)**
+  - [Free web proxy to open blocked sites | TrickyBird](https://trickybird.com/)
+
+  - [En: Welcome to our YouTube channel dedicated to the breathtaking beauty of Switzerland!]{s}
+  - [Cn: 欢迎来到我们的YouTube频道，专注于瑞士令人叹为观止的美景！]{g}
+
+  ---
+  - [En: Join us on enchanting journeys through the most picturesque destinations in this Alpine wonderland.]{s}
+  - [Cn: 加入我们，踏上穿越这片阿尔卑斯奇境中最美丽目的地的迷人旅程。]{g}
+
+  ---
+  - [En: Explore the charm of Mürren, the awe-inspiring Jungfrau: Top of Europe, the mesmerizing Lauterbrunnen Valley with its cascading waterfalls, the scenic Allmendhubel, the idyllic town of Spiez, the crystal-clear waters of Blausee, the serene Brienz, the alpine wonders of Kandersteg, the captivating Grindelwald, and the majestic Swiss Alps.]{s}
+  - [Cn: 探索穆伦的魅力、令人敬畏的少女峰：欧洲之巅、迷人的劳特布伦嫩谷及其瀑布、风景如画的奥尔门杜贝尔、田园诗般的斯皮茨镇、清澈见底的布劳西湖水、宁静的布里恩茨、坎德施泰格的高山奇观、迷人的格林德沃，以及雄伟的瑞士阿尔卑斯山。]{g}
+
+  ---
+  - [En: To our valued viewers, we extend our heartfelt gratitude for joining us on these adventures.]{s}
+  - [Cn: 我们衷心感谢亲爱的观众们加入我们的这些冒险。]{g}
+
+  ---
+  - [En: Your support means the world to us!]{s}
+  - [Cn: 你们的支持对我们意义重大！]{g}
+
+  ---
+  - [En: If you haven't already, please subscribe to our channel and hit the like button.]{s}
+  - [Cn: 如果你还没订阅，请订阅我们的频道并点赞。]{g}
+
+  ---
+  - [En: By doing so, you not only express your appreciation but also assist others in discovering the unparalleled beauty of Switzerland and relishing the wonders of its nature.]{s}
+  - [Cn: 这样做不仅表达了你的欣赏，也帮助他人发现瑞士无与伦比的美丽，享受其自然的奇观。]{g}
+
+  ---
+  - [Switzerland’s Paradise: Rainy Day in Heavenly Beautiful Swiss Villages Countryside瑞士的天堂：瑞士乡村美丽村庄的雨天 | Min: 03:07:45 | 001](https://www.youtube.com/watch?v=-kenx1rQyZo)
+  - [Life in Swiss Fairytale Villages on Rainy Day - Rain Ambience. Most Beautiful Villages Countryside | Min: 03:08:32 | 002](https://www.youtube.com/watch?v=kdEM2deZejQ)
+
+---
+### 0007. Ariannita la Gringa
 **[Ariannita la Gringa]{e}**
-* **[Ariannita la Gringa | 2.12M subscribers  | YTB](https://www.youtube.com/@ariannitalagringa)**
+* **[Ariannita la Gringa | 2.17M subscribers  | YTB](https://www.youtube.com/@ariannitalagringa)**
   - [Religious Vocabulary in English](https://www.youtube.com/watch?v=Ae8odmRJNu0)
   - [購物中心英語詞彙](https://www.youtube.com/watch?v=VFe7Ap1kfk0)
   - [Visiting an International Market](https://www.youtube.com/watch?v=3VP8OZyr87A)
@@ -513,6 +594,7 @@
     - [购物英语会话 English Conversations for Shopping | Min: 10:54 | 005](https://v.douyin.com/fT4ea5d6OTQ/)
 
 ---
+### 0008. Lana Blakely 书籍、独自旅行、复古发现和随声思考
 **[Lana Blakely]{e}**
 * **[Lana Blakely | 1.43M subscribers | YTB](https://www.youtube.com/@LanaBlakely/videos)**
 
@@ -557,6 +639,7 @@
   * **[30 Minutes of Daily English Conversations for Beginners (A2 Level) | Practice Listening and Speaking | 初学者每日英语会话30分钟（A2水平） | 练习听和说](https://www.youtube.com/watch?v=1lGynioT8B8)**
 
 ---
+### 0009. SciShow Kids
 **[SciShow Kids]{s}**
 * **[SciShow Kids | 1.68M subscribers | YTB](https://www.youtube.com/@SciShowKids/videos)**
 
@@ -588,8 +671,9 @@
   - [Cn: 《SciShow Kids》非常适合1至3年级的初小学儿童，大多数节目围绕下一代科学标准（NGSS）课程展开。]{g}
 
 ---
+### 0010. Dan Koe
 **[Dan Koe]{s}**
-* **[Dan Koe | 1.44M subscribers | YTB](https://www.youtube.com/@DanKoeTalks)**
+* **[Dan Koe | 1.45M subscribers | YTB](https://www.youtube.com/@DanKoeTalks)**
 
 * **[来点思考 | 超级个体→自我实现 人生中，万事万物都有答案  | 仟章 | Douyin](https://v.douyin.com/OkNpJEuLTEg/)**
   - [AI加速学习](https://v.douyin.com/dJUjAceOkEg/)
@@ -610,27 +694,36 @@
     * [Tibet 4K Cinematic Footage - Drone Nature Film With Epic Cinematic Music](https://www.youtube.com/watch?v=GyoOuUbXGyY)
 
 ---
-**[4kUrbanLife]{s}**
-* **[4kUrbanLife | 360K subscribers | YTB](https://www.youtube.com/@4kUrbanLife)**
-  - [4K Cities of The World: Krakow, Poland](https://www.youtube.com/watch?v=3CfLia_6TU0&list=PLQggNzW0_YA9OlYAoIS5Vp-gRp8kF3EcS)
-
----
+### 0011. The English Class
 **[The English Class]{s}**
 * **[The English Class | 471K subscribers | YTB](https://www.youtube.com/@TheEnglishClass2917)**
   - **[How to Speak English Fluently | 如何流利 地说英语](https://www.youtube.com/watch?v=dWmUsWorYh0)**
+
+---
+### 0011. Learn English Vlog
+**[Leah's English 莉雅老师]{e}**
+* **[Leah's English 莉雅老师 | 230K subscribers | YTB](https://www.youtube.com/@Leah%E7%9A%84%E5%B0%8F%E6%97%A5%E8%AE%B0/videos)**
+
+  - [En: Welcome! Let's learn some authentic English!]{s}
+  - [Cn: 欢迎大家跟我一起学习英语口语～]{g}
+
+  - [En: I'm an American English teacher with a degree in Linguistics and a TESOL teaching certificate. I also like to share my daily life.]{s}
+  - [Cn: 我是一名美国英语教师，拥有语言学学位和TESOL教师证书。我也喜欢分享我的日常生活。]{g}
+
+  - Business inquiries only: liya427447@gmail.com
+
+  - [En: This is my only channel on this platform!]{s}
+  - [Cn: 本平台本人只有这一个英语教学账号]{g}
+
+  ---
+  - [My experience as an American traveling in China！| 一个美国人在中国旅行的真实感受！](https://www.youtube.com/watch?v=yagAdzdxmvI)
+  - [How to become fluent in any language | 英语母语者也要背单词吗](https://www.youtube.com/watch?v=Qfnly99n1bY)
 
 ---
 **[Biubiu仔仔]{s}**
 * **[Biubiu仔仔 | 沉浸式练习英语口语 | 佰章 | Douyin](https://v.douyin.com/MUMd0LtI8WE/)**
   - [How to Speak English Fluently？](https://v.douyin.com/2bueQ6v6XVo/)
   - [How to Speak English Fluently？ Do you want to speak English fluently? Do you feel nervous when you try to speak? In this video, we will help you! We will teach you step by step, in very easy English. You will learn how to speak clearly, how to practice every day, and how to stop being afraid.]{g}
-
----
-**[Links TV]{s}**
-* **[Links TV  | 845K subscribers | YTB](https://www.youtube.com/@linksphotograph)**
-  - **[大西洋上只有300人的孤岛，却藏着地球最震撼的火山奇观松下！亚速尔群岛｜松下S1R2 ｜Linksphotograph](https://www.youtube.com/watch?v=1kCOblyiuxY)**
-
-* **[Linksphotograph | Bilibili](https://space.bilibili.com/3816626)**
 
 ---
 **[Tourist Walk Tours]{s}**
@@ -679,83 +772,6 @@
 
   ---
   - [The Most Charming Village on Lake Garda - Italy | Min: 52:29 | 003](https://www.youtube.com/watch?v=TFz7VTnJoeE)
-
----
-**[🇨🇭 SWISS - Most Beautiful Places & Walking Tours]{s}**
-* **[🇨🇭 SWISS - Most Beautiful Places & Walking Tours | 瑞士 | 102K subscribers subscribers | YTB](https://www.youtube.com/@SWISS_WalkingTours)**
-  - [Free web proxy to open blocked sites | TrickyBird](https://trickybird.com/)
-
-  - [En: Welcome to our YouTube channel dedicated to the breathtaking beauty of Switzerland!]{s}
-  - [Cn: 欢迎来到我们的YouTube频道，专注于瑞士令人叹为观止的美景！]{g}
-
-  ---
-  - [En: Join us on enchanting journeys through the most picturesque destinations in this Alpine wonderland.]{s}
-  - [Cn: 加入我们，踏上穿越这片阿尔卑斯奇境中最美丽目的地的迷人旅程。]{g}
-
-  ---
-  - [En: Explore the charm of Mürren, the awe-inspiring Jungfrau: Top of Europe, the mesmerizing Lauterbrunnen Valley with its cascading waterfalls, the scenic Allmendhubel, the idyllic town of Spiez, the crystal-clear waters of Blausee, the serene Brienz, the alpine wonders of Kandersteg, the captivating Grindelwald, and the majestic Swiss Alps.]{s}
-  - [Cn: 探索穆伦的魅力、令人敬畏的少女峰：欧洲之巅、迷人的劳特布伦嫩谷及其瀑布、风景如画的奥尔门杜贝尔、田园诗般的斯皮茨镇、清澈见底的布劳西湖水、宁静的布里恩茨、坎德施泰格的高山奇观、迷人的格林德沃，以及雄伟的瑞士阿尔卑斯山。]{g}
-
-  ---
-  - [En: To our valued viewers, we extend our heartfelt gratitude for joining us on these adventures.]{s}
-  - [Cn: 我们衷心感谢亲爱的观众们加入我们的这些冒险。]{g}
-
-  ---
-  - [En: Your support means the world to us!]{s}
-  - [Cn: 你们的支持对我们意义重大！]{g}
-
-  ---
-  - [En: If you haven't already, please subscribe to our channel and hit the like button.]{s}
-  - [Cn: 如果你还没订阅，请订阅我们的频道并点赞。]{g}
-
-  ---
-  - [En: By doing so, you not only express your appreciation but also assist others in discovering the unparalleled beauty of Switzerland and relishing the wonders of its nature.]{s}
-  - [Cn: 这样做不仅表达了你的欣赏，也帮助他人发现瑞士无与伦比的美丽，享受其自然的奇观。]{g}
-
-  ---
-  - [Switzerland’s Paradise: Rainy Day in Heavenly Beautiful Swiss Villages Countryside瑞士的天堂：瑞士乡村美丽村庄的雨天 | Min: 03:07:45 | 001](https://www.youtube.com/watch?v=-kenx1rQyZo)
-  - [Life in Swiss Fairytale Villages on Rainy Day - Rain Ambience. Most Beautiful Villages Countryside | Min: 03:08:32 | 002](https://www.youtube.com/watch?v=kdEM2deZejQ)
-
----
-**[SoulEase Space | Music]{s}**
-* **[SoulEase Space | 25.9K subscribers | 音乐 | YTB](https://www.youtube.com/@SoulEase_Space)**
-  - [En: Welcome to SoulEase Space—a serene place to unwind, soothe your soul, and find harmony. 🎹🌿]{s}
-  - [Cn: 欢迎来到SoulEase空间——一个宁静的地方，让你放松身心，抚慰心灵，找到和谐。🎹🌿]{g}
-
-  ---
-  - [En: Here, every piano note flows softly, like a whisper of serenity, guiding you to inner peace and clarity.]{s}
-  - [Cn: 这里，每一个钢琴音符都轻柔流淌，如同宁静的低语，引导你走向内心的平静与清晰。]{g}
-
-  ---
-  - [En: Let the soothing melodies help you drift off to deep sleep, focus easily, or simply unwind after a long day.]{s}
-  - [Cn: 让舒缓的旋律帮助你进入深度睡眠，轻松集中注意力，或在漫长一天后放松身心。]{g}
-
-  ---
-  - [En: Close your eyes, take a deep breath, and allow your soul to find peace in this tranquil space.]{s}
-  - [Cn: 闭上眼睛，深呼吸，让你的灵魂在这宁静的空间中找到平静。]{g}
-
-  ---
-  - [音乐疗法🌿 修复神经系统，停止过度思考 | 舒缓压力的放松音乐](https://www.youtube.com/watch?v=ecrL5FHBmFA)
-
----
-### 0004. Learn English Vlog
-**[Leah's English 莉雅老师]{e}**
-* **[Leah's English 莉雅老师 | 230K subscribers | YTB](https://www.youtube.com/@Leah%E7%9A%84%E5%B0%8F%E6%97%A5%E8%AE%B0/videos)**
-
-  - [En: Welcome! Let's learn some authentic English!]{s}
-  - [Cn: 欢迎大家跟我一起学习英语口语～]{g}
-
-  - [En: I'm an American English teacher with a degree in Linguistics and a TESOL teaching certificate. I also like to share my daily life.]{s}
-  - [Cn: 我是一名美国英语教师，拥有语言学学位和TESOL教师证书。我也喜欢分享我的日常生活。]{g}
-
-  - Business inquiries only: liya427447@gmail.com
-
-  - [En: This is my only channel on this platform!]{s}
-  - [Cn: 本平台本人只有这一个英语教学账号]{g}
-
-  ---
-  - [My experience as an American traveling in China！| 一个美国人在中国旅行的真实感受！](https://www.youtube.com/watch?v=yagAdzdxmvI)
-  - [How to become fluent in any language | 英语母语者也要背单词吗](https://www.youtube.com/watch?v=Qfnly99n1bY)
 
 ---
 **[Michelle Khare]{s}**
@@ -1321,36 +1337,7 @@
 **[Volka English]{s}**
 * **[Volka English | 0基础 | 初阶 | 内容风格非常一致，画质很好 | 1.37M subscribers |  YTB](https://www.youtube.com/@VolkaEnglish)**
 
----
-### 0005. Podcast 播客
-**[Coffee Break English]{s}**
-* **[Coffee Break English  | 248K subscribers | YTB](https://www.youtube.com/@coffeebreakenglish)**
 
-  - [En: Welcome to the Coffee Break English YouTube channel - start learning English on your coffee break!]{s}
-  - [Cn: 欢迎来到Coffee Break English频道——在你的咖啡休息时间开始学习英语吧！]{g}
-
-  ---
-  - [En: Hosted by experienced English teachers Mark and Josie, Coffee Break English is presented in slow English which is easy to understand.]{s}
-  - [Cn: 由经验丰富的英语教师Mark和Josie主持，《咖啡休息英语》以缓慢且易于理解的英语呈现。]{g}
-
-  ---
-  - [En: Join them as they help you to improve your accuracy and understanding of English, to prepare you for many situations like using English at work, visiting an English-speaking country, taking exams, or talking with English-speaking friends.]{s}
-  - [Cn: 加入他们，他们帮助你提高英语的准确性和理解力，为你在工作中使用英语、访问英语国家、参加考试或与英语朋友交流等多种场合做好准备。]{g}
-
-  ---
-  - [En: Our courses are designed to help you fit learning a language into your busy schedule; we want to make language learning the most enjoyable part of your day, so that you can turn your down time into your DO time!]{s}
-  - [Cn: 我们的课程旨在帮助您在繁忙的日程中安排学习语言;我们希望让学习语言成为您一天中最愉快的部分，这样您就可以把空闲时间变成真正的实践时间！]{g}
-
-  ---
-  - [En: If you want to learn more about the courses that we offer, head over to: https://coffeebreaklanguages.com/english/ Follow us on social media!]{s}
-  - [Cn: 如果您想了解更多我们提供的课程，请访问：https://coffeebreaklanguages.com/english/ 关注我们的社交媒体！]{g}
-
-  - [When to use 'do' and 'make' | The Coffee Break English Show 1.01](https://www.youtube.com/watch?v=55KmBR1hv4A)
-
----
-**[Coffee Break English · website]{s}**
-* **[Coffee Break English | 每集大约15分钟，为初学者和中级英语学习者设计](https://coffeebreaklanguages.com/english/)**
-  - [How to use 'get' in English](https://www.youtube.com/watch?v=1zw2pTZ9U_I&t=41s)
 
 ---
 **[TheCottageFairy]{e}**
@@ -1505,7 +1492,7 @@
   - [State of Research Funding Beyond NSF, Slingshots, Open Frontiers — Andy Konwinski, Laude Institute](https://www.youtube.com/watch?v=ZagdY6UJYL4)
 
 ---
-### 0006. 雅思 IELTS
+### 0012. 雅思 IELTS
 **[Learn English with EnglishClass101.com]{s}**
 * **[Learn English with EnglishClass101.com | English Teacher | 8.72M subscribers | YTB](https://www.youtube.com/@EnglishClass101/videos)**
 
@@ -1700,7 +1687,7 @@
   - [Cn: 订阅专家雅思辅导、顶级考试准备、经过验证的技巧和模拟考试！ https://www.youtube.com/@E2IELTS/?sub_confirmation=1]{g}
 
 ---
-### 0007. Church
+### 0013. Church
 **[2819 Church]{s}**
 * **[2819 Church | 1.91M subscribers | YTB](https://www.youtube.com/@2819Church)**
 
@@ -1722,41 +1709,7 @@
   - [NYE 2022 | All Things New | Matthew 28:18-20 | Philip Anthony Mitchell](https://www.youtube.com/watch?v=7R2fER5N7LI)
 
 ---
-### 0008. Music | YTB
-**[Taylor Swift]{e}**
-* **[Taylor Swift |  1.91M subscribers | YTB](https://www.youtube.com/@TaylorSwift/videos)**
-
-  - [En: And, baby, that’s show business for you.]{s}
-  - [Cn: 宝贝，这就是演艺圈的全部。]{g}
-
-  - [En: New album The Life of a Showgirl.]{s}
-  - [Cn: 新专辑《The Life of a Showgirl》。]{g}
-
-  - [En: Available now]{s}
-  - [Cn: 现已上线]{g}
-
-  ---
-  - [Just 11 days until the final show of The Eras Tour is all yours ](https://www.youtube.com/watch?v=fHjxp-rpUGw)
-  - [Taylor Swift - Father Figure](https://www.youtube.com/watch?v=98SmlWOKuME)
-  - [Taylor Swift - Mine](https://www.youtube.com/watch?v=oxNLRqMJMZk&list=OLAK5uy_n8xJHj0rL3zyol9oYHsVTBHm-L_eY-3gY)
-  - [Taylor Swift - New York University](https://www.youtube.com/watch?v=Q8NYdZYQsgY)
-  - [Taylor Swift - I Knew It, I Knew You (Piano Version) (Official Music Video)](https://www.youtube.com/watch?v=XwCWKSO0F8s)
-
----
-**[Eliott Tordo Erhu Player 二胡]{s}**
-* **[Eliott Tordo Erhu Player 二胡 | 480K subscribers | YTB](https://www.youtube.com/@EliottTordo_Erhu/videos)**
-  - [World of Warcraft covers | total: 22](https://www.youtube.com/watch?v=fkV9ThVvfLA&list=PLRJMyiugYfVJWxVSleW4cX0-BzUdnKhMx)
-  - [Avatar : The last Airbender | The Legend of Korra Erhu Covers by Eliott Tordo | total: 22](https://www.youtube.com/watch?v=v2A5aKW9lFg&list=PLRJMyiugYfVLOfWnKVMGid-VXEz7n6Uq0)
-  - [Erhu covers | total: 153](https://www.youtube.com/watch?v=cXJ8976qrMM&list=PLRJMyiugYfVJ7vNIiMdez-3E-YkblaXLy)
-  - [Naruto covers | total: 23](https://www.youtube.com/watch?v=cXJ8976qrMM&list=PLRJMyiugYfVK__D2gsAMg7auoErUqr0qH)
-
----
-**[The New York Times]{s}**
-* **[The New York Times | 5.27M subscribers | YTB](https://www.youtube.com/@nytimes/videos)**
-  - [Taylor Swift: The Stories Behind Her Biggest Songs (Exclusive Interview)](https://www.youtube.com/watch?v=5B8-TJ8vsKY)
-
----
-### 0009. 小元智谈 | Gather YTB
+### 0014. 小元智谈 | Gather YTB
 **[小元智谈]{s}**
 * **[小元智谈 | 每天听一听，提升自己 | 好书、TED、政策、前沿、生活 | 仟章 |  Douyin](https://v.douyin.com/LOyLVRhN5u0/)**
   - [大脑 | 人的一生 | 大脑重塑 | 预测人生](https://v.douyin.com/uMxs84mrK8c/)
@@ -1766,6 +1719,7 @@
   - [谈前沿：英伟达首席执行官黄仁勋对未来的愿景 本期聊聊英伟达首席执行官黄仁勋2025年1月的一次访谈：NVIDIA CEO Jensen Huang's Vision for the Future（英伟达首席执行官黄仁勋对未来的愿景）。访谈中讨论了NVIDIA在计算领域的开创性工作，特别关注了图形处理器（GPU）的发展及其对游戏、人工智能和机器人技术等不同行业的影响。黄仁勋阐述了NVIDIA通过CUDA平台实现的并行处理的演变，以及AI如何从根本上重塑计算和日常生活。他还分享了公司未来在物理AI、数字生物学和气候科学方面的愿景，强调了能源效率和AI可及性的重要性，并鼓励观众学习如何利用AI来提升个人和职业能力。]{g}
 
 ---
+### 0014. The Diary Of A CEO
 **[The Diary Of A CEO]{s}**
 * **[The Diary Of A CEO | 高阶 | 嘉宾行业大牛，内容知识含金量超高。主持人英国人 | 19.3M subscribers | YTB](https://www.youtube.com/@TheDiaryOfACEO)**
 
@@ -1809,6 +1763,7 @@
   * **[Humanity’s Real Plan to Stop This Asteroid (Feat. Mark Rober)](https://www.youtube.com/watch?v=LOn-mmezykQ)**
 
 ---
+### 0015. Dr. Arthur Brooks
 **[Dr. Arthur Brooks]{s}**
 * **[Dr. Arthur Brooks | 22.5万 | YTB](https://www.youtube.com/@drarthurbrooks)**
 
@@ -1827,6 +1782,7 @@
   - [The 3 Macronutrients of Happiness, and How to Measure Yours| 幸福的三大宏量营养素，以及如何衡量你的幸福](https://www.youtube.com/watch?v=6UAq3KAR2bc)
 
 ---
+### 0016. Veritasium
 **[Veritasium]{s}**
 * **[Veritasium | 科普 | 2040万 |  YTB](https://www.youtube.com/@veritasium)**
   - [An element of truth - videos about science, education, and anything else we find interesting.]{s}
@@ -1874,7 +1830,7 @@
   - [Elon Musk: A Different Conversation w/ Nikhil Kamath | Full Episode | People by WTF Ep.  埃隆·马斯克：与尼基尔·卡马斯的不同对话 | 完整剧集  | WTF Ep. 的《People by People》](https://www.youtube.com/watch?v=Rni7Fz7208c)
 
 ---
-### 0010. 英语学习日记 | Search YTB
+### 0017. 英语学习日记 | Search YTB
 **[LEIA英语]{s}**
 * **[LEIA英语 | 北师大硕士，多年教育经验 | 每日分享日常英语对话 | 五百章 | Douyin](https://v.douyin.com/J-8oISXP2eI/)**
   - [博主分享了做美甲的经历和即将参加的野餐活动的期待. | **YTB: Birta Hlin**](https://v.douyin.com/IIpbomrgTVo/)
@@ -1958,23 +1914,8 @@
   - [我们感觉一段关系，让我们不再快乐的时候，就是一段关系结束的时候 | **YTB: Lana Blakely**: 生活方式、人生体验、哲学思考、自我成长和社交话题讨论](https://v.douyin.com/yKQ1V1AlV2E/)
 
 ---
-**[Poetry Of Slow Life]{s}**
-* **[Poetry Of Slow Life | 217K subscribers | YTB](https://www.youtube.com/@IamDaria/videos)**
 
-  - [En: Hi, I'm Daria.]{s}
-  - [嗨，我是达莉娅。]{g}
 
-  ---
-  - [En: A daydreamer (also a filmmaker and photographer) living a quiet life in the English countryside.]{s}
-  - [一个爱做白日梦的人（同时也是电影制片人和摄影师），在英格兰乡村过着平静的生活。]{g}
-
-  ---
-  - [En: Welcome to my seasonal slow living country diaries!]{s}
-  - [欢迎来到我的季节性慢生活乡村日记！]{g}
-
-  ---
-  - **[Alone In An Off-Grid Cabin - A Complete Social Media Detox | Rainy slow days in English countryside | 独自一人在离网小屋——彻底社交媒体戒断 |英格兰乡村 的雨天缓慢](https://www.youtube.com/watch?v=jLj6zk-Vs5E)**
-  - **[Autumn in the mountains | Slow Travel In Scottish Highlands & Edinburgh | Cozy October Cabin Living | 山中的秋天 |慢速旅行 在苏格兰高地和爱丁堡 |温馨的十月小屋生活](https://www.youtube.com/watch?v=6rMFhIgBAn4)**
 
 ---
 **[Speak English With Vanessa]{e}**
@@ -2373,7 +2314,470 @@
     - **[Joe Dispenza: You've Been Programmed To Stay BROKE, STUCK & EXHAUSTED - Here's How To Break It! | 乔·迪斯彭扎：你被编程成永远破产、困顿且疲惫不堪—— 以下是如何打破它的方法！](https://www.youtube.com/watch?v=d7sUWwHugg8)**
 
 ---
-### 0011. Travel on the World | 环球旅行
+### 0018. Universe | 宇宙
+**[宇宙]{s}**
+
+| 中文        | 英语                      | 使用场景  |
+| --------- | ----------------------- | ----- |
+| 宇宙（整体）    | **universe**            | 科学、正式 |
+| 宇宙（宏大、诗意） | **cosmos**              | 文学、科普 |
+| 太空        | **space / outer space** | 日常、航天 |
+| 苍天        | **the heavens**         | 古典、宗教 |
+
+---
+**[NASA]{s}**
+* **[NASA | 15.1M subscribers | YTB](https://www.youtube.com/@NASA/featured)**
+
+  - [En: NASA's mission is to pioneer the future in space exploration, scientific discovery, and aeronautics research.]{s}
+  - [Cn: NASA的使命是开创太空探索、科学发现和航空研究的未来。]{g}
+
+  ---
+  - [En: To do that, we have worked around the world—and off it—for more than 60 years, searching for answers to fundamental questions about our place in the universe.]{s}
+  - [Cn: 为此，我们在全球及海外工作了60多年，寻找关于我们在宇宙中地位的根本问题的答案。]{g}
+
+  ---
+  - [En: We're exploring space and discovering Earth.]{s}
+  - [Cn: 我们在探索太空，发现地球。]{g}
+
+  ---
+  - [En: Join us on this exciting and important journey.]{s}
+  - [Cn: 加入我们，踏上这段激动人心且重要的旅程。]{g}
+
+  ---
+  - **[Step Inside the International Space Station (POV Tour) | 走进国际空间站（视角导览）](https://www.youtube.com/watch?v=nmBbcNTUkOg)**
+  - [Moonbound Episode 2 | For All Humanity](https://www.youtube.com/watch?v=ttiLcMUQq80)
+  - [Moonbound 第二集 For All Humanity 为了全人类 | Bilibili](https://www.bilibili.com/video/BV1yH6eBqEMh/?spm_id_from=333.337.search-card.all.click)
+  - [Agencywide Town Hall with NASA Administrator Jared Isaacman, Friday, Dec. 19, 2025](https://www.youtube.com/watch?v=WdQiPJ6KmRc)
+
+---
+### 0019. Books | YTB
+**[bestbookbits]{s}**
+* **[bestbookbits  | 86.7K subscribers | YTB](https://www.youtube.com/@BestBookBits/videos)**
+
+  - [En: WORLD'S LARGEST FREE BOOK SUMMARY WEBSITE bestbookbits.com with over 1,000 free video, written and audio book summaries.]{s}
+  - [Cn: 全球最大的免费书籍摘要网站 bestbookbits.com 拥有超过1000个免费视频、书面和有声书摘要。]{g}
+
+  ---
+  - [En: You can also browse and listen to our library of book summaries on Spotify, Google Podcast and Apple Podcast.]{s}
+  - [Cn: 你还可以浏览并收听我们在Spotify、Google Podcast和Apple Podcast上的书籍摘要库。]{g}
+
+  ---
+  - [En: Follow Bestbookbits on Instagram, Facebook and LinkedIn.]{s}
+  - [Cn: 关注Bestbookbits的Instagram、Facebook和LinkedIn。]{g}
+
+  ---
+  - **[Secrets of the Wealthy Seminar | Robert Kiyosaki | 富裕研讨会的秘密 |罗伯特·清崎](https://www.youtube.com/watch?v=s0IV9EGtpx8)**
+
+---
+**[Motivation Alchemists]{s}**
+* **[Motivation Alchemists 动机；理由；愿望 | 2.28万 | YTB](https://www.youtube.com/@Motivation-Alchemists/videos)**
+  - [En: Welcome to Motivation Alchemists, where we are dedicated to your personal development and success!]{s}
+  - [Cn: 欢迎来到Motivation Alchemists，我们致力于您的个人发展与成功！]{g}
+
+  ---
+  - [En: You've just stumbled upon a rich source of life-changing content.]{s}
+  - [Cn: 你刚刚发现了一个丰富且改变人生的内容来源。]{g}
+
+  ---
+  - [En: We are your go-to destination for motivational and inspirational videos featuring the profound teachings of Jim Rohn, Brian Tracy, and Earl Nightingale.]{s}
+  - [Cn: 我们是获取吉姆·罗恩、布莱恩·特雷西和厄尔·南丁格尔深刻教导的励志和励志视频的首选。]{g}
+
+  ---
+  - [En: Our goal is to inspire you, motivate you, and empower you to become the best version of yourself.]{s}
+  - [Cn: 我们的目标是激励你、激励你，并赋能你成为最好的自己。]{g}
+
+  ---
+  - [En: Whether you're striving for personal growth, career success, effective time management, or mastery in goal-setting, Motivation Alchemists is your key tool.]{s}
+  - [Cn: 无论你是在追求个人成长、职业成功、有效的时间管理，还是精通目标设定，Motivation Alchemists 都是你的关键工具。]{g}
+
+  ---
+  - [En: Join us on this transformative journey as we share the wisdom that has personally touched our hearts and changed our lives.]{s}
+  - [Cn: 加入我们，踏上这段变革之旅，分享那些触动我们心灵、改变我们生活的智慧。]{g}
+
+  ---
+  - [En: arsus9]{s}
+  - [Cn: 阿尔苏斯9]{g}
+
+  ---
+  - **[Jim Rohn Life Lesson: The 7 Fundamentals Of Success | Jim Rohn Motivational Video 2024 | 吉姆·罗恩人生课题：成功的七大基本原理 |吉姆·罗恩2024年励志视频](https://www.youtube.com/watch?v=YXN72-14dJQ)**
+
+---
+### 0020. House
+**[Forlorn]{s}**
+* **[Forlorn | 影子是我唯一敢麻烦的同行者 | 叁佰章 | Douyin](https://v.douyin.com/3rpSVn56nQY/)**
+  - [当美剧里的幸福小镇照进现实 | inmyfeelings](https://v.douyin.com/dtZdvS65Bro/)
+  - [当美剧里的幸福小镇照进现实 | 美国 | 纽约 | inmyfeelings](https://v.douyin.com/wXLRO76doKo/)
+  - [当你来到加州，和朋友开着车一起吹晚风看日落 | 加州 | inmyfeelings](https://v.douyin.com/0RTlA6kc7SY/)
+  - [这种氛围太适合散步了 | 美国 | 纽约 | inmyfeelings](https://v.douyin.com/O8sOTywwXrg/)
+
+---
+### 0021. AI | 虚拟主播
+**[Neuro-sama]{s}**
+* **[Neuro-sama | neuro-sama (neurosama) the ai vtuber | Neuro-sama（Neurosama），AI 虚拟主播 | 914K subscribers | YTB](https://www.youtube.com/@Neurosama/videos)**
+  - [Testing Neuro's 3D Capabilities | 测试Neuro的3D功能](https://www.youtube.com/watch?v=MiF3JiVCwkk)
+
+---
+### 0022. Coding
+**[Visually Explained]{s}**
+* **[Visually Explained | 直观地解释 | 118K subscribers | YTB](https://www.youtube.com/@VisuallyExplainedEducation/videos)**
+  - [Python Decorators - Visually Explained](https://www.youtube.com/watch?v=3tyaO-OE0K0)
+
+---
+### 0023. 学爸加加油
+**[学爸加加油]{s}**
+* **[学爸加加油](https://xuebajiajiayou.com)**
+  - [英文科普，YTB频道推荐(科普/教育/工程/奇趣/自然/手工等)](https://xuebajiajiayou.com/english-science-popularization-youtube-channel/)
+    * [Free web proxy to open blocked sites | TrickyBird](https://trickybird.com/)
+
+    ---
+    **[001. 泛科普类]{g}**
+      - [001. Kurzgesagt - In a Nutshell | 25.7M subscribers | YTB](https://www.youtube.com/@kurzgesagt/videos)
+
+      ---
+      - [002. Science Channel | 5.38M subscribers | YTB](https://www.youtube.com/@sciencechannel/videos)
+
+      ---
+      - [003. minutephysics | 5.99M subscribers | YTB](https://www.youtube.com/@MinutePhysics/videos)
+
+      ---
+      - [004. TED-Ed | 23M subscribers | YTB](https://www.youtube.com/@TEDEd/videos)
+
+      ---
+      - [005. Domain of Science | 1.67M subscribers | YTB](https://www.youtube.com/@DomainofScience/videos)
+
+      ---
+      - [006. Peekaboo Kidz | 7.87M subscribers | YTB](https://www.youtube.com/@Peekaboo_Kidz/videos)
+
+      ---
+      - [007. VideoFromSpace | 2.15M subscribers | YTB](https://www.youtube.com/@VideoFromSpace/videos)
+
+    ---
+    **[002. 在家上学类(Homeschooling)]{g}**
+      - [001. Free School | 903K subscribers | YTB](https://www.youtube.com/@freeschool/videos)
+
+      ---
+      - [002. Homeschool Pop | 1.75M subscribers | YTB](https://www.youtube.com/@HomeschoolPop/videos)
+
+      ---
+      - [003. CrashCourse | 17.2M subscribers | YTB](https://www.youtube.com/@crashcourse/videos)
+
+      ---
+      - [004. Learn Bright | 1M subscribers | YTB](https://www.youtube.com/@LearnBright/videos)
+
+    ---
+    **[003. 工程机械、工作原理类]{g}**
+      - [001. Jared Owen | 4.44M subscribers | YTB](https://www.youtube.com/@JaredOwen/videos)
+
+      ---
+      - [002. Sabin Civil Engineering | 6.97M subscribers | YTB](https://www.youtube.com/@SabinCivil/videos)
+        * [Railway power lines | The Art of keeping them STRAIGHT](https://www.youtube.com/watch?v=8MCfWPpJhXM&list=PLISEtDmihMo3LTrcJ4TUSwhoMKawp2RNz)
+        * [Lesics (full playlist)](https://www.youtube.com/playlist?list=PLISEtDmihMo3LTrcJ4TUSwhoMKawp2RNz)
+
+      ---
+      - [003. Art of Engineering | 259K subscribers | YTB](https://www.youtube.com/@ArtofEngineering/videos)
+
+      ---
+      - [004. Animagraffs | 1.94M subscribers | YTB](https://www.youtube.com/@animagraffs/videos)
+
+      ---
+      - [005. Branch Education | Branch Education | YTB](https://www.youtube.com/@BranchEducation/videos)
+
+    ---
+    **[004. 奇闻逸趣类]{g}**
+      - [001. Bright side | 44.5M subscribers | YTB](https://www.youtube.com/@BRIGHTSIDEOFFICIAL/videos)
+
+      ---
+      - [002. BE AMAZED | 13.5M subscribers | YTB](https://www.youtube.com/@BeAmazed/videos)
+
+    ---
+    **[005. 人文历史类]{g}**
+      - [001. Knowledgia | 2.2M subscribers | YTB](https://www.youtube.com/@Knowledgia/videos)
+
+      ---
+      - [002. The Great War  | 1.89M subscribers | YTB](https://www.youtube.com/@TheGreatWar/videos)
+
+      ---
+      - [003. Mytholoy & Fiction Explained | 1.55M subscribers | YTB](https://www.youtube.com/@MythologyFictionExplained/videos)
+
+      ---
+      - [004. History on Maps | 417K subscribers | YTB](https://www.youtube.com/@historyonmaps/videos)
+
+    ---
+    **[006. 动植物自然类]{g}**
+      - [001. Nat Geo Kids | 2.07M subscribers | YTB](https://www.youtube.com/@natgeokids/videos)
+
+      ---
+      - [002. BBC Earth | 14.6M subscribers | YTB](https://www.youtube.com/@bbcearth/videos)
+
+      ---
+      - [003. Brave Wilderness | 21.8M subscribers | YTB](https://www.youtube.com/@BraveWilderness/videos)
+
+    ---
+    **[007. 少儿新闻类]{g}**
+      - [001. NBC News | 12.2M subscribers | YTB](https://www.youtube.com/@NBCNews/videos)
+
+      ---
+      - [002. BBC Newsround | 164K subscribers | YTB](https://www.youtube.com/@BBCNewsroundOfficial/videos)
+
+      ---
+      1. **NBC News (Nightly News: Kids Edition)**
+
+    ---
+    **[008. 手动制作类]{g}**
+      - [001. 5-Minute Crafts PLAY | 19.9M subscribers | YTB](https://www.youtube.com/@5MinuteCraftsPLAY/videos)
+
+      ---
+      - [002. Art for Kids Hub | 10.6M subscribers | YTB](https://www.youtube.com/@artforkidshub/videos)
+
+      ---
+      - [003. Brick Builder(乐高) | 2.83M subscribers | YTB](https://www.youtube.com/@brickbuilder23/videos)
+
+    ---
+    **[009. Minecraft]{g}**
+      - [001. Funny Mikey | 14.5M subscribers | YTB](https://www.youtube.com/@FunnyMike225/videos)
+
+      ---
+      - [002. Maizen | 17.8M subscribers | YTB](https://www.youtube.com/@maizenofficial/videos)
+
+      ---
+      - [003. LockDownLife | 2.46M subscribers | YTB](https://www.youtube.com/@LockDownLife/videos)
+
+---
+**[泛科普类]{s}**
+* **[Kurzgesagt – In a Nutshell | 25.7M subscribers | YTB](https://www.youtube.com/@kurzgesagt/videos)**
+  - [En: Animation videos explaining things with optimistic nihilism since 12,013.]{s}
+  - [Cn: 自12,013年以来，动画视频以乐观虚无主义的方式解释事物。]{g}
+
+  ---
+  - [En: We’re a team of illustrators, animators, number crunchers and one dog who aim to spark curiosity about science and the world we live in.]{s}
+  - [Cn: 我们是一支由插画师、动画师、数字计算者和一只狗组成的团队，旨在激发人们对科学和我们所处世界的好奇心。]{g}
+
+  ---
+  - [En: To us nothing is boring if you tell a good story.]{s}
+  - [Cn: 对我们来说，只要讲好故事，什么都不会无聊。]{g}
+
+  ---
+  - [En: For updates on our videos and other news from the kurzgesagt universe follow us on Twitter, Facebook, Instagram and LinkedIn.]{s}
+  - [Cn: 想了解我们的视频更新以及kurzgesagt宇宙的其他新闻，请关注我们的Twitter、Facebook、Instagram和LinkedIn]{g}
+
+  ---
+  - [Tree Are So Weird | 树木真奇怪](https://www.youtube.com/watch?v=ZSch_NgZpQs)
+  - [Why Earth Sucks Compared to the Planet Hestia | 为什么地球比赫斯提亚星球糟糕](https://www.youtube.com/watch?v=8qQW4LTWgtc)
+  - [Brilliant](https://www.brilliant.org/nutshell)
+  - [Why Earth Sucks Compared to the Planet Hestia](https://www.youtube.com/watch?v=8qQW4LTWgtc)
+
+---
+**[Science Channel]{s}**
+* **[Science Channel | 5.37M subscribers | YTB](https://www.youtube.com/@sciencechannel/videos)**
+  - [En: Learn about outer space, leading scientific exploration, new technology, earth science basics, & more with science videos & news from Science Channel.]{s}
+  - [Cn: 通过科学视频和新闻，了解外太空、领先的科学探索、新技术、地球科学基础等内容。]{g}
+
+---
+**[minutephysics]{s}**
+* **[minutephysics | 5.98M subscribers | YTB](https://www.youtube.com/@MinutePhysics/videos)**
+
+  - [En: Simply put: cool physics and other sweet science.]{s}
+  - [Cn: 简单来说：很酷的物理学和其他精彩的科学。]{g}
+
+  ---
+  - [En: "If you can't explain it simply, you don't understand it well enough.]{s}
+  - [Cn: "如果你连简单解释都说不清楚，那你还不够了解."]{g}
+
+  ---
+  - [En: ~Rutherford via Einstein?]{s}
+  - [Cn: ~拉瑟福经爱因斯坦？]{g}
+
+  ---
+  - [En: (wikiquote) Created by Henry Reich]{s}
+  - [Cn: (维基语录) 由亨利·赖希创作]{g}
+
+---
+### 0024. 小道必可观(YTB)
+**[小道必可观(YTB)]{s}**
+* **[小道必可观(YTB) | 关注我外网热门视频一网打尽，我的知识不够，你的评论来凑。| 仟章 | Douyin](https://v.douyin.com/WdfoxIT8Wm4/)**
+
+  ---
+  **[001. 老外说中国]{g}**
+    - [美国记者：中国已成全球顶流！美国年轻人正经历中国化转型？ | YTB博主: @jessicaburbankshow 粉丝数量: 2.8万 视频标题: China Is the Global It-Girl Now 发布日期: 2026/01/20 观看次数: 7,843 点赞数量: 811 评论总数: 303 | 001](https://v.douyin.com/JF_IwNNgGy8/)
+    - [英国妹子初到上海激动到失语：当了十几年电脑壁纸，圆梦魔都 | YTB博主: @by.rheashanika 粉丝数量: 4.3万 | 060](https://v.douyin.com/gk-ioWG-SRs/)
+    - [英国老哥：为啥中国没有零元购？YTB评论区回复绝了！ | YTB博主: @tobylifecycles 粉丝数量: 210 | 021](https://v.douyin.com/ezFPPWLdu0s/)
+
+  ---
+  **[002. 老外看中国]{g}**
+    - [内蒙人怎么看外蒙？韩国博主实地访谈，答案让韩国网友吵翻了 YTB博主: @연포물개 粉丝数量: 4.6万 视频标题: 내몽골 사람들의 몽골에 대한 솔직한 이야기 发布日期: 2026/01/04 观看次数: 1.6万 点赞数量: 907 评论总数: 94 | 001](https://v.douyin.com/XMrs3qNyysI/)
+    - [日本酒鬼妹子初到北京，中国很危险？我在凌晨街头喝醉 YTB博主: @yukke_sakamura 粉丝数量: 109万 | 073](https://v.douyin.com/sqxzKjH8i9s/)
+
+---
+**[Jessica Burbank]{s}**
+* **[Jessica Burbank | 42.1K subscribers | YTB](https://www.youtube.com/@JessicaBurbankShow/videos)**
+  - Working class kid who spends her days fighting for better days. | 一个工人阶级的孩子，整天为更好的日子而战。
+  - [China Is the Global It-Girl Now | 中国现在是全球的"潮人"](https://www.youtube.com/watch?v=hAM3QABIGFQ)
+
+---
+### 0025. YTB && B站
+**[Caro Kowanz English]{e}**
+* **[Caro Kowanz English | 4.27M subscribers | YTB](https://www.youtube.com/@carokowanzenglish/shorts)**
+  - **[1 Hour of English conversations](http://youtube.com/watch?v=JEE6s4RyaX8)**
+
+---
+**[iayah]{e}**
+* **[inayah | 328K subscribers | YTB](https://www.youtube.com/@inayah0/videos)**
+
+---
+**[Nischa]{s}**
+* **[Nischa | 2.25M subscribers | YTB](https://www.youtube.com/@nischa/videos)**
+  - [En: I’m a former Investment Banker (with an accountancy qualification) and on this channel we explore all things personal finance, self development and business.]{s}
+  - [Cn: 我曾是一名投资银行家（拥有会计学资格），在这个频道中我们探讨所有关于个人理财、自我发展和商业的话题。]{g}
+
+---
+**[pearlieee]{e}**
+* **[pearlieee | 637K subscribers | YTB](https://www.youtube.com/@pearlieee/videos)**
+
+  - [En: Hi, I'm Pearlieee!]{s}
+  - [Cn: 嗨，我是Pearlieee！]{g}
+
+  ---
+  - [En: I’m a wild bird and a passionate babe.]{s}
+  - [Cn: 我是一只野鸟，也是个充满激情的美女。]{g}
+
+  ---
+  - [En: This is a space for thinkers, feelers, and anyone brave enough to become.]{s}
+  - [Cn: 这是一个为思考者、感受者以及任何勇敢成为思考者的空间。]{g}
+
+  ---
+  - [En: Expect magic, nuance, chaos… and loving bluntness x]{s}
+  - [Cn: 期待魔法、细腻、混乱......还有充满爱意的直率 x]{g}
+
+---
+**[BigDeal by Codie Sanchez]{e}**
+* **[BigDeal by Codie Sanchez | 707K subscribers | YTB](https://www.youtube.com/@PodcastBigDeal/videos)**
+
+  - [En: 71% of you beautiful people aren’t subscribed -- please double check you're subbed, we are here to help you!]{s}
+  - [Cn: 71%的美丽人士没有订阅——请再次确认你已订阅，我们随时准备帮助你！]{g}
+
+  ---
+  - [En: All signal.]{s}
+  - [Cn: 所有信号。]{g}
+
+  ---
+  - [En: No noise.]{s}
+  - [Cn: 没有声音。]{g}
+
+  ---
+  - [En: This channel is about helping you grow and win in life.]{s}
+  - [Cn: 这个频道旨在帮助你成长和赢得人生。]{g}
+
+  ---
+  - [En: My plan is to bring you a no-nonsense playbook real builders use to build wealth, understand the world, create movements, and change your life.]{s}
+  - [Cn: 我的计划是为你带来一套真实建筑师用来积累财富、理解世界、创造运动并改变生活的关键实用手册。]{g}
+
+  ---
+  - [En: BigDeal by Codie Sanchez explores the real stories and hard-won lessons of entrepreneurs, builders, and creators.]{s}
+  - [Cn: Codie Sanchez的《BigDeal》探讨了企业家、建设者和创作者的真实故事和艰难获得的教训。]{g}
+
+  ---
+  - [En: A founder and CEO herself, host Codie Sanchez draws on her experience as an investor, award-winning journalist and best-selling author to lead conversations that celebrate the highs and humanize the lows of the builder’s journey.]{s}
+  - [Cn: 作为创始人兼首席执行官，主持人科迪·桑切斯凭借她作为投资者、获奖记者和畅销书作家的经验，引领对话，庆祝建设者旅程中的高峰，同时展现人性化的低谷。]{g}
+
+  ---
+  - [En: We are here, obsessed every single day, on how to make your life better.]{s}
+  - [Cn: 我们每天都在这里，痴迷于如何让你的生活变得更好。]{g}
+
+---
+**[Dwarkesh Patel]{s}**
+* **[Dwarkesh Patel | 1.4M subscribers | YTB](https://www.youtube.com/@DwarkeshPatel/videos)**
+  - **[Jensen Huang – Will Nvidia’s moat persist | 黄仁森——英伟达的护城河会持续](https://www.youtube.com/watch?v=Hrbq66XqtCo)**
+
+---
+### 0026. 广告片
+**[Adobe Acrobat]{s}**
+* **[Adobe Acrobat | 56.9K subscribers | YTB](https://www.youtube.com/@AdobeAcrobat/videos)**
+  - [En: The PDF tools you trust, now enhanced with AI.]{s}
+  - [Cn: 您信赖的PDF工具，现在已经过AI增强。]{g}
+
+  ---
+  - [En: Adobe Acrobat gives you everything you need to move work faster, smarter, and all in one AI-powered workspace.]{s}
+  - [Cn: Adobe Acrobat 为你提供所有需要的，让你在一个由 AI 驱动的工作区中实现工作移动，更快、更智能。]{g}
+
+  ---
+  - [En: From creating and editing to sharing and e-signing, Acrobat helps you handle documents like a pro, whether you're at your desk or on-the-go.]{s}
+  - [Cn: 从创建、编辑到分享和电子签名，Acrobat 帮助您像专业人士一样处理文档，无论你是在办公桌前还是外出时。]{g}
+
+  ---
+  - [En: Scan it.]{s}
+  - [Cn: 扫描它。]{g}
+
+  ---
+  - [En: Edit it.]{s}
+  - [Cn: 编辑一下。]{g}
+
+  ---
+  - [En: Send it.]{s}
+  - [Cn: 发吧。]{g}
+
+  ---
+  - [En: Sign it.]{s}
+  - [Cn: 签字。]{g}
+
+  ---
+  - [En: All powered by AI.]{s}
+  - [Cn: 全部由人工智能驱动。]{g}
+
+  ---
+  - [En: Turn messy workflows into seamless ones and ideas into action.]{s}
+  - [Cn: 全部由人工智能驱动。 Turn混乱的工作流程转为无缝的流程，将想法转化为行动。]{g}
+
+  ---
+  - [En: With tools like Adobe Acrobat, Acrobat Sign, Adobe Scan, and Reader, plus built-in cloud storage and integrations with the apps you already use, your documents go wherever work happens.]{s}
+  - [Cn: 借助Adobe Acrobat、Acrobat Sign、Adobe Scan和Reader等工具，以及内置云存储和与你已使用应用的集成，你的文档无论工作地点都能随之流放。]{g}
+
+  ---
+  - [En: Less friction.]{s}
+  - [Cn: 摩擦更少。]{g}
+
+  ---
+  - [En: More doing.]{s}
+  - [Cn: 还有更多事情要做。]{g}
+
+  ---
+  - [En: Do that with Acrobat.]{s}
+  - [Cn: 用Acrobat来做这件事。]{g}
+
+  ---
+  - **[The Marketers S2 E4: Launching the Next Greatest Ever Campaign |《营销人员》第二季第四集：启动下一个最伟大的活动](https://www.youtube.com/watch?v=fxq2_4GiJPw)**
+
+---
+### 0027. Travel the world
+**[National Geographic]{s}**
+* **[National Geographic | 26.5M subscribers | YTB](https://www.youtube.com/@NatGeo/videos)**
+  - **[Antarctica: Home at the End of the Earth (Full Episode) | Incredible Animal Journeys | 南极：地球尽头的家（完整版）| 不可思议的动物之旅](https://www.youtube.com/watch?v=eS6a6btDK8M)**
+
+---
+**[Dots on a Map]{s}**
+* **[Dots on a Map | 224K subscribers | YTB](https://www.youtube.com/@DotsonaMap/videos)**
+  - **[TRAVELING TO ANTARCTICA](https://www.youtube.com/watch?v=RhVN3COuXdQ)**
+
+---
+**[Best Travel]{s}**
+* **[Best Travel | 112K subscribers | YTB](https://www.youtube.com/@BestTravel2/videos)**
+  - **[Living in the Philippines | How People Live Across 7,000 Islands | 4K ](https://www.youtube.com/watch?v=0gB1P1g5IwE)**
+
+---
+**[Where on Earth]{s}**
+* **[Where on Earth | 62.9K subscribers | YTB](https://www.youtube.com/@WhereonEarth4K/videos)**
+  - **[BALI: The Real Indonesia Most Tourists Never Find | 4K Travel Documentary | 巴厘岛：大多数游客永远找不到的真实印度尼西亚 |4K旅行纪录片](https://www.youtube.com/watch?v=12AI0Mg-Ajo)**
+
+---
+**[Allison Anderson]{s}**
+* **[Allison Anderson | 1.06M subscribers | YTB](https://www.youtube.com/@allisonanderson/videos)**
+
+  ---
+  **[Personal website]{s}**
+    - **[Personal website](https://allisonanderson.com/)**
+
+  - **[My Solo Trip to Antarctica](https://www.youtube.com/watch?v=EDap9qxb96k)**
+
+---
 **[DJI]{s}**
 * **[DJI | 大疆 | 6.52M subscribers | YTB](https://www.youtube.com/@DJI/videos)**
 
@@ -2588,471 +2992,7 @@
   - **[Discover Kawagoe: Day Trip to ‘Old Tokyo’ | 探索川越："老东京"一日游](https://www.youtube.com/watch?v=uuWL-mXLF7k)**
 
 ---
-### 0012. Universe | 宇宙
-**[宇宙]{s}**
-
-| 中文        | 英语                      | 使用场景  |
-| --------- | ----------------------- | ----- |
-| 宇宙（整体）    | **universe**            | 科学、正式 |
-| 宇宙（宏大、诗意） | **cosmos**              | 文学、科普 |
-| 太空        | **space / outer space** | 日常、航天 |
-| 苍天        | **the heavens**         | 古典、宗教 |
-
----
-**[NASA]{s}**
-* **[NASA | 15.1M subscribers | YTB](https://www.youtube.com/@NASA/featured)**
-
-  - [En: NASA's mission is to pioneer the future in space exploration, scientific discovery, and aeronautics research.]{s}
-  - [Cn: NASA的使命是开创太空探索、科学发现和航空研究的未来。]{g}
-
-  ---
-  - [En: To do that, we have worked around the world—and off it—for more than 60 years, searching for answers to fundamental questions about our place in the universe.]{s}
-  - [Cn: 为此，我们在全球及海外工作了60多年，寻找关于我们在宇宙中地位的根本问题的答案。]{g}
-
-  ---
-  - [En: We're exploring space and discovering Earth.]{s}
-  - [Cn: 我们在探索太空，发现地球。]{g}
-
-  ---
-  - [En: Join us on this exciting and important journey.]{s}
-  - [Cn: 加入我们，踏上这段激动人心且重要的旅程。]{g}
-
-  ---
-  - **[Step Inside the International Space Station (POV Tour) | 走进国际空间站（视角导览）](https://www.youtube.com/watch?v=nmBbcNTUkOg)**
-  - [Moonbound Episode 2 | For All Humanity](https://www.youtube.com/watch?v=ttiLcMUQq80)
-  - [Moonbound 第二集 For All Humanity 为了全人类 | Bilibili](https://www.bilibili.com/video/BV1yH6eBqEMh/?spm_id_from=333.337.search-card.all.click)
-  - [Agencywide Town Hall with NASA Administrator Jared Isaacman, Friday, Dec. 19, 2025](https://www.youtube.com/watch?v=WdQiPJ6KmRc)
-
----
-### 0013. Books | YTB
-**[bestbookbits]{s}**
-* **[bestbookbits  | 86.7K subscribers | YTB](https://www.youtube.com/@BestBookBits/videos)**
-
-  - [En: WORLD'S LARGEST FREE BOOK SUMMARY WEBSITE bestbookbits.com with over 1,000 free video, written and audio book summaries.]{s}
-  - [Cn: 全球最大的免费书籍摘要网站 bestbookbits.com 拥有超过1000个免费视频、书面和有声书摘要。]{g}
-
-  ---
-  - [En: You can also browse and listen to our library of book summaries on Spotify, Google Podcast and Apple Podcast.]{s}
-  - [Cn: 你还可以浏览并收听我们在Spotify、Google Podcast和Apple Podcast上的书籍摘要库。]{g}
-
-  ---
-  - [En: Follow Bestbookbits on Instagram, Facebook and LinkedIn.]{s}
-  - [Cn: 关注Bestbookbits的Instagram、Facebook和LinkedIn。]{g}
-
-  ---
-  - **[Secrets of the Wealthy Seminar | Robert Kiyosaki | 富裕研讨会的秘密 |罗伯特·清崎](https://www.youtube.com/watch?v=s0IV9EGtpx8)**
-
----
-**[Motivation Alchemists]{s}**
-* **[Motivation Alchemists 动机；理由；愿望 | 2.28万 | YTB](https://www.youtube.com/@Motivation-Alchemists/videos)**
-  - [En: Welcome to Motivation Alchemists, where we are dedicated to your personal development and success!]{s}
-  - [Cn: 欢迎来到Motivation Alchemists，我们致力于您的个人发展与成功！]{g}
-
-  ---
-  - [En: You've just stumbled upon a rich source of life-changing content.]{s}
-  - [Cn: 你刚刚发现了一个丰富且改变人生的内容来源。]{g}
-
-  ---
-  - [En: We are your go-to destination for motivational and inspirational videos featuring the profound teachings of Jim Rohn, Brian Tracy, and Earl Nightingale.]{s}
-  - [Cn: 我们是获取吉姆·罗恩、布莱恩·特雷西和厄尔·南丁格尔深刻教导的励志和励志视频的首选。]{g}
-
-  ---
-  - [En: Our goal is to inspire you, motivate you, and empower you to become the best version of yourself.]{s}
-  - [Cn: 我们的目标是激励你、激励你，并赋能你成为最好的自己。]{g}
-
-  ---
-  - [En: Whether you're striving for personal growth, career success, effective time management, or mastery in goal-setting, Motivation Alchemists is your key tool.]{s}
-  - [Cn: 无论你是在追求个人成长、职业成功、有效的时间管理，还是精通目标设定，Motivation Alchemists 都是你的关键工具。]{g}
-
-  ---
-  - [En: Join us on this transformative journey as we share the wisdom that has personally touched our hearts and changed our lives.]{s}
-  - [Cn: 加入我们，踏上这段变革之旅，分享那些触动我们心灵、改变我们生活的智慧。]{g}
-
-  ---
-  - [En: arsus9]{s}
-  - [Cn: 阿尔苏斯9]{g}
-
-  ---
-  - **[Jim Rohn Life Lesson: The 7 Fundamentals Of Success | Jim Rohn Motivational Video 2024 | 吉姆·罗恩人生课题：成功的七大基本原理 |吉姆·罗恩2024年励志视频](https://www.youtube.com/watch?v=YXN72-14dJQ)**
-
----
-### 0014. House
-**[Forlorn]{s}**
-* **[Forlorn | 影子是我唯一敢麻烦的同行者 | 叁佰章 | Douyin](https://v.douyin.com/3rpSVn56nQY/)**
-  - [当美剧里的幸福小镇照进现实 | inmyfeelings](https://v.douyin.com/dtZdvS65Bro/)
-  - [当美剧里的幸福小镇照进现实 | 美国 | 纽约 | inmyfeelings](https://v.douyin.com/wXLRO76doKo/)
-  - [当你来到加州，和朋友开着车一起吹晚风看日落 | 加州 | inmyfeelings](https://v.douyin.com/0RTlA6kc7SY/)
-  - [这种氛围太适合散步了 | 美国 | 纽约 | inmyfeelings](https://v.douyin.com/O8sOTywwXrg/)
-
----
-### 0015. AI | 虚拟主播
-**[Neuro-sama]{s}**
-* **[Neuro-sama | neuro-sama (neurosama) the ai vtuber | Neuro-sama（Neurosama），AI 虚拟主播 | 914K subscribers | YTB](https://www.youtube.com/@Neurosama/videos)**
-  - [Testing Neuro's 3D Capabilities | 测试Neuro的3D功能](https://www.youtube.com/watch?v=MiF3JiVCwkk)
-
----
-### 0016. Coding
-**[Visually Explained]{s}**
-* **[Visually Explained | 直观地解释 | 118K subscribers | YTB](https://www.youtube.com/@VisuallyExplainedEducation/videos)**
-  - [Python Decorators - Visually Explained](https://www.youtube.com/watch?v=3tyaO-OE0K0)
-
----
-### 0017. 学爸加加油
-**[学爸加加油]{s}**
-* **[学爸加加油](https://xuebajiajiayou.com)**
-  - [英文科普，YTB频道推荐(科普/教育/工程/奇趣/自然/手工等)](https://xuebajiajiayou.com/english-science-popularization-youtube-channel/)
-    * [Free web proxy to open blocked sites | TrickyBird](https://trickybird.com/)
-
-    ---
-    **[001. 泛科普类]{g}**
-      - [001. Kurzgesagt - In a Nutshell | 25.7M subscribers | YTB](https://www.youtube.com/@kurzgesagt/videos)
-
-      ---
-      - [002. Science Channel | 5.38M subscribers | YTB](https://www.youtube.com/@sciencechannel/videos)
-
-      ---
-      - [003. minutephysics | 5.99M subscribers | YTB](https://www.youtube.com/@MinutePhysics/videos)
-
-      ---
-      - [004. TED-Ed | 23M subscribers | YTB](https://www.youtube.com/@TEDEd/videos)
-
-      ---
-      - [005. Domain of Science | 1.67M subscribers | YTB](https://www.youtube.com/@DomainofScience/videos)
-
-      ---
-      - [006. Peekaboo Kidz | 7.87M subscribers | YTB](https://www.youtube.com/@Peekaboo_Kidz/videos)
-
-      ---
-      - [007. VideoFromSpace | 2.15M subscribers | YTB](https://www.youtube.com/@VideoFromSpace/videos)
-
-    ---
-    **[002. 在家上学类(Homeschooling)]{g}**
-      - [001. Free School | 903K subscribers | YTB](https://www.youtube.com/@freeschool/videos)
-
-      ---
-      - [002. Homeschool Pop | 1.75M subscribers | YTB](https://www.youtube.com/@HomeschoolPop/videos)
-
-      ---
-      - [003. CrashCourse | 17.2M subscribers | YTB](https://www.youtube.com/@crashcourse/videos)
-
-      ---
-      - [004. Learn Bright | 1M subscribers | YTB](https://www.youtube.com/@LearnBright/videos)
-
-    ---
-    **[003. 工程机械、工作原理类]{g}**
-      - [001. Jared Owen | 4.44M subscribers | YTB](https://www.youtube.com/@JaredOwen/videos)
-
-      ---
-      - [002. Sabin Civil Engineering | 6.97M subscribers | YTB](https://www.youtube.com/@SabinCivil/videos)
-        * [Railway power lines | The Art of keeping them STRAIGHT](https://www.youtube.com/watch?v=8MCfWPpJhXM&list=PLISEtDmihMo3LTrcJ4TUSwhoMKawp2RNz)
-        * [Lesics (full playlist)](https://www.youtube.com/playlist?list=PLISEtDmihMo3LTrcJ4TUSwhoMKawp2RNz)
-
-      ---
-      - [003. Art of Engineering | 259K subscribers | YTB](https://www.youtube.com/@ArtofEngineering/videos)
-
-      ---
-      - [004. Animagraffs | 1.94M subscribers | YTB](https://www.youtube.com/@animagraffs/videos)
-
-      ---
-      - [005. Branch Education | Branch Education | YTB](https://www.youtube.com/@BranchEducation/videos)
-
-    ---
-    **[004. 奇闻逸趣类]{g}**
-      - [001. Bright side | 44.5M subscribers | YTB](https://www.youtube.com/@BRIGHTSIDEOFFICIAL/videos)
-
-      ---
-      - [002. BE AMAZED | 13.5M subscribers | YTB](https://www.youtube.com/@BeAmazed/videos)
-
-    ---
-    **[005. 人文历史类]{g}**
-      - [001. Knowledgia | 2.2M subscribers | YTB](https://www.youtube.com/@Knowledgia/videos)
-
-      ---
-      - [002. The Great War  | 1.89M subscribers | YTB](https://www.youtube.com/@TheGreatWar/videos)
-
-      ---
-      - [003. Mytholoy & Fiction Explained | 1.55M subscribers | YTB](https://www.youtube.com/@MythologyFictionExplained/videos)
-
-      ---
-      - [004. History on Maps | 417K subscribers | YTB](https://www.youtube.com/@historyonmaps/videos)
-
-    ---
-    **[006. 动植物自然类]{g}**
-      - [001. Nat Geo Kids | 2.07M subscribers | YTB](https://www.youtube.com/@natgeokids/videos)
-
-      ---
-      - [002. BBC Earth | 14.6M subscribers | YTB](https://www.youtube.com/@bbcearth/videos)
-
-      ---
-      - [003. Brave Wilderness | 21.8M subscribers | YTB](https://www.youtube.com/@BraveWilderness/videos)
-
-    ---
-    **[007. 少儿新闻类]{g}**
-      - [001. NBC News | 12.2M subscribers | YTB](https://www.youtube.com/@NBCNews/videos)
-
-      ---
-      - [002. BBC Newsround | 164K subscribers | YTB](https://www.youtube.com/@BBCNewsroundOfficial/videos)
-
-      ---
-      1. **NBC News (Nightly News: Kids Edition)**
-
-    ---
-    **[008. 手动制作类]{g}**
-      - [001. 5-Minute Crafts PLAY | 19.9M subscribers | YTB](https://www.youtube.com/@5MinuteCraftsPLAY/videos)
-
-      ---
-      - [002. Art for Kids Hub | 10.6M subscribers | YTB](https://www.youtube.com/@artforkidshub/videos)
-
-      ---
-      - [003. Brick Builder(乐高) | 2.83M subscribers | YTB](https://www.youtube.com/@brickbuilder23/videos)
-
-    ---
-    **[009. Minecraft]{g}**
-      - [001. Funny Mikey | 14.5M subscribers | YTB](https://www.youtube.com/@FunnyMike225/videos)
-
-      ---
-      - [002. Maizen | 17.8M subscribers | YTB](https://www.youtube.com/@maizenofficial/videos)
-
-      ---
-      - [003. LockDownLife | 2.46M subscribers | YTB](https://www.youtube.com/@LockDownLife/videos)
-
----
-**[泛科普类]{s}**
-* **[Kurzgesagt – In a Nutshell | 25.7M subscribers | YTB](https://www.youtube.com/@kurzgesagt/videos)**
-  - [En: Animation videos explaining things with optimistic nihilism since 12,013.]{s}
-  - [Cn: 自12,013年以来，动画视频以乐观虚无主义的方式解释事物。]{g}
-
-  ---
-  - [En: We’re a team of illustrators, animators, number crunchers and one dog who aim to spark curiosity about science and the world we live in.]{s}
-  - [Cn: 我们是一支由插画师、动画师、数字计算者和一只狗组成的团队，旨在激发人们对科学和我们所处世界的好奇心。]{g}
-
-  ---
-  - [En: To us nothing is boring if you tell a good story.]{s}
-  - [Cn: 对我们来说，只要讲好故事，什么都不会无聊。]{g}
-
-  ---
-  - [En: For updates on our videos and other news from the kurzgesagt universe follow us on Twitter, Facebook, Instagram and LinkedIn.]{s}
-  - [Cn: 想了解我们的视频更新以及kurzgesagt宇宙的其他新闻，请关注我们的Twitter、Facebook、Instagram和LinkedIn]{g}
-
-  ---
-  - [Tree Are So Weird | 树木真奇怪](https://www.youtube.com/watch?v=ZSch_NgZpQs)
-  - [Why Earth Sucks Compared to the Planet Hestia | 为什么地球比赫斯提亚星球糟糕](https://www.youtube.com/watch?v=8qQW4LTWgtc)
-  - [Brilliant](https://www.brilliant.org/nutshell)
-  - [Why Earth Sucks Compared to the Planet Hestia](https://www.youtube.com/watch?v=8qQW4LTWgtc)
-
----
-**[Science Channel]{s}**
-* **[Science Channel | 5.37M subscribers | YTB](https://www.youtube.com/@sciencechannel/videos)**
-  - [En: Learn about outer space, leading scientific exploration, new technology, earth science basics, & more with science videos & news from Science Channel.]{s}
-  - [Cn: 通过科学视频和新闻，了解外太空、领先的科学探索、新技术、地球科学基础等内容。]{g}
-
----
-**[minutephysics]{s}**
-* **[minutephysics | 5.98M subscribers | YTB](https://www.youtube.com/@MinutePhysics/videos)**
-
-  - [En: Simply put: cool physics and other sweet science.]{s}
-  - [Cn: 简单来说：很酷的物理学和其他精彩的科学。]{g}
-
-  ---
-  - [En: "If you can't explain it simply, you don't understand it well enough.]{s}
-  - [Cn: "如果你连简单解释都说不清楚，那你还不够了解."]{g}
-
-  ---
-  - [En: ~Rutherford via Einstein?]{s}
-  - [Cn: ~拉瑟福经爱因斯坦？]{g}
-
-  ---
-  - [En: (wikiquote) Created by Henry Reich]{s}
-  - [Cn: (维基语录) 由亨利·赖希创作]{g}
-
----
-### 0018. 小道必可观(YTB)
-**[小道必可观(YTB)]{s}**
-* **[小道必可观(YTB) | 关注我外网热门视频一网打尽，我的知识不够，你的评论来凑。| 仟章 | Douyin](https://v.douyin.com/WdfoxIT8Wm4/)**
-
-  ---
-  **[001. 老外说中国]{g}**
-    - [美国记者：中国已成全球顶流！美国年轻人正经历中国化转型？ | YTB博主: @jessicaburbankshow 粉丝数量: 2.8万 视频标题: China Is the Global It-Girl Now 发布日期: 2026/01/20 观看次数: 7,843 点赞数量: 811 评论总数: 303 | 001](https://v.douyin.com/JF_IwNNgGy8/)
-    - [英国妹子初到上海激动到失语：当了十几年电脑壁纸，圆梦魔都 | YTB博主: @by.rheashanika 粉丝数量: 4.3万 | 060](https://v.douyin.com/gk-ioWG-SRs/)
-    - [英国老哥：为啥中国没有零元购？YTB评论区回复绝了！ | YTB博主: @tobylifecycles 粉丝数量: 210 | 021](https://v.douyin.com/ezFPPWLdu0s/)
-
-  ---
-  **[002. 老外看中国]{g}**
-    - [内蒙人怎么看外蒙？韩国博主实地访谈，答案让韩国网友吵翻了 YTB博主: @연포물개 粉丝数量: 4.6万 视频标题: 내몽골 사람들의 몽골에 대한 솔직한 이야기 发布日期: 2026/01/04 观看次数: 1.6万 点赞数量: 907 评论总数: 94 | 001](https://v.douyin.com/XMrs3qNyysI/)
-    - [日本酒鬼妹子初到北京，中国很危险？我在凌晨街头喝醉 YTB博主: @yukke_sakamura 粉丝数量: 109万 | 073](https://v.douyin.com/sqxzKjH8i9s/)
-
----
-**[Jessica Burbank]{s}**
-* **[Jessica Burbank | 42.1K subscribers | YTB](https://www.youtube.com/@JessicaBurbankShow/videos)**
-  - Working class kid who spends her days fighting for better days. | 一个工人阶级的孩子，整天为更好的日子而战。
-  - [China Is the Global It-Girl Now | 中国现在是全球的"潮人"](https://www.youtube.com/watch?v=hAM3QABIGFQ)
-
----
-### 0019. YTB && B站
-**[Caro Kowanz English]{e}**
-* **[Caro Kowanz English | 4.27M subscribers | YTB](https://www.youtube.com/@carokowanzenglish/shorts)**
-  - **[1 Hour of English conversations](http://youtube.com/watch?v=JEE6s4RyaX8)**
-
----
-**[iayah]{e}**
-* **[inayah | 328K subscribers | YTB](https://www.youtube.com/@inayah0/videos)**
-
----
-**[Nischa]{s}**
-* **[Nischa | 2.25M subscribers | YTB](https://www.youtube.com/@nischa/videos)**
-  - [En: I’m a former Investment Banker (with an accountancy qualification) and on this channel we explore all things personal finance, self development and business.]{s}
-  - [Cn: 我曾是一名投资银行家（拥有会计学资格），在这个频道中我们探讨所有关于个人理财、自我发展和商业的话题。]{g}
-
----
-**[pearlieee]{e}**
-* **[pearlieee | 637K subscribers | YTB](https://www.youtube.com/@pearlieee/videos)**
-
-  - [En: Hi, I'm Pearlieee!]{s}
-  - [Cn: 嗨，我是Pearlieee！]{g}
-
-  ---
-  - [En: I’m a wild bird and a passionate babe.]{s}
-  - [Cn: 我是一只野鸟，也是个充满激情的美女。]{g}
-
-  ---
-  - [En: This is a space for thinkers, feelers, and anyone brave enough to become.]{s}
-  - [Cn: 这是一个为思考者、感受者以及任何勇敢成为思考者的空间。]{g}
-
-  ---
-  - [En: Expect magic, nuance, chaos… and loving bluntness x]{s}
-  - [Cn: 期待魔法、细腻、混乱......还有充满爱意的直率 x]{g}
-
----
-**[BigDeal by Codie Sanchez]{e}**
-* **[BigDeal by Codie Sanchez | 707K subscribers | YTB](https://www.youtube.com/@PodcastBigDeal/videos)**
-
-  - [En: 71% of you beautiful people aren’t subscribed -- please double check you're subbed, we are here to help you!]{s}
-  - [Cn: 71%的美丽人士没有订阅——请再次确认你已订阅，我们随时准备帮助你！]{g}
-
-  ---
-  - [En: All signal.]{s}
-  - [Cn: 所有信号。]{g}
-
-  ---
-  - [En: No noise.]{s}
-  - [Cn: 没有声音。]{g}
-
-  ---
-  - [En: This channel is about helping you grow and win in life.]{s}
-  - [Cn: 这个频道旨在帮助你成长和赢得人生。]{g}
-
-  ---
-  - [En: My plan is to bring you a no-nonsense playbook real builders use to build wealth, understand the world, create movements, and change your life.]{s}
-  - [Cn: 我的计划是为你带来一套真实建筑师用来积累财富、理解世界、创造运动并改变生活的关键实用手册。]{g}
-
-  ---
-  - [En: BigDeal by Codie Sanchez explores the real stories and hard-won lessons of entrepreneurs, builders, and creators.]{s}
-  - [Cn: Codie Sanchez的《BigDeal》探讨了企业家、建设者和创作者的真实故事和艰难获得的教训。]{g}
-
-  ---
-  - [En: A founder and CEO herself, host Codie Sanchez draws on her experience as an investor, award-winning journalist and best-selling author to lead conversations that celebrate the highs and humanize the lows of the builder’s journey.]{s}
-  - [Cn: 作为创始人兼首席执行官，主持人科迪·桑切斯凭借她作为投资者、获奖记者和畅销书作家的经验，引领对话，庆祝建设者旅程中的高峰，同时展现人性化的低谷。]{g}
-
-  ---
-  - [En: We are here, obsessed every single day, on how to make your life better.]{s}
-  - [Cn: 我们每天都在这里，痴迷于如何让你的生活变得更好。]{g}
-
----
-**[Dwarkesh Patel]{s}**
-* **[Dwarkesh Patel | 1.4M subscribers | YTB](https://www.youtube.com/@DwarkeshPatel/videos)**
-  - **[Jensen Huang – Will Nvidia’s moat persist | 黄仁森——英伟达的护城河会持续](https://www.youtube.com/watch?v=Hrbq66XqtCo)**
-
----
-### 0020. 广告片
-**[Adobe Acrobat]{s}**
-* **[Adobe Acrobat | 56.9K subscribers | YTB](https://www.youtube.com/@AdobeAcrobat/videos)**
-  - [En: The PDF tools you trust, now enhanced with AI.]{s}
-  - [Cn: 您信赖的PDF工具，现在已经过AI增强。]{g}
-
-  ---
-  - [En: Adobe Acrobat gives you everything you need to move work faster, smarter, and all in one AI-powered workspace.]{s}
-  - [Cn: Adobe Acrobat 为你提供所有需要的，让你在一个由 AI 驱动的工作区中实现工作移动，更快、更智能。]{g}
-
-  ---
-  - [En: From creating and editing to sharing and e-signing, Acrobat helps you handle documents like a pro, whether you're at your desk or on-the-go.]{s}
-  - [Cn: 从创建、编辑到分享和电子签名，Acrobat 帮助您像专业人士一样处理文档，无论你是在办公桌前还是外出时。]{g}
-
-  ---
-  - [En: Scan it.]{s}
-  - [Cn: 扫描它。]{g}
-
-  ---
-  - [En: Edit it.]{s}
-  - [Cn: 编辑一下。]{g}
-
-  ---
-  - [En: Send it.]{s}
-  - [Cn: 发吧。]{g}
-
-  ---
-  - [En: Sign it.]{s}
-  - [Cn: 签字。]{g}
-
-  ---
-  - [En: All powered by AI.]{s}
-  - [Cn: 全部由人工智能驱动。]{g}
-
-  ---
-  - [En: Turn messy workflows into seamless ones and ideas into action.]{s}
-  - [Cn: 全部由人工智能驱动。 Turn混乱的工作流程转为无缝的流程，将想法转化为行动。]{g}
-
-  ---
-  - [En: With tools like Adobe Acrobat, Acrobat Sign, Adobe Scan, and Reader, plus built-in cloud storage and integrations with the apps you already use, your documents go wherever work happens.]{s}
-  - [Cn: 借助Adobe Acrobat、Acrobat Sign、Adobe Scan和Reader等工具，以及内置云存储和与你已使用应用的集成，你的文档无论工作地点都能随之流放。]{g}
-
-  ---
-  - [En: Less friction.]{s}
-  - [Cn: 摩擦更少。]{g}
-
-  ---
-  - [En: More doing.]{s}
-  - [Cn: 还有更多事情要做。]{g}
-
-  ---
-  - [En: Do that with Acrobat.]{s}
-  - [Cn: 用Acrobat来做这件事。]{g}
-
-  ---
-  - **[The Marketers S2 E4: Launching the Next Greatest Ever Campaign |《营销人员》第二季第四集：启动下一个最伟大的活动](https://www.youtube.com/watch?v=fxq2_4GiJPw)**
-
----
-### 0021. Travel the world
-**[National Geographic]{s}**
-* **[National Geographic | 26.5M subscribers | YTB](https://www.youtube.com/@NatGeo/videos)**
-  - **[Antarctica: Home at the End of the Earth (Full Episode) | Incredible Animal Journeys | 南极：地球尽头的家（完整版）| 不可思议的动物之旅](https://www.youtube.com/watch?v=eS6a6btDK8M)**
-
----
-**[Dots on a Map]{s}**
-* **[Dots on a Map | 224K subscribers | YTB](https://www.youtube.com/@DotsonaMap/videos)**
-  - **[TRAVELING TO ANTARCTICA](https://www.youtube.com/watch?v=RhVN3COuXdQ)**
-
----
-**[Best Travel]{s}**
-* **[Best Travel | 112K subscribers | YTB](https://www.youtube.com/@BestTravel2/videos)**
-  - **[Living in the Philippines | How People Live Across 7,000 Islands | 4K ](https://www.youtube.com/watch?v=0gB1P1g5IwE)**
-
----
-**[Where on Earth]{s}**
-* **[Where on Earth | 62.9K subscribers | YTB](https://www.youtube.com/@WhereonEarth4K/videos)**
-  - **[BALI: The Real Indonesia Most Tourists Never Find | 4K Travel Documentary | 巴厘岛：大多数游客永远找不到的真实印度尼西亚 |4K旅行纪录片](https://www.youtube.com/watch?v=12AI0Mg-Ajo)**
-
----
-**[Allison Anderson]{s}**
-* **[Allison Anderson | 1.06M subscribers | YTB](https://www.youtube.com/@allisonanderson/videos)**
-
-  ---
-  **[Personal website]{s}**
-    - **[Personal website](https://allisonanderson.com/)**
-
-  - **[My Solo Trip to Antarctica](https://www.youtube.com/watch?v=EDap9qxb96k)**
-
----
-### 0022. 英语超级屋
+### 0028. 英语超级屋
 **[英语超级屋]{s}**
 * **[英语超级屋 | 感受世界，感受人文，遇见这个世界上美好的人和事 学好英语，感受语言，遇见这个时间里最好的自己... | 壹仟章 | Douyin](https://v.douyin.com/JLRyWueVrOE/)**
   - [语言的边界, 就是世界的边界 --- 维特根斯坦]{s}
@@ -3204,7 +3144,7 @@
   - [Learn English in Nature With My Mom | Comprehensible Input Vlog](https://www.youtube.com/watch?v=9ledjiOXnvo)
 
 ---
-### 0023. TEco Lab
+### 0029. TEco Lab
 **[TEco Lab]{s}**
 * **[TEco Lab](https://www.teco-lab.com/)**
 
@@ -3237,7 +3177,7 @@
   - [IRELAND GIRLS TRIP](https://www.youtube.com/watch?v=OT816vE9eaM)
 
 ---
-### 0024. Gather
+### 0030. Gather
 **[Amy Natalie]{e}**
 * **[Amy Natalie | 26K subscribers | YTB](https://www.youtube.com/@amy.natalie/videos)**
   - [living a "boring" life | a quiet life in the countryside](https://www.youtube.com/watch?v=8ma_MSmqd2c)
@@ -3371,7 +3311,7 @@
   - [Funny restaurant English compilation](https://www.youtube.com/watch?v=1JFayrFb4Dk)
 
 ---
-### 0025. Bloger Gather | TEco Lab
+### 0031. Bloger Gather | TEco Lab
 **[Bloger Gather]{s}**
 **[Jay Shetty Podcast·心理健康]{s}**
 * **[Jay Shetty Podcast | 5.86M subscribers |  YTB](https://www.youtube.com/@JayShettyPodcast./videos)**
@@ -3967,42 +3907,6 @@
 * **[English Teacher Claire | 771K | YTB](https://www.youtube.com/@EnglishTeacherClaire/videos)**
 
 ---
-### 0026. Podcast 播客 | Drama 短剧
-**[LOVEBUSTER]{s}**
-* **[LOVEBUSTER | 2.06M subscribers |  YTB](https://www.youtube.com/@LoveBusterShow/videos)**
-  - [I Broke The Law To Save Those I Love | SAVING HEARTS | Ep.10 | 我违法拯救我所爱的人 |拯救心灵 |第10集](https://www.youtube.com/watch?v=xxAknGzwPSw)
-
----
-**[English Unleashed: The Podcast]{s}**
-* **[English Unleashed: The Podcast | 1.42M subscribers |  YTB](https://www.youtube.com/@EnglishPodcastUnleashed/videos)**
-  - [En: Welcome to English Unleashed: The Podcast.]{s}
-  - [Cn: 欢迎收听《English Unleashed：播客》。]{g}
-
-  ---
-  - [En: We are a group of language educators and researchers with more than 20 years of experience teaching English in Europe, the UK, Middle East and Austraila.]{s}
-  - [Cn: 我们是一群拥有超过20年在欧洲、英国、中东和澳大利亚教授英语的语言教育者和研究人员。]{g}
-
-  ---
-  - [En: In every episode, we (Tom and Sarah) speak slowly and clearly, so you can listen, understand, and speak along with us.]{s}
-  - [Cn: 在每一集中，我们（汤姆和莎拉）都说得慢而清晰，这样你可以倾听、理解并与我们一起交流。]{g}
-
-  ---
-  - [En: We share educational conversations, useful sentences, everyday expressions, and emotional language — all designed to help you sound more natural.]{s}
-  - [Cn: 我们分享教育性对话、实用句子、日常表达和情感语言——所有这些都旨在帮助你听起来更自然。]{g}
-
-  ---
-  - [En: You’ll also get learning tips and simple strategies to improve your English faster and with more confidence 🎧]{s}
-  - [Cn: 你还将获得学习技巧和简单的策略，帮助你更快、更有信心 🎧地提升英语水平]{g}
-
-  ---
-  - [En: Learn the phrases native speakers use 🗣️ Practice with us — shadowing, speaking, understanding 💡 Get clear advice for building fluency Perfect for pre-intermediate to advanced learners who want to go beyond grammar — and truly speak English with feeling.]{s}
-  - [Cn: 学习母语者常用 🗣️的短语 与我们一起练习——跟随学习、口语、理解 💡 获取清晰的流利度建设建议 非常适合想要超越语法的中高级学习者——并真正用感情表达英语。]{g}
-
-  ---
-  - [En: All rights reserved © Educational Video Productions.]{s}
-  - [Cn: 版权所有，版权所有©：教育视频制作公司。]{g}
-
----
 **[Little Reading Bug's Bilingual Channel]{s}**
 * **[Little Reading Bug's Bilingual Channel | 376 | 小书虫的双语频道 | YTB](https://www.youtube.com/@littlereadingbugsbilingual539/videos)**
 
@@ -4050,7 +3954,7 @@
   - [Cn: 订阅，立即开始您的旅程！]{g}
 
 ---
-### 0027. Coding
+### 0032. Coding
 **[Sam Witteveen]{s}**
 * **[Sam Witteveen | 126K | YTB](https://www.youtube.com/@samwitteveenai/videos)**
 
@@ -4065,13 +3969,13 @@
   - **[Kokoro Local TTS + Custom Voices](https://www.youtube.com/watch?v=tl1wvZXlj0I)**
 
 ---
-### 0028. PhD | 博士
+### 0033. PhD | 博士
 **[Megan Teng]{s}**
 * **[Megan Teng | 2.11K | YTB](https://www.youtube.com/@MeganTeng_berkeley)**
   - [026柏克萊工學院博士畢業典禮致詞](https://www.youtube.com/watch?v=3g5LK02wCGA)
 
 ---
-### 0029. University
+### 0034. University
 **[UC Berkeley]{s}**
 * **[UC Berkeley·伯克利大学](https://www.youtube.com/ucberkeley)**
 
@@ -4151,24 +4055,24 @@
     - [剑桥大学国王学院的草坪| 与艾伦教授一起散步 跟我一起在剑桥大学国王学院散步（二） 大家好，我是艾伦·麦克法兰,剑桥大学人类学教授。 今天继续“一起散步”系列剑桥篇的新一集。上一集我们聊了国王学院的身世,这一次,我带大家看看脚下这片草坪藏着的人和故事。 我们接着往前走。你脚下这片草坪,其实并不简单。1446年我们扩建学院时,亨利六世买下了剑桥市中心一整座小镇：教堂、商店、房屋,他全都拆了,再用土盖上。所以这片草坪底下,是英国保存最完好的中世纪城镇遗迹:五百年来,上面什么都没有再建过,只留下青草。这也是世界上最大的一片学术草坪。 我喜欢用中国的朝代来给这里的建筑断代:礼拜堂是15世纪的,克莱尔学院是17世纪的,相当于明代;这一栋是18世纪,清代;那一栋是19世纪,晚清。英国人不像法国人或中国人那样追求统一,而是任由各个世纪的建筑自在地混在一起。 这里和中国的缘分很深。徐志摩曾躺在靠河的草坪上,看星星,看流云;萧乾住过那扇大窗上方的房间。我还想告诉大家一个很少有人知道的细节:《再别康桥》里那棵"河畔的金柳",原本就长在这里。后来老柳树空了心、枯死被砍,我们又在对岸补种了一棵。河上往来的平底船,徐志摩在诗里也写过。 最后,请大家随我抬头,看角落塔楼的那扇窗。1936年,一位刚满22岁、刚成为学院研究员的年轻数学家,在那个房间里写下了一篇只有六八页的论文,题为《论数的可计算性》。他凭想象描绘了两样这世上从未存在过的东西:一台会运算的电子计算机,和一台能"思考"的机器——人工智能。他叫艾伦·图灵。后来,他设计的破译机帮助英国赢得了第二次世界大战。 本系列视频"与人类学家艾伦·麦克法兰一起散步"(Walk with Alan Macfarlane)由Cam Rivers Publishing团队 拍摄和制作]{g}
 
 ---
-### 0030. Organization
+### 0035. Organization
 **[United Nations]{s}**
 * **[联合国 | 3.32M subscribers |  YTB](https://www.youtube.com/unitednations)**
   - [Emma Watson at the HeForShe Campaign 2014 - Official UN Video](https://www.youtube.com/watch?v=gkjW9PZBRfk)
 
 ---
-### 0031. International film star
+### 0036. International film star
 **[Totally Emma Watson | 赫敏 | Harry Potter and the Philosopher's Stone]{e}**
 * **[Totally Emma Watson | 443K | YTB](https://www.youtube.com/@TotallyEmmaWatson/videos)**
   - [Emma Watson - One Young World 2016](https://www.youtube.com/watch?v=elbqER_ZrLQ)
 
 ---
-### 0032. English Speeches
+### 0037. English Speeches
 **[English Speeches]{s}**
 * **[English Speeches | 6.47M subscribers |  YTB](https://www.youtube.com/@EnglishSpeeches/videos)**
 
 ---
-### 0033. Thejonathon·GenshinImpact
+### 0038. Thejonathon·GenshinImpact
 **[Thejonathon·GenshinImpact]{s}**
 * **[Thejonathon | 727K | YTB](https://www.youtube.com/@Thejonathon/videos)**
   - [THE MOON ARCHON QUEST IS INSANE... Genshin Impact Moon Gazing 6.7 world quest full reaction](https://www.youtube.com/watch?v=K8UZ3xK4xow)
@@ -4178,13 +4082,13 @@
   - [Thejonathan | Genshin](https://www.bilibili.com/video/BV1hLTj6QEf8/?spm_id_from=333.1387.collection.video_card.click)
 
 ---
-### 0034. BranOnline·GenshinImpact
+### 0039. BranOnline·GenshinImpact
 **[BranOnline·GenshinImpact]{s}**
 * **[BranOnline | 414K | YTB](https://www.youtube.com/@BranOnline/videos)**
   - [6.7 - The Truth About Teyvat’s Moon Is Insane | Min: 05H:41M:31S ](https://www.youtube.com/watch?v=mUjol3LBzuc)
 
 ---
-### 0035. English Book Source
+### 0040. English Book Source
 **[English source]{s}**
 
 **[OXFORD]{s}**
@@ -4199,7 +4103,7 @@
 * **[English learning products](https://www.cambridge.org/sg/cambridgeenglish?__cf_chl_f_tk=UZkiNUJzi9RFiuQPmXuY.vsLGZ75z5Otqij7mk95T6U-1783186053-1.0.1.1-7QVncxsNAjlnxyyv6wwJV9i001L5a9RkUwkFsggIels)**
 
 ---
-### 0036. English Source
+### 0041. English Source
 **[BBC Learning English]{s}**
 * **[BBC Learning English | 10.7M subscribers |  YTB](https://www.youtube.com/@bbclearningenglish/videos)**
 
@@ -4385,7 +4289,7 @@
 * **[Michele Lepe - Story Time | Kid | 17K | YTB](https://www.youtube.com/@michelelepe)**
 
 ---
-### 0037. Terence Fung - My Small Library in 3D
+### 0042. Terence Fung - My Small Library in 3D
 **[Terence Fung - My Small Library in 3D]{s}**
 * **[Terence Fung - My Small Library in 3D | 11.7K | YTB](https://www.youtube.com/@libraryofterence/videos)**
   - [The Little Prince — 3D Animated Movie](https://www.youtube.com/watch?v=Yo47Hjj5lcQ)
@@ -4397,19 +4301,19 @@
   - [voicetube](https://www.voicetube.com/)
 
 ---
-### 0038. Dan Kieft | AI enthusiast
+### 0043. Dan Kieft | AI enthusiast
 **[Dan Kieft]{s}**
 * **[Dan Kieft | AI enthusiast 人工智能爱好者；对人工智能充满热情的人 | 281K | YTB](https://www.youtube.com/@Dankieft/videos)**
   - [How Nano Banana Pro & Kling Changed AI FIlmmaking](https://www.youtube.com/watch?v=dA_jfm38ejw)
 
 ---
-### 0039. Ben Kaluza - Tutorials & Workflows
+### 0044. Ben Kaluza - Tutorials & Workflows
 **[Ben Kaluza - Tutorials & Workflows]{s}**
 * **[Ben Kaluza - Tutorials & Workflows | 7.13K | YTB](https://www.youtube.com/@BenKaluzaTech)**
   - [How to Turn Storyboards into Consistent Videos using Seedance 2.0](https://www.youtube.com/watch?v=DosWo7GplD4)
 
 ---
-### 0040. Aaron - AI-native builder
+### 0045. Aaron - AI-native builder
 **[Aaron - AI-native builder]{s}**
 * **[aron - AI-native builder | 20 | YTB](https://www.youtube.com/@ai-native-builder/videos)**
   - [Expensive Tokens Won't Save Enterprise AI](https://www.youtube.com/watch?v=BhwSZpb6ag8)
@@ -4419,7 +4323,7 @@
     - [Expensive Tokens Won't Save Enterprise(企业级) AI | Aaron Guo](https://www.aaronguo.com/)
 
 ---
-### 0041. Silicon Valley Girl
+### 0046. Silicon Valley Girl
 **[Silicon Valley Girl]{e}**
 * **[Silicon Valley Girl | 1.56M subscribers |  YTB](https://www.youtube.com/@SiliconValleyGirl/videos)**
   - [Godmother of AI: In 10 Years There Will Be Only 2 Kinds of Workers | Fei-Fei Li](https://www.youtube.com/watch?v=subu-xHrp1w)
@@ -4430,12 +4334,12 @@
     - [siliconvalleygirl](https://siliconvalleygirl.beehiiv.com/)
 
 ---
-### 0042. BBC
+### 0047. BBC
 **[BBC·British Broadcasting Corporation]{s}**
 * **[BBC | 15.6M subscribers |  YTB](https://www.youtube.com/@BBC/videos)**
 
 ---
-### 0042. BBC Earth
+### 0048. BBC Earth
 **[BBC Earth]{s}**
 * **[BBC Earth | Home](https://www.bbcearth.com/)**
 * **[BBC Earth | 14.5M subscribers |  YTB](https://www.youtube.com/@bbcearth)**
@@ -4483,7 +4387,7 @@
   - [我们的星球](https://v.douyin.com/qSddtq0-svk/)
 
 ---
-### 0043. Dwarkesh Patel
+### 0049. Dwarkesh Patel
 **[Dwarkesh Patel]{s}**
 * **[Dwarkesh Patel | Deeply researched interviews 深入研究的访谈；经过深度研究的采访 | 1.39M subscribers |  YTB](https://www.youtube.com/@DwarkeshPatel/videos)**
 
@@ -4491,7 +4395,7 @@
   - [dwarkesh](https://www.dwarkesh.com/p/adam-brown-gr)
 
 ---
-### 0044. PBS · Public Broadcasting Service
+### 0050. PBS · Public Broadcasting Service
 **[PBS · Public Broadcasting Service]{s}**
 * **[PBS | 美国公共广播电视机构 | 1.78M subscribers |  YTB](https://www.youtube.com/@PBS/videos)**
   - [The World’s Largest Concentrated Solar Power Plant | A Brief History of the Future | PBS](https://www.youtube.com/watch?v=2Z_5iRFf-Pc&list=PLzkQfVIJun2KVm7_Pgxma0b7fZBu_xJ97&index=1)
@@ -4511,59 +4415,52 @@
 * **[English with Evie | 270K | YTB](https://www.youtube.com/@EnglishWithEvie)**
 
 ---
-### 0045. University English Hub
+### 0051. University English Hub
 **[University English Hub]{s}**
 * **[University English Hub | 6.19K subscribers | YTB](https://www.youtube.com/@UniversityEnglishHub/videos)**
   - [Designing and Presenting Academic Graphs and Images | Antony P at NCHU](https://www.youtube.com/watch?v=L1P1YmXgyDU)
 
 ---
-### 0046. English Learning Hub
+### 0052. English Learning Hub
 **[English Learning Hub]{s}**
 * **[English Learning Hub | 576K subscribers | YTB](https://www.youtube.com/@EnglishLearningHubOfficial/videos)**
   - [A2 English Listening Practice | The Money Mistakes Everyone Makes! | English Podcast - Ep. 9](https://www.youtube.com/watch?v=JlwZ4g_CBJg)
   - [B1 Imitation Lesson - Part 6 | English Speaking Practice](https://www.youtube.com/watch?v=UQ9yKAVZY4s)
 
 ---
-### 0047. DeepLearningAI
+### 0053. DeepLearningAI
 **[DeepLearningAI·Andrew Ng 吴恩达]{s}**
 * **[DeepLearningAI | 747K subscribers | YTB](https://www.youtube.com/@Deeplearningai/featured)**
   - [Full AI Prompting Course with Andrew Ng 吴恩达 (Andrew Ng) 的完整人工智能提示课程](https://www.youtube.com/watch?v=8ib4Qnh2HFE)
 
 ---
-### 0048. Netflix
+### 0054. Netflix
 **[Netflix]{s}**
 * **[Netflix | 33.6M subscribers | YTB](https://www.youtube.com/@Netflix/videos)**
   - [Crazy Rich, Incredibly Broke | Official Trailer | Netflix](https://www.youtube.com/watch?v=oDBUdMDfq30)
 
 ---
-### 0049. Victoria
+### 0055. Victoria
 **[Victoria]{s}**
 * **[Victoria | 1.06M subscribers | YTB](https://www.youtube.com/@VictoriaMagrath/videos)**
   - [LIFE LESSONS IN THE MALDIVES AND WHY IVE BEEN UNHAPPY SO LONG | VICTORIA](https://www.youtube.com/watch?v=UH6V1OBM2_s)
 
 ---
-### 0050. Vogue
+### 0056. Vogue
 **[Vogue]{s}**
 * **[Vogue | 16.9M subscribers | YTB](https://www.youtube.com/@Vogue/videos)**
   - [Inside Dakota Johnson's Private Home, Full of Wonderful Objects | Vogue](https://www.youtube.com/watch?v=H4ZEsgXHxjc)
 
----
-### 0051. POC English·英语大剧场·播客
-**[POC English]{s}**
-* **[POC English | 4.13M subscribers | YTB](https://www.youtube.com/@POCEnglish/videos)**
+
 
 ---
-**[POC English]{s}**
-* **[Home - POC English](https://pocenglish.com/)**
-
----
-### 0052. CNA
+### 0057. CNA
 **[CNA]{s}**
 * **[CNA | 3.25M subscribers | YTB](https://www.youtube.com/@channelnewsasia/videos)**
   - [China-North Korea relations: Kim Jong Un arrived in Dandong via newly opened bridge, says report](https://www.youtube.com/watch?v=L2MvCrw3O4Q)
 
 ---
-### 0053. Immersion · psychology podcast 心理播客
+### 0058. Immersion·psychology podcast 心理播客
 **[Immersion]{e}**
 * **[Immersion | 6.55K subscribers | YTB](https://www.youtube.com/@Immersion_podcast/videos)**
   - [En: Immersion is a psychology podcast for curious people interested in how we live, what shapes us, and what we can change.]{s}
@@ -4573,7 +4470,7 @@
   - [What dating apps are doing to love: The paradox of choice | 约会应用对爱情所做的：选择的悖论](https://www.youtube.com/watch?v=1-RjsR1mCPI)
 
 ---
-### 0054. DK Books
+### 0059. DK Books
 **[DK Books]{s}**
 * **[DK Books | 48.8K subscribers  |YTB](https://www.youtube.com/@DKinVideo/videos)**
   - [The Polar Night Adventure, 极昼探险](https://www.youtube.com/watch?v=ACfWpXXJxNA)
@@ -4582,19 +4479,19 @@
   - [DK Books - English for Everyone in CN](https://apps.dk.com/efe/cn)
 
 ---
-### 0055. Cecilia Blomdahl
+### 0060. Cecilia Blomdahl
 **[Cecilia Blomdahl]{e}**
 * **[Cecilia Blomdahl | 1.15M subscribers | YTB](https://www.youtube.com/@CeciliaBlomdahl/videos)**
   - [2 Weeks Until Polar Night on Svalbard, 2周后斯瓦尔巴群岛将进入极夜](https://www.youtube.com/watch?v=tpDM75ph75A)
 
 ---
-### 0056. Science ABC
+### 0061. Science ABC
 **[Science ABC]{s}**
 * **[Science ABC | 544K subscribers | YTB](https://www.youtube.com/@Scienceabc/videos)**
   - [Can a Nuclear Reactor Explode Like a Bomb? Explained in Simple Words , 核反应堆会像炸弹一样爆炸吗？用简单的话解释](https://www.youtube.com/watch?v=RH2DXbroMyA)
 
 ---
-### 0057. Hope Gong
+### 0062. Hope Gong
 **[Hope Gong]{e}**
 * **[Hope Gong](https://www.youtube.com/@iamhopeg/videos)**
   - [Are AI Data Center Stocks in Trouble? CoreWeave's Debt Problem, 人工智能数据中心股票有麻烦吗？CoreWeave 的债务问题](https://www.youtube.com/watch?v=ZSkY9qparqc)
@@ -4605,7 +4502,7 @@
   - [做自媒体快一年了，最近又开始尝试一些新东西。也想顺便跟大家聊聊，这一年来的一些感受和想法](https://v.douyin.com/Rvx4cE3k1OE/)
 
 ---
-### 0058. LabXchange
+### 0063. LabXchange
 **[LabXchange]{s}**
 * **[LabXchange | 19K subscribers | YTB](https://www.youtube.com/@LabXchange/videos)**
 
@@ -4815,6 +4712,64 @@
   - [Yemen: The Country That Hides Another World | 4K Travel Documentary, 也门：隐藏另一个世界的国家4K旅游纪录片](https://www.youtube.com/watch?v=LZR_EhalBq0)
 
 ---
+### 0204. SoulEase Space
+**[SoulEase Space·Music]{s}**
+* **[SoulEase Space | 25.9K subscribers | 音乐 | YTB](https://www.youtube.com/@SoulEase_Space)**
+
+  - [En: Welcome to SoulEase Space—a serene place to unwind, soothe your soul, and find harmony. 🎹🌿]{s}
+  - [Cn: 欢迎来到SoulEase空间——一个宁静的地方，让你放松身心，抚慰心灵，找到和谐。🎹🌿]{g}
+
+  ---
+  - [En: Here, every piano note flows softly, like a whisper of serenity, guiding you to inner peace and clarity.]{s}
+  - [Cn: 这里，每一个钢琴音符都轻柔流淌，如同宁静的低语，引导你走向内心的平静与清晰。]{g}
+
+  ---
+  - [En: Let the soothing melodies help you drift off to deep sleep, focus easily, or simply unwind after a long day.]{s}
+  - [Cn: 让舒缓的旋律帮助你进入深度睡眠，轻松集中注意力，或在漫长一天后放松身心。]{g}
+
+  ---
+  - [En: Close your eyes, take a deep breath, and allow your soul to find peace in this tranquil space.]{s}
+  - [Cn: 闭上眼睛，深呼吸，让你的灵魂在这宁静的空间中找到平静。]{g}
+
+  ---
+  - [音乐疗法🌿 修复神经系统，停止过度思考 | 舒缓压力的放松音乐](https://www.youtube.com/watch?v=ecrL5FHBmFA)
+
+---
+### 0205. Taylor Swift
+**[Taylor Swift]{e}**
+* **[Taylor Swift |  1.91M subscribers | YTB](https://www.youtube.com/@TaylorSwift/videos)**
+
+  - [En: And, baby, that’s show business for you.]{s}
+  - [Cn: 宝贝，这就是演艺圈的全部。]{g}
+
+  - [En: New album The Life of a Showgirl.]{s}
+  - [Cn: 新专辑《The Life of a Showgirl》。]{g}
+
+  - [En: Available now]{s}
+  - [Cn: 现已上线]{g}
+
+  ---
+  - [Just 11 days until the final show of The Eras Tour is all yours ](https://www.youtube.com/watch?v=fHjxp-rpUGw)
+  - [Taylor Swift - Father Figure](https://www.youtube.com/watch?v=98SmlWOKuME)
+  - [Taylor Swift - Mine](https://www.youtube.com/watch?v=oxNLRqMJMZk&list=OLAK5uy_n8xJHj0rL3zyol9oYHsVTBHm-L_eY-3gY)
+  - [Taylor Swift - New York University](https://www.youtube.com/watch?v=Q8NYdZYQsgY)
+  - [Taylor Swift - I Knew It, I Knew You (Piano Version) (Official Music Video)](https://www.youtube.com/watch?v=XwCWKSO0F8s)
+
+---
+**[The New York Times]{s}**
+* **[The New York Times | 5.27M subscribers | YTB](https://www.youtube.com/@nytimes/videos)**
+  - [Taylor Swift: The Stories Behind Her Biggest Songs (Exclusive Interview)](https://www.youtube.com/watch?v=5B8-TJ8vsKY)
+
+---
+### 0206. Eliott Tordo Erhu Player 二胡
+**[Eliott Tordo Erhu Player 二胡]{s}**
+* **[Eliott Tordo Erhu Player 二胡 | 480K subscribers | YTB](https://www.youtube.com/@EliottTordo_Erhu/videos)**
+  - [World of Warcraft covers | total: 22](https://www.youtube.com/watch?v=fkV9ThVvfLA&list=PLRJMyiugYfVJWxVSleW4cX0-BzUdnKhMx)
+  - [Avatar : The last Airbender | The Legend of Korra Erhu Covers by Eliott Tordo | total: 22](https://www.youtube.com/watch?v=v2A5aKW9lFg&list=PLRJMyiugYfVLOfWnKVMGid-VXEz7n6Uq0)
+  - [Erhu covers | total: 153](https://www.youtube.com/watch?v=cXJ8976qrMM&list=PLRJMyiugYfVJ7vNIiMdez-3E-YkblaXLy)
+  - [Naruto covers | total: 23](https://www.youtube.com/watch?v=cXJ8976qrMM&list=PLRJMyiugYfVK__D2gsAMg7auoErUqr0qH)
+
+---
 ### 0300. The Drew Barrymore Show
 **[The Drew Barrymore Show]{s}**
 * **[The Drew Barrymore Show | 1.47M subscribers |  YTB](https://www.youtube.com/@TheDrewBarrymoreShow/videos)**
@@ -4989,6 +4944,82 @@
 **[Andrew Huberman]{s}**
 * **[Andrew Huberman | 7.88M subscribers | YTB](https://www.youtube.com/@hubermanlab/videos)**
   - [Using AI to Increase Your Intelligence & Enrich Humanity | Dr. Fei-Fei Li](https://www.youtube.com/watch?v=N5AQFYtqx8Q)
+
+---
+### 1500. Podcast 播客 | Drama 短剧
+**[Coffee Break English]{s}**
+* **[Coffee Break English  | 248K subscribers | YTB](https://www.youtube.com/@coffeebreakenglish)**
+
+  - [En: Welcome to the Coffee Break English YouTube channel - start learning English on your coffee break!]{s}
+  - [Cn: 欢迎来到Coffee Break English频道——在你的咖啡休息时间开始学习英语吧！]{g}
+
+  ---
+  - [En: Hosted by experienced English teachers Mark and Josie, Coffee Break English is presented in slow English which is easy to understand.]{s}
+  - [Cn: 由经验丰富的英语教师Mark和Josie主持，《咖啡休息英语》以缓慢且易于理解的英语呈现。]{g}
+
+  ---
+  - [En: Join them as they help you to improve your accuracy and understanding of English, to prepare you for many situations like using English at work, visiting an English-speaking country, taking exams, or talking with English-speaking friends.]{s}
+  - [Cn: 加入他们，他们帮助你提高英语的准确性和理解力，为你在工作中使用英语、访问英语国家、参加考试或与英语朋友交流等多种场合做好准备。]{g}
+
+  ---
+  - [En: Our courses are designed to help you fit learning a language into your busy schedule; we want to make language learning the most enjoyable part of your day, so that you can turn your down time into your DO time!]{s}
+  - [Cn: 我们的课程旨在帮助您在繁忙的日程中安排学习语言;我们希望让学习语言成为您一天中最愉快的部分，这样您就可以把空闲时间变成真正的实践时间！]{g}
+
+  ---
+  - [En: If you want to learn more about the courses that we offer, head over to: https://coffeebreaklanguages.com/english/ Follow us on social media!]{s}
+  - [Cn: 如果您想了解更多我们提供的课程，请访问：https://coffeebreaklanguages.com/english/ 关注我们的社交媒体！]{g}
+
+  - [When to use 'do' and 'make' | The Coffee Break English Show 1.01](https://www.youtube.com/watch?v=55KmBR1hv4A)
+
+---
+**[Coffee Break English · website]{s}**
+* **[Coffee Break English | 每集大约15分钟，为初学者和中级英语学习者设计](https://coffeebreaklanguages.com/english/)**
+  - [How to use 'get' in English](https://www.youtube.com/watch?v=1zw2pTZ9U_I&t=41s)
+
+---
+### 1501. Podcast 播客 | Drama 短剧
+**[LOVEBUSTER]{s}**
+* **[LOVEBUSTER | 2.06M subscribers |  YTB](https://www.youtube.com/@LoveBusterShow/videos)**
+  - [I Broke The Law To Save Those I Love | SAVING HEARTS | Ep.10 | 我违法拯救我所爱的人 |拯救心灵 |第10集](https://www.youtube.com/watch?v=xxAknGzwPSw)
+
+---
+**[English Unleashed: The Podcast]{s}**
+* **[English Unleashed: The Podcast | 1.42M subscribers |  YTB](https://www.youtube.com/@EnglishPodcastUnleashed/videos)**
+  - [En: Welcome to English Unleashed: The Podcast.]{s}
+  - [Cn: 欢迎收听《English Unleashed：播客》。]{g}
+
+  ---
+  - [En: We are a group of language educators and researchers with more than 20 years of experience teaching English in Europe, the UK, Middle East and Austraila.]{s}
+  - [Cn: 我们是一群拥有超过20年在欧洲、英国、中东和澳大利亚教授英语的语言教育者和研究人员。]{g}
+
+  ---
+  - [En: In every episode, we (Tom and Sarah) speak slowly and clearly, so you can listen, understand, and speak along with us.]{s}
+  - [Cn: 在每一集中，我们（汤姆和莎拉）都说得慢而清晰，这样你可以倾听、理解并与我们一起交流。]{g}
+
+  ---
+  - [En: We share educational conversations, useful sentences, everyday expressions, and emotional language — all designed to help you sound more natural.]{s}
+  - [Cn: 我们分享教育性对话、实用句子、日常表达和情感语言——所有这些都旨在帮助你听起来更自然。]{g}
+
+  ---
+  - [En: You’ll also get learning tips and simple strategies to improve your English faster and with more confidence 🎧]{s}
+  - [Cn: 你还将获得学习技巧和简单的策略，帮助你更快、更有信心 🎧地提升英语水平]{g}
+
+  ---
+  - [En: Learn the phrases native speakers use 🗣️ Practice with us — shadowing, speaking, understanding 💡 Get clear advice for building fluency Perfect for pre-intermediate to advanced learners who want to go beyond grammar — and truly speak English with feeling.]{s}
+  - [Cn: 学习母语者常用 🗣️的短语 与我们一起练习——跟随学习、口语、理解 💡 获取清晰的流利度建设建议 非常适合想要超越语法的中高级学习者——并真正用感情表达英语。]{g}
+
+  ---
+  - [En: All rights reserved © Educational Video Productions.]{s}
+  - [Cn: 版权所有，版权所有©：教育视频制作公司。]{g}
+
+---
+### 1502. POC English·英语大剧场·播客
+**[POC English]{s}**
+* **[POC English | 4.13M subscribers | YTB](https://www.youtube.com/@POCEnglish/videos)**
+
+---
+**[POC English]{s}**
+* **[Home - POC English](https://pocenglish.com/)**
 
 ---
 ### 2000. Astral Curiosity | Exploring the universe
