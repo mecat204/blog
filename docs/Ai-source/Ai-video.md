@@ -3032,6 +3032,9 @@
     - [江湖，不是刀光剑影，而是人心，一场身不由己的相逢 | 026](https://v.douyin.com/A0TguiPRheo/)
     - [一别江海，各赴天涯 | 027](https://v.douyin.com/bLMyiEFWajE/)
     - [青梅竹马，剑舞风华 | 028](https://v.douyin.com/_YZ5OE2DxDY/)
+    - [逍遥往事 | 029](https://v.douyin.com/jV7OVXNwaKw/)
+    - [逍遥往事 | 030](https://v.douyin.com/DFGKdhlR1hA/)
+    - [旧剑承江湖，群英聚云台 | 031](https://v.douyin.com/Nk5NNvItboI/)
 
 ---
 ### 0138. 青羽
