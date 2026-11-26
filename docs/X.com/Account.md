@@ -295,7 +295,7 @@
   - [awesome-llm-books](https://github.com/Jason2Brownlee/awesome-llm-books)
   - [Codex-orange-book](https://github.com/bozhouDev/codex-orange-book)
   - [WhisperSubTranslate](https://github.com/Blue-B/WhisperSubTranslate)
-  - [tubi](http://gdpr.tubi.tv/)
+  - [tubi](https://gdpr.tubi.tv/)
   - [oil-oil, oil-motion](https://github.com/oil-oil/oil-motion)
 
 ---
@@ -350,7 +350,7 @@
 ---
 ### 0022. Chetan Ankola
 **[Chetan Ankola]{s}**
-* **[Chetan Ankola](http://x.com/chetanankola)**
+* **[Chetan Ankola](https://x.com/chetanankola)**
   - [Hiroshi’s Island — 3ditions](https://3ditions.drop3.app/watch/hiroshis-island/)
   - [Cankola Builds](https://cankolabuilds.com/)
   - [chetan Ankola](https://github.com/chetanankola)
@@ -475,7 +475,7 @@
 ---
 ### 0106. Lovis Odin
 **[Lovis Odin]{s}**
-* **[Lovis Odin | AI / Technical Artist / ComfyUI expert • Training models • Creating crazy workflow • Creative Engineer at http://fal.ai](https://x.com/OdinLovis)**
+* **[Lovis Odin | AI / Technical Artist / ComfyUI expert • Training models • Creating crazy workflow • Creative Engineer at https://fal.ai](https://x.com/OdinLovis)**
   - [Lovis Odin - interactive designer](https://lovis.io/)
   - [Heraclos, and the quest he never ever asked for](https://heraclosgame.com/)
 
@@ -516,7 +516,7 @@
 ---
 ### 0111. 琳小航
 **[琳小航]{s}**
-* **[琳小航 | X榜单创作者http://xbangdan.com, 专注分享AI Agent工作流｜AI 编程实战｜小白避坑教程 , 生财AI教练｜All in AI & 独立开发](http://xbangdan.com)**
+* **[琳小航 | X榜单创作者https://xbangdan.com, 专注分享AI Agent工作流｜AI 编程实战｜小白避坑教程 , 生财AI教练｜All in AI & 独立开发](https://xbangdan.com)**
 
 ---
 ### 0112. X榜单
@@ -664,380 +664,380 @@
 * **[Tech Logic | AI & Tech | Automation | Content Creator | Sharing AI Tools, Tech Tips & Industry Insights | Open for Paid Collabs | DM or Email: tech.logic568@gmail.com](https://x.com/The_techAI)**
 
 ---
-01. http://Claude.ai – Solve almost any problem
-02. http://Remove.bg – Remove backgrounds instantly
-03. http://Perplexity.ai – Research anything faster
-04. http://Suno.ai – Create music with AI
-05. http://Lovart.com – Design stunning graphics
-06. http://Voicebox.sh – Clone voices with AI
-07. http://NotebookLM.google – Turn information into smart notes
-08. http://Youmind.com – Summarize YouTube videos
-09. http://Runway.ml – Create and edit videos
-10. http://Descript.com – Edit podcasts like a pro
-11. http://Heygen.com – Create realistic AI avatar videos
+01. https://Claude.ai – Solve almost any problem
+02. https://Remove.bg – Remove backgrounds instantly
+03. https://Perplexity.ai – Research anything faster
+04. https://Suno.ai – Create music with AI
+05. https://Lovart.com – Design stunning graphics
+06. https://Voicebox.sh – Clone voices with AI
+07. https://NotebookLM.google – Turn information into smart notes
+08. https://Youmind.com – Summarize YouTube videos
+09. https://Runway.ml – Create and edit videos
+10. https://Descript.com – Edit podcasts like a pro
+11. https://Heygen.com – Create realistic AI avatar videos
 
 ---
-01. http://cs50.harvard.edu → Harvard's legendary computer course
-02. http://ocw.mit.edu → MIT's all course materials
-03. http://online.stanford.edu → Stanford free course archive
-04. http://oyc.yale.edu → Yale's open course recordings
-05. http://online.berkeley.edu → Berkeley open educational resources
-06. http://open.umich.edu → Michigan open course collection
-07. http://openlearning.mit.edu → MIT open learning platform
-08. http://open.edu/openlearn → Open University free courses
-09. http://ocw.tudelft.nl → Delft engineering courses
-10. http://coursera.org → Free viewing in audit mode
-11. http://edx.org → Courses from universities around the world
-12. http://futurelearn.com → Free short courses
-13. http://classcentral.com → Directory of all free courses
-14. http://saylor.org → Certified free university courses
-15. http://openstax.org → Free university course textbooks
-16. http://libretexts.org → Open access academic books
-17. http://oercommons.org → Open educational resources archive
-18. http://merlot.org → Teaching materials collection
-19. http://khanacademy.org → Math and science from scratch
-20. http://brilliant.org → Learning by solving problems
-21. http://3blue1brown.com → Visualizing mathematics
-22. http://betterexplained.com → Intuitive explanation of mathematics
-23. http://mathacademy.com → Adaptive math program
-24. http://paulsonlinemathnotes.com → Calculus course notes
-25. http://desmos.com → Drawing graphs live
-26. http://geogebra.org → Geometry and algebra tool
-27. http://wolframalpha.com → Step-by-step math solutions
-28. http://physicsclassroom.com → Grasping physics topics
-29. http://hyperphysics.phy-astr.gsu.edu → Physics concept map
-30. http://feynmanlectures.caltech.edu → Feynman's physics lectures
-31. http://chem.libretexts.org → Chemistry course library
-32. http://biointeractive.org → Biology visual resources
-33. http://learn.genetics.utah.edu → Genetics learning center
-34. http://neuroscientificallychallenged.com → Neuroscience basics
-35. http://plato.stanford.edu → Stanford philosophy encyclopedia
-36. http://iep.utm.edu → Internet philosophy encyclopedia
-37. http://philosophize.org → Philosophy introductory resources
-38. http://crashcourse.org → Accelerated courses on every topic
-39. http://ted.com/talks → Expert explanations
-40. http://bigthink.com → Ideas and science content
-41. http://aeon.co → In-depth essay articles
-42. http://quantamagazine.org → The best of science journalism
-43. http://nautil.us → Science and culture articles
-44. http://arxiv.org → Scientific paper preprints
-45. http://distill.pub → Visualizing machine learning
-46. http://fast.ai → Artificial intelligence starting from practice
-47. http://d2l.ai → Deep learning by coding
-48. http://nand2tetris.org → Building a computer from transistors
-49. http://teachyourselfcs.com → Computer science core curriculum
-50. http://roadmap.sh → Sequence and map of what to learn
+01. https://cs50.harvard.edu → Harvard's legendary computer course
+02. https://ocw.mit.edu → MIT's all course materials
+03. https://online.stanford.edu → Stanford free course archive
+04. https://oyc.yale.edu → Yale's open course recordings
+05. https://online.berkeley.edu → Berkeley open educational resources
+06. https://open.umich.edu → Michigan open course collection
+07. https://openlearning.mit.edu → MIT open learning platform
+08. https://open.edu/openlearn → Open University free courses
+09. https://ocw.tudelft.nl → Delft engineering courses
+10. https://coursera.org → Free viewing in audit mode
+11. https://edx.org → Courses from universities around the world
+12. https://futurelearn.com → Free short courses
+13. https://classcentral.com → Directory of all free courses
+14. https://saylor.org → Certified free university courses
+15. https://openstax.org → Free university course textbooks
+16. https://libretexts.org → Open access academic books
+17. https://oercommons.org → Open educational resources archive
+18. https://merlot.org → Teaching materials collection
+19. https://khanacademy.org → Math and science from scratch
+20. https://brilliant.org → Learning by solving problems
+21. https://3blue1brown.com → Visualizing mathematics
+22. https://betterexplained.com → Intuitive explanation of mathematics
+23. https://mathacademy.com → Adaptive math program
+24. https://paulsonlinemathnotes.com → Calculus course notes
+25. https://desmos.com → Drawing graphs live
+26. https://geogebra.org → Geometry and algebra tool
+27. https://wolframalpha.com → Step-by-step math solutions
+28. https://physicsclassroom.com → Grasping physics topics
+29. https://hyperphysics.phy-astr.gsu.edu → Physics concept map
+30. https://feynmanlectures.caltech.edu → Feynman's physics lectures
+31. https://chem.libretexts.org → Chemistry course library
+32. https://biointeractive.org → Biology visual resources
+33. https://learn.genetics.utah.edu → Genetics learning center
+34. https://neuroscientificallychallenged.com → Neuroscience basics
+35. https://plato.stanford.edu → Stanford philosophy encyclopedia
+36. https://iep.utm.edu → Internet philosophy encyclopedia
+37. https://philosophize.org → Philosophy introductory resources
+38. https://crashcourse.org → Accelerated courses on every topic
+39. https://ted.com/talks → Expert explanations
+40. https://bigthink.com → Ideas and science content
+41. https://aeon.co → In-depth essay articles
+42. https://quantamagazine.org → The best of science journalism
+43. https://nautil.us → Science and culture articles
+44. https://arxiv.org → Scientific paper preprints
+45. https://distill.pub → Visualizing machine learning
+46. https://fast.ai → Artificial intelligence starting from practice
+47. https://d2l.ai → Deep learning by coding
+48. https://nand2tetris.org → Building a computer from transistors
+49. https://teachyourselfcs.com → Computer science core curriculum
+50. https://roadmap.sh → Sequence and map of what to learn
 
 ---
-01. http://cs50.harvard.edu → Harvard's legendary computer course
-02. http://ocw.mit.edu → MIT's all course materials
-03. http://online.stanford.edu → Stanford free course archive
-04. http://oyc.yale.edu → Yale's open course recordings
-05. http://online.berkeley.edu → Berkeley open educational resources
-06. http://open.umich.edu → Michigan open course collection
-07. http://openlearning.mit.edu → MIT open learning platform
-08. http://open.edu/openlearn → Open University free courses
-09. http://ocw.tudelft.nl → Delft engineering courses
-10. http://coursera.org → Free viewing in audit mode
-11. http://edx.org → Courses from universities around the world
-12. http://futurelearn.com → Free short courses
-13. http://classcentral.com → Directory of all free courses
-14. http://saylor.org → Certified free university courses
-15. http://openstax.org → Free university course textbooks
-16. http://libretexts.org → Open access academic books
-17. http://oercommons.org → Open educational resources archive
-18. http://merlot.org → Teaching materials collection
-19. http://khanacademy.org → Math and science from scratch
-20. http://brilliant.org → Learning by solving problems
-21. http://3blue1brown.com → Visualizing mathematics
-22. http://betterexplained.com → Intuitive explanation of mathematics
-23. http://mathacademy.com → Adaptive math program
-24. http://paulsonlinemathnotes.com → Calculus course notes
-25. http://desmos.com → Drawing graphs live
-26. http://geogebra.org → Geometry and algebra tool
-27. http://wolframalpha.com → Step-by-step math solutions
-28. http://physicsclassroom.com → Grasping physics topics
-29. http://hyperphysics.phy-astr.gsu.edu → Physics concept map
-30. http://feynmanlectures.caltech.edu → Feynman's physics lectures
-31. http://chem.libretexts.org → Chemistry course library
-32. http://biointeractive.org → Biology visual resources
-33. http://learn.genetics.utah.edu → Genetics learning center
-34. http://neuroscientificallychallenged.com → Neuroscience basics
-35. http://plato.stanford.edu → Stanford philosophy encyclopedia
-36. http://iep.utm.edu → Internet philosophy encyclopedia
-37. http://philosophize.org → Philosophy introductory resources
-38. http://crashcourse.org → Accelerated courses on every topic
-39. http://ted.com/talks → Expert explanations
-40. http://bigthink.com → Ideas and science content
-41. http://aeon.co → In-depth essay articles
-42. http://quantamagazine.org → The best of science journalism
-43. http://nautil.us → Science and culture articles
-44. http://arxiv.org → Scientific paper preprints
-45. http://distill.pub → Visualizing machine learning
-46. http://fast.ai → Artificial intelligence starting from practice
-47. http://d2l.ai → Deep learning by coding
-48. http://nand2tetris.org → Building a computer from transistors
-49. http://teachyourselfcs.com → Computer science core curriculum
-50. http://roadmap.sh → Sequence and map of what to learn
+01. https://cs50.harvard.edu → Harvard's legendary computer course
+02. https://ocw.mit.edu → MIT's all course materials
+03. https://online.stanford.edu → Stanford free course archive
+04. https://oyc.yale.edu → Yale's open course recordings
+05. https://online.berkeley.edu → Berkeley open educational resources
+06. https://open.umich.edu → Michigan open course collection
+07. https://openlearning.mit.edu → MIT open learning platform
+08. https://open.edu/openlearn → Open University free courses
+09. https://ocw.tudelft.nl → Delft engineering courses
+10. https://coursera.org → Free viewing in audit mode
+11. https://edx.org → Courses from universities around the world
+12. https://futurelearn.com → Free short courses
+13. https://classcentral.com → Directory of all free courses
+14. https://saylor.org → Certified free university courses
+15. https://openstax.org → Free university course textbooks
+16. https://libretexts.org → Open access academic books
+17. https://oercommons.org → Open educational resources archive
+18. https://merlot.org → Teaching materials collection
+19. https://khanacademy.org → Math and science from scratch
+20. https://brilliant.org → Learning by solving problems
+21. https://3blue1brown.com → Visualizing mathematics
+22. https://betterexplained.com → Intuitive explanation of mathematics
+23. https://mathacademy.com → Adaptive math program
+24. https://paulsonlinemathnotes.com → Calculus course notes
+25. https://desmos.com → Drawing graphs live
+26. https://geogebra.org → Geometry and algebra tool
+27. https://wolframalpha.com → Step-by-step math solutions
+28. https://physicsclassroom.com → Grasping physics topics
+29. https://hyperphysics.phy-astr.gsu.edu → Physics concept map
+30. https://feynmanlectures.caltech.edu → Feynman's physics lectures
+31. https://chem.libretexts.org → Chemistry course library
+32. https://biointeractive.org → Biology visual resources
+33. https://learn.genetics.utah.edu → Genetics learning center
+34. https://neuroscientificallychallenged.com → Neuroscience basics
+35. https://plato.stanford.edu → Stanford philosophy encyclopedia
+36. https://iep.utm.edu → Internet philosophy encyclopedia
+37. https://philosophize.org → Philosophy introductory resources
+38. https://crashcourse.org → Accelerated courses on every topic
+39. https://ted.com/talks → Expert explanations
+40. https://bigthink.com → Ideas and science content
+41. https://aeon.co → In-depth essay articles
+42. https://quantamagazine.org → The best of science journalism
+43. https://nautil.us → Science and culture articles
+44. https://arxiv.org → Scientific paper preprints
+45. https://distill.pub → Visualizing machine learning
+46. https://fast.ai → Artificial intelligence starting from practice
+47. https://d2l.ai → Deep learning by coding
+48. https://nand2tetris.org → Building a computer from transistors
+49. https://teachyourselfcs.com → Computer science core curriculum
+50. https://roadmap.sh → Sequence and map of what to learn
 
 ---
-01. http://ChatGPT.com (write anything)
-02. http://Gamma.app (create presentations)
-03. http://Ideogram.ai (generate images with text)
-04. http://Leonardo.ai (create AI art)
-05. http://Elevenlabs.io (generate realistic voices)
-06. http://Pika.art (create AI videos)
-07. http://Krea.ai (generate stunning visuals)
-08. http://Napkin.ai (turn ideas into visuals)
-09. http://Cursor.com (code with AI)
-10. http://Lovable.dev (build websites with AI)
-11. http://Bolt.new (build apps with AI)
-12. http://Krisp.ai (remove background noise)
-13. http://Otter.ai (transcribe meetings)
-14. http://Recraft.ai (design vector graphics)
-15. http://Udio.com (create AI music)
-16. http://Photoroom.com (create product photos)
-17. http://Sora.com (generate AI videos)
-18. http://Suno.com (turn ideas into songs)
+01. https://ChatGPT.com (write anything)
+02. https://Gamma.app (create presentations)
+03. https://Ideogram.ai (generate images with text)
+04. https://Leonardo.ai (create AI art)
+05. https://Elevenlabs.io (generate realistic voices)
+06. https://Pika.art (create AI videos)
+07. https://Krea.ai (generate stunning visuals)
+08. https://Napkin.ai (turn ideas into visuals)
+09. https://Cursor.com (code with AI)
+10. https://Lovable.dev (build websites with AI)
+11. https://Bolt.new (build apps with AI)
+12. https://Krisp.ai (remove background noise)
+13. https://Otter.ai (transcribe meetings)
+14. https://Recraft.ai (design vector graphics)
+15. https://Udio.com (create AI music)
+16. https://Photoroom.com (create product photos)
+17. https://Sora.com (generate AI videos)
+18. https://Suno.com (turn ideas into songs)
 
 ---
-01. http://unpaywall.org — Free research papers
-02. http://openlibrary.org — Borrow books online
-03. http://doaj.org — Free academic journals
-04. http://alternativeto.net — App alternatives
-05. http://justwatch.com — Find where to stream
-06. http://archive.org — Internet archives
-07. http://gutenberg.org — 70K+ free books
-08. http://openstax.org — Free textbooks
-09. http://openculture.com — Free courses
-10. http://wolframalpha.com — Solve complex problems
-11. http://photopea.com — Photoshop alternative
-12. http://squoosh.app — Compress images
-13. http://remove.bg — Remove backgrounds
-14. http://cleanup.pictures — Remove objects
-15. http://unscreen.com — Remove video backgrounds
-16. http://carbon.now.sh — Beautiful code images
-17. http://ray.so — Code screenshots
-18. http://shots.so — Product mockups
-19. http://smartmockups.com — Create mockups
-20. http://haveibeenpwned.com — Check data breaches
-21. http://virustotal.com — Scan files & URLs
-22. http://privnote.com — Self-destructing notes
-23. http://temp-mail.org — Temporary email
-24. http://file.io — Temporary file sharing
-25. http://archive.ph — Save webpages
-26. http://similarsites.com — Find similar websites
-27. http://radio.garden — Explore global radio
-28. http://everynoise.com — Discover music genres
-29. http://tunefind.com — Find songs from shows
-30. http://musicforprogramming.net — Focus music
-31. http://mynoise.net — Custom background sounds
-32. http://coffitivity.com — Café ambience
-33. http://elicit.org — Research assistant
-34. http://consensus.app — Research-backed answers
-35. http://connectedpapers.com — Research connections
-36. http://semanticscholar.org — Academic search
-37. http://scispace.com — Understand research papers
-38. http://summarize.tech — YouTube summaries
-39. http://phind.com — AI for developers
-40. http://regex101.com — Test regex
-41. http://codebeautify.org — Format code
-42. http://jsonformatter.org — Format JSON
-43. http://explainshell.com — Understand terminal commands
-44. http://raindrop.io — Bookmark manager
-45. http://downdetector.com — Check outages
-46. http://tineye.com — Reverse image search
-47. http://fast.com — Internet speed test
-48. http://smallpdf.com — PDF tools
-49. http://ilovepdf.com — Merge/split PDFs
-50. http://10minutemail.com — Temporary email
+01. https://unpaywall.org — Free research papers
+02. https://openlibrary.org — Borrow books online
+03. https://doaj.org — Free academic journals
+04. https://alternativeto.net — App alternatives
+05. https://justwatch.com — Find where to stream
+06. https://archive.org — Internet archives
+07. https://gutenberg.org — 70K+ free books
+08. https://openstax.org — Free textbooks
+09. https://openculture.com — Free courses
+10. https://wolframalpha.com — Solve complex problems
+11. https://photopea.com — Photoshop alternative
+12. https://squoosh.app — Compress images
+13. https://remove.bg — Remove backgrounds
+14. https://cleanup.pictures — Remove objects
+15. https://unscreen.com — Remove video backgrounds
+16. https://carbon.now.sh — Beautiful code images
+17. https://ray.so — Code screenshots
+18. https://shots.so — Product mockups
+19. https://smartmockups.com — Create mockups
+20. https://haveibeenpwned.com — Check data breaches
+21. https://virustotal.com — Scan files & URLs
+22. https://privnote.com — Self-destructing notes
+23. https://temp-mail.org — Temporary email
+24. https://file.io — Temporary file sharing
+25. https://archive.ph — Save webpages
+26. https://similarsites.com — Find similar websites
+27. https://radio.garden — Explore global radio
+28. https://everynoise.com — Discover music genres
+29. https://tunefind.com — Find songs from shows
+30. https://musicforprogramming.net — Focus music
+31. https://mynoise.net — Custom background sounds
+32. https://coffitivity.com — Café ambience
+33. https://elicit.org — Research assistant
+34. https://consensus.app — Research-backed answers
+35. https://connectedpapers.com — Research connections
+36. https://semanticscholar.org — Academic search
+37. https://scispace.com — Understand research papers
+38. https://summarize.tech — YouTube summaries
+39. https://phind.com — AI for developers
+40. https://regex101.com — Test regex
+41. https://codebeautify.org — Format code
+42. https://jsonformatter.org — Format JSON
+43. https://explainshell.com — Understand terminal commands
+44. https://raindrop.io — Bookmark manager
+45. https://downdetector.com — Check outages
+46. https://tineye.com — Reverse image search
+47. https://fast.com — Internet speed test
+48. https://smallpdf.com — PDF tools
+49. https://ilovepdf.com — Merge/split PDFs
+50. https://10minutemail.com — Temporary email
 
 ---
-01. http://unpaywall.org — free research papers
-02. http://sci-hub.se — papers when unpaywall misses
-03. http://openlibrary.org — borrow books
-04. http://gutenberg.org — 70k+ free books
-05. http://coursera.org — audit university courses free
-06. http://wolframalpha.com — step-by-step math
-07. http://remove.bg — background removal
-08. http://cleanup.pictures — object removal
-09. http://tinywow.com — quick file tools
-10. http://ilovepdf.com — PDF merge/split
-11. http://photopea.com — free Photoshop alternative
-12. http://squoosh.app — image compression
-13. http://excalidraw.com — fast diagrams
-14. http://carbon.now.sh — beautiful code screenshots
-15. http://regex101.com — test regex
-16. http://jsonformatter.org — clean JSON
-17. http://explainshell.com — terminal commands explained
-18. http://alternativeto.net — software alternatives
-19. http://haveibeenpwned.com — breach check
-20. http://10minutemail.com — temp email
-21. http://privnote.com — self-destruct notes
-22. http://radio.garden — live global radio
-23. http://endel.io — focus sound
-24. http://mynoise.net — custom ambient
-25. http://justwatch.com — where to stream
-26. http://archive.org — digital library
-27. http://web.archive.org — old web pages
-28. http://similarweb.com — site traffic
+01. https://unpaywall.org — free research papers
+02. https://sci-hub.se — papers when unpaywall misses
+03. https://openlibrary.org — borrow books
+04. https://gutenberg.org — 70k+ free books
+05. https://coursera.org — audit university courses free
+06. https://wolframalpha.com — step-by-step math
+07. https://remove.bg — background removal
+08. https://cleanup.pictures — object removal
+09. https://tinywow.com — quick file tools
+10. https://ilovepdf.com — PDF merge/split
+11. https://photopea.com — free Photoshop alternative
+12. https://squoosh.app — image compression
+13. https://excalidraw.com — fast diagrams
+14. https://carbon.now.sh — beautiful code screenshots
+15. https://regex101.com — test regex
+16. https://jsonformatter.org — clean JSON
+17. https://explainshell.com — terminal commands explained
+18. https://alternativeto.net — software alternatives
+19. https://haveibeenpwned.com — breach check
+20. https://10minutemail.com — temp email
+21. https://privnote.com — self-destruct notes
+22. https://radio.garden — live global radio
+23. https://endel.io — focus sound
+24. https://mynoise.net — custom ambient
+25. https://justwatch.com — where to stream
+26. https://archive.org — digital library
+27. https://web.archive.org — old web pages
+28. https://similarweb.com — site traffic
 29. downtimerobot — uptime check
-30. http://pagespeed.web.dev — speed test
-31. http://tinypng.com — compress images
-32. http://cloudconvert.com — file conversion
-33. http://diffchecker.com — compare text
-34. http://temp-mail.org — disposable inbox
-35. http://obfuscator.io — JS obfuscate
-36. http://keybr.com — typing practice
-37. http://monkeytype.com — typing test
-38. http://ankiweb.net — spaced repetition
-39. http://notion.so — all-in-one notes
+30. https://pagespeed.web.dev — speed test
+31. https://tinypng.com — compress images
+32. https://cloudconvert.com — file conversion
+33. https://diffchecker.com — compare text
+34. https://temp-mail.org — disposable inbox
+35. https://obfuscator.io — JS obfuscate
+36. https://keybr.com — typing practice
+37. https://monkeytype.com — typing test
+38. https://ankiweb.net — spaced repetition
+39. https://notion.so — all-in-one notes
 40. obsidian.md — local knowledge base
-41. http://raindrop.io — bookmark manager
-42. http://todoist.com — task list
-43. http://trello.com — boards
-44. http://miro.com — whiteboard
-45. http://figma.com — design
-46. http://canva.com — quick graphics
-47. http://remove.bg — again because it's that good
+41. https://raindrop.io — bookmark manager
+42. https://todoist.com — task list
+43. https://trello.com — boards
+44. https://miro.com — whiteboard
+45. https://figma.com — design
+46. https://canva.com — quick graphics
+47. https://remove.bg — again because it's that good
 48. yt-dlp — video download (open source)
-49. http://handbrake.fr — video compress
-50. http://localsend.org — local file transfer
+49. https://handbrake.fr — video compress
+50. https://localsend.org — local file transfer
 
 ---
-01. http://window-swap.com — Look out the window of a random person
-02. http://stellarium-web.org — Real sky map in your browser
-03. http://thetruesize.com — Compare the true sizes of countries
-04. http://neal.fun — Interactive knowledge experiences
-05. http://zoom.earth  — Watch the world via live satellite imagery
-06. http://objecttracer.com — Explore the solar system in 3D
-07. http://radiooooo.com — Pick a country and decade to listen to that era
-08. http://flightradar24.com — See every plane currently in the sky
-09. http://spaceengine.org — Explore a 1:1 scale virtual universe simulator using real data to fly across galaxies and land on exoplanets.
-10. http://windy.com — Live map of winds and storms
-11. http://submarinecablemap.com — Ocean cables carrying the internet
-12. http://internetlivestats.com — Current number of tweets and searches being posted
-13. http://oldmapsonline.org — Maps from centuries ago
-14. http://openstreetmap.org — World map drawn by volunteers
-15. http://virtualvacation.us — Virtual walks through cities
-16. http://mapcrunch.com — Teleport to a random spot on Earth
-17. http://ncase.me — A beautifully designed, interactive game that breaks down game theory, psychology, and why people choose to cooperate or cheat.
-18. http://images.nasa.gov — NASA's entire visual archive, free
-19. http://gapminder.org — What we mistakenly think we know about the world
-20. http://data.worldbank.org — World Bank's open data
-21. http://archive.org — Archive of millions of books, films, and software
-22. http://gutenberg.org — 70,000 free books whose copyrights have expired
-23. http://openlibrary.org — Record of every book in the world
-24. http://loc.gov — U.S. Library of Congress digital archive
-25. http://dp.la — America's digital library collection
-26. http://artsandculture.google.com — Tour museums from home
-27. http://wikiart.org — Archive of 250,000 artworks
-28. http://metmuseum.org — Met Museum's open collection
-29. http://everynoise.com —  A massive, scattered map of every musical sub genre in existence clicking any genre plays a sound sample, taking you down endless musical pathways.
+01. https://window-swap.com — Look out the window of a random person
+02. https://stellarium-web.org — Real sky map in your browser
+03. https://thetruesize.com — Compare the true sizes of countries
+04. https://neal.fun — Interactive knowledge experiences
+05. https://zoom.earth  — Watch the world via live satellite imagery
+06. https://objecttracer.com — Explore the solar system in 3D
+07. https://radiooooo.com — Pick a country and decade to listen to that era
+08. https://flightradar24.com — See every plane currently in the sky
+09. https://spaceengine.org — Explore a 1:1 scale virtual universe simulator using real data to fly across galaxies and land on exoplanets.
+10. https://windy.com — Live map of winds and storms
+11. https://submarinecablemap.com — Ocean cables carrying the internet
+12. https://internetlivestats.com — Current number of tweets and searches being posted
+13. https://oldmapsonline.org — Maps from centuries ago
+14. https://openstreetmap.org — World map drawn by volunteers
+15. https://virtualvacation.us — Virtual walks through cities
+16. https://mapcrunch.com — Teleport to a random spot on Earth
+17. https://ncase.me — A beautifully designed, interactive game that breaks down game theory, psychology, and why people choose to cooperate or cheat.
+18. https://images.nasa.gov — NASA's entire visual archive, free
+19. https://gapminder.org — What we mistakenly think we know about the world
+20. https://data.worldbank.org — World Bank's open data
+21. https://archive.org — Archive of millions of books, films, and software
+22. https://gutenberg.org — 70,000 free books whose copyrights have expired
+23. https://openlibrary.org — Record of every book in the world
+24. https://loc.gov — U.S. Library of Congress digital archive
+25. https://dp.la — America's digital library collection
+26. https://artsandculture.google.com — Tour museums from home
+27. https://wikiart.org — Archive of 250,000 artworks
+28. https://metmuseum.org — Met Museum's open collection
+29. https://everynoise.com —  A massive, scattered map of every musical sub genre in existence clicking any genre plays a sound sample, taking you down endless musical pathways.
 
 ---
-01. http://unpaywall.org — Free research papers
-02. http://openlibrary.org — Borrow books online
-03. http://doaj.org — Free academic journals
-04. http://alternativeto.net — App alternatives
-05. http://justwatch.com — Find where to stream
-06. http://archive.org — Internet archives
-07. http://gutenberg.org — 70K+ free books
-08. http://openstax.org — Free textbooks
-09. http://openculture.com — Free courses
-10. http://wolframalpha.com — Solve complex problems
-11. http://photopea.com — Photoshop alternative
-12. http://squoosh.app — Compress images
-13. http://remove.bg — Remove backgrounds
-14. http://cleanup.pictures — Remove objects
-15. http://unscreen.com — Remove video backgrounds
-16. http://carbon.now.sh — Beautiful code images
-17. http://ray.so — Code screenshots
-18. http://shots.so — Product mockups
-19. http://smartmockups.com — Create mockups
-20. http://haveibeenpwned.com — Check data breaches
-21. http://virustotal.com — Scan files & URLs
-22. http://privnote.com — Self-destructing notes
-23. http://temp-mail.org — Temporary email
-24. http://file.io — Temporary file sharing
-25. http://archive.ph — Save webpages
-26. http://similarsites.com — Find similar websites
-27. http://radio.garden — Explore global radio
-28. http://everynoise.com — Discover music genres
-29. http://tunefind.com — Find songs from shows
-30. http://musicforprogramming.net — Focus music
-31. http://mynoise.net — Custom background sounds
-32. http://coffitivity.com — Café ambience
-33. http://elicit.org — Research assistant
-34. http://consensus.app — Research-backed answers
-35. http://connectedpapers.com — Research connections
-36. http://semanticscholar.org — Academic search
-37. http://scispace.com — Understand research papers
-38. http://summarize.tech — YouTube summaries
-39. http://phind.com — AI for developers
-40. http://regex101.com — Test regex
-41. http://codebeautify.org — Format code
-42. http://jsonformatter.org — Format JSON
-43. http://explainshell.com — Understand terminal commands
-44. http://raindrop.io — Bookmark manager
-45. http://downdetector.com — Check outages
-46. http://tineye.com — Reverse image search
-47. http://fast.com — Internet speed test
-48. http://smallpdf.com — PDF tools
-49. http://ilovepdf.com — Merge/split PDFs
-50. http://10minutemail.com — Temporary email
+01. https://unpaywall.org — Free research papers
+02. https://openlibrary.org — Borrow books online
+03. https://doaj.org — Free academic journals
+04. https://alternativeto.net — App alternatives
+05. https://justwatch.com — Find where to stream
+06. https://archive.org — Internet archives
+07. https://gutenberg.org — 70K+ free books
+08. https://openstax.org — Free textbooks
+09. https://openculture.com — Free courses
+10. https://wolframalpha.com — Solve complex problems
+11. https://photopea.com — Photoshop alternative
+12. https://squoosh.app — Compress images
+13. https://remove.bg — Remove backgrounds
+14. https://cleanup.pictures — Remove objects
+15. https://unscreen.com — Remove video backgrounds
+16. https://carbon.now.sh — Beautiful code images
+17. https://ray.so — Code screenshots
+18. https://shots.so — Product mockups
+19. https://smartmockups.com — Create mockups
+20. https://haveibeenpwned.com — Check data breaches
+21. https://virustotal.com — Scan files & URLs
+22. https://privnote.com — Self-destructing notes
+23. https://temp-mail.org — Temporary email
+24. https://file.io — Temporary file sharing
+25. https://archive.ph — Save webpages
+26. https://similarsites.com — Find similar websites
+27. https://radio.garden — Explore global radio
+28. https://everynoise.com — Discover music genres
+29. https://tunefind.com — Find songs from shows
+30. https://musicforprogramming.net — Focus music
+31. https://mynoise.net — Custom background sounds
+32. https://coffitivity.com — Café ambience
+33. https://elicit.org — Research assistant
+34. https://consensus.app — Research-backed answers
+35. https://connectedpapers.com — Research connections
+36. https://semanticscholar.org — Academic search
+37. https://scispace.com — Understand research papers
+38. https://summarize.tech — YouTube summaries
+39. https://phind.com — AI for developers
+40. https://regex101.com — Test regex
+41. https://codebeautify.org — Format code
+42. https://jsonformatter.org — Format JSON
+43. https://explainshell.com — Understand terminal commands
+44. https://raindrop.io — Bookmark manager
+45. https://downdetector.com — Check outages
+46. https://tineye.com — Reverse image search
+47. https://fast.com — Internet speed test
+48. https://smallpdf.com — PDF tools
+49. https://ilovepdf.com — Merge/split PDFs
+50. https://10minutemail.com — Temporary email
 
 ---
-01. http://zoom.earth  — Watch the world via live satellite imagery
-02. http://flightradar24.com — See every plane currently in the sky
-03. http://marinetraffic.com — Track all ships at sea in real time
-04. http://windy.com — Live map of winds and storms
-05. http://lightningmaps.org — Watch lightning strikes hitting Earth in real time
-06. http://earthquake.usgs.gov — Live list of recent earthquakes
-07. http://submarinecablemap.com — Ocean cables carrying the internet
-08. http://globalforestwatch.org — Watch forests disappear from space
-09. http://worldometers.info — The world's statistics, second by second
-10. http://internetlivestats.com — Current number of tweets and searches being posted
-11. http://thetruesize.com — Compare the true sizes of countries
-12. http://oldmapsonline.org — Maps from centuries ago
-13. http://davidrumsey.com — Archive of 150,000 historical maps
-14. http://openstreetmap.org — World map drawn by volunteers
-15. http://window-swap.com — Look out the window of a random person around the world
-16. http://virtualvacation.us — Virtual walks through cities
-17. http://mapcrunch.com — Teleport to a random spot on Earth
-18. http://atlasobscura.com — Catalog of the world's strangest places
-19. http://neal.fun — Interactive knowledge experiences
-20. http://htwins.net/scale2 — Scale journey from atom to universe (Updated HTML5 link)
-21. http://eyes.nasa.gov — Explore the solar system in 3D
-22. http://stellarium-web.org — Real sky map in your browser
-23. http://apod.nasa.gov — NASA's astronomy picture of the day
-24. http://images.nasa.gov — NASA's entire visual archive, free
-25. http://pudding.cool — Visual articles told through data
-26. http://ourworldindata.org — The state of the world with real data
-27. http://gapminder.org — What we mistakenly think we know about the world
-28. http://informationisbeautiful.net — Visualizing complex data
-29. http://data.worldbank.org — World Bank's open data
-30. http://data.tuik.gov.tr — Turkey's official statistics database
-31. http://archive.org — Archive of millions of books, films, and software
-32. http://gutenberg.org — 70,000 free books whose copyrights have expired
-33. http://openlibrary.org — Record of every book in the world
-34. http://loc.gov — U.S. Library of Congress digital archive
-35. http://europeana.eu — Europe's cultural heritage archive
-36. http://dp.la — America's digital library collection
-37. http://artsandculture.google.com — Tour museums from home
-38. http://rijksmuseum.nl — Download artworks in high resolution
-39. http://wikiart.org — Archive of 250,000 artworks
-40. http://publicdomainreview.org — Forgotten visual treasures of history
-41. http://openculture.com — Free archive of culture and education
-42. http://metmuseum.org — Met Museum's open collection
-43. http://musicmap.info — Family tree of music genres
-44. http://radiooooo.com — Pick a country and decade to listen to that era
-45. http://listen.hatnote.com — Turn Wikipedia edits into audio
-46. http://wikipedia.org — Random knowledge well
-47. http://timeanddate.com — Time, sunrises, and sky events
-48. http://sciencedaily.com — Live stream of science news
-49. http://arxiv.org — Free preprints of scientific papers
-50. http://observablehq.com — Visualize data with live code
+01. https://zoom.earth  — Watch the world via live satellite imagery
+02. https://flightradar24.com — See every plane currently in the sky
+03. https://marinetraffic.com — Track all ships at sea in real time
+04. https://windy.com — Live map of winds and storms
+05. https://lightningmaps.org — Watch lightning strikes hitting Earth in real time
+06. https://earthquake.usgs.gov — Live list of recent earthquakes
+07. https://submarinecablemap.com — Ocean cables carrying the internet
+08. https://globalforestwatch.org — Watch forests disappear from space
+09. https://worldometers.info — The world's statistics, second by second
+10. https://internetlivestats.com — Current number of tweets and searches being posted
+11. https://thetruesize.com — Compare the true sizes of countries
+12. https://oldmapsonline.org — Maps from centuries ago
+13. https://davidrumsey.com — Archive of 150,000 historical maps
+14. https://openstreetmap.org — World map drawn by volunteers
+15. https://window-swap.com — Look out the window of a random person around the world
+16. https://virtualvacation.us — Virtual walks through cities
+17. https://mapcrunch.com — Teleport to a random spot on Earth
+18. https://atlasobscura.com — Catalog of the world's strangest places
+19. https://neal.fun — Interactive knowledge experiences
+20. https://htwins.net/scale2 — Scale journey from atom to universe (Updated HTML5 link)
+21. https://eyes.nasa.gov — Explore the solar system in 3D
+22. https://stellarium-web.org — Real sky map in your browser
+23. https://apod.nasa.gov — NASA's astronomy picture of the day
+24. https://images.nasa.gov — NASA's entire visual archive, free
+25. https://pudding.cool — Visual articles told through data
+26. https://ourworldindata.org — The state of the world with real data
+27. https://gapminder.org — What we mistakenly think we know about the world
+28. https://informationisbeautiful.net — Visualizing complex data
+29. https://data.worldbank.org — World Bank's open data
+30. https://data.tuik.gov.tr — Turkey's official statistics database
+31. https://archive.org — Archive of millions of books, films, and software
+32. https://gutenberg.org — 70,000 free books whose copyrights have expired
+33. https://openlibrary.org — Record of every book in the world
+34. https://loc.gov — U.S. Library of Congress digital archive
+35. https://europeana.eu — Europe's cultural heritage archive
+36. https://dp.la — America's digital library collection
+37. https://artsandculture.google.com — Tour museums from home
+38. https://rijksmuseum.nl — Download artworks in high resolution
+39. https://wikiart.org — Archive of 250,000 artworks
+40. https://publicdomainreview.org — Forgotten visual treasures of history
+41. https://openculture.com — Free archive of culture and education
+42. https://metmuseum.org — Met Museum's open collection
+43. https://musicmap.info — Family tree of music genres
+44. https://radiooooo.com — Pick a country and decade to listen to that era
+45. https://listen.hatnote.com — Turn Wikipedia edits into audio
+46. https://wikipedia.org — Random knowledge well
+47. https://timeanddate.com — Time, sunrises, and sky events
+48. https://sciencedaily.com — Live stream of science news
+49. https://arxiv.org — Free preprints of scientific papers
+50. https://observablehq.com — Visualize data with live code
 
 ---
 ### 3000. 熟韻美
