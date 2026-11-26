@@ -5,25 +5,30 @@
   - [zz-library | proxy](https://zh.z-library.sk/)
 
 ---
-**[Anna’s Archive | 安娜的档案]{s}**
-* **[Anna’s Archive | 安娜的档案](https://monoskop.org/Anna%27s_Archive)**
+**[zlib]{s}**
+* **[heartleo, zlib](https://github.com/heartleo/zlib)**
+  - [zlib: a Z-Library CLI for your terminal and AI agents](https://zlib.heartleo.dev/)
+
+---
+**[Anna’s Archive·安娜的档案]{s}**
+* **[Anna’s Archive·安娜的档案](https://monoskop.org/Anna%27s_Archive)**
   - [annas-archive.gl](https://annas-archive.gl/)
   - [annas-archive.gd](https://annas-archive.gd/)
   - [annas-archive.pk](https://annas-archive.pk/)
   - [Anna’s Archive](https://annas-archive.gd/scidb)
   - [annas-archive.gd/datasets](https://annas-archive.gd/datasets)
 
-  - **[blog.520233 | 非鱼的回响笔记](https://blog.520233.best/)**
+  - **[blog.520233·非鱼的回响笔记](https://blog.520233.best/)**
     * [	中国哲学书电子化计划](https://ctext.org/help-us/zhs)
     * [道德经](https://www.shidianguji.com/book/SBCK106/chapter/SBCK106_4?page_from=searching_page&version=27)
   - [Anna’s Archive | Brave基地 | 个人或小团队创作的项目](https://brave2049.com/tool/an-na-de-dang-an/)
 
 ---
-**[读享不独享 - 海外华人的中文阅读网站]{s}**
-* **[读享不独享 - 海外华人的中文阅读网站](https://readershare.org/)**
+**[读享不独享·海外华人的中文阅读网站]{s}**
+* **[读享不独享·海外华人的中文阅读网站](https://readershare.org/)**
 
 ---
-**[雅书 - 免费PDF电子书下载网站]{s}**
+**[雅书·免费PDF电子书下载网站]{s}**
 * **[雅书](https://yabook.org/)**
 
 ---

@@ -592,6 +592,8 @@
   - [zwc456baby, my-tv-webview](https://github.com/zwc456baby/my-tv-webview)
   - [视觉AID - AI漫剧工作流引导者](https://www.aidstudio.com.cn/)
   - [WeduLab Teaching Toolkit](https://wedulab.com/)
+  - [heartleo, zlib](https://github.com/heartleo/zlib)
+    * [zlib: a Z-Library CLI for your terminal and AI agents](https://zlib.heartleo.dev/)
 
 ---
 ### 0021. 洛克船长
