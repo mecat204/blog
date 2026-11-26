@@ -221,6 +221,7 @@
 **[Andrej Karpathy]{s}**
 * **[Andrej Karpathy](https://x.com/karpathy)**
   - [HuckerTube](https://hackertube.org/)
+  - [usaciv — the United States as a strategy game](https://karpathy.ai/usaciv/)
 
 ---
 ### 0004. Codez | Content creator | AI researcher & builder | AI insights from 2030
@@ -502,6 +503,7 @@
   - [户外生存](https://backcountry-101.vercel.app/)
   - [Latency 延迟 &amp; 与 Throughput 吞吐量 · System Design](https://designed-to-scale.vercel.app/)
   - [Algo Lab,算法实验室；算法研究室](https://byte-sized-algorithms.vercel.app/)
+  - [how-its-wired, 点亮一盏灯](https://how-its-wired.vercel.app/)
 
 ---
 ### 0109. Fei-Fei Li
