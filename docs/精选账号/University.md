@@ -121,8 +121,38 @@
 
   ---
   **[005. 英语博客]{g}**
-    - [分享4部私藏英文电影非常适合练习听力 | 006](https://v.douyin.com/H5uUlBzR-uc/)
+    - [英语播客｜我为什么选择了学中文 | Min: 14:28 | 001](https://v.douyin.com/eVntmysS31I/)
+
+    ---
+    - [别再追求“母语者口音”了，口音也是你的身份 | Min: 16:39 | 002](https://v.douyin.com/VgDcULt9zH4/)
+
+    ---
+    - [英语播客｜字幕到底是在帮你，还是害你？| Min: 15:31 | 003](https://v.douyin.com/8fZqJoHQh-Q/)
+
+    ---
+    - [个美国小镇女孩，搬到北京后变成了什么样 | Min: 14:48 | 004](https://v.douyin.com/ZPHkEi88X8Y/)
+
+    ---
+    - [英语真的是…最容易学的语言吗 | Min: 12:31 | 005](https://v.douyin.com/8yawuBj1zWM/)
+
+    ---
+    - [分享4部私藏英文电影非常适合练习听力 | Min: 15:38 | 006](https://v.douyin.com/H5uUlBzR-uc/)
     - [ 1. 伯德小姐 2. 时光恋旅人 3. 春天不是读书天 4. 爱情抓马]{lb}
+
+    ---
+    - [别等英语完美了，才敢开口 | Min: 10:46 | 007](https://v.douyin.com/h0uJBTeiypo/)
+
+    ---
+    - [英语母语者真的都说得很快吗 | Min: 10:28 | 008](https://v.douyin.com/8fnW71s8x4w/)
+
+    ---
+    - [没有语言环境，怎么学好英语 | Min: 06:33 | 009](https://v.douyin.com/lritpu_-wF8/)
+
+    ---
+    - [3个小习惯，让你开始用英语思考 | Min: 05:33 | 010](https://v.douyin.com/UZjrSmVyhy0/)
+
+    ---
+    - [我这个宅女，居然爱上了独自旅行 | Min: 09:17 | 011](https://v.douyin.com/xSxLZpr8YXg/)
 
 ---
 ### 0005. Stanford·斯坦福大学

@@ -866,6 +866,16 @@
 
 ---
 ### 0028. Home | 家
+**[邀你赏景]{s}**
+* **[邀你赏景 |  只有同频的人才会喜欢这样的氛围 |  4k |  伍佰章 |  Douyin](https://v.douyin.com/1DiZbuQEpBY/)**
+  - [下雨天](https://v.douyin.com/KqNwEAIv8Ho/)
+  - [下雨天 |  生活美学 |  沉浸式体验](https://v.douyin.com/BEhj-g9laIg/)
+  - [这样的氛围你想和谁在一起 |  放松解压 |  下雨天](https://v.douyin.com/xH9Ug3nmiMY/)
+  - [没有哪个人能够抵挡住这种感觉吧 |  放松解压 |  治愈 |  住进风景里](https://v.douyin.com/pX1W5uMlMJw/)
+  - [下雨天 |  享受安静和独处](https://v.douyin.com/IH24bpWwVwg/)
+  - [每一段无法继续的爱情，都有负责保存它的人，才能让另一个人安心往前](https://v.douyin.com/9xZUhTYi2GI/)
+
+---
 **[梦忧居]{s}**
 * **[梦忧居 | 佰章 | Douyin](https://v.douyin.com/HneY9gXvJQ8/)**
   - [温馨的小窝](https://v.douyin.com/xY5Y1KcwANg/)
@@ -928,9 +938,13 @@
   - [宋氏美学](https://v.douyin.com/mJGhiI1UC9w/)
 
 ---
-**[媛姐美景]{s}**
-* **[媛姐美景 | 按照大自然的规律，你该遇见我了。| 叁佰章 | Douyin](https://v.douyin.com/q1xSNYyXIsM/)**
+**[媛姐美景]{e}**
+* **[媛姐美景 | 按照大自然的规律，你该遇见我了。| 伍佰章 | Douyin](https://v.douyin.com/q1xSNYyXIsM/)**
   - [林中小屋](https://v.douyin.com/I4yKGk3KlR8/)
+  - [超大床 这是不是你们的梦中情床](https://v.douyin.com/XAzRAD2WjwY/)
+  - [超大公主床 这是不是你们的梦中情床](https://v.douyin.com/Vle27sim0P4/)
+  - [下雨天窝在这里 这是不是你们的梦中情床](https://v.douyin.com/Ct1lFGxdSos/)
+  - [这是不是你们的梦中情床 | 2026.11.26](https://v.douyin.com/gMSNbtHdlBw/)
 
 ---
 **[忘忧境]{s}**
@@ -2058,13 +2072,24 @@
 
 ---
 ### 0078. 青叶AI
-**[青叶AI]{s}**
-* **[青叶AI | AIGC界一枚凡人 追求影视质感，画面感 主修：武侠、国风、人文 | 佰章 | Douyin](青叶AI)**
+**[青叶AI]{e}**
+* **[青叶AI | AIGC界一枚凡人 追求影视质感，画面感 主修：武侠、国风、人文 | 佰章 | Douyin](https://v.douyin.com/9TGWwpnw_CA/)**
 
   ---
-  **[001. 武侠系列Ai]{g}**
-    - [倚天屠龙记名场面-《两两相忘》 以后相隔万里，咫尺天涯。| Min: 00: 59 | 005](https://v.douyin.com/j2vDnGgflOg/)
+  **[001.武侠影视]{g}**
+    - [飞雪连天射天鹿, 笑书神侠倚碧鸳]{lb}
+    - [武侠和雨 女性不只有柔美，还有英气和侠气。| Min: 00:30 | 001](https://v.douyin.com/LISAFrkJ-zE/)
+    - [画眉-倚天屠龙记名场面 周芷若，殷离，是不是大家想想的样子 | Min: 00:27 | 002](https://v.douyin.com/wyzEcuRmQ4I/)
+    - [新绿柳山庄 | Min: 00:42 | 004](https://v.douyin.com/SobA1ZoY0G4/)
+    - [女武侠-剑法体验 飒爽武侠，赵敏舞剑 | Min: 00:26 | 005](https://v.douyin.com/1qPjZpK8IXA/)
+    - [倚天屠龙记名场面-《两两相忘》 以后相隔万里，咫尺天涯。| Min: 00: 59 | 006](https://v.douyin.com/j2vDnGgflOg/)
     - [濠州大婚—倚天屠龙记名场面 濠州大婚前的黎明，张无忌、周芷若、赵敏会发生什么故事 | Min: 01:21 | 008 ](https://v.douyin.com/J2fC_K_wPvo/)
+    - [小昭，惊不惊喜 小昭从波斯归来 | 014](https://v.douyin.com/DQte3R6T_o8/)
+    - [小昭和张无忌-古镇一日游 倚天屠龙记 | 015](https://v.douyin.com/1MJ8xX_uXSQ/)
+    - [雪山之巅，双人舞剑 | 冲灵剑法 | 016](https://v.douyin.com/S3rWv7lVrRw/)
+    - [那时雨·剑舞 传统剑法与舞蹈结合-花树下剑光如练，搅碎晨雾与落英。| 017](https://v.douyin.com/CG93xe7uHMw/)
+    - [宿命感 古装里的宿命感，人欲静，而风不止 | 018](https://v.douyin.com/waF1CvnlNgw/)
+    - [长风寄一念，风掠江湖，一念遥遥 国风武侠AI短片这一块，还得用即梦~](https://v.douyin.com/-lYV79rhM6w/)
 
 ---
 ### 0079. 神虚AIGC
@@ -2154,10 +2179,15 @@
   - [一觉醒来有巨型猫咪送我去上班](https://v.douyin.com/p7viezo9xKI/)
 
 ---
-### 0087. 小杰瑞 · GenshinImpact
+### 0087. 小杰瑞·GenshinImpact
 **[小杰瑞]{s}**
 * **[小杰瑞 | 练习两月半从头记录原神之旅OvO | 仟章 | Douyin](https://v.douyin.com/GsAN0ctx7zw/)**
   - [当北方人到南方买菜](https://v.douyin.com/WAP1Y5rw64M/)
+
+  ---
+  **[001.雷神厨房]{g}**
+    - [水煮黑背鲈鱼＆望霄饼 | 逐月节 | 008](https://v.douyin.com/MBdj055mAIE/)
+    - [霜冻冰花汤 合家欢包饺子世界观 | 011](https://v.douyin.com/4ndKeBfYLV4/)
 
 ---
 ### 0088. 一梦潇然
@@ -3486,6 +3516,7 @@
 
   ---
   **[大人国Vlog]{s}**
+    - [生日 | Min: 06:18 | 012 ](https://v.douyin.com/m0UJG_saYNE/)
     - [入冬前的准备 | Min: 04:57 | 027](https://v.douyin.com/5QCEdDHuBcA/)
 
 ---
@@ -3581,6 +3612,24 @@
 **[赵小小嘿]{e}**
 * **[赵小小嘿 | AI生成跨次元治愈搞笑向影像！| 佰章 | Douyin](https://v.douyin.com/vBBMQpB7n5c/)**
   - [婉儿的心魔](https://v.douyin.com/AZ95A74DGdI/)
+
+---
+### 0190. 未星人
+**[未星人]{e}**
+* **[未星人 | 未来的生活 真实的写照](https://v.douyin.com/XLD-c2-Uyz4/)**
+  - [当科技发展到这一天 我们是否还记得独立思考 | Min: 01:29 | 2026.11.26.001](https://v.douyin.com/Uu9nQnPb2p8/)
+
+---
+### 0191. 舒婉儿
+**[舒婉儿]{e}**
+* **[舒婉儿 | 本人形象已经通过官方扫脸认证 | 伍佰章 | Douyin](https://v.douyin.com/Gx3Xi4l4vmM/)**
+  - [古风玄幻人设](https://v.douyin.com/ZAfxeyfmy1c/)
+
+---
+### 0192. 梦幻西游烟火
+**[梦幻西游烟火]{s}**
+* **[梦幻西游烟火 | 既是梦幻西游攻略博主，也是AI新人创作者 | 伍佰章 | Douyin](https://v.douyin.com/VMo5jXc3y9c/)**
+  - [假如你说的话都会成真...是一种什么体验](https://v.douyin.com/81r_iBvhpdw/)
 
 ---
 ### 0200. 瑶光

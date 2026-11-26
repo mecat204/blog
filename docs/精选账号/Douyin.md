@@ -723,9 +723,10 @@
   - ["渡人，渡己" | 摄影 | 胶片 | 拍出电影感](https://v.douyin.com/c62IgYUdKRk/)
 
 ---
-**[和平猫猫¹²¹⁴]{s}**
+**[和平猫猫¹²¹⁴]{e}**
 * **[和平猫猫¹²¹⁴ | 佰章 | Douyin](https://v.douyin.com/BcAaclPxPA4/)**
   - [原来只有男生才能get到这种...你有没有可乐喝](https://v.douyin.com/BozWiRGiQqE/)
+  - [想给她个惊喜的... | 2026.11.25](https://v.douyin.com/DL-lahd1iFo/)
 
 ---
 **[九才小白]{e}**
@@ -892,6 +893,7 @@
 * **[我也不知道 | 不要质疑我的年龄，字字属实 | 佰章 | Douyin](https://v.douyin.com/jwjulsjP27M/)**
   - [平时“这个冬天我一定穿的像个人”，一到周末“精致不了一点”，哪件暖和穿哪件，4年前的阿迪现在还很行👍# 冬日穿搭分享](https://v.douyin.com/V9XilSXw2nM/)
   - [到底有谁在喜欢这种皱皱巴巴，老奶奶款式的中式棉袄？是我呀！一种难以言说的质朴感。| me: 一曲肝肠断, 天下何处觅知音。](https://v.douyin.com/VP0g0SJyN7U/)
+  - [越美丽的东西越暗藏危机，这漂亮小清新的花丛里不出意外，我洁白的鞋子踩到了](https://v.douyin.com/V0u3Z3t_sJU/)
 
 ---
 **[李所应当·励志]{e}**
@@ -1451,6 +1453,11 @@
 
 ---
 ### 0011. 直播
+**[二代三人一壶茶]{s}**
+* **[二代三人一壶茶](https://v.douyin.com/AIKfd4GV_Wg/)**
+  - [大家好，我正在参加湖北省村播妇联技能大比武预选联播](https://v.douyin.com/5GeCvgfwMqY/)
+
+---
 **[祁野·Ai]{s}**
 * **[祁野·Ai](https://v.douyin.com/lXzAEOVtHSw/)**
 

@@ -53,6 +53,12 @@
   - [没有现代科技，古人靠什么守住银票不被伪造](https://v.douyin.com/6voylqFlN1E/)
 
 ---
+### 0007. 安安海外视频精选
+**[安安海外视频精选]{s}**
+* **[安安海外视频精选 | 带你围观地球另一端的“精神状态” | 贰仟章 | Douyin](https://v.douyin.com/Tjbnbuz7JCI/)**
+  - [盘活不动的东西，用投影映射整活 | 0001](https://v.douyin.com/8Oct22iLwqA/)
+
+---
 ### 9999. Download
 **[dlpanda]{s}**
 * **[dlpanda](https://www.dlpanda.com)**

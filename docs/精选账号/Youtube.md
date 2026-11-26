@@ -5024,6 +5024,12 @@
 * **[Home - POC English](https://pocenglish.com/)**
 
 ---
+### 1504. 福禄咪学英语
+**[福禄咪学英语]{e}**
+* **[福禄咪学英语 | 🎥AI英语短剧｜沉浸式趣味学习英语｜磨耳朵｜每日跟读 | Douyin](https://v.douyin.com/exsZQ6mcKXE/)**
+  - [签证面试遇到了一个八卦签证官｜生活英语](https://v.douyin.com/pX3cNixH3DA/)
+
+---
 ### 2000. Astral Curiosity | Exploring the Universe
 **[Astral Curiosity]{s}**
 * **[Astral Curiosity | 46.5K subscribers | YTB](https://www.youtube.com/@astralcuriosity/videos)**
