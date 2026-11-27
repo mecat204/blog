@@ -230,8 +230,13 @@
 * **[全球气象数据 | earth :: a global map of wind, weather, and ocean conditions](https://earth.nullschool.net/)**
 
 ---
+**[国家地震科学数据中心]{s}**
+* **[国家地震科学数据中心](https://data.earthquake.cn/index.html)**
+
+---
 **[windy.com]{s}**
 * **[windy.com | proxy](https://windy.com)**
+
 
 ---
 ### 0026. ifixit·免费修理手册
