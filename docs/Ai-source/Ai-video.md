@@ -706,6 +706,7 @@
 * **[阿丸焖居 | 佰章 | Douyin](https://v.douyin.com/Th0JBhZ05Bo/)**
   - [假如你上一节十万人的音乐课 阿丸的十万人宿舍日常之音乐课篇](https://v.douyin.com/lHNNN3K44qQ/)
   - [你是选择财富自由，还是跟你的狗一起踏上猎魔之旅](https://v.douyin.com/XYAycE1Sg_c/)
+  - [假如你在十万人的宿舍租房 阿丸的十万人宿舍日常之租房篇](https://v.douyin.com/iYlv8bVpCBg/)
 
   ---
   **[001. 阿丸的十万人宿舍系列]{g}**
@@ -717,7 +718,7 @@
 ---
 ### 0021. 星晖小剧场 | 短剧合集 | 付费
 **[星晖小剧场 | 短剧合集]{s}**
-* **[星晖小剧场 | 短剧合集](https://v.douyin.com/nG2d6qsHk0c/)**
+* **[星晖小剧场 | 短剧合集 | 萬章 | Douyin](https://v.douyin.com/nG2d6qsHk0c/)**
 
 ---
 ### 0022. 幻境Lab | 彩绘AI
@@ -2084,12 +2085,26 @@
     - [女武侠-剑法体验 飒爽武侠，赵敏舞剑 | Min: 00:26 | 005](https://v.douyin.com/1qPjZpK8IXA/)
     - [倚天屠龙记名场面-《两两相忘》 以后相隔万里，咫尺天涯。| Min: 00: 59 | 006](https://v.douyin.com/j2vDnGgflOg/)
     - [濠州大婚—倚天屠龙记名场面 濠州大婚前的黎明，张无忌、周芷若、赵敏会发生什么故事 | Min: 01:21 | 008 ](https://v.douyin.com/J2fC_K_wPvo/)
+    - [倚天屠龙记名场面-剑伤张无忌 周芷若剑伤张无忌，师命难违，换作是你，会怎么办 | Min: 00:31 | 009](https://v.douyin.com/Cu9d62xz0DE/)
     - [小昭，惊不惊喜 小昭从波斯归来 | 014](https://v.douyin.com/DQte3R6T_o8/)
     - [小昭和张无忌-古镇一日游 倚天屠龙记 | 015](https://v.douyin.com/1MJ8xX_uXSQ/)
     - [雪山之巅，双人舞剑 | 冲灵剑法 | 016](https://v.douyin.com/S3rWv7lVrRw/)
     - [那时雨·剑舞 传统剑法与舞蹈结合-花树下剑光如练，搅碎晨雾与落英。| 017](https://v.douyin.com/CG93xe7uHMw/)
     - [宿命感 古装里的宿命感，人欲静，而风不止 | 018](https://v.douyin.com/waF1CvnlNgw/)
     - [长风寄一念，风掠江湖，一念遥遥 国风武侠AI短片这一块，还得用即梦~](https://v.douyin.com/-lYV79rhM6w/)
+
+  ---
+  **[002.近现代影视]{g}**
+    - [让他高攀不起 一句 "包办婚姻" 把她推开。 她只留下一句 "你别后悔"，转身远赴重洋，读书、立身、养自己。 多年后，她是上海滩说一不二的女银行家；努力把自己活成他高攀不起。| Min: 01:19 | 001](https://v.douyin.com/7VgdZOuH4Y4/)
+
+    ---
+    - [让他高攀不起 一句 "我们离婚吧" | Min: 02:51 | 002](https://v.douyin.com/-43wudX8zZg/)
+
+    ---
+    - [最美四月天 她不是谁的附属 —— 中国建筑史，是她自己的志向；新中国的轮廓，有她亲手画下的一笔。她还是诗人。 她懂爱，有自己的爱情。只是她心里装着的，从来都是整个中国。| Min: 02:02 | 003](https://v.douyin.com/wHUilaGAUO8/)
+
+    ---
+    - [她的力量 她用一根玫瑰枝，顶住了外交大臣的腰。 中国第一个女律师，4 岁拒裹脚，一生为女性争权。 梁祝没走通的路，她走到了光里。| 郑毓秀 | Min: 01:20 | 004](https://v.douyin.com/EE3TIvEI32Q/)
 
 ---
 ### 0079. 神虚AIGC
@@ -2749,6 +2764,9 @@
     ---
     - [急是一种很大的负能量，本质是不愿意接受事情需要时间 | Min: 02:07 | 051](https://v.douyin.com/nQTT6FWFdSY/)
 
+    ---
+    - [人生不是一场和别人的竞争 学会放过自己 | Min: 02:46 | 055](https://v.douyin.com/Iodan30JNZQ/)
+
 ---
 ### 0114. AI创可贴
 **[AI创可贴]{s}**
@@ -2857,7 +2875,7 @@
     - [不知道屏幕前第一次听过这首歌的人如今都过去多少年了 | 006](https://v.douyin.com/x3AADhCBxc4/)
 
   ---
-  **[002. 世人皆有武侠梦]{g}**
+  **[002.世人皆有武侠梦]{g}**
     - [世人皆有武侠梦](https://v.douyin.com/RaaXwURxlBA/)
     - [世人皆有武侠梦05](https://v.douyin.com/20v9Jmi4GRA/)
     - [世人皆有武侠梦06](https://v.douyin.com/_nujccIbzdU/)
@@ -2865,6 +2883,7 @@
     - [世人皆有武侠梦08](https://v.douyin.com/eJvUslFOWQ8/)
     - [世人皆有武侠梦09](https://v.douyin.com/opu1vIxhpso/)
     - [世人皆有武侠梦26](https://v.douyin.com/6BDVSVdYVm4/)
+    - [世人皆有武侠梦31](https://v.douyin.com/lONdgQLa0_Y/)
 
 ---
 ### 0120. 奇哥的视界
@@ -3508,6 +3527,8 @@
   **[001. GenshinImpact]{g}**
     - [撞车私了赔偿骗局 | 001](https://v.douyin.com/ueE1d2sIvC8/)
     - [误闯天家？至冬的天又黑了 | 002](https://v.douyin.com/uMFa7tjdUbg/)
+    - [大学生一个月生活费1500居然不够花 | 003](https://v.douyin.com/uBXnGHPOm0s/)
+    - [娶这样的女孩需要什么 | 芙芙 | 004](https://v.douyin.com/msgjTMtlGOw/)
 
 ---
 ### 0181. Aismr
@@ -3630,6 +3651,59 @@
 **[梦幻西游烟火]{s}**
 * **[梦幻西游烟火 | 既是梦幻西游攻略博主，也是AI新人创作者 | 伍佰章 | Douyin](https://v.douyin.com/VMo5jXc3y9c/)**
   - [假如你说的话都会成真...是一种什么体验](https://v.douyin.com/81r_iBvhpdw/)
+
+---
+### 0193. 白日筑梦Super
+**[白日筑梦Super]{s}**
+* **[白日筑梦Super | 你们的喜欢就是我的荣幸 | 佰章 | Douyin](https://v.douyin.com/X00G-25i7dk/)**
+
+  ---
+  **[发条公主的知识分享会]{s}**
+    - [一个班里两个人同一天生日，到底算不算巧| 001](https://v.douyin.com/8LpTpoyaVXA/)
+
+    ---
+    - [晒被子的太阳味，是螨虫烤焦的味道吗 | 016](https://v.douyin.com/_z5Vni_tsvE/)
+
+---
+### 0194. 纯水叮咚
+**[纯水叮咚]{s}**
+* **[纯水叮咚 | 主人：咚咚。胖橘：挠挠。 | 佰章 | Douyin](https://v.douyin.com/wQh34jPZWCE/)**
+
+  ---
+  **[001.城市套路深系列]{g}**
+    - [美女与猫的故事 | 020](https://v.douyin.com/xdVAFjrK3Xc/)
+
+---
+### 0195. 历史喵
+**[历史喵]{s}**
+* **[历史喵 | 佰章 | Douyin](https://v.douyin.com/WWHVhMBv4i0/)**
+
+  ---
+  **[001. 咸鱼郎君]{g}**
+    - [开局直接被绣球砸晕 | Min: 02:56 | 001](https://v.douyin.com/Smh5G4WBm8g/)
+    - [穿越的第一天，被绣球砸晕，意外多了一个娘子 | Min: 03:53 | 002](https://v.douyin.com/UNi1ZuUwec0/)
+
+---
+### 0196. AiGC 梧眠
+**[AiGC 梧眠]{s}**
+* **[AIGC梧眠｜武侠AI短片 | 佰章 | Douyin](https://v.douyin.com/0qtm6POemzs/)**
+  - [随行左右，共看云色，我俩天下第一好](https://v.douyin.com/IMg2jZNDHC0/)
+
+---
+### 0197. 柚叶知夏·GenshinImpact
+**[柚叶知夏]{s}**
+* **[柚叶知夏 | 更新甜甜的二创，感谢您的驻足呀 视频禁止搬运 | 佰章 | Douyin](https://v.douyin.com/bnuyCfPHrm8/)**
+  - [小鸽子减肥记](https://v.douyin.com/ZcB-KRJxyfo/)
+
+  ---
+  **[001. 贴贴日常]{g}**
+    - [哥伦比娅真是个大馋娅头 | 001](https://v.douyin.com/N08fGsW5Kks/)
+    - [哥伦比娅和桑多涅干嘛了 | 021](https://v.douyin.com/tJXhkP9Q888/)
+
+  ---
+  **[002. 治愈猫猫动画]{g}**
+    - [木偶猫和小鸽子一起摘苹果 | 001](https://v.douyin.com/D6lOxOeOdhg/)
+    - [小鸽子骑大鹅 | 034](https://v.douyin.com/MVQ9oxejxso/)
 
 ---
 ### 0200. 瑶光

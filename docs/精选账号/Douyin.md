@@ -788,6 +788,7 @@
   **[002. 爆笑神评论]{g}**
     - [简单的嘴臭，才有极致的享受！哈哈哈 | 001](https://v.douyin.com/JGBPmkswohY/)
     - [一点气都受不了，但..加钱可以 | 404](https://v.douyin.com/3DBUueRd-HQ/)
+    - [脸皮厚的小狗享受世界～哈哈哈哈 | 448](https://v.douyin.com/eRt6uZw09Uc/)
 
 ---
 **[暴躁虾剪]{s}**
@@ -872,6 +873,12 @@
 
 ---
 ### 0010. 2026
+**[小小丸子]{e}**
+* **[小小丸子 | 记录4岁女儿可爱日常 | 伍佰章 | Douyin](https://v.douyin.com/ALH3cRS3gJ4/)**
+  - [次吼完她又后悔又自责 明明我很爱她 却总是把最差脾气和情绪给了她](https://v.douyin.com/eXXKC-YsHr8/)
+  - [好久不见啦](https://v.douyin.com/_C42zQx9PBU/)
+
+---
 **[晴天（观自在）·道友]{e}**
 * **[晴天（观自在）|  懂所想 如所愿 有温度 · 修己利人 共鸣共勉 | 佰章 | Douyin](https://v.douyin.com/PrRmw4aJWtc/)**
   - [小事不断消耗你，便是在试探你的底线。| 2026.11.25](https://v.douyin.com/ttki9ayqK64/)

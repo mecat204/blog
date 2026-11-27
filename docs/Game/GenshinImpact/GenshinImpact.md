@@ -980,6 +980,7 @@
 ### 0100. 柚叶知夏
 **[柚叶知夏]{s}**
 * **[柚叶知夏 | 更新甜甜的二创，感谢您的驻足呀 视频禁止搬运 | 佰章 | Douyin](https://v.douyin.com/bnuyCfPHrm8/)**
+  - [小鸽子减肥记](https://v.douyin.com/ZcB-KRJxyfo/)
 
   ---
   **[001. 贴贴日常]{g}**
